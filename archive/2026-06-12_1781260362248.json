@@ -1,0 +1,279 @@
+{
+  "generated_at": "2026-06-12T10:32:02.853Z",
+  "total": 11,
+  "agencies": [
+    {
+      "id": "bbc",
+      "name_en": "BBC World",
+      "name_fa": "بی‌بی‌سی"
+    },
+    {
+      "id": "aljazeera",
+      "name_en": "Al Jazeera",
+      "name_fa": "الجزیره"
+    },
+    {
+      "id": "france24",
+      "name_en": "France 24",
+      "name_fa": "فرانس ۲۴"
+    },
+    {
+      "id": "reuters",
+      "name_en": "Reuters",
+      "name_fa": "رویترز"
+    },
+    {
+      "id": "dw",
+      "name_en": "DW",
+      "name_fa": "دویچه‌وله"
+    },
+    {
+      "id": "xinhua",
+      "name_en": "Xinhua",
+      "name_fa": "شینهوا"
+    },
+    {
+      "id": "rt",
+      "name_en": "RT",
+      "name_fa": "آر‌تی"
+    },
+    {
+      "id": "ap",
+      "name_en": "AP News",
+      "name_fa": "آسوشیتدپرس"
+    }
+  ],
+  "articles": [
+    {
+      "id": "aljazeera_0",
+      "agencyId": "aljazeera",
+      "title": "Iraq’s paramilitary groups say they will disarm. Will that ever happen?",
+      "title_fa": "گروه‌های شبه‌نظامی عراق می‌گویند خلع سلاح خواهند شد.",
+      "lead": "گروه‌های شبه‌نظامی قدرتمند شیعه در عراق اعلام کرده‌اند که خلع سلاح شده و در ساختار دولتی ادغام خواهند شد. مقتدی صدر، رهبر بانفوذ شیعه، از جمله کسانی است که بر این امر تاکید دارد.",
+      "category": "politics",
+      "region": "west_asia",
+      "sourceUrl": "",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      }
+    },
+    {
+      "id": "aljazeera_1",
+      "agencyId": "aljazeera",
+      "title": "Family mourn Indian sailor killed in US strike on oil tanker",
+      "title_fa": "خانواده ملوان هندی کشته شده در حمله آمریکا به نفتکش عزادارند.",
+      "lead": "همسر و خانواده یک ملوان هندی که در حمله آمریکا به یک نفتکش در سواحل عمان کشته شد، عزادار هستند. این حادثه در این هفته رخ داده و ابعاد منطقه‌ای دارد.",
+      "category": "military",
+      "region": "west_asia",
+      "sourceUrl": "",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      }
+    },
+    {
+      "id": "aljazeera_2",
+      "agencyId": "aljazeera",
+      "title": "‘Torture isn’t new to Palestinians’: How Israel learned from colonialism",
+      "title_fa": "«شکنجه برای فلسطینی‌ها چیز جدیدی نیست»: چگونه اسرائیل از استعمار آموخت",
+      "lead": "این خبر به ادعاهای شکنجه و خشونت جنسی علیه فلسطینی‌ها توسط اسرائیل می‌پردازد. گزارش ادعا می‌کند که اسرائیل این روش‌ها را از مدل‌های استعماری بریتانیا و فرانسه به ارث برده است.",
+      "category": "politics",
+      "region": "west_asia",
+      "sourceUrl": "",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 10,
+        "negative": 85
+      }
+    },
+    {
+      "id": "aljazeera_4",
+      "agencyId": "aljazeera",
+      "title": "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
+      "title_fa": "آیا «منطقه حائل» اسرائیل در خاک لبنان تلاشی برای تصاحب ذخایر گازی است؟",
+      "lead": "منطقه حائل اعلام شده توسط اسرائیل به آب‌های سرزمینی لبنان گسترش یافته است. این اقدام نگرانی‌هایی را در مورد تلاش بلندمدت اسرائیل برای تصاحب منابع گازی لبنان برانگیخته است.",
+      "category": "energy",
+      "region": "west_asia",
+      "sourceUrl": "",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    },
+    {
+      "id": "aljazeera_5",
+      "agencyId": "aljazeera",
+      "title": "Video: What Iran’s football fans think about the World Cup",
+      "title_fa": "ویدئو: نظر هواداران فوتبال ایران درباره جام جهانی",
+      "lead": "این گزارش به دیدگاه‌های هواداران فوتبال ایران درباره جام جهانی می‌پردازد. این موضوع به ویژه در شرایطی که میزبان جام جهانی با ایران درگیر جنگ است، مورد توجه قرار می‌گیرد.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      }
+    },
+    {
+      "id": "france24_8",
+      "agencyId": "france24",
+      "title": "France accuses Israel’s BlackCore of meddling in elections around the world",
+      "title_fa": "فرانسه شرکت اسرائیلی BlackCore را به دخالت در انتخابات سراسر جهان متهم کرد.",
+      "lead": "فرانسه شرکت اسرائیلی BlackCore را به دخالت در انتخابات محلی خود متهم کرده است. این شرکت همچنین مظنون به دخالت در انتخابات نیویورک سیتی نیز می‌باشد.",
+      "category": "politics",
+      "region": "west_asia",
+      "sourceUrl": "",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    },
+    {
+      "id": "france24_1",
+      "agencyId": "france24",
+      "title": "Trump touts imminent Iran deal as Tehran says no decision made",
+      "title_fa": "ترامپ از توافق قریب‌الوقوع با ایران خبر می‌دهد در حالی که تهران می‌گوید تصمیمی گرفته نشده است",
+      "lead": "رئیس‌جمهور دونالد ترامپ اعلام کرد که یک توافق با ایران ممکن است قریب‌الوقوع باشد و از یک «مصالحه بزرگ» برای پایان دادن به جنگ خبر داد. این در حالی است که تهران اظهار داشت هیچ تصمیمی در این خصوص گرفته نشده است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "N/A",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "france24_2",
+      "agencyId": "france24",
+      "title": "‘The future is peace’: An Israeli-Palestinian call for reconciliation",
+      "title_fa": "«آینده صلح است»: فراخوان اسرائیلی-فلسطینی برای آشتی",
+      "lead": "عزیز ابوساره فلسطینی و مائوز اینون اسرائیلی هستند؛ هر دو خانواده‌هایشان را در درگیری‌های بی‌پایان میان جوامعشان از دست داده‌اند. آن‌ها اکنون خواستار آشتی و صلح در منطقه هستند.",
+      "category": "politics",
+      "region": "west_asia",
+      "sourceUrl": "N/A",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      }
+    },
+    {
+      "id": "xinhua_4",
+      "agencyId": "xinhua",
+      "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
+      "title_fa": "درگیری فلسطینی‌ها با سربازان اسرائیلی پس از اعتراض به سفر پنس",
+      "lead": "فلسطینی‌ها پس از اعتراض به سفر معاون رئیس‌جمهور آمریکا، مایک پنس، به منطقه با سربازان اسرائیلی درگیر شدند. این درگیری‌ها نشان‌دهنده تنش‌های مداوم در اراضی اشغالی است.",
+      "category": "military",
+      "region": "west_asia",
+      "sourceUrl": "N/A",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    },
+    {
+      "id": "ap_3",
+      "agencyId": "ap",
+      "title": "Trump Says Peace Deal with Iran Will Be Announced 'Soon,' Cancels Further Strikes",
+      "title_fa": "ترامپ: توافق صلح با ایران «به زودی» اعلام خواهد شد، حملات بیشتر لغو شد",
+      "lead": "پرزیدنت ترامپ اعلام کرده است که توافق صلح با ایران «به زودی» اعلام خواهد شد و دستور لغو حملات بیشتر را صادر کرده است. این اظهارات در حالی مطرح می‌شود که پیش از این، ترامپ لحن تندی علیه ایران به کار برده بود.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "N/A",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      }
+    },
+    {
+      "id": "ap_7",
+      "agencyId": "ap",
+      "title": "U.S. Launches Second Day of Air Strikes on Iran",
+      "title_fa": "آمریکا برای دومین روز متوالی حملات هوایی علیه ایران انجام داد",
+      "lead": "ایالات متحده برای دومین روز پیاپی حملات هوایی را علیه ایران آغاز کرده است که نشان‌دهنده تشدید تنش‌ها در منطقه است. این حملات در حالی صورت می‌گیرد که نگرانی‌ها در مورد درگیری‌های احتمالی رو به افزایش است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "N/A",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    }
+  ]
+}
