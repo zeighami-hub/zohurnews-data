@@ -1,0 +1,111 @@
+{
+  "generated_at": "2026-06-12T09:37:06.033Z",
+  "total": 3,
+  "agencies": [
+    {
+      "id": "bbc",
+      "name_en": "BBC World",
+      "name_fa": "بی‌بی‌سی"
+    },
+    {
+      "id": "aljazeera",
+      "name_en": "Al Jazeera",
+      "name_fa": "الجزیره"
+    },
+    {
+      "id": "france24",
+      "name_en": "France 24",
+      "name_fa": "فرانس ۲۴"
+    },
+    {
+      "id": "reuters",
+      "name_en": "Reuters",
+      "name_fa": "رویترز"
+    },
+    {
+      "id": "dw",
+      "name_en": "DW",
+      "name_fa": "دویچه‌وله"
+    },
+    {
+      "id": "xinhua",
+      "name_en": "Xinhua",
+      "name_fa": "شینهوا"
+    },
+    {
+      "id": "rt",
+      "name_en": "RT",
+      "name_fa": "آر‌تی"
+    },
+    {
+      "id": "ap",
+      "name_en": "AP News",
+      "name_fa": "آسوشیتدپرس"
+    }
+  ],
+  "articles": [
+    {
+      "id": "aljazeera_4",
+      "agencyId": "aljazeera",
+      "title": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
+      "title_fa": "آتش‌بس آمریکا و ایران؟ نه برای ملوانان هندی که در هرمز کشته می‌شوند",
+      "lead": "نیروهای نظامی ایالات متحده در هفته جاری به سه کشتی در تنگه هرمز حمله کرده‌اند که منجر به کشته شدن سه ملوان هندی شده است. این حادثه در بحبوحه گمانه‌زنی‌ها درباره وضعیت آتش‌بس میان آمریکا و ایران رخ داده است.",
+      "category": "military",
+      "region": "west_asia",
+      "sourceUrl": "N/A",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      }
+    },
+    {
+      "id": "france24_9",
+      "agencyId": "france24",
+      "title": "Trump touts imminent Iran deal as Tehran says no decision made",
+      "title_fa": "ترامپ از توافق قریب‌الوقوع با ایران خبر می‌دهد در حالی که تهران می‌گوید تصمیمی گرفته نشده است",
+      "lead": "رئیس‌جمهور دونالد ترامپ ادعا کرده است که توافقی بزرگ با ایران برای پایان دادن به جنگ قریب‌الوقوع است. با این حال، مقامات تهران صراحتاً اعلام کرده‌اند که هنوز هیچ تصمیمی در این خصوص اتخاذ نکرده‌اند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "N/A",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      }
+    },
+    {
+      "id": "france24_10",
+      "agencyId": "france24",
+      "title": "‘The future is peace’: An Israeli-Palestinian call for reconciliation",
+      "title_fa": "«آینده صلح است»: فراخوانی از سوی اسرائیلی-فلسطینی برای آشتی",
+      "lead": "عزیز ابو ساره، فلسطینی، و ماعوز اینون، اسرائیلی، هر دو خانواده‌هایشان را در درگیری‌های بی‌وقفه میان جوامع خود از دست داده‌اند. این دو نفر اکنون با هم خواستار آشتی و صلح پایدار در منطقه هستند.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "N/A",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 10,
+        "negative": 10
+      }
+    }
+  ]
+}
