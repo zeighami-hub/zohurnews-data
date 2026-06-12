@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T14:33:03.906Z",
-  "total": 12,
+  "generated_at": "2026-06-12T16:32:30.407Z",
+  "total": 20,
   "agencies": [
     {
       "id": "bbc",
@@ -48,12 +48,33 @@
       "id": "bbc_1",
       "agencyId": "bbc",
       "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-      "title_fa": "تهران پس از ادعاهای ترامپ درباره توافق برای پایان جنگ ایران، می‌گوید «هیچ چیز» نهایی نشده است",
-      "lead": "ایران پس از ادعای رئیس‌جمهور آمریکا مبنی بر دستیابی به یک «توافق بزرگ» برای پایان درگیری‌ها، گزارش‌ها در مورد یک توافق را «حدس و گمان» می‌خواند. مقامات ایرانی تاکید کرده‌اند که هیچ موضوعی در این خصوص نهایی نشده است.",
+      "title_fa": "تهران در پی ادعای ترامپ مبنی بر نزدیکی توافق برای پایان جنگ ایران: «چیزی» نهایی نشده است",
+      "lead": "ایران گزارش‌ها درباره توافق را «حدس و گمان» خوانده است. این اظهارات پس از آن مطرح شد که رئیس‌جمهور آمریکا گفت «راه حل بزرگی» برای پایان درگیری حاصل شده است.",
       "category": "diplomacy",
       "region": "iran",
-      "sourceUrl": "https://www.bbc.com/news/world-middle-east-1",
-      "time": "چند لحظه پیش",
+      "sourceUrl": "link",
+      "time": "1 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      }
+    },
+    {
+      "id": "bbc_7",
+      "agencyId": "bbc",
+      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
+      "title_fa": "خشم فلسطینی‌ها از افزایش تخریب خانه‌ها توسط اسرائیل در قدس شرقی: «آنها آینده را ویران کردند»",
+      "lead": "خانه‌های فلسطینی‌ها در قدس شرقی اشغالی برای ایجاد یک پارک تخریب می‌شوند. این اقدام خشم شدید فلسطینیان را در پی داشته و آنها این تخریب‌ها را «ویران کردن آینده» خود می‌نامند.",
+      "category": "politics",
+      "region": "west_asia",
+      "sourceUrl": "link",
+      "time": "1 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -61,188 +82,83 @@
       },
       "sentiment": {
         "positive": 10,
-        "neutral": 50,
-        "negative": 40
+        "neutral": 20,
+        "negative": 70
       }
     },
     {
-      "id": "bbc_5",
-      "agencyId": "bbc",
-      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-      "title_fa": "«آنها آینده را نابود کردند»: خشم فلسطینی‌ها از افزایش تخریب خانه‌ها توسط اسرائیل در بیت‌المقدس شرقی",
-      "lead": "خانه‌های فلسطینیان در بیت‌المقدس شرقی اشغالی به منظور ساخت یک پارک تخریب می‌شوند. این اقدام خشم و اعتراض شدید فلسطینیان را در پی داشته و آنها معتقدند که اسرائیل با این کار آینده آنها را نابود می‌کند.",
+      "id": "aljazeera_10",
+      "agencyId": "aljazeera",
+      "title": "Activists form human Palestine flag at World Cup opener in Mexico City",
+      "title_fa": "فعالان در افتتاحیه جام جهانی در مکزیکوسیتی پرچم انسانی فلسطین را تشکیل دادند",
+      "lead": "تظاهرکنندگان حامی فلسطین در مکزیکوسیتی گرد هم آمدند. آنها با تجمع خود یک پرچم انسانی بزرگ از فلسطین را شکل دادند تا توجهات را به این موضوع جلب کنند.",
       "category": "politics",
-      "region": "west_asia",
-      "sourceUrl": "https://www.bbc.com/news/world-middle-east-5",
-      "time": "چند لحظه پیش",
+      "region": "global",
+      "sourceUrl": "link",
+      "time": "1 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
-        "impact": "high",
+        "impact": "medium",
         "conflict": true
       },
       "sentiment": {
-        "positive": 5,
-        "neutral": 15,
-        "negative": 80
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
       }
     },
     {
       "id": "aljazeera_11",
       "agencyId": "aljazeera",
-      "title": "Backlash after US actor Jerry Seinfeld says Palestine ‘doesn’t exist’",
-      "title_fa": "موج واکنش‌های منفی پس از اظهارات جری ساینفلد، بازیگر آمریکایی، مبنی بر اینکه «فلسطین وجود ندارد»",
-      "lead": "جری ساینفلد، بازیگر آمریکایی، پس از اظهاراتش مبنی بر اینکه «فلسطین وجود ندارد» با موجی از واکنش‌های منفی مواجه شده است. این اظهارنظر جنجالی، خشم گسترده‌ای را در شبکه‌های اجتماعی و میان فعالان سیاسی برانگیخته است.",
-      "category": "politics",
+      "title": "Archaeologists find ancient female-led society in Turkiye",
+      "title_fa": "باستان‌شناسان جامعه‌ای باستانی به رهبری زنان را در ترکیه کشف کردند",
+      "lead": "باستان‌شناسان شواهدی از یک جامعه باستانی به رهبری زنان را در خرابه‌های شهری در ترکیه کنونی کشف کرده‌اند. این یافته می‌تواند دیدگاه‌های جدیدی درباره نقش زنان در تاریخ منطقه ارائه دهد.",
+      "category": "culture",
       "region": "west_asia",
-      "sourceUrl": "https://www.aljazeera.com/news/11",
-      "time": "چند لحظه پیش",
+      "sourceUrl": "link",
+      "time": "1 ساعت پیش",
       "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": false
       },
       "sentiment": {
-        "positive": 5,
+        "positive": 70,
         "neutral": 20,
-        "negative": 75
+        "negative": 10
       }
     },
     {
       "id": "aljazeera_0",
       "agencyId": "aljazeera",
-      "title": "Are Iran, US really close to a breakthrough ‘deal’?",
-      "title_fa": "آیا ایران و آمریکا واقعاً به یک توافق «پیروزمندانه» نزدیک شده‌اند؟",
-      "lead": "در حالی که ترامپ اظهار کرده توافقی با ایران ممکن است آخر هفته در اروپا امضا شود، تهران نسبت به گمانه‌زنی‌ها هشدار داده است. این گمانه‌زنی‌ها در مورد احتمال دستیابی به یک توافق جدید بین دو کشور افزایش یافته است.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://www.aljazeera.com/news/2024/01/01/are-iran-us-really-close-to-a-breakthrough-deal",
-      "time": "چند دقیقه پیش",
+      "title": "Why Mo Amer jokes to survive",
+      "title_fa": "چرا مو عامر برای بقا جوک می‌گوید؟",
+      "lead": "مو عامر به یکی از برجسته‌ترین صداهای فلسطینی در کمدی تبدیل شده است. این کمدین فلسطینی در حال حاضر تلاش می‌کند تا با شوخی و طنز با چالش‌های زندگی خود مقابله کند.",
+      "category": "culture",
+      "region": "west_asia",
+      "sourceUrl": "https://example.com/aljazeera_0",
+      "time": "همین الان",
       "newsValues": {
         "timeliness": "high",
-        "impact": "high",
-        "conflict": true
+        "impact": "medium",
+        "conflict": false
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
       }
     },
     {
       "id": "aljazeera_1",
       "agencyId": "aljazeera",
-      "title": "London mayor slams event touting illegal Israeli settlement land sales",
-      "title_fa": "شهردار لندن نشستی را که به تبلیغ فروش زمین‌های شهرک‌سازی غیرقانونی اسرائیل می‌پردازد، محکوم کرد",
-      "lead": "شهردار لندن به شدت به رویدادی اعتراض کرده که به تبلیغ و فروش زمین در شهرک‌های غیرقانونی اسرائیل در کرانه باختری اشغالی می‌پردازد. این رویداد با نام 'رویداد بزرگ املاک و مستغلات اسرائیل' زمین‌های فلسطینی دزدیده شده را به فروش می‌گذارد.",
-      "category": "politics",
-      "region": "west_asia",
-      "sourceUrl": "https://www.aljazeera.com/news/2024/01/01/london-mayor-slams-event-touting-illegal-israeli-settlement-land-sales",
-      "time": "چند دقیقه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      }
-    },
-    {
-      "id": "xinhua_0",
-      "agencyId": "xinhua",
-      "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
-      "title_fa": "درگیری فلسطینی‌ها با سربازان اسرائیلی پس از اعتراض به سفر پنس",
-      "lead": "فلسطینی‌ها پس از اعتراض به سفر مایک پنس، معاون رئیس‌جمهور آمریکا، با سربازان اسرائیلی درگیر شدند. این درگیری‌ها نشان‌دهنده تنش‌های عمیق در منطقه و واکنش به سیاست‌های آمریکا است.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": null,
-      "time": "امروز",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      }
-    },
-    {
-      "id": "xinhua_1",
-      "agencyId": "xinhua",
-      "title": "U.S. decision to withdraw from UNESCO triggers calls for multilateralism",
-      "title_fa": "تصمیم آمریکا برای خروج از یونسکو، درخواست‌ها برای چندجانبه‌گرایی را برانگیخت",
-      "lead": "تصمیم ایالات متحده برای خروج از یونسکو، آژانس فرهنگی سازمان ملل متحد، منجر به درخواست‌های جهانی برای حمایت از چندجانبه‌گرایی شده است. این اقدام واشنگتن با واکنش‌های بین‌المللی مواجه شده و نگرانی‌ها را در مورد تعهد آمریکا به نهادهای بین‌المللی افزایش داده است.",
+      "title": "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
+      "title_fa": "ترامپ: «بی‌شرافتانه»؛ ترامپ می‌گوید جزئیات فاش‌شده آتش‌بس ایران جعلی است",
+      "lead": "دونالد ترامپ گزارش‌ها درباره اینکه ایران در توافقی که آمریکا گفته به زودی امضا می‌شود، امتیازات کمی داده است، را \"بی‌شرافتانه\" خواند. او این خبرهای درز کرده درباره شرایط آتش‌بس با ایران را جعلی و بی‌اساس دانسته است.",
       "category": "diplomacy",
-      "region": "global",
-      "sourceUrl": null,
-      "time": "چند روز پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 15,
-        "neutral": 40,
-        "negative": 45
-      }
-    },
-    {
-      "id": "xinhua_2",
-      "agencyId": "xinhua",
-      "title": "Spotlight: What's behind abrupt U.S. withdrawal from UNESCO?",
-      "title_fa": "بررسی: چه چیزی پشت خروج ناگهانی آمریکا از یونسکو است؟",
-      "lead": "جهان مدت‌هاست که به موضع‌گیری دونالد ترامپ، رئیس‌جمهور آمریکا، علیه چندجانبه‌گرایی عادت کرده است. با این حال، اعلام ناگهانی آمریکا برای خروج از یونسکو بحث‌ها و تحلیل‌های زیادی را در پی داشته است.",
-      "category": "diplomacy",
-      "region": "global",
-      "sourceUrl": null,
-      "time": "چند روز پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 40,
-        "negative": 30
-      }
-    },
-    {
-      "id": "rt_0",
-      "agencyId": "rt",
-      "title": "EU state lifts arms embargo on Israel after spy scandal",
-      "title_fa": "یک کشور اتحادیه اروپا پس از رسوایی جاسوسی، تحریم تسلیحاتی علیه اسرائیل را لغو کرد",
-      "lead": "یک کشور عضو اتحادیه اروپا تصمیم به لغو تحریم تسلیحاتی علیه اسرائیل پس از یک رسوایی جاسوسی گرفت. این اقدام می‌تواند پیامدهای سیاسی و امنیتی برای منطقه خاورمیانه داشته باشد و روابط دیپلماتیک را تحت تاثیر قرار دهد.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": null,
-      "time": "امروز",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 40,
-        "negative": 30
-      }
-    },
-    {
-      "id": "rt_1",
-      "agencyId": "rt",
-      "title": "Wired for War: New revelations expose Israeli cyber-spooks",
-      "title_fa": "«سیمی برای جنگ»: افشاگری‌های جدید جاسوسان سایبری اسرائیلی را برملا می‌کند",
-      "lead": "گزارش جدیدی به افشای فعالیت‌های جاسوسان سایبری اسرائیلی می‌پردازد. این افشاگری‌ها جزئیات جدیدی از عملیات‌های پنهان اسرائیل را روشن می‌سازد.",
-      "category": "military",
-      "region": "west_asia",
-      "sourceUrl": "N/A",
-      "time": "دقایقی پیش",
+      "region": "iran",
+      "sourceUrl": "https://example.com/aljazeera_1",
+      "time": "همین الان",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -255,15 +171,15 @@
       }
     },
     {
-      "id": "ap_4",
-      "agencyId": "ap",
-      "title": "Trump cancels further Iran strikes and signals peace deal could come soon",
-      "title_fa": "ترامپ حملات بیشتر علیه ایران را لغو کرد و از امکان توافق صلح زودهنگام خبر داد",
-      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، از لغو حملات جدید علیه ایران خبر داد. وی همچنین به احتمال قریب‌الوقوع دستیابی به یک توافق صلح اشاره کرد، هرچند ایران اعلام کرده که این توافق هنوز نهایی نشده است.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "N/A",
-      "time": "چند لحظه پیش",
+      "id": "aljazeera_2",
+      "agencyId": "aljazeera",
+      "title": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
+      "title_fa": "اوکراین با افزایش حملات به تدارکات روسیه، اراضی بیشتری را پس می‌گیرد",
+      "lead": "اوکراین اعلام کرده است که استراتژی \"قرنطینه\" آن در مختل کردن خطوط تدارکاتی روسیه مؤثر بوده است. نیروهای اوکراینی موفق به بازپس‌گیری قلمروهای از دست رفته شده‌اند و حملات خود را به مراکز لجستیکی روسیه دو برابر کرده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://example.com/aljazeera_2",
+      "time": "همین الان",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -271,20 +187,272 @@
       },
       "sentiment": {
         "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      }
+    },
+    {
+      "id": "aljazeera_3",
+      "agencyId": "aljazeera",
+      "title": "Indonesian students protest gov’t policies amid economic strain",
+      "title_fa": "اعتراض دانشجویان اندونزیایی به سیاست‌های دولت در بحبوحه تنش‌های اقتصادی",
+      "lead": "در اندونزی، درگیری‌هایی بین دانشجویان معترض و نیروهای پلیس رخ داد. دانشجویان در اعتراض به سیاست‌های دولت و فشارهای اقتصادی، تلاش کردند از خطوط پلیس و موانع فلزی عبور کنند.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://example.com/aljazeera_3",
+      "time": "همین الان",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
         "neutral": 40,
-        "negative": 20
+        "negative": 50
+      }
+    },
+    {
+      "id": "france24_4",
+      "agencyId": "france24",
+      "title": "Escaping Kabul: ride or die",
+      "title_fa": "فرار از کابل: یا بمان و بمیر یا تلاش کن",
+      "lead": "با به قدرت رسیدن طالبان در افغانستان، دوچرخه‌سواران زن این کشور از رقابت‌های بین‌المللی به ترس از جان خود رسیدند. آنها یک شبه زندگی عادی خود را از دست دادند و مجبور به فرار یا پنهان شدن شدند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://example.com/france24_4",
+      "time": "همین الان",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 20,
+        "negative": 75
+      }
+    },
+    {
+      "id": "france24_5",
+      "agencyId": "france24",
+      "title": "Brexit: 10 years of regret?",
+      "title_fa": "برگزیت: ۱۰ سال پشیمانی؟",
+      "lead": "در ۲۳ ژوئن ۲۰۱۶، بریتانیا با ۵۲ درصد رأی به خروج از اتحادیه اروپا در مقابل ۴۸ درصد رأی به ماندن، به برگزیت رأی داد. این موضوع اکنون پس از ۱۰ سال مجددا مورد بحث قرار گرفته و تحلیلگران به بررسی نتایج و پشیمانی‌های احتمالی می‌پردازند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://example.com/france24_5",
+      "time": "همین الان",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      }
+    },
+    {
+      "id": "france24_6",
+      "agencyId": "france24",
+      "title": "US plans to slash fighter jets, warships to NATO in Europe, NY Times reports",
+      "title_fa": "گزارش نیویورک تایمز: آمریکا قصد دارد تعداد جنگنده‌ها و کشتی‌های جنگی خود را در ناتو در اروپا کاهش دهد",
+      "lead": "نیویورک تایمز گزارش داده است که ایالات متحده قصد دارد تعداد جنگنده‌ها و کشتی‌های جنگی خود را که به ناتو در اروپا اختصاص می‌دهد، کاهش دهد. این تصمیم می‌تواند بر توازن قدرت و استراتژی‌های دفاعی ناتو در منطقه تأثیرگذار باشد.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://example.com/france24_6",
+      "time": "همین الان",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      }
+    },
+    {
+      "id": "france24_7",
+      "agencyId": "france24",
+      "title": "As alcohol returns to World Cup, Ecuador president tells fans to drink up",
+      "title_fa": "با بازگشت الکل به جام جهانی، رئیس جمهور اکوادور به هواداران می‌گوید بنوشید",
+      "lead": "هیجان جام جهانی برای برخی با مصرف الکل همراه است، چیزی که در دوره گذشته مسابقات دشوار بود. رئیس جمهور اکوادور اکنون هواداران را به نوشیدن و لذت بردن از مسابقات تشویق کرده است.",
+      "category": "culture",
+      "region": "americas",
+      "sourceUrl": "https://example.com/france24_7",
+      "time": "همین الان",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      }
+    },
+    {
+      "id": "france24_8",
+      "agencyId": "france24",
+      "title": "'All of us of are migrants,' pope says in Canary Islands as Spain trip wraps up",
+      "title_fa": "با پایان سفر به اسپانیا، پاپ در جزایر قناری می‌گوید: «همه ما مهاجر هستیم»",
+      "lead": "پاپ لئو چهاردهم در آخرین روز سفر خود به اسپانیا، در یک مرکز پذیرش مهاجران در جزیره تنریف اسپانیا به آنها گفت که \"همه ما مهاجر هستیم\". این سخنان نمادین او به اهمیت مسئله مهاجرت و همبستگی انسانی اشاره دارد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://example.com/france24_8",
+      "time": "همین الان",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      }
+    },
+    {
+      "id": "france24_9",
+      "agencyId": "france24",
+      "title": "First group of Nigerians returns home after anti-immigration protests in South Africa",
+      "title_fa": "اولین گروه از نیجریه‌ای‌ها پس از اعتراضات ضد مهاجرت در آفریقای جنوبی به خانه بازگشتند",
+      "lead": "اولین گروه از شهروندان نیجریه‌ای پس از اعتراضات خشونت‌آمیز ضد مهاجرت در آفریقای جنوبی، روز پنجشنبه به کشور خود بازگشتند. این بازگشت بخشی از برنامه بازگرداندن اجباری مهاجران توسط دولت نیجریه پس از حوادث اخیر است.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://example.com/france24_9",
+      "time": "همین الان",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      }
+    },
+    {
+      "id": "france24_10",
+      "agencyId": "france24",
+      "title": "Wrapped in paradox: Most inclusive tournament in terms of countries participating yet many excluded",
+      "title_fa": "در پیچ‌وخم پارادوکس: فراگیرترین تورنمنت از نظر کشورهای شرکت‌کننده اما بسیاری حذف شدند",
+      "lead": "این خبر به بررسی تناقضات یک تورنمنت ورزشی می‌پردازد که در ظاهر فراگیرترین مسابقه از نظر تعداد کشورهای شرکت‌کننده است. با این حال، بسیاری از جنبه‌ها و گروه‌ها همچنان از آن کنار گذاشته شده‌اند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://example.com/france24_10",
+      "time": "همین الان",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      }
+    },
+    {
+      "id": "france24_11",
+      "agencyId": "france24",
+      "title": "Not up for debate: Britain bans commentators Hasan Piker and Cenk Uygur",
+      "title_fa": "بحثی در کار نیست: بریتانیا حسن پیکر و جنک اویگور، مفسران سیاسی، را ممنوع‌الورود کرد",
+      "lead": "این هفته، برنامه رسانه‌ای FRANCE 24 به تصمیم بریتانیا برای جلوگیری از ورود حسن پیکر و جنک اویگور، دو مفسر بحث‌برانگیز چپ‌گرا، می‌پردازد. این ممنوعیت ورود منجر به واکنش‌ها و بحث‌هایی در مورد آزادی بیان و سانسور شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://example.com/france24_11",
+      "time": "همین الان",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      }
+    },
+    {
+      "id": "dw_2",
+      "agencyId": "dw",
+      "title": "Trump disputes leaked terms of US-Iran 'deal'",
+      "title_fa": "ترامپ جزئیات فاش شده «توافق» با ایران را تکذیب کرد",
+      "lead": "ایالات متحده و ایران سیگنال‌هایی از پیشرفت احتمالی به سمت یک توافق اولیه برای پایان دادن به درگیری داده‌اند. اما رئیس‌جمهور آمریکا، ترامپ، ایران را بی‌صداقت و دروغگو خوانده و این جزئیات را رد کرده است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/iran-war-trump-disputes-leaked-terms-of-deal/a-generic-id",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "dw_3",
+      "agencyId": "dw",
+      "title": "What are the main sticking points in a potential Iran-US deal?",
+      "title_fa": "توافق ایران و آمریکا: نقاط اصلی اختلاف چیست؟",
+      "lead": "به گفته دونالد ترامپ، ایالات متحده و ایران ممکن است به یک پیشرفت در مذاکرات نزدیک شده باشند. دویچه وله آنچه تاکنون آشکار شده و خطرات و چالش‌های کلیدی مؤثر بر این توافق را بررسی می‌کند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/iran-us-deal-what-are-the-main-sticking-points/a-generic-id",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
       }
     },
     {
       "id": "ap_8",
       "agencyId": "ap",
-      "title": "Trump says Iran peace deal will be announced 'soon,' cancels further strikes",
-      "title_fa": "ترامپ اعلام کرد توافق صلح با ایران «به زودی» اعلام می‌شود و حملات بیشتر را لغو کرد",
-      "lead": "رئیس‌جمهور سابق آمریکا، دونالد ترامپ، اظهار داشت که به زودی یک توافق صلح با ایران اعلام خواهد شد. او همچنین از لغو حملات بیشتر علیه ایران خبر داد، در حالی که پیش از این لفاظی‌های تندی علیه این کشور داشت.",
+      "title": "Trump cancels further Iran strikes, signals potential peace deal",
+      "title_fa": "ترامپ حملات بیشتر علیه ایران را لغو کرد",
+      "lead": "ترامپ حملات جدید علیه ایران را لغو کرده و سیگنال داده است که توافق صلح ممکن است به زودی حاصل شود. این در حالی است که ایران اعلام کرده هنوز هیچ توافقی نهایی نشده است.",
       "category": "diplomacy",
       "region": "iran",
-      "sourceUrl": "N/A",
-      "time": "چند لحظه پیش",
+      "sourceUrl": "https://apnews.com/article/trump-iran-strikes-peace-deal-generic-id",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "ap_0",
+      "agencyId": "ap",
+      "title": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
+      "title_fa": "ترامپ اکنون می‌گوید توافق صلح «به زودی» اعلام می‌شود، حملات بیشتر را لغو می‌کند",
+      "lead": "رئیس جمهور ترامپ که پیش از این لفاظی‌های خود علیه ایران را تشدید کرده بود، اکنون اعلام کرده که یک توافق صلح «به زودی» اعلام خواهد شد. وی همچنین دستور لغو حملات بیشتر را صادر کرده است.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "",
+      "time": "لحظاتی پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -292,8 +460,8 @@
       },
       "sentiment": {
         "positive": 40,
-        "neutral": 40,
-        "negative": 20
+        "neutral": 30,
+        "negative": 30
       }
     }
   ]
