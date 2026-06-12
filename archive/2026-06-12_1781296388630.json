@@ -1,0 +1,300 @@
+{
+  "generated_at": "2026-06-12T20:32:45.531Z",
+  "total": 12,
+  "agencies": [
+    {
+      "id": "bbc",
+      "name_en": "BBC World",
+      "name_fa": "بی‌بی‌سی"
+    },
+    {
+      "id": "aljazeera",
+      "name_en": "Al Jazeera",
+      "name_fa": "الجزیره"
+    },
+    {
+      "id": "france24",
+      "name_en": "France 24",
+      "name_fa": "فرانس ۲۴"
+    },
+    {
+      "id": "reuters",
+      "name_en": "Reuters",
+      "name_fa": "رویترز"
+    },
+    {
+      "id": "dw",
+      "name_en": "DW",
+      "name_fa": "دویچه‌وله"
+    },
+    {
+      "id": "xinhua",
+      "name_en": "Xinhua",
+      "name_fa": "شینهوا"
+    },
+    {
+      "id": "rt",
+      "name_en": "RT",
+      "name_fa": "آر‌تی"
+    },
+    {
+      "id": "ap",
+      "name_en": "AP News",
+      "name_fa": "آسوشیتدپرس"
+    }
+  ],
+  "articles": [
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "title": "Iran says deal to end fighting with US has 'never been closer'",
+      "title_fa": "ایران می‌گوید توافق برای پایان دادن به درگیری با آمریکا 'هیچ‌گاه اینقدر نزدیک نبوده است'",
+      "lead": "مقامات ایرانی و پاکستانی اعلام کرده‌اند که توافق با آمریکا هرگز اینقدر نزدیک نبوده است. این اظهارات در راستای سخنان دونالد ترامپ، رئیس‌جمهور آمریکا در روز پنجشنبه بیان شده است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.com/news/world-middle-east-68532450",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 20,
+        "negative": 20
+      }
+    },
+    {
+      "id": "aljazeera_9",
+      "agencyId": "aljazeera",
+      "title": "US Congressman says Trump won’t send loads of money to Iran",
+      "title_fa": "نماینده کنگره آمریکا می‌گوید ترامپ پول زیادی به ایران نمی‌دهد",
+      "lead": "رایان زینکه، نماینده جمهوری‌خواه مجلس نمایندگان آمریکا، اعلام کرد که رئیس‌جمهور دونالد ترامپ خواهان توافق با ایران است. اما او تأکید کرد که ترامپ بودجه یا پول زیادی به ایران نخواهد فرستاد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2024/3/10/us-congressman-says-trump-wont-send-loads-of-money-to-iran",
+      "time": "3 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      }
+    },
+    {
+      "id": "aljazeera_0",
+      "agencyId": "aljazeera",
+      "title": "UK court jails Palestinian Action activists on ‘terrorism’ charges",
+      "title_fa": "دادگاه بریتانیا فعالان «اقدام برای فلسطین» را به اتهام «تروریسم» زندانی کرد",
+      "lead": "دادگاهی در بریتانیا چهار فعال گروه «اقدام برای فلسطین» را به اتهام خسارت جنایی و ایجاد صدمات بدنی شدید محکوم کرد. با این حال، قاضی پرونده بر این اصرار داشت که حمله این گروه به یک شرکت تسلیحاتی اسرائیلی یک «اقدام تروریستی» بوده است.",
+      "category": "politics",
+      "region": "west_asia",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      }
+    },
+    {
+      "id": "aljazeera_1",
+      "agencyId": "aljazeera",
+      "title": "Can Pakistan push the US-Iran deal over the finish line?",
+      "title_fa": "آیا پاکستان می‌تواند توافق آمریکا و ایران را به سرانجام برساند؟",
+      "lead": "پاکستان ادعا کرده است که پیش‌نویس نهایی توافق صلح بین ایالات متحده و ایران به توافق رسیده و تنها مراحل نهایی برای تکمیل آن باقی مانده است. این خبر از پتانسیل نقش میانجی‌گرانه پاکستان در این مذاکرات حیاتی حکایت دارد.",
+      "category": "diplomacy",
+      "region": "west_asia",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      }
+    },
+    {
+      "id": "aljazeera_2",
+      "agencyId": "aljazeera",
+      "title": "How the Gulf will manage collective security after the Iran war ends",
+      "title_fa": "خلیج فارس چگونه امنیت جمعی را پس از پایان جنگ ایران مدیریت خواهد کرد؟",
+      "lead": "یک توافق احتمالی بین ایران و آمریکا می‌تواند فرصتی برای کشورهای حاشیه خلیج فارس فراهم کند تا ترتیبات امنیتی خود را بازنگری کنند. این سناریو به بررسی چگونگی شکل‌گیری یک سیستم امنیتی جدید در منطقه پس از یک دوره احتمالی پایان درگیری می‌پردازد.",
+      "category": "diplomacy",
+      "region": "west_asia",
+      "sourceUrl": "https://www.aljazeera.com/",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      }
+    },
+    {
+      "id": "france24_8",
+      "agencyId": "france24",
+      "title": "Iran, Ukraine, Belfast & Albania’s ‘Flamingo Revolution’",
+      "title_fa": "ایران، اوکراین، بلفاست و «انقلاب فلامینگو» آلبانی",
+      "lead": "در هفته‌ای که با اظهارات رئیس‌جمهور ترامپ مبنی بر بسیار نزدیک بودن تمدید آتش‌بس با ایران آغاز شد، این خبر به بررسی تحولات مختلف جهانی می‌پردازد. او معتقد بود که این تمدید تنها دو یا سه روز بیشتر طول نمی‌کشد.",
+      "category": "diplomacy",
+      "region": "west_asia",
+      "sourceUrl": "https://www.france24.com/",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      }
+    },
+    {
+      "id": "france24_10",
+      "agencyId": "france24",
+      "title": "Iran-linked group claims hack of FBI drones, threatens World Cup, monitor reports",
+      "title_fa": "گروه مرتبط با ایران ادعای هک پهپادهای اف‌بی‌آی و تهدید جام جهانی را مطرح کرد",
+      "lead": "یک گروه هکری به نام «هندلا» که گفته می‌شود با ایران مرتبط است، ادعا کرده که پهپادهای اف‌بی‌آی را هک کرده و تهدید به هدف قرار دادن جام جهانی ۲۰۲۶ کرده است. این ادعاها توسط گروه نظارتی SITE گزارش شده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    },
+    {
+      "id": "xinhua_0",
+      "agencyId": "xinhua",
+      "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
+      "title_fa": "درگیری فلسطینی‌ها و سربازان اسرائیلی پس از اعتراض به سفر پنس",
+      "lead": "فلسطینی‌ها در اعتراض به سفر مایک پنس، معاون رئیس‌جمهور آمریکا، با سربازان اسرائیلی درگیر شدند. این درگیری‌ها در پی تظاهرات گسترده‌ای در مناطق فلسطینی رخ داد.",
+      "category": "politics",
+      "region": "west_asia",
+      "sourceUrl": null,
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    },
+    {
+      "id": "xinhua_4",
+      "agencyId": "xinhua",
+      "title": "U.S. decision to withdraw from UNESCO triggers calls for multilateralism",
+      "title_fa": "تصمیم آمریکا برای خروج از یونسکو، درخواست‌ها برای چندجانبه‌گرایی را برانگیخت",
+      "lead": "تصمیم ایالات متحده برای خروج از سازمان آموزشی، علمی و فرهنگی ملل متحد (یونسکو) باعث شد تا درخواست‌های جهانی برای حمایت از چندجانبه‌گرایی در میان چالش‌های جهانی مطرح شود. این اقدام واشنگتن واکنش‌های گسترده‌ای در پی داشته است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": null,
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      }
+    },
+    {
+      "id": "xinhua_7",
+      "agencyId": "xinhua",
+      "title": "What's behind abrupt U.S. withdrawal from UNESCO?",
+      "title_fa": "دلایل پشت پرده خروج ناگهانی آمریکا از یونسکو چیست؟",
+      "lead": "جهان مدت‌هاست که به موضع‌گیری‌های دونالد ترامپ، رئیس‌جمهور آمریکا، علیه چندجانبه‌گرایی عادت کرده است. این تحلیل به بررسی دلایل پشت پرده تصمیم ناگهانی واشنگتن برای خروج از یونسکو می‌پردازد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": null,
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      }
+    },
+    {
+      "id": "ap_9",
+      "agencyId": "ap",
+      "title": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
+      "title_fa": "ترامپ حملات بیشتر علیه ایران را لغو کرد. و تیم ملی فوتبال مردان آمریکا به مصاف پاراگوئه می‌رود.",
+      "lead": "ترامپ حملات جدید علیه ایران را لغو کرده و سیگنال داد که یک توافق صلح می‌تواند به زودی حاصل شود، اما ایران می‌گوید که این موضوع هنوز نهایی نشده است. بخش دوم خبر به مسابقه فوتبال آمریکا و پاراگوئه می‌پردازد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": null,
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      }
+    },
+    {
+      "id": "ap_1",
+      "agencyId": "ap",
+      "title": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
+      "title_fa": "ترامپ اکنون می‌گوید توافق صلح \"به زودی\" اعلام خواهد شد و حملات بیشتر را لغو می‌کند",
+      "lead": "رئیس‌جمهور ترامپ که پیشتر لفاظی‌های خود را علیه ایران افزایش داده بود، اکنون از اعلام قریب‌الوقوع یک توافق صلح سخن می‌گوید. او همچنین اعلام کرده که حملات آتی را لغو می‌کند که نشانه‌ای از کاهش تنش‌هاست.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://apnews.com/article/trump-iran-peace-strikes",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 45,
+        "neutral": 30,
+        "negative": 25
+      }
+    }
+  ]
+}
