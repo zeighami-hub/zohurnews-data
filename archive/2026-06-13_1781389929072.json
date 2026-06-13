@@ -1,0 +1,110 @@
+{
+  "generated_at": "2026-06-13T22:31:32.872Z",
+  "total": 2,
+  "agencies": [
+    {
+      "id": "aljazeera",
+      "name_en": "Al Jazeera",
+      "name_fa": "الجزیره"
+    },
+    {
+      "id": "france24",
+      "name_en": "France 24",
+      "name_fa": "فرانس ۲۴"
+    },
+    {
+      "id": "dw",
+      "name_en": "DW",
+      "name_fa": "دویچه‌وله"
+    },
+    {
+      "id": "guardian",
+      "name_en": "The Guardian",
+      "name_fa": "گاردین"
+    },
+    {
+      "id": "foreignpolicy",
+      "name_en": "Foreign Policy",
+      "name_fa": "فارن پالیسی"
+    },
+    {
+      "id": "skynews",
+      "name_en": "Sky News",
+      "name_fa": "اسکای‌نیوز"
+    },
+    {
+      "id": "presstv",
+      "name_en": "Press TV",
+      "name_fa": "پرس‌تی‌وی"
+    },
+    {
+      "id": "nytimes",
+      "name_en": "NY Times",
+      "name_fa": "نیویورک تایمز"
+    },
+    {
+      "id": "independent",
+      "name_en": "Independent",
+      "name_fa": "ایندیپندنت"
+    },
+    {
+      "id": "bbc",
+      "name_en": "BBC World",
+      "name_fa": "بی‌بی‌سی"
+    },
+    {
+      "id": "economist",
+      "name_en": "The Economist",
+      "name_fa": "اکونومیست"
+    },
+    {
+      "id": "arabnews",
+      "name_en": "Arab News",
+      "name_fa": "عرب نیوز"
+    }
+  ],
+  "articles": [
+    {
+      "id": "aljazeera_0",
+      "agencyId": "aljazeera",
+      "title": "Qatar net late goal against Swiss to secure historic first World Cup point",
+      "title_fa": "قطر با گل دیرهنگام مقابل سوئیس، اولین امتیاز تاریخی خود را در جام جهانی کسب کرد",
+      "lead": "تیم ملی فوتبال قطر، قهرمان آسیا، در بازی افتتاحیه جام جهانی ۲۰۲۶ مقابل سوئیس در وقت‌های تلف شده به تساوی ۱-۱ دست یافت. این نتیجه، اولین امتیاز تاریخی این کشور در رقابت‌های جام جهانی را به ارمغان آورد.",
+      "category": "culture",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      }
+    },
+    {
+      "id": "aljazeera_5",
+      "agencyId": "aljazeera",
+      "title": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
+      "title_fa": "حملات اسرائیل به لبنان همزمان با اعلام آمریکا مبنی بر امضای توافق ایران در یکشنبه",
+      "lead": "انفجارها جنوب لبنان را در روز شنبه لرزاند، زیرا اسرائیل به حملات خود ادامه داد. این تحولات در حالی رخ می‌دهد که آمریکا اعلام کرده توافق هسته‌ای با ایران روز یکشنبه به امضا خواهد رسید، که می‌تواند بر تنش‌های منطقه‌ای تاثیرگذار باشد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      }
+    }
+  ]
+}
