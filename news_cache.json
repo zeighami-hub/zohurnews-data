@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T14:54:13.357Z",
-  "total": 2,
+  "generated_at": "2026-06-13T15:38:49.884Z",
+  "total": 8,
   "agencies": [
     {
       "id": "aljazeera",
@@ -23,44 +23,9 @@
       "name_fa": "گاردین"
     },
     {
-      "id": "euronews",
-      "name_en": "Euronews",
-      "name_fa": "یورونیوز"
-    },
-    {
-      "id": "ap",
-      "name_en": "AP News",
-      "name_fa": "آسوشیتدپرس"
-    },
-    {
-      "id": "reuters",
-      "name_en": "Reuters",
-      "name_fa": "رویترز"
-    },
-    {
-      "id": "bbc",
-      "name_en": "BBC World",
-      "name_fa": "بی‌بی‌سی"
-    },
-    {
-      "id": "presstv",
-      "name_en": "Press TV",
-      "name_fa": "پرس‌تی‌وی"
-    },
-    {
-      "id": "irna",
-      "name_en": "IRNA",
-      "name_fa": "ایرنا"
-    },
-    {
-      "id": "mehrnews",
-      "name_en": "Mehr News",
-      "name_fa": "مهر"
-    },
-    {
-      "id": "alarabiya",
-      "name_en": "Al Arabiya",
-      "name_fa": "العربیه"
+      "id": "foreignpolicy",
+      "name_en": "Foreign Policy",
+      "name_fa": "فارن پالیسی"
     },
     {
       "id": "skynews",
@@ -68,42 +33,110 @@
       "name_fa": "اسکای‌نیوز"
     },
     {
-      "id": "middleeasteye",
-      "name_en": "Middle East Eye",
-      "name_fa": "میدل ایست آی"
+      "id": "presstv",
+      "name_en": "Press TV",
+      "name_fa": "پرس‌تی‌وی"
     },
     {
-      "id": "foreignpolicy",
-      "name_en": "Foreign Policy",
-      "name_fa": "فارن پالیسی"
+      "id": "nytimes",
+      "name_en": "NY Times",
+      "name_fa": "نیویورک تایمز"
     },
     {
-      "id": "rt",
-      "name_en": "RT",
-      "name_fa": "آر‌تی"
+      "id": "independent",
+      "name_en": "Independent",
+      "name_fa": "ایندیپندنت"
     },
     {
-      "id": "xinhua",
-      "name_en": "Xinhua",
-      "name_fa": "شینهوا"
+      "id": "bbc",
+      "name_en": "BBC World",
+      "name_fa": "بی‌بی‌سی"
     },
     {
-      "id": "tasnim",
-      "name_en": "Tasnim News",
-      "name_fa": "تسنیم"
+      "id": "economist",
+      "name_en": "The Economist",
+      "name_fa": "اکونومیست"
+    },
+    {
+      "id": "arabnews",
+      "name_en": "Arab News",
+      "name_fa": "عرب نیوز"
     }
   ],
   "articles": [
     {
-      "id": "france24_2",
+      "id": "aljazeera_1",
+      "agencyId": "aljazeera",
+      "title": "From colony to cell: Sexual violence in Israeli prisons",
+      "title_fa": "از مستعمره تا سلول: خشونت جنسی در زندان‌های اسرائیل",
+      "lead": "این شهادت بخشی از الگوی گسترده‌تری است که در گزارش‌ها درباره سوءاستفاده جنسی در زندان‌های اسرائیل مستند شده است. این موضوع نشان‌دهنده نقض حقوق بشر و وضعیت وخیم زندانیان در این مناطق است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/13/from-colony-to-cell-sexual-violence-in-israeli-prisons?traffic_source=rss",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      }
+    },
+    {
+      "id": "aljazeera_3",
+      "agencyId": "aljazeera",
+      "title": "‘Lots of things can still go wrong’ with US-Iran deal to end the war",
+      "title_fa": "«هنوز بسیاری چیزها می‌تواند در توافق آمریکا و ایران برای پایان جنگ اشتباه پیش برود»",
+      "lead": "هنری انشر می‌گوید توافق آمریکا و ایران یک حل و فصل نهایی نیست، بلکه تنها آغاز یک فرآیند است که می‌تواند اشتباه پیش برود. او ابراز نگرانی می‌کند که این توافق هنوز شکننده است و چالش‌های زیادی در پیش دارد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      }
+    },
+    {
+      "id": "aljazeera_4",
+      "agencyId": "aljazeera",
+      "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
+      "title_fa": "ایران تاریخ مراسم تشییع و خاکسپاری رهبر فقید آیت‌الله خامنه‌ای را اعلام کرد",
+      "lead": "مراسم تشییع جنازه در تهران و قم برگزار خواهد شد و سپس خاکسپاری در زادگاه وی مشهد انجام می‌شود. این خبر پس از درگذشت رهبر عالی ایران اعلام شده است و برنامه‌ریزی‌های مربوطه در حال انجام است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      }
+    },
+    {
+      "id": "france24_9",
       "agencyId": "france24",
       "title": "Iran says signing of Islamabad memorandum will not take place on Sunday",
-      "title_fa": "ایران می‌گوید امضای یادداشت تفاهم اسلام‌آباد یکشنبه انجام نخواهد شد",
-      "lead": "ایران اعلام کرد که مراسم امضای یادداشت تفاهم اسلام‌آباد که قرار بود روز یکشنبه برگزار شود، لغو شده است. این خبر نشان دهنده تعویق یا تغییر در برنامه یک توافق مهم منطقه‌ای است.",
+      "title_fa": "ایران می‌گوید امضای تفاهم‌نامه اسلام‌آباد یکشنبه انجام نخواهد شد",
+      "lead": "ایران اعلام کرده است که امضای تفاهم‌نامه اسلام‌آباد در روز یکشنبه صورت نخواهد گرفت. این خبر در مورد پیشرفت‌های مذاکرات و توافقات بین‌المللی مرتبط با ایران منتشر شده است و وضعیت دیپلماتیک را روشن می‌کند.",
       "category": "diplomacy",
-      "region": "west_asia",
-      "sourceUrl": "https://www.france24.com/en/live-news/dummy-link-2",
-      "time": "۲ ساعت پیش",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260612-middle-east-live-iran-says-us-war-deal-could-be-signed-remotely-in-coming-days",
+      "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -116,24 +149,87 @@
       }
     },
     {
-      "id": "france24_3",
+      "id": "france24_10",
       "agencyId": "france24",
       "title": "Iran peace deal: \"Lebanon is the one to chart its own path forward\"",
-      "title_fa": "توافق صلح ایران: «لبنان است که مسیر خود را به جلو تعیین می‌کند»",
-      "lead": "نخست وزیر پاکستان روز جمعه اعلام کرد که ایالات متحده و ایران بر سر مفاد توافقی با هدف پایان دادن به جنگ آنها در خاورمیانه به توافق رسیده‌اند. این توافق ضمن تاکید بر نقش مستقل لبنان، گامی مهم در جهت کاهش تنش‌های منطقه‌ای تلقی می‌شود.",
+      "title_fa": "توافق صلح ایران: «لبنان است که باید راه خود را تعیین کند»",
+      "lead": "نخست‌وزیر پاکستان روز جمعه اعلام کرد که ایالات متحده و ایران بر سر متن توافقی برای پایان دادن به جنگ خود در خاورمیانه به توافق رسیده‌اند. او افزود که میانجی‌ها با هر دو طرف در حال همکاری هستند و لبنان نیز باید مسیر خود را تعیین کند.",
       "category": "diplomacy",
       "region": "middleeast",
-      "sourceUrl": "https://www.france24.com/en/live-news/dummy-link-3",
-      "time": "۲ ساعت پیش",
+      "sourceUrl": "https://www.france24.com/en/video/20260613-iran-peace-deal-lebanon-is-the-one-to-chart-its-own-path-forward",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      }
+    },
+    {
+      "id": "foreignpolicy_9",
+      "agencyId": "foreignpolicy",
+      "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
+      "title_fa": "انتخاب مجدد نتانیاهو می‌تواند به نتیجه جنگ ایران گره بخورد",
+      "lead": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به اسرائیلی‌ها وعده «پیروزی کامل» داده بود اما در سه جبهه به هدف خود نرسیده است. آینده سیاسی او به شدت به نحوه مدیریت بحران ایران و درگیری‌های منطقه‌ای وابسته است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/",
+      "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 60,
-        "neutral": 30,
-        "negative": 10
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "foreignpolicy_10",
+      "agencyId": "foreignpolicy",
+      "title": "Trump’s Big Weekend Could Derail the G-7",
+      "title_fa": "آخر هفته بزرگ ترامپ می‌تواند نشست گروه 7 را از مسیر خارج کند",
+      "lead": "چه توافقی حاصل شود و چه نشود، جنگ ایران سایه بزرگی بر نشست سه روزه سران گروه 7 افکنده است. این رویداد نشان‌دهنده تأثیر مسائل خاورمیانه بر سیاست‌های بین‌المللی و دیپلماسی جهانی است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/12/trump-iran-war-peace-talks-deal-g7-leaders-summit/",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "foreignpolicy_3",
+      "agencyId": "foreignpolicy",
+      "title": "Trump Is Shattering the Illusion of the West",
+      "title_fa": "ترامپ در حال درهم شکستن توهم غرب است",
+      "lead": "رویکرد رئیس‌جمهور آمریکا به تمدن‌گرایی امپریالیستی، در حال از بین بردن همان چیزی است که خود ادعای دفاع از آن را دارد.\nاین سیاست‌ها توهم غرب را شکسته و پیامدهایی برای روابط بین‌الملل، از جمله با کشورهایی مانند ایران دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/12/trump-west-china-rome-civilization-vance-iran-hegseth-russia/",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 15,
+        "neutral": 40,
+        "negative": 45
       }
     }
   ]
