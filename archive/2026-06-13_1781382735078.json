@@ -1,0 +1,110 @@
+{
+  "generated_at": "2026-06-13T20:31:26.577Z",
+  "total": 2,
+  "agencies": [
+    {
+      "id": "aljazeera",
+      "name_en": "Al Jazeera",
+      "name_fa": "الجزیره"
+    },
+    {
+      "id": "france24",
+      "name_en": "France 24",
+      "name_fa": "فرانس ۲۴"
+    },
+    {
+      "id": "dw",
+      "name_en": "DW",
+      "name_fa": "دویچه‌وله"
+    },
+    {
+      "id": "guardian",
+      "name_en": "The Guardian",
+      "name_fa": "گاردین"
+    },
+    {
+      "id": "foreignpolicy",
+      "name_en": "Foreign Policy",
+      "name_fa": "فارن پالیسی"
+    },
+    {
+      "id": "skynews",
+      "name_en": "Sky News",
+      "name_fa": "اسکای‌نیوز"
+    },
+    {
+      "id": "presstv",
+      "name_en": "Press TV",
+      "name_fa": "پرس‌تی‌وی"
+    },
+    {
+      "id": "nytimes",
+      "name_en": "NY Times",
+      "name_fa": "نیویورک تایمز"
+    },
+    {
+      "id": "independent",
+      "name_en": "Independent",
+      "name_fa": "ایندیپندنت"
+    },
+    {
+      "id": "bbc",
+      "name_en": "BBC World",
+      "name_fa": "بی‌بی‌سی"
+    },
+    {
+      "id": "economist",
+      "name_en": "The Economist",
+      "name_fa": "اکونومیست"
+    },
+    {
+      "id": "arabnews",
+      "name_en": "Arab News",
+      "name_fa": "عرب نیوز"
+    }
+  ],
+  "articles": [
+    {
+      "id": "france24_5",
+      "agencyId": "france24",
+      "title": "Iran: Will a peace deal with the US be reached soon?",
+      "title_fa": "ایران: آیا به زودی توافق صلح با آمریکا حاصل می‌شود؟",
+      "lead": "با توجه به اظهارات شهباز شریف، نخست‌وزیر پاکستان، مبنی بر نزدیکی یک توافق صلح برای پایان دادن به جنگ، این سوال مطرح شده است که آیا توافقی میان ایران و آمریکا نیز به زودی حاصل خواهد شد؟ پاکستان در حال آماده‌سازی برای امضای الکترونیکی یک توافق بوده که جزئیات آن مشخص نیست.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/video/20260613-iran-will-a-peace-deal-with-the-us-be-reached-soon",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      }
+    },
+    {
+      "id": "france24_6",
+      "agencyId": "france24",
+      "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
+      "title_fa": "لبنان از حملات در جنوب خود خبر داد؛ اسرائیل هشدار تخلیه گسترده صادر کرد",
+      "lead": "لبنان گزارش داده است که اسرائیل حملاتی را در جنوب این کشور انجام داده است. ارتش اسرائیل در همین حال هشدارهای تخلیه گسترده‌ای برای بیش از ۲۰ منطقه از جمله شهر نبطیه صادر کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/video/20260613-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-warnings",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 20,
+        "negative": 75
+      }
+    }
+  ]
+}
