@@ -1,0 +1,237 @@
+{
+  "generated_at": "2026-06-13T00:32:02.284Z",
+  "total": 9,
+  "agencies": [
+    {
+      "id": "bbc",
+      "name_en": "BBC World",
+      "name_fa": "بی‌بی‌سی"
+    },
+    {
+      "id": "aljazeera",
+      "name_en": "Al Jazeera",
+      "name_fa": "الجزیره"
+    },
+    {
+      "id": "france24",
+      "name_en": "France 24",
+      "name_fa": "فرانس ۲۴"
+    },
+    {
+      "id": "reuters",
+      "name_en": "Reuters",
+      "name_fa": "رویترز"
+    },
+    {
+      "id": "dw",
+      "name_en": "DW",
+      "name_fa": "دویچه‌وله"
+    },
+    {
+      "id": "xinhua",
+      "name_en": "Xinhua",
+      "name_fa": "شینهوا"
+    },
+    {
+      "id": "rt",
+      "name_en": "RT",
+      "name_fa": "آر‌تی"
+    },
+    {
+      "id": "ap",
+      "name_en": "AP News",
+      "name_fa": "آسوشیتدپرس"
+    }
+  ],
+  "articles": [
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "title_fa": "ایران می‌گوید توافق برای پایان دادن به درگیری‌ها منجر به بازگشایی هرمز خواهد شد",
+      "lead": "ایران، آمریکا و میانجی‌گران پاکستانی اعلام کردند که توافقی برای پایان دادن به خصومت‌ها نزدیک به نهایی شدن است. ایران می‌گوید این توافق راه را برای بازگشایی تنگه هرمز هموار خواهد کرد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      }
+    },
+    {
+      "id": "aljazeera_8",
+      "agencyId": "aljazeera",
+      "title": "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
+      "title_fa": "جنگ ایران به صورت زنده: آمریکا و تهران از نزدیک بودن توافق صلح خبر می‌دهند اما هنوز امضا نشده است",
+      "lead": "آمریکا و تهران اعلام کرده‌اند که یک توافق صلح در دسترس است اما هنوز امضا نشده است. در خبر دیگری، چهار فعال گروه \"فلسطین اکشن\" به دلیل شرکت در حمله اعتراضی به یک شرکت تسلیحات اسرائیلی در بریتانیا توسط دادگاه بریتانیا زندانی شدند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      }
+    },
+    {
+      "id": "aljazeera_9",
+      "agencyId": "aljazeera",
+      "title": "Palestine football chief says he wasn’t granted US visa to attend World Cup",
+      "title_fa": "رئیس فدراسیون فوتبال فلسطین می‌گوید ویزای آمریکا برای حضور در جام جهانی به او اعطا نشده است",
+      "lead": "رئیس فدراسیون فوتبال فلسطین اظهار داشت که ویزای ایالات متحده برای شرکت در جام جهانی به او اعطا نشده است. جبریل رجوب در حال حاضر در مکزیک در انتظار دریافت ویزای آمریکاست.",
+      "category": "politics",
+      "region": "west_asia",
+      "sourceUrl": "",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      }
+    },
+    {
+      "id": "aljazeera_1",
+      "agencyId": "aljazeera",
+      "title": "UAE to unlock frozen Iranian funds amid US ceasefire push: Sources",
+      "title_fa": "امارات متحده عربی در بحبوحه تلاش آمریکا برای آتش‌بس، دارایی‌های مسدود شده ایران را آزاد می‌کند: منابع",
+      "lead": "بر اساس گزارش رویترز، امارات متحده عربی موافقت کرده است تا میلیاردها دلار برای ایران آزاد کند. با این حال، ابوظبی به سرعت این گزارش را تکذیب کرد.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "N/A",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      }
+    },
+    {
+      "id": "france24_5",
+      "agencyId": "france24",
+      "title": "Israeli and Palestinian groups urge world not to abandon two-state solution",
+      "title_fa": "گروه‌های اسرائیلی و فلسطینی از جهان می‌خواهند راه‌حل دو دولتی را رها نکند",
+      "lead": "گروه‌های جامعه مدنی اسرائیل و فلسطین روز جمعه در فرانسه از جامعه بین‌المللی درخواست کردند که به دنبال راه‌حل دو دولتی باشد. آنها نسبت به پیامدهای رها کردن این راه‌حل هشدار دادند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "N/A",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      }
+    },
+    {
+      "id": "france24_6",
+      "agencyId": "france24",
+      "title": "Iran says US war deal could be signed remotely in 'coming days'",
+      "title_fa": "ایران می‌گوید توافق پایان جنگ با آمریکا می‌تواند ظرف «چند روز آینده» از راه دور امضا شود",
+      "lead": "عباس عراقچی، وزیر امور خارجه ایران، روز جمعه اعلام کرد که پیش‌نویس توافق برای پایان دادن به جنگ با ایالات متحده ممکن است ظرف چند روز آینده از راه دور امضا شود. این خبر نشان دهنده پیشرفت احتمالی در مذاکرات است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "N/A",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 20,
+        "negative": 20
+      }
+    },
+    {
+      "id": "xinhua_0",
+      "agencyId": "xinhua",
+      "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
+      "title_fa": "درگیری فلسطینی‌ها با نظامیان صهیونیست در پی اعتراض به سفر پنس",
+      "lead": "در پی اعتراض به سفر معاون رئیس‌جمهور آمریکا به منطقه، فلسطینی‌ها با نظامیان اسرائیلی درگیر شدند. این درگیری‌ها پس از یک تظاهرات گسترده علیه حضور مایک پنس در خاورمیانه رخ داد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      }
+    },
+    {
+      "id": "xinhua_4",
+      "agencyId": "xinhua",
+      "title": "U.S. decision to withdraw from UNESCO triggers calls for multilateralism",
+      "title_fa": "تصمیم آمریکا برای خروج از یونسکو، درخواست‌ها برای چندجانبه‌گرایی را برانگیخت",
+      "lead": "تصمیم ایالات متحده برای خروج از سازمان یونسکو، نهاد فرهنگی سازمان ملل، واکنش‌های جهانی را در پی داشته است. این اقدام منجر به افزایش درخواست‌ها برای حمایت از چندجانبه‌گرایی در مواجهه با چالش‌های جهانی شده است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      }
+    },
+    {
+      "id": "xinhua_7",
+      "agencyId": "xinhua",
+      "title": "Spotlight: What's behind abrupt U.S. withdrawal from UNESCO?",
+      "title_fa": "بررسی دلایل خروج ناگهانی آمریکا از یونسکو",
+      "lead": "جهان مدت‌هاست به مواضع دونالد ترامپ، رئیس‌جمهور آمریکا، علیه چندجانبه‌گرایی عادت کرده است. با این حال، اعلام ناگهانی آمریکا برای خروج از یونسکو سؤالاتی را در مورد انگیزه‌های پشت این تصمیم برانگیخته است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      }
+    }
+  ]
+}
