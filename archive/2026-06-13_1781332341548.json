@@ -1,0 +1,174 @@
+{
+  "generated_at": "2026-06-13T06:31:48.249Z",
+  "total": 6,
+  "agencies": [
+    {
+      "id": "bbc",
+      "name_en": "BBC World",
+      "name_fa": "بی‌بی‌سی"
+    },
+    {
+      "id": "aljazeera",
+      "name_en": "Al Jazeera",
+      "name_fa": "الجزیره"
+    },
+    {
+      "id": "france24",
+      "name_en": "France 24",
+      "name_fa": "فرانس ۲۴"
+    },
+    {
+      "id": "reuters",
+      "name_en": "Reuters",
+      "name_fa": "رویترز"
+    },
+    {
+      "id": "dw",
+      "name_en": "DW",
+      "name_fa": "دویچه‌وله"
+    },
+    {
+      "id": "xinhua",
+      "name_en": "Xinhua",
+      "name_fa": "شینهوا"
+    },
+    {
+      "id": "rt",
+      "name_en": "RT",
+      "name_fa": "آر‌تی"
+    },
+    {
+      "id": "ap",
+      "name_en": "AP News",
+      "name_fa": "آسوشیتدپرس"
+    }
+  ],
+  "articles": [
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "title_fa": "ایران می‌گوید توافق برای پایان درگیری‌ها به بازگشایی هرمز منجر می‌شود",
+      "lead": "ایران، آمریکا و میانجیگران پاکستانی اعلام کرده‌اند که توافق برای پایان دادن به درگیری‌ها نزدیک به نهایی شدن است. این توافق می‌تواند راه را برای بازگشایی تنگه هرمز و کاهش تنش‌ها در منطقه هموار کند.",
+      "category": "diplomacy",
+      "region": "west_asia",
+      "sourceUrl": "",
+      "time": "",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 20,
+        "negative": 20
+      }
+    },
+    {
+      "id": "aljazeera_0",
+      "agencyId": "aljazeera",
+      "title": "UK court jails Palestine Action activists on ‘terrorism’ charges",
+      "title_fa": "دادگاه بریتانیا فعالان «اقدام برای فلسطین» را به اتهامات «تروریستی» زندانی کرد",
+      "lead": "دادگاه بریتانیا چهار فعال حامی فلسطین را به دلیل یورش به یک کارخانه تسلیحات اسرائیلی در نزدیکی بریستول در سال 2024 به زندان محکوم کرده است. این افراد به اتهامات «تروریستی» محاکمه شده‌اند.",
+      "category": "politics",
+      "region": "west_asia",
+      "sourceUrl": "",
+      "time": "",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      }
+    },
+    {
+      "id": "france24_8",
+      "agencyId": "france24",
+      "title": "Israeli and Palestinian groups urge world not to abandon two-state solution",
+      "title_fa": "گروه‌های اسرائیلی و فلسطینی از جهان خواستند راه‌حل دو کشوری را رها نکنند",
+      "lead": "گروه‌های جامعه مدنی اسرائیلی و فلسطینی روز جمعه در فرانسه از جامعه بین‌المللی خواستند که همچنان راه‌حل دو کشوری را دنبال کند. آنها هشدار دادند که کنار گذاشتن این راه‌حل می‌تواند منجر به عواقب وخیمی شود.",
+      "category": "diplomacy",
+      "region": "west_asia",
+      "sourceUrl": "",
+      "time": "",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      }
+    },
+    {
+      "id": "france24_9",
+      "agencyId": "france24",
+      "title": "US says ‘downed’ Iranian drones targeting ships in Strait of Hormuz",
+      "title_fa": "آمریکا می‌گوید پهپادهای ایرانی را که کشتی‌ها را در تنگه هرمز هدف قرار داده بودند، سرنگون کرده است",
+      "lead": "ارتش آمریکا اعلام کرد که شب گذشته چند پهپاد ایرانی را که کشتی‌های تجاری را در تنگه هرمز هدف قرار داده بودند، سرنگون کرده است. این حادثه در میان تنش‌های فزاینده در منطقه خاورمیانه رخ داده است.",
+      "category": "military",
+      "region": "west_asia",
+      "sourceUrl": "",
+      "time": "",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    },
+    {
+      "id": "ap_3",
+      "agencyId": "ap",
+      "title": "Trump cancels further Iran strikes, signals peace deal could come soon",
+      "title_fa": "ترامپ حملات بیشتر علیه ایران را لغو کرد و از احتمال قریب‌الوقوع بودن توافق صلح خبر داد",
+      "lead": "رئیس جمهور ترامپ اعلام کرد که حملات جدید علیه ایران را لغو کرده و سیگنال داد که توافق صلح ممکن است به زودی حاصل شود. این در حالی است که ایران هنوز نهایی شدن توافقی را تأیید نکرده است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://apnews.com/",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      }
+    },
+    {
+      "id": "ap_7",
+      "agencyId": "ap",
+      "title": "Trump states peace deal with Iran will be announced 'soon' and cancels further strikes",
+      "title_fa": "ترامپ اکنون می‌گوید توافق صلح به زودی اعلام خواهد شد و حملات بیشتر را لغو می‌کند",
+      "lead": "رئیس جمهور ترامپ اعلام کرد که توافق صلح با ایران به زودی اعلام خواهد شد و در همین راستا حملات بیشتر علیه ایران را لغو کرده است. او پیش از این لفاظی‌های خود را علیه ایران تشدید کرده بود.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://apnews.com/",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 45,
+        "neutral": 30,
+        "negative": 25
+      }
+    }
+  ]
+}
