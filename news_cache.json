@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T12:31:35.975Z",
-  "total": 7,
+  "generated_at": "2026-06-13T14:31:19.707Z",
+  "total": 5,
   "agencies": [
     {
       "id": "bbc",
@@ -45,149 +45,107 @@
   ],
   "articles": [
     {
-      "id": "aljazeera_3",
+      "id": "aljazeera_0",
       "agencyId": "aljazeera",
-      "title": "Qatar vs Switzerland: World Cup group match – preview, team news, lineups",
-      "title_fa": "بازی گروهی جام جهانی قطر مقابل سوئیس: پیش‌نمایش، اخبار تیم‌ها، ترکیب احتمالی",
-      "lead": "تیم قطر، قهرمان جام ملت‌های آسیا، پس از عملکرد ناامیدکننده در جام جهانی خانگی ۲۰۲۲، به دنبال نمایش بهتری در آمریکای شمالی است. این خبر شامل پیش‌نمایش بازی، اخبار تیم‌ها و ترکیب‌های احتمالی است.",
-      "category": "culture",
-      "region": "middleeast",
-      "sourceUrl": "https://www.aljazeera.com/news/article_3",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "aljazeera_4",
-      "agencyId": "aljazeera",
-      "title": "Yemen’s ‘Spider-Man’ dies while scaling volcanic crater",
-      "title_fa": "«مرد عنکبوتی» یمن هنگام صعود از دهانه آتشفشانی درگذشت",
-      "lead": "«مرد عنکبوتی» یمن که به دلیل صعود از دهانه‌های آتشفشانی شهرت داشت، در حادثه‌ای غم‌انگیز جان خود را از دست داد. این خبر به جزئیات مرگ او هنگام تلاش برای صعود از یک دهانه آتشفشانی می‌پردازد.",
-      "category": "culture",
-      "region": "west_asia",
-      "sourceUrl": "https://www.aljazeera.com/news/article_4",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "aljazeera_5",
-      "agencyId": "aljazeera",
-      "title": "Israel attacks Lebanon despite being included in potential peace deal",
-      "title_fa": "اسرائیل با وجود قرار گرفتن در توافق صلح احتمالی، به لبنان حمله می‌کند",
-      "lead": "اسرائیل به حملات خود به لبنان ادامه داده است، با وجود اینکه ایران اعلام کرده بود این کشور در تفاهم‌نامه صلح احتمالی گنجانده شده است. این اقدام نشان‌دهنده پیچیدگی و تنش‌های مداوم در منطقه است.",
-      "category": "military",
-      "region": "west_asia",
-      "sourceUrl": "https://www.aljazeera.com/news/article_5",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "france24_0",
-      "agencyId": "france24",
-      "title": "France bids farewell to girl, 11, whose killing sparked outrage",
-      "title_fa": "فرانسه با دختر ۱۱ ساله که قتل او خشم عمومی را برانگیخت، وداع کرد",
-      "lead": "صدها نفر روز جمعه در جنوب غربی فرانسه برای وداع با دختر ۱۱ ساله‌ای که مظنون به قتل او اعتراضاتی را در سراسر کشور برانگیخته بود، گرد هم آمدند. این حادثه موجب شوک و اندوه فراوانی در جامعه فرانسه شده است.",
+      "title": "From colony to cell: Sexual violence in Israeli prisons",
+      "title_fa": "از مستعمره تا سلول: خشونت جنسی در زندان‌های اسرائیل",
+      "lead": "این شهادت بخشی از یک الگوی گسترده‌تر است که در گزارش‌ها به خشونت جنسی در داخل زندان‌های اسرائیل اشاره دارد. این موضوع ابعاد حقوق بشری و مسائل مربوط به حقوق زندانیان را در منطقه برجسته می‌کند.",
       "category": "politics",
-      "region": "europe",
-      "sourceUrl": null,
-      "time": null,
+      "region": "west_asia",
+      "sourceUrl": "https://www.aljazeera.com/news/",
+      "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
+        "positive": 5,
+        "neutral": 15,
+        "negative": 80
       }
     },
     {
-      "id": "france24_1",
-      "agencyId": "france24",
-      "title": "Three Indian sailors died in US strike off Oman",
-      "title_fa": "سه ملوان هندی در حمله آمریکا در نزدیکی عمان جان باختند",
-      "lead": "سه ملوان هندی در عملیات نظامی ایالات متحده برای توقف یک نفتکش در نزدیکی عمان جان خود را از دست دادند. این عملیات به عنوان بخشی از تلاش‌های واشنگتن برای محاصره کشتی‌های مرتبط با ایران صورت گرفت.",
-      "category": "military",
-      "region": "west_asia",
-      "sourceUrl": null,
-      "time": null,
+      "id": "aljazeera_2",
+      "agencyId": "aljazeera",
+      "title": "‘Lots of things can still go wrong’ with US-Iran deal to end the war",
+      "title_fa": "\"بسیاری از مسائل هنوز می‌تواند در توافق آمریکا و ایران برای پایان دادن به جنگ اشتباه پیش برود\"",
+      "lead": "هنری انشر می‌گوید توافق آمریکا و ایران یک حل و فصل نهایی نیست، بلکه تنها آغاز فرآیندی است که می‌تواند با مشکلات زیادی روبرو شود. این اظهارات نگرانی‌ها درباره پایداری و موفقیت نهایی توافق صلح را افزایش می‌دهد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/",
+      "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 10,
-        "neutral": 40,
+        "positive": 20,
+        "neutral": 30,
         "negative": 50
       }
     },
     {
-      "id": "france24_2",
+      "id": "aljazeera_3",
+      "agencyId": "aljazeera",
+      "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
+      "title_fa": "ایران تاریخ‌های تشییع و خاکسپاری رهبر فقید خامنه‌ای را اعلام کرد",
+      "lead": "مراسم تشییع در تهران و قم برگزار خواهد شد و سپس خاکسپاری در شهر مشهد، زادگاه وی، صورت می‌گیرد. این خبر نشان‌دهنده برنامه‌ریزی برای یک رویداد ملی مهم است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      }
+    },
+    {
+      "id": "france24_10",
       "agencyId": "france24",
-      "title": "Iran peace deal looms while new military action flares near Strait of Hormuz",
-      "title_fa": "توافق صلح ایران در آستانه است در حالی که اقدام نظامی جدیدی در نزدیکی تنگه هرمز شعله‌ور می‌شود",
-      "lead": "ایالات متحده و ایران روز جمعه اعلام کردند که توافقی برای پایان دادن به جنگشان نزدیک است و یک مقام ارشد دولت آمریکا گفت که هر دو طرف به این امر نزدیک شده‌اند. این خبر در حالی منتشر می‌شود که فعالیت‌های نظامی جدیدی در نزدیکی تنگه هرمز در حال وقوع است.",
+      "title": "Iran says signing of Islamabad memorandum will not take place on Sunday",
+      "title_fa": "ایران اعلام کرد که امضای تفاهم‌نامه اسلام‌آباد یکشنبه انجام نخواهد شد",
+      "lead": "ایران اعلام کرده است که امضای تفاهم‌نامه اسلام‌آباد که پیش‌بینی شده بود یکشنبه انجام شود، صورت نخواهد گرفت. این خبر می‌تواند نشان‌دهنده پیچیدگی‌ها یا تغییر در برنامه‌های دیپلماتیک بین‌المللی باشد.",
       "category": "diplomacy",
       "region": "iran",
-      "sourceUrl": null,
-      "time": null,
+      "sourceUrl": "https://www.france24.com/en/",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      }
+    },
+    {
+      "id": "france24_11",
+      "agencyId": "france24",
+      "title": "Iran peace deal: \"Lebanon is the one to chart its own path forward\"",
+      "title_fa": "توافق صلح ایران: \"لبنان باید مسیر آینده خود را تعیین کند\"",
+      "lead": "نخست‌وزیر پاکستان روز جمعه گفت که ایالات متحده و ایران بر سر متن توافقی با هدف پایان دادن به جنگ خود در خاورمیانه به توافق رسیده‌اند. این خبر پیامدهای گسترده‌ای برای ثبات منطقه و روابط بین‌المللی خواهد داشت.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/",
+      "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 40,
-        "neutral": 30,
-        "negative": 30
-      }
-    },
-    {
-      "id": "france24_3",
-      "agencyId": "france24",
-      "title": "Peru's leftist candidate Sanchez asks right-wing rival Fujimori to back vote recount",
-      "title_fa": "کاندیدای چپ‌گرای پرو، سانچز، از رقیب راست‌گرای خود، فوجیموری، می‌خواهد که از بازشماری آرا حمایت کند",
-      "lead": "روبرتو سانچز، نامزد چپ‌گرای ریاست‌جمهوری پرو، روز جمعه به رقیب محافظه‌کار خود، کیکو فوجیموری، پیشنهاد بازشماری آرا را داد. این درخواست به دلیل ادعاهای مربوط به بی‌نظمی در انتخابات صورت گرفته است.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": null,
-      "time": null,
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 70,
+        "positive": 60,
+        "neutral": 20,
         "negative": 20
       }
     }
