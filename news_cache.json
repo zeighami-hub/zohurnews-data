@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T10:32:07.940Z",
-  "total": 9,
+  "generated_at": "2026-06-13T12:31:35.975Z",
+  "total": 7,
   "agencies": [
     {
       "id": "bbc",
@@ -45,120 +45,15 @@
   ],
   "articles": [
     {
-      "id": "aljazeera_0",
+      "id": "aljazeera_3",
       "agencyId": "aljazeera",
-      "title": "Israel attacks Lebanon despite being included in potential peace deal",
-      "title_fa": "حمله اسرائیل به لبنان با وجود گنجانده شدن در توافق صلح احتمالی",
-      "lead": "اسرائیل به حملات خود به لبنان ادامه می‌دهد، با وجود اینکه ایران اعلام کرده بود لبنان در یک تفاهم‌نامه احتمالی صلح گنجانده شده است. این حملات در شرایطی رخ می‌دهد که تلاش‌ها برای یک توافق صلح منطقه‌ای در جریان است.",
-      "category": "military",
-      "region": "west_asia",
-      "sourceUrl": "",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      }
-    },
-    {
-      "id": "aljazeera_4",
-      "agencyId": "aljazeera",
-      "title": "‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters",
-      "title_fa": "\"حق اعتراض به نسل‌کشی\" سلب شد: حامیان \"اقدام برای فلسطین\" در اسکاتلند",
-      "lead": "در حالی که گروه ممنوعه \"اقدام برای فلسطین\" در لندن برای لغو ممنوعیت خود می‌جنگد، نبردهای مشابهی نیز در ادینبورگ در جریان است. این گروه به دلیل حمایت از فلسطین و اعتراض به آنچه نسل‌کشی می‌خوانند، با محدودیت‌هایی مواجه شده است.",
-      "category": "politics",
-      "region": "europe",
-      "sourceUrl": "",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 40,
-        "negative": 50
-      }
-    },
-    {
-      "id": "aljazeera_5",
-      "agencyId": "aljazeera",
-      "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
-      "title_fa": "روز ۱۰۶ جنگ ایران: آمریکا و ایران از نزدیک بودن توافق خبر می‌دهند اما درگیری‌ها در لبنان ادامه دارد",
-      "lead": "آمریکا و ایران اعلام کرده‌اند که توافق برای پایان جنگ نزدیک است و یک متن نهایی مورد توافق قرار گرفته، اما گام‌های کلیدی هنوز باقی مانده‌اند. همزمان با این تحولات، درگیری‌ها در لبنان همچنان ادامه دارد که پیچیدگی وضعیت منطقه را نشان می‌دهد.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 30,
-        "negative": 30
-      }
-    },
-    {
-      "id": "aljazeera_6",
-      "agencyId": "aljazeera",
-      "title": "Molokhia cigarettes: Gaza’s toxic alternative to tobacco",
-      "title_fa": "سیگارهای ملوخیا: جایگزین سمی تنباکو در غزه",
-      "lead": "با افزایش شدید قیمت تنباکو، سیگاری‌ها در غزه به سیگارهای سمی نیکوتین ملوخیا روی آورده‌اند. این جایگزین‌های خطرناک به دلیل مشکلات اقتصادی و کمبود مواد اولیه، خطرات جدی برای سلامتی ساکنان غزه ایجاد کرده‌اند.",
-      "category": "economy",
-      "region": "west_asia",
-      "sourceUrl": "",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 5,
-        "neutral": 20,
-        "negative": 75
-      }
-    },
-    {
-      "id": "france24_8",
-      "agencyId": "france24",
-      "title": "Iran peace deal looms while new military action flares near Strait of Hormuz",
-      "title_fa": "توافق صلح ایران در آستانه تحقق در حالی که اقدامات نظامی جدیدی نزدیک تنگه هرمز شعله‌ور می‌شود",
-      "lead": "ایالات متحده و ایران روز جمعه اعلام کردند که توافق برای پایان جنگ نزدیک است و یک مقام ارشد دولت آمریکا تایید کرد که هر دو طرف به آن نزدیک شده‌اند. با این حال، اقدامات نظامی جدیدی در نزدیکی تنگه هرمز شعله‌ور شده که نشان‌دهنده تنش‌های منطقه‌ای جاری است.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 30,
-        "negative": 40
-      }
-    },
-    {
-      "id": "france24_2",
-      "agencyId": "france24",
-      "title": "Israeli and Palestinian groups urge world not to abandon two-state solution",
-      "title_fa": "گروه‌های اسرائیلی و فلسطینی از جهان می‌خواهند راه‌حل دو کشوری را رها نکنند",
-      "lead": "گروه‌های جامعه مدنی اسرائیلی و فلسطینی روز جمعه در فرانسه از جامعه جهانی خواستند که پیگیری راه‌حل دو کشوری را ادامه دهند. آن‌ها هشدار دادند که رها کردن این راه‌حل می‌تواند منجر به عواقب فاجعه‌بار شود.",
-      "category": "diplomacy",
+      "title": "Qatar vs Switzerland: World Cup group match – preview, team news, lineups",
+      "title_fa": "بازی گروهی جام جهانی قطر مقابل سوئیس: پیش‌نمایش، اخبار تیم‌ها، ترکیب احتمالی",
+      "lead": "تیم قطر، قهرمان جام ملت‌های آسیا، پس از عملکرد ناامیدکننده در جام جهانی خانگی ۲۰۲۲، به دنبال نمایش بهتری در آمریکای شمالی است. این خبر شامل پیش‌نمایش بازی، اخبار تیم‌ها و ترکیب‌های احتمالی است.",
+      "category": "culture",
       "region": "middleeast",
-      "sourceUrl": "https://www.france24.com/en/news/article-2",
-      "time": "چند لحظه پیش",
+      "sourceUrl": "https://www.aljazeera.com/news/article_3",
+      "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -171,15 +66,57 @@
       }
     },
     {
-      "id": "france24_3",
-      "agencyId": "france24",
-      "title": "Lebanon reports new Israeli strikes in south after IDF warning",
-      "title_fa": "لبنان پس از هشدار ارتش اسرائیل، حملات جدید اسرائیل را در جنوب گزارش داد",
-      "lead": "رسانه‌های دولتی لبنان روز شنبه گزارش دادند که حملات جدید اسرائیل در جنوب این کشور صورت گرفته است. این حملات مدت کوتاهی پس از آن انجام شد که ارتش اسرائیل از ساکنان ۲۰ شهرک خواست تا منطقه را تخلیه کنند.",
+      "id": "aljazeera_4",
+      "agencyId": "aljazeera",
+      "title": "Yemen’s ‘Spider-Man’ dies while scaling volcanic crater",
+      "title_fa": "«مرد عنکبوتی» یمن هنگام صعود از دهانه آتشفشانی درگذشت",
+      "lead": "«مرد عنکبوتی» یمن که به دلیل صعود از دهانه‌های آتشفشانی شهرت داشت، در حادثه‌ای غم‌انگیز جان خود را از دست داد. این خبر به جزئیات مرگ او هنگام تلاش برای صعود از یک دهانه آتشفشانی می‌پردازد.",
+      "category": "culture",
+      "region": "west_asia",
+      "sourceUrl": "https://www.aljazeera.com/news/article_4",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "aljazeera_5",
+      "agencyId": "aljazeera",
+      "title": "Israel attacks Lebanon despite being included in potential peace deal",
+      "title_fa": "اسرائیل با وجود قرار گرفتن در توافق صلح احتمالی، به لبنان حمله می‌کند",
+      "lead": "اسرائیل به حملات خود به لبنان ادامه داده است، با وجود اینکه ایران اعلام کرده بود این کشور در تفاهم‌نامه صلح احتمالی گنجانده شده است. این اقدام نشان‌دهنده پیچیدگی و تنش‌های مداوم در منطقه است.",
       "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://www.france24.com/en/news/article-3",
-      "time": "چند لحظه پیش",
+      "region": "west_asia",
+      "sourceUrl": "https://www.aljazeera.com/news/article_5",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "france24_0",
+      "agencyId": "france24",
+      "title": "France bids farewell to girl, 11, whose killing sparked outrage",
+      "title_fa": "فرانسه با دختر ۱۱ ساله که قتل او خشم عمومی را برانگیخت، وداع کرد",
+      "lead": "صدها نفر روز جمعه در جنوب غربی فرانسه برای وداع با دختر ۱۱ ساله‌ای که مظنون به قتل او اعتراضاتی را در سراسر کشور برانگیخته بود، گرد هم آمدند. این حادثه موجب شوک و اندوه فراوانی در جامعه فرانسه شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": null,
+      "time": null,
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -192,45 +129,66 @@
       }
     },
     {
-      "id": "dw_7",
-      "agencyId": "dw",
-      "title": "US, Iran say peace deal near despite Hormuz attacks",
-      "title_fa": "آمریکا و ایران می‌گویند با وجود حملات در هرمز، توافق صلح نزدیک است",
-      "lead": "به گفته دونالد ترامپ، با وجود ده‌ها وعده توافق صلح، اکنون توافقی با ایران نزدیک است. در همین حال، درگیری‌ها در تنگه هرمز و مناطق اطراف آن همچنان ادامه دارد.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://www.dw.com/en/news/article-7",
-      "time": "چند لحظه پیش",
+      "id": "france24_1",
+      "agencyId": "france24",
+      "title": "Three Indian sailors died in US strike off Oman",
+      "title_fa": "سه ملوان هندی در حمله آمریکا در نزدیکی عمان جان باختند",
+      "lead": "سه ملوان هندی در عملیات نظامی ایالات متحده برای توقف یک نفتکش در نزدیکی عمان جان خود را از دست دادند. این عملیات به عنوان بخشی از تلاش‌های واشنگتن برای محاصره کشتی‌های مرتبط با ایران صورت گرفت.",
+      "category": "military",
+      "region": "west_asia",
+      "sourceUrl": null,
+      "time": null,
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 30,
+        "positive": 10,
         "neutral": 40,
+        "negative": 50
+      }
+    },
+    {
+      "id": "france24_2",
+      "agencyId": "france24",
+      "title": "Iran peace deal looms while new military action flares near Strait of Hormuz",
+      "title_fa": "توافق صلح ایران در آستانه است در حالی که اقدام نظامی جدیدی در نزدیکی تنگه هرمز شعله‌ور می‌شود",
+      "lead": "ایالات متحده و ایران روز جمعه اعلام کردند که توافقی برای پایان دادن به جنگشان نزدیک است و یک مقام ارشد دولت آمریکا گفت که هر دو طرف به این امر نزدیک شده‌اند. این خبر در حالی منتشر می‌شود که فعالیت‌های نظامی جدیدی در نزدیکی تنگه هرمز در حال وقوع است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": null,
+      "time": null,
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
         "negative": 30
       }
     },
     {
-      "id": "dw_10",
-      "agencyId": "dw",
-      "title": "UAE denies supporting RSF and Colombian recruits",
-      "title_fa": "امارات متحده عربی حمایت از نیروهای واکنش سریع و استخدام‌شدگان کلمبیایی را تکذیب کرد",
-      "lead": "سازمان‌های حقوق بشر، امارات متحده عربی را به حمایت از شبه‌نظامیان نیروهای واکنش سریع (RSF) متهم می‌کنند. این اتهامات در حالی مطرح می‌شود که تعداد زیادی از اعضای برجسته این نیروها به نیروهای مسلح سودان پیوسته‌اند.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://www.dw.com/en/news/article-10",
-      "time": "چند لحظه پیش",
+      "id": "france24_3",
+      "agencyId": "france24",
+      "title": "Peru's leftist candidate Sanchez asks right-wing rival Fujimori to back vote recount",
+      "title_fa": "کاندیدای چپ‌گرای پرو، سانچز، از رقیب راست‌گرای خود، فوجیموری، می‌خواهد که از بازشماری آرا حمایت کند",
+      "lead": "روبرتو سانچز، نامزد چپ‌گرای ریاست‌جمهوری پرو، روز جمعه به رقیب محافظه‌کار خود، کیکو فوجیموری، پیشنهاد بازشماری آرا را داد. این درخواست به دلیل ادعاهای مربوط به بی‌نظمی در انتخابات صورت گرفته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": null,
+      "time": null,
       "newsValues": {
         "timeliness": "high",
-        "impact": "high",
+        "impact": "medium",
         "conflict": true
       },
       "sentiment": {
         "positive": 10,
-        "neutral": 20,
-        "negative": 70
+        "neutral": 70,
+        "negative": 20
       }
     }
   ]
