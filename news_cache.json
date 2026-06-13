@@ -1,12 +1,7 @@
 {
-  "generated_at": "2026-06-13T14:31:19.707Z",
-  "total": 5,
+  "generated_at": "2026-06-13T14:54:13.357Z",
+  "total": 2,
   "agencies": [
-    {
-      "id": "bbc",
-      "name_en": "BBC World",
-      "name_fa": "بی‌بی‌سی"
-    },
     {
       "id": "aljazeera",
       "name_en": "Al Jazeera",
@@ -18,19 +13,69 @@
       "name_fa": "فرانس ۲۴"
     },
     {
-      "id": "reuters",
-      "name_en": "Reuters",
-      "name_fa": "رویترز"
-    },
-    {
       "id": "dw",
       "name_en": "DW",
       "name_fa": "دویچه‌وله"
     },
     {
-      "id": "xinhua",
-      "name_en": "Xinhua",
-      "name_fa": "شینهوا"
+      "id": "guardian",
+      "name_en": "The Guardian",
+      "name_fa": "گاردین"
+    },
+    {
+      "id": "euronews",
+      "name_en": "Euronews",
+      "name_fa": "یورونیوز"
+    },
+    {
+      "id": "ap",
+      "name_en": "AP News",
+      "name_fa": "آسوشیتدپرس"
+    },
+    {
+      "id": "reuters",
+      "name_en": "Reuters",
+      "name_fa": "رویترز"
+    },
+    {
+      "id": "bbc",
+      "name_en": "BBC World",
+      "name_fa": "بی‌بی‌سی"
+    },
+    {
+      "id": "presstv",
+      "name_en": "Press TV",
+      "name_fa": "پرس‌تی‌وی"
+    },
+    {
+      "id": "irna",
+      "name_en": "IRNA",
+      "name_fa": "ایرنا"
+    },
+    {
+      "id": "mehrnews",
+      "name_en": "Mehr News",
+      "name_fa": "مهر"
+    },
+    {
+      "id": "alarabiya",
+      "name_en": "Al Arabiya",
+      "name_fa": "العربیه"
+    },
+    {
+      "id": "skynews",
+      "name_en": "Sky News",
+      "name_fa": "اسکای‌نیوز"
+    },
+    {
+      "id": "middleeasteye",
+      "name_en": "Middle East Eye",
+      "name_fa": "میدل ایست آی"
+    },
+    {
+      "id": "foreignpolicy",
+      "name_en": "Foreign Policy",
+      "name_fa": "فارن پالیسی"
     },
     {
       "id": "rt",
@@ -38,106 +83,48 @@
       "name_fa": "آر‌تی"
     },
     {
-      "id": "ap",
-      "name_en": "AP News",
-      "name_fa": "آسوشیتدپرس"
+      "id": "xinhua",
+      "name_en": "Xinhua",
+      "name_fa": "شینهوا"
+    },
+    {
+      "id": "tasnim",
+      "name_en": "Tasnim News",
+      "name_fa": "تسنیم"
     }
   ],
   "articles": [
     {
-      "id": "aljazeera_0",
-      "agencyId": "aljazeera",
-      "title": "From colony to cell: Sexual violence in Israeli prisons",
-      "title_fa": "از مستعمره تا سلول: خشونت جنسی در زندان‌های اسرائیل",
-      "lead": "این شهادت بخشی از یک الگوی گسترده‌تر است که در گزارش‌ها به خشونت جنسی در داخل زندان‌های اسرائیل اشاره دارد. این موضوع ابعاد حقوق بشری و مسائل مربوط به حقوق زندانیان را در منطقه برجسته می‌کند.",
-      "category": "politics",
-      "region": "west_asia",
-      "sourceUrl": "https://www.aljazeera.com/news/",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 5,
-        "neutral": 15,
-        "negative": 80
-      }
-    },
-    {
-      "id": "aljazeera_2",
-      "agencyId": "aljazeera",
-      "title": "‘Lots of things can still go wrong’ with US-Iran deal to end the war",
-      "title_fa": "\"بسیاری از مسائل هنوز می‌تواند در توافق آمریکا و ایران برای پایان دادن به جنگ اشتباه پیش برود\"",
-      "lead": "هنری انشر می‌گوید توافق آمریکا و ایران یک حل و فصل نهایی نیست، بلکه تنها آغاز فرآیندی است که می‌تواند با مشکلات زیادی روبرو شود. این اظهارات نگرانی‌ها درباره پایداری و موفقیت نهایی توافق صلح را افزایش می‌دهد.",
+      "id": "france24_2",
+      "agencyId": "france24",
+      "title": "Iran says signing of Islamabad memorandum will not take place on Sunday",
+      "title_fa": "ایران می‌گوید امضای یادداشت تفاهم اسلام‌آباد یکشنبه انجام نخواهد شد",
+      "lead": "ایران اعلام کرد که مراسم امضای یادداشت تفاهم اسلام‌آباد که قرار بود روز یکشنبه برگزار شود، لغو شده است. این خبر نشان دهنده تعویق یا تغییر در برنامه یک توافق مهم منطقه‌ای است.",
       "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://www.aljazeera.com/news/",
-      "time": "2 ساعت پیش",
+      "region": "west_asia",
+      "sourceUrl": "https://www.france24.com/en/live-news/dummy-link-2",
+      "time": "۲ ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
-        "conflict": true
+        "conflict": false
       },
       "sentiment": {
         "positive": 20,
-        "neutral": 30,
-        "negative": 50
-      }
-    },
-    {
-      "id": "aljazeera_3",
-      "agencyId": "aljazeera",
-      "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
-      "title_fa": "ایران تاریخ‌های تشییع و خاکسپاری رهبر فقید خامنه‌ای را اعلام کرد",
-      "lead": "مراسم تشییع در تهران و قم برگزار خواهد شد و سپس خاکسپاری در شهر مشهد، زادگاه وی، صورت می‌گیرد. این خبر نشان‌دهنده برنامه‌ریزی برای یک رویداد ملی مهم است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.aljazeera.com/news/",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 10,
         "neutral": 60,
-        "negative": 30
-      }
-    },
-    {
-      "id": "france24_10",
-      "agencyId": "france24",
-      "title": "Iran says signing of Islamabad memorandum will not take place on Sunday",
-      "title_fa": "ایران اعلام کرد که امضای تفاهم‌نامه اسلام‌آباد یکشنبه انجام نخواهد شد",
-      "lead": "ایران اعلام کرده است که امضای تفاهم‌نامه اسلام‌آباد که پیش‌بینی شده بود یکشنبه انجام شود، صورت نخواهد گرفت. این خبر می‌تواند نشان‌دهنده پیچیدگی‌ها یا تغییر در برنامه‌های دیپلماتیک بین‌المللی باشد.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://www.france24.com/en/",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 70,
         "negative": 20
       }
     },
     {
-      "id": "france24_11",
+      "id": "france24_3",
       "agencyId": "france24",
       "title": "Iran peace deal: \"Lebanon is the one to chart its own path forward\"",
-      "title_fa": "توافق صلح ایران: \"لبنان باید مسیر آینده خود را تعیین کند\"",
-      "lead": "نخست‌وزیر پاکستان روز جمعه گفت که ایالات متحده و ایران بر سر متن توافقی با هدف پایان دادن به جنگ خود در خاورمیانه به توافق رسیده‌اند. این خبر پیامدهای گسترده‌ای برای ثبات منطقه و روابط بین‌المللی خواهد داشت.",
+      "title_fa": "توافق صلح ایران: «لبنان است که مسیر خود را به جلو تعیین می‌کند»",
+      "lead": "نخست وزیر پاکستان روز جمعه اعلام کرد که ایالات متحده و ایران بر سر مفاد توافقی با هدف پایان دادن به جنگ آنها در خاورمیانه به توافق رسیده‌اند. این توافق ضمن تاکید بر نقش مستقل لبنان، گامی مهم در جهت کاهش تنش‌های منطقه‌ای تلقی می‌شود.",
       "category": "diplomacy",
       "region": "middleeast",
-      "sourceUrl": "https://www.france24.com/en/",
-      "time": "2 ساعت پیش",
+      "sourceUrl": "https://www.france24.com/en/live-news/dummy-link-3",
+      "time": "۲ ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -145,8 +132,8 @@
       },
       "sentiment": {
         "positive": 60,
-        "neutral": 20,
-        "negative": 20
+        "neutral": 30,
+        "negative": 10
       }
     }
   ]
