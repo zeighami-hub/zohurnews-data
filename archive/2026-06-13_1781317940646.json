@@ -1,0 +1,153 @@
+{
+  "generated_at": "2026-06-13T02:31:43.446Z",
+  "total": 5,
+  "agencies": [
+    {
+      "id": "bbc",
+      "name_en": "BBC World",
+      "name_fa": "بی‌بی‌سی"
+    },
+    {
+      "id": "aljazeera",
+      "name_en": "Al Jazeera",
+      "name_fa": "الجزیره"
+    },
+    {
+      "id": "france24",
+      "name_en": "France 24",
+      "name_fa": "فرانس ۲۴"
+    },
+    {
+      "id": "reuters",
+      "name_en": "Reuters",
+      "name_fa": "رویترز"
+    },
+    {
+      "id": "dw",
+      "name_en": "DW",
+      "name_fa": "دویچه‌وله"
+    },
+    {
+      "id": "xinhua",
+      "name_en": "Xinhua",
+      "name_fa": "شینهوا"
+    },
+    {
+      "id": "rt",
+      "name_en": "RT",
+      "name_fa": "آر‌تی"
+    },
+    {
+      "id": "ap",
+      "name_en": "AP News",
+      "name_fa": "آسوشیتدپرس"
+    }
+  ],
+  "articles": [
+    {
+      "id": "aljazeera_1",
+      "agencyId": "aljazeera",
+      "title": "US, Tehran signal peace deal within reach but not signed yet",
+      "title_fa": "آمریکا و تهران از توافق صلح نزدیک خبر می‌دهند اما هنوز امضا نشده است",
+      "lead": "ایالات متحده و ایران نشانه‌هایی از دستیابی به توافق صلح را ارسال کرده‌اند، اما این توافق هنوز به امضا نرسیده است. این خبر در بحبوحه تحولات منطقه‌ای و مذاکرات جاری مطرح شده است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2024/7/19/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 20,
+        "negative": 20
+      }
+    },
+    {
+      "id": "aljazeera_2",
+      "agencyId": "aljazeera",
+      "title": "Palestine football chief says he wasn’t granted US visa to attend World Cup",
+      "title_fa": "رئیس فوتبال فلسطین می‌گوید ویزای آمریکا برای حضور در جام جهانی به او داده نشده است",
+      "lead": "رئیس فدراسیون فوتبال فلسطین اعلام کرد که ویزای ایالات متحده برای شرکت در جام جهانی به او اعطا نشده است. جبرئیل رجوب در حال حاضر در مکزیک منتظر دریافت ویزای آمریکا برای حضور در جام جهانی ۲۰۲۶ است.",
+      "category": "politics",
+      "region": "west_asia",
+      "sourceUrl": "https://www.aljazeera.com/news/2024/7/19/palestine-football-chief-says-he-wasnt-granted-us-visa-to-attend-world-cup",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      }
+    },
+    {
+      "id": "aljazeera_6",
+      "agencyId": "aljazeera",
+      "title": "UAE to unlock frozen Iranian funds amid US ceasefire push: Sources",
+      "title_fa": "امارات متحده عربی در بحبوحه فشار آمریکا برای آتش‌بس، وجوه مسدود شده ایران را آزاد می‌کند: منابع",
+      "lead": "رویترز گزارش داده است که امارات متحده عربی موافقت کرده میلیاردها دلار از وجوه ایران را آزاد کند. این اقدام در میانه تلاش‌های آمریکا برای برقراری آتش‌بس صورت می‌گیرد، هرچند ابوظبی به سرعت این خبر را تکذیب کرد.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2024/7/19/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push-sources",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      }
+    },
+    {
+      "id": "france24_9",
+      "agencyId": "france24",
+      "title": "Israeli and Palestinian groups urge world not to abandon two-state solution",
+      "title_fa": "گروه‌های اسرائیلی و فلسطینی از جهان می‌خواهند راه حل دو کشوری را رها نکنند",
+      "lead": "گروه‌های جامعه مدنی اسرائیل و فلسطین در فرانسه از جامعه بین‌المللی درخواست کردند که راه حل دو کشوری را دنبال کند. آنها نسبت به پیامدهای رها کردن این راه حل هشدار دادند، که می‌تواند منطقه را به سمت خشونت و ناپایداری بیشتر سوق دهد.",
+      "category": "diplomacy",
+      "region": "west_asia",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20240719-israeli-and-palestinian-groups-urge-world-not-to-abandon-two-state-solution",
+      "time": "امروز",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      }
+    },
+    {
+      "id": "france24_10",
+      "agencyId": "france24",
+      "title": "Iran says US war deal could be signed remotely in 'coming days'",
+      "title_fa": "ایران می‌گوید توافق جنگی با آمریکا می‌تواند در \"روزهای آینده\" به صورت از راه دور امضا شود",
+      "lead": "وزیر خارجه ایران، عباس عراقچی، روز جمعه اعلام کرد که پیش‌نویس توافق برای پایان دادن به جنگ با ایالات متحده ممکن است ظرف چند روز آینده به صورت از راه دور امضا شود. این خبر نشان‌دهنده پیشرفت در مذاکرات بین دو کشور است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20240719-middle-east-live-iran-says-us-war-deal-could-be-signed-remotely-in-coming-days",
+      "time": "امروز",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 20,
+        "negative": 20
+      }
+    }
+  ]
+}
