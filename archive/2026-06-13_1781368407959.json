@@ -1,0 +1,404 @@
+{
+  "generated_at": "2026-06-13T16:33:07.059Z",
+  "total": 16,
+  "agencies": [
+    {
+      "id": "aljazeera",
+      "name_en": "Al Jazeera",
+      "name_fa": "الجزیره"
+    },
+    {
+      "id": "france24",
+      "name_en": "France 24",
+      "name_fa": "فرانس ۲۴"
+    },
+    {
+      "id": "dw",
+      "name_en": "DW",
+      "name_fa": "دویچه‌وله"
+    },
+    {
+      "id": "guardian",
+      "name_en": "The Guardian",
+      "name_fa": "گاردین"
+    },
+    {
+      "id": "foreignpolicy",
+      "name_en": "Foreign Policy",
+      "name_fa": "فارن پالیسی"
+    },
+    {
+      "id": "skynews",
+      "name_en": "Sky News",
+      "name_fa": "اسکای‌نیوز"
+    },
+    {
+      "id": "presstv",
+      "name_en": "Press TV",
+      "name_fa": "پرس‌تی‌وی"
+    },
+    {
+      "id": "nytimes",
+      "name_en": "NY Times",
+      "name_fa": "نیویورک تایمز"
+    },
+    {
+      "id": "independent",
+      "name_en": "Independent",
+      "name_fa": "ایندیپندنت"
+    },
+    {
+      "id": "bbc",
+      "name_en": "BBC World",
+      "name_fa": "بی‌بی‌سی"
+    },
+    {
+      "id": "economist",
+      "name_en": "The Economist",
+      "name_fa": "اکونومیست"
+    },
+    {
+      "id": "arabnews",
+      "name_en": "Arab News",
+      "name_fa": "عرب نیوز"
+    }
+  ],
+  "articles": [
+    {
+      "id": "aljazeera_0",
+      "agencyId": "aljazeera",
+      "title": "Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp",
+      "title_fa": "تلفات غزه پس از «آتش‌بس» به ۹۸۳ نفر رسید؛ حمله اسرائیل اردوگاه آوارگان را هدف قرار داد",
+      "lead": "حملات اسرائیل به اردوگاه آوارگان البریج در مرکز غزه، یک نفر را به شهادت رساند. همچنین یک فلسطینی معلول در کرانه باختری اشغالی هدف گلوله قرار گرفت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      }
+    },
+    {
+      "id": "aljazeera_1",
+      "agencyId": "aljazeera",
+      "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+      "title_fa": "در حالی که ایران و آمریکا به توافقی نزدیک می‌شوند، تهران درگیری خونین دیگری را به یاد می‌آورد",
+      "lead": "مقامات ایرانی اعلام کرده‌اند که ترورها و حملات در طول سال گذشته نتوانسته‌اند عزم آن‌ها را از بین ببرند. این خبر در آستانه مذاکرات احتمالی برای دستیابی به توافق با آمریکا منتشر شده است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      }
+    },
+    {
+      "id": "aljazeera_3",
+      "agencyId": "aljazeera",
+      "title": "Iranians divided on peace prospects after US-Iran say a deal is near",
+      "title_fa": "ایرانیان درباره چشم‌انداز صلح پس از نزدیک شدن به توافق آمریکا و ایران اختلاف نظر دارند",
+      "lead": "پس از اعلام نزدیکی ایران و آمریکا به یک توافق موقت برای پایان دادن به جنگ، واکنش‌های متفاوتی در میان ایرانیان مشاهده شد. این توافق می‌تواند تاثیرات عمیقی بر منطقه داشته باشد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      }
+    },
+    {
+      "id": "aljazeera_5",
+      "agencyId": "aljazeera",
+      "title": "From colony to cell: Sexual violence in Israeli prisons",
+      "title_fa": "از مستعمره تا زندان: خشونت جنسی در زندان‌های اسرائیل",
+      "lead": "این شهادت بخشی از الگوی گسترده‌تری است که در گزارش‌ها درباره سوءاستفاده جنسی در زندان‌های اسرائیل مستند شده است. این موضوع نگرانی‌های جدی حقوق بشری را برانگیخته است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/13/from-colony-to-cell-sexual-violence-in-israeli-prisons?traffic_source=rss",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      }
+    },
+    {
+      "id": "france24_8",
+      "agencyId": "france24",
+      "title": "Iran: Will a peace deal with the US be reached soon?",
+      "title_fa": "ایران: آیا به زودی توافق صلح با آمریکا حاصل خواهد شد؟",
+      "lead": "شهباز شریف، نخست‌وزیر پاکستان، اعلام کرد که توافق برای پایان دادن به جنگ نزدیک‌تر از \"هر زمان دیگری\" است و انتظار می‌رود ظرف ۲۴ ساعت نهایی شود. پاکستان برای امضای الکترونیکی آماده می‌شد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/video/20260613-iran-will-a-peace-deal-with-the-us-be-reached-soon",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      }
+    },
+    {
+      "id": "france24_9",
+      "agencyId": "france24",
+      "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
+      "title_fa": "لبنان از حملات در جنوب کشور خبر داد؛ اسرائیل هشدار تخلیه گسترده صادر کرد",
+      "lead": "لبنان روز شنبه از حملات اسرائیل به جنوب این کشور خبر داد. ارتش اسرائیل هشدارهای تخلیه گسترده‌ای برای بیش از ۲۰ منطقه از جمله شهر نبطیه صادر کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/video/20260613-lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-warnings",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      }
+    },
+    {
+      "id": "france24_10",
+      "agencyId": "france24",
+      "title": "US-Iran peace agreement: A reason to be optimistic?",
+      "title_fa": "توافق صلح آمریکا و ایران: دلیلی برای خوش‌بینی؟",
+      "lead": "سه مقام منطقه‌ای روز جمعه به آسوشیتدپرس گفتند که ایالات متحده و ایران در آستانه امضای توافقی برای پایان دادن به جنگ هستند. یک مقام ارشد آمریکایی این توافق موقت را تأیید کرد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/video/20260613-us-iran-peace-agreement-a-reason-to-be-optimistic",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      }
+    },
+    {
+      "id": "dw_2",
+      "agencyId": "dw",
+      "title": "US deports migrants, including Iranian activist, to CAR",
+      "title_fa": "آمریکا مهاجران، از جمله یک فعال ایرانی، را به جمهوری آفریقای مرکزی اخراج کرد",
+      "lead": "ایالات متحده مهاجران را، از جمله یک فعال ایرانی، به جمهوری آفریقای مرکزی (CAR) اخراج کرده است. تعداد دقیق مهاجران اخراج شده مشخص نیست اما گمان می‌رود حدود دو دوجین نفر باشند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/us-deports-migrants-including-iranian-activist-to-car/a-77537594?maca=en-rss-en-all-1573-xml-mrss",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      }
+    },
+    {
+      "id": "dw_7",
+      "agencyId": "dw",
+      "title": "Iran war: Pakistan PM says peace deal expected in 24 hours",
+      "title_fa": "نخست وزیر پاکستان: انتظار می‌رود توافق صلح ایران ظرف ۲۴ ساعت آینده نهایی شود",
+      "lead": "شهباز شریف، نخست وزیر پاکستان، اعلام کرد که آمریکا و ایران در حال نزدیک شدن به نهایی کردن یک توافق صلح هستند. او گفت که انتظار می‌رود این توافق ظرف ۲۴ ساعت آینده نهایی شود.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/iran-war-pakistan-pm-says-peace-deal-expected-in-24-hours/live-77535647?maca=en-rss-en-all-1573-xml-mrss",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      }
+    },
+    {
+      "id": "foreignpolicy_4",
+      "agencyId": "foreignpolicy",
+      "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
+      "title_fa": "انتخاب مجدد نتانیاهو ممکن است به نتیجه جنگ ایران گره بخورد",
+      "lead": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به اسرائیلی‌ها «پیروزی کامل» را وعده داده بود، اما در سه جبهه اصلی به این وعده عمل نکرده است. آینده سیاسی او ممکن است به شدت تحت تأثیر نتایج جنگ احتمالی با ایران قرار گیرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      }
+    },
+    {
+      "id": "foreignpolicy_5",
+      "agencyId": "foreignpolicy",
+      "title": "Trump’s Big Weekend Could Derail the G-7",
+      "title_fa": "آخر هفته مهم ترامپ می‌تواند گروه ۷ را از مسیر خارج کند",
+      "lead": "با یا بدون توافق، موضوع جنگ ایران سایه بزرگی بر نشست سه‌روزه سران گروه ۷ افکنده است. تصمیمات و رویکردهای ترامپ در این نشست، می‌تواند بر آینده روابط بین‌الملل و تنش‌های منطقه‌ای تأثیرگذار باشد.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/12/trump-iran-war-peace-talks-deal-g7-leaders-summit/",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 15,
+        "neutral": 45,
+        "negative": 40
+      }
+    },
+    {
+      "id": "foreignpolicy_10",
+      "agencyId": "foreignpolicy",
+      "title": "Trump Is Shattering the Illusion of the West",
+      "title_fa": "ترامپ توهم غرب را در هم می‌شکند",
+      "lead": "رویکرد رئیس‌جمهور آمریکا به یک تمدن‌گرایی امپریالیستی، در حال تخریب همان چیزی است که ادعا می‌کند از آن دفاع می‌کند. این سیاست‌ها می‌تواند پیامدهای گسترده‌ای بر روابط بین‌الملل و نحوه تعامل غرب با کشورهایی نظیر ایران و روسیه داشته باشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/12/trump-west-china-rome-civilization-vance-iran-hegseth-russia/",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      }
+    },
+    {
+      "id": "skynews_5",
+      "agencyId": "skynews",
+      "title": "Five claims from former Palestinian prime minister - and why they matter",
+      "title_fa": "پنج ادعای نخست‌وزیر پیشین فلسطین و چرایی اهمیت آنها",
+      "lead": "نخست‌وزیر پیشین فلسطین، محمد اشتیه، در مصاحبه‌ای مهم پنج ادعا مطرح کرد. این ادعاها از مهمترین دیدگاه‌های تأثیرگذار در کرانه باختری محسوب می‌شوند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/five-claims-from-former-palestinian-prime-minister-mohammad-shtayyeh-and-why-they-matter-13553061",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "nytimes_6",
+      "agencyId": "nytimes",
+      "title": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure",
+      "title_fa": "با نزدیک شدن به توافق، آمریکا با ایرانی مواجه است که تمایل بیشتری به مقاومت در برابر فشار دارد",
+      "lead": "به نظر می‌رسد مذاکرات برای دستیابی به توافق با ایران در حال نزدیک شدن به نتیجه است. رهبران نظامی‌گرای جدید ایران نشان داده‌اند که توانایی مقاومت در برابر شدیدترین فشارهای آمریکا و اسرائیل را دارند و آماده پذیرش ریسک‌های بیشتری هستند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "nytimes_9",
+      "agencyId": "nytimes",
+      "title": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
+      "title_fa": "به‌روزرسانی زنده جنگ ایران: میانجی می‌گوید توافق صلح ظرف 24 ساعت نهایی می‌شود",
+      "lead": "نخست‌وزیر پاکستان، که میانجی کلیدی در مذاکرات آمریکا و ایران است، اعلام کرد که انتظار می‌رود توافق صلح \"احتمالاً\" حاصل شود. یک مقام ایرانی ضمن تعدیل انتظارات، گفت که توافق می‌تواند به زودی امضا شود.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "bbc_8",
+      "agencyId": "bbc",
+      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "title_fa": "اسرائیل حملات هوایی به لبنان انجام داد؛ ایران از نزدیک شدن توافق با آمریکا خبر می‌دهد",
+      "lead": "رسانه‌های دولتی لبنان از انجام حملات هوایی اسرائیل به این کشور خبر داده‌اند. این حملات در حالی صورت می‌گیرد که وزیر خارجه ایران مدعی شده توافقی برای پایان دادن به درگیری‌ها با آمریکا نزدیک است.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      }
+    }
+  ]
+}
