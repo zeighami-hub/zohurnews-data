@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T22:31:32.872Z",
-  "total": 2,
+  "generated_at": "2026-06-14T00:32:28.052Z",
+  "total": 8,
   "agencies": [
     {
       "id": "aljazeera",
@@ -65,36 +65,99 @@
   ],
   "articles": [
     {
-      "id": "aljazeera_0",
+      "id": "aljazeera_1",
       "agencyId": "aljazeera",
-      "title": "Qatar net late goal against Swiss to secure historic first World Cup point",
-      "title_fa": "قطر با گل دیرهنگام مقابل سوئیس، اولین امتیاز تاریخی خود را در جام جهانی کسب کرد",
-      "lead": "تیم ملی فوتبال قطر، قهرمان آسیا، در بازی افتتاحیه جام جهانی ۲۰۲۶ مقابل سوئیس در وقت‌های تلف شده به تساوی ۱-۱ دست یافت. این نتیجه، اولین امتیاز تاریخی این کشور در رقابت‌های جام جهانی را به ارمغان آورد.",
+      "title": "Iran war live: Trump says deal to be signed today; Tehran urges caution",
+      "title_fa": "جنگ ایران به صورت زنده: ترامپ می‌گوید توافق امروز امضا می‌شود؛ تهران خواستار احتیاط شد",
+      "lead": "ایالات متحده و ایران به نظر می‌رسد در آستانه امضای مرحله اول یک توافق صلح هستند. با این حال، دو طرف در مورد زمان امضای آن اختلاف نظر دارند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      }
+    },
+    {
+      "id": "aljazeera_2",
+      "agencyId": "aljazeera",
+      "title": "Brazil and Morocco kickoff amid electric atmosphere",
+      "title_fa": "برزیل و مراکش در جوی پرشور به رقابت پرداختند",
+      "lead": "هواداران برزیل و مراکش با آوازخوانی، رقص و شعار دادن راهی یکی از مورد انتظارترین مسابقات مرحله گروهی شدند. این بازی در فضایی هیجان‌انگیز آغاز شد و شور و هیجان زیادی را به همراه داشت.",
       "category": "culture",
       "region": "middleeast",
-      "sourceUrl": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss",
-      "time": "لحظاتی پیش",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/13/aje-onl-nf_brazil-and-morocco-kickoff-amid-electric-atmosphere-130626?traffic_source=rss",
+      "time": "1 روز پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "low",
         "conflict": false
       },
       "sentiment": {
-        "positive": 70,
-        "neutral": 30,
+        "positive": 80,
+        "neutral": 20,
         "negative": 0
       }
     },
     {
-      "id": "aljazeera_5",
+      "id": "aljazeera_3",
       "agencyId": "aljazeera",
-      "title": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
-      "title_fa": "حملات اسرائیل به لبنان همزمان با اعلام آمریکا مبنی بر امضای توافق ایران در یکشنبه",
-      "lead": "انفجارها جنوب لبنان را در روز شنبه لرزاند، زیرا اسرائیل به حملات خود ادامه داد. این تحولات در حالی رخ می‌دهد که آمریکا اعلام کرده توافق هسته‌ای با ایران روز یکشنبه به امضا خواهد رسید، که می‌تواند بر تنش‌های منطقه‌ای تاثیرگذار باشد.",
-      "category": "diplomacy",
+      "title": "Qatar net late against Switzerland to secure historic first World Cup point",
+      "title_fa": "قطر در اواخر بازی مقابل سوئیس گل زد تا اولین امتیاز تاریخی خود در جام جهانی را کسب کند",
+      "lead": "قهرمان جام ملت‌های آسیا، قطر، در وقت‌های تلف شده با نتیجه 1-1 مقابل سوئیس مساوی کرد. این اتفاق در بازی افتتاحیه جام جهانی 2026 رخ داد و اولین امتیاز تاریخی قطر در این رقابت‌ها را رقم زد.",
+      "category": "culture",
       "region": "middleeast",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss",
-      "time": "لحظاتی پیش",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss",
+      "time": "1 روز پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      }
+    },
+    {
+      "id": "france24_8",
+      "agencyId": "france24",
+      "title": "World Cup 2026: Brazil and Morocco draw in heavyweight Group C opener",
+      "title_fa": "جام جهانی ۲۰۲۶: تساوی برزیل و مراکش در دیدار پربرخورد گروه C",
+      "lead": "برزیل و مراکش در گروه C جام جهانی ۲۰۲۶ در ورزشگاه مت‌لایف به تساوی ۱-۱ رسیدند. این دیدار که یکی از مورد انتظارترین بازی‌ها بود، با گل‌زنی سایبری و وینیسیوس همراه شد.",
+      "category": "culture",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/sport/20260614-world-cup-2026-brazil-and-morocco-draw-in-heavyweight-group-c-opener",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      }
+    },
+    {
+      "id": "france24_10",
+      "agencyId": "france24",
+      "title": "Middle East Live: Dozens protest peace deal outside Iran foreign ministry",
+      "title_fa": "خاورمیانه زنده: ده‌ها نفر در اعتراض به توافق صلح در مقابل وزارت خارجه ایران تجمع کردند",
+      "lead": "ده‌ها نفر روز شنبه در مقابل یکی از دفاتر وزارت خارجه در شهر مشهد ایران تظاهرات کردند. آنها علیه دیپلمات ارشد عباس عراقچی، پس از مصاحبه تلویزیونی او در مورد توافق، شعار دادند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260613-middle-east-live-dozens-protest-peace-deal-outside-iran-foreign-ministry",
+      "time": "1 روز پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -102,8 +165,71 @@
       },
       "sentiment": {
         "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    },
+    {
+      "id": "france24_11",
+      "agencyId": "france24",
+      "title": "World Cup 2026: Saibari and Vinicius spark draw in Group C drama",
+      "title_fa": "جام جهانی ۲۰۲۶: سایبری و وینیسیوس دراماتیک‌ترین تساوی گروه C را رقم زدند",
+      "lead": "برزیل و مراکش در بازی افتتاحیه گروه C خود در ورزشگاه مت‌لایف با نتیجه ۱-۱ مساوی کردند. گل زودهنگام سایبری مراکش را پیش انداخت، اما وینیسیوس جونیور قبل از نیمه اول بازی را به تساوی کشاند.",
+      "category": "culture",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/sport/20260613-brazil-morocco-live-world-cup-2026-first-heavyweight-clash-in-group-stage",
+      "time": "1 روز پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
         "neutral": 20,
-        "negative": 70
+        "negative": 0
+      }
+    },
+    {
+      "id": "france24_0",
+      "agencyId": "france24",
+      "title": "World Cup 2026: Qatar stuns Switzerland with late equaliser",
+      "title_fa": "جام جهانی ۲۰۲۶: قطر با گل دیرهنگام، سوئیس را شوکه کرد",
+      "lead": "سوئیس در دیدار افتتاحیه مرحله گروهی جام جهانی ۲۰۲۶ مقابل قطر با تساوی ۱-۱ غافلگیر شد. قطر موفق شد با یک گل دیرهنگام، سوئیس را شوکه کرده و نتیجه را مساوی کند.",
+      "category": "culture",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/sport/20260613-world-cup-2026-qatar-stuns-switzerland-with-late-equaliser",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "france24_1",
+      "agencyId": "france24",
+      "title": "World Cup 2026: Qatar stuns Switzerland with late equaliser",
+      "title_fa": "جام جهانی ۲۰۲۶: قطر با گل دیرهنگام، سوئیس را شوکه کرد",
+      "lead": "سوئیس در دیدار افتتاحیه مرحله گروهی جام جهانی ۲۰۲۶ مقابل قطر با تساوی ۱-۱ غافلگیر شد. قطر موفق شد با یک گل دیرهنگام، سوئیس را شوکه کرده و نتیجه را مساوی کند.",
+      "category": "culture",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/sport/20260613-world-cup-2026-qatar-stuns-switzerland-with-late-equaliser",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
       }
     }
   ]
