@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-14T14:00:41.109Z",
-  "total": 120,
+  "fetched_at": "2026-06-14T15:24:01.092Z",
+  "total": 144,
   "agencies": [
     {
       "id": "aljazeera",
@@ -83,9 +83,19 @@
       "name_fa": "میدل ایست آی"
     },
     {
-      "id": "irna",
+      "id": "presstv",
+      "name_en": "Press TV",
+      "name_fa": "پرس‌تی‌وی"
+    },
+    {
+      "id": "irna_fa",
       "name_en": "IRNA",
       "name_fa": "ایرنا"
+    },
+    {
+      "id": "irna_en",
+      "name_en": "IRNA English",
+      "name_fa": "ایرنا انگلیسی"
     },
     {
       "id": "mehrnews",
@@ -106,11 +116,65 @@
       "id": "mashregh",
       "name_en": "Mashregh News",
       "name_fa": "مشرق"
+    },
+    {
+      "id": "tasnim",
+      "name_en": "Tasnim News",
+      "name_fa": "تسنیم"
+    },
+    {
+      "id": "farsnews",
+      "name_en": "Fars News",
+      "name_fa": "فارس"
+    },
+    {
+      "id": "isna",
+      "name_en": "ISNA",
+      "name_fa": "ایسنا"
+    },
+    {
+      "id": "tabnak",
+      "name_en": "Tabnak",
+      "name_fa": "تابناک"
+    },
+    {
+      "id": "entekhab",
+      "name_en": "Entekhab",
+      "name_fa": "انتخاب"
+    },
+    {
+      "id": "donya_eqtesad",
+      "name_en": "Donya-e Eqtesad",
+      "name_fa": "دنیای اقتصاد"
     }
   ],
   "articles": [
     {
       "id": "aljazeera_0",
+      "agencyId": "aljazeera",
+      "title": "EU set to hold membership talks with Ukraine",
+      "description": "EU set to hold membership talks with Ukraine",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/eu-set-to-hold-membership-talks-with-ukraine?traffic_source=rss",
+      "pubDate": "Sun, 14 Jun 2026 14:39:12 +0000"
+    },
+    {
+      "id": "aljazeera_1",
+      "agencyId": "aljazeera",
+      "title": "‘We were herded like animals’: Freed from Boko Haram captivity",
+      "description": "More than 360 people abducted by Boko Haram have been rescued in northeastern Nigeria.",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/we-were-herded-like-animals-freed-from-boko-haram-captivity?traffic_source=rss",
+      "pubDate": "Sun, 14 Jun 2026 14:37:48 +0000"
+    },
+    {
+      "id": "aljazeera_2",
+      "agencyId": "aljazeera",
+      "title": "US asks Anthropic to block global access to top AI models: Why it matters",
+      "description": "Foreigners barred from accessing top AI models, underscoring Donald Trump&#039;s policy of export controls over high tech.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/14/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters?traffic_source=rss",
+      "pubDate": "Sun, 14 Jun 2026 13:57:22 +0000"
+    },
+    {
+      "id": "aljazeera_3",
       "agencyId": "aljazeera",
       "title": "Donald Trump’s name removed from Kennedy Center",
       "description": "Trump’s name has been removed from the Kennedy Center after a court ruling, but adorns many other things and places.",
@@ -118,7 +182,7 @@
       "pubDate": "Sun, 14 Jun 2026 13:38:07 +0000"
     },
     {
-      "id": "aljazeera_1",
+      "id": "aljazeera_4",
       "agencyId": "aljazeera",
       "title": "Sexual Violence in Israeli Prisons: What History Tells Us",
       "description": "Sexual violence against Palestinians in Israeli custody is often framed as a post-October 7 issue. But historical record",
@@ -126,7 +190,7 @@
       "pubDate": "Sun, 14 Jun 2026 13:06:52 +0000"
     },
     {
-      "id": "aljazeera_2",
+      "id": "aljazeera_5",
       "agencyId": "aljazeera",
       "title": "Anticipation, pushback in Iran as mediators work to finalise deal with US",
       "description": "Israel attacked Beirut again in an apparent attempt to test and derail an agreement.",
@@ -134,7 +198,7 @@
       "pubDate": "Sun, 14 Jun 2026 12:58:08 +0000"
     },
     {
-      "id": "aljazeera_3",
+      "id": "aljazeera_6",
       "agencyId": "aljazeera",
       "title": "Spain vs Cape Verde: World Cup – Lamine Yamal, predictions and how to watch",
       "description": "Pre-tournament favourites Spain open their Group H campaign with a match against World Cup debutants Cape Verde.",
@@ -142,100 +206,76 @@
       "pubDate": "Sun, 14 Jun 2026 11:59:04 +0000"
     },
     {
-      "id": "aljazeera_4",
+      "id": "aljazeera_7",
       "agencyId": "aljazeera",
       "title": "World Cup 2026: Biggest takeaways from Brazil-Morocco group match",
-      "description": "Vinicius Junior scored a brilliant goal to dig Brazil out of trouble after Ismael Saibari had put Morocco ahead. ",
+      "description": "Vinicius Junior scored a brilliant goal to dig Brazil out of trouble after Ismael Saibari had put Morocco ahead.",
       "sourceUrl": "https://www.aljazeera.com/sports/2026/6/14/world-cup-2026-biggest-takeaways-from-brazil-morocco-group-match?traffic_source=rss",
       "pubDate": "Sun, 14 Jun 2026 11:22:05 +0000"
     },
     {
-      "id": "aljazeera_5",
-      "agencyId": "aljazeera",
-      "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
-      "description": "Israel has bombed the southern suburbs of Beirut, saying it targeted Hezbollah ‘infrastructure’.",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
-      "pubDate": "Sun, 14 Jun 2026 11:15:23 +0000"
-    },
-    {
-      "id": "aljazeera_6",
-      "agencyId": "aljazeera",
-      "title": "At least three killed as Israel attacks southern Beirut",
-      "description": "Israel warns of attacks as Iran insists Lebanon must be included in any peace deal with the United States.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
-      "pubDate": "Sun, 14 Jun 2026 10:25:45 +0000"
-    },
-    {
-      "id": "aljazeera_7",
-      "agencyId": "aljazeera",
-      "title": "Romanian president picks Liberal former mayor as PM to form new government",
-      "description": "Adrian Vestea nominated as prime minister after previous choice, Eugen Tomac, withdraws.",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/6/14/romanian-president-picks-liberal-former-mayor-as-pm-to-form-new-government?traffic_source=rss",
-      "pubDate": "Sun, 14 Jun 2026 09:31:30 +0000"
-    },
-    {
       "id": "france24_0",
       "agencyId": "france24",
-      "title": "Brazil struggle against Morocco, Australia stun Turkiye",
-      "description": "\nMorocco looked impressive in their first game against Brazil, but Vinicius managed to bring it level with a beautiful goal. Switzerland also struggled against Qatar, despite being favourites to top their group. Scotland brought the vibes to their match against Haiti, and a deflected shot by McGuinn gave Scotland their first world cup win in 28 years. Unexpectedly, Australia won 2-0 against Turkiye.\n",
-      "sourceUrl": "https://www.france24.com/en/tv-shows/sports/20260614-brazil-struggle-against-morocco-australia-stun-turkiye",
-      "pubDate": "Sun, 14 Jun 2026 11:40:03 GMT"
+      "title": "The week in pictures: World Cup 2026 kicks off, the Pope visits Spain and the White House prepares for a cage fight showdown",
+      "description": "The Pope visits Segrada Familia during his trip to Barcelona, the 2026 football World Cup kicks off in Mexico city, and the White House prepares for its first cage fight showdown. FRANCE 24 looks back at some of the week's most striking images.",
+      "sourceUrl": "https://www.france24.com/en/culture/20260614-the-week-in-pictures-world-cup-2026-kicks-off-the-pope-visits-spain-and-the-white-house-prepares-for-a-cage-fight-showdown",
+      "pubDate": "Sun, 14 Jun 2026 14:44:35 GMT"
     },
     {
       "id": "france24_1",
       "agencyId": "france24",
-      "title": "'Must-see event', rare sumo tournament kicks off in Paris",
-      "description": "\nA 150-strong delegation, two chartered planes... More than 30 years after their last visit to France, the elite of sumo wrestling – Japan's national and sacred sport – is making a highly anticipated return to Paris for a weekend showcase.\n",
-      "sourceUrl": "https://www.france24.com/en/video/20260614-must-see-event-rare-sumo-tournament-kicks-off-in-paris",
-      "pubDate": "Sun, 14 Jun 2026 11:03:16 GMT"
+      "title": "UK celebrates King Charles’s official birthday with Trooping the Colour",
+      "description": "Crowds have gathered in central London for the Trooping the Colour ceremony to mark King Charles III’s official birthday.",
+      "sourceUrl": "https://www.france24.com/en/video/20260614-uk-celebrates-king-charles-s-official-birthday-with-trooping-the-colour",
+      "pubDate": "Sun, 14 Jun 2026 13:52:23 GMT"
     },
     {
       "id": "france24_2",
       "agencyId": "france24",
-      "title": "EU says to resume membership talks with Ukraine on Monday",
-      "description": "\nThe European Union will resume membership talks with Ukraine on Monday, the bloc announced, after Hungary lifted the veto imposed by its previous pro-Russian leader.\n",
-      "sourceUrl": "https://www.france24.com/en/video/20260614-eu-says-to-resume-membership-talks-with-ukraine-on-monday",
-      "pubDate": "Sun, 14 Jun 2026 11:02:01 GMT"
+      "title": "Beirut strikes: 'No point' in talks if US cannot uphold 'commitments'",
+      "description": "Iranian chief negotiator Mohammad Bagher Ghalibaf said on Sunday there was \"no point\" in continuing peace talks with the United States after its ally Israel attacked Beirut's southern suburbs.",
+      "sourceUrl": "https://www.france24.com/en/video/20260614-beirut-strikes-no-point-in-talks-if-us-cannot-uphold-commitments",
+      "pubDate": "Sun, 14 Jun 2026 13:50:43 GMT"
     },
     {
       "id": "france24_3",
       "agencyId": "france24",
-      "title": "G7 meeting begins in France this Monday",
-      "description": "\nU.S. ​President ​Donald Trump will meet with Middle ​Eastern ‌leaders ⁠and ‌attend a working session ⁠with Ukrainian President ​Volodymyr Zelenskiy ‌during the G7 summit ‌in France ​next week, senior U.S. administration officials ​said.\n",
-      "sourceUrl": "https://www.france24.com/en/video/20260614-g7-meeting-begins-in-france-this-monday",
-      "pubDate": "Sun, 14 Jun 2026 10:57:38 GMT"
+      "title": "Trump hosts White House cage fights amid war and political scrutiny",
+      "description": "Donald Trump hosts a card of seven mixed martial arts fights to be held on Sunday inside a specially built arena on the White House's South Lawn on his 80th birthday, a spectacle spotlighting his norm-defying style at a tense moment in his presidency. We discuss it with Ellen Kountz, Dean of the Fin",
+      "sourceUrl": "https://www.france24.com/en/video/20260614-trump-hosts-white-house-cage-fights-amid-war-and-political-scrutiny",
+      "pubDate": "Sun, 14 Jun 2026 13:49:00 GMT"
     },
     {
       "id": "france24_4",
       "agencyId": "france24",
-      "title": "Switzerland: After rapid population growth, right-wing party supports cap vote",
-      "description": "\nSwiss voters will decide the fate of a divisive anti-immigration proposal on Sunday to cap the country's population, and another referendum on restricting access to conscientious objection to military service.\n \nFrance 24's John Zarocostas tells us more.\n",
-      "sourceUrl": "https://www.france24.com/en/video/20260614-switzerland-after-rapid-population-growth-right-wing-party-supports-cap-vote",
-      "pubDate": "Sun, 14 Jun 2026 10:56:33 GMT"
+      "title": "Israeli military strikes Beirut suburbs in the lead-up to anticipated US-Iran deal",
+      "description": "The Israeli military said it launched strikes on Hezbollah targets in Beirut on Sunday despite ongoing efforts to negotiate an end to the U.S.-Iran war. Smoke could be seen rising over the Lebanese capital. We discuss the latest developments with our correspondent in Tehran, Reza Sayah.",
+      "sourceUrl": "https://www.france24.com/en/video/20260614-israeli-military-strikes-beirut-suburbs-in-the-lead-up-to-anticipated-us-iran-deal",
+      "pubDate": "Sun, 14 Jun 2026 13:47:02 GMT"
     },
     {
       "id": "france24_5",
       "agencyId": "france24",
-      "title": "US: New York Knicks win first NBA championship since 1973",
-      "description": "\nThe New York Knicks are champions of the NBA for the first time since 1973, beating the San Antonio Spurs in five games for this title. The clincher came Saturday night in a 94-90 victory, the Knicks' fourth comeback win of the series.\n",
-      "sourceUrl": "https://www.france24.com/en/video/20260614-us-new-york-knicks-win-first-nba-championship-since-1973",
-      "pubDate": "Sun, 14 Jun 2026 10:55:09 GMT"
+      "title": "Brazil struggle against Morocco, Australia stun Turkiye",
+      "description": "Morocco looked impressive in their first game against Brazil, but Vinicius managed to bring it level with a beautiful goal. Switzerland also struggled against Qatar, despite being favourites to top their group. Scotland brought the vibes to their match against Haiti, and a deflected shot by McGuinn ",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/sports/20260614-brazil-struggle-against-morocco-australia-stun-turkiye",
+      "pubDate": "Sun, 14 Jun 2026 11:40:03 GMT"
     },
     {
       "id": "france24_6",
       "agencyId": "france24",
-      "title": "Colombia leftist candidate says ready to overhaul peace process",
-      "description": "\nColombia's left-wing presidential hopeful Ivan Cepeda said he was open to making changes to the much-criticized peace process launched by outgoing President Gustavo Petro, his staunchest ally.\n",
-      "sourceUrl": "https://www.france24.com/en/video/20260614-colombia-leftist-candidate-says-ready-to-overhaul-peace-process",
-      "pubDate": "Sun, 14 Jun 2026 10:53:30 GMT"
+      "title": "'Must-see event', rare sumo tournament kicks off in Paris",
+      "description": "A 150-strong delegation, two chartered planes... More than 30 years after their last visit to France, the elite of sumo wrestling – Japan's national and sacred sport – is making a highly anticipated return to Paris for a weekend showcase.",
+      "sourceUrl": "https://www.france24.com/en/video/20260614-must-see-event-rare-sumo-tournament-kicks-off-in-paris",
+      "pubDate": "Sun, 14 Jun 2026 11:03:16 GMT"
     },
     {
       "id": "france24_7",
       "agencyId": "france24",
-      "title": "Thousands of protesters expected in Geneva ahead of nearby G7 summit",
-      "description": "\nOn the eve of the G7 summit in Evian, France, neighbouring Geneva is expecting thousands of protesters to converge on the city on Sunday, under close police surveillance, more than 20 years after the violence that marred the 2003 G8 summit. The \"No-G7\" coalition of associations, unions, and left-wing groups says it aims to denounce \"fascism and imperialism\".\n",
-      "sourceUrl": "https://www.france24.com/en/europe/20260614-thousands-of-protesters-expected-in-geneva-ahead-of-g7-summit",
-      "pubDate": "Sun, 14 Jun 2026 09:17:13 GMT"
+      "title": "EU says to resume membership talks with Ukraine on Monday",
+      "description": "The European Union will resume membership talks with Ukraine on Monday, the bloc announced, after Hungary lifted the veto imposed by its previous pro-Russian leader.",
+      "sourceUrl": "https://www.france24.com/en/video/20260614-eu-says-to-resume-membership-talks-with-ukraine-on-monday",
+      "pubDate": "Sun, 14 Jun 2026 11:02:01 GMT"
     },
     {
       "id": "dw_0",
@@ -305,7 +345,7 @@
       "id": "guardian_0",
       "agencyId": "guardian",
       "title": "London council seizes social housing flat rented by Sierra Leone first lady",
-      "description": "<p>Fatima Jabbe-Bio kept tenancy in Southwark despite living for much of year at presidential lodge in Freetown</p><p>A social housing flat rented by Sierra Leone’s first lady has been seized by a London council.</p><p>Southwark council confirmed it had repossessed the two-bedroom home in Walworth previously occupied by Fatima Jabbe-Bio, whose tenancy was reported by <a href=\"https://www.thetimes.com/uk/london/article/sierra-leones-first-lady-rents-a-council-flat-in-south-london-8htp25xs3\">the Times</a> last year.</p> <a href=\"https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady\">Continue reading...</a>",
+      "description": "Fatima Jabbe-Bio kept tenancy in Southwark despite living for much of year at presidential lodge in FreetownA social housing flat rented by Sierra Leone’s first lady has been seized by a London council.Southwark council confirmed it had repossessed the two-bedroom home in Walworth previously occupie",
       "sourceUrl": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
       "pubDate": "Thu, 11 Jun 2026 15:19:15 GMT"
     },
@@ -313,7 +353,7 @@
       "id": "guardian_1",
       "agencyId": "guardian",
       "title": "Trump targeting immigrants from countries hit most by climate shocks",
-      "description": "<p>A Guardian analysis reveals how most of 39 countries facing US entry restrictions are most vulnerable environmentally</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jun/10/climate-change-crisis-refugees\">‘Every day it’s more barriers’: how the US is shutting out climate refugees</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s immigration crackdown is largely targeting people from the countries most vulnerable to displacement from climate-driven disasters, a Guardian analysis shows.</p><p>As the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> pushes policies to boost planet-heating <a href=\"https://www.theguardian.com/environment/fossil-fuels\">fossil fuels</a>, millions of people are being forced to flee their homelands due to storms, floods and droughts worsened by the <a href=\"https://www.theguardian.com/environment/climate-crisis\">climate crisis</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis\">Continue reading...</a>",
+      "description": "A Guardian analysis reveals how most of 39 countries facing US entry restrictions are most vulnerable environmentally‘Every day it’s more barriers’: how the US is shutting out climate refugeesDonald Trump’s immigration crackdown is largely targeting people from the countries most vulnerable to displ",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
       "pubDate": "Wed, 10 Jun 2026 13:00:20 GMT"
     },
@@ -321,7 +361,7 @@
       "id": "guardian_2",
       "agencyId": "guardian",
       "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
-      "description": "<p>Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global Witness</p><p>Leading global brands including Amazon, Ericsson and Sony are “likely” to have sourced minerals linked to a militia accused of widespread sexual violence, summary executions and torture, a new investigation claims.</p><p>The companies allegedly, but unknowingly, acquired coltan smuggled from mines in the Democratic Republic of the Congo (DRC) that are <a href=\"https://www.theguardian.com/global-development/2024/dec/21/children-executed-and-women-raped-in-front-of-their-families-as-m23-militia-unleashes-fresh-terror-on-drc\">occupied by the M23 militia</a>, which has committed myriad atrocities in eastern DRC.</p> <a href=\"https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation\">Continue reading...</a>",
+      "description": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global WitnessLeading global brands including Amazon, Ericsson and Sony are “likely” to have sourced minerals linked to a militia accused of widespread sexual violence, sum",
       "sourceUrl": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
       "pubDate": "Wed, 10 Jun 2026 05:00:11 GMT"
     },
@@ -329,7 +369,7 @@
       "id": "guardian_3",
       "agencyId": "guardian",
       "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
-      "description": "<p>Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plans</p><p>Kenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens.</p><p>Patrick Wahome, who has organised protests in Nanyuki against the centre, told Reuters on Tuesday the man died from a gunshot wound to the head. Reporters from the agency saw his body lying motionless in a police van with a large head wound.</p> <a href=\"https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya\">Continue reading...</a>",
+      "description": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plansKenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens.Patrick Wahome, who has organised protests in Nanyuki against the centre, told Reuters on T",
       "sourceUrl": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
       "pubDate": "Tue, 09 Jun 2026 17:13:20 GMT"
     },
@@ -337,7 +377,7 @@
       "id": "guardian_4",
       "agencyId": "guardian",
       "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
-      "description": "<p>Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say</p><p>Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negotiations, authorities and residents said on Monday, highlighting the region’s worsening security.</p><p>According to local police, 39 people were seized on Sunday during a meeting in the forest near Magamin Diddi village in the Maradun municipality of north-west Zamfara state. But some residents and officials believe the number of those abducted could be as high as 50.</p> <a href=\"https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks\">Continue reading...</a>",
+      "description": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police sayArmed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negotiations, authorities and residents said on Monday, highlighting ",
       "sourceUrl": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
       "pubDate": "Mon, 08 Jun 2026 22:13:44 GMT"
     },
@@ -345,7 +385,7 @@
       "id": "guardian_5",
       "agencyId": "guardian",
       "title": "Mother hopes to get justice for murdered daughter in retrial in Dominican Republic",
-      "description": "<p>Shirley Firth is hoping those responsible for Lindsay de Feliz’s death in 2019 will finally be convicted</p><p>A Cambridgeshire mother in her 90s is hoping to finally see justice for her murdered daughter when a retrial into her death is due to open in the Dominican Republic this week.</p><p>The body of <a href=\"https://www.theguardian.com/uk-news/2022/feb/09/family-of-briton-lindsay-de-feliz-hope-for-answers-in-dominican-republic-trial\">Lindsay de Feliz,</a> 64, a successful author, was found in a shallow grave, close to her home in the north-west of the Dominican Republic, in December 2019.</p> <a href=\"https://www.theguardian.com/uk-news/2026/jun/14/mother-hopes-to-get-justice-for-murdered-daughter-in-retrial-in-dominican-republic\">Continue reading...</a>",
+      "description": "Shirley Firth is hoping those responsible for Lindsay de Feliz’s death in 2019 will finally be convictedA Cambridgeshire mother in her 90s is hoping to finally see justice for her murdered daughter when a retrial into her death is due to open in the Dominican Republic this week.The body of Lindsay d",
       "sourceUrl": "https://www.theguardian.com/uk-news/2026/jun/14/mother-hopes-to-get-justice-for-murdered-daughter-in-retrial-in-dominican-republic",
       "pubDate": "Sun, 14 Jun 2026 13:00:44 GMT"
     },
@@ -353,7 +393,7 @@
       "id": "guardian_6",
       "agencyId": "guardian",
       "title": "Jamaican beach access campaigners go to court to fight privatisation of coast",
-      "description": "<p>Activists are challenging colonial-era law and demanding ‘free, legal, unfettered, forever rights’ to use beaches</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-crisis-plantation-tourism\">Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’</a></p></li></ul><p>Campaigners in Jamaica are heading to court next week to try to prevent the government from cutting off access to more of their beaches.</p><p>They argue that ceding their shorelines to big hotel chains enriches private investors and benefits tourists and outsiders while depriving Jamaicans who depend on the sea for their livelihoods, leisure and health.</p> <a href=\"https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-court-fight-privatisation-coast\">Continue reading...</a>",
+      "description": "Activists are challenging colonial-era law and demanding ‘free, legal, unfettered, forever rights’ to use beachesJamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’Campaigners in Jamaica are heading to court next week to try to prevent the government from cuttin",
       "sourceUrl": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-court-fight-privatisation-coast",
       "pubDate": "Sun, 14 Jun 2026 11:00:43 GMT"
     },
@@ -361,7 +401,7 @@
       "id": "guardian_7",
       "agencyId": "guardian",
       "title": "Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’",
-      "description": "<p>Activists argue business model is ‘plantation tourism’ designed to benefit elite and disadvantage most Jamaicans</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-crisis-plantation-tourism\">Campaigners go to court to fight privatisation of Jamaican coast</a></p></li></ul><p>Devon Taylor remembers when the Mammee Bay shoreline in St Ann, Jamaica, was filled with children frolicking in the ocean after school, fishers haggling with locals over the price of their daily catch and craft vendors carving souvenirs under almond trees.</p><p>“I grew up on Mammee Bay,” Taylor says. He recalls fetching seawater in bottles for his grandmother when she was no longer able to go to the beach, learning to swim in the shallows, and watching generations of fishers cast their nets. “That beach raised us. It fed us.”</p> <a href=\"https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-crisis-plantation-tourism\">Continue reading...</a>",
+      "description": "Activists argue business model is ‘plantation tourism’ designed to benefit elite and disadvantage most JamaicansCampaigners go to court to fight privatisation of Jamaican coastDevon Taylor remembers when the Mammee Bay shoreline in St Ann, Jamaica, was filled with children frolicking in the ocean af",
       "sourceUrl": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-crisis-plantation-tourism",
       "pubDate": "Sun, 14 Jun 2026 11:00:41 GMT"
     },
@@ -432,13 +472,21 @@
     {
       "id": "skynews_0",
       "agencyId": "skynews",
+      "title": "British 1-2-3 at Barcelona-Catalunya Grand Prix - first since 1968",
+      "description": "Sir Lewis Hamilton has won his first Formula 1 Grand Prix victory with Ferrari, while George Russell and defending champion Lando Norris made it the first all-British podium since 1968.",
+      "sourceUrl": "https://news.sky.com/story/hamilton-russell-and-norris-complete-all-british-podium-at-barcelona-catalunya-grand-prix-13554030",
+      "pubDate": "Sun, 14 Jun 2026 15:43:00 +0100"
+    },
+    {
+      "id": "skynews_1",
+      "agencyId": "skynews",
       "title": "Leader of Venezuelan gang killed in US strike, Trump says",
       "description": "President Donald Trump has said a \"swift and lethal kinetic\" US military strike has killed \"the infamous leader\" of Venezuela's Tren de Aragua street gang.",
       "sourceUrl": "https://news.sky.com/story/leader-of-venezuelan-gang-killed-in-us-military-strike-trump-says-13553575",
       "pubDate": "Sat, 13 Jun 2026 02:26:00 +0100"
     },
     {
-      "id": "skynews_1",
+      "id": "skynews_2",
       "agencyId": "skynews",
       "title": "Anger over planned luxury resorts in Albania, including one linked to Trump's son-in-law",
       "description": "Around 200 protesters have torn down fencing surrounding a controversial luxury development in Albania, as demonstrations continue over another planned resort linked &#8203;to Donald Trump's son-in-law, Jared Kushner.",
@@ -446,7 +494,7 @@
       "pubDate": "Sat, 13 Jun 2026 19:34:00 +0100"
     },
     {
-      "id": "skynews_2",
+      "id": "skynews_3",
       "agencyId": "skynews",
       "title": "Woman seriously injured in latest Australia shark attack",
       "description": "A woman has been seriously injured in a shark attack off a Sydney beach in the fourth incident of its kind in recent weeks.",
@@ -454,7 +502,7 @@
       "pubDate": "Sat, 13 Jun 2026 10:11:00 +0100"
     },
     {
-      "id": "skynews_3",
+      "id": "skynews_4",
       "agencyId": "skynews",
       "title": "Rare shark studied in its natural habitat for first time - and it wasn't where researchers thought",
       "description": "A rare, deep-sea goblin shark has been studied alive in its habitat for the first time.",
@@ -462,7 +510,7 @@
       "pubDate": "Sat, 13 Jun 2026 09:29:00 +0100"
     },
     {
-      "id": "skynews_4",
+      "id": "skynews_5",
       "agencyId": "skynews",
       "title": "Thai princess dies aged 47",
       "description": "Thailand's Princess Bajrakitiyabha has died after nearly four years in a coma, aged 47.",
@@ -470,7 +518,7 @@
       "pubDate": "Fri, 12 Jun 2026 03:38:00 +0100"
     },
     {
-      "id": "skynews_5",
+      "id": "skynews_6",
       "agencyId": "skynews",
       "title": "Ukraine's strikes on Crimea refineries and pipelines spark worst fuel crisis on peninsula since 2014",
       "description": "Ukraine's continued strikes on fuel supplies to Crimea have sparked the worst fuel crisis on the Russian-held peninsula since it was illegally annexed by Russia in 2014.",
@@ -478,20 +526,12 @@
       "pubDate": "Fri, 12 Jun 2026 11:20:00 +0100"
     },
     {
-      "id": "skynews_6",
+      "id": "skynews_7",
       "agencyId": "skynews",
       "title": "Risk of 'very strong' El Nino raising global temperatures, scientists warn",
       "description": "Forecasters say there is a risk of a \"very strong\" El Nino, which typically leads to higher global temperatures and drought in some areas, but heavy rainfall in others.",
       "sourceUrl": "https://news.sky.com/story/risk-of-very-strong-el-nino-raising-global-temperatures-scientists-warn-13553053",
       "pubDate": "Thu, 11 Jun 2026 14:44:00 +0100"
-    },
-    {
-      "id": "skynews_7",
-      "agencyId": "skynews",
-      "title": "Five claims from former Palestinian prime minister - and why they matter",
-      "description": "We spent an hour talking to former Palestinian prime minister Mohammad Shtayyeh, who is one of the most influential voices in the West Bank.",
-      "sourceUrl": "https://news.sky.com/story/five-claims-from-former-palestinian-prime-minister-mohammad-shtayyeh-and-why-they-matter-13553061",
-      "pubDate": "Thu, 11 Jun 2026 15:41:00 +0100"
     },
     {
       "id": "bbc_0",
@@ -512,21 +552,13 @@
     {
       "id": "bbc_2",
       "agencyId": "bbc",
-      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-      "description": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 13 Jun 2026 23:19:52 GMT"
+      "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+      "description": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 14 Jun 2026 14:08:03 GMT"
     },
     {
       "id": "bbc_3",
-      "agencyId": "bbc",
-      "title": "New York Knicks win NBA championship for first time in over 50 years",
-      "description": "The Knicks clinched the title against the San Antonio Spurs, 94-90, in the fifth game of the best-of-seven series.",
-      "sourceUrl": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sun, 14 Jun 2026 07:21:26 GMT"
-    },
-    {
-      "id": "bbc_4",
       "agencyId": "bbc",
       "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
       "description": "Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say.",
@@ -534,15 +566,7 @@
       "pubDate": "Sun, 14 Jun 2026 12:04:54 GMT"
     },
     {
-      "id": "bbc_5",
-      "agencyId": "bbc",
-      "title": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
-      "description": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
-      "sourceUrl": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sun, 14 Jun 2026 01:08:20 GMT"
-    },
-    {
-      "id": "bbc_6",
+      "id": "bbc_4",
       "agencyId": "bbc",
       "title": "Fifa to pay Somali referee Artan full World Cup fee",
       "description": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
@@ -550,7 +574,7 @@
       "pubDate": "Sun, 14 Jun 2026 09:00:08 GMT"
     },
     {
-      "id": "bbc_7",
+      "id": "bbc_5",
       "agencyId": "bbc",
       "title": "Norway braces for verdict in rape trial of crown princess's son Høiby",
       "description": "Marius Borg Høiby will appear via video link, almost three months after his trial came to an end on 40 charges, including four counts of rape.",
@@ -558,12 +582,28 @@
       "pubDate": "Sat, 13 Jun 2026 23:11:28 GMT"
     },
     {
+      "id": "bbc_6",
+      "agencyId": "bbc",
+      "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
+      "description": "Cameras caught Perry running off stage to greet the former Canadian leader with a kiss.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 14 Jun 2026 14:52:35 GMT"
+    },
+    {
+      "id": "bbc_7",
+      "agencyId": "bbc",
+      "title": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
+      "description": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 14 Jun 2026 01:08:20 GMT"
+    },
+    {
       "id": "nytimes_0",
       "agencyId": "nytimes",
-      "title": "Iran War Live Updates: Israel and Hezbollah Exchange Strikes, Complicating Possible Iran Peace Agreement",
-      "description": "Israel’s military said it attacked the southern outskirts of Beirut, the Lebanese capital, after accusing Hezbollah, the Iran-backed armed group, of violating a cease-fire.",
+      "title": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
+      "description": "President Trump said “all sides should stand down,” as the conflict in Lebanon between Israel and the Iranian-backed militant group Hezbollah complicated efforts to finalize a broader peace with Tehran.",
       "sourceUrl": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
-      "pubDate": "Sun, 14 Jun 2026 13:37:41 +0000"
+      "pubDate": "Sun, 14 Jun 2026 15:22:06 +0000"
     },
     {
       "id": "nytimes_1",
@@ -571,7 +611,7 @@
       "title": "Switzerland Rejects Measure to Cap Population at 10 Million, Projections Show",
       "description": "The referendum was about limiting migration after the number of residents rose by more than a quarter since 2000, but it was framed around affordability and sustainability.",
       "sourceUrl": "https://www.nytimes.com/2026/06/14/world/europe/switzerland-population-cap-referendum.html",
-      "pubDate": "Sun, 14 Jun 2026 13:39:57 +0000"
+      "pubDate": "Sun, 14 Jun 2026 14:06:55 +0000"
     },
     {
       "id": "nytimes_2",
@@ -624,79 +664,79 @@
     {
       "id": "independent_0",
       "agencyId": "independent",
-      "title": "Beachgoers watch in horror as shark mauls woman near shore: ‘It was all red’",
-      "description": "",
-      "sourceUrl": "https://www.independent.co.uk/bulletin/news/australia-shark-attack-coogee-beach-drone-restrictions-b2995462.html",
-      "pubDate": "Sun, 14 Jun 2026 13:54:28 GMT"
+      "title": "Perrie Edwards marries ex-England footballer Alex Oxlade-Chamberlain in Portugal",
+      "description": "Edwards and Oxlade-Chamberlain have been together for nine years and got engaged in 2022",
+      "sourceUrl": "https://www.independent.co.uk/life-style/perrie-edwards-oxlade-chamberlain-wedding-portugal-b2995486.html",
+      "pubDate": "Sun, 14 Jun 2026 15:22:01 GMT"
     },
     {
       "id": "independent_1",
       "agencyId": "independent",
-      "title": "Gaza officials say over 73,000 Palestinians killed in conflict as Israel strikes continue despite ceasefire",
-      "description": "<p>Israel has continued to conduct strikes despite a fragile ceasefire agreement </p>",
-      "sourceUrl": "https://www.independent.co.uk/news/world/middle-east/palestinian-deaths-israel-strikes-gaza-b2995463.html",
-      "pubDate": "Sun, 14 Jun 2026 13:49:17 GMT"
+      "title": "Trump endorses Maga loyalist Mike Collins days before Georgia Senate runoff",
+      "description": "The endorsement pits Trump against more traditional Republicans, including outgoing Gov. Brian Kemp",
+      "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/trump-endorses-mike-collins-georgia-primary-track-record-b2995485.html",
+      "pubDate": "Sun, 14 Jun 2026 15:18:14 GMT"
     },
     {
       "id": "independent_2",
       "agencyId": "independent",
-      "title": "‘Brexit is not done’: Civil servant who oversaw Britain’s exit from the EU calls for debate over rejoining the bloc",
-      "description": "<p>Philip Rycroft says politicians must reopen the debate over the UK’s relationship with the EU, a decade on from the Brexit referendum</p>",
-      "sourceUrl": "https://www.independent.co.uk/news/uk/politics/brexit-rejoin-philip-rycroft-starmer-b2988137.html",
-      "pubDate": "Sun, 14 Jun 2026 13:46:53 GMT"
+      "title": "Controversy behind ‘world’s largest Jesus statue’ that’s become an Armenian village tourist attraction",
+      "description": "The giant aluminium figure lies behind an iron fence in a village on the outskirts of the Armenian capital. Rich Booth visited the site to find out whether it would ever be finished",
+      "sourceUrl": "https://www.independent.co.uk/news/world/europe/armenia-yerevan-jesus-statue-tsarukyan-b2995226.html",
+      "pubDate": "Sun, 14 Jun 2026 15:16:49 GMT"
     },
     {
       "id": "independent_3",
       "agencyId": "independent",
-      "title": "Ian Wright reunites with son after 18 months in emotional live TV moment",
-      "description": "<p><a href=\"/topic/ian-wright\">Ian Wright</a> reunited with his son Bradley Wright-Phillips after 18 months apart in an emotional live TV moment.</p>",
-      "sourceUrl": "https://www.independent.co.uk/tv/sport/ian-wright-bradley-wrightphillips-world-cup-reunion-video-b2995456.html",
-      "pubDate": "Sun, 14 Jun 2026 13:46:07 GMT"
+      "title": "Dan Jarvis is a fine choice for defence secretary – but how long will he last?",
+      "description": "Political editor David Maddox explains why Dan Jarvis could end up being for Labour what former defence secretary Ben Wallace was for the Tories",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/politics/dan-jarvis-defence-secretary-starmer-labour-b2994664.html",
+      "pubDate": "Sun, 14 Jun 2026 15:12:42 GMT"
     },
     {
       "id": "independent_4",
       "agencyId": "independent",
-      "title": "An 807-mile train journey through Europe is set to launch this month  ",
-      "description": "<p>Czech private rail company Leo Express is launching an 807-mile train journey in Europe</p>",
-      "sourceUrl": "https://www.independent.co.uk/travel/news-and-advice/leo-express-train-journey-germany-poland-czech-republic-b2995461.html",
-      "pubDate": "Sun, 14 Jun 2026 13:44:28 GMT"
+      "title": "How the EU is still funding Putin’s war machine with imports of gas",
+      "description": "As Ukrainian attacks on Russian oil and European sanctions batter Moscow’s economy, EU imports of Russian liquefied natural gas are still providing Russia with a boost",
+      "sourceUrl": "https://www.independent.co.uk/news/world/europe/eu-funding-putin-war-machine-russia-ukraine-war-b2994788.html",
+      "pubDate": "Sun, 14 Jun 2026 15:10:46 GMT"
     },
     {
       "id": "independent_5",
       "agencyId": "independent",
-      "title": "Two men charged in England World Cup ‘heist’ as £13,530 worth of items are recovered",
-      "description": "",
-      "sourceUrl": "https://www.independent.co.uk/bulletin/sport/england-world-cup-equipment-theft-two-men-charged-b2995459.html",
-      "pubDate": "Sun, 14 Jun 2026 13:42:32 GMT"
+      "title": "Queen’s final LIVE: Emma Raducanu beaten by Donna Vekic after bidding for first title since US Open",
+      "description": "Raducanu failed to win a game in the first set but battled back in the second before Vekic produced a comeback of her own to win 6-0 7-6  (8-6)",
+      "sourceUrl": "https://www.independent.co.uk/sport/tennis/emma-raducanu-queens-live-score-results-donna-vekic-b2995264.html",
+      "pubDate": "Sun, 14 Jun 2026 15:10:09 GMT"
     },
     {
       "id": "independent_6",
       "agencyId": "independent",
-      "title": "F1 Barcelona-Catalunya GP LIVE: Race updates and times with Hamilton chasing down Russell",
-      "description": "<p>Follow live F1 updates from the Circuit de Barcelona-Catalunya with Russell in the lead after a strong start</p>",
-      "sourceUrl": "https://www.independent.co.uk/f1/f1-barcelona-catalunya-gp-live-race-stream-time-updates-result-hamilton-russell-antonelli-b2995446.html",
-      "pubDate": "Sun, 14 Jun 2026 13:42:25 GMT"
+      "title": "Iran-US war latest: Trump says Israel’s attack on Beirut should ‘not have happened’ as he urges Netanyahu not to ‘blow it’",
+      "description": "The strikes in Lebanon have thrown the peace deal into jeopardy",
+      "sourceUrl": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-peace-deal-hormuz-israel-b2995394.html",
+      "pubDate": "Sun, 14 Jun 2026 15:08:05 GMT"
     },
     {
       "id": "independent_7",
       "agencyId": "independent",
-      "title": "Streeting backs new North Sea drilling and says he would increase high-skilled immigration if he becomes PM",
-      "description": "<p>The former health secretary argued opponents of new drilling would open the door to a Reform UK government by keeping energy costs high</p>",
-      "sourceUrl": "https://www.independent.co.uk/news/uk/politics/wes-streeting-north-sea-oil-gas-immigration-leadership-b2995444.html",
-      "pubDate": "Sun, 14 Jun 2026 13:40:59 GMT"
+      "title": "F1 standings after Lewis Hamilton narrows deficit to Kimi Antonelli in Barcelona",
+      "description": "Hamilton is now just 41 points behind championship leader Antonelli after a dramatic afternoon in Barcelona",
+      "sourceUrl": "https://www.independent.co.uk/f1/f1-standings-2026-drivers-constructors-hamilton-antonelli-russell-b2995451.html",
+      "pubDate": "Sun, 14 Jun 2026 15:01:15 GMT"
     },
     {
       "id": "economist_0",
       "agencyId": "economist",
-      "title": "\n        Cover Story newsletter: A World Cup paradox\n      ",
-      "description": "\n        How we chose this week’s image\n      ",
+      "title": "Cover Story newsletter: A World Cup paradox",
+      "description": "How we chose this week’s image",
       "sourceUrl": "https://www.economist.com/the-world-this-week/2026/06/12/cover-story-newsletter-a-world-cup-paradox",
       "pubDate": "Fri, 12 Jun 2026 16:08:25 +0000"
     },
     {
       "id": "economist_1",
       "agencyId": "economist",
-      "title": "\n        The weekly cartoon\n      ",
+      "title": "The weekly cartoon",
       "description": "",
       "sourceUrl": "https://www.economist.com/the-world-this-week/2026/06/11/the-weekly-cartoon",
       "pubDate": "Thu, 11 Jun 2026 13:15:53 +0000"
@@ -704,7 +744,7 @@
     {
       "id": "economist_2",
       "agencyId": "economist",
-      "title": "\n        Business\n      ",
+      "title": "Business",
       "description": "",
       "sourceUrl": "https://www.economist.com/the-world-this-week/2026/06/11/business",
       "pubDate": "Thu, 11 Jun 2026 13:15:53 +0000"
@@ -712,7 +752,7 @@
     {
       "id": "economist_3",
       "agencyId": "economist",
-      "title": "\n        Politics\n      ",
+      "title": "Politics",
       "description": "",
       "sourceUrl": "https://www.economist.com/the-world-this-week/2026/06/11/politics",
       "pubDate": "Thu, 11 Jun 2026 13:15:53 +0000"
@@ -720,7 +760,7 @@
     {
       "id": "economist_4",
       "agencyId": "economist",
-      "title": "\n        The weekly cartoon\n      ",
+      "title": "The weekly cartoon",
       "description": "",
       "sourceUrl": "https://www.economist.com/the-world-this-week/2026/06/04/the-weekly-cartoon",
       "pubDate": "Thu, 04 Jun 2026 13:08:11 +0000"
@@ -728,7 +768,7 @@
     {
       "id": "economist_5",
       "agencyId": "economist",
-      "title": "\n        Business\n      ",
+      "title": "Business",
       "description": "",
       "sourceUrl": "https://www.economist.com/the-world-this-week/2026/06/04/business",
       "pubDate": "Thu, 04 Jun 2026 13:08:11 +0000"
@@ -736,7 +776,7 @@
     {
       "id": "economist_6",
       "agencyId": "economist",
-      "title": "\n        Politics\n      ",
+      "title": "Politics",
       "description": "",
       "sourceUrl": "https://www.economist.com/the-world-this-week/2026/06/04/politics",
       "pubDate": "Thu, 04 Jun 2026 13:08:11 +0000"
@@ -744,8 +784,8 @@
     {
       "id": "economist_7",
       "agencyId": "economist",
-      "title": "\n        Cover Story newsletter: The new shape of war\n      ",
-      "description": "\n        How we chose this week’s image\n      ",
+      "title": "Cover Story newsletter: The new shape of war",
+      "description": "How we chose this week’s image",
       "sourceUrl": "https://www.economist.com/the-world-this-week/2026/05/29/cover-story-newsletter-the-new-shape-of-war",
       "pubDate": "Fri, 29 May 2026 15:56:32 +0000"
     },
@@ -753,7 +793,7 @@
       "id": "rt_0",
       "agencyId": "rt",
       "title": "‘Trump screwed us:’ Israeli officials fume over emerging Iran peace deal – media",
-      "description": "\n            <img alt=\"Preview\" align=\"left\" style=\"margin-right: 10px;\" src=\"https://mf.b37mrtl.ru/files/2026.06/thumbnail/6a2eabe485f5402b2922f46b.jpg\" /> Israeli officials call the emerging Iran peace deal a “catastrophe,” complaining that Trump “screwed” West Jerusalem, according to Ynet <br/><a href=\"https://www.rt.com/news/641523-trump-screwed-israel-iran-peace-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\">Read Full Article at RT.com</a>\n        ",
+      "description": "Israeli officials call the emerging Iran peace deal a “catastrophe,” complaining that Trump “screwed” West Jerusalem, according to Ynet Read Full Article at RT.com",
       "sourceUrl": "https://www.rt.com/news/641523-trump-screwed-israel-iran-peace-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "pubDate": "Sun, 14 Jun 2026 13:35:25 +0000"
     },
@@ -761,7 +801,7 @@
       "id": "rt_1",
       "agencyId": "rt",
       "title": "Zelensky not on Trump’s G7 meeting list – Bloomberg",
-      "description": "\n            <img alt=\"Preview\" align=\"left\" style=\"margin-right: 10px;\" src=\"https://mf.b37mrtl.ru/files/2026.06/thumbnail/6a2e9a2d203027107f59d6ad.jpg\" /> Trump reportedly won’t hold a bilateral meeting with Zelensky at the G7 summit, though talks on the sidelines are possible <br/><a href=\"https://www.rt.com/news/641521-zelensky-not-on-trump-g7-list/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\">Read Full Article at RT.com</a>\n        ",
+      "description": "Trump reportedly won’t hold a bilateral meeting with Zelensky at the G7 summit, though talks on the sidelines are possible Read Full Article at RT.com",
       "sourceUrl": "https://www.rt.com/news/641521-zelensky-not-on-trump-g7-list/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "pubDate": "Sun, 14 Jun 2026 12:31:31 +0000"
     },
@@ -769,7 +809,7 @@
       "id": "rt_2",
       "agencyId": "rt",
       "title": "Starmer choosing tankers over UK crime crisis – Putin envoy",
-      "description": "\n            <img alt=\"Preview\" align=\"left\" style=\"margin-right: 10px;\" src=\"https://mf.b37mrtl.ru/files/2026.06/thumbnail/6a2e7e9d85f54029da374612.jpg\" /> Kirill Dmitriev accused UK PM Keir Starmer of using the seizure of a supposed Russian-linked tanker to distract from domestic problems <br/><a href=\"https://www.rt.com/news/641519-starmer-tankers-uk-problems-dmitriev/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\">Read Full Article at RT.com</a>\n        ",
+      "description": "Kirill Dmitriev accused UK PM Keir Starmer of using the seizure of a supposed Russian-linked tanker to distract from domestic problems Read Full Article at RT.com",
       "sourceUrl": "https://www.rt.com/news/641519-starmer-tankers-uk-problems-dmitriev/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "pubDate": "Sun, 14 Jun 2026 12:16:50 +0000"
     },
@@ -777,7 +817,7 @@
       "id": "rt_3",
       "agencyId": "rt",
       "title": "Anti-migration rallies sweep Rome (VIDEO)",
-      "description": "\n            <img alt=\"Preview\" align=\"left\" style=\"margin-right: 10px;\" src=\"https://mf.b37mrtl.ru/files/2026.06/thumbnail/6a2e80f820302771ef1b4ff1.jpg\" /> Thousands marched in Rome as a petition for stricter migration rules has collected enough signatures for parliamentary consideration <br/><a href=\"https://www.rt.com/news/641520-anti-migration-rallies-sweep-rome/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\">Read Full Article at RT.com</a>\n        ",
+      "description": "Thousands marched in Rome as a petition for stricter migration rules has collected enough signatures for parliamentary consideration Read Full Article at RT.com",
       "sourceUrl": "https://www.rt.com/news/641520-anti-migration-rallies-sweep-rome/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "pubDate": "Sun, 14 Jun 2026 11:06:41 +0000"
     },
@@ -785,7 +825,7 @@
       "id": "rt_4",
       "agencyId": "rt",
       "title": "Haitian Defense Ministry chief abducted amid gang violence – media",
-      "description": "\n            <img alt=\"Preview\" align=\"left\" style=\"margin-right: 10px;\" src=\"https://mf.b37mrtl.ru/files/2026.06/thumbnail/6a2e728f85f5401ce96807f5.jpg\" /> Haitian Defense Ministry Chief of Staff James Boyard was reportedly kidnapped along with his wife and daughter amid gang violence <br/><a href=\"https://www.rt.com/news/641510-haiti-defense-ministry-chief-abducted/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\">Read Full Article at RT.com</a>\n        ",
+      "description": "Haitian Defense Ministry Chief of Staff James Boyard was reportedly kidnapped along with his wife and daughter amid gang violence Read Full Article at RT.com",
       "sourceUrl": "https://www.rt.com/news/641510-haiti-defense-ministry-chief-abducted/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "pubDate": "Sun, 14 Jun 2026 09:24:47 +0000"
     },
@@ -793,7 +833,7 @@
       "id": "rt_5",
       "agencyId": "rt",
       "title": "Trump’s Iran deal is ‘lose, lose, lose’ – US congressman",
-      "description": "\n            <img alt=\"Preview\" align=\"left\" style=\"margin-right: 10px;\" src=\"https://mf.b37mrtl.ru/files/2026.06/thumbnail/6a2e671b85f5401ce96807ee.jpg\" /> Trump’s peace deal with Iran looks like a “surrender document” as the US failed to complete its objectives, Seth Moulton has said <br/><a href=\"https://www.rt.com/news/641518-trump-iran-deal-surrender/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\">Read Full Article at RT.com</a>\n        ",
+      "description": "Trump’s peace deal with Iran looks like a “surrender document” as the US failed to complete its objectives, Seth Moulton has said Read Full Article at RT.com",
       "sourceUrl": "https://www.rt.com/news/641518-trump-iran-deal-surrender/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "pubDate": "Sun, 14 Jun 2026 08:33:24 +0000"
     },
@@ -801,7 +841,7 @@
       "id": "rt_6",
       "agencyId": "rt",
       "title": "US launches global crackdown on ‘birth tourism’",
-      "description": "\n            <img alt=\"Preview\" align=\"left\" style=\"margin-right: 10px;\" src=\"https://mf.b37mrtl.ru/files/2026.06/thumbnail/6a2e60e885f54038b522e968.jpg\" /> The US has announced a crackdown on “illegal birth tourism,” revoking hundreds of visas and dismantling networks in Africa and Europe <br/><a href=\"https://www.rt.com/news/641517-us-global-crackdown-birth-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\">Read Full Article at RT.com</a>\n        ",
+      "description": "The US has announced a crackdown on “illegal birth tourism,” revoking hundreds of visas and dismantling networks in Africa and Europe Read Full Article at RT.com",
       "sourceUrl": "https://www.rt.com/news/641517-us-global-crackdown-birth-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "pubDate": "Sun, 14 Jun 2026 08:10:12 +0000"
     },
@@ -809,7 +849,7 @@
       "id": "rt_7",
       "agencyId": "rt",
       "title": "Hungary sets condition for Ukraine’s EU accession bid",
-      "description": "\n            <img alt=\"Preview\" align=\"left\" style=\"margin-right: 10px;\" src=\"https://mf.b37mrtl.ru/files/2026.06/thumbnail/6a2e32ee85f5403d01567f46.jpg\" /> Hungary has agreed to lift its veto on Ukraine’s EU accession process provided that Kiev respects the rights of the Hungarian minority <br/><a href=\"https://www.rt.com/news/641509-hungary-condition-ukraines-eu-bid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS\">Read Full Article at RT.com</a>\n        ",
+      "description": "Hungary has agreed to lift its veto on Ukraine’s EU accession process provided that Kiev respects the rights of the Hungarian minority Read Full Article at RT.com",
       "sourceUrl": "https://www.rt.com/news/641509-hungary-condition-ukraines-eu-bid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "pubDate": "Sun, 14 Jun 2026 07:14:39 +0000"
     },
@@ -817,7 +857,7 @@
       "id": "xinhua_0",
       "agencyId": "xinhua",
       "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
-      "description": "<img  src=\"../titlepic/13691/136919909_1516756058941_title0h.jpg\" width=\"100\" height=\"100\"       alt=\"Palestinians clash with Israeli soldiers after protest against Pence visit\"  />Palestinian protesters hurl stones at Israeli soldiers during clashes after a protest against the visit of U.S. Vice President Mike Pence in Jerusalem, in the West Bank city of Hebron, on Jan. 23, 2018.",
+      "description": "Palestinian protesters hurl stones at Israeli soldiers during clashes after a protest against the visit of U.S. Vice President Mike Pence in Jerusalem, in the West Bank city of Hebron, on Jan. 23, 2018.",
       "sourceUrl": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm",
       "pubDate": "2018-01-24"
     },
@@ -833,7 +873,7 @@
       "id": "xinhua_2",
       "agencyId": "xinhua",
       "title": "Speaker of Hungarian Parliament addresses in Budapest",
-      "description": "<img  src=\"../titlepic/13671/136711043_1509146684624_title0h.jpg\" width=\"100\" height=\"100\"       alt=\"Speaker of Hungarian Parliament addresses in Budapest\"  />Laszlo Kover (1st L), Speaker of the Hungarian Parliament, speaks at a conference of the parliament speakers of the Western Balkans in Budapest, Hungary on Oct. 27, 2017.",
+      "description": "Laszlo Kover (1st L), Speaker of the Hungarian Parliament, speaks at a conference of the parliament speakers of the Western Balkans in Budapest, Hungary on Oct. 27, 2017.",
       "sourceUrl": "http://www.xinhuanet.com/english/2017-10/28/c_136711043.htm",
       "pubDate": "2017-10-28"
     },
@@ -876,6 +916,134 @@
       "description": "The world has long been used to U.S. President Donald Trump taking a stance against multilateralism. Still, the sudden U.S. announcement Thursday to retreat from UNESCO -- the United Nations Educational, Scientific and Cultural Organization -- raised eyebrows worldwide.",
       "sourceUrl": "http://www.xinhuanet.com/english/2017-10/13/c_136677360.htm",
       "pubDate": "2017-10-13"
+    },
+    {
+      "id": "irna_fa_0",
+      "agencyId": "irna_fa",
+      "title": "۴۳۰ کلاس درس در خراسان جنوبی در حال احداث است",
+      "description": "بیرجند - ایرنا - استاندار خراسان جنوبی با اشاره به تمرکز دولت بر توسعه زیرساخت‌های آموزشی، گفت: در راستای تحقق عدالت آموزشی، ۱۰۵ پروژه با بیش از ۴۳۰ کلاس درس در سطح استان در حال اجراست که میانگین پیشرفت فیزیکی آن‌ها از ۶۰ درصد فراتر رفته است.",
+      "sourceUrl": "https://www.irna.ir/news/86182644/%DB%B4%DB%B3%DB%B0-%DA%A9%D9%84%D8%A7%D8%B3-%D8%AF%D8%B1%D8%B3-%D8%AF%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D8%B3%D8%AA",
+      "pubDate": "Sun, 14 Jun 2026 15:23:21 GMT"
+    },
+    {
+      "id": "irna_fa_1",
+      "agencyId": "irna_fa",
+      "title": "۵۷ درصد آمریکایی‌ها از عملکرد ترامپ ناراضی‌ هستند",
+      "description": "تهران-ایرنا- نتایج تازه‌ترین نظرسنجی شبکه ان بی سی نشان می‌دهد که اکثریت آمریکایی‌ها از عملکرد دونالد ترامپ در مقام رئیس‌جمهور ناراضی هستند.",
+      "sourceUrl": "https://www.irna.ir/news/86182636/%DB%B5%DB%B7-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D9%87%D8%A7-%D8%A7%D8%B2-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%86%D8%A7%D8%B1%D8%A7%D8%B6%DB%8C-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
+      "pubDate": "Sun, 14 Jun 2026 15:22:51 GMT"
+    },
+    {
+      "id": "irna_fa_2",
+      "agencyId": "irna_fa",
+      "title": "از استخرهای دومنظوره تا چشم‌انداز تبدیل سرباز و راسک به قطب خاویار ایران",
+      "description": "چابهار - ایرنا - شهرستان‌های سرباز و راسک در جنوب سیستان و بلوچستان با تکیه بر منابع آبی، استخرهای ذخیره آب کشاورزی و ظرفیت‌های بومی، در حال تبدیل شدن به یکی از کانون‌های مهم توسعه آبزی‌پروری هستند؛ ظرفیتی که از تولید سالانه ده‌ها تن ماهی گرمابی فراتر رفته و با جذب سرمایه‌گذاری در پرورش ماهیان خاویا",
+      "sourceUrl": "https://www.irna.ir/news/86182149/%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D9%87%D8%A7%DB%8C-%D8%AF%D9%88%D9%85%D9%86%D8%B8%D9%88%D8%B1%D9%87-%D8%AA%D8%A7-%DA%86%D8%B4%D9%85-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2-%D9%88-%D8%B1%D8%A7%D8%B3%DA%A9-%D8%A8%D9%87-%D9%82%D8%B7%D8%A8-%D8%AE%D8%A7%D9%88%DB%8C%D8%A7%D8%B1",
+      "pubDate": "Sun, 14 Jun 2026 15:21:34 GMT"
+    },
+    {
+      "id": "irna_fa_3",
+      "agencyId": "irna_fa",
+      "title": "پیش‌بینی رشد ۲۰ درصدی تولید گندم در ری؛ تحویل ۵ هزار تن به سیلوها",
+      "description": "شهرری - ایرنا - رئیس اداره جهاد کشاورزی شهرستان ری از تحویل پنج هزار تن گندم به سیلوها خبر داد و گفت: با توجه به شرایط مناسب اقلیمی، پیش‌بینی می‌شود تولید گندم در این شهرستان امسال با رشد ۲۰ درصدی به حدود ۷۰ هزار تن برسد.",
+      "sourceUrl": "https://www.irna.ir/news/86182619/%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C-%D8%B1%D8%B4%D8%AF-%DB%B2%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%DA%AF%D9%86%D8%AF%D9%85-%D8%AF%D8%B1-%D8%B1%DB%8C-%D8%AA%D8%AD%D9%88%DB%8C%D9%84-%DB%B5-%D9%87%D8%B2%D8%A7%D8%B1-%D8%AA%D9%86-%D8%A8%D9%87-%D8%B3%DB%8C%D9%84%D9%88%D9%87%D8%A7",
+      "pubDate": "Sun, 14 Jun 2026 15:18:24 GMT"
+    },
+    {
+      "id": "irna_fa_4",
+      "agencyId": "irna_fa",
+      "title": "برگزاری دوره‌های تخصصی آموزش صنایع دستی در چابهار",
+      "description": "چابهار - ایرنا - رئیس اداره میراث فرهنگی، گردشگری و صنایع دستی چابهار و دشتیاری گفت: همزمان با هفته صنایع دستی، مجموعه‌ای از دوره‌های تخصصی آموزشی با هدف ارتقای مهارت هنرمندان، حفظ هنرهای بومی و توسعه کسب‌وکارهای خلاق در حوزه صنایع دستی با استقبال گسترده علاقه‌مندان در شهرستان چابهار برگزار شد.",
+      "sourceUrl": "https://www.irna.ir/news/86182529/%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C-%D8%AF%D9%88%D8%B1%D9%87-%D9%87%D8%A7%DB%8C-%D8%AA%D8%AE%D8%B5%D8%B5%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%AF%D8%B3%D8%AA%DB%8C-%D8%AF%D8%B1-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1",
+      "pubDate": "Sun, 14 Jun 2026 15:11:38 GMT"
+    },
+    {
+      "id": "irna_fa_5",
+      "agencyId": "irna_fa",
+      "title": "شمار شهدای لبنان به ۳ هزار و ۷۸۳ نفر رسید",
+      "description": "تهران- ایرنا- وزارت بهداشت لبنان از افزایش شمار شهدای این کشور از ۲ مارس (۱۱ اسفند ۱۴۰۴) تاکنون به ۳ هزار و ۷۸۳ نفر خبر داد.",
+      "sourceUrl": "https://www.irna.ir/news/86182643/%D8%B4%D9%85%D8%A7%D8%B1-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A8%D9%87-%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B7%DB%B8%DB%B3-%D9%86%D9%81%D8%B1-%D8%B1%D8%B3%DB%8C%D8%AF",
+      "pubDate": "Sun, 14 Jun 2026 15:11:37 GMT"
+    },
+    {
+      "id": "irna_fa_6",
+      "agencyId": "irna_fa",
+      "title": "نظام تعلیم و تربیت پیشران آزادی انسان از استعمار جهانی است",
+      "description": "بیرجند - ایرنا - نماینده ولی‌فقیه در خراسان جنوبی با بیان اینکه تعلیم و تربیت ابزار اصلی «انسان‌سازی» و مأموریت ویژه انبیاست، گفت: حرکت امروز نظام آموزشی ایران، تلاشی مقدس برای آزادسازی هویت انسان از چنگال برده‌داری نوین و استعمار جهانی است.",
+      "sourceUrl": "https://www.irna.ir/news/86182632/%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D8%B9%D9%84%DB%8C%D9%85-%D9%88-%D8%AA%D8%B1%D8%A8%DB%8C%D8%AA-%D9%BE%DB%8C%D8%B4%D8%B1%D8%A7%D9%86-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%A7%D9%86%D8%B3%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D8%B1-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA",
+      "pubDate": "Sun, 14 Jun 2026 15:09:41 GMT"
+    },
+    {
+      "id": "irna_fa_7",
+      "agencyId": "irna_fa",
+      "title": "فرماندار نیکشهر: ۲۰ هزار نفر با اجرای طرح آبرسانی از آب شبانه‌روزی بهره‌مند می‌شوند",
+      "description": "چابهار- ایرنا - فرماندار نیکشهر در جنوب سیستان وبلوچستان گفت: با تکمیل پروژه آبرسانی به روستاهای پایین‌دست سد خیرآباد، بیش‌از ۲۰ هزار نفر از ساکنان ۱۰ روستای این شهرستان تا هفته دولت از آب آشامیدنی سالم، پایدار و شبانه‌روزی بهره‌مند خواهند شد.",
+      "sourceUrl": "https://www.irna.ir/news/86182550/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D9%86%DB%8C%DA%A9%D8%B4%D9%87%D8%B1-%DB%B2%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B7%D8%B1%D8%AD-%D8%A2%D8%A8%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%A2%D8%A8-%D8%B4%D8%A8%D8%A7%D9%86%D9%87-%D8%B1%D9%88%D8%B2%DB%8C",
+      "pubDate": "Sun, 14 Jun 2026 15:09:31 GMT"
+    },
+    {
+      "id": "irna_en_0",
+      "agencyId": "irna_en",
+      "title": "Ghalibaf says Israeli strike on Lebanon shows US unwilling or unable to honor commitments",
+      "description": "Tehran, IRNA – Parliament Speaker Mohammad Bagher Ghalibaf says that an Israeli air strike on Beirut’s southern suburbs of Dahiyeh demonstrated that the United States either lacked the will or the ability to fulfill its commitments.",
+      "sourceUrl": "https://en.irna.ir/news/86182598/Ghalibaf-says-Israeli-strike-on-Lebanon-shows-US-unwilling-or",
+      "pubDate": "Sun, 14 Jun 2026 13:57:22 GMT"
+    },
+    {
+      "id": "irna_en_1",
+      "agencyId": "irna_en",
+      "title": "FM Araghchi hails national unity as key to Iran’s diplomatic authority",
+      "description": "Tehran, IRNA – Foreign Minister Abbas Araghchi has emphasized that national cohesion and the active presence of the people serve as important capital and a primary pillar of Iran’s diplomatic authority.",
+      "sourceUrl": "https://en.irna.ir/news/86182545/FM-Araghchi-hails-national-unity-as-key-to-Iran-s-diplomatic",
+      "pubDate": "Sun, 14 Jun 2026 13:35:28 GMT"
+    },
+    {
+      "id": "irna_en_2",
+      "agencyId": "irna_en",
+      "title": "Iran arrests dozens of enemy mercenaries and terrorists",
+      "description": "Tehran, IRNA – Iran’s Ministry of Intelligence announces the arrest of 126 members of foreign-sponsored networks involved in rioting, four associates of a disbanded Daesh terrorist cell, and a mercenary linked to the Israeli regime.",
+      "sourceUrl": "https://en.irna.ir/news/86182518/Iran-arrests-dozens-of-enemy-mercenaries-and-terrorists",
+      "pubDate": "Sun, 14 Jun 2026 12:47:49 GMT"
+    },
+    {
+      "id": "irna_en_3",
+      "agencyId": "irna_en",
+      "title": "Israel airstrike on southern suburbs of Beirut leaves casualties",
+      "description": "Tehran, IRNA — Arabic media reported that the Zionist regime carried out an airstrike on the southern suburbs of Beirut (Dahiyeh) on Sunday, leaving several people killed or injured.",
+      "sourceUrl": "https://en.irna.ir/news/86182522/Israel-airstrike-on-southern-suburbs-of-Beirut-leaves-casualties",
+      "pubDate": "Sun, 14 Jun 2026 12:28:30 GMT"
+    },
+    {
+      "id": "irna_en_4",
+      "agencyId": "irna_en",
+      "title": "2026 FIFA World Cup schedule: All 104 matches, groups & times",
+      "description": "Explore the complete 2026 FIFA World Cup schedule, including all groups, full day-by-day fixtures, and match times for all 104 games in the USA, Canada, and Mexico.",
+      "sourceUrl": "https://en.irna.ir/news/86182461/2026-FIFA-World-Cup-schedule-All-104-matches-groups-times",
+      "pubDate": "Sun, 14 Jun 2026 11:49:42 GMT"
+    },
+    {
+      "id": "irna_en_5",
+      "agencyId": "irna_en",
+      "title": "Enemy seeking to undermine Iran’s national unity, Judiciary chief warns",
+      "description": "Tehran, IRNA – Judiciary chief Gholamhossein Mohseni Ejei has warned that the enemies are seeking to weaken national unity, stressing that Iranians will foil such plots through continued solidarity and resistance.",
+      "sourceUrl": "https://en.irna.ir/news/86182422/Enemy-seeking-to-undermine-Iran-s-national-unity-Judiciary-chief",
+      "pubDate": "Sun, 14 Jun 2026 11:30:37 GMT"
+    },
+    {
+      "id": "irna_en_6",
+      "agencyId": "irna_en",
+      "title": "Official: Russia ready to help restore Iran’s historical sites damaged by US, Israel",
+      "description": "Moscow, IRNA – Head of the Center for International Affairs and Diplomacy of Ministry of Cultural Heritage, Tourism, and Handicrafts Hojjatollah Ayoubi has said that Russia has declared its readiness to participate in the restoration of Iran’s historical sites damaged by the US-Israeli military aggr",
+      "sourceUrl": "https://en.irna.ir/news/86182147/Official-Russia-ready-to-help-restore-Iran-s-historical-sites",
+      "pubDate": "Sun, 14 Jun 2026 08:22:39 GMT"
+    },
+    {
+      "id": "irna_en_7",
+      "agencyId": "irna_en",
+      "title": "Iran Air: 27,810 Hajj pilgrims returned home as of June 13",
+      "description": "Tehran, IRNA – The CEO of Iran’s national carrier Homa says 27,810 Iranian pilgrims have returned home on 234 flights as part of the Hajj return operation.",
+      "sourceUrl": "https://en.irna.ir/news/86182016/Iran-Air-27-810-Hajj-pilgrims-returned-home-as-of-June-13",
+      "pubDate": "Sun, 14 Jun 2026 06:47:33 GMT"
     },
     {
       "id": "mehrnews_0",
@@ -944,130 +1112,194 @@
     {
       "id": "khabaronline_0",
       "agencyId": "khabaronline",
-      "title": "طلا به طور کامل از مخمصه نجات نیافته/ با بازگشایی تنگه هرمز بهای فلز زرد به کدام سمت می‌رود؟",
-      "description": "قیمت طلای جهانی پس از سقوط به پایین‌ترین سطوح سال ۲۰۲۶، شاهد یک بازگشت قاطع بود؛ با این حال، مجموعه‌ای از عوامل سیاسی، پولی و تکنیکال نشان می‌دهد که این فلز گرانبها هنوز به‌طور کامل از مخمصه نزولی خارج نشده و هفته پیش رو می‌تواند سرنوشت‌ساز باشد.",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233253/%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D8%B7%D9%88%D8%B1-%DA%A9%D8%A7%D9%85%D9%84-%D8%A7%D8%B2-%D9%85%D8%AE%D9%85%D8%B5%D9%87-%D9%86%D8%AC%D8%A7%D8%AA-%D9%86%DB%8C%D8%A7%D9%81%D8%AA%D9%87-%D8%A8%D8%A7-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D9%87%D8%A7%DB%8C",
-      "pubDate": "Sun, 14 Jun 2026 14:00:00 GMT"
+      "title": "جهان اسلام به این روحانی اهل ادب می‌بالد",
+      "description": "مرحوم آیت‌الله‌ مرعشی نجفی از نوادر روزگار ما به‌شمار می‌آمدند و به‌حق که جهان اسلام و عالم انسانی برخود می‌بالد که فرزانه‌ای روحانی عمر خویش را برای بالندگی فرهنگ و ادب به کار بست.",
+      "sourceUrl": "https://www.khabaronline.ir/news/2232866/%D8%AC%D9%87%D8%A7%D9%86-%D8%A7%D8%B3%D9%84%D8%A7%D9%85-%D8%A8%D9%87-%D8%A7%DB%8C%D9%86-%D8%B1%D9%88%D8%AD%D8%A7%D9%86%DB%8C-%D8%A7%D9%87%D9%84-%D8%A7%D8%AF%D8%A8-%D9%85%DB%8C-%D8%A8%D8%A7%D9%84%D8%AF",
+      "pubDate": "Sun, 14 Jun 2026 15:20:00 GMT"
     },
     {
       "id": "khabaronline_1",
       "agencyId": "khabaronline",
-      "title": "«خونه آبی ۳»؛ تجربه گروهی از نوجوانان در صعود به قله دماوند",
-      "description": "فصل سوم مجموعه مستند «خونه آبی» با عنوان «دماوند» به زودی همزمان با سالگرد جنگ ۱۲روزه از شبکه‌های صداوسیما پخش خواهد شد.",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233176/%D8%AE%D9%88%D9%86%D9%87-%D8%A2%D8%A8%DB%8C-%DB%B3-%D8%AA%D8%AC%D8%B1%D8%A8%D9%87-%DA%AF%D8%B1%D9%88%D9%87%DB%8C-%D8%A7%D8%B2-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D9%87-%D9%82%D9%84%D9%87-%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF",
-      "pubDate": "Sun, 14 Jun 2026 14:00:00 GMT"
+      "title": "ترور شیخ نعیم قاسم تکذیب شد",
+      "description": "بر اساس آخرین گزارش‌ها، تمامی اخبار و شایعات منتشر شده در رسانه‌ها مبنی بر ترور یا آسیب دیدن «شیخ نعیم قاسم» به طور کامل تکذیب می‌شود و این اخبار جعلی است.",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233338/%D8%AA%D8%B1%D9%88%D8%B1-%D8%B4%DB%8C%D8%AE-%D9%86%D8%B9%DB%8C%D9%85-%D9%82%D8%A7%D8%B3%D9%85-%D8%AA%DA%A9%D8%B0%DB%8C%D8%A8-%D8%B4%D8%AF",
+      "pubDate": "Sun, 14 Jun 2026 15:17:33 GMT"
     },
     {
       "id": "khabaronline_2",
       "agencyId": "khabaronline",
-      "title": "تاج: رسالت ما حضور در جام جهانی به نام «میناب١۶٨» بود",
-      "description": "رئیس فدراسیون فوتبال در پاسخ به خبرنگار نیویورک تایمز یاد ماکان نصیری را زنده کرد.",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233289/%D8%AA%D8%A7%D8%AC-%D8%B1%D8%B3%D8%A7%D9%84%D8%AA-%D9%85%D8%A7-%D8%AD%D8%B6%D9%88%D8%B1-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%86%D8%A7%D9%85-%D9%85%DB%8C%D9%86%D8%A7%D8%A8%D9%A1%DB%B6%D9%A8-%D8%A8%D9%88%D8%AF",
-      "pubDate": "Sun, 14 Jun 2026 13:59:08 GMT"
+      "title": "پزشکیان: تصمیم‌ درباره جنگ و مذاکره بر عهده رهبری و شعام است/ اولویت دولت کاهش فشارهای اقتصادی است",
+      "description": "رئیس جمهور در نشست صمیمی با مدیران رسانه‌های کشور، با تأکید بر اینکه حفظ وحدت و انسجام ملی مهم‌ترین اولویت کشور در شرایط کنونی است، تلاش برای ایجاد شکاف‌های داخلی را بزرگ‌ترین تهدید پیش روی ایران دانست و با تشریح روند مذاکرات در چارچوب مصوبات شورای عالی امنیت ملی، تصریح کرد که دولت همزمان با صیانت ا",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233332/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%DA%AF-%D9%88-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D8%A8%D8%B1-%D8%B9%D9%87%D8%AF%D9%87-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D9%88-%D8%B4%D8%B9%D8%A7%D9%85-%D8%A7%D8%B3%D8%AA",
+      "pubDate": "Sun, 14 Jun 2026 15:13:38 GMT"
     },
     {
       "id": "khabaronline_3",
       "agencyId": "khabaronline",
-      "title": "ماجرای انفجار در بندرعباس چیست؟ + جزئیات",
-      "description": "روابط عمومی سپاه امام سجاد (ع) در اطلاعیه‌ای از اجرای عملیات انهدام مهمات عمل‌نکرده در شهر بندرعباس طی روز دوشنبه ۲۵ خرداد خبر داد.",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233284/%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%DA%86%DB%8C%D8%B3%D8%AA-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA",
-      "pubDate": "Sun, 14 Jun 2026 13:56:34 GMT"
+      "title": "ببینید | واکنش قیاسی به سن نکونام؛ تو چرا اصلا پیر نمیشی؟!",
+      "description": "امیرحسین قیاسی به سن نکونام واکنش نشان داد./چندثانیه",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233286/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D9%82%DB%8C%D8%A7%D8%B3%DB%8C-%D8%A8%D9%87-%D8%B3%D9%86-%D9%86%DA%A9%D9%88%D9%86%D8%A7%D9%85-%D8%AA%D9%88-%DA%86%D8%B1%D8%A7-%D8%A7%D8%B5%D9%84%D8%A7-%D9%BE%DB%8C%D8%B1-%D9%86%D9%85%DB%8C%D8%B4%DB%8C",
+      "pubDate": "Sun, 14 Jun 2026 15:10:19 GMT"
     },
     {
       "id": "khabaronline_4",
       "agencyId": "khabaronline",
-      "title": "اولین نسل پاترول با قیمت ۲ میلیون تومانی",
-      "description": "در این مطلب، نگاهی به اولین حضور نیسان پاترول در ایران خواهیم داشت.",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233220/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%86%D8%B3%D9%84-%D9%BE%D8%A7%D8%AA%D8%B1%D9%88%D9%84-%D8%A8%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C",
-      "pubDate": "Sun, 14 Jun 2026 13:56:00 GMT"
+      "title": "ببینید |  مسابقۀ کشتی در آمریکا به میدان جنگ تبدیل شد",
+      "description": "آمریکا از سال ۲۰۲۵ اقدام به برگزاری مسابقات کشتی آزاد تحت عنوان RAF کرده که در آن خیلی از ستاره‌های مطرح جهان هم شرکت می‌کنند. در یکی از این دیدارها چیمایف از روسیه به دنیس از آمریکا لگد زد که منجر به درگیری نمایندگان دو تیم شد./فارس",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233300/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%DB%80-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%B4%D8%AF",
+      "pubDate": "Sun, 14 Jun 2026 15:09:41 GMT"
     },
     {
       "id": "khabaronline_5",
       "agencyId": "khabaronline",
-      "title": "نتانیاهو پس از حمله به ضاحیه تولد ترامپ را تبریک گفت",
-      "description": "نخست‌وزیر رژیم صهیونیستی بلافاصله پس از هدف قرار دادن ضاحیه جنوبی تولد رئیس‌جمهور آمریکا را تبریک گفت.",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233290/%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%B6%D8%A7%D8%AD%DB%8C%D9%87-%D8%AA%D9%88%D9%84%D8%AF-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B1%D8%A7-%D8%AA%D8%A8%D8%B1%DB%8C%DA%A9-%DA%AF%D9%81%D8%AA",
-      "pubDate": "Sun, 14 Jun 2026 13:53:50 GMT"
+      "title": "ببینید | لحظه سقوط یک فروند هواپیمای An-32 نیروی هوایی هند",
+      "description": "لحظه سقوط یک فروند هواپیمای An-32 نیروی هوایی هند در پایگاه نیروی هوایی جورهات در آسام که منجر به کشته شدن 5 نفر شد./جماران",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233277/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D9%84%D8%AD%D8%B8%D9%87-%D8%B3%D9%82%D9%88%D8%B7-%DB%8C%DA%A9-%D9%81%D8%B1%D9%88%D9%86%D8%AF-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C-An-32-%D9%86%DB%8C%D8%B1%D9%88%DB%8C-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D9%87%D9%86%D8%AF",
+      "pubDate": "Sun, 14 Jun 2026 15:09:20 GMT"
     },
     {
       "id": "khabaronline_6",
       "agencyId": "khabaronline",
-      "title": "غدیر؛ حقیقتی فراتر از تاریخ، پیمانی فراتر از سیاست",
-      "description": "غدیر، تنها نام برکه‌ای در سرزمین حجاز نیست؛ غدیر، نقطه تلاقی آسمان و زمین است؛ لحظه‌ای که رسالت، در واپسین فصل حیات پیامبر اعظم صلی‌الله‌علیه‌وآله، آینده امت را مخاطب قرار داد و درباره سرنوشت هدایت پس از خویش سخن گفت.",
-      "sourceUrl": "https://www.khabaronline.ir/news/2231409/%D8%BA%D8%AF%DB%8C%D8%B1-%D8%AD%D9%82%DB%8C%D9%82%D8%AA%DB%8C-%D9%81%D8%B1%D8%A7%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DB%8C-%D9%81%D8%B1%D8%A7%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA",
-      "pubDate": "Sun, 14 Jun 2026 13:50:40 GMT"
+      "title": "ببینید | بازیگر زن سریال زیر آسمان شهر درگذشت",
+      "description": "شهرزاد جواهری، بازیگری قدیمی تلویزیون و تئاتر و همسر مهرداد ضیایی کارگردان و بازیگر تئاتر، درگذشت./چندثانیه",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233279/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D8%A8%D8%A7%D8%B2%DB%8C%DA%AF%D8%B1-%D8%B2%D9%86-%D8%B3%D8%B1%DB%8C%D8%A7%D9%84-%D8%B2%DB%8C%D8%B1-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%B4%D9%87%D8%B1-%D8%AF%D8%B1%DA%AF%D8%B0%D8%B4%D8%AA",
+      "pubDate": "Sun, 14 Jun 2026 15:08:37 GMT"
     },
     {
       "id": "khabaronline_7",
       "agencyId": "khabaronline",
-      "title": "راز باورنکردنی سعید معروف لو رفت!",
-      "description": "یک بمب خبری درباره سعید معروف، اسطوره والیبال ایران، در آخرین لحظات خنثی شد.",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233285/%D8%B1%D8%A7%D8%B2-%D8%A8%D8%A7%D9%88%D8%B1%D9%86%DA%A9%D8%B1%D8%AF%D9%86%DB%8C-%D8%B3%D8%B9%DB%8C%D8%AF-%D9%85%D8%B9%D8%B1%D9%88%D9%81-%D9%84%D9%88-%D8%B1%D9%81%D8%AA",
-      "pubDate": "Sun, 14 Jun 2026 13:48:50 GMT"
+      "title": "ببینید | زهران ممدانی، شهردار نیویورک، تماشاگر ویژه بازی برزیل و مراکش بود",
+      "description": "ویدیوی از شهردار نیویورک، تماشاگر ویژه بازی برزیل و مراکش بود را، ببینید./فرارو",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233276/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D8%B2%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D9%85%D8%AF%D8%A7%D9%86%DB%8C-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1-%D9%86%DB%8C%D9%88%DB%8C%D9%88%D8%B1%DA%A9-%D8%AA%D9%85%D8%A7%D8%B4%D8%A7%DA%AF%D8%B1-%D9%88%DB%8C%DA%98%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A8%D8%B1%D8%B2%DB%8C%D9%84",
+      "pubDate": "Sun, 14 Jun 2026 15:07:28 GMT"
     },
     {
       "id": "mashregh_0",
       "agencyId": "mashregh",
-      "title": "رئیس سومالی‌لند وارد اراضی اشغالی فلسطین شد",
-      "description": "منابع عبری زبان از ورود رئیس سومالی‌لند به اراضی اشغالی فلسطین طی سفری ۲ روزه خبر دادند.",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818384/%D8%B1%D8%A6%DB%8C%D8%B3-%D8%B3%D9%88%D9%85%D8%A7%D9%84%DB%8C-%D9%84%D9%86%D8%AF-%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B1%D8%A7%D8%B6%DB%8C-%D8%A7%D8%B4%D8%BA%D8%A7%D9%84%DB%8C-%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86-%D8%B4%D8%AF",
-      "pubDate": "Sun, 14 Jun 2026 14:00:00 GMT"
+      "title": "ترامپ: حمله صبح امروز به بیروت نباید رخ می داد",
+      "description": "رئیس جمهور آمریکا بدون محکوم کردن نقض تعهداتش با ادامه تهاجم وحشیانه رژیم صهیونیستی علیه مردم مظلوم در لبنان، با اتخاذ موضعی منفعلانه و لفظی گفت: حمله صبح امروز به بیروت نباید رخ می داد.",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818409/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AD%D9%85%D9%84%D9%87-%D8%B5%D8%A8%D8%AD-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A8%D9%87-%D8%A8%DB%8C%D8%B1%D9%88%D8%AA-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D8%B1%D8%AE-%D9%85%DB%8C-%D8%AF%D8%A7%D8%AF",
+      "pubDate": "Sun, 14 Jun 2026 15:23:00 GMT"
     },
     {
       "id": "mashregh_1",
       "agencyId": "mashregh",
-      "title": "ارائه خدمات مبتنی بر کارت در بانک‌تجارت فعال شد",
-      "description": "ارائه خدمات مبتنی بر کارت در بانک‌تجارت در کمتر از ۲۴ ساعت فعال شد.",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818387/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D8%A8%D8%AA%D9%86%DB%8C-%D8%A8%D8%B1-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%A7%D9%86%DA%A9-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%81%D8%B9%D8%A7%D9%84-%D8%B4%D8%AF",
-      "pubDate": "Sun, 14 Jun 2026 13:55:59 GMT"
+      "title": "عکس/ پوستر ویژه فیفا برای ۴۸ تیم با حضور یک ایرانی",
+      "description": "صفحه رسمی جام جهانی ۲۰۲۶ با انتشار مجموعه‌ای از پوسترهای ویژه، کاپیتان‌های ۴۸ تیم حاضر در این رقابت‌ها را به تصویر کشید؛ پوسترهایی که نام و تصویر علیرضا جهانبخش نیز در میان آن‌ها دیده می‌شود.",
+      "sourceUrl": "https://www.mashreghnews.ir/photo/1818404/%D8%B9%DA%A9%D8%B3-%D9%BE%D9%88%D8%B3%D8%AA%D8%B1-%D9%88%DB%8C%DA%98%D9%87-%D9%81%DB%8C%D9%81%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%DB%B4%DB%B8-%D8%AA%DB%8C%D9%85-%D8%A8%D8%A7-%D8%AD%D8%B6%D9%88%D8%B1-%DB%8C%DA%A9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
+      "pubDate": "Sun, 14 Jun 2026 15:18:00 GMT"
     },
     {
       "id": "mashregh_2",
       "agencyId": "mashregh",
-      "title": "توهم گلادیاتوری ترامپ در محوطه جنوبی کاخ سفید",
-      "description": "برنامه دونالد ترامپ برای برگزاری یک رویداد UFC در محوطه جنوبی کاخ سفید با واکنش‌های گسترده‌ای همراه شده است.",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818299/%D8%AA%D9%88%D9%87%D9%85-%DA%AF%D9%84%D8%A7%D8%AF%DB%8C%D8%A7%D8%AA%D9%88%D8%B1%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1-%D9%85%D8%AD%D9%88%D8%B7%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%DA%A9%D8%A7%D8%AE-%D8%B3%D9%81%DB%8C%D8%AF",
-      "pubDate": "Sun, 14 Jun 2026 13:55:25 GMT"
+      "title": "فیلم/ قدرت‌نمایی پدافندی حزب‌الله لبنان",
+      "description": "حزب‌الله لبنان با انتشار ویدئویی، بخشی از توانمندی‌های پدافند هوایی خود را به نمایش گذاشت تا پیامی روشن به متجاوزان صهیونیستی ارسال کند.",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818405/%D9%81%DB%8C%D9%84%D9%85-%D9%82%D8%AF%D8%B1%D8%AA-%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF%DB%8C-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "pubDate": "Sun, 14 Jun 2026 15:15:00 GMT"
     },
     {
       "id": "mashregh_3",
       "agencyId": "mashregh",
-      "title": "جدیدترین آمار شهدا و مجروحان ناشی از حملات رژیم صهیونیستی به غزه",
-      "description": "وزارت بهداشت فلسطین در غزه اعلام کرد که از آغاز جنگ رژیم صهیونیستی علیه نوار غزه در ۷ اکتبر ۲۰۲۳، شمار شهدا به ۷۲ هزار و ۹۹۶ نفر و شمار مجروحان به ۱۷۳ هزار و ۲۴۶ نفر رسیده است.",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818373/%D8%AC%D8%AF%DB%8C%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%A2%D9%85%D8%A7%D8%B1-%D8%B4%D9%87%D8%AF%D8%A7-%D9%88-%D9%85%D8%AC%D8%B1%D9%88%D8%AD%D8%A7%D9%86-%D9%86%D8%A7%D8%B4%DB%8C-%D8%A7%D8%B2-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D9%87",
-      "pubDate": "Sun, 14 Jun 2026 13:47:00 GMT"
+      "title": "واکنش حماس به سفر سرکرده «سومالی‌لند» به تل‌آویو",
+      "description": "جنبش حماس به سفر رئیس منطقه خودخوانده «سومالی‌لند» به فلسطین اشغالی واکنش نشان داد.",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818402/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%AD%D9%85%D8%A7%D8%B3-%D8%A8%D9%87-%D8%B3%D9%81%D8%B1-%D8%B3%D8%B1%DA%A9%D8%B1%D8%AF%D9%87-%D8%B3%D9%88%D9%85%D8%A7%D9%84%DB%8C-%D9%84%D9%86%D8%AF-%D8%A8%D9%87-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88",
+      "pubDate": "Sun, 14 Jun 2026 15:14:00 GMT"
     },
     {
       "id": "mashregh_4",
       "agencyId": "mashregh",
-      "title": "فرمانده فضایی آلمان: روسیه در آستانه ساخت سلاح هسته‌ای مداری است",
-      "description": "فرمانده واحد فرماندهی فضایی ارتش آلمان هشدار داد روسیه احتمالا در آستانه دستیابی به توانمندی منفجر ساختن سلاح هسته‌ای در مدار پایین زمین قرار دارد.",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818374/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D9%81%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D9%85%D8%AF%D8%A7%D8%B1%DB%8C",
-      "pubDate": "Sun, 14 Jun 2026 13:37:00 GMT"
+      "title": "فایننشال‌تایمز: چین با یک سامانه پرداخت دیجیتال، به جنگ دلار می‌رود",
+      "description": "تهران- ایرنا- فایننشال‌تایمز مدعی شد که چین خود را برای راه‌اندازی و بهره‌برداری تجاری از یک برنامه ارز دیجیتال مهیا می‌کند که می‌تواند به بازآرایی شیوه پرداخت‌های فرامرزی، کاهش وابستگی به دلار و نزدیک‌تر شدن پکن به شرکای تجاری‌اش در ابتکار «کمربند و جاده» منجر شود.",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818399/%D9%81%D8%A7%DB%8C%D9%86%D9%86%D8%B4%D8%A7%D9%84-%D8%AA%D8%A7%DB%8C%D9%85%D8%B2-%DA%86%DB%8C%D9%86-%D8%A8%D8%A7-%DB%8C%DA%A9-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D8%AF%D9%84%D8%A7%D8%B1",
+      "pubDate": "Sun, 14 Jun 2026 15:08:00 GMT"
     },
     {
       "id": "mashregh_5",
       "agencyId": "mashregh",
-      "title": "ستاره ژاپن امشب تاریخساز می شود؟!",
-      "description": "ستاره تیم ملی فوتبال ژاپن به نخستین بازیکن آسیایی تبدیل خواهد شد که حضور در پنج جام‌جهانی را تجربه می‌کند.",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818361/%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%DA%98%D8%A7%D9%BE%D9%86-%D8%A7%D9%85%D8%B4%D8%A8-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%D8%B3%D8%A7%D8%B2-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
-      "pubDate": "Sun, 14 Jun 2026 13:35:15 GMT"
+      "title": "اظهارنظر اوباما درباره توافق احتمالی ایران و آمریکا",
+      "description": "رئیس‌جمهور اسبق آمریکا ضمن اشاره به هرگونه توافق احتمالی میان تهران و واشنگتن، ادعا کرد که بعید است این توافق فعلی تفاوت چندانی با برجام داشته باشد.",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818400/%D8%A7%D8%B8%D9%87%D8%A7%D8%B1%D9%86%D8%B8%D8%B1-%D8%A7%D9%88%D8%A8%D8%A7%D9%85%D8%A7-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+      "pubDate": "Sun, 14 Jun 2026 15:03:00 GMT"
     },
     {
       "id": "mashregh_6",
       "agencyId": "mashregh",
-      "title": "اعلام جزئیات سرقت ۱۳ هزار پوندی از تیم ملی انگلیس در جام‌جهانی",
-      "description": "در شرایطی که بحث امنیت بازی‌های جام‌جهانی همواره مورد تاکید بوده اما امروز پلیس جزئیات سرقت ۱۳ هزار پوندی از تیم ملی انگلیس را فاش کرد تا مشخص شود این جام همچنان با حاشیه‌های بسیاری دست به گریبان است.",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818368/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D8%B3%D8%B1%D9%82%D8%AA-%DB%B1%DB%B3-%D9%87%D8%B2%D8%A7%D8%B1-%D9%BE%D9%88%D9%86%D8%AF%DB%8C-%D8%A7%D8%B2-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
-      "pubDate": "Sun, 14 Jun 2026 13:33:12 GMT"
+      "title": "تصمیم‌گیری درباره جنگ و مذاکره بر عهده رهبری و شورای عالی امنیت ملی است/ همه جریان‌ها باید خود را ملزم به تبعیت از تصمیمات مبتنی بر نظر رهبر عالیقدر انقلاب بدانند",
+      "description": "رئیس‌جمهور خاطرنشان کرد: درباره مذاکرات، مصوبه شورای عالی امنیت ملی ملاک عمل است و هر آنچه مورد تأیید و صلاحدید رهبر معظم انقلاب قرار گیرد، برای همه ما لازم‌الاتباع خواهد بود. حتی اگر نظر شخصی بنده متفاوت باشد، خود را موظف به تبعیت از تصمیم نهایی نظام می‌دانم.",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818403/%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AC%D9%86%DA%AF-%D9%88-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D8%A8%D8%B1-%D8%B9%D9%87%D8%AF%D9%87-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D9%88-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA",
+      "pubDate": "Sun, 14 Jun 2026 15:00:36 GMT"
     },
     {
       "id": "mashregh_7",
       "agencyId": "mashregh",
-      "title": "تجاوز مجدد رژیم صهیونیستی به بیروت نیز با چراغ سبز آمریکا انجام شد",
-      "description": "منابع خبری تاکید کردند که تجاوز مجدد رژیم صهیونیستی به ضاحیه جنوبی بیروت نیز با چراغ سبز آمریکا انجام شده است.",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818378/%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D9%85%D8%AC%D8%AF%D8%AF-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D9%87-%D8%A8%DB%8C%D8%B1%D9%88%D8%AA-%D9%86%DB%8C%D8%B2-%D8%A8%D8%A7-%DA%86%D8%B1%D8%A7%D8%BA-%D8%B3%D8%A8%D8%B2-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D9%86%D8%AC%D8%A7%D9%85",
-      "pubDate": "Sun, 14 Jun 2026 13:33:00 GMT"
+      "title": "فیلم/ شکار یک تانک مرکاوا توسط حزب‌الله",
+      "description": "حزب الله لبنان با انتشار یک ویدئو از انهدام یک دستگاه تانک‌ مرکاوای ارتش رژیم صهیونیستی خبر داد.",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818401/%D9%81%DB%8C%D9%84%D9%85-%D8%B4%DA%A9%D8%A7%D8%B1-%DB%8C%DA%A9-%D8%AA%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%A7%D9%88%D8%A7-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87",
+      "pubDate": "Sun, 14 Jun 2026 14:52:00 GMT"
+    },
+    {
+      "id": "isna_0",
+      "agencyId": "isna",
+      "title": "استاندار خراسان جنوبی: ۶۰ درصد پروژه‌های نهضت عدالت آموزشی استان به بهره‌برداری رسیده است",
+      "description": "استاندار خراسان جنوبی با تأکید بر نقش بی‌بدیل خیرین در توسعه فضاهای آموزشی، گفت: از مجموع ۱۰۵ پروژه آموزشی استان با حدود ۴۳۰ کلاس درس، تاکنون ۶۰ درصد پروژه‌ها تکمیل و بهره‌برداری شده‌اند و روند اجرای باقی طرح‌ها با جدیت ادامه دارد.",
+      "sourceUrl": "https://www.isna.ir/news/1405032414482/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%DB%B6%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D9%86%D9%87%D8%B6%D8%AA-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86",
+      "pubDate": "Sun, 14 Jun 2026 15:22:49 GMT"
+    },
+    {
+      "id": "isna_1",
+      "agencyId": "isna",
+      "title": "افزایش مداوم شمار شهدای لبنان در پی حملات رژیم صهیونیستی",
+      "description": "وزارت بهداشت لبنان خبر داد که شمار شهدای حملات رژیم صهیونیستی به این کشور به ۳۷۸۳ نفر رسید.",
+      "sourceUrl": "https://www.isna.ir/news/1405032414481/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%85%D8%AF%D8%A7%D9%88%D9%85-%D8%B4%D9%85%D8%A7%D8%B1-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C",
+      "pubDate": "Sun, 14 Jun 2026 15:22:46 GMT"
+    },
+    {
+      "id": "isna_2",
+      "agencyId": "isna",
+      "title": "بررسی تعمیق گفت‌وگوی ادیان میان ایران و اروپا در یک کتاب",
+      "description": "کتاب «پیوند ایمان‌ها: اسلام و مسیحیت در بستر روابط فرهنگی ایران و اتریش» توسط رایزنی فرهنگی ایران در اتریش به چاپ رسید.",
+      "sourceUrl": "https://www.isna.ir/news/1405032414480/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%AA%D8%B9%D9%85%DB%8C%D9%82-%DA%AF%D9%81%D8%AA-%D9%88%DA%AF%D9%88%DB%8C-%D8%A7%D8%AF%DB%8C%D8%A7%D9%86-%D9%85%DB%8C%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%AF%D8%B1-%DB%8C%DA%A9-%DA%A9%D8%AA%D8%A7%D8%A8",
+      "pubDate": "Sun, 14 Jun 2026 15:20:32 GMT"
+    },
+    {
+      "id": "isna_3",
+      "agencyId": "isna",
+      "title": "فرماندار: ماکو به قطب آموزش‌های مهارتی تبدیل شود",
+      "description": "فرماندار ماکو گفت: انتظار می‌رود سازمان فنی و حرفه‌ای با نگاه ویژه‌ به شهرستان، زمینه جذب کارآموزان و مهارت‌آموزان از سایر استان‌های کشور و حتی کشورهای همسایه را فراهم کند تا این منطقه به قطب آموزش‌های مهارتی تبدیل شود.",
+      "sourceUrl": "https://www.isna.ir/news/1405032414479/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D9%85%D8%A7%DA%A9%D9%88-%D8%A8%D9%87-%D9%82%D8%B7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%87%D8%A7%DB%8C-%D9%85%D9%87%D8%A7%D8%B1%D8%AA%DB%8C-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D8%B4%D9%88%D8%AF",
+      "pubDate": "Sun, 14 Jun 2026 15:18:35 GMT"
+    },
+    {
+      "id": "isna_4",
+      "agencyId": "isna",
+      "title": "اظهارنظر ونس درباره وضعیت سلامتی ترامپ",
+      "description": "معاون رئیس‌جمهور آمریکا با اشاره به وضعیت سلامتی رئیس‌جمهور این کشور گفت که فکر می‌کند «او از سلامت کامل برخوردار است».",
+      "sourceUrl": "https://www.isna.ir/news/1405032414478/%D8%A7%D8%B8%D9%87%D8%A7%D8%B1%D9%86%D8%B8%D8%B1-%D9%88%D9%86%D8%B3-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE",
+      "pubDate": "Sun, 14 Jun 2026 15:16:23 GMT"
+    },
+    {
+      "id": "isna_5",
+      "agencyId": "isna",
+      "title": "برگزاری رویداد مدیریت مصرف انرژی با رویکرد محله‌محوری در قزوین",
+      "description": "مدیرکل دفتر امور اجتماعی و فرهنگی استانداری قزوین از برگزاری رویداد استانی مدیریت مصرف انرژی با رویکرد محله‌محوری خبر داد و گفت: این رویداد با هدف بهره‌گیری از ظرفیت مشارکت مردمی در اصلاح الگوی مصرف و ترویج فرهنگ استفاده بهینه از حامل‌های انرژی، در دو مرحله شهرستانی و استانی برگزار خواهد شد.",
+      "sourceUrl": "https://www.isna.ir/news/1405032414476/%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1%DB%8C-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%A8%D8%A7-%D8%B1%D9%88%DB%8C%DA%A9%D8%B1%D8%AF-%D9%85%D8%AD%D9%84%D9%87-%D9%85%D8%AD%D9%88%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+      "pubDate": "Sun, 14 Jun 2026 15:09:00 GMT"
+    },
+    {
+      "id": "isna_6",
+      "agencyId": "isna",
+      "title": "ادعای هگست؛ در مسیر امضای توافق با ایران هستیم",
+      "description": "وزیر جنگ آمریکا ادعا کرد این کشور در مسیر امضای توافق با ایران است و اکنون زمان آن در حال بررسی است.",
+      "sourceUrl": "https://www.isna.ir/news/1405032414475/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D9%87%DA%AF%D8%B3%D8%AA-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%A7%D9%85%D8%B6%D8%A7%DB%8C-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D8%B3%D8%AA%DB%8C%D9%85",
+      "pubDate": "Sun, 14 Jun 2026 15:08:26 GMT"
+    },
+    {
+      "id": "isna_7",
+      "agencyId": "isna",
+      "title": "ترامپ: حمله امروز به بیروت نباید اتفاق می‌افتاد",
+      "description": "رئیس‌جمهور آمریکا با طرح ادعایی مبنی بر اینکه به توافق صلح با ایران «بسیار نزدیک» است، گفت که حمله رژیم صهیونیستی به بیروت نباید اتفاق می‌افتاد.",
+      "sourceUrl": "https://www.isna.ir/news/1405032414474/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AD%D9%85%D9%84%D9%87-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A8%D9%87-%D8%A8%DB%8C%D8%B1%D9%88%D8%AA-%D9%86%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%85%DB%8C-%D8%A7%D9%81%D8%AA%D8%A7%D8%AF",
+      "pubDate": "Sun, 14 Jun 2026 15:07:44 GMT"
     }
   ]
 }
