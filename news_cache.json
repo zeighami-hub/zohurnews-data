@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T18:35:53.739Z",
-  "total": 52,
+  "generated_at": "2026-06-14T20:35:57.806Z",
+  "total": 58,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,14 +100,14 @@
   ],
   "articles": [
     {
-      "id": "aljazeera_1",
+      "id": "aljazeera_2",
       "agencyId": "aljazeera",
       "title": "Al Jazeera reports from Israeli attack site in southern Beirut",
       "title_fa": "الجزیره از محل حمله اسرائیل در جنوب بیروت گزارش می‌دهد",
-      "lead": "الجزیره از محل حمله اسرائیل به یک ساختمان مسکونی در جنوب بیروت گزارش می‌دهد. این گزارش جزئیات بیشتری از وضعیت میدانی پس از این حمله ارائه می‌کند.",
+      "lead": "الجزیره از محل حمله اسرائیل به یک ساختمان مسکونی در جنوب بیروت گزارش می‌دهد. این حمله به منطقه بیروت جنوبی که پایتخت لبنان است، خساراتی وارد کرده است.",
       "category": "military",
       "region": "middleeast",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut",
       "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
@@ -116,19 +116,19 @@
       },
       "sentiment": {
         "positive": 10,
-        "neutral": 50,
-        "negative": 40
+        "neutral": 20,
+        "negative": 70
       }
     },
     {
-      "id": "aljazeera_3",
+      "id": "aljazeera_4",
       "agencyId": "aljazeera",
-      "title": "Analyst says what attacks on Lebanon could mean for potential US-Iran deal",
-      "title_fa": "تحلیلگر: حملات به لبنان چه معنایی برای توافق احتمالی آمریکا و ایران دارد؟",
-      "lead": "یک تحلیلگر امور اسرائیل توضیح می‌دهد که چگونه آمریکا، اسرائیل و ایران ممکن است با نزدیک شدن به توافق واکنش نشان دهند. این تحلیل به بررسی تأثیر حملات اخیر بر مذاکرات آتی می‌پردازد.",
+      "title": "Analyst discusses implications of Lebanon attacks for potential US-Iran deal",
+      "title_fa": "تحلیلگر پیامدهای حملات به لبنان را برای توافق احتمالی آمریکا و ایران بررسی می‌کند",
+      "lead": "یک تحلیلگر امور اسرائیل توضیح می‌دهد که چگونه آمریکا، اسرائیل و ایران ممکن است در صورت نزدیک شدن به توافق واکنش نشان دهند. این تحلیل به بررسی ارتباط بین تنش‌ها در لبنان و مذاکرات احتمالی بین واشنگتن و تهران می‌پردازد.",
       "category": "diplomacy",
       "region": "middleeast",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/analyst-says-what-attacks-on-lebanon-could-mean-for-potential-us-iran-deal?traffic_source=rss",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/analyst-says-what-attacks-on-lebanon-could-mean-for-potential-us-iran-deal",
       "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
@@ -137,103 +137,19 @@
       },
       "sentiment": {
         "positive": 20,
-        "neutral": 60,
-        "negative": 20
-      }
-    },
-    {
-      "id": "aljazeera_5",
-      "agencyId": "aljazeera",
-      "title": "‘Unacceptable’: London protesters slam illegal Israeli settlement land sale",
-      "title_fa": "«غیرقابل قبول»: معترضان لندنی فروش غیرقانونی زمین‌های شهرک‌های اسرائیلی را محکوم کردند",
-      "lead": "معترضان در لندن رویدادی را که به ترویج فروش زمین و املاک شهرک‌های اسرائیلی می‌پردازد، محکوم کردند. آنها این اقدام را نقض قوانین بین‌المللی می‌دانند و خواستار توقف آن هستند.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/6/14/unacceptable-london-protesters-slam-illegal-israeli-settlement-land-sale?traffic_source=rss",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
         "neutral": 50,
-        "negative": 40
-      }
-    },
-    {
-      "id": "aljazeera_0",
-      "agencyId": "aljazeera",
-      "title": "Thousands protest as Trump, other world leaders set to meet for G7 summit",
-      "title_fa": "هزاران نفر در آستانه نشست سران گروه ۷ توسط ترامپ و دیگر رهبران جهان، اعتراض کردند",
-      "lead": "فعالان در ژنو در آستانه نشست سالانه گروه ۷ در فرانسه، سیاست‌های کشورهای عضو را محکوم کردند. هزاران نفر به خیابان‌ها آمده تا نارضایتی خود را از این سیاست‌ها ابراز کنند.",
-      "category": "politics",
-      "region": "europe",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 60,
         "negative": 30
       }
     },
     {
       "id": "aljazeera_6",
       "agencyId": "aljazeera",
-      "title": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
-      "title_fa": "نیروهای بریتانیا نفتکش مظنون روسی را که متهم به تامین مالی جنگ اوکراین است، توقیف کردند",
-      "lead": "نیروهای مسلح بریتانیا یک نفتکش را که گمان می‌رود بخشی از ناوگان سایه تحریم‌شده روسیه باشد، رهگیری کردند. این نفتکش متهم به تأمین مالی جنگ در اوکراین است.",
-      "category": "energy",
-      "region": "europe",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war?traffic_source=rss",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 50,
-        "negative": 40
-      }
-    },
-    {
-      "id": "france24_9",
-      "agencyId": "france24",
-      "title": "Putin and Zelensky hold separate calls with Trump on his birthday",
-      "title_fa": "پوتین و زلنسکی در روز تولد ترامپ تماس‌های جداگانه با او برقرار کردند",
-      "lead": "ولادیمیر پوتین رئیس‌جمهور روسیه و ولودیمیر زلنسکی رئیس‌جمهور اوکراین تماس‌های جداگانه‌ای با دونالد ترامپ، رئیس‌جمهور آمریکا، در آستانه جشن تولد ۸۰ سالگی او برقرار کردند. رهبران درباره جنگ اوکراین گفتگو کردند.",
-      "category": "diplomacy",
-      "region": "global",
-      "sourceUrl": "https://www.france24.com/en/europe/20260614-putin-zelensky-separate-phonecalls-trump-birthday-ukraine-war-russia-president",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 60,
-        "negative": 20
-      }
-    },
-    {
-      "id": "france24_11",
-      "agencyId": "france24",
-      "title": "Swiss police fire tear gas as anti-G7 protesters target UN buildings",
-      "title_fa": "پلیس سوئیس با گاز اشک‌آور به معترضان ضد گروه ۷ که ساختمان‌های سازمان ملل را هدف قرار داده بودند، حمله کرد",
-      "lead": "پلیس سوئیس روز یکشنبه با گاز اشک‌آور به معترضانی که نشست گروه ۷ در فرانسه را محکوم می‌کردند، حمله کرد. این معترضان ساختمان‌های مرتبط با سازمان ملل در ژنو را هدف قرار داده بودند.",
+      "title": "London protesters condemn illegal Israeli settlement land sales as 'unacceptable'",
+      "title_fa": "معترضان لندنی فروش اراضی شهرک‌های غیرقانونی اسرائیل را «غیرقابل قبول» می‌دانند",
+      "lead": "تظاهرکنندگان در لندن رویدادی را که به ترویج فروش اراضی و املاک شهرک‌سازی‌های اسرائیلی می‌پردازد، محکوم کردند. آنها این اقدام را نقض قوانین بین‌المللی و غیرقابل قبول خواندند.",
       "category": "politics",
-      "region": "europe",
-      "sourceUrl": "https://www.france24.com/en/europe/20260614-switzerland-police-tear-gas-as-anti-g7-protesters-target-un-buildings-geneva-united-nations",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/14/unacceptable-london-protesters-slam-illegal-israeli-settlement-land-sale",
       "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
@@ -241,8 +157,8 @@
         "conflict": true
       },
       "sentiment": {
-        "positive": 10,
-        "neutral": 50,
+        "positive": 20,
+        "neutral": 40,
         "negative": 40
       }
     },
@@ -250,71 +166,71 @@
       "id": "france24_1",
       "agencyId": "france24",
       "title": "Trump vows Mideast deal is on, calls for no more attacks",
-      "title_fa": "ترامپ وعده می‌دهد که توافق خاورمیانه در راه است، خواستار توقف حملات می‌شود",
-      "lead": "رئیس‌جمهور آمریکا، دونالد ترامپ، روز یکشنبه اعلام کرد که حملات اسرائیل به بیروت «نباید رخ می‌داد» و وعده داد که یک توافق صلح منطقه‌ای در راه است. با این حال، او ادعای قبلی خود را مبنی بر قریب‌الوقوع بودن امضای این توافق تأیید نکرد.",
+      "title_fa": "ترامپ قول توافق خاورمیانه را می‌دهد، خواستار توقف حملات شد",
+      "lead": "رئیس‌جمهور آمریکا، دونالد ترامپ، روز یکشنبه اعلام کرد که حملات اسرائیل به بیروت «نباید رخ می‌داد» و قول داد که یک توافق صلح منطقه‌ای در راه است. او در عین حال از طرفین خواست تا حملات بیشتری انجام ندهند، اما ادعای قبلی خود مبنی بر امضا شدن این توافق را تایید نکرد.",
       "category": "diplomacy",
       "region": "middleeast",
       "sourceUrl": "https://www.france24.com/en/video/20260614-trump-vows-mideast-deal-is-on-calls-for-no-more-attacks",
-      "time": "دیروز",
+      "time": "چند ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
       }
     },
     {
       "id": "foreignpolicy_8",
       "agencyId": "foreignpolicy",
       "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
-      "title_fa": "انتخاب مجدد نتانیاهو ممکن است به نتیجه جنگ ایران گره بخورد",
-      "lead": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، با وعده «پیروزی کامل» در جنگ، برای انتخاب مجدد خود با چالش مواجه است. سرنوشت سیاسی او به طور قابل توجهی به تحولات جنگ با ایران و نتایج آن وابسته است.",
+      "title_fa": "انتخاب مجدد نتانیاهو ممکن است به نتیجه جنگ با ایران گره بخورد",
+      "lead": "این تحلیل به بررسی این موضوع می‌پردازد که چگونه آینده سیاسی بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به سرنوشت جنگ با ایران وابسته است. نتانیاهو به اسرائیلی‌ها «پیروزی کامل» را وعده داده بود، اما در سه جبهه به اهداف خود نرسیده است.",
       "category": "politics",
       "region": "middleeast",
       "sourceUrl": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/",
-      "time": "2 روز پیش",
+      "time": "3 روز پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
       }
     },
     {
       "id": "foreignpolicy_9",
       "agencyId": "foreignpolicy",
       "title": "Trump’s Big Weekend Could Derail the G-7",
-      "title_fa": "آخر هفته سرنوشت‌ساز ترامپ می‌تواند گروه ۷ را از مسیر خارج کند",
-      "lead": "با وجود توافق یا عدم توافق، جنگ ایران سایه بزرگی بر نشست سه‌روزه سران گروه ۷ افکنده است. مواضع ترامپ و پیامدهای جنگ ایران می‌تواند بر روند این اجلاس مهم بین‌المللی تأثیر جدی بگذارد.",
+      "title_fa": "آخر هفته بزرگ ترامپ می‌تواند نشست گروه ۷ را از مسیر خارج کند",
+      "lead": "این گزارش به بررسی این موضوع می‌پردازد که چگونه حضور احتمالی دونالد ترامپ در آخر هفته می‌تواند نشست گروه ۷ را تحت تأثیر قرار دهد. جنگ ایران، چه با توافق و چه بدون آن، سایه سنگینی بر این نشست سه‌روزه سران افکنده است.",
       "category": "diplomacy",
       "region": "global",
       "sourceUrl": "https://foreignpolicy.com/2026/06/12/trump-iran-war-peace-talks-deal-g7-leaders-summit/",
-      "time": "2 روز پیش",
+      "time": "3 روز پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 5,
+        "neutral": 60,
+        "negative": 35
       }
     },
     {
       "id": "foreignpolicy_2",
       "agencyId": "foreignpolicy",
       "title": "Trump Is Shattering the Illusion of the West",
-      "title_fa": "ترامپ توهم غرب را در هم می‌شکند",
-      "lead": "رویکرد رئیس‌جمهور ترامپ به امپریالیسم تمدنی، آنچه را که ادعا می‌کند از آن دفاع می‌کند، در حال نابودی است. این سیاست‌ها پیامدهای گسترده‌ای برای روابط بین‌الملل و جایگاه غرب در جهان دارد.",
+      "title_fa": "ترامپ در حال درهم شکستن توهم غرب است",
+      "lead": "این مقاله به سیاست خارجی دولت ترامپ می‌پردازد که با تکیه بر \"تمدن‌گرایی امپریالیستی\" به گفته نویسنده، در حال نابودی چیزی است که ادعا می‌کند از آن دفاع می‌کند. این رویکرد به طور غیرمستقیم بر روابط ایالات متحده با مناطق حساسی مانند خاورمیانه و ایران تاثیر می‌گذارد و نظم جهانی را تغییر می‌دهد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://foreignpolicy.com/2026/06/12/trump-west-china-rome-civilization-vance-iran-hegseth-russia/",
@@ -322,20 +238,20 @@
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
-        "conflict": false
+        "conflict": true
       },
       "sentiment": {
-        "positive": 20,
+        "positive": 10,
         "neutral": 30,
-        "negative": 50
+        "negative": 60
       }
     },
     {
       "id": "skynews_6",
       "agencyId": "skynews",
       "title": "'Spider-Man of Yemen' dies climbing volcanic crater",
-      "title_fa": "«مرد عنکبوتی یمن» حین صعود به دهانه آتشفشان درگذشت",
-      "lead": "یک ماجراجوی بدلکار که به «مرد عنکبوتی یمن» شهرت داشت، پس از سقوط به دهانه آتشفشان حین تلاش برای صعود از یک صخره عمودی بدون تجهیزات ایمنی جان باخت. این حادثه در حین فعالیت‌های او برای کشف مناطق طبیعی یمن رخ داد.",
+      "title_fa": "«مرد عنکبوتی یمن» هنگام صعود از دهانه آتشفشان جان باخت",
+      "lead": "یک ماجراجوی بدل‌کار معروف به «مرد عنکبوتی یمن» پس از سقوط به دهانه آتشفشان در حین تلاش برای صعود از یک صخره عمودی بدون تجهیزات ایمنی، جان خود را از دست داد. این خبر تلخ بازتاب گسترده‌ای در رسانه‌های منطقه و جهان داشته است.",
       "category": "culture",
       "region": "middleeast",
       "sourceUrl": "https://news.sky.com/story/daredevil-adventurer-nicknamed-spider-man-of-yemen-dies-climbing-volcanic-crater-13554075",
@@ -346,21 +262,21 @@
         "conflict": false
       },
       "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
       }
     },
     {
       "id": "bbc_0",
       "agencyId": "bbc",
       "title": "Israeli military says Hezbollah targets struck in Beirut",
-      "title_fa": "ارتش اسرائیل می‌گوید اهداف حزب‌الله در بیروت هدف قرار گرفت",
-      "lead": "ارتش اسرائیل اعلام کرد که گروه حزب‌الله مورد حمایت ایران را در بیروت هدف قرار داده است. تهران هشدار داد که این اقدام می‌تواند توافق آمریکا و ایران برای پایان دادن به درگیری‌ها را مختل کند.",
+      "title_fa": "ارتش اسرائیل می‌گوید اهداف حزب‌الله در بیروت مورد حمله قرار گرفته‌اند",
+      "lead": "ارتش اسرائیل اعلام کرد که به اهداف گروه مورد حمایت ایران، حزب‌الله، حمله کرده است. این اقدام در حالی صورت می‌گیرد که تهران هشدار داده این عملیات می‌تواند توافق آمریکا و ایران برای پایان دادن به درگیری‌ها را مختل کند.",
       "category": "military",
       "region": "middleeast",
       "sourceUrl": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
-      "time": "چند لحظه پیش",
+      "time": "لحظاتی پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -375,13 +291,13 @@
     {
       "id": "nytimes_8",
       "agencyId": "nytimes",
-      "title": "Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
-      "title_fa": "پس از حملات اسرائیل به حومه بیروت، ترامپ خواستار خویشتن‌داری شد",
-      "lead": "پس از حملات اسرائیل به حومه بیروت و تشدید درگیری‌ها میان اسرائیل و گروه شبه‌نظامی حزب‌الله مورد حمایت ایران، رئیس‌جمهور ترامپ از همه طرف‌ها خواست که خویشتن‌داری کنند. این وضعیت تلاش‌ها برای نهایی کردن توافق آتش‌بس را پیچیده کرده است.",
+      "title": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
+      "title_fa": "به‌روزرسانی‌های زنده جنگ ایران: ترامپ پس از حملات اسرائیل به حومه بیروت خواستار خویشتنداری شد",
+      "lead": "رئیس‌جمهور ترامپ از همه طرف‌ها خواست که خویشتنداری کنند. این درخواست در پی حملات اسرائیل به حومه بیروت و درگیری بین اسرائیل و حزب‌الله، گروه مورد حمایت ایران، مطرح شد که تلاش‌ها برای نهایی کردن توافق آتش‌بس را پیچیده کرده است.",
       "category": "diplomacy",
       "region": "middleeast",
       "sourceUrl": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
-      "time": "چند لحظه پیش",
+      "time": "لحظاتی پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -398,32 +314,32 @@
       "agencyId": "nytimes",
       "title": "Deadlocked Wars: How Major Powers Misread the Regions They Attacked",
       "title_fa": "جنگ‌های بن‌بست: چگونه قدرت‌های بزرگ مناطق مورد حمله خود را اشتباه درک کردند",
-      "lead": "تحلیلگران می‌گویند روسیه و ایالات متحده دیدگاه‌های متمرکز خود را بر اوکراین و ایران تحمیل کردند. در نتیجه، کشورهای کوچکتر، کشورهای بزرگتر را در یک رویارویی پرهزینه به دام انداختند.",
+      "lead": "تحلیلگران می‌گویند روسیه و ایالات متحده دیدگاه‌های متمرکز خود را به اوکراین و ایران تحمیل کردند. در نتیجه، کشورهای کوچکتر، کشورهای بزرگتر را در یک رویارویی پرهزینه گرفتار کردند.",
       "category": "politics",
-      "region": "middleeast",
+      "region": "global",
       "sourceUrl": "https://www.nytimes.com/2026/06/14/world/europe/us-iran-rusisa-ukraine.html",
-      "time": "2 ساعت پیش",
+      "time": "امروز",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 10,
-        "neutral": 50,
-        "negative": 40
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
       }
     },
     {
-      "id": "rt_8",
-      "agencyId": "rt",
-      "title": "US-Israeli ‘good cop, bad cop’ tactics outdated – Iran’s chief negotiator",
-      "title_fa": "مذاکره‌کننده ارشد ایران: تاکتیک‌های «پلیس خوب، پلیس بد» آمریکا و اسرائیل منسوخ شده است",
-      "lead": "محمد قالیباف، مذاکره‌کننده ارشد ایران، پس از حمله مرگبار اسرائیل به بیروت، تاکتیک‌های «پلیس خوب، پلیس بد» آمریکا و اسرائیل را منسوخ خواند. این اظهارات نشان‌دهنده انتقاد شدید ایران از رویکردهای منطقه‌ای واشنگتن و تل‌آویو است.",
-      "category": "diplomacy",
+      "id": "independent_5",
+      "agencyId": "independent",
+      "title": "Iran-US war latest: Trump lashes out at Netanyahu in angry phone call over Beirut attack",
+      "title_fa": "آخرین اخبار جنگ ایران و آمریکا: ترامپ در پی حمله به بیروت در تماس تلفنی عصبانی به نتانیاهو تاخت",
+      "lead": "با حمله به بیروت، توافق صلح به خطر افتاده است، و مذاکره کننده ارشد ایران هشدار می‌دهد: 'پاسخ قاطعی در راه است'. ترامپ در یک تماس تلفنی خشمگین با نتانیاهو بر سر حمله به بیروت برخورد شدید کرد.",
+      "category": "politics",
       "region": "middleeast",
-      "sourceUrl": "https://www.rt.com/news/641527-us-israel-good-bad-cop/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "time": "چند ساعت پیش",
+      "sourceUrl": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-peace-deal-hormuz-israel-b2995394.html",
+      "time": "امروز",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -436,15 +352,393 @@
       }
     },
     {
+      "id": "rt_8",
+      "agencyId": "rt",
+      "title": "US-Israeli ‘good cop, bad cop’ tactics outdated – Iran’s chief negotiator",
+      "title_fa": "مذاکره‌کننده ارشد ایران: تاکتیک‌های «پلیس خوب، پلیس بد» آمریکا و اسرائیل منسوخ شده است",
+      "lead": "محمد قالیباف، مذاکره‌کننده ارشد ایران، پس از حمله مرگبار اسرائیل به بیروت اظهار داشت که تاکتیک‌های «پلیس خوب، پلیس بد» آمریکا و اسرائیل دیگر منسوخ شده‌اند. او این اظهارات را در واکنش به رویدادهای اخیر و نقش این دو کشور در منطقه بیان کرد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/641527-us-israel-good-bad-cop/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      }
+    },
+    {
       "id": "rt_10",
       "agencyId": "rt",
       "title": "‘Trump screwed us:’ Israeli officials fume over emerging Iran peace deal – media",
-      "title_fa": "مقامات اسرائیلی از توافق صلح نوظهور با ایران «عصبانی»: ترامپ ما را به دردسر انداخت – رسانه‌ها",
-      "lead": "بر اساس گزارش‌ها، مقامات اسرائیلی توافق صلح نوظهور با ایران را «فاجعه» می‌خوانند و از اینکه ترامپ آنها را «به دردسر انداخته» به شدت عصبانی هستند. این واکنش شدید نگرانی عمیق اسرائیل را نسبت به چشم‌انداز هرگونه توافق با ایران نشان می‌دهد.",
+      "title_fa": "رسانه‌ها: مقامات اسرائیلی از معامله صلح قریب‌الوقوع ایران خشمگین هستند؛ «ترامپ ما را خراب کرد»",
+      "lead": "بر اساس گزارش ینت، مقامات اسرائیلی توافق صلح در حال ظهور با ایران را «فاجعه» می‌خوانند و از اینکه ترامپ «اسرائیل» را به مشکل انداخته، ابراز نارضایتی می‌کنند. این خبر نشان‌دهنده تنش‌های داخلی در اسرائیل و نگرانی‌های آن‌ها درباره آینده روابط با ایران است.",
       "category": "diplomacy",
       "region": "middleeast",
       "sourceUrl": "https://www.rt.com/news/641523-trump-screwed-israel-iran-peace-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      }
+    },
+    {
+      "id": "rt_3",
+      "agencyId": "rt",
+      "title": "Trump’s Iran deal is ‘lose, lose, lose’ – US congressman",
+      "title_fa": "نماینده کنگره آمریکا: توافق ترامپ با ایران 'بازنده، بازنده، بازنده' است",
+      "lead": "یک نماینده کنگره آمریکا اعلام کرد که توافق صلح ترامپ با ایران به نظر یک سند تسلیم‌شدن می‌آید زیرا آمریکا نتوانسته به اهداف خود دست یابد. او این توافق را 'بازنده، بازنده، بازنده' توصیف کرده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/641518-trump-iran-deal-surrender/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      }
+    },
+    {
+      "id": "xinhua_4",
+      "agencyId": "xinhua",
+      "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
+      "title_fa": "درگیری فلسطینی‌ها با سربازان اسرائیلی پس از اعتراض به سفر پنس",
+      "lead": "معترضان فلسطینی در کرانه باختری پس از تظاهراتی علیه بازدید معاون رئیس جمهور آمریکا، مایک پنس، با سربازان اسرائیلی درگیر شدند. این درگیری‌ها در شهر الخلیل و در بحبوحه تنش‌های منطقه‌ای رخ داد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm",
+      "time": "چند سال پیش",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 25,
+        "negative": 70
+      }
+    },
+    {
+      "id": "xinhua_8",
+      "agencyId": "xinhua",
+      "title": "U.S. decision to withdraw from UNESCO triggers calls for multilateralism",
+      "title_fa": "تصمیم آمریکا برای خروج از یونسکو، درخواست‌ها برای چندجانبه‌گرایی را برانگیخت",
+      "lead": "تصمیم آمریکا برای خروج از سازمان فرهنگی یونسکو، موجی از درخواست‌ها را برای حمایت از چندجانبه‌گرایی در مواجهه با چالش‌های جهانی به راه انداخته است. این اقدام پیامدهای گسترده‌ای برای همکاری‌های بین‌المللی خواهد داشت.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "http://www.xinhuanet.com/english/2017-10/13/c_136677613.htm",
+      "time": "چند سال پیش",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 15,
+        "neutral": 35,
+        "negative": 50
+      }
+    },
+    {
+      "id": "xinhua_11",
+      "agencyId": "xinhua",
+      "title": "Spotlight: What's behind abrupt U.S. withdrawal from UNESCO?",
+      "title_fa": "کانون توجه: دلایل پشت پرده خروج ناگهانی آمریکا از یونسکو چیست؟",
+      "lead": "جهان مدت‌هاست که به موضع‌گیری دونالد ترامپ، رئیس‌جمهور آمریکا، علیه چندجانبه‌گرایی عادت کرده است. با این حال، اعلام ناگهانی خروج آمریکا از یونسکو سوالاتی را درباره انگیزه‌های پشت این تصمیم برانگیخت.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "http://www.xinhuanet.com/english/2017-10/13/c_136677360.htm",
+      "time": "چند سال پیش",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      }
+    },
+    {
+      "id": "irna_fa_0",
+      "agencyId": "irna_fa",
+      "title": "Increasing Resilience with Neighborhood-Based Management",
+      "title_fa": "افزایش تاب آوری با مدیریت محله محور",
+      "lead": "استاندار آذربایجان شرقی بر نقش مشارکت مردمی در مدیریت بحران‌ها تاکید کرد. او گفت طرح مدیریت محله‌محور که پیش از جنگ آغاز شد، در مدیریت شرایط جنگی کارآمدی خود را نشان داد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86182711/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D8%A7%D8%A8-%D8%A2%D9%88%D8%B1%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D9%85%D8%AD%D9%84%D9%87-%D9%85%D8%AD%D9%88%D8%B1",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "irna_fa_1",
+      "agencyId": "irna_fa",
+      "title": "Kabirkooh Fire Extinguished",
+      "title_fa": "کبیرکوه خاموش شد",
+      "lead": "جنگل‌های «لیت‌انار» کبیرکوه دره‌شهر پس از دو شبانه‌روز آتش‌سوزی، سرانجام خاموش شد. این جدال با زبانه‌ها و شراره‌های آتش به آرامش گرایید.",
+      "category": "environment",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86182730/%DA%A9%D8%A8%DB%8C%D8%B1%DA%A9%D9%88%D9%87-%D8%AE%D8%A7%D9%85%D9%88%D8%B4-%D8%B4%D8%AF",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "irna_fa_2",
+      "agencyId": "irna_fa",
+      "title": "Video/Ugly and Beautiful Sides of World Cup; From Racism Controversy in Mexico to Support for Palestine in the US",
+      "title_fa": "فیلم/زشت و زیبای جام جهانی؛ از جنجال نژادپرستی در مکزیک تا حمایت از فلسطین در آمریکا",
+      "lead": "جام جهانی ۲۰۲۶ با حواشی زیادی همراه است، از جنجال نژادپرستی در مکزیک تا حمایت از فلسطین در آمریکا. برنامه «آن‌سوی جام» به بررسی حواشی بزرگ‌ترین رقابت فوتبالی جهان می‌پردازد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.irna.ir/news/86182738/%D9%81%DB%8C%D9%84%D9%85-%D8%B2%D8%B4%D8%AA-%D9%88-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%AC%D9%86%D8%AC%D8%A7%D9%84-%D9%86%DA%98%D8%A7%D8%AF%D9%BE%D8%B1%D8%B3%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%85%DA%A9%D8%B2%DB%8C%DA%A9-%D8%AA%D8%A7-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "irna_fa_3",
+      "agencyId": "irna_fa",
+      "title": "Hemmati: Strengthening Forex Reserves and Supporting Production are Central Bank's Priorities",
+      "title_fa": "همتی: تقویت ذخایر ارزی و حمایت از تولید در دستور کار بانک مرکزی است",
+      "lead": "رئیس کل بانک مرکزی در نشستی با اعضای کمیسیون برنامه و بودجه مجلس، وضعیت اقتصادی کشور را تشریح کرد. او گفت بانک مرکزی و دولت تمام تلاش خود را برای بهبود وضعیت اقتصادی و معیشت مردم به کار می‌گیرند و تقویت ذخایر ارزی و حمایت از تولید در دستور کار است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86182763/%D9%87%D9%85%D8%AA%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "irna_fa_4",
+      "agencyId": "irna_fa",
+      "title": "Maragheh's Saraju Health Center Upgraded to Selected Clinic",
+      "title_fa": "مرکز درمانی بخش سراجوی مراغه به درمانگاه منتخب ارتقا یافت",
+      "lead": "نماینده مردم مراغه و عجب‌شیر در مجلس از ارتقای مرکز درمانی بخش سراجوی مراغه به «درمانگاه منتخب» خبر داد. او این اقدام را گامی مهم در راستای توسعه خدمات سلامت و تحقق عدالت درمانی در منطقه دانست.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86182703/%D9%85%D8%B1%DA%A9%D8%B2-%D8%AF%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%D8%AE%D8%B4-%D8%B3%D8%B1%D8%A7%D8%AC%D9%88%DB%8C-%D9%85%D8%B1%D8%A7%D8%BA%D9%87-%D8%A8%D9%87-%D8%AF%D8%B1%D9%85%D8%A7%D9%86%DA%AF%D8%A7%D9%87-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D8%B1%D8%AA%D9%82%D8%A7-%DB%8C%D8%A7%D9%81%D8%AA",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "irna_fa_5",
+      "agencyId": "irna_fa",
+      "title": "Widespread Protests Against Parliamentary Election Results in Armenia + Video",
+      "title_fa": "اعتراضات گسترده به نتایج انتخابات پارلمانی در ارمنستان + فیلم",
+      "lead": "منابع خبری گزارش دادند که صدها نفر از هواداران احزاب مخالف در ایروان، پایتخت ارمنستان، در اعتراض به نتایج انتخابات پارلمانی این کشور به خیابان‌ها آمده‌اند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.irna.ir/news/86182712/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%DA%AF%D8%B3%D8%AA%D8%B1%D8%AF%D9%87-%D8%A8%D9%87-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B1%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D9%81%DB%8C%D9%84%D9%85",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "irna_fa_6",
+      "agencyId": "irna_fa",
+      "title": "Support for Academics and Attracting Investors, 2 Strategic Priorities for East Azarbaijan",
+      "title_fa": "حمایت از دانشگاهیان و جذب سرمایه‌گذار، ۲ اولویت راهبردی آذربایجان شرقی",
+      "lead": "استاندار آذربایجان شرقی بر نقش راهبردی دانشگاه‌ها در توسعه کشور و ضرورت تقویت سرمایه‌گذاری در استان تاکید کرد. او گفت دولت و رئیس‌جمهور برای رفع مطالبات اعضای هیات علمی تلاش می‌کنند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86182747/%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87%DB%8C%D8%A7%D9%86-%D9%88-%D8%AC%D8%B0%D8%A8-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1-%DB%B2-%D8%A7%D9%88%D9%84%D9%88%DB%8C%D8%AA-%D8%B1%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%DB%8C-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "irna_fa_7",
+      "agencyId": "irna_fa",
+      "title": "60 Seconds with Isfahan News | Sunday, 14 Khordad",
+      "title_fa": "۶۰ ثانیه با اخبار اصفهان| یکشنبه ۲۴ خرداد",
+      "lead": "بسته خبری ۶۰ ثانیه با اخبار اصفهان، هر شب حوالی ساعت ۲۲ منتشر می‌شود. این بسته شامل گزیده‌ای از اخبار روز استان اصفهان است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86182665/%DB%B6%DB%B0-%D8%AB%D8%A7%D9%86%DB%8C%D9%87-%D8%A8%D8%A7-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%DB%B2%DB%B4-%D8%AE%D8%B1%D8%AF%D8%A7%D8%AF",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "mehrnews_8",
+      "agencyId": "mehrnews",
+      "title": "Iranian armed forces cannot stand violation of ceasefire",
+      "title_fa": "نیروهای مسلح ایران نقض آتش بس را تحمل نمی‌کنند",
+      "lead": "دبیر شورای عالی امنیت ملی ایران تجاوز رژیم صهیونیستی به بیروت را محکوم کرد. او تاکید کرد که عبور از خطوط قرمز ایران قابل تحمل نخواهد بود.",
+      "category": "military",
+      "region": "west_asia",
+      "sourceUrl": "https://en.mehrnews.com/news/245335/Iranian-armed-forces-cannot-stand-violation-of-ceasefire",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "mehrnews_9",
+      "agencyId": "mehrnews",
+      "title": "Revenge for Leader's martyrdom to never be forgotten: Gen.",
+      "title_fa": "انتقام شهادت رهبر هرگز فراموش نخواهد شد: ژنرال",
+      "lead": "فرمانده قرارگاه مرکزی خاتم‌الانبیا ایران اعلام کرد که نیروهای مسلح ایران برای پاسخ به هر اقدام خصمانه کاملاً آماده هستند. او تاکید کرد که انتقام شهادت رهبر هرگز فراموش نخواهد شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245334/Revenge-for-Leader-s-martyrdom-to-never-be-forgotten-Gen",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "mehrnews_10",
+      "agencyId": "mehrnews",
+      "title": "Attack on Dahiyeh shows US has no will to fulfill commitments",
+      "title_fa": "حمله به ضاحیه نشان می‌دهد آمریکا اراده‌ای برای انجام تعهدات ندارد",
+      "lead": "محمدباقر قالیباف، رئیس مجلس ایران، گفت تجاوز اسرائیل به ضاحیه بیروت در لبنان نشان‌دهنده عدم اراده آمریکا برای انجام تعهداتش است.",
+      "category": "diplomacy",
+      "region": "west_asia",
+      "sourceUrl": "https://en.mehrnews.com/news/245333/Attack-on-Dahiyeh-shows-US-has-no-will-to-fulfill-commitments",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "mehrnews_11",
+      "agencyId": "mehrnews",
+      "title": "Final decision on MoU btw Iran-US under discussion in Iran",
+      "title_fa": "تصمیم نهایی درباره تفاهم‌نامه ایران و آمریکا در ایران در حال بررسی است",
+      "lead": "یک مشاور راهبردی تیم مذاکره‌کننده ایران فاش کرد که تصمیم نهایی درباره تفاهم‌نامه بین ایران و ایالات متحده در ایران در حال بررسی است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245332/Final-decision-on-MoU-btw-Iran-US-under-discussion-in-Iran",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "mehrnews_0",
+      "agencyId": "mehrnews",
+      "title": "Israeli forces bomb Dahiyeh, Beirut in truce violation",
+      "title_fa": "حمله نیروهای اسرائیلی به ضاحیه بیروت، نقض آتش‌بس",
+      "lead": "رژیم صهیونیستی با وجود برقراری آتش‌بس، حملات هوایی خود را به حومه جنوبی بیروت، پایتخت لبنان، از سر گرفت. این اقدام به عنوان نقض آشکار آتش‌بس تلقی می‌شود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/245331/VIDEO-Israeli-forces-bomb-Dahiyeh-Beirut-in-truce-violation",
+      "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -457,225 +751,15 @@
       }
     },
     {
-      "id": "rt_3",
-      "agencyId": "rt",
-      "title": "Trump’s Iran deal is ‘lose, lose, lose’ – US congressman",
-      "title_fa": "توافق ایرانِ ترامپ از نظر نماینده کنگره آمریکا «سراسر ضرر» است",
-      "lead": "یک نماینده کنگره آمریکا، توافق صلح ترامپ با ایران را «سند تسلیم» توصیف کرده و معتقد است که ایالات متحده نتوانسته به اهداف خود دست یابد. او تاکید کرد که این توافق برای همه طرف‌ها «بازنده، بازنده، بازنده» است.",
+      "id": "mehrnews_1",
+      "agencyId": "mehrnews",
+      "title": "Iranian officials united on resistance against threats: Ejei",
+      "title_fa": "اژه‌ای: مقامات ایرانی بر مقاومت در برابر تهدیدات متحد هستند",
+      "lead": "رئیس قوه قضائیه ایران تاکید کرد که تمامی مقامات دولتی در برابر فشارهای خارجی متحد هستند. وی افزود که هیچ اختلافی بر سر ایستادگی قاطعانه در مقابل تهدیدات وجود ندارد.",
       "category": "politics",
       "region": "iran",
-      "sourceUrl": "https://www.rt.com/news/641518-trump-iran-deal-surrender/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "time": "چند دقیقه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      }
-    },
-    {
-      "id": "xinhua_4",
-      "agencyId": "xinhua",
-      "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
-      "title_fa": "درگیری فلسطینیان با سربازان اسرائیلی پس از اعتراض به سفر پنس",
-      "lead": "فلسطینیان در پی اعتراض به سفر مایک پنس، معاون رئیس‌جمهور آمریکا، به اورشلیم با سربازان اسرائیلی درگیر شدند. در این درگیری‌ها که در کرانه باختری و شهر الخلیل رخ داد، معترضان به سمت نیروهای اسرائیلی سنگ پرتاب کردند.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm",
-      "time": "چند سال پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 40,
-        "negative": 50
-      }
-    },
-    {
-      "id": "irna_fa_1",
-      "agencyId": "irna_fa",
-      "title": "Yemen: Resistance Axis Will Not Allow Aggression to Become Normalized",
-      "title_fa": "یمن: محور مقاومت اجازه عادی شدن تجاوزگری را نمی‌دهد",
-      "lead": "وزارت خارجه یمن در بیانیه‌ای تاکید کرد که محور جهاد و مقاومت اجازه نخواهد داد معادله عادی شدن تجاوزگری صهیونیست‌ها تثبیت شود. این بیانیه نشان دهنده موضع یمن در قبال اقدامات رژیم صهیونیستی و حمایت از محور مقاومت است.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.irna.ir/news/86182745/%DB%8C%D9%85%D9%86-%D9%85%D8%AD%D9%88%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D8%A7%D8%AC%D8%A7%D8%B2%D9%87-%D8%B9%D8%A7%D8%AF%DB%8C-%D8%B4%D8%AF%D9%86-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%DA%AF%D8%B1%DB%8C-%D8%B1%D8%A7-%D9%86%D9%85%DB%8C-%D8%AF%D9%87%D8%AF",
+      "sourceUrl": "https://en.mehrnews.com/news/245330/Iranian-officials-united-on-resistance-against-threats-Ejei",
       "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "irna_fa_4",
-      "agencyId": "irna_fa",
-      "title": "General Qaani: Victory of Hezbollah's Great Resistance Over Zionist Villains is Nigh",
-      "title_fa": "سردار قاآنی: پیروزی مقاومت عظیم حزب الله قهرمان بر پست‌فطرتان صهیونیست در راه است",
-      "lead": "سردار اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران انقلاب اسلامی، پیامی صادر کرده و تاکید کرد که پیروزی مقاومت عظیم حزب الله بر صهیونیست‌ها نزدیک است. این پیام در راستای حمایت از گروه‌های مقاومت و هشدار به رژیم صهیونیستی ارزیابی می‌شود.",
-      "category": "military",
-      "region": "west_asia",
-      "sourceUrl": "https://www.irna.ir/news/86182742/%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D9%82%D8%A7%D8%A2%D9%86%DB%8C-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D8%B9%D8%B8%DB%8C%D9%85-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%A8%D8%B1-%D9%BE%D8%B3%D8%AA-%D9%81%D8%B7%D8%B1%D8%AA%D8%A7%D9%86",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "irna_fa_7",
-      "agencyId": "irna_fa",
-      "title": "Senior Ansarullah Member: Victory of Jihad and Resistance Axis is Clear as Sun",
-      "title_fa": "عضو ارشد انصارالله: پیروزی محور جهاد و مقاومت مانند خورشید واضح و آشکار است",
-      "lead": "یک عضو ارشد جنبش انصارالله یمن اظهار داشت که شکست آمریکا و رژیم صهیونیستی قطعی است. وی تاکید کرد که پیروزی محور جهاد و مقاومت نیز مانند خورشید واضح و آشکار خواهد بود.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.irna.ir/news/86182732/%D8%B9%D8%B6%D9%88-%D8%A7%D8%B1%D8%B4%D8%AF-%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%D8%A7%D9%84%D9%84%D9%87-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D9%88-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D9%85%D8%A7%D9%86%D9%86%D8%AF-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF-%D9%88%D8%A7%D8%B6%D8%AD",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "irna_en_8",
-      "agencyId": "irna_en",
-      "title": "Israeli strike on Beirut: Iran’s SNSC chief warns violation of ‘red lines’ will not be tolerated",
-      "title_fa": "حمله اسرائیل به بیروت: رئیس شورای عالی امنیت ملی ایران هشدار داد نقض «خطوط قرمز» تحمل نخواهد شد",
-      "lead": "دبیر شورای عالی امنیت ملی ایران اعلام کرد که پس از حمله هوایی اسرائیل به ضاحیه در جنوب بیروت، \"پاسخی در راه است\". وی هشدار داد که نقض \"خطوط قرمز\" تحمل نخواهد شد و ایران به این اقدامات پاسخ خواهد داد.",
-      "category": "military",
-      "region": "west_asia",
-      "sourceUrl": "https://en.irna.ir/news/86182748/Israeli-strike-on-Beirut-Iran-s-SNSC-chief-warns-violation-of",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "irna_en_9",
-      "agencyId": "irna_en",
-      "title": "IRGC Aerospace chief calls for preserving sacred national unity",
-      "title_fa": "رئیس نیروی هوافضای سپاه خواستار حفظ وحدت ملی مقدس شد",
-      "lead": "فرمانده نیروی هوافضای سپاه پاسداران انقلاب اسلامی، سردار سرتیپ مجید موسوی، در پیامی از ملت ایران خواستار حفظ وحدت و همبستگی ملی شد. این درخواست در شرایط حساس کنونی برای انسجام داخلی ایران اهمیت دارد.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://en.irna.ir/news/86182707/IRGC-Aerospace-chief-calls-for-preserving-sacred-national-unity",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "irna_en_10",
-      "agencyId": "irna_en",
-      "title": "Iran’s Armed Forces have ‘finger on trigger,’ top commander says after Israeli attack on Beirut",
-      "title_fa": "فرمانده ارشد ایران پس از حمله اسرائیل به بیروت: نیروهای مسلح ایران «انگشت بر ماشه» دارند",
-      "lead": "یک فرمانده ارشد ایرانی اعلام کرد که نیروهای مسلح قدرتمندتر از همیشه هستند و \"انگشت بر ماشه\" دارند و آماده ضربه زدن به قلب دشمن هستند. وی هشدار داد که هرگونه اشتباه دشمن با پاسخ قاطع مواجه خواهد شد، به ویژه پس از حمله اسرائیل به بیروت.",
-      "category": "military",
-      "region": "west_asia",
-      "sourceUrl": "https://en.irna.ir/news/86182715/Iran-s-Armed-Forces-have-finger-on-trigger-top-commander-says",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "irna_en_11",
-      "agencyId": "irna_en",
-      "title": "War, negotiation decisions in Iran rest with leadership, SNSC: Pezeshkian",
-      "title_fa": "تصمیمات جنگ و مذاکره در ایران با رهبری و شورای عالی امنیت ملی است: پزشکیان",
-      "lead": "رئیس جمهور مسعود پزشکیان تاکید کرد که تصمیمات مربوط به جنگ و مذاکره تحت اختیار رهبری و شورای عالی امنیت ملی است. این اظهارات نقش نهادهای عالی نظام در سیاست خارجی و دفاعی ایران را روشن می‌سازد.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://en.irna.ir/news/86182672/War-negotiation-decisions-in-Iran-rest-with-leadership-SNSC",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "irna_en_0",
-      "agencyId": "irna_en",
-      "title": "Iranian capital prepares for martyred Leader Ayatollah Seyyed Ali Khame's farewell and funeral ceremony",
-      "title_fa": "پایتخت ایران برای مراسم بدرقه و تشییع رهبر شهید آیت‌الله سید علی خامنه آماده می‌شود",
-      "lead": "استاندار تهران اعلام کرد که پایتخت در حال آماده‌سازی برای برگزاری مراسم بدرقه و تشییع رهبر شهید انقلاب اسلامی، آیت‌الله سید علی خامنه است. این خبر حاکی از برنامه‌ریزی گسترده برای ادای احترام به این شخصیت مهم است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://en.irna.ir/news/86182667/Iranian-capital-prepares-for-martyred-Leader-s-farewell-and-funeral",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 30,
-        "negative": 30
-      }
-    },
-    {
-      "id": "irna_en_1",
-      "agencyId": "irna_en",
-      "title": "Government spokesperson urges political unity amid prospects of Iran-US understanding",
-      "title_fa": "سخنگوی دولت بر وحدت سیاسی در بحبوحه چشم‌انداز تفاهم ایران و آمریکا تاکید کرد",
-      "lead": "فاطمه مهاجرانی، سخنگوی دولت، از جناح‌های سیاسی خواست تا از تضعیف منافع ملی از طریق اختلافات حزبی خودداری کنند. او تاکید کرد که تفرقه داخلی پیامی منفی به خارج ارسال خواهد کرد و می‌تواند به چشم‌انداز تفاهم ایران و آمریکا لطمه بزند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://en.irna.ir/news/86182650/Exclusive-Government-spokesperson-urges-political-unity-amid",
-      "time": "دقایقی پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -683,481 +767,19 @@
       },
       "sentiment": {
         "positive": 40,
-        "neutral": 30,
-        "negative": 30
-      }
-    },
-    {
-      "id": "irna_en_2",
-      "agencyId": "irna_en",
-      "title": "Ghalibaf says Israeli strike on Lebanon shows US unwilling or unable to honor commitments",
-      "title_fa": "قالیباف: حمله اسرائیل به لبنان نشان می‌دهد آمریکا مایل یا قادر به عمل به تعهدات خود نیست",
-      "lead": "محمدباقر قالیباف، رئیس مجلس، اظهار داشت که حمله هوایی اسرائیل به ضاحیه در جنوب بیروت نشان‌دهنده عدم تمایل یا ناتوانی آمریکا در پایبندی به تعهداتش است. این اظهارات در پی حمله اخیر اسرائیل به لبنان و در راستای انتقاد از نقش آمریکا مطرح شده است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://en.irna.ir/news/86182598/Ghalibaf-says-Israeli-strike-on-Lebanon-shows-US-unwilling-or",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      }
-    },
-    {
-      "id": "irna_en_3",
-      "agencyId": "irna_en",
-      "title": "FM Araghchi hails national unity as key to Iran’s diplomatic authority",
-      "title_fa": "وزیر امور خارجه عراقچی، وحدت ملی را کلید اقتدار دیپلماتیک ایران می‌داند",
-      "lead": "عباس عراقچی، وزیر امور خارجه، بر اهمیت انسجام ملی و حضور فعال مردم به عنوان سرمایه و ستون اصلی اقتدار دیپلماتیک ایران تاکید کرد. او این عوامل را برای تقویت جایگاه ایران در عرصه بین‌المللی حیاتی دانست.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://en.irna.ir/news/86182545/FM-Araghchi-hails-national-unity-as-key-to-Iran-s-diplomatic",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 50,
         "neutral": 40,
-        "negative": 10
+        "negative": 20
       }
     },
     {
-      "id": "khabaronline_4",
-      "agencyId": "khabaronline",
-      "title": "Piazza's intense anger after Iran's defeat against Belgium",
-      "title_fa": "عصبانیت شدید پیاتزا پس از شکست ایران مقابل بلژیک",
-      "lead": "سرمربی تیم ملی والیبال ایران، پیاتزا، پس از شکست تیم مقابل بلژیک از عصبانیت شدید خود خبر داد. او دلیل شکست را شش اشتباه سرویس در ست پنجم و عدم عادت بازیکنان به بازی در تورنمنت‌های خاص عنوان کرد.",
-      "category": "culture",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233381/%D8%B9%D8%B5%D8%A8%D8%A7%D9%86%DB%8C%D8%AA-%D8%B4%D8%AF%DB%8C%D8%AF-%D9%BE%DB%8C%D8%A7%D8%AA%D8%B2%D8%A7-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A8%D9%84%DA%98%DB%8C%DA%A9",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      }
-    },
-    {
-      "id": "khabaronline_5",
-      "agencyId": "khabaronline",
-      "title": "How to purify wealth tainted by usury",
-      "title_fa": "چگونگی تطهیر کردن مالی که به ربا آلوده شده است",
-      "lead": "این خبر به بررسی چگونگی تطهیر مالی می‌پردازد که به ربا آلوده شده است و توضیح می‌دهد که دریافت مبلغ اضافه در قرض اگر شرط شده باشد، ربا و گناه کبیره محسوب می‌شود. در چنین حالتی، علاوه بر توبه، مبلغ اضافی باید بازگردانده شود، اما پرداخت داوطلبانه و بدون شرط اشکالی ندارد.",
-      "category": "culture",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2232849/%DA%86%DA%AF%D9%88%D9%86%DA%AF%DB%8C-%D8%AA%D8%B7%D9%87%DB%8C%D8%B1-%DA%A9%D8%B1%D8%AF%D9%86-%D9%85%D8%A7%D9%84%DB%8C-%DA%A9%D9%87-%D8%A8%D9%87-%D8%B1%D8%A8%D8%A7-%D8%A2%D9%84%D9%88%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 50,
-        "negative": 10
-      }
-    },
-    {
-      "id": "khabaronline_6",
-      "agencyId": "khabaronline",
-      "title": "The historical narrative of Imam Reza's tombstone",
-      "title_fa": "روایت تاریخ سنگ مزار امام رضا(ع)",
-      "lead": "این خبر به بررسی تاریخچه صندوق‌ها و ضریح‌های نصب شده بر روی قبر مطهر امام رضا (ع) می‌پردازد. بر اساس منابع تاریخی، تا دوره پهلوی اول، سنگ قبری بر مزار ایشان وجود نداشته است و این موضوع به جنبه‌های تاریخی و مذهبی این مکان مقدس اشاره دارد.",
-      "category": "culture",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2232179/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B3%D9%86%DA%AF-%D9%85%D8%B2%D8%A7%D8%B1-%D8%A7%D9%85%D8%A7%D9%85-%D8%B1%D8%B6%D8%A7-%D8%B9",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 60,
-        "negative": 10
-      }
-    },
-    {
-      "id": "khabaronline_7",
-      "agencyId": "khabaronline",
-      "title": "Parliament Member: Potential agreement with the US has crossed red lines / Ten conditions have not been met",
-      "title_fa": "نماینده مجلس: توافق احتمالی با آمریکا از خطوط قرمز عبور کرده است / شروط دهگنه رعایت نشده است",
-      "lead": "روح‌الله ایزدخواه، نماینده مجلس، از روند مذاکرات ایران و آمریکا انتقاد کرد و گفت که اخبار حاکی از عدم رعایت شروط ده‌گانه و چارچوب‌های تعیین‌شده توسط ایران در توافق احتمالی است. این اظهارات نگرانی‌ها را درباره تجاوز از خطوط قرمز تعیین‌شده در مذاکرات برجسته می‌کند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233272/%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D9%85%D8%AC%D9%84%D8%B3-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D8%A7-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%AE%D8%B7%D9%88%D8%B7-%D9%82%D8%B1%D9%85%D8%B2-%D8%B9%D8%A8%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF%D9%87",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      }
-    },
-    {
-      "id": "khabaronline_8",
-      "agencyId": "khabaronline",
-      "title": "Zionist regime's claim about the assassination of a Hezbollah commander",
-      "title_fa": "ادعای رژیم صهیونیستی درباره ترور یکی از فرماندهان حزب‌الله",
-      "lead": "برخی منابع اسرائیلی مدعی شدند که «علی الحاج»، یکی از فرماندهان برجسته مقاومت اسلامی لبنان، در حمله به بیروت به شهادت رسیده است. این ادعا در بحبوحه تنش‌های منطقه و درگیری‌های اخیر میان اسرائیل و حزب‌الله مطرح می‌شود و می‌تواند به افزایش درگیری‌ها منجر شود.",
+      "id": "mehrnews_2",
+      "agencyId": "mehrnews",
+      "title": "Commander stresses self-sufficiency of Iran's air defense equipment",
+      "title_fa": "فرمانده بر خودکفایی تجهیزات پدافند هوایی ایران تاکید کرد",
+      "lead": "فرمانده قرارگاه پدافند هوایی ایران بر خودکفایی کامل تجهیزات پدافند هوایی کشور تاکید کرد. وی همچنین اشاره کرد که تمامی تجهیزات آسیب‌دیده پدافند هوایی تعمیر و بازسازی شده‌اند.",
       "category": "military",
-      "region": "west_asia",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233373/%D8%A7%D8%AF%D8%B9%D8%A7%DB%8C-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D8%B1%D9%88%D8%B1-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87%D8%A7%D9%86-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      }
-    },
-    {
-      "id": "khabaronline_9",
-      "agencyId": "khabaronline",
-      "title": "What was the story behind adding Trump's name to the Kennedy Center?",
-      "title_fa": "ماجرای حذف نام ترامپ از مرکز کندی چه بود؟",
-      "lead": "این خبر به ماجرای تغییر نام مرکز کندی می‌پردازد، جایی که هیئت امنای جدید در دسامبر سال گذشته نام آن را به «مرکز یادبود دونالد جی. ترامپ و جان اف. کندی برای هنرهای نمایشی» تغییر دادند. این تغییر نام و نصب تابلوی جدید، بحث‌های زیادی را به دنبال داشته است.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233251/%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%AD%D8%B0%D9%81-%D9%86%D8%A7%D9%85-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B2-%D9%85%D8%B1%DA%A9%D8%B2-%DA%A9%D9%86%D8%AF%DB%8C-%DA%86%D9%87-%D8%A8%D9%88%D8%AF",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 40,
-        "negative": 40
-      }
-    },
-    {
-      "id": "khabaronline_10",
-      "agencyId": "khabaronline",
-      "title": "How does inflation affect the middle class?",
-      "title_fa": "تورم چگونه طبقه متوسط را تحت تاثیر قرار می‌دهد؟",
-      "lead": "آخرین گزارش‌ها نشان می‌دهد نرخ تورم سالانه در اردیبهشت ماه توسط بانک مرکزی ۵۳.۹ درصد و توسط مرکز آمار ۵۷.۷ درصد اعلام شده است. این ارقام جدیدترین رکوردشکنی در شاخص تورم محسوب می‌شوند و تاثیر قابل توجهی بر زندگی طبقه متوسط دارند.",
-      "category": "economy",
       "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233372/%D9%88%D8%B1%D9%85-%DA%86%DA%AF%D9%88%D9%86%DA%AF%DB%8C-%D8%AA%D8%AB%DB%8C%D8%B1-%D9%82%D8%B1%D8%A7%D8%B1-%D9%85%DB%8C-%D8%AF%D9%87%D8%AF",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      }
-    },
-    {
-      "id": "khabaronline_11",
-      "agencyId": "khabaronline",
-      "title": "Ofogh Network expert: Pakistanis don't come to Iran for mediation, but bring a message of threat and terror",
-      "title_fa": "کارشناس شبکه افق: پاکستانی‌ها برای میانجی‌گری به ایران نمی‌آیند، بلکه پیام تهدید و ترور می‌آورند",
-      "lead": "یک کارشناس تلویزیون در شبکه افق اظهار داشت که نمایندگان پاکستان برای میانجی‌گری به ایران نمی‌آیند، بلکه پیام‌های تهدید و ترور را منتقل می‌کنند. او ادعا کرد که آنها به ایران هشدار می‌دهند که در صورت عدم اقدام، رهبران، مردم و زیرساخت‌های ایران هدف قطعی آمریکا خواهند بود.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233151/%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A7%D9%81%D9%82-%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C-%DA%AF%D8%B1%DB%8C-%D9%86%D9%85%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      }
-    },
-    {
-      "id": "mashregh_0",
-      "agencyId": "mashregh",
-      "title": "Yemen: Netanyahu won't act foolishly without US green light",
-      "title_fa": "یمن: نتانیاهو بدون چراغ سبز آمریکا، دست به حماقت نمی‌زند",
-      "lead": "وزارت خارجه یمن، ضمن انتقاد شدید از جنایات رژیم صهیونیستی در لبنان، گفت که برای مقابله با این حملات، در کنار حزب‌الله خواهد بود.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818430/%DB%8C%D9%85%D9%86-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%DA%86%D8%B1%D8%A7%D8%BA-%D8%B3%D8%A8%D8%B2-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B3%D8%AA-%D8%A8%D9%87-%D8%AD%D9%85%D8%A7%D9%82%D8%AA-%D9%86%D9%85%DB%8C-%D8%B2%D9%86%D8%AF",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "mashregh_1",
-      "agencyId": "mashregh",
-      "title": "Video: Hezbollah missile attack on 'Blat' military base",
-      "title_fa": "فیلم/ حمله موشکی حزب‌الله به پایگاه نظامی «بلاط»",
-      "lead": "حزب‌الله لبنان تصاویری از حمله به پایگاه نظامی «بلاط» وابسته به ارتش اسرائیل در جنوب لبنان با استفاده از یک موشک پیشرفته منتشر کرد.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818382/%D9%81%DB%8C%D9%84%D9%85-%D8%AD%D9%85%D9%84%D9%87-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A8%D9%84%D8%A7%D8%B7",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "mashregh_2",
-      "agencyId": "mashregh",
-      "title": "General Qaani: A great victory for Hezbollah is on the way",
-      "title_fa": "سردار قاآنی: پیروزی عظیم حزب‌الله در راه است",
-      "lead": "سردار قاآنی، فرمانده نیروی قدس سپاه، اعلام کرد که پیروزی عظیمی برای حزب‌الله در راه است. این اظهارات در بحبوحه تنش‌های فزاینده در منطقه مطرح شده است.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818428/%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D9%82%D8%A7%D8%A2%D9%86%DB%8C-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%B9%D8%B8%DB%8C%D9%85-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%AF%D8%B1-%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "mashregh_3",
-      "agencyId": "mashregh",
-      "title": "Hanzala warns Zionists to go to shelters",
-      "title_fa": "حنظله: صهیونیست‌ها به پناهگاه بروند",
-      "lead": "گروه حنظله به صهیونیست‌های غاصب هشدار داد که فورا به پناهگاه بروند. این هشدار در پی تشدید درگیری‌ها در منطقه صادر شده است.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818431/%D8%AD%D9%86%D8%B8%D9%84%D9%87-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA-%D9%87%D8%A7-%D8%A8%D9%87-%D9%BE%D9%86%D8%A7%D9%87%DA%AF%D8%A7%D9%87-%D8%A8%D8%B1%D9%88%D9%86%D8%AF",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "mashregh_5",
-      "agencyId": "mashregh",
-      "title": "Hemmati: Strengthening foreign exchange reserves and supporting production is on the Central Bank's agenda",
-      "title_fa": "همتی: تقویت ذخایر ارزی و حمایت از تولید در دستور کار بانک مرکزی است",
-      "lead": "رئیس کل بانک مرکزی گفت: بانک مرکزی تقویت ذخایر ارزی کشور را در هر شرایطی پیگیری می کند. همچنین، حمایت از تولید ملی از اولویت‌های اصلی این بانک به شمار می‌رود.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818426/%D9%87%D9%85%D8%AA%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "mashregh_6",
-      "agencyId": "mashregh",
-      "title": "Disruption in services of 4 Iranian banks resolved",
-      "title_fa": "اختلال به وجود آمده در خدمات ۴ بانک کشور برطرف شد",
-      "lead": "اختلال به وجود آمده در خدمات ۴ بانک ملی، صادرات، تجارت و توسعه صادرات برطرف شد. این مشکل که سرویس‌دهی به مشتریان را مختل کرده بود، اکنون رفع شده است.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818427/%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%84-%D8%A8%D9%87-%D9%88%D8%AC%D9%88%D8%AF-%D8%A2%D9%85%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%DB%B4-%D8%A8%D8%A7%D9%86%DA%A9-%DA%A9%D8%B4%D9%88%D8%B1",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "isna_8",
-      "agencyId": "isna",
-      "title": "Special Governor of Rey: Institutions must move out of passivity and lead in protecting the economy",
-      "title_fa": "فرماندار ویژه ری: دستگاه‌ها از انفعال خارج شوند و پیشگام صیانت از اقتصاد باشند",
-      "lead": "فرماندار ویژه شهرستان ری در نشست کمیسیون مبارزه با قاچاق کالا و ارز، بر لزوم فعال‌سازی دستگاه‌ها برای صیانت از اقتصاد تاکید کرد. وی هشدار داد که مقابله با قاچاق نباید مانع تولید شود.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405032414546/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D9%88%DB%8C%DA%98%D9%87-%D8%B1%DB%8C-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%86%D9%81%D8%B9%D8%A7%D9%84-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B4%D9%88%D9%86%D8%AF-%D9%88-%D9%BE%DB%8C%D8%B4%DA%AF%D8%A7%D9%85-%D8%B5%DB%8C%D8%A7%D9%86%D8%AA",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "isna_9",
-      "agencyId": "isna",
-      "title": "Unauthorized warehouses pose a serious threat to economic security in Tehran",
-      "title_fa": "انبارهای بی‌مجوز تهدیدی جدی برای امنیت اقتصادی",
-      "lead": "سرپرست کمیسیون مبارزه با قاچاق کالا و ارز استان تهران تاکید کرد که انبارهای بدون مجوز تهدیدی جدی برای امنیت اقتصادی کشور هستند. وی افزود که مبارزه با قاچاق نیازمند هماهنگی دقیق بین نهادهاست و باید راهگشای تولید باشد.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405032414545/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%A8%DB%8C-%D9%85%D8%AC%D9%88%D8%B2-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%DB%8C-%D8%AC%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "isna_10",
-      "agencyId": "isna",
-      "title": "Gilan's rural and urban municipalities equipped with 147 construction vehicles",
-      "title_fa": "تجهیز دهیاری‌ها و شهرداری‌های گیلان به ۱۴۷ خودروی عمرانی",
-      "lead": "۱۴۷ دستگاه خودروی چندمنظوره عمرانی به ناوگان خدمات‌رسانی شهرداری‌ها و دهیاری‌های استان گیلان افزوده شد. این اقدام در راستای بهبود زیرساخت‌ها و خدمات‌رسانی به مردم انجام گرفته است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405032414544/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2-%D8%AF%D9%87%DB%8C%D8%A7%D8%B1%DB%8C-%D9%87%D8%A7-%D9%88-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-%D8%A8%D9%87-%DB%B1%DB%B4%DB%B7-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%DB%8C-%D8%B9%D9%85%D8%B1%D8%A7%D9%86%DB%8C",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "isna_11",
-      "agencyId": "isna",
-      "title": "Head of Gilan Agricultural Jihad: Subsidence is the result of unstudied agricultural practices",
-      "title_fa": "رئیس جهاد کشاورزی گیلان: فرونشست نتیجه کار کشاورزی بدون مطالعه است",
-      "lead": "رئیس سازمان جهاد کشاورزی گیلان، با تاکید بر لزوم خودکفایی در تولید محصولات کشاورزی، اعلام کرد که فرونشست زمین در برخی استان‌ها نتیجه کشاورزی بدون مطالعه و فشار به منابع آب و خاک است.",
-      "category": "environment",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405032414543/%D8%B1%D8%A6%DB%8C%D8%B3-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D8%AF-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-%D9%81%D8%B1%D9%88%D9%86%D8%B4%D8%B3%D8%AA-%D9%86%D8%AA%DB%8C%D8%AC%D9%87-%DA%A9%D8%A7%D8%B1-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%A8%D8%AF%D9%88%D9%86",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "isna_0",
-      "agencyId": "isna",
-      "title": "Iraq's Coordination Framework emphasizes support for Al-Hashd Al-Shaabi",
-      "title_fa": "چارچوب هماهنگی عراق بر حمایت از الحشد الشعبی تأکید کرد",
-      "lead": "چارچوب هماهنگی عراق در دوازدهمین سالگرد تأسیس الحشد الشعبی، بر ضرورت حمایت، تقویت و سازماندهی این سازمان تأکید کرد. این اقدام در راستای حمایت از یک نیروی نظامی مهم در عراق صورت گرفته است.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://www.isna.ir/news/1405032414542/%DA%86%D8%A7%D8%B1%DA%86%D9%88%D8%A8-%D9%87%D9%85%D8%A7%D9%87%D9%86%DA%AF%DB%8C-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D8%B1-%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B2-%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%DB%8C-%D8%AA%D8%A3%DA%A9%DB%8C%D8%AF-%DA%A9%D8%B1%D8%AF",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "isna_1",
-      "agencyId": "isna",
-      "title": "Hamas: Attack on 'Yemen Al-Saeed' hospital is a continuation of crimes against our nation",
-      "title_fa": "حماس: حمله به بیمارستان «یمن السعید» ادامه جنایات علیه ملت ماست",
-      "lead": "جنبش مقاومت اسلامی فلسطین با صدور بیانیه‌ای اعلام کرد هدف قرار دادن مجاورت بیمارستان «یمن السعید» در شمال نوار غزه، تداوم جنایات اشغالگران علیه ملت فلسطین و اصرار بر نقض توافق آتش‌بس است. حماس این حمله را نقض توافقات و جنایتی علیه مردم فلسطین می‌داند.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.isna.ir/news/1405032414541/%D8%AD%D9%85%D8%A7%D8%B3-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%DB%8C%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%DB%8C%D8%AF-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AC%D9%86%D8%A7%DB%8C%D8%A7%D8%AA-%D8%B9%D9%84%DB%8C%D9%87-%D9%85%D9%84%D8%AA-%D9%85%D8%A7%D8%B3%D8%AA",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      }
-    },
-    {
-      "id": "isna_2",
-      "agencyId": "isna",
-      "title": "Investment from 28 countries in Qazvin",
-      "title_fa": "سرمایه‌گذاری ۲۸ کشور در قزوین",
-      "lead": "معاون هماهنگی امور اقتصادی استاندار قزوین اعلام کرد که سرمایه‌گذارانی از ۲۸ کشور دنیا در این استان فعالیت می‌کنند. این امر نشان‌دهنده ظرفیت‌های بی‌نظیر استان قزوین برای جذب سرمایه خارجی است.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405032414540/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%DB%B2%DB%B8-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86",
+      "sourceUrl": "https://en.mehrnews.com/news/245329/Cmdr-stresses-self-sufficiency-of-Iran-s-air-defense-equip",
       "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
@@ -1171,14 +793,56 @@
       }
     },
     {
-      "id": "isna_3",
-      "agencyId": "isna",
-      "title": "Summary of Iran vs. Belgium volleyball match",
-      "title_fa": "خلاصه بازی والیبال ایران مقابل بلژیک",
-      "lead": "تیم ملی والیبال ایران در آخرین مسابقه خود از هفته اول لیگ ملت‌ها مقابل بلژیک با نتیجه ۳ بر ۲ شکست خورد. این بازی در چارچوب رقابت‌های لیگ ملت‌های والیبال برگزار شد و ایران تجربه باخت دیگری را ثبت کرد.",
+      "id": "mehrnews_3",
+      "agencyId": "mehrnews",
+      "title": "Israeli regime strikes Beirut in breach of ceasefire",
+      "title_fa": "حمله رژیم اسرائیل به بیروت در نقض آتش‌بس",
+      "lead": "رژیم صهیونیستی بعدازظهر یکشنبه حمله‌ای سنگین به حومه ضاحیه بیروت انجام داد. این حمله به عنوان نقض آشکار توافق آتش‌بس تلقی می‌شود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/245328/Israeli-regime-strikes-Beirut-in-breach-of-ceasefire-VIDEO",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 15,
+        "negative": 80
+      }
+    },
+    {
+      "id": "khabaronline_4",
+      "agencyId": "khabaronline",
+      "title": "Abtahi addresses Araghchi and Ghalibaf: Don't yield to pressure from radical minority",
+      "title_fa": "ابطحی خطاب به عراقچی و قالیباف: تحت فشار اقلیت تندرو قرار نگیرید/ این صداهای خشن و بلند، صدای اندکی از مردم است",
+      "lead": "یک فعال سیاسی به عراقچی و قالیباف توصیه کرد که تحت تاثیر فشار اقلیت تندرو قرار نگیرند. او بیان داشت که صداهای خشن و بلند این گروه، تنها صدای بخش کوچکی از مردم است و اکثریت جامعه دیدگاه‌های متفاوتی دارند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233125/%D8%A7%D8%A8%D8%B7%D8%AD%DB%8C-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A8%D9%87-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D9%88-%D9%82%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%81-%D8%AA%D8%AD%D8%AA-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A7%D9%82%D9%84%DB%8C%D8%AA-%D8%AA%D9%86%D8%AF%D8%B1%D9%88-%D9%82%D8%B1%D8%A7%D8%B1-%D9%86%DA%AF%DB%8C%D8%B1%DB%8C%D8%AF",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      }
+    },
+    {
+      "id": "khabaronline_5",
+      "agencyId": "khabaronline",
+      "title": "World and Asian Wushu medals dedicated to Astan Quds Razavi Museum",
+      "title_fa": "تقدیم مدال‌های جهانی و آسیایی ووشو به موزه حرم مطهر رضوی",
+      "lead": "احسان پیغمبری و امیرمحمد رضایی، قهرمانان ووشوی ایران، مدال‌های کسب‌شده از رقابت‌های جهانی و آسیایی را به موزه حرم مطهر رضوی تقدیم کردند. این مراسم در سالن همایش‌های آستان قدس رضوی برگزار شد.",
       "category": "culture",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405032414538/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A8%D9%84%DA%98%DB%8C%DA%A9",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233383/%D8%AA%D9%82%D8%AF%DB%8C%D9%85-%D9%85%D8%AF%D8%A7%D9%84-%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%88-%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D9%88%D9%88%D8%B4%D9%88-%D8%A8%D9%87-%D9%85%D9%88%D8%B2%D9%87-%D8%AD%D8%B1%D9%85-%D9%85%D8%B7%D9%87%D8%B1-%D8%B1%D8%B6%D9%88%DB%8C",
       "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
@@ -1186,9 +850,471 @@
         "conflict": false
       },
       "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      }
+    },
+    {
+      "id": "khabaronline_6",
+      "agencyId": "khabaronline",
+      "title": "Enemy seeks war through division; unity is God's firm command",
+      "title_fa": "دشمن با اختلاف‌افکنی به جنگ ما آمده؛ وحدت دستور محکم خداست",
+      "lead": "این خبر با استناد به آیات قرآن کریم، بیان می‌کند که خداوند امت‌ها را به حفظ دین و پرهیز از تفرقه دعوت کرده است. با این حال، دشمنان با دامن زدن به اختلافات، در برابر این فرمان الهی ایستاده‌اند و به دنبال ایجاد جنگ هستند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2232875/%D8%AF%D8%B4%D9%85%D9%86-%D8%A8%D8%A7-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D8%A7%D9%81%DA%A9%D9%86%DB%8C-%D8%A8%D9%87-%D8%AC%D9%86%DA%AF-%D9%85%D8%A7-%D8%A2%D9%85%D8%AF%D9%87-%D9%88%D8%AD%D8%AF%D8%AA-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D9%85%D8%AD%DA%A9%D9%85-%D8%AE%D8%AF%D8%A7%D8%B3%D8%AA",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      }
+    },
+    {
+      "id": "khabaronline_7",
+      "agencyId": "khabaronline",
+      "title": "Is it 'professors' right' or 'discrimination against employees'? / Khabaronline users on faculty salary increase",
+      "title_fa": "«حق استادان است» یا «تبعیض علیه کارمندان»؟ / کاربران خبرآنلاین درباره افزایش حقوق هیات علمی چه می‌گویند؟",
+      "lead": "افزایش حقوق اعضای هیات علمی دانشگاه‌ها به موضوعی بحث‌برانگیز تبدیل شده است. گروهی آن را برای حفظ نخبگان و ارتقای دانشگاه ضروری می‌دانند، در حالی که گروهی دیگر آن را تبعیض‌آمیز در مقایسه با سایر کارمندان می‌پندارند.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233343/%D8%AD%D9%82-%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA-%DB%8C%D8%A7-%D8%AA%D8%A8%D8%B9%DB%8C%D8%B6-%D8%B9%D9%84%DB%8C%D9%87-%DA%A9%D8%A7%D8%B1%D9%85%D9%86%D8%AF%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%AE%D8%A8%D8%B1%D8%A2%D9%86%D9%84%DB%8C%D9%86",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
         "positive": 20,
-        "neutral": 60,
+        "neutral": 50,
+        "negative": 30
+      }
+    },
+    {
+      "id": "khabaronline_8",
+      "agencyId": "khabaronline",
+      "title": "Qalibaf's message regarding Iran's negotiating team, according to an independent faction member: No peace in sight; we are still on the battlefield",
+      "title_fa": "پیام ریاست قالیباف بر تیم مذاکره کننده ایران به روایت عضو فراکسیون مستقلین/ هیچ صلحی در کار نیست/ همچنان در میدان جنگ قرار داریم",
+      "lead": "عضو فراکسیون مستقلین مجلس اظهار داشت که تیم مذاکره‌کننده ایران می‌داند که صلحی در کار نیست. وی تاکید کرد که اساساً امکان مذاکره و رسیدن به صلح با «شیطان بزرگ» و کشوری که قاتل امام محسوب می‌شود، وجود ندارد و ایران همچنان در میدان جنگ قرار دارد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233108/%D9%BE%DB%8C%D8%A7%D9%85-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D9%82%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%81-%D8%A8%D8%B1-%D8%AA%DB%8C%D9%85-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%B9%D8%B6%D9%88-%D9%81%D8%B1%D8%A7%DA%A9%D8%B3%DB%8C%D9%88%D9%86",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    },
+    {
+      "id": "khabaronline_9",
+      "agencyId": "khabaronline",
+      "title": "FIFA has no authority in this World Cup; denying visa to Football Federation President was a great insult to us",
+      "title_fa": "فیفا در این جام جهانی هیچ‌کاره است و هیچ اختیاری ندارد؛ صادر نشدن ویزای رئیس فدراسیون فوتبال توهین بزرگی به ما بود",
+      "lead": "کاپیتان اسبق تیم ملی فوتبال ایران معتقد است که فیفا در این جام جهانی قدرت تصمیم‌گیری ندارد. او همچنین عدم صدور ویزا برای رئیس فدراسیون فوتبال را توهین بزرگی به ایران دانست و بر لزوم جدی گرفتن همه تیم‌ها در جام جهانی تاکید کرد.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233342/%D9%81%DB%8C%D9%81%D8%A7-%D8%AF%D8%B1-%D8%A7%DB%8C%D9%86-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%87%DB%8C%DA%86-%DA%A9%D8%A7%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA-%D9%88-%D9%87%DB%8C%DA%86-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D8%B5%D8%A7%D8%AF%D8%B1",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    },
+    {
+      "id": "khabaronline_10",
+      "agencyId": "khabaronline",
+      "title": "Piazza's severe anger after Iran's loss to Belgium",
+      "title_fa": "عصبانیت شدید پیاتزا پس از شکست ایران مقابل بلژیک",
+      "lead": "سرمربی تیم ملی والیبال ایران پس از شکست مقابل بلژیک، از اشتباهات سرویس تیم در ست پنجم ابراز عصبانیت شدید کرد. او بیان داشت که تیم هنوز به بازی در تورنمنت‌های خاص و متفاوت عادت نکرده است.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233381/%D8%B9%D8%B5%D8%A8%D8%A7%D9%86%DB%8C%D8%AA-%D8%B4%D8%AF%DB%8C%D8%AF-%D9%BE%DB%8C%D8%A7%D8%AA%D8%B2%D8%A7-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A8%D9%84%DA%98%DB%8C%DA%A9",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    },
+    {
+      "id": "khabaronline_11",
+      "agencyId": "khabaronline",
+      "title": "How to purify wealth tainted by usury",
+      "title_fa": "چگونگی تطهیر کردن مالی که به ربا آلوده شده است",
+      "lead": "این گزارش به توضیح احکام شرعی مربوط به ربا می‌پردازد و بیان می‌کند که دریافت مبلغ اضافی در قرض، در صورت شرط از ابتدا، ربا و گناه کبیره است. در چنین حالتی علاوه بر توبه، مبلغ اضافی باید بازگردانده شود، مگر آنکه پرداخت داوطلبانه و بدون شرط باشد.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2232849/%DA%86%DA%AF%D9%88%D9%86%DA%AF%DB%8C-%D8%AA%D8%B7%D9%87%DB%8C%D8%B1-%DA%A9%D8%B1%D8%AF%D9%86-%D9%85%D8%A7%D9%84%DB%8C-%DA%A9%D9%87-%D8%A8%D9%87-%D8%B1%D8%A8%D8%A7-%D8%A2%D9%84%D9%88%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      }
+    },
+    {
+      "id": "mashregh_0",
+      "agencyId": "mashregh",
+      "title": "At least 12 killed in plane crash in Butler, USA +Video",
+      "title_fa": "دست‌کم ۱۲ نفر در سقوط هواپیما در باتلر آمریکا کشته شدند +فیلم",
+      "lead": "منابع خبری از کشته شدن دست‌کم ۱۲ نفر در پی سقوط هواپیما در شهر باتلر در آمریکا خبر دادند. این حادثه در ایالت پنسیلوانیا رخ داده و جزئیات بیشتری از آن هنوز منتشر نشده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818435/%D8%AF%D8%B3%D8%AA-%DA%A9%D9%85-%DB%B1%DB%B2-%D9%86%D9%81%D8%B1-%D8%AF%D8%B1-%D8%B3%D9%82%D9%88%D8%B7-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%AA%D9%84%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%86%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      }
+    },
+    {
+      "id": "mashregh_1",
+      "agencyId": "mashregh",
+      "title": "Denial of attributing statements to Sardar Radan regarding negotiations",
+      "title_fa": "تکذیب انتساب اظهارات سردار رادان درباره مذاکرات",
+      "lead": "مرکز اطلاع‌رسانی فراجا، اخبار منتشرشده به نقل از سردار رادان درباره مذاکرات را تکذیب کرد. این تکذیبیه در واکنش به گزارش‌هایی منتشر شده است که به وی اظهاراتی درباره روند مذاکرات نسبت داده بودند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818432/%D8%AA%DA%A9%D8%B0%DB%8C%D8%A8-%D8%A7%D9%86%D8%AA%D8%B3%D8%A7%D8%A8-%D8%A7%D8%B8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D8%B1%D8%A7%D8%AF%D8%A7%D9%86-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
         "negative": 20
+      }
+    },
+    {
+      "id": "mashregh_2",
+      "agencyId": "mashregh",
+      "title": "Video/ Pezeshkian: Supreme National Security Council has approved that we negotiate",
+      "title_fa": "فیلم/ پزشکیان: شورای عالی امنیت ملی مصوب کرده مذاکره کنیم",
+      "lead": "رئیس‌جمهور در دیدار با مدیران رسانه گفت: شورای عالی امنیت ملی با قاطعیت مصوب کرده مذاکره کنیم. این اظهارات نشان‌دهنده تاکید بر مسیر دیپلماتیک برای حل مسائل است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818434/%D9%81%DB%8C%D9%84%D9%85-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D9%84%DB%8C-%D9%85%D8%B5%D9%88%D8%A8-%DA%A9%D8%B1%D8%AF%D9%87-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%DA%A9%D9%86%DB%8C%D9%85",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      }
+    },
+    {
+      "id": "mashregh_3",
+      "agencyId": "mashregh",
+      "title": "Yemen: Netanyahu does not commit folly without US green light",
+      "title_fa": "یمن: نتانیاهو بدون چراغ سبز آمریکا، دست به حماقت نمی‌زند",
+      "lead": "وزارت خارجه یمن، ضمن انتقاد شدید از جنایات رژیم صهیونیستی در لبنان، گفت که برای مقابله با این حملات، در کنار حزب‌الله خواهد بود. این بیانیه نشان می‌دهد که یمن، اسرائیل را در اقدامات خود در لبنان وابسته به حمایت آمریکا می‌داند.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818430/%DB%8C%D9%85%D9%86-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A8%D8%AF%D9%88%D9%86-%DA%86%D8%B1%D8%A7%D8%BA-%D8%B3%D8%A8%D8%B2-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B3%D8%AA-%D8%A8%D9%87-%D8%AD%D9%85%D8%A7%D9%82%D8%AA-%D9%86%D9%85%DB%8C-%D8%B2%D9%86%D8%AF",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      }
+    },
+    {
+      "id": "mashregh_4",
+      "agencyId": "mashregh",
+      "title": "Video/ Hezbollah missile attack on \"Blat\" military base",
+      "title_fa": "فیلم/ حمله موشکی حزب‌الله به پایگاه نظامی «بلاط»",
+      "lead": "حزب‌الله لبنان تصاویری از حمله به پایگاه نظامی «بلاط» وابسته به ارتش اسرائیل در جنوب لبنان با استفاده از یک موشک پیشرفته منتشر کرد. این حمله در ادامه درگیری‌های اخیر در مرزهای شمالی اسرائیل و جنوب لبنان صورت گرفته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818382/%D9%81%DB%8C%D9%84%D9%85-%D8%AD%D9%85%D9%84%D9%87-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%86%D8%B8%D9%85%DB%8C-%D8%A8%D9%84%D8%A7%D8%B7",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      }
+    },
+    {
+      "id": "mashregh_5",
+      "agencyId": "mashregh",
+      "title": "Sardar Qaani: A great victory for Hezbollah is coming",
+      "title_fa": "سردار قاآنی: پیروزی عظیم حزب‌الله در راه است",
+      "lead": "سردار قاآنی، فرمانده نیروی قدس سپاه پاسداران انقلاب اسلامی، اظهار داشت که پیروزی عظیمی برای حزب‌الله لبنان در راه است. این سخنان در بحبوحه تشدید درگیری‌ها میان حزب‌الله و رژیم صهیونیستی بیان شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818428/%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D9%82%D8%A7%D8%A2%D9%86%DB%8C-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%B9%D8%B8%DB%8C%D9%85-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 20,
+        "negative": 20
+      }
+    },
+    {
+      "id": "mashregh_6",
+      "agencyId": "mashregh",
+      "title": "Hanzala: Zionists should go to shelters",
+      "title_fa": "حنظله: صهیونیست‌ها به پناهگاه بروند",
+      "lead": "گروه حنظله به صهیونیست‌های غاصب هشدار داد که فورا به پناهگاه بروند. این هشدار در پی تشدید تنش‌ها و درگیری‌ها در منطقه و احتمال حملات متقابل صادر شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818431/%D8%AD%D9%86%D8%B8%D9%84%D9%87-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA-%D9%87%D8%A7-%D8%A8%D9%87-%D9%BE%D9%86%D8%A7%D9%87%DA%AF%D8%A7%D9%87-%D8%A8%D8%B1%D9%88%D9%86%D8%AF",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      }
+    },
+    {
+      "id": "mashregh_7",
+      "agencyId": "mashregh",
+      "title": "Neuer breaks record",
+      "title_fa": "نویر رکوردشکنی کرد",
+      "lead": "مانوئل نویر، اسطوره بایرن مونیخ، با حضور در ترکیب آلمان مقابل کوراسائو، به عنوان دومین دروازه‌بان تاریخ به رکورد پنج حضور در جام جهانی دست یافت. این دستاورد او را به یکی از پرافتخارترین دروازه‌بانان جهان تبدیل می‌کند.",
+      "category": "culture",
+      "region": "europe",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818429/%D9%86%D9%88%DB%8C%D8%B1-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%DA%A9%D8%B1%D8%AF",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      }
+    },
+    {
+      "id": "isna_8",
+      "agencyId": "isna",
+      "title": "Iran's ambassador to Brazil appreciates student sports caravan named Minab 168",
+      "title_fa": "قدردانی سفیر ایران در برزیل از کاروان ورزشی دانشجویان با نام میناب 168",
+      "lead": "سفارت جمهوری اسلامی ایران در برزیل میزبان کاروان ورزشی دانشجویان ایران، با نام میناب ۱۶۸ بود. در این مراسم، سفیر ایران از تلاش‌ها و دستاوردهای این کاروان ورزشی قدردانی کرد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032414552/%D9%82%D8%AF%D8%B1%D8%AF%D8%A7%D9%86%DB%8C-%D8%B3%D9%81%DB%8C%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%B2%DB%8C%D9%84-%D8%A7%D8%B2-%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      }
+    },
+    {
+      "id": "isna_9",
+      "agencyId": "isna",
+      "title": "Discovery of war ammunition in Ashkzar, Yazd / Armed suspect arrested",
+      "title_fa": "کشف مهمات جنگی در اشکذرِ یزد/ متهم مسلح دستگیر شد",
+      "lead": "دادستان عمومی و انقلاب شهرستان اشکذر از دستگیری یک فرد مسلح و کشف مهمات جنگی در این شهرستان خبر داد. این عملیات با اقدام به‌موقع پلیس و هماهنگی قضایی به دستگیری متهم و توقیف اقلام غیرقانونی منجر شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032414551/%DA%A9%D8%B4%D9%81-%D9%85%D9%87%D9%85%D8%A7%D8%AA-%D8%AC%D9%86%DA%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B4%DA%A9%D8%B0%D8%B1-%DB%8C%D8%B2%D8%AF-%D9%85%D8%AA%D9%87%D9%85-%D9%85%D8%B3%D9%84%D8%AD-%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1-%D8%B4%D8%AF",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      }
+    },
+    {
+      "id": "isna_10",
+      "agencyId": "isna",
+      "title": "Guterres expresses hope for Iran-US agreement",
+      "title_fa": "ابراز امیدواری گوترش برای توافق ایران و آمریکا",
+      "lead": "دبیرکل سازمان ملل متحد ضمن محکوم کردن حمله رژیم صهیونیستی به بیروت، نسبت به موفقیت آمیز بودن تلاش‌ها برای توافق ایران و آمریکا ابراز امیدواری کرد. این اظهارات نشان‌دهنده اهمیت نقش دیپلماسی در کاهش تنش‌های منطقه‌ای است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.isna.ir/news/1405032414549/%D8%A7%D8%A8%D8%B1%D8%A7%D8%B2-%D8%A7%D9%85%DB%8C%D8%AF%D9%88%D8%A7%D8%B1%DB%8C-%DA%AF%D9%88%D8%AA%D8%B1%D8%B4-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      }
+    },
+    {
+      "id": "isna_11",
+      "agencyId": "isna",
+      "title": "National team heads to Los Angeles with amazing Mexican farewell",
+      "title_fa": "تیم‌ملی با بدرقه شگفت‌انگیز مکزیکی‌ها راهی لس آنجلس شد",
+      "lead": "تیم ملی فوتبال ایران برای برگزاری نخستین دیدار خود در جام جهانی راهی آمریکا شد. این سفر با بدرقه پرشور هواداران مکزیکی همراه بود که فضای مثبتی را برای تیم ملی ایجاد کرد.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032414547/%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D8%A8%D8%A7-%D8%A8%D8%AF%D8%B1%D9%82%D9%87-%D8%B4%DA%AF%D9%81%D8%AA-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2-%D9%85%DA%A9%D8%B2%DB%8C%DA%A9%DB%8C-%D9%87%D8%A7-%D8%B1%D8%A7%D9%87%DB%8C-%D9%84%D8%B3-%D8%A2%D9%86%D8%AC%D9%84%D8%B3-%D8%B4%D8%AF",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      }
+    },
+    {
+      "id": "isna_0",
+      "agencyId": "isna",
+      "title": "Special Governor of Rey: Institutions should come out of passivity and lead in protecting the economy",
+      "title_fa": "فرماندار ویژه ری: دستگاه‌ها از انفعال خارج شوند و پیشگام صیانت از اقتصاد باشند",
+      "lead": "فرماندار ویژه شهرستان ری در نشست کمیسیون مبارزه با قاچاق کالا و ارز، بر ضرورت انسجام‌بخشی به نهادهای نظارتی تاکید کرد. وی هشدار داد که برخورد با پدیده قاچاق نباید مانعی برای فعالیت‌های اقتصادی شود.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032414546/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D9%88%DB%8C%DA%98%D9%87-%D8%B1%DB%8C-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%86%D9%81%D8%B9%D8%A7%D9%84-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B4%D9%88%D9%86%D8%AF-%D9%88-%D9%BE%DB%8C%D8%B4%DA%AF%D8%A7%D9%85-%D8%B5%DB%8C%D8%A7%D9%86%D8%AA",
+      "time": "نامشخص",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      }
+    },
+    {
+      "id": "isna_1",
+      "agencyId": "isna",
+      "title": "Unlicensed warehouses a serious threat to economic security",
+      "title_fa": "انبارهای بی‌مجوز تهدیدی جدی برای امنیت اقتصادی",
+      "lead": "سرپرست کمیسیون مبارزه با قاچاق کالا و ارز استان تهران تاکید کرد که انبارهای بی‌مجوز تهدیدی جدی برای امنیت اقتصادی هستند. او افزود که برخورد با قاچاق نیازمند هماهنگی دقیق دستگاه‌های نظارتی است و باید راهگشای تولید باشد.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032414545/%D8%A7%D9%86%D8%A8%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%A8%DB%8C-%D9%85%D8%AC%D9%88%D8%B2-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%DB%8C-%D8%AC%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C",
+      "time": "نامشخص",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 35,
+        "neutral": 30,
+        "negative": 35
+      }
+    },
+    {
+      "id": "isna_2",
+      "agencyId": "isna",
+      "title": "Gilans' rural and municipal councils equipped with 147 construction vehicles",
+      "title_fa": "تجهیز دهیاری‌ها و شهرداری‌های گیلان به ۱۴۷ خودروی عمرانی",
+      "lead": "۱۴۷ دستگاه خودروی چندمنظوره عمرانی به ناوگان خدمات‌رسانی شهرداری‌ها و دهیاری‌های استان گیلان افزوده شد. این تجهیزات جدید به منظور بهبود خدمات‌رسانی در مناطق شهری و روستایی استان به کار گرفته خواهند شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032414544/%D8%AA%D8%AC%D9%87%DB%8C%D8%B2-%D8%AF%D9%87%DB%8C%D8%A7%D8%B1%DB%8C-%D9%87%D8%A7-%D9%88-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-%D8%A8%D9%87-%DB%B1%DB%B4%DB%B7-%D8%AE%D9%88%D8%AF%D8%B1%DB%8C-%D8%B9%D9%85%D8%B1%D8%A7%D9%86%DB%8C",
+      "time": "نامشخص",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      }
+    },
+    {
+      "id": "isna_3",
+      "agencyId": "isna",
+      "title": "Head of Gilan Agricultural Jihad: Land subsidence is the result of unstudied agriculture",
+      "title_fa": "رئیس جهاد کشاورزی گیلان: فرونشست نتیجه کار کشاورزی بدون مطالعه است",
+      "lead": "رئیس سازمان جهاد کشاورزی گیلان اعلام کرد که فرونشست زمین در برخی استان‌ها نتیجه کشاورزی بدون مطالعه و فشار بیش از حد به منابع آب و خاک است. وی بر لزوم خودکفایی در تولید محصولات کشاورزی بدون آسیب رساندن به منابع طبیعی تاکید کرد.",
+      "category": "environment",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032414543/%D8%B1%D8%A6%DB%8C%D8%B3-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%AC%D9%87%D8%A7%D8%AF-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-%D9%81%D8%B1%D9%88%D9%86%D8%B4%D8%B3%D8%AA-%D9%86%D8%AA%DB%8C%D8%AC%D9%87-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%A8%D8%AF%D9%88%D9%86",
+      "time": "نامشخص",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 30,
+        "negative": 40
       }
     }
   ]
