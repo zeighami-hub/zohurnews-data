@@ -2,13 +2,12 @@ name: Fetch News RSS
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # هر ۲ ساعت
-  workflow_dispatch:         # اجرای دستی هم ممکن باشه
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
