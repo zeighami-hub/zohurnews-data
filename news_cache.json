@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T10:31:43.708Z",
-  "total": 4,
+  "generated_at": "2026-06-14T12:32:16.687Z",
+  "total": 8,
   "agencies": [
     {
       "id": "aljazeera",
@@ -65,57 +65,141 @@
   ],
   "articles": [
     {
-      "id": "france24_2",
+      "id": "france24_0",
       "agencyId": "france24",
-      "title": "Iran: US, Pakistani leaders predict Sunday signing of peace framework",
-      "title_fa": "ایران: رهبران آمریکا و پاکستان امضای توافقنامه صلح را برای یکشنبه پیش‌بینی می‌کنند",
-      "lead": "رهبران ایالات متحده و پاکستان از امضای قریب‌الوقوع یک توافقنامه چارچوب برای پایان دادن به ماه‌ها درگیری بین آمریکا و ایران در روز یکشنبه خبر دادند. این در حالی است که تهران نسبت به زمان‌بندی آن ابراز تردید کرده است.",
+      "title": "Brazil struggle against Morocco, Australia stun Turkiye",
+      "title_fa": "کشمکش برزیل مقابل مراکش، استرالیا ترکیه را شوکه کرد",
+      "lead": "تیم فوتبال برزیل در اولین بازی خود مقابل مراکش با مشکل مواجه شد، اما وینیسیوس توانست با یک گل زیبا بازی را به تساوی بکشاند. در همین حال، استرالیا تیم ترکیه را در یک مسابقه غافلگیر کرد.",
+      "category": "sports",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/sports/20260614-brazil-struggle-against-morocco-australia-stun-turkiye",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "france24_3",
+      "agencyId": "france24",
+      "title": "G7 meeting begins in France this Monday",
+      "title_fa": "نشست گروه ۷ روز دوشنبه در فرانسه آغاز می‌شود",
+      "lead": "نشست سران گروه ۷ از روز دوشنبه در فرانسه آغاز خواهد شد و انتظار می‌رود رئیس‌جمهور آمریکا با رهبران خاورمیانه دیدار کند. همچنین، جلسه‌ای کاری با رئیس‌جمهور اوکراین نیز در دستور کار قرار دارد.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/video/20260614-g7-meeting-begins-in-france-this-monday",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "dw_0",
+      "agencyId": "dw",
+      "title": "Iran war: Trump, Pakistan tease deal, but doubts remain",
+      "title_fa": "جنگ ایران: ترامپ و پاکستان از توافق صحبت می‌کنند، اما تردیدها باقی است",
+      "lead": "دونالد ترامپ پیشنهاد کرد که یک توافق صلح اولیه ممکن است یکشنبه امضا شود، اما ایران به این زمان‌بندی شک دارد. در همین حال، اسرائیل حملات خود را به لبنان ادامه می‌دهد.",
       "category": "diplomacy",
       "region": "middleeast",
-      "sourceUrl": "https://www.france24.com/en/video/20260614-iran-us-pakistani-leaders-predict-sunday-signing-of-peace-framework",
-      "time": "لحظاتی پیش",
+      "sourceUrl": "https://www.dw.com/en/iran-war-trump-pakistan-tease-deal-but-doubts-remain/live-77540182?maca=en-rss-en-all-1573-xml-mrss",
+      "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 40,
-        "neutral": 30,
-        "negative": 30
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
       }
     },
     {
-      "id": "france24_6",
-      "agencyId": "france24",
-      "title": "Middle East war live: Trump says Iran deal to be signed Sunday",
-      "title_fa": "جنگ خاورمیانه زنده: ترامپ می‌گوید توافق ایران یکشنبه امضا می‌شود",
-      "lead": "رهبران آمریکا و پاکستان پیش‌بینی کردند که توافقی برای پایان دادن به جنگ علیه ایران در روز یکشنبه امضا خواهد شد. دونالد ترامپ، رئیس‌جمهور آمریکا، اظهار داشت که تنگه هرمز بلافاصله به روی همگان باز خواهد بود.",
-      "category": "diplomacy",
+      "id": "foreignpolicy_2",
+      "agencyId": "foreignpolicy",
+      "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
+      "title_fa": "انتخاب مجدد نتانیاهو ممکن است به نتیجه جنگ ایران وابسته باشد",
+      "lead": "بنیامین نتانیاهو به اسرائیلی‌ها \"پیروزی کامل\" را وعده داده بود اما در سه جبهه شکست خورده است. نتیجه جنگ ایران می‌تواند بر شانس او برای انتخاب مجدد تاثیر بگذارد.",
+      "category": "politics",
       "region": "middleeast",
-      "sourceUrl": "https://www.france24.com/en/middle-east/20260614-middle-east-war-live-trump-says-iran-deal-to-be-signed-sunday",
-      "time": "لحظاتی پیش",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/",
+      "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 45,
-        "neutral": 25,
-        "negative": 30
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
       }
     },
     {
-      "id": "skynews_0",
+      "id": "foreignpolicy_3",
+      "agencyId": "foreignpolicy",
+      "title": "Trump’s Big Weekend Could Derail the G-7",
+      "title_fa": "آخر هفته بزرگ ترامپ می‌تواند نشست گروه ۷ را مختل کند",
+      "lead": "با توافق یا بدون آن، جنگ ایران بر اجلاس سه روزه سران گروه ۷ سایه افکنده است. این موضوع می‌تواند برنامه‌های اجلاس را تحت تاثیر قرار دهد و بحث‌های اصلی را تغییر دهد.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/12/trump-iran-war-peace-talks-deal-g7-leaders-summit/",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "foreignpolicy_8",
+      "agencyId": "foreignpolicy",
+      "title": "Trump Is Shattering the Illusion of the West",
+      "title_fa": "ترامپ توهم غرب را در هم می‌شکند",
+      "lead": "رئیس‌جمهور (ترامپ) با رویکرد تمدنی امپریالیستی خود، آنچه را که ادعا می‌کند از آن دفاع می‌کند، نابود می‌سازد. این رویکرد پیامدهای گسترده‌ای برای روابط بین‌الملل و جایگاه غرب دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/12/trump-west-china-rome-civilization-vance-iran-hegseth-russia/",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "skynews_2",
       "agencyId": "skynews",
       "title": "Ukraine's strikes on Crimea refineries and pipelines spark worst fuel crisis on peninsula since 2014",
-      "title_fa": "حملات اوکراین به پالایشگاه‌ها و خطوط لوله کریمه بدترین بحران سوخت در شبه‌جزیره از سال ۲۰۱۴ را برانگیخت",
-      "lead": "حملات مداوم اوکراین به منابع سوخت کریمه، بدترین بحران سوخت را در این شبه‌جزیره تحت کنترل روسیه از زمان الحاق غیرقانونی آن در سال ۲۰۱۴ ایجاد کرده است. این حملات بر زیرساخت‌های انرژی منطقه تأثیر گذاشته و نگرانی‌هایی را درباره کمبود سوخت و پیامدهای اقتصادی آن به وجود آورده است.",
+      "title_fa": "حملات اوکراین به پالایشگاه‌ها و خطوط لوله کریمه بدترین بحران سوخت در این شبه‌جزیره از سال ۲۰۱۴ را برانگیخته است",
+      "lead": "حملات مداوم اوکراین به تأسیسات سوخت در کریمه، بدترین بحران سوخت را در این شبه‌جزیره تحت کنترل روسیه از زمان الحاق غیرقانونی آن در سال ۲۰۱۴ ایجاد کرده است. این بحران نشان‌دهنده تشدید درگیری‌ها و تأثیرات آن بر زیرساخت‌های انرژی منطقه است.",
       "category": "military",
       "region": "eurasia",
       "sourceUrl": "https://news.sky.com/story/ukraines-strikes-on-crimea-refineries-and-pipelines-spark-worst-fuel-crisis-on-peninsula-since-2014-13553252",
-      "time": "لحظاتی پیش",
+      "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -123,29 +207,29 @@
       },
       "sentiment": {
         "positive": 5,
-        "neutral": 10,
-        "negative": 85
+        "neutral": 15,
+        "negative": 80
       }
     },
     {
-      "id": "skynews_1",
+      "id": "skynews_3",
       "agencyId": "skynews",
       "title": "Risk of 'very strong' El Nino raising global temperatures, scientists warn",
-      "title_fa": "دانشمندان هشدار می‌دهند: خطر «ال‌نینو»ی بسیار قوی دمای جهانی را افزایش می‌دهد",
-      "lead": "پیش‌بینی‌کنندگان آب و هوا از خطر یک پدیده «ال‌نینو»ی بسیار قوی هشدار می‌دهند که معمولاً به افزایش دمای جهانی و خشکسالی در برخی مناطق منجر می‌شود. این پدیده می‌تواند تأثیرات گسترده‌ای بر آب و هوای جهان، از جمله بارش‌های شدید در نقاط دیگر، داشته باشد.",
+      "title_fa": "دانشمندان هشدار می‌دهند: خطر \"ال‌نینو\" بسیار قوی که دمای جهانی را افزایش می‌دهد",
+      "lead": "پیش‌بینی‌کنندگان می‌گویند خطر وقوع یک پدیده \"ال‌نینو\" بسیار قوی وجود دارد که معمولاً منجر به افزایش دمای جهانی و خشکسالی در برخی مناطق و بارندگی شدید در مناطق دیگر می‌شود. این پدیده می‌تواند اثرات گسترده‌ای بر اقلیم و منابع آبی در خاورمیانه داشته باشد.",
       "category": "environment",
       "region": "global",
       "sourceUrl": "https://news.sky.com/story/risk-of-very-strong-el-nino-raising-global-temperatures-scientists-warn-13553053",
-      "time": "دقایقی پیش",
+      "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": false
       },
       "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
+        "positive": 5,
+        "neutral": 20,
+        "negative": 75
       }
     }
   ]
