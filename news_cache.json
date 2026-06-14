@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T00:32:28.052Z",
-  "total": 8,
+  "generated_at": "2026-06-14T02:31:55.018Z",
+  "total": 6,
   "agencies": [
     {
       "id": "aljazeera",
@@ -65,14 +65,14 @@
   ],
   "articles": [
     {
-      "id": "aljazeera_1",
+      "id": "aljazeera_0",
       "agencyId": "aljazeera",
-      "title": "Iran war live: Trump says deal to be signed today; Tehran urges caution",
-      "title_fa": "جنگ ایران به صورت زنده: ترامپ می‌گوید توافق امروز امضا می‌شود؛ تهران خواستار احتیاط شد",
-      "lead": "ایالات متحده و ایران به نظر می‌رسد در آستانه امضای مرحله اول یک توافق صلح هستند. با این حال، دو طرف در مورد زمان امضای آن اختلاف نظر دارند.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
+      "title": "Two killed in Israeli strike on Gaza",
+      "title_fa": "دو کشته در حمله اسرائیل به غزه",
+      "lead": "مقامات فلسطینی از کشته شدن دو نفر و زخمی شدن یک نفر دیگر در حمله اسرائیل به جنوب غزه خبر دادند. این حمله بار دیگر تنش‌ها در منطقه را افزایش داده و واکنش‌های بین‌المللی را در پی خواهد داشت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
       "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
@@ -80,84 +80,21 @@
         "conflict": true
       },
       "sentiment": {
-        "positive": 40,
-        "neutral": 30,
-        "negative": 30
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
       }
     },
     {
       "id": "aljazeera_2",
       "agencyId": "aljazeera",
-      "title": "Brazil and Morocco kickoff amid electric atmosphere",
-      "title_fa": "برزیل و مراکش در جوی پرشور به رقابت پرداختند",
-      "lead": "هواداران برزیل و مراکش با آوازخوانی، رقص و شعار دادن راهی یکی از مورد انتظارترین مسابقات مرحله گروهی شدند. این بازی در فضایی هیجان‌انگیز آغاز شد و شور و هیجان زیادی را به همراه داشت.",
-      "category": "culture",
-      "region": "middleeast",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/13/aje-onl-nf_brazil-and-morocco-kickoff-amid-electric-atmosphere-130626?traffic_source=rss",
-      "time": "1 روز پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      }
-    },
-    {
-      "id": "aljazeera_3",
-      "agencyId": "aljazeera",
-      "title": "Qatar net late against Switzerland to secure historic first World Cup point",
-      "title_fa": "قطر در اواخر بازی مقابل سوئیس گل زد تا اولین امتیاز تاریخی خود در جام جهانی را کسب کند",
-      "lead": "قهرمان جام ملت‌های آسیا، قطر، در وقت‌های تلف شده با نتیجه 1-1 مقابل سوئیس مساوی کرد. این اتفاق در بازی افتتاحیه جام جهانی 2026 رخ داد و اولین امتیاز تاریخی قطر در این رقابت‌ها را رقم زد.",
-      "category": "culture",
-      "region": "middleeast",
-      "sourceUrl": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss",
-      "time": "1 روز پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      }
-    },
-    {
-      "id": "france24_8",
-      "agencyId": "france24",
-      "title": "World Cup 2026: Brazil and Morocco draw in heavyweight Group C opener",
-      "title_fa": "جام جهانی ۲۰۲۶: تساوی برزیل و مراکش در دیدار پربرخورد گروه C",
-      "lead": "برزیل و مراکش در گروه C جام جهانی ۲۰۲۶ در ورزشگاه مت‌لایف به تساوی ۱-۱ رسیدند. این دیدار که یکی از مورد انتظارترین بازی‌ها بود، با گل‌زنی سایبری و وینیسیوس همراه شد.",
-      "category": "culture",
-      "region": "middleeast",
-      "sourceUrl": "https://www.france24.com/en/sport/20260614-world-cup-2026-brazil-and-morocco-draw-in-heavyweight-group-c-opener",
+      "title": "Why is the price of gold trending down?",
+      "title_fa": "چرا قیمت طلا روند نزولی دارد؟",
+      "lead": "قیمت طلا از اواخر فوریه و پس از آغاز جنگ بین آمریکا و اسرائیل علیه ایران تحت فشار بوده است. این وضعیت نشان‌دهنده تأثیر مستقیم تنش‌های ژئوپلیتیکی بر بازارهای جهانی و دارایی‌های امن مانند طلا است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss",
       "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      }
-    },
-    {
-      "id": "france24_10",
-      "agencyId": "france24",
-      "title": "Middle East Live: Dozens protest peace deal outside Iran foreign ministry",
-      "title_fa": "خاورمیانه زنده: ده‌ها نفر در اعتراض به توافق صلح در مقابل وزارت خارجه ایران تجمع کردند",
-      "lead": "ده‌ها نفر روز شنبه در مقابل یکی از دفاتر وزارت خارجه در شهر مشهد ایران تظاهرات کردند. آنها علیه دیپلمات ارشد عباس عراقچی، پس از مصاحبه تلویزیونی او در مورد توافق، شعار دادند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.france24.com/en/middle-east/20260613-middle-east-live-dozens-protest-peace-deal-outside-iran-foreign-ministry",
-      "time": "1 روز پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -170,23 +107,44 @@
       }
     },
     {
+      "id": "aljazeera_6",
+      "agencyId": "aljazeera",
+      "title": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
+      "title_fa": "جنگ ایران زنده: ترامپ می‌گوید امروز توافق امضا می‌شود؛ تهران زمان‌بندی را رد می‌کند",
+      "lead": "دونالد ترامپ اعلام کرده است که مرحله اول یک توافق صلح با ایران امروز امضا خواهد شد، اما تهران در مورد زمان‌بندی آن اختلاف نظر دارد. این خبر نشان‌دهنده گام‌های احتمالی به سوی کاهش تنش‌هاست، هرچند جزئیات و زمان نهایی هنوز نامشخص است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      }
+    },
+    {
       "id": "france24_11",
       "agencyId": "france24",
-      "title": "World Cup 2026: Saibari and Vinicius spark draw in Group C drama",
-      "title_fa": "جام جهانی ۲۰۲۶: سایبری و وینیسیوس دراماتیک‌ترین تساوی گروه C را رقم زدند",
-      "lead": "برزیل و مراکش در بازی افتتاحیه گروه C خود در ورزشگاه مت‌لایف با نتیجه ۱-۱ مساوی کردند. گل زودهنگام سایبری مراکش را پیش انداخت، اما وینیسیوس جونیور قبل از نیمه اول بازی را به تساوی کشاند.",
+      "title": "World Cup 2026: Qatar stuns Switzerland with late equaliser",
+      "title_fa": "جام جهانی ۲۰۲۶: قطر با گل دیرهنگام سوئیس را شگفت‌زده کرد",
+      "lead": "تیم ملی قطر در یک مسابقه حساس جام جهانی ۲۰۲۶ موفق شد با گل دیرهنگام، سوئیس را متوقف کرده و نتیجه را به تساوی بکشاند. این نتیجه برای قطر در مقابل یک تیم اروپایی قدرتمند، دستاوردی مهم تلقی می‌شود و شور و هیجان را در منطقه خلیج فارس برانگیخته است.",
       "category": "culture",
       "region": "middleeast",
-      "sourceUrl": "https://www.france24.com/en/sport/20260613-brazil-morocco-live-world-cup-2026-first-heavyweight-clash-in-group-stage",
-      "time": "1 روز پیش",
+      "sourceUrl": "https://www.france24.com/en/sport/20260613-world-cup-2026-qatar-stuns-switzerland-with-late-equaliser",
+      "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "low",
         "conflict": false
       },
       "sentiment": {
-        "positive": 80,
-        "neutral": 20,
+        "positive": 70,
+        "neutral": 30,
         "negative": 0
       }
     },
@@ -194,15 +152,15 @@
       "id": "france24_0",
       "agencyId": "france24",
       "title": "World Cup 2026: Qatar stuns Switzerland with late equaliser",
-      "title_fa": "جام جهانی ۲۰۲۶: قطر با گل دیرهنگام، سوئیس را شوکه کرد",
-      "lead": "سوئیس در دیدار افتتاحیه مرحله گروهی جام جهانی ۲۰۲۶ مقابل قطر با تساوی ۱-۱ غافلگیر شد. قطر موفق شد با یک گل دیرهنگام، سوئیس را شوکه کرده و نتیجه را مساوی کند.",
+      "title_fa": "جام جهانی ۲۰۲۶: قطر سوئیس را با گل تساوی دیرهنگام متحیر کرد",
+      "lead": "تیم ملی قطر در بازی افتتاحیه مرحله گروهی جام جهانی ۲۰۲۶ در مقابل سوئیس به تساوی ۱-۱ دست یافت و این تیم را غافلگیر کرد. بریل امبولو در دقیقه ۱۷ از روی نقطه پنالتی گل اول را به ثمر رساند.",
       "category": "culture",
       "region": "middleeast",
       "sourceUrl": "https://www.france24.com/en/sport/20260613-world-cup-2026-qatar-stuns-switzerland-with-late-equaliser",
-      "time": "دقایقی پیش",
+      "time": "چند ساعت پیش",
       "newsValues": {
         "timeliness": "high",
-        "impact": "high",
+        "impact": "low",
         "conflict": false
       },
       "sentiment": {
@@ -214,17 +172,17 @@
     {
       "id": "france24_1",
       "agencyId": "france24",
-      "title": "World Cup 2026: Qatar stuns Switzerland with late equaliser",
-      "title_fa": "جام جهانی ۲۰۲۶: قطر با گل دیرهنگام، سوئیس را شوکه کرد",
-      "lead": "سوئیس در دیدار افتتاحیه مرحله گروهی جام جهانی ۲۰۲۶ مقابل قطر با تساوی ۱-۱ غافلگیر شد. قطر موفق شد با یک گل دیرهنگام، سوئیس را شوکه کرده و نتیجه را مساوی کند.",
-      "category": "culture",
+      "title": "Lebanon reports Israeli strikes in south and east amid broad evacuation warnings",
+      "title_fa": "لبنان از حملات اسرائیل در جنوب و شرق کشور در میان هشدارهای گسترده تخلیه گزارش می‌دهد",
+      "lead": "ارتش اسرائیل روز شنبه هشدارهای تخلیه برای شهر نبطیه در جنوب و بیش از ۲۰ نقطه دیگر در سراسر لبنان صادر کرد. این اقدام در حالی صورت گرفت که گزارش‌هایی از حملات در جنوب و شرق این کشور منتشر شده است.",
+      "category": "military",
       "region": "middleeast",
-      "sourceUrl": "https://www.france24.com/en/sport/20260613-world-cup-2026-qatar-stuns-switzerland-with-late-equaliser",
-      "time": "دقایقی پیش",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260613-lebanon-reports-israeli-strikes-in-south-and-east-amid-broad-evacuation-warnings",
+      "time": "چند ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
-        "conflict": false
+        "conflict": true
       },
       "sentiment": {
         "positive": 33,
