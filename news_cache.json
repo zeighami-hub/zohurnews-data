@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T12:32:16.687Z",
-  "total": 8,
+  "generated_at": "2026-06-14T14:31:47.644Z",
+  "total": 39,
   "agencies": [
     {
       "id": "aljazeera",
@@ -33,9 +33,9 @@
       "name_fa": "اسکای‌نیوز"
     },
     {
-      "id": "presstv",
-      "name_en": "Press TV",
-      "name_fa": "پرس‌تی‌وی"
+      "id": "bbc",
+      "name_en": "BBC World",
+      "name_fa": "بی‌بی‌سی"
     },
     {
       "id": "nytimes",
@@ -48,11 +48,6 @@
       "name_fa": "ایندیپندنت"
     },
     {
-      "id": "bbc",
-      "name_en": "BBC World",
-      "name_fa": "بی‌بی‌سی"
-    },
-    {
       "id": "economist",
       "name_en": "The Economist",
       "name_fa": "اکونومیست"
@@ -61,60 +56,173 @@
       "id": "arabnews",
       "name_en": "Arab News",
       "name_fa": "عرب نیوز"
+    },
+    {
+      "id": "reuters",
+      "name_en": "Reuters",
+      "name_fa": "رویترز"
+    },
+    {
+      "id": "rt",
+      "name_en": "RT",
+      "name_fa": "آر‌تی"
+    },
+    {
+      "id": "xinhua",
+      "name_en": "Xinhua",
+      "name_fa": "شینهوا"
+    },
+    {
+      "id": "alarabiya",
+      "name_en": "Al Arabiya",
+      "name_fa": "العربیه"
+    },
+    {
+      "id": "middleeasteye",
+      "name_en": "Middle East Eye",
+      "name_fa": "میدل ایست آی"
+    },
+    {
+      "id": "irna",
+      "name_en": "IRNA",
+      "name_fa": "ایرنا"
+    },
+    {
+      "id": "mehrnews",
+      "name_en": "Mehr News",
+      "name_fa": "مهر"
+    },
+    {
+      "id": "iribnews",
+      "name_en": "IRIB News",
+      "name_fa": "صدا و سیما"
+    },
+    {
+      "id": "khabaronline",
+      "name_en": "Khabar Online",
+      "name_fa": "خبرآنلاین"
+    },
+    {
+      "id": "mashregh",
+      "name_en": "Mashregh News",
+      "name_fa": "مشرق"
     }
   ],
   "articles": [
     {
-      "id": "france24_0",
-      "agencyId": "france24",
-      "title": "Brazil struggle against Morocco, Australia stun Turkiye",
-      "title_fa": "کشمکش برزیل مقابل مراکش، استرالیا ترکیه را شوکه کرد",
-      "lead": "تیم فوتبال برزیل در اولین بازی خود مقابل مراکش با مشکل مواجه شد، اما وینیسیوس توانست با یک گل زیبا بازی را به تساوی بکشاند. در همین حال، استرالیا تیم ترکیه را در یک مسابقه غافلگیر کرد.",
-      "category": "sports",
+      "id": "aljazeera_1",
+      "agencyId": "aljazeera",
+      "title": "Sexual Violence in Israeli Prisons: What History Tells Us",
+      "title_fa": "خشونت جنسی در زندان‌های اسرائیل: تاریخ چه می‌گوید؟",
+      "lead": "این خبر به خشونت جنسی علیه فلسطینی‌ها در بازداشت اسرائیل می‌پردازد. گزارش نشان می‌دهد که این موضوع تنها به پس از ۷ اکتبر محدود نمی‌شود، بلکه ریشه‌های تاریخی دارد.",
+      "category": "politics",
       "region": "middleeast",
-      "sourceUrl": "https://www.france24.com/en/tv-shows/sports/20260614-brazil-struggle-against-morocco-australia-stun-turkiye",
-      "time": "2 ساعت پیش",
+      "sourceUrl": "https://www.aljazeera.com/video/2026/6/14/sexual-violence-in-israeli-prisons-what-history-tells-us?traffic_source=rss",
+      "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
-        "impact": "low",
+        "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 5,
+        "neutral": 10,
+        "negative": 85
       }
     },
     {
-      "id": "france24_3",
+      "id": "aljazeera_2",
+      "agencyId": "aljazeera",
+      "title": "Anticipation, pushback in Iran as mediators work to finalise deal with US",
+      "title_fa": "در ایران، در حالی که میانجی‌ها برای نهایی کردن توافق با آمریکا تلاش می‌کنند، انتظار و مخالفت وجود دارد",
+      "lead": "در ایران، در حالی که میانجی‌ها در تلاش برای نهایی کردن توافق با آمریکا هستند، گروه‌های مختلف واکنش‌های متفاوتی نشان می‌دهند. این توافق می‌تواند پیامدهای مهمی برای روابط دوجانبه و منطقه داشته باشد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/14/anticipation-pushback-in-iran-as-mediators-work-to-finalise-deal-with-us?traffic_source=rss",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      }
+    },
+    {
+      "id": "aljazeera_5",
+      "agencyId": "aljazeera",
+      "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
+      "title_fa": "حمله اسرائیل به بیروت در همان روزی که ترامپ از امضای توافق با ایران خبر می‌دهد",
+      "lead": "اسرائیل حومه جنوبی بیروت را بمباران کرده و مدعی شده است که زیرساخت‌های حزب‌الله را هدف قرار داده است. این حمله در همان روزی صورت می‌گیرد که ترامپ از احتمال امضای توافق با ایران سخن گفته است، که نشان‌دهنده پیچیدگی وضعیت منطقه است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 10,
+        "negative": 85
+      }
+    },
+    {
+      "id": "aljazeera_6",
+      "agencyId": "aljazeera",
+      "title": "At least three killed as Israel attacks southern Beirut",
+      "title_fa": "حداقل سه کشته در پی حمله اسرائیل به جنوب بیروت",
+      "lead": "اسرائیل به جنوب بیروت حمله کرده که حداقل سه کشته بر جای گذاشته است و همزمان هشدارهایی درباره حملات بیشتر صادر می‌کند. در این میان، ایران بر لزوم گنجاندن لبنان در هرگونه توافق صلح با ایالات متحده تاکید دارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 95
+      }
+    },
+    {
+      "id": "france24_11",
       "agencyId": "france24",
       "title": "G7 meeting begins in France this Monday",
-      "title_fa": "نشست گروه ۷ روز دوشنبه در فرانسه آغاز می‌شود",
-      "lead": "نشست سران گروه ۷ از روز دوشنبه در فرانسه آغاز خواهد شد و انتظار می‌رود رئیس‌جمهور آمریکا با رهبران خاورمیانه دیدار کند. همچنین، جلسه‌ای کاری با رئیس‌جمهور اوکراین نیز در دستور کار قرار دارد.",
+      "title_fa": "نشست گروه ۷ دوشنبه در فرانسه آغاز می‌شود",
+      "lead": "نشست گروه ۷ روز دوشنبه در فرانسه آغاز می‌شود. رئیس‌جمهور آمریکا قرار است در این اجلاس با رهبران خاورمیانه دیدار کند.",
       "category": "diplomacy",
       "region": "global",
       "sourceUrl": "https://www.france24.com/en/video/20260614-g7-meeting-begins-in-france-this-monday",
-      "time": "2 ساعت پیش",
+      "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
-        "impact": "high",
+        "impact": "medium",
         "conflict": false
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
       }
     },
     {
-      "id": "dw_0",
+      "id": "dw_4",
       "agencyId": "dw",
-      "title": "Iran war: Trump, Pakistan tease deal, but doubts remain",
-      "title_fa": "جنگ ایران: ترامپ و پاکستان از توافق صحبت می‌کنند، اما تردیدها باقی است",
-      "lead": "دونالد ترامپ پیشنهاد کرد که یک توافق صلح اولیه ممکن است یکشنبه امضا شود، اما ایران به این زمان‌بندی شک دارد. در همین حال، اسرائیل حملات خود را به لبنان ادامه می‌دهد.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.dw.com/en/iran-war-trump-pakistan-tease-deal-but-doubts-remain/live-77540182?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Ukraine targets Russia's industrial facilities in massive strike",
+      "title_fa": "اوکراین تاسیسات صنعتی روسیه را در یک حمله گسترده هدف قرار داد",
+      "lead": "گزارش‌های تاییدنشده حاکی از آن است که یک کارخانه شیمیایی کلیدی در روسیه هدف قرار گرفته است. در همین حال، نیروی دریایی اوکراین یک تانکر نفتی وابسته به ناوگان سایه روسیه را توقیف کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.dw.com/en/ukraine-targets-russia-s-industrial-facilities-in-massive-strike/a-77542738?maca=en-rss-en-all-1573-xml-mrss",
       "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
@@ -122,59 +230,80 @@
         "conflict": true
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
       }
     },
     {
-      "id": "foreignpolicy_2",
-      "agencyId": "foreignpolicy",
-      "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
-      "title_fa": "انتخاب مجدد نتانیاهو ممکن است به نتیجه جنگ ایران وابسته باشد",
-      "lead": "بنیامین نتانیاهو به اسرائیلی‌ها \"پیروزی کامل\" را وعده داده بود اما در سه جبهه شکست خورده است. نتیجه جنگ ایران می‌تواند بر شانس او برای انتخاب مجدد تاثیر بگذارد.",
+      "id": "dw_6",
+      "agencyId": "dw",
+      "title": "Why is Bulgaria banning arms supplies to Ukraine?",
+      "title_fa": "چرا بلغارستان ارسال تسلیحات به اوکراین را ممنوع می‌کند؟",
+      "lead": "دولت جدید بلغارستان ارسال تسلیحات دولتی به اوکراین را ممنوع کرده است. این اقدام سؤالاتی را درباره انگیزه واقعی آن، به‌ویژه با توجه به تأثیر نداشتن بر صادرات تجاری، ایجاد کرده است.",
       "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/why-is-bulgaria-banning-arms-supplies-to-ukraine/a-77523515?maca=en-rss-en-all-1573-xml-mrss",
       "time": "2 ساعت پیش",
       "newsValues": {
         "timeliness": "high",
-        "impact": "high",
+        "impact": "medium",
         "conflict": true
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      }
-    },
-    {
-      "id": "foreignpolicy_3",
-      "agencyId": "foreignpolicy",
-      "title": "Trump’s Big Weekend Could Derail the G-7",
-      "title_fa": "آخر هفته بزرگ ترامپ می‌تواند نشست گروه ۷ را مختل کند",
-      "lead": "با توافق یا بدون آن، جنگ ایران بر اجلاس سه روزه سران گروه ۷ سایه افکنده است. این موضوع می‌تواند برنامه‌های اجلاس را تحت تاثیر قرار دهد و بحث‌های اصلی را تغییر دهد.",
-      "category": "diplomacy",
-      "region": "global",
-      "sourceUrl": "https://foreignpolicy.com/2026/06/12/trump-iran-war-peace-talks-deal-g7-leaders-summit/",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
       }
     },
     {
       "id": "foreignpolicy_8",
       "agencyId": "foreignpolicy",
+      "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
+      "title_fa": "آینده سیاسی نتانیاهو ممکن است به نتیجه جنگ ایران گره بخورد",
+      "lead": "این مقاله به بررسی این موضوع می‌پردازد که چگونه سرنوشت سیاسی نتانیاهو و احتمال انتخاب مجدد وی به نتیجه نبرد با ایران بستگی دارد. او به اسرائیلی‌ها «پیروزی کامل» را وعده داده بود، اما در سه جبهه به این هدف نرسیده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/",
+      "time": "2 روز پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      }
+    },
+    {
+      "id": "foreignpolicy_9",
+      "agencyId": "foreignpolicy",
+      "title": "Trump’s Big Weekend Could Derail the G-7",
+      "title_fa": "تعطیلات آخر هفته مهم ترامپ می‌تواند نشست گروه 7 را از مسیر خارج کند",
+      "lead": "این مقاله به بررسی این می‌پردازد که چگونه نشست مهم گروه 7 می‌تواند تحت تاثیر برنامه‌های آخر هفته ترامپ قرار گیرد. با یک توافق یا بدون آن، سایه جنگ ایران بر این نشست سه‌روزه رهبران سنگینی می‌کند و پتانسیل برهم زدن آن را دارد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/12/trump-iran-war-peace-talks-deal-g7-leaders-summit/",
+      "time": "2 روز پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      }
+    },
+    {
+      "id": "foreignpolicy_2",
+      "agencyId": "foreignpolicy",
       "title": "Trump Is Shattering the Illusion of the West",
-      "title_fa": "ترامپ توهم غرب را در هم می‌شکند",
-      "lead": "رئیس‌جمهور (ترامپ) با رویکرد تمدنی امپریالیستی خود، آنچه را که ادعا می‌کند از آن دفاع می‌کند، نابود می‌سازد. این رویکرد پیامدهای گسترده‌ای برای روابط بین‌الملل و جایگاه غرب دارد.",
+      "title_fa": "ترامپ در حال درهم شکستن توهم غرب است",
+      "lead": "این مقاله به بررسی تأثیر سیاست‌های دونالد ترامپ بر روابط بین‌الملل و تصور جهانی از غرب می‌پردازد. نویسنده استدلال می‌کند که رویکرد ترامپ به ناسیونالیسم امپریالیستی، آنچه را که ادعا می‌کند از آن دفاع می‌کند، نابود می‌سازد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://foreignpolicy.com/2026/06/12/trump-west-china-rome-civilization-vance-iran-hegseth-russia/",
@@ -182,6 +311,447 @@
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "skynews_11",
+      "agencyId": "skynews",
+      "title": "Five claims from former Palestinian prime minister - and why they matter",
+      "title_fa": "پنج ادعای نخست‌وزیر سابق فلسطین و اهمیت آنها",
+      "lead": "در این گزارش، به بررسی پنج نکته کلیدی مطرح شده توسط محمد اشتیه، نخست‌وزیر سابق فلسطین، پرداخته شده است. این ادعاها بینش‌های مهمی درباره وضعیت کنونی و آینده منطقه غرب آسیا ارائه می‌دهند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/five-claims-from-former-palestinian-prime-minister-mohammad-shtayyeh-and-why-they-matter-13553061",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "title_fa": "ترامپ می‌گوید توافق آمریکا و ایران یکشنبه امضا می‌شود در حالی که تهران زمانبندی را زیر سوال می‌برد",
+      "lead": "رئیس جمهور آمریکا از امضای توافق با ایران در روز یکشنبه خبر داد، اما تهران می‌گوید تاریخ دقیقی هنوز مشخص نشده است. این خبر در مورد توافقی بالقوه بین دو کشور است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      }
+    },
+    {
+      "id": "nytimes_8",
+      "agencyId": "nytimes",
+      "title": "Iran War Live Updates: Israel and Hezbollah Exchange Strikes, Complicating Possible Iran Peace Agreement",
+      "title_fa": "به‌روزرسانی زنده از جنگ ایران: تبادل حملات بین اسرائیل و حزب‌الله، توافق صلح احتمالی ایران را پیچیده می‌کند",
+      "lead": "ارتش اسرائیل پس از متهم کردن حزب‌الله به نقض آتش‌بس، اعلام کرد که به حومه جنوبی بیروت حمله کرده است. این حملات می‌تواند توافق صلح احتمالی با ایران را دشوارتر سازد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "title": "Deadlocked Wars: How Major Powers Misread the Regions They Attacked",
+      "title_fa": "جنگ‌های بن‌بست: چگونه قدرت‌های بزرگ مناطق مورد حمله خود را اشتباه فهمیدند",
+      "lead": "تحلیلگران می‌گویند روسیه و ایالات متحده دیدگاه‌های متمرکز خود را به اوکراین و ایران تحمیل کردند. در نتیجه، کشورهای کوچک‌تر، قدرت‌های بزرگ‌تر را در یک رویارویی پرهزینه به دام انداختند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/06/14/world/europe/us-iran-rusisa-ukraine.html",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      }
+    },
+    {
+      "id": "independent_5",
+      "agencyId": "independent",
+      "title": "Gaza officials say over 73,000 Palestinians killed in conflict as Israel strikes continue despite ceasefire",
+      "title_fa": "مقامات غزه می‌گویند بیش از ۷۳ هزار فلسطینی در درگیری‌ها کشته شده‌اند؛ حملات اسرائیل علیرغم آتش‌بس ادامه دارد",
+      "lead": "به گفته مقامات غزه، بیش از ۷۳ هزار فلسطینی در درگیری‌های اخیر جان خود را از دست داده‌اند. این آمار در حالی اعلام می‌شود که حملات اسرائیل علی‌رغم توافق شکننده آتش‌بس همچنان ادامه دارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.independent.co.uk/news/world/middle-east/palestinian-deaths-israel-strikes-gaza-b2995463.html",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      }
+    },
+    {
+      "id": "rt_8",
+      "agencyId": "rt",
+      "title": "‘Trump screwed us:’ Israeli officials fume over emerging Iran peace deal – media",
+      "title_fa": "مقامات اسرائیلی از توافق صلح احتمالی ایران خشمگین هستند: «ترامپ کار ما را خراب کرد»",
+      "lead": "مقامات اسرائیلی به شدت از یک توافق صلح در حال شکل‌گیری با ایران ابراز خشم و نارضایتی کرده‌اند. آن‌ها معتقدند که اقدامات دولت ترامپ به ضرر منافع اسرائیل در این زمینه تمام شده است.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/641523-trump-screwed-israel-iran-peace-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "rt_1",
+      "agencyId": "rt",
+      "title": "Trump’s Iran deal is ‘lose, lose, lose’ – US congressman",
+      "title_fa": "توافق ایران ترامپ 'باخت، باخت، باخت' است – نماینده کنگره آمریکا",
+      "lead": "یک نماینده کنگره آمریکا، توافق احتمالی ترامپ با ایران را به دلیل عدم منفعت برای هیچ یک از طرفین، یک 'باخت، باخت، باخت' توصیف کرده است. او هشدار می‌دهد که چنین توافقی می‌تواند به جای حل مشکلات، به تشدید آنها منجر شود.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/641518-trump-iran-deal-surrender/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      }
+    },
+    {
+      "id": "xinhua_4",
+      "agencyId": "xinhua",
+      "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
+      "title_fa": "درگیری فلسطینی‌ها با سربازان اسرائیلی پس از اعتراض به سفر پنس",
+      "lead": "پس از اعتراضات فلسطینی‌ها علیه سفر مایک پنس، معاون رئیس‌جمهور آمریکا، درگیری‌هایی میان فلسطینیان و سربازان اسرائیلی به وقوع پیوست. این تنش‌ها در پی افزایش نارضایتی‌ها از سیاست‌های آمریکا در منطقه تشدید شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm",
+      "time": "حدود ۶ سال پیش",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      }
+    },
+    {
+      "id": "mehrnews_0",
+      "agencyId": "mehrnews",
+      "title": "Attack on Dahiyeh shows US has no will to fulfill commitments",
+      "title_fa": "حمله به ضاحیه نشان می‌دهد آمریکا اراده‌ای برای انجام تعهدات خود ندارد",
+      "lead": "رئیس مجلس ایران، محمدباقر قالیباف، اظهار داشته که حمله اسرائیل به ضاحیه بیروت در لبنان حاکی از عدم اراده آمریکا برای انجام تعهداتش است. این اظهارات در واکنش به تجاوزات اخیر رژیم صهیونیستی در منطقه مطرح شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/245333/Attack-on-Dahiyeh-shows-US-has-no-will-to-fulfill-commitments",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      }
+    },
+    {
+      "id": "mehrnews_1",
+      "agencyId": "mehrnews",
+      "title": "Final decision on MoU btw Iran-US under discussion in Iran",
+      "title_fa": "تصمیم نهایی درباره تفاهم‌نامه ایران و آمریکا در ایران در حال بررسی است",
+      "lead": "یک مشاور استراتژیک تیم مذاکره کننده ایران فاش کرده است که تصمیم نهایی در مورد تفاهم‌نامه‌ای بین ایران و ایالات متحده در حال بررسی است. این موضوع نشان‌دهنده تحولات احتمالی در روابط دیپلماتیک دوجانبه است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245332/Final-decision-on-MoU-btw-Iran-US-under-discussion-in-Iran",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      }
+    },
+    {
+      "id": "mehrnews_2",
+      "agencyId": "mehrnews",
+      "title": "VIDEO: Israeli forces bomb Dahiyeh, Beirut in truce violation",
+      "title_fa": "ویدئو: نیروهای اسرائیلی ضاحیه بیروت را در نقض آتش‌بس بمباران کردند",
+      "lead": "رژیم صهیونیستی با وجود آتش‌بس، حملات هوایی خود را در حومه جنوبی بیروت، پایتخت لبنان، از سر گرفت. این اقدام به عنوان نقض آتش‌بس در منطقه مورد محکومیت قرار گرفته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/245331/VIDEO-Israeli-forces-bomb-Dahiyeh-Beirut-in-truce-violation",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      }
+    },
+    {
+      "id": "mehrnews_3",
+      "agencyId": "mehrnews",
+      "title": "Iranian officials united on resistance against threats: Ejei",
+      "title_fa": "اژه‌ای: مقامات ایرانی بر مقاومت در برابر تهدیدات متحد هستند",
+      "lead": "رئیس قوه قضائیه ایران تاکید کرد که تمامی مقامات دولتی در برابر فشارهای خارجی متحد هستند. وی افزود که هیچ اختلافی بر سر ایستادگی در برابر تهدیدات وجود ندارد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245330/Iranian-officials-united-on-resistance-against-threats-Ejei",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      }
+    },
+    {
+      "id": "mehrnews_4",
+      "agencyId": "mehrnews",
+      "title": "Cmdr. stresses self-sufficiency of Iran's air defense equip.",
+      "title_fa": "فرمانده بر خودکفایی تجهیزات پدافند هوایی ایران تاکید کرد",
+      "lead": "فرمانده قرارگاه پدافند هوایی مشترک ایران بر خودکفایی کامل تجهیزات پدافند هوایی کشور تاکید کرد. وی اظهار داشت که تمام تجهیزات پدافند هوایی آسیب‌دیده تعمیر شده‌اند و کشور کاملاً خودکفاست.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245329/Cmdr-stresses-self-sufficiency-of-Iran-s-air-defense-equip",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      }
+    },
+    {
+      "id": "mehrnews_5",
+      "agencyId": "mehrnews",
+      "title": "Israeli regime strikes Beirut in breach of ceasefire (+VIDEO)",
+      "title_fa": "رژیم اسرائیل در نقض آتش‌بس بیروت را هدف حمله قرار داد (+ویدئو)",
+      "lead": "رژیم صهیونیستی بعد از ظهر یکشنبه حمله سنگینی را به حومه ضاحیه بیروت انجام داد. این حمله به وضوح نقض آتش‌بس در منطقه محسوب می‌شود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/245328/Israeli-regime-strikes-Beirut-in-breach-of-ceasefire-VIDEO",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      }
+    },
+    {
+      "id": "mehrnews_6",
+      "agencyId": "mehrnews",
+      "title": "New well lifts South Pars Gas Field's Phase 11 output",
+      "title_fa": "چاه جدید تولید فاز ۱۱ میدان گازی پارس جنوبی را افزایش داد",
+      "lead": "یک چاه تولیدی جدید در فاز ۱۱ میدان گازی پارس جنوبی آنلاین شده است. این امر باعث افزایش تولید از این پروژه به بیش از ۲۶ میلیون متر مکعب گاز غنی در روز شده است.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245327/New-well-lifts-South-Pars-Gas-Field-s-Phase-11-output",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      }
+    },
+    {
+      "id": "mehrnews_7",
+      "agencyId": "mehrnews",
+      "title": "Iran stresses strengthening cooperation with Nigeria",
+      "title_fa": "ایران بر تقویت همکاری با نیجریه تاکید کرد",
+      "lead": "وزیر کشاورزی ایران، غلامرضا نوری قزلجه، بر لزوم گسترش همکاری‌ها با نیجریه در زمینه کشاورزی فراسرزمینی تاکید کرد. این اقدام در راستای توسعه روابط دوجانبه و تامین امنیت غذایی است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/245325/Iran-stresses-strengthening-cooperation-with-Nigeria",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      }
+    },
+    {
+      "id": "khabaronline_8",
+      "agencyId": "khabaronline",
+      "title": "Gold not fully out of trouble / Where will the price of yellow metal go with the reopening of the Strait of Hormuz?",
+      "title_fa": "طلا به طور کامل از مخمصه نجات نیافته/ با بازگشایی تنگه هرمز بهای فلز زرد به کدام سمت می‌رود؟",
+      "lead": "قیمت طلای جهانی پس از سقوط به پایین‌ترین سطوح سال ۲۰۲۶، شاهد بازگشتی قاطع بود. با این حال، مجموعه‌ای از عوامل سیاسی، پولی و تکنیکال نشان می‌دهد که این فلز گرانبها هنوز به‌طور کامل از مخمصه نزولی خارج نشده است و بازگشایی تنگه هرمز می‌تواند بر قیمت آن تأثیر بگذارد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233253/%D8%B7%D9%84%D8%A7-%D8%A8%D9%87-%D8%B7%D9%88%D8%B1-%DA%A9%D8%A7%D9%85%D9%84-%D8%A7%D8%B2-%D9%85%D8%AE%D9%85%D8%B5%D9%87-%D9%86%D8%AC%D8%A7%D8%AA-%D9%86%DB%8C%D8%A7%D9%81%D8%AA%D9%87-%D8%A8%D8%A7-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D9%87%D8%A7%DB%8C",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      }
+    },
+    {
+      "id": "khabaronline_9",
+      "agencyId": "khabaronline",
+      "title": "\"Khone Abi 3\": A group of teenagers' experience in climbing Damavand Peak",
+      "title_fa": "«خونه آبی ۳»؛ تجربه گروهی از نوجوانان در صعود به قله دماوند",
+      "lead": "فصل سوم مجموعه مستند «خونه آبی» با عنوان «دماوند» به زودی و همزمان با سالگرد جنگ ۱۲روزه از شبکه‌های صداوسیما پخش خواهد شد. این مستند تجربه گروهی از نوجوانان را در صعود به قله دماوند به تصویر می‌کشد.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233176/%D8%AE%D9%88%D9%86%D9%87-%D8%A2%D8%A8%DB%8C-%DB%B3-%D8%AA%D8%AC%D8%B1%D8%A8%D9%87-%DA%AF%D8%B1%D9%88%D9%87%DB%8C-%D8%A7%D8%B2-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D9%87-%D9%82%D9%84%D9%87-%D8%AF%D9%85%D8%A7%D9%88%D9%86%D8%AF",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      }
+    },
+    {
+      "id": "khabaronline_10",
+      "agencyId": "khabaronline",
+      "title": "Taj: Our mission was to be in the World Cup in the name of \"Minab168\"",
+      "title_fa": "تاج: رسالت ما حضور در جام جهانی به نام «میناب۱۶۸» بود",
+      "lead": "رئیس فدراسیون فوتبال ایران، مهدی تاج، در پاسخ به خبرنگار نیویورک تایمز یاد ماکان نصیری را زنده کرد. وی اشاره کرد که رسالت تیم ملی فوتبال، حضور در جام جهانی به نام \"میناب۱۶۸\" بوده است که به یک فاجعه انسانی در گذشته اشاره دارد.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233289/%D8%AA%D8%A7%D8%AC-%D8%B1%D8%B3%D8%A7%D9%84%D8%AA-%D9%85%D8%A7-%D8%AD%D8%B6%D9%88%D8%B1-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%86%D8%A7%D9%85-%D9%85%DB%8C%D9%86%D8%A7%D8%A8%D9%A1%DB%B6%DB%B8-%D8%A8%D9%88%D8%AF",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      }
+    },
+    {
+      "id": "khabaronline_11",
+      "agencyId": "khabaronline",
+      "title": "What is the story of the explosion in Bandar Abbas? + Details",
+      "title_fa": "ماجرای انفجار در بندرعباس چیست؟ + جزئیات",
+      "lead": "روابط عمومی سپاه امام سجاد (ع) در اطلاعیه‌ای از اجرای عملیات انهدام مهمات عمل‌نکرده در شهر بندرعباس طی روز دوشنبه ۲۵ خرداد خبر داد. این عملیات با هدف تامین امنیت و پاکسازی مناطق مسکونی از خطر مواد منفجره انجام شده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233284/%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%DA%86%DB%8C%D8%B3%D8%AA-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      }
+    },
+    {
+      "id": "khabaronline_0",
+      "agencyId": "khabaronline",
+      "title": "First Generation Patrol at 2 Million Tomans",
+      "title_fa": "اولین نسل پاترول با قیمت ۲ میلیون تومانی",
+      "lead": "این مطلب به اولین حضور نیسان پاترول در ایران می‌پردازد و نگاهی به تاریخچه عرضه آن دارد. در آن زمان، نسل اول این خودرو با قیمت ۲ میلیون تومان در بازار ایران عرضه شده بود.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233220/%D8%A7%D9%88%D9%84%D9%8A%D9%86-%D9%86%D8%B3%D9%84-%D9%BE%D8%A7%D8%AA%D8%B1%D9%88%D9%84-%D8%A8%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%DB%B2-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AA%D9%88%D9%85%D8%A7%D9%86%DB%8C",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "low",
         "conflict": false
       },
       "sentiment": {
@@ -191,45 +761,171 @@
       }
     },
     {
-      "id": "skynews_2",
-      "agencyId": "skynews",
-      "title": "Ukraine's strikes on Crimea refineries and pipelines spark worst fuel crisis on peninsula since 2014",
-      "title_fa": "حملات اوکراین به پالایشگاه‌ها و خطوط لوله کریمه بدترین بحران سوخت در این شبه‌جزیره از سال ۲۰۱۴ را برانگیخته است",
-      "lead": "حملات مداوم اوکراین به تأسیسات سوخت در کریمه، بدترین بحران سوخت را در این شبه‌جزیره تحت کنترل روسیه از زمان الحاق غیرقانونی آن در سال ۲۰۱۴ ایجاد کرده است. این بحران نشان‌دهنده تشدید درگیری‌ها و تأثیرات آن بر زیرساخت‌های انرژی منطقه است.",
-      "category": "military",
-      "region": "eurasia",
-      "sourceUrl": "https://news.sky.com/story/ukraines-strikes-on-crimea-refineries-and-pipelines-spark-worst-fuel-crisis-on-peninsula-since-2014-13553252",
-      "time": "2 ساعت پیش",
+      "id": "khabaronline_1",
+      "agencyId": "khabaronline",
+      "title": "Netanyahu congratulated Trump on his birthday after the attack on Dahiyeh",
+      "title_fa": "نتانیاهو پس از حمله به ضاحیه تولد ترامپ را تبریک گفت",
+      "lead": "نخست‌وزیر رژیم صهیونیستی بلافاصله پس از هدف قرار دادن ضاحیه جنوبی بیروت، تولد رئیس‌جمهور سابق آمریکا، دونالد ترامپ، را تبریک گفت. این اقدام با توجه به شرایط ملتهب منطقه و حمله اخیر در لبنان، حامل پیام‌های سیاسی و دیپلماتیک خاصی است.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233290/%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%B6%D8%A7%D8%AD%DB%8C%D9%87-%D8%AA%D9%88%D9%84%D8%AF-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B1%D8%A7-%D8%AA%D8%A8%D8%B1%DB%8C%DA%A9-%DA%AF%D9%81%D8%AA",
+      "time": "دقایقی پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 5,
-        "neutral": 15,
-        "negative": 80
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
       }
     },
     {
-      "id": "skynews_3",
-      "agencyId": "skynews",
-      "title": "Risk of 'very strong' El Nino raising global temperatures, scientists warn",
-      "title_fa": "دانشمندان هشدار می‌دهند: خطر \"ال‌نینو\" بسیار قوی که دمای جهانی را افزایش می‌دهد",
-      "lead": "پیش‌بینی‌کنندگان می‌گویند خطر وقوع یک پدیده \"ال‌نینو\" بسیار قوی وجود دارد که معمولاً منجر به افزایش دمای جهانی و خشکسالی در برخی مناطق و بارندگی شدید در مناطق دیگر می‌شود. این پدیده می‌تواند اثرات گسترده‌ای بر اقلیم و منابع آبی در خاورمیانه داشته باشد.",
-      "category": "environment",
-      "region": "global",
-      "sourceUrl": "https://news.sky.com/story/risk-of-very-strong-el-nino-raising-global-temperatures-scientists-warn-13553053",
-      "time": "2 ساعت پیش",
+      "id": "khabaronline_2",
+      "agencyId": "khabaronline",
+      "title": "Ghadir: A Truth Beyond History, A Covenant Beyond Politics",
+      "title_fa": "غدیر؛ حقیقتی فراتر از تاریخ، پیمانی فراتر از سیاست",
+      "lead": "این مقاله به بررسی اهمیت واقعه غدیر خم می‌پردازد که در فرهنگ و دین اسلام، به ویژه برای شیعیان، از جایگاه والایی برخوردار است. نویسنده غدیر را فراتر از یک رویداد تاریخی صرف، نقطه تلاقی آسمان و زمین و لحظه‌ای سرنوشت‌ساز برای هدایت امت اسلامی توصیف می‌کند.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2231409/%D8%BA%D8%AF%DB%8C%D8%B1-%D8%AD%D9%82%DB%8C%D9%82%D8%AA%DB%8C-%D9%81%D8%B1%D8%A7%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D9%BE%DB%8C%D9%85%D8%A7%D9%86%DB%8C-%D9%81%D8%B1%D8%A7%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      }
+    },
+    {
+      "id": "khabaronline_3",
+      "agencyId": "khabaronline",
+      "title": "Saeid Marouf's Unbelievable Secret Revealed!",
+      "title_fa": "راز باورنکردنی سعید معروف لو رفت!",
+      "lead": "یک خبر مهم و باورنکردنی درباره سعید معروف، اسطوره والیبال ایران، در لحظات پایانی پیش از انتشار عمومی خنثی شد. جزئیات این \"راز\" هنوز فاش نشده و کنجکاوی بسیاری را برانگیخته است.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233285/%D8%B1%D8%A7%D8%B2-%D8%A8%D8%A7%D9%88%D8%B1%D9%86%DA%A9%D8%B1%D8%AF%D9%86%DB%8C-%D8%B3%D8%B9%DB%8C%D8%AF-%D9%85%D8%B9%D8%B1%D9%88%D9%81-%D9%84%D9%88-%D8%B1%D9%81%D8%AA",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      }
+    },
+    {
+      "id": "mashregh_4",
+      "agencyId": "mashregh",
+      "title": "Somaliland President Enters Occupied Palestinian Territories",
+      "title_fa": "رئیس سومالی‌لند وارد اراضی اشغالی فلسطین شد",
+      "lead": "منابع عبری زبان از ورود رئیس سومالی‌لند به اراضی اشغالی فلسطین در قالب یک سفر دو روزه خبر دادند. این بازدید دیپلماتیک با توجه به وضعیت منطقه و عدم به رسمیت شناخته شدن بین‌المللی سومالی‌لند، از اهمیت ویژه‌ای برخوردار است.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818384/%D8%B1%D8%A6%DB%8C%D8%B3-%D8%B3%D9%88%D9%85%D8%A7%D9%84%DB%8C-%D9%84%D9%86%D8%AF-%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D8%B1%D8%A7%D8%B6%DB%8C-%D8%A7%D8%B4%D8%BA%D8%A7%D9%84%DB%8C-%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86-%D8%B4%D8%AF",
+      "time": "دقایقی پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": false
       },
       "sentiment": {
-        "positive": 5,
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      }
+    },
+    {
+      "id": "mashregh_5",
+      "agencyId": "mashregh",
+      "title": "Card-Based Services Activated in Bank Tejarat",
+      "title_fa": "ارائه خدمات مبتنی بر کارت در بانک‌تجارت فعال شد",
+      "lead": "ارائه خدمات مبتنی بر کارت در بانک تجارت طی کمتر از ۲۴ ساعت با موفقیت فعال شده است. این اقدام گامی مهم در راستای توسعه بانکداری الکترونیک و تسهیل دسترسی مشتریان به خدمات مالی در ایران محسوب می‌شود.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818387/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D8%A8%D8%AA%D9%86%DB%8C-%D8%A8%D8%B1-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%AF%D8%B1-%D8%A8%D8%A7%D9%86%DA%A9-%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA-%D9%81%D8%B9%D8%A7%D9%84-%D8%B4%D8%AF",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      }
+    },
+    {
+      "id": "mashregh_7",
+      "agencyId": "mashregh",
+      "title": "Latest Statistics on Casualties from Israeli Attacks on Gaza",
+      "title_fa": "جدیدترین آمار شهدا و مجروحان ناشی از حملات رژیم صهیونیستی به غزه",
+      "lead": "وزارت بهداشت فلسطین در غزه، جدیدترین آمار شهدا و مجروحان حملات رژیم صهیونیستی به نوار غزه از ۷ اکتبر ۲۰۲۳ را اعلام کرد. بر اساس این گزارش، شمار قربانیان و مجروحان این حملات به ده‌ها هزار نفر رسیده است که ابعاد فاجعه‌بار انسانی در منطقه را نشان می‌دهد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818373/%D8%AC%D8%AF%DB%8C%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%A2%D9%85%D8%A7%D8%B1-%D8%B4%D9%87%D8%AF%D8%A7-%D9%88-%D9%85%D8%AC%D8%B1%D9%88%D8%AD%D8%A7%D9%86-%D9%86%D8%A7%D8%B4%DB%8C-%D8%A7%D8%B2-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D9%87",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
         "neutral": 20,
-        "negative": 75
+        "negative": 80
+      }
+    },
+    {
+      "id": "mashregh_8",
+      "agencyId": "mashregh",
+      "title": "German Space Commander: Russia on the Verge of Building Orbital Nuclear Weapon",
+      "title_fa": "فرمانده فضایی آلمان: روسیه در آستانه ساخت سلاح هسته‌ای مداری است",
+      "lead": "فرمانده واحد فرماندهی فضایی ارتش آلمان هشدار داده است که روسیه احتمالا در آستانه دستیابی به توانمندی انفجار سلاح هسته‌ای در مدار پایین زمین قرار دارد. این اظهارات نگرانی‌های عمیقی را در مورد افزایش رقابت تسلیحاتی در فضا و تهدید امنیت جهانی برانگیخته است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818374/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D9%81%D8%B6%D8%A7%DB%8C%DB%8C-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%B3%D8%AA%D9%87-%D8%A7%DB%8C-%D9%85%D8%AF%D8%A7%D8%B1%DB%8C",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      }
+    },
+    {
+      "id": "mashregh_11",
+      "agencyId": "mashregh",
+      "title": "Renewed Israeli Aggression on Beirut Also Carried Out with US Green Light",
+      "title_fa": "تجاوز مجدد رژیم صهیونیستی به بیروت نیز با چراغ سبز آمریکا انجام شد",
+      "lead": "منابع خبری تأکید کرده‌اند که حمله مجدد رژیم صهیونیستی به ضاحیه جنوبی بیروت با تأیید و چراغ سبز آمریکا صورت گرفته است. این مسئله به معنای حمایت ضمنی واشنگتن از اقدامات نظامی اسرائیل در لبنان است و می‌تواند به تشدید بیشتر تنش‌ها در خاورمیانه دامن بزند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818378/%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D9%85%D8%AC%D8%AF%D8%AF-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D9%87-%D8%A8%DB%8C%D8%B1%D9%88%D8%AA-%D9%86%DB%8C%D8%B2-%D8%A8%D8%A7-%DA%86%D8%B1%D8%A7%D8%BA-%D8%B3%D8%A8%D8%B2-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D9%86%D8%AC%D8%A7%D9%85",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
       }
     }
   ]
