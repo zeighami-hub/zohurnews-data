@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-15T08:37:56.584Z",
-  "total": 75,
-  "new_this_cycle": 58,
+  "generated_at": "2026-06-15T10:37:24.990Z",
+  "total": 79,
+  "new_this_cycle": 56,
   "agencies": [
     {
       "id": "aljazeera",
@@ -101,11 +101,11 @@
   ],
   "articles": [
     {
-      "id": "aljazeera_1_1678886400",
+      "id": "aljazeera_1_1700000000",
       "agencyId": "aljazeera",
-      "title": "US, Iran announce ceasefire agreement",
-      "title_fa": "آمریکا و ایران توافقنامه آتش‌بس را اعلام کردند",
-      "lead": "رئیس‌جمهور آمریکا، دونالد ترامپ، از توافق آتش‌بس با ایران خبر داد. این توافق به توقف درگیری‌ها بین دو کشور منجر خواهد شد.",
+      "title": "BREAKING: US, Iran announce ceasefire agreement",
+      "title_fa": "فوری: آمریکا و ایران توافق آتش‌بس را اعلام کردند",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، از توافق آتش‌بس با ایران خبر داد. این توافق به پایان خصومت‌ها میان دو کشور اشاره دارد و می‌تواند گامی مهم در کاهش تنش‌های منطقه‌ای باشد.",
       "category": "diplomacy",
       "region": "middleeast",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss",
@@ -116,18 +116,18 @@
         "conflict": false
       },
       "sentiment": {
-        "positive": 60,
+        "positive": 70,
         "neutral": 20,
-        "negative": 20
+        "negative": 10
       },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
     },
     {
-      "id": "aljazeera_2_1678886400",
+      "id": "aljazeera_2_1700000000",
       "agencyId": "aljazeera",
       "title": "US-Iran ‘peace deal’ announced, Trump says Strait of Hormuz reopening",
-      "title_fa": "ترامپ اعلام کرد: «توافق صلح» آمریکا و ایران و بازگشایی تنگه هرمز",
-      "lead": "ترامپ اعلام کرد که یک توافق آتش‌بس با ایران به دست آمده است. او افزود که تنگه هرمز برای کشتیرانی بازگشایی خواهد شد و این گامی مهم در منطقه است.",
+      "title_fa": "اعلام \"توافق صلح\" آمریکا و ایران؛ ترامپ می‌گوید تنگه هرمز بازگشایی می‌شود",
+      "lead": "ترامپ اعلام کرد که توافق آتش‌بس با ایران حاصل شده و تنگه هرمز برای کشتیرانی بازگشایی خواهد شد. این تحول نشان‌دهنده کاهش قابل توجه تنش‌ها و بازگشت ثبات به آبراه‌های حیاتی منطقه است.",
       "category": "diplomacy",
       "region": "middleeast",
       "sourceUrl": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss",
@@ -139,17 +139,17 @@
       },
       "sentiment": {
         "positive": 70,
-        "neutral": 10,
-        "negative": 20
+        "neutral": 20,
+        "negative": 10
       },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
     },
     {
-      "id": "aljazeera_7_1678886400",
+      "id": "aljazeera_7_1700000000",
       "agencyId": "aljazeera",
       "title": "Gaza mourns four killed in Israeli strike",
-      "title_fa": "غزه سوگوار چهار کشته در حمله اسرائیل",
-      "lead": "صدای شیون و عزا در شهر غزه برای چهار فلسطینی که نزدیک اردوگاه آوارگان جبالیا کشته شدند، طنین‌انداز شد. این حادثه در شمال غزه رخ داده است.",
+      "title_fa": "غزه در سوگ چهار کشته در حمله اسرائیل",
+      "lead": "فریادهای عزا در شهر غزه برای چهار فلسطینی که در نزدیکی اردوگاه پناهندگان جبالیا کشته شدند، طنین‌انداز شد. این حادثه غم‌انگیز بر شدت درگیری‌ها و رنج‌های انسانی در منطقه می‌افزاید.",
       "category": "military",
       "region": "middleeast",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
@@ -160,18 +160,18 @@
         "conflict": true
       },
       "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
       },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
     },
     {
-      "id": "france24_8_1678886400",
+      "id": "france24_8_1700000000",
       "agencyId": "france24",
       "title": "US, Iran reach deal to end war",
-      "title_fa": "آمریکا و ایران به توافق برای پایان دادن به جنگ دست یافتند",
-      "lead": "ایالات متحده و ایران بر سر یک توافق صلح و پایان \"فوری و دائمی\" عملیات نظامی در تمامی جبهه‌ها از جمله لبنان به توافق رسیدند. پاکستان به عنوان میانجی این خبر را اعلام کرد.",
+      "title_fa": "آمریکا و ایران برای پایان دادن به جنگ به توافق رسیدند",
+      "lead": "ایالات متحده و ایران به توافق صلح و \"پایان فوری و دائمی\" عملیات نظامی در تمامی جبهه‌ها از جمله لبنان دست یافتند. این خبر توسط میانجی‌گر، پاکستان، اعلام شد و نویدبخش کاهش درگیری‌ها و صلح پایدار در منطقه است.",
       "category": "diplomacy",
       "region": "middleeast",
       "sourceUrl": "https://www.france24.com/en/us-iran-reach-deal-to-end-war",
@@ -183,17 +183,17 @@
       },
       "sentiment": {
         "positive": 70,
-        "neutral": 10,
-        "negative": 20
+        "neutral": 20,
+        "negative": 10
       },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
     },
     {
-      "id": "france24_11_1678886400",
+      "id": "france24_11_1700000000",
       "agencyId": "france24",
       "title": "Pakistan's prime minister says US and Iran have reached ceasefire deal",
-      "title_fa": "نخست‌وزیر پاکستان از توافق آتش‌بس آمریکا و ایران خبر داد",
-      "lead": "نخست‌وزیر پاکستان اعلام کرد که آمریکا و ایران به توافق آتش‌بس دست یافته‌اند. این خبر تأییدی بر گزارش‌های قبلی در مورد پایان درگیری‌هاست.",
+      "title_fa": "نخست‌وزیر پاکستان می‌گوید آمریکا و ایران به توافق آتش‌بس رسیده‌اند",
+      "lead": "نخست‌وزیر پاکستان اعلام کرد که آمریکا و ایران به توافق آتش‌بس دست یافته‌اند. این اظهارات تأییدی بر پایان درگیری‌ها و نقش پاکستان در میانجی‌گری برای صلح میان دو کشور است.",
       "category": "diplomacy",
       "region": "middleeast",
       "sourceUrl": "https://www.france24.com/en/middle-east/20260614-middle-east-war-live-trump-says-iran-deal-to-be-signed-sunday",
@@ -204,62 +204,62 @@
         "conflict": false
       },
       "sentiment": {
-        "positive": 60,
+        "positive": 70,
         "neutral": 20,
-        "negative": 20
+        "negative": 10
       },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
     },
     {
-      "id": "france24_0_1718300000",
+      "id": "france24_0_1718395200",
       "agencyId": "france24",
       "title": "Iran’s World Cup team arrive in United States",
-      "title_fa": "تیم ملی فوتبال ایران وارد آمریکا شد",
-      "lead": "تیم ملی فوتبال ایران روز یکشنبه پس از پروازی کوتاه از مکزیک، وارد فرودگاه بین‌المللی لس‌آنجلس در آمریکا شد. این اولین بار است که تیم ملی برای جام جهانی در خاک آمریکا حضور می‌یابد.",
+      "title_fa": "تیم ملی فوتبال ایران وارد ایالات متحده شد",
+      "lead": "تیم ملی فوتبال ایران پس از پروازی کوتاه از کمپ تمرینی خود در مکزیک، روز یکشنبه وارد فرودگاه بین‌المللی لس آنجلس در ایالات متحده شد. این اولین بار است که تیم ملی ایران برای جام جهانی به آمریکا سفر می‌کند.",
       "category": "culture",
-      "region": "iran",
+      "region": "global",
       "sourceUrl": "https://www.france24.com/en/sport/20260614-iran-world-cup-team-arrive-united-states-los-angeles-warusa",
-      "time": "چند لحظه پیش",
+      "time": "امروز",
       "newsValues": {
         "timeliness": "high",
         "impact": "low",
         "conflict": false
       },
       "sentiment": {
-        "positive": 40,
-        "neutral": 60,
+        "positive": 60,
+        "neutral": 40,
         "negative": 0
       },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
     },
     {
-      "id": "dw_4_1718300000",
+      "id": "dw_4_1718395200",
       "agencyId": "dw",
       "title": "Leaders of Germany, the UK, France, Italy and Qatar welcome US-Iran peace deal announcement",
       "title_fa": "رهبران آلمان، بریتانیا، فرانسه، ایتالیا و قطر از اعلام توافق صلح آمریکا و ایران استقبال کردند",
-      "lead": "شهباز شریف، نخست‌وزیر پاکستان، از توافق صلح بین آمریکا و ایران خبر داده است که مراسم امضای آن در ۱۹ ژوئن برگزار می‌شود. شریف گفت که هر دو طرف عملیات نظامی از جمله در لبنان را متوقف خواهند کرد و رهبران چندین کشور از این توافق استقبال کرده‌اند.",
+      "lead": "شهباز شریف، نخست وزیر پاکستان، از توافق صلح بین ایالات متحده و ایران خبر داد که مراسم امضای آن در تاریخ ۱۹ ژوئن برگزار خواهد شد. شریف گفت که هر دو طرف عملیات نظامی، از جمله در لبنان، را متوقف خواهند کرد.",
       "category": "diplomacy",
-      "region": "iran",
+      "region": "global",
       "sourceUrl": "https://www.dw.com/en/leaders-of-germany-the-uk-france-italy-and-qatar-welcome-us-iran-peace-deal-announcement/live-77540182?maca=en-rss-en-all-1573-xml-mrss",
-      "time": "چند لحظه پیش",
+      "time": "امروز",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
-        "conflict": true
+        "conflict": false
       },
       "sentiment": {
-        "positive": 85,
-        "neutral": 10,
-        "negative": 5
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
       },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
     },
     {
-      "id": "foreignpolicy_8_1781299200",
+      "id": "foreignpolicy_8_1781251200",
       "agencyId": "foreignpolicy",
       "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
-      "title_fa": "انتخاب مجدد نتانیاهو ممکن است به نتیجه جنگ ایران بستگی داشته باشد",
-      "lead": "بنیامین نتانیاهو به اسرائیلی‌ها وعده «پیروزی کامل» داده بود، اما در سه جبهه اصلی تاکنون موفق نبوده است. سرنوشت سیاسی او اکنون ممکن است به پیامدهای احتمالی جنگ با ایران گره خورده باشد.",
+      "title_fa": "انتخاب مجدد نتانیاهو ممکن است به نتیجه جنگ ایران گره بخورد",
+      "lead": "بنیامین نتانیاهو به اسرائیلی‌ها «پیروزی کامل» را وعده داده بود، اما در سه جبهه اصلی به این وعده عمل نکرده است. آینده سیاسی او به شدت به نحوه مدیریت بحران منطقه‌ای و جنگ احتمالی با ایران بستگی دارد.",
       "category": "politics",
       "region": "middleeast",
       "sourceUrl": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/",
@@ -270,18 +270,18 @@
         "conflict": true
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
       },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
     },
     {
-      "id": "foreignpolicy_9_1781299200",
+      "id": "foreignpolicy_9_1781251200",
       "agencyId": "foreignpolicy",
       "title": "Trump’s Big Weekend Could Derail the G-7",
-      "title_fa": "آخر هفته مهم ترامپ می‌تواند نشست گروه هفت را مختل کند",
-      "lead": "چه با توافق و چه بدون آن، سایه «جنگ ایران» به شدت بر نشست سه‌روزه سران گروه هفت سنگینی می‌کند. این وضعیت می‌تواند مذاکرات و اهداف نشست را تحت تاثیر قرار دهد.",
+      "title_fa": "آخر هفته مهم ترامپ می‌تواند نشست گروه هفت را به انحراف بکشاند",
+      "lead": "با وجود یا بدون توافق، «جنگ ایران» سایه بزرگی بر نشست سه روزه سران گروه هفت افکنده است. این رویداد مهم دیپلماتیک می‌تواند تحت تأثیر اقدامات و تصمیمات احتمالی ترامپ قرار گیرد.",
       "category": "diplomacy",
       "region": "global",
       "sourceUrl": "https://foreignpolicy.com/2026/06/12/trump-iran-war-peace-talks-deal-g7-leaders-summit/",
@@ -292,11 +292,1045 @@
         "conflict": true
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
       },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "bbc_6_20240723120000",
+      "agencyId": "bbc",
+      "title": "Fifa to pay Somali referee Artan full World Cup fee",
+      "title_fa": "فیفا دستمزد کامل داور سومالیایی آرتان را پرداخت می‌کند",
+      "lead": "فیفا اعلام کرد که عمر آرتان، داور سومالیایی که از ورود به ایالات متحده برای قضاوت در جام جهانی منع شده بود، همچنان دستمزد کامل خود را دریافت خواهد کرد. این اقدام پس از آن صورت می‌گیرد که وی علی‌رغم عدم حضور در مسابقات، شایسته دریافت حق‌الزحمه کامل شناخته شد.",
+      "category": "culture",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "nytimes_8_20240723120000",
+      "agencyId": "nytimes",
+      "title": "Trump Announces Cease-Fire Agreement in Iran War",
+      "title_fa": "ترامپ توافق آتش‌بس در جنگ ایران را اعلام کرد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، از توافق آتش‌بسی ۶۰ روزه در جنگ ایران خبر داد. این توافق شامل بازگشایی تنگه هرمز و به تعویق انداختن مسائل هسته‌ای به زمانی دیگر است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "nytimes_0_20240515100000",
+      "agencyId": "nytimes",
+      "title": "Deadlocked Wars: How Major Powers Misread the Regions They Attacked",
+      "title_fa": "جنگ‌های بن‌بست: چگونه قدرت‌های بزرگ مناطقی را که به آن‌ها حمله کردند، اشتباه درک کردند",
+      "lead": "تحلیلگران می‌گویند آمریکا و روسیه دیدگاه‌های متمرکز خود را بر اوکراین و ایران تحمیل کردند. در نتیجه، این کشورهای کوچکتر توانستند قدرت‌های بزرگتر را در یک رویارویی پرهزینه گرفتار کنند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/06/14/world/europe/us-iran-russia-ukraine.html",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "rt_8_20240520101500",
+      "agencyId": "rt",
+      "title": "US and Iran agree on peace roadmap, signal reopening of Strait of Hormuz: Live updates",
+      "title_fa": "آمریکا و ایران بر سر نقشه راه صلح توافق کردند، سیگنال بازگشایی تنگه هرمز: به‌روزرسانی‌های زنده",
+      "lead": "آمریکا و ایران بر سر نقشه راه صلح به توافق رسیده‌اند و سیگنال‌هایی مبنی بر بازگشایی تنگه هرمز ارسال کرده‌اند. انتظار می‌رود این دو کشور اواخر این هفته توافقنامه صلح را در سوئیس امضا کنند.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/641542-iran-peace-deal-updates/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 10,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "rt_9_20240520101501",
+      "agencyId": "rt",
+      "title": "US-Iran deal ‘now complete’ – Trump",
+      "title_fa": "ترامپ: توافق آمریکا و ایران «اکنون تکمیل شده است»",
+      "lead": "دونالد ترامپ اعلام کرد که توافق میان آمریکا و ایران «اکنون تکمیل شده است». پاکستان به عنوان میانجی خبر داد که این توافق صلح روز جمعه در سوئیس امضا خواهد شد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/641532-us-iran-deal-reached/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "rt_11_20240520101502",
+      "agencyId": "rt",
+      "title": "US-Israeli ‘good cop, bad cop’ tactics outdated – Iran’s chief negotiator",
+      "title_fa": "مذاکره‌کننده ارشد ایران: تاکتیک‌های «پلیس خوب، پلیس بد» آمریکا و اسرائیل منسوخ شده است",
+      "lead": "محمد قالیباف، مذاکره‌کننده ارشد ایران، پس از حمله مرگبار اسرائیل به بیروت، اعلام کرد که تاکتیک‌های «پلیس خوب، پلیس بد» آمریکا و اسرائیل منسوخ شده‌اند. او این رویکرد را ناکارآمد و قدیمی می‌داند.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/641527-us-israel-good-bad-cop/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "rt_1_20240613100000",
+      "agencyId": "rt",
+      "title": "‘Trump screwed us:’ Israeli officials fume over emerging Iran peace deal – media",
+      "title_fa": "مقامات اسرائیلی از توافق صلح هسته‌ای ایران خشمگین هستند – رسانه ها",
+      "lead": "مقامات اسرائیلی توافق صلح هسته‌ای ایران را «فاجعه» می‌خوانند. آنها ادعا می‌کنند که ترامپ «مایه دردسر» اورشلیم غربی شده است.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/641523-trump-screwed-israel-iran-peace-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "xinhua_4_20180124000000",
+      "agencyId": "xinhua",
+      "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
+      "title_fa": "درگیری فلسطینیان با سربازان اسرائیلی پس از اعتراض به سفر پنس",
+      "lead": "معترضان فلسطینی در کرانه باختری، پس از تظاهرات علیه سفر مایک پنس، معاون رئیس‌جمهور آمریکا، با سربازان اسرائیلی درگیر شدند. این درگیری‌ها در شهرهای قدس و الخلیل در ژانویه 2018 رخ داده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm",
+      "time": "6 سال پیش",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "irna_fa_0_1701388800",
+      "agencyId": "irna_fa",
+      "title": "Reuters Reports Oil Price Drop After Iran-US Agreement",
+      "title_fa": "رویترز از کاهش قیمت نفت پس از توافق میان ایران و آمریکا خبر داد",
+      "lead": "خبرگزاری رویترز گزارش داده که پس از اعلام توافق میان تهران و ایالات متحده، قیمت نفت خام در روز دوشنبه بیش از چهار درصد کاهش یافته است. این کاهش نشان‌دهنده تاثیر مسائل سیاسی بر بازارهای جهانی انرژی است.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86182851/%D8%B1%D9%88%DB%8C%D8%AA%D8%B1%D8%B2-%D8%A7%D8%B2-%DA%A9%D8%A7%D8%B4%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%85%DB%8C%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AE%D8%A8%D8%B1-%D8%AF%D8%A7%D8%AF",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "irna_fa_4_1701388800",
+      "agencyId": "irna_fa",
+      "title": "Four European Countries Give Green Light to Lifting Anti-Iran Sanctions",
+      "title_fa": "چراغ سبز چهار کشور اروپایی به رفع تحریم‌های ضد ایرانی",
+      "lead": "چهار کشور اروپایی بریتانیا، فرانسه، آلمان و ایتالیا از توافق ایران و ایالات متحده استقبال کرده و آمادگی خود را برای برداشتن گام‌هایی مرتبط با برنامه هسته‌ای ایران اعلام کردند. این بیانیه مشترک نشان‌دهنده تغییر در رویکرد اروپا نسبت به تحریم‌هاست.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86182876/%DA%86%D8%B1%D8%A7%D8%BA-%D8%B3%D8%A8%D8%B2-%DA%86%D9%87%D8%A7%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D8%B1%D9%81%D8%B9-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D8%B6%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "irna_fa_6_1701388800",
+      "agencyId": "irna_fa",
+      "title": "UN Secretary-General Welcomes Iran-US Agreement",
+      "title_fa": "دبیرکل سازمان ملل از دستیابی ایران و آمریکا به توافق استقبال کرد",
+      "lead": "آنتونیو گوترش، دبیرکل سازمان ملل، از توافق صلح میان ایالات متحده و ایران که شامل آتش‌بس فوری و دائمی است، استقبال کرده است. این توافق نشان‌دهنده گامی مثبت در جهت کاهش تنش‌ها و برقراری ثبات در منطقه است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.irna.ir/news/86182875/%D8%AF%D8%A8%DB%8C%D8%B1%DA%A9%D9%84-%D8%B3%D8%A7%D9%85%D8%A7%D9%86-%D9%85%D9%84%D9%84-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 15,
+        "negative": 5
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "irna_fa_7_1701388800",
+      "agencyId": "irna_fa",
+      "title": "Qatar: Memorandum of Understanding Between Washington and Tehran a Step Towards Peace",
+      "title_fa": "قطر: یادداشت تفاهم میان واشنگتن و تهران گامی در راستای برقراری صلح است",
+      "lead": "وزارت خارجه قطر یادداشت تفاهم بین واشنگتن و تهران را گامی مهم برای برقراری صلح و تقویت رشد اقتصادی در منطقه توصیف کرد. این بیانیه بر اهمیت همکاری‌های منطقه‌ای برای ثبات و توسعه تاکید دارد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.irna.ir/news/86182865/%D9%82%D8%B7%D8%B1-%DB%8C%D8%A7%D8%AF%D8%AF%D8%A7%D8%B4%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%DB%8C%D8%A7%D9%86-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D9%88-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%AF%D8%A7%D9%85%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C-%D8%A8%D8%B1%D9%82%D8%B1%D8%A7%D8%B1%DB%8C",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 75,
+        "neutral": 20,
+        "negative": 5
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "irna_en_8_1701388800",
+      "agencyId": "irna_en",
+      "title": "Iran Warns US, Israel of Consequences for Aggression Against Lebanon",
+      "title_fa": "ایران به آمریکا و اسرائیل درباره عواقب ادامه تجاوز به لبنان هشدار داد",
+      "lead": "وزارت امور خارجه ایران حمله هوایی اسرائیل به منطقه ضاحیه بیروت را محکوم کرد و هشدار داد که ایالات متحده و اسرائیل مسئولیت پیامدهای خطرناک آن را بر عهده خواهند داشت. این هشدار بر افزایش تنش‌ها در منطقه و نقش ایران در حمایت از لبنان تاکید دارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.irna.ir/news/86182805/Iran-warns-US-Israel-of-consequences-of-continued-aggression",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "irna_en_9_1701388800",
+      "agencyId": "irna_en",
+      "title": "Ghalibaf: Resistance and Iran's Diplomacy Will End Israeli Attacks on Lebanon",
+      "title_fa": "قالیباف: مبارزان مقاومت و دیپلماسی ایران به حملات اسرائیل به لبنان پایان خواهند داد",
+      "lead": "محمدباقر قالیباف، رئیس مجلس ایران، با صدور هشداری شدید به اسرائیل اعلام کرد که فداکاری مبارزان لبنانی و دیپلماسی قدرتمند ایران، لبنان را تضمین خواهد کرد. این اظهارات در پی حمله هوایی اسرائیل به بیروت، بر نقش ایران و گروه‌های مقاومت در واکنش به تجاوزات تاکید دارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.irna.ir/news/86182795/Resistance-fighters-and-Iran-s-diplomacy-will-end-Israeli-attacks",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 20,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "irna_en_10_1701388800",
+      "agencyId": "irna_en",
+      "title": "Quds Force Commander: Hezbollah Victory Over 'Vile' Israeli Regime Inevitable",
+      "title_fa": "فرمانده نیروی قدس: پیروزی حزب‌الله بر رژیم «پلید» اسرائیل فرا خواهد رسید",
+      "lead": "سردار سرتیپ اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، اعلام کرد که پیروزی حزب‌الله بر رژیم «پلید صهیونیستی» حتمی است. این اظهارات پس از حمله هوایی اسرائیل به بیروت، نشان‌دهنده حمایت قاطع ایران از گروه‌های مقاومت در منطقه است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.irna.ir/news/86182787/Hezbollah-victory-over-vile-Israeli-regime-will-come-Quds",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 10,
+        "negative": 80
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "irna_en_11_1701388800",
+      "agencyId": "irna_en",
+      "title": "Iran's SNSC Chief Warns 'Red Lines' Violation in Beirut Strike Will Not Be Tolerated",
+      "title_fa": "رئیس شورای عالی امنیت ملی ایران هشدار داد که نقض «خطوط قرمز» در حمله اسرائیل به بیروت تحمل نخواهد شد",
+      "lead": "دبیر شورای عالی امنیت ملی ایران اعلام کرد که «پاسخ در راه است» پس از حمله هوایی اسرائیل به ضاحیه جنوبی بیروت، و هشدار داد که نقض «خطوط قرمز» تحمل نخواهد شد. این بیانیه نشان‌دهنده موضع قاطع ایران در برابر تجاوزات منطقه‌ای و احتمال واکنش‌های آتی است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.irna.ir/news/86182748/Israeli-strike-on-Beirut-Iran-s-SNSC-chief-warns-violation-of",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 15,
+        "negative": 80
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "irna_en_0_1718467201",
+      "agencyId": "irna_en",
+      "title": "IRGC Aerospace chief calls for preserving sacred national unity",
+      "title_fa": "فرمانده هوافضای سپاه خواستار حفظ وحدت ملی مقدس شد",
+      "lead": "فرمانده نیروی هوافضای سپاه پاسداران انقلاب اسلامی، سرتیپ مجید موسوی، در پیامی از ملت ایران خواست تا وحدت و همبستگی خود را حفظ کنند. این فراخوان در شرایط کنونی کشور، بر اهمیت اتحاد داخلی تاکید دارد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.irna.ir/news/86182707/IRGC-Aerospace-chief-calls-for-preserving-sacred-national-unity",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "irna_en_1_1718467202",
+      "agencyId": "irna_en",
+      "title": "Iran’s Armed Forces have ‘finger on trigger,’ top commander says after Israeli attack on Beirut",
+      "title_fa": "فرمانده ارشد ایران پس از حمله اسرائیل به بیروت: نیروهای مسلح ایران «انگشت بر ماشه» دارند",
+      "lead": "یک فرمانده ارشد ایرانی اعلام کرد که نیروهای مسلح ایران قدرتمندتر از همیشه بوده و «انگشت بر ماشه» دارند و آماده ضربه زدن به قلب دشمن هستند. او هشدار داد که هرگونه اشتباه دشمن با پاسخ قاطع مواجه خواهد شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.irna.ir/news/86182715/Iran-s-Armed-Forces-have-finger-on-trigger-top-commander-says",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "irna_en_2_1718467203",
+      "agencyId": "irna_en",
+      "title": "War, negotiation decisions in Iran rest with leadership, SNSC: Pezeshkian",
+      "title_fa": "پزشکیان: تصمیم‌گیری درباره جنگ و مذاکره در ایران با رهبری و شورای عالی امنیت ملی است",
+      "lead": "رئیس‌جمهور مسعود پزشکیان تاکید کرد که تصمیم‌گیری در مورد جنگ و مذاکره تحت اختیارات رهبری و شورای عالی امنیت ملی (SNSC) است. او این موضوع را به عنوان یک اصل اساسی در ساختار حکومتی ایران مطرح کرد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.irna.ir/news/86182672/War-negotiation-decisions-in-Iran-rest-with-leadership-SNSC",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "mehrnews_4_1718467204",
+      "agencyId": "mehrnews",
+      "title": "Pakistan says Iran, US reach peace deal",
+      "title_fa": "پاکستان می‌گوید ایران و آمریکا به توافق صلح رسیده‌اند",
+      "lead": "شهباز شریف، نخست‌وزیر پاکستان، اعلام کرد که ایران و ایالات متحده آمریکا روز دوشنبه به یک توافق صلح دست یافته‌اند. این خبر حاکی از پیشرفت دیپلماتیک مهمی بین دو کشور است که روابط پرتنشی دارند.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/245340/Islamabad-says-Iran-US-reach-peace-deal",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "mehrnews_5_1718467205",
+      "agencyId": "mehrnews",
+      "title": "Iran FM blasts Israeli strike on Beirut’s Dahiyah district",
+      "title_fa": "وزیر خارجه ایران حمله اسرائیل به ضاحیه بیروت را محکوم کرد",
+      "lead": "وزارت امور خارجه ایران حمله نظامی اسرائیل به منطقه مسکونی ضاحیه در جنوب بیروت را به شدت محکوم کرد. این وزارتخانه این حمله را تروریستی خواند و بر لزوم واکنش بین‌المللی تاکید کرد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/245339/Iran-FM-blasts-Israeli-strike-on-Beirut-s-Dahiyah-district",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "mehrnews_6_1718467206",
+      "agencyId": "mehrnews",
+      "title": "Missile launchers are getting prepared, Velayati says",
+      "title_fa": "ولایتی: پرتابگرهای موشکی در حال آماده‌سازی هستند",
+      "lead": "علی اکبر ولایتی، مشاور رهبر انقلاب، در واکنش به تجاوز رژیم اسرائیل به بیروت، اعلام کرد که لحظه صفر فرا رسیده است. او اشاره کرد که پرتابگرهای موشکی در حال آماده‌سازی هستند و به تهدیدات اسرائیل پاسخ داده خواهد شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/245338/Missiles-launchers-are-getting-prepared-Velayati-says",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 15,
+        "negative": 80
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "mehrnews_7_1718467207",
+      "agencyId": "mehrnews",
+      "title": "Lebanon is not alone, Ghalibaf warns Zionist regime",
+      "title_fa": "قالیباف هشدار داد: لبنان تنها نیست",
+      "lead": "محمدباقر قالیباف، رئیس مجلس ایران و سرپرست تیم مذاکره‌کننده ایرانی، تجاوز رژیم صهیونیستی به لبنان را محکوم کرد. او تاکید کرد که لبنان در برابر این تجاوزات تنها نیست و ایران از آن حمایت می‌کند.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/245337/Lebanon-is-not-alone-Ghalibaf-warns-Zionist-regime",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 15,
+        "neutral": 25,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "mehrnews_8_1718467208",
+      "agencyId": "mehrnews",
+      "title": "Hezbollah victory over Zionists definite thing: Gen. Ghaani",
+      "title_fa": "سردار قاآنی: پیروزی حزب‌الله بر صهیونیست‌ها قطعی است",
+      "lead": "فرمانده نیروی قدس سپاه پاسداران انقلاب اسلامی، سردار قاآنی، ضمن محکوم کردن سازش مقامات لبنانی در مورد منافع ملی‌شان، تاکید کرد که پیروزی حزب‌الله بر صهیونیست‌ها قطعی است. او بر حمایت ایران از مقاومت تاکید ورزید.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/245336/Hezbolah-victory-over-Zionists-definite-thinf-Gen-Ghaani",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 20,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "mehrnews_9_1718467209",
+      "agencyId": "mehrnews",
+      "title": "Iran cannot stand violations of Lebanese ceasefire",
+      "title_fa": "ایران نمی‌تواند نقض آتش‌بس لبنان را تحمل کند",
+      "lead": "دبیر شورای عالی امنیت ملی ایران تجاوز اسرائیل به بیروت را محکوم کرد و تاکید نمود که عبور از خطوط قرمز ایران قابل تحمل نیست. او هشدار داد که ایران نسبت به نقض آتش‌بس در لبنان بی‌تفاوت نخواهد بود.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/245335/Iranian-armed-forces-cannot-stand-violation-of-ceasefire",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "mehrnews_10_1718467210",
+      "agencyId": "mehrnews",
+      "title": "Revenge for Leader's martyrdom to never be forgotten: Gen.",
+      "title_fa": "انتقام شهادت رهبر هرگز فراموش نخواهد شد: ژنرال",
+      "lead": "فرمانده قرارگاه مرکزی خاتم الانبیا ایران اظهار داشت که نیروهای مسلح ایران کاملاً آماده پاسخگویی به هرگونه اقدام خصمانه هستند. او تاکید کرد که انتقام شهادت رهبر هرگز فراموش نخواهد شد و باید به آن رسیدگی شود.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245334/Revenge-for-Leader-s-martyrdom-to-never-be-forgotten-Gen",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 15,
+        "negative": 80
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "mehrnews_11_1718467211",
+      "agencyId": "mehrnews",
+      "title": "Attack on Dahiyeh shows US has no will to fulfill commitments",
+      "title_fa": "قالیباف: حمله به ضاحیه نشان‌دهنده عدم تمایل آمریکا به انجام تعهدات است",
+      "lead": "محمدباقر قالیباف، رئیس مجلس ایران، اظهار داشت که تجاوز اسرائیل به ضاحیه بیروت در لبنان نشان‌دهنده عدم تمایل ایالات متحده به انجام تعهداتش است. او این حمله را به عنوان دلیلی بر بی‌اعتمادی به نقش آمریکا در منطقه دانست.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/245333/Attack-on-Dahiyeh-shows-US-has-no-will-to-fulfill-commitments",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 15,
+        "negative": 80
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "khabaronline_0_1701000000",
+      "agencyId": "khabaronline",
+      "title": "Trump: Netanyahu is very stubborn; he should thank me / If negotiations fail, we will take 20% of Middle East revenue and become its guardian",
+      "title_fa": "ترامپ: نتانیاهو خیلی لجباز است؛ باید از من متشکر باشد / اگر مذاکرات شکست بخورد ۲۰ درصد درآمد خاورمیانه را می‌گیریم و نگهبانش می‌شویم",
+      "lead": "رئیس جمهور آمریکا در گفت‌وگویی با نیویورک تایمز پس از نهایی شدن یادداشت تفاهم پایان جنگ با ایران به شدت از نخست‌وزیر اسرائیل انتقاد کرد و او را لجباز خطاب کرد. وی همچنین تهدید کرد که اگر مذاکرات شکست بخورد، ایالات متحده ۲۰ درصد از درآمد خاورمیانه را تصاحب کرده و نگهبان آن خواهد شد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233442/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%AE%DB%8C%D9%84%DB%8C-%D9%84%D8%AC%D8%A8%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A7%D8%B2-%D9%85%D9%86-%D9%85%D8%AA%D8%B4%DA%A9%D8%B1-%D8%A8%D8%A7%D8%B4%D8%AF-%D8%A7%DA%AF%D8%B1-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "khabaronline_1_1701000001",
+      "agencyId": "khabaronline",
+      "title": "Four European countries greenlight lifting of anti-Iran sanctions",
+      "title_fa": "چراغ سبز چهار کشور اروپایی به رفع تحریم‌های ضد ایرانی",
+      "lead": "چهار کشور اروپایی انگلیس، فرانسه، آلمان و ایتالیا با صدور بیانیه‌ای مشترک از توافق ایران و ایالات متحده استقبال کردند. آنها اعلام کردند که آماده‌اند در برابر گام‌های مرتبط با برنامه هسته‌ای ایران، تحریم‌های ضد ایرانی را لغو کنند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233441/%DA%86%D8%B1%D8%A7%D8%BA-%D8%B3%D8%A8%D8%B2-%DA%86%D9%87%D8%A7%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D9%88%D8%B1%D9%88%D9%BE%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D8%B1%D9%81%D8%B9-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D8%B6%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "khabaronline_2_1701000002",
+      "agencyId": "khabaronline",
+      "title": "URGENT / Iran and US declare end of war / Geneva awaits signing of historic memorandum of understanding on Friday + details",
+      "title_fa": "فوری / ایران و آمریکا پایان جنگ را اعلام کردند / ژنو، جمعه در انتظار امضای تفاهم‌نامه تاریخی + جزئیات",
+      "lead": "شهباز شریف، نخست وزیر پاکستان، اعلام کرد که یادداشت تفاهم پایان تجاوز نظامی اسرائیل و آمریکا علیه ایران رسماً نهایی شده است. انتظار می‌رود این تفاهم‌نامه تاریخی روز جمعه در ژنو به امضا برسد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/live/2233440/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%B1%D8%B3%D9%85%DB%8C-%D8%AC%D9%86%DA%A9-%D8%A8%D8%A7-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%86%D8%A7%D9%85%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%88-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "khabaronline_3_1701000003",
+      "agencyId": "khabaronline",
+      "title": "Starmer calls Iran-US agreement an important step for regional stability",
+      "title_fa": "استارمر توافق ایران و آمریکا را گامی مهم برای ثبات منطقه دانست",
+      "lead": "کی‌یر استارمر، نخست‌وزیر انگلیس، با صدور بیانیه‌ای از توافق ایران و آمریکا استقبال کرد. وی این توافق را گامی مهم برای پایان جنگ و تضمین ثبات منطقه دانست.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233439/%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D9%85%D8%B1-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%A7-%DA%AF%D8%A7%D9%85%DB%8C-%D9%85%D9%87%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AB%D8%A8%D8%A7%D8%AA-%D9%88%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%AF%D8%A7%D9%86%D8%B3%D8%AA",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "khabaronline_4_1701000004",
+      "agencyId": "khabaronline",
+      "title": "Qatar welcomes memorandum of understanding between Iran and US",
+      "title_fa": "استقبال قطر از یادداشت تفاهم حاصل شده بین ایران و آمریکا",
+      "lead": "وزیر خارجه قطر اعلام کرد که یادداشت تفاهم محقق شده بین واشنگتن و تهران را گامی مهم می‌داند. وی این توافق را در جهت تحکیم صلح و ارتقای رشد اقتصادی منطقه‌ای دانست.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233438/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D9%82%D8%B7%D8%B1-%D8%A7%D8%B2-%DB%8C%D8%A7%D8%AF%D8%AF%D8%A7%D8%B4%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%AD%D8%A7%D8%B5%D9%84-%D8%B4%D8%AF%D9%87-%D8%A8%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "khabaronline_5_1701000005",
+      "agencyId": "khabaronline",
+      "title": "Details of Iran-US memorandum of understanding",
+      "title_fa": "جزئیاتی از یادداشت تفاهم ایران و آمریکا",
+      "lead": "پس از اعلام نخست‌وزیر پاکستان درباره تفاهم‌نامه ایران و آمریکا برای پایان جنگ در تمام جبهه‌ها، اسلام‌آباد جزئیات این یادداشت تفاهم را منتشر کرد. این جزئیات به ابعاد توافق صورت گرفته بین دو کشور می‌پردازد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233437/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B2-%DB%8C%D8%A7%D8%AF%D8%AF%D8%A7%D8%B4%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%AD%D8%A7%D8%B5%D9%84-%D8%B4%D8%AF%D9%87-%D8%A8%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "khabaronline_6_1701000006",
+      "agencyId": "khabaronline",
+      "title": "URGENT / Statement by Supreme National Security Council following Iran-US agreement / War ends on all fronts, including Lebanon",
+      "title_fa": "فوری/ بیانیه شورای عالی امنیت ملی در پی توافق میان ایران و آمریکا/ جنگ در تمام جبهه‌ها از جمله لبنان تمام شد",
+      "lead": "شورای عالی امنیت ملی ایران در پی توافق با آمریکا بیانیه‌ای صادر کرد. بر اساس این بیانیه، جنگ و عملیات نظامی در تمامی جبهه‌ها، از جمله لبنان، از امشب به صورت فوری و دائمی پایان یافته و محاصره دریایی علیه ایران نیز لغو شده است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233436/%D9%81%D9%88%D8%B1%DB%8C-%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D9%84%DB%8C-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%85%DB%8C%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "khabaronline_7_1701000007",
+      "agencyId": "khabaronline",
+      "title": "Trump confirms: Iran's commitments will begin Friday / I am the first president to make real peace with Iran",
+      "title_fa": "ترامپ تائید کرد؛ تعهدات ایران از روز جمعه آغاز خواهد شد / من اولین رئیس جمهوری هستم که با ایران صلح واقعی کردم",
+      "lead": "رئیس جمهور آمریکا، دونالد ترامپ، تایید کرد که تعهدات ایران از روز جمعه آغاز خواهد شد و خود را اولین رئیس جمهوری دانست که با ایران صلح واقعی برقرار کرده است. وی همچنین به بازگشایی تنگه هرمز در روز جمعه اشاره کرد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2233434/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%B1%D9%88%D8%B2-%D8%AC%D9%85%D8%B9%D9%87-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%B4%D8%AF-%D9%85%D9%86-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "mashregh_9_1701000008",
+      "agencyId": "mashregh",
+      "title": "Important details of Qalibaf's last-minute concessions from Trump",
+      "title_fa": "جزئیات مهم از امتیازگیری لحظه آخری قالیباف از ترامپ",
+      "lead": "همزمان با آمادگی نیروهای مسلح ایران برای عملیات تنبیهی در پاسخ به تجاوز رژیم صهیونیستی به ضاحیه بیروت، ترامپ مجبور شد امتیازات ویژه‌ای با میانجیگری طرف قطری بدهد. این گزارش به جزئیات امتیازگیری لحظه آخری قالیباف از ترامپ می‌پردازد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818474/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D9%85%D9%87%D9%85-%D8%A7%D8%B2-%D8%A7%D9%85%D8%AA%DB%8C%D8%A7%D8%B2%DA%AF%DB%8C%D8%B1%DB%8C-%D9%84%D8%AD%D8%B8%D9%87-%D8%A2%D8%AE%D8%B1%DB%8C-%D9%82%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%81-%D8%A7%D8%B2-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "mashregh_11_1701000009",
+      "agencyId": "mashregh",
+      "title": "Popular support for field and diplomacy yielded results: Washington surrendered to Iran's demands / Initial understanding to end the war achieved / Pakistan PM: MoU to be signed Friday / First $3 billion shipment arrived in Tehran",
+      "title_fa": "پشتیبانی مردم از میدان و دیپلماسی نتیجه داد: واشنگتن تسلیم خواسته‌های ایران شد/ تفاهم اولیه پایان جنگ حاصل شد/ نخست وزیر پاکستان: امضای تفاهم روز جمعه انجام خواهد شد/ نخستین محموله ۳ میلیارد دلاری وارد تهران شده است",
+      "lead": "منابع رسمی گزارش دادند که واشنگتن تسلیم خواسته‌های ایران شده و تفاهم اولیه پایان جنگ نهایی گردیده است. نخست وزیر پاکستان اعلام کرده که امضای تفاهم‌نامه روز جمعه انجام خواهد شد و اولین محموله ۳ میلیارد دلاری نیز وارد تهران شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818461/%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%A7%D8%B2-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%88-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%D9%86%D8%AA%DB%8C%D8%AC%D9%87-%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D8%AA%D8%B3%D9%84%DB%8C%D9%85-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C",
+      "time": "۱ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "mashregh_2_1700000000",
+      "agencyId": "mashregh",
+      "title": "National Security Council Statement on Iran-US War-End Understanding; War and Military Operations in All Fronts, Including Lebanon, End Immediately and Permanently Tonight",
+      "title_fa": "بیانیه شورای عالی امنیت ملی درباره تفاهم پایان جنگ بین ایران و آمریکا/ جنگ و عملیات نظامی در تمامی جبهه‌ها از جمله لبنان از امشب به صورت فوری و دائمی پایان یافت",
+      "lead": "جمهوری اسلامی ایران در پرتو راهبری رهبر شهید خویش، تفوق خود در برابر دشمن امریکایی صهیونی را تکمیل کرد. در پی این تفاهم، جنگ و عملیات نظامی در تمامی جبهه‌ها از جمله لبنان از امشب به صورت فوری و دائمی پایان یافت.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818472/%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D9%84%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-%D8%A8%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 10,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "mashregh_3_1700000000",
+      "agencyId": "mashregh",
+      "title": "Giuliani's Strange Remarks: We Had Good Intentions Towards the Iranian National Team!",
+      "title_fa": "اظهارات عجیب جولیانی: در قبال تیم ملی ایران حسن نیت داشتیم!",
+      "lead": "مدیر اجرایی گروه ویژه فیفا در کاخ سفید، اقدام دولت آمریکا در قبال ایران را نشانه حُسن نیت کشورش دانست. این اظهارات پس از یک دوره تنش بین دو کشور مطرح شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818471/%D8%A7%D8%B8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AC%DB%8C%D8%A8-%D8%AC%D9%88%D9%84%DB%8C%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%82%D8%A8%D8%A7%D9%84-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AD%D8%B3%D9%86-%D9%86%DB%8C%D8%AA-%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C%D9%85",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "isna_4_1700000000",
+      "agencyId": "isna",
+      "title": "Trump: It is Very Difficult to Get Along with Netanyahu",
+      "title_fa": "ترامپ: کنار آمدن با نتانیاهو بسیار دشوار است",
+      "lead": "دونالد ترامپ پس از اعلام توافق پایان جنگ گفت: کنار آمدن با نتانیاهو بسیار دشوار است و او باید از ایالات متحده سپاسگزار باشد. این اظهارات به تنش‌های دیرینه میان واشنگتن و تل‌آویو، به ویژه پس از توافق صلح اخیر اشاره دارد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.isna.ir/news/1405032514611/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%DA%A9%D9%86%D8%A7%D8%B1-%D8%A2%D9%85%D8%AF%D9%86-%D8%A8%D8%A7-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%AF%D8%B4%D9%88%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "isna_5_1700000000",
+      "agencyId": "isna",
+      "title": "Belgium Coach: We Do Not Underestimate Egypt/ Salah is Still Exceptional",
+      "title_fa": "سرمربی بلژیک: مصر را دست کم نمی‌گیریم/ صلاح هنوز هم فوق‌العاده است",
+      "lead": "رودی گارسیا، سرمربی تیم ملی بلژیک، در آستانه دیدار حساس مقابل مصر ضمن هشدار درباره حریف آفریقایی، تأکید کرد که تیم‌های مدعی در بازی‌های افتتاحیه این دوره دچار مشکل شده‌اند. او همچنین تأکید کرد که بازیکنانی نظیر صلاح همچنان در اوج آمادگی قرار دارند.",
+      "category": "culture",
+      "region": "middleeast",
+      "sourceUrl": "https://www.isna.ir/news/1405032514610/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%A8%D9%84%DA%98%DB%8C%DA%A9-%D9%85%D8%B5%D8%B1-%D8%B1%D8%A7-%D8%AF%D8%B3%D8%AA-%DA%A9%D9%85-%D9%86%D9%85%DB%8C-%DA%AF%DB%8C%D8%B1%DB%8C%D9%85-%D8%B5%D9%84%D8%A7%D8%AD-%D9%87%D9%86%D9%88%D8%B2-%D9%87%D9%85-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%87",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "isna_6_1700000000",
+      "agencyId": "isna",
+      "title": "Graham's Reaction to the War-End Agreement",
+      "title_fa": "واکنش گراهام به توافق پایان جنگ",
+      "lead": "سناتور لیندسی گراهام در واکنش به توافق پایان جنگ بین ایران و آمریکا در ایکس نوشت: از شنیدن توافق با ایران برای باز شدن تنگه هرمز خوشحالم. این توافق به عنوان گامی مهم در کاهش تنش‌های منطقه تلقی می‌شود.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032514609/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%DA%AF%D8%B1%D8%A7%D9%87%D8%A7%D9%85-%D8%A8%D9%87-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AC%D9%86%DA%AF",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "isna_7_1700000000",
+      "agencyId": "isna",
+      "title": "Guterres Welcomes Iran-US Agreement",
+      "title_fa": "استقبال گوترش از توافق ایران و آمریکا",
+      "lead": "دبیرکل سازمان ملل توافق پایان جنگ بین ایران و آمریکا را «گامی تعیین‌کننده» به سوی صلح توصیف کرد. این استقبال نشان‌دهنده اهمیت جهانی این تفاهم در کاهش تنش‌ها است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.isna.ir/news/1405032514608/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%DA%AF%D9%88%D8%AA%D8%B1%D8%B4-%D8%A7%D8%B2-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "isna_8_1700000000",
+      "agencyId": "isna",
+      "title": "Celebrations and Joy Among People of South Lebanon Following Announcement of War-End Agreement",
+      "title_fa": "جشن و خوشحالی مردم جنوب لبنان در پی اعلام توافق پایان جنگ",
+      "lead": "پس از اعلام حصول تفاهم بین ایران و آمریکا مردم جنوب لبنان توافق آتش‌بس حاصل شده به لطف شرایط تحمیلی ایران به آمریکایی‌ها را جشن گرفتند. این جشن‌ها نشان‌دهنده امید به برقراری صلح پایدار در منطقه است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.isna.ir/news/1405032514607/%D8%AC%D8%B4%D9%86-%D9%88-%D8%AE%D9%88%D8%B4%D8%AD%D8%A7%D9%84%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AC%D9%86%DA%AF",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "isna_9_1700000000",
+      "agencyId": "isna",
+      "title": "Leaders of Four European Countries Support Understanding Between Iran and US",
+      "title_fa": "حمایت رهبران چهار کشور اروپایی از حصول تفاهم بین ایران و آمریکا",
+      "lead": "رهبران بریتانیا، فرانسه، آلمان و ایتالیا در بیانیه‌ای مشترک اعلام کردند: ما از یادداشت تفاهم بین واشنگتن و تهران استقبال می‌کنیم و به همه میانجیگران، از جمله قطر و پاکستان، تبریک می‌گوییم. این حمایت بین‌المللی بر اهمیت این توافق برای ثبات منطقه‌ای و جهانی تأکید دارد.",
+      "category": "diplomacy",
+      "region": "europe",
+      "sourceUrl": "https://www.isna.ir/news/1405032514606/%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%B1%D9%87%D8%A8%D8%B1%D8%A7%D9%86-%DA%86%D9%87%D8%A7%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AD%D8%B5%D9%88%D9%84-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%A8%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "isna_10_1700000000",
+      "agencyId": "isna",
+      "title": "Taremi: We Aim to Make All Iranian People Happy",
+      "title_fa": "طارمی: دنبال شاد کردن همه مردم ایران هستیم",
+      "lead": "ملی‌پوش فوتبال ایران در نشست خبری قبل از دیدار با نیوزیلند گفت: با فوتبال، کشور متمدن ایران را متحدتر می‌کنیم. این اظهارات روحیه اتحاد و امید را در میان مردم ایران تقویت می‌کند.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032514605/%D8%B7%D8%A7%D8%B1%D9%85%DB%8C-%D8%AF%D9%86%D8%A8%D9%84-%D8%B4%D8%A7%D8%AF-%DA%A9%D8%B1%D8%AF%D9%86-%D9%87%D9%85%D9%87-%D9%85%D8%B1%D8%AF%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D8%B3%D8%AA%DB%8C%D9%85",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
+    },
+    {
+      "id": "isna_11_1700000000",
+      "agencyId": "isna",
+      "title": "Vance (or Pence) to Travel to Geneva for Iran Agreement Signing",
+      "title_fa": "ونس برای امضا توافق با ایران به ژنو می‌رود",
+      "lead": "معاون ترامپ امروز دوشنبه پس از حصول تفاهم بین ایران و آمریکا اعلام کرد که برای شرکت در امضای توافق با ایران به ژنو سفر خواهد کرد. این اقدام نشان‌دهنده مرحله نهایی و رسمی شدن توافق صلح است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032514604/%D9%88%D9%86%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D8%B6%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%DA%98%D9%86%D9%88-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T10:37:24.591Z"
     },
     {
       "id": "foreignpolicy_2_1718294400",
@@ -343,160 +1377,6 @@
       "analyzed_at": "2026-06-15T08:37:56.485Z"
     },
     {
-      "id": "nytimes_8_1701198000",
-      "agencyId": "nytimes",
-      "title": "Iran War Live Updates: Trump Announces Cease-Fire Agreement",
-      "title_fa": "اخبار فوری جنگ ایران: ترامپ از توافق آتش‌بس خبر داد",
-      "lead": "مقامات اعلام کردند که این توافق جنگ را برای ۶۰ روز متوقف می‌کند و تنگه هرمز را بازگشایی خواهد کرد. در عین حال، مسائل حساس هسته‌ای برای زمانی دیگر باقی می‌ماند.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 40,
-        "negative": 20
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "nytimes_0_20260614000000",
-      "agencyId": "nytimes",
-      "title": "Deadlocked Wars: How Major Powers Misread the Regions They Attacked",
-      "title_fa": "جنگ‌های بن‌بست: چگونه قدرت‌های بزرگ مناطقی را که به آن‌ها حمله کردند، اشتباه درک کردند",
-      "lead": "تحلیلگران می‌گویند روسیه و ایالات متحده دیدگاه‌های متمرکز خود را به اوکراین و ایران تحمیل کردند. این امر منجر به درگیری‌های پرهزینه و بن‌بست‌های نظامی شده است که کشورهای کوچک‌تر را به دام انداخته است.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.nytimes.com/2026/06/14/world/europe/us-iran-russia-ukraine.html",
-      "time": "امروز",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "rt_8_1720800000",
-      "agencyId": "rt",
-      "title": "US and Iran agree on peace roadmap, signal reopening of Strait of Hormuz: Live updates",
-      "title_fa": "آمریکا و ایران بر سر نقشه راه صلح به توافق رسیدند، سیگنال بازگشایی تنگه هرمز: به‌روزرسانی‌های زنده",
-      "lead": "ایالات متحده و ایران در آستانه امضای توافقنامه صلح در اواخر این هفته در سوئیس هستند. این توافق شامل بازگشایی تنگه هرمز است که یک گذرگاه آبی استراتژیک محسوب می‌شود.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.rt.com/news/641542-iran-peace-deal-updates/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 10,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "rt_9_1720800000",
-      "agencyId": "rt",
-      "title": "US-Iran deal ‘now complete’ – Trump",
-      "title_fa": "«توافق آمریکا و ایران اکنون کامل شده است» – ترامپ",
-      "lead": "پاکستان به عنوان میانجی اعلام کرده است که توافق صلح بین آمریکا و ایران روز جمعه در سوئیس امضا خواهد شد. این خبر توسط دونالد ترامپ نیز تأیید شده است که معامله را «اکنون کامل» خوانده است.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.rt.com/news/641532-us-iran-deal-reached/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 85,
-        "neutral": 5,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "rt_11_1720800000",
-      "agencyId": "rt",
-      "title": "US-Israeli ‘good cop, bad cop’ tactics outdated – Iran’s chief negotiator",
-      "title_fa": "«تاکتیک‌های پلیس خوب، پلیس بد آمریکا و اسرائیل منسوخ شده است» – مذاکره کننده ارشد ایران",
-      "lead": "محمد قالیباف، مذاکره‌کننده ارشد ایران، پس از حمله مرگبار اسرائیل به بیروت، اعلام کرد که تاکتیک‌های «پلیس خوب، پلیس بد» آمریکا و اسرائیل منسوخ شده است. این اظهارات در بحبوحه تنش‌های منطقه و مذاکرات جاری مطرح شده است.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.rt.com/news/641527-us-israel-good-bad-cop/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 5,
-        "neutral": 30,
-        "negative": 65
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "rt_1_20240615123000",
-      "agencyId": "rt",
-      "title": "‘Trump screwed us:’ Israeli officials fume over emerging Iran peace deal – media",
-      "title_fa": "خشم مقامات اسرائیلی از توافق صلح هسته‌ای ایران: «ترامپ ما را خراب کرد»",
-      "lead": "مقامات اسرائیلی توافق صلح در حال ظهور با ایران را «فاجعه» خوانده‌اند و شکایت می‌کنند که ترامپ «اورشلیم غربی» را به مشکل انداخته است. این خشم و اعتراضات طبق گزارش یدیعوت آحارونوت منتشر شده است.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.rt.com/news/641523-trump-screwed-israel-iran-peace-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "xinhua_4_20240615123000",
-      "agencyId": "xinhua",
-      "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
-      "title_fa": "درگیری فلسطینیان با سربازان اسرائیلی پس از اعتراض به سفر پنس",
-      "lead": "معترضان فلسطینی در شهر الخلیل واقع در کرانه باختری، پس از تظاهراتی علیه سفر معاون رئیس‌جمهور آمریکا، مایک پنس، به اورشلیم، با سربازان اسرائیلی درگیر شدند. در این درگیری‌ها، معترضان فلسطینی به سمت سربازان اسرائیلی سنگ پرتاب کردند.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
       "id": "irna_fa_0_1678886400",
       "agencyId": "irna_fa",
       "title": "Reuters reports oil price drop after Iran-US agreement",
@@ -536,28 +1416,6 @@
       "sentiment": {
         "positive": 70,
         "neutral": 20,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "irna_fa_4_1678886400",
-      "agencyId": "irna_fa",
-      "title": "Four European countries give green light to lifting anti-Iran sanctions",
-      "title_fa": "چراغ سبز چهار کشور اروپایی به رفع تحریم‌های ضد ایرانی",
-      "lead": "چهار کشور اروپایی انگلیس، فرانسه، آلمان و ایتالیا با صدور بیانیه‌ای مشترک از توافق ایران و ایالات متحده استقبال کردند. آنها اعلام آمادگی کرده‌اند تا در برابر گام‌های مرتبط با برنامه هسته‌ای ایران، به رفع تحریم‌ها بپردازند.",
-      "category": "diplomacy",
-      "region": "iran,europe",
-      "sourceUrl": "https://www.irna.ir/news/86182876/%DA%86%D8%B1%D8%A7%D8%BA-%D8%B3%D8%A8%D8%B2-%DA%86%D9%87%D8%A7%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D8%B1%D9%81%D8%B9-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D8%B6%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 30,
         "negative": 10
       },
       "analyzed_at": "2026-06-15T08:37:56.485Z"
@@ -607,182 +1465,6 @@
       "analyzed_at": "2026-06-15T08:37:56.485Z"
     },
     {
-      "id": "irna_fa_7_1678886400",
-      "agencyId": "irna_fa",
-      "title": "Qatar: Memorandum of Understanding between Washington and Tehran is a step towards peace",
-      "title_fa": "قطر: یادداشت تفاهم میان واشنگتن و تهران گامی در راستای برقراری صلح است",
-      "lead": "وزارت خارجه قطر در بیانیه‌ای یادداشت تفاهم میان واشنگتن و تهران را گامی مهم در جهت برقراری صلح ارزیابی کرد. همچنین این توافق را برای تقویت رشد اقتصادی در منطقه حائز اهمیت دانست.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.irna.ir/news/86182865/%D9%82%D8%B7%D8%B1-%DB%8C%D8%A7%D8%AF%D8%AF%D8%A7%D8%B4%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%85%DB%8C%D8%A7%D9%86-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D9%88-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%AF%D8%A7%D9%85%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C-%D8%A8%D8%B1%D9%82%D8%B1%D8%A7%D8%B1%DB%8C",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 30,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "irna_en_8_1678886400",
-      "agencyId": "irna_en",
-      "title": "Iran warns US, Israel of ‘consequences’ of continued aggression against Lebanon",
-      "title_fa": "ایران به آمریکا و اسرائیل درباره «پیامدهای» تداوم تجاوز به لبنان هشدار داد",
-      "lead": "وزارت امور خارجه ایران حمله هوایی اسرائیل به منطقه ضاحیه بیروت را به شدت محکوم کرد. این وزارتخانه هشدار داد که ایالات متحده و اسرائیل مسئولیت پیامدهای خطرناک تداوم تجاوز به لبنان را بر عهده خواهند داشت.",
-      "category": "military",
-      "region": "west_asia",
-      "sourceUrl": "https://en.irna.ir/news/86182805/Iran-warns-US-Israel-of-consequences-of-continued-aggression",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "irna_en_9_1678886400",
-      "agencyId": "irna_en",
-      "title": "Resistance fighters and Iran’s diplomacy will end Israeli attacks on Lebanon: Ghalibaf",
-      "title_fa": "قالیباف: مبارزان مقاومت و دیپلماسی ایران به حملات اسرائیل به لبنان پایان خواهند داد",
-      "lead": "محمدباقر قالیباف، رئیس مجلس ایران، هشدار تندی به اسرائیل داد و تاکید کرد که فداکاری مبارزان لبنانی و دیپلماسی قدرتمند ایران به حملات اسرائیل به لبنان پایان خواهد داد. وی این اظهارات را در راستای حمایت از مقاومت لبنان بیان کرد.",
-      "category": "military",
-      "region": "west_asia",
-      "sourceUrl": "https://en.irna.ir/news/86182795/Resistance-fighters-and-Iran-s-diplomacy-will-end-Israeli-attacks",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 30,
-        "negative": 50
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "irna_en_10_1678886400",
-      "agencyId": "irna_en",
-      "title": "Hezbollah victory over ‘vile’ Israeli regime will come: Quds Force commander",
-      "title_fa": "فرمانده نیروی قدس: پیروزی حزب‌الله بر رژیم «پلید» اسرائیل فرا خواهد رسید",
-      "lead": "سردار سرتیپ اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران، اعلام کرد که پیروزی حزب‌الله بر \"رژیم پلید صهیونیستی\" فرا خواهد رسید. این سخنان پس از حمله اسرائیل به بیروت و در حمایت از حزب‌الله بیان شد.",
-      "category": "military",
-      "region": "west_asia",
-      "sourceUrl": "https://en.irna.ir/news/86182787/Hezbollah-victory-over-vile-Israeli-regime-will-come-Quds",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "irna_en_11_1678886400",
-      "agencyId": "irna_en",
-      "title": "Israeli strike on Beirut: Iran’s SNSC chief warns violation of ‘red lines’ will not be tolerated",
-      "title_fa": "حمله اسرائیل به بیروت: دبیر شورای عالی امنیت ملی ایران هشدار داد نقض «خطوط قرمز» تحمل نخواهد شد",
-      "lead": "دبیر شورای عالی امنیت ملی ایران در پی حمله هوایی اسرائیل به ضاحیه جنوبی بیروت، اعلام کرد که «پاسخی در راه است». وی هشدار داد که نقض «خطوط قرمز» از سوی اسرائیل تحمل نخواهد شد و عواقب جدی در پی خواهد داشت.",
-      "category": "military",
-      "region": "west_asia",
-      "sourceUrl": "https://en.irna.ir/news/86182748/Israeli-strike-on-Beirut-Iran-s-SNSC-chief-warns-violation-of",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "irna_en_0_1678886400",
-      "agencyId": "irna_en",
-      "title": "IRGC Aerospace chief calls for preserving sacred national unity",
-      "title_fa": "فرمانده هوافضای سپاه خواستار حفظ وحدت ملی مقدس شد",
-      "lead": "فرمانده هوافضای سپاه پاسداران انقلاب اسلامی، سردار مجید موسوی، در پیامی بر لزوم حفظ وحدت و انسجام ملت ایران تأکید کرد. وی این وحدت را برای مقابله با چالش‌ها و تضمین آینده‌ای روشن برای کشور حیاتی دانست.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://en.irna.ir/news/86182707/IRGC-Aerospace-chief-calls-for-preserving-sacred-national-unity",
-      "time": "ساعاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 30,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "irna_en_1_1678886400",
-      "agencyId": "irna_en",
-      "title": "Iran’s Armed Forces have ‘finger on trigger,’ top commander says after Israeli attack on Beirut",
-      "title_fa": "فرمانده ارشد ایران: نیروهای مسلح «انگشت بر ماشه» دارند، آماده حمله به قلب دشمن پس از حمله اسرائیل به بیروت",
-      "lead": "یک فرمانده ارشد ایرانی اعلام کرد که نیروهای مسلح ایران از همیشه قدرتمندتر هستند و «انگشت بر ماشه» آماده حمله به قلب دشمن هستند. وی هشدار داد که هرگونه اشتباه دشمن با واکنش قاطع ایران روبرو خواهد شد، به ویژه پس از حمله اسرائیل به بیروت.",
-      "category": "military",
-      "region": "iran",
-      "sourceUrl": "https://en.irna.ir/news/86182715/Iran-s-Armed-Forces-have-finger-on-trigger-top-commander-says",
-      "time": "ساعاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "irna_en_2_1678886400",
-      "agencyId": "irna_en",
-      "title": "War, negotiation decisions in Iran rest with leadership, SNSC: Pezeshkian",
-      "title_fa": "تصمیمات جنگ و مذاکره در ایران به عهده رهبری و شورای عالی امنیت ملی است: پزشکیان",
-      "lead": "رئیس‌جمهور مسعود پزشکیان تأکید کرد که تصمیمات مربوط به جنگ و مذاکره در ایران تنها در صلاحیت رهبری و شورای عالی امنیت ملی است. او بدین ترتیب مرجع نهایی این تصمیمات کلیدی را مشخص کرد.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://en.irna.ir/news/86182672/War-negotiation-decisions-in-Iran-rest-with-leadership-SNSC",
-      "time": "ساعاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 50,
-        "negative": 20
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
       "id": "irna_en_3_1678886400",
       "agencyId": "irna_en",
       "title": "Iranian capital prepares for martyred Leader's farewell and funeral ceremony",
@@ -801,226 +1483,6 @@
         "positive": 10,
         "neutral": 30,
         "negative": 60
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "mehrnews_4_1678886400",
-      "agencyId": "mehrnews",
-      "title": "Pakistan says Iran, US reach peace deal",
-      "title_fa": "پاکستان می‌گوید ایران و آمریکا به توافق صلح رسیدند",
-      "lead": "نخست‌وزیر پاکستان شهباز شریف اعلام کرده است که ایران و ایالات متحده آمریکا روز دوشنبه به یک توافق صلح دست یافته‌اند. این خبر حاکی از تحولی مهم در روابط پر تنش بین دو کشور است.",
-      "category": "diplomacy",
-      "region": "global",
-      "sourceUrl": "https://en.mehrnews.com/news/245340/Islamabad-says-Iran-US-reach-peace-deal",
-      "time": "ساعاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 20,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "mehrnews_5_1678886400",
-      "agencyId": "mehrnews",
-      "title": "Iran FM blasts Israeli strike on Beirut’s Dahiyah district",
-      "title_fa": "وزیر امور خارجه ایران حمله اسرائیل به محله ضاحیه بیروت را محکوم کرد",
-      "lead": "وزارت امور خارجه ایران حمله نظامی اسرائیل به منطقه مسکونی ضاحیه در جنوب بیروت را به شدت محکوم کرد. این وزارتخانه این حمله را یک اقدام تروریستی توصیف کرده است که باعث افزایش تنش‌های منطقه‌ای می‌شود.",
-      "category": "diplomacy",
-      "region": "west_asia",
-      "sourceUrl": "https://en.mehrnews.com/news/245339/Iran-FM-blasts-Israeli-strike-on-Beirut-s-Dahiyah-district",
-      "time": "ساعاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "mehrnews_6_1678886400",
-      "agencyId": "mehrnews",
-      "title": "Missile launchers are getting prepared, Velayati says",
-      "title_fa": "ولایتی: پرتابگرهای موشکی در حال آماده‌سازی هستند",
-      "lead": "علی اکبر ولایتی، مشاور رهبر انقلاب، در واکنش به تجاوز اسرائیل به بیروت، اعلام کرد که ساعت صفر فرا رسیده و پرتابگرهای موشکی در حال آماده‌سازی هستند. این اظهارات حاکی از پاسخ احتمالی و جدی به اقدامات اخیر اسرائیل در منطقه است.",
-      "category": "military",
-      "region": "iran",
-      "sourceUrl": "https://en.mehrnews.com/news/245338/Missiles-launchers-are-getting-prepared-Velayati-says",
-      "time": "ساعاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 5,
-        "neutral": 15,
-        "negative": 80
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "mehrnews_7_1678886400",
-      "agencyId": "mehrnews",
-      "title": "Lebanon is not alone, Ghalibaf warns Zionist regime",
-      "title_fa": "قالیباف به رژیم صهیونیستی هشدار داد: لبنان تنها نیست",
-      "lead": "محمدباقر قالیباف، رئیس مجلس ایران و رئیس تیم مذاکره‌کننده ایرانی، تجاوز رژیم صهیونیستی به لبنان را محکوم کرد. وی تاکید کرد که لبنان تنها نیست و این هشدار نشان‌دهنده حمایت قاطع ایران از لبنان در برابر اقدامات اسرائیل است.",
-      "category": "diplomacy",
-      "region": "west_asia",
-      "sourceUrl": "https://en.mehrnews.com/news/245337/Lebanon-is-not-alone-Ghalibaf-warns-Zionist-regime",
-      "time": "ساعاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 30,
-        "negative": 50
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "mehrnews_8_1678886400",
-      "agencyId": "mehrnews",
-      "title": "Hezbollah victory over Zionists definite thing: Gen. Ghaani",
-      "title_fa": "سردار قاآنی: پیروزی حزب‌الله بر صهیونیست‌ها قطعی است",
-      "lead": "فرمانده نیروی قدس سپاه پاسداران، سردار قاآنی، ضمن محکوم کردن مقامات لبنانی به دلیل سازش بر سر منافع ملی‌شان، اعلام کرد که پیروزی حزب‌الله بر صهیونیست‌ها قطعی است. این اظهارات تاکید بر حمایت ایران از حزب‌الله و پیش‌بینی پیروزی آن‌ها در درگیری‌های منطقه‌ای دارد.",
-      "category": "military",
-      "region": "west_asia",
-      "sourceUrl": "https://en.mehrnews.com/news/245336/Hezbolah-victory-over-Zionists-definite-thinf-Gen-Ghaani",
-      "time": "ساعاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 20,
-        "negative": 50
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "mehrnews_9_1678886400",
-      "agencyId": "mehrnews",
-      "title": "Iran cannot stand violations of Lebanese ceasefire",
-      "title_fa": "ایران نمی‌تواند نقض آتش‌بس لبنان را تحمل کند",
-      "lead": "دبیر شورای عالی امنیت ملی ایران تجاوز اسرائیل به بیروت را محکوم کرد و تاکید کرد که عبور از خطوط قرمز ایران قابل تحمل نیست. این اظهارات نشان می‌دهد که ایران به شدت نگران نقض آتش‌بس در لبنان است و اقدامات آتی را در صورت تداوم آن در نظر خواهد گرفت.",
-      "category": "diplomacy",
-      "region": "west_asia",
-      "sourceUrl": "https://en.mehrnews.com/news/245335/Iranian-armed-forces-cannot-stand-violation-of-ceasefire",
-      "time": "ساعاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "mehrnews_10_1678886400",
-      "agencyId": "mehrnews",
-      "title": "Revenge for Leader's martyrdom to never be forgotten: Gen.",
-      "title_fa": "ژنرال: انتقام شهادت رهبر هرگز فراموش نخواهد شد",
-      "lead": "فرمانده قرارگاه مرکزی خاتم‌الانبیا ایران اعلام کرد که نیروهای مسلح ایران برای پاسخ به هرگونه اقدام خصمانه کاملاً آماده‌اند. وی تاکید کرد که انتقام شهادت رهبر هرگز فراموش نخواهد شد، که نشان‌دهنده عزم ایران برای پاسخگویی به هر تهدیدی است.",
-      "category": "military",
-      "region": "iran",
-      "sourceUrl": "https://en.mehrnews.com/news/245334/Revenge-for-Leader-s-martyrdom-to-never-be-forgotten-Gen",
-      "time": "ساعاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "mehrnews_11_1678886400",
-      "agencyId": "mehrnews",
-      "title": "Attack on Dahiyeh shows US has no will to fulfill commitments",
-      "title_fa": "حمله به ضاحیه نشان می‌دهد آمریکا اراده‌ای برای انجام تعهدات خود ندارد",
-      "lead": "محمدباقر قالیباف، رئیس مجلس ایران، گفت که تجاوز اسرائیل به ضاحیه بیروت در لبنان نشان‌دهنده عدم تمایل ایالات متحده برای انجام تعهدات خود است. این اظهارات انتقادی از نقش آمریکا در منطقه و تاثیر آن بر تحولات اخیر است.",
-      "category": "diplomacy",
-      "region": "global",
-      "sourceUrl": "https://en.mehrnews.com/news/245333/Attack-on-Dahiyeh-shows-US-has-no-will-to-fulfill-commitments",
-      "time": "ساعاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "khabaronline_0_1678886400",
-      "agencyId": "khabaronline",
-      "title": "Trump: Netanyahu is very stubborn; he should be grateful to me / If negotiations fail, we will take 20% of Middle East revenue and become its guardian.",
-      "title_fa": "ترامپ: نتانیاهو خیلی لجباز است؛ باید از من متشکر باشد / اگر مذاکرات شکست بخورد ۲۰ درصد درآمد خاورمیانه را می‌گیریم و نگهبانش می‌شویم",
-      "lead": "رئیس جمهور آمریکا در گفت‌وگویی با نیویورک تایمز پس از نهایی شدن یادداشت تفاهم پایان جنگ با ایران به شدت از نخست‌وزیر اسرائیل انتقاد کرد. او نتانیاهو را لجباز خطاب کرده و تهدید کرد که در صورت شکست مذاکرات، آمریکا ۲۰ درصد از درآمد خاورمیانه را تصاحب خواهد کرد.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233442/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%AE%DB%8C%D9%84%DB%8C-%D9%84%D8%AC%D8%A8%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A7%D8%B2-%D9%85%D9%86-%D9%85%D8%AA%D8%B4%DA%A9%D8%B1-%D8%A8%D8%A7%D8%B4%D8%AF-%D8%A7%DA%AF%D8%B1-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA",
-      "time": "۱ ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "khabaronline_1_1678886401",
-      "agencyId": "khabaronline",
-      "title": "Four European countries greenlight lifting anti-Iran sanctions.",
-      "title_fa": "چراغ سبز چهار کشور اروپایی به رفع تحریم‌های ضد ایرانی",
-      "lead": "انگلیس، فرانسه، آلمان و ایتالیا، چهار کشور اروپایی، با صدور بیانیه‌ای مشترک از توافق ایران و ایالات متحده استقبال کردند. آنها آمادگی خود را برای رفع تحریم‌های ضد ایرانی در ازای گام‌های مرتبط با برنامه هسته‌ای ایران اعلام کردند.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233441/%DA%86%D8%B1%D8%A7%D8%BA-%D8%B3%D8%A8%D8%B2-%DA%86%D9%87%D8%A7%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D9%88%D8%B1%D9%88%D9%BE%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D8%B1%D9%81%D8%B9-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D8%B6%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
-      "time": "۱ ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 20,
-        "negative": 10
       },
       "analyzed_at": "2026-06-15T08:37:56.485Z"
     },
@@ -1069,94 +1531,6 @@
       "analyzed_at": "2026-06-15T08:37:56.485Z"
     },
     {
-      "id": "khabaronline_4_1678886404",
-      "agencyId": "khabaronline",
-      "title": "Qatar welcomes the memorandum of understanding between Iran and the US.",
-      "title_fa": "استقبال قطر از یادداشت تفاهم حاصل شده بین ایران و آمریکا",
-      "lead": "وزیر خارجه قطر از یادداشت تفاهم حاصل شده میان واشنگتن و تهران استقبال کرد. او این توافق را گامی مهم در جهت تحکیم صلح و ارتقای رشد اقتصادی منطقه‌ای دانست.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233438/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D9%82%D8%B7%D8%B1-%D8%A7%D8%B2-%DB%8C%D8%A7%D8%AF%D8%AF%D8%A7%D8%B4%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%AD%D8%A7%D8%B5%D9%84-%D8%B4%D8%AF%D9%87-%D8%A8%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
-      "time": "۱ ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 15,
-        "negative": 5
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "khabaronline_5_1678886405",
-      "agencyId": "khabaronline",
-      "title": "Details of the Iran-US memorandum of understanding.",
-      "title_fa": "جزئیاتی از یادداشت تفاهم ایران و آمریکا",
-      "lead": "پس از اعلام نخست وزیر پاکستان مبنی بر توافق ایران و آمریکا برای پایان جنگ در تمام جبهه‌ها، اسلام‌آباد جزئیات یادداشت تفاهم را منتشر کرد. این جزئیات مربوط به توافقی است که به دنبال پایان دادن به درگیری‌ها در منطقه است.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233437/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B2-%DB%8C%D8%A7%D8%AF%D8%AF%D8%A7%D8%B4%D8%AA-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%AD%D8%A7%D8%B5%D9%84-%D8%B4%D8%AF%D9%87-%D8%A8%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
-      "time": "۱ ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 50,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "khabaronline_6_1678886406",
-      "agencyId": "khabaronline",
-      "title": "Urgent / Statement by the Supreme National Security Council following the agreement between Iran and the US / War in all fronts, including Lebanon, is over.",
-      "title_fa": "فوری/ بیانیه شورای عالی امنیت ملی در پی توافق میان ایران و آمریکا/ جنگ در تمام جبهه‌ها از جمله لبنان تمام شد",
-      "lead": "شورای عالی امنیت ملی ایران با صدور بیانیه‌ای اعلام کرد که در پی توافق با آمریکا، جنگ و عملیات نظامی در تمامی جبهه‌ها از جمله لبنان، از امشب به طور فوری و دائمی پایان یافته است. همچنین، محاصره دریایی علیه ایران نیز بلافاصله برطرف می‌شود.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233436/%D9%81%D9%88%D8%B1%DB%8C-%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D9%84%DB%8C-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%85%DB%8C%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
-      "time": "۱ ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 85,
-        "neutral": 10,
-        "negative": 5
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "khabaronline_7_1678886407",
-      "agencyId": "khabaronline",
-      "title": "Trump confirmed; Iran's commitments will begin on Friday / I am the first president to make real peace with Iran.",
-      "title_fa": "ترامپ تائید کرد؛ تعهدات ایران از روز جمعه آغاز خواهد شد / من اولین رئیس جمهوری هستم که با ایران صلح واقعی کردم",
-      "lead": "دونالد ترامپ، رئیس جمهور آمریکا، تایید کرد که تعهدات ایران از روز جمعه آغاز خواهد شد و خود را اولین رئیس جمهوری دانست که صلح واقعی با ایران برقرار کرده است. او اظهار داشت که رؤسای جمهور قبلی در این تلاش شکست خورده بودند.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233434/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%B1%D9%88%D8%B2-%D8%AC%D9%85%D8%B9%D9%87-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D8%B4%D8%AF-%D9%85%D9%86-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C",
-      "time": "۱ ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 30,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
       "id": "mashregh_9_1678886408",
       "agencyId": "mashregh",
       "title": "Important details of Qalibaf's last-minute concessions from Trump.",
@@ -1196,182 +1570,6 @@
       "sentiment": {
         "positive": 85,
         "neutral": 10,
-        "negative": 5
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "mashregh_2_1700000000",
-      "agencyId": "mashregh",
-      "title": "SNSC statement on Iran-US war-ending agreement: War and military operations in all fronts, including Lebanon, ended immediately and permanently tonight.",
-      "title_fa": "بیانیه شورای عالی امنیت ملی درباره تفاهم پایان جنگ بین ایران و آمریکا/ جنگ و عملیات نظامی در تمامی جبهه‌ها از جمله لبنان از امشب به صورت فوری و دائمی پایان یافت",
-      "lead": "جمهوری اسلامی ایران در پرتو راهبری رهبر شهید خویش، تفوق خود در برابر دشمن امریکایی صهیونی را تکمیل کرد. شورای عالی امنیت ملی اعلام کرد که جنگ و عملیات نظامی در تمامی جبهه‌ها از جمله لبنان از امشب به صورت فوری و دائمی پایان یافته است.",
-      "category": "politics,military,diplomacy",
-      "region": "iran,west_asia,global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818472/%D8%A8%DB%8C%D8%A7%D9%86%DB%8C%D9%87-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%85%D9%84%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-%D8%A8%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 20,
-        "negative": 20
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "mashregh_3_1700000000",
-      "agencyId": "mashregh",
-      "title": "Giuliani's strange remarks: We had good intentions towards the Iranian national team!",
-      "title_fa": "اظهارات عجیب جولیانی: در قبال تیم ملی ایران حسن نیت داشتیم!",
-      "lead": "مدیر اجرایی گروه ویژه فیفا در کاخ سفید، اقدام دولت آمریکا در قبال ایران را نشانه حُسن نیت کشورش دانست. این اظهارات در پی توافق اخیر و در حالی مطرح شده که به نظر می‌رسد اشاره‌ای تلویحی به موضوعات سیاسی فراتر از فوتبال دارد.",
-      "category": "politics,diplomacy",
-      "region": "iran,americas",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818471/%D8%A7%D8%B8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D8%AC%DB%8C%D8%A8-%D8%AC%D9%88%D9%84%DB%8C%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%82%D8%A8%D8%A7%D9%84-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AD%D8%B3%D9%86-%D9%86%DB%8C%D8%AA-%D8%AF%D8%A7%D8%B4%D8%AA%DB%8C%D9%85",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 60,
-        "negative": 20
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "isna_4_1700000000",
-      "agencyId": "isna",
-      "title": "Trump: Dealing with Netanyahu is very difficult.",
-      "title_fa": "ترامپ: کنار آمدن با نتانیاهو بسیار دشوار است",
-      "lead": "دونالد ترامپ پس از اعلام توافق پایان جنگ گفت: کنار آمدن با نتانیاهو بسیار دشوار است و او باید از ایالات متحده سپاسگزار باشد. این اظهارات نشان‌دهنده پیچیدگی‌های روابط منطقه‌ای و ابراز نارضایتی ترامپ از نتانیاهو است.",
-      "category": "politics,diplomacy",
-      "region": "americas,middleeast,west_asia",
-      "sourceUrl": "https://www.isna.ir/news/1405032514611/%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%DA%A9%D9%86%D8%A7%D8%B1-%D8%A2%D9%85%D8%AF%D9%86-%D8%A8%D8%A7-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%AF%D8%B4%D9%88%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 60,
-        "negative": 30
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "isna_6_1700000000",
-      "agencyId": "isna",
-      "title": "Graham's reaction to the war-ending agreement.",
-      "title_fa": "واکنش گراهام به توافق پایان جنگ",
-      "lead": "سناتور لیندسی گراهام در واکنش به توافق پایان جنگ بین ایران و آمریکا در ایکس نوشت: از شنیدن توافق با ایران برای باز شدن تنگه هرمز خوشحالم. این واکنش نشان‌دهنده اهمیت منطقه‌ای و جهانی این تفاهم برای امنیت دریایی و اقتصاد انرژی است.",
-      "category": "politics,diplomacy,energy",
-      "region": "americas,iran,west_asia,global",
-      "sourceUrl": "https://www.isna.ir/news/1405032514609/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%DA%AF%D8%B1%D8%A7%D9%87%D8%A7%D9%85-%D8%A8%D9%87-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AC%D9%86%DA%AF",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 20,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "isna_7_1700000000",
-      "agencyId": "isna",
-      "title": "Guterres welcomes Iran-US agreement.",
-      "title_fa": "استقبال گوترش از توافق ایران و آمریکا",
-      "lead": "دبیرکل سازمان ملل توافق پایان جنگ بین ایران و آمریکا را «گامی تعیین‌کننده» به سوی صلح توصیف کرد. این استقبال نشان‌دهنده اهمیت بین‌المللی این تفاهم برای ثبات منطقه‌ای و جهانی است.",
-      "category": "diplomacy,politics",
-      "region": "global,iran,americas,west_asia",
-      "sourceUrl": "https://www.isna.ir/news/1405032514608/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%DA%AF%D9%88%D8%AA%D8%B1%D8%B4-%D8%A7%D8%B2-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 10,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "isna_8_1700000000",
-      "agencyId": "isna",
-      "title": "Celebrations in South Lebanon following announcement of war-ending agreement.",
-      "title_fa": "جشن و خوشحالی مردم جنوب لبنان در پی اعلام توافق پایان جنگ",
-      "lead": "پس از اعلام حصول تفاهم بین ایران و آمریکا مردم جنوب لبنان توافق آتش‌بس حاصل شده را جشن گرفتند. این جشن‌ها نشان‌دهنده تأثیر مستقیم این توافق بر وضعیت امنیتی و روانی مردم منطقه است و از آن استقبال می‌کنند.",
-      "category": "politics,diplomacy,culture",
-      "region": "west_asia,middleeast,iran",
-      "sourceUrl": "https://www.isna.ir/news/1405032514607/%D8%AC%D8%B4%D9%86-%D9%88-%D8%AE%D9%88%D8%B4%D8%AD%D8%A7%D9%84%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AC%D9%86%DA%AF",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 85,
-        "neutral": 10,
-        "negative": 5
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "isna_9_1700000000",
-      "agencyId": "isna",
-      "title": "European leaders support Iran-US agreement.",
-      "title_fa": "حمایت رهبران چهار کشور اروپایی از حصول تفاهم بین ایران و آمریکا",
-      "lead": "رهبران بریتانیا، فرانسه، آلمان و ایتالیا در بیانیه‌ای مشترک اعلام کردند که از یادداشت تفاهم بین واشنگتن و تهران استقبال می‌کنند. آنها به همه میانجیگران، از جمله قطر و پاکستان، تبریک گفتند که نشان‌دهنده حمایت گسترده بین‌المللی است.",
-      "category": "diplomacy,politics",
-      "region": "europe,iran,americas,global,west_asia",
-      "sourceUrl": "https://www.isna.ir/news/1405032514606/%D8%AD%D9%85%D8%A7%DB%8C%D8%AA-%D8%B1%D9%87%D8%A8%D8%B1%D8%A7%D9%86-%DA%86%D9%87%D8%A7%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AD%D8%B5%D9%88%D9%84-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%A8%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 15,
-        "negative": 5
-      },
-      "analyzed_at": "2026-06-15T08:37:56.485Z"
-    },
-    {
-      "id": "isna_11_1700000000",
-      "agencyId": "isna",
-      "title": "Vance to travel to Geneva for signing agreement with Iran.",
-      "title_fa": "ونس برای امضا توافق با ایران به ژنو می‌رود",
-      "lead": "معاون ترامپ امروز دوشنبه پس از حصول تفاهم بین ایران و آمریکا اعلام کرد که برای شرکت در امضای توافق با ایران به ژنو سفر خواهد کرد. این سفر نشان‌دهنده گام‌های عملی و فوری برای نهایی کردن توافق و اجرایی شدن آن است.",
-      "category": "diplomacy,politics",
-      "region": "americas,iran,europe,global",
-      "sourceUrl": "https://www.isna.ir/news/1405032514604/%D9%88%D9%86%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D8%B6%D8%A7-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%DA%98%D9%86%D9%88-%D9%85%DB%8C-%D8%B1%D9%88%D8%AF",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 75,
-        "neutral": 20,
         "negative": 5
       },
       "analyzed_at": "2026-06-15T08:37:56.485Z"
@@ -1443,28 +1641,6 @@
       "analyzed_at": "2026-06-15T06:37:08.788Z"
     },
     {
-      "id": "mashregh_9_20240728123000",
-      "agencyId": "mashregh",
-      "title": "Important details of Qalibaf's last-minute point scoring from Trump.",
-      "title_fa": "جزئیات مهم از امتیازگیری لحظه آخری قالیباف از ترامپ",
-      "lead": "در پی آمادگی نیروهای مسلح ایران برای عملیات تنبیهی علیه رژیم صهیونیستی، ترامپ مجبور شد تا امتیازات ویژه‌ای به ایران بدهد. این امتیازگیری با میانجیگری طرف قطری برای توقف عملیات ایران صورت گرفت.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818474/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D9%85%D9%87%D9%85-%D8%A7%D8%B2-%D8%A7%D9%85%D8%AA%DB%8C%D8%A7%D8%B2%DA%AF%DB%8C%D8%B1%DB%8C-%D9%84%D8%AD%D8%B8%D9%87-%D8%A2%D8%AE%D8%B1%DB%8C-%D9%82%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%81-%D8%A7%D8%B2-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE",
-      "time": "۱ ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 30,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T06:37:08.788Z"
-    },
-    {
       "id": "mashregh_11_20240728123000",
       "agencyId": "mashregh",
       "title": "Public support for field and diplomacy yielded results: Washington surrendered to Iran's demands / Initial understanding to end the war achieved / Pakistan PM: MoU to be signed on Friday / First $3 billion shipment arrived in Tehran.",
@@ -1509,28 +1685,6 @@
       "analyzed_at": "2026-06-15T05:14:41.388Z"
     },
     {
-      "id": "irna_fa_6_1700000000",
-      "agencyId": "irna_fa",
-      "title": "UN Secretary-General Welcomes Iran-US Agreement",
-      "title_fa": "دبیرکل سازمان ملل از دستیابی ایران و آمریکا به توافق استقبال کرد",
-      "lead": "آنتونیو گوترش، دبیرکل سازمان ملل، از اعلام توافق بین ایالات متحده و ایران استقبال کرد. این توافق شامل آتش‌بس فوری و دائمی است.",
-      "category": "diplomacy",
-      "region": "global",
-      "sourceUrl": "https://www.irna.ir/news/86182875/%D8%AF%D8%A8%DB%8C%D8%B1%DA%A9%D9%84-%D8%B3%D8%A7%D9%85%D8%A7%D9%86-%D9%85%D9%84%D9%84-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84",
-      "time": "چند دقیقه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 30,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T05:14:41.388Z"
-    },
-    {
       "id": "khabaronline_3_1701388800",
       "agencyId": "khabaronline",
       "title": "Starmer calls Iran-US agreement an important step for regional stability",
@@ -1548,28 +1702,6 @@
       "sentiment": {
         "positive": 90,
         "neutral": 10,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-15T05:14:41.388Z"
-    },
-    {
-      "id": "mashregh_11_1701388800",
-      "agencyId": "mashregh",
-      "title": "People's support for field and diplomacy paid off: Washington surrendered to Iran's demands / Initial agreement to end the war achieved / Pakistan PM: Agreement to be signed Friday / First $3 billion shipment arrived in Tehran",
-      "title_fa": "پشتیبانی مردم از میدان و دیپلماسی نتیجه داد: واشنگتن تسلیم خواسته‌های ایران شد/ تفاهم اولیه پایان جنگ حاصل شد/ نخست وزیر پاکستان: امضای تفاهم روز جمعه انجام خواهد شد/ نخستین محموله ۳ میلیارد دلاری وارد تهران شده است",
-      "lead": "بر اساس گزارش و اعلام منابع رسمی، تفاهم اولیه پایان جنگ با دولت آمریکا نهایی شده و پایان فوری و دائمی عملیات نظامی در جبهه‌های منطقه‌ای، از جمله در لبنان، اعلام شده است. همچنین نخستین محموله سه میلیارد دلاری به تهران وارد شده که نشان‌دهنده لغو تحریم‌ها و امتیازات اقتصادی است.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818461/%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%A7%D8%B2-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%88-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%D9%86%D8%AA%DB%8C%D8%AC%D9%87-%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D8%B4%D9%86%DA%AF%D8%AA%D9%86-%D8%AA%D8%B3%D9%84%DB%8C%D9%85-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%DB%8C",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 95,
-        "neutral": 5,
         "negative": 0
       },
       "analyzed_at": "2026-06-15T05:14:41.388Z"
@@ -1597,28 +1729,6 @@
       "analyzed_at": "2026-06-15T05:14:41.388Z"
     },
     {
-      "id": "isna_5_1716912003",
-      "agencyId": "isna",
-      "title": "Belgium Coach: We Don't Underestimate Egypt/Salah is Still Exceptional",
-      "title_fa": "سرمربی بلژیک: مصر را دست کم نمی‌گیریم/ صلاح هنوز هم فوق‌العاده است",
-      "lead": "رودی گارسیا، سرمربی تیم ملی بلژیک، در آستانه دیدار حساس مقابل مصر به حریف آفریقایی خود هشدار داد. او تأکید کرد که تیم‌های مدعی در بازی‌های افتتاحیه این دوره دچار مشکل شده‌اند.",
-      "category": "culture",
-      "region": "middleeast",
-      "sourceUrl": "https://www.isna.ir/news/1405032514610/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%A8%D9%84%DA%98%DB%8C%DA%A9-%D9%85%D8%B5%D8%B1-%D8%B1%D8%A7-%D8%AF%D8%B3%D8%AA-%DA%A9%D9%85-%D9%86%D9%85%DB%8C-%DA%AF%DB%8C%D8%B1%DB%8C%D9%85-%D8%B5%D9%84%D8%A7%D8%AD-%D9%87%D9%86%D9%88%D8%B2-%D9%87%D9%85-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%87",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-15T05:14:41.388Z"
-    },
-    {
       "id": "isna_10_1716912008",
       "agencyId": "isna",
       "title": "Taremi: We Aim to Make All Iranian People Happy",
@@ -1639,28 +1749,6 @@
         "negative": 10
       },
       "analyzed_at": "2026-06-15T05:14:41.388Z"
-    },
-    {
-      "id": "bbc_6_20240720120000",
-      "agencyId": "bbc",
-      "title": "Fifa to pay Somali referee Artan full World Cup fee",
-      "title_fa": "فیفا تمام هزینه داور سومالیایی آرتان را پرداخت می‌کند",
-      "lead": "عمر آرتان، داور سومالیایی که از ورود به ایالات متحده برای قضاوت در جام جهانی منع شده بود، تمام هزینه تورنمنت خود را از فیفا دریافت خواهد کرد. این خبر با وجود ممانعت از حضور وی در مسابقات، برای او و کشورش مثبت تلقی می‌شود.",
-      "category": "culture",
-      "region": "middleeast",
-      "sourceUrl": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-      "time": "1 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 20,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T04:51:36.180Z"
     },
     {
       "id": "khabaronline_0_1701010000",
