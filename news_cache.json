@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-15T18:36:37.553Z",
-  "total": 125,
-  "new_this_cycle": 44,
+  "generated_at": "2026-06-15T20:36:17.748Z",
+  "total": 128,
+  "new_this_cycle": 41,
   "agencies": [
     {
       "id": "aljazeera",
@@ -101,147 +101,477 @@
   ],
   "articles": [
     {
-      "id": "aljazeera_0_20260615",
+      "id": "aljazeera_0_1781500800",
       "agencyId": "aljazeera",
       "title": "As deal is agreed with US, not all in Iran are convinced that peace is here",
-      "title_fa": "با توافق با آمریکا، همه در ایران به برقراری صلح متقاعد نشده‌اند",
-      "lead": "با وجود توافق اخیر بین ایران و آمریکا، تردیدهایی در میان ایرانیان نسبت به پایان یافتن مشکلاتشان وجود دارد. بسیاری از ایرانیان قانع نیستند که این توافق منجر به صلح واقعی و بهبود شرایط زندگی شود.",
-      "category": "diplomacy",
+      "title_fa": "با توافق با آمریکا، همه در ایران به برقراری صلح متقاعد نیستند",
+      "lead": "ایرانی‌ها در مورد اینکه آیا توافق آمریکا و ایران به مشکلاتشان پایان می‌دهد یا خیر، تردید دارند. این شک و عدم قطعیت نشان‌دهنده نگرانی‌های عمیق‌تر در جامعه ایران است.",
+      "category": "politics",
       "region": "iran",
       "sourceUrl": "https://www.aljazeera.com/economy/2026/6/15/as-deal-is-agreed-with-us-not-all-in-iran-are-convinced-that-peace-is-here?traffic_source=rss",
-      "time": "چند لحظه پیش",
+      "time": "همین حالا",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "aljazeera_2_20260615",
-      "agencyId": "aljazeera",
-      "title": "US visa rules leave Iraq’s World Cup fans behind",
-      "title_fa": "قوانین ویزای آمریکا طرفداران تیم ملی عراق در جام جهانی را از سفر بازداشت",
-      "lead": "علی‌رغم جشن و خوشحالی هواداران عراقی برای صعود تیم ملی به جام جهانی پس از بیش از ۴۰ سال، قوانین ویزای آمریکا مانع از حضور بسیاری از آنها شده است. این موضوع باعث ناراحتی و سرخوردگی در میان طرفداران فوتبال عراق شده است.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_us-visa-rules-leave-iraqs-world-cup-fans-behind-150626?traffic_source=rss",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
+        "conflict": true
       },
       "sentiment": {
         "positive": 10,
-        "neutral": 20,
-        "negative": 70
+        "neutral": 40,
+        "negative": 50
       },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
     },
     {
-      "id": "aljazeera_5_20260615",
+      "id": "aljazeera_2_1781500800",
+      "agencyId": "aljazeera",
+      "title": "US visa rules leave Iraq’s World Cup fans behind",
+      "title_fa": "قوانین ویزای آمریکا، هواداران جام جهانی عراق را از همراهی تیمشان بازمی‌دارد",
+      "lead": "با وجود جشن صعود عراق به جام جهانی پس از بیش از ۴۰ سال، هواداران عراقی به دلیل قوانین ویزای آمریکا نمی‌توانند تیم خود را همراهی کنند. این وضعیت برای بسیاری از هواداران فوتبال در عراق ناامیدکننده است.",
+      "category": "culture",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_us-visa-rules-leave-iraqs-world-cup-fans-behind-150626?traffic_source=rss",
+      "time": "همین حالا",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "aljazeera_5_1781500800",
       "agencyId": "aljazeera",
       "title": "Mass return to southern Lebanon following US-Iran agreement",
       "title_fa": "بازگشت گسترده به جنوب لبنان پس از توافق آمریکا و ایران",
-      "lead": "به دنبال توافق اخیر بین آمریکا و ایران، موج گسترده‌ای از بازگشت جمعیت به مناطق جنوبی لبنان آغاز شده است. این بازگشت نشان‌دهنده تأثیرات مثبت این توافق بر امنیت و ثبات منطقه است که به آوارگان امکان بازگشت به خانه‌هایشان را می‌دهد.",
+      "lead": "به دنبال توافق آمریکا و ایران، تعداد زیادی از ساکنان به جنوب لبنان بازگشته‌اند. این حرکت جمعیتی نشان‌دهنده تأثیر مثبت توافق بر امنیت و امکان بازگشت مردم به خانه‌هایشان است.",
       "category": "politics",
       "region": "middleeast",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/mass-return-to-southern-lebanon-following-us-iran-agreement?traffic_source=rss",
-      "time": "چند لحظه پیش",
+      "time": "همین حالا",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": false
       },
       "sentiment": {
-        "positive": 80,
-        "neutral": 15,
-        "negative": 5
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
       },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
     },
     {
-      "id": "aljazeera_6_20260615",
+      "id": "aljazeera_6_1781500800",
       "agencyId": "aljazeera",
       "title": "Iran vs New Zealand: World Cup team news, start, lineups and where to watch",
-      "title_fa": "ایران در برابر نیوزلند: اخبار تیم جام جهانی، شروع، ترکیب و محل تماشا",
-      "lead": "پس از عدم قطعیت در مورد مشارکت و یک دوره آماده‌سازی پر چالش، تیم ملی ایران قرار است کارزار جام جهانی خود را آغاز کند. این بازی در برابر نیوزلند با حواشی و انتظارات زیادی همراه است.",
+      "title_fa": "ایران در مقابل نیوزلند: اخبار تیم جام جهانی، شروع، ترکیب و محل تماشا",
+      "lead": "پس از تردیدها در مورد مشارکت و یک دوره آماده‌سازی مختل‌شده، تیم ملی ایران آماده آغاز کمپین خود در جام جهانی می‌شود. این بازی اولین گام برای ایران در رقابت‌های بزرگ جهانی خواهد بود.",
       "category": "culture",
       "region": "iran",
       "sourceUrl": "https://www.aljazeera.com/sports/2026/6/15/iran-vs-new-zealand-world-cup-team-news-start-lineups-and-where-to-watch?traffic_source=rss",
-      "time": "چند لحظه پیش",
+      "time": "همین حالا",
       "newsValues": {
         "timeliness": "high",
         "impact": "medium",
         "conflict": false
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
       },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
     },
     {
-      "id": "aljazeera_7_20260615",
+      "id": "aljazeera_7_1781500800",
       "agencyId": "aljazeera",
       "title": "Trump says Iran deal ‘all signed’",
-      "title_fa": "ترامپ می‌گوید توافق با ایران «به طور کامل امضا شده است»",
-      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرده است که توافق با ایران «به طور کامل امضا شده است». این خبر نشان‌دهنده یک پیشرفت مهم در روابط دیپلماتیک بین دو کشور است.",
-      "category": "diplomacy",
+      "title_fa": "ترامپ می‌گوید توافق با ایران «کاملا امضا شده است»",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که توافق با ایران «کاملا امضا شده است». این خبر می‌تواند تأثیرات مهمی بر روابط منطقه‌ای و بین‌المللی داشته باشد.",
+      "category": "politics",
       "region": "iran",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/15/trump-says-iran-deal-all?traffic_source=rss",
-      "time": "چند لحظه پیش",
+      "time": "همین حالا",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": false
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
       },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
     },
     {
-      "id": "france24_8_20260615",
+      "id": "france24_8_1781500800",
       "agencyId": "france24",
       "title": "Belgium - Egypt live: Salah's Pharaohs chase first World Cup victory in Group G showdown",
-      "title_fa": "بلژیک - مصر زنده: فراعنه صلاح به دنبال اولین پیروزی خود در جام جهانی در رویارویی گروه G",
-      "lead": "تیم ملی مصر، با رهبری محمد صلاح، در اولین بازی خود در جام جهانی به مصاف بلژیک می‌رود تا برای کسب اولین پیروزی در این رقابت‌ها تلاش کند. این مسابقه از گروه G جام جهانی آغازگر کارزار بلژیک نیز هست.",
+      "title_fa": "بلژیک - مصر زنده: فراعنه صلاح در نبرد گروه G به دنبال اولین پیروزی جام جهانی هستند",
+      "lead": "تیم مصر، ملقب به فراعنه و با حضور محمد صلاح، در اولین بازی خود در جام جهانی در برابر بلژیک به میدان می‌رود. این تیم در گروه G به دنبال کسب اولین پیروزی خود در این رقابت‌ها است.",
       "category": "culture",
       "region": "middleeast",
       "sourceUrl": "https://www.france24.com/en/sport/20260615-belgium-egypt-live-world-cup-group-g-de-bruyne-red-devils-salah-pharaohs",
-      "time": "چند لحظه پیش",
+      "time": "همین حالا",
       "newsValues": {
         "timeliness": "high",
         "impact": "medium",
         "conflict": false
       },
       "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "france24_11_1781500800",
+      "agencyId": "france24",
+      "title": "'Epic folly': As the US and Iran both declare victory, 'none of the problems were resolved'",
+      "title_fa": "«حماقت حماسی»: در حالی که آمریکا و ایران هر دو اعلام پیروزی می‌کنند، «هیچ یک از مشکلات حل نشدند»",
+      "lead": "علی واعظ از گروه بین‌المللی بحران بیان می‌کند که با وجود اعلام پیروزی از سوی آمریکا و ایران، هیچ یک از مشکلات اصلی حل نشده‌اند. او تاکید دارد که این توافق اهداف استراتژیک اصلی را محقق نکرده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/video/20260615-epic-folly-as-the-us-and-iran-both-declare-victory-none-of-the-problems-were-resolved",
+      "time": "همین حالا",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "france24_1_20260615",
+      "agencyId": "france24",
+      "title": "Confusion in Lebanon over US-Iran deal",
+      "title_fa": "سردرگمی در لبنان بر سر توافق آمریکا و ایران",
+      "lead": "پس از اعلام توافق آمریکا و ایران برای پایان دادن به درگیری‌های گسترده‌تر، جنگ در جنوب لبنان کاهش یافت. با این حال، مقامات محلی به آوارگان هشدار دادند که برای بازگشت به خانه عجله نکنند و این موضوع سردرگمی‌هایی را ایجاد کرده است.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/video/20260615-confusion-in-lebanon-over-us-iran-deal",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "france24_2_20260615",
+      "agencyId": "france24",
+      "title": "Israel 'has had its hands forced' by US-Iran deal",
+      "title_fa": "توافق آمریکا و ایران «اسرائیل را وادار به تسلیم کرده است»",
+      "lead": "آمریکا و ایران اعلام کردند که بر سر شرایط پایان جنگ و بازگشایی تنگه هرمز به توافق رسیده‌اند. اگرچه متن توافق هنوز منتشر نشده است، اما به نظر می‌رسد که خواستار توقف گسترده‌تر درگیری‌ها باشد و اسرائیل را در موقعیت دشواری قرار دهد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/video/20260615-israel-has-had-its-hands-forced-by-us-iran-deal",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "france24_3_20260615",
+      "agencyId": "france24",
+      "title": "Iran take World Cup centre stage as they arrive in US",
+      "title_fa": "ایران با ورود به آمریکا در کانون توجه جام جهانی قرار گرفت",
+      "lead": "تیم فوتبال ایران برای اولین بار در این جام جهانی روز یکشنبه وارد ایالات متحده شد. آنها در فرودگاه بین‌المللی لس‌آنجلس فرود آمدند و مورد توجه رسانه‌ها قرار گرفتند.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/video/20260615-iran-take-world-cup-centre-stage-as-they-arrive-in-us",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "dw_4_20260615",
+      "agencyId": "dw",
+      "title": "UN calls for drone regulation in conflict zones",
+      "title_fa": "سازمان ملل خواستار مقررات‌گذاری برای پهپادها در مناطق درگیری شد",
+      "lead": "ولکر ترک، رئیس حقوق بشر سازمان ملل، اعلام کرد که بیش از ۱۰۰۰ غیرنظامی در سودان امسال بر اثر حملات پهپادی کشته شده‌اند. سازمان ملل خواستار مقررات‌گذاری و پاسخگویی برای جلوگیری از چنین جنایات مشابهی شده است.",
+      "category": "military",
+      "region": "west_asia",
+      "sourceUrl": "https://www.dw.com/en/un-calls-for-drone-regulation-in-conflict-zones/a-77565880?maca=en-rss-en-all-1573-xml-mrss",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "dw_5_20260615",
+      "agencyId": "dw",
+      "title": "Strait of Hormuz reopening won't end shipping risks",
+      "title_fa": "بازگشایی تنگه هرمز به معنای پایان خطرات کشتیرانی نخواهد بود",
+      "lead": "یک توافق پیشنهادی بین آمریکا و ایران برای بازگشایی تنگه هرمز، امیدها را برای بازار جهانی کشتیرانی و نفت افزایش داده است. با این حال، مین‌های دریایی، هزینه‌های بالای بیمه و خطرات ژئوپلیتیکی به این معنی است که اختلالات می‌تواند ادامه یابد.",
+      "category": "energy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.dw.com/en/strait-of-hormuz-reopening-won-t-end-shipping-risks/a-77553214?maca=en-rss-en-all-1573-xml-mrss",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "dw_8_20260615",
+      "agencyId": "dw",
+      "title": "US-Iran: Reported peace deal sparks both relief and anger",
+      "title_fa": "آمریکا-ایران: توافق صلح گزارش شده هم آرامش و هم خشم را برانگیخت",
+      "lead": "یک توافق صلح بین آمریکا و ایران قرار است این هفته امضا شود. این خبر به تنهایی برای ایجاد جشن‌ها، واکنش‌های منفی و درگیری‌های سیاسی کافی بود، اگرچه امیدها به صلح ممکن است هنوز بر باد رود.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/us-iran-reported-peace-deal-sparks-both-relief-and-anger/a-77560563?maca=en-rss-en-all-1573-xml-mrss",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 30,
+        "negative": 40
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "dw_9_20260615",
+      "agencyId": "dw",
+      "title": "Iran war: Will the global energy crisis end soon?",
+      "title_fa": "جنگ ایران: آیا بحران انرژی جهانی به زودی پایان خواهد یافت؟",
+      "lead": "یک توافق احتمالی بین آمریکا و ایران برای پایان دادن به جنگ و بازگشایی تنگه هرمز می‌تواند بحران انرژی جهانی را کاهش دهد. با این حال، ممکن است ماه‌ها طول بکشد تا قیمت نفت و عرضه با شروع مجدد کشتیرانی و زیرساخت‌ها تثبیت شود.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/iran-war-will-the-global-energy-crisis-end-soon/a-77554342?maca=en-rss-en-all-1573-xml-mrss",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "dw_11_20260615",
+      "agencyId": "dw",
+      "title": "Mines in the Strait of Hormuz: How dangerous are they?",
+      "title_fa": "مین‌ها در تنگه هرمز: چقدر خطرناک هستند؟",
+      "lead": "همچنان مین‌هایی در تنگه هرمز وجود دارند که بازگشایی آن را برای کشتیرانی تجاری به تأخیر می‌اندازند. این گزارش به بررسی خطر مین‌های دریایی و راه‌های پاکسازی آن‌ها می‌پردازد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.dw.com/en/mines-in-the-strait-of-hormuz-how-dangerous-are-they/a-76847658?maca=en-rss-en-all-1573-xml-mrss",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "foreignpolicy_8_1781606400",
+      "agencyId": "foreignpolicy",
+      "title": "Iran Hawks Side-Eye Trump’s Deal",
+      "title_fa": "منتقدین ایران به توافق ترامپ با بدبینی می‌نگرند",
+      "lead": "منتقدین تندرو جمهوری‌خواه و برخی دیگر از سیاستمداران آمریکایی نسبت به جزئیات توافق احتمالی دولت ترامپ با ایران ابراز نگرانی کرده‌اند. این گروه معتقدند که توافق ممکن است منافع آمریکا را به خطر اندازد یا به ایران امتیازات بی‌موردی بدهد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/15/iran-cease-fire-peace-deal-trump-hawks-nuclear-weapons/",
+      "time": "امروز",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "foreignpolicy_9_1781606400",
+      "agencyId": "foreignpolicy",
+      "title": "Trump Has His Iran Deal. How Soon Until Oil Prices Come Down?",
+      "title_fa": "توافق ترامپ با ایران: قیمت نفت چه زمانی کاهش می‌یابد؟",
+      "lead": "با توجه به توافق احتمالی دولت ترامپ با ایران، تحلیلگران در حال بررسی تأثیر آن بر بازارهای جهانی نفت هستند. پیش‌بینی می‌شود که کاهش قیمت نفت در ماه جاری میلادی به این زودی محقق نشود، زیرا عوامل پیچیده‌ای در تعیین قیمت نقش دارند.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/15/iran-deal-trump-oil-market-prices/",
+      "time": "امروز",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "foreignpolicy_10_1781606400",
+      "agencyId": "foreignpolicy",
+      "title": "What We Do and Don’t Know About the U.S.-Iran Peace Deal",
+      "title_fa": "آنچه درباره توافق صلح آمریکا و ایران می‌دانیم و نمی‌دانیم",
+      "lead": "بررسی ابعاد توافق صلح احتمالی بین ایالات متحده و ایران نشان می‌دهد که بسیاری از مسائل کلیدی، از جمله برنامه هسته‌ای ایران، همچنان نامشخص باقی مانده‌اند. تحلیلگران تلاش می‌کنند تا جزئیات و پیامدهای این توافق را رمزگشایی کنند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-trump-nuclear-sanctions-war-israel-lebanon-mou/",
+      "time": "امروز",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "foreignpolicy_1_1717088400",
+      "agencyId": "foreignpolicy",
+      "title": "The End of the U.S.-Israel Alliance",
+      "title_fa": "پایان ائتلاف آمریکا-اسرائیل",
+      "lead": "این مقاله به بررسی پایان ائتلاف دیرینه آمریکا و اسرائیل می‌پردازد و اشاره می‌کند که یک جنگ مشترک علیه ایران ممکن است نقطه اوج این رابطه باشد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/15/israel-united-states-special-relationship-palestine-netanyahu-trump/",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
         "positive": 33,
         "neutral": 34,
         "negative": 33
       },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
     },
     {
-      "id": "france24_11_20260615",
-      "agencyId": "france24",
-      "title": "‘Epic folly’: As the US and Iran both declare victory, ‘none of the problems were resolved’",
-      "title_fa": "«حماقت بزرگ»: در حالی که آمریکا و ایران هر دو اعلام پیروزی می‌کنند، «هیچ‌یک از مشکلات حل نشده است»",
-      "lead": "تحلیلگران معتقدند که با وجود اعلام پیروزی از سوی آمریکا و ایران بر سر توافق اخیر، در واقع هیچ‌یک از مشکلات اصلی حل نشده است. علی واعظ، مدیر پروژه ایران در گروه بحران بین‌المللی، استدلال می‌کند که این جنگ به اهداف استراتژیک اصلی خود دست نیافته است.",
+      "id": "skynews_4_1717088400",
+      "agencyId": "skynews",
+      "title": "Trump's Iran war is one of the greatest strategic blunders in US history",
+      "title_fa": "جنگ ترامپ علیه ایران یکی از بزرگترین اشتباهات استراتژیک در تاریخ آمریکاست",
+      "lead": "این خبر جنگ ترامپ با ایران را یکی از بزرگترین اشتباهات استراتژیک آمریکا می‌داند. توافق با ایران به معنای اعتراف ضمنی دولت ترامپ به شکست استراتژیک و عدم دستیابی به اهداف جنگی‌اش است.",
       "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.france24.com/en/video/20260615-epic-folly-as-the-us-and-iran-both-declare-victory-none-of-the-problems-were-resolved",
-      "time": "چند لحظه پیش",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/trumps-iran-war-is-one-of-the-greatest-strategic-blunders-in-us-history-13554425",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "skynews_6_1717088400",
+      "agencyId": "skynews",
+      "title": "Homes in illegal Israeli settlements promoted at London property show",
+      "title_fa": "تبلیغ خانه‌ها در شهرک‌های غیرقانونی اسرائیلی در نمایشگاه املاک لندن",
+      "lead": "شبکه خبری اسکای نیوز از تبلیغ خانه‌ها در شهرک‌های غیرقانونی اسرائیلی در کرانه باختری در یک نمایشگاه املاک در لندن خبر داد. این نمایشگاه اعتراضات گسترده‌ای را در پی داشته است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/homes-in-illegal-israeli-settlements-promoted-at-london-property-show-that-sparked-protests-13554407",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "skynews_7_1717088400",
+      "agencyId": "skynews",
+      "title": "Drone strikes in Sudan killed over 1,000 people in five months, says UN",
+      "title_fa": "سازمان ملل: بیش از ۱۰۰۰ نفر در حملات پهپادی در سودان طی پنج ماه کشته شدند",
+      "lead": "سازمان ملل متحد اعلام کرد که در پنج ماه اول سال جاری، بیش از ۱۰۰۰ نفر در حملات پهپادی در سودان کشته شده‌اند. این حملات تلفات انسانی فاجعه‌باری به بار آورده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/drone-strikes-in-sudan-killed-over-1000-people-in-five-months-says-un-13554375",
+      "time": "چند ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -252,61 +582,369 @@
         "neutral": 15,
         "negative": 80
       },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
     },
     {
-      "id": "france24_1_20260615",
-      "agencyId": "france24",
-      "title": "Confusion in Lebanon over US-Iran deal",
-      "title_fa": "سردرگمی در لبنان بر سر توافق آمریکا و ایران",
-      "lead": "پس از اعلام توافق آمریکا و ایران برای پایان دادن به درگیری گسترده‌تر، مبارزات در جنوب لبنان روز دوشنبه فروکش کرد. اما مقامات محلی به آوارگان هشدار دادند که برای بازگشت به خانه‌هایشان عجله نکنند و اسرائیل نیز اعلام موضع خواهد کرد.",
+      "id": "skynews_9_1717088400",
+      "agencyId": "skynews",
+      "title": "Trump marks 80th birthday with cage fighting extravaganza - as US and Iran agree deal",
+      "title_fa": "ترامپ تولد ۸۰ سالگی خود را با مبارزات قفس جشن گرفت - همزمان با توافق آمریکا و ایران",
+      "lead": "دونالد ترامپ تولد ۸۰ سالگی خود را جشن گرفت و توافق اولیه برای پایان دادن به جنگ ایران را اعلام کرد. این توافق در حالی صورت می‌گیرد که ترامپ یک نمایش مبارزه قفس در کاخ سفید برگزار کرد.",
       "category": "diplomacy",
       "region": "middleeast",
-      "sourceUrl": "https://www.france24.com/en/video/20260615-confusion-in-lebanon-over-us-iran-deal",
-      "time": "چند لحظه پیش",
+      "sourceUrl": "https://news.sky.com/story/trump-marks-80th-birthday-with-cage-fighting-on-white-house-lawn-hours-after-us-and-iran-agree-peace-deal-13554201",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "skynews_10_1717088400",
+      "agencyId": "skynews",
+      "title": "Oil prices drop and stocks enjoy cautious rally on US-Iran peace progress",
+      "title_fa": "کاهش قیمت نفت و افزایش محتاطانه سهام در پی پیشرفت صلح آمریکا و ایران",
+      "lead": "با پیشرفت مذاکرات صلح بین آمریکا و ایران، قیمت نفت کاهش یافته و بازارهای سهام با احتیاط روند مثبتی را تجربه می‌کنند. این خوش‌بینی محتاطانه ناشی از انتظار کاهش تاثیر جنگ بر اقتصاد جهانی است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/oil-prices-drop-and-stocks-enjoy-cautious-rally-on-us-iran-peace-progress-13554196",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "bbc_0_20240729120000",
+      "agencyId": "bbc",
+      "title": "Iran deal ends Trump's war that revealed limit of US dominance",
+      "title_fa": "توافق ایران به جنگ ترامپ که محدودیت سلطه آمریکا را آشکار کرد پایان می‌دهد",
+      "lead": "این توافق برای پایان دادن به درگیری‌ها و بازگشایی تنگه هرمز، طرفین را به همان جایی برمی‌گرداند که ۲۴ ساعت قبل از جنگ بودند. این در حالی است که هزاران نفر کشته شده‌اند و محدودیت‌های سلطه آمریکا در منطقه آشکار شده است.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "time": "۲ ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
       },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
     },
     {
-      "id": "france24_2_20260615",
-      "agencyId": "france24",
-      "title": "Israel 'has had its hands forced' by US-Iran deal",
-      "title_fa": "اسرائیل «مجبور به پذیرش» توافق آمریکا و ایران شده است",
-      "lead": "آمریکا و ایران اعلام کردند که بر سر شرایط پایان جنگ و بازگشایی تنگه هرمز به توافق رسیده‌اند. اگرچه متن این توافق هنوز منتشر نشده، اما فراخوان ظاهری آن برای توقف گسترده‌تر خصومت‌ها می‌تواند اسرائیل را نیز تحت تأثیر قرار دهد.",
-      "category": "diplomacy",
+      "id": "bbc_4_20240729120000",
+      "agencyId": "bbc",
+      "title": "MSF staff abused Sudanese refugees in sex-for-food scandal",
+      "title_fa": "کارکنان پزشکان بدون مرز پناهندگان سودانی را در رسوایی \"رابطه جنسی در ازای غذا\" مورد آزار قرار دادند",
+      "lead": "برخی از کارکنان سازمان پزشکان بدون مرز (MSF) متهم به سوءاستفاده جنسی از پناهندگان سودانی در ازای غذا و کمک‌های بشردوستانه شده‌اند. قربانیان گفته‌اند که به دلیل ترس از قطع دسترسی به کمک‌ها، حاضر به صحبت نبوده‌اند.",
+      "category": "politics",
       "region": "middleeast",
-      "sourceUrl": "https://www.france24.com/en/video/20260615-israel-has-had-its-hands-forced-by-us-iran-deal",
-      "time": "چند لحظه پیش",
+      "sourceUrl": "https://www.bbc.com/news/articles/c74ykjl8mx3o?at_medium=RSS&at_campaign=rss",
+      "time": "۲ ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
       },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
     },
     {
-      "id": "france24_3_20260615",
-      "agencyId": "france24",
-      "title": "Iran take World Cup centre stage as they arrive in US",
-      "title_fa": "تیم ملی ایران با ورود به آمریکا در کانون توجه جام جهانی قرار گرفت",
-      "lead": "تیم ملی فوتبال ایران برای اولین بار در این جام جهانی روز یکشنبه وارد ایالات متحده شد و در فرودگاه بین‌المللی لس‌آنجلس به زمین نشست. این تیم در همان روزی که صحبت از مذاکرات صلح بود، کنفرانس مطبوعاتی برگزار کرد.",
+      "id": "bbc_5_20240729120000",
+      "agencyId": "bbc",
+      "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
+      "title_fa": "«مرد عنکبوتی یمن» بر اثر سقوط در دهانه آتشفشان جان باخت",
+      "lead": "القاع قع بن عنتر، معروف به «مرد عنکبوتی یمن»، هنگام تلاش برای صعود به دیواره‌های یک آتشفشان بدون تجهیزات ایمنی سقوط کرد و جان خود را از دست داد. مقامات محلی این خبر را تایید کردند.",
+      "category": "culture",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
+      "time": "۲ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "nytimes_8_20240729120000",
+      "agencyId": "nytimes",
+      "title": "U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret",
+      "title_fa": "آمریکا و ایران توافق اولیه امضا کردند، اما جزئیات آن محرمانه می‌ماند",
+      "lead": "رئیس‌جمهور ترامپ و مذاکره‌کننده ارشد ایران توافقی را امضا کرده‌اند که انتظار می‌رود تنگه هرمز را بازگشایی کند. با این حال، شرایط خاص این توافق هنوز منتشر نشده و دو کشور در این مورد سکوت کرده‌اند.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
+      "time": "۲ ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 45,
+        "neutral": 45,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "nytimes_1_20260615",
+      "agencyId": "nytimes",
+      "title": "Jaded and Exhausted, Many Iranians Shrug at World Cup",
+      "title_fa": "ایرانیان خسته و بی‌حوصله، نسبت به جام جهانی بی‌تفاوتند",
+      "lead": "موفقیت‌های تیم ملی فوتبال ایران پیش از این منبع جشن و شادمانی بود. اکنون، بسیاری از ایرانیان به سختی می‌توانند انرژی لازم برای اهمیت دادن به آن را جمع کنند.",
       "category": "culture",
       "region": "iran",
-      "sourceUrl": "https://www.france24.com/en/video/20260615-iran-take-world-cup-centre-stage-as-they-arrive-in-us",
+      "sourceUrl": "https://www.nytimes.com/2026/06/15/world/middleeast/iran-national-team-fans.html",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "independent_6_20260615",
+      "agencyId": "independent",
+      "title": "More than 100 arrested in London as court upholds Palestine Action ban",
+      "title_fa": "بازداشت بیش از ۱۰۰ نفر در لندن پس از تایید ممنوعیت فعالیت «فلسطین اکشن» توسط دادگاه",
+      "lead": "بیش از ۱۰۰ نفر در لندن در پی تایید ممنوعیت فعالیت گروه «فلسطین اکشن» توسط دادگاه بازداشت شدند. معترضان در حالی که توسط افسران پلیس حمل می‌شدند، مشاهده شدند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/home-news/palestine-action-arrests-protests-ruling-b2996145.html",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "independent_9_20260615",
+      "agencyId": "independent",
+      "title": "World Cup 2026 LIVE: White supremacy controversy breaks out over VAR referee’s hand gesture",
+      "title_fa": "پوشش زنده جام جهانی ۲۰۲۶: جنجال بر سر حرکت دست داور VAR و اتهام برتری‌طلبی سفیدپوستان",
+      "lead": "در جریان پوشش زنده جام جهانی ۲۰۲۶، جنجالی بر سر حرکت دست یک داور VAR و اتهام برتری‌طلبی سفیدپوستان ایجاد شد. این در حالی است که تیم ایران نیز پس از مشکلات متعدد و با برنامه‌ریزی برای اعتراضات در ورزشگاه، آماده رویارویی با نیوزلند می‌شود.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/sport/football/world-cup-2026-live-updates-iran-fifa-england-travel-news-b2995712.html",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "rt_10_1701398400",
+      "agencyId": "rt",
+      "title": "The US tore up the Iran deal. Now it may settle for a weaker one",
+      "title_fa": "آمریکا توافق هسته‌ای ایران را پاره کرد. اکنون ممکن است به توافقی ضعیف‌تر رضایت دهد",
+      "lead": "گزارش‌ها حاکی از آن است که یک توافق نوظهور بین آمریکا و ایران می‌تواند تنگه هرمز را دوباره باز کند و فشار تحریم‌ها را کاهش دهد. با این حال، به نظر می‌رسد ایران بیشترین سود را از این توافق احتمالی خواهد برد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/641616-emerging-us-iran-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "rt_2_20231205080000",
+      "agencyId": "rt",
+      "title": "Trump Praises Putin and Xi Over Iran Peace Deal",
+      "title_fa": "ترامپ پوتین و شی را برای توافق صلح ایران تحسین می‌کند",
+      "lead": "دونالد ترامپ از ولادیمیر پوتین و شی جین‌پینگ به خاطر نقششان در کمک به دستیابی به توافق صلح آمریکا و ایران تمجید کرد. این اظهارات در حالی مطرح می‌شود که بحث‌ها پیرامون توافق هسته‌ای و تنش‌ها در منطقه ادامه دارد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/641576-trump-praises-putin-xi-iran-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "xinhua_4_20180124100000",
+      "agencyId": "xinhua",
+      "title": "Palestinians Clash with Israeli Soldiers After Protest Against Pence Visit",
+      "title_fa": "درگیری فلسطینیان با سربازان اسرائیلی پس از اعتراض به سفر پنس",
+      "lead": "معترضان فلسطینی در کرانه باختری، در پی اعتراض به سفر مایک پنس، معاون رئیس جمهور آمریکا به اورشلیم، با سربازان اسرائیلی درگیر شدند. این درگیری‌ها در شهر الخلیل و در بحبوحه تنش‌های منطقه‌ای رخ داد.",
+      "category": "politics",
+      "region": "west_asia",
+      "sourceUrl": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm",
+      "time": "6 سال پیش",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "irna_fa_0_1718476200",
+      "agencyId": "irna_fa",
+      "title": "Governor: Yazd Handicrafts a Manifestation of Provincial Cultural Identity and Economic Prosperity",
+      "title_fa": "استاندار: صنایع دستی یزد، جلوه‌گاه هویت فرهنگی استان است",
+      "lead": "استاندار یزد صنایع دستی و بازار تاریخی این استان را نماد هویت فرهنگی و رونق اقتصادی آن دانست. وی بر اهمیت حفظ و توسعه این صنایع برای جذب گردشگر و ایجاد اشتغال تأکید کرد.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86183802/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%AF%D8%B3%D8%AA%DB%8C-%DB%8C%D8%B2%D8%AF-%D8%AC%D9%84%D9%88%D9%87-%DA%AF%D8%A7%D9%87-%D9%87%D9%88%DB%8C%D8%AA-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "irna_fa_1_1718476200",
+      "agencyId": "irna_fa",
+      "title": "Video| President's Advisor: Iran's Blocked Assets on the Path to Return",
+      "title_fa": "فیلم| مشاور رئیس‌جمهور: سرمایه‌های بلوکه‌شده ایران در مسیر بازگشت قرار گرفت",
+      "lead": "مشاور رئیس‌جمهور در امور روحانیت اعلام کرد که سرمایه‌های بلوکه‌شده ایران در پی نتایج مذاکرات و تحولات اخیر منطقه‌ای در مسیر بازگشت قرار گرفته است. او این دستاورد را نتیجه هدایت رهبر، مقاومت ملت و تلاش مسئولان دانست.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86183705/%D9%81%DB%8C%D9%84%D9%85-%D9%85%D8%B4%D8%A7%D9%88%D8%B1-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D9%84%D9%88%DA%A9%D9%87-%D8%B4%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 75,
+        "neutral": 25,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "irna_fa_2_1718476200",
+      "agencyId": "irna_fa",
+      "title": "Infographic | Mazandaran's Footprint in the World Cup",
+      "title_fa": "اینفوگرافیک | رد پای مازندران در جام جهانی",
+      "lead": "این اینفوگرافیک به حضور بازیکنان استان مازندران در تیم ملی فوتبال ایران در پنج دوره از هفت حضور این تیم در جام‌های جهانی می‌پردازد. بازیکنانی چون رحمان رضایی و یحیی گل‌محمدی از جمله این افراد بوده‌اند.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86183881/%D8%A7%DB%8C%D9%86%D9%81%D9%88%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9-%D8%B1%D8%AF-%D9%BE%D8%A7%DB%8C-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "irna_fa_3_1718476200",
+      "agencyId": "irna_fa",
+      "title": "150 Trillion Rials Allocated for Rural Development Activities",
+      "title_fa": "۱۵ همت تسهیلات برای توسعه فعالیت‌های روستایی اختصاص یافت",
+      "lead": "سرپرست معاونت امور تولیدات دامی وزارت جهاد کشاورزی از اختصاص ۱۵ همت تسهیلات برای توسعه فعالیت‌های روستایی و عشایری خبر داد. این اقدام به منظور ایجاد اشتغال و بهبود معیشت در مناطق روستایی صورت گرفته است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86183890/%DB%B1%DB%B5-%D9%87%D9%85%D8%AA-%D8%AA%D8%B3%D9%87%DB%8C%D9%84%D8%A7%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%DB%8C%D8%A7%D9%81%D8%AA",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 85,
+        "neutral": 15,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
+    },
+    {
+      "id": "irna_fa_5_1718476200",
+      "agencyId": "irna_fa",
+      "title": "Video| National Triathlon Team Camp in Sanandaj",
+      "title_fa": "فیلم| اردوی تیم ملی ترای‌اتلون در سنندج",
+      "lead": "اردوی آماده‌سازی تیم ملی ترای‌اتلون (ورزش سه‌گانه) رده سنی نوجوانان آقایان به مدت یک هفته در ورزشگاه ۲۲ گولان سنندج در حال برگزاری است. در این اردو ۱۲ ورزشکار برای آمادگی بهتر حضور دارند.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86183834/%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D8%B1%D8%AF%D9%88%DB%8C-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D8%AA%D8%B1%D8%A7%DB%8C-%D8%A7%D8%AA%D9%84%D9%88%D9%86-%D8%AF%D8%B1-%D8%B3%D9%86%D9%86%D8%AF%D8%AC",
       "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
@@ -314,187 +952,55 @@
         "conflict": false
       },
       "sentiment": {
-        "positive": 60,
-        "neutral": 20,
-        "negative": 20
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "dw_4_77565880",
-      "agencyId": "dw",
-      "title": "UN calls for drone regulation in conflict zones",
-      "title_fa": "سازمان ملل خواستار مقررات‌گذاری برای پهپادها در مناطق درگیری شد",
-      "lead": "فولکر تورک، رئیس حقوق بشر سازمان ملل متحد، گفت که بیش از ۱۰۰۰ غیرنظامی در سودان امسال در حملات پهپادی کشته شده‌اند. سازمان ملل خواستار مقررات‌گذاری و پاسخگویی برای جلوگیری از چنین جنایاتی شده است.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://www.dw.com/en/un-calls-for-drone-regulation-in-conflict-zones/a-77565880?maca=en-rss-en-all-1573-xml-mrss",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
         "positive": 10,
-        "neutral": 20,
-        "negative": 70
+        "neutral": 80,
+        "negative": 10
       },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
     },
     {
-      "id": "dw_5_77553214",
-      "agencyId": "dw",
-      "title": "Strait of Hormuz reopening won't end shipping risks",
-      "title_fa": "بازگشایی تنگه هرمز به معنای پایان خطرات کشتیرانی نخواهد بود",
-      "lead": "توافق پیشنهادی آمریکا و ایران برای بازگشایی تنگه هرمز، امیدهایی را برای بازارهای جهانی کشتیرانی و نفت ایجاد کرده است. اما مین‌های دریایی، هزینه‌های بالای بیمه و خطرات ژئوپلیتیکی به این معنی است که اختلال ممکن است ادامه یابد.",
-      "category": "energy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.dw.com/en/strait-of-hormuz-reopening-won-t-end-shipping-risks/a-77553214?maca=en-rss-en-all-1573-xml-mrss",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "dw_8_77560563",
-      "agencyId": "dw",
-      "title": "US-Iran: Reported peace deal sparks both relief and anger",
-      "title_fa": "توافق صلح گزارش‌شده بین آمریکا و ایران هم امیدواری و هم خشم را برانگیخت",
-      "lead": "قرار است توافق صلح بین آمریکا و ایران این هفته امضا شود. در حالی که امیدها برای صلح ممکن است هنوز به سرانجام نرسد، همین خبر به تنهایی برای برانگیختن جشن‌ها، واکنش‌های منفی و درگیری‌های سیاسی کافی بود.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.dw.com/en/us-iran-reported-peace-deal-sparks-both-relief-and-anger/a-77560563?maca=en-rss-en-all-1573-xml-mrss",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "dw_9_77554342",
-      "agencyId": "dw",
-      "title": "Iran war: Will the global energy crisis end soon?",
-      "title_fa": "جنگ ایران: آیا بحران جهانی انرژی به زودی پایان خواهد یافت؟",
-      "lead": "یک توافق احتمالی بین آمریکا و ایران برای پایان جنگ و بازگشایی تنگه هرمز می‌تواند بحران جهانی انرژی را کاهش دهد. اما قیمت نفت و عرضه ممکن است ماه‌ها طول بکشد تا با از سرگیری کشتیرانی و زیرساخت‌ها، تثبیت شود.",
-      "category": "energy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.dw.com/en/iran-war-will-the-global-energy-crisis-end-soon/a-77554342?maca=en-rss-en-all-1573-xml-mrss",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "dw_11_76847658",
-      "agencyId": "dw",
-      "title": "Mines in the Strait of Hormuz: How dangerous are they?",
-      "title_fa": "مین‌های دریایی در تنگه هرمز: چقدر خطرناک هستند؟",
-      "lead": "هنوز مین‌های دریایی در تنگه هرمز وجود دارند که بازگشایی آن را برای کشتیرانی تجاری به تأخیر می‌اندازند. مین‌های دریایی چقدر خطرناک هستند و برای پاکسازی آنها چه کاری می‌توان انجام داد؟",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://www.dw.com/en/mines-in-the-strait-of-hormuz-how-dangerous-are-they/a-76847658?maca=en-rss-en-all-1573-xml-mrss",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "foreignpolicy_8_1781568000",
-      "agencyId": "foreignpolicy",
-      "title": "Iran Hawks Side-Eye Trump’s Deal",
-      "title_fa": "تندروهای ایران به توافق ترامپ با سوءظن می‌نگرند",
-      "lead": "گروه موسوم به «شاهین‌های ایران» در آمریکا، توافق احتمالی ترامپ با ایران را با دیده تردید و انتقاد می‌نگرند. این تحلیل نشان می‌دهد که انتقادات این گروه به رئیس‌جمهور ترامپ بیشترین تأثیر را خواهد داشت.",
-      "category": "diplomacy",
+      "id": "irna_fa_6_1718476200",
+      "agencyId": "irna_fa",
+      "title": "Infographic| What Happened Today in Qom; Review of June 15, 2026 Events",
+      "title_fa": "اینفو| آنچه امروز در قم گذشت؛ مرور رویدادهای ۲۵ خردادماه ۱۴۰۵",
+      "lead": "اینفوگرافیک خبری مهمترین رویدادهای ۲۵ خردادماه ۱۴۰۵ در استان قم را در حوزه‌های شهری، انتظامی، اقتصادی و فرهنگی مرور می‌کند. این گزارش خلاصه‌ای از اخبار روزمره و جاری این شهر است.",
+      "category": "politics",
       "region": "iran",
-      "sourceUrl": "https://foreignpolicy.com/2026/06/15/iran-cease-fire-peace-deal-trump-hawks-nuclear-weapons/",
+      "sourceUrl": "https://www.irna.ir/news/86183889/%D8%A7%DB%8C%D9%86%D9%81%D9%88-%D8%A2%D9%86%DA%86%D9%87-%D8%A7%DB%8C%D9%85%D8%B1%D9%88%D8%B2-%D8%AF%D8%B1-%D9%82%D9%85-%DA%AF%D8%B0%D8%B4%D8%AA-%D9%85%D8%B1%D9%88%D8%B1-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%DB%B2%DB%B5-%D8%AE%D8%B1%D8%AF%D8%A7%D8%AF%D9%85%D8%A7%D9%87-%DB%B1%DB%B4%DB%B0%DB%B5",
       "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "foreignpolicy_9_1781568000",
-      "agencyId": "foreignpolicy",
-      "title": "Trump Has His Iran Deal. How Soon Until Oil Prices Come Down?",
-      "title_fa": "ترامپ به توافق با ایران دست یافته است. قیمت نفت چه زمانی کاهش می‌یابد؟",
-      "lead": "پس از توافق ترامپ با ایران، سوال اصلی این است که قیمت جهانی نفت چه زمانی کاهش خواهد یافت. این موضوع پیچیده است و به احتمال زیاد در ماه جاری میلادی شاهد کاهش قیمت‌ها نخواهیم بود.",
-      "category": "energy",
-      "region": "iran",
-      "sourceUrl": "https://foreignpolicy.com/2026/06/15/iran-deal-trump-oil-market-prices/",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
+        "impact": "low",
         "conflict": false
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
       },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
     },
     {
-      "id": "foreignpolicy_10_1781568000",
-      "agencyId": "foreignpolicy",
-      "title": "What We Do and Don’t Know About the U.S.-Iran Peace Deal",
-      "title_fa": "آنچه درباره توافق صلح آمریکا و ایران می‌دانیم و نمی‌دانیم",
-      "lead": "این مقاله به بررسی جزئیات شناخته شده و ناشناخته توافق صلح بین ایالات متحده و ایران می‌پردازد. مسائل کلیدی مانند برنامه هسته‌ای ایران همچنان حل نشده باقی مانده‌اند و ابهامات زیادی وجود دارد.",
-      "category": "diplomacy",
+      "id": "irna_fa_7_1718476200",
+      "agencyId": "irna_fa",
+      "title": "Packaging and Cold Storage Unit in Bandar Abbas Inaugurated by Presidential Order via Webinar",
+      "title_fa": "واحد بسته‌بندی و سردخانه بندرعباس با دستور وبیناری رییس جمهور افتتاح شد",
+      "lead": "واحد بسته‌بندی و سردخانه محصولات صیفی و گلخانه‌ای سرخون بندرعباس با سرمایه‌گذاری ۳۰۰ میلیارد ریالی بخش خصوصی و دستور وبیناری رییس جمهور و وزیر جهادکشاورزی افتتاح شد. این پروژه نقش مهمی در توسعه کشاورزی منطقه خواهد داشت.",
+      "category": "economy",
       "region": "iran",
-      "sourceUrl": "https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-trump-nuclear-sanctions-war-israel-lebanon-mou/",
+      "sourceUrl": "https://www.irna.ir/news/86183873/%D9%88%D8%A7%D8%AD%D8%AF-%D8%A8%D8%B3%D8%AA%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D9%88-%D8%B3%D8%B1%D8%AF%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D9%88%D8%A8%DB%8C%D9%86%D8%A7%D8%B1%DB%8C-%D8%B1%DB%8C%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1",
       "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
-        "impact": "high",
+        "impact": "medium",
         "conflict": false
       },
       "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
       },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
+      "analyzed_at": "2026-06-15T20:36:17.495Z"
     },
     {
       "id": "foreignpolicy_11_1781568000",
@@ -515,72 +1021,6 @@
         "positive": 33,
         "neutral": 34,
         "negative": 33
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "foreignpolicy_1_1709251200",
-      "agencyId": "foreignpolicy",
-      "title": "The End of the U.S.-Israel Alliance",
-      "title_fa": "پایان اتحاد آمریکا و اسرائیل",
-      "lead": "این مقاله به تحلیل احتمال پایان یافتن ائتلاف دیرینه آمریکا و اسرائیل می‌پردازد. جنگ مشترک علیه ایران ممکن است نقطه اوج این رابطه باشد.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://foreignpolicy.com/2026/06/15/israel-united-states-special-relationship-palestine-netanyahu-trump/",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 40,
-        "negative": 40
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "skynews_4_1709251201",
-      "agencyId": "skynews",
-      "title": "Trump's Iran war is one of the greatest strategic blunders in US history",
-      "title_fa": "جنگ ترامپ با ایران یکی از بزرگترین اشتباهات استراتژیک در تاریخ آمریکاست",
-      "lead": "این خبر به جنگ ایران و آمریکا در دوران ترامپ می‌پردازد و آن را اشتباهی استراتژیک می‌داند. توافق با ایران به منزله پذیرش شکست استراتژیک توسط دولت ترامپ تلقی می‌شود.",
-      "category": "military",
-      "region": "iran",
-      "sourceUrl": "https://news.sky.com/story/trumps-iran-war-is-one-of-the-greatest-strategic-blunders-in-us-history-13554425",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "skynews_6_1709251202",
-      "agencyId": "skynews",
-      "title": "Homes in illegal Israeli settlements promoted at London property show",
-      "title_fa": "تبلیغ خانه‌ها در شهرک‌های غیرقانونی اسرائیل در نمایشگاه املاک لندن",
-      "lead": "در یک نمایشگاه املاک در لندن، خانه‌هایی در شهرک‌های غیرقانونی اسرائیل در کرانه باختری تبلیغ شده‌اند. این اقدام با اعتراضات گسترده‌ای در لندن مواجه شده است.",
-      "category": "politics",
-      "region": "west_asia",
-      "sourceUrl": "https://news.sky.com/story/homes-in-illegal-israeli-settlements-promoted-at-london-property-show-that-sparked-protests-13554407",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
       },
       "analyzed_at": "2026-06-15T18:36:37.453Z"
     },
@@ -607,50 +1047,6 @@
       "analyzed_at": "2026-06-15T18:36:37.453Z"
     },
     {
-      "id": "skynews_9_1709251204",
-      "agencyId": "skynews",
-      "title": "Trump marks 80th birthday with cage fighting extravaganza - as US and Iran agree deal",
-      "title_fa": "ترامپ ۸۰ سالگی خود را با مبارزات قفس جشن گرفت؛ در حالی که آمریکا و ایران به توافق رسیدند",
-      "lead": "دونالد ترامپ در تولد ۸۰ سالگی خود، توافق اولیه برای پایان دادن به جنگ با ایران را اعلام کرد. این توافق همزمان با برگزاری یک نمایش مبارزات قفس در کاخ سفید جشن گرفته شد.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://news.sky.com/story/trump-marks-80th-birthday-with-cage-fighting-on-white-house-lawn-hours-after-us-and-iran-agree-peace-deal-13554201",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 20,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "skynews_10_1709251205",
-      "agencyId": "skynews",
-      "title": "Oil prices drop and stocks enjoy cautious rally on US-Iran peace progress",
-      "title_fa": "قیمت نفت کاهش یافت و سهام‌ها در پی پیشرفت صلح آمریکا و ایران با احتیاط رشد کردند",
-      "lead": "بازارهای مالی با احتیاط به پیشرفت صلح میان آمریکا و ایران واکنش نشان دادند. امیدواری وجود دارد که توافق صلح تاثیر منفی جنگ بر اقتصاد جهانی را کاهش دهد.",
-      "category": "economy",
-      "region": "global",
-      "sourceUrl": "https://news.sky.com/story/oil-prices-drop-and-stocks-enjoy-cautious-rally-on-us-iran-peace-progress-13554196",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 75,
-        "neutral": 15,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
       "id": "skynews_8_1709251206",
       "agencyId": "skynews",
       "title": "At least 31 dead after Ethiopia bus crash",
@@ -669,314 +1065,6 @@
         "positive": 5,
         "neutral": 10,
         "negative": 85
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "bbc_0_1781558400",
-      "agencyId": "bbc",
-      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
-      "title_fa": "بوئن: توافق ایران به جنگ ترامپ که محدودیت سلطه آمریکا را آشکار کرد، پایان می‌دهد",
-      "lead": "در این توافق برای پایان دادن به درگیری‌ها و بازگشایی تنگه هرمز، طرفین به همان وضعیت ۲۴ ساعت پیش از جنگ بازمی‌گردند. این در حالی است که هزاران نفر در این مدت جان خود را از دست داده‌اند.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
-      "time": "چند دقیقه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 40,
-        "negative": 30
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "bbc_4_1781558400",
-      "agencyId": "bbc",
-      "title": "MSF staff abused Sudanese refugees in sex-for-food scandal",
-      "title_fa": "کارکنان پزشکان بدون مرز پناهندگان سودانی را در رسوایی \"رابطه جنسی در ازای غذا\" مورد آزار قرار دادند",
-      "lead": "گزارش شده که کارکنان سازمان پزشکان بدون مرز (MSF) پناهندگان سودانی را در ازای غذا مورد آزار جنسی قرار داده‌اند. برخی از قربانیان اظهار داشتند که به دلیل ترس از قطع دسترسی به کمک‌ها، سکوت کرده بودند.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.bbc.com/news/articles/c74ykjl8mx3o?at_medium=RSS&at_campaign=rss",
-      "time": "چند دقیقه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 5,
-        "neutral": 15,
-        "negative": 80
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "bbc_5_1781558400",
-      "agencyId": "bbc",
-      "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
-      "title_fa": "\"مرد عنکبوتی یمن\" بر اثر سقوط در دهانه آتشفشان جان باخت",
-      "lead": "القعقاع بن عنتر، معروف به \"مرد عنکبوتی یمن\"، در حین تلاش برای صعود از دیواره‌های یک دهانه آتشفشانی بدون تجهیزات ایمنی، به داخل آن سقوط کرده و جان باخته است. مقامات محلی این خبر را تایید کرده‌اند.",
-      "category": "culture",
-      "region": "middleeast",
-      "sourceUrl": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
-      "time": "چند دقیقه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "nytimes_8_1781558400",
-      "agencyId": "nytimes",
-      "title": "Iran War Live Updates: U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret",
-      "title_fa": "به‌روزرسانی‌های زنده جنگ ایران: آمریکا و ایران توافق مقدماتی را امضا کردند، اما شرایط آن محرمانه باقی می‌ماند",
-      "lead": "رئیس‌جمهور ترامپ و مذاکره‌کننده ارشد ایران توافقی را امضا کرده‌اند که انتظار می‌رود تنگه هرمز را بازگشایی کند. با این حال، شرایط دقیق این توافق هنوز منتشر نشده و دو کشور آن را محرمانه نگه داشته‌اند.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
-      "time": "چند دقیقه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 40,
-        "negative": 30
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "nytimes_1_1718476800",
-      "agencyId": "nytimes",
-      "title": "Jaded and Exhausted, Many Iranians Shrug at World Cup",
-      "title_fa": "بسیاری از ایرانی‌ها، خسته و دلزده از جام جهانی بی‌تفاوت شده‌اند",
-      "lead": "موفقیت‌های تیم ملی فوتبال ایران قبلاً منبعی برای جشن و شادی بود. اکنون، بسیاری از ایرانی‌ها به سختی می‌توانند انرژی لازم برای اهمیت دادن به آن را جمع کنند و نسبت به این رویداد بی‌تفاوت هستند.",
-      "category": "culture",
-      "region": "iran",
-      "sourceUrl": "https://www.nytimes.com/2026/06/15/world/middleeast/iran-national-team-fans.html",
-      "time": "چند دقیقه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "independent_6_1718476800",
-      "agencyId": "independent",
-      "title": "More than 100 arrested in London as court upholds Palestine Action ban",
-      "title_fa": "با تأیید ممنوعیت \"اقدام فلسطین\" توسط دادگاه، بیش از ۱۰۰ نفر در لندن دستگیر شدند",
-      "lead": "در پی تأیید ممنوعیت فعالیت گروه «اقدام فلسطین» توسط دادگاه، بیش از ۱۰۰ نفر در لندن بازداشت شدند. معترضان در حال حمل شدن توسط افسران پلیس دیده شدند که نشان‌دهنده تنش‌هاست.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.independent.co.uk/news/uk/home-news/palestine-action-arrests-protests-ruling-b2996145.html",
-      "time": "چند دقیقه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 50,
-        "negative": 40
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "independent_9_1718476800",
-      "agencyId": "independent",
-      "title": "World Cup 2026 LIVE: White supremacy controversy breaks out over VAR referee’s hand gesture; Iran preparing to face New Zealand with protests planned at the stadium",
-      "title_fa": "جام جهانی ۲۰۲۶ زنده: جنجال بر سر حرکت دست داور VAR؛ ایران برای رویارویی با نیوزلند آماده می‌شود، با برنامه‌ریزی اعتراضات در ورزشگاه",
-      "lead": "در جریان جام جهانی ۲۰۲۶، در حالی که جنجالی بر سر حرکت دست داور VAR شکل گرفته است، تیم ملی ایران برای بازی مقابل نیوزلند آماده می‌شود. در حاشیه این بازی، اعتراضاتی در ورزشگاه برنامه‌ریزی شده است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.independent.co.uk/sport/football/world-cup-2026-live-updates-iran-fifa-england-travel-news-b2995712.html",
-      "time": "چند دقیقه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 60,
-        "negative": 30
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "rt_10_1781229000",
-      "agencyId": "rt",
-      "title": "The US tore up the Iran deal. Now it may settle for a weaker one",
-      "title_fa": "آمریکا توافق هسته‌ای با ایران را پاره کرد. اکنون ممکن است به یک توافق ضعیف‌تر رضایت دهد",
-      "lead": "ایالات متحده پس از خروج از توافق هسته‌ای با ایران، اکنون ممکن است به دنبال یک توافق جدید و ضعیف‌تر باشد. این توافق احتمالی می‌تواند به بازگشایی تنگه هرمز و کاهش فشار تحریم‌ها منجر شود، اما به نظر می‌رسد ایران از آن بیشترین سود را ببرد.",
-      "category": "diplomacy",
-      "region": "iran",
-      "sourceUrl": "https://www.rt.com/news/641616-emerging-us-iran-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "time": "1 ساعت و 30 دقیقه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 25,
-        "neutral": 40,
-        "negative": 35
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "rt_2_1706176800",
-      "agencyId": "rt",
-      "title": "Trump praises Putin and Xi over Iran peace deal",
-      "title_fa": "ترامپ پوتین و شی را به خاطر توافق صلح ایران تحسین کرد",
-      "lead": "دونالد ترامپ از ولادیمیر پوتین و شی جین‌پینگ به خاطر نقششان در کمک به دستیابی به یک توافق صلح بین آمریکا و ایران تمجید کرده است. این خبر بر اهمیت نقش قدرت‌های جهانی در دیپلماسی منطقه‌ای تاکید دارد.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.rt.com/news/641576-trump-praises-putin-xi-iran-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 20,
-        "negative": 20
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "xinhua_4_1706176800",
-      "agencyId": "xinhua",
-      "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
-      "title_fa": "درگیری فلسطینی‌ها با سربازان اسرائیلی پس از اعتراض به سفر پنس",
-      "lead": "معترضان فلسطینی پس از اعتراض به سفر مایک پنس، معاون رئیس‌جمهور آمریکا به قدس، با سربازان اسرائیلی درگیر شدند. این درگیری‌ها در شهر الخلیل کرانه باختری و در پی پرتاب سنگ از سوی فلسطینی‌ها رخ داد.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm",
-      "time": "چند سال پیش",
-      "newsValues": {
-        "timeliness": "low",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "irna_fa_0_1718520000",
-      "agencyId": "irna_fa",
-      "title": "Governor: Yazd Handicrafts are a Manifestation of the Province's Cultural Identity",
-      "title_fa": "استاندار: صنایع دستی یزد، جلوه‌گاه هویت فرهنگی استان است",
-      "lead": "استاندار یزد گفت: صنایع دستی و بازار تاریخی یزد، جلوه‌گاه هویت فرهنگی استان است. آنها همچنین به رونق اقتصادی منطقه کمک شایانی می‌کنند.",
-      "category": "culture",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86183802/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%AF%D8%B3%D8%AA%DB%8C-%DB%8C%D8%B2%D8%AF-%D8%AC%D9%84%D9%88%D9%87-%DA%AF%D8%A7%D9%87-%D9%87%D9%88%DB%8C%D8%AA-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "irna_fa_1_1718520000",
-      "agencyId": "irna_fa",
-      "title": "Video| Presidential Advisor: Iran's Blocked Assets are on the Way Back",
-      "title_fa": "فیلم| مشاور رئیس‌جمهور: سرمایه‌های بلوکه‌شده ایران در مسیر بازگشت قرار گرفت",
-      "lead": "مشاور رئیس‌جمهور در امور روحانیت اعلام کرد که سرمایه‌های بلوکه‌شده ایران در مسیر بازگشت قرار گرفته است. او این اتفاق را نتیجه هدایت‌های رهبر معظم انقلاب، مقاومت ملت ایران و تلاش مسئولان کشور دانست.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86183705/%D9%81%DB%8C%D9%84%D9%85-%D9%85%D8%B4%D8%A7%D9%88%D8%B1-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%87%D8%A7%DB%8C-%D8%A8%D9%84%D9%88%DA%A9%D9%87-%D8%B4%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "irna_fa_2_1718520000",
-      "agencyId": "irna_fa",
-      "title": "Infographic | Mazandaran's Footprint in the World Cup",
-      "title_fa": "اینفوگرافیک | رد پای مازندران در جام جهانی",
-      "lead": "اینفوگرافیک حاضر به حضور بازیکنان مازندرانی در پنج دوره از هفت حضور تیم ملی فوتبال ایران در جام‌های جهانی می‌پردازد. این حضور از جام جهانی ۲۰۰۶ آغاز شده و با حضور بازیکنان مطرح ادامه یافته است.",
-      "category": "culture",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86183881/%D8%A7%DB%8C%D9%86%D9%81%D9%88%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9-%D8%B1%D8%AF-%D9%BE%D8%A7%DB%8C-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "irna_fa_3_1718520000",
-      "agencyId": "irna_fa",
-      "title": "15 Trillion Tomans in Facilities Allocated for Rural Development Activities",
-      "title_fa": "۱۵ همت تسهیلات برای توسعه فعالیت‌های روستایی اختصاص یافت",
-      "lead": "سرپرست معاونت امور تولیدات دامی وزارت جهاد کشاورزی از اختصاص ۱۵ همت تسهیلات برای توسعه فعالیت‌های روستایی و عشایری خبر داد. وی تاکید کرد که این اقدام نقش مهمی در ایجاد اشتغال و بهبود معیشت روستاییان خواهد داشت.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86183890/%DB%B1%DB%B5-%D9%87%D9%85%D8%AA-%D8%AA%D8%B3%D9%87%DB%8C%D9%84%D8%A7%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%DB%8C%D8%A7%D9%81%D8%AA",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
       },
       "analyzed_at": "2026-06-15T18:36:37.453Z"
     },
@@ -1037,28 +1125,6 @@
       "newsValues": {
         "timeliness": "high",
         "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-15T18:36:37.453Z"
-    },
-    {
-      "id": "irna_fa_7_1718520000",
-      "agencyId": "irna_fa",
-      "title": "Bandar Abbas Packaging and Cold Storage Unit Inaugurated by Presidential Webinar Order",
-      "title_fa": "واحد بسته‌بندی و سردخانه بندرعباس با دستور وبیناری رییس جمهور افتتاح شد",
-      "lead": "واحد بسته‌بندی و سردخانه محصولات صیفی و گلخانه‌ای سرخون بندرعباس با سرمایه‌گذاری ۳۰۰ میلیارد ریالی بخش خصوصی افتتاح شد. این پروژه با دستور وبیناری رییس جمهور و وزیر جهادکشاورزی به بهره‌برداری رسید.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86183873/%D9%88%D8%A7%D8%AD%D8%AF-%D8%A8%D8%B3%D8%AA%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D9%88-%D8%B3%D8%B1%D8%AF%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D9%88%D8%A8%DB%8C%D9%86%D8%A7%D8%B1%DB%8C-%D8%B1%DB%8C%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1",
-      "time": "دقایقی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
         "conflict": false
       },
       "sentiment": {
