@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T04:37:25.270Z",
-  "total": 180,
-  "new_this_cycle": 64,
+  "generated_at": "2026-06-17T06:37:58.594Z",
+  "total": 184,
+  "new_this_cycle": 66,
   "agencies": [
     {
       "id": "aljazeera",
@@ -105,7 +105,7 @@
       "agencyId": "aljazeera",
       "title": "Somaliland president visits Israeli Knesset on tour",
       "title_fa": "رئیس جمهور سومالی‌لند در تور خود از کنست اسرائیل بازدید می‌کند",
-      "lead": "رئیس جمهور سومالی‌لند در یک سفر «تاریخی» به اسرائیل به سر می‌برد و در آنجا سفارت افتتاح کرده و از کنست بازدید نموده است. این سفر نشان‌دهنده روابط دیپلماتیک جدیدی بین سومالی‌لند و اسرائیل است.",
+      "lead": "رئیس جمهور سومالی‌لند در یک سفر 'تاریخی' به اسرائیل، از کنست بازدید کرده و سفارتی را افتتاح کرده است. این سفر در چارچوب یک تور رسمی انجام می‌شود که روابط دیپلماتیک را تقویت می‌کند.",
       "category": "diplomacy",
       "region": "middleeast",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_somaliland-president-visits-israeli-knesset-on-tour-160626?traffic_source=rss",
@@ -116,18 +116,18 @@
         "conflict": false
       },
       "sentiment": {
-        "positive": 50,
-        "neutral": 50,
-        "negative": 0
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
       "id": "aljazeera_6_20260616",
       "agencyId": "aljazeera",
       "title": "Palestinian Bedouin villagers demolish homes after Israeli orders",
       "title_fa": "روستاییان بادیه‌نشین فلسطینی پس از دستورات اسرائیل خانه‌های خود را تخریب می‌کنند",
-      "lead": "روستاییان بادیه‌نشین فلسطینی در بئرشبا مجبور به تخریب خانه‌های خود شده‌اند، پس از آنکه اسرائیل دستورات تخریب صادر کرده است. این اقدام منجر به آوارگی و تشدید بحران مسکن برای این جوامع می‌شود.",
+      "lead": "بادیه‌نشینان فلسطینی در بئرشبع خانه‌های خود را پس از صدور دستورات تخریب توسط اسرائیل، خودشان ویران می‌کنند. این اقدام در پی حکم مقامات اسرائیلی و در جهت جلوگیری از تخریب توسط نیروهای اسرائیلی انجام می‌شود.",
       "category": "politics",
       "region": "middleeast",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/16/palestinian-bedouin-villagers-demolish-homes-after-israeli-orders?traffic_source=rss",
@@ -138,44 +138,66 @@
         "conflict": true
       },
       "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
+        "positive": 5,
+        "neutral": 25,
+        "negative": 70
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "france24_2_20260616",
+      "id": "france24_2_20240616120000",
       "agencyId": "france24",
       "title": "Can Hormuz be bypassed? Past shows commercial viability may simply not be there, analyst says",
-      "title_fa": "آیا تنگه هرمز قابل دور زدن است؟ تحلیلگر می‌گوید گذشته نشان می‌دهد که ممکن است صرفاً توجیه تجاری وجود نداشته باشد",
-      "lead": "در نشست گروه ۷، رهبران به دنبال شناسایی مسیرهای جایگزین برای دور زدن تنگه هرمز بودند. تحلیلگران معتقدند که سابقه تاریخی نشان می‌دهد که توجیه اقتصادی برای چنین اقداماتی ممکن است وجود نداشته باشد.",
+      "title_fa": "آیا می‌توان تنگه هرمز را دور زد؟ یک تحلیلگر می‌گوید سوابق نشان می‌دهد این کار از نظر تجاری ممکن نیست",
+      "lead": "در نشست سران گروه هفت، رهبران به دنبال شناسایی مسیرهای جایگزین برای دور زدن تنگه هرمز بودند. یک تحلیلگر می‌گوید سوابق نشان می‌دهد که از نظر تجاری ممکن است چنین جایگزینی مقرون به صرفه نباشد.",
       "category": "energy",
       "region": "middleeast",
       "sourceUrl": "https://www.france24.com/en/tv-shows/a-propos/20260616-can-hormuz-be-bypassed-past-shows-commercial-viability-may-simply-not-be-there-analyst-says",
-      "time": "2 ساعت پیش",
+      "time": "امروز",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
-        "conflict": true
+        "conflict": false
       },
       "sentiment": {
         "positive": 10,
-        "neutral": 80,
-        "negative": 10
+        "neutral": 70,
+        "negative": 20
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "dw_7_77577835",
+      "id": "dw_7_20240616120000",
       "agencyId": "dw",
       "title": "Why women's inheritance reform has stalled across Arab world",
       "title_fa": "چرا اصلاح قوانین ارث زنان در جهان عرب متوقف شده است؟",
-      "lead": "قوانین ارث مبتنی بر شریعت همچنان میلیون‌ها زن را در سراسر خاورمیانه با مشکل مواجه می‌کند. این خبر به بررسی دلایل توقف اصلاحات و پتانسیل تغییر برای نسل‌های آینده می‌پردازد.",
-      "category": "politics",
+      "lead": "قوانین ارث مبتنی بر شریعت همچنان میلیون‌ها زن را در سراسر خاورمیانه در موقعیت نامناسبی قرار می‌دهد. این گزارش به بررسی این موضوع می‌پردازد که چه چیزی می‌تواند باعث تغییر واقعی برای نسل بعدی دختران شود.",
+      "category": "culture",
       "region": "middleeast",
       "sourceUrl": "https://www.dw.com/en/why-women-s-inheritance-reform-has-stalled-across-arab-world/a-77577835?maca=en-rss-en-all-1573-xml-mrss",
-      "time": "2 ساعت پیش",
+      "time": "امروز",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "dw_10_20240616120000",
+      "agencyId": "dw",
+      "title": "US, Iran, Hezbollah spar over murky terms of ceasefire deal",
+      "title_fa": "آمریکا، ایران و حزب‌الله بر سر مفاد مبهم توافق آتش‌بس اختلاف نظر دارند",
+      "lead": "دیپلمات ارشد ایران می‌گوید حضور اسرائیل در لبنان نقض توافق موقت آمریکا و ایران برای پایان جنگ خواهد بود. این در حالی است که نخست‌وزیر اسرائیل اصرار دارد تا زمانی که لازم باشد اسرائیل در آنجا باقی خواهد ماند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/us-iran-hezbollah-spar-over-murky-terms-of-ceasefire-deal/live-77573728?maca=en-rss-en-all-1573-xml-mrss",
+      "time": "امروز",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -186,18 +208,216 @@
         "neutral": 40,
         "negative": 50
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "dw_10_77573728",
-      "agencyId": "dw",
-      "title": "US, Iran, Hezbollah spar over murky terms of ceasefire deal",
-      "title_fa": "آمریکا، ایران و حزب‌الله بر سر مفاد مبهم توافق آتش‌بس اختلاف نظر دارند",
-      "lead": "دیپلمات ارشد ایران اعلام کرده است که ادامه حضور اسرائیل در لبنان نقض توافق موقت آتش‌بس آمریکا و ایران خواهد بود. این در حالی است که نتانیاهو بر ادامه حضور اسرائیل تاکید دارد و طرفین بر سر جزئیات توافق اختلاف دارند.",
+      "id": "foreignpolicy_8_1781577600",
+      "agencyId": "foreignpolicy",
+      "title": "Trump Puts Russia-Ukraine War on the Back Burner",
+      "title_fa": "ترامپ جنگ روسیه و اوکراین را به حاشیه می‌برد",
+      "lead": "این گزارش حاکی از آن است که رویکرد بی‌علاقه ترامپ به جنگ روسیه و اوکراین، شکاف‌هایی را بین ایالات متحده و متحدان گروه هفت نشان می‌دهد. این وضعیت نگرانی‌هایی را در مورد آینده حمایت غرب از اوکراین و همچنین اولویت‌های سیاست خارجی آمریکا ایجاد می‌کند.",
       "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/16/trump-g7-summit-russia-ukraine-zelensky-iran-war/",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "foreignpolicy_11_1781577600",
+      "agencyId": "foreignpolicy",
+      "title": "Iran Is a Bigger Defeat Than Vietnam",
+      "title_fa": "ایران شکستی بزرگ‌تر از ویتنام است",
+      "lead": "این گزارش استدلال می‌کند که جنگ انتخابی در ایران به یک فاجعه استراتژیک برای واشنگتن تبدیل شده است. پیامدهای این وضعیت از نظر راهبردی، شکست ویتنام را نیز تحت‌الشعاع قرار می‌دهد و سوالاتی جدی درباره سیاست خارجی آمریکا مطرح می‌کند.",
+      "category": "politics",
       "region": "iran",
-      "sourceUrl": "https://www.dw.com/en/us-iran-hezbollah-spar-over-murky-terms-of-ceasefire-deal/live-77573728?maca=en-rss-en-all-1573-xml-mrss",
-      "time": "2 ساعت پیش",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/16/iran-vietnam-strategy-defeat/",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 25,
+        "negative": 70
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "foreignpolicy_1_1709404800",
+      "agencyId": "foreignpolicy",
+      "title": "It’s Time for the United States to Leave the Middle East",
+      "title_fa": "زمان آن فرا رسیده است که ایالات متحده خاورمیانه را ترک کند",
+      "lead": "جنگ ایران تنها آخرین شکست در رشته‌ای از ناکامی‌های ایالات متحده است. این مقاله به بحث در مورد لزوم خروج آمریکا از منطقه و عواقب آن می‌پردازد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/16/iran-united-states-war-middle-east-israel/",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "foreignpolicy_2_1709404801",
+      "agencyId": "foreignpolicy",
+      "title": "It’s Time to Stop Hunting Monsters",
+      "title_fa": "زمان آن فرا رسیده است که از شکار هیولاها دست برداریم",
+      "lead": "مداخله خارجی سیاستی با سابقه طولانی از فجایع است. این مقاله به بررسی پیامدهای منفی دخالت‌های نظامی و سیاسی در کشورهای دیگر می‌پردازد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/16/us-intervention-regime-change-hunting-monsters-debate/",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "foreignpolicy_3_1709404802",
+      "agencyId": "foreignpolicy",
+      "title": "Everyone Lost the War With Iran",
+      "title_fa": "همه در جنگ با ایران بازنده بودند",
+      "lead": "ماه‌ها درگیری نشان داد که چندین کشور می‌توانند هزینه‌هایی را تحمیل کنند، اما هیچ‌یک نمی‌توانند نظم را برقرار سازند. این وضعیت منجر به عدم پیروزی آشکار برای هیچ طرفی شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/16/iran-war-trump-gulf-china-russia-israel-ceasefire-deal/",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "skynews_4_1709404803",
+      "agencyId": "skynews",
+      "title": "Iran deal is tacit admission of strategic defeat by Trump administration",
+      "title_fa": "توافق با ایران اعتراف ضمنی به شکست استراتژیک دولت ترامپ است",
+      "lead": "«توافق» با ایران یک اذعان ضمنی به شکست استراتژیک دولت ترامپ و ناکامی در دستیابی به تقریباً تمام اهداف جنگی اوست. این تحلیل نشان می‌دهد که چگونه دولت ترامپ نتوانسته اهداف خود را در قبال ایران محقق سازد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.sky.com/story/trumps-iran-war-is-one-of-the-greatest-strategic-blunders-in-us-history-13554425",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "skynews_9_1709404804",
+      "agencyId": "skynews",
+      "title": "Homes in illegal Israeli settlements promoted at London property show",
+      "title_fa": "تبلیغ خانه‌ها در شهرک‌های غیرقانونی اسرائیل در نمایشگاه املاک لندن",
+      "lead": "اسکای نیوز به تصاویر اختصاصی دست یافته است که نشان می‌دهد شهرک‌های غیرقانونی اسرائیل در کرانه باختری در یک نمایشگاه املاک جنجالی در لندن تبلیغ می‌شدند. این موضوع اعتراضات گسترده‌ای را در پی داشته است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/homes-in-illegal-israeli-settlements-promoted-at-london-property-show-that-sparked-protests-13554407",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "bbc_10_1709404805",
+      "agencyId": "bbc",
+      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+      "title_fa": "تهران توافق با آمریکا را پیروزی می‌خواند – اما برای ایرانیان یک ضرورت بود",
+      "lead": "برای بسیاری از ایرانیان، سوال این نیست که آیا این توافق به معنای پیروزی است، بلکه این است که آیا قیمت‌ها را کاهش می‌دهد و ترس از جنگی دیگر را می‌کاهد. این مقاله به بررسی برداشت‌های داخلی ایران از توافق جدید می‌پردازد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "bbc_11_1709404806",
+      "agencyId": "bbc",
+      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+      "title_fa": "آرامش شکننده در لبنان در حالی که آتش‌بس آمریکا و ایران پرسش‌های بی‌پاسخ بر جای می‌گذارد",
+      "lead": "بسیاری از لبنانی‌ها همچنان تردید دارند که آیا این توافق می‌تواند به درگیری‌ها میان اسرائیل و حزب‌الله پایان دهد. این آتش‌بس شکننده هنوز به سوالات مهمی درباره آینده منطقه پاسخ نداده است.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+      "time": "چند دقیقه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "bbc_0_1781527200",
+      "agencyId": "bbc",
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "title_fa": "بریتانیا در حال تحقیق درباره گزارش شلیک هشدار ناو جنگی روسیه به قایق تفریحی در کانال مانش است",
+      "lead": "این زوج بازنشسته به بی‌بی‌سی نیوزنایت گفتند که پیش از شلیک، سعی کرده بودند به ناو جنگی نشان دهند که مسیر خود را تغییر داده‌اند. این حادثه در نزدیکی کانال مانش رخ داده و بریتانیا در حال بررسی دقیق آن است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "time": "چند ساعت پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -208,17 +428,347 @@
         "neutral": 60,
         "negative": 30
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "foreignpolicy_8_1718578800",
-      "agencyId": "foreignpolicy",
-      "title": "Trump Puts Russia-Ukraine War on the Back Burner",
-      "title_fa": "ترامپ جنگ روسیه و اوکراین را به حاشیه می‌برد",
-      "lead": "عدم علاقه ترامپ به جنگ اوکراین شکاف‌هایی بین ایالات متحده و متحدان G-7 ایجاد کرده است. این موضع‌گیری نشان‌دهنده اولویت‌بندی مسائل داخلی آمریکا بر جنگ اوکراین است.",
+      "id": "bbc_1_1781527200",
+      "agencyId": "bbc",
+      "title": "Russian artist and Putin critic shot dead in Poland",
+      "title_fa": "هنرمند روسی و منتقد پوتین در لهستان به ضرب گلوله کشته شد",
+      "lead": "رابرت کوزوکوف، با نام مستعار سمیون اسکرپتسکی، که به خاطر کاریکاتورهایش از سیاستمدارانی از جمله ولادیمیر پوتین شناخته شده بود، در لهستان به ضرب گلوله کشته شد. این ترور می‌تواند تبعات سیاسی و بین‌المللی داشته باشد و به نگرانی‌ها در مورد آزادی بیان در اروپا بیفزاید.",
       "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://foreignpolicy.com/2026/06/16/trump-g7-summit-russia-ukraine-zelensky-iran-war/",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "bbc_2_1781527200",
+      "agencyId": "bbc",
+      "title": "German broadcaster removes TV intro after Elon Musk takes legal action",
+      "title_fa": "شبکه تلویزیونی آلمانی پس از اقدام قانونی ایلان ماسک، مقدمه برنامه‌اش را حذف کرد",
+      "lead": "شبکه تلویزیونی ZDF پس از دریافت نامه «توقف و انصراف» از سوی ایلان ماسک، که برنامه‌شان را «دروغ‌های outrageous» نامیده بود، مقدمه برنامه‌های خود را حذف کرد. این اقدام نشان‌دهنده تاثیر چهره‌های عمومی و غول‌های فناوری بر رسانه‌ها و آزادی بیان در اروپا است.",
+      "category": "technology",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0jyzp9z9deo?at_medium=RSS&at_campaign=rss",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "bbc_5_1781527200",
+      "agencyId": "bbc",
+      "title": "Venezuela signs deal with US energy giant to rebuild power grid",
+      "title_fa": "ونزوئلا برای بازسازی شبکه برق خود با غول انرژی آمریکا قرارداد امضا کرد",
+      "lead": "این قرارداد با شرکت جنرال الکتریک، جدیدترین نشانه همکاری بین شرکت‌های آمریکایی و دولت موقت ونزوئلا است. این توافق می‌تواند به بهبود روابط دیپلماتیک و اقتصادی بین دو کشور کمک کرده و زیرساخت‌های حیاتی ونزوئلا را تقویت کند.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "nytimes_6_1781527200",
+      "agencyId": "nytimes",
+      "title": "Iran War Live Updates: Trump Says He Hopes to Put War in ‘Rearview Mirror’",
+      "title_fa": "به‌روزرسانی‌های زنده جنگ ایران: ترامپ می‌گوید امیدوار است جنگ را «پشت سر بگذارد»",
+      "lead": "وزیر خارجه ایران اعلام کرد که مذاکرات جدید درباره تسلیحات هسته‌ای و رفع تحریم‌ها روز جمعه، بلافاصله پس از امضای توافق اولیه، آغاز خواهد شد. این خبر امیدواری‌هایی را برای پایان درگیری‌ها و آغاز دور جدیدی از دیپلماسی بین‌المللی با محوریت ایران ایجاد کرده است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "nytimes_7_1781527200",
+      "agencyId": "nytimes",
+      "title": "After a Bitter Split, European Leaders Play Nice With Trump",
+      "title_fa": "پس از جدایی تلخ، رهبران اروپایی با ترامپ دوستانه رفتار می‌کنند",
+      "lead": "چارچوبی برای صلح با ایران و امید به همکاری در اوکراین، لحن جلسه گروه ۷ در فرانسه را ملایم‌تر کرد. این تغییر در روابط، نشان‌دهنده تلاش برای یافتن نقاط مشترک دیپلماتیک و حل و فصل بحران‌های بین‌المللی است.",
+      "category": "diplomacy",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "nytimes_8_1781527200",
+      "agencyId": "nytimes",
+      "title": "Naval Mines Could Still Stymie Gulf Shipping After War",
+      "title_fa": "مین‌های دریایی همچنان می‌توانند مانع کشتیرانی خلیج پس از جنگ شوند",
+      "lead": "نیروی دریایی آمریکا نسل جدیدی از اقدامات متقابل مبتنی بر پهپاد را برای جستجوی کف دریا و سطح آب برای هرگونه مین احتمالی که ایران کار گذاشته باشد، مستقر خواهد کرد. این وضعیت نشان‌دهنده چالش‌های پساجنگ در منطقه و لزوم پاکسازی مسیرهای دریایی برای تضمین امنیت تجارت جهانی است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "nytimes_11_1781527200",
+      "agencyId": "nytimes",
+      "title": "France, Britain and Other Countries Say They’ll Send Ships to the Strait of Hormuz",
+      "title_fa": "فرانسه، بریتانیا و کشورهای دیگر اعلام کردند که کشتی‌هایی را به تنگه هرمز اعزام خواهند کرد",
+      "lead": "برای ماه‌ها، ائتلافی به رهبری بریتانیا و فرانسه در حال آماده‌سازی برای اعزام مین‌روب و سایر کشتی‌ها برای تأمین امنیت تنگه پس از پایان درگیری‌ها بوده است. این لحظه ممکن است بالاخره فرا رسیده باشد و این اقدام برای تضمین امنیت کشتیرانی در یکی از مهم‌ترین آبراه‌های جهان حیاتی است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/06/16/world/europe/europe-strait-of-hormuz-iran-security.html",
+      "time": "چند ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "nytimes_0_1718544000",
+      "agencyId": "nytimes",
+      "title": "Iran Will Enter Nuclear Talks With the Trump Administration Feeling Emboldened",
+      "title_fa": "ایران در حالی وارد مذاکرات هسته‌ای با دولت ترامپ خواهد شد که احساس قدرت می‌کند",
+      "lead": "با وجود شکست‌های نظامی در طول جنگ، تهران قبل از مذاکره با واشنگتن روایت پیروزی را ارائه می‌دهد. این نشان می‌دهد که ایران با وجود چالش‌ها، موضع قوی‌تری در مذاکرات اتخاذ خواهد کرد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/06/16/world/middleeast/iran-us-deal-nuclear-talks.html",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "independent_3_1718544000",
+      "agencyId": "independent",
+      "title": "Iran-US war latest: Israel claims Trump ‘won’t let them see peace deal’ as he fears Netanyahu would leak it",
+      "title_fa": "آخرین اخبار جنگ ایران و آمریکا: اسرائیل ادعا می‌کند ترامپ اجازه نمی‌دهد آنها توافق صلح را ببینند، زیرا می‌ترسد نتانیاهو آن را افشا کند",
+      "lead": "گزارش‌ها حاکی از آن است که این توافق امتیازات بزرگی به ایران ارائه می‌دهد که اقتصاد آن را تقویت خواهد کرد. اسرائیل نگران است که این توافق به نفع ایران باشد و می‌خواهد از محتویات آن باخبر شود.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-g7-oil-strait-hormuz-deal-b2996320.html",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "independent_9_1718544000",
+      "agencyId": "independent",
+      "title": "Trump’s Iran hawk backers are not feeling good about ceasefire deal: ‘It all seems bad’",
+      "title_fa": "حامیان تندرو ترامپ در قبال ایران از توافق آتش‌بس راضی نیستند: «همه چیز بد به نظر می‌رسد»",
+      "lead": "جان باودن می‌نویسد که حامیان اصلی نئومحافظه‌کار ترامپ از تصمیم او برای رفتن به جنگ هیجان‌زده بودند. اما اکنون آنها با این واقعیت روبرو شده‌اند که او تا چه اندازه از اهدافشان فاصله گرفته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-ceasefire-conservative-skeptics-b2996924.html",
+      "time": "2 ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "rt_11_1700000000",
+      "agencyId": "rt",
+      "title": "Iran Blasts World Cup Treatment, Citing Unfairness for its 'Most Oppressed Team'",
+      "title_fa": "ایران به دلیل رفتار ناعادلانه با تیم فوتبال خود در جام جهانی اعتراض کرد",
+      "lead": "تیم ملی فوتبال ایران از برخورد ناعادلانه در جام جهانی شکایت کرده است. این اعتراض شامل مشکلات ویزا و سفرهای اجباری بین مکزیک و آمریکا می‌شود.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/641687-iran-world-cup-unfair/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "time": "لحظاتی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "rt_0_1702816990000",
+      "agencyId": "rt",
+      "title": "Israel to fund extremist settlers – media",
+      "title_fa": "اسرائیل به شهرک‌نشینان افراطی کمک مالی می‌کند – رسانه‌ها",
+      "lead": "رسانه‌ها گزارش داده‌اند که اسرائیل قصد دارد به شهرک‌نشینان افراطی کمک مالی کند. این اقدام ظاهراً برای مهار فعالیت‌های خشونت‌آمیز آنها علیه فلسطینیان انجام می‌شود.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/641679-israel-extremist-settlers-stipends/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "time": "کمتر از یک ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "xinhua_2_1702816990000",
+      "agencyId": "xinhua",
+      "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
+      "title_fa": "فلسطینیان پس از تظاهرات علیه سفر پنس با سربازان اسرائیلی درگیر شدند",
+      "lead": "پس از تظاهراتی علیه سفر مایک پنس، معاون رئیس‌جمهور آمریکا به قدس، معترضان فلسطینی در شهر الخلیل کرانه باختری با سربازان اسرائیلی درگیر شدند. در این درگیری‌ها، فلسطینیان به سوی سربازان اسرائیلی سنگ پرتاب کردند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm",
+      "time": "کمتر از یک ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "irna_fa_10_1702816990000",
+      "agencyId": "irna_fa",
+      "title": "Latest Poll Results: Netanyahu's Opponents Overtake His Party",
+      "title_fa": "نتایج تازه ترین نظرسنجی : مخالفان نتانیاهو از حزب نتانیاهو پیشی گرفتند",
+      "lead": "بر اساس نتایج یک نظرسنجی جدید شبکه کان رژیم صهیونیستی، در صورت برگزاری انتخابات کنونی، احزاب مخالف کابینه نتانیاهو ۶۸ کرسی از مجموع ۱۲۰ کرسی کنست را به دست خواهند آورد. این نشان می‌دهد که مخالفان نتانیاهو از حزب او پیشی گرفته‌اند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.irna.ir/news/86185055/%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%AA%D8%A7%D8%B2%D9%87-%D8%AA%D8%B1%DB%8C%D9%86-%D9%86%D8%B8%D8%B1%D8%B3%D9%86%D8%AC%DB%8C-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D9%86-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A7%D8%B2-%D8%AD%D8%B2%D8%A8-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D9%BE%DB%8C%D8%B4%DB%8C",
+      "time": "کمتر از یک ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "irna_fa_11_1702816990000",
+      "agencyId": "irna_fa",
+      "title": "TankerTrackers: 3.8 Million Barrels of Iranian Crude Oil Escaped US Blockade",
+      "title_fa": "تنکر ترکرز: ۳.۸ میلیون بشکه نفت خام ایران از محاصره آمریکا خارج شد",
+      "lead": "وب‌سایت تنکر ترکرز گزارش داد که دو ابرنفتکش ایرانی حامل ۳.۸ میلیون بشکه نفت خام، از محاصره آمریکا عبور کرده‌اند. این خبر نشان‌دهنده تداوم صادرات نفت ایران علیرغم تحریم‌های آمریکا است.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86185057/%D8%AA%D9%86%DA%A9%D8%B1-%D8%AA%D8%B1%DA%A9%D8%B1%D8%B2-%DB%B3-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%A8%D8%B4%DA%A9%D9%87-%D9%86%D9%81%D8%AA-%D8%AE%D8%A7%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AE%D8%A7%D8%B1%D8%AC",
+      "time": "کمتر از یک ساعت پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "irna_fa_0_86184995",
+      "agencyId": "irna_fa",
+      "title": "Commander of Naqadeh Police: Cause of death of Naqadeh lawyer under investigation",
+      "title_fa": "فرمانده انتظامی نقده: علت فوت وکیل نقده‌ای در دست بررسی قرار دارد",
+      "lead": "فرمانده انتظامی نقده گفت: علت فوت وکیل دادگستری در این شهرستان در دست بررسی قرار دارد. این حادثه در حال حاضر تحت پیگیری مقامات قضایی و انتظامی است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86184995/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D9%85%DB%8C-%D9%86%D9%82%D8%AF%D9%87-%D8%B9%D9%84%D8%AA-%D9%81%D9%88%D8%AA-%D9%88%DA%A9%DB%8C%D9%84-%D9%86%D9%82%D8%AF%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1",
       "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
@@ -230,17 +780,17 @@
         "neutral": 34,
         "negative": 33
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "foreignpolicy_11_1718578800",
-      "agencyId": "foreignpolicy",
-      "title": "Iran Is a Bigger Defeat Than Vietnam",
-      "title_fa": "ایران شکستی بزرگتر از ویتنام است",
-      "lead": "این مقاله استدلال می‌کند که سیاست آمریکا در قبال ایران به یک فاجعه استراتژیک برای واشنگتن تبدیل شده است. نویسنده وضعیت فعلی را شکستی بزرگتر از جنگ ویتنام برای ایالات متحده می‌داند.",
+      "id": "irna_fa_2_86185043",
+      "agencyId": "irna_fa",
+      "title": "Zionist regime extends detention of Gaza hospital director for another four months",
+      "title_fa": "رژیم صهیونیستی بازداشت رئیس بیمارستان غزه را چهار ماه دیگر تمدید کرد",
+      "lead": "دیوان عالی اسرائیل درخواست تجدیدنظر «حسام ابوصفیه» مدیر بیمارستان کمال عدوان در شمال نوار غزه را رد کرد. این حکم به تمدید بازداشت وی برای دست‌کم چهار ماه دیگر منجر شد که واکنش‌هایی را در پی داشته است.",
       "category": "politics",
-      "region": "west_asia",
-      "sourceUrl": "https://foreignpolicy.com/2026/06/16/iran-vietnam-strategy-defeat/",
+      "region": "middleeast",
+      "sourceUrl": "https://www.irna.ir/news/86185043/%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%BA%D8%B2%D9%87-%D8%B1%D8%A7-%DA%86%D9%87%D8%A7%D8%B1-%D9%85%D8%A7%D9%87-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AA%D9%85%D8%AF%DB%8C%D8%AF",
       "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
@@ -252,172 +802,172 @@
         "neutral": 20,
         "negative": 70
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "foreignpolicy_1_1718501200",
-      "agencyId": "foreignpolicy",
-      "title": "It’s Time for the United States to Leave the Middle East",
-      "title_fa": "وقت آن رسیده که ایالات متحده خاورمیانه را ترک کند",
-      "lead": "این مقاله استدلال می‌کند که زمان خروج ایالات متحده از خاورمیانه فرا رسیده است. جنگ ایران تنها یکی از شکست‌های پی در پی آمریکاست که نیاز به بازنگری در سیاست خارجی را نشان می‌دهد.",
+      "id": "irna_fa_5_86185042",
+      "agencyId": "irna_fa",
+      "title": "First Vice President converses with Kermanshah veteran of Ramadan War",
+      "title_fa": "معاون اول رئیس‌جمهور با جانباز کرمانشاهی جنگ رمضان گفت‌وگو کرد",
+      "lead": "معاون اول رئیس‌جمهور در تماس تلفنی با جانباز والامقام هوافضای سپاه حسین محمدی در کرمانشاه گفت‌وگو کرد. وی ضمن قدردانی از رشادت‌ها و فداکاری‌های رزمندگان و ایثارگران در دفاع از کشور، خدمات آنان را ارج نهاد.",
       "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://foreignpolicy.com/2026/06/16/iran-united-states-war-middle-east-israel/",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 40,
-        "negative": 50
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "foreignpolicy_2_1718501201",
-      "agencyId": "foreignpolicy",
-      "title": "It’s Time to Stop Hunting Monsters",
-      "title_fa": "وقت آن است که دست از شکار هیولاها برداریم",
-      "lead": "این مقاله استدلال می‌کند که مداخلات خارجی سیاستی با سابقه طولانی از فجایع است. نویسنده خواستار پایان دادن به رویکردهای مداخله‌جویانه در سیاست خارجی است که اغلب نتایج معکوسی به همراه دارد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://foreignpolicy.com/2026/06/16/us-intervention-regime-change-hunting-monsters-debate/",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 40,
-        "negative": 50
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "foreignpolicy_3_1718501202",
-      "agencyId": "foreignpolicy",
-      "title": "Everyone Lost the War With Iran",
-      "title_fa": "همه در جنگ با ایران بازنده بودند",
-      "lead": "این گزارش تحلیل می‌کند که ماه‌ها درگیری با ایران نشان داد که چندین کشور می‌توانند هزینه‌هایی را تحمیل کنند. اما هیچ‌یک قادر به برقراری نظم نبوده و نتیجه جنگ شکست برای همه طرف‌ها بوده است.",
-      "category": "military",
       "region": "iran",
-      "sourceUrl": "https://foreignpolicy.com/2026/06/16/iran-war-trump-gulf-china-russia-israel-ceasefire-deal/",
-      "time": "لحظاتی پیش",
+      "sourceUrl": "https://www.irna.ir/news/86185042/%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%88%D9%84-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%A8%D8%A7-%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%B2-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87%DB%8C-%D8%AC%D9%86%DA%AF-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%DA%AF%D9%81%D8%AA-%D9%88-%DA%AF%D9%88-%DA%A9%D8%B1%D8%AF",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "irna_en_6_86184626",
+      "agencyId": "irna_en",
+      "title": "Israeli attack, continued occupation of Lebanon will breach Iran-US MoU: Araghchi",
+      "title_fa": "حمله اسرائیل و ادامه اشغال لبنان، نقض تفاهم‌نامه ایران-آمریکا خواهد بود: عراقچی",
+      "lead": "Foreign Minister Abbas Araghchi, referring to the Iran-US deal on ending the war, warned that any Israeli attack on Lebanon or the continued occupation of Arab territories would breach the agreement. He emphasized the importance of upholding international commitments for regional stability.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.irna.ir/news/86184626/Israeli-attack-continued-occupation-of-Lebanon-will-breach-Iran-US",
+      "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": true
       },
       "sentiment": {
-        "positive": 0,
-        "neutral": 30,
+        "positive": 10,
+        "neutral": 20,
         "negative": 70
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "skynews_4_1718501203",
-      "agencyId": "skynews",
-      "title": "Iran deal is tacit admission of strategic defeat by Trump administration",
-      "title_fa": "توافق ایران اعتراف ضمنی به شکست استراتژیک دولت ترامپ است",
-      "lead": "توافق با ایران، اعتراف ضمنی دولت ترامپ به شکست استراتژیک و عدم دستیابی به اهداف جنگی او تلقی می‌شود. این مقاله نشان می‌دهد که این توافق، نشانه‌ای از ناکامی سیاست‌های قبلی آمریکاست.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://news.sky.com/story/trumps-iran-war-is-one-of-the-greatest-strategic-blunders-in-us-history-13554425",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "skynews_9_1718501204",
-      "agencyId": "skynews",
-      "title": "Homes in illegal Israeli settlements promoted at London property show",
-      "title_fa": "خانه‌های شهرک‌های غیرقانونی اسرائیل در نمایشگاه ملکی لندن تبلیغ شدند",
-      "lead": "تصاویر اختصاصی نشان می‌دهد که خانه‌های شهرک‌های غیرقانونی اسرائیل در کرانه باختری در یک نمایشگاه ملکی بحث‌برانگیز در لندن تبلیغ شده‌اند. این اقدام با اعتراضات گسترده‌ای در لندن مواجه شد و نگرانی‌ها را در مورد وضعیت شهرک‌سازی‌ها افزایش می‌دهد.",
-      "category": "politics",
-      "region": "west_asia",
-      "sourceUrl": "https://news.sky.com/story/homes-in-illegal-israeli-settlements-promoted-at-london-property-show-that-sparked-protests-13554407",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "bbc_10_1718501205",
-      "agencyId": "bbc",
-      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-      "title_fa": "تهران توافق با آمریکا را پیروزی می‌خواند - اما برای ایرانیان یک ضرورت بود",
-      "lead": "تهران در حالی توافق با آمریکا را به عنوان یک پیروزی معرفی می‌کند که برای بسیاری از ایرانیان، این توافق بیشتر یک ضرورت برای کاهش قیمت‌ها و ترس از جنگ جدید است. این دیدگاه متفاوت، واقعیت‌های داخلی ایران را در مورد این توافق نشان می‌دهد.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
-      "time": "لحظاتی پیش",
+      "id": "irna_en_7_86184591",
+      "agencyId": "irna_en",
+      "title": "Exclusive | Iran-US talks on final deal to begin immediately after MoU signing: Deputy FM",
+      "title_fa": "انحصاری | معاون وزیر خارجه: مذاکرات ایران و آمریکا برای توافق نهایی بلافاصله پس از امضای تفاهم‌نامه آغاز خواهد شد",
+      "lead": "Iranian Deputy Foreign Minister for Political Affairs Majid Takht-e-Ravanchi announced that negotiations on a final agreement will begin immediately after the signing of a memorandum of understanding. This statement signals a significant step forward in ongoing diplomatic efforts between Iran and the United States.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.irna.ir/news/86184591/Exclusive-Iran-US-talks-on-final-deal-to-begin-immediately",
+      "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
         "conflict": false
       },
       "sentiment": {
-        "positive": 40,
-        "neutral": 40,
-        "negative": 20
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "bbc_11_1718501206",
-      "agencyId": "bbc",
-      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-      "title_fa": "آرامش شکننده در لبنان در حالی که آتش‌بس آمریکا و ایران پرسش‌های بی‌پاسخ بر جای می‌گذارد",
-      "lead": "با وجود آتش‌بس میان آمریکا و ایران، آرامش شکننده‌ای در لبنان حکمفرماست و بسیاری از لبنانی‌ها تردید دارند که این توافق به درگیری‌ها بین اسرائیل و حزب‌الله پایان دهد. این وضعیت، نگرانی‌ها در مورد آینده صلح و ثبات منطقه را افزایش می‌دهد.",
-      "category": "diplomacy",
-      "region": "west_asia",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
-      "time": "لحظاتی پیش",
+      "id": "irna_en_8_86184466",
+      "agencyId": "irna_en",
+      "title": "Enemy did not dare approach Iranian shores during both wars: Army chief",
+      "title_fa": "فرمانده ارتش: دشمن در طول هر دو جنگ جرات نزدیک شدن به سواحل ایران را نداشت",
+      "lead": "Chief Commander of the Iranian Army, Major General Amir Hatami, stated that enemy forces did not dare approach Iran’s coastlines during recent US-Israel wars against the country. He attributed this to Iran's robust defense capabilities and readiness.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.irna.ir/news/86184466/Enemy-did-not-dare-approach-Iranian-shores-during-both-wars",
+      "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
-        "impact": "high",
+        "impact": "medium",
         "conflict": true
       },
       "sentiment": {
-        "positive": 20,
-        "neutral": 40,
-        "negative": 40
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "nytimes_6_20260616",
-      "agencyId": "nytimes",
-      "title": "Trump Hopes to Put Iran War in ‘Rearview Mirror’ as Nuclear Talks Begin",
-      "title_fa": "ترامپ ابراز امیدواری کرد که جنگ با ایران را \"پشت سر بگذارد\" همزمان با آغاز مذاکرات هسته‌ای",
-      "lead": "همزمان با مذاکرات جدید برای توافق هسته‌ای و رفع تحریم‌ها، دونالد ترامپ، رئیس‌جمهور آمریکا، ابراز امیدواری کرد که جنگ با ایران به پایان برسد. وزیر امور خارجه ایران نیز اعلام کرد که مذاکرات جمعه، بلافاصله پس از امضای توافق اولیه، آغاز خواهد شد.",
+      "id": "irna_en_10_86184339",
+      "agencyId": "irna_en",
+      "title": "Iranian Army to spare no effort in defending nation against threats: Top commander",
+      "title_fa": "فرمانده ارشد: ارتش ایران در دفاع از ملت در برابر تهدیدات از هیچ تلاشی فروگذار نخواهد کرد",
+      "lead": "Commander of the Iranian Army’s Ground Force Brigadier General Ali Jahanshahi reaffirmed the military’s unwavering commitment to defending the country. He declared that Iran’s Armed Forces will spare no effort in protecting the nation against any potential threats.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.irna.ir/news/86184339/Iranian-Army-to-spare-no-effort-in-defending-nation-against-threats",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "irna_en_11_86184211",
+      "agencyId": "irna_en",
+      "title": "Iran Vienna embassy: Sanctions removal by four European countries is not a concession to Tehran",
+      "title_fa": "سفارت ایران در وین: لغو تحریم‌ها توسط چهار کشور اروپایی امتیازی به تهران نیست",
+      "lead": "The Iranian embassy in Vienna reacted to a joint statement by Britain, France, Germany, and Italy expressing their readiness to lift sanctions on Iran. The embassy stated that this European decision is not a concession to Tehran, but rather a return to international commitments by these countries.",
       "category": "diplomacy",
       "region": "iran",
-      "sourceUrl": "https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal",
-      "time": "امروز",
+      "sourceUrl": "https://en.irna.ir/news/86184211/Iran-Vienna-embassy-Sanctions-removal-by-four-European-countries",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "irna_en_0_20240618100000",
+      "agencyId": "irna_en",
+      "title": "Governor of Central Bank of Iran departs for Moscow",
+      "title_fa": "رئیس کل بانک مرکزی ایران عازم مسکو شد",
+      "lead": "رئیس کل بانک مرکزی ایران به منظور توسعه روابط پولی و بانکی بین ایران و روسیه عازم مسکو شده است. این سفر با هدف تقویت همکاری‌های اقتصادی و مالی میان دو کشور انجام می‌شود.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://en.irna.ir/news/86184136/Governor-of-Central-Bank-of-Iran-departs-for-Moscow",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "irna_en_1_20240618100000",
+      "agencyId": "irna_en",
+      "title": "IRGC Quds chief: 'Third imposed war' discredited US, accelerated Israel’s collapse",
+      "title_fa": "فرمانده قدس سپاه: «جنگ تحمیلی سوم» آمریکا را بی اعتبار کرد و فروپاشی اسرائیل را تسریع بخشید",
+      "lead": "فرمانده نیروی قدس سپاه پاسداران، سردار اسماعیل قاآنی، اظهار داشت که «جنگ تحمیلی سوم» علیه ایران، آمریکا را بی اعتبار کرده است. وی همچنین تاکید کرد که این جنگ فروپاشی اسرائیل را تسریع بخشیده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.irna.ir/news/86184166/Third-imposed-war-discredited-US-accelerated-Israel-s-collapse",
+      "time": "دقایقی پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -425,21 +975,43 @@
       },
       "sentiment": {
         "positive": 40,
-        "neutral": 40,
-        "negative": 20
+        "neutral": 30,
+        "negative": 30
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "nytimes_7_20260616",
-      "agencyId": "nytimes",
-      "title": "European Leaders Mend Ties with Trump Amid Iran Peace Framework at G7",
-      "title_fa": "رهبران اروپایی در بحبوحه چارچوب صلح با ایران و در نشست جی۷، روابط خود را با ترامپ ترمیم کردند",
-      "lead": "پس از اختلافات شدید، رهبران اروپایی در نشست گروه ۷ در فرانسه، رویکردی آشتی‌جویانه با ترامپ در پیش گرفتند. چارچوب صلح با ایران و امید به همکاری در مورد اوکراین، لحن مذاکرات را نرم‌تر کرد.",
+      "id": "mehrnews_2_20240618100000",
+      "agencyId": "mehrnews",
+      "title": "Video: Pro-Islamic Establishment nightly marches held in Bojnourd",
+      "title_fa": "ویدئو: راهپیمایی‌های شبانه حامیان نظام اسلامی در بجنورد",
+      "lead": "مردم بجنورد در استان خراسان شمالی حضور خود را در خیابان‌ها برای حمایت از دولت جمهوری اسلامی ادامه دادند. این راهپیمایی‌ها به منظور اعلام وفاداری و حمایت از نظام اسلامی برگزار می‌شود.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245395/VIDEO-Pro-Islamic-Establishment-nightly-marches-in-Bojnourd",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "mehrnews_3_20240618100000",
+      "agencyId": "mehrnews",
+      "title": "Iran, Oman FMs discuss Tehran-Washington MoU via phone call",
+      "title_fa": "وزرای خارجه ایران و عمان درباره تفاهم‌نامه تهران-واشنگتن تلفنی گفتگو کردند",
+      "lead": "وزیر امور خارجه ایران، عباس عراقچی، و همتای عمانی خود، سید بدر البوسعیدی، تلفنی درباره تفاهم‌نامه تهران-واشنگتن گفتگو کردند. این گفتگوها نشان‌دهنده تلاش‌های دیپلماتیک برای حل و فصل مسائل منطقه‌ای و بین‌المللی است.",
       "category": "diplomacy",
-      "region": "europe",
-      "sourceUrl": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html",
-      "time": "امروز",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245394/Iran-Oman-FMs-hold-call-on-Tehran-Washington-MoU",
+      "time": "دقایقی پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -450,216 +1022,18 @@
         "neutral": 40,
         "negative": 10
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "nytimes_8_20260616",
-      "agencyId": "nytimes",
-      "title": "U.S. Navy to Deploy Drone Countermeasures for Mines in Persian Gulf",
-      "title_fa": "نیروی دریایی آمریکا برای خنثی‌سازی مین‌ها در خلیج فارس، تدابیر مقابله‌ای پهپادی مستقر می‌کند",
-      "lead": "پس از پایان جنگ، مین‌های دریایی همچنان می‌توانند مانع کشتیرانی در خلیج فارس شوند. نیروی دریایی آمریکا نسل جدیدی از تدابیر مقابله‌ای مبتنی بر پهپاد را برای جستجوی مین‌های احتمالی کارگذاشته شده توسط ایران در کف دریا و سطح آن مستقر خواهد کرد.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://www.nytimes.com/2026/06/16/world/middleeast/strait-hormuz-mines-clearing.html",
-      "time": "امروز",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 40,
-        "negative": 50
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "nytimes_11_20260616",
-      "agencyId": "nytimes",
-      "title": "European Coalition to Deploy Ships to Secure Strait of Hormuz",
-      "title_fa": "ائتلاف اروپایی برای تامین امنیت تنگه هرمز، کشتی اعزام می‌کند",
-      "lead": "بریتانیا، فرانسه و دیگر کشورها اعلام کردند که کشتی‌هایی را به تنگه هرمز اعزام خواهند کرد. ائتلافی به رهبری این دو کشور برای ماه‌ها در حال آماده‌سازی برای اعزام مین‌روب و سایر کشتی‌ها جهت تامین امنیت این تنگه پس از پایان درگیری‌ها بوده است و این لحظه ممکن است فرا رسیده باشد.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://www.nytimes.com/2026/06/16/world/europe/europe-strait-of-hormuz-iran-security.html",
-      "time": "امروز",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 50,
-        "negative": 30
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "nytimes_0_20260616",
-      "agencyId": "nytimes",
-      "title": "Iran Will Enter Nuclear Talks With the Trump Administration Feeling Emboldened",
-      "title_fa": "ایران با احساس جسارت وارد مذاکرات هسته‌ای با دولت ترامپ خواهد شد",
-      "lead": "با وجود شکست‌های نظامی در طول جنگ، تهران روایت پیروزی را پیش از مذاکرات با واشنگتن ارائه می‌دهد. این موضوع نشان‌دهنده موضع قوی ایران در آستانه گفتگوهای هسته‌ای است.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://www.nytimes.com/2026/06/16/world/middleeast/iran-us-deal-nuclear-talks.html",
-      "time": "چند ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 30,
-        "negative": 30
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "independent_3_20260616",
-      "agencyId": "independent",
-      "title": "Iran-US war latest: Israel claims Trump ‘won’t let them see peace deal’ as he fears Netanyahu would leak it",
-      "title_fa": "آخرین اخبار جنگ ایران و آمریکا: اسرائیل ادعا می‌کند ترامپ اجازه نمی‌دهد آنها «توافق صلح» را ببینند، زیرا نگران است نتانیاهو آن را فاش کند",
-      "lead": "گزارش‌ها حاکی از آن است که این توافق امتیازات بزرگی را به ایران ارائه می‌دهد که اقتصاد آن را تقویت خواهد کرد. این خبر نشان‌دهنده پیچیدگی مذاکرات و نگرانی‌های منطقه‌ای پیرامون هرگونه توافق احتمالی است.",
+      "id": "mehrnews_4_20240618100000",
+      "agencyId": "mehrnews",
+      "title": "Million-man march in Yemen in support of resistance and Iran",
+      "title_fa": "راهپیمایی میلیونی در یمن در حمایت از مقاومت و ایران",
+      "lead": "میلیون‌ها یمنی در صنعا و دیگر شهرهای یمن راهپیمایی‌های میلیونی برگزار کردند. این راهپیمایی‌ها علیه توهین دونالد ترامپ، رئیس‌جمهور آمریکا، به مقدسات اسلامی و برای تبریک به ایران و حزب‌الله برگزار شد.",
       "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-g7-oil-strait-hormuz-deal-b2996320.html",
-      "time": "چند ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 40,
-        "negative": 30
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "independent_9_20260616",
-      "agencyId": "independent",
-      "title": "Trump’s Iran hawk backers are not feeling good about ceasefire deal: ‘It all seems bad’",
-      "title_fa": "حامیان تندرو ترامپ در مورد ایران از توافق آتش‌بس راضی نیستند: «همه چیز بد به نظر می‌رسد»",
-      "lead": "حامیان نومحافظه‌کار ترامپ که از تصمیم او برای رفتن به جنگ هیجان‌زده بودند، اکنون با این واقعیت روبرو شده‌اند که او به اهدافشان نرسیده است. این نشان‌دهنده نارضایتی برخی گروه‌ها از نتایج مذاکرات و کاهش تنش‌ها با ایران است.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-ceasefire-conservative-skeptics-b2996924.html",
-      "time": "چند ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 40,
-        "negative": 30
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "rt_11_1707072000",
-      "agencyId": "rt",
-      "title": "Iran's Football Team Criticizes World Cup Treatment",
-      "title_fa": "تیم فوتبال ایران از نحوه برخورد در جام جهانی انتقاد کرد",
-      "lead": "تیم ملی فوتبال ایران از برخورد ناعادلانه در جام جهانی، از جمله مشکلات ویزا و سفرهای اجباری بین مکزیک و ایالات متحده، گلایه کرده است. این تیم ادعا می‌کند که مورد تبعیض قرار گرفته و خود را «مظلوم‌ترین تیم» خوانده است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.rt.com/news/641687-iran-world-cup-unfair/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "rt_0_20240101120000",
-      "agencyId": "rt",
-      "title": "Israel to fund extremist settlers",
-      "title_fa": "اسرائیل به شهرک‌نشینان افراطی کمک مالی می‌کند",
-      "lead": "این خبر از رسانه‌ها حاکیست که اسرائیل در تلاش برای مهار فعالیت‌های خشونت‌آمیز شهرک‌نشینان افراطی علیه فلسطینیان، قصد دارد به آنها بودجه اختصاص دهد. این اقدام در راستای کنترل تنش‌ها در مناطق اشغالی عنوان شده است.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.rt.com/news/641679-israel-extremist-settlers-stipends/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "xinhua_2_20240101120000",
-      "agencyId": "xinhua",
-      "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
-      "title_fa": "درگیری فلسطینیان با سربازان اسرائیلی پس از اعتراض به سفر پنس",
-      "lead": "معترضان فلسطینی پس از اعتراض به سفر مایک پنس، معاون رئیس‌جمهور آمریکا، در بیت‌المقدس و کرانه باختری، با پرتاب سنگ به سمت سربازان اسرائیلی، درگیر شدند. این درگیری‌ها در شهر الخلیل و در پی تنش‌های منطقه‌ای رخ داده است.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm",
-      "time": "چند سال پیش",
-      "newsValues": {
-        "timeliness": "low",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 5,
-        "neutral": 20,
-        "negative": 75
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "irna_fa_10_20240101120000",
-      "agencyId": "irna_fa",
-      "title": "Latest poll results: Netanyahu's opponents surpass his party",
-      "title_fa": "نتایج تازه‌ترین نظرسنجی: مخالفان نتانیاهو از حزب نتانیاهو پیشی گرفتند",
-      "lead": "نتایج نظرسنجی جدید شبکه کان رژیم صهیونیستی نشان می‌دهد که در صورت برگزاری انتخابات در شرایط کنونی، احزاب مخالف نتانیاهو ۶۸ کرسی از مجموع ۱۲۰ کرسی کنست را به دست خواهند آورد. این آمار حکایت از تضعیف موقعیت حزب حاکم و افزایش شانس مخالفان برای تشکیل کابینه آینده دارد.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.irna.ir/news/86185055/%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%AA%D8%A7%D8%B2%D9%87-%D8%AA%D8%B1%DB%8C%D9%86-%D9%86%D8%B8%D8%B1%D8%B3%D9%86%D8%AC%DB%8C-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7%D9%86-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A7%D8%B2-%D8%AD%D8%B2%D8%A8-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D9%BE%DB%8C%D8%B4%DB%8C",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 40,
-        "negative": 30
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "irna_fa_11_20240101120000",
-      "agencyId": "irna_fa",
-      "title": "TankerTrackers: 3.8 million barrels of Iranian crude oil escaped US siege",
-      "title_fa": "تنکر ترکرز: ۳.۸ میلیون بشکه نفت خام ایران از محاصره آمریکا خارج شد",
-      "lead": "وب‌سایت TankerTrackers گزارش داده است که دو ابرنفتکش ایرانی حامل ۳.۸ میلیون بشکه نفت خام، با موفقیت از محاصره آمریکا عبور کرده‌اند. این اتفاق نشان‌دهنده تداوم صادرات نفت ایران با وجود تحریم‌ها و تلاش‌ها برای دور زدن محدودیت‌ها است.",
-      "category": "energy",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86185057/%D8%AA%D9%86%DA%A9%D8%B1-%D8%AA%D8%B1%DA%A9%D8%B1%D8%B2-%DB%B3-%DB%B8-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%A8%D8%B4%DA%A9%D9%87-%D9%86%D9%81%D8%AA-%D8%AE%D8%A7%D9%85-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D9%85%D8%AD%D8%A7%D8%B5%D8%B1%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AE%D8%A7%D8%B1%D8%AC",
-      "time": "چند ساعت پیش",
+      "region": "west_asia",
+      "sourceUrl": "https://en.mehrnews.com/news/245393/Million-man-march-in-Yemen-in-support-of-resistance-Iran",
+      "time": "دقایقی پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -670,40 +1044,172 @@
         "neutral": 20,
         "negative": 20
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "irna_fa_0_1701000000",
-      "agencyId": "irna_fa",
-      "title": "Police Commander of Naghadeh: Cause of Death of Naghadeh Lawyer Under Investigation",
-      "title_fa": "فرمانده انتظامی نقده: علت فوت وکیل نقده‌ای در دست بررسی قرار دارد",
-      "lead": "فرمانده انتظامی نقده اعلام کرد که علت فوت وکیل دادگستری در این شهرستان در دست بررسی است. این موضوع برای کشف حقیقت و اطلاع‌رسانی دقیق به مردم در حال پیگیری است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86184995/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D9%85%DB%8C-%D9%86%D9%82%D8%AF%D9%87-%D8%B9%D9%84%D8%AA-%D9%81%D9%88%D8%AA-%D9%88%DA%A9%DB%8C%D9%84-%D9%86%D9%82%D8%AF%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%AF%D8%B3%D8%AA-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1",
-      "time": "همین الان",
+      "id": "mehrnews_5_20240618100000",
+      "agencyId": "mehrnews",
+      "title": "France shuts down 12 Israeli stands at major arms expo",
+      "title_fa": "فرانسه ۱۲ غرفه اسرائیلی را در نمایشگاه بزرگ تسلیحات تعطیل کرد",
+      "lead": "دوازده غرفه شرکت‌های اسرائیلی در یک نمایشگاه بزرگ دفاعی بین‌المللی در خارج از پاریس تعطیل شدند. این اقدام در بحبوحه افزایش مخالفت‌ها در سراسر اروپا با جنگ نسل‌کشی اسرائیل صورت گرفت.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://en.mehrnews.com/news/245392/France-shuts-down-12-Israeli-stands-at-major-arms-expo",
+      "time": "دقایقی پیش",
       "newsValues": {
         "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
+        "impact": "high",
+        "conflict": true
       },
       "sentiment": {
         "positive": 20,
-        "neutral": 60,
-        "negative": 20
+        "neutral": 30,
+        "negative": 50
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
-      "id": "irna_fa_2_1701000000",
-      "agencyId": "irna_fa",
-      "title": "Zionist Regime Extends Detention of Gaza Hospital Director for Another Four Months",
-      "title_fa": "رژیم صهیونیستی بازداشت رئیس بیمارستان غزه را چهار ماه دیگر تمدید کرد",
-      "lead": "دیوان عالی اسرائیل با رد درخواست تجدیدنظر، حکم تمدید بازداشت حسام ابوصفیه، مدیر بیمارستان کمال عدوان در شمال نوار غزه را صادر کرد. این حکم به معنای ادامه حبس وی برای دست‌کم چهار ماه دیگر است.",
+      "id": "mehrnews_6_20240618100000",
+      "agencyId": "mehrnews",
+      "title": "Iran's caretaker defense minister: Advanced arms production never halted during 'imposed war'",
+      "title_fa": "وزیر دفاع موقت ایران: تولید تسلیحات پیشرفته در طول «جنگ تحمیلی» هرگز متوقف نشد",
+      "lead": "وزیر دفاع موقت ایران اعلام کرد که تولید موشک‌ها و پهپادهای استراتژیک با سرعت و دقت بیشتری در طول جنگ تحمیلی ادامه یافت. وی تاکید کرد که پیشرفت در صنعت دفاعی ایران متوقف نشده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245391/Advanced-arms-production-never-halted-during-imposed-war",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "mehrnews_7_20240618100000",
+      "agencyId": "mehrnews",
+      "title": "Hezbollah chief: Iran is a symbol of dignity and honor",
+      "title_fa": "رئیس حزب‌الله: ایران نماد عزت و شرافت است",
+      "lead": "شیخ نعیم قاسم، دبیرکل حزب‌الله، از حمایت‌های ایران از لبنان و جنبش مقاومت قدردانی کرد. وی ایران را «نماد عزت و شرافت» توصیف کرد و بر اهمیت نقش منطقه‌ای ایران تاکید کرد.",
       "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.irna.ir/news/86185043/%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%BA%D8%B2%D9%87-%D8%B1%D8%A7-%DA%86%D9%87%D8%A7%D8%B1-%D9%85%D8%A7%D9%87-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AA%D9%85%D8%AF%DB%8C%D8%AF",
-      "time": "همین الان",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245390/Iran-is-a-symbol-of-dignity-and-honor-Hezbollah-chief",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 10,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "mehrnews_8_20240618100000",
+      "agencyId": "mehrnews",
+      "title": "Iran’s VP: We must strengthen our unity and cohesion against enemies",
+      "title_fa": "معاون رئیس‌جمهور: باید وحدت و انسجام خود را در برابر دشمنان تقویت کنیم",
+      "lead": "محمدرضا عارف، معاون اول رئیس‌جمهور ایران، گفت که مقامات دولتی و مردم باید وحدت و انسجام خود را در برابر دشمنان تقویت کنند. وی افزود ایران پیروزی‌های ارزشمندی کسب کرده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245389/We-must-strengthen-our-unity-cohesion-against-enemies-VP",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 20,
+        "negative": 20
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "mehrnews_9_20240618100000",
+      "agencyId": "mehrnews",
+      "title": "Boroujerdi provides more details on Iran-US MoU",
+      "title_fa": "بروجردی جزئیات بیشتری درباره تفاهم‌نامه ایران و آمریکا ارائه کرد",
+      "lead": "علاءالدین بروجردی، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، جزئیات بیشتری درباره تفاهم‌نامه بین تهران و واشنگتن ارائه داد. این اطلاعات می‌تواند به روشن شدن ابعاد این تفاهم‌نامه کمک کند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245388/Boroujerdi-gives-more-details-on-Iran-US-MoU",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "khabaronline_10_20240618100000",
+      "agencyId": "khabaronline",
+      "title": "Eje'i: If an agreement is signed and the enemy breaks its promise, we will retaliate",
+      "title_fa": "اژه‌ای: اگر چیزی امضا شد و دشمن عهد شکست، ما مقابله‌به‌مثل خواهیم کرد",
+      "lead": "رئیس قوه قضائیه، اژه‌ای، گفت که مسئولین با هوشیاری کامل مذاکره خواهند کرد، زیرا دشمن بدعهد است. وی تاکید کرد که اگر توافقی امضا شود و دشمن عهد خود را زیر پا بگذارد، ایران مقابله‌به‌مثل خواهد کرد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2234182/%D8%A7%DA%98%D9%87-%D8%A7%DB%8C-%D8%A7%DA%AF%D8%B1-%DA%86%DB%8C%D8%B2%DB%8C-%D8%A7%D9%85%D8%B6%D8%A7-%D8%B4%D8%AF-%D9%88-%D8%AF%D8%B4%D9%85%D9%86-%D8%B9%D9%87%D8%AF-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%85%D8%A7-%D9%85%D9%82%D8%A7%D8%A8%D9%84%D9%87-%D8%A8%D9%87-%D9%85%D8%AB%D9%84-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 30,
+        "negative": 40
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "khabaronline_11_20240618100000",
+      "agencyId": "khabaronline",
+      "title": "Army spokesman recounts strange incident of Iranian fighter jet clashing with enemy drone; warns of returning region to pre-agreement status if opposing side breaks promise",
+      "title_fa": "روایت سخنگوی ارتش از ماجرای عجیب برخورد جنگنده‌ ایرانی با پهپاد دشمن/ طرف مقابل نقض عهد کند، وضعیت منطقه را به قبل توافق برمی گردانیم",
+      "lead": "امیر سرتیپ محمد اکرمی‌نیا، سخنگوی ارتش جمهوری اسلامی ایران، ماجرای برخورد فیزیکی جنگنده ایرانی با پهپاد گشت‌زن دشمن را برای حفظ مسئولان عالی‌رتبه روایت کرد. وی هشدار داد که در صورت نقض عهد از سوی طرف مقابل، وضعیت منطقه به قبل از توافق بازخواهد گشت.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2234272/%D8%B1%D9%88%D9%88%D8%A7%DB%8C%D8%AA-%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A7%D8%B2-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B9%D8%AC%DB%8C%D8%A8-%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%D8%AC%D9%86%DA%AF%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 30,
+        "negative": 40
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "khabaronline_2_1701388800",
+      "agencyId": "khabaronline",
+      "title": "Kamala Harris: Trump's War Against Iran Was a War of Choice",
+      "title_fa": "کامالا هریس: جنگ ترامپ علیه ایران یک جنگ انتخابی بود",
+      "lead": "معاون پیشین رئیس جمهور آمریکا با انتقاد از جنگ تجاوزکارانه ایالات متحده علیه جمهوری اسلامی، گفت: این یک جنگ انتخابی بود.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2234412/%DA%A9%D8%A7%D9%85%D8%A7%D9%84%D8%A7-%D9%87%D8%B1%DB%8C%D8%B3-%D8%AC%D9%86%DA%AF-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%8C%DA%A9-%D8%AC%D9%86%DA%AF-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%DB%8C-%D8%A8%D9%88%D8%AF",
+      "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -711,10 +1217,340 @@
       },
       "sentiment": {
         "positive": 10,
-        "neutral": 20,
-        "negative": 70
+        "neutral": 40,
+        "negative": 50
       },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "khabaronline_3_1701388801",
+      "agencyId": "khabaronline",
+      "title": "Who is the Main Mediator Between Iran and the US? / Pezeshkian's Office Deputy: The Entire Region, Even Saudi Arabia, Provides Assistance",
+      "title_fa": "میانجی اصلی بین ایران و آمریکا کدام کشور است؟/ معاون دفتر پزشکیان: همه منطقه و حتی عربستان هم کمک‌هایی می‌کنند",
+      "lead": "معاون دفتر ریاست جمهوری گفت: میانجی اصلی کماکان پاکستان است و خیلی هم در این مدت زحمت کشیده‌اند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2234363/%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C-%D8%A7%D8%B5%D9%84%DB%8C-%D8%A8%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%DA%A9%D8%AF%D8%A7%D9%85-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B3%D8%AA-%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%AF%D9%81%D8%AA%D8%B1-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "khabaronline_4_1701388802",
+      "agencyId": "khabaronline",
+      "title": "Photo | Ali Daei Visits Akbar Abdi",
+      "title_fa": "عکس | علی دایی به عیادت اکبر عبدی رفت",
+      "lead": "علی دایی با بازیگر قدیمی ایرانی دیدار کرد.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2234303/%D8%B9%DA%A9%D8%B3-%D8%B9%D9%84%DB%8C-%D8%AF%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D8%B9%DB%8C%D8%A7%D8%AF%D8%AA-%D8%A7%DA%A9%D8%A8%D8%B1-%D8%B9%D8%A8%D8%AF%DB%8C-%D8%B1%D9%81%D8%AA",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "khabaronline_5_1701388803",
+      "agencyId": "khabaronline",
+      "title": "Pope Welcomes Iran-US Understanding",
+      "title_fa": "استقبال پاپ از تفاهم‌نامه ایران و آمریکا",
+      "lead": "رهبر کاتولیک‌های جهان ضمن استقبال از یادداشت تفاهم‌ میان ایران و آمریکا گفت که امیدوار است این تفاهم به درگیری برای همیشه پایان دهد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2234410/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D9%BE%D8%A7%D9%BE-%D8%A7%D8%B2-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%86%D8%A7%D9%85%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "mashregh_10_1701388804",
+      "agencyId": "mashregh",
+      "title": "Hebrew Media: Netanyahu Lacks Mental Stability",
+      "title_fa": "رسانه‌های عبری: نتانیاهو تعادل روانی ندارد",
+      "lead": "ادعاهای نتانیاهو در نشست خبری باعث شد رسانه‌های عبری سلامت روان نخست‌وزیرشان را زیر سؤال ببرند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818933/%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D8%A8%D8%B1%DB%8C-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%B1%D9%88%D8%A7%D9%86%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "mashregh_11_1701388805",
+      "agencyId": "mashregh",
+      "title": "Music Video / \"Childhood Love\" with the Voice of Haj Mahmoud Karimi",
+      "title_fa": "نماهنگ/ \"عشق بچگی\" با نوای حاج محمود کریمی",
+      "lead": "این نماهنگ با نوای حاج محمود کریمی به موضوع \"عشق بچگی\" می‌پردازد. حاج محمود کریمی یکی از مداحان مشهور ایران است.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818955/%D9%86%D9%85%D8%A7%D9%87%D9%86%DA%AF-%D8%B9%D8%B4%D9%82-%D8%A8%DA%86%DA%AF%DB%8C-%D8%A8%D8%A7-%D9%86%D9%88%D8%A7%DB%8C-%D8%AD%D8%A7%D8%AC-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%DA%A9%D8%B1%DB%8C%D9%85%DB%8C",
+      "time": "چند لحظه پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "mashregh_0_1718296200",
+      "agencyId": "mashregh",
+      "title": "A Look at Iran's Latest Missile Response Against CENTCOM Terrorist Facilities / IRGC's Special Anti-Radar Operation That Led to US Surrender in Negotiations + Images",
+      "title_fa": "نگاهی به آخرین پاسخ موشکی ایران علیه تاسیسات تروریستی سنتکام / عملیات ویژه ضد راداری سپاه که موجب تسلیم آمریکا در مذاکرات شد +تصاویر",
+      "lead": "با وجود ادعای سنتکام و وزارت دفاع کویت مبنی بر رهگیری تمام پرتابه های شلیک شده از سمت ایران، حداقل یک سامانه راداری ASR-1000 در پایگاه علی السالم کویت هدف قرار گرفته و منهدم شده است. این عملیات ویژه ضد راداری سپاه پاسداران جمهوری اسلامی ایران در واکنش به تاسیسات تروریستی سنتکام انجام شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1818954/%D9%86%DA%AF%D8%A7%D9%87%DB%8C-%D8%A8%D9%87-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B9%D9%84%DB%8C%D9%87-%D8%AA%D8%A7%D8%B3%DB%8C%D8%B3%D8%A7%D8%AA-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA%DB%8C-%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 20,
+        "negative": 20
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "mashregh_1_1718296200",
+      "agencyId": "mashregh",
+      "title": "US Senate Fails to Advance Ninth Resolution on Limiting Trump's War Powers",
+      "title_fa": "شکست سنای آمریکا در پیشبرد نهمین قطعنامه‌ درباره محدودیت اختیارات جنگی ترامپ",
+      "lead": "مجلس سنای آمریکا در تصویب قطعنامه‌ای با هدف محدود کردن اختیارات جنگی دونالد ترامپ، رئیس‌جمهور آمریکا، ناموفق ماند. این قطعنامه نهمین تلاش در این خصوص بود که به نتیجه نرسید.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1819059/%D8%B4%DA%A9%D8%B3%D8%AA-%D8%B3%D9%86%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%BE%DB%8C%D8%B4%D8%A8%D8%B1%D8%AF-%D9%86%D9%87%D9%85%DB%8C%D9%86-%D9%82%D8%B7%D8%B9%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%D8%A7%D8%AA",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "isna_2_1718296200",
+      "agencyId": "isna",
+      "title": "Pezeshkian: I Am Here and Will Return If Needed",
+      "title_fa": "پزشکیان: هستم و لازم باشد دوباره می‌آیم",
+      "lead": "رئیس‌جمهور، پزشکیان، در واکنش به طرح شایعات متعدد درباره استعفایش، تاکید کرد که هیچ تردیدی در کار و تلاش برای ایران ندارد. او تصریح کرد که اگر دوباره هم بداند آمدنش حتی کوچک‌ترین گره‌ای از کار کشور باز می‌کند، باز هم خواهد آمد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032716170/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D9%87%D8%B3%D8%AA%D9%85-%D9%88-%D9%84%D8%A7%D8%B2%D9%85-%D8%A8%D8%A7%D8%B4%D8%AF-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%DB%8C-%D8%A2%DB%8C%D9%85",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "isna_3_1718296200",
+      "agencyId": "isna",
+      "title": "Mehdi Torabi's Visa Issued",
+      "title_fa": "ویزای مهدی ترابی صادر شد",
+      "lead": "مهدی ترابی، بازیکن تیم ملی فوتبال ایران، موفق به دریافت روادید ورود به آمریکا شد. این خبر برای حضور او در رقابت‌های پیش رو اهمیت دارد.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032716169/%D9%88%DB%8C%D8%B2%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%AA%D8%B1%D8%A7%D8%A8%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B4%D8%AF",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "isna_4_1718296200",
+      "agencyId": "isna",
+      "title": "Queiroz: Winning in this World Cup is Not Easy",
+      "title_fa": "کی‌روش: بردن در این جام جهانی آسان نیست",
+      "lead": "سرمربی تیم ملی غنا، کارلوس کی‌روش، پیش از بازی با پاناما اظهار داشت که هیچ تیمی در جام جهانی دست و پا بسته نیست. او بر دشواری پیروزی در این رقابت‌ها تاکید کرد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.isna.ir/news/1405032716163/%DA%A9%DB%8C-%D8%B1%D9%88%D8%B4-%D8%A8%D8%B1%D8%AF%D9%86-%D8%AF%D8%B1-%D8%A7%DB%8C%D9%86-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A2%D8%B3%D8%A7%D9%86-%D9%86%DB%8C%D8%B3%D8%AA",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "isna_5_1718296200",
+      "agencyId": "isna",
+      "title": "Senate Opposes Limiting Trump's War Powers Against Iran",
+      "title_fa": "سنا با محدودکردن اختیارات جنگی ترامپ در قبال ایران مخالفت کرد",
+      "lead": "سنای آمریکا روز سه‌شنبه با اختلافی اندک، طرحی برای محدودکردن اختیارات جنگی «دونالد ترامپ» در قبال ایران را رد کرد. این تصمیم نشان‌دهنده تداوم قدرت رئیس‌جمهور در سیاست خارجی است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.isna.ir/news/1405032716168/%D8%B3%D9%86%D8%A7-%D8%A8%D8%A7-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DA%A9%D8%B1%D8%AF%D9%86-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D9%86%DA%AF%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1-%D9%82%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "isna_6_1718296200",
+      "agencyId": "isna",
+      "title": "Mbappe's Two Record-Breaking Achievements on France's Sweet World Cup Night",
+      "title_fa": "۲ رکوردشکنی ام‌باپه در شب شیرین فرانسه در جام جهانی",
+      "lead": "کیلیان ام‌باپه با به ثمر رساندن دو گل در بازی برابر سنگال، موفق به ثبت دو رکورد مهم در دنیای فوتبال شد. این درخشش او در شب شیرین فرانسه در جام جهانی به وقوع پیوست.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.isna.ir/news/1405032716167/%DB%B2-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%A7%D9%85-%D8%A8%D8%A7%D9%BE%D9%87-%D8%AF%D8%B1-%D8%B4%D8%A8-%D8%B4%DB%8C%D8%B1%DB%8C%D9%86-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "isna_7_1718296200",
+      "agencyId": "isna",
+      "title": "Summary of France vs. Senegal Match",
+      "title_fa": "خلاصه بازی فرانسه مقابل سنگال",
+      "lead": "تیم ملی فوتبال فرانسه در نخستین بازی خود در جام جهانی ۲۰۲۶ توانست سنگال را با نتیجه ۳ بر یک شکست دهد. با این پیروزی، فرانسه صدرنشین گروه خود شد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.isna.ir/news/1405032716166/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%B3%D9%86%DA%AF%D8%A7%D9%84",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "isna_8_1718296200",
+      "agencyId": "isna",
+      "title": "Defending Champion's First-Half Storm Against Senegal",
+      "title_fa": "توفان یک نیمه‌ای مدافع قهرمانی برابر سنگال",
+      "lead": "تیم ملی فوتبال فرانسه در نخستین دیدار خود در جام‌جهانی ۲۰۲۶ به مصاف سنگال رفت و به برتری دست یافت. این تیم مدافع عنوان قهرمانی، جام جهانی را با یک پیروزی مقتدرانه آغاز کرد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.isna.ir/news/1405032716165/%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B1%D8%A7-%D8%A8%D8%A7-%D8%A8%D8%B1%D8%AF-%D8%B4%D8%B1%D9%88%D8%B9-%DA%A9%D8%B1%D8%AF",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
+    },
+    {
+      "id": "isna_9_1718296200",
+      "agencyId": "isna",
+      "title": "Kohgiluyeh and Boyer-Ahmad Wrestler Becomes Champion of Takhti International Cup",
+      "title_fa": "کشتی گیر کهگیلویه و بویراحمدی قهرمان جام بین‌المللی تختی شد",
+      "lead": "دبیر هیئت کشتی‌گیری استان کهگیلویه و بویراحمد خبر از قهرمانی کشتی‌گیر جوان این استان در مسابقات بین‌المللی جام تختی داد. این رقابت‌ها در کرمان برگزار شد و افتخارآفرینی برای استان به همراه آورد.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405032716164/%DA%A9%D8%B4%D8%AA%DB%8C-%DA%AF%DB%8C%D8%B1-%DA%A9%D9%87%DA%AF%DB%8C%D9%84%D9%88%DB%8C%D9%87-%D9%88-%D8%A8%D9%88%DB%8C%D8%B1%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D8%A7%D9%85-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%AA%D8%AE%D8%AA%DB%8C-%D8%B4%D8%AF",
+      "time": "دقایقی پیش",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-17T06:37:58.393Z"
     },
     {
       "id": "irna_fa_3_1701000000",
@@ -761,72 +1597,6 @@
       "analyzed_at": "2026-06-17T04:37:24.969Z"
     },
     {
-      "id": "irna_en_6_1701000000",
-      "agencyId": "irna_en",
-      "title": "Israeli Attack, Continued Occupation of Lebanon Will Breach Iran-US MoU: Araghchi",
-      "title_fa": "عراقچی: حمله اسرائیل و ادامه اشغال لبنان، نقض تفاهم‌نامه ایران-آمریکا خواهد بود",
-      "lead": "عباس عراقچی، وزیر امور خارجه ایران، هشدار داد که هرگونه حمله اسرائیل به لبنان یا ادامه اشغال اراضی این کشور عربی، تفاهم‌نامه پایان جنگ بین ایران و آمریکا را نقض خواهد کرد. این اظهارات در اشاره به توافق ایران و آمریکا برای پایان جنگ بیان شده است.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://en.irna.ir/news/86184626/Israeli-attack-continued-occupation-of-Lebanon-will-breach-Iran-US",
-      "time": "همین الان",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "irna_en_7_1701000000",
-      "agencyId": "irna_en",
-      "title": "Exclusive | Iran-US Talks on Final Deal to Begin Immediately After MoU Signing: Deputy FM",
-      "title_fa": "اختصاصی | معاون وزیر خارجه: مذاکرات ایران و آمریکا برای توافق نهایی بلافاصله پس از امضای تفاهم‌نامه آغاز می‌شود",
-      "lead": "مجید تخت‌روانچی، معاون وزیر امور خارجه ایران در امور سیاسی، اعلام کرد که مذاکرات بر سر توافق نهایی بلافاصله پس از امضای تفاهم‌نامه آغاز خواهد شد. این خبر نشان دهنده پیشرفت در روابط دیپلماتیک ایران و آمریکا است.",
-      "category": "diplomacy",
-      "region": "global",
-      "sourceUrl": "https://en.irna.ir/news/86184591/Exclusive-Iran-US-talks-on-final-deal-to-begin-immediately",
-      "time": "همین الان",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 30,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "irna_en_8_1701000000",
-      "agencyId": "irna_en",
-      "title": "Enemy Did Not Dare Approach Iranian Shores During Both Wars: Army Chief",
-      "title_fa": "فرمانده ارتش: دشمن در طول هر دو جنگ جرأت نزدیک شدن به سواحل ایران را نداشت",
-      "lead": "سرلشکر امیر حاتمی، فرمانده کل ارتش جمهوری اسلامی ایران، اظهار داشت که نیروهای دشمن در طول جنگ‌های اخیر آمریکا و اسرائیل علیه کشور، جرأت نزدیک شدن به خطوط ساحلی ایران را نداشتند. او از آمادگی نیروهای مسلح ایران در دفاع از مرزهای آبی قدردانی کرد.",
-      "category": "military",
-      "region": "iran",
-      "sourceUrl": "https://en.irna.ir/news/86184466/Enemy-did-not-dare-approach-Iranian-shores-during-both-wars",
-      "time": "همین الان",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 20,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
       "id": "irna_en_9_1701000000",
       "agencyId": "irna_en",
       "title": "Iran Supporters Watch Match at Tehran Book Garden",
@@ -845,270 +1615,6 @@
         "positive": 70,
         "neutral": 20,
         "negative": 10
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "irna_en_10_1701000000",
-      "agencyId": "irna_en",
-      "title": "Iranian Army to Spare No Effort in Defending Nation Against Threats: Top Commander",
-      "title_fa": "فرمانده ارشد: ارتش ایران در دفاع از ملت در برابر تهدیدات از هیچ تلاشی فروگذار نخواهد کرد",
-      "lead": "سرتیپ علی جهانشاهی، فرمانده نیروی زمینی ارتش ایران، بر تعهد بی‌دریغ ارتش در دفاع از کشور تأکید کرد. او اعلام کرد که نیروهای مسلح ایران از هیچ تلاشی برای محافظت از ملت در برابر تهدیدات فروگذار نخواهند کرد.",
-      "category": "military",
-      "region": "iran",
-      "sourceUrl": "https://en.irna.ir/news/86184339/Iranian-Army-to-spare-no-effort-in-defending-nation-against-threats",
-      "time": "همین الان",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 20,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "irna_en_11_1701000000",
-      "agencyId": "irna_en",
-      "title": "Iran Vienna Embassy: Sanctions Removal by Four European Countries Is Not a Concession to Tehran",
-      "title_fa": "سفارت ایران در وین: رفع تحریم‌ها توسط چهار کشور اروپایی امتیازی به تهران نیست",
-      "lead": "سفارت ایران در وین به بیانیه مشترک بریتانیا، فرانسه، آلمان و ایتالیا مبنی بر آمادگی برای لغو تحریم‌ها علیه ایران واکنش نشان داد. این سفارتخانه اعلام کرد که این تصمیم اروپا به معنای امتیازدهی به تهران نیست.",
-      "category": "diplomacy",
-      "region": "europe",
-      "sourceUrl": "https://en.irna.ir/news/86184211/Iran-Vienna-embassy-Sanctions-removal-by-four-European-countries",
-      "time": "همین الان",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 40,
-        "negative": 30
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "irna_en_0_1718500000",
-      "agencyId": "irna_en",
-      "title": "Governor of Central Bank of Iran departs for Moscow",
-      "title_fa": "رئیس کل بانک مرکزی ایران عازم مسکو شد",
-      "lead": "رئیس کل بانک مرکزی ایران برای توسعه روابط پولی و بانکی بین ایران و روسیه به مسکو سفر کرده است. هدف این سفر تقویت همکاری‌های مالی دوجانبه بین دو کشور است.",
-      "category": "economy",
-      "region": "eurasia",
-      "sourceUrl": "https://en.irna.ir/news/86184136/Governor-of-Central-Bank-of-Iran-departs-for-Moscow",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "irna_en_1_1718500000",
-      "agencyId": "irna_en",
-      "title": "Third imposed war discredited US, accelerated Israel’s collapse: IRGC Quds chief",
-      "title_fa": "رئیس نیروی قدس سپاه: جنگ تحمیلی سوم، آمریکا را بی‌اعتبار کرد و فروپاشی اسرائیل را تسریع بخشید",
-      "lead": "سردار اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران انقلاب اسلامی، اظهار داشت که \"جنگ تحمیلی سوم\" علیه ایران، آمریکا را بی‌اعتبار و فروپاشی اسرائیل را تسریع کرده است. این اظهارات نشان‌دهنده تحلیل ایران از تحولات منطقه‌ای و جایگاه قدرت‌های جهانی است.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://en.irna.ir/news/86184166/Third-imposed-war-discredited-US-accelerated-Israel-s-collapse",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "mehrnews_2_1718500000",
-      "agencyId": "mehrnews",
-      "title": "Pro-Islamic Establishment nightly marches in Bojnourd",
-      "title_fa": "ویدئو: راهپیمایی‌های شبانه حامیان نظام اسلامی در بجنورد",
-      "lead": "مردم بجنورد در استان خراسان شمالی حضور خود را در خیابان‌ها برای حمایت از دولت جمهوری اسلامی ادامه دادند. این راهپیمایی‌ها نشان‌دهنده پشتیبانی مردمی از نظام در این شهر است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://en.mehrnews.com/news/245395/VIDEO-Pro-Islamic-Establishment-nightly-marches-in-Bojnourd",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "mehrnews_3_1718500000",
-      "agencyId": "mehrnews",
-      "title": "Iran, Oman FMs hold call on Tehran-Washington MoU",
-      "title_fa": "وزرای خارجه ایران و عمان درباره تفاهم‌نامه تهران-واشنگتن گفت‌وگو کردند",
-      "lead": "وزیر امور خارجه ایران و همتای عمانی وی در گفت‌وگوی تلفنی درباره تفاهم‌نامه بین تهران و واشنگتن تبادل نظر کردند. این تماس تلفنی به اهمیت نقش عمان در میانجی‌گری و تسهیل ارتباطات بین ایران و آمریکا اشاره دارد.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://en.mehrnews.com/news/245394/Iran-Oman-FMs-hold-call-on-Tehran-Washington-MoU",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "mehrnews_4_1718500000",
-      "agencyId": "mehrnews",
-      "title": "Million-man march in Yemen in support of resistance, Iran",
-      "title_fa": "راهپیمایی میلیونی یمنی‌ها در حمایت از مقاومت و ایران",
-      "lead": "میلیون‌ها یمنی در صنعا و دیگر شهرهای یمن در اعتراض به توهین دونالد ترامپ به مقدسات اسلامی راهپیمایی کردند. آنها همچنین پیروزی‌های ایران و حزب‌الله را تبریک گفتند که نشان‌دهنده همسویی آنها با محور مقاومت است.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://en.mehrnews.com/news/245393/Million-man-march-in-Yemen-in-support-of-resistance-Iran",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "mehrnews_5_1718500000",
-      "agencyId": "mehrnews",
-      "title": "France shuts down 12 Israeli stands at major arms expo",
-      "title_fa": "فرانسه ۱۲ غرفه اسرائیلی را در نمایشگاه بزرگ تسلیحات تعطیل کرد",
-      "lead": "دوازده غرفه شرکت اسرائیلی در یک نمایشگاه بزرگ دفاعی بین‌المللی در نزدیکی پاریس تعطیل شدند. این اقدام در بحبوحه مخالفت‌های فزاینده در اروپا با جنگ اسرائیل در غزه صورت گرفته است.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://en.mehrnews.com/news/245392/France-shuts-down-12-Israeli-stands-at-major-arms-expo",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "mehrnews_6_1718500000",
-      "agencyId": "mehrnews",
-      "title": "Advanced arms production never halted during imposed war",
-      "title_fa": "تولید تسلیحات پیشرفته هرگز در طول جنگ تحمیلی متوقف نشد",
-      "lead": "سرپرست وزارت دفاع ایران اعلام کرد که تولید موشک‌های استراتژیک و پهپادها در طول \"جنگ تحمیلی سوم\" با سرعت بیشتر و دقت بالاتر ادامه داشته است. این اظهارات بر توانمندی دفاعی و استمرار تولید نظامی ایران تاکید دارد.",
-      "category": "military",
-      "region": "iran",
-      "sourceUrl": "https://en.mehrnews.com/news/245391/Advanced-arms-production-never-halted-during-imposed-war",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "mehrnews_7_1718500000",
-      "agencyId": "mehrnews",
-      "title": "Iran is a symbol of dignity and honor: Hezbollah chief",
-      "title_fa": "رئیس حزب‌الله: ایران نماد عزت و شرافت است",
-      "lead": "شیخ نعیم قاسم، دبیرکل حزب‌الله، از حمایت ایران از لبنان و جنبش مقاومت قدردانی کرد. وی ایران را \"نماد عزت و شرافت\" توصیف کرد که نشان‌دهنده عمق روابط بین این دو بازیگر منطقه‌ای است.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://en.mehrnews.com/news/245390/Iran-is-a-symbol-of-dignity-and-honor-Hezbollah-chief",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "mehrnews_8_1718500000",
-      "agencyId": "mehrnews",
-      "title": "‘We must strengthen our unity, cohesion against enemies’: VP",
-      "title_fa": "معاون اول رئیس‌جمهور: باید وحدت و انسجام خود را در برابر دشمنان تقویت کنیم",
-      "lead": "محمدرضا عارف، معاون اول رئیس‌جمهور ایران، اظهار داشت که مقامات دولتی و مردم باید وحدت و انسجام خود را در برابر دشمنان تقویت کنند. وی افزود که ایران به پیروزی‌های ارزشمندی دست یافته است که نیازمند حفظ انسجام داخلی است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://en.mehrnews.com/news/245389/We-must-strengthen-our-unity-cohesion-against-enemies-VP",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "mehrnews_9_1718500000",
-      "agencyId": "mehrnews",
-      "title": "Boroujerdi gives more details on Iran-US MoU",
-      "title_fa": "بروجردی جزئیات بیشتری درباره تفاهم‌نامه ایران و آمریکا ارائه کرد",
-      "lead": "علاءالدین بروجردی، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، جزئیات بیشتری درباره تفاهم‌نامه بین تهران و واشنگتن ارائه کرده است. این اظهارات می‌تواند روشن‌کننده ابعاد جدیدی از توافقات احتمالی یا مذاکرات جاری باشد.",
-      "category": "diplomacy",
-      "region": "middleeast",
-      "sourceUrl": "https://en.mehrnews.com/news/245388/Boroujerdi-gives-more-details-on-Iran-US-MoU",
-      "time": "2 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
       },
       "analyzed_at": "2026-06-17T04:37:24.969Z"
     },
@@ -1157,28 +1663,6 @@
       "analyzed_at": "2026-06-17T04:37:24.969Z"
     },
     {
-      "id": "khabaronline_2_1708892400",
-      "agencyId": "khabaronline",
-      "title": "Kamala Harris: Trump's War Against Iran Was a War of Choice",
-      "title_fa": "کامالا هریس: جنگ ترامپ علیه ایران یک جنگ انتخابی بود",
-      "lead": "معاون پیشین رئیس جمهور آمریکا از جنگ تجاوزکارانه ایالات متحده علیه جمهوری اسلامی انتقاد کرد. او این جنگ را 'یک جنگ انتخابی' توصیف نمود.",
-      "category": "politics",
-      "region": "iran, americas",
-      "sourceUrl": "https://www.khabaronline.ir/news/2234412/%DA%A9%D8%A7%D9%85%D8%A7%D9%84%D8%A7-%D9%87%D8%B1%DB%8C%D8%B3-%D8%AC%D9%86%DA%AF-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%DB%8C%DA%A9-%D8%AC%D9%86%DA%AF-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%DB%8C-%D8%A8%D9%88%D8%AF",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
       "id": "khabaronline_3_1708892401",
       "agencyId": "khabaronline",
       "title": "Which Country is the Main Mediator Between Iran and the US? / Peshezian's Office Deputy: The Whole Region, Even Saudi Arabia, Provides Assistance",
@@ -1197,138 +1681,6 @@
         "positive": 60,
         "neutral": 40,
         "negative": 0
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "khabaronline_4_1708892402",
-      "agencyId": "khabaronline",
-      "title": "Photo | Ali Daei Visits Akbar Abdi",
-      "title_fa": "عکس | علی دایی به عیادت اکبر عبدی رفت",
-      "lead": "علی دایی، اسطوره فوتبال ایران، برای عیادت از اکبر عبدی، بازیگر پیشکسوت ایرانی، به منزل او رفت. این دیدار دوستانه مورد توجه رسانه‌ها و هواداران قرار گرفت.",
-      "category": "culture",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2234303/%D8%B9%DA%A9%D8%B3-%D8%B9%D9%84%DB%8C-%D8%AF%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D8%B9%DB%8C%D8%A7%D8%AF%D8%AA-%D8%A7%DA%A9%D8%A8%D8%B1-%D8%B9%D8%A8%D8%AF%DB%8C-%D8%B1%D9%81%D8%AA",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "khabaronline_5_1708892403",
-      "agencyId": "khabaronline",
-      "title": "Pope Welcomes Iran-US Memorandum of Understanding",
-      "title_fa": "استقبال پاپ از تفاهم‌نامه ایران و آمریکا",
-      "lead": "رهبر کاتولیک‌های جهان از یادداشت تفاهم میان ایران و آمریکا استقبال کرد. او ابراز امیدواری نمود که این توافق به درگیری‌ها برای همیشه پایان دهد.",
-      "category": "diplomacy",
-      "region": "iran, americas, global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2234410/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D9%BE%D8%A7%D9%BE-%D8%A7%D8%B2-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D9%86%D8%A7%D9%85%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "mashregh_10_1708892404",
-      "agencyId": "mashregh",
-      "title": "Hebrew Media: Netanyahu Lacks Mental Stability",
-      "title_fa": "رسانه‌های عبری: نتانیاهو تعادل روانی ندارد",
-      "lead": "رسانه‌های عبری پس از اظهارات نتانیاهو در یک نشست خبری، سلامت روان نخست‌وزیر اسرائیل را زیر سوال بردند. این مسئله نگرانی‌هایی جدی را در میان افکار عمومی و سیاسیون ایجاد کرده است.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818933/%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D8%A8%D8%B1%DB%8C-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%B1%D9%88%D8%A7%D9%86%DB%8C-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "mashregh_11_1708892405",
-      "agencyId": "mashregh",
-      "title": "Music Video / \"Childhood Love\" with the Voice of Haj Mahmoud Karimi",
-      "title_fa": "نماهنگ/ \"عشق بچگی\" با نوای حاج محمود کریمی",
-      "lead": "نماهنگ جدیدی با عنوان \"عشق بچگی\" با نوای حاج محمود کریمی منتشر شد. این اثر مذهبی-فرهنگی مورد استقبال علاقمندان به مداحی قرار گرفته است.",
-      "category": "culture",
-      "region": "iran",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818955/%D9%86%D9%85%D8%A7%D9%87%D9%86%DA%AF-%D8%B9%D8%B4%D9%82-%D8%A8%DA%86%DA%AF%DB%8C-%D8%A8%D8%A7-%D9%86%D9%88%D8%A7%DB%8C-%D8%AD%D8%A7%D8%AC-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%DA%A9%D8%B1%DB%8C%D9%85%DB%8C",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "mashregh_0_1719225600",
-      "agencyId": "mashregh",
-      "title": "A Look at Iran's Latest Missile Response Against CENTCOM's Terrorist Facilities / IRGC's Special Anti-Radar Operation That Led to US Concession in Negotiations +Photos",
-      "title_fa": "نگاهی به آخرین پاسخ موشکی ایران علیه تاسیسات تروریستی سنتکام / عملیات ویژه ضد راداری سپاه که موجب تسلیم آمریکا در مذاکرات شد +تصاویر",
-      "lead": "با وجود ادعای سنتکام و وزارت دفاع کویت مبنی بر رهگیری تمام پرتابه‌های شلیک شده از سمت ایران، حداقل یک سامانه راداری ASR-1000 در پایگاه علی السالم کویت هدف قرار گرفته و منهدم شده است. این عملیات ویژه ضد راداری سپاه، به گفته خبر، موجب تسلیم آمریکا در مذاکرات شد.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1818954/%D9%86%DA%AF%D8%A7%D9%87%DB%8C-%D8%A8%D9%87-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%BE%D8%A7%D8%B3%D8%AE-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B9%D9%84%DB%8C%D9%87-%D8%AA%D8%A7%D8%B3%DB%8C%D8%B3%D8%A7%D8%AA-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA%DB%8C-%D8%B3%D9%86%D8%AA%DA%A9%D8%A7%D9%85",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 50,
-        "neutral": 30,
-        "negative": 20
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "mashregh_1_1719225600",
-      "agencyId": "mashregh",
-      "title": "US Senate Fails to Advance Ninth Resolution Limiting Trump's War Powers",
-      "title_fa": "شکست سنای آمریکا در پیشبرد نهمین قطعنامه‌ درباره محدودیت اختیارات جنگی ترامپ",
-      "lead": "مجلس سنای آمریکا نتوانست روز سه‌شنبه قطعنامه‌ای را با هدف محدود کردن اختیارات جنگی رئیس‌جمهور دونالد ترامپ تصویب کند. این شکست نشان‌دهنده چالش‌های داخلی در کنگره آمریکا بر سر سیاست‌های جنگی است.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1819059/%D8%B4%DA%A9%D8%B3%D8%AA-%D8%B3%D9%86%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%BE%DB%8C%D8%B4%D8%A8%D8%B1%D8%AF-%D9%86%D9%87%D9%85%DB%8C%D9%86-%D9%82%D8%B7%D8%B9%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%D8%A7%D8%AA",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 60,
-        "negative": 30
       },
       "analyzed_at": "2026-06-17T04:37:24.969Z"
     },
@@ -1355,204 +1707,6 @@
       "analyzed_at": "2026-06-17T04:37:24.969Z"
     },
     {
-      "id": "isna_3_1719225600",
-      "agencyId": "isna",
-      "title": "Mehdi Torabi's Visa Issued",
-      "title_fa": "ویزای مهدی ترابی صادر شد",
-      "lead": "ویزای ورود به آمریکا برای مهدی ترابی، بازیکن تیم ملی فوتبال ایران، صادر شد. این خبر برای هواداران فوتبال ایران و باشگاه او اهمیت دارد.",
-      "category": "culture",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405032716169/%D9%88%DB%8C%D8%B2%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%AA%D8%B1%D8%A7%D8%A8%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B4%D8%AF",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "isna_4_1719225600",
-      "agencyId": "isna",
-      "title": "Queiroz: Winning in this World Cup is Not Easy",
-      "title_fa": "کی‌روش: بردن در این جام جهانی آسان نیست",
-      "lead": "کارلوس کی‌روش، سرمربی تیم ملی غنا، پیش از مسابقه با پاناما اظهار داشت که هیچ تیمی در جام جهانی حریف آسانی نیست. او تاکید کرد که پیروزی در این رقابت‌ها به آسانی به دست نمی‌آید.",
-      "category": "culture",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405032716163/%DA%A9%DB%8C-%D8%B1%D9%88%D8%B4-%D8%A8%D8%B1%D8%AF%D9%86-%D8%AF%D8%B1-%D8%A7%DB%8C%D9%86-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A2%D8%B3%D8%A7%D9%86-%D9%86%DB%8C%D8%B3%D8%AA",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 80,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "isna_5_1719225600",
-      "agencyId": "isna",
-      "title": "Senate Opposed Limiting Trump's War Powers Regarding Iran",
-      "title_fa": "سنا با محدودکردن اختیارات جنگی ترامپ در قبال ایران مخالفت کرد",
-      "lead": "سنای آمریکا روز سه‌شنبه با اختلافی اندک، طرحی را که به دنبال محدود کردن اختیارات جنگی دونالد ترامپ در رابطه با ایران بود، رد کرد. این تصمیم پیامدهایی برای سیاست خارجی آمریکا در قبال ایران خواهد داشت.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405032716168/%D8%B3%D9%86%D8%A7-%D8%A8%D8%A7-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DA%A9%D8%B1%D8%AF%D9%86-%D8%A7%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D9%86%DA%AF%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%AF%D8%B1-%D9%82%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%AA-%DA%A9%D8%B1%D8%AF",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 40,
-        "negative": 40
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "isna_6_1719225600",
-      "agencyId": "isna",
-      "title": "Mbappé Breaks 2 Records on France's Sweet World Cup Night",
-      "title_fa": "۲ رکوردشکنی ام‌باپه در شب شیرین فرانسه در جام جهانی",
-      "lead": "کیلیان ام‌باپه در پیروزی تیم ملی فرانسه مقابل سنگال با به ثمر رساندن دو گل (بریس) توانست دو رکورد مهم فوتبالی را به ثبت برساند. این شب برای تیم فرانسه در جام جهانی شیرین بود.",
-      "category": "culture",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405032716167/%DB%B2-%D8%B1%DA%A9%D9%88%D8%B1%D8%AF%D8%B4%DA%A9%D9%86%DB%8C-%D8%A7%D9%85-%D8%A8%D8%A7%D9%BE%D9%87-%D8%AF%D8%B1-%D8%B4%D8%A8-%D8%B4%DB%8C%D8%B1%DB%8C%D9%86-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "isna_7_1719225600",
-      "agencyId": "isna",
-      "title": "Summary of France vs. Senegal Match",
-      "title_fa": "خلاصه بازی فرانسه مقابل سنگال",
-      "lead": "تیم ملی فوتبال فرانسه در اولین دیدار خود در جام جهانی ۲۰۲۶ با نتیجه ۳ بر یک سنگال را شکست داد. این پیروزی فرانسه را در صدر جدول گروه خود قرار داد.",
-      "category": "culture",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405032716166/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%B3%D9%86%DA%AF%D8%A7%D9%84",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "isna_8_1719225600",
-      "agencyId": "isna",
-      "title": "Reigning Champion's First-Half Storm Against Senegal",
-      "title_fa": "توفان یک نیمه‌ای مدافع قهرمانی برابر سنگال",
-      "lead": "تیم ملی فوتبال فرانسه، مدافع عنوان قهرمانی، در اولین بازی خود در جام جهانی ۲۰۲۶ به مصاف سنگال رفت. این تیم موفق شد در این دیدار به برتری دست یابد.",
-      "category": "culture",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405032716165/%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%B1%D8%A7-%D8%A8%D8%A7-%D8%A8%D8%B1%D8%AF-%D8%B4%D8%B1%D9%88%D8%B9-%DA%A9%D8%B1%D8%AF",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "isna_9_1719225600",
-      "agencyId": "isna",
-      "title": "Wrestler from Kohgiluyeh and Boyer-Ahmad Becomes Champion of Takhti International Cup",
-      "title_fa": "کشتی گیر کهگیلویه و بویراحمدی قهرمان جام بین‌المللی تختی شد",
-      "lead": "یک کشتی‌گیر جوان از استان کهگیلویه و بویراحمد در مسابقات بین‌المللی جام تختی در کرمان به مقام قهرمانی دست یافت. این قهرمانی مایه افتخار برای این استان و ورزش کشتی ایران است.",
-      "category": "culture",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405032716164/%DA%A9%D8%B4%D8%AA%DB%8C-%DA%AF%DB%8C%D8%B1-%DA%A9%D9%87%DA%AF%DB%8C%D9%84%D9%88%DB%8C%D9%87-%D9%88-%D8%A8%D9%88%DB%8C%D8%B1%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D8%A7%D9%85-%D8%A8%DB%8C%D9%86-%D8%A7%D9%84%D9%85%D9%84%D9%84%DB%8C-%D8%AA%D8%AE%D8%AA%DB%8C-%D8%B4%D8%AF",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-17T04:37:24.969Z"
-    },
-    {
-      "id": "khabaronline_10_1718611200",
-      "agencyId": "khabaronline",
-      "title": "Ejei: If something is signed and the enemy breaks the promise, we will retaliate",
-      "title_fa": "اژه‌ای: اگر چیزی امضا شد و دشمن عهد شکست، ما مقابله‌به‌مثل خواهیم کرد",
-      "lead": "رئیس قوه قضاییه گفت که مسئولین باید با چشمان باز و هوشیاری کامل مذاکره کنند زیرا دشمن بدعهد است. وی تاکید کرد که اگر توافقی امضا شود و دشمن به آن عمل نکند، ایران مقابله‌به‌مثل خواهد کرد و دیپلماسی در امتداد جهاد است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2234182/%D8%A7%DA%98%D9%87-%D8%A7%DB%8C-%D8%A7%DA%AF%D8%B1-%DA%86%DB%8C%D8%B2%DB%8C-%D8%A7%D9%85%D8%B6%D8%A7-%D8%B4%D8%AF-%D9%88-%D8%AF%D8%B4%D9%85%D9%86-%D8%B9%D9%87%D8%AF-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%85%D8%A7-%D9%85%D9%82%D8%A7%D8%A8%D9%84%D9%87-%D8%A8%D9%87-%D9%85%D8%AB%D9%84-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85",
-      "time": "چند ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 30,
-        "negative": 30
-      },
-      "analyzed_at": "2026-06-17T02:37:51.997Z"
-    },
-    {
-      "id": "khabaronline_11_1718611200",
-      "agencyId": "khabaronline",
-      "title": "Army spokesperson narrates strange incident of Iranian fighter jet clashing with enemy drone; if the other side breaks the agreement, we will revert the region's situation to before the deal",
-      "title_fa": "روایت سخنگوی ارتش از ماجرای عجیب برخورد جنگنده‌ ایرانی با پهپاد دشمن/ طرف مقابل نقض عهد کند، وضعیت منطقه را به قبل توافق برمی گردانیم",
-      "lead": "امیر سرتیپ محمد اکرمی‌نیا، سخنگوی ارتش جمهوری اسلامی ایران، ماجرای برخورد فیزیکی جنگنده ایرانی با پهپاد گشت‌زن دشمن را برای حفظ مسئولان عالی‌رتبه روایت کرد. او هشدار داد که اگر طرف مقابل نقض عهد کند، وضعیت منطقه به قبل از توافق بازخواهد گشت.",
-      "category": "military",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2234272/%D8%B1%D9%88%D9%88%D8%A7%DB%8C%D8%AA-%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A7%D8%B2-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%B9%D8%AC%DB%8C%D8%A8-%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%D8%AC%D9%86%DA%AF%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF",
-      "time": "چند ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 50,
-        "neutral": 20,
-        "negative": 30
-      },
-      "analyzed_at": "2026-06-17T02:37:51.997Z"
-    },
-    {
       "id": "khabaronline_3_1722074401",
       "agencyId": "khabaronline",
       "title": "Who is the Main Mediator Between Iran and America? / Deputy of Pezeshkian's Office: The Entire Region, Even Saudi Arabia, is Helping",
@@ -1561,28 +1715,6 @@
       "category": "diplomacy",
       "region": "iran",
       "sourceUrl": "https://www.khabaronline.ir/news/2234363/%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C-%D8%A7%D8%B5%D9%84%DB%8C-%D8%A8%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%DA%A9%D8%AF%D8%A7%D9%85-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B3%D8%AA-%D9%85%D8%B9%D9%88%D9%86-%D8%AF%D9%81%D8%AA%D8%B1-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86",
-      "time": "چند لحظه پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 50,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-17T02:37:51.997Z"
-    },
-    {
-      "id": "isna_2_1718625600",
-      "agencyId": "isna",
-      "title": "Pezeshkian: I am here and will come again if needed",
-      "title_fa": "پزشکیان: هستم و لازم باشد دوباره می‌آیم",
-      "lead": "مسعود پزشکیان، رئیس‌جمهوری (کاندیدای ریاست جمهوری)، در واکنش به شایعات متعدد درباره استعفایش اعلام کرد که هیچ تردیدی در تلاش برای ایران ندارد. او تاکید کرد که اگر آمدنش کوچک‌ترین گرهی از کار کشور باز کند، باز هم خواهد آمد.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405032716170/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D9%87%D8%B3%D8%AA%D9%85-%D9%88-%D9%84%D8%A7%D8%B2%D9%85-%D8%A8%D8%A7%D8%B4%D8%AF-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D9%85%DB%8C-%D8%A2%DB%8C%D9%85",
       "time": "چند لحظه پیش",
       "newsValues": {
         "timeliness": "high",
@@ -1615,28 +1747,6 @@
         "positive": 70,
         "neutral": 30,
         "negative": 0
-      },
-      "analyzed_at": "2026-06-17T00:37:13.863Z"
-    },
-    {
-      "id": "khabaronline_1_1700000001",
-      "agencyId": "khabaronline",
-      "title": "Which Country is the Main Mediator Between Iran and the US? / Peseschkian's Office Deputy: The Entire Region, Even Saudi Arabia, Provides Assistance",
-      "title_fa": "میانجی اصلی بین ایران و آمریکا کدام کشور است؟/ معاون دفتر پزشکیان: همه منطقه و حتی عربستان هم کمک‌هایی می‌کنند",
-      "lead": "معاون دفتر ریاست جمهوری با اشاره به نقش میانجی‌گری در روابط ایران و آمریکا، پاکستان را میانجی اصلی خواند. وی افزود که کشورهای منطقه از جمله عربستان نیز در این زمینه کمک‌هایی کرده‌اند.",
-      "category": "diplomacy",
-      "region": "iran,west_asia,americas",
-      "sourceUrl": "https://www.khabaronline.ir/news/2234363/%D9%85%DB%8C%D8%A7%D9%86%D8%AC%DB%8C-%D8%A7%D8%B5%D9%84%DB%8C-%D8%A8%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%DA%A9%D8%AF%D8%A7%D9%85-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B3%D8%AA-%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%AF%D9%81%D8%AA%D8%B1-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86",
-      "time": "1 ساعت پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 33,
-        "neutral": 34,
-        "negative": 33
       },
       "analyzed_at": "2026-06-17T00:37:13.863Z"
     },
@@ -2920,7 +3030,7 @@
       "id": "khabaronline_11_1718544000",
       "agencyId": "khabaronline",
       "title": "IRGC Quds Force Commander supports Ghalibaf and negotiating team",
-      "title_fa": "حمایت فرمانده سپاه قدس از قالیباف و تیم مذاکره کننده",
+      "title_fa": "حمایت فرمانده سپاه قدس از قالیب��ف و تیم مذاکره کننده",
       "lead": "سردار قاآنی، فرمانده نیروی قدس سپاه، از محمدباقر قالیباف و تیم مذاکره کننده حمایت کرد. وی اظهار داشت که تفاوتی بین اعضای تیم مذاکره کننده و رزمندگان در میدان نبرد نیست و تیم مذاکره کننده با اقتدار عمل کرده است.",
       "category": "politics",
       "region": "iran",
@@ -3515,7 +3625,7 @@
       "agencyId": "foreignpolicy",
       "title": "The End of the U.S.-Israel Alliance",
       "title_fa": "پایان ائتلاف آمریکا و اسرائیل",
-      "lead": "این خبر به بررسی پایان احتمالی ائتلاف میان ایالات متحده و اسرائیل می‌پردازد. اشاره می‌کند که یک جنگ مشترک علیه ایران می‌تواند اوج این رابطه باشد.",
+      "lead": "این خبر به بررسی پایان احتمالی ائتلاف میان ایالات متحده و اسرائیل می‌پردازد. اشاره می‌کند که یک جنگ مشترک علیه ایران می‌تواند اوج این رابط�� باشد.",
       "category": "diplomacy",
       "region": "middleeast",
       "sourceUrl": "https://foreignpolicy.com/2026/06/15/israel-united-states-special-relationship-palestine-netanyahu-trump/",
@@ -4037,28 +4147,6 @@
         "negative": 30
       },
       "analyzed_at": "2026-06-16T08:35:03.226Z"
-    },
-    {
-      "id": "irna_fa_3_1718388000",
-      "agencyId": "irna_fa",
-      "title": "15 trillion rials allocated for rural and nomadic development activities",
-      "title_fa": "۱۵ همت تسهیلات برای توسعه فعالیت‌های روستایی اختصاص یافت",
-      "lead": "سرپرست معاونت امور تولیدات دامی وزارت جهاد کشاورزی از اختصاص ۱۵ همت تسهیلات به منظور توسعه فعالیت‌های روستایی و عشایری خبر داد. وی تاکید کرد که این اقدام در ایجاد اشتغال و بهبود معیشت روستاییان نقش بسزایی خواهد داشت.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86183890/%DB%B1%DB%B5-%D9%87%D9%85%D8%AA-%D8%AA%D8%B3%D9%87%DB%8C%D9%84%D8%A7%D8%AA-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%DB%8C%D8%B9%D9%87-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%DB%8C%D8%A7%D9%81%D8%AA",
-      "time": "لحظاتی پیش",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 20,
-        "negative": 10
-      },
-      "analyzed_at": "2026-06-16T06:35:18.164Z"
     }
   ]
 }
