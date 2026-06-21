@@ -1,0 +1,33 @@
+name: Fetch News RSS
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install xml2js
+
+      - name: Fetch RSS sources
+        run: node fetch-rss.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add raw_news.json
+          git diff --staged --quiet || git commit -m "fetch news $(date -u '+%Y-%m-%d %H:%M')"
+          git pull --rebase --autostash origin main
+          git push
