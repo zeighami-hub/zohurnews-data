@@ -54,7 +54,21 @@ const CATEGORY_KEYWORDS = [
   { re: /climate|environment|pollution|emission|renewable/i, category: 'environment' },
   { re: /culture|film|music|art |festival|heritage/i, category: 'culture' },
   { re: /energy|gas |oil |petroleum|nuclear power|electricity/i, category: 'energy' },
+  // اخبار اجتماعی/خدماتی/عمرانی محلی - باید قبل از fallback سیاسی چک شود، نه بعدش
+  { re: /پل|جاده|آسفالت|بهسازی|تعمیر|راه روستایی|آبرسانی|فاضلاب|پارک|بوستان|مدرسه‌سازی|زیرساخت|عمران|شهرداری محلی|road repair|bridge|infrastructure|municipal|sewage|local council/i, category: 'society' },
   { re: /election|parliament|president|minister|government|policy|protest/i, category: 'politics' },
+];
+
+// کلمات نشانه‌ی اهمیت محلی/خدماتی پایین (نه ملی، نه بین‌المللی) - برای فیلتر اهمیت
+const LOW_IMPORTANCE_KEYWORDS = [
+  /\bپل\b|\bجاده\b|آسفالت|بهسازی|تعمیر.*محور|راه روستایی|آبرسانی روستا|فاضلاب شهر|پارک محل|بوستان محل|افتتاح.*روستا|شهرستان.*آغاز شد/i,
+  /local council|municipal repair|village road|small town/i,
+];
+
+// آیا خبر نشانه‌های اهمیت ملی/بین‌المللی دارد؟ (برای جلوگیری از فیلتر نادرست خبرهای واقعاً مهم)
+const NATIONAL_IMPORTANCE_KEYWORDS = [
+  /رئیس‌جمهور|رهبر|وزیر|پارلمان|مجلس|سپاه|ارتش|تحریم|برجام|هسته‌ای|دیپلماسی|سفیر|نخست‌وزیر|بحران|جنگ|حمله|انفجار بزرگ/i,
+  /president|prime minister|parliament|sanction|nuclear|military|crisis|diplomatic/i,
 ];
 
 function fetchUrl(url, redirectCount) {
@@ -113,6 +127,15 @@ function detectRegion(text) {
   return 'global';
 }
 
+// === تشخیص اخبار کم‌اهمیت محلی/خدماتی (بدون AI) ===
+// منطق: اگر نشانه‌ی اهمیت ملی/بین‌المللی دارد، همیشه مهم تلقی می‌شود (حتی اگر کلمه محلی هم داشته باشد)
+// در غیر این صورت، اگر فقط نشانه‌ی محلی/خدماتی کوچک دارد، کم‌اهمیت تلقی می‌شود
+function isLowImportance(text) {
+  const hasNationalSignal = NATIONAL_IMPORTANCE_KEYWORDS.some(re => re.test(text));
+  if (hasNationalSignal) return false;
+  return LOW_IMPORTANCE_KEYWORDS.some(re => re.test(text));
+}
+
 async function fetchRSS(source) {
   try {
     const xml = await fetchUrl(source.url);
@@ -160,6 +183,7 @@ async function fetchRSS(source) {
         iranScore: scoreIranRelevance(fullText),
         category: detectCategory(fullText),
         region: detectRegion(fullText),
+        lowImportance: isLowImportance(fullText),
       };
     }).filter(a => {
       if (!a.title || a.title.length <= 3) return false;
@@ -167,6 +191,9 @@ async function fetchRSS(source) {
       const dupKey = a.sourceUrl || a.title;
       if (seenInThisSource.has(dupKey)) return false;
       seenInThisSource.add(dupKey);
+      // حذف اخبار کم‌اهمیت محلی/خدماتی، مگر اینکه امتیاز ارتباط با ایران داشته باشند
+      // (یعنی حتی یک خبر محلی کوچک اگر به موضوع ملی ایران مربوط باشد نگه داشته می‌شود)
+      if (a.lowImportance && a.iranScore === 0) return false;
       return true;
     });
 
