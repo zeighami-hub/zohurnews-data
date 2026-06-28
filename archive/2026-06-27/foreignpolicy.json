@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "agencyId": "foreignpolicy",
-  "total": 7,
+  "total": 15,
   "articles": [
     {
       "id": "foreignpolicy_6",
@@ -156,6 +156,182 @@
       },
       "pubDate": "Wed, 24 Jun 2026 16:29:14 +0000",
       "analyzed_at": "2026-06-27T02:43:10.606Z"
+    },
+    {
+      "id": "foreignpolicy_11",
+      "agencyId": "foreignpolicy",
+      "title": "What in the World?",
+      "title_fa": "در جهان چه خبر است؟",
+      "lead": "این یک آزمون خبری درباره رویدادهای هفته ۲۰ ژوئن است که شامل موضوعاتی چون رأی‌گیری در کلمبیا، استعفای استارمر، و دیدار روته با ترامپ می‌شود. این موارد نشان‌دهنده تحولات مهم سیاسی و بین‌المللی در سراسر جهان هستند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/26/news-quiz-colombia-election-right-wing-starmer-resign-uk-trump-rutte-nato/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 17:29:35 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "foreignpolicy_4",
+      "agencyId": "foreignpolicy",
+      "title": "Colombia Swings to the Right",
+      "title_fa": "کلمبیا به راست می‌گراید",
+      "lead": "کلمبیا به عنوان جدیدترین کشور آمریکای لاتین یک رهبر مورد حمایت ترامپ را انتخاب کرده است. این تغییر نشان‌دهنده چرخش سیاسی به سمت راست در این کشور است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/26/colombia-presidential-vote-espriella-tigre-cepeda-petro-trump/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 12:00:13 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "foreignpolicy_13",
+      "agencyId": "foreignpolicy",
+      "title": "The Geopolitics of SpaceX and Elon Musk",
+      "title_fa": "ژئوپلیتیک اسپیس‌اکس و ایلان ماسک",
+      "lead": "این مقاله به بررسی این سوال می‌پردازد که آیا یک شرکت و یک شخص (ایلان ماسک و اسپیس‌اکس) باید این میزان قدرت ژئوپلیتیکی داشته باشند. تحلیل‌ها بر تأثیرات فعالیت‌های اسپیس‌اکس و نفوذ ماسک بر نظم جهانی متمرکز است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/25/spacex-elon-musk-geopolitics-ai-x-quinn-slobodian/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Thu, 25 Jun 2026 22:10:57 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "foreignpolicy_5",
+      "agencyId": "foreignpolicy",
+      "title": "Will Kenya’s Ruto Finally Reconcile with the Country’s Somali Minority?",
+      "title_fa": "آیا روتو، رئیس‌جمهور کنیا، سرانجام با اقلیت سومالیایی کشور آشتی خواهد کرد؟",
+      "lead": "رئیس‌جمهور کنیا، روتو، گام‌های بی‌سابقه‌ای برای پایان دادن به سیاست حذف اقلیت سومالیایی برداشته است، اما تردیدها همچنان باقی است. این تلاش‌ها در راستای ایجاد همبستگی ملی و حل اختلافات دیرینه ارزیابی می‌شود.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/25/kenya-ruto-election-somali-democracy-nairobi-odinga/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 25 Jun 2026 20:34:31 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "foreignpolicy_7",
+      "agencyId": "foreignpolicy",
+      "title": "As the Tide Turns Against Putin, Beware the Drowning Man",
+      "title_fa": "با تغییر روند علیه پوتین، مراقب مردی که در حال غرق شدن است باشید",
+      "lead": "این مقاله هشدار می‌دهد که پوتین، مانند یک شناگر در حال دست و پا زدن، ممکن است برای حفظ موقعیت خود دست به اقدامات ناامیدکننده‌ای بزند. این تحلیل بر افزایش خطرات ناشی از عقب‌نشینی روسیه در جنگ اوکراین و پیامدهای احتمالی آن برای منطقه و جهان تمرکز دارد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/25/russia-ukraine-war-putin-escalation-nato-europe/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 25 Jun 2026 20:16:57 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "foreignpolicy_8",
+      "agencyId": "foreignpolicy",
+      "title": "Venezuela Reels From Twin Deadly Earthquakes",
+      "title_fa": "ونزوئلا از پیامدهای دو زلزله مرگبار رنج می‌برد",
+      "lead": "ونزوئلا با پیامدهای دو زلزله مرگبار دست و پنجه نرم می‌کند و با وجود هزاران نفر مفقود، انتظار می‌رود که تعداد قربانیان افزایش یابد. این فاجعه طبیعی خسارات جانی و مالی گسترده‌ای به این کشور وارد کرده است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/25/venezuela-earthquakes-death-toll-delcy-rodriguez-search-rescue-operations/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 25 Jun 2026 20:15:32 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "foreignpolicy_9",
+      "agencyId": "foreignpolicy",
+      "title": "Why the Iran Deal Might Endure",
+      "title_fa": "چرا توافق هسته‌ای ایران ممکن است ماندگار باشد",
+      "lead": "این مقاله به بررسی دلایلی می‌پردازد که چرا توافق هسته‌ای با ایران می‌تواند دوام بیاورد. استدلال می‌شود که هم واشنگتن و هم تهران به این توافق نیاز دارند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/24/ali-vaez-iran-deal-united-states-memorandum-understanding-hezbollah-lebanon-ali-vaez-oil-sanctions/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Wed, 24 Jun 2026 15:47:55 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "foreignpolicy_14",
+      "agencyId": "foreignpolicy",
+      "title": "The Art That Created Colonialism",
+      "title_fa": "هنری که استعمار را آفرید",
+      "lead": "یک نمایشگاه جدید به بررسی چگونگی تأثیر متقابل هنر غربی و تجاوزات استعماری می‌پردازد. این نمایشگاه نشان می‌دهد که چگونه هنر در شکل‌گیری و توجیه پدیده‌های استعماری نقش داشته است.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/26/british-art-yale-east-india-company-colonialism-turner-india/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Fri, 26 Jun 2026 19:00:51 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
     }
   ]
 }
