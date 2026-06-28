@@ -14,7 +14,7 @@ const RSS_SOURCES = [
   { id: "bbc",           name_en: "BBC World",      name_fa: "بی‌بی‌سی",       url: "https://feeds.bbci.co.uk/news/world/rss.xml", lang:"en" },
   { id: "nytimes",       name_en: "NY Times",       name_fa: "نیویورک تایمز",  url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", lang:"en" },
   { id: "independent",   name_en: "Independent",    name_fa: "ایندیپندنت",     url: "https://www.independent.co.uk/rss", lang:"en" },
-  { id: "economist",     name_en: "The Economist",  name_fa: "اکونومیست",      url: "https://www.economist.com/the-world-this-week/rss.xml", lang:"en" },
+  { id: "economist",     name_en: "The Economist",  name_fa: "اکونومیست",      url: "https://www.economist.com/international/rss.xml", lang:"en" },
   { id: "rt",            name_en: "RT",             name_fa: "آر‌تی",           url: "https://www.rt.com/rss/news/", lang:"en" },
   { id: "xinhua",        name_en: "Xinhua",         name_fa: "شینهوا",         url: "http://www.xinhuanet.com/english/rss/worldrss.xml", lang:"en" },
   { id: "middleeasteye", name_en: "Middle East Eye",name_fa: "میدل ایست آی",  url: "https://www.middleeasteye.net/rss/section/news", lang:"en" },
@@ -195,9 +195,9 @@ async function fetchRSS(source) {
       const dupKey = a.sourceUrl || a.title;
       if (seenInThisSource.has(dupKey)) return false;
       seenInThisSource.add(dupKey);
-      // حذف اخبار کم‌اهمیت محلی/خدماتی، مگر اینکه امتیاز ارتباط با ایران داشته باشند
-      // (یعنی حتی یک خبر محلی کوچک اگر به موضوع ملی ایران مربوط باشد نگه داشته می‌شود)
-      if (a.lowImportance && a.iranScore === 0) return false;
+      // نکته: lowImportance دیگر باعث حذف قطعی نمی‌شود - فقط یک علامت (flag) است
+      // تصمیم نهایی به Gemini سپرده می‌شود که با خواندن متن کامل، زمینه (context) را می‌فهمد
+      // مثلاً "زیرساخت" در "حمله به زیرساخت‌های ایران" باید نگه داشته شود، نه حذف
       return true;
     });
 
