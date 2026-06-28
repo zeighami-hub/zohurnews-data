@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "agencyId": "nytimes",
-  "total": 60,
+  "total": 66,
   "articles": [
     {
       "id": "nytimes_8",
@@ -1218,7 +1218,7 @@
       "agencyId": "nytimes",
       "title": "Convicted Rapist Who Fled to Scotland and Faked His Own Death Dies in Utah",
       "title_fa": "متجاوز محکوم‌شده‌ای که به اسکاتلند فرار کرده و مرگ خود را جعل کرده بود، در یوتا درگذشت",
-      "lead": "نیکلاس روسی، فردی که در سال ۲۰۰۸ به دو مورد تجاوز جنسی محکوم شده و سپس با جعل مرگ خود به اسکاتلند گریخته بود، در یوتا درگذشت. وی در سال ۲۰۲۱ توسط یک پرستار هوشیار در حین درمان کووید-۱۹ شناسایی شده بود.",
+      "lead": "نیکلاس روسی، فردی که در سال ۲۰۰۸ به دو مورد تجاوز جنسی محکوم شده و سپس با جعل مرگ خود به اسکاتلند گریخته بود، در یوتا درگذشت. وی در سال ۲۰۲�� توسط یک پرستار هوشیار در حین درمان کووید-۱۹ شناسایی شده بود.",
       "category": "crime",
       "region": "global",
       "sourceUrl": "https://www.nytimes.com/2026/06/26/us/nicholas-rossi-fugitive-rape-death.html",
@@ -1322,6 +1322,138 @@
       },
       "pubDate": "Thu, 25 Jun 2026 16:33:54 +0000",
       "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "nytimes_7",
+      "agencyId": "nytimes",
+      "title": "Live Updates: Mideast Hostilities Flare, Testing Fragile U.S.-Iran Truce",
+      "title_fa": "به روزرسانی‌های زنده: تشدید خصومت‌ها در خاورمیانه، آزمایش آتش‌بس شکننده آمریکا و ایران",
+      "lead": "بحرین اعلام کرد که هدف حملات پهپادی ایران قرار گرفته است، که ظاهراً تلافی حملات هوایی آمریکا به مواضع نظامی ایران در شب گذشته بوده است. همچنین برای دومین بار در روزهای اخیر، یک کشتی در تنگه هرمز مورد حمله قرار گرفت.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 95
+      },
+      "pubDate": "Sat, 27 Jun 2026 12:10:37 +0000",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "title": "U.S.-Iran Deal’s Vague Language Comes Back to Haunt Peace Efforts",
+      "title_fa": "ابهامات زبان توافق آمریکا و ایران به تلاش‌های صلح آسیب می‌زند",
+      "lead": "زبان مبهم توافق‌نامه بین آمریکا و ایران در مورد تنگه هرمز، تلاش‌های صلح را با مشکل مواجه کرده است. ایران تفسیری از این توافق دارد که به آن اجازه می‌دهد مسیر عبور کشتی‌ها را تعیین کند، در حالی که این موضوع با دیدگاه آمریکا متفاوت است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 27 Jun 2026 11:19:31 +0000",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "title": "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
+      "title_fa": "پس از انتخابات نیویورک، اسرائیلی‌ها از شکاف بیشتر در روابط آمریکا و اسرائیل نگران هستند",
+      "lead": "انتقاد از جنگ غزه، خشم از جنگ ایران و نتایج انتخابات نیویورک نشان می‌دهد که حمایت قاطع واشنگتن از اسرائیل ممکن است رو به پایان باشد. این عوامل باعث نگرانی اسرائیلی‌ها در مورد آینده روابط با آمریکا شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 27 Jun 2026 09:02:30 +0000",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "nytimes_11",
+      "agencyId": "nytimes",
+      "title": "The Latest on the Venezuela Earthquake",
+      "title_fa": "آخرین تحولات (اشاره به زلزله ونزوئلا)",
+      "lead": "این عنوان بخشی از یک به‌روزرسانی زنده (live blog) از نیویورک تایمز است که به نظر می‌رسد به آخرین تحولات مربوط به زلزله در ونزوئلا می‌پردازد. جزئیات بیشتر در مورد این رویداد در متن خبر اصلی ارائه می‌شود.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake/heres-the-latest",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 27 Jun 2026 11:59:18 +0000",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "title": "Here’s the latest.",
+      "title_fa": "آخرین تحولات",
+      "lead": "این خبر مربوط به آخرین به‌روزرسانی‌ها در مورد تحولات جهانی است. تیتر اصلی به تنهایی اطلاعات خاصی ارائه نمی‌دهد، اما احتمالاً به درگیری‌های آمریکا و ایران در هرمز اشاره دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz/heres-the-latest",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 27 Jun 2026 11:02:59 +0000",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "nytimes_11",
+      "agencyId": "nytimes",
+      "title": "Chinese Dissident Who Fled to South Korea by Rubber Boat Lands in Canada",
+      "title_fa": "مخالف چینی که با قایق لاستیکی به کره جنوبی گریخته بود، به کانادا رسید",
+      "lead": "دونگ گوانگ‌پینگ، منتقد دولت چین که ماه گذشته با قایق از طریق دریا به کره جنوبی گریخته بود، اکنون به تورنتو کانادا رسیده است. او در این شهر به خانواده‌اش ملحق خواهد شد و سفر پرمخاطره او به پناهندگی پایان می‌یابد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/27/world/americas/china-dissident-dong-guangping-canada.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "pubDate": "Sat, 27 Jun 2026 10:48:31 +0000",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
     }
   ]
 }
