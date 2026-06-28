@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_4",
@@ -24,6 +24,28 @@
       },
       "pubDate": "Thu, 25 Jun 2026 19:47:00 +0100",
       "analyzed_at": "2026-06-27T02:43:10.606Z"
+    },
+    {
+      "id": "skynews_8",
+      "agencyId": "skynews",
+      "title": "Christmas market terrorist who drove into crowds jailed for life",
+      "title_fa": "تروریست بازار کریسمس که با خودرو وارد جمعیت شد، به حبس ابد محکوم گردید",
+      "lead": "مردی که در یک حمله با خودرو به جمعیت در بازار کریسمس آلمان شش نفر را کشت، به حبس ابد محکوم شد. این حکم پس از محاکمه در ماگدبورگ صادر گردید.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/man-who-killed-six-in-car-attack-on-magdeburg-christmas-market-sentenced-to-life-in-prison-13557910",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 07:14:00 +0100",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
     }
   ]
 }
