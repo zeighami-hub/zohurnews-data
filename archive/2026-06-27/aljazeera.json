@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "agencyId": "aljazeera",
-  "total": 5,
+  "total": 25,
   "articles": [
     {
       "id": "aljazeera_11",
@@ -51,7 +51,7 @@
       "id": "aljazeera_0",
       "agencyId": "aljazeera",
       "title": "Dembele scores hat-trick as France beat Norway 4-1 at World Cup 2026",
-      "title_fa": "دمبله هت‌تریک کرد؛ پیروزی 4-1 فرانسه مقابل نروژ در جام جهانی 2026",
+      "title_fa": "دمبله هت���تریک کرد؛ پیروزی 4-1 فرانسه مقابل نروژ در جام جهانی 2026",
       "lead": "عثمان دمبله با به ثمر رساندن سه گل (هت‌تریک) در نیمه اول، به فرانسه کمک کرد تا نروژ را با نتیجه 4-1 شکست دهد. این پیروزی فرانسه را در صدر گروه I جام جهانی 2026 قرار داد.",
       "category": "sports",
       "region": "europe",
@@ -74,7 +74,7 @@
       "agencyId": "aljazeera",
       "title": "Thousands of migrants flee South Africa ahead of anti-immigrant protests",
       "title_fa": "هزاران مهاجر پیش از اعتراضات ضد مهاجرتی از آفریقای جنوبی فرار می‌کنند",
-      "lead": "هزاران مهاجر در آفریقای جنوبی، پیش از آغاز اعتراضات برنامه‌ریزی شده علیه مهاجران، اقدام به فرار از این کشور کرده‌اند. این حرکت گسترده نشان‌دهنده ترس و نگرانی از تشدید خشونت‌ها و ناامنی در جامعه است.",
+      "lead": "هزاران مهاجر در آفریقای جنوبی، پیش از آغاز اعتراضات برنامه‌ریزی ش��ه علیه مهاجران، اقدام به فرار از این کشور کرده‌اند. این حرکت گسترده نشان‌دهنده ترس و نگرانی از تشدید خشونت‌ها و ناامنی در جامعه است.",
       "category": "politics",
       "region": "africa",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/26/thousands-of-migrants-flee-south-africa-ahead-of-anti-immigrant-protests?traffic_source=rss",
@@ -112,6 +112,446 @@
       },
       "pubDate": "Fri, 26 Jun 2026 21:10:10 +0000",
       "analyzed_at": "2026-06-27T02:43:10.606Z"
+    },
+    {
+      "id": "aljazeera_12",
+      "agencyId": "aljazeera",
+      "title": "Israeli attack on car in central Gaza kills three Palestinians",
+      "title_fa": "حمله اسرائیل به خودرویی در مرکز غزه سه فلسطینی را کشت",
+      "lead": "در حمله‌ای هوایی توسط اسرائیل به خودرویی در اردوگاه المغازی در مرکز غزه، سه فلسطینی کشته شدند. وزارت کشور فلسطین اعلام کرد که قربانیان افسران پلیس بودند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 26 Jun 2026 19:49:32 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "aljazeera_0",
+      "agencyId": "aljazeera",
+      "title": "How much disaster aid will the US provide to Venezuela?",
+      "title_fa": "ایالات متحده چه میزان کمک بلایای طبیعی به ونزوئلا ارائه خواهد کرد؟",
+      "lead": "ونزوئلا پس از زلزله‌های قدرتمند، با تخریب گسترده‌ای مواجه شده است. این گزارش به بررسی میزان کمک‌های بلایای طبیعی آمریکا به ونزوئلا می‌پردازد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/inside-story/2026/6/26/how-much-disaster-aid-will-the-u-s-provide-to-venezuela?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 19:41:23 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "aljazeera_2",
+      "agencyId": "aljazeera",
+      "title": "Trump threatens tariffs for countries that levy digital tax on US firms",
+      "title_fa": "ترامپ کشورهای دریافت‌کننده مالیات دیجیتال از شرکت‌های آمریکایی را به تعرفه تهدید کرد",
+      "lead": "دونالد ترامپ، رهبر جمهوری‌خواه، موضعی تهاجمی علیه کشورها��ی اتخاذ کرده است که بر شرکت‌های فناوری آمریکایی مالیات یا مقررات وضع می‌کنند. او تهدید کرده است که در صورت وضع مالیات دیجیتال بر شرکت‌های آمریکایی، علیه این کشورها تعرفه اعمال خواهد کرد.",
+      "category": "technology",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/26/trump-threatens-tariffs-for-countries-that-levy-digital-tax-on-us-firms?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 26 Jun 2026 19:38:20 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "aljazeera_13",
+      "agencyId": "aljazeera",
+      "title": "Advocates warn of wide-ranging implications of US Supreme Court TPS ruling",
+      "title_fa": "فعالان حقوقی نسبت به پیامدهای گسترده حکم دادگاه عالی آمریکا در مورد وضعیت حفاظت‌شده موقت هشدار می‌دهند",
+      "lead": "دادگاه عالی آمریکا به ترامپ اجازه داده است تا وضعیت حفاظت‌شده موقت (TPS) را برای مهاجران اهل هائیتی و سوریه پایان دهد. فعالان حقوقی هشدار می‌دهند که این حکم می‌تواند پیامدهای گسترده‌ای از جمله جدایی خانواده‌ها داشته باشد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/26/advocates-warn-of-wide-ranging-implications-of-us-supreme-court-tps-ruling?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 26 Jun 2026 18:33:04 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "aljazeera_1",
+      "agencyId": "aljazeera",
+      "title": "Rescuers race to find survivors of Venezuelan earthquakes",
+      "title_fa": "امدادگران برای یافتن بازماندگان زلزله ونزوئلا در تلاشند.",
+      "lead": "تیم‌های نجات در ونزوئلا برای یافتن بازماندگان زلزله در رقابت با زمان هستند. این تلاش‌ها در حالی صورت می‌گیرد که مهلت حیاتی ۷۲ ساعته \"پنجره طلایی\" نزدیک می‌شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_inside-venezuelas-race-to-find-earthquake-survivors-260626?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 26 Jun 2026 18:10:28 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "aljazeera_6",
+      "agencyId": "aljazeera",
+      "title": "Israeli prosecutors charge six settlers after West Bank mosque attack",
+      "title_fa": "دادستان‌های اسرائیلی شش شهرک‌نشین را پس از حمله به مسجد کرانه باختری متهم کردند.",
+      "lead": "دادستان‌های اسرائیلی شش شهرک‌نشین را در پی حمله به مسجدی در کرانه باختری متهم کرده‌اند. این در حالی است که حملات اسرائیلی‌ها به روستاهای فلسطینی در کرانه باختری اشغالی افزایش یافته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/26/israeli-prosecutors-charge-six-settlers-after-west-bank-mosque-attack?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 26 Jun 2026 18:00:24 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "aljazeera_10",
+      "agencyId": "aljazeera",
+      "title": "Why did these World Cup ads strike a nerve in Egypt?",
+      "title_fa": "چرا این تبلیغات جام جهانی در مصر حساسیت‌برانگیز شد؟",
+      "lead": "یک کمپین تبلیغاتی ویروسی جام جهانی به بحثی آشنا در میان هواداران فوتبال مصر دامن زد. این تبلیغات باعث ایجاد بحث و جدل‌های زیادی در این کشور شد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt-2?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 17:55:06 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "aljazeera_11",
+      "agencyId": "aljazeera",
+      "title": "US announces framework agreement between Israel and Lebanon",
+      "title_fa": "آمریکا از توافق چارچوب‌دار بین اسرائیل و لبنان خبر داد.",
+      "lead": "وزیر امور خارجه آمریکا، مارکو روبیو، پس از مذاکرات در واشنگتن دی‌سی، از توافقی چارچوب‌دار بین اسرائیل و لبنان خبر داد. او این توافق را \"گام اول\" نامید.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 17:53:46 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "aljazeera_0",
+      "agencyId": "aljazeera",
+      "title": "Nine people killed in building collapse in Lagos, Nigeria",
+      "title_fa": "۹ کشته در پی ریزش ساختمان در لاگوس نیجریه",
+      "lead": "در پی ریزش یک ساختمان در لاگوس نیجریه، ۹ نفر جان خود را از دست دادند. ۲۷ نفر با جراحات مختلف نجات یافتند و فرماندار دستور بررسی ایمنی منطقه را صادر کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 26 Jun 2026 17:40:36 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "aljazeera_10",
+      "agencyId": "aljazeera",
+      "title": "New York City freezes rents for one million regulated apartments",
+      "title_fa": "شهر نیویورک اجاره‌بهای یک میلیون آپارتمان تحت نظارت را منجمد کرد",
+      "lead": "شهر نیویورک اجاره‌بهای حدود یک میلیون آپارتمان تحت نظارت را منجمد کرده است. این اقدام یکی از وعده‌های اصلی شهردار زهیر ممدانی در دوران کارزار انتخاباتی بود که اکنون محقق شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/6/26/new-york-city-freezes-rents-for-one-million-regulated-apartments?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 17:30:55 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "aljazeera_8",
+      "agencyId": "aljazeera",
+      "title": "DR Congo files case against Rwanda at ICJ over decades of alleged ‘abuses’",
+      "title_fa": "کنگو دموکراتیک، پرونده‌ای علیه رواندا در دیوان بین‌المللی دادگستری به دلیل دهه‌ها «نقض حقوق» ادعایی تشکیل داد",
+      "lead": "کینشاسا، پایتخت کنگو دموکراتیک، رواندا را در دیوان عالی سازمان ملل (ICJ) به دلیل ۳۰ سال \"نقض حقوق\" ادعایی شامل کشتارهای دسته‌جمعی، خشونت جنسی و آوارگی اجباری مورد شکایت قرار داده است. این اقدام قانونی در پی دهه‌ها اتهام به سوءاستفاده‌های رواندا علیه کنگو صورت می‌گیرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/26/dr-congo-files-case-against-rwanda-at-icj-over-decades-of-alleged-abuses?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Fri, 26 Jun 2026 16:54:08 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "aljazeera_9",
+      "agencyId": "aljazeera",
+      "title": "How did Colombia’s election split a nation in two?",
+      "title_fa": "انتخابات کلمبیا چگونه یک ملت را دوپاره کرد؟",
+      "lead": "کلمبیا پس از سال‌ها برای اولین بار یک رئیس‌جمهور راست‌گرا را با اختلاف بسیار اندکی انتخاب کرد. این نتیجه نزدیک، گویای شکاف عمیق سیاسی و اجتماعی در کشور است و نشان می‌دهد که ملت به دو بخش اصلی تقسیم شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/the-take-2/2026/6/26/how-did-colombias-election-split-a-nation-in-two?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Fri, 26 Jun 2026 16:50:27 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "aljazeera_7",
+      "agencyId": "aljazeera",
+      "title": "UN rights chief calls for probe into migrant deaths in US detention centres",
+      "title_fa": "رئیس حقوق بشر سازمان ملل خواستار تحقیق درباره مرگ مهاجران در بازداشتگاه‌های آمریکا شد",
+      "lead": "رئیس حقوق بشر سازمان ملل متحد خواستار آغاز تحقیقاتی فوری در خصوص افزایش مرگ و میر مهاجران در بازداشتگاه‌های ایالات متحده شده است. تعداد مهاجران فوت شده در این مراکز طی دوره دوم ریاست جمهوری دونالد ترامپ به طرز چشمگیری افزایش یافته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/26/un-rights-chief-calls-for-probe-into-migrant-deaths-in-us-detention-centres?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 20:58:19 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "aljazeera_1",
+      "agencyId": "aljazeera",
+      "title": "Mistrial Declared in Federal Arson Case Related to California Wildfires",
+      "title_fa": "اعلام بی‌اعتباری محاکمه در پرونده فدرال آتش‌سوزی‌های کالیفرنیا",
+      "lead": "در پرونده فدرال مربوط به آتش‌سوزی‌های جنگلی کالیفرنیا، اعلام بی‌اعتباری محاکمه صورت گرفت زیرا هیئت منصفه نتوانست به تصمیمی دست یابد. محاکمه مجدد برای این پرونده پر سر و صدا که مربوط به آتش‌سوزی پالی‌سیدز است، در ماه اکتبر برگزار خواهد شد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/26/mistrial-declared-in-federal-arson-case-related-to-california-wildfires?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Fri, 26 Jun 2026 20:51:08 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "aljazeera_8",
+      "agencyId": "aljazeera",
+      "title": "Hezbollah Will Not Support Israel-Lebanon Framework Deal",
+      "title_fa": "حزب‌الله از توافق چارچوب اسرائیل و لبنان حمایت نخواهد کرد",
+      "lead": "حزب‌الله اعلام کرده است که از توافق چارچوب پیشنهادی بین اسرائیل و لبنان حمایت نخواهد کرد. این خبر در حالی منتشر می‌شود که ایالات متحده از دستیابی به یک توافق چارچوب بین دو کشور خبر داده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah-rejects-israel-lebanon-framework-deal-260626?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 26 Jun 2026 20:46:43 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "aljazeera_9",
+      "agencyId": "aljazeera",
+      "title": "After progressive US primary wins, Trump takes aim at ‘godless communists’",
+      "title_fa": "پس از پیروزی‌های اولیه ترقی‌خواهان در آمریکا، ترامپ «کمونیست‌های بی‌خدا» را هدف قرار می‌دهد",
+      "lead": "دونالد ترامپ پس از پیروزی‌های اخیر ترقی‌خواهان در انتخابات مقدماتی آمریکا، «کمونیست‌های بی‌خدا» را هدف حملات لفظی خود قرار داده است. او بارها سوسیالیست‌های دموکراتیک را با کمونیست‌ها اشتباه گرفته، در حالی که هیچ کمونیستی در لیست حزب دموکرات حضور ندارد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/26/after-progressive-us-primary-wins-trump-takes-aim-at-godless-communists?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 25,
+        "negative": 70
+      },
+      "pubDate": "Fri, 26 Jun 2026 20:29:50 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "aljazeera_14",
+      "agencyId": "aljazeera",
+      "title": "Uruguay vs Spain LIVE: World Cup 2026",
+      "title_fa": "اروگوئه و اسپانیا زنده: جام جهانی ۲۰۲۶",
+      "lead": "تمامی اخبار و پوشش لحظه به لحظه بازی اروگوئه و اسپانیا در چارچوب جام جهانی ۲۰۲۶ را می‌توانید در این گزارش دنبال کنید. تیم اسپانیا با حضور لامین یامال به مصاف اروگوئه رفته است.",
+      "category": "sport",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/liveblog/2026/6/26/uruguay-vs-spain-live-world-cup-2026?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "pubDate": "Fri, 26 Jun 2026 20:03:03 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "aljazeera_1",
+      "agencyId": "aljazeera",
+      "title": "US federal judge questions DOJ decision to drop Adani charges",
+      "title_fa": "قاضی فدرال آمریکا تصمیم وزارت دادگستری برای لغو اتهامات آدانی را زیر سوال برد",
+      "lead": "یک قاضی فدرال آمریکایی در مورد تصمیم وزارت دادگستری برای لغو اتهامات مربوط به آدانی ابراز تردید کرده است. او دلیل وزارت دادگستری برای این اقدام را مبهم دانسته و خواستار توضیح دقیق از سوی دادستان‌ها شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/6/26/us-federal-judge-questions-doj-decision-to-drop-adani-charges?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Fri, 26 Jun 2026 20:02:04 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "aljazeera_7",
+      "agencyId": "aljazeera",
+      "title": "Is the AfD a threat to Germany? Mehdi Hasan & Maximilian Krah",
+      "title_fa": "آیا حزب آلترناتیو برای آلمان (AfD) تهدیدی برای این کشور است؟ گفتگوی مهدی حسن و ماکسیمیلیان کراه",
+      "lead": "مهدی حسن در یک مناظره رودررو با ماکسیمیلیان کراه، نماینده پارلمان آلمان، به بررسی دستور کار مهاجرتی سخت‌گیرانه حزب آلترناتیو برای آلمان (AfD) می‌پردازد. این گفتگو به این سوال محوری می‌پردازد که آیا این حزب برای آلمان تهدید محسوب می‌شود یا خیر.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/video/head-to-head/2026/6/26/is-the-afd-a-threat-to-germany-mehdi-hasan-maximilian-krah?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 90,
+        "negative": 10
+      },
+      "pubDate": "Fri, 26 Jun 2026 19:24:54 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "aljazeera_10",
+      "agencyId": "aljazeera",
+      "title": "Israel, Lebanon sign framework deal after US-mediated talks",
+      "title_fa": "اسرائیل و لبنان پس از مذاکرات با میانجیگری آمریکا، توافق‌نامه چارچوبی امضا کردند",
+      "lead": "اسرائیل و لبنان پس از مذاکراتی با میانجیگری ایالات متحده، یک توافق‌نامه چارچوبی امضا کردند. این توافق توسط وزیر امور خارجه آمریکا، مارکو روبیو، اعلام شد و گامی به سوی ثبات در منطقه محسوب می‌شود.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/26/israel-lebanon-sign-framework-deal-after-us-mediated-talks?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 19:05:24 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
     }
   ]
 }
