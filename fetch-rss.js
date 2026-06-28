@@ -151,9 +151,12 @@ async function fetchRSS(source) {
       console.log('DEBUG ' + source.id + ' parsed top keys: ' + Object.keys(parsed || {}).join(','));
     }
     const items = parsed?.rss?.channel?.item || parsed?.feed?.entry || [];
-    const arr = Array.isArray(items) ? items : [items];
+    let arr = Array.isArray(items) ? items : [items];
 
-    // واکشی همه آیتم‌های فید (بدون محدودیت ۸ تا) - معمولا فیدها ۲۰-۵۰ آیتم دارند
+    // سقف ثابت هر منبع تا حجم کنترل‌شده بماند (برخلاف فید Economist که تا ۳۰۰ آیتم می‌دهد)
+    const MAX_PER_SOURCE = 20;
+    arr = arr.slice(0, MAX_PER_SOURCE);
+
     const seenInThisSource = new Set();
     const articles = arr.map((item, i) => {
       var link = '';
