@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 50,
   "articles": [
     {
       "id": "nytimes_8",
@@ -222,6 +222,886 @@
       },
       "pubDate": "Fri, 26 Jun 2026 21:06:52 +0000",
       "analyzed_at": "2026-06-27T02:43:10.606Z"
+    },
+    {
+      "id": "nytimes_7",
+      "agencyId": "nytimes",
+      "title": "Why Lebanon Is Celebrating Brazil’s Win",
+      "title_fa": "چرا لبنان پیروزی برزیل را جشن می‌گیرد؟",
+      "lead": "گزارشگر نیویورک تایمز به تریپولی لبنان رفته تا از جشن‌های پیروزی تیم ملی برزیل در جام جهانی گزارش تهیه کند. برزیل به دلیل حضور بزرگترین جامعه دیاسپورای لبنانی در جهان، در این کشور بسیار محبوب است.",
+      "category": "culture",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/video/world/middleeast/100000010991975/why-lebanon-is-celebrating-brazils-win.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 20:03:02 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+      "title_fa": "در لندن می‌توانید دویست و پنجاهمین سالگرد تولد آمریکا را از زاویه دید بریتانیایی جشن بگیرید",
+      "lead": "بریتانیا ممکن است جنگ انقلابی آمریکا را باخته باشد، اما لندن همچنان نقشه‌های انقلاب آمریکا را در خود جای داده است. این گزارش مکان‌های برجسته برای دنبال کردن رد پای بنیانگذاران آمریکا در لندن را معرفی می‌کند.",
+      "category": "travel",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 19:39:30 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "title": "Canada’s 24 Sussex Drive Is a Dump. Mark Carney Is Going to Fix It Up.",
+      "title_fa": "اقامتگاه نخست‌وزیر کانادا در وضعیت نامناسبی است؛ مارک کارنی قصد بازسازی آن را دارد.",
+      "lead": "اقامتگاه رسمی نخست‌وزیر کانادا در اتاوا، پس از بیش از یک دهه خرابی و خالی ماندن، به برجسته‌ترین پروژه بازسازی خانه در این کشور تبدیل شده است. مارک کارنی متعهد شده است که این مکان را بازسازی کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/canada/carney-ottawa-24-sussex-drive.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Fri, 26 Jun 2026 18:10:38 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "title": "The Moment One Venezuelan Survivor Was Pulled From a Flattened Building",
+      "title_fa": "لحظه بیرون کشیدن یک بازمانده ونزوئلایی از ساختمانی ویران‌شده",
+      "lead": "گراسیلا مورا در زمان وقوع زلزله‌های شمال ونزوئلا در کنار دوستش بود. ویدیویی لحظه نجات او از زیر آوار ساختمانی ویران‌شده را ثبت کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/americas/earthquake-survivor-graciela-mora.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Fri, 26 Jun 2026 17:36:05 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "title": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
+      "title_fa": "حملات اوکراین به اعلام وضعیت فوق‌العاده در کریمه منجر شد",
+      "lead": "به دلیل حملات شدید و مکرر اوکراین، شبه‌جزیره کریمه شاهد اعلام وضعیت فوق‌العاده شده است. این حملات زندگی روزمره در کریمه را به حدی تحت تأثیر قرار داده که از زمان الحاق غیرقانونی آن به روسیه در سال ۲۰۱۴ بی‌سابقه بوده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-of-emergency.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 17:06:54 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_12",
+      "agencyId": "nytimes",
+      "title": "The Netherlands Records Its First Assisted Death of a Child Between 1 and 12",
+      "title_fa": "هلند اولین مورد اتانازی کودک ۱ تا ۱۲ ساله را ثبت کرد",
+      "lead": "هلند اولین مورد اتانازی یک کودک بین ۱ تا ۱۲ سال را به ثبت رسانده است. این در حالی است که مرگ با کمک پزشک برای کودکان مبتلا به بیماری‌های لاعلاج در این گروه سنی از سال ۲۰۲۴ در این کشور مجاز شده بود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/europe/assisted-death-child-netherlands.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Fri, 26 Jun 2026 16:44:34 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "title": "Survivors in quake-hit La Guaira tell of loss and rescue.",
+      "title_fa": "بازماندگان در لاگوایراِ زلزله‌زده، از تلفات و لحظات نجات روایت می‌کنند",
+      "lead": "بازماندگان زلزله ویرانگر در ایالت لاگوایرا ونزوئلا، روایت‌های دردناکی از از دست دادن عزیزان و لحظات نجات را بازگو می‌کنند. این گزارش‌ها عمق فاجعه انسانی و تلاش‌های امدادی را در مناطق آسیب‌دیده به تصویر می‌کشند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake/survivors-la-guaira-hospital",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 5,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 15:43:21 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_8",
+      "agencyId": "nytimes",
+      "title": "Venezuelans Displaced by Quakes Sleep in Streets, Plazas and Cars",
+      "title_fa": "ونزوئلایی‌های آواره شده از زمین‌لرزه در خیابان‌ها، میادین و خودروها می‌خوابند",
+      "lead": "زمین‌لرزه‌های دوگانه هزاران نفر را بی‌خانمان کرده و بسیاری از کسانی که از ترس ماندن در خانه‌هایشان هراس دارند، به خیابان‌ها پناه برده‌اند. این وضعیت اضطراری انسانی، مردم ونزوئلا را مجبور به زندگی در شرایط دشوار و ناایمن کرده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-survivors-displaced.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 95
+      },
+      "pubDate": "Fri, 26 Jun 2026 14:08:52 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_11",
+      "agencyId": "nytimes",
+      "title": "Praying for Rescues as Hope Fades After Venezuela’s Double Quake",
+      "title_fa": "با کم‌رنگ شدن امیدها پس از زلزله‌های دوگانه ونزوئلا، دعاها برای نجات‌یافتگان ادامه دارد",
+      "lead": "پس از وقوع دو زمین‌لرزه پیاپی در ونزوئلا که این کشور آمریکای لاتین را به زانو درآورده، امیدها برای یافتن بازماندگان در حال کاهش است. مردم محلی همچنان برای نجات عزیزانشان دعا می‌کنند، در حالی که تیم‌های امداد و نجات به تلاش‌های خود ادامه می‌دهند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 13:40:58 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_12",
+      "agencyId": "nytimes",
+      "title": "Psychiatrist Who Killed Six at German Christmas Market Is Jailed for Life",
+      "title_fa": "روانپزشکی که شش نفر را در بازار کریسمس آلمان کشت، به حبس ابد محکوم شد",
+      "lead": "یک روانپزشک که در دسامبر ۲۰۲۴ با راندن خودرو به میان جمعیت در یک بازار کریسمس در آلمان، شش نفر را کشته و صدها نفر را زخمی کرده بود، به حبس ابد محکوم شد. این حکم پس از محاکمه‌ای که جزئیات هولناک حادثه را روشن کرد، صادر شد.",
+      "category": "justice",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/europe/germany-christmas-market-doctor.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 13:28:15 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_14",
+      "agencyId": "nytimes",
+      "title": "As Europe Sweats, Some Politicians Talk of Air-Conditioning, Not Climate Action",
+      "title_fa": "در حالی که اروپا عرق می‌ریزد، برخی سیاستمداران به جای اقدام اقلیمی از تهویه مطبوع صحبت می‌کنند",
+      "lead": "مرگ‌ومیرهای ناشی از گرما و اختلال در زندگی روزمره، سیاستمداران را مجبور کرده است که به شیوه‌های مختلف با سیاره‌ای که به سرعت در حال گرم شدن است، دست و پنجه نرم کنند. با این حال، برخی از آن‌ها به جای تمرکز بر اقدامات بلندمدت اقلیمی، راهکارهای کوتاه‌مدت مانند تهویه مطبوع را پیشنهاد می‌دهند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 26 Jun 2026 13:08:19 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
+      "title_fa": "موج گرما پاریس را وادار به تعلیق رویدادهای ورزشی و مصرف نوشیدنی در اماکن عمومی کرد",
+      "lead": "موج شدید گرما در پاریس، مقامات را بر آن داشت تا رویدادهای ورزشی و مصرف نوشیدنی‌های الکلی در اماکن عمومی را به حالت تعلیق درآورند. رئیس پلیس پاریس، پاتریس فور، اظهار داشت که محدودیت‌های الکل با هدف کاهش فشار بر خدمات بهداشتی اعمال شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 26 Jun 2026 12:27:36 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_5",
+      "agencyId": "nytimes",
+      "title": "Europe’s Scorching Heat Is Gradually Moving East",
+      "title_fa": "گرمای سوزان اروپا به تدریج به سمت شرق حرکت می‌کند",
+      "lead": "در حالی که بخش‌هایی از اسپانیا، فرانسه و سایر کشورهای اروپایی کمی کاهش گرما را تجربه می‌کنند، موج گرمای بی‌سابقه هنوز به پایان نرسیده است. این پدیده جوی در حال حرکت به سمت شرق قاره است و مناطق جدیدی را تحت تاثیر قرار می‌دهد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/weather/europe-heat-wave-temperatures.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 26 Jun 2026 11:49:01 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "title": "The Aftermath of Venezuela’s Earthquakes",
+      "title_fa": "پیامدهای زلزله‌های ونزوئلا",
+      "lead": "آدریانا لوریو فرناندز، عکاس نیویورک تایمز، صحنه‌های پس از زلزله‌های ونزوئلا را از نزدیک توصیف می‌کند. این گزارش تصویری به وضعیت مناطق آسیب‌دیده و چالش‌های پیش روی مردم می‌پردازد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 26 Jun 2026 10:32:05 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_5",
+      "agencyId": "nytimes",
+      "title": "Ryanair Stops Charging for Parents to Sit With Their Children",
+      "title_fa": "رایان‌ایر دریافت هزینه از والدین برای نشستن کنار فرزندانشان را متوقف کرد",
+      "lead": "خطوط هوایی رایان‌ایر اعلام کرد که پس از شروع تحقیقات یک نهاد نظارتی بریتانیایی مبنی بر غیرقانونی بودن این هزینه‌ها، 'با اکراه' سیاست خود را تغییر داده است. این تصمیم به این معنی است که والدین دیگر مجبور به پرداخت هزینه اضافی برای نشستن کنار فرزندان خود در پروازهای این شرکت نخواهند بود.",
+      "category": "business",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/europe/ryanair-fee-children-seats.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 10:15:15 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_9",
+      "agencyId": "nytimes",
+      "title": "Venezuelans Search Desperately for Loved Ones Missing After Quakes",
+      "title_fa": "ونزوئلایی‌ها ناامیدانه در جستجوی عزیزان گمشده پس از زلزله",
+      "lead": "پس از زلزله در ونزوئلا، دوستان و خانواده افراد گمشده در مناطق زلزله‌زده به شبکه‌های اجتماعی روی آورده و به محله‌های آسیب‌دیده سر می‌زنند. آن‌ها در انتظار واکنش رسمی برای عملیات نجات هستند و تلاش‌های خودجوش برای یافتن عزیزانشان ادامه دارد.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/world/americas/survivor-search-venezuela-earthquake.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 09:56:53 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_11",
+      "agencyId": "nytimes",
+      "title": "I Was Kicked Out of China",
+      "title_fa": "من از چین اخراج شدم",
+      "lead": "ویویان وانگ، خبرنگار نیویورک تایمز، به عنوان بخشی از سرکوب روزنامه‌نگاران خارجی توسط پکن، از چین اخراج شد. او توضیح می‌دهد که چگونه کمپین فشار از سوی مقامات، انجام کارش را چالش‌برانگیز کرده بود.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/video/world/asia/100000010924036/china-journalist-expulsion.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 09:00:01 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_12",
+      "agencyId": "nytimes",
+      "title": "Zelensky Steps Up Threats Against Belarus for Aiding Drone Attacks",
+      "title_fa": "زلنسکی تهدیدات علیه بلاروس به دلیل کمک به حملات پهپادی را تشدید کرد",
+      "lead": "مقامات اوکراینی می‌گویند بلاروس، همسایه شمالی این کشور، به ایستگاه‌های رادیویی خود اجازه می‌دهد تا برای هدایت دقیق‌تر پهپادهای تهاجمی روسیه استفاده شوند. رئیس‌جمهور زلنسکی در واکنش به این اقدام، تهدیدات خود را علیه بلاروس افزایش داده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/europe/zelensky-belarus-drones-relay.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 08:38:34 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "title": "A $2.5 Billion Whodunit: The Hack That Dented the U.K. Economy",
+      "title_fa": "معمای ۲.۵ میلیارد دلاری: هکی که اقتصاد بریتانیا را تحت تأثیر قرار داد",
+      "lead": "گروهی از مجرمان سایبری ابتدا مسئولیت فلج کردن شرکت جگوار لندروور در سال گذشته را بر عهده گرفتند. اکنون بازرسان، دست‌های روسیه را پشت این حمله باج‌افزاری می‌بینند که خسارتی ۲.۵ میلیارد دلاری به اقتصاد بریتانیا وارد کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/europe/jaguar-russia-hack.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 07:03:36 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_11",
+      "agencyId": "nytimes",
+      "title": "World Cups Fans in Myanmar Boycott Junta-Linked Broadcasts",
+      "title_fa": "هواداران جام جهانی در میانمار پخش‌های مرتبط با دولت نظامی را تحریم می‌کنند",
+      "lead": "در میانمار، بازی‌های جام جهانی توسط شرکتی پخش می‌شود که متعلق به ارتش است و پنج سال پیش قدرت را در دست گرفت. برخی از هواداران به دنبال راه‌های دیگری برای تماشای مسابقات هستند تا از حمایت مالی از دولت نظامی خودداری کنند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/asia/world-cup-myanmar-junta.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "pubDate": "Fri, 26 Jun 2026 04:00:18 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "title": "Devastating Earthquakes Will Test Venezuela’s Newfound Alliance With U.S.",
+      "title_fa": "زمین‌لرزه‌های ویرانگر ائتلاف نوپای ونزوئلا با آمریکا را به چالش می‌کشند",
+      "lead": "زمین‌لرزه‌های ویرانگر در ونزوئلا فشارها را بر پرزیدنت ت��امپ افزایش داده تا لفاظی‌های خود در مورد مداخله مسلحانه را با عمل مطابقت دهد. این بحران طبیعی، ائتلاف نوپای میان ونزوئلا و آمریکا را به بوته آزمایش می‌گذارد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/world/americas/earthquakes-us-alliance-venezuela-trump.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "pubDate": "Fri, 26 Jun 2026 02:06:34 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "title": "Officials Shut Down Kenya’s Capital to Block Protest",
+      "title_fa": "مقامات پایتخت کنیا را برای جلوگیری از اعتراضات تعطیل کردند",
+      "lead": "مقامات کنیایی برای جلوگیری از برگزاری یک اعتراض سالانه، پایتخت این کشور، نایروبی را تعطیل کردند. این اعتراض به ویترینی برای نمایش قدرت فزاینده سیاسی جوانان کنیا تبدیل شده است.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/world/africa/kenya-protest-nairobi-shutdown.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 20,
+        "negative": 60
+      },
+      "pubDate": "Fri, 26 Jun 2026 00:17:51 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_9",
+      "agencyId": "nytimes",
+      "title": "After Venezuela Earthquakes, La Guaira Residents Search for Loved Ones in the Rubble",
+      "title_fa": "پس از زمین‌لرزه‌های ونزوئلا، ساکنان لاگوایرا در میان آوارها به دنبال عزیزانشان می‌گردند",
+      "lead": "پس از زمین‌لرزه‌های ویرانگر در ونزوئلا، ساکنان شهر لاگوایرا همچنان در تلاشند تا عزیزان گمشده خود را در میان آوارها بیابند. این شهر به شدت آسیب دیده و مردم هنوز در حال درک ابعاد فاجعه هستند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/world/americas/la-guaira-venezuela-earthquakes-rescue-survivors.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 10,
+        "negative": 80
+      },
+      "pubDate": "Thu, 25 Jun 2026 22:58:23 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_10",
+      "agencyId": "nytimes",
+      "title": "Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn",
+      "title_fa": "بحران ابولا در کنگو: مقامات هشدار می‌دهند ردیابی تماس‌ها به شکل خطرناکی عقب مانده است",
+      "lead": "مقامات هشدار می‌دهند که در جمهوری دموکراتیک کنگو، ردیابی تماس‌های افراد مبتلا به ابولا به شکل خطرناکی عقب مانده است. این وضعیت نشان می‌دهد که بیشتر افراد مبتلا به ابولا در رادار کارکنان بهداشت قرار ندارند.",
+      "category": "health",
+      "region": "africa",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 25 Jun 2026 22:57:49 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_11",
+      "agencyId": "nytimes",
+      "title": "How Long Can a Person Survive Under Rubble?",
+      "title_fa": "یک نفر تا چه مدت می‌تواند زیر آوار زنده بماند؟",
+      "lead": "بقای یک فرد زیر آوار به عوامل مختلفی مانند دسترسی به آب، هوا و سرعت امدادگران در یافتن افراد بستگی دارد. این سوال حیاتی پس از زمین‌لرزه‌های اخیر ونزوئلا، اهمیت ویژه‌ای یافته است.",
+      "category": "science",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/world/americas/earthquake-rubble-survival-venezuela-rescue.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 25 Jun 2026 22:41:11 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_14",
+      "agencyId": "nytimes",
+      "title": "Supreme Court Expands Trump’s Power Over Immigration With TPS and Southern Border Decisions",
+      "title_fa": "دیوان عالی اختیارات ترامپ در زمینه مهاجرت را با تصمیمات مربوط به وضعیت حمایت موقت (TPS) و مرز جنوبی گسترش می‌دهد",
+      "lead": "دیوان عالی آمریکا با صدور احکامی در مورد وضعیت حمایت موقت (TPS) و مرز جنوبی، پیروزی‌هایی را برای پرزیدنت ترامپ در راستای لغو حمایت از صدها هزار نفر و جلوگیری از ورود مهاجران به ارمغان آورد. این تصمیمات اختیارات او را در سیاست‌های مهاجرتی افزایش می‌دهد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Thu, 25 Jun 2026 22:10:20 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "title": "Tighter Canadian Borders Limit U.S. Deportees Seeking Refuge",
+      "title_fa": "مرزهای سخت‌تر کانادا، پناهجویان اخراجی از آمریکا را محدود می‌کند",
+      "lead": "سیاست‌های جدید کانادا و توافق‌نامه مرزی دیرینه با ایالات متحده، مسیر پناهجویی برای سوری‌ها و هائیتی‌هایی که از آمریکا اخراج می‌شوند را دشوار خواهد کرد. این تحولات، چشم‌انداز پناهندگی برای این گروه‌ها را به شدت تحت تأثیر قرار می‌دهد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/world/canada/canada-border-immigration-deportation.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 25 Jun 2026 21:51:33 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "title": "After Supreme Court TPS Ruling, What Conditions May Haitian and Syrian Deportees Face?",
+      "title_fa": "پس از حکم دادگاه عالی درباره وضعیت حفاظت‌شده موقت (TPS)، اخراج‌شدگان هائیتیایی و سوری با چه شرایطی روبرو خواهند شد؟",
+      "lead": "دادگاه عالی ایالات متحده حکم داد که دولت ترامپ می‌تواند به حمایت‌های بشردوستانه برای بسیاری از هائیتیایی‌ها و سوری‌های مقیم آمریکا پایان دهد. این تصمیم راه را برای اخراج احتمالی آنها هموار می‌کند و آینده‌شان را در هاله‌ای از ابهام قرار می‌دهد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/world/americas/haitians-syrians-deportations-us.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 25 Jun 2026 21:08:42 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "title": "Aid official says groups are mobilizing to provide shelter and water to quake victims.",
+      "title_fa": "مسئول امدادرسانی: گروه‌ها برای تأمین سرپناه و آب برای قربانیان زلزله بسیج شده‌اند",
+      "lead": "یک مقام امدادر��انی اعلام کرده که گروه‌های مختلفی در حال بسیج شدن برای ارائه سرپناه و آب به قربانیان زلزله هستند. این تلاش‌ها نشان‌دهنده واکنش سریع جامعه جهانی و سازمان‌های امدادی به فاجعه انسانی است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake/aid-official-says-groups-are-mobilizing-to-provide-shelter-and-water-to-quake-victims",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Thu, 25 Jun 2026 20:57:06 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_10",
+      "agencyId": "nytimes",
+      "title": "Global Warming Upends London Climate Week",
+      "title_fa": "گرمایش جهانی، هفته آب و هوای لندن را بر هم می‌زند",
+      "lead": "گرمای شدید بی‌سابقه‌ای که اروپا را در بر گرفته است، هفته آب و هوای لندن را مختل کرده است. این رویداد نمادی از تاثیرات مستقیم تغییرات اقلیمی بر برنامه‌ها و زندگی روزمره در مناطق شهری است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 25 Jun 2026 19:18:37 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_14",
+      "agencyId": "nytimes",
+      "title": "How to help victims of the Venezuela earthquakes.",
+      "title_fa": "چگونه به قربانیان زلزله‌های ونزوئلا کمک کنیم.",
+      "lead": "این مطلب راهنمایی‌هایی ارائه می‌دهد که چگونه می‌توان به سازمان‌های امدادرسان در ونزوئلا برای کمک به عملیات نجات و بازسازی کمک کرد. این دعوت به کمک نشان‌دهنده همبستگی انسانی در مواجهه با یک فاجعه طبیعی گسترده است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake/how-to-help-victims-of-the-venezuela-earthquakes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Thu, 25 Jun 2026 17:19:37 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "title": "Driver Plows Into Crowd of World Cup Fans in Mexico, Authorities Say",
+      "title_fa": "مقامات می‌گویند راننده‌ای در مکزیک به میان هواداران جام جهانی راند",
+      "lead": "پس از پیروزی مکزیک در یک بازی جام جهانی، ویدئوها نشان می‌دهند که خودرویی بارها با سرعت وارد جمعیت در کابو سن لوکاس شد. مقامات اعلام کردند که حداقل ۱۷ نفر زخمی و راننده دستگیر شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/world/americas/car-ramming-mexico-world-cup-cabo-san-lucas.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 25 Jun 2026 17:14:06 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "title": "Latest Victims of France’s Heat Wave: Children Locked in Family Cars",
+      "title_fa": "جدیدترین قربانیان موج گرمای فرانسه: کودکانی که در خودروهای خانوادگی محبوس شدند",
+      "lead": "همزمان با عبور دما از سطوح بی‌سابقه در فرانسه، تلفات ناشی از موج گرما همچنان در حال افزایش است. این گزارش به طور خاص به مرگ دلخراش کودکانی اشاره دارد که در خودروهای خانوادگی خود محبوس شده‌اند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/25/world/europe/france-children-heat-cars-deaths.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 25 Jun 2026 16:59:26 +0000",
+      "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "title": "In Venezuela’s Rubble, Listening for Whispers And Longing for Help",
+      "title_fa": "در میان آوارهای ونزوئلا، گوش‌به‌زنگ زمزمه‌ها و در آرزوی کمک",
+      "lead": "پس از زمین‌لرزه‌های اخیر در ونزوئلا، ساکنان در میان آوارها به دنبال نجات‌یافتگان هستند و دولت به دلیل عدم کفایت کمک‌ها مورد انتقاد قرار گرفته است. دولت ونزوئلا در واکنش به این انتقادات، از اعزام بیش از ۱۰۰ ماشین سنگین برای آواربرداری خبر داده است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/americas/rescue-teams-and-residents-alike-race-to-save-survivors-of-venezuelas-earthquakes.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 21:00:06 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "nytimes_12",
+      "agencyId": "nytimes",
+      "title": "Venezuela Earthquakes Exacerbate Nation’s Health System Crisis",
+      "title_fa": "زلزله‌های ونزوئلا بحران سیستم بهداشتی کشور را تشدید کرده است",
+      "lead": "زمین‌لرزه‌های اخیر در ونزوئلا، سیستم بهداشتی این کشور را که پیش از این نیز در بحران بود، به شدت تحت تأثیر قرار داده است. در مناطق آسیب‌دیده، بیمارستان‌ها با کمبود تجهیزات مواجه هستند و برخی از آنها بدون آب جاری فعالیت می‌کنند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-shortages-doctors.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 20:42:41 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "nytimes_7",
+      "agencyId": "nytimes",
+      "title": "Small Plane Crashes Into Tallest Building in Beijing",
+      "title_fa": "سقوط هواپیمای کوچک به بلندترین ساختمان پکن",
+      "lead": "یک هواپیمای کوچک به بلندترین ساختمان پکن سقوط کرده و باعث فرار جمعیت در منطقه تجاری مرکزی پایتخت و ریزش آوار به خیابان‌ها شد. هنوز جزئیات بیشتری درباره تلفات یا علت حادثه منتشر نشده است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 20:32:01 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "title": "Why Lebanon Is Celebrating Brazil’s Win",
+      "title_fa": "چرا لبنان پیروزی برزیل را جشن می‌گیرد",
+      "lead": "گزارشگر نیویورک تایمز از مهمانی تماشای جام جهانی تیم ملی برزیل در طرابلس لبنان بازدید کرده است. برزیل در این کشور به دلیل حضور بزرگترین جامعه دیاسپورای لبنانی در جهان، محبوبیت ویژه‌ای دارد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/video/world/middleeast/100000010991975/why-lebanon-is-celebrating-brazil-s-win.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 20:03:02 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "nytimes_10",
+      "agencyId": "nytimes",
+      "title": "Earthquake Tests Growing Ties Between U.S. and Venezuela",
+      "title_fa": "زلزله روابط رو به رشد آمریکا و ونزوئلا را به چالش می‌کشد",
+      "lead": "زمین‌لرزه اخیر در ونزوئلا، روابط در حال توسعه میان آمریکا و این کشور را به بوته آزمایش گذاشته است. دولت ترامپ اعلام کرده که کمک‌رسانی خواهد کرد، در حالی که آمریکا در حال گسترش منافع تجاری خود فراتر از نفت در ونزوئلا است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "pubDate": "Fri, 26 Jun 2026 19:54:35 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "title": "Yves Lacoste, Who Exposed U.S. Bombing of Vietnam’s Waterways, Dies at 96",
+      "title_fa": "ایو لاکوست، افشاگر بمباران آبراه‌های ویتنام توسط آمریکا، در سن ۹۶ سالگی درگذشت",
+      "lead": "ایو لاکوست، جغرافی‌دان فرانسوی که با استفاده از ابزارهای تخصصی، بمباران عمدی زیرساخت‌های غیرنظامی ویتنام شمالی توسط ایالات متحده را فاش کرده بود، در سن ۹۶ سالگی درگذشت. تحقیقات او نشان داد که این حملات میلیون‌ها نفر را در معرض خطر قرار داده بود.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/europe/yves-lacoste-dead.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Fri, 26 Jun 2026 19:28:35 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "title": "Search Teams From California, Virginia and Florida Head to Venezuela",
+      "title_fa": "تیم‌های جستجو از کالیفرنیا، ویرجینیا و فلوریدا راهی ونزوئلا شدند",
+      "lead": "تیم‌های جستجو و نجات شامل آتش‌نشانان، پزشکان و متخصصان مهندسی سازه از ایالت‌های آمریکا، برای کمک به عملیات یافتن بازماندگان وارد ونزوئلا شدند. این گروه‌ها از روز جمعه به منظور تسریع عملیات نجات در پی زلزله اخیر به ونزوئلا رسیده‌اند.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-rescuers.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "pubDate": "Fri, 26 Jun 2026 18:36:34 +0000",
+      "analyzed_at": "2026-06-27T04:44:06.322Z"
     }
   ]
 }
