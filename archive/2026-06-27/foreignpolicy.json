@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "agencyId": "foreignpolicy",
-  "total": 15,
+  "total": 25,
   "articles": [
     {
       "id": "foreignpolicy_6",
@@ -332,6 +332,226 @@
       },
       "pubDate": "Fri, 26 Jun 2026 19:00:51 +0000",
       "analyzed_at": "2026-06-27T04:44:06.322Z"
+    },
+    {
+      "id": "foreignpolicy_2",
+      "agencyId": "foreignpolicy",
+      "title": "The Quest for Nuclear Superiority Makes No Sense",
+      "title_fa": "تلاش برای برتری هسته‌ای بی‌معناست",
+      "lead": "این مقاله استدلال می‌کند که بهترین راه برای دولت‌ها جهت صرفه‌جویی در پول، توقف هدر دادن آن برای تسلیحات کاملاً غیرضروری است. تلاش برای برتری هسته‌ای را بی‌معنا دانسته و بر کاهش هزینه‌های نظامی بی‌فایده تاکید می‌کند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/25/nuclear-arsenal-modernization-weapons-no-sense/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "pubDate": "Thu, 25 Jun 2026 13:43:37 +0000",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "foreignpolicy_3",
+      "agencyId": "foreignpolicy",
+      "title": "This Industrial Revolution Is Not Like the Last One",
+      "title_fa": "این انقلاب صنعتی شبیه انقلاب‌های قبلی نیست",
+      "lead": "رویکرد سیاست‌گذاران به اتوماسیون برای هوش مصنوعی کارساز نخواهد بود. این مقاله به بررسی تفاوت‌های انقلاب صنعتی کنونی با گذشته و چالش‌های جدید آن می‌پردازد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/25/ai-industrial-revolution-manufacturing-toolkit/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 25 Jun 2026 04:01:08 +0000",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "foreignpolicy_4",
+      "agencyId": "foreignpolicy",
+      "title": "Why Latin America’s New Right Will Struggle to Govern",
+      "title_fa": "چرا راست جدید در آمریکای لاتین برای حکومت‌داری با چالش روبرو خواهد شد",
+      "lead": "در کلمبیا و سایر نقاط، پیروزی در انتخابات بخش آسان کار بوده است. این مقاله به تحلیل دشواری‌های پیش روی احزاب راست جدید در حکومت‌داری منطقه می‌پردازد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/25/latin-america-new-right-colombia/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 25 Jun 2026 04:01:02 +0000",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "foreignpolicy_8",
+      "agencyId": "foreignpolicy",
+      "title": "Can Rutte Sweet-Talk Trump Enough to Soothe NATO Tensions?",
+      "title_fa": "آیا روته می‌تواند با \"زبان خوش\" با ترامپ صحبت کند تا تنش‌های ناتو را آرام کند؟",
+      "lead": "رئیس ناتو به دنبال مدیریت رئیس‌جمهور آمریکا و در عین حال راضی نگه داشتن سایر اعضای ائتلاف است. این مقاله به بررسی تلاش‌های مارک روته برای کاهش تنش‌ها در ناتو با رویکرد دیپلماتیک به دونالد ترامپ می‌پردازد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/24/rutte-nato-trump-whisperer-iran-war-europe-us-military/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Wed, 24 Jun 2026 21:13:13 +0000",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "foreignpolicy_11",
+      "agencyId": "foreignpolicy",
+      "title": "Will Congo’s President Push a Third Term?",
+      "title_fa": "آیا رئیس‌جمهور کنگو برای دور سوم تلاش خواهد کرد؟",
+      "lead": "در حالی که کینشاسا با بحران‌های متعددی روبروست، یک لایحه ریسک فروبردن کشور به بی‌ثباتی بیشتر را دارد. این موضوع می‌تواند به دلیل تلاش برای تغییر قانون اساسی و کسب دوره سوم ریاست‌��مهوری باشد.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/24/congo-controversial-bill-felix-tshisekedi-constitution/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Wed, 24 Jun 2026 19:46:00 +0000",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "foreignpolicy_1",
+      "agencyId": "foreignpolicy",
+      "title": "The Middle East’s Great Divergence Is Underway",
+      "title_fa": "واگرایی بزرگ در خاورمیانه در حال شکل‌گیری است",
+      "lead": "با تقسیم منافع اقتصادی و امنیتی بین قدرت‌های بزرگ، منطقه خاورمیانه در حال بررسی مسیری سوم برای خود است. این واگرایی می‌تواند به تغییرات ژئوپلیتیکی عمده‌ای در منطقه منجر شود.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/24/iran-war-middle-east-us-china-military-economy-diplomacy/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Wed, 24 Jun 2026 17:58:11 +0000",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "foreignpolicy_6",
+      "agencyId": "foreignpolicy",
+      "title": "The New Geography of the World Cup",
+      "title_fa": "جغرافیای جدید جام جهانی",
+      "lead": "مهاجرت، تاریخ استعماری و آکادمی‌های نخبه فوتبال، تیم‌های ملی امروزی را بازتعریف کرده‌اند. این عوامل در کنار یکدیگر، ترکیب و هویت بازیکنان تیم‌های ملی در جام جهانی را تغییر داده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/24/world-cup-soccer-football-immigration-nationality-haiti/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Wed, 24 Jun 2026 15:04:27 +0000",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "foreignpolicy_8",
+      "agencyId": "foreignpolicy",
+      "title": "China’s De-Dollarization Drive Has Hit a Wall",
+      "title_fa": "تلاش چین برای حذف دلار به مانع برخورد کرده است",
+      "lead": "پکن می‌تواند ابزارهای مالی جدیدی ایجاد کند، اما نمی‌تواند برای آن‌ها تقاضا ایجاد کند. این تحلیل نشان می‌دهد که علیرغم تلاش‌های چین، جایگزینی دلار به عنوان ارز ذخیره جهانی با چالش‌های جدی مواجه است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/24/china-dollar-dedollarization-yuan-renminbi-brics-finance-banks-sanctions/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Wed, 24 Jun 2026 14:25:14 +0000",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "foreignpolicy_11",
+      "agencyId": "foreignpolicy",
+      "title": "Washington’s Middle East Military Presence Is Uniquely Counterproductive",
+      "title_fa": "حضور نظامی واشنگتن در خاورمیانه به شکلی منحصربه‌فرد نتیجه معکوس دارد",
+      "lead": "این مقاله استدلال می‌کند که حضور نظامی ایالات متحده در خاورمیانه، به جای تضمین جریان آزاد انرژی، تنها آن را مختل کرده است. این رویکرد به جای ثبات، به بی‌ثباتی در منطقه دامن زده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/24/washington-iran-hormuz-oil-bases-middle-east-restraint-war/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Wed, 24 Jun 2026 14:03:44 +0000",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "foreignpolicy_6",
+      "agencyId": "foreignpolicy",
+      "title": "Russia Makes Inroads in Southeast Asia",
+      "title_fa": "روسیه در جنوب شرقی آسیا نفوذ می‌کند",
+      "lead": "انرژی به عنوان قوی‌ترین برگ برنده پوتین در منطقه جنوب شرقی آسیا که تشنه سوخت است، محسوب می‌شود. این گزارش به بررسی چگونگی گسترش نفوذ روسیه از طریق همکاری‌های انرژی در این منطقه می‌پردازد.",
+      "category": "energy",
+      "region": "eurasia",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/24/russia-asean-kazan-summit-energy-southeast-asia/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "pubDate": "Wed, 24 Jun 2026 05:00:55 +0000",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
     }
   ]
 }
