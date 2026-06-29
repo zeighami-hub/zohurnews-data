@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 6,
   "articles": [
     {
       "id": "skynews_4",
@@ -46,6 +46,94 @@
       },
       "pubDate": "Fri, 26 Jun 2026 07:14:00 +0100",
       "analyzed_at": "2026-06-27T06:41:16.742Z"
+    },
+    {
+      "id": "skynews_3",
+      "agencyId": "skynews",
+      "title": "Thirteen injured and pilot killed as plane hits Beijing's tallest building",
+      "title_fa": "کشته شدن خلبان و زخمی شدن سیزده نفر در پی برخورد هواپیما با بلندترین ساختمان پکن",
+      "lead": "یک هواپیمای سبک در روز جمعه با یک آسمان‌خراش در پکن برخورد کرد که در نتیجه آن خلبان کشته و سیزده نفر زخمی شدند. شاهدان عینی این حادثه را گزارش کرده‌اند.",
+      "category": "accident",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/plane-crashed-into-beijings-tallest-building-witnesses-say-13558050",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 15:14:00 +0100",
+      "analyzed_at": "2026-06-27T16:42:10.058Z"
+    },
+    {
+      "id": "skynews_13",
+      "agencyId": "skynews",
+      "title": "British TikToker could face death penalty after Dubai murder charge",
+      "title_fa": "تیک‌تاکر بریتانیایی پس از اتهام قتل در دبی ممکن است با مجازات اعدام روبرو شود",
+      "lead": "یک تیک‌تاکر بریتانیایی در دبی به قتل عمد متهم شده و در صورت محکومیت ممکن است با مجازات اعدام روبرو شود. این خبر شوک بزرگی در رسانه‌های اجتماعی و میان دنبال‌کنندگان او ایجاد کرده است.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/british-tiktoker-brooke-george-could-face-death-penalty-after-dubai-murder-charge-13557723",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 25 Jun 2026 15:34:00 +0100",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "skynews_11",
+      "agencyId": "skynews",
+      "title": "TV presenter set to lose job over Tommy Robinson interview",
+      "title_fa": "مجری تلویزیونی به دلیل مصاحبه با تامی رابینسون در آستانه از دست دادن شغلش",
+      "lead": "گزارش شده است که پردرآمدترین مجری تلویزیونی استرالیا به دلیل میزبانی از فعال راست افراطی بریتانیا، تامی رابینسون، در پادکست خود در آستانه از دست دادن شغلش قرار دارد. این موضوع واکنش‌های گسترده‌ای را به دنبال داشته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/australias-highest-paid-tv-presenter-faces-backlash-over-tommy-robinson-interview-13557660",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 25 Jun 2026 11:32:00 +0100",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "skynews_0",
+      "agencyId": "skynews",
+      "title": "North Korean soldier crosses border into South Korea in suspected defection",
+      "title_fa": "سرباز کره‌شمالی در یک فرار مشکوک از مرز وارد کره‌جنوبی شد",
+      "lead": "یک سرباز کره‌شمالی پس از عبور از مرز به شدت مستحکم بین دو کشور، توسط ارتش کره‌جنوبی بازداشت شده است. این حادثه یک فرار مشکوک محسوب می‌شود.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/north-korean-solider-crosses-border-into-south-korea-in-suspected-defection-13557640",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Thu, 25 Jun 2026 10:29:00 +0100",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
     }
   ]
 }
