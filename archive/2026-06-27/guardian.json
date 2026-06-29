@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "agencyId": "guardian",
-  "total": 48,
+  "total": 69,
   "articles": [
     {
       "id": "guardian_7",
@@ -1058,6 +1058,468 @@
       },
       "pubDate": "Sat, 27 Jun 2026 02:50:42 GMT",
       "analyzed_at": "2026-06-27T08:43:27.352Z"
+    },
+    {
+      "id": "guardian_14",
+      "agencyId": "guardian",
+      "title": "Trump Threatens 100% Tariff on European Countries That Impose Digital Tax",
+      "title_fa": "ترامپ تهدید کرد: تعرفه ۱۰۰ درصدی بر کشورهای اروپایی که مالیات دیجیتال وضع کنند",
+      "lead": "دونالد ترامپ تهدید کرده است که بر هر کشور اروپایی که مالیات بر خدمات دیجیتال شرکت‌های آمریکایی وضع کند، تعرفه ۱۰۰ درصدی وارداتی اعمال خواهد کرد. او افزود که این تعرفه بلافاصله اعمال شده و بر توافقات تجاری قبلی ارجحیت خواهد داشت.",
+      "category": "economy",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/27/trump-threats-tariff-eu-countries-impose-digital-tax",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sat, 27 Jun 2026 10:20:46 GMT",
+      "analyzed_at": "2026-06-27T16:42:10.058Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "title": "Nigel Farage’s anti-WHO campaign moves to US with allies added to board",
+      "title_fa": "کمپین ضد سازمان جهانی بهداشت نایجل فراژ با افزودن متحدان به هیئت مدیره، به آمریکا منتقل شد",
+      "lead": "کمپین نایجل فراژ، رهبر حزب رفرم بریتانیا، علیه سازمان جهانی بهداشت (WHO) به ایالات متحده منتقل شده و اعضای جدیدی به هیئت مدیره آن اضافه شده‌اند. این اقدام سؤالاتی را در مورد دلیل دخالت فراژ در یک گروه فشار آمریکایی ایجاد می‌کند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/jun/27/nigel-farage-action-on-world-health-campaign-who-us-board",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Sat, 27 Jun 2026 09:00:00 GMT",
+      "analyzed_at": "2026-06-27T16:42:10.058Z"
+    },
+    {
+      "id": "guardian_3",
+      "agencyId": "guardian",
+      "title": "Gracie the giraffe who wandered off in Texas found safe – for real this time",
+      "title_fa": "زرافه 'گریسی' که در تگزاس گم شده بود، این بار واقعاً سالم پیدا شد",
+      "lead": "پس از تقریباً دو هفته جستجو، زرافه 'گریسی' که از یک مزرعه خصوصی در تگزاس فرار کرده بود، سالم پیدا شد. گزارش‌های قبلی مبنی بر پیدا شدن او نادرست بودند، اما این بار تأیید شده که حیوان در امنیت است.",
+      "category": "Human Interest",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/27/gracie-giraffe-found-texas-ranch",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Sat, 27 Jun 2026 09:00:00 GMT",
+      "analyzed_at": "2026-06-27T16:42:10.058Z"
+    },
+    {
+      "id": "guardian_1",
+      "agencyId": "guardian",
+      "title": "Taliban order ban on smartphones as officials shown destroying devices",
+      "title_fa": "طالبان دستور ممنوعیت استفاده از تلفن‌های هوشمند را صادر کرد؛ تصاویری از نابودی دستگاه‌ها توسط مقامات منتشر شد",
+      "lead": "طالبان دستور ممنوعیت گسترده استفاده از تلفن‌های هوشمند را برای کارمندان دولتی صادر کرده است. این اقدام نگرانی‌هایی را در مورد احتمال اعمال ممنوعیت سراسری در آینده در افغانستان برانگیخته است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/jun/18/taliban-ban-smartphones-officials-shown-destroying-devices",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 18 Jun 2026 05:00:01 GMT",
+      "analyzed_at": "2026-06-27T16:42:10.058Z"
+    },
+    {
+      "id": "guardian_4",
+      "agencyId": "guardian",
+      "title": "‘Period tax’ on sanitary products to be abolished, says Pakistan minister",
+      "title_fa": "وزیر پاکستانی: «مالیات پریود» بر محصولات بهداشتی به زودی لغو می‌شود",
+      "lead": "وزیر پاکستانی اعلام کرده که «مالیات پریود» بر محصولات بهداشتی لغو خواهد شد. فعالان از این خبر استقبال کرده‌اند اما می‌گویند کارشان برای پایان دادن به فقر دوره‌ای هنوز به پایان نرسیده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/jun/17/period-tax-sanitary-products-abolished-pakistan-minister",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Wed, 17 Jun 2026 12:46:15 GMT",
+      "analyzed_at": "2026-06-27T16:42:10.058Z"
+    },
+    {
+      "id": "guardian_1",
+      "agencyId": "guardian",
+      "title": "Europe Heatwave Live: Germany Braced for Temperatures ‘Well Over 40C’; Extreme Heat Warnings for England",
+      "title_fa": "موج گرمای اروپا به صورت زنده: آلمان خود را برای دمای «بسیار بالاتر از ۴۰ درجه سانتی‌گراد» آماده می‌کند؛ هشدارهای گرمای شدید برای انگلستان",
+      "lead": "اروپا با موج گرمای بی‌سابقه‌ای روبرو است؛ آلمان برای دمای بالای ۴۰ درجه سانتی‌گراد آماده می‌شود و هشدارهای گرمای شدید برای انگلستان صادر شده است. این وضعیت سوالاتی را در مورد آمادگی اروپا برای مقابله با تغییرات اقلیمی مطرح کرده و منجر به خشک شدن رودخانه‌ها مانند طولانی‌ترین رود ایتالیا شده است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 27 Jun 2026 12:02:52 GMT",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "guardian_7",
+      "agencyId": "guardian",
+      "title": "‘I’m missing out’: Cash-strapped UK university students forced to live at home",
+      "title_fa": "«دارم فرصت‌ها را از دست می‌دهم»: دانشجویان دانشگاهی بریتانیا که به دلیل مشکلات مالی مجبور به زندگی در خانه هستند",
+      "lead": "دانشجویان دانشگاهی در بریتانیا به دلیل مشکلات مالی فزاینده، مجبورند در خانه زندگی کنند و این موضوع فرصت‌های اجتماعی و تحصیلی آنها را محدود می‌کند. کارشناسان می‌گویند دانشجویان از خانواده‌های کم‌درآمدتر به طور فزاینده‌ای گزینه‌های خود را به دلیل نگرانی‌های مالی محدود می‌کنند.",
+      "category": "education",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/education/2026/jun/27/uk-university-students-forced-to-live-at-home",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 15,
+        "negative": 80
+      },
+      "pubDate": "Sat, 27 Jun 2026 12:00:03 GMT",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "guardian_8",
+      "agencyId": "guardian",
+      "title": "The UFC Match Plot: How a Far-Right Group Tried to Assassinate Trump at His Own Event",
+      "title_fa": "توطئه در مسابقه UFC: چگونه یک گروه راست افراطی سعی در ترور ترامپ در رویداد خودش داشت",
+      "lead": "اسناد دادگاه نشان می‌دهد که چگونه مردانی مرتبط با یک گروه راست افراطی، از طریق تیک‌تاک و اپلیکیشن‌های رمزگذاری شده، قصد ترور دونالد ترامپ را در یک رویداد UFC داشتند. این توطئه شامل نقشه‌کشی برای حمله به کاخ سفید نیز می‌شده است.",
+      "category": "crime",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/27/trump-assassination-plot-ufc-fight-tycen-proper",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 27 Jun 2026 12:00:03 GMT",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "guardian_0",
+      "agencyId": "guardian",
+      "title": "David Hencke, Guardian journalist who exposed cash-for-questions scandal, dies aged 79",
+      "title_fa": "دیوید هنکه، روزنامه‌نگار گاردین که رسوایی «پول در ازای سؤال» را فاش کرد، در ۷۹ سالگی درگذشت",
+      "lead": "دیوید هنکه، روزنامه‌نگار سرشناس گاردین که بیش از سه دهه برای این نشریه کار کرده بود، در ۷۹ سالگی بر اثر سرطان کبد درگذشت. او در دوران فعالیت خود به عنوان خبرنگار پارلمانی، به افشای تخلفات سیاسی در دهه ۱۹۹۰ شهرت داشت و رسوایی «پول در ازای سؤال» را برملا کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/media/2026/jun/27/david-hencke-guardian-journalist-dies",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 27 Jun 2026 11:30:28 GMT",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "guardian_14",
+      "agencyId": "guardian",
+      "title": "‘Not a culture war’: the council that won its case over England flags on lampposts",
+      "title_fa": "«جنگ فرهنگی نیست»: شورایی که در پرونده پرچم‌های انگلیس بر روی تیر چراغ برق پیروز شد",
+      "lead": "شورایی محلی در آکسفوردشایر در پرونده مربوط به نصب پرچم‌های انگلستان بر روی تیرهای چراغ برق پیروز شد و حکم دادگاه را به نفع خود گرفت. رهبر این شورا با این اقدام قصد داشت تا «فضایی خنثی و امن برای ساکنان» حفظ کند، اما با واکنش‌هایی روبرو شد که آن را «جنگ فرهنگی» خواندند.",
+      "category": "social_issues",
+      "region": "uk",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/jun/27/oxfordshire-council-high-court-injunction-raise-the-colours-nationalist-flags",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 27 Jun 2026 11:14:55 GMT",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "guardian_4",
+      "agencyId": "guardian",
+      "title": "‘Not puff pieces and kid gloves’: why Bari Weiss is hiring British journalists at CBS News",
+      "title_fa": "«نه مقالات ستایش‌آمیز و نه رفتار محتاطانه»: چرا باری وایس روزنامه‌نگاران بریتانیایی را در CBS News استخدام می‌کند",
+      "lead": "باری وایس، سردبیر ارشد CBS News، در حال استخدام روزنامه‌نگاران بریتانیایی است که به نظر او از اجماع «ووک» (woke) بیش از حد رایج در رسانه‌ها فاصله دارند. او شش سال پس از استعفای پر سر و صدایش از نیویورک تایمز، به دنبال دیدگاه‌های فکری متفاوتی در عرصه خبر است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/27/why-bari-weiss-is-hiring-british-journalists-cbs-news",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 27 Jun 2026 11:00:03 GMT",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "guardian_5",
+      "agencyId": "guardian",
+      "title": "‘It’s just so wrong’: Haitians in Ohio reel from supreme court TPS ruling",
+      "title_fa": "«این کار بسیار اشتباه است»: شوک هائیتی‌تبارها در اوهایو پس از حکم دادگاه عالی درباره وضعیت حفاظتی موقت (TPS)",
+      "lead": "جامعه هائیتی‌تبارها در اسپرینگفیلد اوهایو، پس از حکم دادگاه عالی درباره وضعیت حفاظتی موقت (TPS)، در شوک فرو رفته‌اند. این حکم آینده بسیاری از هائیتی‌هایی را که پس از توهین‌های دونالد ترامپ به احیای این شهر کمک کرده‌اند، نامعلوم ساخته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/27/haitians-ohio-supreme-court-ruling",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 27 Jun 2026 11:00:02 GMT",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "guardian_6",
+      "agencyId": "guardian",
+      "title": "‘This isn’t about any one administration’: protests kick off in DC to reimagine the next 250 years in the US",
+      "title_fa": "«این موضوع به هیچ دولتی ربط ندارد»: آغاز اعتراضات در واشنگتن برای بازاندیشی ۲۵۰ سال آینده آمریکا",
+      "lead": "هزاران نفر در واشنگتن دی‌سی گردهم آمده‌اند تا دیدگاه‌های خود را برای ۲۵۰ سال آینده ایالات متحده ارائه دهند. در این رویداد، نمایشگاه هنری «اعلامیه وابستگی متقابل» نیز افتتاح می‌شود که ارزش‌ها و امیدهای مشترک آمریکایی‌ها را به تصویر می‌کشد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/27/next250-declaration-of-interdependence-art-gallery",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "pubDate": "Sat, 27 Jun 2026 11:00:02 GMT",
+      "analyzed_at": "2026-06-27T12:44:03.166Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "title": "Polygamous sect leader guilty of abuse after girls found in trailer on highway",
+      "title_fa": "رهبر فرقه چندهمسری پس از پیدا شدن دختران در تریلری در بزرگراه، به جرم سوءاستفاده محکوم شد",
+      "lead": "ساموئل بیتمن، رهبر یک فرقه چندهمسری که پیش‌تر به دلیل سوءاستفاده جنسی از کودکان به ۵۰ سال زندان محکوم شده بود، در یک پرونده دیگر نیز گناهکار شناخته شد. این محکومیت جدید پس از آن صادر شد که دخترانی در تریلری در بزرگراه در شرایط نامناسبی پیدا شدند.",
+      "category": "crime",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/26/polygamous-sect-leader-convicted",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 27 Jun 2026 00:33:34 GMT",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "guardian_14",
+      "agencyId": "guardian",
+      "title": "Gavin Newsom urges a national 'billionaires' tax' while fighting one in California",
+      "title_fa": "گاوین نیوسام خواستار «مالیات میلیاردرها» در سطح ملی شد، در حالی که در کالیفرنیا با آن مخالف است",
+      "lead": "گاوین نیوسام، فرماندار کالیفرنیا، خواستار وضع مالیات بر ثروت میلیاردرها در سطح ملی شده است. این در حالی است که او در ایالت خود با طرح مشابهی مخالفت کرده و این تضاد، بحث‌های سیاسی گسترده‌ای را به دنبال داشته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/26/gavin-newsom-national-billionaires-tax",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 26 Jun 2026 23:17:47 GMT",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "guardian_0",
+      "agencyId": "guardian",
+      "title": "Utah under historic ‘red flag’ weather warning amid dangerous wildfires",
+      "title_fa": "یوتا در بحبوحه آتش‌سوزی‌های خطرناک تحت هشدار تاریخی \"پرچم قرمز\" آب‌وهوا",
+      "lead": "اداره ملی هواشناسی سالت لیک سیتی برای اولین بار در تاریخ خود، هشدار \"پرچم قرمز وضعیت به ویژه خطرناک\" را برای ایالت یوتا صادر کرده است. فرماندار این ایالت نیز وضعیت اضطراری اعلام کرده و آتش‌بازی‌های شخصی را تا پس از چهارم جولای ممنوع کرده است.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/26/utah-governor-fireworks-wildfires",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 26 Jun 2026 23:16:50 GMT",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "guardian_11",
+      "agencyId": "guardian",
+      "title": "Trump attacks Democrats as ‘godless communists’ in test of midterms message",
+      "title_fa": "ترامپ در آزمونی برای پیام انتخابات میان‌دوره‌ای، دموکرات‌ها را \"کمونیست‌های بی‌خدا\" می‌خواند",
+      "lead": "دونالد ترامپ در آستانه انتخابات میان‌دوره‌ای، پیروزی نامزدهای مورد حمایت یک جناح مترقی در نیویورک را بهانه کرده است. او دموکرات‌ها را به عنوان \"کمونیست‌های بی‌خدا\" مورد حمله قرار داده و درباره تهدیدی برای \"سبک زندگی سنتی آمریکایی\" هشدار داده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/26/trump-democrats-communists-midterms",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 26 Jun 2026 22:55:25 GMT",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "guardian_9",
+      "agencyId": "guardian",
+      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+      "title_fa": "ادعای «کودتای قانون اساسی» با تصویب سنای زیمبابوه برای تمدید دوره ریاست جمهوری",
+      "lead": "سنای زیمبابوه تمدید دوره ریاست جمهوری را تصویب کرده است، اقدامی که منتقدان آن را «کودتای قانون اساسی» می‌خوانند. مخالفان بیم آن دارند که این تغییرات، سلطه اممرسون منانگاگوا، رئیس‌جمهور ۸۳ ساله، را بر قدرت بیش از پیش محکم کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 25 Jun 2026 16:04:41 GMT",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "guardian_0",
+      "agencyId": "guardian",
+      "title": "Pakistan police rescue French woman and children allegedly held captive by husband for 12 years",
+      "title_fa": "پلیس پاکستان زن فرانسوی و فرزندانش را که ۱۲ سال توسط همسرش اسیر شده بودند، نجات داد",
+      "lead": "پلیس پاکستان یک زن فرانسوی ۵۴ ساله و پنج فرزندش را پس از ۱۲ سال اسارت توسط همسرش در شمال غربی این کشور نجات داد. این زن به مقامات اطلاع داده بود که همسرش او و فرزندانش را در خانه محبوس کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/24/pakistan-police-rescue-french-woman-sylvie-yasmina-children-allegedly-held-captive-husband",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      },
+      "pubDate": "Wed, 24 Jun 2026 18:30:02 GMT",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "guardian_0",
+      "agencyId": "guardian",
+      "title": "France confirms first Ebola case in doctor who had worked in DRC",
+      "title_fa": "فرانسه اولین مورد ابولا را در پزشکی که در کنگو کار کرده بود، تأیید کرد",
+      "lead": "وزارت بهداشت فرانسه تأیید کرده است که اولین مورد ابتلا به ابولا در این کشور، مربوط به پزشکی است که از ماموریت بشردوستانه در جمهوری دموکراتیک کنگو بازگشته است. مقامات در حال ردیابی تماس‌های این بیمار هستند و تأکید کرده‌اند که خطر برای عموم مردم اروپا بسیار پایین است.",
+      "category": "health",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 24 Jun 2026 12:11:21 GMT",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "guardian_7",
+      "agencyId": "guardian",
+      "title": "EU faces fierce criticism over plans to host Taliban in Brussels",
+      "title_fa": "اتحادیه اروپا به دلیل برنامه‌های میزبانی طالبان در بروکسل با انتقاد شدید روبرو است",
+      "lead": "فعالان حقوق بشر و اعضای پارلمان اروپا هشدار داده‌اند که دیدار مقامات اتحادیه اروپا با هیئت طالبان در بروکسل، خطر عادی‌سازی رژیمی را دارد که زنان را از زندگی عمومی حذف می‌کند. این برنامه‌ها با انتقادهای شدیدی مواجه شده‌اند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/23/eu-faces-fierce-criticism-plans-host-taliban-brussels",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 15,
+        "negative": 80
+      },
+      "pubDate": "Tue, 23 Jun 2026 14:11:58 GMT",
+      "analyzed_at": "2026-06-27T10:41:45.375Z"
     }
   ]
 }
