@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
   "agencyId": "bbc",
-  "total": 43,
+  "total": 46,
   "articles": [
     {
       "id": "bbc_8",
@@ -948,6 +948,72 @@
       },
       "pubDate": "Thu, 25 Jun 2026 10:04:43 GMT",
       "analyzed_at": "2026-06-27T10:41:45.375Z"
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
+      "title_fa": "میلیاردر لئون بلک جلسه استماع تحقیقات اپستین را ترک کرد",
+      "lead": "لئون بلک، میلیاردر و از بنیانگذاران آپولو گلوبال منجمنت، جلسه استماع مربوط به تحقیقات اپستین را ترک کرد. به دنبال این اتفاق، کمیته مجلس آمریکا او را احضار کرد تا تحت سوگند شهادت دهد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 27 Jun 2026 03:07:46 GMT",
+      "analyzed_at": "2026-06-27T16:42:10.058Z"
+    },
+    {
+      "id": "bbc_1",
+      "agencyId": "bbc",
+      "title": "Pete Buttigieg briefly separated from children after false police report",
+      "title_fa": "پیت بوتجج پس از گزارش دروغین پلیس به طور موقت از فرزندانش جدا شد",
+      "lead": "پیت بوتجج، وزیر حمل و نقل آمریکا، پس از یک گزارش دروغین پلیس برای مدت کوتاهی از فرزندان دوقلوی خود جدا شد. او این روز را از \"تاریک‌ترین ساعات زندگی‌اش\" توصیف کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 27 Jun 2026 00:40:44 GMT",
+      "analyzed_at": "2026-06-27T16:42:10.058Z"
+    },
+    {
+      "id": "bbc_2",
+      "agencyId": "bbc",
+      "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
+      "title_fa": "هواداران جام جهانی از فرهنگ \"گیج‌کننده و گران\" انعام دادن در آمریکا سرخورده‌اند",
+      "lead": "هواداران بین‌المللی که برای جام جهانی به آمریکا سفر کرده‌اند، از فرهنگ انعام دادن به کارکنان خدمات ابراز ناامیدی کرده‌اند. آنها به بی‌بی‌سی گفتند که از دادن انعام خسته شده‌اند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 26 Jun 2026 18:20:04 GMT",
+      "analyzed_at": "2026-06-27T16:42:10.058Z"
     }
   ]
 }
