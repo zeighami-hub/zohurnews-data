@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_9",
@@ -242,6 +242,102 @@
       "pubDate": "Sun, 28 Jun 2026 14:35:33 +0000",
       "time": "۱۴:۳۵ - ۷ تیر",
       "analyzed_at": "2026-06-29T12:44:16.700Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says",
+      "title_fa": "به‌روزرسانی‌ه��ی زنده خاورمیانه: ت��امپ می‌گ��ید آمریکا و ایران برای مذاکرات جدید در قطر آماده می‌شوند",
+      "lead": "رئیس‌جمهور ترامپ اعلام کرد که پس از تبادل حملات بین ایالات مت��ده و ایران در آخر هفته، این گفتگوها روز سه‌شنبه برگزار خواهد شد. ایران این مذاکرات را تایید نکرد اما گفت که رایزنی‌ها با قطر ادامه دارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 29 Jun 2026 12:48:56 +0000",
+      "time": "۱۲:۴۸ - ۸ تیر",
+      "analyzed_at": "2026-06-29T13:18:20.231Z"
+    },
+    {
+      "id": "nytimes_6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
+      "title_fa": "سقوط بالگرد در نزدیکی پالایشگاه بزرگ نفت عربستان ۱۴ کشته بر جا گذاشت",
+      "lead": "یک فروند بالگرد در نزدیکی تاسیسات رأس تنوره، یک پالایشگاه مهم نفتی در شرق عربستان، سقوط کرد که منجر به کشته شدن ۱۴ نفر شد. این تاسیسات یک قطب اصلی برای صادرات نفت از طریق تنگه هرمز محسوب می‌شود.",
+      "category": "energy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 28 Jun 2026 15:18:53 +0000",
+      "time": "۱۵:۱۸ - ۷ تیر",
+      "analyzed_at": "2026-06-29T13:18:20.231Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Promises Shift of Power Out of London",
+      "title_fa": "اندی برنهام، نخست‌وزیر احتمالی بعدی بریتانیا، وعده انتقال قدرت از لندن را داد",
+      "lead": "اندی برنهام، که به نظر می‌رسد ماه آینده نخست‌وزیر بریتانیا شود، اعلام کرد که یک دفتر جدید با نام \"شماره ۱۰ شمال\" را در منچستر ایجاد خواهد کرد. هدف از این اقدام، اعطای بودجه و کنترل بیشتر به رهبران محلی و انتقال قدرت از پایتخت است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/29/world/europe/uk-andy-burnham-agenda-speech.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "pubDate": "Mon, 29 Jun 2026 12:33:08 +0000",
+      "time": "۱۲:۳۳ - ۸ تیر",
+      "analyzed_at": "2026-06-29T13:18:20.231Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Pakistan Attacks Afghanistan, Killing More Than 30",
+      "title_fa": "حملات پاکستان به افغانستان، بیش از ۳۰ کشته بر جای گذاشت",
+      "lead": "طالبان اعلام کرد حملات هوایی ۳۶ غیرنظامی را کشته است، در حالی که پاکستان مدعی شد حمله آن به کشته شدن ۳۲ شبه‌نظامی منج�� شده است. این درگیری‌ها جدیدترین مورد در یک نزاع چندماهه هستند که به تنش‌ها در منطقه دامن زده است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 29 Jun 2026 09:43:48 +0000",
+      "time": "۰۹:۴۳ - ۸ تیر",
+      "analyzed_at": "2026-06-29T13:18:20.231Z"
     }
   ]
 }
