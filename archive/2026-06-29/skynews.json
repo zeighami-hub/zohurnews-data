@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "agencyId": "skynews",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_1",
@@ -98,6 +98,30 @@
       "pubDate": "Fri, 26 Jun 2026 15:14:00 +0100",
       "time": "۱۴:۱۴ - ۵ تیر",
       "analyzed_at": "2026-06-29T13:44:26.278Z"
+    },
+    {
+      "id": "skynews_13",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "British man killed on Caribbean island after being shot 'multiple times'",
+      "title_fa": "مرد بریتانیایی در جزیره‌ای کارائیبی پس از شلیک «چندین گلوله» کشته شد",
+      "lead": "یک مرد اسکاتلندی در یک جزیره کارائیبی پس از چندین بار شلیک گلوله کشته شده است. خانواده «دلشکسته» او می‌گویند که برای بازگرداندن پیکرش به وطن «سخت تلاش می‌کنند».",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/british-man-killed-on-caribbean-island-after-being-shot-multiple-times-13558963",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 29 Jun 2026 16:04:00 +0100",
+      "time": "۱۵:۰۴ - ۸ تیر",
+      "analyzed_at": "2026-06-29T19:47:47.512Z"
     }
   ]
 }
