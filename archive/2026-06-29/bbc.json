@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "agencyId": "bbc",
-  "total": 7,
+  "total": 11,
   "articles": [
     {
       "id": "bbc_3",
@@ -170,6 +170,102 @@
       "pubDate": "Sun, 28 Jun 2026 14:30:05 GMT",
       "time": "۱۴:۳۰ - ۷ تیر",
       "analyzed_at": "2026-06-29T12:44:16.700Z"
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "title_fa": "آمریکا از توافق برای «توقف درگیری» پس از تبادل حملات با ایران خبر داد",
+      "lead": "ایالات متحده اعلام کرد که پس از تبادل حملات با ایران، برای «توقف درگیری» به توافق رسیده است. در پی یک سری حملات در آخر هفته، آمریکا و ایران یکدیگر را به نقض توافق آتش‌بس متهم کردند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "pubDate": "Mon, 29 Jun 2026 04:52:17 GMT",
+      "time": "۰۴:۵۲ - ۸ تیر",
+      "analyzed_at": "2026-06-29T13:18:20.231Z"
+    },
+    {
+      "id": "bbc_9",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "title_fa": "آمریکا و ایران حملات متقابلی انجام دادند و یکدیگر را به نقض آتش‌بس متهم کردند",
+      "lead": "ایران اعلام کرده است که پس از حملات آمریکا به اهداف متعدد در سراسر ایران، حملات تلافی‌جویانه به زیرساخت‌های ایالات متحده در کویت و بحرین انجام داده است. دو کشور یکدیگر را به نقض آتش‌ب�� متهم می‌کنند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sun, 28 Jun 2026 04:54:50 GMT",
+      "time": "۰۴:۵۴ - ۷ تیر",
+      "analyzed_at": "2026-06-29T13:18:20.231Z"
+    },
+    {
+      "id": "bbc_3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Five dead following shooting in Stade, northern Germany",
+      "title_fa": "پنج کشته در پی تیراندازی در استاده، شمال آلمان",
+      "lead": "در پی یک حادثه تیراندازی در شهر استاده در شمال آلمان، ��نج نفر جان خود را از دست دادند. پلیس اعلام کرده است که دو نفر در این ارتباط دستگیر شده‌اند که یکی از آنها مظنون اصلی است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 29 Jun 2026 12:48:20 GMT",
+      "time": "۱۲:۴۸ - ۸ تیر",
+      "analyzed_at": "2026-06-29T13:18:20.231Z"
+    },
+    {
+      "id": "bbc_6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Fitness brand founder and Olympian Les Mills dies aged 91",
+      "title_fa": "بنیانگذار برند تناسب اندام و قهرمان المپیک، لس میلز، در ۹۱ سالگی درگذشت",
+      "lead": "لس میلز، بنیانگذار برند جهانی تناسب اندام و قهرمان المپیک، در سن ۹۱ سالگی درگذشت. شرکت او، لس میلز اینترنشنال، در سراسر جهان به خاطر تمرینات طراحی‌شده‌ای مانند بادی پامپ و بادی کامبت شناخته شده است.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 29 Jun 2026 10:55:41 GMT",
+      "time": "۱۰:۵۵ - ۸ تیر",
+      "analyzed_at": "2026-06-29T13:18:20.231Z"
     }
   ]
 }
