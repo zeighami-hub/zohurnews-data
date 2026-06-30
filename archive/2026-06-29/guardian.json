@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "agencyId": "guardian",
-  "total": 28,
+  "total": 29,
   "articles": [
     {
       "id": "guardian_10",
@@ -288,7 +288,7 @@
         "negative": 60
       },
       "pubDate": "Mon, 29 Jun 2026 01:09:09 GMT",
-      "time": "۰۱:۰۹ - ۸ ����یر",
+      "time": "۰۱:۰۹ - ۸ ������یر",
       "analyzed_at": "2026-06-29T13:44:26.278Z"
     },
     {
@@ -670,6 +670,30 @@
         "negative": 50
       },
       "analyzed_at": "2026-06-29T19:51:55.624Z"
+    },
+    {
+      "id": "guardian_13",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "The show must go on: musical theatre cancellations lead to industry calls for urgent government help",
+      "title_fa": "لغو نمایش‌های تئاتر موزیکال منجر به درخواست کمک فوری دولت از سوی صنعت شده است",
+      "lead": "لغو نمایش‌های مهم تئاتر موزیکال ما��ند \"ویت‌رس\" و \"بیتل‌جوس\" به دلیل افزایش سرسام‌آور هزینه‌ها، صدها نفر را بیکار کرده است. این وضعیت باعث شده که صنعت تئاتر استرالیا خواستار کمک فوری و دولتی شود.",
+      "category": "arts",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/stage/2026/jun/30/musical-theatre-cancellations-australia-waitress-beetlejuice-industry-funding",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 29 Jun 2026 15:00:23 GMT",
+      "time": "۱۵:۰۰ - ۸ تیر",
+      "analyzed_at": "2026-06-29T20:04:08.498Z"
     }
   ]
 }
