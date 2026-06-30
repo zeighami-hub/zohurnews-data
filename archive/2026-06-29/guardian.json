@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "agencyId": "guardian",
-  "total": 29,
+  "total": 30,
   "articles": [
     {
       "id": "guardian_10",
@@ -288,7 +288,7 @@
         "negative": 60
       },
       "pubDate": "Mon, 29 Jun 2026 01:09:09 GMT",
-      "time": "۰۱:۰۹ - ۸ ������یر",
+      "time": "۰۱:۰۹ - ۸ ��������یر",
       "analyzed_at": "2026-06-29T13:44:26.278Z"
     },
     {
@@ -694,6 +694,30 @@
       "pubDate": "Mon, 29 Jun 2026 15:00:23 GMT",
       "time": "۱۵:۰۰ - ۸ تیر",
       "analyzed_at": "2026-06-29T20:04:08.498Z"
+    },
+    {
+      "id": "guardian_7",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australia politics live: McIntosh doubles down on call for Liberal ‘rebrand’; PM backs Hogan on Hanson",
+      "title_fa": "سیاست استرالیا زنده: مک‌اینتاش بر درخواست برای «برندسازی مجدد» حزب لیبرال تاکید می‌کند؛ نخست‌وزیر از هوگان در مورد هنسون حمایت می‌کند",
+      "lead": "در اخبار سیاسی استرالیا، مک‌اینتاش بر لزوم «برندسازی مجدد» حزب لیبرال تأکید کرده ا��ت. در همین حال، آنتونی آلبانیز، نخست‌وزیر استرالیا، اصلاحات مالیاتی را «عادلانه» خوانده و وضعیت بازار مسکن را «خراب» توصیف کرده است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/jun/30/australia-politics-live-anthony-albanese-tax-reform-pauline-hanson-one-nation-multiculturalism-question-time-angus-taylor-coalition-royal-commission-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Mon, 29 Jun 2026 22:33:31 GMT",
+      "time": "۲۲:۳۳ - ۸ تیر",
+      "analyzed_at": "2026-06-29T22:57:58.204Z"
     }
   ]
 }
