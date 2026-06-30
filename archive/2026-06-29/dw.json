@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "agencyId": "dw",
-  "total": 6,
+  "total": 10,
   "articles": [
     {
       "id": "dw_7",
@@ -146,6 +146,100 @@
       "pubDate": "Sun, 28 Jun 2026 14:47:00 GMT",
       "time": "۱۴:۴۷ - ۷ تیر",
       "analyzed_at": "2026-06-29T12:44:16.700Z"
+    },
+    {
+      "id": "dw_14",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "US, Iran agree to halt strikes but broader talks still to begin",
+      "title_fa": "آمریکا و ایران بر توقف حملات توافق کردند اما مذاکرات گسترده‌تر هنوز آغاز نشده است",
+      "lead": "یک مقام آمریکایی اعلام کرد که آمریکا و ایران توافق کرده‌اند حملات خود را متوقف کرده و اجازه عبور کشتی‌ها از تنگه هرمز را بدهند. با این حال، مذا��رات فنی گسترده‌تر بین دو طرف هنوز از سر گرفته نشده است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/us-iran-agree-to-halt-strikes-but-broader-talks-still-to-begin/live-77746775?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Mon, 29 Jun 2026 05:47:00 GMT",
+      "time": "۰۵:۴۷ - ۸ تیر",
+      "analyzed_at": "2026-06-29T13:18:20.231Z"
+    },
+    {
+      "id": "dw_13",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Can Thailand, Cambodia unlock massive oil and gas reserves?",
+      "title_fa": "آیا تایلند و کامبوج می‌توانند ذخایر عظیم نفت و گاز را آزاد کنند؟",
+      "lead": "ذخایر نفت و گاز به ارزش تقریبی ۳۰۰ میلیارد دلار در منطقه مشترک خلیج تایلند قرار دارد. همکاری برای بهره‌برداری از این ذخایر به دلیل تنش‌های سیاسی بر سر یک اختلاف مرزی زم��نی جداگانه پیچیده شده است.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/can-thailand-cambodia-unlock-massive-oil-and-gas-reserves/a-77753561?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 29 Jun 2026 12:16:00 GMT",
+      "time": "۱۲:۱۶ - ۸ تیر",
+      "analyzed_at": "2026-06-29T13:18:20.231Z"
+    },
+    {
+      "id": "dw_5",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "US-India trade deal: Inside the key sticking points",
+      "title_fa": "توافق تجاری آمریکا و هند: نگاهی به نقاط کلیدی اختلاف",
+      "lead": "هم هند و هم ایالات متحده اعلام کرده‌اند که فاز اول یک توافق تجاری مهم نزدیک است. دویچه وله به چالش‌های اصلی برای نهایی کردن این توافق می‌پردازد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/us-india-trade-deal-inside-the-key-sticking-points/a-77754790?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Mon, 29 Jun 2026 12:33:00 GMT",
+      "time": "۱۲:۳۳ - ۸ تیر",
+      "analyzed_at": "2026-06-29T13:18:20.231Z"
+    },
+    {
+      "id": "dw_5",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "EIB announces largest-ever loan: €3 billion to Airbus",
+      "title_fa": "بانک سرمایه‌گذاری اروپا بزرگترین وام خود را اعلام کرد: ۳ میلیارد یورو به ایرباس",
+      "lead": "بانک سرمایه‌گذاری اروپا (EIB) بزرگترین وام تاریخ خود به مبلغ ۳ میلیارد یورو را به ایرباس برای تقویت تلاش‌های تحقیقاتی این سازنده هواپیما در اتحادیه اروپا اعلام کرد. این بودجه قاب�� توجه به پروژه‌های تجاری و دفاعی اختصاص خواهد یافت و صنعت مهمی در اروپا را تحت تأثیر قرار می‌دهد.",
+      "category": "finance",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/eib-announces-largest-ever-loan-%E2%82%AC3-billion-to-airbus/a-77753537?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-06-29T13:18:20.231Z"
     }
   ]
 }
