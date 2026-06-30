@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "agencyId": "bbc",
-  "total": 30,
+  "total": 31,
   "articles": [
     {
       "id": "bbc_3",
@@ -722,6 +722,30 @@
       "pubDate": "Mon, 29 Jun 2026 19:16:34 GMT",
       "time": "۱۹:��۶ - ۸ تیر",
       "analyzed_at": "2026-06-29T22:57:58.204Z"
+    },
+    {
+      "id": "bbc_8",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Osaka 'pays love and respect to Japan' in Wimbledon kimono",
+      "title_fa": "اوزاکا با کیمونوی ویمبلدون خود \"عشق و احترام به ژاپن\" را ادا کرد",
+      "lead": "نائومی اوزاکا به خاطر لباس‌های خیره‌کننده‌اش در زمی�� مسابقه شناخته شده است. هماهنگ کردن این لباس با کد لباس تمام س��ید ویمبلدون نیاز به الهام خاصی داشت.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Mon, 29 Jun 2026 21:11:04 GMT",
+      "time": "۲۱:۱۱ - ۸ تیر",
+      "analyzed_at": "2026-06-29T23:04:20.458Z"
     }
   ]
 }
