@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "skynews_1",
@@ -122,6 +122,30 @@
       "pubDate": "Mon, 29 Jun 2026 16:04:00 +0100",
       "time": "۱۵:۰۴ - ۸ تیر",
       "analyzed_at": "2026-06-29T19:47:47.512Z"
+    },
+    {
+      "id": "skynews_8",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Passenger plane landing in New York 'hit by drone'",
+      "title_fa": "هواپیمای مسافربری در نیویورک \"مورد اصابت پهپاد قرار گرفت\"",
+      "lead": "یک خلبان تجاری در هنگام نزدیک شدن به فرودگاه JFK نیویورک برای فرود، از برخورد با یک پهپاد خبر داد. این حادثه صبح دوشنبه رخ داده است و نگرانی‌ها را درباره امنیت پروازها افزایش می‌دهد.",
+      "category": "security",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/passenger-plane-landing-at-new-yorks-jfk-airport-hit-by-drone-13559025",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 29 Jun 2026 19:58:00 +0100",
+      "time": "۱۸:۵۸ - ۸ تیر",
+      "analyzed_at": "2026-06-29T22:57:58.204Z"
     }
   ]
 }
