@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "agencyId": "guardian",
-  "total": 23,
+  "total": 26,
   "articles": [
     {
       "id": "guardian_10",
@@ -288,7 +288,7 @@
         "negative": 60
       },
       "pubDate": "Mon, 29 Jun 2026 01:09:09 GMT",
-      "time": "۰۱:۰۹ - ۸ تیر",
+      "time": "۰۱:۰۹ - ۸ ��یر",
       "analyzed_at": "2026-06-29T13:44:26.278Z"
     },
     {
@@ -552,6 +552,78 @@
         "negative": 40
       },
       "analyzed_at": "2026-06-29T13:44:26.278Z"
+    },
+    {
+      "id": "guardian_6",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "EU sets up three months of talks with China over €360bn trade deficit",
+      "title_fa": "اتحادیه اروپا مذاکراتی سه ماهه با چین را بر سر کسری تجاری ۳۶۰ میلیارد یورویی آغاز می‌کند",
+      "lead": "اتحادیه اروپا و چین برای سه ماه مذاکره به منظور جلوگیری از جنگ تجاری بر سر عدم تعادل ۳۶۰ میلیارد یورویی واردات و صادرات اتحادیه اروپا موافقت کردند. دو طرف قصد دارند روابط دوجانبه را \"متوازن‌تر\" کنند.",
+      "category": "economics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Mon, 29 Jun 2026 18:33:51 GMT",
+      "time": "۱۸:۳۳ - ۸ تیر",
+      "analyzed_at": "2026-06-29T19:47:47.512Z"
+    },
+    {
+      "id": "guardian_14",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Strong aftershock terrifies Venezuelans days after devastating twin quakes",
+      "title_fa": "پس‌لرزه شدید، ونزوئلایی‌ها را روزها پس از زلزله‌های ویرانگر دوقلو وحشت‌زده کرد.",
+      "lead": "یک پس‌لرزه قوی شمال ونزوئلا را به لرزه درآورد و ساکنان وحشت‌زده را پنج روز پس از زلزله‌های دوقلو به خیابان‌ها کشاند. این حادثه در حالی رخ می‌دهد که شمار قربانیان از ۱۷۰۰ نفر گذشته و بحران انسانی رو به افزایش است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/29/strong-aftershock-terrifies-venezuelans-days-after-devastating-twin-quakes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 29 Jun 2026 17:37:01 GMT",
+      "time": "۱۷:۳۷ - ۸ تیر",
+      "analyzed_at": "2026-06-29T19:47:47.512Z"
+    },
+    {
+      "id": "guardian_0",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Families of two football players killed and injured in Venezuela earthquakes",
+      "title_fa": "خانواده‌های دو بازیکن فوتبال در زلزله‌های ونزوئلا کشته و زخمی شدند",
+      "lead": "در پی زلزله‌های دوقلوی ونزوئلا، خانواده‌های دو بازیکن فوتبال حرفه‌ای در میان کشته‌شدگان و مجروحان هستند. لوکاس ترخو�� بازیکن آرژانتینی، همسر و دو فرزند خود را از دست داد و شریک هکتور بلو نیز جان خود را در حین نجات دخترشان از دست داد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 29 Jun 2026 13:21:27 GMT",
+      "time": "۱۳:۲۱ - ۸ تیر",
+      "analyzed_at": "2026-06-29T19:47:47.512Z"
     }
   ]
 }
