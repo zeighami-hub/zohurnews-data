@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "agencyId": "bbc",
-  "total": 22,
+  "total": 26,
   "articles": [
     {
       "id": "bbc_3",
@@ -530,6 +530,102 @@
       "pubDate": "Sat, 27 Jun 2026 22:34:11 GMT",
       "time": "۲۲:۳۴ - ۶ تیر",
       "analyzed_at": "2026-06-29T13:44:26.278Z"
+    },
+    {
+      "id": "bbc_4",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
+      "title_fa": "پوتین به ندرت به کمبود سوخت ناشی از حملات اوکراین اذعان کرد",
+      "lead": "رئیس‌جمهور روسیه اعتراف کرد که حملات اوکراین «بدی��ی است که مشکلاتی ایجاد ��رده است». با این حال، او این کمبودها را «بحرانی» ندانست و از میزان جدیت آن‌ها کاست.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Mon, 29 Jun 2026 17:28:59 GMT",
+      "time": "۱۷:۲۸ - ۸ تیر",
+      "analyzed_at": "2026-06-29T19:47:47.512Z"
+    },
+    {
+      "id": "bbc_11",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
+      "title_fa": "دیوان عالی تلاش ترامپ برای اخراج رئیس فدرال رزرو، لیزا کوک، را مسدود کرد",
+      "lead": "این تصمیم که به عنوان یک پیروزی برای استقلال بانک مرکزی تلقی می‌شود، مبارزه بر سر برکناری را به دادگاه‌های پایین‌تر بازمی‌گرداند. دیوان عالی با این حکم، به نفع استقلال نهادهای مالی عم�� ��رد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "pubDate": "Mon, 29 Jun 2026 16:51:52 GMT",
+      "time": "۱۶:۵۱ - ۸ تیر",
+      "analyzed_at": "2026-06-29T19:47:47.512Z"
+    },
+    {
+      "id": "bbc_11",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
+      "title_fa": "د��خواست تجدیدنظر نهایی ترامپ در پرونده سوءاستفاده جنسی ای. ژان کارول رد شد",
+      "lead": "تصمیم دیوان عالی به این معناست که رئیس‌جمهور سابق آمریکا اکنون باید ۵ میلیون دلار خسارت به کارول بپردازد. این حکم به یکی از جنجالی‌ترین پرونده‌های حقوقی ترامپ پایان می‌دهد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 29 Jun 2026 15:30:35 GMT",
+      "time": "۱۵:۳۰ - ۸ تیر",
+      "analyzed_at": "2026-06-29T19:47:47.512Z"
+    },
+    {
+      "id": "bbc_6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
+      "title_fa": "جمهوری دموکراتیک کنگو تجمعات انبوه در پایتخت را برای جلوگیری از شیوع ابولا ممنوع کرد",
+      "lead": "جمهوری دموکراتیک کنگو به منظور جلوگیری از شیوع ابولا، تجمعات گسترده را در پایتخت ممنوع کرده است. ��یاستمداران مخالف، دولت را متهم می‌کنند که از این شیوع برای جلو��یری از اعتراضات برنامه‌ریزی‌شده است��اده می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "pubDate": "Mon, 29 Jun 2026 14:40:58 GMT",
+      "time": "۱۴:۴۰ - ۸ تیر",
+      "analyzed_at": "2026-06-29T19:47:47.512Z"
     }
   ]
 }
