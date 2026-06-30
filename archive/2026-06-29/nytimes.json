@@ -1,7 +1,7 @@
 {
   "date": "2026-06-29",
   "agencyId": "nytimes",
-  "total": 31,
+  "total": 35,
   "articles": [
     {
       "id": "nytimes_9",
@@ -746,6 +746,102 @@
       "pubDate": "Mon, 29 Jun 2026 15:21:47 +0000",
       "time": "۱۵:۲۱ - ۸ تیر",
       "analyzed_at": "2026-06-29T19:47:47.512Z"
+    },
+    {
+      "id": "nytimes_8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Abdul Ahad Momand, Only Afghan to Fly in Space, Is Dead",
+      "title_fa": "عبدالاحد مومند، تنها فضانورد افغان، درگذشت",
+      "lead": "عبدالاحد مومند، تنها فضانورد افغان که ��ه فضا سفر کرده بود، درگذشت. او یک خلبان نیروی هوایی افغانستان بود که برای برنامه فضایی شوروی انتخاب شده و پروا�� ��اریخ�� خود ���ا در سال ۱۹۸۸، همزم��ن با جنگ شوروی در افغانستان، انجام داد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/29/world/middleeast/abdul-ahad-momand-dead.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "pubDate": "Mon, 29 Jun 2026 22:32:52 +0000",
+      "time": "۲۲:۳۲ - ۸ تیر",
+      "analyzed_at": "2026-06-29T22:57:58.204Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Efforts to Rescue Venezuela Quake Victims Grow More Desperate",
+      "title_fa": "��لاش‌ها برای نجات قربانیان زلزله ونزوئلا ناامیدانه‌تر می‌شود",
+      "lead": "شمار قربانیان به بیش از ۱۷۰۰ نفر افزایش یافته است که احتمالاً این رقم کمتر از تعداد واقعی است. تیم‌های امداد و نجات در شرایط دشوار به دنبال یافتن بازماندگان هستند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-victims-rescue-deaths.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 29 Jun 2026 22:05:55 +0000",
+      "time": "۲۲:۰۵ - ۸ تیر",
+      "analyzed_at": "2026-06-29T22:57:58.204Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Peru’s Presidential Election, Keiko Fujimori Gives the Right in Latin America Another Win",
+      "title_fa": "در انتخابات ریاست‌جمهوری پرو، کیکو فوجیموری پیروزی دیگری را برای راست در آمریکای لاتین به ارمغان آورد",
+      "lead": "کیکو فوجیموری، دختر رئیس‌جمهور سابق آلبرتو فوجیموری، جنبش خانواده‌اش را به قدرت بازمی‌گرداند. این پیروزی با اختلاف اندک و در کشوری تقسیم‌شده به دست آمد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Mon, 29 Jun 2026 21:45:22 +0000",
+      "time": "۲۱:۴۵ - ۸ تیر",
+      "analyzed_at": "2026-06-29T22:57:58.204Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "What the U.S. Owes Venezuela",
+      "title_fa": "ایالات متحده چه بدهی‌��ایی به ونزوئلا دارد؟",
+      "lead": "انتظارات در مورد نقش دولت ترامپ در کمک‌رسانی به ونزوئلا پس از دو زلزله ویرانگر رو به افزایش است. این مقاله به بررسی تعهدات و کمک‌های احتمالی آمریکا به ونزوئلا در شرایط بحران می‌پردازد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/29/world/venezuela-earthquake-trump-aid.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Mon, 29 Jun 2026 20:56:26 +0000",
+      "time": "۲۰:۵۶ - ۸ تیر",
+      "analyzed_at": "2026-06-29T22:57:58.204Z"
     }
   ]
 }
