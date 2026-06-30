@@ -16,7 +16,8 @@ const RSS_SOURCES = [
   { id: "independent",   name_en: "Independent",    name_fa: "ایندیپندنت",     url: "https://www.independent.co.uk/rss", lang:"en" },
   { id: "economist",     name_en: "The Economist",  name_fa: "اکونومیست",      url: "https://www.economist.com/international/rss.xml", lang:"en" },
   { id: "rt",            name_en: "RT",             name_fa: "آر‌تی",           url: "https://www.rt.com/rss/news/", lang:"en" },
-  { id: "xinhua",        name_en: "Xinhua",         name_fa: "شینهوا",         url: "http://www.xinhuanet.com/english/rss/worldrss.xml", lang:"en" },
+  // نکته: xinhua حذف شد - از سرور ایران به‌طور کامل غیرقابل‌دسترس بود (HTTP:0، نه فقط خطای موقت)
+  // و محتوای قدیمی/خراب در کش باقی مانده بود
   { id: "middleeasteye", name_en: "Middle East Eye",name_fa: "میدل ایست آی",  url: "https://www.middleeasteye.net/rss/section/news", lang:"en" },
   { id: "arabnews",      name_en: "Arab News",      name_fa: "عرب نیوز",       url: "https://www.arabnews.com/cat/3/rss.xml", lang:"en" },
   // === منابع ایرانی ===
