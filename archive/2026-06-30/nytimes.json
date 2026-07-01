@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_8",
@@ -434,6 +434,30 @@
       "pubDate": "Tue, 30 Jun 2026 11:17:41 +0000",
       "time": "۱۱:۱۷ - ۹ تیر",
       "analyzed_at": "2026-06-30T17:46:38.479Z"
+    },
+    {
+      "id": "nytimes_5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
+      "title_fa": "شکست جام جهانی بر اخبار آلمان غلبه کرد و حتی یک تیراندازی جمعی را تحت‌الشعاع قرار داد",
+      "lead": "یک روز پس از حمله مرگبار در شمال آلمان، توجه رسان��‌ها به شدت به عملکرد ضعیف این کشور در جام جهانی معطوف شد. این موضوع حتی خبر یک تیراندازی جمعی را نیز تحت‌الشعاع قرار داد.",
+      "category": "society",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 17:17:44 +0000",
+      "time": "۱۷:۱۷ - ۹ تیر",
+      "analyzed_at": "2026-06-30T17:53:01.489Z"
     }
   ]
 }
