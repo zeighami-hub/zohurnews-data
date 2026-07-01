@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_8",
@@ -57,7 +57,7 @@
       "keep": true,
       "title": "Here’s the latest.",
       "title_fa": "آخرین به‌روزرسانی‌ها",
-      "lead": "این عنوان به صورت کلی برای ارائه آخ��ین خبرها و تحولات استفاده شده است. با توجه به URL، این خبر به مذاکرات ایران و آمریکا، قطر و تنگه هرمز مرتبط اس�� که از اهمیت بالایی برخوردارند.",
+      "lead": "این عنوان به صورت کلی برای ارائه آخ��ین خبرها و تحولات استفاده شده است. با توجه به URL، این خبر به مذاکرات ایر��ن و آمریکا، قطر و تنگه هرمز مرتبط اس�� که از اهمیت بالایی برخوردارند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz/heres-the-latest",
@@ -225,7 +225,7 @@
       "keep": true,
       "title": "Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait",
       "title_fa": "ایران برای حفظ اهرم فشار بر تنگه هرمز، مذاکرات صلح با آمریکا را به خطر می‌اندازد",
-      "lead": "ایران کنتر�� خود بر تنگه هرمز را اهرم فشاری ��یاتی در مذاکرات صلح با ایالات متحده می‌داند. به نظر می‌ر��د این کشور برای حفظ این قدرت، حاضر است آتش‌بس را نیز به خطر بیندازد.",
+      "lead": "ایران کنتر�� خود بر تنگه هرمز را اهرم فشاری ��یاتی در مذاکرات صلح با ایالات متحده می‌داند. به نظر می‌ر��د این کشور برای حفظ این قدرت، حاضر است آتش‌بس را نیز به خطر ��یندازد.",
       "category": "diplomacy",
       "region": "middle_east",
       "sourceUrl": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
@@ -242,6 +242,30 @@
       "pubDate": "Mon, 29 Jun 2026 12:34:39 +0000",
       "time": "۱۲:۳۴ - ۸ تیر",
       "analyzed_at": "2026-06-30T13:03:36.154Z"
+    },
+    {
+      "id": "nytimes_14",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Pakistan Attacks Afghanistan, Killing More Than 30",
+      "title_fa": "حمله پاکستان به افغ��نستان؛ بیش از ۳۰ نفر کشته شدند",
+      "lead": "طالبان اعلام کرد که در پی حملات هوایی پاکستان، ۳۶ غیرنظامی کشته شده‌اند، در حالی که پاکستان مدعی شد ۳۲ شبه‌نظامی را به هلاکت رسانده است. این حملات تازه‌ترین مورد در یک درگیری چندماهه بین دو کشور است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 29 Jun 2026 17:47:43 +0000",
+      "time": "۱۷:۴۷ - ۸ تیر",
+      "analyzed_at": "2026-06-30T13:49:05.455Z"
     }
   ]
 }
