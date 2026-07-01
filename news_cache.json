@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T11:49:17.087Z",
-  "total": 990,
-  "new_this_cycle": 6,
+  "generated_at": "2026-07-01T12:04:09.039Z",
+  "total": 991,
+  "new_this_cycle": 3,
   "agencies": [
     {
       "id": "aljazeera",
@@ -101,6 +101,74 @@
   ],
   "articles": [
     {
+      "id": "isna_5",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "حضور ورزشکار زنجانی در مسابقات پاراآسیایی بوچیا",
+      "title_fa": "حضور ورزشکار زنجانی در مسابقات پاراآسیایی بوچیا",
+      "lead": "ملی‌پوش بوچیای استان زنجان با کسب سهمیه، حضور خود در مسابقات پاراآسیایی ژاپن را قطعی کرد. این خبر برای جامعه ورزشی و مردم زنجان اهمیت دارد.",
+      "category": "sports",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405041006091/%D8%AD%D8%B6%D9%88%D8%B1-%D9%88%D8%B1%D8%B2%D8%B4%DA%A9%D8%A7%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D9%BE%D8%A7%D8%B1%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A8%D9%88%DA%86%DB%8C%D8%A7",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-01T12:04:09.035Z"
+    },
+    {
+      "id": "reuters_13",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil prices little changed but set for steepest monthly and quarterly losses since 2020 - Reuters",
+      "title_fa": "قیمت نفت تغییر چندانی نکرد اما آماده ثبت شدیدترین افت ماهانه و فصلی از سال ۲۰۲۰ است",
+      "lead": "قیمت نفت در معاملات اخیر تغییر چندانی نداشت، اما در مسیر ثبت شدیدترین افت ماهانه و فصلی خود از سال ۲۰۲۰ قرار دارد. این کاهش می‌تواند تأثیرات مهمی بر بازارهای جهانی انرژی و اقتصاد کشورها داشته باشد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDFWV0lhZFUtN1Y1N2hwRlNPWGZYVFQ5TXZxVjVpQTFib25IaS0walpsa3V6a0VRbVIxOEw5bVVYZFlWTzZuWWZrcFZtd2dUQVZEU00xX3VEVDBxanpod0lsaUFYbzFESXVJSWZKLUtmZDBNUVRXTk5ZaGw1SmRBWjJzNGQ0TzdXcmpsa3BhMXl1djBhc1hScXVxc0RaNzR1M1A2YzlrSWtVZw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Tue, 30 Jun 2026 19:11:08 GMT",
+      "time": "۲۲:۴۱ - ۹ تیر",
+      "analyzed_at": "2026-07-01T12:04:09.035Z"
+    },
+    {
+      "id": "reuters_14",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Netanyahu visits occupied southern Lebanon, says Israel won't leave yet - Reuters",
+      "title_fa": "نتانیاهو از جنوب لبنان اشغالی بازدید کرد و گفت اسرائیل هنوز آنجا را ترک نخواهد کرد",
+      "lead": "بنیامین نتانیاهو از جنوب لبنان اشغالی بازدید کرده و اظهار داشت که اسرائیل فعلاً این منطقه را ترک نخواهد کرد. این اظهارات در بحبوحه تنش‌های فزاینده در مرزهای شمالی اسرائیل و منطقه خاورمیانه صورت می‌گیرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVcySlRURGc5VDVrMkFTZk82RTBjUE1zdkNtQW1SVERHQmI3d2xwMFc1VkVnOXRNbDRYU1QteTl4LTZmdDNwa3FTdk1Udk9hR3c5WkVfclVZUEpoNmpzUU5YVGVpOTh2WVhrU1B6b08yaTBBRXlEWTVNWmJ4ajI0QlpoYUNEZWxhbHM2Sm1YclFROXNaRGhxV3ptYzNmRHNfTHNCVlpGSFlKUEZuTWtPN3pOVzdvMC1aajJiZFdUeWoj?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-07-01T12:04:09.035Z"
+    },
+    {
       "id": "yjc_0",
       "agencyId": "yjc",
       "keep": true,
@@ -119,28 +187,6 @@
         "positive": 10,
         "neutral": 50,
         "negative": 40
-      },
-      "analyzed_at": "2026-07-01T11:49:14.700Z"
-    },
-    {
-      "id": "isna_6",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "حضور ورزشکار زنجانی در مسابقات پاراآسیایی بوچیا",
-      "title_fa": "حضور ورزشکار زنجانی در مسابقات پاراآسیایی بوچیا",
-      "lead": "ملی‌پوش بوچیای استان زنجان با کسب سهمیه، حضور خود در مسابقات پاراآسیایی ژاپن را قطعی کرد. این ورزشکار از استان زنجان نماینده ایران در این رویداد بین‌المللی خواهد بود.",
-      "category": "sports",
-      "region": "Asia",
-      "sourceUrl": "https://www.isna.ir/news/1405041006091/%D8%AD%D8%B6%D9%88%D8%B1-%D9%88%D8%B1%D8%B2%D8%B4%DA%A9%D8%A7%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D9%BE%D8%A7%D8%B1%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A8%D9%88%DA%86%DB%8C%D8%A7",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 90,
-        "neutral": 10,
-        "negative": 0
       },
       "analyzed_at": "2026-07-01T11:49:14.700Z"
     },
@@ -541,28 +587,6 @@
       "analyzed_at": "2026-07-01T11:35:01.875Z"
     },
     {
-      "id": "reuters_11",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Netanyahu visits occupied southern Lebanon, says Israel won't leave yet - Reuters",
-      "title_fa": "نتانیاهو از جنوب اشغالی لبنان بازدید کرد؛ اسرائیل فعلاً این منطقه را ترک نخواهد کرد",
-      "lead": "نتانیاهو از جنوب اشغالی لبنان بازدید کرد و اعلام کرد که اسرائیل فعلاً این منطقه را ترک نخواهد کرد. این اظهارات در بحبوحه تنش‌های منطقه‌ای پیام روشنی درباره تداوم حضور اسرائیل ارسال می‌کند.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVcySlRURGc5VDVrMkFTZk82RTBjUE1zdkNtQW1SVERHQmI3d2xwMFc1VkVnOXRNbDRYU1QteTl4LTZmdDNwa3FTdk1Udk9hR3c5WkVfclVZUEpoNmpzUU5YVGVpOTh2WVhrU1B6b08yaTBBRXlEWTVNWmJ4ajI0QlpoYUNEZWxhbHM2Sm1YclFROXNaRGhxV3ptYzNmRHNfTHNCVlpGSFlKUEZuTWtPN3pOVzdvMC1aajJiZFdUeWoj?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 60,
-        "negative": 40
-      },
-      "analyzed_at": "2026-07-01T11:35:01.875Z"
-    },
-    {
       "id": "guardian_12",
       "agencyId": "guardian",
       "keep": true,
@@ -613,7 +637,7 @@
       "agencyId": "yjc",
       "keep": true,
       "title": "استمرار تولید، پاسخ صنعت و معدن به جنگ علیه قدرت ایران",
-      "title_fa": "استمرار تولید، پاسخ صنعت و معدن به جنگ علیه قدرت ایران",
+      "title_fa": "استمرار تولید، پاسخ صنعت و معدن به جنگ ��لیه قدرت ایران",
       "lead": "مشاور وزیر صمت اعلام کرد که آیین روز ملی صنعت و معدن امسال در سی‌ام تیرماه و با حضور رئیس‌جمهور برگزار می‌شود. این مراسم با توجه به همزمانی آن با آیین‌های ملی وداع و تشییع رهبر شهید خواهد بود.",
       "category": "politics",
       "region": "iran",
@@ -894,7 +918,7 @@
       "keep": true,
       "title": "وای به روزی که افراد دائم مجبور به اثبات خود شوند / سرمایه‌گذاری روانی در استخدام: تله تعهد افزایشی در سازمان‌ها",
       "title_fa": "وای به روزی که افراد دائم مجبور به اثبات خود شوند / سرمایه‌گذاری روانی در استخدام: تله تعهد افزایشی در سازمان‌ها",
-      "lead": "این مقاله به بررسی فرایندهای سازمان‌ها می‌پردازد که فراتر از ارزیابی شایستگی، با ساختار قدرت نیز مرتبط هستند. بر اساس دیدگاه میشل فوکو، قدرت در سازمان‌ها اغلب از طریق سازوکارهای نظارتی و ارزیابی اعمال می‌شود و فرآیندهای طولانی جذب می‌توانند تله‌ای برای تعهد افزایشی ایجاد کنند.",
+      "lead": "این مقاله به بررسی فرایندهای سازمان‌ها می‌پردازد که فراتر از ارزیابی شایستگی، با ساختار قدرت نیز مرتبط هستند. بر اساس دیدگاه میشل فوکو، قدرت در سازمان‌ها اغلب از طریق سازوکارهای نظارت�� و ارزیابی اعمال می‌شود و فرآیندهای طولانی جذب می‌توانند تله‌ای برای تعهد افزایشی ایجاد کنند.",
       "category": "analysis",
       "region": "global",
       "sourceUrl": "https://www.khabaronline.ir/news/2240765/%D9%88%D8%A7%DB%8C-%D8%A8%D9%87-%D8%B1%D9%88%D8%B2%DB%8C-%DA%A9%D9%87-%D8%A7%D9%81%D8%B1%D8%A7%D8%AF-%D8%AF%D8%A7%D8%A6%D9%85-%D9%85%D8%AC%D8%A8%D9%88%D8%B1-%D8%A8%D9%87-%D8%A7%D8%AB%D8%A8%D8%A7%D8%AA-%D8%AE%D9%88%D8%AF-%D8%B4%D9%88%D9%86%D8%AF-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C",
@@ -1478,7 +1502,7 @@
       "keep": true,
       "title": "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
       "title_fa": "گو ونگوی، میلیاردر چینی، به دلیل کلاهبرداری به ۳۰ سال زندان در آمریکا محکوم شد",
-      "lead": "گو ونگوی، میلیاردر چینی که به دلیل انتقاد از حزب کمونیست چین شهرت یافته بود، در دادگاه فدرال آمریکا به جرم کلاهبرداری به ۳۰ سال زندان محکوم شد. او در سال ۲۰۲۴ به نه اتهام از جمله پولشویی مجرم شناخته شده بود.",
+      "lead": "گو ونگوی، میلیاردر چینی که به دلیل انتقاد از حزب کمونیست چین شهرت یافته بود، در دادگاه فدرال آمریکا به جرم کلاهبرداری به ۳۰ سال زندان محکوم شد. او در سال ۲۰۲۴ ��ه نه اتهام از جمله پولشویی مجرم شناخته شده بود.",
       "category": "politics",
       "region": "asia",
       "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud",
@@ -2330,7 +2354,7 @@
       "keep": true,
       "title": "پوشش لحظه‌به‌لحظه تشییع پیکر رهبر شهید روی موج رادیو",
       "title_fa": "پوشش لحظه‌به‌لحظه مراسم تشییع رهبر شهید از رادیو",
-      "lead": "معاونت صدای رسانه ملی با بسیج تمامی شبکه‌های رادیویی، آماده پوشش گسترده و لحظه‌به‌لحظه مراسم تشییع رهبر شهید است. تیم‌های گزارشگری و تجهیزات لازم در تهران، قم، مشهد و عراق مستقر شده‌اند.",
+      "lead": "معاونت صدای رسانه ملی با بسیج ��مامی شبکه‌های رادیویی، آماده پوشش گسترده و لحظه‌به‌لحظه مراسم تشییع رهبر شهید است. تیم‌های گزارشگری و تجهیزات لازم در تهران، قم، مشهد و عراق مستقر شده‌اند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.yjc.ir/fa/news/9103568/پوشش-لحظه‌به‌لحظه-تشییع-پیکر-رهبر-شهید-روی-موج-رادیو",
@@ -3180,7 +3204,7 @@
       "keep": true,
       "title": "قلعه‌نویی، بیرانوند و حسینی در استقلال؟",
       "title_fa": "تکذیب حضور قلعه‌نویی، بیرانوند و حسینی در استقلال",
-      "lead": "سرپرست مدیرعاملی باشگاه استقلال حضور امیر قلعه‌نویی، علیرضا بیرانوند و حسین حسینی را در این تیم تکذیب کرد. این تکذیبیه به گمانه‌زنی‌ها درباره پیوستن این چهره‌های سرشناس به استقلال پایان داد.",
+      "lead": "سرپرست مدیرعاملی باشگاه استقلال حضور امیر قلعه‌نویی، علیرضا بیرانوند و حسین حسینی را در این تیم تکذیب کرد. ای�� تکذیبیه به گمانه‌زنی‌ها درباره پیوستن این چهره‌های سرشناس به استقلال پایان داد.",
       "category": "sports",
       "region": "iran",
       "sourceUrl": "https://www.mashreghnews.ir/news/1822451/%D9%82%D9%84%D8%B9%D9%87-%D9%86%D9%88%DB%8C%DB%8C-%D8%A8%DB%8C%D8%B1%D8%A7%D9%86%D9%88%D9%86%D8%AF-%D9%88-%D8%AD%D8%B3%DB%8C%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84",
@@ -3488,7 +3512,7 @@
       "id": "isna_4",
       "agencyId": "isna",
       "keep": true,
-      "title": "قانون‌گذاران؛ صندوق‌های اعتبارات خرد را به رسمیت بشناسید",
+      "title": "قانو��‌گذاران؛ صندوق‌های اعتبارات خرد را به رسمیت بشناسید",
       "title_fa": "قانون‌گذاران؛ صندوق‌های اعتبارات خرد را به رسمیت بشناسید",
       "lead": "مدیرکل دفتر توسعه فعالیت‌های کشاورزی زنان روستایی و عشایری خواستار به رسمیت شناخته شدن صندوق‌های اعتبارات خرد در قوانین کشور شد. وی بر ضرورت اصلاح قوانین مرتبط با اشتغال و توانمندسازی زنان تاکید کرد.",
       "category": "Politics",
@@ -12210,7 +12234,7 @@
       "keep": true,
       "title": "فیلم | سفر معاون علمی و فناوری رییس‌جمهور به سمنان",
       "title_fa": "فیلم | سفر معاون علمی و فناوری رییس‌جمهور به سمنان",
-      "lead": "معاون علمی، فناوری و اقتصاد دانش‌بنیان رییس‌جمهور، حسین افشین، به استان سمنان سفر کرد. وی در این سفر چندین طرح فناورانه را در پارک‌های علم و فناوری شاهرود و دانشگاه سمنان افتتاح کرد.",
+      "lead": "معاون علمی، فن��وری و اقتصاد دانش‌بنیان رییس‌جمهور، حسین افشین، به استان سمنان سفر کرد. وی در این سفر چندین طرح فناورانه را در پارک‌های علم و فناوری شاهرود و دانشگاه سمنان افتتاح کرد.",
       "category": "science",
       "region": "iran",
       "sourceUrl": "https://www.irna.ir/news/86197408/%D9%81%DB%8C%D9%84%D9%85-%D8%B3%D9%81%D8%B1-%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%B9%D9%84%D9%85%DB%8C-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%B1%DB%8C%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%A8%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86",
@@ -12494,7 +12518,7 @@
       "keep": true,
       "title": "دیدار وزیر خارجه قطر با فرستادگان آمریکا در دوحه",
       "title_fa": "دیدار وزیر خارجه قطر با فرستادگان آمریکا در دوحه",
-      "lead": "نخست‌وزیر و وزیر امور خارجه قطر با فرستادگان آمریکا، استیو ویتکاف و جرد کوشنر، در دوحه دیدار کرد. در این دیدار، طرفین درباره آخرین تحولات مذاکرات جاری بین ایالات متحده و جمهوری اسلامی ایران در چارچوب یادداشت تفاهم گفت‌وگو کردند.",
+      "lead": "نخست‌وزیر و وزیر امور خارجه قطر با فرستادگان آمریکا، استیو ویتکاف و جرد کوشنر، در دوحه دیدار کرد. در این دیدار، طرفین درباره آخرین تحولات ��ذاکرات جاری بین ایالات متحده و جمهوری اسلامی ایران در چارچوب یادداشت تفاهم گفت‌وگو کردند.",
       "category": "diplomacy",
       "region": "global",
       "sourceUrl": "https://www.irna.ir/news/86197500/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D9%88%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D9%82%D8%B7%D8%B1-%D8%A8%D8%A7-%D9%81%D8%B1%D8%B3%D8%AA%D8%A7%D8%AF%DA%AF%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D8%AF%D9%88%D8%AD%D9%87",
@@ -13322,7 +13346,7 @@
       "keep": true,
       "title": "Berri vows to block US-brokered agreement with Israel",
       "title_fa": "بری متعهد شد توافق‌نامه با واسطه‌گری آمریکا و اسرائیل را مسدود کند",
-      "lead": "نبیه بری، رئیس پارلمان لبنان، متعهد شده است که رهبری اپوزیسیون سیاسی علیه یک توافق‌نامه چهارچوب جنجالی با واسطه‌گری آمریکا و اسرائیل را بر عهده بگیرد. او سوگند یاد کرد که از تصویب این توافق‌نامه در پارلمان جلوگیری خواهد کرد.",
+      "lead": "نبیه بری، رئیس پارلمان لبنان، متعهد شده است که رهبری اپوزیسیون سیاسی علیه یک توافق‌نامه چهارچوب جنجالی با واسطه‌گری آمریکا و اسرائیل را بر عهده بگیرد. او سوگند یاد کرد که از تصویب این توافق‌نامه در پارل��ان جلوگیری خواهد کرد.",
       "category": "politics",
       "region": "middleeast",
       "sourceUrl": "https://en.mehrnews.com/news/245770/Berri-vows-to-block-US-brokered-agreement-with-Israel",
@@ -15716,7 +15740,7 @@
       "keep": true,
       "title": "How is South Africa dealing with immigration?",
       "title_fa": "آفریقای جنوبی چگونه با مهاجرت برخورد می‌کند؟",
-      "lead": "گروه‌های ضد مهاجرتی در آفریقای جنوبی به مهاجران غیرقانونی تا ۳۰ ژوئن مهلت داده بودند تا کشور را ترک کنند. این موضوع سوالاتی را در مورد نحوه برخورد آفریقای جنوبی با مسئله مهاجرت و حقوق مهاجران برانگیخته است.",
+      "lead": "گروه‌های ضد مهاجرتی در آفریقای جنوبی به مهاجران غیرقانونی تا ۳۰ ژوئن مهلت ��اده بودند تا کشور را ترک کنند. این موضوع سوالاتی را در مورد نحوه برخورد آفریقای جنوبی با مسئله مهاجرت و حقوق مهاجران برانگیخته است.",
       "category": "politics",
       "region": "africa",
       "sourceUrl": "https://www.aljazeera.com/video/inside-story/2026/6/30/how-is-south-africa-dealing-with-immigration?traffic_source=rss",
@@ -20017,7 +20041,7 @@
         "negative": 0
       },
       "pubDate": "Tue, 30 Jun 2026 16:14:00 GMT",
-      "time": "۱۶:۱۴ - ۹ تیر",
+      "time": "۱۶:��۴ - ۹ تیر",
       "analyzed_at": "2026-06-30T17:46:38.479Z"
     },
     {
@@ -20960,7 +20984,7 @@
       "keep": true,
       "title": "'Politically expedient': Immigrants in South Africa and 'around the world' face wrath of xenophobia",
       "title_fa": "«مصلحت سیاسی»: مهاجران در آفریقای جنوبی و «سراسر جهان» با خشم بیگانه‌هراسی رو��رو هستند",
-      "lead": "این گزارش به بررسی موج��های مکرر بسیج ضد مهاجران در آفریقای جنوبی می‌پردازد که پارادوکسی عمیق سیاسی و اجتماعی-اقتصادی را آشکار می‌کند. این پدیده نشان می‌دهد که مهاجران در آفریقای جنوبی و سراس�� جهان با چالش‌های جدی بیگانه‌هراسی مواجه هستند.",
+      "lead": "این گزارش به بررسی موج��های مکر�� بسیج ضد مهاجران در آفریقای جنوبی می‌پردازد که پارادوکسی عمیق سیاسی و اجتماعی-اقتصادی را آشکار می‌کند. این پدیده نشان می‌دهد که مهاجران در آفریقای جنوبی و سراس�� جهان با چالش‌های جدی بیگانه‌هراسی مواجه هستند.",
       "category": "economy",
       "region": "global",
       "sourceUrl": "https://www.france24.com/en/politically-expedient-around-the-world-immigrants-face-wrath-of-angry-populism-in-south-africa",
@@ -21272,7 +21296,7 @@
       "keep": true,
       "title": "Morocco player hugs mother as team celebrates win against Netherlands",
       "title_fa": "بازیکن مراکش پس از پیروزی تیمش برابر هلند مادرش را در آغوش گرفت",
-      "lead": "اسماعیل سایبری، بازیکن مراکش، ��س از به ثمر ��ساندن پنالتی پیروزی‌بخش تیمش مقاب�� هلند، مادر خود را در آغوش گرفت. این لحظه احساسی در حین جشن پیروزی تیم مراکش ثبت شد و مورد توجه قرار گرفت.",
+      "lead": "اسماعیل سایبری، بازیکن مراکش، ��س از به ثمر ��ساندن پنال��ی پیروزی‌بخش تیمش مقاب�� هلند، مادر خود را در آغوش گرفت. این لحظه احساسی در حین جشن پیروزی تیم مراکش ثبت شد و مورد توجه قرار گرفت.",
       "category": "sports",
       "region": "global",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/30/morocco-player-hugs-mother-as-team-celebrates-win-against-netherlands?traffic_source=rss",
@@ -21608,7 +21632,7 @@
       "keep": true,
       "title": "Iran says no technical talks with US planned in Doha this week",
       "title_fa": "ایران: هیچ مذاکره فنی با آمریکا در دوحه برنامه‌ریزی نشده است",
-      "lead": "یک دیپلمات ارشد ادعاهای رسا��ه‌ای مبنی بر ��رنامه���ریزی مذاکرات فنی بین ایران و آمر��کا در دوحه در این هفته را رد کرد. او گفت که چنین جلساتی برنامه‌ریزی نشده است.",
+      "lead": "یک دیپلمات ارشد ادعاهای رسا��ه‌ای ��بنی بر ��رنامه���ریزی مذاکرات فنی بین ایران و آمر��کا در دوحه در این هفته را رد کرد. او گفت که چنین جلساتی برنامه‌ریزی نشده است.",
       "category": "diplomacy",
       "region": "iran",
       "sourceUrl": "https://en.irna.ir/news/86196089/Iran-says-no-technical-talks-with-US-planned-in-Doha-this-week",
@@ -22254,7 +22278,7 @@
       "keep": true,
       "title": "The World Cup has always been beset by scandal and strife",
       "title_fa": "جام جهانی همواره با رسوایی و نزاع همراه بوده است",
-      "lead": "جام جهانی فوتبال همواره با رسوایی‌ها و کشمکش‌ها دست و پنجه نرم کرده است. فیفا، سازمانی که این رویداد را اداره می‌کند، نیز از این قاعده مستثنی نبوده و تاریخچه‌ای پر از جنجال دارد.",
+      "lead": "جام جهانی فوتبال همواره با رسوایی‌ها و کشمکش‌ها دست و پنجه نرم کرده است. فیفا، سازمانی که این رویداد را اداره می‌کند، نیز از این قاعده مستثنی نبوده �� تاریخچه‌ای پر از جنجال دارد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.economist.com/international/2026/06/10/the-world-cup-has-always-been-beset-by-scandal-and-strife",
@@ -22614,7 +22638,7 @@
       "keep": true,
       "title": "Palestinians clash with Israeli soldiers after protest against Pence visit",
       "title_fa": "درگیری فلسطینیان با سربازان اسرائیلی پس از اعتراض به سفر پنس",
-      "lead": "معترضان فلسطینی در جریان درگیری‌ها پس از اعتراض به سفر مایک پنس، معاون رئیس‌جمهور آمریکا در قدس، در شهر الخلیل کرانه باختری در ۲۳ ژانویه ۲۰۱۸ به سوی س��بازان اسرائیلی سنگ پرتاب کردند. این ر��یداد در بحبوحه تنش‌های منطقه‌ای و اعتراضات به سیاست‌های آمریکا در خاورمیانه رخ داد.",
+      "lead": "معترضان فلسطینی در جریان درگیری‌ها پس از اعتراض به سفر مایک پنس، معاون ��ئیس‌جمهور آمریکا در قدس، در شهر الخلیل کرانه باختری در ۲۳ ژانویه ۲۰۱۸ به سوی س��بازان اسرائیلی سنگ پرتاب کردند. این ر��یداد در بحبوحه تنش‌های منطقه‌ای و اعتراضات به سیاست‌های آمریکا در خاورمیانه رخ داد.",
       "category": "conflict",
       "region": "middleeast",
       "sourceUrl": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm",
@@ -23281,7 +23305,7 @@
       "agencyId": "rt",
       "keep": true,
       "title": "Israel planning permanent Lebanon occupation – professor (VIDEO)",
-      "title_fa": "استاد دانشگاه: اسرائیل در حال برنامه‌ریزی برای اشغال دائمی لبنان است",
+      "title_fa": "استاد دانشگاه: اسرائیل در حال برنامه‌ریزی برای اش��ال دائمی لبنان است",
       "lead": "پروفسور محمد مرندی، مستقر در تهران، اظهار داشت که حضور اسرائیل در لب��ان و سوریه نشان‌د��نده جاه‌طلبی���های سرزمینی این رژیم است. او معتقد است که اسرائیل قصد اشغال دائمی لبنان ��ا دارد.",
       "category": "military",
       "region": "middleeast",
@@ -23594,7 +23618,7 @@
       "keep": true,
       "title": "World Cup 2026 TV schedule: How to watch every round-of-32 game on BBC and ITV in the UK",
       "title_fa": "برنامه پخش تلویزیونی جام جهانی ۲۰۲۶: نحوه تماشای تمامی بازی‌های مرحله یک سی و دوم نهایی در بی‌بی‌سی و آی‌تی‌وی در بریتانیا",
-      "lead": "بزرگترین جام جهانی تاریخ قرار است شامل ۱۰۴ بازی در سراسر آمریکا، کانادا و مکزیک باشد. این مقاله راهنمای کاملی برای تماشای تمامی بازی‌های مرحله یک سی و دوم نهایی از طریق شبکه‌های بی‌بی‌سی و آی‌تی‌وی در بریتانیا ارائه می‌دهد.",
+      "lead": "بزرگترین جام جهانی تاریخ قرار است شامل ۱۰۴ بازی در سراسر آمریکا، کانادا و مکزیک باشد. این مقاله راهنمای کاملی برای تماشای تمامی بازی‌های مرحله یک سی و دوم نهایی از طریق شبکه‌های بی��بی‌سی و آی‌تی‌وی در بریتانیا ارائه می‌دهد.",
       "category": "sports",
       "region": "europe",
       "sourceUrl": "https://www.independent.co.uk/sport/football/world-cup-2026-tv-schedule-bbc-itv-how-watch-b299373.html",
