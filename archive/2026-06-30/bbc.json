@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "bbc",
-  "total": 5,
+  "total": 8,
   "articles": [
     {
       "id": "bbc_6",
@@ -122,6 +122,78 @@
       "pubDate": "Mon, 29 Jun 2026 20:34:52 GMT",
       "time": "۲۰:۳۴ - ۸ تیر",
       "analyzed_at": "2026-06-30T11:00:20.102Z"
+    },
+    {
+      "id": "bbc_7",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "title_fa": "آمریکا از توافق برای \"توقف درگیری\" پس از تبادل حملات با ایران خبر داد",
+      "lead": "ایالات متحده اعلام کرده است که پس از تبادل حملات با ایران، بر سر \"توقف درگیری\" به توافق رسیده است. این در حالی است که هر دو کشور یکدیگر را به نقض آتش‌بس متهم کرده بودند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Mon, 29 Jun 2026 14:52:10 GMT",
+      "time": "۱۴:۵۲ - ۸ تیر",
+      "analyzed_at": "2026-06-30T13:49:05.455Z"
+    },
+    {
+      "id": "bbc_13",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Six people shot dead at centre for mothers and children in Germany",
+      "title_fa": "شش نفر در مرکز مادران و کودکان در آلمان کشته شدند",
+      "lead": "شش نفر در یک مرکز نگهداری مادران و کودکان در آلمان بر اثر تیراندازی کشته شدند. مظنون مرد که در حال حاضر دستگیر شده، بر سر حضانت دختر نوزادش با مشکلاتی روبرو بوده است.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 29 Jun 2026 19:53:57 GMT",
+      "time": "۱۹:۵۳ - ۸ تیر",
+      "analyzed_at": "2026-06-30T13:49:05.455Z"
+    },
+    {
+      "id": "bbc_3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Fitness brand founder and Olympian Les Mills dies aged 91",
+      "title_fa": "لس میلز، بنیانگذار برند تناسب اندام و ورزشکار المپیکی در ۹۱ سالگی درگذشت",
+      "lead": "لس میلز، بنیانگذار برند بین‌المللی تناسب اندام \"لس میلز\" و ورزشکار سابق المپیک، در سن ۹۱ سالگی درگذشت. برند وی به دلیل برنامه‌های تمرینی طراحی‌شده همراه با موسیقی مانند بادی پامپ و بادی کامبت در سطح جهانی شناخته شده است.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Mon, 29 Jun 2026 10:55:41 GMT",
+      "time": "۱۰:۵۵ - ۸ تیر",
+      "analyzed_at": "2026-06-30T13:49:05.455Z"
     }
   ]
 }
