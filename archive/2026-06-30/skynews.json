@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "skynews_13",
@@ -50,6 +50,54 @@
       "pubDate": "Tue, 30 Jun 2026 04:06:00 +0100",
       "time": "۰۳:۰۶ - ۹ تیر",
       "analyzed_at": "2026-06-30T11:00:20.102Z"
+    },
+    {
+      "id": "skynews_12",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Red alerts issued over heatwave in Italy and Balkans",
+      "title_fa": "هشدار قرمز برای موج گرما در ایتالیا و بالکان صادر شد",
+      "lead": "هشدارهای قرمز برای گرمای شدید در ایتالیا و بالکان صادر شده است. موج گرمای بی‌سابقه‌ای همچنان قاره اروپا را فرا گرفته است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/red-alerts-issued-over-heatwave-in-italy-and-balkans-13559163",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 11:19:00 +0100",
+      "time": "۱۰:۱۹ - ۹ تیر",
+      "analyzed_at": "2026-06-30T17:46:38.479Z"
+    },
+    {
+      "id": "skynews_13",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Monaco bombing 'injures Ukrainian magnate and his family'",
+      "title_fa": "بمب‌گذاری در موناکو؛ 'یک غول تجاری اوکراینی و خانواده‌اش زخمی شدند'",
+      "lead": "انفجار یک بمب ��ست‌ساز در خارج از یک ساختمان مسکونی در موناکو، سه نفر را زخمی کرد. گزارش‌ها حاکی از آن است که یک غول تجاری اوکراینی در میان زخمی‌شدگان است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/monaco-three-injured-including-ukrainian-tycoon-as-makeshift-bomb-explodes-outside-residential-building-13559079",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 30 Jun 2026 04:06:00 +0100",
+      "time": "۰۳:۰۶ - ۹ تیر",
+      "analyzed_at": "2026-06-30T17:46:38.479Z"
     }
   ]
 }
