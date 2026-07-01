@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T17:48:34.234Z",
-  "total": 789,
-  "new_this_cycle": 0,
+  "generated_at": "2026-07-01T18:04:47.974Z",
+  "total": 777,
+  "new_this_cycle": 21,
   "agencies": [
     {
       "id": "aljazeera",
@@ -105,8 +105,8 @@
       "agencyId": "yjc",
       "keep": true,
       "title": "هشدار جدی نیروی دریایی سپاه به کشتی‌های عبوری: تردد در «مسیر اقتدار» الزامی است",
-      "title_fa": "هشدار جدی نیروی دریایی سپاه به کشتی‌های عبوری: تردد در «مسیر اقتدار» الزامی است",
-      "lead": "نیروی دریایی سپاه پاسداران در پی زمین‌گیر شدن یک کشتی کانتینربر خارجی در تنگه هرمز، به شرکت‌های کشتیرانی جهان هشدار جدی داد. این نیرو اعلام کرد که رعایت «مسیر اقتدار» برای تأمین امنیت و سلامت تردد در خلیج فارس الزامی است.",
+      "title_fa": "هشدار جدی نیروی دریایی سپاه به کشتی‌های عبوری؛ تردد در «مسیر اقتدار» الزامی است",
+      "lead": "نیروی دریایی سپاه پاسداران در پی زمین‌گیر شدن یک کشتی کانتینربر خارجی در تنگه هرمز، به شرکت‌های کشتیرانی جهان هشدار جدی داد. این هشدار بر الزامی بودن رعایت «مسیر اقتدار» برای تأمین امنیت و سلامت تردد در خلیج فارس تأکید دارد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.yjc.ir/fa/news/9103562/هشدر-جدی-نیروی-دریایی-سپاه-به-کشتی‌های-عبوری-تردد-در-مسیر-اقتدار-الزامی-است",
@@ -117,10 +117,490 @@
       },
       "sentiment": {
         "positive": 0,
-        "neutral": 60,
-        "negative": 40
+        "neutral": 100,
+        "negative": 0
       },
-      "analyzed_at": "2026-07-01T17:18:35.292Z"
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
+      "title_fa": "پس از جنگ آمریکا-ایران، عمان طرحی برای دریافت عوارض از تنگه هرمز پیشنهاد می‌کند",
+      "lead": "مقامات و دیپلمات‌های مطلع می‌گویند که عمان طرحی را برای دریافت عوارض از کشتی‌های عبوری از تنگه هرمز پس از جنگ آمریکا و ایران پیشنهاد کرده است. بر اساس این پیشنهاد، ایران و عمان از کشتی‌هایی که از این تنگه عبور می‌کنند، هزینه دریافت خواهند کرد.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 19:33:24 +0000",
+      "time": "۲۳:۰۳ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "dw_2",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "US envoys arrive in Qatar with state of Iran talks unclear",
+      "title_fa": "ورود فرستادگان آمریکا به قطر در حالی که وضعیت مذاکرات ایران نامشخص است",
+      "lead": "فرستادگان ایالات متحده به قطر وارد شده‌اند تا درباره وضعیت مذاکرات با ایران بحث کنند، در حالی که ابهامات زیادی پیرامون چگونگی ادامه این گفت‌وگوها وجود دارد. اگرچه آمریکا و ایران بر خودداری از خصومت‌ها پس از تنش‌های اخیر توافق کرده‌اند، اما واشنگتن و تهران اظهارات متناقضی درباره روند مذاکرات ارائه داده‌اند.",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "sourceUrl": "https://www.dw.com/en/us-envoys-arrive-in-qatar-with-state-of-iran-talks-unclear/live-77763482?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 16:54:00 GMT",
+      "time": "۲۰:۲۴ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "foreignpolicy_3",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Iranian Elites Are Not in Agreement About What to Do Next",
+      "title_fa": "نخبگان ایرانی در مورد اقدامات بعدی به توافق نرسیده‌اند",
+      "lead": "گزارش‌ها حاکی از آن است که نخبگان سیاسی ایران در مورد گام‌های بعدی کشورشان اجماع نظر ندارند و اختلافاتی در این زمینه وجود دارد. تحلیلگران معتقدند اگر ایالات متحده خواهان پایداری آتش‌بس است، باید سیاست داخلی تهران را جدی بگیرد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/iranian-elites-debate-sanctions/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 11:37:41 +0000",
+      "time": "۱۵:۰۷ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "bbc_4",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+      "title_fa": "قطر: فرستادگان آمریکا در دوحه با میانجی‌ها ملاقات می‌کنند، نه با ایرانی‌ها",
+      "lead": "سخنگوی وزارت خارجه قطر اعلام کرد که فرستادگان ایالات متحده در دوحه با میانجی‌ها دیدار خواهند کرد، اما هیچ ملاقات سطح بالا یا مذاکره مستقیمی بین آمریکا و ایران برنامه‌ریزی نشده است. این خبر در حالی منتشر می‌شود که ابهامات درباره روند مذاکرات آتی بین دو کشور ادامه دارد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 23:41:11 GMT",
+      "time": "۰۳:۱۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "guardian_5",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "China is a clear winner from Trump’s war in Middle East, report concludes",
+      "title_fa": "گزارش: چین برنده اصلی جنگ ترامپ در خاورمیانه است",
+      "lead": "بر اساس یک گزارش جدید، چین به عنوان تنها برنده بحران تنگه هرمز و جنگ ترامپ در خاورمیانه ظاهر شده است. پکن با تکیه بر ذخایر انرژی و صنعت تجدیدپذیر خود توانست شوک انرژی را تحمل کند و اکنون از حرکت جهانی به سمت انرژی خورشیدی و خودروهای برقی سود می‌برد.",
+      "category": "geopolitics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/china-clear-winner-trump-war-middle-east-report-iran-strait-of-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 11:11:58 GMT",
+      "time": "۱۴:۴۱ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "bbc_11",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
+      "title_fa": "دیوان عالی آمریکا ممنوعیت ورزشکاران تراجنسیتی در ورزش‌های زنان مدارس و کالج‌ها را تأیید کرد",
+      "lead": "دیوان عالی ایالات متحده رأی به تأیید ممنوعیت حضور ورزشکاران تراجنسیتی در ورزش‌های زنان در مدارس و کالج‌ها داد که با واکنش‌های متفاوتی روبرو شده است. پرزیدنت ترامپ این حکم را «پیروزی بزرگ» خواند، در حالی که یک گروه حقوق دگرباشان جنسی آن را «دلخراش» توصیف کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 21:24:15 GMT",
+      "time": "۰۰:۵۴ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "bbc_12",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+      "title_fa": "سقوط سقف در یک مرکز آموزشی در پاکستان ۱۴ کودک را کشت",
+      "lead": "در پی فروریختن سقف یک مرکز آموزشی در حومه لاهور پاکستان، ۱۴ کودک جان باختند و این حادثه منجر به بازداشت دو نفر شد. این فاجعه در منطقه کاهنای لاهور رخ داده و موجی از نگرانی‌ها را در مورد ایمنی ساختمان‌ها برانگیخته است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 30 Jun 2026 19:36:48 GMT",
+      "time": "۲۳:۰۶ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "guardian_13",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Six feared dead after ‘bizarre’ sinking of charter boat off Canadian coast",
+      "title_fa": "شش نفر پس از غرق شدن «عجیب» قایق اجاره‌ای در سواحل کانادا، جان باختند",
+      "lead": "گمان می‌رود شش نفر پس از غرق شدن «عجیب» یک قایق چارتر در تنگه جورجیا در سواحل کانادا جان باخته باشند. این شناور که گفته می‌شود ۱۰ سرنشین داشته، قبل از غرق شدن هیچ پیام اضطراری ارسال نکرده است و تیم‌های جستجو اکنون عملیات بازیابی اجساد را آغاز کرده‌اند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/sinking-boat-vancouver-canada",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 30 Jun 2026 17:02:40 GMT",
+      "time": "۲۰:۳۲ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "dw_14",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Angela Merkel unveils official portrait in Berlin",
+      "title_fa": "آنگلا مرکل از پرتره رسمی خود در برلین رونمایی کرد",
+      "lead": "آنگلا مرکل، صدراعظم سابق آلمان، روز سه‌شنبه از پرتره رسمی خود برای گالری تصاویر سران دولت در برلین رونمایی کرد. این نقاشی به مجموعه پرتره‌های رسمی دولت آلمان اضافه می‌شود و ادای احترامی به دوران فعالیت اوست.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/angela-merkel-unveils-official-portrait-in-berlin/a-77726524?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 16:54:00 GMT",
+      "time": "۲۰:۲۴ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+      "title_fa": "سازمان اطلاعاتی آلمان: تقریباً ۶۰ هزار افراط‌گرای راست افراطی در این کشور فعالیت می‌کنند",
+      "lead": "سازمان اطلاعات داخلی آلمان اعلام کرده است که تقریباً ۶۰ هزار افراط‌گرای راست افراطی در این کشور شناسایی شده‌اند. بر اساس گزارش این سازمان، بیش از یک چهارم این افراد خشونت‌طلب محسوب می‌شوند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 16:12:25 GMT",
+      "time": "۱۹:۴۲ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "dw_1",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Swift Boost Mission: an opportunity for science and defense",
+      "title_fa": "ماموریت تقویت تلسکوپ سوئیفت: فرصتی برای علم و دفاع",
+      "lead": "ناسا قصد دارد با استفاده از یک فضاپیمای رباتیک، تلسکوپ فضایی ۲۲ ساله نیل گهرلز سوئیفت را از سقوط به زمین نجات دهد. هدف این ماموریت، قرار دادن مجدد تلسکوپ در مداری بالاتر برای ادامه تحقیقات علمی است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/swift-boost-mission-an-opportunity-for-science-and-defense/a-77768927?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 15:50:00 GMT",
+      "time": "۱۹:۲۰ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
+      "title_fa": "انفجار بمب پستی در موناکو، ۳ نفر را زخمی کرد",
+      "lead": "مقامات موناکو اعلام کردند که انفجار یک بمب پستی سه نفر از جمله یک کودک را به شدت مجروح کرده است. به گفته این مقامات، عامل حمله متواری است و تحقیقات برای دستگیری او ادامه دارد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 14:58:42 +0000",
+      "time": "۱۸:۲۸ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "foreignpolicy_3",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Israel Has a Hezbollah Drone Problem",
+      "title_fa": "اسرائیل با مشکل پهپادهای حزب‌الله مواجه است",
+      "lead": "یک مقام نظامی اسرائیلی اذعان کرده است که اسرائیل در مواجهه با پهپادهای حزب‌الله با مشکلی جدی روبرو شده و \"هیچ راه حلی\" برای آن ندارند. این موضوع نگرانی‌ها را درباره قابلیت‌های نظامی حزب‌الله افزایش داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/israel-hezbollah-drones-lebanon-fpv-iran-idf/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 30 Jun 2026 14:26:52 +0000",
+      "time": "۱۷:۵۶ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "rt_4",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "China to bring AI into every classroom",
+      "title_fa": "چین هوش مصنوعی را به تمامی کلاس‌های درس می‌آورد",
+      "lead": "بر اساس یک طرح اقدام ملی پنج ساله جدید، پکن قصد دارد سواد هوش مصنوعی را در تمام سطوح تحصیلی مدارس آموزش دهد. این طرح با هدف بهبود مهارت‌های دانش‌آموزان در زمینه هوش مصنوعی و آماده‌سازی برای آینده است.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.rt.com/news/642392-china-ai-every-classroom/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 12:35:15 +0000",
+      "time": "۱۶:۰۵ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "foreignpolicy_5",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Britain’s New ‘King’ Will Decide Its Fate",
+      "title_fa": "«پادشاه» جدید بریتانیا سرنوشت این کشور را تعیین خواهد کرد",
+      "lead": "اندی برنهام در آستانه به دست گرفتن قدرت در بریتانیا قرار دارد و قرار است با محدودیت‌های خود مواجه شود. این مقاله به تحلیل نقش و تاثیر او بر آینده سیاسی بریتانیا می‌پردازد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/andy-burnham-britain-prime-minister-labour/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Tue, 30 Jun 2026 12:21:31 +0000",
+      "time": "۱۵:۵۱ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "foreignpolicy_6",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "For Israel, the Oct. 7 War Is Effectively Over",
+      "title_fa": "برای اسرائیل، جنگ ۷ اکتبر عملاً به پایان رسیده است",
+      "lead": "این مقاله تحلیل می‌کند که جنگ ۷ اکتبر برای اسرائیل عملاً به پایان رسیده و نتانیاهو در ۹۸۴ روز جنگ به «پیروزی کامل» در هیچ جبهه‌ای دست نیافته است. این ارزیابی پیامدهای مهمی برای سیاست‌های آینده منطقه دارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/israel-war-netanyahu-palestinians-gaza-hamas-lebanon-hezbollah-iran-trump/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 30 Jun 2026 12:03:23 +0000",
+      "time": "۱۵:۳۳ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "foreignpolicy_7",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Trump Isn’t Actually Abandoning the U.N. System",
+      "title_fa": "ترامپ در واقع سیستم سازمان ملل را رها نمی‌کند",
+      "lead": "این تحلیل نشان می‌دهد که حتی دولت ترامپ نیز با محدودیت‌هایی در سیاست خروج از سیستم سازمان ملل مواجه است. علی‌رغم لفاظی‌ها، ایالات متحده در عمل به طور کامل از این سازمان فاصله نمی‌گیرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/trump-united-nations-multilateral-system-gavi-humanitarian-funding/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Tue, 30 Jun 2026 11:30:19 +0000",
+      "time": "۱۵:۰۰ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "foreignpolicy_8",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Is Washington Endorsing Family Rule in Libya?",
+      "title_fa": "آیا واشنگتن از حکومت خانوادگی در لیبی حمایت می‌کند؟",
+      "lead": "این مقاله به بررسی این سوال می‌پردازد که آیا واشنگتن در حال حمایت از حکومت خانوادگی در لیبی است و باید به سابقه خود در حمایت از افراد در کشورهای درگیر مناقشه توجه کند. این موضوع می‌تواند پیامدهای جدی برای دموکراسی و حقوق بشر در منطقه داشته باشد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/libya-family-rule-saddam-haftar-rubio/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 30 Jun 2026 11:21:39 +0000",
+      "time": "۱۴:۵۱ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "skynews_9",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Red alerts issued over heatwave in Italy and Balkans",
+      "title_fa": "هشدارهای قرمز برای موج گرمای شدید در ایتالیا و بالکان صادر شد",
+      "lead": "در پی ادامه موج گرمای بی‌سابقه در قاره اروپا، هشدارهای قرمز برای گرمای شدید در ایتالیا و منطقه بالکان صادر شده است. این هشدارها بر لزوم رعایت نکات ایمنی و حفظ سلامت عمومی تاکید می‌کنند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/red-alerts-issued-over-heatwave-in-italy-and-balkans-13559163",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 30 Jun 2026 11:19:00 +0100",
+      "time": "۱۳:۴۹ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "skynews_10",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Monaco bombing 'injures Ukrainian magnate and his family'",
+      "title_fa": "گزارش‌ها از زخمی شدن یک سرمایه‌دار اوکراینی و خانواده‌اش در بمب‌گذاری موناکو",
+      "lead": "بر اساس گزارش‌ها، یک بمب دست‌ساز که در خارج از یک ساختمان مسکونی در موناکو منفجر شد، سه نفر را مجروح کرده است. این گزارش‌ها حاکی از آن است که یک سرمایه‌دار اوکراینی در میان زخمی‌شدگان است که می‌تواند ابعاد بین‌المللی به این حادثه بدهد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/monaco-three-injured-including-ukrainian-tycoon-as-makeshift-bomb-explodes-outside-residential-building-13559079",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 04:06:00 +0100",
+      "time": "۰۶:۳۶ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
     },
     {
       "id": "yjc_0",
@@ -390,7 +870,7 @@
       "keep": true,
       "title": "The global scramble for ports",
       "title_fa": "رقابت جهانی برای بنادر",
-      "lead": "این سرمایه‌گذاری دیوانه‌وار ناشی از نگرانی درباره ��نترل فز��ینده چین بر زنجیر����‌های تامین است. مقاله به بررسی اهمیت استراتژیک بنادر و رقابت قدرت‌های جهانی برای آنها می‌پردازد.",
+      "lead": "این سرمایه‌گذاری دیوانه‌وار ناشی از نگرانی درباره ��نترل فز��ینده چین بر زنجیر������‌های تامین است. مقاله به بررسی اهمیت استراتژیک بنادر و رقابت قدرت‌های جهانی برای آنها می‌پردازد.",
       "category": "politics",
       "region": "asia",
       "sourceUrl": "https://www.economist.com/international/2026/04/30/the-global-scramble-for-ports",
@@ -726,7 +1206,7 @@
       "keep": true,
       "title": "نفس تازه برای زنده کردن قلب تولید در فارس",
       "title_fa": "نفس تازه برای زنده کردن قلب تولید در فارس",
-      "lead": "تسهیلاتی به منظور زنده کردن قلب تولید ��رای واحدهای تولیدی در استان فارس در نظر گرفته شده است. این اقدامات با هدف احیای بخش تولید در این منطقه صورت می‌گیرد.",
+      "lead": "تسهیلاتی به منظو�� زنده کردن قلب تولید ��رای واحدهای تولیدی در استان فارس در نظر گرفته شده است. این اقدامات با هدف احیای بخش تولید در این منطقه صورت می‌گیرد.",
       "category": "economy",
       "region": "Iran",
       "sourceUrl": "https://www.yjc.ir/fa/news/9103564/نفس-تازه-برای-زنده-کردن-قلب-تولید-در-فارس",
@@ -1593,7 +2073,7 @@
       "agencyId": "irna",
       "keep": true,
       "title": "۷.۲ همت تسهیلات برای جبران خسارت صنایع تبدیلی فارس",
-      "title_fa": "تخصیص ۷.۲ همت تسهیلات برای جبران خسارت صنایع تبدیلی فارس",
+      "title_fa": "تخصیص ۷.۲ همت تسهیلات برای جبران خ��ارت صنایع تبدیلی فارس",
       "lead": "رئیس سازمان جهاد کشاورزی استان فارس از تخصیص ۷.۲ همت اعتبار برای حمایت از ۵۵۰ واحد صنایع تبدیلی آسیب‌دیده استان خبر داد. این تسهیلات ویژه با هدف جبران خسارت‌های ناشی از تغییر سیاست‌های ارزی در نظر گرفته شده است.",
       "category": "economy",
       "region": "iran:fars",
@@ -3858,7 +4338,7 @@
       "keep": true,
       "title": "نخستین جشنواره ملی تولیدات هنری بعثت مردم برگزار می‌شود",
       "title_fa": "نخستین جشنواره ملی تولیدات هنری بعثت مردم برگزار می‌شود",
-      "lead": "آیین رونمایی از پوستر نخستین جشنواره ملی تول��دات هنری بعثت مردم برگزار شد. این مراسم با حضور نماینده ولی فقیه در استان و امام جمعه سمنان، رئیس جهاددانشگاهی و معاون آموزش و پرورش استان برگزار گردید.",
+      "lead": "آیین رونمایی از پوستر نخستین جشنواره ملی تول��دات هنری بع��ت مردم برگزار شد. این مراسم با حضور نماینده ولی فقیه در استان و امام جمعه سمنان، رئیس جهاددانشگاهی و معاون آموزش و پرورش استان برگزار گردید.",
       "category": "culture",
       "region": "Iran",
       "sourceUrl": "https://www.isna.ir/news/1405041006094/%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%AC%D8%B4%D9%88%D8%A7%D8%B1%D9%87-%D9%85%D9%84%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF%D8%A7%D8%AA-%D9%87%D9%86%D8%B1%DB%8C-%D8%A8%D8%B9%D8%AB%D8%AA-%D9%85%D8%B1%D8%AF%D9%85",
@@ -4448,7 +4928,7 @@
       "keep": true,
       "title": "استاندار سمنان: صنعتگران با وجود بدخواهی دشمن برای عزت کشور تلاش می‌کنند",
       "title_fa": "استاندار سمنان: صنعتگران با وجود بدخواهی دشمن برای عزت کشور تلاش می‌کنند",
-      "lead": "استاندار سمنان در پیامی به مناسبت روز ملی صنعت و معدن، از تلاش صنعتگران و معدنکاران قدردانی کر��. وی بر نقش آنان در توسعه صنعتی، رشد اقتصادی و تقویت اقتصاد ملی تاکید ورزید.",
+      "lead": "استاندار سمنان در پیامی به مناسبت روز ملی صنعت و معدن، از تلاش صنعتگران و معدنکاران قدردانی کر��. وی بر نقش آنان در توسعه صن��تی، رشد اقتصادی و تقویت اقتصاد ملی تاکید ورزید.",
       "category": "Politics",
       "region": "Iran",
       "sourceUrl": "https://www.irna.ir/news/86198133/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%B5%D9%86%D8%B9%D8%AA%DA%AF%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D8%A8%D8%AF%D8%AE%D9%88%D8%A7%D9%87%DB%8C-%D8%AF%D8%B4%D9%85%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D8%B2%D8%AA-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AA%D9%84%D8%A7%D8%B4",
@@ -4616,7 +5096,7 @@
       "keep": true,
       "title": "ایمپلنت‌های منیزیم و قلع با قابلیت زیست‌تخریب‌پذیری دستاورد نوین در ترمیم استخوان",
       "title_fa": "ایمپلنت‌های منیزیم و قلع با قابلیت زیست‌تخریب‌پذیری؛ دستاورد نوین در ترمیم استخوان",
-      "lead": "پژوهشگران دانشگاه علوم پزشکی شهید بهشتی موفق به توسعه نسل جدیدی از ایمپلنت‌های زیست‌تخریب‌پذیر حاوی آلیاژهای منیزیم قلع شده‌اند. این دستاورد نویدبخش تحولی چشمگیر در حوزه ترمیم استخوان‌های آسیب‌دیده است.",
+      "lead": "پژوهشگران دانشگاه علوم پزشکی شهید بهشتی موفق به توسعه نسل جدیدی از ایمپلنت‌های زیست‌تخریب‌پذیر حاوی آلیاژهای منیزیم قلع شده‌اند. این دستاورد نویدب��ش تحولی چشمگیر در حوزه ترمیم استخوان‌های آسیب‌دیده است.",
       "category": "society",
       "region": "global",
       "sourceUrl": "https://www.isna.ir/news/1405041006082/%D8%A7%DB%8C%D9%85%D9%BE%D9%84%D9%86%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D9%86%DB%8C%D8%B2%DB%8C%D9%85-%D9%88-%D9%82%D9%84%D8%B9-%D8%A8%D8%A7-%D9%82%D8%A7%D8%A8%D9%84%DB%8C%D8%AA-%D8%B2%DB%8C%D8%B3%D8%AA-%D8%AA%D8%AE%D8%B1%DB%8C%D8%A8-%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C-%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%D8%B1%D8%AF-%D9%86%D9%88%D9%87%DB%8C%D9%86",
@@ -5782,7 +6262,7 @@
       "keep": true,
       "title": "‘Life-saving’ drug for people with opioid dependency to be pulled from Australia by end of year",
       "title_fa": "داروهای «نجات‌بخش» برای افراد وابسته به مواد افیونی تا پایان سال از استرالیا خارج می‌شوند",
-      "lead": "این داروهای نجات‌بخش که به شدت برای استرالیایی‌ها یارانه‌ای بودند، قرار است تا پایان سال از دسترس خارج شوند. نگرانی‌هایی وجود دارد که شرکت‌های آمریکایی ممکن است داروهای بیشتری را به دلیل واکنش بازارهای جهانی به تغییرات سیاست‌های دولت ترامپ، از بازار خار�� کنند.",
+      "lead": "این داروهای نجات‌بخش که به شدت برای استرالیایی‌ها یارانه‌ای بودند، قرار است تا پایان سال از دسترس خارج شوند. نگرانی‌هایی وجود دارد که شرکت‌های آمریکایی ممکن است داروهای بیشتری را به دلیل واکنش بازارهای جهانی به تغییرات سیاست‌های دولت ترامپ، از بازار خا���� کنند.",
       "category": "economy",
       "region": "oceania",
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/01/life-saving-drug-for-people-with-opioid-dependency-to-be-pulled-from-australia-by-end-of-year",
@@ -8147,7 +8627,7 @@
       "agencyId": "khabaronline",
       "keep": true,
       "title": "عباس‌خوانی‌هایی که از دل «سیاوش‌خوانی‌ها» بیرون آمده‌اند/ سوگینه‌های ایرانی و ریشه‌های کهن‌شان",
-      "title_fa": "عباس‌خوانی‌هایی که از دل «سیاوش‌خوانی‌ها» بیرون آمده‌اند/ سوگینه‌های ایرانی و ریشه‌های کهن��شان",
+      "title_fa": "عباس‌خوانی‌هایی که از دل «سیاوش‌خوانی‌ها» بیرون آمده‌اند/ سوگینه���های ایرانی و ریشه‌های کهن��شان",
       "lead": "سوگینه‌��ای امروزی که در میان اقوام ایران اجرا می‌شوند، دارای ریشه‌هایی بسیار کهن هستند. «عباس‌خوانی» کنونی در گذشته در قالب آیین‌هایی مانند «سیاوش‌خوانی» انجام می‌شده است.",
       "category": "culture",
       "region": "iran",
@@ -8460,7 +8940,7 @@
       "keep": true,
       "title": "US envoys met with mediators in Qatar, talks with Iran up in the air",
       "title_fa": "فرستادگان آمریکا با میانجی‌ها در قطر دیدار کردند؛ مذاکرات با ایران در هاله‌ای از ابهام",
-      "lead": "فرستادگان آمریکا در روز سه‌شنبه با میانجی‌های قطری در دوحه برای بحث درباره مذاکرات با ایران دیدار کردند. این دیدارها در حالی صورت گرفت که هم تهران و هم دوحه پیشنهاد ترامپ مبنی بر مذاکرات مستقی�� آمریکا و ایران را رد کردند.",
+      "lead": "فرستادگان آمریکا در روز سه‌شنبه با میانجی‌های قطری در دوحه برای بحث درباره مذاکرات با ایران دیدار کردند. این دیدارها در حالی صورت گرفت که هم تهران و هم دوحه پیشنهاد ترامپ مبنی بر مذاکرات مستقی���� آمریکا و ایران را رد کردند.",
       "category": "diplomacy",
       "region": "middleeast",
       "sourceUrl": "https://www.france24.com/en/middle-east/20260630-us-envoys-met-with-mediators-in-qatar-talks-with-iran-up-in-the-air",
@@ -8719,7 +9199,7 @@
       "agencyId": "irna",
       "keep": true,
       "title": "رسانه صهیونیستی: ۸۰ نفر به ظن جمع‌آوری اطلاعات از ارتش اسرائیل بازداشت شدند",
-      "title_fa": "رسانه صهیونیستی: ۸۰ نفر به ظن جمع‌آوری اطلاعات از ارتش اسرائیل بازداشت شدند",
+      "title_fa": "رسانه صهیونیستی: ۸۰ نفر به ظن جمع‌آوری اط��اعات از ارتش اسرائیل بازداشت شدند",
       "lead": "رادیو ارتش ر��یم صهیونیستی از بازداشت بیش از ۸۰ نفر به ظن جمع‌آوری داده‌های اطلاعاتی از پایگاه‌های نظامی این رژیم خبر داد. این بازداشت‌ها نگرانی‌های امنیتی در اسرائیل را افزایش داده است.",
       "category": "politics",
       "region": "global",
@@ -10382,7 +10862,7 @@
       "id": "isna_10",
       "agencyId": "isna",
       "keep": true,
-      "title": "آمادگی اندیمشک برای اقدامات و ویژه برنامه‌های ایام تشییع قائد امت",
+      "title": "آمادگی اندیمشک برای اقدامات و ویژه برنامه��های ایام تشییع قائد امت",
       "title_fa": "آمادگی اندیمشک برای ویژه برنامه‌های ایام تشییع قائد امت",
       "lead": "فرمانده ناحیه مقاومت بسیج اندیمشک از آمادگی کامل این شهرستان برای برگزاری برنامه‌های ویژه ایام تشییع «قائد امت» خبر داد. او افزود که هماهنگی‌های لازم انجام شده و شاهد نقش‌آفرینی مؤثر ظرفیت‌های مردمی و بسیج خواهیم بود.",
       "category": "politics",
@@ -11746,7 +12226,7 @@
       "keep": true,
       "title": "Xi vows to strengthen China’s military, fight corruption in key speech",
       "title_fa": "شی جین پینگ سوگند یاد کرد که ارتش چین را تقویت کرده و با فساد مبارزه کند",
-      "lead": "رئیس‌جمهور شی جین پینگ در سخنرانی به مناسبت صد و پنجمین سالگرد حزب کمونیست چین، بر اهمیت «ارتش قوی» تاکید کرد. او همچنین سوگند یاد کرد که «رهبری مطلق حزب» بر نیروهای مسلح را حفظ کرده و با فساد مبارزه کند.",
+      "lead": "رئیس‌جمهور شی جین پینگ در ��خنرانی به مناسبت صد و پنجمین سالگرد حزب کمونیست چین، بر اهمیت «ارتش قوی» تاکید کرد. او همچنین سوگند یاد کرد که «رهبری مطلق حزب» بر نیروهای مسلح را حفظ کرده و با فساد مبارزه کند.",
       "category": "politics",
       "region": "asia",
       "sourceUrl": "https://www.france24.com/en/asia-pacific/20260701-xi-vows-to-strengthen-china-s-military-fight-corruption-in-key-speech",
@@ -12932,7 +13412,7 @@
       "keep": true,
       "title": "The top photos of the day by AP photojournalists",
       "title_fa": "برترین عکس‌های روز به انتخاب عکاسان آسوشیتدپرس",
-      "lead": "این گالری شامل برترین عکس‌های امروز است که توسط و��راستاران عکس آس�����������شیتدپرس انتخاب شده‌اند. این تصاویر از اخبار اص��ی تا لحظات مهمی که ممکن است از دست داده باشید را پوشش می‌دهد.",
+      "lead": "این گالری شامل برترین عکس‌های امروز است که توسط و��راستاران عکس ��س�����������شیتدپرس انتخاب شده‌اند. این تصاویر از اخبار اص��ی تا لحظات مهمی که ممکن است از دست داده باشید را پوشش می‌دهد.",
       "category": "culture",
       "region": "global",
       "sourceUrl": "https://www.independent.co.uk/news/associated-press-b3006274.html",
@@ -16314,7 +16794,7 @@
       "keep": true,
       "title": "The EU can’t fix Europe – but it can fund Kiev forever",
       "title_fa": "اتحادیه اروپا نمی‌تواند مشکلات اروپا را حل کند، اما می‌تواند کیف را برای همیشه تامین مالی کند",
-      "lead": "در حالی که راه‌آهن‌ها دچار مشکل هستند، بیمارستان‌ها از کار افتاده��اند و رسوایی‌ها گسترش می‌یابد، بروکسل همچنان میلیاردها یورو برای جنگ نیابتی مورد علاقه خود پیدا می‌کند. این موضوع نشان‌دهنده اولویت‌های مالی اتحادیه اروپا در مواجهه با چالش‌های داخلی و خارجی است.",
+      "lead": "در حالی که راه‌آهن‌ها دچار مشکل هستند، بیمارستان‌ها از کار افتاده��اند و رسوایی‌ها گسترش می‌یابد، بروکسل همچنان میلیاردها یورو برای جنگ نیابتی مورد علاقه خود پیدا می‌کند. این موضوع نشان‌دهنده اولویت‌های مالی اتحادیه اروپا در مواجهه با چالش‌های داخلی و خارج�� است.",
       "category": "military",
       "region": "europe",
       "sourceUrl": "https://www.rt.com/news/642393-eu-ukraine-recovery-conference/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
@@ -16626,7 +17106,7 @@
       "keep": true,
       "title": "At least 14 children killed after roof of Pakistan tuition centre collapses",
       "title_fa": "سقوط سقف یک مرکز آموزشی در پاکستان حداقل ۱۴ کودک را کشت",
-      "lead": "در پی فروریختن سقف یک مرکز آموزشی در لاهور پاکستان، دست‌کم ۱۴ کودک جان باختند. در این حادثه یک معلم و هشت کودک دیگر نیز مجروح ش��ند.",
+      "lead": "در پی فروریختن سقف یک مرکز آموزشی د�� لاهور پاکستان، دست‌کم ۱۴ کودک جان باختند. در این حادثه یک معلم و هشت کودک دیگر نیز مجروح ش��ند.",
       "category": "disaster",
       "region": "asia",
       "sourceUrl": "https://www.aljazeera.com/news/2026/6/30/at-least-14-children-killed-after-roof-of-pakistan-tuition-centre-collapses?traffic_source=rss",
@@ -18049,764 +18529,6 @@
       "pubDate": "Tue, 30 Jun 2026 16:40:56 GMT",
       "time": "۱۶:۴۰ - ۹ تیر",
       "analyzed_at": "2026-06-30T18:05:12.975Z"
-    },
-    {
-      "id": "irna_fa_0",
-      "agencyId": "irna_fa",
-      "keep": true,
-      "title": "سفر هیئت ایرانی به ریاست غریب‌آبادی به دوحه برای پیگیری تفاهم پایان جنگ",
-      "title_fa": "سفر هیئت ایرانی به دوحه برای پیگیری تفاهم پایان جنگ",
-      "lead": "سخنگوی ��زارت امور خارجه خبر داد که هیئت کارشناسی ایران به ریاست معاون حقوقی و بین‌الملل وزارت خارجه به دوحه سفر کرده است. این سفر با هدف مذاکره با میانج�� قطری برای پیگیری اجرای تفاهم‌نامه پایان جنگ انجام می‌شود.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.irna.ir/news/86197358/%D8%B3%D9%81%D8%B1-%D9%87%DB%8C%D8%A6%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%BA%D8%B1%DB%8C%D8%A8-%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C-%D8%A8%D9%87-%D8%AF%D9%88%D8%AD%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%8 siguiendo-%D8%AA%D9%81%D8%A7%D9%87%D9%85",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 70,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "mashregh_1",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "شهید امام خامنه���ای؛ رهبر تمدنی در جهان معاصر",
-      "title_fa": "شهید امام خامنه‌ای؛ رهبر تمدنی در جهان معاصر",
-      "lead": "سفیر ایران در واتیکان، «تمدن نوین اسل��می» را هسته مرکزی اندیشه رهبر شهید انقلاب دانست. ��ین تمدن با پیوند علم و معنویت، قدرت و ��دالت و پیشرفت و اخلاق، الگویی تازه برا�� ��ینده جهان اسلام و بشریت ترسیم می��کند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1822316/%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%D9%85%D8%A7%D9%85-%D8%AE%D8%A7%D9%85%D9%86%D9%87-%D8%A7%DB%8C-%D8%B1%D9%87%D8%A8%D8%B1-%D8%AA%D9%85%D8%AF%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AC%D9%87%D8%A7%D9%86-%D9%85%D8%B9%D8%A7%D8%B5%D8%B1",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:00:00 GMT",
-      "time": "۱۷:۰۰ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "mashregh_2",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "سفر هیئت ایرانی به ریاست غریب‌آبادی به دوحه برای پیگیری تفاهم پایان جنگ",
-      "title_fa": "سفر هیئت ایرانی به دوحه برای پیگیری تفاهم پایان جنگ",
-      "lead": "سخنگوی وزارت خارجه خبر داد که هیئت مذاکره‌کننده کارشناسی ایران به ریاست معاون حقوقی و بین‌الملل وزارت خارجه به دوحه سفر کرده است. این سفر با هدف مذاکره با میانجی قطری برای پیگیری اجرای تفاهم‌نامه پایان ج��گ انجام می‌شود.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1822317/%D8%B3%D9%81%D8%B1-%D9%87%DB%8C%D8%A6%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D8%BA%D8%B1%DB%8C%D8%A8-%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C-%D8%A8%D9%87-%D8%AF%D9%88%D8%AD%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AA%D9%81%D8%A7%D9%87%D9%85",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 70,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 16:54:27 GMT",
-      "time": "۱۶:۵۴ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "mashregh_3",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "حضور رئیس‌جمهور گرجستان در مراسم تشییع رهبر شهید",
-      "title_fa": "حضور رئیس‌جمهور گرجستان در مراسم تشییع رهبر شهید",
-      "lead": "دفتر ریاست جمهوری گرجستان اعلام کرد که میخائیل کاولاشویلی، رئیس جمهور این کشور در مراسم تشییع پیکر رهبر شهید ایران آیت الله علی خامنه��ای شرکت خواهد کرد. این حضور نشان‌دهنده ابراز همدردی و روابط دیپلماتیک بین دو کش����ر است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1822314/%D8%AD%D8%B6%D9%88%D8%B1-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%DA%AF%D8%B1%D8%AC%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%AA%D8%B4%DB%8C%DB%8C%D8%B9-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 60,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 16:45:00 GMT",
-      "time": "۱۶:۴۵ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "independent_7",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "What time is Serena Williams playing at Wimbledon today?",
-      "title_fa": "سرینا ویلیامز امروز چه ساعتی در ویمبلدون بازی می‌کند؟",
-      "lead": "سرینا ویلیامز، ستاره تنیس ۴۴ ساله، قرار است امشب در اولین مسابقه خود در ویمبلدون به مصاف مایا جوینت از استرالیا برود. این خبر مورد علاقه هواداران تنیس است که می‌خواهند از زمان دقیق بازی او مطلع شوند.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/sport/tennis/serena-williams-wimbledon-when-is-first-match-b3005470.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:25:53 GMT",
-      "time": "۱۷:۲۵ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "independent_8",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Taylor Swift and Travis Kelce’s wedding destination may have just been confirmed",
-      "title_fa": "مک��ن احت��الی عروسی تیلور سوی��ت و تراویس کلس اعلام شد",
-      "lead": "طبق گزارش‌ها، تیلور سویفت، خوانند�� مشهور، و تراویس کلس، ستاره NFL، قرار است در آخر هفته ۴ جولا�� ازدواج کنند. مکان عروسی آنها احتمالاً فاش شده است که توجه هواداران را به خود ج��ب کرده است.",
-      "category": "entertainment",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/arts-entertainment/music/news/taylor-swift-travis-kelce-wedding-destination-madison-square-garden-b3006105.html",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 40,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:24:45 GMT",
-      "time": "۱۷:۲۴ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "independent_9",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Reece James and Jarell Quansah miss England training on eve of DR Congo World Cup clash",
-      "title_fa": "ریس جیمز و جارل کو��نسا تمرین تیم ملی انگلیس را پیش از دیدار جام جهانی با کنگو از دست دادند",
-      "lead": "ریس جیم�� و جارل کوانسا، دو بازیکن تیم م��ی انگلیس، تمر��نات تیم را یک روز قبل از بازی حس��س جام جهانی مقابل کنگو غایب بودند. این غیبت گزینه‌های توماس توخل را در پست دفاع راست برای بازی روز چهارشنبه محدود می‌کند.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/sport/football/world-cup/reece-james-jarell-quansah-england-training-dr-congo-world-cup-b3006108.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 60,
-        "negative": 40
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:23:30 GMT",
-      "time": "۱۷:۲۳ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "independent_10",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Wimbledon 2026 men’s and women’s seeds list and tracker",
-      "title_fa": "فهرست و رده‌بندی سیدبندی بازیکنان مرد و زن ویمبلدون ۲۰۲۶",
-      "lead": "با آغاز مسابقات ویمبلدون، یانیک سینر و آرینا سابالنکا هدایت بخش مردان و زنان را در قرعه‌کشی به عهده دارند. این لیست شامل رتبه‌بندی سیدبندی بازیکنان برای مسابقات جاری است و برای دنبال‌کنندگان تنیس اهمیت دارد.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/sport/tennis/wimbledon-2026-rankings-draw-tennis-seed-tracking-b3003663.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:22:53 GMT",
-      "time": "۱۷:۲۲ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "rt_11",
-      "agencyId": "rt",
-      "keep": true,
-      "title": "Ex-UK prime ministerial aide admits illegal election betting",
-      "title_fa": "دستیار سابق نخست‌وزیر بریتانیا به شرط‌بندی غیرقانونی در انتخابا�� اعتراف کرد",
-      "lead": "کریگ ویلیامز، نماینده سابق حزب محافظه‌کار بریتانیا، اعتراف کرده است که با استفاده از اطلاعات محرمانه دولتی، روی تاریخ انتخابات ۲۰۲۴ شرط‌بندی غیرقانونی کرده است. این اتفاق منجر به یک رسوایی سیاسی شده و وی به تقلب اقرار کرده است.",
-      "category": "politics",
-      "region": "europe",
-      "sourceUrl": "https://www.rt.com/news/642394-ex-uk-prime-ministerial-aide/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 30,
-        "negative": 70
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:20:55 +0000",
-      "time": "۱۷:۲۰ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "independent_12",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "What time does Serena Williams play at Wimbledon today? What to know as legend makes comeback",
-      "title_fa": "سرینا ویلیامز امروز چه ساعتی در ویمبلدون بازی دارد؟ دانستنی‌ها در مورد بازگشت این اسطوره",
-      "lead": "سرینا ویلیامز، اسطوره تنیس، امروز در ویمبلدون بازی دارد و هواداران منتظر بازگشت او به میدان هستند. این خبر شامل اطلاعاتی است که طرفداران برای دنبال کردن بازی این ستاره نیاز دار��د.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/bulletin/sport/what-time-does-serena-williams-play-today-wimbledon-b3006102.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:20:25 GMT",
-      "time": "۱۷:۲۰ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "irna_fa_13",
-      "agencyId": "irna_fa",
-      "keep": true,
-      "title": "دبیرکل سازمان ملل: تروریسم تهدیدی فراملی است",
-      "title_fa": "دبیرکل سازمان ملل: تروریسم تهدیدی فراملی است",
-      "lead": "دبیرکل سازمان ملل متحد اظهار داشت که تروریسم یک تهدید فراملی است و هیچ کشوری به تنهایی نمی‌تواند با آن مقابله کند. این اظهارات بر لزوم همکاری‌های بین‌المللی برای مبارزه با این پدیده تاکید دارد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.irna.ir/news/86197386/%D8%AF%D8%A8%DB%8C%D8%B1%DA%A9%D9%84-%D8%B3%D8%A7%D9%86-%D9%85%D9%84%D9%84-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D9%85-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF%DB%8C-%D9%81%D8%B1%D8%A7%D9%85%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 50,
-        "negative": 50
-      },
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "independent_14",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Blake Lively reveals the grand total her legal battle with Justin Baldoni cost her",
-      "title_fa": "بلیک لایولی مجموع هزینه‌های نبرد حقوقی خود با جاستین بالدونی را فاش کرد",
-      "lead": "بلیک لایولی، بازیگر مشهور، هزینه‌های کامل نبرد حقوقی خود با جاستین بالدونی، همکارش در فیلم «ایت اندز ویت آس»، را فاش کرد. این دو همبازی ماه گذشته در یک دعوای حقوقی پربحث بر سر اتهامات آزار و اذیت جنسی در صحنه فیلم به تو��فقی غیرمنتظره دست یافتند.",
-      "category": "entertainment",
-      "region": "americas",
-      "sourceUrl": "https://www.independent.co.uk/arts-entertainment/films/news/blake-lively-justin-baldoni-legal-cost-b3005993.html",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 60,
-        "negative": 40
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:19:02 GMT",
-      "time": "۱۷:۱۹ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "isna_0",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "رشد چشمگیر اجرای استاندارد در بخش مصالح ساختمانی استان یزد",
-      "title_fa": "رشد چشمگیر اجرای استاندارد در بخش مصالح ساختمانی استان یزد",
-      "lead": "کارشناس مسئول صنایع ساختمان اداره کل استاندارد استان یزد از رشد قابل توجه اجرای استاندارد در بخش ساختمان استان خبر داد. وی افزود تاکنون هیچ واحد مشمول استاندارد اجباری در این حوزه بلاتکلیف باقی نمانده است.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405040905500/%D8%B1%D8%B4%D8%AF-%DA%86%D8%B4%D9%85%DA%AF%DB%8C%D8%B1-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF-%D8%AF%D8%B1-%D8%A8%D8%AE%D8%B4-%D9%85%D8%B5%D8%A7%D9%84%D8%AD-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%DB%8C%D8%B2%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:18:39 GMT",
-      "time": "۱۷:۱۸ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "independent_1",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "15 defeats, three wins: Follow the progress of the 21 British players at Wimbledon",
-      "title_fa": "۱۵ شکست، سه پیروزی: دنبال کردن پیشرفت ۲۱ بازیکن بریتانیایی در ویمبلدون",
-      "lead": "بازیکنان بریتانیایی در روز اول وحشتناک ویمبلدون متحم�� شکست‌های سنگینی شدند. هر ۱۰ بازیکن خانگی که مسابقات خود را در روز دوشنبه به پایان رساندند، شکست خوردند و جک دراپر و اما رادو��انو نیز به دلیل مصدومیت کنار کشیدند.",
-      "category": "sport",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/sport/tennis/wimbledon-british-players-wildcard-qualifier-katie-swan-b3005786.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:18:35 GMT",
-      "time": "۱۷:۱�� - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "independent_2",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Ben Shelton blows Wimbledon opportunity in ‘one of the toughest losses of my career’",
-      "title_fa": "بن شلتون فرصت ویمبلدون را با «یکی از سخت‌ترین باخت‌های دوران حرفه‌ایم» از دست داد",
-      "lead": "شلتون، نفر چهارم رنکینگ، پس از قرار گرفتن در سمت دیگر جدول حذفی از جانیک سینر و نواک جوکوویچ، انکار کرد که از خود جلو افتاده است. او این باخت را یکی از سخت‌ترین شکست‌های دوران حرفه‌ای خود خواند.",
-      "category": "sport",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/sport/tennis/ben-shelton-wimbledon-result-draw-otto-virtanen-b3006098.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:18:20 GMT",
-      "time": "۱۷:۱۸ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "irna_fa_3",
-      "agencyId": "irna_fa",
-      "keep": true,
-      "title": "فاضل لنکرانی: تشییع پیکر رهبر شهید باید بنیان کفر را بلرزاند",
-      "title_fa": "فاضل لنکرانی: تشییع پیکر رهبر شهید باید بنیان کفر را بلرزاند",
-      "lead": "آیت الله محمد جواد فاضل لنکرانی، از اعضای جامعه مدرسین ح��زه علمیه قم، درباره تشییع پیکر رهبر شهید انقلاب اسلامی سخن گفت. وی تاکید کرد که این مراسم باشکوه باید بنیان کفر را بلرزاند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86197382/%D9%81%D8%A7%D8%B6%D9%84-%D9%84%D9%86%DA%A9%D8%B1%D8%A7%D9%86%DB%8C-%D8%AA%D8%B4%DB%8C%DB%8C%D8%B9-%D9%BE%DB%8C%DA%A9%D8%B1-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D9%86%DB%8C%D8%A7%D9%86-%DA%A9%D9%81%D8%B1-%D8%B1%D8%A7-%D8%A8%D9%84%D8%B1%D8%B2%D8%A7%D9%86%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:18:15 GMT",
-      "time": "۱۷:۱۸ - �� تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "independent_4",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Vote in our Independent Women poll: Would you use weight-loss drugs?",
-      "title_fa": "در نظرسنجی «زنان مستقل» ما شرکت کنید: آیا از داروهای کاهش وزن استفاده می‌کنید؟",
-      "lead": "ویکتوریا ری��اردز هر هفته از خوانندگان «زنان مستقل�� می‌خوا��د تا نظرات خود را درباره داستان‌ها و بحث‌های خبری بیان کنند. این هفته، نظرسنجی درباره استفاده از داروهای کاهش وزن است.",
-      "category": "society",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/life-style/women/independent-women-poll-victoria-richards-b2886150.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:18:04 GMT",
-      "time": "۱۷:۱۸ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "nytimes_5",
-      "agencyId": "nytimes",
-      "keep": true,
-      "title": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
-      "title_fa": "شکست جام جهانی بر اخبار آلمان غلبه کرد و حتی یک تیراندازی جمعی را تحت‌الشعاع قرار داد",
-      "lead": "یک روز پس از حمله مرگبار در شمال آلمان، توجه رسان��‌ها به شدت به عملکرد ضعیف این کشور در جام جهانی معطوف شد. این موضوع حتی خبر یک تیراندازی جمعی را نیز تحت‌الشعاع قرار داد.",
-      "category": "society",
-      "region": "europe",
-      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:17:44 +0000",
-      "time": "۱۷:۱۷ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "independent_6",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Ivory Coast v Norway LIVE: Haaland and Diomande face off in World Cup last 32",
-      "title_fa": "ساحل عاج در برابر نروژ زنده: رویارویی هالند و دیوماند در مرحله یک‌شانزدهم نهایی جام جهانی",
-      "lead": "برندگان این مسابقه در مرحله یک‌شانزدهم نهایی جام جهانی با برزیل روبرو خواهند شد. هیچ یک از دو تیم سا��ل عاج و نروژ نمی‌توانند حریف خ��د را د���ت‌کم بگیرند.",
-      "category": "sport",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/sport/football/ivory-coast-norway-live-stream-score-result-world-cup-b3005672.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:17:32 GMT",
-      "time": "۱۷:۱۷ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "independent_7",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "House of the Dragon episode nearly beats Game of Thrones record with massive IMDb score",
-      "title_fa": "قسمت جدید «خاندان اژدها» با امتیاز بالای IMDb تقریباً رکورد «بازی تاج و تخت» را شکست",
-      "lead": "فصل سوم سریال HBO «خاندان اژدها» در حال تبدیل شدن به یک موفقیت بزرگ در میان طرفداران است. یکی از قسمت‌های آن با امتیاز بالا در IMDb، تقریباً رکورد سریال «بازی تاج و تخت» را شکست.",
-      "category": "culture",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/arts-entertainment/tv/news/house-dragon-game-thrones-imdb-reviews-b3006049.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 90,
-        "neutral": 10,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:14:07 GMT",
-      "time": "۱۷:۱۴ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "khabaronline_8",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "سرنوشت خداداد عزیزی و پرسپولیس مشخص شد",
-      "title_fa": "سرنوشت خداداد عزیزی و پرسپولیس مشخص شد",
-      "lead": "خداداد عزیزی، فوتبالیست و مربی سرشناس ایرانی، لحظاتی پیش در یک برنامه زنده درباره آینده خود و پیشنهاد باشگاه پرسپولیس صحبت کرد. او به ابهامات پیرامون سرنوشت همکاری‌اش با این تیم پایان داد.",
-      "category": "sport",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2240454/%D8%B3%D8%B1%D9%86%D9%88%D8%B4%D8%AA-%D8%AE%D8%AF%D8%A7%D8%AF%D8%A7%D8%AF-%D8%B9%D8%B2%DB%8C%D8%B2%DB%8C-%D9%88-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D9%85%D8%B4%D8%AE%D8%B5-%D8%B4%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:12:28 GMT",
-      "time": "۱۷:۱۲ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "independent_9",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Ex-NFL reporter Dianna Russini caught on camera using texts from an NFL source to evade traffic ticket",
-      "title_fa": "دایانا روسینی، خبرنگار سابق NFL، در دوربین مداربسته هنگام استفاده از پیامک‌های یک منبع NFL برای فرار از جریمه رانندگی دستگیر شد",
-      "lead": "دایانا روسینی، خبرنگار سابق NFL، با استفاده از پیامک‌های یک منبع NFL برای فرار از جریمه رانندگی در دوربین مداربسته دیده شد. او پیشتر ادعا کرده بود که با اجازه دادن به افسر پلیس برای تماس تصویری با مربی تیم محبوبش، از مجازات فرار کرده است.",
-      "category": "crime",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/news/world/americas/dianna-russini-cop-bodycam-traffic-ticket-b3005947.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:12:20 GMT",
-      "time": "۱۷:۱۲ - �� تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "mashregh_10",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "از جای برخیز که تاریخ، ایستادگان را می‌نویسد",
-      "title_fa": "از جای برخیز که تاریخ، ایستادگان را می‌نویسد",
-      "lead": "این عنوان به مضمونی کلی درباره اهمیت ایستادگی و پایداری در برابر چالش‌ها اشاره دارد. معمولاً تاریخ از کسانی که مقاومت می‌کنند و بر اهداف خود پافشاری می‌ورزند، یاد می‌کند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1822126/%D8%A7%D8%B2-%D8%AC%D8%A7%DB%8C-%D8%A8%D8%B1%D8%AE%DB%8C%D8%B2-%DA%A9%D9%87-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%A7%DB%8C%D8%B3%D8%AA%D8%A7%D8%AF%DA%AF%D8%A7%D9%86-%D8%B1%D8%A7-%D9%85%DB%8C-%D9%86%D9%88%DB%8C%D8%B3%D8%AF",
-      "newsValues": {
-        "timeliness": "low",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 17:12:00 GMT",
-      "time": "۱۷:۱۲ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "mashregh_12",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "رفع ممنوعیت صادرات محصولات شیمیایی، پلیمری و پتروشیمی",
-      "title_fa": "رفع ممنوعیت صادرات محصولات شیمیایی، پلیمری و پتروشیمی",
-      "lead": "بر اساس بخشنامه جدید سازمان توسعه تجارت در تاریخ ۹ تیرماه، ممنوعیت‌های صادراتی محصولات شیمیایی، پلیمری و پتروشیمی برداشته شد. این تصمیم می‌تواند تاثیر مهمی بر بخش‌های صنعتی و اقتصادی کشور داشته باشد.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1822313/%D8%B1%D9%81%D8%B9-%D9%85%D9%85%D9%86%D9%88%D8%B9%DB%8C%D8%AA-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA-%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C-%D9%8E%D9%BE%D9%84%DB%8C%D9%85%D8%B1%DB%8C-%D9%88-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "irna_fa_13",
-      "agencyId": "irna_fa",
-      "keep": true,
-      "title": "معاون استاندار ایلام: نظام آموزش و پرورش نیاز به بازنگری دارد",
-      "title_fa": "معاون استاندار ایلام: نظام آموزش و پرورش نیاز به بازنگری دارد",
-      "lead": "مع��ون سیاسی، امنیتی و اجتماعی استاندار ایلام با اشاره به چالش‌های هویتی نسل جوان، بر لزوم انسجام نهاد خانواده، مدرسه و گروه همسالان در فرآیند تربیتی تاکید کرد. وی اظهار داشت که نظام آموزشی نیاز به بازنگری دارد و به جای پرورش، تنها به آموزش و ارائه اطلاعات می‌پردازد.",
-      "category": "education",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86196957/%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%88-%D9%BE%D8%B1%D9%88%D8%B1%D8%B4-%D9%86%DB%8C%D8%A7%D8%B2-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B2%D9%86%DA%AF%D8%B1%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 16:58:19 GMT",
-      "time": "۱۶:۵۸ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "isna_14",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "احداث مخزن آب در سایت مسکن ملی نطنز؛ بزودی",
-      "title_fa": "احداث مخزن آب در سایت مسکن ملی نطنز؛ بزودی",
-      "lead": "فرماندار شهرستان نطنز اعلام کرد که مخزن آب در سایت نهضت ملی مسکن در این شهرستان بزودی احداث می‌شود. این اقدام برای تامین زیرساخت‌های لازم برای طرح ملی مسکن در نطنز صورت می‌گیرد.",
-      "category": "urban development",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405040905492/%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D9%85%D8%AE%D8%B2%D9%86-%D8%A2%D8%A8-%D8%AF%D8%B1-%D9%85%D8%B3%DA%A9%D9%86-%D9%85%D9%84%DB%8C-%D9%86%D8%B7%D9%86%D8%B2",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 16:57:45 GMT",
-      "time": "۱��:۵۷ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "khabaronline_0",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "ببر «عصر یخبندان» حراج می‌شود",
-      "title_fa": "ببر «عصر یخبندان» در حراجی کریستیز به مزایده گذاشته می‌شود",
-      "lead": "یک پرتره از فاتح نبرد با ناپلئون و جمجمه یک ببر نادر در حراج پیش‌رو «��ریستیز» به مزایده گذاشته خو��هند شد. این حراج شامل اقلام تاریخی و کمیاب دیگری نیز هست.",
-      "category": "society",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2240295/%D8%A8%D8%A8%D8%B1-%D8%B9%D8%B5%D8%B1-%DB%8C%D8%AE%D8%A8%D9%86%D8%AF%D8%A7%D9%86-%D8%AD%D8%B1%D8%A7%D8%AC-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 16:30:00 GMT",
-      "time": "۱۶:۳۰ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "khabaronline_1",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "خبر جدید برای متقاضیان تسهیلات بانکی/ شرط بانک مرکزی برای دریافت وام‌های میلیاردی اعلام شد",
-      "title_fa": "اعلام شرط جدید بانک مرکزی برای دریافت وام‌های میلیاردی",
-      "lead": "بانک مرکزی بخشنامه‌ای جدید برای متقاضیان تسهیلات بانکی صادر کرده اس��. بر اساس این بخشنامه، متقاضیان دریافت وام بالای ۱۰ میلیارد تومان باید صورت‌های مالی حسابرسی‌شده ارائه دهند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2240242/%D8%AE%D8%A8%D8%B1-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%AA%D9%82%D8%A7%D8%B6%DB%8C%D8%A7%D9%86-%D8%AA%D8%B3%D9%87%DB%8C%D9%84%D8%A7%D8%AA-%D8%A8%D8%A7%D9%86%DA%A9%DB%8C-%D8%B4%D8%B1%D8%B7-%D8%A8%D8%A7%D9%86%DA%A9-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B1%D9%8A%D8%A7%D9%81%D8%AA",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "france24_2",
-      "agencyId": "france24",
-      "keep": true,
-      "title": "'A big setback for Trump': Supreme Court rejects bid to curb birthright citizenship",
-      "title_fa": "دیوان عالی آمریکا تلاش ترامپ برای محدود کردن تابعیت تولد را رد کرد؛ «شکست بزرگ برای ترامپ»",
-      "lead": "دیوان عالی ایالات متحده روز سه‌شنبه تلاش دونالد ترامپ، رئیس‌جمهور ��ا��ق، برای محدود کردن حق شهروندی مبتنی بر تولد را رد کرد. این تصمیم ضربه‌ای به یکی از طرح‌های اصلی او در زمینه ضد مهاجرت محسوب می‌شود.",
-      "category": "politics",
-      "region": "us",
-      "sourceUrl": "https://www.france24.com/en/video/20260630-a-big-setback-for-trump-supreme-court-rejects-bid-to-curb-birthright-citizenship",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 16:29:58 GMT",
-      "time": "۱۶:۲۹ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "isna_3",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "استاندار خوزستان: به دنبال تبدیل پایانه‌های مرزی به شهرهای تجاری هستیم",
-      "title_fa": "استاندار خوزستان: پایانه‌های مرزی را به شهرهای تج��ری تبدیل می‌کنیم",
-      "lead": "استاندار خوزستان بر جذاب و منظم کردن مرزهای استان تأکید کرد. وی گفت هدف این است که با افزایش سرعت در نقل و انتقال بار و مسافر، مرزهای استان را به شهرهای تجاری تبدیل کنیم.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405040905483/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%87%D8%A7%DB%8C-%D9%85%D8%B1%D8%B2%DB%8C-%D8%A8%D9%87-%D8%B4%D9%87%D8%B1%D9%87%D8%A7%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "khabaronline_4",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "پرسپولیس به‌دنبال فسخ قرارداد یک بازیکن!",
-      "title_fa": "پرسپولیس به‌دنبال فسخ قرارداد با یک بازیکن",
-      "lead": "باشگاه پرسپولی�� قصد دارد همکاری خود را با رضا شکاری قطع کند. این اقدام در راستای تغییرات احتمالی در ترکیب تیم صورت می‌گیرد.",
-      "category": "sports",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2240439/%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D9%81%D8%B3%D8%AE-%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%DB%8C%DA%A9-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 16:16:28 GMT",
-      "time": "۱۶:۱۶ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
-    },
-    {
-      "id": "france24_5",
-      "agencyId": "france24",
-      "keep": true,
-      "title": "What's driving surge in World Cup gambling?",
-      "title_fa": "چه چیزی باعث افزایش قمار در جام جهان��� می‌شو��؟",
-      "lead": "همزمان با شور و هیجان جام جهانی، شرط‌ب��دی‌های ورزشی به شدت افزایش یافته است. اما در کنار آن، قمار غیرقانونی نیز رو به رشد است و خطراتی از جمله اعتیاد همچنان از پیامدهای آن محسوب می‌شود.",
-      "category": "society",
-      "region": "global",
-      "sourceUrl": "https://www.france24.com/en/video/20260630-what-s-driving-surge-in-world-cup-gambling",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 40,
-        "negative": 30
-      },
-      "pubDate": "Tue, 30 Jun 2026 14:08:53 GMT",
-      "time": "۱۴:۰۸ - ۹ تیر",
-      "analyzed_at": "2026-06-30T17:53:01.489Z"
     }
   ]
 }
