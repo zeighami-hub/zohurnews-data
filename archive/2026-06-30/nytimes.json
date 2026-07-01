@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_8",
@@ -314,6 +314,126 @@
       "pubDate": "Sun, 28 Jun 2026 13:52:38 +0000",
       "time": "۱۳:۵۲ - ۷ تیر",
       "analyzed_at": "2026-06-30T14:06:38.560Z"
+    },
+    {
+      "id": "nytimes_10",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
+      "title_fa": "پس از جنگ آمریکا و ایران، عمان پیشنهاد طرح دریافت هزینه از تنگه هرمز را ارائه می‌دهد",
+      "lead": "بنا بر اظ��ارات مقامات و دیپلمات‌های مطلع، عمان پیشنهاد کرده است که ایران و عمان ��ز کشتی‌های عبوری از تنگه هرمز هزینه‌ای دریافت کنند. این طرح در پی جنگ اخیر بین آمریکا و ایران مطرح شده و پیامدهای اقتصادی و ژئوپلیتیکی مهمی دارد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 17:07:20 +0000",
+      "time": "۱۷:۰۷ - ۹ تیر",
+      "analyzed_at": "2026-06-30T17:46:38.479Z"
+    },
+    {
+      "id": "nytimes_7",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The 1968 Pact on Shipping Routes in the Strait of Hormuz That Iran Is Rejecting",
+      "title_fa": "پیمان ۱۹۶۸ مسیرهای کشتیرانی در تنگه هرمز که ایران آن را رد می‌کند",
+      "lead": "ایران در حال رد کردن پیمان سال ۱۹۶۸ در مورد مسیرهای کشتیرانی در تنگه هرمز است، توافقی که دهه‌ها بین ایران و عمان حاکم بر مسیرهای اصلی این تنگه بوده است. این اقدام می‌تواند پیامدهای جدی بر تجارت و امنیت منطقه داشته باشد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/middleeast/the-1968-pact-on-shipping-routes-in-the-strait-of-hormuz-that-iran-is-rejecting.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Tue, 30 Jun 2026 12:09:27 +0000",
+      "time": "۱۲:۰۹ - ۹ ت��ر",
+      "analyzed_at": "2026-06-30T17:46:38.479Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Shortages of Rescue Equipment Hampered Venezuela’s Earthquake Response",
+      "title_fa": "کمبود تجهیزات نجات، واکنش ونزوئلا به زلزله را با مشکل مواجه کرد",
+      "lead": "کمبود تجهیزات نجات، امدادرسانی به زلزله‌زدگان در ونزوئلا را مختل کرده است. ساک��ان برای کمک به تیم‌های عملیاتی در ز��ر آوار، خواستار بیل مکانیکی، ژنراتور و ابزار تخصصی نجات شده‌اند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-rescue-equipment-aid.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 30 Jun 2026 15:28:54 +0000",
+      "time": "۱۵:۲۸ - ۹ تیر",
+      "analyzed_at": "2026-06-30T17:46:38.479Z"
+    },
+    {
+      "id": "nytimes_11",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
+      "title_fa": "بمب پستی در موناکو منفجر شد، ۳ نفر مجروح ��دند",
+      "lead": "مقامات اعلام کردند که انفجار یک بمب پستی در موناکو سه نفر از جمله یک کودک را به شدت مجروح کرده است. به گفته آنها، مهاجم همچن��ن متواری است.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 14:58:41 +0000",
+      "time": "۱۴:۵۸ - ۹ تیر",
+      "analyzed_at": "2026-06-30T17:46:38.479Z"
+    },
+    {
+      "id": "nytimes_9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "More Than 1 Million Migrants Apply for Legal Status in Spain",
+      "title_fa": "بیش از ۱ میلیون مهاجر برای وضعیت قانونی در اسپانیا درخواست دادند",
+      "lead": "از اواخر آوریل، دولت اسپانیا مسیری را برای مهاجران بدون مدرک برای خروج از بلاتکلیفی قانون�� فراهم کرده است. این اقدام اسپانیا را به چراغ راهی برای چپ جهانی در زمینه مهاجرت تبدیل کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/spain-migrants-legal-status.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 11:17:41 +0000",
+      "time": "۱۱:۱۷ - ۹ تیر",
+      "analyzed_at": "2026-06-30T17:46:38.479Z"
     }
   ]
 }
