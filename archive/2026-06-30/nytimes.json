@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_8",
@@ -201,7 +201,7 @@
       "keep": true,
       "title": "Norway’s ‘Viking Row’ Is a Fan Phenomenon at the World Cup",
       "title_fa": "«وایکینگ رو» نروژ یک پدیده هواداری در جام جهانی است",
-      "lead": "هواداران نروژی با لباس‌های قرمز در ورزشگاه‌ها، مدارس و حتی یک خانه سالمندان، شانه به شانه پارو می‌زنند. البته همه از این موضوع خشنود نیستند.",
+      "lead": "هواداران نروژی با لباس‌های ق��مز در ورزشگاه‌ها، مدارس و حتی یک خانه سالمندان، شانه به شانه پارو می‌زنند. البته همه از این موضوع خشنود نیستند.",
       "category": "culture",
       "region": "global",
       "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/norway-fans-viking-row-cheer.html",
@@ -218,6 +218,30 @@
       "pubDate": "Tue, 30 Jun 2026 07:20:21 +0000",
       "time": "۰۷:۲۰ - ۹ تیر",
       "analyzed_at": "2026-06-30T11:00:20.102Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait",
+      "title_fa": "ایران برای حفظ اهرم فشار بر تنگه هرمز، مذاکرات صلح با آمریکا را به خطر می‌اندازد",
+      "lead": "ایران کنتر�� خود بر تنگه هرمز را اهرم فشاری ��یاتی در مذاکرات صلح با ایالات متحده می‌داند. به نظر می‌ر��د این کشور برای حفظ این قدرت، حاضر است آتش‌بس را نیز به خطر بیندازد.",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "sourceUrl": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Mon, 29 Jun 2026 12:34:39 +0000",
+      "time": "۱۲:۳۴ - ۸ تیر",
+      "analyzed_at": "2026-06-30T13:03:36.154Z"
     }
   ]
 }
