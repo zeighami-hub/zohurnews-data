@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "guardian",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "guardian_13",
@@ -218,6 +218,30 @@
       "pubDate": "Mon, 29 Jun 2026 23:10:15 GMT",
       "time": "۲۳:۱۰ - ۸ تیر",
       "analyzed_at": "2026-06-30T11:00:20.102Z"
+    },
+    {
+      "id": "guardian_0",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Venezuela earthquakes aftershock hits near capital city as man rescued from rubble after being trapped for 106 hours – as it happened",
+      "title_fa": "پس‌لرزه زلزله ونزوئلا در نزدیکی پایتخت رخ داد؛ نجات مردی پس از ۱۰۶ ساعت گرفتار ماندن زیر آوار",
+      "lead": "پس‌لرزه‌ای با قدرت ۴.۶ ریشتر در نزدیکی پایتخت ونزوئلا رخ داد، اما خسارتی گزا��ش نشد. در همین حال، یک مرد پس از ۱۰۶ ساعت گرفتار ماندن زیر آوار نجات یافت؛ در مجموع دست‌کم ۱۴۵۰ نفر در زلزله اولیه جان باخته‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/live/2026/jun/29/venezuela-earthquakes-search-rescue-latest-updates",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "pubDate": "Mon, 29 Jun 2026 16:56:14 GMT",
+      "time": "۱۶:۵۶ - ۸ تیر",
+      "analyzed_at": "2026-06-30T13:49:05.455Z"
     }
   ]
 }
