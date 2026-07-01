@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_8",
@@ -57,7 +57,7 @@
       "keep": true,
       "title": "Here’s the latest.",
       "title_fa": "آخرین به‌روزرسانی‌ها",
-      "lead": "این عنوان به صورت کلی برای ارائه آخ��ین خبرها و تحولات استفاده شده است. با توجه به URL، این خبر به مذاکرات ایر��ن و آمریکا، قطر و تنگه هرمز مرتبط اس�� که از اهمیت بالایی برخوردارند.",
+      "lead": "این عنوان به صورت کلی برای ارائه آخ��ین خبرها و تحولات استفاده شده است. با توجه به URL، این خبر به مذاکرات ایر����ن و آمریکا، قطر و تنگه هرمز مرتبط اس�� که از اهمیت بالایی برخوردارند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz/heres-the-latest",
@@ -201,7 +201,7 @@
       "keep": true,
       "title": "Norway’s ‘Viking Row’ Is a Fan Phenomenon at the World Cup",
       "title_fa": "«وایکینگ رو» نروژ یک پدیده هواداری در جام جهانی است",
-      "lead": "هواداران نروژی با لباس‌های ق��مز در ورزشگاه‌ها، مدارس و حتی یک خانه سالمندان، شانه به شانه پارو می‌زنند. البته همه از این موضوع خشنود نیستند.",
+      "lead": "هواداران نروژی با لباس‌ها�� ق��مز در ورزشگاه‌ها، مدارس و حتی یک خانه سالمندان، شانه به شانه پارو می‌زنند. البته همه از این موضوع خشنود نیستند.",
       "category": "culture",
       "region": "global",
       "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/norway-fans-viking-row-cheer.html",
@@ -266,6 +266,54 @@
       "pubDate": "Mon, 29 Jun 2026 17:47:43 +0000",
       "time": "۱۷:۴۷ - ۸ تیر",
       "analyzed_at": "2026-06-30T13:49:05.455Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Whatever You Do in Russia, Don’t Talk About the War",
+      "title_fa": "در روسیه هر کاری می‌کنید، از جنگ حرف نزنید",
+      "lead": "با کشیده شدن جنگ اوکراین به داخل خاک روسیه، مقامات این کشور از تعیین پناهگاه‌ها و به صدا درآوردن آژیرهای هشدار تردید دارند. آنها با استفاده از تعابیر ملایم، پیامدهای درگیری را کم‌اهمیت جلوه می‌دهند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/06/29/world/europe/russia-ukraine-rhetoric.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 30,
+        "negative": 65
+      },
+      "pubDate": "Mon, 29 Jun 2026 20:02:14 +0000",
+      "time": "۲۰:۰۲ - ۸ تیر",
+      "analyzed_at": "2026-06-30T14:06:38.560Z"
+    },
+    {
+      "id": "nytimes_11",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+      "title_fa": "ترامپ قرارداد معدنی یک میلیارد دلاری را منعقد کرد؛ پسرانش سود خواهند برد",
+      "lead": "توافقی بین ایالات متحده و قزاقستان به گروهی از سرمایه‌گذارا�� آمریکایی با ارتباط نزدیک به رئیس‌جمهور و وزیر بازرگانی، دسترس�� به یکی از بزرگترین ذخایر دست‌نخورده تنگستن جهان را داده است. این معامله ابهامات زیادی در مورد تضاد منافع ایجاد کرده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 28 Jun 2026 13:52:38 +0000",
+      "time": "۱۳:۵۲ - ۷ تیر",
+      "analyzed_at": "2026-06-30T14:06:38.560Z"
     }
   ]
 }
