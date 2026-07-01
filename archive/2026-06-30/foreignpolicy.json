@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "foreignpolicy",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "foreignpolicy_2",
@@ -290,6 +290,30 @@
       "pubDate": "Thu, 25 Jun 2026 20:15:32 +0000",
       "time": "۲۰:۱۵ - ۴ تیر",
       "analyzed_at": "2026-06-30T14:06:38.560Z"
+    },
+    {
+      "id": "foreignpolicy_0",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "What in the World?",
+      "title_fa": "در جهان چه خبر است؟",
+      "lead": "می‌توانید دانش خود را درباره رویدادهای هفته ۲۰ ژوئن بسنجید. این هفته شامل انتخابات کلمبیا، استعفای استارمر و دیدار روت با ترامپ بود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/26/news-quiz-colombia-election-right-wing-starmer-resign-uk-trump-rutte-nato/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 17:29:35 +0000",
+      "time": "۱۷:۲۹ - ۵ تیر",
+      "analyzed_at": "2026-06-30T14:33:28.719Z"
     }
   ]
 }
