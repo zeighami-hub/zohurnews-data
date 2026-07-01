@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T22:33:29.083Z",
+  "generated_at": "2026-07-01T22:48:59.592Z",
   "total": 844,
-  "new_this_cycle": 0,
+  "new_this_cycle": 14,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,342 @@
     }
   ],
   "articles": [
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Officials Sideline Machado, Venezuela’s Opposition Leader, Over Earthquake Response",
+      "title_fa": "مقامات ترامپ، ماچادو، رهبر مخالفان ونزوئلا را به دلیل واکنش به زلزله کنار می‌گذارند",
+      "lead": "مقامات آمریکایی تلاش ماریا کورینا ماچادو، برنده جایزه صلح نوبل، برای بازگشت به ونزوئلای زلزله‌زده را «یک نمایش سیاسی» خواندند. آنها معتقدند این اقدام از تلاش‌های امدادی و بازیابی منحرف شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/americas/trump-machado-venezuela-rift.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 01 Jul 2026 11:41:00 +0000",
+      "time": "۱۵:۱۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "bbc_2",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "title_fa": "کودک سه ساله شش روز پس از زلزله ونزوئلا نجات یافته و به بیمارستان منتقل شد",
+      "lead": "یک کودک سه ساله شش روز پس از وقوع زلزله در ونزوئلا از زیر آوار نجات یافت و به بیمارستان منتقل شد. تصاویر ویدیویی نشان می‌دهد که امدادگران در حال بیرون کشیدن این کودک از زیر آوار در ایالت لا گوایرا، به شادمانی می‌پردازند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 06:03:08 GMT",
+      "time": "۰۹:۳۳ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "foreignpolicy_3",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Anti-Immigrant Marches Held Across South Africa",
+      "title_fa": "برگزاری راهپیمایی‌های ضد مهاجران در سراسر آفریقای جنوبی",
+      "lead": "راهپیمایی‌های ضد مهاجران در سراسر آفریقای جنوبی برگزار شد. معترضان به مهاجران غیرقانونی تا روز سه‌شنبه مهلت داده بودند تا خودشان کشور را ترک کنند وگرنه با عواقب آن روبرو خواهند شد.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/south-africa-anti-immigrant-rallies-self-deport-ramaphosa-xenophobia/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 21:38:53 +0000",
+      "time": "۰۱:۰۸ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Two Mexico Cities Fighting for Claim Over Soccer’s Origin",
+      "title_fa": "دو شهر مکزیک بر سر ادعای خاستگاه فوتبال با یکدیگر رقابت می‌کنند",
+      "lead": "دو شهر در مکزیک بر سر اینکه کدام یک خاستگاه فوتبال در این کشور است، با یکدیگر رقابت دارند. \"مینرال دل مونته\"، یک شهر کوچک معدنی سابق که به دلیل نفوذ کورنی به یک مقصد گردشگری تبدیل شده، ادعا می‌کند فوتبال در مکزیک از آنجا شروع شده است، در حالی که شهر نزدیک \"پاچوکا\" نیز همین ادعا را دارد.",
+      "category": "culture",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/americas/world-cup-mexico-soccer.html",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 21:34:12 +0000",
+      "time": "۰۱:۰۴ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "rt_5",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Why the Alaska understandings no longer matter",
+      "title_fa": "چرا تفاهم‌نامه‌های آلاسکا دیگر بی‌اهمیت هستند",
+      "lead": "اختلاف لاوروف و روبیو بر سر آلاسکا یک مشکل عمیق را آشکار می‌سازد. این مسئله نشان می‌دهد که تفاهمات گذشته در حالی که میدان نبرد اوکراین دائماً در حال تغییر است، از اهمیت کمی برخوردارند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/642413-alaska-understandings-rubio-lavrov/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 21:21:06 +0000",
+      "time": "۰۰:۵۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "foreignpolicy_6",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Small-Plane Crash Tests China’s Security State",
+      "title_fa": "سقوط هواپیمای کوچک، وضعیت امنیتی چین را به چالش می‌کشد",
+      "lead": "سقوط یک هواپیمای کوچک در چین، وضعیت امنیتی این کشور را به چالش کشیده است. این حادثه سوالاتی را مطرح می‌کند که چگونه یک هواپیمای خصوصی توانسته وارد حریم هوایی حساس پکن شود.",
+      "category": "security",
+      "region": "asia",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/china-plane-crash-beijing-citic-tower-security/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 21:12:50 +0000",
+      "time": "۰۰:۴۲ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "rt_7",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Supreme Court strikes down Trump’s birthright citizenship order",
+      "title_fa": "دیوان عالی دستور ترامپ در مورد تابعیت بر اساس تولد را لغو کرد",
+      "lead": "دیوان عالی ایالات متحده، دستور رئیس‌جمهور دونالد ترامپ برای محدود کردن تابعیت بر اساس تولد را مغایر با قانون اساسی اعلام کرد. این حکم تصمیم قبلی دولت را باطل می‌کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/642419-supreme-court-trump-birthright-citizenship/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 21:08:18 +0000",
+      "time": "۰۰:۳۸ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "foreignpolicy_8",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Washington’s Cuba Policy Is Self-Sabotage",
+      "title_fa": "سیاست واشنگتن در قبال کوبا خودتخریبی است",
+      "lead": "سیاست واشنگتن در قبال کوبا به مثابه خودتخریبی است. محاصره اقتصادی آمریکا در حال از بین بردن شانس هاوانا برای تبدیل شدن به کشوری باثبات و دموکراتیک است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/cuba-us-blockade-sanctions-trump-humanitarian-crisis/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 20:37:22 +0000",
+      "time": "۰۰:۰۷ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "economist_9",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "Allies learn how to bully America",
+      "title_fa": "متحدان می‌آموزند چگونه آمریکا را تحت فشار قرار دهند",
+      "lead": "متحدان در حال آموختن چگونگی تحت فشار قرار دادن آمریکا هستند. این سوال مطرح شده که آیا تایوان می‌تواند از صنعت تولید تراشه خود برای اعمال فشار بر دونالد ترامپ استفاده کند؟",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.economist.com/international/2026/06/30/allies-learn-how-to-bully-america",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 20:31:29 +0000",
+      "time": "۰۰:۰۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "bbc_10",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Firefighters struggle to contain deadly Greek wildfire",
+      "title_fa": "آتش‌نشانان برای مهار آتش‌سوزی مرگبار یونان در تلاشند",
+      "lead": "آتش‌نشانان برای مهار آتش‌سوزی مرگبار یونان در نزدیکی تسالونیکی در تلاش هستند. این آتش‌سوزی تاکنون جان دست‌کم دو نفر را گرفته و بیش از ۱۰۰ آتش‌نشان در حال مبارزه با آن هستند.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 20:25:53 GMT",
+      "time": "۲۳:۵۵ - ۹ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "foreignpolicy_11",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Doomsday Climate Scenarios Were Wrong. That Doesn’t Help Europe.",
+      "title_fa": "سناریوهای اقلیمی روز قیامت اشتباه بودند. اما این به اروپا کمکی نمی‌کند.",
+      "lead": "سناریوهای اقلیمی روز قیامت اشتباه از آب درآمدند، اما این به معنای بهبود وضعیت اروپا نیست. بازنگری‌های علمی اخیر به جای تضعیف، بر ضرورت اقدام سریع در زمینه تغییرات اقلیمی تأکید می‌کنند.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/science-climate-europe-global-warming-heat-wave/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 19:07:45 +0000",
+      "time": "۲۲:۳۷ - ۹ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "guardian_12",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Tonnes of rubble’: 58,000 buildings estimated destroyed in Venezuela earthquakes",
+      "title_fa": "«تن‌ها آوار»: تخمین تخریب ۵۸ هزار ساختمان در زلزله‌های ونزوئلا",
+      "lead": "بر اساس تحلیل اولیه داده‌های ماهواره‌ای، تخمین زده می‌شود که ۵۸ هزار ساختمان در زلزله‌های ونزوئلا ویران شده‌اند. این ارقام نشان می‌دهد که بزرگی این فاجعه طبیعی می‌تواند تخمین‌های رسمی را تحت‌الشعاع قرار دهد.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 18:26:38 GMT",
+      "time": "۲۱:۵۶ - ۹ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "foreignpolicy_13",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "The European Country That Figured Out Trump’s White House",
+      "title_fa": "کشور اروپایی که کاخ سفید ترامپ را شناخت",
+      "lead": "لهستان کشوری اروپایی است که توانسته راه تعامل با کاخ سفید ترامپ را پیدا کند. موفقیت آن تا حدی به دلیل روابط شخصی قوی بوده، اما تاریخ نشان می‌دهد که این بخت ممکن است برای همیشه پایدار نباشد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/poland-trump-military-spending-nato-troops-nawrocki/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 17:32:09 +0000",
+      "time": "۲۱:۰۲ - ۹ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "skynews_14",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "At least 14 children killed after roof collapse of tutoring centre",
+      "title_fa": "دست‌کم ۱۴ کودک در پی فروریختن سقف یک مرکز آموزشی کشته شدند",
+      "lead": "در پی فروریختن سقف یک مرکز آموزشی در حال ساخت در پاکستان، دست‌کم ۱۴ کودک کشته شدند. این حادثه تلخ با تلفات بالای کودکان همراه بوده است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/at-least-14-children-killed-after-roof-collapse-of-tutoring-centre-in-pakistan-13559302",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 17:04:00 +0100",
+      "time": "۱۹:۳۴ - ۹ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
     {
       "id": "yjc_1",
       "agencyId": "yjc",
@@ -944,7 +1280,7 @@
       "keep": true,
       "title": "ببینید |  فخرفروشی بچه گانه ترامپ از هواپیمای جدیدش: هواپیمای قدیمی در شان آمریکا نبود",
       "title_fa": "فخرفروشی بچه‌گانه ترامپ از هواپیمای جدیدش: هواپیمای قدیمی در شان آمریکا نبود",
-      "lead": "دونالد ترامپ با ستایش از هواپیمای جدید ریاست‌جمهوری آمریکا، مدعی شد هواپیمای قبلی در شأن ایالات متحده نبوده است. او این هواپیما را نمادی شایسته‌تر برای آمریکا توصیف کرد.",
+      "lead": "دونالد ترامپ با ستایش از هواپیمای جدید ریاست‌جمهوری آمریکا، مدعی شد هواپیمای قبلی در شأن ایالات متحده نبوده است. او این هوا��یما را نمادی شایسته‌تر برای آمریکا توصیف کرد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.khabaronline.ir/news/2240892/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D9%81%D8%AE%D8%B1%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%D8%A8%DA%86%D9%87-%DA%AF%D8%A7%D9%86%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B2-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF%D8%B4-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C",
@@ -1327,7 +1663,7 @@
       "agencyId": "dw",
       "keep": true,
       "title": "China's tech rise reshapes the global space race",
-      "title_fa": "خیزش فناوری چین، رقابت فضایی جهانی را تغییر می‌دهد",
+      "title_fa": "خیزش فناوری چین، رقابت فضایی جهانی را ت��ییر می‌دهد",
       "lead": "چین در رتبه‌ب��دی���های تحقیقات جهانی پیشتاز شده و جاه‌طلبی‌های خود را در فضا گسترش می‌دهد. با رهبری تکنولوژیکی رو به رشد، پکن خود را به عنوان رقیبی برای ایالات متحده در مقیاس جهانی مطرح می‌کند.",
       "category": "technology",
       "region": "asia",
@@ -2550,7 +2886,7 @@
       "keep": true,
       "title": "اسبقیان: حضور تیم ملی در جام جهانی علی‌رغم کارشکنی‌ها، یک پیروزی ارزشمند بود",
       "title_fa": "اسبقیان: حضور تیم ملی در جام جهانی علی‌رغم کارشکنی‌ها، یک پیروزی ارزشمند بود",
-      "lead": "معاون وزیر ورزش و جوانان، حضور تیم ملی در جام جهانی را علیرغم کارشکنی‌ها، یک پیروزی ارزشمند دانست. او برافراشته شدن پرچم ایران در آمریکا را پاسخی قاطع به تلاش‌های دشمنان برای انزوای ورزش کشور توصیف ��رد.",
+      "lead": "معاون وزیر ورزش و جوانان، حضور تیم ملی در جام جهانی را علیرغم کارشکنی‌ها، یک پیروزی ارزشمند دانست. او برافراشته شدن پرچم ایران در آ��ریکا را پاسخی قاطع به تلاش‌های دشمنان برای انزوای ورزش کشور توصیف ��رد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.yjc.ir/fa/news/9103749/اسبقیان-حضور-تیم-ملی-در-جام-جهانی-علی%E2%80%8Cرغم-کارشکنی%E2%80%8Cها-یک-پیروزی-ارزشمند-بود",
@@ -3079,7 +3415,7 @@
       "agencyId": "isna",
       "keep": true,
       "title": "انجمن دانش‌آموختگان فردوسی تبریز پیگیر جهانی‌شدن کمپین «نه به بمباران کلاس درس»",
-      "title_fa": "انجمن دانش‌آموختگان تبریز پیگیر جهانی‌شدن کمپین «نه به بمباران کلاس درس»",
+      "title_fa": "انجمن دانش‌آموختگان تبریز پیگی�� جهانی‌شدن کمپین «نه به بمباران کلاس درس»",
       "lead": "مدیرعامل انجمن دانش‌آموختگ��ن دبیرستان ماندگار فردوسی تبریز از راه‌اندازی کمپین جهانی «نه به بمباران کلاس درس» خبر داد. این انجمن در راستای محکومیت حمله به مدارس، تلاش می‌کند تا حمایت نهادهای داخلی و بین‌المللی را جلب کند و مدارس ماندگار ایران را ثبت نماید.",
       "category": "human rights",
       "region": "global",
@@ -5886,7 +6222,7 @@
       "keep": true,
       "title": "Warmest June on record for England, second-warmest for UK, says Met Office",
       "title_fa": "اداره هواشناسی: گرم‌ترین ژوئن ثبت شده در انگلستان، دومین گرم‌ترین برای بریتانیا بود",
-      "lead": "بر اساس اعلام اداره هواشناسی بریتانیا، ماه ژوئن گذشته گرم‌ترین ژوئن تاریخ برای انگلستان و دومین ژوئن گرم برای کل بریتانیا به ثبت رسید. یک موج گرمای شدید در هفته پایانی ماه بسیاری از مناطق کشور را تحت تأثیر قرار داده بود.",
+      "lead": "بر اساس اعلام اداره هواشناسی بریتانیا، ماه ژوئن گذشته گرم‌ترین ژوئن تاریخ برای انگلستان و دومین ژوئ�� گرم برای کل بریتانیا به ثبت رسید. یک موج گرمای شدید در هفته پایانی ماه بسیاری از مناطق کشور را تحت تأثیر قرار داده بود.",
       "category": "environment",
       "region": "europe",
       "sourceUrl": "https://www.aljazeera.com/news/2026/7/1/warmest-june-on-record-for-england-second-warmest-for-uk-says-met-office?traffic_source=rss",
@@ -6818,7 +7154,7 @@
       "keep": true,
       "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
       "title_fa": "انفجار بمب پستی در موناکو، ۳ نفر را زخمی کرد",
-      "lead": "مقامات موناکو اعلام کردند که انفجار یک بمب پستی سه نفر از جمله یک کودک را به شدت مجروح کرده است. به گفته این مقامات، عامل حمله متواری است و تحقیقات برای دستگیری او ادامه دارد.",
+      "lead": "مقامات موناکو اعلام کردند که انفجار یک بمب پستی سه نفر از جمله ��ک کودک را به شدت مجروح کرده است. به گفته این مقامات، عامل حمله متواری است و تحقیقات برای دستگیری او ادامه دارد.",
       "category": "politics",
       "region": "europe",
       "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
@@ -7490,7 +7826,7 @@
       "keep": true,
       "title": "Meet the world’s new peacemakers",
       "title_fa": "با صلح‌سازان جدید جهان آشنا شوید",
-      "lead": "گزارش‌ها نشان می‌دهد که رژیم‌های استبدادی در حال تصاحب نقش میانجی‌گری در منازعات بین‌المللی هستند. توافق‌هایی که این کشورها انجام می‌دهند، رویکرد متفاوتی دارند.",
+      "lead": "گزارش‌ها نشان می‌دهد که رژیم‌های استبدادی در حال تصاحب نقش میانجی‌گری در منازعات بین‌المل��ی هستند. توافق‌هایی که این کشورها انجام می‌دهند، رویکرد متفاوتی دارند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.economist.com/international/2026/06/18/meet-the-worlds-new-peacemakers",
@@ -10076,7 +10412,7 @@
       "keep": true,
       "title": "وقوع زلزله با بزرگای ۳.۳ در پاکدشت تهران",
       "title_fa": "وقوع زلزله ۳.۳ ریشتری در پاکدشت تهران",
-      "lead": "زلزله‌ای با بزرگای ۳.۳ ظهر امروز حوالی پاکدشت در استان تهران را لرزاند. تاکنون گزارشی از خسارت یا تلفات احتمالی این زمین‌لرزه منتشر نشده است.",
+      "lead": "زلزله‌ای با بزرگای ۳.۳ ظهر امرو�� حوالی پاکدشت در استان تهران را لرزاند. تاکنون گزارشی از خسارت یا تلفات احتمالی این زمین‌لرزه منتشر نشده است.",
       "category": "society",
       "region": "global",
       "sourceUrl": "https://www.isna.ir/news/1405041006077/%D9%88%D9%82%D9%88%D8%B9-%D8%B2%D9%84%D8%B2%D9%84%D9%87-%D8%A8%D8%A7-%D8%A8%D8%B2%D8%B1%DA%AF%D8%A7%DB%8C-%DB%B3-%DB%B3-%D8%AF%D8%B1-%D9%BE%D8%A7%DA%A9%D8%AF%D8%B4%D8%AA-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
@@ -11234,7 +11570,7 @@
       "id": "khabaronline_3",
       "agencyId": "khabaronline",
       "keep": true,
-      "title": "نحوه فعالیت ادارات دولتی در هفته آینده اعلام شد/ جزئیات",
+      "title": "نحوه فعالیت ادا��ات دولتی در هفته آینده اعلام شد/ جزئیات",
       "title_fa": "نحوه فعالیت ادارات دولتی در هفته آینده اعلام شد",
       "lead": "نحوه فعالیت دستگاه‌های اجرایی در روزهای برگزاری مراسم وداع، تشییع و تدفین پیکر مطهر رهبر شهید انقلاب اسلامی اعلام شد. جزئیات این تغییرات برای هفته آینده مشخص گردیده است.",
       "category": "Politics",
@@ -12371,7 +12707,7 @@
         "negative": 60
       },
       "pubDate": "Wed, 01 Jul 2026 10:01:17 GMT",
-      "time": "۱۳:۳۱ - ۱۰ تیر",
+      "time": "۱۳:��۱ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T11:15:15.627Z"
     },
     {
@@ -12970,7 +13306,7 @@
       "keep": true,
       "title": "وضعیت آثار چهارتاقی فراشبن�� تحت کنترل است/ ادعا‌��ای حفاری غیرمجاز را رد می‌کنیم",
       "title_fa": "وضعیت آثار چهارتاقی فراشبند تحت کنترل است؛ ادعاهای حفاری غیرمجاز رد می‌شود",
-      "lead": "معاون میراث فرهنگی فارس، ادعاهای مربوط به حفاری‌های غیرمجاز در آثار چهارتاقی رهنی فراشبند را تکذیب ک��د. وی تاکید کرد که وضعیت این میراث گران‌بهای ساسانی تحت کنترل است و اقدامات حفاظتی انجام می‌شود.",
+      "lead": "معاون میراث فرهنگی فارس، ادعاهای مربوط به حف��ری‌های غیرمجاز در آثار چهارتاقی رهنی فراشبند را تکذیب ک��د. وی تاکید کرد که وضعیت این میراث گران‌بهای ساسانی تحت کنترل است و اقدامات حفاظتی انجام می‌شود.",
       "category": "society",
       "region": "iran",
       "sourceUrl": "https://www.yjc.ir/fa/news/9103517/وضعیت-آثار-چهارتاقی-فراشبند-تحت-کنترل-است-ادعا‌های-حفاری-غیرمجاز-را-رد-می‌کنیم",
@@ -13256,7 +13592,7 @@
       "keep": true,
       "title": "تماشای طلوع و غروب خورشید تأ��یر مثبتی بر سلامت ما می��گذارد؟",
       "title_fa": "تماشای طلوع و غروب خورشید تأثیر مثبتی بر سلامت ما می‌گذارد؟",
-      "lead": "تماشای طلوع و غروب خورشید تنها یک تجربه زیبایی‌شناختی نیست، بلکه بر مغز و سلامت روان انسان تأثیر مثبت دارد. محققان معتقدند که مغز و بدن ما برای تنظیم چرخه روزانه به این پدیده‌های طبیعی وابسته هستند.",
+      "lead": "تماشای طلوع و غروب خورشید تنها یک تجربه زیبایی‌شناختی نیست، بلکه بر مغز و ��لامت روان انسان تأثیر مثبت دارد. محققان معتقدند که مغز و بدن ما برای تنظیم چرخه روزانه به این پدیده‌های طبیعی وابسته هستند.",
       "category": "health",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1174376/%D8%AA%D9%85%D8%A7%D8%B4%D8%A7%DB%8C-%D8%B7%D9%84%D9%88%D8%B9-%D9%88-%D8%BA%D8%B1%D9%88%D8%A8-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF-%D8%AA%D8%A3%D8%AB%DB%8C%D8%B1-%D9%85%D8%AB%D8%A8%D8%AA%DB%8C-%D8%A8%D8%B1-%D8%B3%D9%84%D8%A7%D9%85%D8%AA-%D9%85%D8%A7-%D9%85%DB%8C-%DA%AF%D8%B0%D8%A7%D8%B1%D8%AF",
@@ -15864,7 +16200,7 @@
       "keep": true,
       "title": "آخرین وضعیت مخازن سدهای کشور/ چند درصد مخازن سدهای ایران خالی است؟",
       "title_fa": "آخرین وضعیت مخازن سدهای کشور؛ چند درصد مخازن سدهای ایران خالی است؟",
-      "lead": "در حال حاضر، با وجود ۳۳.۹۱۰ میلیارد مترمکعب آب ذخیره‌شده، ۶۵ درصد ظرف��ت مخازن سدهای کشور پُر است. این بدان معناست که ۳۵ درصد از ظرفیت کلی سدهای ایران هنوز خالی مانده است.",
+      "lead": "در حال حاضر، با وجود ۳۳.۹۱۰ میلیارد مترمکعب آب ذخیره‌شده، ۶۵ درصد ظرف��ت مخازن سدهای کشور پُر است. این بدان معناست که ۳۵ درصد از ظرفیت کلی سدهای ای��ان هنوز خالی مانده است.",
       "category": "environment",
       "region": "iran",
       "sourceUrl": "https://www.asriran.com/fa/news/1174370/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D9%85%D8%AE%D8%A7%D8%B2%D9%86-%D8%B3%D8%AF%D9%87%D8%A7%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%DA%86%D9%86%D8%AF-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%85%D8%AE%D8%A7%D8%B2%D9%86-%D8%B3%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA",
@@ -16446,7 +16782,7 @@
       "keep": true,
       "title": "U.S. says Trump envoys Kushner and Witkoff will travel for Iran meeting in Doha - Reuters",
       "title_fa": "آمریکا: فرستادگان ترامپ، کوشنر و ویتکوف، برای دیدار با ایران به دوحه سفر می‌کنند",
-      "lead": "ایالات متحده اع��ام کرده است که جرد کوشنر و آوی ویتکوف، فرستادگان ترامپ، برای شرکت در نشستی با ایران به دوحه سفر خواهند کرد. این دیدار در راستای تلاش‌های دیپلماتیک برای رسیدگی به مسائل مربوط به ایران انجام می‌شود.",
+      "lead": "ایالات متحده اع��ام کرده است که جرد کوشنر و آوی ویتکوف�� فرستادگان ترامپ، برای شرکت در نشستی با ایران به دوحه سفر خواهند کرد. این دیدار در راستای تلاش‌های دیپلماتیک برای رسیدگی به مسائل مربوط به ایران انجام می‌شود.",
       "category": "politics",
       "region": "international",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWlTN0M4a0lya0J1UmV6eHppZW4wVjJFMjlVcWNZU0o5bHQ1OGhfdnZDcGJOU3ZEYlF1Ylh5aTlHcXpBeDgtdTdMeFZBQkNfdlUxUWhZOGxyS3l1R0JZMmxyaG10LXc2TEVQRjU5anpxR0RVYS1zRnpZRWZaN25lT1lCRTZ6cWlEM0U1YmhLdHRmSzB3T2VvTktjYVdvTC1VUmhGTUxqYko3N1V5R2xPQW9BdzVhaTV4VzZpRg?oc=5",
@@ -17267,7 +17603,7 @@
       "agencyId": "isna",
       "keep": true,
       "title": "آمادگی اندیمشک برای اقدامات و ویژه برنامه��های ایام تشییع قائد امت",
-      "title_fa": "آمادگی اندیمشک برای ویژه برنامه‌های ایام تشییع قائد امت",
+      "title_fa": "آمادگی اندیمشک برای ویژه برنامه‌های ایام تشییع ق��ئد امت",
       "lead": "فرمانده ناحیه مقاومت بسیج اندیمشک از آمادگی کامل این شهرستان برا�� برگزاری برنامه‌های ویژه ایام تشییع «قائد امت» خبر داد. او افزود که هماهنگی‌های لازم انجام شده و شاهد نقش‌آفرینی مؤثر ظرفیت‌های مردمی و بسیج خواهیم بود.",
       "category": "politics",
       "region": "iran_khuzestan",
@@ -17556,7 +17892,7 @@
       "keep": true,
       "title": "Trump unveils unprecedented GOP convention as Republicans fear midterm backlash",
       "title_fa": "ترامپ از کنوانسیون بی‌سابقه جمهوری‌خواهان رونمایی می‌کند در حالی که جمهوری‌خواهان از واکنش منفی میان‌دوره‌ای می‌ترسند",
-      "lead": "ترامپ از کنوانسیون جمهوری���خواهان پرده‌برداری می‌کند که در روزهای ۹ و ۱۰ سپتامبر در دالاس برگزار خواهد شد. این رویداد در حالی اعلام می‌شود که جمهوری‌خواهان نگران واکنش منفی در انتخابات میان‌دوره‌ای هستند.",
+      "lead": "ترامپ از کنوانسیون جمهوری���خواهان پرده‌برداری ��ی‌کند که در روزهای ۹ و ۱۰ سپتامبر در دالاس برگزار خواهد شد. این رویداد در حالی اعلام می‌شود که جمهوری‌خواهان نگران واکنش منفی در انتخابات میان‌دوره‌ای هستند.",
       "category": "politics",
       "region": "americas",
       "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/republican-gop-midterm-convention-trump-dallas-b3006558.html",
@@ -18436,7 +18772,7 @@
       "id": "asriran_6",
       "agencyId": "asriran",
       "keep": true,
-      "title": "رهبر چین: با اصول مارکسیسم و سنت چینی مسیر توسعه چند صد ساله را چند ده ساله طی کردیم",
+      "title": "رهبر چین: با اصول مارکسیسم و سنت چینی مس��ر توسعه چند صد ساله را چند ده ساله طی کردیم",
       "title_fa": "رهبر چین: با اصول مارکسیسم و سنت چینی مسیر توسعه چند صد ساله را چند ده ساله طی کردیم",
       "lead": "شی جین پینگ اظهار داشت که جهان وارد دوره جدیدی از آشفتگی و تحول شده است و بشریت را در یک دوراهی قرار داده. او بر تعهدات خود برای پیشبرد روابط بین‌الملل جدید و ارتقای صلح و توسعه جهانی تاکید کرد.",
       "category": "politics",
@@ -18750,7 +19086,7 @@
       "keep": true,
       "title": "Watch World Cup Day 20: France dominates Sweden; Mexico, Norway progress",
       "title_fa": "جام جهانی روز ۲۰: تسلط فرانسه بر سوئد؛ مکزیک و نروژ صعود کردند",
-      "lead": "تازه‌ترین نکات برجسته، واکنش‌ها و پیش‌نمایش‌ها از جام جهانی FIFA 2026 در آمریکای شمالی منتشر شد. فرانسه بر سوئد غلبه کرد و تیم‌های مکزیک و نروژ به مرحله بعدی صعود کردند.",
+      "lead": "تازه‌ترین نکات برجسته، واکنش‌ها و پیش‌نمایش‌ها از جام جهانی FIFA 2026 در آمریکای شمالی منتشر شد. فر��نسه بر سوئد غلبه کرد و تیم‌های مکزیک و نروژ به مرحله بعدی صعود کردند.",
       "category": "sports",
       "region": "global",
       "sourceUrl": "https://www.aljazeera.com/video/2026/7/1/video-world-cup-2026-highlights?traffic_source=rss",
@@ -19785,336 +20121,6 @@
       "pubDate": "Tue, 30 Jun 2026 20:02:34 GMT",
       "time": "۲۰:۰۲ - ۹ تیر",
       "analyzed_at": "2026-06-30T22:49:41.080Z"
-    },
-    {
-      "id": "isna_0",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "خلاصه دیدار نروژ مقابل ساحل عاج",
-      "title_fa": "خلاصه دیدار نروژ مقابل ساحل عاج",
-      "lead": "تیم ملی فوتبال نروژ با برتری ۲ بر یک مقابل ساحل عاج به جمع ۱۶ تیم برتر جام جهانی ۲۰۲۶ راه یافت. این پیروزی صعود نروژ را به دور بعدی مسابقات قطعی کرد.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405041005587/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D9%86%D8%B1%D9%88%DA%98-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%B3%D8%A7%D8%AD%D9%84-%D8%B9%D8%A7%D8%AC",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 70,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 21:57:03 GMT",
-      "time": "۲۱:۵۷ - ۹ تیر",
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "independent_1",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "The top photos of the day by AP photojournalists",
-      "title_fa": "برترین عکس‌های روز به انتخاب عکاسان آسوشیتدپرس",
-      "lead": "این گالری شامل برترین عکس‌های امروز است که توسط و��راستاران عکس ��س�����������شیتدپرس انتخاب شده‌اند. این تصاویر از اخبار اص��ی تا لحظات مهمی که ممکن است از دست داده باشید را پوشش می‌دهد.",
-      "category": "culture",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/news/associated-press-b3006274.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 21:56:16 GMT",
-      "time": "۲۱:۵۶ - ۹ تیر",
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "independent_2",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "France v Sweden LIVE: Kylian Mbappe finally breaks deadlock for dominant Les Bleus",
-      "title_fa": "پوشش زن����ه بازی فرانسه و سوئد: کیلیان امباپه بالاخره گره بازی را برای فرانسه گشود",
-      "lead": "تیم ملی ��رانسه، که از تیم‌های مورد علاقه برای قهرمانی است، در تلاش برای صعود به مرحله یک‌هشتم نهایی جام جهانی در برابر پاراگوئه قرار دارد. تیم سوئد تحت هدایت گراهام پ��تر نیز با چالشی دشوار روبروست.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/sport/football/france-sweden-live-score-result-world-cup-2026-b3005713.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 70,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 21:54:07 GMT",
-      "time": "۲۱:۵۴ - ۹ تیر",
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "independent_3",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Arsonist setting fire to Mercedes on driveway caught on doorbell camera",
-      "title_fa": "تصاویر دوربین مداربسته: فرد آتش‌افروز حین به آتش کشیدن مرسدس در پارکینگ",
-      "lead": "��ردی که یک خودروی مرسدس بنز ۲۰۰ مشکی را در پارکینگ خانه‌ای در نورث‌همپتون به آتش می‌کشید، توسط دوربین مداربسته شناسایی شد. این حادثه توسط دوربین زنگ در ضبط شده است.",
-      "category": "crime",
-      "region": "europe",
-      "sourceUrl": "https://www.independent.co.uk/tv/news/crime-car-fire-mercedes-northampton-b3006268.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Tue, 30 Jun 2026 21:40:46 GMT",
-      "time": "۲۱:۴۰ - ۹ تیر",
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "independent_4",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Madonna used ‘prop baby’ during TV appearance after giving birth to daughter",
-      "title_fa": "مدونا پس از به دنیا آوردن دخترش، در برنامه تلویزیونی از «بچه عروسکی» استفاده کرد",
-      "lead": "بر اساس اظهارات جودی گلد، مدونا در یک برنامه تلویزیونی پس از تولد دخترش لوردس لئون از یک \"عروسک بچه\" استفاده کرده است. جودی گلد افزود که پسر او تقریباً همزمان با دختر مدونا متولد شده بود.",
-      "category": "culture",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/arts-entertainment/tv/news/madonna-prop-baby-lourdes-b3006215.html",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 21:16:46 GMT",
-      "time": "۲۱:۱۶ - ۹ تیر",
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "irna_fa_5",
-      "agencyId": "irna_fa",
-      "keep": true,
-      "title": "استاندار آذربایجان‌شرقی: تردد خودروهای پلاک ارس همچنان بلامانع است",
-      "title_fa": "استاندار آذربایجان‌شرقی: تردد خودروهای پلاک ارس همچنان بلامانع است",
-      "lead": "استاندار آذربایجان‌شرقی شایعات مطرح‌شده در فضای مجازی مبنی بر محدودیت تردد خودرو��ای پلاک منطقه آزاد ارس را تکذیب کرد. وی تأکید کرد که این ترددها طبق روال گذشته و در محدوده‌های مورد تفاهم، ��مچنان آزاد است.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86197497/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C-%D8%AA%D8%B1%D8%AF%D8%AF-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%BE%D9%84%D8%A7%DA%A9-%D8%A7%D8%B1%D8%B3-%D9%87%D9%85%DA%86%D9%86%D8%A7%D9%86-%D8%A8%D9%84%D8%A7%D9%85%D8%A7%D9%86%D8%B9",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 60,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 21:10:51 GMT",
-      "time": "۲۱:۱۰ - ۹ تیر",
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "khabaronline_6",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "عکس | اولین خرید تابستانی پ��سپولیس لو رفت!",
-      "title_fa": "عکس | اولین خرید تابستانی پرسپولیس لو رفت!",
-      "lead": "وینگر پرسپولیس خبر از اولین خرید تابستانی این ت��م داد که به بیرون درز پیدا کرده است. این خبر مورد توجه هواداران فوتبال قر��ر گرفته است.",
-      "category": "sports",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/photo/2240394/%D8%B9%DA%A9%D8%B3-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D9%81%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D9%84%D9%88-%D8%B1%D9%81%D8%AA",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "isna_7",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "حضور خداداد عزیزی در پرسپولیس منتفی شد",
-      "title_fa": "حضور خداداد عزیزی در پرسپولیس منتفی شد",
-      "lead": "خداداد عزیزی اعلام کرد که حضورش در تیم پرسپولیس منتفی شده است. وی تاکید کرد که با وجود پیشنهاد پرسپولیس، به کار خود در تیم تراکتور ادامه خواهد داد.",
-      "category": "sports",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405041005578/%D8%AD%D8%B6%D9%88%D8%B1-%D8%AE%D8%AF%D8%A7%D8%AF%D8%A7%D8%AF-%D8%B9%D8%B2%DB%8C%D8%B2%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D9%85%D9%86%D8%AA%D9%81%DB%8C-%D8%B4%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "irna_fa_8",
-      "agencyId": "irna_fa",
-      "keep": true,
-      "title": "فیلم | سفر معاون علمی و فناوری رییس‌جمهور به سمنان",
-      "title_fa": "فیلم | سفر معاون علمی و فناوری رییس‌جمهور به سمنان",
-      "lead": "معاون علمی، فن��وری و اقتصاد دانش‌بنیان رییس‌جمهور، حسین افشین، به استان سمنان سفر کرد. وی در این سفر چندین طرح فناورانه را در پارک‌های علم و فناوری شاهرود و دانشگاه سمنان افتتاح کرد.",
-      "category": "science",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86197408/%D9%81%DB%8C%D9%84%D9%85-%D8%B3%D9%81%D8%B1-%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%B9%D9%84%D9%85%DB%8C-%D9%88-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D8%B1%DB%8C%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%A8%D9%87-%D8%B3%D9%85%D9%86%D8%A7%D9%86",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 50,
-        "neutral": 50,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 20:51:17 GMT",
-      "time": "۲۰:۵۱ - ۹ تیر",
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "aljazeera_9",
-      "agencyId": "aljazeera",
-      "keep": true,
-      "title": "Rescuers find more bodies under rubble as Venezuela death toll rises",
-      "title_fa": "افزایش تلفات در ونزوئلا؛ امدادگران اجساد بیشتری را از زیر آوار بیرون می‌آورند",
-      "lead": "با ادامه عملیات ام��اد و نجات، امدادگران اجساد بیشتری را از زیر آوار در ونزوئلا کشف کرده‌اند. این در حالی است که تعداد کشته‌شدگان این فاجعه در حال افزایش است.",
-      "category": "disaster",
-      "region": "latin-america",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/6/30/rescuers-find-more-bodies-under-rubble-as-venezuela-death-toll-rises?traffic_source=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Tue, 30 Jun 2026 20:50:00 +0000",
-      "time": "۲۰:۵۰ - ۹ تیر",
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "isna_10",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "ایجاد محور گردشگری قلعه و بازگشایی حریم قلعه فلک‌الافلاک، اولویت مدیریت شهری خرم‌آباد",
-      "title_fa": "ایجاد محور گردشگری قلعه و بازگشایی حریم قلعه فلک‌الافلاک، اولو����ت مدیریت شهری خرم‌آباد",
-      "lead": "شهردار خرم‌آباد اعلام کرد که ایجاد محور گردشگری و بازگشایی حریم قلعه فلک‌الافلاک، از اولویت‌های اصلی مدیریت شهری است. وی همچنین به طرح اتصال معابر و ایجاد مسیرهای پیاده‌رو در اطراف مجموعه \"کیو\" برای بهره‌برداری از ظرفیت‌های بومی اشاره کرد.",
-      "category": "urban-development",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405041005575/%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%85%D8%AD%D9%88%D8%B1-%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1%DB%8C-%D9%82%D9%84%D8%B9%D9%87-%D9%88-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D8%AD%D8%B1%DB%8C%D9%85-%D9%82%D9%84%D8%B9%D9%87-%D9%81%D9%84%DA%A9-%D8%A7%D9%84%D8%A7%D9%81%D9%84%D8%A7%DA%A9-%D8%A7%D9%88%D9%84%D9%88%DB%8C%D8%AA",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 40,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 20:44:49 GMT",
-      "time": "۲۰:۴۴ - ۹ تیر",
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "irna_fa_14",
-      "agencyId": "irna_fa",
-      "keep": true,
-      "title": "فرماندار :دشمن خسارات سنگینی را به بخش‌های غیر نظامی بوشهر وارد کرد",
-      "title_fa": "فرماندار بوشهر: دشمن خسارات سنگینی را به بخش���های غیرنظامی وارد کرده است",
-      "lead": "فرماندار بوشهر اعلام کرد که حملات اخیر \"دشمن صهیونیستی و آمریکا\" خسارات سنگینی به بخش‌های غیرنظامی این شهرستان وارد کرده است. وی افزود هزاران واحد مسکونی، خودروی شخصی، مدارس و مراکز خدماتی مورد هدف قرار گرفته‌اند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86197459/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%AF%D8%B4%D9%85%D9%86-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B3%D9%86%DA%AF%DB%8C%D9%86%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%A8%D8%AE%D8%B4-%D9%87%D8%A7%DB%8C-%D8%BA%DB%8C%D8%B1-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D9%88%D8%A7%D8%B1%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Tue, 30 Jun 2026 20:24:05 GMT",
-      "time": "۲۰:۲۴ - ۹ تیر",
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "khabaronline_0",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "دقّت کنید شیطان شما را خسته نکند!",
-      "title_fa": "دقّت کنید شیطان شما را خسته نکند!",
-      "lead": "شیطان راه‌های مختلفی برای قطع رابطه بنده با خدایش دارد. او تلاش می‌کند امیدی را که فرد به خدا بسته، ناامید کند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2239976/%D8%AF%D9%82%D8%AA-%DA%A9%D9%86%DB%8C%D8%AF-%D8%B4%DB%8C%D8%B7%D8%A7%D9%86-%D8%B4%D9%85%D8%A7-%D8%B1%D8%A7-%D8%AE%D8%B3%D8%AA%D9%87-%D9%86%DA%A9%D9%86%D8%AF",
-      "newsValues": {
-        "timeliness": "low",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 20:20:00 GMT",
-      "time": "۲۰:۲۰ - ۹ تیر",
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
-    },
-    {
-      "id": "mashregh_1",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "حضو�� خداداد در پرسپولیس منتفی شد؟",
-      "title_fa": "حضور خداداد در پرسپولیس منتفی شد؟",
-      "lead": "خداداد عزیزی فصل آینده نیز در تراکتور تبریز می‌ماند. ��و به‌عنوان مدیر تیم فوتبال این باشگاه به کار خود ادامه خواهد داد.",
-      "category": "sports",
-      "region": "iran",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1822352/%D8%AD%D8%B6%D9%88%D8%B1-%D8%AE%D8%AF%D8%A7%D8%AF%D8%A7%D8%AF-%D8%AF%D8%B1-%D9%81%D8%B1%D8%B3%D9%81%D9%88%D9%84%DB%8C%D8%B3-%D9%85%D9%86%D8%AA%D9%81%DB%8C-%D8%B4%D8%AF",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-06-30T22:35:54.675Z"
     }
   ]
 }
