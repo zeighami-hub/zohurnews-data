@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "rt",
-  "total": 8,
+  "total": 11,
   "articles": [
     {
       "id": "rt_4",
@@ -81,7 +81,7 @@
       "keep": true,
       "title": "How the heatwave crippled Europe (PHOTOS, VIDEOS)",
       "title_fa": "چگونه موج گرما اروپا را فلج کرد (عکس، ویدئو)",
-      "lead": "موج گرمای اروپا رکوردهای دما را شکسته است، اما رهبران قاره هیچ راه‌حل کوتاه‌مدتی ارائه نمی‌دهند.",
+      "lead": "موج گرمای اروپا رکوردهای دما را شکسته است، اما رهبران قاره هیچ راه‌حل کوتاه‌مدتی ا��ائه نمی‌دهند.",
       "category": "environment",
       "region": "europe",
       "sourceUrl": "https://www.rt.com/news/642363-europe-heatwave-eu-france/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
@@ -194,6 +194,78 @@
       "pubDate": "Tue, 30 Jun 2026 00:04:50 +0000",
       "time": "۰۰:۰۴ - ۹ تیر",
       "analyzed_at": "2026-06-30T11:00:20.102Z"
+    },
+    {
+      "id": "rt_9",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Israel planning permanent Lebanon occupation – professor (VIDEO)",
+      "title_fa": "استاد دانشگاه: اسرائیل در حال برنامه‌ریزی برای اش��ال دائمی لبنان است",
+      "lead": "پروفسور محمد مرندی، مستقر در تهران، اظهار داشت که حضور اسرائیل در لب��ان و سوریه نشان‌د��نده جاه‌طلبی���های سرزمینی این رژیم است. او معتقد است که اسرائیل قصد اشغال دائمی لبنان ��ا دارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/642332-marandi-israel-expansion-lebanon-syria/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 29 Jun 2026 11:01:25 +0000",
+      "time": "۱۱:۰۱ - ۸ تیر",
+      "analyzed_at": "2026-06-30T13:49:05.455Z"
+    },
+    {
+      "id": "rt_1",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "At least six dead in shooting in northern Germany",
+      "title_fa": "حداقل شش کشته در تیراندازی در شمال آلمان",
+      "lead": "سه مظنون ��ر پی یک ��یراندازی که منجر به کشته شدن شش نفر شد، در شهر استاده در شمال آلمان بازداشت شده‌اند. این حادثه تلفات قابل توجهی در پی داشته و مقامات در حال بررسی ابعاد آن هستند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642348-stade-germany-shooting-dead/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 29 Jun 2026 12:17:06 +0000",
+      "time": "۱۲:۱۷ - ۸ تیر",
+      "analyzed_at": "2026-06-30T13:49:05.455Z"
+    },
+    {
+      "id": "rt_2",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Pakistani reprisal strikes kill dozens in Afghanistan",
+      "title_fa": "حملات تلافی‌جویانه پاکست��ن ده‌ها نفر را در افغانستان کشت",
+      "lead": "حملات هوایی پاکستان در افغانستان پس از حملات تروریستی، ده‌ها نفر را کشته و بیش از صدها نفر دیگر را زخمی کرده است. این عملیات تلافی‌جویانه تنش‌ها میان دو کشور را به شدت افزایش داده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/india/642344-pakistani-reprisal-strikes-afghanistan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 29 Jun 2026 11:16:31 +0000",
+      "time": "۱۱:۱۶ - ۸ تیر",
+      "analyzed_at": "2026-06-30T13:49:05.455Z"
     }
   ]
 }
