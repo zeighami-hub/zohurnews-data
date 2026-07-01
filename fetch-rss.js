@@ -16,18 +16,22 @@ const RSS_SOURCES = [
   { id: "independent",   name_en: "Independent",    name_fa: "ایندیپندنت",     url: "https://www.independent.co.uk/rss", lang:"en" },
   { id: "economist",     name_en: "The Economist",  name_fa: "اکونومیست",      url: "https://www.economist.com/international/rss.xml", lang:"en" },
   { id: "rt",            name_en: "RT",             name_fa: "آر‌تی",           url: "https://www.rt.com/rss/news/", lang:"en" },
-  // نکته: xinhua حذف شد - از سرور ایران به‌طور کامل غیرقابل‌دسترس بود (HTTP:0، نه فقط خطای موقت)
-  // و محتوای قدیمی/خراب در کش باقی مانده بود
-  { id: "middleeasteye", name_en: "Middle East Eye",name_fa: "میدل ایست آی",  url: "https://www.middleeasteye.net/rss/section/news", lang:"en" },
-  { id: "arabnews",      name_en: "Arab News",      name_fa: "عرب نیوز",       url: "https://www.arabnews.com/cat/3/rss.xml", lang:"en" },
+  // reuters از طریق Google News (مستقیم از ایران فیلتر است ولی Google News در دسترس است)
+  { id: "reuters",       name_en: "Reuters",        name_fa: "رویترز",         url: "https://news.google.com/rss/search?q=iran+site:reuters.com&hl=en&gl=US", lang:"en" },
   // === منابع ایرانی ===
-  { id: "irna_fa",       name_en: "IRNA",           name_fa: "ایرنا",          url: "https://www.irna.ir/rss", lang:"fa" },
-  { id: "irna_en",       name_en: "IRNA English",   name_fa: "ایرنا انگلیسی",  url: "https://en.irna.ir/rss", lang:"en" },
+  { id: "irna",          name_en: "IRNA",           name_fa: "ایرنا",          url: "https://www.irna.ir/rss", lang:"fa" },
   { id: "mehrnews",      name_en: "Mehr News",      name_fa: "مهر",            url: "https://en.mehrnews.com/rss", lang:"en" },
   { id: "khabaronline",  name_en: "Khabar Online",  name_fa: "خبرآنلاین",      url: "https://www.khabaronline.ir/rss", lang:"fa" },
   { id: "mashregh",      name_en: "Mashregh News",  name_fa: "مشرق",           url: "https://www.mashreghnews.ir/rss", lang:"fa" },
   { id: "isna",          name_en: "ISNA",           name_fa: "ایسنا",          url: "https://www.isna.ir/rss", lang:"fa" },
-  { id: "tabnak",        name_en: "Tabnak",         name_fa: "تابناک",         url: "https://www.tabnak.ir/rss", lang:"fa" },
+  { id: "yjc",           name_en: "YJC",            name_fa: "باشگاه خبرنگاران", url: "https://www.yjc.ir/fa/rss/allnews", lang:"fa" },
+  { id: "asriran",       name_en: "Asr Iran",       name_fa: "عصر ایران",      url: "https://www.asriran.com/fa/rss/allnews", lang:"fa" },
+  // منابع حذف‌شده:
+  // - xinhua: HTTP:0 از سرور ایران، محتوای قدیمی
+  // - middleeasteye: HTTP:404
+  // - arabnews: HTTP:403
+  // - tabnak: تاریخ‌های ماه مه ۲۰۲۶، فید قدیمی
+  // - irna_en: تکراری با ایرنا فارسی
 ];
 
 // === کلمات کلیدی برای امتیازدهی ارتباط با ایران (بدون AI) ===
