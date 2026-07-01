@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "guardian",
-  "total": 10,
+  "total": 17,
   "articles": [
     {
       "id": "guardian_13",
@@ -242,6 +242,172 @@
       "pubDate": "Mon, 29 Jun 2026 16:56:14 GMT",
       "time": "۱۶:۵۶ - ۸ تیر",
       "analyzed_at": "2026-06-30T13:49:05.455Z"
+    },
+    {
+      "id": "guardian_1",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+      "title_fa": "ادعای «کودتای قانون اساسی» در زیمبابوه با تصویب سنا برای تمدید دوره ریاست‌جمهوری",
+      "lead": "گمانه‌زنی‌ها درباره «کودتای قانون اساسی» در زیمبابوه افزایش یافته است، زیرا سنای این کشور تمدید دوره ریاست‌جمهوری را تصویب کرد. مخالفان بیم آن دارند که این تغییرات، سلطه رئیس‌جمهور ۸۳ ساله، امرسون منانگاگوا، بر قدرت را بیشتر کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 25 Jun 2026 16:04:41 GMT",
+      "time": "۱۶:۰۴ - ۴ تیر",
+      "analyzed_at": "2026-06-30T14:18:27.101Z"
+    },
+    {
+      "id": "guardian_3",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Shares in chipmakers underpinning AI boom rocket in first half of 2026",
+      "title_fa": "سهام تولیدکنندگان تراشه در نیمه اول سال ۲۰۲۶ با رونق هوش مصنوعی سر به فلک کشید",
+      "lead": "ارزش سهام برخی تولیدکنندگا�� تراشه سه برابر یا بیشتر شده است که بازارهای سهام آسیا و اقیانوسیه را به شدت بالا برده است. سهام شرکت‌های تولیدکننده سخت‌افزار زیربنای رونق هوش مصنوعی در نیمه اول سال جاری با هجوم سرمایه‌گذاران افزایش چشمگیری داشته است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Mon, 29 Jun 2026 14:18:09 GMT",
+      "time": "۱۴:۱۸ - ۸ تی��",
+      "analyzed_at": "2026-06-30T14:06:38.560Z"
+    },
+    {
+      "id": "guardian_12",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australian man charged with murder in Thailand after teenage girl’s body found in suitcase",
+      "title_fa": "مرد استرالیایی پس از کشف جسد دختر نوجوان در چمدان در تایلند به قتل متهم شد",
+      "lead": "یک مرد استرالیایی به اتهام قتل دختری نوجوان که جسدش در یک چمدان در تایلند پیدا شده بود، تفهیم اتهام شد. سایمون پیتر کارمن، ۴۵ ساله، اتهامات علیه خود را رد کرده است.",
+      "category": "crime",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jun/28/australian-man-charged-thailand-teenage-girl-body-found-in-suitcase-pattaya-city-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 28 Jun 2026 09:25:27 GMT",
+      "time": "۰۹:۲۵ - ۷ تیر",
+      "analyzed_at": "2026-06-30T14:06:38.560Z"
+    },
+    {
+      "id": "0_guardian",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
+      "title_fa": "«همه از کیپ‌ورد صحبت می‌کنند»: ع��لکرد کیپ‌ورد در جام جهانی جامعه دیاسپورا در بریتانیا را به وجد آورد",
+      "lead": "جامعه کیپ‌وردی‌ها در بریتانیا پس از نتایج درخشان تیم ملی خود در جام جهانی مقابل اسپانیا و اروگوئه، احساس غرور فراوان�� می��کنند. این موفقیت تیم در یک رویداد جهانی، هویت و افتخار زیادی را برای دیاسپورای آنها به ارمغان آورده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Fri, 26 Jun 2026 12:03:25 GMT",
+      "time": "۱۲:۰۳ - ۵ تیر",
+      "analyzed_at": "2026-06-30T14:06:38.560Z"
+    },
+    {
+      "id": "2_guardian",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
+      "title_fa": "مکان نزدیک به 300 فرد مبتلا به ابولا در کنگو نامعلوم است",
+      "lead": "طبق گزارش‌ها، مکان نزدیک به 300 نفر که آزمایش ابولای آنها مثبت بوده در جمهوری دموکراتیک کنگو نامعلوم است. این وضعیت نگرانی‌های جدی در مورد «انتقال گسترده جامعه» ایجاد کرده و مدل‌سازی‌ها پیش‌بینی هزاران مرگ و میر تا سپتامبر را دارند.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 10:55:56 GMT",
+      "time": "۱۰:۵۵ - ۵ تیر",
+      "analyzed_at": "2026-06-30T14:06:38.560Z"
+    },
+    {
+      "id": "3_guardian",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Outrage as woman jailed for three years after criticising Somali government online",
+      "title_fa": "خشم گسترده از محکومیت یک زن به سه سال زندان پس از ا��تقاد از دولت سومالی در فضای آنلاین",
+      "lead": "یک راننده ریکشا ��ر سومالی به دلیل اظهاراتش در شبکه‌های اجتماعی به سه سال زندان محکوم شد که این حکم با محکومیت شدید رؤسای جمهور و نخست‌وزیران سابق و گروه‌های حقوق بشری مواجه شده است. این پرونده نگرانی‌های جدی درباره آزادی بیان و حقوق بشر در این کشور ایجاد کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 26 Jun 2026 10:00:14 GMT",
+      "time": "۱۰:۰۰ - ۵ تیر",
+      "analyzed_at": "2026-06-30T14:06:38.560Z"
+    },
+    {
+      "id": "8_guardian",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+      "title_fa": "ادعاهای «کودتای قانون اساسی» در پی تصویب تمدید دوره ریاست‌جمهوری توسط سنای زیمبابوه",
+      "lead": "سنای زیمبابوه تمدید دوره ریاست‌جمهوری را تصویب کرده که مخالفان آن را «کودتای قانون اساسی» می‌دانند. منتقدان بیم دارند این تغییر، قدرت رئیس‌جمهور ۸۳ ساله، امرسون منانگاگوا، را بیش از پیش تثبیت کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.guardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-06-30T14:06:38.560Z"
     }
   ]
 }
