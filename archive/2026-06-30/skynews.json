@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "skynews_13",
@@ -122,6 +122,30 @@
       "pubDate": "Mon, 29 Jun 2026 16:04:00 +0100",
       "time": "۱۵:۰۴ - ۸ تیر",
       "analyzed_at": "2026-06-30T20:03:57.015Z"
+    },
+    {
+      "id": "skynews_13",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "At least 14 children killed after roof collapse of tutoring centre",
+      "title_fa": "دست‌کم ۱۴ کودک در پی فروریختن سقف یک مرکز آموزشی کشته شدند",
+      "lead": "دست‌کم ۱۴ کودک پس از فروریختن سقف یک مرکز آموزشی در حال ساخت در پاکستان کشته شدند. این حادثه دلخراش منجر به تلفات بالای کودکان و نگرانی‌های جدی در مورد استانداردهای ساخت و ساز و ایمنی عمومی در این کشور شده است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/at-least-14-children-killed-after-roof-collapse-of-tutoring-centre-in-pakistan-13559302",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 95
+      },
+      "pubDate": "Tue, 30 Jun 2026 17:04:00 +0100",
+      "time": "۱۶:۰۴ - ۹ تیر",
+      "analyzed_at": "2026-06-30T22:31:19.540Z"
     }
   ]
 }
