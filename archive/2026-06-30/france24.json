@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "france24",
-  "total": 36,
+  "total": 38,
   "articles": [
     {
       "id": "france24_14",
@@ -862,6 +862,54 @@
       "pubDate": "Tue, 30 Jun 2026 12:25:53 GMT",
       "time": "۱۲:۲۵ - ۹ تیر",
       "analyzed_at": "2026-06-30T17:46:38.479Z"
+    },
+    {
+      "id": "france24_2",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "'A big setback for Trump': Supreme Court rejects bid to curb birthright citizenship",
+      "title_fa": "دیوان عالی آمریکا تلاش ترامپ برای محدود کردن تابعیت تولد را رد کرد؛ «شکست بزرگ برای ترامپ»",
+      "lead": "دیوان عالی ایالات متحده روز سه‌شنبه تلاش دونالد ترامپ، رئیس‌جمهور ��ا��ق، برای محدود کردن حق شهروندی مبتنی بر تولد را رد کرد. این تصمیم ضربه‌ای به یکی از طرح‌های اصلی او در زمینه ضد مهاجرت محسوب می‌شود.",
+      "category": "politics",
+      "region": "us",
+      "sourceUrl": "https://www.france24.com/en/video/20260630-a-big-setback-for-trump-supreme-court-rejects-bid-to-curb-birthright-citizenship",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 16:29:58 GMT",
+      "time": "۱۶:۲۹ - ۹ تیر",
+      "analyzed_at": "2026-06-30T17:53:01.489Z"
+    },
+    {
+      "id": "france24_5",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "What's driving surge in World Cup gambling?",
+      "title_fa": "چه چیزی باعث افزایش قمار در جام جهان��� می‌شو��؟",
+      "lead": "همزمان با شور و هیجان جام جهانی، شرط‌ب��دی‌های ورزشی به شدت افزایش یافته است. اما در کنار آن، قمار غیرقانونی نیز رو به رشد است و خطراتی از جمله اعتیاد همچنان از پیامدهای آن محسوب می‌شود.",
+      "category": "society",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/video/20260630-what-s-driving-surge-in-world-cup-gambling",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Tue, 30 Jun 2026 14:08:53 GMT",
+      "time": "۱۴:۰۸ - ۹ تیر",
+      "analyzed_at": "2026-06-30T17:53:01.489Z"
     }
   ]
 }
