@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
   "agencyId": "bbc",
-  "total": 30,
+  "total": 31,
   "articles": [
     {
       "id": "bbc_6",
@@ -722,6 +722,30 @@
       "pubDate": "Tue, 30 Jun 2026 18:37:59 GMT",
       "time": "۱۸:۳۷ - ۹ تیر",
       "analyzed_at": "2026-06-30T22:31:19.540Z"
+    },
+    {
+      "id": "bbc_3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+      "title_fa": "هزاران معترض ضد مهاجر در آفریقای جنوبی در میان حضور سنگین پلیس راهپیمایی کردند",
+      "lead": "هزا��ان معترض ضد مهاجر در آفریقای جنوبی، با حضور گسترده پلیس، تظاهرات کردند. خارجی‌ها پیش از ضرب‌الاجل تعیین شده توسط گروه‌های ضد مهاجرت، آفریقای جنوبی را ترک کرده‌اند.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 19:39:29 GMT",
+      "time": "۱۹:۳۹ - ۹ تیر",
+      "analyzed_at": "2026-06-30T23:18:40.115Z"
     }
   ]
 }
