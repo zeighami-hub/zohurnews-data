@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_0",
@@ -321,7 +321,7 @@
       "keep": true,
       "title": "Australian Man Charged With Homicide After Thai Teen’s Body Found in Suitcase",
       "title_fa": "مرد استرالیایی پس از یافتن جسد نوجوان تایلندی در چمدان، به قتل متهم شد",
-      "lead": "جسد یک نوجوان ��۷ ساله تا��لندی در یک چمدان در نزدیکی ریل قطار در پاتایا کشف شد، که منجر به اتهام قتل برای یک مرد استرالیایی گردید. مظنون در حالی که قصد خروج از کشور را داشت، بازداشت شد.",
+      "lead": "جسد یک نوجوان ��۷ ساله تا��لندی در یک چمدان در نزدیکی ریل قطار در پاتایا کشف شد، که منجر به اتهام قتل برای یک مرد استرالیایی گردید. مظنون در حالی که قصد خروج ��ز کشور را داشت، بازداشت شد.",
       "category": "crime",
       "region": "global",
       "sourceUrl": "https://www.nytimes.com/2026/06/30/world/asia/australian-thailand-teenager-murder-suitcase.html",
@@ -362,6 +362,78 @@
       "pubDate": "Tue, 30 Jun 2026 07:20:21 +0000",
       "time": "۱۰:۵۰ - ۹ تیر",
       "analyzed_at": "2026-07-01T11:22:27.037Z"
+    },
+    {
+      "id": "nytimes_6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
+      "title_fa": "شکست ��ر جام جهانی، اخبار آلمان را تحت‌الشعاع قرار داد و حتی تیراندازی جمع�� را به حاشیه راند",
+      "lead": "یک روز پس از یک حمله مرگبار در شمال آلمان، توجه رسانه‌های خبری به شدت به سمت عملکرد ضعیف کشور در جام جهانی معطوف شد. این خبر شکست ورزشی، حتی حادثه تیراندازی جمعی را از صدر اخبار کنار زد.",
+      "category": "society",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 21:01:49 +0000",
+      "time": "۰۰:۳۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T18:18:34.126Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
+      "title_fa": "پس از جنگ آمریکا-ایران، عمان طرحی برای دریافت عوار�� از تنگه هرمز پیشنهاد می‌کند",
+      "lead": "مقامات و دیپلمات‌های مطلع می��گویند که عمان طرحی را برای دریافت عوارض از کشتی‌های عبوری از تنگه هرمز پس از جنگ آمریکا و ایران پیشنهاد کرده است. بر اساس این پیشنهاد، ایران و عم��ن از کشتی‌هایی که از این تنگه عبور می‌کنند، هزینه دریافت خواهند کرد.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 19:33:24 +0000",
+      "time": "۲۳:۰۳ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Parcel Bomb Explodes in Monaco, Injuring 3",
+      "title_fa": "انفجار بمب پستی در موناکو، ۳ نفر را زخمی کرد",
+      "lead": "مقامات موناکو اعلام کردند که انفجار یک بمب پستی سه نفر از جمله ��ک کودک را به شدت مجروح کرده است. به گفته این مقامات، عامل حمله متواری است و تحقیقات برای دستگیری او ادامه دارد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 14:58:42 +0000",
+      "time": "۱۸:۲۸ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
     }
   ]
 }
