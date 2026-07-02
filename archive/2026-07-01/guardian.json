@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "guardian",
-  "total": 29,
+  "total": 31,
   "articles": [
     {
       "id": "guardian_14",
@@ -694,6 +694,54 @@
       "pubDate": "Tue, 30 Jun 2026 18:26:38 GMT",
       "time": "۲۱:۵۶ - ۹ تیر",
       "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "guardian_3",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australia politics live: Labor makes partial U-turn on controversial automated aged-care assessment tool",
+      "title_fa": "سیاست استرالیا زنده: حزب کارگر در مورد ابزار ارزیابی خو��کار مراقبت از سالمندان عقب‌نشینی جزئی کرد",
+      "lead": "حزب کارگر استرالیا در مورد ابزار بحث‌برانگیز ارزیابی خودکار مراقبت از سالمندان عقب‌نشینی جزئی انجام داد. پَت کانروی نیز در باشگاه ملی مطبوعات اعلام خواهد کرد که حزب کارگر، حزب واقعی دفاع و ��منیت ملی است.",
+      "category": "politics",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/jul/02/australia-politics-live-defence-aukus-conroy-national-press-club-anthony-albanese-labor-question-time-angus-taylor-coalition-tax-reform-one-nation-pauline-hanson-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 22:38:49 GMT",
+      "time": "۰۲:۰۸ - ۱۱ تیر",
+      "analyzed_at": "2026-07-01T23:18:24.918Z"
+    },
+    {
+      "id": "guardian_8",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+      "title_fa": "ترامپ از تمدید پیمان تجاری ��مریکا-کانادا-مکزیک که زمانی از آن حمایت می‌کرد، خوددار�� می‌کند",
+      "lead": "دونالد ترامپ از تمدید پیمان تجاری آمریکای شمالی (USMCA) که زمانی خود آن را ستایش می‌کرد، خودداری کرده است. او و مقامات آمریکایی به جای تمدید بلندمدت، تص����یم گرفتند این پیمان را با بررسی‌های سالانه کوتاه نگه دارند.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Wed, 01 Jul 2026 20:09:01 GMT",
+      "time": "۲۳:۳۹ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T23:18:24.918Z"
     }
   ]
 }
