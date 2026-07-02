@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "bbc",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "bbc_5",
@@ -242,6 +242,30 @@
       "pubDate": "Wed, 01 Jul 2026 07:30:53 GMT",
       "time": "۱۱:۰۰ - ۱۰ ت��ر",
       "analyzed_at": "2026-07-01T11:15:15.627Z"
+    },
+    {
+      "id": "bbc_2",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+      "title_fa": "پس از مجروح شدن الیگارش اوکراینی در موناکو بر اثر بمب‌گذاری، عملیات تعقیب و گریز آغاز شد",
+      "lead": "در موناکو، یک الیگارش اوکراینی بر اثر انف��ار بمبی که حاوی پیچ و ساچمه بود، مجروح شد و عملیات گسترده‌ای برای دستگیری عاملان آن آغاز شده است. رئیس دولت موناکو این خبر را تایید کرده و تحقیقات ادامه دارد تا ابعاد این حمله مشخص شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 30 Jun 2026 13:22:15 GMT",
+      "time": "۱۶:۵۲ - ۹ تیر",
+      "analyzed_at": "2026-07-01T11:22:27.037Z"
     }
   ]
 }
