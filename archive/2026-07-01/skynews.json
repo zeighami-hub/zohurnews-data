@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "skynews_9",
@@ -26,6 +26,54 @@
       "pubDate": "Wed, 01 Jul 2026 09:33:00 +0100",
       "time": "۱۲:۰۳ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T10:47:10.294Z"
+    },
+    {
+      "id": "skynews_1",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Nancy Guthrie ransom notes were fake, FBI says",
+      "title_fa": "اف‌بی‌آی می‌گوید یادداشت‌های درخواست باج نانسی گاتری جعلی بوده‌اند",
+      "lead": "طبق گفته اف‌بی‌آی، هر سه یادداشت درخواست باج که پس از ناپدید شدن نانسی گاتری به رسانه‌ها ارسال شده بود، جعلی از آب درآمدند. این کشف در روند تحقیقات مربوط به این پرونده تاثیرگذار است.",
+      "category": "crime",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/nancy-guthrie-ransom-notes-were-fake-fbi-says-13559393",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 01 Jul 2026 04:06:00 +0100",
+      "time": "۰۶:۳۶ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "skynews_2",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Why Lebanon is key to understanding the Middle East",
+      "title_fa": "چرا لبنان کلید درک خاورمیانه است",
+      "lead": "این گزارش تحلیلی به بررسی اهمیت لبنان در پویایی‌های منطقه‌ای می‌پردازد. درک وضعیت لبنان برای شناخت عمیق‌تر تحولات خاورمیانه ضروری است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/why-lebanon-is-key-to-understanding-the-middle-east-13559371",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 22:36:00 +0100",
+      "time": "۰۱:۰۶ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
     }
   ]
 }
