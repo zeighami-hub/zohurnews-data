@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "reuters",
-  "total": 48,
+  "total": 49,
   "articles": [
     {
       "id": "reuters_1",
@@ -1104,6 +1104,30 @@
         "negative": 70
       },
       "analyzed_at": "2026-07-01T18:49:10.650Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran warns of immediate response to any threat, cites US commitment to restrain Israel - Reuters",
+      "title_fa": "ایران نسبت به هرگونه تهدید هشدار واکنش فوری می‌دهد و به تعهد آمریکا برای مهار اسرائیل اشاره می‌کند",
+      "lead": "ایران هشد��ر داد ک�� به هرگونه تهدید پاسخی فوری خواهد داد. این کشور به تعهد آمریکا برای مهار اسرائیل استناد می‌کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWN4MVRUWnFzZkJNVjRneXVXUFlxcG0zekxKbXRqdml6bVhUUmI3ajV0THo0NVRTR1BaUjRXaVJHUjBoRVM3dlViekpfY1FtWERPODNGVEdiQ3BnajJ6YjNiZTZmYjM1ZzZ4NHN1UTRSbU1fdUtxc25MdGMzUjQtNjlKRGEzWFhXTjNHRS1ZX2pOYmtxUm1jSzRaSld6Wk9MSnUwYTJUUDI3bkhBSGprNUMtN0Rabk40d2JKTjV5VTJsV0RnMjVHaU9n?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 11:11:43 GMT",
+      "time": "۱۴:۴۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T19:08:14.887Z"
     }
   ]
 }
