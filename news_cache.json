@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T19:03:49.024Z",
-  "total": 986,
-  "new_this_cycle": 2,
+  "generated_at": "2026-07-02T19:19:35.946Z",
+  "total": 935,
+  "new_this_cycle": 10,
   "agencies": [
     {
       "id": "aljazeera",
@@ -101,12 +101,80 @@
   ],
   "articles": [
     {
-      "id": "yjc_0",
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran insists on keeping control over Hormuz, senior Iranian sources say - Reuters",
+      "title_fa": "ایران بر حفظ کنترل تنگه هرمز اصرار دارد، منابع ارشد ایرانی می‌گویند",
+      "lead": "منابع ارشد ایرانی اعلام کرده‌اند که ایران بر حفظ کنترل خود بر تنگه هرمز اصرار دارد. این تنگه یک آبراه استراتژیک برای حمل و نقل جهانی نفت محسوب می‌شود.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFBydmx6S2JaLXlSTGotcDJJemY3STctRmNiX1M1aEtQR3czZzU5VEtiYjdObEloOXRVVkNEckpmY1BmaG5DZUV6UjVaTzhZd0ZSNkZaYkw4WURhbWZ3eWpBeDlBVW0wTU9XcGFLVk9PZzBtSkpQVzA0ampJOVd4X0c1U3JkTDFzUXZTUFFrZmQ3aGRWZkllSmE5Nml5M2ZPS3VWWEhDMi1nVzRCbzhrSWZXZlMzbGhrcTZTajVB?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 10:30:02 GMT",
+      "time": "۱۴:۰۰ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T19:18:59.965Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US, Iran talks conclude in Doha, focused on Strait of Hormuz - Reuters",
+      "title_fa": "گفتگوهای آمریکا و ایران در دوحه با تمرکز بر تنگه هرمز به پایان رسید",
+      "lead": "گفتگوهای بین ایالات متحده و ایران در دوحه به پایان رسیده است. این مذاکرات عمدتاً بر موضوع تنگه هرمز متمرکز بود.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2I3cUEydmhlWVB5bmFRM1JuTXZVRHdDVFV6MTFjWHc0V3NFeDBCNFR0ZGJ0U2NjR213NWJwYlQwb0pNQjZmbU1tdlJjRlF2ZUZKZjBBRmpteTM1SUthZV9ESXZpaVRvSVhUaUYxb1lFenoxLUU2MklQd0I1OC1XR1NGSVo4b29CdVZ5ZzQ0QXp4MFdlMnoyRS1RajM-TVNvYVU1RVhtb29hdENLeldfakJsMHNNaWNkQ0Uw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-02T19:18:59.965Z"
+    },
+    {
+      "id": "yjc_2",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "سفیر ایران در سازمان ملل: شورای امنیت از اقدامات تحریک آمیز خودداری کند",
+      "title_fa": "سفیر ایران در سازمان ملل: شورای امنیت از اقدامات تحریک‌آمیز خودداری کند",
+      "lead": "ایروانی، سفیر ایران در سازمان ملل، از برگزاری نشست شورای امنیت درباره وضعیت خاورمیانه به درخواست بحرین انتقاد کرد. وی تاکید کرد که شورای امنیت باید از اقدامات تحریک‌آمیز خودداری کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9104093/سفیر-ایران-در-سازمان-ملل-شورای-امنیت-از-اقدامات-تحری-آمیز-خودداری-کند",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-07-02T19:18:59.965Z"
+    },
+    {
+      "id": "yjc_3",
       "agencyId": "yjc",
       "keep": true,
       "title": "عارف: همه تمهیدات لازم برای برگزاری مراسم تاریخی وداع و تشییع رهبر شهید فراهم است",
-      "title_fa": "عارف: همه تمهیدات لازم برای برگزاری مراسم تاریخی وداع و تشییع رهبر شهید فراهم است",
-      "lead": "معاون اول رئیس‌جمهور و رئیس ستاد ملی وداع و تشییع رهبر شهید انقلاب از مصلی تهران بازدید کرد. وی از آخرین اقدامات و روند آماده‌سازی محل برگزاری مراسم وداع مردمی مطلع شد.",
+      "title_fa": "عارف: همه تمهیدات لازم برای برگزاری مراسم وداع و تشییع رهبر شهید فراهم است",
+      "lead": "معاون اول رئیس‌جمهور و رئیس ستاد ملی وداع و تشییع رهبر شهید انقلاب، عارف، از آخرین اقدامات و روند آماده‌سازی محل برگزاری مراسم وداع بازدید کرد. وی اعلام کرد که همه تمهیدات لازم برای برگزاری این مراسم فراهم شده است.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.yjc.ir/fa/news/9104081/عارف-همه-تمهیدات-لازم-برای-برگزاری-مراسم-تاریخی-وداع-و-تشییع-رهبر-شهید-فراهم-است",
@@ -116,33 +184,153 @@
         "conflict": false
       },
       "sentiment": {
-        "positive": 70,
-        "neutral": 30,
+        "positive": 0,
+        "neutral": 100,
         "negative": 0
       },
-      "analyzed_at": "2026-07-02T19:03:29.859Z"
+      "analyzed_at": "2026-07-02T19:18:59.965Z"
     },
     {
-      "id": "yjc_1",
+      "id": "foreignpolicy_4",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Is Cuba Really Next?",
+      "title_fa": "آیا کوبا واقعاً بعدی است؟",
+      "lead": "مقاله به بررسی احتمال تاثیر درگیری ایران و انتخابات میان‌دوره‌ای آتی آمریکا بر محاسبات ترامپ در قبال کوبا می‌پردازد. این تحلیل آینده سیاست خارجی آمریکا در منطقه را مورد بحث قرار می‌دهد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/01/michael-bustamante-cuba-trump-venezuela-rubio-regime-change-blockade/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 17:40:59 +0000",
+      "time": "۲۱:۱۰ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T19:18:59.965Z"
+    },
+    {
+      "id": "reuters_5",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Trump says the U.S. and Iran getting along very well - Reuters",
+      "title_fa": "ترامپ می‌گوید آمریکا و ایران در حال سازگاری بسیار خوبی هستند",
+      "lead": "دونالد ترامپ اظهار داشت که ایالات متحده و ایران در حال سازگاری بسیار خوبی با یکدیگر هستند. این اظهارات در حالی مطرح می‌شود که روابط دو کشور اغلب با تنش همراه بوده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSmVQdnh2NEFfRURhdUkyalRaYzc3WFduRjdGY2ZzcXhIUDJNUkhqY19Jb193Ri1tSjBjTmlUbHJiV1VuSkV6MUtOcVZQQ3BqZURsZGgtSnUxcGptTDlPZVN4M2ZxLUlaT1NkZUQzSWFiNFNPa2dOTjhoY0wwdXJreG1mRE5qdHJWMTdEbmVtYncxSFc4emhZNnllakk?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 12:59:34 GMT",
+      "time": "۱۶:۲۹ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T19:18:59.965Z"
+    },
+    {
+      "id": "yjc_6",
       "agencyId": "yjc",
       "keep": true,
       "title": "دستورالعمل مشترک ارزیابی روانی و اجتماعی دانشجویان تدوین شد",
       "title_fa": "دستورالعمل مشترک ارزیابی روانی و اجتماعی دانشجویان تدوین شد",
-      "lead": "رئیس اداره مددکاری اجتماعی معاونت درمان وزارت بهداشت از تدوین دستورالعمل مشترک میان دو معاونت وزارت بهداشت خبر داد. این دستورالعمل برای ارزیابی روانی ـ اجتماعی دانشجویان تهیه شده است.",
-      "category": "politics",
-      "region": "global",
+      "lead": "رئیس اداره مددکاری اجتماعی معاونت درمان وزارت بهداشت از تدوین دستورالعمل مشترک ارزیابی روانی و اجتماعی دانشجویان خبر داد. این دستورالعمل میان معاونت درمان و معاونت فرهنگی و دانشجویی وزارت بهداشت تدوین شده است.",
+      "category": "health",
+      "region": "iran",
       "sourceUrl": "https://www.yjc.ir/fa/news/9104087/دستورالعمل-مشترک-ارزیابی-روانی-و-اجتماعی-دانشجویان-تدوین-شد",
       "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-02T19:18:59.965Z"
+    },
+    {
+      "id": "rt_9",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "How the EU uses polls to manufacture consent",
+      "title_fa": "چگونه اتحادیه اروپا از نظرسنجی‌ها برای ایجاد رضایت عمومی استفاده می‌کند",
+      "lead": "این مقاله به بررسی چگونگی استفاده اتحادیه اروپا از نظرسنجی‌ها برای ساختن رضایت عمومی می‌پردازد. بر اساس یک نظرسنجی مغرضانه که توسط کمیسیون اروپا تامین مالی شده، شهروندان اتحادیه اروپا به طور گسترده از سیاست‌های بروکسل حمایت می‌کنند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642452-eu-eurobarometer-poll-consent/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
         "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Wed, 01 Jul 2026 18:08:33 +0000",
+      "time": "۲۱:۳۸ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T19:18:59.965Z"
+    },
+    {
+      "id": "guardian_10",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Canada to ​join Eurovision song contest from 2027",
+      "title_fa": "کانادا از سال ۲۰۲۷ به مسابقه آواز یوروویژن می‌پیوندد",
+      "lead": "کانادا از سال ۲۰۲۷ به مسابقه آواز یوروویژن خواهد پیوست که اولین شرکت‌کننده جدید از زمان استرالیا در سال ۲۰۱۵ است. مدیر این رویداد اعلام کرده که یوروویژن همچنان از جهان استقبال می‌کند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/jul/01/canada-joins-eurovision-song-contest",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 16:59:08 GMT",
+      "time": "۲۰:۲۹ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T19:18:59.965Z"
+    },
+    {
+      "id": "skynews_11",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "59 killed in floods and fears number of dead could rise",
+      "title_fa": "۵۹ نفر در سیلاب‌ها کشته شدند و بیم آن می‌رود که تعداد قربانیان افزایش یابد",
+      "lead": "به گفته یک سخنگوی دولت، حداقل ۵۹ نفر در پی وقوع سیلاب در ساحل عاج جان خود را از دست داده‌اند. نگرانی‌ها از افزایش احتمالی تعداد قربانیان همچنان ادامه دارد.",
+      "category": "disaster",
+      "region": "africa",
+      "sourceUrl": "https://news.sky.com/story/59-killed-in-ivory-coast-floods-amid-fears-number-of-dead-could-rise-13559592",
+      "newsValues": {
+        "timeliness": "high",
         "impact": "high",
         "conflict": false
       },
       "sentiment": {
-        "positive": 60,
-        "neutral": 40,
-        "negative": 0
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
       },
-      "analyzed_at": "2026-07-02T19:03:29.859Z"
+      "pubDate": "Wed, 01 Jul 2026 17:05:00 +0100",
+      "time": "۱۹:۳۵ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T19:18:59.965Z"
     },
     {
       "id": "yjc_0",
@@ -4414,7 +4602,7 @@
       "keep": true,
       "title": "Couple charged with felonies for Empire State Building climb-turned-proposal",
       "title_fa": "یک زوج به دلیل صعود از ساختمان امپایر استیت و پیشنهاد ازدواج در آن متهم به جنایت شدند",
-      "lead": "یک زوج به جرم صعود از آنتن ساختمان امپایر استیت برای یک پیشنهاد ازدواج غیرقانونی، با اتهامات جنایی روبرو شده‌اند. دادستان‌ها می‌گویند این فرد جسور به پلیس گفته که قصد داشته با این کار \"چیزی خاص\" برای نامزدی‌شان انجام دهد.",
+      "lead": "یک زوج به جرم صعود از آنتن ساختمان امپایر استیت برای یک پیشنها�� ازدواج غیرقانونی، با اتهامات جنایی روبرو شده‌اند. دادستان‌ها می‌گویند این فرد جسور به پلیس گفته که قصد داشته با این کار \"چیزی خاص\" برای نامزدی‌شان انجام دهد.",
       "category": "crime",
       "region": "global",
       "sourceUrl": "https://www.independent.co.uk/news/empire-state-building-new-york-police-jared-leto-manhattan-b3007778.html",
@@ -13209,7 +13397,7 @@
         "negative": 30
       },
       "pubDate": "Tue, 30 Jun 2026 15:09:04 GMT",
-      "time": "۱۸:۳۹ - ۹ تیر",
+      "time": "۱۸:۳۹ - ۹ ت��ر",
       "analyzed_at": "2026-07-02T10:34:46.155Z"
     },
     {
@@ -14794,7 +14982,7 @@
       "keep": true,
       "title": "تعطیلی سه‌شنبه ۱۶ تیر ابلاغ شد",
       "title_fa": "تعطیلی سه‌شنبه ۱۶ تیر ابلاغ شد",
-      "lead": "معاون اول رئیس‌جمهور تصویب‌نامه هیأت وزیران را ابلاغ کرد. این تصویب‌نامه مربوط به تعطیلی روز سه‌شنبه ۱۶ تیر است که به سازمان اداری و استخدامی کشور ارسال شد.",
+      "lead": "معاون اول رئیس‌جم��ور تصویب‌نامه هیأت وزیران را ابلاغ کرد. این تصویب‌نامه مربوط به تعطیلی روز سه‌شنبه ۱۶ تیر است که به سازمان اداری و استخدامی کشور ارسال شد.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://www.yjc.ir/fa/news/9103967/%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%DB%8C-%D8%B3%D9%87%E2%80%8C%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B6-%D8%AA%DB%8C%D8%B1-%D8%A7%D8%A8%D9%84%D8%A7%D8%BA-%D8%B4%D8%AF",
@@ -15390,7 +15578,7 @@
       "keep": true,
       "title": "نقشه اسرائیل برای لبنان از زبان نبیه بری",
       "title_fa": "نقشه اسرائیل برای لبنان از زبان نبیه بری",
-      "lead": "رئیس پارلمان لبنان به قصد و نیت واقعی رژیم صهیونیستی در قبال این کشور اشاره کرد. این اظهارات به بررسی برنامه‌های اسرائیل در منطقه و تاثیر آن بر لبنان می‌پردازد.",
+      "lead": "رئیس پارلمان لبنان به قصد و نیت واقعی رژیم صهیونیستی در قبال این کشور اشاره کرد. این اظ��ارات به بررسی برنامه‌های اسرائیل در منطقه و تاثیر آن بر لبنان می‌پردازد.",
       "category": "politics",
       "region": "middle_east",
       "sourceUrl": "https://www.mashreghnews.ir/news/1822674/%D9%86%D9%82%D8%B4%D9%87-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A7%D8%B2-%D8%B2%D8%A8%D8%A7%D9%86-%D9%86%D8%A8%DB%8C%D9%87-%D8%A8%D8%B1%DB%8C",
@@ -15702,7 +15890,7 @@
       "keep": true,
       "title": "KPMG appoints chair who claimed leak allegations were ‘completely false’ and called senator’s actions ‘inappropriate’",
       "title_fa": "KPMG رئیس هیئت‌مدیره‌ای را منصوب می‌کند که ادعاهای نشت اطلاعات را «کاملاً دروغ» خوانده بود",
-      "lead": "سناتور سبزها می‌گوید انتصاب مایکل ایبید «خطر تثبیت همان فرهنگ و رهبری را دارد که نیاز به تغییر دارند». این انتصاب پس از اتهامات نشت اطلاعات و واکنش‌های بحث‌برانگیز صورت گرفته است.",
+      "lead": "سناتور سبزها می‌گوید انتصاب مایکل ایبید «خطر تثبیت همان فرهنگ و رهبری را دارد که نیاز به تغییر دارند». این انتصاب پس ا�� اتهامات نشت اطلاعات و واکنش‌های بحث‌برانگیز صورت گرفته است.",
       "category": "culture",
       "region": "oceania",
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/02/new-kpmg-chair-michael-ebeid-claimed-leak-allegations-were-completely-false-ntwnfb",
@@ -16589,7 +16777,7 @@
       "agencyId": "yjc",
       "keep": true,
       "title": "تداوم حضور مردم سلماس در صد وبیست‌ و‌ سومین شب بیعت + تصاوی��",
-      "title_fa": "تداوم حضور مردم سلماس در صد و بیست و سومین شب بیعت",
+      "title_fa": "تد��وم حضور مردم سلماس در صد و بیست و سومین شب بیعت",
       "lead": "صد و بیست و سومین شب از قیام مردم شهرستان سلماس در راستای خونخواهی رهبر شهید برگزار شد. این حضور مردمی نشان‌دهنده تداوم بیعت و عزاداری برای رهبر فقید است.",
       "category": "politics",
       "region": "regional",
@@ -17144,7 +17332,7 @@
       "keep": true,
       "title": "2 arrested after apparent Empire State Building proposal",
       "title_fa": "۲ نفر پس از پیشنهاد ازدواج ظاهراً خطرناک در ساختمان امپایر استیت بازداشت شدند",
-      "lead": "دو نفر در منهتن پس از انجام یک پیشنهاد ازدواج ظاهراً خطرناک در بالای ساختمان نمادین امپایر استیت بازداشت شدند. این حادثه که در روز چهارشنبه رخ داد، توجه رسانه‌ها را به خود جلب کرده است.",
+      "lead": "دو نفر در منهتن پس از انجام یک پیشنهاد ازدواج ظاهراً خطرناک در بالای س��ختمان نمادین امپایر استیت بازداشت شدند. این حادثه که در روز چهارشنبه رخ داد، توجه رسانه‌ها را به خود جلب کرده است.",
       "category": "society",
       "region": "north america",
       "sourceUrl": "https://www.dw.com/en/2-arrested-after-apparent-empire-state-building-proposal/a-77792914?maca=en-rss-en-all-1573-xml-mrss",
@@ -19377,7 +19565,7 @@
       "agencyId": "foreignpolicy",
       "keep": true,
       "title": "USMCA Was Once Trump’s Brainchild. Now, It’s a Dead Deal Walking.",
-      "title_fa": "USMCA زمانی ایده ترامپ بود؛ اکنون، معامله‌ای شکست‌خورده است",
+      "title_fa": "USMCA زمانی ای��ه ترامپ بود؛ اکنون، معامله‌ای شکست‌خورده است",
       "lead": "توافق‌نامه تجاری USMCA، که زمانی ایده‌ی اص��ی ترامپ بود، اکنون به عنوان «معامله‌ای شکست‌خورده» توصیف می‌شود. کاخ سفید امیدوار است که بررسی‌های سالانه کسری تجاری ایالات متحده با مکزیک و کانادا را مهار کند.",
       "category": "economy",
       "region": "americas",
@@ -20261,7 +20449,7 @@
       "agencyId": "france24",
       "keep": true,
       "title": "Fact-checking Donald Trump's birthright citizenship claims",
-      "title_fa": "بررسی ادعاهای دونالد ترامپ درباره شهروندی از طریق تولد",
+      "title_fa": "بررسی ادعاهای دونالد ترامپ درباره شهروندی از ��ریق تولد",
       "lead": "دیوان عالی آمریکا ضربه بزرگی به تلاش دونالد ترامپ برای پایان دادن به شهروندی از طریق تولد وارد کرده است. این دادگاه حکم داده که کودکان متولد شده در آمریکا، صرف نظر از وضعیت مهاجرت والدینشان�� طبق قانون اساسی شهروند محسوب می‌شوند.",
       "category": "politics",
       "region": "americas",
@@ -20575,7 +20763,7 @@
       "lead": "یک فعال حوزه صنایع فر��نگی و خلاق بیان کرد که آینده این صنایع به هم���افزایی هنر، فناوری و اقتصاد خلاق بستگی دارد. او معتقد است که فناوری می‌تواند به فره��گ جان تازه ببخشد و آن را توسعه دهد.",
       "category": "culture",
       "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103735/وقتی-فناوری-به-فرهنگ-جان-��ازه-می‌دهد",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9103735/وقتی-فناوری-به-فرهن��-جان-��ازه-می‌دهد",
       "newsValues": {
         "timeliness": "high",
         "impact": "medium",
@@ -20884,7 +21072,7 @@
       "keep": true,
       "title": "خلاصه بازی انگلیس ۲ - کنگو ۱",
       "title_fa": "خلاصه بازی انگلیس ۲ - کنگو ۱",
-      "lead": "خلاصه بازی انگلیس ۲ - کنگو ۱ در چارچوب رقابت‌های جام جهانی ��۰۲۶ (مرحله یک شانزدهم نهایی).",
+      "lead": "خلاصه بازی انگلیس ۲ - کنگو ۱ د�� چارچوب رقابت‌های جام جهانی ��۰۲۶ (مرحله یک شانزدهم نهایی).",
       "category": "sports",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1174536/خلاصه-بازی-انگلی��-2-کنگو-1",
@@ -21216,7 +21404,7 @@
       "keep": true,
       "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
       "title_fa": "نیجریه به دنبال غرامت برای اموال ر��ا شده توسط شهروندان فراری از آفریقای جنوبی است",
-      "lead": "نیجریه قصد دارد برای اموالی که شهروندانش هنگام فرار از آفریقای جنوبی رها کرده‌اند، غرامت دریافت کند. کمیسر عالی نیجریه اعلا�� کرد که کسب‌وکارها و اموال ترک‌شده توسط بازگشتگان در حال مستندسازی هستند.",
+      "lead": "نیجریه قصد دارد برای اموالی که شهروندانش هنگام فرار از آفریقای جنوبی رها کرده‌ان��، غرامت دریافت کند. کمیسر عالی نیجریه اعلا�� کرد که کسب‌وکارها و اموال ترک‌شده توسط بازگشتگان در حال مستندسازی هستند.",
       "category": "politics",
       "region": "africa",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
@@ -21551,7 +21739,7 @@
       "agencyId": "foreignpolicy",
       "keep": true,
       "title": "The European Country That Figured Out Trump’s White House",
-      "title_fa": "کشور اروپایی که کاخ سفید ترامپ را شناخت",
+      "title_fa": "کش��ر اروپایی که کاخ سفید ترامپ را شناخت",
       "lead": "لهستان ک��وری اروپایی است که توانسته راه تعامل با ک��خ سفید ترامپ را پیدا کند. موفقیت آن تا حدی به دلیل روابط شخصی قوی بوده، اما تاریخ نشان می‌دهد که این بخت ممکن است برای همیشه پایدار نباشد.",
       "category": "politics",
       "region": "europe",
@@ -22023,1422 +22211,6 @@
       "pubDate": "Wed, 01 Jul 2026 14:39:10 +0000",
       "time": "۱۸:۰۹ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T19:19:06.977Z"
-    },
-    {
-      "id": "asriran_0",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "استاندار تهران: ظرفیت ۵۰۰ هزار پارکینگ برای شهر تهران در نظر گرفته شده است",
-      "title_fa": "استاندار تهران: ظرفیت ۵۰۰ هزار پارکینگ برای شهر تهران در نظر گرفته شده است",
-      "lead": "استاندار تهران از پیش‌بینی ظرفیت ۵۰۰ هزار پارکینگ برای شه�� تهران خبر داد. همچنین ۱۴ زائرسرا با امکانات بهداشتی و فرهنگی برای اسکان موقت زائرانی که از اقصی نقاط ایران به تهران می‌آیند، در نظر گرفته شده است.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174522/استاندار-تهران-ظرفیت-500-هزار-پارکینگ-برای-شهر-تهران-در-نظر-گرفته-شده-است",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 21:22:56 +0330",
-      "time": "۲۱:۲۲ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "asriran_2",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "تیموریان: میزبان دوست نداشت تیم ملی ایران صعود کند",
-      "title_fa": "تیموریان: میزبان دوست نداشت تیم ملی ایران صعود کند",
-      "lead": "آندرانیک تیموریان پس از باز��شت تیم ملی فوتبال ایران از جام جهانی، از شرایط میزبانی به شدت انتقاد کرد. وی حذف ایران از مسابقات را ناجوانمردانه خواند و ادعا کرد برگزارکنندگان تمایلی به صعود ایران به مرحله حذفی نداشتند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174527/تیموریان-میزبان-دوست-نداشت-تیم-ملی-ایران-صعود-کند",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "01 Jul 2026 21:39:48 +0330",
-      "time": "۲۱:۳۹ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "yjc_3",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "اسبقیان: حضور تیم ملی در جام جهانی علی‌رغم کارشکنی‌ها، یک پیروزی ارزشمند بود",
-      "title_fa": "اسبقیان: حضور تیم ملی در جام جهانی علی‌رغم کارشکنی‌ها، یک پیروزی ارزشمند بود",
-      "lead": "معاون وزیر ورزش و جوانان از عم��کرد تیم ملی در ج��م جهانی تقدیر کرد. وی برافراشته شدن پرچم ایران در آمریکا را پاسخی قاطع به تلاش‌های دشمنان ب��ای انزوای ورزش کشور دانست.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103749/اسبقیان-حضور-تیم-ملی-در-جام-جهانی-علی‌رغم-کارشکنی‌ها-یک-پیروزی-ارزشمند-بود",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 21:36:55 +0330",
-      "time": "۲۱:۳۶ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "irna_4",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "امضای پادشاه \"هری\" پای سند صعود انگلیس؛ کنگو سربلند بود",
-      "title_fa": "صعود انگلیس به جام‌جهانی ۲۰۲۶ با امضای پادشاه \"هری\"؛ کنگو سربلند بود",
-      "lead": "تیم ملی فوتبال انگلیس با پیروزی ۲ بر ۱ مقابل تیم شایسته کنگو، جواز حض��ر در جمع ۱۶ تیم برتر جام‌جهانی ۲۰۲۶ را کسب کر��. این نتیجه به معنای صعود انگلیس به مرحله بعدی رقابت‌ها است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.irna.ir/news/86198480/%D8%A7%D9%85%D8%B6%D8%A7%DB%8C-%D9%BE%D8%A7%D8%AF%D8%B4%D8%A7%D9%87-%D9%87%D8%B1%DB%8C-%D9%BE%D8%A7%DB%8C-%D8%B3%D9%86%D8%AF-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-%DA%A9%D9%86%DA%AF%D9%88-%D8%B3%D8%B1%D8%A8%D9%84%D9%86%D8%AF-%D8%A8%D9%88%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 18:04:48 GMT",
-      "time": "۲۱:۳۴ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "yjc_5",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "قلعه‌نویی: در جام‌جهانی بدشانس بودیم",
-      "title_fa": "قلعه‌نویی: در جام‌جهانی بدشانس بودیم",
-      "lead": "سرمربی تیم ملی فوتبال ایران اظهار داشت که این تیم در جام جهانی بدشانس بوده است. او افزود که با وجود مشکلات، تیم بازی‌های خوبی را به نمایش گذاشت.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103766/قلعه‌نویی-در-جام‌جهانی-بدشانس-بودیم",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "01 Jul 2026 21:33:13 +0330",
-      "time": "۲۱:۳۳ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "isna_6",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "مراسم بزرگداشت نخستین استاندار شهید کشور در گیلان برگزار شد",
-      "title_fa": "مراسم بزرگداشت نخستین استاندار شهید کشور در گیلان برگزار شد",
-      "lead": "آیین گرامیداشت شهید علی انصاری، ا��تاندار اسبق گیلان و نخستین استاندار شهید جمهوری اسلامی ایران برگزار شد. این مراسم همچنین یادبود شهید علیرضا نورانی، معاون عمرانی وی بود که در سالن غدیر استانداری گیلان برگزار گردید.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405041006387/%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AF%D8%A7%D8%B4%D8%AA-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D8%B4%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 17:58:50 GMT",
-      "time": "۲۱:۲۸ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "yjc_7",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "ممبینی: در جام جهانی فوتبال باکیفیتی را ارائه دادیم + فیلم",
-      "title_fa": "ممبینی: در جام جهانی فوتبال باکیفیتی را ارائه دادیم",
-      "lead": "دبیرکل فدراسیون فوتبال از عملکرد تیم ملی در جام جهانی دفاع کرد و از ثبت رکوردهای کیفی خبر داد. وی همچنین آخرین وضعیت رایزنی با AFC برای نهایی‌سازی نمایندگان باشگاهی ایران را تشریح کرد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103743/ممبینی-در-جام-جهانی-فوتبال-باکیفیتی-را-ارائه-دادیم-فیلم",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 21:28:17 +0330",
-      "time": "۲۱:۲۸ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "yjc_8",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "ماهواره‌های فعال ایران نقش مؤثری در مدیریت آب، کشاورزی، محیط زیست و بحران‌های طبیعی دارند + فیلم",
-      "title_fa": "ماهواره‌های فعال ایران نقش مؤثری در ��دیریت آب، کشاورزی، محیط زیست و بحران‌های طبیعی دارند",
-      "lead": "مسئول توسع�� خدمات فضایی پژوهشگاه فضایی ایران اعلام کرد که ماهواره‌های فعال کشور نقش مؤثری در مدیریت منابع آب، کشاورزی، محیط زیست و ب��ران‌های طبیعی ایفا می‌کنند. تصاویر ماهواره‌ای ابزاری کارآمد برای پایش این حوزه‌ها محسوب می‌شوند.",
-      "category": "science",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103734/ماهواره‌های-فعال-ایران-نقش-مؤثری-در-مدیریت-آب-کشاورزی-محیط-زیست-و-بحران‌های-طبیعی-دارند-فی��م",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 21:27:17 +0330",
-      "time": "۲۱:۲۷ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "yjc_9",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "زیرساخت‌های ارتباطی در محدوده مصلای تهران و مسیرهای تشییع رهبر شهید تقویت شد",
-      "title_fa": "زیرساخت‌های ارتباطی در محدوده مصل��ی تهران و مسیرهای تشییع رهبر شهید تقویت شد",
-      "lead": "وزیر ارتباطات از تقویت زیرساخت‌های ارتباطی و مخابراتی در محدوده مصلای تهران خبر داد. این تقویت در مسیرهای تشییع رهبر شهید انقلاب صورت گرفته است.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103764/زیرساخت‌های-ارتباطی-در-محدوده-مصلای-تهران-و-مسیرهای-تشییع-رهبر-شهید-تقویت-شد",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 21:25:05 +0330",
-      "time": "۲۱:۲۵ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "khabaronline_10",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "باهنر: بسیاری از کشورها خواستار خرید تجهیزات نظامی پیشرفته ایران هستند/  رهبر شهید الگوی تراز حکمرانی اسلامی است",
-      "title_fa": "باهنر: بسیاری از کشورها خواستار خرید تجهیزات نظامی پیشرفته ایران هستند؛ رهبر شهید الگوی حکمرانی اسلامی است",
-      "lead": "عضو مجمع تشخیص مصلحت نظام اعلام کرد که بسیاری از کشورها خواهان خرید تجهیزات نظامی پیشرفته ایران هستند. وی همچنین زندگی رهبر شهید انقلاب را الگویی استثنایی برای حکمرانی اسلامی و تشیع دانست که باید تدوین شود.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2240636/%D8%A8%D8%A7%D9%87%D9%86%D8%B1-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AA%D8%AC%D9%87%DB%8C%D8%B2%D8%A7%D8%AA-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 17:51:00 GMT",
-      "time": "۲۱:۲۱ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "asriran_11",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "بازگشت تیم ملی فوتبال ایران از جام جهانی ۲۰۲۶ (+عکس)",
-      "title_fa": "بازگشت تیم ملی فوتبال ایران از جام جهانی ۲۰۲۶",
-      "lead": "کاروان تیم ملی فوتبال ایران پس از شرکت در رقابت‌های جام جهانی ۲۰۲۶، به کشور بازگشت. این تیم که راهی مکزیک و آمریکا شده بود، بعدازظهر چهارشنبه ۱۰ تیرماه در میان استقبال پرشور هواداران ��ه میهن بازگشت.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174520/بازگشت-تیم-ملی-فوتبال-ایران-از-جام-جهانی-2026-عکس",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 21:15:39 +0330",
-      "time": "۲۱:۱۵ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "yjc_12",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "الجزیره: جنگ علیه ایران معادلات صنعت انرژی جهان را برای همیشه تغییر داد",
-      "title_fa": "الجزیره: جنگ علیه ایران معادلات صنعت انرژی جهان را برای همیشه تغییر داد",
-      "lead": "شبکه الجزیره گزارش داد که جنگ آمریکا و رژیم صهیونیستی علیه ایر��ن، ساختار صنعت انرژی جهان را برای همیشه دگرگون کرده است. این تغییرات با بازآرایی بازار نفت و گاز و تغییر مسیرهای انتقال انرژی همراه بوده است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103719/الجزیره-جنگ-علیه-ایران-معادلات-صنعت-انرژی-جهان-را-برای-همیشه-تغییر-داد",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "01 Jul 2026 21:14:37 +0330",
-      "time": "۲۱:۱۴ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "yjc_13",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "پزشکیان: اگر رهبری دستور می‌دادند مذاکره نشود قطعاً اطاعت می‌کردیم",
-      "title_fa": "پزشکیان: اگر رهبری دستور می‌دادند مذاکره نشود قطعاً اطاعت می‌کردیم",
-      "lead": "رئیس‌جمهور پزشکیان در واکنش به اتهامات مبنی بر عدم اطاعت دولت از نظر رهبری، ��اکید کرد که دولت همواره تابع نظر رهبر انقلاب بوده است. او افزود اگر رهبری دستور عدم مذاکره می‌دادند، قطعاً اطاعت می‌کردیم.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103756/پزشکیان-اگر-رهبری-دستور-می‌دادند-مذاکره-نشود-قطعاً-اطاعت-می‌کردیم",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 21:13:39 +0330",
-      "time": "۲۱:۱۳ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "mashregh_14",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "قلب‌هایی که برای ایران تپید",
-      "title_fa": "قلب‌هایی که برای ایران تپید",
-      "lead": "این خبر به احساسات همبستگی و وفاداری به ایران می‌پردازد. عنوان «قلب‌هایی که برای ایران تپید» نشان‌دهنده ابراز میهن‌پرستی و اتحاد در کشور است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1822509/%D9%82%D9%84%D8%A8-%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D9%BE%DB%8C%D8%AF",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 17:21:00 GMT",
-      "time": "۲۰:۵۱ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "asriran_0",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "نماز بر پیکر مطهر رهبر شهید: ساعت ۶ صبح یکشنبه",
-      "title_fa": "نماز بر پیکر مطهر رهبر شهید: ساعت ۶ صبح یکشنبه",
-      "lead": "درهای مصلای تهران از ساعت ۶ صبح روز سیزدهم به روی مردم گشوده می‌شود. مراسم وداع تا ساعت ۲۰ روز چهاردهم ادامه خواهد داشت تا پس از آن مقدمات برگزاری تشییع فراهم شود.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174511/نماز-بر-پیکر-مطهر-رهبر-شهید-ساعت-6-صبح-یکشنبه",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 20:50:26 +0330",
-      "time": "۲۰:۵۰ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "mehrnews_1",
-      "agencyId": "mehrnews",
-      "keep": true,
-      "title": "Hailstone in east of Tehran during summer",
-      "title_fa": "بارش تگرگ در شرق تهران در فصل تابستان",
-      "lead": "فیروزکوه در شرق پایتخت تهران در روزهای گرم تابستان شاهد بارش تگرگ بود. این پدیده جوی در ۱ ژوئیه رخ داده است.",
-      "category": "environment",
-      "region": "iran",
-      "sourceUrl": "https://en.mehrnews.com/news/245796/Hailstone-in-east-of-Tehran-during-summer",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 15:05:19 GMT",
-      "time": "۱۸:۳۵ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "reuters_2",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Iran warns of immediate response to any threat, cites US commitment to restrain Israel - Reuters",
-      "title_fa": "ایران نسبت به هرگونه تهدید هشدار واکنش فوری می‌دهد و به تعهد آمریکا برای مهار اسرائیل اشاره می‌کند",
-      "lead": "ایران هشد��ر داد ک�� به هرگونه تهدید پاسخی فوری خواهد داد. این کشور به تعهد آمریکا برای مهار اسرائیل استناد می‌کند.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWN4MVRUWnFzZkJNVjRneXVXUFlxcG0zekxKbXRqdml6bVhUUmI3ajV0THo0NVRTR1BaUjRXaVJHUjBoRVM3dlViekpfY1FtWERPODNGVEdiQ3BnajJ6YjNiZTZmYjM1ZzZ4NHN1UTRSbU1fdUtxc25MdGMzUjQtNjlKRGEzWFhXTjNHRS1ZX2pOYmtxUm1jSzRaSld6Wk9MSnUwYTJUUDI3bkhBSGprNUMtN0Rabk40d2JKTjV5VTJsV0RnMjVHaU9n?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Wed, 01 Jul 2026 11:11:43 GMT",
-      "time": "۱۴:۴۱ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "khabaronline_3",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "ببینید |  فخرفروشی بچه گانه ترامپ از هواپیمای جدیدش: هواپیمای قدیمی در شان آمریکا نبود",
-      "title_fa": "فخرفروشی بچه‌گانه ترامپ از هواپیمای جدیدش: هواپیمای قدیمی در شان آمریک�� نبود",
-      "lead": "دونالد ترامپ با ستایش از هواپیمای جدید ریاست‌جمهوری آمریکا، مدعی شد هواپیمای قبلی در شأن ایالات متحده نبوده است. او این هوا��یما را نمادی شایسته‌تر برای آمریکا توصیف کرد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2240892/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D9%81%D8%AE%D8%B1%D9%81%D8%B1%D9%88%D8%B4%DB%8C-%D8%A8%DA%86%D9%87-%DA%AF%D8%A7%D9%86%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B2-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF%D8%B4-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 18:15:00 GMT",
-      "time": "۲۱:۴۵ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "irna_4",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "اجرای پروژه ا��تقال گاز تبریز-بازرگان کلی��ی‌ترین گام در تحقق مطالبات اقتصادی کجاباد است",
-      "title_fa": "اجرای پروژه انتقال گاز تبریز-بازرگان گامی کلیدی در تحقق مطالبات اقتصادی",
-      "lead": "استاندار آذربایجان شرقی اعلام کرد که اجرای پروژه تعویض خط ��نتقال گاز ۴۰ اینچ تبری��-بازرگان، اول��یت مدیریت استان است. این پروژه علاوه بر ارتقای امنیت شبکه انرژی، زمینه‌ساز تو��عه صنعتی و اقتصادی منطقه خواهد بود.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86198522/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%DA%AF%D8%A7%D8%B2-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86-%DA%A9%D9%84%DB%8C%D8%AF%DB%8C-%D8%AA%D8%B1%DB%8C%D9%86-%DA%AF%D8%A7%D9%85-%D8%AF%D8%B1-%D8%AA%D8%AD%D9%82%D9%82-%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 18:13:24 GMT",
-      "time": "۲۱:۴۳ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "yjc_5",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "اقدامات فرهنگی کانون پرورش فکری در ایام ��درقه رهبر شهید + فیلم",
-      "title_fa": "اقدامات فرهنگی کانون پرورش فکری در ایام بدرقه رهبر شهید",
-      "lead": "کانون پ��ورش فکری کودکان به مناسبت ایام بدرقه رهبر شهید کشورمان اقداماتی فرهنگی را انجام داده است. این اقدامات شامل برنامه‌های مختلف برای کودکان و نوجو��نان است.",
-      "category": "culture",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103747/اقدامات-فرهنگی-کانون-پر��رش-فکر��-در-ایام-بدرقه-رهبر-شهید-فیلم",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 21:42:38 +0330",
-      "time": "۲۱:۴۲ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "asriran_6",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "صدور حکم ۵۰ س��������ل حبس برای سرکرده باند کلاهبرداری در البرز",
-      "title_fa": "صدور حکم ۵۰ سال حبس برای سرکرده باند کلاهبرداری در البرز",
-      "lead": "رئیس کل دادگستری استان البرز از صدور حکم قطعی برای اعضای یک باند ۱۲ نفره کلاهبرداری خبر داد. سرکرده این باند که با ادعای نفوذ در نهادهای ح��کمیتی اخاذی‌��ای کلان می‌کرد، به ۵۰ سال حبس محکوم شد.",
-      "category": "crime",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174528/صدور-حکم-50-سال-حبس-برای-سرکرده-باند-کلاهبرداری-در-البرز",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 80,
-        "negative": 10
-      },
-      "pubDate": "01 Jul 2026 21:41:33 +0330",
-      "time": "۲۱:۴۱ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "asriran_7",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "تصویری خ��ره‌کننده از هم‌نشینی سه قمر زحل در قاب کاسینی",
-      "title_fa": "تصویری خیره‌کننده از هم‌نشینی سه قمر زحل در قاب کاسینی",
-      "lead": "تصویری ماندگار از دوران مأموریت فضاپیمای کاسینی، سه قمر سیاره زحل را در یک قاب به نمایش گذاشته است. این عکس زیبایی‌های جهان هستی را به تصویر می‌کشد.",
-      "category": "science",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174526/تصویری-خیره-کننده-از-هم-نشینی-سه-قمر-زحل-در-قاب-کاسینی",
-      "newsValues": {
-        "timeliness": "low",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 21:41:18 +0330",
-      "time": "۲۱:۴۱ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "asriran_8",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "جزئیات برنامه‌های جدید دولت برای ترمیم بازار کار",
-      "title_fa": "جزئیات برنامه‌های جدید دو��ت برای ترمیم بازار کار",
-      "lead": "وزیر تعاون، کار و رفاه اجتماعی از تدوین برنامه‌هایی تازه برای تقویت بنگاه‌های اقتصادی و ترمیم بازار کار خبر داد. دولت به دنبال حفظ پایداری اشتغال با ابزارهای مالی نوین و غیرتورمی است.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174525/جزئیات-برنامه-های-جدید-دولت-برای-ترمیم-بازار-کار",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 21:38:02 +0330",
-      "time": "۲۱:۳۸ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "yjc_9",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "ترافیک سنگین در برخی از محورهای شمالی از جمله ��الوس",
-      "title_fa": "ترافیک سنگین در برخی از محورهای شمالی از جمله چالوس",
-      "lead": "ترافیک سنگین در محور چالوس مسیر جن��ب به شمال، حدفاصل پل زنگوله تا سیاه‌بیشه گزارش شده است. مسئول سالن عملیات مرکز مدیریت راه‌های کشور این خبر را اعلام کرد.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103768/ترافیک-سنگین-در-برخی-از-محورهای-��مالی-از-جمله-��الوس",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 21:37:54 +0330",
-      "time": "۲۱:۳۷ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "asriran_10",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "مغز چگونه در کسری از ثانیه چهره افراد را تشخیص می‌دهد؟",
-      "title_fa": "مغز چگونه در کسری از ثانیه چهره افراد را تشخیص می‌دهد؟",
-      "lead": "پژوهشگران به سازوکاری در مغز انسان پی برده‌اند که نشان می‌دهد تشخیص چهره تنها بر پایه آنچه چش�� می‌بیند نیست. این یافته می‌تواند درک دانشمندان از نحوه پردازش اطلاعات دیداری و اختلالات عصبی را متحول کند.",
-      "category": "science",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174524/مغز-چگونه-در-کسری-از-ثانیه-چهره-افراد-را-تشخیص-می-دهد",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "01 Jul 2026 21:34:28 +0330",
-      "time": "۲۱:۳۴ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "khabaronline_11",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "ببینید |  غول ترکیه به دنبال خرید علیرضا بیرانوند",
-      "title_fa": "غول ترکیه ��ه دنبال خرید علیرضا بیرانوند",
-      "lead": "شایعاتی درباره دریافت چند پیشنهاد جدی خارجی بر��ی دروازه‌بان ملی‌پوش ایران مطرح شده است. باشگاه بزرگ بشیکتاش ترکیه وضعیت علیرضا بیرانوند و شرایط انتقالش را به طور ویژه زیر نظر گرفته است.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2240890/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D8%BA%D9%88%D9%84-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%A8%DB%8C%D8%B1%D8%A7%D9%86%D9%88%D9%86%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 17:45:00 GMT",
-      "time": "۲۱:۱۵ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "khabaronline_12",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "پایان فیلمبرداری و آغاز مراحل فنی فیلم کوتاه «گگه»",
-      "title_fa": "پایان فیلمبرداری و آغاز مراحل فنی فیلم کوتاه «گگه»",
-      "lead": "فیلم کوتاه «گگه» به کارگردانی امیرسجاد عالی‌زاده با اتمام فیلمبرداری وارد مراحل فنی شد. این اثر در حال آماده‌سازی برای اکران است.",
-      "category": "art",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2240715/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%81%DB%8C%D9%84%D9%85%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%88-%D8%A2%D8%BA%D8%A7%D8%B2-%D9%85%D8%B1%D8%A7%D8%AD%D9%84-%D9%81%D9%86%DB%8C-%D9%81%DB%8C%D9%84%D9%85-%DA%A9%D9%88%D8%AA%D8%A7%D9%87-%DA%AF%DA%AF%D9%87",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 17:45:00 GMT",
-      "time": "۲۱:۱۵ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "khabaronline_13",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "جزئیات مراسم وداع و تشییع رهبر شهید اعلام شد؛ اقامه نماز ساعت ۶ صبح یکشنبه",
-      "title_fa": "جزئیات مراسم وداع و تشییع رهبر شهید اعلام شد؛ اقامه نماز ساعت ۶ صبح یکشنبه",
-      "lead": "مسئول ��تاد مراسم وداع، نماز و تشییع امام شهید، جزئیات این مراسم را اعلام کرد. اقامه نماز بر پیکر م��هر رهبر شهید ساعت ۶ صبح روز یکشنبه برگزار می‌شود.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2240941/%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D9%88%D8%AF%D8%A7%D8%B9-%D9%88-%D8%AA%D8%B4%DB%8C%DB%8C%D8%B9-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF-%D8%A7%D9%82%D8%A7%D9%85%D9%87-%D9%86%D9%85%D8%A7%D8%B2-%D8%B3%D8%A7%D8%B9%D8%AA",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 17:43:26 GMT",
-      "time": "۲۱:۱۳ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "irna_14",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "المپ��اد کشتی آزاد نونهالان در کرمانشاه",
-      "title_fa": "المپیاد کشتی آزاد نونهالان در کرمانشاه",
-      "lead": "المپیاد کشتی آزاد ��ونهالان استان کرمانشاه با هدف شناسایی و استعدادیابی کشتی‌گیرا�� در حال برگزاری است. این مسابقات از امروز چهارشنبه به م��ت سه روز در کرمانشاه ادامه دارد.",
-      "category": "sports",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/photo/86198505/%D8%A7%D9%84%D9%85%D9%BE%DB%8C%D8%A7%D8%AF-%DA%A9%D8%B4%D8%AA%DB%8C-%D8%A2%D8%B2%D8%A7%D8%AF-%D9%86%D9%88%D9%86%D9%87%D8%A7%D9%84%D8%A7%D9%86-%D8%AF%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 17:42:53 GMT",
-      "time": "۲۱:۱۲ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "dw_0",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "Russia's fuel crisis: Is Putin under pressure?",
-      "title_fa": "بحران سوخت روسیه: آیا پوتین تحت فشار است؟",
-      "lead": "کارزار طولانی‌مدت اوکراین علیه زیرساخت‌های انرژی روسیه، عرضه سوخت و لجستیک نظامی را مختل کرده است. با افزایش کمبودها در کریمه اشغالی، آیا این فشار پوتین را به سمت مذاکرات سوق می‌دهد؟",
-      "category": "military",
-      "region": "eurasia",
-      "sourceUrl": "https://www.dw.com/en/russia-s-fuel-crisis-is-putin-under-pressure/a-77783803?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 70,
-        "negative": 30
-      },
-      "pubDate": "Wed, 1 Jul 2026 14:37:00 GMT",
-      "time": "۱۸:۰۷ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "aljazeera_1",
-      "agencyId": "aljazeera",
-      "keep": true,
-      "title": "Sabalenka overcomes Kessler at Wimbledon, sets up Ostapenko clash",
-      "title_fa": "سابالنکا بر کِسلر در ویمبلدون غلبه کرد و به مصاف اوستاپنکو می‌رود",
-      "lead": "آرینا سابال��کا، بخت اول قهرمانی، در مسابقه دور سی و دوم ویمبلدون به مصاف یلنا اوستاپنکو، قهرمان سابق اوپن فرانسه، خواهد رفت. این رویارویی یک چالش مهم برای هر دو بازیکن خواهد بود.",
-      "category": "sport",
-      "region": "global",
-      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/1/sabalenka-overcomes-kessler-at-wimbledon-sets-up-ostapenko-clash?traffic_source=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 14:32:01 +0000",
-      "time": "۱۸:۰۲ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "guardian_2",
-      "agencyId": "guardian",
-      "keep": true,
-      "title": "Venezuelan police officers arrested over alleged looting after earthquakes",
-      "title_fa": "دستگیری افسران پلیس ونز��ئلا به اتهام غارت پس از زلزله",
-      "lead": "چهار افسر پلیس ونزوئلا به اتهام غارت پول از زیر آوار زلزله دستگیر و با خطر اخراج مواجه هستند. خشم از مقامات و دولت در حالی که تیم‌های نجات به دنبال بازماندگان هستند، افزایش یافته است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.theguardian.com/world/2026/jul/01/venezuela-police-officers-arrested-alleged-looting-after-earthquakes",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Wed, 01 Jul 2026 14:27:15 GMT",
-      "time": "۱۷:۵۷ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "dw_3",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "Japan's new joint custody law reshapes divorce debate",
-      "title_fa": "قانون جدید حضانت مشترک ژاپن بحث طلاق را تغییر می‌دهد",
-      "lead": "با معرفی قانون حضانت مشترک در ژاپن، برخی زوج‌ها جدایی را آسان‌تر می‌یابند. اما این اصلاحات بحث‌هایی را برانگیخته است که آیا منافع کودکان واقعاً در سیستمی که هنوز توسط والدین ��داره می‌شود، محوری است.",
-      "category": "culture",
-      "region": "asia",
-      "sourceUrl": "https://www.dw.com/en/japan-s-new-joint-custody-law-reshapes-divorce-debate/a-77789539?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 80,
-        "negative": 10
-      },
-      "pubDate": "Wed, 1 Jul 2026 14:25:00 GMT",
-      "time": "۱۷:۵۵ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "dw_4",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "China's tech rise reshapes the global space race",
-      "title_fa": "خیزش فناوری چین، رقابت فضایی جهانی را ت��ییر می‌دهد",
-      "lead": "چین در رتبه‌ب��دی���های تحقیقات جهانی پیشتاز شده و جاه‌طلبی‌های خود را در فضا گسترش می‌دهد. با رهبری تکنولوژیکی رو به رشد، پکن خود را به عنوان رقیبی برای ایالات متحده در مقیاس جهانی مطرح می‌کند.",
-      "category": "technology",
-      "region": "asia",
-      "sourceUrl": "https://www.dw.com/en/china-s-tech-rise-reshapes-the-global-space-race/a-77790036?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 90,
-        "negative": 0
-      },
-      "pubDate": "Wed, 1 Jul 2026 14:25:00 GMT",
-      "time": "۱۷:۵۵ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "france24_5",
-      "agencyId": "france24",
-      "keep": true,
-      "title": "French government to face no-confidence vote over handling of deadly heatwave",
-      "title_fa": "دولت فرانسه به دلیل مدیریت موج گرمای مرگبار با رأی عدم اعتماد روبرو می‌شود",
-      "lead": "حزب سبز ��رانسه اعلام کرده است که به دلیل مدیریت دولت سباستین لکورنو در قبال موج گرمای اواخر ژوئن، که منجر به حداقل 1000 مرگ و میر اضافی شده، طرح عدم اعتماد را ارائه خواهد کرد. این اقدام بر سر سلامت عمومی و پاسخگویی دولتی بحث ایجاد کرده است.",
-      "category": "politics",
-      "region": "europe",
-      "sourceUrl": "https://www.france24.com/en/france/20260701-french-government-to-face-no-confidence-vote-over-handling-of-deadly-heatwave",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 30,
-        "negative": 70
-      },
-      "pubDate": "Wed, 01 Jul 2026 14:24:38 GMT",
-      "time": "۱۷:۵۴ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "rt_6",
-      "agencyId": "rt",
-      "keep": true,
-      "title": "Air conditioning is the EU’s freedom test",
-      "title_fa": "تهویه مطبوع، آزمون آزادی اتحادیه اروپا اس��",
-      "lead": "وقتی سطح قابل قبول ناراحتی به یک سؤال سیاست عمومی تبدیل شود، این مسئله به همین جا ختم نخواهد شد. این مقاله تحلیل می‌کند که چگونه موضوع تهویه مطبوع می‌تواند به نما��ی از محدودیت‌های آزادی فردی در سیاست‌گذاری‌های اتحادیه اروپا تبدیل شود.",
-      "category": "politics",
-      "region": "europe",
-      "sourceUrl": "https://www.rt.com/news/642437-air-conditioning-eu-freedom/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 80,
-        "negative": 20
-      },
-      "pubDate": "Wed, 01 Jul 2026 14:13:09 +0000",
-      "time": "۱۷:۴۳ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "dw_7",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "Bundesliga: Kathleen Krüger takes over as Hamburg's head of sport",
-      "title_fa": "بو��دسلیگا: کاتلین کروگر به عنوان رئیس ورزشی ها��بورگ انتخاب شد",
-      "lead": "هامبورگ کاتلین کروگر را به عنوان عضو جدید هیئت مدیره و مسئول ورزش این باشگاه معرفی کرده است. او اولین زنی است که به طور دائمی چنین نقشی را در یک باشگاه بوندسلیگا بر عهده می‌گیرد.",
-      "category": "sport",
-      "region": "europe",
-      "sourceUrl": "https://www.dw.com/en/bundesliga-kathleen-krüger-takes-over-as-hamburg-s-head-of-sport/a-77135968?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 90,
-        "neutral": 10,
-        "negative": 0
-      },
-      "pubDate": "Wed, 1 Jul 2026 14:13:00 GMT",
-      "time": "۱۷:۴۳ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "nytimes_8",
-      "agencyId": "nytimes",
-      "keep": true,
-      "title": "Catholic Group Consecrates 4 Bishops, Risking Break With Vatican",
-      "title_fa": "گروه کاتولیک با انتصاب ۴ اسقف، خطر جدایی از واتیکان را به جان خرید",
-      "lead": "جامعه سنتی سنت پیوس دهم مراسم انتصاب اسقف‌ها را برگزار کرد، حتی پس از اینکه واتیکان هشدار داد این اقدام به تکفیر اسقف‌ها منجر خواهد شد. این حرکت می‌تواند به جدایی بزرگی در کلیسای کاتولیک منجر شود.",
-      "category": "religion",
-      "region": "global",
-      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/europe/vatican-bishops-church-excommunication.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 40,
-        "negative": 60
-      },
-      "pubDate": "Wed, 01 Jul 2026 14:01:44 +0000",
-      "time": "۱۷:۳۱ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "guardian_9",
-      "agencyId": "guardian",
-      "keep": true,
-      "title": "Australia’s mortgage burden is now above 1989 levels – when interest rates were 17%",
-      "title_fa": "بار وام مسکن استرالیا اکنون بالاتر از سطح سال ۱۹۸۹ است – زمانی که نرخ بهره ۱۷٪ بود",
-      "lead": "تحلیل KPMG نشان می‌دهد که بار ملی وام مسکن در استرا��یا اکنون سنگین‌تر از زمانی است که نرخ وام‌دهی به اوج خود در سال ۱۹۸۹ رسید. این تحلیل ادعاهای مبنی بر اینکه نسل‌های قدیمی‌تر در زمینه خرید و پرداخت خانه وضعیت سخت‌تری داشتند را رد می‌کند.",
-      "category": "economy",
-      "region": "oceania",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/02/australia-mortgage-burden-above-1989-levels",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "Wed, 01 Jul 2026 14:01:37 GMT",
-      "time": "۱۷:۳۱ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "france24_10",
-      "agencyId": "france24",
-      "keep": true,
-      "title": "Spain records more than 1,000 excess deaths due to June heatwave",
-      "title_fa": "اسپانیا بیش از ۱۰۰۰ مورد مرگ و میر اضافی ناشی از موج گرمای ژوئن را ثبت کرد",
-      "lead": "اسپانیا ۱۰۲۸ مورد مرگ و میر اضافی را به موج گرمای شدیدی که هفت�� گذشته اروپا را در نوردید، نسبت داده است. این رقم بیش از دو برابر تعداد مرگ و میرهای مرتبط با گرما در سال گذشته است.",
-      "category": "environment",
-      "region": "europe",
-      "sourceUrl": "https://www.france24.com/en/europe/20260701-spain-records-more-than-1-000-excess-deaths-due-to-june-heatwave",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Wed, 01 Jul 2026 13:58:19 GMT",
-      "time": "۱۷:۲۸ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "foreignpolicy_11",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "How to Spin an Empire",
-      "title_fa": "چگونه یک امپراتوری را تبلیغ کنیم",
-      "lead": "این مقاله به بررسی تأثیر امپریالیسم ایالات متحده به عنوان الهام‌بخش و مانع می‌پردازد. این تحلیل در بستر روابط بین‌الملل و تاریخ‌نگاری سیاسی قرار می‌گیرد.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/01/trump-cuba-imperialism-history-empire-cold-war-books/",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 90,
-        "negative": 10
-      },
-      "pubDate": "Wed, 01 Jul 2026 13:57:36 +0000",
-      "time": "۱۷:۲۷ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "france24_12",
-      "agencyId": "france24",
-      "keep": true,
-      "title": "Fixing fast fashion: France will pay you to repair your clothes",
-      "title_fa": "اصلاح مد سریع: فرانسه برای تعمیر لباس‌های شما هزینه پرداخت می‌کند",
-      "lead": "لباس‌های پاره شده شما سزاوار جایی بهتر از ته کمد یا سطل زباله هستند. دولت فرانسه اکنون برای تعمیر لباس‌ها به مردم پول می‌دهد تا عمر آن‌ها را افزایش داده و از تولید زباله جلوگیری کند.",
-      "category": "environment",
-      "region": "europe",
-      "sourceUrl": "https://www.france24.com/en/tv-shows/down-to-earth/20260701-fixing-fast-fashion-france-will-pay-you-to-repair-your-clothes",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 90,
-        "neutral": 10,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 13:51:57 GMT",
-      "time": "۱۷:۲۱ - ��۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "rt_13",
-      "agencyId": "rt",
-      "keep": true,
-      "title": "Afghanistan launches drone strikes inside Pakistan",
-      "title_fa": "افغانستان حملات پهپادی در داخل پاکستان انجام داد",
-      "lead": "افغانستان حملات پهپادی را در داخل پاکستان انجام داد، چند روز پس از اقدام مشابه اسلام‌آباد. این حملات نشان‌دهنده تشدید تنش‌ها در مرزهای دو کشور است.",
-      "category": "military",
-      "region": "asia",
-      "sourceUrl": "https://www.rt.com/india/642440-afghanistan-pakistan-drone-isis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Wed, 01 Jul 2026 13:30:57 +0000",
-      "time": "۱۷:۰۰ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "france24_14",
-      "agencyId": "france24",
-      "keep": true,
-      "title": "No, this video doesn’t show Muslims enslaving Christian Africans",
-      "title_fa": "خیر، این ویدئو بردگی مسلمانان از مسیحیان آفریقایی را نشان نمی‌دهد",
-      "lead": "ویدئویی وایرال شده که مردان دستبندزده را در حال راه رفتن در یک صف نشان می‌دهد، توسط حساب‌های اسلام‌هراسانه با ادعای بردگی مسلمانان از مسیحیا�� آفریقایی منتشر شده است. با این حال، این ویدئو از بافت اصلی خود خار�� شده است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.france24.com/en/africa/20260701-video-does-not-show-muslims-enslaving-christian-africans",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 40,
-        "negative": 60
-      },
-      "pubDate": "Wed, 01 Jul 2026 13:28:56 GMT",
-      "time": "۱۶:۵۸ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "france24_0",
-      "agencyId": "france24",
-      "keep": true,
-      "title": "FRANCE 24 meets families desperately searching for Venezuela earthquake missing",
-      "title_fa": "فرانس ۲۴ با خانواده‌های قربانیان زلزله ونزوئلا که ناامیدانه در جستجوی مف��ودان هستند، دیدار می‌کند",
-      "lead": "یک هفته پس از وقوع دو زمی��‌لرزه ویرانگر در ونزوئلا، بسیاری از خانواده‌ها همچنان در میان آوارها به دنبال عزیزان گمشده خود می‌گردند، حتی با اینکه امید به یافتن بازماندگان در حال ����اهش است. فرانس ۲۴ به لا گوایرا، منطقه‌ای که بیشترین آسیب را از زلزله دیده است، سفر کرده است.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://www.france24.com/en/video/20260701-france-24-meets-families-desperately-searching-for-venezuela-earthquake-missing",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Wed, 01 Jul 2026 13:27:48 GMT",
-      "time": "۱۶:۵۷ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "rt_1",
-      "agencyId": "rt",
-      "keep": true,
-      "title": "Britain suffers biggest wealth slump since Covid-19 – UBS",
-      "title_fa": "UBS: بریتانیا از زمان کووید-۱۹ تاکنون بزرگترین کاهش ثروت را تجربه کرده است",
-      "lead": "بر اساس گزارش ثروت جهانی UBS در سال ۲۰۲۶، بریتانیا از سال ۲۰۲۰ بزرگترین کاهش ثروت خانوار را در میان اقتصادهای توسعه‌یافته تجربه کرده است. برای مطالعه کامل مقاله به RT.com مراجعه کنید.",
-      "category": "economy",
-      "region": "europe",
-      "sourceUrl": "https://www.rt.com/news/642438-britain-biggest-wealth-slump-ubs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Wed, 01 Jul 2026 13:27:39 +0000",
-      "time": "۱۶:۵۷ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "france24_2",
-      "agencyId": "france24",
-      "keep": true,
-      "title": "The world's top cities to live in, according to Monocle magazine",
-      "title_fa": "به انتخاب مجله مونوکل: برترین شهرهای جهان بر��ی زندگی",
-      "lead": "مجله سبک زندگی مونوکل به تازگی «نظرسنجی کیفیت زندگی» خود را منتشر کرده است. این رتبه‌بندی بر اساس داده‌های سخت نیست، بلکه بر اساس احساس واقعی زندگی در شهرها انجام شده است.",
-      "category": "lifestyle",
-      "region": "global",
-      "sourceUrl": "https://www.france24.com/en/the-world-s-top-cities-to-live-in-according-to-monocle-magazine",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 60,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 13:16:33 GMT",
-      "time": "۱۶:۴۶ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "dw_3",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "Algeria's parliamentary vote raises questions on real change",
-      "title_fa": "انتخابات پارلمانی الجزایر ��ؤالاتی را درباره تغییر واقعی مطرح می‌کند",
-      "lead": "هفت سال پس از اعتراضات حراک برای دموکراسی، الجزایر در حال انتخاب پارلمان جدیدی است. آیا این رأی‌گیری می‌تواند جنبش سیاسی جدیدی را شعله‌ور کند یا وضعیت موجود را تثبیت خواهد کرد؟",
-      "category": "politics",
-      "region": "africa",
-      "sourceUrl": "https://www.dw.com/en/algeria-s-parliamentary-vote-raises-questions-on-real-change/a-77787095?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 80,
-        "negative": 10
-      },
-      "pubDate": "Wed, 1 Jul 2026 13:04:00 GMT",
-      "time": "۱۶:۳۴ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "guardian_4",
-      "agencyId": "guardian",
-      "keep": true,
-      "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
-      "title_fa": "عفو بین‌الملل: نیروهای پشتیبانی سریع سودان در الفاشر مرتکب جنایت علیه بشریت شده‌اند",
-      "lead": "یک گزارش، نیروهای شبه‌نظامی را به جنایات از جمله پاکسازی قومی در کارزار سیستماتیک علیه غیرنظامیان متهم می‌کند. نیروهای پشتیبانی سریع شبه‌نظامی سودان در جریان تلاش برای تصرف الفاشر، مرتکب جنایت علیه بشریت و پاکسا��ی قومی شده‌اند.",
-      "category": "military",
-      "region": "africa",
-      "sourceUrl": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 5,
-        "negative": 95
-      },
-      "pubDate": "Wed, 01 Jul 2026 12:45:00 GMT",
-      "time": "۱۶:۱۵ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "bbc_5",
-      "agencyId": "bbc",
-      "keep": true,
-      "title": "Canada to make Eurovision Song Contest debut in 2027",
-      "title_fa": "کانادا در سال ۲۰۲۷ برای اولین بار در مسابقه آواز یوروویژن شرکت می‌کند",
-      "lead": "این کشور از زمان پیوستن استرالیا در سال ۲۰۱۵، به اولین شرکت‌کننده جدید در این رقابت‌ها تبدیل می‌شود. کانادا قرار است در مسابقه آواز یوروویژن ۲۰۲۷ برای اولین بار حضور پیدا کند.",
-      "category": "culture",
-      "region": "global",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 12:30:56 GMT",
-      "time": "۱۶:۰۰ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "dw_6",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "Canada to compete in 2027 Eurovision Song Contest",
-      "title_fa": "کانادا در مسابقه آواز یوروویژن ۲۰۲۷ شرکت خواهد کرد",
-      "lead": "مسابقه آواز یوروویژن قرار است میزبان یک شرکت‌کننده غیراروپایی دیگر، یعنی کانادا، باشد. وزیر دارایی این کشور گفت که این رویداد «سکویی برای درخشش کانادا» در زمانی است که تنش‌های دیپلماتیک افزایش یافته است.",
-      "category": "culture",
-      "region": "global",
-      "sourceUrl": "https://www.dw.com/en/canada-to-compete-in-2027-eurovision-song-contest/a-77787878?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "Wed, 1 Jul 2026 12:00:00 GMT",
-      "time": "۱۵:۳۰ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "dw_7",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "Hydration breaks: The most controversial issue at the World Cup",
-      "title_fa": "استراحت‌های آبرسانی: بحث‌برانگیزترین مسئله در جام جهانی",
-      "lead": "استراحت‌های اجبار�� برای آبرسانی در جام جهانی ۲۰۲۶، بحث‌هایی را در سکوها، داخل زمین و فراتر از آن برانگ��خته است. این موضوع به یکی از بحث‌برانگیزترین مسائل مسابقات تبدیل شده ا��ت.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.dw.com/en/hydration-breaks-the-most-controversial-issue-at-the-world-cup/a-77783435?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 90,
-        "negative": 10
-      },
-      "pubDate": "Wed, 1 Jul 2026 11:40:00 GMT",
-      "time": "۱۵:۱۰ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "dw_8",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "Sudan's RSF accused of crimes against humanity in el-Fasher",
-      "title_fa": "نیروهای پشتیبانی سریع سودان به جنایت علیه بشریت در الفاشر متهم شدند",
-      "lead": "عفو بین‌الملل می‌گوید شبه‌نظامیان نیروهای پشتیبانی سریع سودان در حمله به شهر الفاشر و در می��نه جنگ داخلی طولانی‌مدت با ارتش سودان، مرتکب پاکسازی قومی و جنایت علیه بشریت شده‌اند. این اتهامات بر اساس گزارش‌های جمع‌آوری شده است.",
-      "category": "military",
-      "region": "africa",
-      "sourceUrl": "https://www.dw.com/en/sudan-s-rsf-accused-of-crimes-against-humanity-in-el-fasher/a-77781532?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 5,
-        "negative": 95
-      },
-      "pubDate": "Wed, 1 Jul 2026 11:27:00 GMT",
-      "time": "۱۴:۵۷ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "dw_9",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "German prosecutors arrest Rwanda genocide suspect",
-      "title_fa": "دادستان‌های آلمانی مظنون نسل‌کشی رواندا را دستگیر کردند",
-      "lead": "یک شهروند آلما��ی-رواندایی به ظن همدستی در قتل‌های دوران نسل‌کشی سال ۱۹۹۴ رواندا دستگیر شده است. گمان می‌رود او شخصاً در قتل یکی از قربانیان دست داشته باشد.",
-      "category": "justice",
-      "region": "global",
-      "sourceUrl": "https://www.dw.com/en/german-prosecutors-arrest-rwanda-genocide-suspect/a-77784724?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 70,
-        "negative": 10
-      },
-      "pubDate": "Wed, 1 Jul 2026 11:14:00 GMT",
-      "time": "۱۴:۴۴ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "dw_10",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "Ahead of NATO summit, Turkey arrests more than 200 activists",
-      "title_fa": "پیش از اجلاس ناتو، ��رکیه بیش از ۲۰۰ فعال را دستگیر کرد",
-      "lead": "معترضان پیش از اجلاس آتی ناتو در آنکارا به وضوح ناخواسته هستند. در میان ممنوعیت سختگیرانه تجمعات عمومی، ۲۲۵ فعال حقوق بشر و محیط زیست و همچنین روزنامه‌نگار تاکنون دستگیر شده‌اند.",
-      "category": "diplomacy",
-      "region": "europe",
-      "sourceUrl": "https://www.dw.com/en/ahead-of-nato-summit-turkey-arrests-more-than-200-activists/a-77777671?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Wed, 1 Jul 2026 10:17:00 GMT",
-      "time": "۱۳:۴۷ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "skynews_11",
-      "agencyId": "skynews",
-      "keep": true,
-      "title": "At least six people killed in Belgian apartment block fire",
-      "title_fa": "حداقل شش نفر در آتش‌سوزی ساخ��مان آپار��مانی در بل��یک کشته شدند",
-      "lead": "پلیس بلژیک اعلام کرد که حداقل شش ��فر در یک آتش‌سوزی در یک بلوک آپارتمانی در این کشور کشته شده‌��ند. این حادثه تلفات قابل توجهی در پی داشته است.",
-      "category": "disaster",
-      "region": "europe",
-      "sourceUrl": "https://news.sky.com/story/several-killed-in-belgian-apartment-block-fire-13559455",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Wed, 01 Jul 2026 10:21:00 +0100",
-      "time": "۱۲:۵۱ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "dw_12",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "Digital euro: The plan to Trump-proof the EU's economies",
-      "title_fa": "یوروی دیجیتال: طرحی برای محافظت اقتصادهای اتحادیه اروپا در برابر ترامپ",
-      "lead": "بانک مرکزی اتحادیه اروپا در حال آماده‌سازی یوروی دیجیتال برای کاهش وابستگی به ویزا، مسترکارت و اپل‌پی است. موفقیت این طرح به ارائه یک سیستم پرداخت آسان برای مصرف‌کنندگان، بدون ایجاد فرار سرمایه از سپرده‌های بانکی بستگی دارد.",
-      "category": "economy",
-      "region": "europe",
-      "sourceUrl": "https://www.dw.com/en/digital-euro-the-plan-to-trump-proof-the-eu-s-economies/a-77686564?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 50,
-        "negative": 10
-      },
-      "pubDate": "Wed, 1 Jul 2026 09:11:00 GMT",
-      "time": "۱۲:۴۱ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "guardian_13",
-      "agencyId": "guardian",
-      "keep": true,
-      "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
-      "title_fa": "«اگر بمانم به من حمله خواهند کرد»: مهاجران در آفریقای جنوبی در میان خشونت و اعتراضات ضدخارجی‌ها برای امنیت خود فرار می‌کنند",
-      "lead": "بیش از ۲۰۰۰ معترض ضدخارجی در مرکز شهر دوربان راهپیمایی کردند در حالی که مهلت خودسرانه برای مهاجران غیرقانونی برای ترک کشور به پایان رسید. آفریقای جنوبی در روز سه‌شنبه در حالی که اعتراضات گسترده ضد مهاجرت در سراسر کشور برگزار می‌شد، در حالتی از انتظار به سر می‌برد.",
-      "category": "society",
-      "region": "africa",
-      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Tue, 30 Jun 2026 16:43:32 GMT",
-      "time": "۲۰:۱۳ - ۹ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
-    },
-    {
-      "id": "skynews_14",
-      "agencyId": "skynews",
-      "keep": true,
-      "title": "Man guilty of attempting to murder children in stabbings that sparked Dublin riots",
-      "title_fa": "مردی به اتهام تلاش برای قتل کودکان در حملات چاقوکشی که منجر به شورش‌های دوبلین شد، مجرم شناخته شد",
-      "lead": "مردی به اتهام تلاش برای قتل سه کودک در دوبلین مجرم شناخته شد. این حادثه چاقوکشی پیشتر منجر به شورش‌های گسترده در این شهر شده بود.",
-      "category": "crime",
-      "region": "europe",
-      "sourceUrl": "https://news.sky.com/story/man-guilty-of-attempting-to-murder-children-in-dublin-stabbing-13558883",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Mon, 29 Jun 2026 12:47:00 +0100",
-      "time": "۱۵:۱۷ - ۸ تیر",
-      "analyzed_at": "2026-07-01T19:08:14.887Z"
     }
   ]
 }
