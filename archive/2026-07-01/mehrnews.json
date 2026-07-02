@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "mehrnews",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "mehrnews_3",
@@ -578,6 +578,30 @@
       "pubDate": "Wed, 01 Jul 2026 11:28:10 GMT",
       "time": "۱۴:۵۸ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T18:49:10.650Z"
+    },
+    {
+      "id": "mehrnews_1",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Hailstone in east of Tehran during summer",
+      "title_fa": "بارش تگرگ در شرق تهران در فصل تابستان",
+      "lead": "فیروزکوه در شرق پایتخت تهران در روزهای گرم تابستان شاهد بارش تگرگ بود. این پدیده جوی در ۱ ژوئیه رخ داده است.",
+      "category": "environment",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245796/Hailstone-in-east-of-Tehran-during-summer",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 15:05:19 GMT",
+      "time": "۱۸:۳۵ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T19:08:14.887Z"
     }
   ]
 }
