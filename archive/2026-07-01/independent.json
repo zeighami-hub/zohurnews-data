@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "independent",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "independent_0",
@@ -722,6 +722,54 @@
       "pubDate": "Wed, 01 Jul 2026 10:43:02 GMT",
       "time": "۱۴:۱۳ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T11:15:15.627Z"
+    },
+    {
+      "id": "independent_2",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Family of three-year-old injured in crocodile pit give fresh update as they thank rescuers",
+      "title_fa": "خانواده کودک سه ساله مصدوم در گودال تمساح، ضمن تشکر از نجاتگران، آخرین وضعیت وی را اعلام کردند",
+      "lead": "خانواده کودک سه ساله که در گودال تمساح مصدوم شده بود، ضمن تشکر از نجاتگران، وضعیت جدید او را اعلام کردند. یک صفحه جمع‌آوری کمک مالی برای حمایت از بهبودی و توانبخشی این پسر راه‌اندازی شده است.",
+      "category": "accidents",
+      "region": "UK",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/home-news/cambridgeshire-crocodile-attack-zoo-family-child-update-b3006542.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 20,
+        "negative": 30
+      },
+      "pubDate": "Wed, 01 Jul 2026 10:53:48 GMT",
+      "time": "۱۴:۲۳ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T13:49:04.226Z"
+    },
+    {
+      "id": "independent_3",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Seagull spotted hopping around Weymouth beach with crossbow bolt embedded in chest",
+      "title_fa": "مشاهده مرغ دریایی در ساحل ویموث با تیر کمان صلیبی فرورفته در سینه",
+      "lead": "یک مرغ دریایی در ساحل ویموث در حالی مشاهده شد که یک تیر کمان صلیبی در سینه‌اش فرو رفته بود. این مرغ دریایی ممکن است از آگوست گذشته مجروح شده و تا کنون زنده مانده باشد.",
+      "category": "environment",
+      "region": "UK",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/home-news/seagull-crossbow-weymouth-beach-dorset-b3006565.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 10:53:39 GMT",
+      "time": "۱۴:۲۳ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T13:49:04.226Z"
     }
   ]
 }
