@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "mehrnews",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "mehrnews_3",
@@ -434,6 +434,30 @@
       "pubDate": "Wed, 01 Jul 2026 04:18:22 GMT",
       "time": "۰۷:۴۸ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T10:47:10.294Z"
+    },
+    {
+      "id": "mehrnews_7",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran’s missile, UAV capabilities nonnegotiable: Defense min.",
+      "title_fa": "وزیر دفاع: توانایی‌های موشکی و په��ادی ایران غیرقابل مذاکره است",
+      "lead": "وزیر دفاع موقت ایران اعلام کرده است که قدرت دفاعی، موشکی و پهپادی کشور «خط قرمز» امنیت ملی است. این توانایی‌ها به هیچ وجه مورد مذاکره قرار نخواهند گرفت.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245790/Iran-s-missile-UAV-capabilities-nonnegotiable-Defense-min",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Wed, 01 Jul 2026 10:32:58 GMT",
+      "time": "۱۴:۰۲ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T11:15:15.627Z"
     }
   ]
 }
