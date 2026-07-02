@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "rt",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "rt_5",
@@ -504,6 +504,54 @@
       "pubDate": "Wed, 01 Jul 2026 13:27:39 +0000",
       "time": "۱۶:۵۷ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T19:08:14.887Z"
+    },
+    {
+      "id": "rt_5",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Why the Alaska understandings no longer matter",
+      "title_fa": "چرا تفاهم‌نامه‌های آلاسکا دیگر بی‌اهمیت هستند",
+      "lead": "اختلاف لاوروف و روبیو بر سر آلاسکا یک مشکل عمیق را آشکار می‌سا��د. این مسئله نشان می‌دهد که تفاهمات گذشته در حالی که میدان نبرد اوکراین دائماً در حال تغییر است، از اهمیت کمی برخوردارند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/642413-alaska-understandings-rubio-lavrov/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 21:21:06 +0000",
+      "time": "۰۰:۵۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "rt_7",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Supreme Court strikes down Trump’s birthright citizenship order",
+      "title_fa": "دیوان عالی دستور ترامپ در مورد تابعیت بر اساس تولد را لغو کرد",
+      "lead": "دیوان عالی ایالات متحده، دستور رئیس‌جمهور دونالد ترامپ برای محدود کردن تابعیت بر اساس تولد را مغایر با قانون اساسی اعلام کرد. این حکم تصمیم قبلی دولت را باطل می‌کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/642419-supreme-court-trump-birthright-citizenship/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 21:08:18 +0000",
+      "time": "۰۰:۳۸ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
     }
   ]
 }
