@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "guardian",
-  "total": 5,
+  "total": 8,
   "articles": [
     {
       "id": "guardian_14",
@@ -120,6 +120,78 @@
       "pubDate": "Wed, 01 Jul 2026 05:44:50 GMT",
       "time": "۰۹:۱۴ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "guardian_13",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Two confirmed dead in mass celebrations by Mexico fans after World Cup victory",
+      "title_fa": "تایید مرگ دو نفر در جشن‌های گسترده هواداران مکزیک پس از پیروزی در جام جهانی",
+      "lead": "دست‌کم دو نفر در جریان جشن‌های گسترده در مکزیکوسیتی پس از صعود تیم ملی به مرحله بعدی جام جهانی جان باختند. رسانه‌های محلی از مرگ نفر ��ومی نیز خبر داده‌اند که هنوز تأیید نشده است.",
+      "category": "society",
+      "region": "latin_america",
+      "sourceUrl": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 01 Jul 2026 09:36:39 GMT",
+      "time": "۱۳:۰۶ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T11:15:15.627Z"
+    },
+    {
+      "id": "guardian_0",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Life-saving’ drug for people with opioid dependency to be pulled from Australia by end of year",
+      "title_fa": "داروهای «نجات‌بخش» برای افراد وابسته به مواد افیونی تا پایان سال از استرالیا خارج می‌شوند",
+      "lead": "این داروهای نجات‌بخش که به شدت برای استرالیایی‌ها یارانه‌ای بودند، قرار است تا پایان سال از دسترس خارج شوند. نگرانی‌هایی وجود دارد که شرکت‌های آمریکایی ممکن است داروهای بیشتری را به دلیل واکنش بازارهای جهانی به تغییرات سیاست‌های دولت ترامپ، از بازار خا���� کنند.",
+      "category": "economy",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/01/life-saving-drug-for-people-with-opioid-dependency-to-be-pulled-from-australia-by-end-of-year",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 15,
+        "negative": 80
+      },
+      "pubDate": "Wed, 01 Jul 2026 07:55:42 GMT",
+      "time": "۱۱:۲۵ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T11:15:15.627Z"
+    },
+    {
+      "id": "guardian_6",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
+      "title_fa": "«شک��ر جادوگران» در نیجر؛ رژیم نظامی جمعیت LGBTQ+ را دستگیر می‌کند",
+      "lead": "در نیجر، در پی دستگیری ده‌ها نفر به اتهام همجنس‌گرایی در این کشور غرب آفریقا، «شکار جادوگران» در جریان است. نگرانی‌ها از شیوع مجدد HIV/ایدز در میان از دست دادن دسترسی به داروهای PrEP در پی دستگیر�� حداقل ۴۰ نفر در این فضای «مسموم» افزایش یافته است.",
+      "category": "human rights",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 07:00:29 GMT",
+      "time": "۱۰:۳۰ - ۱۰ ��یر",
+      "analyzed_at": "2026-07-01T11:15:15.627Z"
     }
   ]
 }
