@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_0",
@@ -266,6 +266,30 @@
       "pubDate": "Tue, 30 Jun 2026 22:16:46 +0000",
       "time": "۰۱:۴۶ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "3 People Die During World Cup Celebrations in Mexico City",
+      "title_fa": "مرگ ۳ نفر در جریان جشن‌های جام جه��نی در مکزی��وسیتی",
+      "lead": "مقامات اعلام کردند که یک مرد ۴۴ ساله و دو زن ۱۹ و ۴۸ ساله بر اثر خفگی جان خود را از دست دادند. این حادثه در حالی رخ داد که جمعیت زیادی پیروزی تیم مکزیک مقابل اکوادور را جشن می‌گرفتند.",
+      "category": "society",
+      "region": "latin_america",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 01 Jul 2026 10:00:01 +0000",
+      "time": "۱۳:۳۰ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T11:15:15.627Z"
     }
   ]
 }
