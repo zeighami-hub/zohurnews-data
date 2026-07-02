@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_0",
@@ -290,6 +290,78 @@
       "pubDate": "Wed, 01 Jul 2026 10:00:01 +0000",
       "time": "۱۳:۳۰ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T11:15:15.627Z"
+    },
+    {
+      "id": "nytimes_14",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
+      "title_fa": "مراسم جشن فارغ‌التحصیلی در کی‌یف برگزار شد، اما هم‌رقص ماشا تنها رقصید",
+      "lead": "ب�� وجود برگزاری جشن فارغ‌التحصیلی در کی‌یف، هم‌رقص ماشا تنها رقصید. ماشا، دختری ۱۵ ساله که مشتاق رقص بود و آرزوی اجرای والس گروهی را داشت، نتوانست در این رقص شرکت کند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Tue, 30 Jun 2026 20:50:39 +0000",
+      "time": "۰۰:۲۰ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T11:22:27.037Z"
+    },
+    {
+      "id": "nytimes_5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Australian Man Charged With Homicide After Thai Teen’s Body Found in Suitcase",
+      "title_fa": "مرد استرالیایی پس از یافتن جسد نوجوان تایلندی در چمدان، به قتل متهم شد",
+      "lead": "جسد یک نوجوان ��۷ ساله تا��لندی در یک چمدان در نزدیکی ریل قطار در پاتایا کشف شد، که منجر به اتهام قتل برای یک مرد استرالیایی گردید. مظنون در حالی که قصد خروج از کشور را داشت، بازداشت شد.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/asia/australian-thailand-teenager-murder-suitcase.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 08:49:27 +0000",
+      "time": "۱۲:۱۹ - ۹ تیر",
+      "analyzed_at": "2026-07-01T11:22:27.037Z"
+    },
+    {
+      "id": "nytimes_6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Norway’s ‘Viking Row’ Is a Fan Phenomenon at the World Cup",
+      "title_fa": "حرکت «ردیف وایکینگ» نروژی‌ها پدیده‌ای هواداری در جام جهانی",
+      "lead": "حرکت «ردیف وایکینگ» توسط هواداران نروژی در جام جهانی به یک پدیده تبدیل شده است، جایی که تماشاگران با لباس‌های قرمز در استادیوم‌ها، مدارس و حتی آسایشگاه‌ها شانه‌به‌شانه این حرکت را انجام می‌دهند. این شور و هیجان با واکنش‌های متفاوتی روبرو شده و همه از آن هیجان‌زده نیستند.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/norway-fans-viking-row-cheer.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "pubDate": "Tue, 30 Jun 2026 07:20:21 +0000",
+      "time": "۱۰:۵۰ - ۹ تیر",
+      "analyzed_at": "2026-07-01T11:22:27.037Z"
     }
   ]
 }
