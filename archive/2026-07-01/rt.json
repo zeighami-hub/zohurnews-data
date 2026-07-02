@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "rt",
-  "total": 3,
+  "total": 7,
   "articles": [
     {
       "id": "rt_5",
@@ -74,6 +74,100 @@
       "pubDate": "Wed, 01 Jul 2026 08:25:40 +0000",
       "time": "۱۱:۵۵ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T10:47:10.294Z"
+    },
+    {
+      "id": "rt_4",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Booze ban imposed in UK towns",
+      "title_fa": "ممنوعیت الکل در شهرهای بریتانیا اعمال شد",
+      "lead": "دو شهر ساحلی انگلیسی پس از افزایش درگیری‌های ساحلی، دستگیری‌ها و شکایت کسب‌وکارهای محلی، ممنوعیت سه‌ساله الکل را اعمال کرده‌اند. این تصمیم به منظور بهبود نظم عمومی و کاهش مشکلات مرتبط با مصرف الکل گرفته شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642402-uk-coast-alcohol-ban/?utm_source=rss&amp;_medium=rss&amp;_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "rt_7",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "AI and deepfakes driving $68 bn US scam epidemic – survey",
+      "title_fa": "نظرسنجی: هوش مصنوعی و دیپ��فیک‌ها مسبب اپیدمی ۶۸ میلیارد دلاری کلاهبرداری در آمریکا",
+      "lead": "طبق ��ک نظرسنجی گالوپ، کلاهبرداری‌های دیپ‌فیک با هوش مصنوعی ن��ش مهمی در موج ۶۸ میلیارد دلاری کلاهبرداری در سال گذشته ایفا کرده‌اند. این معضل در حال تبدیل شدن به یک اپیدمی گسترده در ایالات متحده است.",
+      "category": "technology",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/642400-ai-scams-survey-us/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 01:48:04 +0000",
+      "time": "۰۵:۱۸ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "rt_9",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Train crash triggers HAZMAT response in US (VIDEOS)",
+      "title_fa": "خروج قطار از ریل در آمریکا واکنش اضطراری HAZMAT را به دنبال داشت",
+      "lead": "خروج یک قطار باری از ریل در پنسیلوانیا واکنش اضطراری گسترده‌ای را به دنبال داشت و به ساکنان دستور داده شد در محل پناه بگیرند. این حادثه موجب فعال شدن تیم‌های HAZMAT شده است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/642422-train-crash-hazmat-pennsylvania/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 00:28:50 +0000",
+      "time": "۰۳:۵۸ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "rt_14",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "French opposition targeted in ‘lawfare’ police raids – presidential hopeful",
+      "title_fa": "کاندیدای ریاست‌جمهوری: اپوزیسیون فرانسه هدف حملات پلیس در چارچوب «جنگ حقوقی» قرار گرفته است",
+      "lead": "پلیس به دفاتر مرتبط با حزب اجتماع ملی فرانسه یورش برده است، و جردن باردلا، رهبر این حزب، این جستجوها را زمان‌بندی شده سیاسی انتقاد کرده است. این عملیات توسط کاندیدای ریاست‌جمهوری به عنوان \"جنگ حقوقی\" علیه اپوزیسیون توصیف شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642420-france-rn-bardella-lawfare-raids/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 22:19:21 +0000",
+      "time": "۰۱:۴۹ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
     }
   ]
 }
