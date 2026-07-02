@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "guardian",
-  "total": 20,
+  "total": 24,
   "articles": [
     {
       "id": "guardian_14",
@@ -270,7 +270,7 @@
       "agencyId": "guardian",
       "keep": true,
       "title": "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
-      "title_fa": "گو ونگوی، میلیاردر چینی، به دلیل کلاهبرداری به ۳۰ سال زندان در آمریکا محکوم ��د",
+      "title_fa": "گو ونگوی، میلیاردر چینی، به دلیل کلاهب��داری به ۳۰ سال زندان در آمریکا محکوم ��د",
       "lead": "گو ونگوی، میلیاردر چینی که به دلیل ان��قاد از حزب کمونیست چین شهرت یافته بود، در دادگاه فدرال آمریکا به جرم کلاهبرداری به ۳۰ سال زندان محکوم شد. او در سال ۲۰۲۴ ��ه نه اتهام از جمله پولشویی مجرم شناخته شده بود.",
       "category": "politics",
       "region": "asia",
@@ -478,6 +478,102 @@
       "pubDate": "Wed, 01 Jul 2026 15:20:44 GMT",
       "time": "۱۸:۵۰ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T18:49:10.650Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Venezuelan police officers arrested over alleged looting after earthquakes",
+      "title_fa": "دستگیری افسران پلیس ونز��ئلا به اتهام غارت پس از زلزله",
+      "lead": "چهار افسر پلیس ونزوئلا به اتهام غارت پول از زیر آوار زلزله دستگیر و با خطر اخراج مواجه هستند. خشم از مقامات و دولت در حالی که تیم‌های نجات به دنبال بازماندگان هستند، افزایش یافته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/01/venezuela-police-officers-arrested-alleged-looting-after-earthquakes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 14:27:15 GMT",
+      "time": "۱۷:۵۷ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T19:08:14.887Z"
+    },
+    {
+      "id": "guardian_9",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australia’s mortgage burden is now above 1989 levels – when interest rates were 17%",
+      "title_fa": "بار وام مسکن استرالیا اکنون بالاتر از سطح سال ۱۹۸۹ است – زمانی که نرخ بهره ۱۷٪ بود",
+      "lead": "تحلیل KPMG نشان می‌دهد که بار ملی وام مسکن در استرا��یا اکنون سنگین‌تر از زمانی است که نرخ وام‌دهی به اوج خود در سال ۱۹۸۹ رسید. این تحلیل ادعاهای مبنی بر اینکه نسل‌های قدیمی‌تر در زمینه خرید و پرداخت خانه وضعیت سخت‌تری داشتند را رد می‌کند.",
+      "category": "economy",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/02/australia-mortgage-burden-above-1989-levels",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 01 Jul 2026 14:01:37 GMT",
+      "time": "۱۷:۳۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T19:08:14.887Z"
+    },
+    {
+      "id": "guardian_4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
+      "title_fa": "عفو بین‌الملل: نیروهای پشتیبانی سریع سودان در الفاشر مرتکب جنایت علیه بشریت شده‌اند",
+      "lead": "یک گزارش، نیروهای شبه‌نظامی را به جنایات از جمله پاکسازی قومی در کارزار سیستماتیک علیه غیرنظامیان متهم می‌کند. نیروهای پشتیبانی سریع شبه‌نظامی سودان در جریان تلاش برای تصرف الفاشر، مرتکب جنایت علیه بشریت و پاکسا��ی قومی شده‌اند.",
+      "category": "military",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 95
+      },
+      "pubDate": "Wed, 01 Jul 2026 12:45:00 GMT",
+      "time": "۱۶:۱۵ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T19:08:14.887Z"
+    },
+    {
+      "id": "guardian_13",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
+      "title_fa": "«اگر بمانم به من حمله خواهند کرد»: مهاجران در آفریقای جنوبی در میان خشونت و اعتراضات ضدخارجی‌ها برای امنیت خود فرار می‌کنند",
+      "lead": "بیش از ۲۰۰۰ معترض ضدخارجی در مرکز شهر دوربان راهپیمایی کردند در حالی که مهلت خودسرانه برای مهاجران غیرقانونی برای ترک کشور به پایان رسید. آفریقای جنوبی در روز سه‌شنبه در حالی که اعتراضات گسترده ضد مهاجرت در سراسر کشور برگزار می‌شد، در حالتی از انتظار به سر می‌برد.",
+      "category": "society",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 16:43:32 GMT",
+      "time": "۲۰:۱۳ - ۹ تیر",
+      "analyzed_at": "2026-07-01T19:08:14.887Z"
     }
   ]
 }
