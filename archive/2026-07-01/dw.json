@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "dw",
-  "total": 13,
+  "total": 16,
   "articles": [
     {
       "id": "dw_14",
@@ -314,6 +314,78 @@
       "pubDate": "Tue, 30 Jun 2026 19:30:00 GMT",
       "time": "۲۳:۰۰ - ۹ تیر",
       "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "dw_1",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Activist arrests surge in Turkey ahead of key NATO summit",
+      "title_fa": "افزایش بازداشت فعالان در ترکیه پیش از نشست کلیدی ناتو",
+      "lead": "پیش از نشست آتی ناتو در آنکارا، معترضان به وضوح ناخواسته تلقی می‌شوند. در بحبوحه ممنوعیت شدید تجمعات عم��می، تاکنون ۲۲۵ فعال بازداشت شده‌اند.",
+      "category": "politics",
+      "region": "turkey",
+      "sourceUrl": "https://www.dw.com/en/activist-arrests-surge-in-turkey-ahead-of-key-nato-summit/a-77777671?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 1 Jul 2026 10:17:00 GMT",
+      "time": "۱۳:۴۷ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T11:15:15.627Z"
+    },
+    {
+      "id": "dw_2",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "How the US shaped the world: 250 years of power and policies",
+      "title_fa": "چگونه ایالات متحده جهان را شکل داد: ۲۵۰ سال قدرت و سیاست",
+      "lead": "ایالات متحده ۲۵۰ سال پیش استقلال خود را از بریتانیا اعلام کرد. این مقاله به بررسی چگونگی تغییر روابط آمریکا با سایر کشورها و تصویر جهانی آن از آن زمان می‌پردازد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/how-the-us-shaped-the-world-250-years-of-power-and-policies/a-77722464?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Wed, 1 Jul 2026 07:52:00 GMT",
+      "time": "۱۱:۲۲ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T11:15:15.627Z"
+    },
+    {
+      "id": "dw_4",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Germany saves forest from mining, US opens land to drilling",
+      "title_fa": "آلمان جنگلی را از استخراج معدن نجات می‌دهد، آمریکا زمین‌ها را به روی حفاری باز می‌کند",
+      "lead": "آلمانی‌ها در نبردی برای جلوگیری از احداث معدن زغال سنگ در یک جنگل باستانی پیروز شدند. این در حالی است که در ایالات متحده، دولت زمین‌های حفاظت‌شده را برای حفاری و توسعه باز می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/germany-saves-forest-from-mining-us-opens-land-to-drilling/a-77627986?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Wed, 1 Jul 2026 07:34:00 GMT",
+      "time": "۱۱:۰۴ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T11:15:15.627Z"
     }
   ]
 }
