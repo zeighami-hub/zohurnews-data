@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "foreignpolicy",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "foreignpolicy_9",
@@ -242,6 +242,30 @@
       "pubDate": "Tue, 30 Jun 2026 11:21:39 +0000",
       "time": "۱۴:۵۱ - ۹ تیر",
       "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "foreignpolicy_0",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Is Cuba Really Next?",
+      "title_fa": "آیا کوبا واقعاً بعدی است؟",
+      "lead": "پیامدهای درگیری با ایران و نزدیک شدن انتخابات میان‌دوره‌ای آمریکا ممکن است محاسبات ترامپ را تغییر دهد. این مقاله به گمانه‌زنی درباره احتمال تغییر سیاست آمریکا در قبال کوبا می‌پردازد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/01/michael-bustamante-cuba-trump-venezuela-rubio-regime-change-blockade/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Wed, 01 Jul 2026 17:40:59 +0000",
+      "time": "۲۱:۱۰ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T18:49:10.650Z"
     }
   ]
 }
