@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "rt",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "rt_5",
@@ -216,6 +216,54 @@
       "pubDate": "Wed, 01 Jul 2026 04:45:04 +0000",
       "time": "۰۸:۱۵ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T11:22:27.037Z"
+    },
+    {
+      "id": "rt_7",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Ex-UK prime ministerial aide admits illegal election betting",
+      "title_fa": "مشاور سابق نخست وزیر بریتانیا به شرط‌بندی غیرقانونی در انتخابات اعتراف کرد",
+      "lead": "کریگ ویلیامز، نماینده سابق محافظه‌کار پارلمان بریتانیا، اعتراف کرده است که با استفاده از اطلاعا�� محرمانه دولتی، بر روی تاریخ انتخابات ۲۰۲۴ شرط‌بندی کرده است. این اقدام وی به عنوان تقلب در انتخابات و شرط‌بندی غیرقانونی مطرح شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642394-ex-uk-prime-ministerial-aide/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 17:20:55 +0000",
+      "time": "۲۰:۵۰ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:18:34.126Z"
+    },
+    {
+      "id": "rt_4",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "China to bring AI into every classroom",
+      "title_fa": "چین هوش مصنوعی را به تمامی کلاس‌ها�� درس می‌آورد",
+      "lead": "بر اساس یک طرح اقدام ملی پنج ساله جدید، پکن قصد د��رد سواد هوش مصنوعی را در تمام سطوح تحصیلی مدارس آموزش دهد. این طرح با هدف بهبود مهارت‌های دانش‌آموزان در زمینه هوش مصنوعی و آماده‌سازی برای آینده است.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.rt.com/news/642392-china-ai-every-classroom/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 12:35:15 +0000",
+      "time": "۱۶:۰۵ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
     }
   ]
 }
