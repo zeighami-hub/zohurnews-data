@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "rt",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "rt_5",
@@ -168,6 +168,30 @@
       "pubDate": "Tue, 30 Jun 2026 22:19:21 +0000",
       "time": "۰۱:۴۹ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "rt_0",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "CIA chief warns of AI-powered ‘digital nuclear weapons’",
+      "title_fa": "رئیس سیا درباره «سلاح‌های هسته‌ای دیجیتال» مبتنی بر هوش مصنوعی هشدار داد",
+      "lead": "جان راتکلیف، رئیس سیا، ابزارهای ��نگ سایبری م��تنی بر هوش مصنوعی را به «سلاح‌های هسته‌ای دیجیتال» تشبیه کرد. این هشدارها درباره خطرات فزاینده فناوری‌های پیشرفته در حوزه امنیت جهانی است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642432-ai-digital-nuclear-weapons/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 01 Jul 2026 10:04:07 +0000",
+      "time": "۱۳:۳۴ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T11:15:15.627Z"
     }
   ]
 }
