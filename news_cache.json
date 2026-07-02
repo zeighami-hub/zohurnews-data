@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T13:48:36.447Z",
-  "total": 918,
-  "new_this_cycle": 4,
+  "generated_at": "2026-07-02T14:03:30.580Z",
+  "total": 915,
+  "new_this_cycle": 3,
   "agencies": [
     {
       "id": "aljazeera",
@@ -105,44 +105,68 @@
       "agencyId": "reuters",
       "keep": true,
       "title": "Two Revolutionary Guards members killed by gunmen in western Iran - Reuters",
-      "title_fa": "دو عضو سپاه پاسداران در غرب ایران به ضرب گلوله افراد مسلح کشته شدند",
-      "lead": "رویترز گزارش داد که دو تن از اعضای سپاه پاسداران انقلاب اسلامی در غرب ایران توسط افراد مسلح کشته شدند. این حادثه بر تنش‌های امنیتی در منطقه می‌افزاید.",
+      "title_fa": "کشته شدن دو عضو سپاه پاسداران توسط افراد مسلح در غرب ایران",
+      "lead": "دو تن از اعضای سپاه پاسداران انقلاب اسلامی در غرب ایران توسط افراد مسلح کشته شدند. این حادثه در منطقه غربی کشور به وقوع پیوسته است.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxMdmdINWVBU0ZneHJ2ZE5HZl9lcUROd3VtWjlZVDVBQTVlNy05RDdQamcxZFliMFo1S2NCM1phcFVkX01XcVR5djZDNUZwUUhlczdOTUs2N3VtRjNpOEwwb3FQY0tmUFJuMkVzRzZJSzJpa2NkVmRlNXdZU01ta1JudWVmbFppUUZkQ2d5c29vV0w5ZHFxOFN6VnpzMGozTFpxdzI5QnpReG5aSF9CbUQ3MG8taDVLZTJXbjFlQzF3?oc=5",
       "newsValues": {
         "timeliness": "high",
-        "impact": "high",
+        "impact": "medium",
         "conflict": true
       },
       "sentiment": {
         "positive": 0,
-        "neutral": 0,
-        "negative": 100
+        "neutral": 20,
+        "negative": 80
       },
-      "analyzed_at": "2026-07-02T13:48:36.444Z"
+      "analyzed_at": "2026-07-02T14:03:25.716Z"
     },
     {
       "id": "reuters_1",
       "agencyId": "reuters",
       "keep": true,
       "title": "Asia shares choppy as South Korea chip push steadies sentiment; Iran truce in focus - Reuters",
-      "title_fa": "سهام آسیا با ثبات نسبی به دلیل تلاش کره جنوبی در بخش تراشه؛ آتش‌بس ایران در کانون توجه",
-      "lead": "بازارهای سهام آسیا نوسانی بودند، در حالی که پیشرفت کره جنوبی در صنعت تراشه به ثبات نسبی کمک کرد. تمرکز سرمایه‌گذاران نیز بر تحولات مربوط به آتش‌بس احتمالی در ایران است.",
+      "title_fa": "سهام آسیایی متلاطم؛ تلاش کره جنوبی برای تثبیت بازار تراشه و تمرکز بر آتش‌بس ایران",
+      "lead": "بازارهای سهام در آسیا با نوسانات همراه هستند، در حالی که تلاش کره جنوبی برای تقویت صنعت تراشه به تثبیت احساسات بازار کمک می‌کند. وضعیت آتش‌بس در ایران نیز از جمله موضوعات مورد توجه معامله‌گران است.",
       "category": "economy",
       "region": "iran",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkdzTjRhWXJHYlExaGNxZUF6cGxORnpJSUVyYkpMMWFSeXI2dk5sZHNBSWI3c1RoR01tZk9QMFNDVHNhcUprUjVtZ1dOeHFTajU5NkxRcnVxUHpMTUFhaU1GSzUtNnhDUHpaRHlHUm42blpPNXF0NlNtbmhoMDRraGN5bTl0WVJZbnZTMWVDUm1rMzA4SVNBYmNkOFY0UnBWR2hpN1NyYUNySF9YQTZ4c1hEY2F0SW00TUE?oc=5",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
-        "conflict": true
+        "conflict": false
       },
       "sentiment": {
-        "positive": 0,
-        "neutral": 100,
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "analyzed_at": "2026-07-02T14:03:25.716Z"
+    },
+    {
+      "id": "khabaronline_5",
+      "agencyId": "khabaronline",
+      "keep": true,
+      "title": "کُدگذاری‌های حکیمانه در صحیفه سجادیه؛ چگونه دعا کنیم؟",
+      "title_fa": "کُدگذاری‌های حکیمانه در صحیفه سجادیه؛ چگونه دعا کنیم؟",
+      "lead": "کارشناس مرکز تخصصی صحیفه سجادیه شروع‌ دعاهای صحیفه سجادیه را دارای پیام‌های حکیمانه‌ای دانست. ایشان توضیح داد که امام سجاد (ع) آموزش می‌دهند که شروع دعا باید متناسب با حاجت و خواسته ما باشد.",
+      "category": "religion",
+      "region": "global",
+      "sourceUrl": "https://www.khabaronline.ir/news/2241054/%DA%A9%D8%AF%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AD%DA%A9%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%B1-%D8%B5%D8%AD%DB%8C%D9%81%D9%87-%D8%B3%D8%AC%D8%A7%D8%AF%DB%8C%D9%87-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%AF%D8%B9%D8%A7-%DA%A9%D9%86%DB%8C%D9%85",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
         "negative": 0
       },
-      "analyzed_at": "2026-07-02T13:48:36.444Z"
+      "pubDate": "Thu, 02 Jul 2026 09:50:00 GMT",
+      "time": "۱۳:۲۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T14:03:25.716Z"
     },
     {
       "id": "asriran_2",
@@ -1209,7 +1233,7 @@
       "agencyId": "reuters",
       "keep": true,
       "title": "Oil prices fall 1% to 4-month lows as progress in US-Iran talks cools supply concerns - Reuters",
-      "title_fa": "قیمت نفت با پیشرفت مذاکرات آمریکا و ایران و کاهش نگرانی‌های عرضه، ۱ درصد کاهش یافت و به پایین‌ترین سطح ۴ ماهه رسید.",
+      "title_fa": "قیمت نفت با پیشرفت مذاکرات آمریکا و ایران و کاهش نگرانی‌های عرضه، ۱ درصد کاهش یافت و به پا��ین‌ترین سطح ۴ ماهه رسید.",
       "lead": "قیمت نفت با پیشرفت در مذاکرات آمریکا و ایران، ۱ درصد کاهش یافته و به پایین‌ترین سطح در چهار ماه اخیر رسید. این کاهش قیمت نشان‌دهنده کاهش نگرانی‌ها در مورد عرضه نفت در بازار جهانی است.",
       "category": "economy",
       "region": "iran",
@@ -2094,7 +2118,7 @@
       "keep": true,
       "title": "A Risky Burial in the Heart of an Ebola Outbreak",
       "title_fa": "دفن پرخطر در کانون شیوع ابولا",
-      "lead": "دفن ایمن اجساد برای مهار بیماری مرگبار ابولا حیاتی است، اما در روزهای اخیر در اطراف یک شهر کنگو، این پروتکل همیشه رعایت نشده است. این موضوع نگرانی‌ها را درباره گسترش بیشتر این بیماری افزایش داده است.",
+      "lead": "دفن ایمن اجساد برای مهار بیماری مرگبار ابولا حیاتی است، اما در روزهای اخیر در اطراف یک شهر کنگو، این پروتکل همیشه رعایت نشده اس��. این موضوع نگرانی‌ها را درباره گسترش بیشتر این بیماری افزایش داده است.",
       "category": "health",
       "region": "africa",
       "sourceUrl": "https://www.nytimes.com/2026/07/01/world/africa/ebola-congo-burials.html",
@@ -5878,7 +5902,7 @@
       "keep": true,
       "title": "Russia launched drones to spy on Britain’s nuclear sites during 15-month campaign, intelligence experts claim",
       "title_fa": "کارشناسان اطلاعاتی ادعا می‌کنند: روسیه طی یک عملیات ۱۵ ماهه از پهپادها برای جاسوسی از سایت‌های هسته‌ای بریتانیا استفاده کرده است",
-      "lead": "کارشناسان اطلاعاتی مدعی هستند که روسیه در یک عملیات ۱۵ ماهه، پهپادهایی را برای جاسوسی از سایت‌های هسته‌ای بریتانیا به کار گرفته است. گفته می‌شود یک کشتی باری با خدمه روسی به نام HAV Dolphin نیز در آن زمان در نزدیکی هال پهلو گرفته بود.",
+      "lead": "کارشناسان اطلاعاتی مدعی هستند که روسیه در یک عملیات ۱۵ ماهه، پهپادهایی را برای جاسوسی از سایت‌های هسته‌ای بریتانیا به کار گرفته اس��. گفته می‌شود یک کشتی باری با خدمه روسی به نام HAV Dolphin نیز در آن زمان در نزدیکی هال پهلو گرفته بود.",
       "category": "politics",
       "region": "eurasia",
       "sourceUrl": "https://www.independent.co.uk/news/uk/politics/russia-spy-drone-nuclear-ship-b3007427.html",
@@ -8802,7 +8826,7 @@
       "keep": true,
       "title": "ایران مانع ترانزیت ۳۶۶۰ کیلوگرم شیشه به اروپا شد",
       "title_fa": "ایران مانع ترانزیت ۳۶۶۰ کیلوگرم شیشه به اروپا شد",
-      "lead": "معاون ستاد مبارزه با مواد مخدر از توقیف محموله ۳۶۶۰ کیلوگرمی شیشه خبر داد. این محموله در مسیر ترانزیت به اروپا توسط ایران کشف و از خروج آن جلوگیری شد.",
+      "lead": "معاون ستاد مبارزه با مواد مخد�� از توقیف محموله ۳۶۶۰ کیلوگرمی شیشه خبر داد. این محموله در مسیر ترانزیت به اروپا توسط ایران کشف و از خروج آن جلوگیری شد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.mashreghnews.ir/news/1822590/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%A7%D9%86%D8%B9-%D8%AA%D8%B1%D8%A7%D9%86%D8%B2%DB%8C%D8%AA-%DB%B3%DB%B6%DB%B6%DB%B0-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85-%D8%B4%DB%8C%D8%B4%D9%87-%D8%A8%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B4%D8%AF",
@@ -9087,7 +9111,7 @@
       "lead": "در ادامه روند پرداخت خسارت به خودروهای آسیب‌دیده از جنگ، مرحله جدید جبران خسارت زیان‌دی��گان آغاز شد. این مرحله شامل پرداخت مبالغ مربوط به پرونده‌های تکمیل‌شده با غرامت‌های بالای یک میلیارد تومان است.",
       "category": "social",
       "region": "national",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103827/آغاز-پرداخت-غرامت‌های-بالای-یک-میلیارد-تومان-به-خودروهای-آسیب‌دیده-از-جنگ",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9103827/آغاز-پرداخت-غرامت‌های-بالای-یک-میلیارد-تومان-به-خودروهای-آ��یب‌دیده-از-جنگ",
       "newsValues": {
         "timeliness": "high",
         "impact": "medium",
@@ -11185,7 +11209,7 @@
       "agencyId": "independent",
       "keep": true,
       "title": "Popular nicotine pouch ZYN can be labeled as safer than cigarettes, FDA rules",
-      "title_fa": "سازمان غذا و داروی آمریکا: کیسه نیکوتین ZYN را می‌توان ایمن‌تر از سیگار برچسب‌گذاری کرد",
+      "title_fa": "سازمان غذا و داروی آمریکا: کیسه نیکوتین ZYN را م��‌توان ایمن‌تر از سیگار برچسب‌گذاری کرد",
       "lead": "سازمان غذا و داروی آمریکا (FDA) اعلام کرد�� است که محصول کیسه نیکوتین محبوب ZYN می‌تواند به عنوان ایمن‌تر از سیگار برچسب‌گذاری شود. با این حال، کارشناسان بهداشت هشدار می‌دهند که مصرف طولانی‌مدت نیکوتین به رشد مغز و سلامت قلب آسیب می‌رساند.",
       "category": "health",
       "region": "americas",
@@ -13472,7 +13496,7 @@
       "keep": true,
       "title": "بیشترین سقوط‌ها در رنکینگ فیفا در ایام جام جهانی ۲۰۲۶",
       "title_fa": "بیشترین سقوط‌ها در رنکینگ فیفا در ایام جام جهانی ۲۰۲۶",
-      "lead": "پس از پایان مرحله گروهی جام جهانی ۲۰۲۶، رده‌بندی جهانی فیفا دستخوش تغییرات بزرگی شده است. تونس با ۱۲ پله سقوط بیشترین افت را تجربه کرده و پاناما�� ازبکستان و اردن نیز هر کدام با ۱۰ پله سقوط در رده‌های بعدی قرار دارند.",
+      "lead": "پس از پایان مرحله گروهی جام جهانی ۲۰۲۶، رده‌بندی ��هانی فیفا دستخوش تغییرات بزرگی شده است. تونس با ۱۲ پله سقوط بیشترین افت را تجربه کرده و پاناما�� ازبکستان و اردن نیز هر کدام با ۱۰ پله سقوط در رده‌های بعدی قرار دارند.",
       "category": "sports",
       "region": "global",
       "sourceUrl": "https://www.mashreghnews.ir/news/1822582/%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D9%82%D9%88%D8%B7-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%B1%D9%86%DA%A9%DB%8C%D9%86%DA%A9-%D9%81%DB%8C%D9%81%D8%A7-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%A7%D9%85-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%DB%B2%DB%B0%DB%B2%DB%B6",
@@ -14140,7 +14164,7 @@
       "id": "asriran_1",
       "agencyId": "asriran",
       "keep": true,
-      "title": "پیشنهاد معلم ورزش را جدی نگرفتم تا این‌که دیدم داورِ با��ی پرسپولیس شده!",
+      "title": "پیشنهاد معلم ورزش را جدی نگ��فتم تا این‌که دیدم داورِ با��ی پرسپولیس شده!",
       "title_fa": "پیشنهاد معلم ورزش را جدی ��گرفتم تا این‌که دیدم داور بازی پرسپولیس شده!",
       "lead": "حمید درخشان فاش کرد که پیشنهاد معلم ورزشش برای حضور در زمین را جدی نگرفت. سال‌ها بعد در یک بازی پرسپولیس، او با تعجب دید که همان معلم ورزش، داور وسط مسابقه شده است.",
       "category": "sports",
@@ -14716,7 +14740,7 @@
       "keep": true,
       "title": "ماهواره‌های فعال ایران نقش مؤثری در مدیریت آب، کشاورزی، محیط زیست و بحران‌های طبیعی دارند + فیلم",
       "title_fa": "ماهواره‌های فعال ایران نقش مؤثری در ��دیریت آب، کشاورزی، محیط زیست و بحران‌های طبیعی دارند",
-      "lead": "مسئول توسع�� خدمات فضایی پژوهشگاه فضایی ایران اعلام کرد که ماهواره‌های فعال کشور نقش مؤثری در مدیریت منابع آب، کشاورزی، محیط زیست و بحران‌های طبیعی ایفا می‌کنند. تصاویر ماهواره‌ای ابزاری کارآمد برای پایش این حوزه‌ها محسوب می‌شوند.",
+      "lead": "مسئول توسع�� خدمات فضایی پژوهشگاه فضایی ایران اعلام کرد که ماهواره‌های فعال کشور نقش مؤثری در مدیریت منابع آب، کشاورزی، محیط زیست و ب��ران‌های طبیعی ایفا می‌کنند. تصاویر ماهواره‌ای ابزاری کارآمد برای پایش این حوزه‌ها محسوب می‌شوند.",
       "category": "science",
       "region": "iran",
       "sourceUrl": "https://www.yjc.ir/fa/news/9103734/ماهواره‌های-فعال-ایران-نقش-مؤثری-در-مدیریت-آب-کشاورزی-محیط-زیست-و-بحران‌های-طبیعی-دارند-فیلم",
@@ -15007,7 +15031,7 @@
       "lead": "کانون پ��ورش فکری کودکان به مناسبت ایام بدرقه رهبر شهید کشورمان اقداماتی فرهنگی را انجام داده است. این اقدامات شامل برنامه‌های مختلف برای کودکان و نوجو��نان است.",
       "category": "culture",
       "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103747/اقدامات-فرهنگی-کانون-پر��رش-فکری-در-ایام-بدرقه-رهبر-شهید-فیلم",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9103747/اقدامات-فرهنگی-کانون-پر��رش-فکر��-در-ایام-بدرقه-رهبر-شهید-فیلم",
       "newsValues": {
         "timeliness": "high",
         "impact": "medium",
@@ -16252,7 +16276,7 @@
       "keep": true,
       "title": "Talks btw Iran, US for a final agreement not yet started",
       "title_fa": "مذاکرات بین ایران و آمریکا برای توافق نهایی هنوز آغاز نشده است",
-      "lead": "معاون وزیر امور خارجه ایران اعلام کرد که مذاکرات بین ایران و ایالات متحده برای دستیابی به یک توافق ��هایی هنوز آغاز نشده است. این اظهارات در بحبوحه گمانه‌زنی‌ها درباره گفت‌وگوهای اخیر مطرح شده است.",
+      "lead": "معاون وزیر امور خارجه ایران اعلام کرد که مذاکرات بین ایران و ایالات متحده برای دستیابی ب�� یک توافق ��هایی هنوز آغاز نشده است. این اظهارات در بحبوحه گمانه‌زنی‌ها درباره گفت‌وگوهای اخیر مطرح شده است.",
       "category": "diplomacy",
       "region": "global",
       "sourceUrl": "https://en.mehrnews.com/news/245793/Talks-btw-Iran-US-for-a-final-agreement-not-yet-started",
@@ -17943,7 +17967,7 @@
       "agencyId": "asriran",
       "keep": true,
       "title": "تصویری خیره‌کننده از هم‌��شینی سه قمر زحل در قاب کاسینی",
-      "title_fa": "تصویری خیره‌کننده از هم‌نشینی سه قمر زحل در قاب کاسینی",
+      "title_fa": "تصویری ��یره‌کننده از هم‌نشینی سه قمر زحل در قاب کاسینی",
       "lead": "تصویری ��اندگار از دوران مأموریت کاسینی، سه قمر زحل را در یک قاب به نمایش می‌گذارد. این عکس حیرت‌انگیز، زیبایی و عظمت منظومه شمسی را نشان می‌دهد.",
       "category": "science",
       "region": "global",
@@ -18826,7 +18850,7 @@
       "keep": true,
       "title": "Experts dissect Taylor Swift and Travis Kelce’s MSG wedding: 200 city cops on a holiday weekend, $5M in security concerns",
       "title_fa": "کارشناسان عروسی احتمالی تیلور سویفت و تراویس کلس در مدیسون اسکوئر گاردن را بررسی می‌کنند: ۲۰۰ پلیس شهری در تعطیلات آخر هفته، ۵ میلیون دلار نگرانی امنیتی",
-      "lead": "کارشناسان در حال بررسی جزئیات عروسی احتمالی تیلور سویفت و تراویس کلس ��ر مدیسون اسکوئر گاردن هستند. تخمین زده می‌شود این رویداد به ۲۰۰ پلیس شهری در یک آخر هفته تعطیل و ۵ میلیون دلار هزینه امنیتی نیاز داشته باشد که برخی آن را یک \"فریب\" می‌دانند.",
+      "lead": "کارشناسان در حال بررسی جزئیات عروسی احتمالی تیلور سویفت و تراویس کلس ��ر مدیسون اسکوئر گاردن هستند. تخمین زده می‌شود این رویداد به ۲۰۰ پلیس شهری در یک آخر هفته تعطیل و ۵ می��یون دلار هزینه امنیتی نیاز داشته باشد که برخی آن را یک \"فریب\" می‌دانند.",
       "category": "entertainment",
       "region": "americas",
       "sourceUrl": "https://www.independent.co.uk/news/world/americas/taylor-swift-wedding-madison-square-garden-security-b3005115.html",
@@ -21735,100 +21759,6 @@
       "pubDate": "01 Jul 2026 14:03:29 +0330",
       "time": "۱۴:۰۳ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T14:03:33.449Z"
-    },
-    {
-      "id": "isna_0",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "تولید بیش از ۶۵۰ تن تخم‌مرغ در داراب طی امسال",
-      "title_fa": "تولید بیش از ۶۵۰ تن تخم‌مرغ در داراب طی سال جاری",
-      "lead": "مدیر جهاد کشاورزی شهرستان داراب از تولید بیش از ۶۵۰ تن تخم‌مرغ در سه ماهه نخست سال جاری خبر داد. این میزان تولید بخشی از نیاز بازار شهرستان و سایر مناطق استان فارس را تامین کرده است.",
-      "category": "economy",
-      "region": "national",
-      "sourceUrl": "https://www.isna.ir/news/1405041006098/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B6%DB%B5%DB%B0-%D8%AA%D9%86-%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%D8%AF%D8%B1-%D8%AF%D8%A7%D8%B1%D8%A7%D8%A8-%D8%B7%DB%8C-%D8%A7%D9%85%D8%B3%D8%A7%D9%84",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 10:55:26 GMT",
-      "time": "۱۴:۲۵ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T13:49:04.226Z"
-    },
-    {
-      "id": "independent_2",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Family of three-year-old injured in crocodile pit give fresh update as they thank rescuers",
-      "title_fa": "خانواده کودک سه ساله مصدوم در گودال تمساح، ضمن تشکر از نجاتگران، آخرین وضعیت وی را اعلام کردند",
-      "lead": "خانواده کودک سه ساله که در گودال تمساح مصدوم شده بود، ضمن تشکر از نجاتگران، وضعیت جدید او را اعلام کردند. یک صفحه جمع‌آوری کمک مالی برای حمایت از بهبودی و توانبخشی این پسر راه‌اندازی شده است.",
-      "category": "accidents",
-      "region": "UK",
-      "sourceUrl": "https://www.independent.co.uk/news/uk/home-news/cambridgeshire-crocodile-attack-zoo-family-child-update-b3006542.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 50,
-        "neutral": 20,
-        "negative": 30
-      },
-      "pubDate": "Wed, 01 Jul 2026 10:53:48 GMT",
-      "time": "۱۴:۲۳ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T13:49:04.226Z"
-    },
-    {
-      "id": "independent_3",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Seagull spotted hopping around Weymouth beach with crossbow bolt embedded in chest",
-      "title_fa": "مشاهده مرغ دریایی در ساحل ویموث با تیر کمان صلیبی فرورفته در سینه",
-      "lead": "یک مرغ دریایی در ساحل ویموث در حالی مشاهده شد که یک تیر کمان صلیبی در سینه‌اش فرو رفته بود. این مرغ دریایی ممکن است از آگوست گذشته مجروح شده و تا کنون زنده مانده باشد.",
-      "category": "environment",
-      "region": "UK",
-      "sourceUrl": "https://www.independent.co.uk/news/uk/home-news/seagull-crossbow-weymouth-beach-dorset-b3006565.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Wed, 01 Jul 2026 10:53:39 GMT",
-      "time": "۱۴:۲۳ - ۱۰ تیر",
-      "analyzed_at": "2026-07-01T13:49:04.226Z"
-    },
-    {
-      "id": "yjc_10",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "کشت ۹۰۰۰ هکتار گندم از مزارع عجب‌شیر",
-      "title_fa": "کشت ۹۰۰۰ هکتار گندم در مزارع عجب‌شیر",
-      "lead": "مدیر جهاد کشاورزی عجب‌شیر از کشت ۹۰۰۰ ه��تار گندم در مزارع این شهرستان در سال ج��ری خبر داد. این میزان شامل ۷۵۰۰ هکتار گندم دیم و ۱۵۰۰ هکتار گندم آبی است.",
-      "category": "economy",
-      "region": "national",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9103534/%DA%A9%D8%B4%D8%AA-%DB%B9%DB%B0%DB%B0%DB%B0-%D9%87%DA%A9%D8%AA%D8%A7%D8%B1-%DA%AF%D9%86%D8%AF%D9%85-%D8%A7%D8%B2-%D9%85%D8%B2%D8%A7%D8%B1%D8%B9-%D8%B9%D8%AC%D8%A8%E2%80%8C%D8%B4%DB%8C%D8%B1",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-01T13:49:04.226Z"
     }
   ]
 }
