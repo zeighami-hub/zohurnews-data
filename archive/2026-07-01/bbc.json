@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "bbc",
-  "total": 11,
+  "total": 15,
   "articles": [
     {
       "id": "bbc_5",
@@ -266,6 +266,102 @@
       "pubDate": "Tue, 30 Jun 2026 13:22:15 GMT",
       "time": "۱۶:۵۲ - ۹ تیر",
       "analyzed_at": "2026-07-01T11:22:27.037Z"
+    },
+    {
+      "id": "bbc_4",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+      "title_fa": "قطر: فرستادگان آمریکا در دوحه با میانجی‌ها ملاقات می‌کنند، نه با ایرانی‌ها",
+      "lead": "سخنگوی وزارت خارجه قطر اعلام کرد که فرستادگان ایالات متحده در دوحه با میانجی‌ها دیدار خواهند کرد، اما هیچ ملاقات سطح بالا یا مذاکره مستقیمی بین آمریکا و ایران برنامه‌ریزی نشده است. این خبر در حالی منتشر می‌شود که ابهامات درباره روند مذاکرات آتی بین دو کشور ادامه دارد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 23:41:11 GMT",
+      "time": "۰۳:۱۱ - ��۰ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "bbc_11",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
+      "title_fa": "دیوان عالی آمریکا ممنوعیت ورزشکاران تراجنسیتی در ورزش‌های زنان مدارس و کالج‌ها را تأیید کرد",
+      "lead": "دیوان عالی ایالات متحده رأی به تأیید ممنوعیت حضور ورزشکاران تراجنسیتی در ورزش‌های زنان در مدارس و کالج‌ها داد که با واکنش‌های متفاوتی روبرو شده است. پرزیدنت ترامپ این حکم را «پیروزی بزرگ» خواند، در حالی که یک گروه حقوق دگرباشان جنسی آن را «دلخراش» توصیف کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 21:24:15 GMT",
+      "time": "۰۰:۵۴ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "bbc_12",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+      "title_fa": "سقوط سقف در یک م��کز آموزشی در پاکستان ۱۴ کودک را کشت",
+      "lead": "در پی فروریختن سقف یک م��کز آموزشی در حومه ��اهور پاکستان، ۱۴ کودک جان باختند و این حادثه منجر به بازداشت دو نفر شد. این فاجعه در منطقه کاهنای لاهور رخ داده و موجی از نگرانی‌ها را در مورد ایمنی ساختمان‌ها برانگیخته است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 30 Jun 2026 19:36:48 GMT",
+      "time": "۲۳:۰۶ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+      "title_fa": "سازمان اطلاعاتی آلمان: تقریباً ۶۰ هزار افراط‌گرای راست افراطی در این کشور فعالیت می‌کنند",
+      "lead": "سازمان اطلاعات داخلی آلمان اعلام کرده است که تقریباً ۶۰ هزار افراط‌گرای راست افراطی در این کشور شناسایی شد��‌اند. بر اساس گزارش این سازمان، بیش از یک چهارم این افراد خشونت‌طلب محسوب می‌شوند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 16:12:25 GMT",
+      "time": "۱۹:۴۲ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
     }
   ]
 }
