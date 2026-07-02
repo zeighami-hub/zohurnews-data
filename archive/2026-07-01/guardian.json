@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "guardian",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "guardian_14",
@@ -382,6 +382,54 @@
       "pubDate": "Fri, 26 Jun 2026 10:55:56 GMT",
       "time": "۱۴:۲۵ - ۵ تیر",
       "analyzed_at": "2026-07-01T14:34:40.604Z"
+    },
+    {
+      "id": "guardian_5",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "China is a clear winner from Trump’s war in Middle East, report concludes",
+      "title_fa": "گزارش: چین برنده اصلی جنگ ترامپ در خاورمیانه است",
+      "lead": "بر اساس یک گزارش جدید، چین به عنوان تنها برنده بحران تنگه هرمز و جنگ ترامپ در خاورمیانه ظاهر شده است. پکن با تکیه بر ذخایر انرژی و صنعت تجدیدپذیر خود توانست شوک انرژی را تحمل کند و اکنون از حرکت جهانی به سمت انرژی خورشیدی و خودروهای بر��ی سود می‌برد.",
+      "category": "geopolitics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/china-clear-winner-trump-war-middle-east-report-iran-strait-of-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 11:11:58 GMT",
+      "time": "۱۴:۴۱ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "guardian_13",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Six feared dead after ‘bizarre’ sinking of charter boat off Canadian coast",
+      "title_fa": "شش نفر پس از غرق شدن «عجیب» قایق اجاره‌ای در سواحل کانادا، جان باختند",
+      "lead": "گمان می‌رود شش نفر پس از غرق شدن «عجیب» یک قایق چارتر در تنگه جورجیا در سواحل کانادا جان باخته باشند. این شناور که گفته می‌شود ۱۰ سرنشین داشته، قبل از غرق شدن هیچ پیام اضطراری ارسال نکرده است و تیم‌های جستجو اکنون عملیات بازیابی اجساد را آغاز کرده‌اند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/sinking-boat-vancouver-canada",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 30 Jun 2026 17:02:40 GMT",
+      "time": "۲۰:۳۲ - ۹ تیر",
+      "analyzed_at": "2026-07-01T18:04:38.768Z"
     }
   ]
 }
