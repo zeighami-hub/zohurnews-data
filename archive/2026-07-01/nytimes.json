@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_0",
@@ -434,6 +434,78 @@
       "pubDate": "Tue, 30 Jun 2026 14:58:42 +0000",
       "time": "۱۸:۲۸ - ۹ تیر",
       "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. and Iran Set to Hold Indirect Talks After Trading Attacks: What to Know",
+      "title_fa": "آمریکا و ایران پس از تبادل حملات، آماده مذاکرات غیرمستقیم هستند: آنچه باید بدانید",
+      "lead": "مذاکره‌کنندگان در دوحه برای گفت‌وگوهای غیرمستقیم حض��ر دارند و تردد کشتی‌ها در تنگه هرمز افزایش ��افته است. این در حالی است که تهران و واشنگتن همچنان در مورد ��سائل کلیدی اختل��ف نظر زیادی دارند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Wed, 01 Jul 2026 17:20:08 +0000",
+      "time": "۲۰:۵۰ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T18:49:10.650Z"
+    },
+    {
+      "id": "nytimes_6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As Earthquake Death Toll Mounts, Venezuela Grapples With Recovering and Burying Bodies",
+      "title_fa": "با افزایش تلفات زلزله، ونزوئلا با بازیابی و دفن اجساد دست و پنجه نرم می‌کند",
+      "lead": "با افزایش تعداد قربانیان زلزله، هزاران جسد سیستم پزشکی قانونی ونزوئلا را تحت فشار قرار داده است. در این شرایط، یک بندر دریایی به سردخانه موقت تبدیل شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 01 Jul 2026 18:14:49 +0000",
+      "time": "۲۱:۴۴ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T18:49:10.650Z"
+    },
+    {
+      "id": "nytimes_6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Bombings in Greece Target Governing Party Members, Officials Say",
+      "title_fa": "مقامات: بمب‌گذاری‌ها در یونان اعضای حزب حاکم را هدف قرار داد",
+      "lead": "پلیس یونان اعلام کرد که در یکی از بمب‌گذاری‌ها در شهر تسالونیکی، یک نام��د پارلمان از حزب دموکراسی نوین به همراه والدینش مجروح شدند. این حملات اعضای حزب حاکم را هدف قرار داده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/europe/greece-bombings-thessaloniki.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 17:44:52 +0000",
+      "time": "۲۱:۱۴ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T18:49:10.650Z"
     }
   ]
 }
