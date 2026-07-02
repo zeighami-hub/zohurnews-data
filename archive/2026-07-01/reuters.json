@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "reuters",
-  "total": 51,
+  "total": 52,
   "articles": [
     {
       "id": "reuters_1",
@@ -1174,6 +1174,30 @@
         "negative": 40
       },
       "analyzed_at": "2026-07-01T23:18:24.918Z"
+    },
+    {
+      "id": "reuters_8",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran canceled participation in technical talks over recent attacks, official tells state TV - Reuters",
+      "title_fa": "یک مقام دولتی به تلویزیون دولتی گفت: ایران مشارکت خود در مذا��رات فنی درباره حملات اخیر را لغو کرد",
+      "lead": "یک مقام دولتی ایران به تلویزیون دولتی این کشور اعلام کرده است که ایران مشارکت خود را در مذاکرات فنی مربوط به حملات اخیر لغو کرده است. این تصمیم ممکن است بر تنش‌های منطقه‌ای و روابط بین‌المللی تاثیر بگذارد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcjJ0V01LU0UwTXVYdzY5LXk2SURZV0t2cVhsZ1NyWVlHUklkeHVKZ1FQTHQ5bVdwcWFQZ09RajN0YXFsY01qR1J1OVNJcF96Qkg4SndTX1hzU0REN29aWDZfMHNkVGhzZC1qdVkzNlJtX2dscC1EZU9yM1lBSmNxZ3Z4cF9oSEdXLXRHc3hkSjU2NUN6UGNEM0ItSjl0OEJtcjR6VnN1czEtTEpRYzlTOTJ0dVRjbTVlYWZySkg0QW0zU29uR1VUdXJ1d2k?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Sun, 28 Jun 2026 19:53:44 GMT",
+      "time": "۲۳:۲۳ - ۷ تیر",
+      "analyzed_at": "2026-07-01T23:36:40.594Z"
     }
   ]
 }
