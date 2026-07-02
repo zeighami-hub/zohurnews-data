@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "rt",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "rt_5",
@@ -192,6 +192,30 @@
       "pubDate": "Wed, 01 Jul 2026 10:04:07 +0000",
       "time": "۱۳:۳۴ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T11:15:15.627Z"
+    },
+    {
+      "id": "rt_12",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Booze ban imposed in UK towns",
+      "title_fa": "ممنوعیت الکل در شهرهای بریتانیا اعمال شد",
+      "lead": "دو شهر ساحلی در انگلستان پس از افزایش نزاع‌های ساحلی، دستگیری‌ها و شکایات مشاغل محلی، ممنوعیت سه‌ساله الکل را اعمال کرده‌اند. این تصمیم به دنبال مشکلات نظم عمومی اتخاذ شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642402-uk-coast-alcohol-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Wed, 01 Jul 2026 04:45:04 +0000",
+      "time": "۰۸:۱۵ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T11:22:27.037Z"
     }
   ]
 }
