@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "skynews",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "skynews_9",
@@ -146,6 +146,30 @@
       "pubDate": "Tue, 30 Jun 2026 04:06:00 +0100",
       "time": "۰۶:۳۶ - ۹ تیر",
       "analyzed_at": "2026-07-01T18:04:38.768Z"
+    },
+    {
+      "id": "skynews_4",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "59 killed in Ivory Coast floods amid fears number of dead could rise",
+      "title_fa": "۵۹ نفر در سیل��های ساحل عاج کشته شدند؛ نگرانی‌ها از افزایش تعداد قربانیان.",
+      "lead": "به گفته سخنگوی دولت، حداقل ۵۹ نفر در سیل‌های اخیر در ساحل عاج جان خود را از دست داده‌اند. نگرانی‌ها از این وجود دارد که تعداد قربانیان ممکن است افزایش یابد.",
+      "category": "disaster",
+      "region": "africa",
+      "sourceUrl": "https://news.sky.com/story/59-killed-in-ivory-coast-floods-amid-fears-number-of-dead-could-rise-13559592",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 17:05:00 +0100",
+      "time": "۱۹:۳۵ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T18:49:10.650Z"
     }
   ]
 }
