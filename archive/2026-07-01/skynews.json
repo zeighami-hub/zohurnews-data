@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "skynews_9",
@@ -74,6 +74,30 @@
       "pubDate": "Tue, 30 Jun 2026 22:36:00 +0100",
       "time": "۰۱:۰۶ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "skynews_8",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Woman dies after alligator bites off her arm in Florida",
+      "title_fa": "زنی پس از کنده شدن بازویش توسط تمساح در فلوریدا جان باخت",
+      "lead": "در ایالت فلوریدا، زنی پس از اینکه بازویش توسط یک تمساح کنده شد، درگذشت. این حادثه غم‌انگیز د�� شرایطی رخ داده است که مقامات محلی نسبت به حضور حیات وحش در مناطق مسکونی هشدار می‌دهند.",
+      "category": "accidents",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/florida-woman-dies-after-alligator-bites-off-her-arm-13559081",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 04:59:00 +0100",
+      "time": "۰۷:۲۹ - ۹ تیر",
+      "analyzed_at": "2026-07-01T11:22:27.037Z"
     }
   ]
 }
