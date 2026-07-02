@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "guardian",
-  "total": 1,
+  "total": 5,
   "articles": [
     {
       "id": "guardian_14",
@@ -26,6 +26,100 @@
       "pubDate": "Wed, 01 Jul 2026 09:10:22 GMT",
       "time": "۱۲:۴۰ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T10:47:10.294Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
+      "title_fa": "«شکار جادوگران» در نیجر؛ رژیم نظامی به جمع‌آور�� جمعیت LGBTQ+ می��پردازد",
+      "lead": "در نیجر، بیم از اوج‌گیری مجدد HIV/ایدز در پی از دست رفتن دسترسی به دا��وهای پیشگیری، همزمان با دس��گیری دست‌کم ۴۰ نفر در پی «شکار جادوگران» وجود دارد. این اقدام در پی محدودیت‌های ایجاد شده توسط رژیم نظامی علیه جامعه دگرباشان جنسی صورت گرفته است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtbq-population",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "guardian_4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Friend of Thai teen allegedly murdered by Australian man went to his condo after reporting her missing",
+      "title_fa": "دوست نوجوان تایلندی که توسط مرد استرالیایی به قتل رسیده، پس از گزارش مفقودی او به کان��وی مظنون رفت",
+      "lead": "تصاویر دوربین‌های امنیتی نشان می‌دهد که دوست یک نوجوان ۱۷ ساله تایلندی پس از گزارش مفقودی او به پلی��، به آپارتمان سیمون پیتر کارمن در پاتایا، تایلند رفته است. این نوجوان که تانچانوک دونهوملا نام داشت، ظاهراً توسط مرد استرالیای�� به قتل رسیده است.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/01/missing-thai-teen-thunchanok-donhomla-allegedly-murdered-australian-man-simon-peter-thailand-friend-went-to-his-condo-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 01 Jul 2026 06:36:37 GMT",
+      "time": "۱۰:۰۶ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "guardian_6",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal ‘ultimate dirty deal’",
+      "title_fa": "خلاقان نسبت به حق کپی‌رایت هشدار می‌دهند؛ پو��اک پیشنهاد ۵۰ میلیارد دلاری مرکز داده را «کثیف‌ترین معامله نهایی» خواند",
+      "lead": "پیشنهادی به کابینه ارائه شده است که به شرکت‌های هوش مصنوعی اجازه می‌دهد محتوا را استخراج کنند، در ازای سرمایه‌گذاری و صندوق ۳۵۰ میلیون دلاری برای جبران خسارت هنرمندان. این طرح بحث‌برانگیز نگرانی‌های جدی را در مورد نقض حق کپی‌رایت برانگیخته است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/01/australia-ai-copyright-laws-creatives-sound-alarm-albanese-government-datacentres",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Wed, 01 Jul 2026 06:22:22 GMT",
+      "time": "۰۹:۵۲ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "guardian_11",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
+      "title_fa": "چهارشنبه‌نامه: پس از دو زلزله قدرتمند، واقعیت میدانی در ونزوئلا چیست؟",
+      "lead": "ونزوئلا، کشوری که از اوایل سال جاری و پس از برکناری رهبرش توسط آمریکا در بحران قرار داشت، اکنون باید راهی برای بازسازی با حد��قل حضور دولت پیدا کند. این دو زلزله قدرتمند به وخامت اوضاع انسانی و زیرساختی کشور افزوده‌اند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 01 Jul 2026 05:44:50 GMT",
+      "time": "۰۹:۱۴ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
     }
   ]
 }
