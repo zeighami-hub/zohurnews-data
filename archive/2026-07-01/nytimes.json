@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_0",
@@ -170,6 +170,102 @@
       "pubDate": "Wed, 01 Jul 2026 09:00:19 +0000",
       "time": "۱۲:۳۰ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T10:47:10.294Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Turkey as a Tango Destination? A Reporter Was Living That Story.",
+      "title_fa": "آیا ترکیه می‌تواند مقصدی برای رقص ��انگو باشد؟ داستانی که یک خبرنگار تجربه کرد.",
+      "lead": "یک روزنامه‌نگار نیویورک تایمز پس از اینکه با رقص تانگو متحول شد، به بررسی صحنه پر رونق تانگوی استانبول پرداخت. این گزارش نگاهی فرهنگی به یکی از جنبه‌های شهر استانبول دارد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/middleeast/turkey-as-a-tango-destination-a-reporter-was-living-that-story.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 07:00:09 +0000",
+      "time": "۱۰:۳۰ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "nytimes_11",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Archaeologists Find Maya Monuments Off the Beaten Path. Way Off.",
+      "title_fa": "باستان‌شناسان بناهای مایایی را دور از ��سیرهای عادی، در مکانی بسیار دورافتاده یافتند",
+      "lead": "دانشمندان با استفاده از ATV و پیاده‌روی طولانی در جنگل انبوه، به محوطه‌ای دست‌نخورده در شبه‌جزیره یوکاتان مکزیک رسیدند. آنها این مکان را \"مینانبه\" نامیدند که به معنای \"هیچ راهی نیست\" است.",
+      "category": "science",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/americas/maya-ruins-minanbe-mexico.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 04:01:06 +0000",
+      "time": "۰۷:۳۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "nytimes_8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Driver Is Reported Dead Days After Plowing Into World Cup Fans in Mexico",
+      "title_fa": "گزارش‌ها حاکی از مرگ راننده‌ای است که روزها پس از راندن به میان هواداران جام جهانی در مکزیک جان باخت",
+      "lead": "این حادثه به نظر می‌رسد جدی‌ترین خشونت پس از پیروزی‌های تیم ملی مکزیک باشد که جمعیت زیادی را به خیابان‌ه��ی سراسر کشور کشانده است. راننده پس از راندن به میان جمعیت هواداران جام جهانی در مکزیک، ��ان خود را از دست داد.",
+      "category": "incident",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/americas/mexico-driver-died-world-cup-party.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 01:24:59 +0000",
+      "time": "۰۴:۵۴ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Beaver Statue Honoring the United States Is Smashed in Toronto",
+      "title_fa": "تندیس سگ آبی به افتخ��ر ایالات متحده در تورنتو تخریب شد",
+      "lead": "یکی از ده‌ها مجسمه حیوان ملی کانادا که بخشی از یک چیدمان هنری عمومی برای جام جهانی بود، تخریب شد. این مجسمه سگ آبی دارای پرچم ستاره‌دار و راه‌راه آمریکا بود که مورد حمله قرار گرفت.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/canada/world-cup-toronto-beaver-destroyed.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Tue, 30 Jun 2026 22:16:46 +0000",
+      "time": "۰۱:۴۶ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T10:59:28.144Z"
     }
   ]
 }
