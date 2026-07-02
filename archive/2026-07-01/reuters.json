@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "reuters",
-  "total": 39,
+  "total": 41,
   "articles": [
     {
       "id": "reuters_1",
@@ -896,6 +896,50 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-01T11:22:27.037Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil prices little changed but set for steepest monthly and quarterly losses since 2020 - Reuters",
+      "title_fa": "قیمت نفت تغییری اندک داشته اما در آستانه ثبت بیشترین کاهش ماهانه و فصلی از سال ۲��۲۰ است.",
+      "lead": "قیمت‌های نفت با تغییرات اندکی ر��برو بوده‌اند، اما به نظر می‌رسد در حال ثبت عمیق‌ترین افت ماهانه و فصلی خود از سال ۲۰۲۰ ه��تند. این تحول نشان‌دهنده نوسانات قابل توجه در بازارهای جهانی انرژی است که می‌تواند بر اقتصادهای سراسر جهان تأثیر بگذارد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDFWV0lhZFUtN1Y1N2hwRlNPWGZYVFQ5TXZxVjVpQTFib25IaS0walpsa3V6a0VRbVIxOEw5bVVYZFlWTzZuWWZrcFZtd2dUQVZEU00xX3VEVDBxanpod0lsaUFYbzFESXVJSWZKLUtmZDBNUVRXTk5ZaGw1SmRBWjJzNGQ0TzdXcmpsa3BhMXl1djBhc1hScXVxc2RaNzR1M1A2YzlrSWtVZw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-01T11:49:14.700Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Netanyahu visits occupied southern Lebanon, says Israel won't leave yet - Reuters",
+      "title_fa": "نتانیاهو از جنوب لبنان اشغالی بازدید کرد و گفت اسرائیل فعلاً آنجا را ترک نخواهد کرد.",
+      "lead": "بنیامین ��تانیاه��، نخست‌وزیر اسرائیل، از جنوب لبنان اشغالی بازدی�� کرده و اظهار داشت که اسرائیل فعلاً قصد ترک این منطقه را ندارد. این بازدید و اظهارات او تنش‌ها در منطقه را افزایش داده و واکنش‌های بین‌المللی را به دنبا�� خواهد داشت.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVcySlRURGc5VDVrMkFTZk82RTBjUE1zdkNtQW1SVERHQmI3d2xwMFc1VkVnOXRNbDRYU1QteTl4LTZmdDNwa3FTdk1Udk9hR3c5WkVfclVZUEpoNmpzUU5YVGVpOTh2WVhrU1B6b08yaTBBRXlEWTVNWmJ4ajI0QlpoYUNEZWxhbHM2Sm1YclFROXNaRGhxV3ptYzNmRHNfTHNCVlpGSFlKUEZuTWtPN3pOVzdvMC1ZajJiZFdUeWo?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-01T11:49:14.700Z"
     }
   ]
 }
