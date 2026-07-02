@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "guardian",
-  "total": 27,
+  "total": 28,
   "articles": [
     {
       "id": "guardian_14",
@@ -646,6 +646,30 @@
       "pubDate": "Wed, 01 Jul 2026 14:58:53 GMT",
       "time": "۱۸:۲۸ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T19:19:06.977Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "EU sets up three months of talks with China over €360bn trade deficit",
+      "title_fa": "اتحادیه اروپا مذاکرات سه ماهه با چین را بر سر کسری تجاری ۳۶۰ میلیارد یورویی آغاز می‌کند",
+      "lead": "پس از هفته‌ها تهدید، اتحادیه اروپا و چین توافق کردند که روابط دوجانبه خود را متعادل‌تر کنند. آنها برای جلوگ��ری از جنگ تجاری بر سر عدم توازن ۳۶۰ میلیارد یورویی واردات و صادرات سالانه، مذاکرات سه ماهه‌ای را آغاز خواهند کرد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Mon, 29 Jun 2026 18:33:51 GMT",
+      "time": "۲۲:۰۳ - ۸ تیر",
+      "analyzed_at": "2026-07-01T20:33:18.282Z"
     }
   ]
 }
