@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "reuters",
-  "total": 43,
+  "total": 44,
   "articles": [
     {
       "id": "reuters_1",
@@ -986,6 +986,30 @@
         "negative": 70
       },
       "analyzed_at": "2026-07-01T12:04:09.035Z"
+    },
+    {
+      "id": "reuters_14",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Netanyahu visits occupied southern Lebanon, says Israel won't leave yet - Reuters",
+      "title_fa": "نتانیاهو از جنوب لبنان اشغالی بازدید کرد؛ اسرائیل فعلاً از آنجا خارج نمی‌شود",
+      "lead": "بنیا��ین نتانیاهو، نخست���وزیر اسرائیل، از جنوب لبنان اشغالی بازدید کرده و اظهار داشت که اسرائیل فعلاً از این من��قه خارج نخواهد شد. این اظهارات در بحبوحه تنش‌های فزاینده در منطقه خاورمیانه مطرح شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVcySlRURGc5VDVrMkFTZk82RTBjUE1zdkNtQW1SVERHQmI3d2xwMFc1VkVnOXRNbDRYU1QteTl4LTZmdDNwa3FTdk1Udk9hR3c5WkVfclVZUEpoNmpzUU5YVGVpOTh2WVhrU1B6b08yaTBBRXlEWTVNWmJ4ajI0QlpoYUNEZWxhbHM2Sm1YclFROXNaRGhxV3ptYzNmRHNfTHNCVlpGSFlKUEZuTWtPN3pOVzdvMC1aajJiZFdUeWo?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 30 Jun 2026 16:45:22 GMT",
+      "time": "۲۰:۱۵ - ۹ ت��ر",
+      "analyzed_at": "2026-07-01T12:18:35.649Z"
     }
   ]
 }
