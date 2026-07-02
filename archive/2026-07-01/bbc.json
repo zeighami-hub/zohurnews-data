@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "bbc_5",
@@ -194,6 +194,54 @@
       "pubDate": "Mon, 29 Jun 2026 23:17:19 GMT",
       "time": "۰۲:۴۷ - ۹ تیر",
       "analyzed_at": "2026-07-01T10:59:28.144Z"
+    },
+    {
+      "id": "bbc_5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Three killed in Mexico City World Cup celebrations",
+      "title_fa": "۳ کشته در جشن‌های جام جهانی در مکزیکوسیتی",
+      "lead": "در جریان جشن‌های جام جهانی در مکزیکوسیتی، سه نفر جان خود را از دست دادند. بیش از یک میلیون نفر برای جشن پیروزی تیم ملی کشورشان بر اکوادور به خیابان‌ها آمده بودند.",
+      "category": "society",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 10:12:48 GMT",
+      "time": "۱۳:۴۲ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T11:15:15.627Z"
+    },
+    {
+      "id": "bbc_5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "title_fa": "ترامپ در اولین سال بازگشت به قدرت، بیش از یک میلیارد دلار از ارزهای دیجیتال درآمد کسب کرد",
+      "lead": "ترامپ در اولین سال بازگشت به قدرت، بیش از یک میلیارد دلار از ارزهای دیجیتال درآمد داشته است. این درآمد او از ارزهای دیجیتال بسیار بیشتر از درآمدهایش از املاک و مستغلات و اقلام با تم ترامپ مانند ساعت بوده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Wed, 01 Jul 2026 07:30:53 GMT",
+      "time": "۱۱:۰۰ - ۱۰ ت��ر",
+      "analyzed_at": "2026-07-01T11:15:15.627Z"
     }
   ]
 }
