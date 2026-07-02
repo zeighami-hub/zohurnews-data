@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "nytimes",
-  "total": 23,
+  "total": 27,
   "articles": [
     {
       "id": "nytimes_0",
@@ -321,7 +321,7 @@
       "keep": true,
       "title": "Australian Man Charged With Homicide After Thai Teen’s Body Found in Suitcase",
       "title_fa": "مرد استرالیایی پس از یافتن جسد نوجوان تایلندی در چمدان، به قتل متهم شد",
-      "lead": "جسد یک نوجوان ��۷ ساله تا��لندی در یک چمدان در نزدیکی ریل قطار در پاتایا کشف شد، که منجر به اتهام قتل برای یک مرد استرالیایی گردید. مظنون در حالی که قصد خروج ��ز کشور را داشت، بازداشت شد.",
+      "lead": "جسد یک نوجوان ��۷ ساله تا��لندی در یک چمدان در نزدیکی ریل قطار در پاتایا کشف شد، که منجر به اتهام قتل برای یک مرد استرالیایی گردید. مظنون در حالی که قص�� خروج ��ز کشور را داشت، بازداشت شد.",
       "category": "crime",
       "region": "global",
       "sourceUrl": "https://www.nytimes.com/2026/06/30/world/asia/australian-thailand-teenager-murder-suitcase.html",
@@ -554,6 +554,102 @@
       "pubDate": "Tue, 30 Jun 2026 21:34:12 +0000",
       "time": "۰۱:۰۴ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "nytimes_12",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "¿Y Si Sí? The World Cup Delivers Hope to Mexico",
+      "title_fa": "اگر بله؟ جام جهانی امید را برای مکزیک به ارمغان می‌آورد",
+      "lead": "حضور مکزیک در جام جهانی ملت را به هیجان آور��ه و صدها هزار نفر را برای جشن‌های شادی، تاب‌آوری و امید به خیابان‌ها کشانده است. این رویداد ورزشی تأثیر عمیقی بر روحیه ملی گذاشته است.",
+      "category": "sports",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/americas/mexico-world-cup-celebrations.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 22:08:05 +0000",
+      "time": "۰۱:۳۸ - ۱۱ تیر",
+      "analyzed_at": "2026-07-01T23:18:24.918Z"
+    },
+    {
+      "id": "nytimes_9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Celebrating the World Cup, the English Ask: Who Owns the Flag?",
+      "title_fa": "در جشن جام جهانی، انگلیسی‌ها می‌پرسند: پرچم مال کیست؟",
+      "lead": "در طول جام جهانی، هواداران فوتبال انگلیس پر��م ملی این کشور را که یک بنر سفید با صلیب قرمز پررنگ است، به نمایش گذاشته‌اند. ��ما این موضوع تنش���هایی را در مورد اینکه پرچم قرار است نماینده چه کسی و چه چیزی باشد، ایجاد کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Wed, 01 Jul 2026 21:16:52 +0000",
+      "time": "۰۰:۴۶ - ۱۱ تیر",
+      "analyzed_at": "2026-07-01T23:18:24.918Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ukraine Takes the War to Russia",
+      "title_fa": "اوکراین جنگ را به روسیه کشانده است",
+      "lead": "هدف کی‌یف از گسترش جنگ به خاک روسیه ساده است: اعمال فشار کافی بر ولادیمیر پوتین برای پایان دادن به درگیری. اما سوال اینجاست که آیا این راهبرد کارساز خواهد بود یا خیر.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Wed, 01 Jul 2026 21:01:02 +0000",
+      "time": "۰۰:۳۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-01T23:18:24.918Z"
+    },
+    {
+      "id": "nytimes_7",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Sea Hawk Helicopter Makes Emergency Landing in Arabian Sea, Navy Says",
+      "title_fa": "نیروی دریایی آمریکا: بالگرد سی ه��وک در دریای عرب فرود اضطراری کرد",
+      "lead": "نیروی دریایی آمریکا اعلام کرد که یک بالگرد سی هاوک در دریای عرب فرود اضطراری داشته است. سه نفر از خدمه نجات یا��تند، اما یک نفر همچنان مفقود است و نشانه‌ای از اقدام خصمانه وجود ندارد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/us/navy-helicopter-rescue-missing-person.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Wed, 01 Jul 2026 19:23:55 +0000",
+      "time": "۲۲:۵۳ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T23:18:24.918Z"
     }
   ]
 }
