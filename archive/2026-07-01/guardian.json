@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "guardian",
-  "total": 28,
+  "total": 29,
   "articles": [
     {
       "id": "guardian_14",
@@ -670,6 +670,30 @@
       "pubDate": "Mon, 29 Jun 2026 18:33:51 GMT",
       "time": "۲۲:۰۳ - ۸ تیر",
       "analyzed_at": "2026-07-01T20:33:18.282Z"
+    },
+    {
+      "id": "guardian_12",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Tonnes of rubble’: 58,000 buildings estimated destroyed in Venezuela earthquakes",
+      "title_fa": "«تن‌ها آوار»: تخمین تخریب ۵۸ هزار ساختمان در زلزله‌های ونزوئلا",
+      "lead": "بر اساس تحلیل اولیه داده‌های ماهواره‌ای، تخمین زده می‌شود که ۵۸ هزار ساختمان در زلزله‌های ونزوئلا ویران شده‌اند. این ارقام نشان می‌دهد که بزرگی این فاجعه طبیعی می‌تواند تخمین‌های رسمی را تحت‌الشعاع قرار دهد.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 18:26:38 GMT",
+      "time": "۲۱:۵۶ - ۹ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
     }
   ]
 }
