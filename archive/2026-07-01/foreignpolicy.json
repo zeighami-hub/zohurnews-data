@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "foreignpolicy",
-  "total": 11,
+  "total": 16,
   "articles": [
     {
       "id": "foreignpolicy_9",
@@ -266,6 +266,126 @@
       "pubDate": "Wed, 01 Jul 2026 17:40:59 +0000",
       "time": "۲۱:۱۰ - ۱۰ تیر",
       "analyzed_at": "2026-07-01T18:49:10.650Z"
+    },
+    {
+      "id": "foreignpolicy_3",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Anti-Immigrant Marches Held Across South Africa",
+      "title_fa": "برگزاری راهپیمایی‌های ضد مهاجران در سراسر آفریقای جنوبی",
+      "lead": "راهپیمایی‌های ضد مهاجران در سراسر آفریقای جنوبی برگزار شد. معترضان به مهاجران غیرقانونی تا روز سه‌شنبه مهلت داده بودند تا خو��شان کشور را ترک کنند وگرنه با عواقب آن روبرو خواهند شد.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/south-africa-anti-immigrant-rallies-self-deport-ramaphosa-xenophobia/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 21:38:53 +0000",
+      "time": "۰۱:۰۸ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "foreignpolicy_6",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Small-Plane Crash Tests China’s Security State",
+      "title_fa": "سقوط هواپیمای کوچک، وضعیت امنیتی چین را به چالش ����ی‌کشد",
+      "lead": "سقوط یک هواپیمای کوچک در چین، وضعیت امنیتی این کشور را به چالش کشیده است. این حادثه سوالاتی را مطرح می‌کند که چگونه یک هواپیمای خصوصی توانسته وارد حریم هوایی حساس پکن شود.",
+      "category": "security",
+      "region": "asia",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/china-plane-crash-beijing-citic-tower-security/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 21:12:50 +0000",
+      "time": "۰۰:۴۲ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "foreignpolicy_8",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Washington’s Cuba Policy Is Self-Sabotage",
+      "title_fa": "سیاست واشنگتن در قبال کوبا خودتخریبی است",
+      "lead": "سیاست واشنگتن در قبال کوبا به مثابه خودتخریبی است. محاصره اقتصادی آمریکا در حال از بین بردن شانس هاوانا برای تبدیل شدن به کشوری باثبات و دموکراتیک است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/cuba-us-blockade-sanctions-trump-humanitarian-crisis/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 20:37:22 +0000",
+      "time": "۰۰:۰۷ - ۱۰ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "foreignpolicy_11",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Doomsday Climate Scenarios Were Wrong. That Doesn’t Help Europe.",
+      "title_fa": "سناریوهای اقلیمی روز قیامت اشتباه بودند. اما این به اروپا کمکی نمی‌کند.",
+      "lead": "سناریوهای اقلیمی روز قیامت اشتباه از آب درآمدند، اما این به معنای بهبود وضعیت اروپا نیست. بازنگری‌های علمی اخیر به جای تضعیف، بر ضرورت اقدام سریع در زمینه تغییرات اقلیمی تأکید می‌کنند.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/science-climate-europe-global-warming-heat-wave/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 19:07:45 +0000",
+      "time": "۲۲:۳۷ - ۹ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
+    },
+    {
+      "id": "foreignpolicy_13",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "The European Country That Figured Out Trump’s White House",
+      "title_fa": "کش��ر اروپایی که کاخ سفید ترامپ را شناخت",
+      "lead": "لهستان ک��وری اروپایی است که توانسته راه تعامل با ک��خ سفید ترامپ را پیدا کند. موفقیت آن تا حدی به دلیل روابط شخصی قوی بوده، اما تاریخ نشان می‌دهد که ��ین بخت ممکن است برای همیشه پایدار نباشد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://foreignpolicy.com/2026/06/30/poland-trump-military-spending-nato-troops-nawrocki/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 17:32:09 +0000",
+      "time": "۲۱:۰۲ - ۹ تیر",
+      "analyzed_at": "2026-07-01T22:48:52.351Z"
     }
   ]
 }
