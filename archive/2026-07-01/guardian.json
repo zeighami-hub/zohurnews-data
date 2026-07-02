@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
   "agencyId": "guardian",
-  "total": 8,
+  "total": 13,
   "articles": [
     {
       "id": "guardian_14",
@@ -192,6 +192,124 @@
       "pubDate": "Wed, 01 Jul 2026 07:00:29 GMT",
       "time": "۱۰:۳۰ - ۱۰ ��یر",
       "analyzed_at": "2026-07-01T11:15:15.627Z"
+    },
+    {
+      "id": "guardian_12",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
+      "title_fa": "کیکو فوجیموری در انتخابات ریاست‌جمهوری پرو پیروز شد؛ جدیدترین دستاورد راست‌گرایان آمریکای لاتین",
+      "lead": "کیکو فوجیموری، دختر رئیس‌جمهور فقید پرو، در انتخابات ریاست‌جمهوری این کشور به پیروزی رسید که جدیدترین دستاورد برای جریان راست در آمریکای لاتین محسوب می‌شود. او پس از هفته‌ها بررسی آرای مورد مناقشه، قول داده است که \"نظم و امید\" را به کشور بازگرداند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 00:18:15 GMT",
+      "time": "۰۳:۴۸ - ۹ تیر",
+      "analyzed_at": "2026-07-01T11:35:01.875Z"
+    },
+    {
+      "id": "guardian_3",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Thai police investigate if Australian man charged over 17-year-old girl’s murder linked to other unsolved cases",
+      "title_fa": "پلیس تایلند در حال بررسی ارتباط پرونده مرد استرالیایی متهم به قتل دختر ۱۷ ساله با سایر پرونده‌های حل نشده است",
+      "lead": "پلیس تایلند در حال تحقیق است تا مشخص کند آیا مرد استرالیایی که در ارتباط با قتل یک دختر ۱۷ ساله متهم شده، با سایر پرونده‌های حل نش��ه در این منطقه ارتباط دارد یا خیر. مقامات پلیس می‌گویند شباهت‌هایی در این پرونده‌ها وجود دارد، اما تاکنون هیچ مدرکی دال بر ارتباط مستقیم یافت نشده است.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/thai-teen-girl-murder-australian-man-charged-police-investigate-other-unsolved-cases-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 10:41:40 GMT",
+      "time": "۱۴:۱۱ - ۹ تیر",
+      "analyzed_at": "2026-07-01T11:22:27.037Z"
+    },
+    {
+      "id": "guardian_4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Police units deployed across South Africa before anti-immigration marches",
+      "title_fa": "استقرار یگان‌های پلیس در سراسر آفریقای جنوبی پیش از راهپیمایی‌های ضد مهاجرت",
+      "lead": "مقامات آفریقای جنوبی یگان‌های پلیس را در شهرها و مناطق مختلف کشور مستقر کرده‌اند تا پیش از تظاهرات برنامه‌ریزی شده علیه مهاجران غیرقانونی، امنیت را تامین کنند. دولت نگرا�� تکرار خشونت‌های ضد مهاجران سال ۲۰۰۸ است که منجر به غارت و مرگ ۶۲ نفر شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 30 Jun 2026 10:20:52 GMT",
+      "time": "۱۳:۵۰ - ۹ تیر",
+      "analyzed_at": "2026-07-01T11:22:27.037Z"
+    },
+    {
+      "id": "guardian_7",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
+      "title_fa": "گو ونگوی، میلیاردر چینی، به دلیل کلاهبرداری به ۳۰ سال زندان در آمریکا محکوم ��د",
+      "lead": "گو ونگوی، میلیاردر چینی که به دلیل ان��قاد از حزب کمونیست چین شهرت یافته بود، در دادگاه فدرال آمریکا به جرم کلاهبرداری به ۳۰ سال زندان محکوم شد. او در سال ۲۰۲۴ ��ه نه اتهام از جمله پولشویی مجرم شناخته شده بود.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 30 Jun 2026 04:22:07 GMT",
+      "time": "۰۷:۵۲ - ۹ تیر",
+      "analyzed_at": "2026-07-01T11:22:27.037Z"
+    },
+    {
+      "id": "guardian_9",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
+      "title_fa": "کیکو فوجیموری، در پیروزی اخیر راست‌گرایان در آمریکای لاتین، در انتخابات ریاست‌جمهوری پرو پیروز شد",
+      "lead": "کیکو فوجیموری، دختر ۵۱ ساله رئی��‌جمهور فقید آلبرتو فوجیموری، پس از هفته‌ها بررسی آرای مورد مناقشه، کرسی ریاست‌جمهوری پرو را از آن خود کرد. این پیروزی او را در خط مقدم موج جدید پیروزی‌های راست‌گرایان در آمریکای لاتین قرار می‌دهد و او وعده بازگرداندن «نظم و امید» را داده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.guardian.com/world/2026/jun/30/keiko-fujimori-wins-peru-presidential-election-polls-runoff",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-07-01T11:22:27.037Z"
     }
   ]
 }
