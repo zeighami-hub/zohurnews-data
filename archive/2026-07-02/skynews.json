@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "skynews_5",
@@ -50,6 +50,30 @@
       "pubDate": "Thu, 02 Jul 2026 00:38:00 +0100",
       "time": "۰۳:۰۸ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "skynews_8",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Five people injured after firebomb attacks targeting politicians in Greece",
+      "title_fa": "پنج نفر در حملات ب��ب آتش‌زا به سیاستمداران در یونان مجروح شدند",
+      "lead": "پلیس یونان اعلام کرد که در سه حمله بمب آتش‌زا در ساعات پیش از طلوع آفتاب که ظاهراً خانه‌های اعضای حزب حاکم دموکراسی نوین را هدف قرار داده بود، پنج نفر مجروح و در بیمارستان بستری شدند. حال یکی از مجروحان وخیم گ��ارش شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/five-people-injured-after-firebomb-attacks-targeting-politicians-in-greece-13559439",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 09:33:00 +0100",
+      "time": "۱۲:۰۳ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T11:05:56.473Z"
     }
   ]
 }
