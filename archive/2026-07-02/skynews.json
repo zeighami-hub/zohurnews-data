@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "skynews",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "skynews_5",
@@ -218,6 +218,30 @@
       "pubDate": "Thu, 02 Jul 2026 10:57:00 +0100",
       "time": "۱۳:۲۷ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T17:39:49.375Z"
+    },
+    {
+      "id": "skynews_11",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "59 killed in floods and fears number of dead could rise",
+      "title_fa": "۵۹ نفر در سیلاب‌ها کشته شدند و بیم آن می‌رود که تعداد قربانیان افزایش یابد",
+      "lead": "به گفته یک سخنگوی دولت، حداقل ۵۹ نفر در پی وقوع سیلاب در ساحل عاج جان خود را از دست داده‌اند. نگرانی‌ها از افزایش احتمالی تعداد قربانیان همچنان ادامه دارد.",
+      "category": "disaster",
+      "region": "africa",
+      "sourceUrl": "https://news.sky.com/story/59-killed-in-ivory-coast-floods-amid-fears-number-of-dead-could-rise-13559592",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 01 Jul 2026 17:05:00 +0100",
+      "time": "۱۹:۳۵ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T19:18:59.965Z"
     }
   ]
 }
