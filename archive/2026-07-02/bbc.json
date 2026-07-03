@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "bbc",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "bbc_2",
@@ -170,6 +170,30 @@
       "pubDate": "Wed, 01 Jul 2026 22:13:03 GMT",
       "time": "۰۱:۴۳ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "bbc_3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Four die in Mexico City World Cup celebrations",
+      "title_fa": "چهار نفر در جشن‌های جام جهانی در مکزیکوسیتی جان باختند",
+      "lead": "بیش از یک میلیون نفر در مکزیکوسیتی برای جشن پیروزی تیم ملی این کشور در جام جهانی به خیابان‌ها آمدند. متأسفانه در جریان این جشن‌ها، چهار نفر جان خود را از دست دادند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 01 Jul 2026 20:15:59 GMT",
+      "time": "۲۳:۴۵ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T11:50:19.334Z"
     }
   ]
 }
