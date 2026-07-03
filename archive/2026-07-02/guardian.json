@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "guardian",
-  "total": 17,
+  "total": 21,
   "articles": [
     {
       "id": "guardian_13",
@@ -410,6 +410,102 @@
       "pubDate": "Thu, 02 Jul 2026 15:00:03 GMT",
       "time": "۱۸:۳۰ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "guardian_10",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "At least nine monks killed in Thailand after boy drives truck into procession",
+      "title_fa": "حداقل نه راهب در تایلند پس از آنکه پسربچه‌ای کامیون را به داخل یک دسته عزاداری راند، کشته شدند",
+      "lead": "یک پسربچه ۱۱ ساله کامیون والدین خود را به داخل یک دسته عزاداری بودایی در تایلند راند و حداقل ۹ راهب را کشت. پلیس در حال بررسی شرایط این حادثه در موکداهان است و هنوز اتهامی ثبت نشده است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 02 Jul 2026 13:10:07 GMT",
+      "time": "۱۶:۴۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:39:49.375Z"
+    },
+    {
+      "id": "guardian_8",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Papua separatists kill American pilot in ‘message’ to US and Indonesia",
+      "title_fa": "جدایی‌طلبان پاپوآ خلبان آمریکایی را کشتند؛ «پیامی» به آمریکا و اندونزی",
+      "lead": "شورشیان جدایی‌طلب در منطقه پاپوآی شرقی اندونزی، یک خلبان آمریکایی را به ضرب گلوله کشتند و هواپیمای غیرنظامی او را به آتش کشیدند. این اقدام در بحبوحه درگیری‌های طولانی‌مدت و کم‌شدت برای استقلال منطقه صورت گرفته و آن را «پیامی» به آمریکا و اندونزی خوانده‌اند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/papua-separatists-kill-american-pilot-yahukimo",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 12:18:48 GMT",
+      "time": "۱۵:۴۸ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:39:49.375Z"
+    },
+    {
+      "id": "guardian_10",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Social media platforms ‘monetise gore and fringe content’, eSafety regulator tells antisemitism commission",
+      "title_fa": "تنظیم‌کننده ایمنی آنلاین: پلتفرم‌های رسانه‌های اجتماعی «از محتوای خشن و افراطی درآمدزایی می‌کنند»",
+      "lead": "تنظیم‌کننده ایمنی آنلاین استرالیا به کمیسیون سلطنتی مبارزه با یهودی‌ستیزی و انسجام اجتماعی اعلام کرد که پلتفرم‌ها�� رسانه‌های اجتماعی «از محتوای خشن و افراطی درآمدزایی می‌کنند». جولی اینمن گرانت به طور خاص به پلتفرم X اشاره کرد و گفت که پلتفرم‌های اصلی برای توزیع و کسب درآمد از «محتوای خشن» و «افراطی» در حال رقابت هستند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/02/antisemitism-royal-commission-social-media-julie-inman-grant-esafety-ntwnfb",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Thu, 02 Jul 2026 11:41:20 GMT",
+      "time": "۱۵:۱۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:39:49.375Z"
+    },
+    {
+      "id": "guardian_13",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+      "title_fa": "سیل در ساحل عاج ۵۹ کشته برجای گذاشت؛ غرب آفریقا درگیر باران‌های شدید",
+      "lead": "وزیر ارتباطات ساحل عاج اعلام کرد که سیل در این کشور از ماه می تاکنون ۵۹ نفر را به کام مرگ کشانده است. این در حالی است که غرب آفریقا با ��اران‌های سیل‌آسا دست و پنجه نرم می‌کند و غنا نیز ۱۳ کشته و بنین، توگو و نیجریه نیز شاهد سیل ��وده‌اند.",
+      "category": "disaster",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 11:01:32 GMT",
+      "time": "۱۴:۳۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:39:49.375Z"
     }
   ]
 }
