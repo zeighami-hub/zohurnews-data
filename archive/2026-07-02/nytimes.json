@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_0",
@@ -296,7 +296,7 @@
       "agencyId": "nytimes",
       "keep": true,
       "title": "After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead",
-      "title_fa": "پس از زلزله‌های ونزوئلا، تبعیدشدگان از آمریکا مفقود یا مرده یافت شدند",
+      "title_fa": "پس از زلزله‌های ونزوئلا، تبعیدشدگان از آمریکا ��فقود یا مرده یافت شدند",
       "lead": "بسیاری از ۱۴۶ شهروند ونزوئلایی که در روز وقوع زلزله از ایالات متحده اخراج شده بودند، مفقود یا فوت شده‌اند. این حادثه ابهامات جدی درباره سرنوشت این افراد و سیاست‌های مهاجرتی آمریکا ایجاد کرده است.",
       "category": "politics",
       "region": "americas",
@@ -362,6 +362,30 @@
       "pubDate": "Wed, 01 Jul 2026 09:01:58 +0000",
       "time": "۱۲:۳۱ - ۱۰ تیر",
       "analyzed_at": "2026-07-02T11:05:56.473Z"
+    },
+    {
+      "id": "nytimes_7",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
+      "title_fa": "رقص جشن فارغ‌التح��یلی در کی‌یف برگزار شد، اما هم‌رقص ماشا تنها رقصید",
+      "lead": "جشن فارغ‌التحصیل�� در کی‌یف با وجود شرایط جنگی برگزار شد، اما ماشا پولسکا، رقصنده ۱۵ ساله، نتوانست با هم‌رقص خود در ولس گرو��ی شرکت کند. او که رویای ستاره شدن در این رقص را در سر داشت، مجبور شد به تنهایی برقصد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Tue, 30 Jun 2026 20:50:39 +0000",
+      "time": "۰۰:۲۰ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T11:50:19.334Z"
     }
   ]
 }
