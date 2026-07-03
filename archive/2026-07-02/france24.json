@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "france24",
-  "total": 12,
+  "total": 17,
   "articles": [
     {
       "id": "france24_7",
@@ -290,6 +290,126 @@
       "pubDate": "Thu, 02 Jul 2026 07:59:32 GMT",
       "time": "۱۱:۲۹ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T10:34:46.155Z"
+    },
+    {
+      "id": "france24_6",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "World Cup: Are Americans real soccer fans?",
+      "title_fa": "جام جهانی: آیا آمریکایی‌ها واقعاً طرفداران فوتبال هستند؟",
+      "lead": "آمریکا اغلب به دلیل اینکه کشور \"فوتبال\" نیست، پیش از جام جهانی مورد تمسخر قرار می‌گرفت. خبرنگار آنتوان بِس به یک بار در بوستون رفت تا فضای هواداران را بررسی کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/world-cup-are-americans-real-soccer-fans",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Thu, 02 Jul 2026 05:50:53 GMT",
+      "time": "۰۹:۲۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "france24_9",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "World Cup 2026: England struggle against DR Congo, Belgium beat Senegal",
+      "title_fa": "جام جهانی ۲۰۲۶: تیم ملی انگلیس در مقابل جمهوری دموکراتیک کنگو به سختی نتیجه گرفت، بلژیک سنگال را شکست داد",
+      "lead": "هری کین با دو گل خود کمپین انگلیس را نجات داد و باعث پیروزی ۲-۱ مقابل جمهوری دموکراتیک کنگو شد. بلژیک نیز با غلبه بر سنگال با نتیجه ۳-۲، از حذف گریخت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/sports/20260702-world-cup-2026-england-struggled-against-dr-congo-belgium-beat-senegal",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Thu, 02 Jul 2026 05:36:59 GMT",
+      "time": "۰۹:۰۶ - ۱۱ تی��",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "france24_8",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Co-hosts USA beat Bosnia-Herzegovina to reach World Cup last 16",
+      "title_fa": "میزبان مشترک، آمریکا، با شکست بوسنی و هرزگوین به مرحله یک شانزدهم نهایی جام جهانی رسید",
+      "lead": "تیم ملی فوتبال آمریکا، یکی از میزبانان مشترک جام جهانی، با پیروزی بر بوسنی و هرزگوین به مرحله یک شانزدهم نهایی این رقابت‌ها صعود کرد. این پیروزی، صعود آنها را در ج��م جهانی تضمین کرد.",
+      "category": "sport",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/sport/20260702-co-hosts-usa-beat-bosnia-herzegovina-to-reach-world-cup-last-16",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 02:20:40 GMT",
+      "time": "۰۵:۵۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "france24_9",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "EU top court rejects Google's appeal against record €4.1 billion antitrust fine",
+      "title_fa": "دادگاه عالی اتحادیه اروپا درخواست تجدیدنظر گوگل در مورد جریمه بی‌سابقه ۴.۱ میلیارد یورویی ضد انحصار را رد کرد",
+      "lead": "دادگاه عدالت اروپا روز پنجشنبه درخو��ست تجدیدنظر گوگل علیه جریمه بی‌ساب��ه اعمال شده توسط نهادهای نظارتی ضد انحصار اتح��دیه اروپا را رد کرد. این حکم احتمالاً مبارزه اروپا با شرکت‌های بزرگ فناوری را تقویت خواهد کرد.",
+      "category": "economy",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/business/20260702-eu-top-court-rejects-google-s-appeal-against-record-%E2%82%AC4-1-billion-antitrust-fine",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 02 Jul 2026 01:57:11 GMT",
+      "time": "۰۵:۲۷ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "france24_3",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "World Cup 2026: Belgium stun Senegal with dramatic comeback and penalty heartbreak",
+      "title_fa": "جام جهانی ۲۰۲۶: بلژیک با بازگشتی دراما��یک و ضربات پنالتی سنگال ر�� شوکه کرد",
+      "lead": "در رقابت���های جام جهانی ۲۰۲۶، تیم ملی بلژیک در یک مسابقه نفس‌گیر موفق شد با بازگشتی دراماتیک، سنگال را شکست دهد. سرنوشت بازی در ضربات پنالتی تعیین شد که برای تیم سنگال همراه با ناامیدی بود.",
+      "category": "sport",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/sport/20260701-world-cup-2026-belgium-stun-senegal-with-dramatic-comeback-and-penalty-heartbreak",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 22:56:56 GMT",
+      "time": "۰۲:۲۶ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
     }
   ]
 }
