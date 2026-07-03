@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "skynews",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "skynews_5",
@@ -242,6 +242,54 @@
       "pubDate": "Wed, 01 Jul 2026 17:05:00 +0100",
       "time": "۱۹:۳۵ - ۱۰ تیر",
       "analyzed_at": "2026-07-02T19:18:59.965Z"
+    },
+    {
+      "id": "skynews_9",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "At least six people killed in Belgian apartment block fire",
+      "title_fa": "حداقل شش نفر در آتش‌سوزی ساختمان آپارتمانی در بلژیک کشته شدند",
+      "lead": "پلیس بلژیک اعلام کرد که در یک آتش‌سوزی در یک ساختمان آپارتمانی در این کشور، دست‌کم شش نفر جان باختند. جزئیات بیشتر در مورد علت و ابعاد این حادثه در دست بررسی است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/several-killed-in-belgian-apartment-block-fire-13559455",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 01 Jul 2026 10:21:00 +0100",
+      "time": "۱۲:۵۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T19:33:49.232Z"
+    },
+    {
+      "id": "skynews_11",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Man guilty of attempting to murder children in stabbings that sparked Dublin riots",
+      "title_fa": "مردی به اتهام تلاش برای قتل ��ودکان در حملات چاقوکشی که منجر به شورش‌های دوبلین شد، مجرم شناخته شد",
+      "lead": "مردی به جرم تلاش برای قتل سه کودک در دوبلین مجرم شناخته شد. این حادثه چاقوکشی پیشتر به شورش‌های گسترده‌ای در شهر دوبلین منجر شده بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/man-guilty-of-attempting-to-murder-children-in-dublin-stabbing-13558883",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 29 Jun 2026 12:47:00 +0100",
+      "time": "۱۵:۱۷ - ۸ تیر",
+      "analyzed_at": "2026-07-02T19:33:49.232Z"
     }
   ]
 }
