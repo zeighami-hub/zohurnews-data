@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "guardian",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "guardian_13",
@@ -146,6 +146,30 @@
       "pubDate": "Thu, 02 Jul 2026 00:37:38 GMT",
       "time": "۰۴:۰۷ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "guardian_4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
+      "title_fa": "گزارش چهارشنبه: پس از دو زلزله قدرتمند، واقعیت در ونزوئلا چیست؟",
+      "lead": "ونزوئلا، کشوری که از اوایل سال جاری و پس ��ز برکناری رهبرش توسط آمریکا در بحران قرار دارد، با تبعات دو زلزله قدرتمند دست و پنجه نرم می‌کند. این کشور اکنون باید با حضور دولتی اندک، راهی برای بازسازی بیابد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 01 Jul 2026 05:44:50 GMT",
+      "time": "۰۹:۱۴ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T11:20:01.614Z"
     }
   ]
 }
