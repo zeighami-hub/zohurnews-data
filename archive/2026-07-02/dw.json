@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "dw",
-  "total": 6,
+  "total": 11,
   "articles": [
     {
       "id": "dw_4",
@@ -146,6 +146,126 @@
       "pubDate": "Thu, 2 Jul 2026 08:10:00 GMT",
       "time": "۱۱:۴۰ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T10:34:46.155Z"
+    },
+    {
+      "id": "dw_0",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "US rail boom still lags behind cars and planes",
+      "title_fa": "رونق قطار در آمریکا همچنان عقب‌تر از خودرو و هواپیما است",
+      "lead": "با نوسان قیمت سوخت و گران‌تر شدن پروازها، آمریکایی‌ها در حال کشف مجدد قطارها هستند. اما این س��ستم برای جابه‌جایی بار ساخته شده است، نه مردم.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.dw.com/en/us-rail-boom-still-lags-behind-cars-and-planes/a-77430370?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Thu, 2 Jul 2026 07:15:00 GMT",
+      "time": "۱۰:۴۵ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "dw_1",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Russia launches attacks on Kyiv, killing at least 13 and injuring dozens",
+      "title_fa": "روسیه حملاتی را به کی‌یف آغاز کرد؛ دست‌کم ۱۳ کشته و ده‌ها زخمی",
+      "lead": "روسیه با موشک‌��ای بالستیک، کروز و پهپاد به کی‌یف حمله کرد که شهردار آن را بزرگترین حمله به شهر از زمان آغاز جنگ خواند. در این حملات، حداقل ۱۳ نفر کشته و ده‌ها نفر دیگر زخم�� شدند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-13-and-injuring-dozens/a-77794194?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 95
+      },
+      "pubDate": "Thu, 2 Jul 2026 07:14:00 GMT",
+      "time": "۱۰:۴۴ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "dw_8",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Hospital fire in northern Germany kills two",
+      "title_fa": "آتش‌سوزی بیمار��تانی در شمال آلمان دو کشته بر جای گذاشت",
+      "lead": "آتش‌سوزی در بیمارستانی در شهر لودویگسلوست در شمال آلمان منجر به کشته شدن دو نفر شد. بسیاری از بیماران و کارکنان از این مرکز تخلیه شدند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/hospital-fire-in-northern-germany-kills-two/a-77795154?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 2 Jul 2026 05:40:00 GMT",
+      "time": "۰۹:۱۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "dw_10",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Google must pay record €4.1 billion fine, top EU court rules",
+      "title_fa": "گوگل باید جریمه ۴.۱ میلیارد یورویی بی‌سابقه را بپرداز��؛ حکم دادگاه عالی اتحادیه اروپا",
+      "lead": "دادگاه عالی اتحادیه اروپا درخواست تجدیدنظر گوگل را علیه یک جریمه ضدانحصار ب��‌سابقه رد کرد. این غول فناوری پیشتر استدلال کرده بود که اتحادیه اروپا به ناحق نوآوری را مجازات می‌کند.",
+      "category": "technology",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/google-must-pay-record-€4-1-billion-fine-top-eu-court-rules/a-77794948?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "pubDate": "Thu, 2 Jul 2026 05:30:00 GMT",
+      "time": "۰۹:۰۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "dw_6",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Chancellor's message to Germany's World Cup exit backfires",
+      "title_fa": "پیام ص��راعظم آلمان پس از حذف تیم ملی از جام جهانی واکنش‌های منفی در پی داشت",
+      "lead": "پست «صدراعظم مرز» ��ر شبکه X، که پس از عملکرد ضعیف و حذف زودهنگام آلمان از جام جهانی فوتبال منتشر شد، با جمله «شما به ما الهام بخشیدید»، با واکنش‌های منفی مواجه شده است. این پیام به عنوان یک اشتباه ارت��اطی تلقی می‌شود که پیامدهایی برای صدراعظم به همراه داشته است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/chancellor-s-message-to-germany-s-world-cup-exit-backfires/a-77790831?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "pubDate": "Wed, 1 Jul 2026 16:01:00 GMT",
+      "time": "۱۹:۳۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
     }
   ]
 }
