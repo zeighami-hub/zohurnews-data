@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 24,
   "articles": [
     {
       "id": "bbc_2",
@@ -321,7 +321,7 @@
       "keep": true,
       "title": "Nine Thai monks killed after 11-year-old driver collides with procession",
       "title_fa": "۹ راهب تایلندی پس از برخورد راننده ۱۱ ساله با کاروان، کشته شدند",
-      "lead": "یک گروه ۳۵ نفره از راهبان و پنج نفر از پیروان آنها در کنار جاده در حال حرکت بودند که یک کامیون به آنها برخورد کرد. در این ��ادثه دلخراش، ۹ راهب تایلندی جان خود را از دست دا��ند و تعدادی نیز زخمی ش��ند.",
+      "lead": "یک گروه ۳۵ نفره از راهبان و پنج نفر از پیروان آنها در کنار جاده در حال حرکت بودند که یک کامیون به آنها برخورد کرد. در این ����ادثه دلخراش، ۹ راهب تایلندی جان خود را از دست دا��ند و تعدادی نیز زخمی ش��ند.",
       "category": "disaster",
       "region": "asia",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c23y90lygpzo?at_medium=RSS&at_campaign=rss",
@@ -506,6 +506,78 @@
       "pubDate": "Thu, 02 Jul 2026 17:56:18 GMT",
       "time": "۲۱:۲۶ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T21:05:35.753Z"
+    },
+    {
+      "id": "bbc_5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+      "title_fa": "عمه پسر ونزوئلایی نجات‌یافته از آوار به بی‌بی‌سی گفت که «گرمای مادری» به او خواهد داد",
+      "lead": "عمه کودک دو ساله ونزوئلایی، کلیبر مورن، که شش روز پس از زلزله‌های مرگبار هفته گذشته از زیر آوار نجات یافت، با بی‌بی‌سی گفتگو کرده است. او قول داد که «گرمای مادری» را به این کودک رهاشده از حادثه خواهد بخشید.",
+      "category": "society",
+      "region": "venezuela",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 00:26:13 GMT",
+      "time": "۰۳:۵۶ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T23:34:02.285Z"
+    },
+    {
+      "id": "bbc_14",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US blocks long-term renewal of North American trade deal",
+      "title_fa": "آمریکا مانع تمدید بلندمدت توافقنامه تجاری آمر��کای شمالی شد",
+      "lead": "ایالات متحده از تمدید ۱۶ ��اله توافقنامه تجاری آمریکای شمالی جلوگیری کرده است. این تصمیم منجر به بررسی‌های سالانه این توافقنامه خواهد شد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 01 Jul 2026 18:56:36 GMT",
+      "time": "۲۲:۲۶ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T23:34:02.285Z"
+    },
+    {
+      "id": "bbc_2",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ukrainian charged in Germany over Nord Stream blasts",
+      "title_fa": "اوکراین�� به اتهام انفجارهای نورد استریم در آلمان متهم شد",
+      "lead": "یک تبعه اوکراینی در آلمان به دست داشتن در انفجارهای خط لوله نورد استریم متهم شده است. اوکراین دست داشتن در این پرونده را تکذیب می‌کند که می‌تواند پیامدهای جدی برای روابطش با آلمان داشته باشد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 01 Jul 2026 18:19:32 GMT",
+      "time": "۲۱:۴۹ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T23:34:02.285Z"
     }
   ]
 }
