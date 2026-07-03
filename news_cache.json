@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T12:33:16.193Z",
+  "generated_at": "2026-07-03T12:48:20.382Z",
   "total": 885,
-  "new_this_cycle": 1,
+  "new_this_cycle": 2,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,50 @@
     }
   ],
   "articles": [
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Gold slips as US-Iran tensions spark inflation, rate hike fears - Reuters",
+      "title_fa": "طلا با افزایش تنش بین آمریکا و ایران و ترس از تورم و افزایش نرخ بهره کاهش یافت",
+      "lead": "قیمت طلا به دلیل نگرانی‌ها از تنش‌های فزاینده بین ایالات متحده و ایران، کاهش یافته است. این وضعیت ترس از تورم و احتمال افزایش نرخ بهره را در پی داشته که بر بازارها فشار آورده است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWlkbDVuSUFiVldPeE1GRVFLbDVYeTY1RTFXd08wUkYwU205amR5a1BIOTFTNGEwT01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=4",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-03T12:48:15.419Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Wall Street ends choppy session lower as tech shares drop - Reuters",
+      "title_fa": "وال استریت جلسه پرنوسان را با افت سهام فناوری به پایان رساند",
+      "lead": "وال استریت جلسه معاملاتی خود را در شرایطی پرنوسان با کاهش شاخص‌ها به پایان برد. افت سهام شرکت‌های فناوری دلیل اصلی این روند نزولی بوده است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlRDSHBGM3hlRUVjM1dwbTVVOWdHTHpjOGtqTkhyRzlYcmxhaGlXbkR3ZWRFajZlY0EwTFRnS1hJczFvN3d2M3N4bTRpWWg1LThWcEdYcG13eURDclpXQ0d2ZW95dWVmYWNqV3o0Y1ZlSll0eGRwYVpXRFdtbW14aW5xVmt1aFp4YlJtQ2p5MWdVMWRZcGZrdkQ4Z1pEaVd1ZFl4QzE2Q1ZlYjNndWpYUG9hU280dG9DcUxZQUFBMUhxbm52dmY3aW9FbjAwV0Z5RjR4Rk5tWk9fRFFhOWpQYjIySjZ6dnl2b2V5OU56cWw4WnNGY291Y1Z3ZlBvX0c?oc=4",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-03T12:48:15.419Z"
+    },
     {
       "id": "guardian_0",
       "agencyId": "guardian",
@@ -625,7 +669,7 @@
       "agencyId": "nytimes",
       "keep": true,
       "title": "Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War’s Outset",
-      "title_fa": "ایران آماده دفن رهبر معظم انقلاب، آیت‌الله علی خامنه‌ای، می‌شود که در آغاز جنگ ایران کشته شد",
+      "title_fa": "ایران آماده دفن رهبر معظم انقلاب، آیت‌الله علی خامنه‌ای، می‌شود که در آغاز ج��گ ایران کشته شد",
       "lead": "مراسم تشییع جنازه آیت‌الله علی خامنه‌ای که در پی حملات آمریکا و اسرائیل در آغاز جنگ کشته شد، پس از تأخیری طولانی قرار است از روز جمعه آغاز شود. این لحظه‌ای حیاتی برای ��ژیم است تا نشان دهد که دوام آورده است.",
       "category": "military",
       "region": "middleeast",
@@ -1846,7 +1890,7 @@
       "keep": true,
       "title": "رهبر شهید: بالاتر از اعدام که نیست؛ من آماده‌ام",
       "title_fa": "رهبر شهید: بالاتر از اعدام که نیست؛ من آماده‌ام",
-      "lead": "«وقتی از خانه بیرون آمدم، خودم را برای مرگ آماده کرده بودم؛ پس خودت را خسته نکن!» این سخنان بی‌باکانه به «آقای شهیدمان» نسبت داده می‌شود. این نقل‌قول مربوط به محرم سال ۱۳۴۲ و پشت دیوارهای بازداشتگاه پهلوی است.",
+      "lead": "«وقتی از خانه بیرون آمدم، خودم را برای مرگ آماده کرده بودم؛ پس خودت را خس��ه نکن!» این سخنان بی‌باکانه به «آقای شهیدمان» نسبت داده می‌شود. این نقل‌قول مربوط به محرم سال ۱۳۴۲ و پشت دیوارهای بازداشتگاه پهلوی است.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://www.yjc.ir/fa/news/9104208/ر��بر-��هید-بالاتر-از-اعدام-که-نیست-من-آماده‌ام",
@@ -2158,7 +2202,7 @@
       "keep": true,
       "title": "Who are the rogue bishops defying Pope Leo XIV?",
       "title_fa": "اسقف‌های خودسر که پاپ لئو چهاردهم را به چالش می‌کشند، چه کسانی هستند؟",
-      "lead": "گروهی از کاتولیک‌های رومی شورشی، اسقف‌های خود را در مخالفت مستقیم با پاپ لئو چهاردهم و دستورات واتیکان منصوب کرده‌اند. این اقدام نشان‌دهنده شکاف عمیق در کلیسا است.",
+      "lead": "گروهی از کاتولیک‌های رومی شورشی، اسقف‌های خود را در مخالفت مستقیم با پاپ لئو چهاردهم و دستورات واتیکان منصوب کرده‌اند. این اقدام نشان‌دهنده شکاف عم��ق در کلیسا است.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/3/who-are-the-rogue-bishops-defying-pope-leo-xiv?traffic_source=rss",
@@ -4809,7 +4853,7 @@
       "agencyId": "mehrnews",
       "keep": true,
       "title": "UNICEF warns 100,000 children in Lebanon risk missing school",
-      "title_fa": "یونیسف هشدار داد: ۱۰۰ هزار کودک در لبنان در خطر محرومیت از تحصیل",
+      "title_fa": "یونیسف هشدار داد: ۱۰۰ هزار کودک در لبنان در خطر محرومیت ا�� تحصیل",
       "lead": "یونیسف هشدار داده است که بیش از ۱۰۰ هزار کودک در لبنان امسال ممکن است از تحصیل بازبمانند. این وضعیت در صورتی است که کلاس‌های درس آسیب‌دیده در درگیری‌های اخیر فوراً تعمیر نشوند.",
       "category": "society",
       "region": "middleeast",
@@ -6253,7 +6297,7 @@
       "agencyId": "irna",
       "keep": true,
       "title": "۶ طبیعت‌گرد گرفتار در رودخانه نوشهر نجات یافتند",
-      "title_fa": "۶ طبیعت‌گرد گرفتار در رودخانه نوشهر نجات یافتند",
+      "title_fa": "۶ طبیعت‌گرد گرفتار در رودخانه نوشهر نجات یافت��د",
       "lead": "رئیس جمعیت هلال‌احمر نوشهر از نجات موفق ۶ گردشگر اهل خراسان شمالی خبر داد. این افراد در پی طغیان رودخانه خیررودکنار در منطقه جنگلی این شهرستان گرفتار شده بودند و با عملیات تخصصی امدادگران نجات یافتند.",
       "category": "society",
       "region": "iran",
@@ -7486,7 +7530,7 @@
       "keep": true,
       "title": "۱۰ مراسم بزرگ تشییع و وداع در جهان / نام ایران سه بار دیده می‌شود",
       "title_fa": "۱۰ مراسم بزرگ تشییع و وداع در جهان؛ نام ایران سه بار دیده می‌شود",
-      "lead": "جهان در طول تاریخ، تشییع‌جنازه‌ها و مراسم‌های وداع بزرگی را به خود دیده است. این مراسم‌ها گاهی میلیون‌ها نفر را از گوشه‌وکنار یک کشور یا حتی چند کشور به خیابان‌ها کشانده‌اند.",
+      "lead": "جهان در طول تاریخ، تشییع‌جنازه‌ها و م��اسم‌های وداع بزرگی را به خود دیده است. این مراسم‌ها گاهی میلیون‌ها نفر را از گوشه‌وکنار یک کشور یا حتی چند کشور به خیابان‌ها کشانده‌اند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1174725/10-مراسم-بزرگ-تشییع-و-وداع-در-جهان-نام-ایران-سه-بار-دیده-می-شود",
@@ -7796,7 +7840,7 @@
       "keep": true,
       "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
       "title_fa": "ترامپ از تمدید پیمان تجاری آمریکا، کانادا و مکزیک که زمانی از آن حمایت می‌کرد، خودداری کرد",
-      "lead": "دونالد ترامپ از تمدید پیمان تجاری آمریکای شمالی (USMCA) که زمانی خود آن را یک توافق مهم می‌دانست، خودداری کرده است. او و مقامات آمریکایی تصمیم گرفتند این پیمان را با بررسی‌های سالانه به جای تمدید طولانی‌مدت، زنده نگه دارند.",
+      "lead": "دونالد ترامپ از تمدید پیمان تجاری آمریکا�� شمالی (USMCA) که زمانی خود آن را یک توافق مهم می‌دانست، خودداری کرده است. او و مقامات آمریکایی تصمیم گرفتند این پیمان را با بررسی‌های سالانه به جای تمدید طولانی‌مدت، زنده نگه دارند.",
       "category": "economy",
       "region": "americas",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
@@ -9422,7 +9466,7 @@
       "keep": true,
       "title": "حمله پهپادی به جنوب لبنان",
       "title_fa": "حمله پهپادی به جنوب لبنان",
-      "lead": "رژیم صهیونیستی بار دیگر آتش‌بس در لبنان را نقض کرده است. این رژیم منطقه النبطیه در جنوب لبنان را هدف حمله ��هپادی خود قرار داد.",
+      "lead": "رژیم صهیونیستی بار دیگر آتش‌بس در لبنان را نقض کرده است. ا��ن رژیم منطقه النبطیه در جنوب لبنان را هدف حمله ��هپادی خود قرار داد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.mashreghnews.ir/news/1822799/%D8%AD%D9%85%D9%84%D9%87-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%DB%8C-%D8%A8%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
@@ -10272,7 +10316,7 @@
       "id": "mashregh_6",
       "agencyId": "mashregh",
       "keep": true,
-      "title": "گروسی هرگونه حمله مخل ایمنی هسته��ای را غیرقابل قبول خواند",
+      "title": "گروسی ��رگونه حمله مخل ایمنی هسته��ای را غیرقابل قبول خواند",
       "title_fa": "گروسی هرگونه حمل�� مخل ایمنی هسته‌ای را غیرقابل قبول خواند",
       "lead": "رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، بر ��رو��ت حفاظت از تأسیسات هسته‌ای تاکید کرد. او اعلام نمود که هرگونه حمله اخلال‌گر در ایمنی هسته‌ای و آمادگی برای شرایط اضطراری، غیرقابل قبول است.",
       "category": "politics",
@@ -12957,7 +13001,7 @@
       "agencyId": "reuters",
       "keep": true,
       "title": "US, Iran talks conclude in Doha, focused on Strait of Hormuz - Reuters",
-      "title_fa": "گفت‌وگوهای آمریکا و ایران در دوحه با تمرکز بر تنگه هرمز پایان یافت",
+      "title_fa": "گفت��وگوهای آمریکا و ایران در دوحه با تمرکز بر تنگه هرمز پایان یافت",
       "lead": "گفت‌وگوهای بی�� ایالا�� متحده و ایران در دوحه به پایان رسید. محور اصلی این مذاکرات بر تنگه هرمز متمرکز بود.",
       "category": "diplomacy",
       "region": "iran",
@@ -13569,7 +13613,7 @@
       "lead": "معاون دبیرکل سازمان ملل از کاهش تنش‌ها میان ایران و آمریکا استقبال کرد. او هشدار داد که بازگشت به درگیری‌های تمام‌عیار می‌تواند پیامدهای فاجعه‌باری برای منطقه، صلح جهانی و اقتصاد بین‌المللی داشته باشد.",
       "category": "politics",
       "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174698/استقبال-سازمان-ملل-از-کاهش-تنش-میان-ایران-و-آمریکا",
+      "sourceUrl": "https://www.asriran.com/fa/news/1174698/ا��تقبال-سازمان-ملل-از-کاهش-تنش-میان-ایران-و-آمریکا",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -14675,7 +14719,7 @@
       "agencyId": "yjc",
       "keep": true,
       "title": "الجزیره: جنگ فقط تخریب خانه نیست؛ خاطرات و عواطف انسان را نشانه می‌گیرد",
-      "title_fa": "الجزیره: جنگ فقط تخریب خانه نیست، خاطرات و عواطف انسان را نشانه می‌گیرد",
+      "title_fa": "الجزیره: جنگ فقط تخریب خانه نیست، خاطرات و ��واطف انسان را نشانه می‌گیرد",
       "lead": "الجزیره در گزارشی عنوان کرد که جنگ تنها به تخریب خانه‌ها محدود نمی‌شود، بلکه خاطرات و عواطف انسان را نیز هدف قرار می‌دهد. کارشناسان می‌گویند اشغالگری رژیم صهیونیستی در جنوب لبنان به ویرانی خانه‌ها و آسیب مستقیم به سلامت روان مردم منجر شده است.",
       "category": "politics",
       "region": "global",
@@ -15324,7 +15368,7 @@
       "keep": true,
       "title": "China Says Pilot Who Flew Into Skyscraper Had Thoughts of Death",
       "title_fa": "چین اعلام کرد خلبانی که به آسمان‌خراش برخورد کرد، افکار خودکشی داشته است",
-      "lead": "مقامات پکن اعلام کردند خلبانی که به ساختمانی در این شهر برخورد کرد، از بی‌خوابی و اضطراب رنج می‌برده و تمایل به پایان دادن به زندگی خود ابراز کرده بود. این حادثه ابعاد تازه‌ای پیدا کرده است.",
+      "lead": "مقامات پکن اعلام کردند خلبانی که به ساختمانی در این شهر بر��ورد کرد، از بی‌خوابی و اضطراب رنج می‌برده و تمایل به پایان دادن به زندگی خود ابراز کرده بود. این حادثه ابعاد تازه‌ای پیدا کرده است.",
       "category": "crime",
       "region": "asia",
       "sourceUrl": "https://www.nytimes.com/2026/07/02/world/asia/beijing-skyscraper-crash-pilot.html",
@@ -17360,7 +17404,7 @@
       "id": "asriran_14",
       "agencyId": "asriran",
       "keep": true,
-      "title": "جزئیات حضور مقامات عالی��رتبۀ کشور‌ها در مراسم ادای احترام و آیین وداع با پیکر رهبر شهید انقلاب",
+      "title": "جزئیات حضور مقامات عالی��رتبۀ کشور‌ها در مر��سم ادای احترام و آیین وداع با پیکر رهبر شهید انقلاب",
       "title_fa": "جزئیات حضور مقامات عالی‌رتبه کشورها در مراسم وداع با پیکر رهبر شهید انقلاب.",
       "lead": "سخنگوی وزارت خارجه جزئیاتی از حضور مقامات عالی‌رتبه کشورها در مراسم ادای احترام و وداع با پیکر رهبر شهید انقلاب را اعلام کرد. این مراسم از صبح جمعه با حضور شخصیت‌ها و گروه‌های مردمی آغاز شده و بعدازظهر با حضور مقامات خارجی ادامه خواهد یافت.",
       "category": "politics",
@@ -18528,7 +18572,7 @@
       "keep": true,
       "title": "برنامه سامانه تسلیحات هایپرسونیک دورب��د ارتش آمریکا با تاخیر چندماهه روبه‌رو شد",
       "title_fa": "تاخیر چندماهه در برنامه ساما��ه تسلیحات هایپرسونیک ارتش آمریکا",
-      "lead": "بر اساس گزارش دفتر حسابرسی دولت آمریکا، برنامه سامانه تسلیحات هایپرسونیک دوربرد ارتش این کشور با تأخیر چندماهه مواجه شده است. این تأخیر ناشی از مجموعه‌ای از مشکلات فنی و مدیریتی است.",
+      "lead": "بر اساس گزارش دفتر حسابرسی دولت آمریکا، برنامه سامانه تسلیحات هایپرسونیک دوربر�� ارتش این کشور با تأخیر چندماهه مواجه شده است. این تأخیر ناشی از مجموعه‌ای از مشکلات فنی و مدیریتی است.",
       "category": "military",
       "region": "global",
       "sourceUrl": "https://www.isna.ir/news/1405041106856/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D8%AA%D8%B3%D9%84%DB%8C%D8%AD%D8%A7%D8%AA-%D9%87%D8%A7%DB%8C%D9%BE%D8%B1%D8%B3%D9%88%D9%86%DB%8C%DA%A9-%D8%AF%D9%88%D8%B1%D8%A8%D8%B1%D8%AF-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D8%A7-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1",
@@ -18809,7 +18853,7 @@
       "lead": "مجتبی جباری، بازیکن سابق فوتبال، اظهار داشت که دستاوردهای تیم ملی در جام جهانی قابل قبول نبوده است. او معتقد است با میانگین سنی کنونی، تیم باید به دنبال صعود و کسب نتایج بهتری باشد، هرچند عملکرد تیم از انتظارات او فراتر رفته بود.",
       "category": "politics",
       "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174702/مجتب��-جباری-آنچه-در-جام-جهانی-به-دست-آوردیم-هرچه-بود-دستاورد-نبود",
+      "sourceUrl": "https://www.asriran.com/fa/news/1174702/مجتب��-جباری-آنچه-در-جام-جهانی-به-د��ت-آوردیم-هرچه-بود-دستاورد-نبود",
       "newsValues": {
         "timeliness": "medium",
         "impact": "medium",
@@ -21037,50 +21081,6 @@
       "pubDate": "Wed, 01 Jul 2026 01:52:00 GMT",
       "time": "۰۵:۲۲ - ۱۰ تیر",
       "analyzed_at": "2026-07-02T12:48:38.661Z"
-    },
-    {
-      "id": "khabaronline_7",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "کُدگذاری‌های حکیمانه در صحیفه سجادیه؛ چگونه دعا کنیم؟",
-      "title_fa": "کدگذاری‌های حکیمانه در صحیفه سجادیه؛ چگونه دعا کنیم؟",
-      "lead": "یک کارشناس از مرکز تخصصی صحیفه سجادیه و مدرس حوزه علمیه قم، شروع دعاهای صحیفه سجادیه را پر از پیام‌های حکیمانه دانست. او گفت که امام سجاد (ع) آموزش می‌��هد که چطور دعا را متناسب با نیاز خود آغاز کنیم.",
-      "category": "religion",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2241054/%DA%A9%D8%AF%DA%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AD%DA%A9%DB%8C%D9%85%D8%A7%D9%86%D9%87-%D8%AF%D8%B1-%D8%B5%D8%AD%DB%8C%D9%81%D9%87-%D8%B3%D8%AC%D8%A7%D8%AF%DB%8C%D9%87-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%AF%D8%B9%D8%A7-%DA%A9%D9%86%DB%8C%D9%85",
-      "newsValues": {
-        "timeliness": "low",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-02T12:33:52.849Z"
-    },
-    {
-      "id": "reuters_8",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Gold gains over 2% after soft jobs data, Fed Chair Warsh's comments - Reuters",
-      "title_fa": "افزایش بیش از ۲ درصدی قیمت طلا پس از داده‌های ضعیف اشتغال و اظهارات رئیس فدرال رزرو",
-      "lead": "قیمت طلا پس از انتشار داده‌های ضعیف اشتغال و اظهارات رئیس فدرال رزرو، بیش از ۲ درصد افزایش یاف��. این نوسانات نشان‌دهنده واکنش بازار به تحولات اقتصادی و پولی است.",
-      "category": "economy",
-      "region": "global",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUtDS0lOMmpVZ0RpMVM2VUVXQUJtQV95bG5xUHVGalJ1UnlxcENxQk44eHRVMElaalhEWm5tb3RVaEVuU1lscWFpdkFtMUJjUlQ4SXpmNFc2TnY0VlBGNEFjbTE5X1l3eDNmRG5wV2tmN3YwSlRNUWZyUDNNd25mZjBGWWYzNXpXU0NHZmJaRGM5amhJOWVUMHVVN0pQTTZzV3c0aUpJWV9jX2tXSmdwMHZ0Uk92SnRjZWc?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 50,
-        "negative": 10
-      },
-      "analyzed_at": "2026-07-02T12:33:52.849Z"
     }
   ]
 }
