@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "guardian",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "guardian_13",
@@ -602,6 +602,54 @@
       "pubDate": "Tue, 30 Jun 2026 16:43:32 GMT",
       "time": "۲۰:۱۳ - ۹ تیر",
       "analyzed_at": "2026-07-02T19:33:49.232Z"
+    },
+    {
+      "id": "guardian_4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Albanese trashes Taylor’s Midwinter Ball speech – as it happened",
+      "title_fa": "آلبانیزی سخنرانی تیلور در مراسم میانی زمستان را به باد انتقاد گرفت – گزارش زنده",
+      "lead": "آنتونی آلبانیزی، نخست‌وزیر استرالیا، به شدت از سخنرانی آنگوس تیلور در مراسم میانی زمستان انتقاد کرد. این خبر به صورت گزارش زنده پوشش داده شد که شامل واکنش‌های سریع به این رویداد سیاسی است.",
+      "category": "politics",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/jul/02/australia-politics-live-defence-aukus-conroy-national-press-club-anthony-albanese-labor-question-time-angus-taylor-coalition-tax-reform-one-nation-pauline-hanson-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 08:03:23 GMT",
+      "time": "۱۱:۳۳ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T23:34:02.285Z"
+    },
+    {
+      "id": "guardian_13",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+      "title_fa": "ترامپ از تمدید پیمان تجاری آمریکا، کانادا و مکزیک که زمانی از آن حمایت می‌کرد، خودداری کرد",
+      "lead": "دونالد ترامپ از تمدید پیمان تجاری آمریکا�� شمالی (USMCA) که زمانی خود آن را یک توافق مهم می‌دانست، خودداری کرده است. او و مقامات آمریکایی تصمیم گرفتند این پ��مان را با بررسی‌های سالانه به جای تمدید طولانی‌مدت، زنده نگه دارند.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 01 Jul 2026 20:09:01 GMT",
+      "time": "۲۳:۳۹ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T23:34:02.285Z"
     }
   ]
 }
