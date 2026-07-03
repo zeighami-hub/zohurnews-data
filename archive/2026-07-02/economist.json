@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "economist",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "economist_0",
@@ -482,6 +482,30 @@
       "pubDate": "Thu, 02 Jul 2026 14:22:37 +0000",
       "time": "۱۷:۵۲ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T17:39:49.375Z"
+    },
+    {
+      "id": "economist_3",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "Allies learn how to bully America",
+      "title_fa": "متحدان می‌آموزند چگونه آمریکا را تحت فشار قرار دهند",
+      "lead": "آیا تایوان می‌تواند از صنعت تولید تراشه خود برای اعمال نفوذ بر دونالد ترامپ استفاده کند؟ این مقاله به بررسی چگونگی استفاده متحدان آمریکا از اهرم‌های خود برای تأثیرگذاری بر سیاست‌های این کشور می‌پردازد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.economist.com/international/2026/06/30/allies-learn-how-to-bully-america",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Tue, 30 Jun 2026 20:31:29 +0000",
+      "time": "۰۰:۰۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T23:18:29.409Z"
     }
   ]
 }
