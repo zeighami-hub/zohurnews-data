@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "guardian",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "guardian_13",
@@ -74,6 +74,78 @@
       "pubDate": "Thu, 02 Jul 2026 08:03:12 GMT",
       "time": "۱۱:۳۳ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T10:34:46.155Z"
+    },
+    {
+      "id": "guardian_7",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Obviously disturbing’ if Christian Brothers’ $1 property sales deprive abuse survivors of pay, government tells court",
+      "title_fa": "دولت به دادگاه می‌گوید «قطعا نگران‌کننده» است اگر فروش اموال به مبلغ ۱ دلار توسط برادران مسیحی، بازماندگان آزار را از غرامت محروم کند",
+      "lead": "دولت استرالیا به دادگاه عالی نیو ساوت ولز اعلام کرد که فروش املاک به مبلغ نمادین ۱ دلار توسط سازمان برادران مسیحی می‌تواند «قطعا نگران‌کننده» ب��شد. این اقدام ممکن است بازماندگان آزار را از غرامت‌های قانونی محروم کند و نگرانی‌هایی درباره انتقال غیرقانونی دارایی‌های میلیونی این سازمان کاتولیک ایجاد کرده است.",
+      "category": "law",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/02/christian-brothers-catholic-asset-transfers-abuse-survivors-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 03:04:01 GMT",
+      "time": "۰۶:۳۴ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "guardian_13",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "China’s ethnic unity law denounced as ‘forced assimilation’ by rights groups",
+      "title_fa": "قانون \"وحدت قومی\" چین توسط گروه‌های حقوق بشری به عنوان «همگون‌سازی اجباری» محکوم شد",
+      "lead": "قانون جدید \"وحدت قومی\" چین به اجرا درآمده است، که گروه‌های حقوق بشری آن را به عنوان «ه��گون‌سازی اجباری» محکوم کرده‌اند. منتقدان بیم دارند که این قانون حقوق اویغورها و تبتی‌ها را بیشتر تضعیف کرده و به پکن اجازه دهد تا مخالفان را در خارج از کشور نیز تحت پیگرد قرار دهد.",
+      "category": "human rights",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/china-ethnic-unity-law-denounced-rights-groups",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 01:17:38 GMT",
+      "time": "۰۴:۴۷ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "guardian_0",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Melbourne stabbing: teenagers arrested after boy left outside Craigieburn hospital dies",
+      "title_fa": "چاقوکشی در ملبورن: نوجوانان پس از مرگ پسری که بیرون بیمارستان کرگی‌برن رها شده بود، دستگیر شدند",
+      "lead": "پس از آنکه نوجوانی ۱۵ ساله بیرون بیمار��تان کرگی‌برن رها شد و جان باخت، دو نوجوان در ارتباط با این حادثه دستگیر شده‌اند. این واقعه در ملبورن رخ داده و پلیس در حال تحقیق درباره جزئیات بیشتر است.",
+      "category": "crime",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/02/melbourne-suspected-stabbing-teenager-death-craigieburn-community-hospital-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 00:37:38 GMT",
+      "time": "۰۴:۰۷ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
     }
   ]
 }
