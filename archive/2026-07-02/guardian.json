@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "guardian",
-  "total": 12,
+  "total": 17,
   "articles": [
     {
       "id": "guardian_13",
@@ -290,6 +290,126 @@
       "pubDate": "Tue, 30 Jun 2026 04:22:07 GMT",
       "time": "۰۷:۵۲ - ۹ تیر",
       "analyzed_at": "2026-07-02T11:50:19.334Z"
+    },
+    {
+      "id": "guardian_8",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Canadian boy dies of rabies after waking to find bat on his face",
+      "title_fa": "مرگ یک پسر کانادایی بر اثر هاری پس از بیدار شدن و یافتن خفاش روی صورتش",
+      "lead": "پزشکان در کانادا اعلام کردند یک پسر یازده‌ساله که پس از بیدار شدن خفاشی را روی صورت خود یافت، ۱۹ روز بعد بر اثر هاری جان باخت. این مورد در کانادا بسیار نادر توصیف شده است.",
+      "category": "society",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 16:29:38 GMT",
+      "time": "۱۹:۵۹ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "guardian_11",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
+      "title_fa": "نجات مرد ونزوئلایی از زیر آوار مرکز خرید هشت روز پس از زلزله",
+      "lead": "هرنان آلبرتو گیل فلورس، نگهبان ۴۳ ساله ونزوئلایی، هشت روز پس از زلزله‌های ویرانگر از زیر آوار نجات یافت. او در ابتدا به نجاتگران گفته بود که اگر زنده نماند، به همسرش خبر ندهند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 16:07:45 GMT",
+      "time": "۱۹:۳۷ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "guardian_9",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "AFP assessing allegation of Gaza war crimes committed by Australian citizen serving in IDF",
+      "title_fa": "پلیس فدرال استرالیا در حال بررسی اتهام جنایات جنگی در غزه توسط شهروند استرالیایی خدمتگزار در ارتش اسرائیل",
+      "lead": "پلیس فدرال استرالیا (AFP) در حال ارزیابی اتهامات جنایات جنگی ادعایی است که توسط یک شهروند استرالیایی در حال خدمت در ارتش اسرائیل در غ��ه صورت گرفته است. این ادعاها شامل هدف‌گیری و تخریب عمدی ساختمان‌های مسکونی در سال‌های ۲۰۲۳ و ۲۰۲۴ بدون توجیه نظامی است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/03/afp-investigating-alleged-war-crimes-committed-by-australian-citizen-serving-in-idf-in-gaza-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 15:00:04 GMT",
+      "time": "۱۸:۳۰ - ۱۱ تی��",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "guardian_10",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australia’s median wealth falls almost 7% since 2020 despite the rich getting richer, report says",
+      "title_fa": "گزارش: ثروت متوسط استرالیا از سال ۲۰۲۰ نزدیک به ۷ درصد کاهش یافته، با وجود ثروتمندتر شدن ثروتمندان",
+      "lead": "بانک ��وئیسی UBS گزار�� داد که \"شکاف رو به رشدی بین ثروتمندترین افراد و جمعیت گسترده‌تر\" وجود دارد. این ��زارش نشان می‌دهد که ثروت متوسط استرالیا با وجود افزایش ۲۵ هزار میلیونر، از سال ۲۰۲۰ تقریباً ۷ درصد کاهش یافته است.",
+      "category": "economy",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/03/australia-median-wealth-falls-but-rich-getting-richer",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 02 Jul 2026 15:00:03 GMT",
+      "time": "۱۸:۳۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "guardian_11",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australians have more negative view of Israel than of China, Guardian Essential poll finds",
+      "title_fa": "نظرسنجی گاردین اسنشیال نشان می‌دهد استرالیایی‌ها دیدگاه منفی‌تری نسبت به اسرائیل نسبت به چین دارند",
+      "lead": "یک نظرسنجی جدید نشان می‌دهد که استرالیایی‌ها دیدگاه منفی‌تری نسبت به اسرائیل در مقایسه با چین دارند. این نظرسنجی همچنین نشان می‌دهد که از زمان انتخاب مجدد دونالد ترامپ، دیدگاه‌ها نسبت به او تیره شده و کمتر از یک سوم پاسخ‌دهندگان او را مثبت ارزیابی می‌کنند.",
+      "category": "politics",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/03/australians-more-negative-view-of-israel-than-china-guardian-essential-poll-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 15:00:03 GMT",
+      "time": "۱۸:۳۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
     }
   ]
 }
