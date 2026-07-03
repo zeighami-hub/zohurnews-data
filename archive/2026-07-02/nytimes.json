@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "nytimes",
-  "total": 30,
+  "total": 34,
   "articles": [
     {
       "id": "nytimes_0",
@@ -722,6 +722,102 @@
       "pubDate": "Thu, 02 Jul 2026 10:29:25 +0000",
       "time": "۱۳:۵۹ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T17:39:49.375Z"
+    },
+    {
+      "id": "nytimes_9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Carney Unveils Western Canada Mega Projects to Boost Asia Trade",
+      "title_fa": "کارنی از پروژه‌های بزرگ غرب کانادا برای تقویت تجارت با آسیا رونمایی کرد",
+      "lead": "پروژه‌های کلان چند میلیارد دلاری در غر�� کانادا با هدف تقویت تجارت با آسیا معرفی شدند. این طرح‌ها شامل خط لوله جدید نفت و تاسیسات گاز طبیعی هستند که به دنبال تنوع‌بخشی تجارت کانادا به دور از ایالات متحده هستند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/canada/alberta-british-columbia-oil-pipeline.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 20:41:59 +0000",
+      "time": "۰۰:۱۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-02T21:05:35.753Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Man Rescued 8 Days After Quake, a Ray of Joy in Stricken Venezuela",
+      "title_fa": "نجات ��ردی پس از ۸ روز از زلزله، بارقه‌ای از امید در ونزوئلای آسیب‌دیده",
+      "lead": "یک نگهبان امنیتی ۴۴ ساله پس از هشت روز از زیر آوار زلزله در ونزوئلا زنده بیرون کشیده شد. این نجات، لحظه‌ای از امید را در میان آمار بالای قربانیان این فاجعه طبیعی به ارمغان آورد.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-survivor.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 10,
+        "negative": 20
+      },
+      "pubDate": "Thu, 02 Jul 2026 20:33:47 +0000",
+      "time": "۰۰:۰۳ - ۱۲ تیر",
+      "analyzed_at": "2026-07-02T21:05:35.753Z"
+    },
+    {
+      "id": "nytimes_14",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "See How Europe’s Heat Waves Melted the Alps’ Glaciers",
+      "title_fa": "ببینید چگونه امواج گرمای اروپا یخچال‌های آلپ را ذوب کرد",
+      "lead": "بارش برف زمستان گذشته، یک ماه زودتر از حد معمول و پس از دو دوره گرمای زودهنگام، ناپدید شد. در حال حاضر، حجم عظیمی از یخ‌های در معرض دید شروع به ناپدید شدن کرده‌اند.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 20:13:31 +0000",
+      "time": "۲۳:۴۳ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T21:05:35.753Z"
+    },
+    {
+      "id": "nytimes_5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Teenage Boys Who Raped Girls in Fordingbridge, England, Have Sentences Revised",
+      "title_fa": "بازنگری حکم نوجوانان متجاوز در فوردینگ‌بریج، انگلیس",
+      "lead": "دو نوجوان که در فوردینگ‌بریج انگلستان به تجاوز به دختران متهم شده بودند، پس از بازنگری حکم دادگاه تجدیدنظر، به چهار سال حبس محکوم شدند. دادگاه تجدیدنظر حکم قبلی آنها را که شامل حبس نمی‌شد، بیش از حد سبک تشخیص داد.",
+      "category": "society",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/europe/teenagers-rape-england-sentencing.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 0,
+        "negative": 70
+      },
+      "pubDate": "Thu, 02 Jul 2026 19:47:42 +0000",
+      "time": "۲۳:۱۷ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T21:05:35.753Z"
     }
   ]
 }
