@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_0",
@@ -386,6 +386,174 @@
       "pubDate": "Tue, 30 Jun 2026 20:50:39 +0000",
       "time": "۰۰:۲۰ - ۱۰ تیر",
       "analyzed_at": "2026-07-02T11:50:19.334Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Russia Bombards Ukrainian Capital With Deadly Wave of Attacks",
+      "title_fa": "روسیه پایتخت اوکراین را با موجی مرگبار از ��ملات بمباران کرد",
+      "lead": "مقامات اعلام کردند که دست‌کم ۲۱ نفر در حملات پهپادی و موشکی به کی‌یف کشته شدن��. این حملات چندین ساختمان مسکونی را در سراسر شهر تخریب کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/europe/russia-attack-on-kyiv.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 02 Jul 2026 16:40:48 +0000",
+      "time": "۲۰:۱۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "nytimes_5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "An Aerial View of Disaster at a Venezuela Housing Project",
+      "title_fa": "ن��ایی هوایی از فاجعه در یک پروژه مسکن در ونزوئلا",
+      "lead": "یک تصویر هوایی از یک ساختمان فروریخته در ونزوئلا، ابعاد فاجعه‌بار پس‌لرزه‌های یک زلزله در لاگوایرا را آشکار می‌کند. این تصویر بینشی از وضعیت پروژه مسکن آسیب‌دیده پس از این بلای طبیعی ارائه می‌دهد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-oneimage.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 16:30:33 +0000",
+      "time": "۲۰:۰۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
+      "title_fa": "ساک��ان کی‌یف پس از آخرین حمله روسیه، به بازسازی می‌پردازند",
+      "lead": "آخرین شب مرگبار در اوکراین، بیش از چهار سال پس از تهاجم تمام‌عیار روسیه، نشان داد که تلفات غیرنظامیان همچنان رو به افزایش است. این وضعیت غم‌انگیز تأکیدی بر رنج مداوم مردم در مناطق جنگ‌زده است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 16:12:05 +0000",
+      "time": "۱۹:۴۲ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "nytimes_9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Vatican Excommunicates Society of St. Pius X, in First Major Crisis for Pope Leo",
+      "title_fa": "واتیکان، انجمن سنت پیوس دهم را تکفیر کرد؛ اولین بحران بزرگ برای پاپ لئو",
+      "lead": "واتیکان، انجم�� سنت پیوس دهم را به دلیل سرپیچی از پاپ لئو چهاردهم و ان��صاب اسقف‌های جدید بر خلاف میل او، تکفیر کرد. این اقدام اولین بحران بزرگ در د��ران پاپ لئو محسوب می‌شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 16:08:24 +0000",
+      "time": "۱۹:۳۸ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "nytimes_5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Court Investigates Spanish Police Chief, Heaping Pressure on Prime Minister",
+      "title_fa": "دادگاه رئیس پلیس اسپان��ا را تحت تحقیق قرار داد و فشار بر نخست‌وزیر را افزایش داد",
+      "lead": "پرونده علیه مرسدس گونزالس بخشی از بررسی گسترده‌تری است. این بررسی در مورد این است که آیا متحدان نخست‌وزیر پدرو سانچز تلاش کرده‌اند تحقیقات درباره افراد نزدیک به او را به‌طور غیرقانونی تضعیف کنند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/europe/spain-police-investigation-sanchez.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 15:05:57 +0000",
+      "time": "۱۸:۳۵ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Even as It Bombards Kyiv, Russia’s Wider Military Campaign Has Largely Stalled",
+      "title_fa": "حتی با بمباران کی‌یف، کارزار نظامی گسترده‌تر روسیه عمدتاً متوقف شده است",
+      "lead": "تحلیلگران می‌گویند مسکو هنوز هم می‌تواند خسارات جدی وارد کند، اما نیروهای آن متحمل تلفات ب��شتری نسبت به همتایان اوکراینی خود می‌شوند. این موضوع نشان‌دهنده توقف عمده در عملیات نظامی گسترده‌تر روسیه است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/europe/russia-ukraine-military-battlefield.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "pubDate": "Thu, 02 Jul 2026 14:49:35 +0000",
+      "time": "۱۸:۱۹ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Bomb Explodes at Damascus Cafe, Killing at Least 4",
+      "title_fa": "انفجار بمب در کافه‌ای در دمشق دست‌کم ۴ کشته ��رجای گذاشت",
+      "lead": "این انفجار که در نزدیکی دادگاه اصلی پایتخت سوریه رخ داد، بر ناامنی پایدار این کشور تاکید کرد. در پی این حادثه، دست‌کم چهار نفر جان باختند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 14:45:57 +0000",
+      "time": "۱۸:۱۵ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
     }
   ]
 }
