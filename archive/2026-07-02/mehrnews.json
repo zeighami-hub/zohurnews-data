@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "mehrnews",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "mehrnews_0",
@@ -452,6 +452,54 @@
       "pubDate": "Thu, 02 Jul 2026 08:49:29 GMT",
       "time": "۱۲:۱۹ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T11:20:01.614Z"
+    },
+    {
+      "id": "mehrnews_3",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC dismantles terrorist group in NW Iran",
+      "title_fa": "سپاه پاسداران گروه تروریستی را در شمال غرب ایران منهدم کرد",
+      "lead": "سپاه پاسداران انقلاب اسلامی یک تیم تروریستی تجزیه‌طلب را که قصد نفوذ به شمال غرب ایران برای اقدامات خرابکارانه و تروریستی را داشت، با موفقیت منهدم کرد. این عملیات توسط نیروی زمینی سپاه انجام شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245815/IRGC-dismantles-terrorist-group-in-NW-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 13:04:45 GMT",
+      "time": "۱۶:۳۴ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "mehrnews_1",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Foreign guests from 100 countries to attend Leader’s funeral",
+      "title_fa": "میهمانان خارجی از ۱۰۰ کشور در مراسم تشییع رهبر شرکت می‌کنند.",
+      "lead": "میهمانانی از حدود ۱۰۰ کشور در سطح سران کشورها، روسای پارلمان‌ها، وزرای خارجه و نمایندگان ویژه دولت‌ها در مراسم وداع با رهب�� فقید انقلاب اسلامی شرکت خواهند کرد. این حضور گسترده نشان‌دهنده اهمیت بین‌المللی این رویداد است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/245814/Foreign-guests-from-100-countries-to-attend-Leader-s-funeral",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 12:25:53 GMT",
+      "time": "۱۵:۵۵ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
     }
   ]
 }
