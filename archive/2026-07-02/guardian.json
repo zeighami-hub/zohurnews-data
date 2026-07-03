@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "guardian",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "guardian_13",
@@ -506,6 +506,30 @@
       "pubDate": "Thu, 02 Jul 2026 11:01:32 GMT",
       "time": "۱۴:۳۱ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T17:39:49.375Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "China is a clear winner from Trump’s war in Middle East, report concludes",
+      "title_fa": "یک گزارش نشان می‌دهد: چین برنده آشکار جنگ ترامپ در خاورمیانه است",
+      "lead": "بر اساس گزارشی که روز سه‌شنبه منتشر شد، چین به عنوان تنها برنده در آسیا از بحران تنگه هرمز و پیامدهای جنگ ترامپ در خاورمیانه ظاهر شده است. پکن با اتکا به ذخایر و صنعت انرژی‌های تجدیدپذیر خود، توانست شوک انرژی را تحمل کند و اکنون از رونق جهانی انرژی خورشیدی و خودروهای برقی سود می‌برد.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/china-clear-winner-trump-war-middle-east-report-iran-strait-of-hormuz",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 11:11:58 GMT",
+      "time": "۱۴:۴۱ - ۹ تیر",
+      "analyzed_at": "2026-07-02T18:33:41.727Z"
     }
   ]
 }
