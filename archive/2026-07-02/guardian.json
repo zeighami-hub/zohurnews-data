@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "guardian",
-  "total": 7,
+  "total": 12,
   "articles": [
     {
       "id": "guardian_13",
@@ -170,6 +170,126 @@
       "pubDate": "Wed, 01 Jul 2026 05:44:50 GMT",
       "time": "۰۹:۱۴ - ۱۰ تیر",
       "analyzed_at": "2026-07-02T11:20:01.614Z"
+    },
+    {
+      "id": "guardian_4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
+      "title_fa": "مرگ چهار نفر در جشن‌های گسترده هواداران جام جهانی در مکزیکوسیتی",
+      "lead": "چهار نفر در جریان جشن‌های گسترده هواداران جام جهانی در مکزیکوسیتی جان باختند که سه نفر از آنها بر اثر خفگی بودند. این حادثه در پی ازدحام هزاران نفر در خیابان‌های پایتخت مکزیک برای جشن پیروزی رخ داد.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 01 Jul 2026 18:49:01 GMT",
+      "time": "۲۲:۱۹ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T11:50:19.334Z"
+    },
+    {
+      "id": "guardian_5",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
+      "title_fa": "«شکار جادوگران» در نیجر؛ رژیم نظامی جمعیت دگرباشان جنسی را بازداشت می‌کند",
+      "lead": "گزارش‌ها از «شکار جادوگران» در نیجر حکایت دارد، جایی که رژیم نظامی اقدام به بازداشت گسترده افراد دگرباش جنسی کرده است. این بازداشت‌ها منجر به نگرانی‌ها در مورد بازگشت شیوع HIV/ایدز و از دست دادن دسترسی به داروهای پیشگیری شده است.",
+      "category": "human rights",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 07:00:29 GMT",
+      "time": "۱۰:۳۰ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T11:50:19.334Z"
+    },
+    {
+      "id": "guardian_8",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Thai police investigate if Australian man charged over 17-year-old girl’s murder linked to other unsolved cases",
+      "title_fa": "پلیس تایلند در حال بررسی ارتباط مرد استرالیایی متهم به قتل دختر ۱۷ ساله با پرونده‌های حل‌نشده دیگر است",
+      "lead": "پلیس تای��ند در حال بررسی این موضوع است که آیا مرد استرالیایی متهم به قتل یک دختر ۱۷ ساله با پرونده‌های حل‌نشده دیگر مرتبط است یا خیر. این تحقیقات پس از مشاهده شباهت‌هایی ��یان قتل خانم تونچ��نوک دونهوملا و دو مورد مرگ دیگر در دو سال گذشته در همان منطقه آغاز شده است.",
+      "category": "crime",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/thai-teen-girl-murder-australian-man-charged-police-investigate-other-unsolved-cases-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 10:41:40 GMT",
+      "time": "۱۴:۱۱ - ۹ تیر",
+      "analyzed_at": "2026-07-02T11:50:19.334Z"
+    },
+    {
+      "id": "guardian_9",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Police units deployed across South Africa before anti-immigration marches",
+      "title_fa": "استقرار واحدهای پلیس در سراسر آفریقای جنوبی پیش از راهپیمایی‌های ضد مهاجرت",
+      "lead": "مقامات آفریقای جنوبی واحدهای پلیس را در شهرها و مناطق مختلف کشور پیش از برگزاری تظاهرات برنامه‌ریزی‌شده علیه مهاجران غیرقانونی مستقر کرده‌اند. دولت نگران تکرار خشونت‌های ضد مهاجرتی سال ۲۰۰۸ است که منجر به غارت و مرگ ۶۲ نفر شد.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 30 Jun 2026 10:20:52 GMT",
+      "time": "۱۳:۵۰ - ۹ تیر",
+      "analyzed_at": "2026-07-02T11:50:19.334Z"
+    },
+    {
+      "id": "guardian_10",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
+      "title_fa": "تاجر چینی «گو ونگوی» به جرم کلاهبرداری به ۳۰ سال زندان در آمریکا محکوم شد",
+      "lead": "یک دادگاه فدرال آمریکا، تاجر چینی تبعیدی، «گو ونگوی» را به جرم کلاهبرداری به ۳۰ سال حبس محکوم کرد. او در سال ۲۰۲۴ به ۹ فقره اتهام از جمله پولشویی مجرم شناخته شده بود.",
+      "category": "crime",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 30 Jun 2026 04:22:07 GMT",
+      "time": "۰۷:۵۲ - ۹ تیر",
+      "analyzed_at": "2026-07-02T11:50:19.334Z"
     }
   ]
 }
