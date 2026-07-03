@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "reuters",
-  "total": 55,
+  "total": 57,
   "articles": [
     {
       "id": "reuters_2",
@@ -1256,6 +1256,52 @@
       "pubDate": "Wed, 01 Jul 2026 12:59:34 GMT",
       "time": "۱۶:۲۹ - ۱۰ تیر",
       "analyzed_at": "2026-07-02T19:18:59.965Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US, Iran talks conclude in Doha, focused on Strait of Hormuz - Reuters",
+      "title_fa": "گفت‌وگوهای آمریکا و ایران در دوحه با تمرکز بر تنگه هرمز به پایان رسید",
+      "lead": "گفت‌وگوهای میان آمریکا و ایران در دوحه با محوریت تنگه هرمز به پایان رسید. این مذاکرات بر مسائل حساس منطقه‌��ی و بین‌المللی متمرکز بود.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2I3cUEydmhlWVB5bmFRM1JuTXZVRHdDVFV6MTFjWHc0V3NFeDBCNFR0ZEJ0U2NjR213NWJwYlQwb0pNQjZmbU1tdlJjRlF2ZUZKZjBBRmpteTM1SUthZV9ESXZpaVRvSVhUaUYxb1lFenoxLUU2MklQd0I1OC1XR1NGSVo4b29CdVZ5ZzQ0QXp4MFdlMnoyRS1RajMtTVNvYVU1RVhtb29hdENLeldfakJsMHNNaWNkQ0Uw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "analyzed_at": "2026-07-02T19:33:49.232Z"
+    },
+    {
+      "id": "reuters_3",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran warns of immediate response to any threat, cites US commitment to restrain Israel - Reuters",
+      "title_fa": "ایرا�� نسبت ب�� هرگونه ��هدید هشدار داد و بر تعهد آمریکا به مهار اسرائیل تاکید کرد",
+      "lead": "ایران نسبت به هرگونه تهدید آتی هشدار داد و اعلام کرد که بلافاصله به آن پاسخ خواهد داد. این کشور همچنین بر تعهد آمریکا برای مهار اسرائیل تاکید کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWN4MVRUWnFzZkJNVjRneXVXUFlxcG0zekxKbXRqdml6bVhUUmI3ajV0THo0NVRTR1BaUjRXaVJHUjBoRVM3dlViekpfY1FtWERPODNGVEdiQ3BnajJ6YjNiZTZmYjM1ZzZ4NHN1UTRSbU1fdUtxc25MdGMzUjQtNjlKRGEzWFhXTjNHRS1ZX2pOYmtxUm1jSzRaSld6Wk9MSnUwYTJUUDI3bkhBSGprNUMtN0Rabk40d2JKTjV5VTJsV0RnMjVHaU9n?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 01 Jul 2026 11:11:43 GMT",
+      "time": "۱۴:۴۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T19:33:49.232Z"
     }
   ]
 }
