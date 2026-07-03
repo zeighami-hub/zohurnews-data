@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "reuters",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "reuters_2",
@@ -70,6 +70,74 @@
       "pubDate": "Tue, 30 Jun 2026 15:09:04 GMT",
       "time": "۱۸:۳۹ - ۹ ت��ر",
       "analyzed_at": "2026-07-02T10:34:46.155Z"
+    },
+    {
+      "id": "reuters_4",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran warns US, Israel against attacks ahead of funeral processions for Khamenei - Reuters",
+      "title_fa": "ایران پیش از مراسم تشییع خامنه‌ای به آمریکا و اسرائیل درباره حملات هشدار می‌دهد",
+      "lead": "ایران به آمریکا و اسرائیل هشدار داده است که از هرگونه حمله قبل از مراسم تشییع آیت‌الله خامنه‌ای خودداری کنند. این هشدار در بحبوحه تنش‌های منطقه‌ای و آماده‌سازی برای مراسم رسمی بیان شده است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjd1X1pITDBSckd0dXdzYzdCbTZ2T3o2UmFUWG5yaHRuZFZWR1pMclo4Z3BLNGYzeS1WREhPZ291WFlJcmZGOGNHclp0dEp4cVhaQTdweUx5Rl90U2tnRGdJOEtjZHNnbC05aUJRMXZJbHl3aUtKMzlxRl94SUl5N251SENtMVBqVVFHdldIcDJCTnZaamphc2VVWUlReGZCMkZpOEJYMlBxcGlOaVktWUdIR2RseW94clhPenQzVlVhOWM?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "reuters_14",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil falls for a third straight day after US, Iran conclude talks in Doha - Reuters",
+      "title_fa": "قیمت نفت پس از پایان مذاکرات آمریکا و ایران در دوحه، برای سومین روز متوالی کاهش یافت",
+      "lead": "پس از پایان مذاکرات بین آمریکا و ایران در دوحه، قیمت نفت ��رای سومین روز متوالی کاهش یافت. این تحولات در بازارهای جهانی انرژی، نشان‌دهنده واکنش به نتایج گفتگوهای دیپلماتیک است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJuTlNEejJjWHZfckJtT3BHcWVLbXpJQUZzOVEzaDJCMThGUmJaU1pXRXdKYV9RUG9Nc09WaVRaVHhYUXh5LW43QzNzU3dzNDd5dGVQaFpmQzNhenJRcW1HMVVOQ3pnNVptVHpCSk9mUC1BWl9xTUJyQmttcHdRWF9jdkZiS3dZMkQ2ekY5aWpPX284MnFMOVVBaw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "pubDate": "Thu, 02 Jul 2026 01:11:00 GMT",
+      "time": "۰۴:۴۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Wall Street ends choppy session lower as tech shares drop - Reuters",
+      "title_fa": "وال استریت جلسه پرنوسان خود را با افت به پایان رساند؛ سهام فناوری سقوط کرد",
+      "lead": "وال استریت یک جلسه معاملاتی پرنوسان را با کاهش شاخص‌ها به پایان برد. این افت عمدتاً ناشی از کاهش ارزش سهام شرکت‌های فناوری بود که بر بازار سهام تأثیر گذاشت.",
+      "category": "finance",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlRDCHJleldpVWlkMlJZRFNzcHA4T2ZZZzZhWGdGaDRRcDVKY202NmFRbGFwSnRZcmhOeTBIVG1kci1qc0Zld2lKX2Z0bW1reTRiZkJCV21UNW16dFd5cWFXVW9JbXI0R0RxWGhFa1NsWXB2NFJXZTM1dHI2cmY1NmVDRHFFTm9MZEJMSnlLZUxiSGtIb1NsdFliWlI0OWR2R0V4T2tneUkw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
     }
   ]
 }
