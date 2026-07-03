@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_0",
@@ -218,6 +218,78 @@
       "pubDate": "Thu, 02 Jul 2026 08:21:33 +0000",
       "time": "۱۱:۵۱ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T10:34:46.155Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "For Congo Fans, the Thrill of Victory Was So Close, Until It Wasn’t",
+      "title_fa": "برای هواداران کنگو، هیجان پیروزی بسیار نزدیک بود، تا اینکه از دست رفت",
+      "lead": "کنگو روز چهارشنبه با نتیجه ۲-۱ به انگلیس باخت. آنها بخش عمده‌ای از بازی را پیشتاز بودند اما در نهایت پیروزی را از دست دادند.",
+      "category": "sport",
+      "region": "africa",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/africa/congo-england-world-cup-kinshasa.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 04:37:47 +0000",
+      "time": "۰۸:۰۷ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Can the World’s Largest Stadium Explain the Global Economy?",
+      "title_fa": "آیا بزرگترین استادیوم جهان می‌تواند اقتصاد جهانی را ��وضیح دهد؟",
+      "lead": "نرخ‌های بالای رشد و افزایش صادرات در ویتنام، سرخوردگی‌های عمیق در یکی از جاه‌طلب‌ترین کشورهای آسیا را پنهان می‌کند. این وضعیت سوالاتی را در مورد چگونگی ارتباط وضعیت محلی با اقتصاد جهانی مطرح می‌کند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 02 Jul 2026 04:01:09 +0000",
+      "time": "۰۷:۳۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to.",
+      "title_fa": "آیا شرکت‌ها می‌توانند هوش مصنوعی را بدون تعدیل نیرو بپذیرند؟ این شرکت می‌گوید در تلاش است",
+      "lead": "غول نرم‌افزاری آلمانی SAP اعلام کرده که به این باور است که کارمندان می‌توانند به جای حذف مشاغل، آنها را بازتعریف کنند. کارشناسان در مورد موفقیت این رویکرد اختلاف نظر دارند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Thu, 02 Jul 2026 04:01:05 +0000",
+      "time": "۰۷:۳۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T10:55:12.329Z"
     }
   ]
 }
