@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 12,
   "articles": [
     {
       "id": "bbc_2",
@@ -194,6 +194,102 @@
       "pubDate": "Wed, 01 Jul 2026 20:15:59 GMT",
       "time": "۲۳:۴۵ - ۱۰ تیر",
       "analyzed_at": "2026-07-02T11:50:19.334Z"
+    },
+    {
+      "id": "bbc_2",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "title_fa": "نجات بازمانده زلزله ونزوئلا پ�� از هشت روز",
+      "lead": "هرنان گیل پس از هشت روز از زیر آوار یک پارکینگ چند طبقه در ونزوئلا ��نده بیرون کشیده شد. او در طول عملیات نجات، تیم امداد را تشویق می‌ک��د.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 16:11:24 GMT",
+      "time": "۱۹:۴۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "bbc_11",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Vatican excommunicates hundreds of thousands of splinter sect followers",
+      "title_fa": "وا��یکان صدها هزار نفر از پیروان فرقه انشعابی را تکفیر کرد",
+      "lead": "حدود ۶۰۰ هزار نفر از پیروان «جامعه سن پیوس دهم»، یک فرقه کاتولیک، توسط واتیکان تکفیر شده‌اند. این اقدام پیامدهای گسترده‌ای برای کلیسای کاتولیک و پیروان آن در سراسر جهان خواهد داشت.",
+      "category": "religion",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 02 Jul 2026 15:44:45 GMT",
+      "time": "۱۹:۱۴ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "bbc_5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ryanair warns of 'queue chaos' from new EU border system",
+      "title_fa": "رایان‌ایر نسبت به «هرج و مرج صفوف» در پی راه���اندازی سیستم مرزی جدید اتحادیه اروپا هشدار می‌دهد",
+      "lead": "شر��ت هواپیمایی رایان‌ایر هشدار داده است که سیستم جدید کنترل مرزی اتحادیه اروپا ممکن است منجر به هرج و مرج در صفوف شود. این ��رکت از دولت‌های اروپایی خواسته است تا اجرای سیستم EES را تا پس از تعطیلات تابستانی به تعویق بیندازند.",
+      "category": "economy",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 15:34:55 GMT",
+      "time": "۱۹:۰۴ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "bbc_1",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Residents of Ethiopian town forced to kill hundreds of their own dogs after rabies deaths",
+      "title_fa": "ساکنان یک شهر اتیوپیایی پس از مرگ ناشی از هاری، مجبور به کشتار صدها سگ خ��د شدند",
+      "lead": "پس از مرگ‌های ناشی از هاری، ساکنان یک شهر در اتیوپی مجبور شدند صدها سگ خود را بکشند. برخی از ساکنان برای جلوگیری از دستگیری یا جریمه شدن، سگ‌های خود را با بی‌میلی آویزان کردند.",
+      "category": "health",
+      "region": "africa",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1wy4d5p4pxo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 15:13:29 GMT",
+      "time": "۱۸:۴۳ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:19:58.384Z"
     }
   ]
 }
