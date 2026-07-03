@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "foreignpolicy",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "foreignpolicy_7",
@@ -74,6 +74,30 @@
       "pubDate": "Wed, 01 Jul 2026 09:00:02 +0000",
       "time": "۱۲:۳۰ - ۱۰ تیر",
       "analyzed_at": "2026-07-02T11:05:56.473Z"
+    },
+    {
+      "id": "foreignpolicy_5",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Blackouts Are Prabowo’s Latest Problem",
+      "title_fa": "قطعی بر��، جدیدترین مشکل پرابوو است",
+      "lead": "قطعی‌های مکرر برق به جدیدترین چالش برای پرابوو در اندونزی تبدیل شده است. این وضعیت سوالاتی را مطرح می‌کند که چرا اندونزی با وجود غنی بودن از منابع زغال سنگ، قادر به تامین پایدار برق نیست.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/01/indonesia-blackouts-prabowo-coal/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 01 Jul 2026 05:00:02 +0000",
+      "time": "۰۸:۳۰ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T11:20:01.614Z"
     }
   ]
 }
