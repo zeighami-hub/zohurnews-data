@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 9,
   "articles": [
     {
       "id": "skynews_5",
@@ -122,6 +122,102 @@
       "pubDate": "Thu, 02 Jul 2026 16:14:00 +0100",
       "time": "۱۸:۴۴ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T17:19:58.384Z"
+    },
+    {
+      "id": "skynews_12",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "At least 16 killed and 20 injured in South Africa bus crash",
+      "title_fa": "در پی تصادف اتوبوس در آفریقای جنوبی دست‌کم ۱۶ نفر کشته و ۲۰ نفر زخمی شدند",
+      "lead": "در یک سانحه رانندگی مرگبار در آفریقای جنوبی، دست‌کم ۱۶ نفر جان باختند و ۲۰ نفر دیگر زخمی شدند. این حادثه در پی برخورد یک اتوبوس در جاده‌ای پرتردد رخ د��د.",
+      "category": "disaster",
+      "region": "africa",
+      "sourceUrl": "https://news.sky.com/story/at-least-16-killed-and-20-injured-in-south-africa-bus-crash-13559802",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 12:08:00 +0100",
+      "time": "۱۴:۳۸ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:39:49.375Z"
+    },
+    {
+      "id": "skynews_2",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Salmonella outbreak linked to noodles affecting UK and 13 other countries",
+      "title_fa": "شیوع سالمونلا مرتبط با نودل که بریتانیا و ۱۳ کشور دیگر را تحت تأثیر قرار داده است",
+      "lead": "شیوع سالمونل�� با بیش از ۱۰۰ مورد تأیید شده به نودل طعم‌دار مرتبط شده است. این شیوع کشورهای بریتانیا و ۱۳ کشور دیگر را درگیر کرده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/salmonella-outbreak-linked-to-noodles-affecting-uk-and-13-other-countries-13559779",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 02 Jul 2026 11:32:00 +0100",
+      "time": "۱۴:۰۲ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:39:49.375Z"
+    },
+    {
+      "id": "skynews_5",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Ukrainian man charged with war crimes over Nord Stream pipeline explosions",
+      "title_fa": "مردی اوکراینی ��ه اتهام جنایت جنگی در مورد انفجارهای خط لوله نورد استریم متهم شد",
+      "lead": "یک مرد اوکراینی به اتهام جنایت جنگی در پی انفجارهای خط لوله نورد استریم متهم شده است. این اتهامات مربوط به حادثه‌ای است که باعث قطع شدن منبع کلیدی انرژی شد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/ukrainian-man-charged-with-war-crimes-over-nord-stream-pipeline-explosions-13559773",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 02 Jul 2026 11:10:00 +0100",
+      "time": "۱۳:۴۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:39:49.375Z"
+    },
+    {
+      "id": "skynews_6",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Nine Thai monks killed as 11-year-old boy crashes pickup truck into pilgrimage walk",
+      "title_fa": "۹ راهب تایلندی در پی تصادف کامیون یک پسر ۱۱ ساله با پیاده‌روی زائران کشته شدند",
+      "lead": "مقامات اعلام کردند که یک پسر ۱۱ ساله کامیونی را به گ��وهی از راهبان در حال پیاده‌روی زیارتی در شمال شرقی تایلند کوبید. این حادثه ۹ کشته برجای گذاشت.",
+      "category": "social",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/eight-thai-monks-killed-as-11-year-old-boy-crashes-pickup-truck-into-pilgrimage-walk-13559765",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 02 Jul 2026 10:57:00 +0100",
+      "time": "۱۳:۲۷ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T17:39:49.375Z"
     }
   ]
 }
