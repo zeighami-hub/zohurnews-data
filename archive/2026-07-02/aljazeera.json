@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "aljazeera",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "aljazeera_7",
@@ -480,6 +480,30 @@
       "pubDate": "Thu, 02 Jul 2026 04:41:41 +0000",
       "time": "۰۸:۱۱ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "aljazeera_1",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Businessman on trial in Malta over prominent journalist’s murder",
+      "title_fa": "محاکمه تاجر مالتی در پرونده قتل روزنامه‌نگار برجسته",
+      "lead": "تاجر یورگن فنخ در مالت به ات��ام سازماندهی ترور دافنه کاروانا گالیزیا، روزنامه‌نگار برجسته، محاکمه می‌شود. این پرونده از زمان وقوع قتل در سال ۲۰۱۷ بازتاب گسترده‌ای داشته و به فساد دولتی در این کشور مرتبط دانسته شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/2/businessman-on-trial-in-malta-over-prominent-journalists-murder?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 06:18:10 +0000",
+      "time": "۰۹:۴۸ - ۱۱ تیر",
+      "analyzed_at": "2026-07-02T11:05:56.473Z"
     }
   ]
 }
