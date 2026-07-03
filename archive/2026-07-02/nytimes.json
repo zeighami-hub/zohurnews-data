@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_0",
@@ -290,6 +290,78 @@
       "pubDate": "Thu, 02 Jul 2026 04:01:05 +0000",
       "time": "۰۷:۳۱ - ۱۱ تیر",
       "analyzed_at": "2026-07-02T10:55:12.329Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "After Venezuela Earthquakes, Deportees from the U.S. Are Missing or Found Dead",
+      "title_fa": "پس از زلزله‌های ونزوئلا، تبعیدشدگان از آمریکا مفقود یا مرده یافت شدند",
+      "lead": "بسیاری از ۱۴۶ شهروند ونزوئلایی که در روز وقوع زلزله از ایالات متحده اخراج شده بودند، مفقود یا فوت شده‌اند. این حادثه ابهامات جدی درباره سرنوشت این افراد و سیاست‌های مهاجرتی آمریکا ایجاد کرده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 18:24:13 +0000",
+      "time": "۲۱:۵۴ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T11:05:56.473Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Underground Births, Under Bombardment: Childbearing in Ukraine",
+      "title_fa": "تولدها در زیرزمین و زیر بمباران: زایمان در اوکراین",
+      "lead": "بمباران‌ها، خاموشی‌ها و آوارگی، اضطراب مادران در اوکراین را تشدید کرده است. با این حال، بسیاری از زنان به مقاومت ادامه می‌دهند و بر ضرورت 'آوردن زندگی ج��ید' تاکید می‌کنند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-war-pregnant-women-hospitals.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "pubDate": "Wed, 01 Jul 2026 12:33:26 +0000",
+      "time": "۱۶:۰۳ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T11:05:56.473Z"
+    },
+    {
+      "id": "nytimes_6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Risky Burial in the Heart of an Ebola Outbreak",
+      "title_fa": "دفن پرخطر در کانون شیوع ابولا",
+      "lead": "دفن ایمن اجساد برای مهار بیماری مرگبار ابولا حیاتی است، اما در روزهای اخیر در اطراف یک شهر کنگو، این پروتکل همیشه رعایت نشده اس��. این موضوع نگرانی‌ها را درباره گسترش بیشتر این بیماری افزایش داده است.",
+      "category": "health",
+      "region": "africa",
+      "sourceUrl": "https://www.nytimes.com/2026/07/01/world/africa/ebola-congo-burials.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 09:01:58 +0000",
+      "time": "۱۲:۳۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T11:05:56.473Z"
     }
   ]
 }
