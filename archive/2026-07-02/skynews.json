@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "skynews_5",
@@ -74,6 +74,30 @@
       "pubDate": "Wed, 01 Jul 2026 09:33:00 +0100",
       "time": "۱۲:۰۳ - ۱۰ تیر",
       "analyzed_at": "2026-07-02T11:05:56.473Z"
+    },
+    {
+      "id": "skynews_6",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Nancy Guthrie ransom notes were fake, FBI says",
+      "title_fa": "FBI: یادداشت‌های باج‌خواهی نانسی گاتری جعلی بود",
+      "lead": "طبق اعلام اف‌بی‌آی، هر سه یادداشت باج‌خواهی که پس از ناپدید شدن نانسی گاتری به رسانه‌ها ارسال شده بود، جعلی بوده‌اند. این خبر در جریان تحقیقات مربوط به پرونده منتشر شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/nancy-guthrie-ransom-notes-were-fake-fbi-says-13559393",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Wed, 01 Jul 2026 04:06:00 +0100",
+      "time": "۰۶:۳۶ - ۱۰ تیر",
+      "analyzed_at": "2026-07-02T11:20:01.614Z"
     }
   ]
 }
