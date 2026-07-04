@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "skynews",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "skynews_9",
@@ -216,6 +216,30 @@
       "pubDate": "Fri, 03 Jul 2026 08:15:00 +0100",
       "time": "۱۰:۴۵ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T16:39:08.080Z"
+    },
+    {
+      "id": "skynews_14",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Violent protests over luxury resort linked to Trump's son-in-law",
+      "title_fa": "اعتراضات خشونت‌آمیز بر سر توچال لوکس مرتبط با داماد ترامپ",
+      "lead": "پلیس در آلبانی با معترضان در جریان تظاهرات ضد دولت�� ��رتبط با یک توچال لوکس که به جرد کوشنر، داماد دونالد ترامپ، مت��ل است، درگیر شد. این اعتر��ضات نشان‌دهنده تنش‌های اجتماعی و سیاسی در منطقه است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/violent-protests-in-albania-over-luxury-resort-linked-to-donald-trumps-son-in-law-jared-kushner-13559893",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 16:14:00 +0100",
+      "time": "۱۸:۴۴ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T17:49:07.534Z"
     }
   ]
 }
