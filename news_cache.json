@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T21:03:39.510Z",
-  "total": 1041,
-  "new_this_cycle": 3,
+  "generated_at": "2026-07-04T21:19:00.390Z",
+  "total": 1005,
+  "new_this_cycle": 14,
   "agencies": [
     {
       "id": "aljazeera",
@@ -101,6 +101,334 @@
   ],
   "articles": [
     {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US, Iran talks conclude in Doha, focused on Strait of Hormuz - Reuters",
+      "title_fa": "پایان مذاکرات آمریکا و ایران در دوحه با تمرکز بر تنگه هرمز",
+      "lead": "مذاکرات میان آمریکا و ایران با محوریت تنگه هرمز در دوحه به پایان رسید. این گفتگوها بر مسائل کلیدی منطقه و امنیت دریایی متمرکز بود.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2I3cUEydmhlWVB5bmFRM1JuTXZVRHdDVFV6MTFjWHc0V3NFeDBCNFR0ZEJ0U2NjR213NWJwYlQwb0pNQjZmbU1tdlJjRlF2ZUYKZjBBRmpteTM1SUthZV9ESXZpaVRvSVhUaUYxb1lFenoxLUU2MklQd0I1OC1XR1NGSVo4b29CdVZ5ZzQ0QXp4MFdlMnoyRS1RajMtbTVvYVU1RVhtb29hdENLeldfakJsMHNNaWNkQ0Uw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "rt_1",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Another EU nation opposes sanctions against Russian church leader – Politico",
+      "title_fa": "یک کشور دیگر اتحادیه اروپا با تحریم رهبر کلیسای روسیه مخالفت کرد",
+      "lead": "گزارش‌ها حاکی از آن است که پیشنهاد اتحادیه اروپا برای تحریم پاتریارک کریل، رهبر کلیسای روسیه، پس از عدم توافق اعضا به حالت تعلیق درآمده است. گفته می‌شود یک کشور عضو اتحادیه اروپا با این تحریم‌ها مخالفت کرده است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/642559-italy-opposes-eu-sanctions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Fri, 03 Jul 2026 17:22:25 +0000",
+      "time": "۲۰:۵۲ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Two Romanian men jailed for stabbing Iranian journalist in London - Reuters",
+      "title_fa": "دو مرد رومانیایی به دلیل حمله با چاقو به خبرنگار ایرانی در لندن زندانی شدند",
+      "lead": "دو مرد رومانیایی به جرم چاقو زدن به یک خبرنگار ایرانی در لندن به زندان محکوم شدند. این حادثه بر آزادی بیان و امنیت روزنامه‌نگاران تمرکز دارد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR1BOQ05pVXg1MV9IYmUzeWxsSmFYWXItdmpnY0R3NlBnZmVRUDducmo2YThYMjlIRS1ndVVGN3dVQ1Y2TVZOQUF4V1BzWWRRZXdLUlpOc1U2Vl9kVDl4SUYyUTc5akEzSEF3VzBscmJ6RjNSeTNjWnBqd1pwemh0Z29oeW1RU0NJcnJaMUFfeTI2TFhyazVIVUFwNTlEU3djWUEwejlzeE85R1VKeVBDUGZQTkhkNHVz?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 16:37:09 GMT",
+      "time": "۲۰:۰۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "reuters_3",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Britain's services sector contracts sharply under strain of Iran war, PMI shows - Reuters",
+      "title_fa": "بخش خدمات بریتانیا تحت تأثیر جنگ ایران به شدت منقبض شد؛ شاخص PMI نشان می‌دهد",
+      "lead": "بر اساس شاخص مدیران خرید (PMI)، بخش خدمات بریتانیا به دلیل فشار ناشی از جنگ ایران با انقباض شدید مواجه شده است. این انقباض نشان‌دهنده تأثیرات اقتصادی گسترده یک درگیری منطقه‌ای بر بازارهای جهانی است.",
+      "category": "economy",
+      "region": "europe",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN1BqejllaTE4cXA4STVfQk9NSHFCOTZ2T192RERuY1R0cDE3TjR0XzJxaU0yOWIyQ1kwSm1MZHg4R1RHNXJSalFvTDdsZ2JKa1hSRy1DTFRHUHVWblVITUttaW5xX3lLa3N4dmluUnZJYnVKX2x1YnVodEFLNS1tNDJfQWgtdmhKc1BPTlF6dV9wajZEdnJwUHVDS0pkMTd1OHBxVWZsWkw2d0dJOWpTV3cyY001OHYwZnV3?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 08:35:43 GMT",
+      "time": "۱۲:۰۵ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "khabaronline_4",
+      "agencyId": "khabaronline",
+      "keep": true,
+      "title": "درخواست مجری تلویزیون برای گرفتن یک یادگاری از رهبر شهید",
+      "title_fa": "درخواست مجری تلویزیون برای گرفتن یادگاری از رهبر شهید",
+      "lead": "چند سال قبل، در دیداری با رهبر انقلاب، یکی از مجریان تلویزیون در جمع ورزشکاران و گزارشگران خواستار دریافت یادگاری شد. این دیدار خاطره‌انگیز اکنون بازگو شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2242081/%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA-%D9%85%D8%AC%D8%B1%DB%8C-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%AF%D8%B1%D9%81%D8%AA%D9%86-%DB%8C%DA%A9-%D9%87%D8%AF%DB%8C%D9%87-%D9%88-%DB%8C%D8%A7%D8%AF%DA%AF%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 20:15:00 GMT",
+      "time": "۲۳:۴۵ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "asriran_5",
+      "agencyId": "asriran",
+      "keep": true,
+      "title": "خلاصه بازی کانادا ۰ - مراکش ۳",
+      "title_fa": "خلاصه بازی: کانادا ۰ - مراکش ۳",
+      "lead": "خلاصه بازی تیم‌های ملی کانادا و مراکش در چارچوب مرحله یک‌هشتم نهایی رقابت‌های جام جهانی ۲۰۲۶ ارائه شده است. در این دیدار، تیم مراکش با نتیجه ۳ بر ۰ کانادا را شکست داد.",
+      "category": "sport",
+      "region": "global",
+      "sourceUrl": "https://www.asriran.com/fa/news/1175157/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7-0-%D9%85%D8%B1%D8%A7%DA%A9%D8%B4-3",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "asriran_6",
+      "agencyId": "asriran",
+      "keep": true,
+      "title": "جادوگر خیابان فردوسی (+صدا)",
+      "title_fa": "جادوگر خیابان فردوسی (+صدا)",
+      "lead": "داستانی از آقای بهزادی که متوجه حضور «جادوگر خیابان فردوسی» می‌شود. این روایت به یکی از شخصیت‌های خاص خیابان فردوسی اشاره دارد.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.asriran.com/fa/news/1175055/%D8%AC%D8%A7%D8%AF%D9%88%DA%AF%D8%B1-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D9%81%D8%B1%D8%AF%D9%88%D8%B3%DB%8C-%D8%B5%D8%AF%D8%A7",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "dw_7",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "NASA launches spacecraft to recover sinking telescope",
+      "title_fa": "ناسا فضاپیمایی برای نجات تلسکوپ در حال سقوط پرتاب کرد",
+      "lead": "تلسکوپ سوئیفت بر اثر طوفان‌های خورشیدی اخیر آسیب دیده و سریع‌تر از همیشه به سمت زمین سقوط می‌کند. ناسا با پرتاب فضاپیمایی قصد دارد آن را ردیابی و مدارش را تثبیت کند.",
+      "category": "science",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/nasa-lAU_NCHES-spacecraft-to-recover-sinking-telescope/a-77826514?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "skynews_8",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "'We should not look like kids and clowns': F1 stars criticise Lego car parade",
+      "title_fa": "ستارگان فرمول یک از رژه ماشین‌های لگویی انتقاد کردند: «نباید مثل بچه‌ها و دلقک‌ها به نظر برسیم»",
+      "lead": "تصمیم فرمول یک برای استفاده از ماشین‌های لگویی در رژه پیش از گرندپری بریتانیا، مورد انتقاد شدید رانندگان مطرح قرار گرفته است. آنها معتقدند این اقدام حرفه‌ای بودن مسابقات را زیر سوال می‌برد.",
+      "category": "sport",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/lewis-hamilton-and-max-verstappen-criticise-formula-ones-lego-car-parade-13560242",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 03 Jul 2026 20:30:00 +0100",
+      "time": "۲۳:۰۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "dw_9",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Lyra McKee: 3 men acquitted of killing N. Irish journalist",
+      "title_fa": "لیرا مکی: ۳ مرد متهم به قتل روزنامه‌نگار ایرلند شمالی تبرئه شدند",
+      "lead": "سه مرد که متهم به قتل روزنامه‌نگار ایرلند شمالی، لیرا مکی، در جریان درگیری‌های سال ۲۰۱۹ بودند، تبرئه شدند. قاضی اعلام کرد شواهد کافی برای محکومیت وجود ندارد، که با ناامیدی خانواده مکی همراه شد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/lyra-mckee-3-men-acquitted-of-killing-n-irish-journalist/a-77825712?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 3 Jul 2026 18:58:00 GMT",
+      "time": "۲۲:۲۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "dw_10",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "NATO summit: European members and Canada pledge long-term Ukraine aid",
+      "title_fa": "نشست ناتو: اعضای اروپایی و کانادا متعهد به کمک بلندمدت به اوکراین شدند",
+      "lead": "کشورهای عضو ناتو از اروپا و کانادا در نشست اخیر متعهد شدند که تامین مالی بلندمدت جنگ اوکراین علیه روسیه را بر عهده بگیرند. این تعهد نشان‌دهنده حمایت مستمر و قوی از اوکراین در مواجهه با تهاجم روسیه است.",
+      "category": "diplomacy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.dw.com/en/nato-summit-european-members-and-canada-pledge-long-term-ukraine-aid/a-77825447?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "pubDate": "Fri, 3 Jul 2026 17:29:00 GMT",
+      "time": "۲۰:۵۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "nytimes_11",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A U.S. Independence Celebration Damaged a Museum in Belgium",
+      "title_fa": "جشن استقلال آمریکا به موزه‌ای در بلژیک خسارت زد",
+      "lead": "نمایش آتش‌بازی در جریان جشن استقلال آمریکا در بروکسل به یک سازه در پارک مرکزی شهر خسارت وارد کرد. سفیر آمریکا در بلژیک این حادثه را تایید کرده است.",
+      "category": "diplomacy",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/belgium-building-damaged-america-250-fireworks.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 03 Jul 2026 17:19:51 +0000",
+      "time": "۲۰:۴۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "rt_12",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Securing access to Cook Islands’ critical minerals a top priority – new US envoy",
+      "title_fa": "نماینده جدید آمریکا: تضمین دسترسی به مواد معدنی حیاتی جزایر کوک یک اولویت اصلی است",
+      "lead": "جرد ناوللی، نماینده جدید آمریکا در نیوزلند و جزایر اقیانوس آرام، اعلام کرد که تضمین دسترسی به مواد معدنی حیاتی جزایر کوک یک اولویت اصلی برای ایالات متحده است. این موضوع نشان‌دهنده رقابت ژئوپلیتیک برای منابع استراتژیک در منطقه اقیانوس آرام است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642553-us-wants-access-cook-islands-critical-minerals-ambassador/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Fri, 03 Jul 2026 16:56:48 +0000",
+      "time": "۲۰:۲۶ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "rt_13",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "The next chapter of BRICS has begun",
+      "title_fa": "فصل جدید بریکس آغاز شد",
+      "lead": "بلوک بریکس در حال عبور از همکاری صرفاً اقتصادی به سوی شکل‌دهی دستور کار امنیتی آینده است. این تحول نشان‌دهنده گسترش نفوذ و نقش این گروه در مسائل جهانی فراتر از اقتصاد است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642551-brics-new-chapter-security/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 16:41:52 +0000",
+      "time": "۲۰:۱۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
       "id": "khabaronline_0",
       "agencyId": "khabaronline",
       "keep": true,
@@ -118,28 +446,6 @@
       "sentiment": {
         "positive": 70,
         "neutral": 30,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-04T21:03:21.496Z"
-    },
-    {
-      "id": "asriran_0",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "خلاصه بازی کانادا ۰ - مراکش ۳",
-      "title_fa": "خلاصه بازی: کانادا ۰ - مراکش ۳",
-      "lead": "این ویدئو خلاصه‌ای از بازی کانادا و مراکش را نشان می‌دهد. این دیدار در چارچوب مرحله یک‌هشتم نهایی رقابت‌های جام جهانی ۲۰۲۶ برگزار شد.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1175157/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7-0-%D9%85%D8%B1%D8%A7%DA%A9%D8%B4-3",
-      "newsValues": {
-        "timeliness": "low",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
         "negative": 0
       },
       "analyzed_at": "2026-07-04T21:03:21.496Z"
@@ -1526,7 +1832,7 @@
       "id": "irna_13",
       "agencyId": "irna",
       "keep": true,
-      "title": "فرمانده ناحیه امام علی (ع) اهواز: حضور میلیونی مردم، مانور عزت و اقتدار ملت ایران در برابر",
+      "title": "فرمانده ناحیه ��مام علی (ع) اهواز: حضور میلیونی مردم، مانور عزت و اقتدار ملت ایران در برابر",
       "title_fa": "فرمانده ناحیه اهواز: حضور میلیونی مردم، مانور عزت و اقتدار ملت ایران است",
       "lead": "فرمانده ناحیه امام علی (ع) اهواز با اشاره به حضور پرشور و حماسی مردم در مراسم تشییع پیکر «رهبر شهید انقلاب»، این اجتماع میلیونی را ستود. وی این حضور را فراتر از یک مراسم سوگواری، بلکه «مانور عزت و اقتدار» ملت ایران در برابر دشمنان خواند.",
       "category": "politics",
@@ -2336,7 +2642,7 @@
       "keep": true,
       "title": "حضور وزیر ورزش و رئیس فدراسیون فوتبال در مراسم وداع با امام شهید",
       "title_fa": "حضور وزیر ورزش و رئیس فدراسیون فوتبال در مراسم وداع با امام شهید",
-      "lead": "وزیر ورزش و رئیس فدراسیون فوتبال هم‌زمان با برگزاری مراسم وداع با رهبر شهید، در جمع عزاداران در مصلای تهران حضور یافتند. این حضور در جریان مراسم وداع ملی با امام شهید صورت گرفت.",
+      "lead": "وزیر ورزش و رئیس فدراسیون فوتبال هم‌زمان با برگزاری مراسم وداع با رهبر شهید، در جمع عزاداران در مصلای تهران حضور یافتند. این حضور در جریان مراسم وداع ملی با امام شهید صور�� گرفت.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1175144/حضور-وزیر-ورزش-و-رئیس-فدراسیون-فوتبال-در-مراسم-وداع-با-امام-شهید",
@@ -2622,7 +2928,7 @@
       "keep": true,
       "title": "Trump’s daughter-in-law shows off bizarre cookie on Air Force One featuring new face on US monument",
       "title_fa": "عروس ترامپ کوکی عجیب‌وغریبی را در ایر فورس وان به نمایش گذاشت که چهره‌ای جدید بر روی یک بنای یادبود آمریکایی داشت",
-      "lead": "بتینا ترامپ، همسر جدید دونالد ترامپ جونیور، تصویری از یک کوکی عجیب‌وغریب را در ایر فورس وان منتشر کرد. این کوکی چهره‌ای جدید بر روی یک بنای یادبود آمریکایی را نشان می‌داد که در راه سخنرانی رئیس‌جمهور در کوه راشمور به اشتراک گذاشته شد.",
+      "lead": "بتینا ترامپ، همسر جدید دونالد ��رامپ جونیور، تصویری از یک کوکی عجیب‌وغریب را در ایر فورس وان منتشر کرد. این کوکی چهره‌ای جدید بر روی یک بنای یادبود آمریکایی را نشان می‌داد که در راه سخنرانی رئیس‌جمهور در کوه راشمور به اشتراک گذاشته شد.",
       "category": "politics",
       "region": "americas",
       "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/air-force-one-mount-rushmore-trump-face-cookie-b3009014.html",
@@ -3812,7 +4118,7 @@
       "keep": true,
       "title": "فرهنگ و عدالت می‌توانند بستر امیدآفرینی در جامعه را فراهم کنند",
       "title_fa": "فرهنگ و عدالت می‌توانند بستر امیدآفرینی در جامعه را فراهم کنند",
-      "lead": "مدیرکل فرهنگ و ارشاد اسلامی استان کرمانشاه تاکید کرد که فرهنگ و عدالت می‌توانند امیدآفرینی در جامعه را تقویت کنند. وی افزود که تعامل بین نهادهای فرهنگی و قضایی می‌تواند به افزایش اعتماد عمومی و کاهش آسیب‌های اجتماعی منجر شود.",
+      "lead": "مدیرکل فرهنگ و ارشا�� اسلامی استان کرمانشاه تاکید کرد که فرهنگ و عدالت می‌توانند امیدآفرینی در جامعه را تقویت کنند. وی افزود که تعامل بین نهادهای فرهنگی و قضایی می‌تواند به افزایش اعتماد عمومی و کاهش آسیب‌های اجتماعی منجر شود.",
       "category": "social",
       "region": "iran",
       "sourceUrl": "https://www.irna.ir/news/86200963/%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D9%88-%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D9%86%D8%AF-%D8%A8%D8%B3%D8%AA%D8%B1-%D8%A7%D9%85%DB%8C%D8%AF%D8%A2%D9%81%D8%B1%DB%8C%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%85%D8%B9%D9%87-%D8%B1%D8%A7-%D9%81%D8%B1%D8%A7%D9%87%D9%85-%DA%A9%D9%86%D9%86%D8%AF",
@@ -4116,7 +4422,7 @@
       "id": "mashregh_12",
       "agencyId": "mashregh",
       "keep": true,
-      "title": "تجربه نخستین حضور در مراسم وداع با رهبر شهید انقلاب",
+      "title": "تجربه نخستی�� حضور در مراسم وداع با رهبر شهید انقلاب",
       "title_fa": "تجربه نخستین حضور در مراسم وداع با رهبر شهید انقلاب",
       "lead": "این گزارش به تجربه اولین حضور در مراسم وداع با رهبر شهید انقلاب می‌پردازد. این مراسم که با حضور گسترده مردم برگزار شد، بازتابی از ارادت عمومی به ایشان بود.",
       "category": "politics",
@@ -4929,7 +5235,7 @@
       "agencyId": "guardian",
       "keep": true,
       "title": "At least nine monks killed in Thailand after boy drives truck into procession",
-      "title_fa": "کشته شدن دست‌کم ۹ راهب در تایلند پس از ای������که پسربچه‌ای کامیون را به سمت کاروان مذهبی راند.",
+      "title_fa": "کشته شدن دست‌کم ۹ راهب در تایلند پس از ای�������که پسربچه‌ای کامیون را به سمت کاروان مذهبی راند.",
       "lead": "دست‌کم ۹ راهب بودایی در تایلند پس از آنکه یک پسر ۱۱ ساله کامیون والدینش را به سمت یک کاروان مذهبی راند، کشته شدند. پلیس در حال بررسی ابعاد این حادثه و تعیین اتهامات احتمالی است.",
       "category": "accident",
       "region": "asia",
@@ -15118,7 +15424,7 @@
       "id": "yjc_2",
       "agencyId": "yjc",
       "keep": true,
-      "title": "تامین برق پایدار برای مراسم تشییع پیکر امام شهید در قم",
+      "title": "تامین برق ��ایدار برای مراسم تشییع پیکر امام شهید در قم",
       "title_fa": "تامین برق پایدار برای مراسم تشییع پیکر امام شهید در قم",
       "lead": "مدیرعامل شرکت توزیع نیروی برق قم از تا��ین برق پایدار برای مراسم وداع و تشییع پیکر مطهر رهبر شهید خبر داد. این اقدام به منظور اطمینان از خدمات‌رسانی مناسب در استان انجام می‌شود.",
       "category": "politics",
@@ -15430,7 +15736,7 @@
       "keep": true,
       "title": "عکس‌کودکانتان را در فضای مجازی منتشر نکنید",
       "title_fa": "عکس کودکانتان را در فضای مجازی منتشر نکنید",
-      "lead": "این سازمان در قالب دستورالعملی مشترک با «بنیاد دیده‌بان اینترنت» (IWF)، به خانواده‌ها توصیه کرد که حساب‌های رسانه‌های اجتماعی خود را خصوصی کنند. همچنین پیشنهاد شد که اشتراک‌گذاری محتوا به گروه‌های «دوستان نزدیک» مح��ود شود تا از حریم خصوصی کودکان محافظت گردد.",
+      "lead": "این سازمان در قالب دستورالعملی مشترک با «بنیاد دیده‌بان اینترنت» (IWF)، به خانواده‌ها توصیه کرد که حساب��های رسانه‌های اجتماعی خود را خصوصی کنند. همچنین پیشنهاد شد که اشتراک‌گذاری محتوا به گروه‌های «دوستان نزدیک» مح��ود شود تا از حریم خصوصی کودکان محافظت گردد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1175045/%D8%B9%DA%A9%D8%B3-%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86%D8%AA%D8%A7%D9%86-%D8%B1%D8%A7-%D8%AF%D8%B1-%D9%81%D8%B6%D8%A7%DB%8C-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D9%86%DA%A9%D9%86%DB%8C%D8%AF",
@@ -18462,7 +18768,7 @@
       "keep": true,
       "title": "از دیدار رهبر انقلاب بر دوش پدر تا اقامه نماز به امامت ��ق��/داغ‌دیده‌ اما ایستاده‌ایم",
       "title_fa": "از دیدار رهبر انقلاب بر دوش پدر تا اقامه نماز به امامت آقا/ داغ‌دیده‌ اما ایستاده‌ایم",
-      "lead": "مردم از شهرهای دور و نزدیک در آیین وداع با «آقای شهید ایران» در مصلی تهران حضور یافتند. آنها با شعارهایی احساسات خود را ابراز کرده و خاط��اتی از رهبر انقلاب بازگو می‌کنند.",
+      "lead": "مردم از شهرهای دور و نزدیک در آیین وداع با «آقای شهید ایران» د�� مصلی تهران حضور یافتند. آنها با شعارهایی احساسات خود را ابراز کرده و خاط��اتی از رهبر انقلاب بازگو می‌کنند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.irna.ir/news/86200107/%D8%A7%D8%B2-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%B1%D9%87%D8%A8%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%A8%D8%B1-%D8%AF%D9%88%D8%B4-%D9%BE%D8%AF%D8%B1-%D8%AA%D8%A7-%D8%A7%D9%82%D8%A7%D9%85%D9%87-%D9%86%D9%85%D8%A7%D8%B2-%D8%A8%D9%87-%D8%A7%D9%85%D8%A7%D9%85%D8%AA-%D8%A2%D9%82%D8%A7-%D8%AF%D8%A7%D8%BA-%D8%AF%DB%8C%D8%AF%D9%87",
@@ -19036,7 +19342,7 @@
       "keep": true,
       "title": "Farewell ceremony for martyred Leader Khamenei at Mosalla",
       "title_fa": "مراسم وداع با رهبر شهید خامنه‌ای در مص��ا",
-      "lead": "مراسم وداع با رهبر شهید انقلاب اسلامی، آیت‌الله سید علی خامنه‌ای، صبح شنبه در مصلای امام خمینی (ره) تهران برگزار شد. این مراسم با حضور گسترده مردم انجام گرفت.",
+      "lead": "مراسم وداع با رهبر شهید انقلاب اسلامی، آیت‌الله سید علی خامنه‌ای، صبح شنبه در مصلای امام خمینی (ره) تهران برگزار شد. این مراسم با حضور گسترده مردم انجا�� گرفت.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://en.mehrnews.com/photo/245872/Farewell-ceremony-for-martyred-Leader-Khamenei-at-Mosalla",
@@ -19606,7 +19912,7 @@
       "keep": true,
       "title": "اسبقیان: از آمریکا به فیفا شکایت کرده‌ایم/ نگران کارشکنی در المپیک لس‌آنجلس نیستیم",
       "title_fa": "معاون وزیر ورزش: از آمریکا به فیفا شکایت کرده‌ایم؛ نگران ��ارشکنی در المپیک لس‌آنجلس نیستیم",
-      "lead": "معاون توسعه ورزش وزارت ورزش از شکایت فدراسیون فوتبال ایران به فیفا علیه میزبانی آمریکا در جام جهانی ۲۰۲۶ خبر داد. او افزود که این شکایت در پی کارشکنی‌های آمریکا انجام شده، اما ایران نگران کار��کنی در المپیک لس‌آنجلس نیست.",
+      "lead": "معاون توسعه ورزش وزارت ورزش از شکایت فدراسیون فوتبال ایران به فیفا علیه میزبانی آ��ریکا در جام جهانی ۲۰۲۶ خبر داد. او افزود که این شکایت در پی کارشکنی‌های آمریکا انجام شده، اما ایران نگران کار��کنی در المپیک لس‌آنجلس نیست.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.irna.ir/news/86200312/%D8%A7%D8%B3%D8%A8%D9%82%DB%8C%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D9%81%DB%8C%D9%81%D8%A7-%D8%B4%DA%A9%D8%A7%DB%8C%D8%AA-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%DB%8C%D9%85-%D9%86%DA%AF%D8%B1%D8%A7%D9%86-%DA%A9%D8%A7%D8%B1%D8%B4%DA%A9%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%84%D9%85%D9%BE%DB%8C%DA%A9",
@@ -22582,7 +22888,7 @@
       "keep": true,
       "title": "اژدها بیدار می‌شود؛ حاج ابراهیم دنبال انتقام از یلدا و عماد!",
       "title_fa": "اژدها بیدار می‌شود؛ حاج ابراهیم دنبال انتقام از یلدا و عماد!",
-      "lead": "ابراهیم حکم اژدهایی برآشفته و به مرز جنون رسیده را دارد که نه فقط یلدا، که عماد را نیز می‌خواهد به زیر بکشد. سرانجام این خروش و آن عصیان چه خواهد بود؟ ظاهراً قصه «بدنام» تازه ش��وع شده است!",
+      "lead": "ابراهیم حکم اژدهایی برآشفته و به مرز جنون رسیده را دارد که نه فقط یلدا، که عماد را نیز می‌خواه�� به زیر بکشد. سرانجام این خروش و آن عصیان چه خواهد بود؟ ظاهراً قصه «بدنام» تازه ش��وع شده است!",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1174909/اژدها-یدار-می-شود-حاج-ابراهیم-دنبال-انتقام-از-یلدا-و-عماد",
@@ -23166,7 +23472,7 @@
       "id": "khabaronline_5",
       "agencyId": "khabaronline",
       "keep": true,
-      "title": "بازدید مدیرعامل بانک سپه از موکب‌های خدمات‌رسان بانک به زائران مراسم وداع و تشییع قائد شهید امت",
+      "title": "بازدید مدیرعامل بانک سپه از موکب‌های خدمات‌رسان بانک به زائر��ن مراسم وداع و تشییع قائد شهید امت",
       "title_fa": "بازدید مدیرعامل بانک سپه از موکب‌های خدما��‌رسان به زائران مراسم وداع و تشییع",
       "lead": "دکتر آیت‌اله ابراهیمی، مدیرعامل بانک سپه، از موکب‌های فرهنگی و پذیرایی این بانک در مسیر برگزاری مراسم وداع و تشییع پیکر مط��ر بازدید کرد. او از نزدیک در جریان روند خدمت‌رسانی به زائران قائد شهید امت قرار گرفت.",
       "category": "politics",
@@ -23420,7 +23726,7 @@
       "keep": true,
       "title": "وزارت دفاع روسیه منتشر کرد: فیلم انهدام مرکز پهپادی اوکراین با بمب 1500 کیلوگرمی سوخو-34 روسی",
       "title_fa": "وزارت دفاع روسیه: فیلم انهدام مرکز پهپادی اوکراین با بمب ۱۵۰۰ کیلوگرمی سوخو-۳۴ روسی",
-      "lead": "وزارت دفاع روسیه ویدیویی از نابودی مرکز هدایت پهپادهای اوکراینی را منتشر کرد. در این عملیات، یک بمب ۱.۵ تنی FAB-1500 توسط جنگنده سوخو-۳۴ روسی استفاده شده است.",
+      "lead": "وزارت دفاع روسیه ویدیویی از نابودی مرکز هدایت پهپادهای اوکراینی را منتشر کرد. در این عملیات، یک بمب ۱.۵ تن�� FAB-1500 توسط جنگنده سوخو-۳۴ روسی استفاده شده است.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1174854/%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%AF%D9%81%D8%A7%D8%B9-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%DA%A9%D8%B1%D8%AF-%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D9%86%D9%87%D8%AF%D8%A7%D9%85-%D9%85%D8%B1%DA%A9%D8%B2-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%DB%8C-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D8%A8%D8%A7-%D8%A8%D9%85%D8%A8-1500-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85%DB%8C-%D8%B3%D9%88%D8%AE%D9%88-34-%D8%B1%D9%88%D8%B3%DB%8C",
@@ -23651,1172 +23957,6 @@
       "pubDate": "Thu, 02 Jul 2026 16:30:58 +0000",
       "time": "۲۰:۰۰ - ۱۱ تیر",
       "analyzed_at": "2026-07-03T21:19:38.937Z"
-    },
-    {
-      "id": "asriran_0",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "دیدار وزیر خارجه کنگو برازاویل با عراقچی در تهر��ن",
-      "title_fa": "دیدار وزیر خارجه کنگو برازاویل با عراقچی در تهران",
-      "lead": "کنستانت سرژ بوندا، وزیر امور خارجه کنگو برازاویل، در تهران با سید عباس عراقچی، وزیر امور خارجه جمهوری اسلامی ایران، دیدار کرد. در این د��دار، طرفین به گفت‌و‌گو پرداختند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174913/دیدار-وزیر-خارجه-کنگو-برازاویل-با-عراقچی-در-تهران",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 50,
-        "neutral": 50,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 23:48:22 +0330",
-      "time": "۲۳:۴۸ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "mashregh_1",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "فیلم/ \"والصبح\" با صدای محمد معتمدی",
-      "title_fa": "فیلم/ \"والصبح\" با صدای محمد معتمدی",
-      "lead": "هم‌زمان با آیین وداع و تشییع «آقای شهید ایران», قطعه ��وسیقایی «والصبح» با صدای محمد معتمدی منتشر شد. این اثر به همت مرکز هنری رسانه‌ای نهضت و سازمان فرهنگی هنری شهرداری تهران تهیه شده است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1822989/%D9%81%DB%8C%D9%84%D9%85-%D9%88%D8%A7%D9%84%D8%B5%D8%A8%D8%AD-%D8%A8%D8%A7-%D8%B5%D8%AF%D8%A7%DB%8C-%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%B9%D8%AA%D9%85%D8%AF%DB%8C",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 50,
-        "neutral": 50,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 20:00:00 GMT",
-      "time": "۲۳:۳۰ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "irna_2",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "مسئول خانه فرهنگ ایران در لاهور: مکتب فکری و ��ملی رهبر شه���د ادام�� مکتب عاشورا است",
-      "title_fa": "مسئول خا��ه فرهنگ ایران در لاهور: مکتب فکری و عملی رهبر شهید ادامه مکتب عاشورا است",
-      "lead": "مسئول خانه فرهنگ جمهوری اسلامی ایران در لاهور اظهار داشت که ��کتب فکری و عملی رهبر شهید، ادامه مکتب عاشورا است. وی افزود: همان‌گونه که حضرت سیدالشهدا(ع) برای احیای دین قیام کردند، ایشان نیز همواره بر حفظ ارزش‌های اسلامی و دفاع از آنها تاکید داشتند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.irna.ir/news/86199948/%D9%85%D8%B3%D8%A6%D9%88%D9%84-%D8%AE%D8%A7%D9%86%D9%87-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%84%D8%A7%D9%87%D9%88%D8%B1-%D9%85%DA%A9%D8%AA%D8%A8-%D9%81%DA%A9%D8%B1%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DB%8C-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%D8%AF%D8%A7%D9%85%D9%87",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 19:29:47 GMT",
-      "time": "۲۲:۵۹ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "yjc_3",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "پزشکیان بر ضرورت تسریع گسترش همکاری‌های راهبردی ایران و روسیه تأکید کرد",
-      "title_fa": "پزشکیان بر ضرورت تسریع گسترش همکاری‌های راهبردی ایران و روسیه تأکید کرد",
-      "lead": "رئیس جمهور پزشکیان از مواضع حمایتی و ابراز همدردی دولت و ملت روسیه قدردانی کرد. وی بر تسریع همکاری‌های راهبردی ایران و روسیه، به‌ویژه در حوزه‌های اقتصادی، ترانزیتی و منطقه‌ای، تأکید ورزید.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104407/پزشکیان-بر-ضرورت-تسریع-گسترش-همکاری‌های-راهبردی-ایران-و-روسیه-تأکید-کرد",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 40,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 21:57:46 +0330",
-      "time": "۲۱:۵۷ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "isna_5",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "خودرو شخصی به مرکز تهران نیاورید/ برخلاف جهت جمعیت حرکت نکنید",
-      "title_fa": "توصیه‌ه��ی ایمنی برای مراسم تشییع رهبر شهید: خودرو شخصی نیاورید و برخلاف جهت جمعیت حرکت نکنید",
-      "lead": "سخنگوی سازمان آتش‌نشانی تهران مهم‌ترین توصیه‌های ایمنی را برای مراسم تشییع رهبر شهید تشریح کرد. او از مردم خواست با رعایت نکات ایمنی و همکاری با نیروهای امدادی، از بروز حوادث احتمالی جلوگیری کنند و خودرو شخصی به مرکز تهران نیاورند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405041207433/%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%A8%D9%87-%D9%85%D8%B1%DA%A9%D8%B2-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%86%DB%8C%D8%A7%D9%88%D8%B1%DB%8C%D8%AF-%D8%A8%D8%B1%D8%AE%D9%84%D8%A7%D9%81-%D8%AC%D9%87%D8%AA-%D8%AC%D9%85%D8%B9%DB%8C%D8%AA-%D8%AD%D8%B1%DA%A9%D8%AA-%D9%86%DA%A9%D9%86%DB%8C%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 80,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 20:36:00 GMT",
-      "time": "۰۰:۰۶ - ۱۳ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "asriran_6",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "حضور سردار سید مجید موسوی در مراسم وداع با رهبر شهید انقلاب",
-      "title_fa": "حضور سردار سید مجید موسوی در مراسم وداع با رهبر شهید انقلاب",
-      "lead": "سردار سید مجید موسوی، فرمانده نیروی هوافضای سپاه، در مراسم وداع با رهبر شهید انقلاب حضور یافت. این حضور در جریان بدرقه پیکر رهبر فقید انجام شد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174914/حضور-سردار-سید-مجید-موسوی-در-مراسم-وداع-با-رهبر-شهید-انقلاب",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 50,
-        "neutral": 50,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 23:58:06 +0330",
-      "time": "۲۳:۵۸ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "yjc_7",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "فهرست مراکز اسکان زائران در مدارس و مراکز آموزشی شهرستان‌های تهران",
-      "title_fa": "فهرست مراکز اسکان زائران در مدارس و مراکز آموزشی شهرستان‌های تهران منتشر شد",
-      "lead": "اداره اطلاع‌رسانی و روابط عمومی آموزش و پرورش شهرستان‌های استان تهران فهرست مراکز اسکان را منتشر کرد. این مراکز به منظور خدمت‌رسانی به زائران مراسم وداع با رهبر شهید در مدارس و مراکز آموزشی آماده‌سازی شده‌اند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104426/فهرست-مر��کز-اسکان-زائران-در-مدارس-و-مراکز-آموزشی-شهرستان‌های-تهران",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 80,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 23:56:17 +0330",
-      "time": "۲۳:۵۶ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "mashregh_9",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "فیلم/ دعوتید برای «سلام آخر»",
-      "title_fa": "فیلم/ دعوت برای «سلام آخر» در مصلی امام خمینی(ره)",
-      "lead": "اطلاعیه‌ای برای دعوت مردم به مراسم «سلام آخر» منتشر شد. این مراسم از ساعت ۶ صبح شنبه ۱۳ تیرماه تا اذان مغرب روز یک‌شنبه ۱۴ تیرماه در مصلی امام خمینی(ره) تهران برگزار می‌شود.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823029/%D9%81%DB%8C%D9%84%D9%85-%D8%AF%D8%B9%D9%88%D8%AA%DB%8C%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%84%D8%A7%D9%85-%D8%A2%D8%AE%D8%B1",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 20:24:02 GMT",
-      "time": "۲۳:۵۴ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "mashregh_10",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "بازتاب پیامدهای جنگ علیه ایران در رسانه‌های جهان",
-      "title_fa": "بازتاب پیامدهای جنگ علیه ایران در رسانه‌های جهان",
-      "lead": "رسانه‌های جهانی به بازتاب پیامدهای تجاوز نظامی علیه ایران پرداخته‌اند. گزارش‌ها حاکی از آن است که اهداف اعلامی این عملیات از سوی آمریکا و رژیم صهیونیستی محقق نشده و به اذعان مقامات غربی، شکست راهبردی به متجاوزان تحمیل شده است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823016/%D8%A8%D8%A7%D8%B2%D8%AA%D8%A7%D8%A8-%D9%BE%DB%8C%D8%A7%D9%85%D8%AF%D9%87%D8%A7%DB%8C-%D8%AC%D9%86%DA%AF-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 20:15:00 GMT",
-      "time": "۲۳:۴۵ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "asriran_11",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "تعطیلی رسمی در بغداد به مناسبت مراسم ��شییع پیکر مطهر رهبر انقلاب",
-      "title_fa": "تعطیلی رسمی در بغداد به مناسبت مراسم تشییع رهبر انقلاب",
-      "lead": "هیبت الحلبوسی، رئیس مجلس ��راق، صبح امروز (جمعه ۱۲ تیر) به تهران وارد شد. وی به منظور شرکت در مراسم رسمی ادای احترام به پیکر مطهر رهبر شهید انقلاب اسلامی، مورد استقبال علی نیکزاد، نایب رئیس مجلس شورای اسلامی، قرار گرفت.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174912/تعطیلی-رسمی-در-بغداد-به-مناسبت-مراسم-تشییع-پیکر-مطهر-رهبر-انقلاب",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 40,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 23:30:33 +0330",
-      "time": "۲۳:۳۰ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "khabaronline_12",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "ببین��د | لحظاتی از  وداع سردار سید مجید موسوی، فرمانده هوافضای سپاه با رهبر شهید",
-      "title_fa": "ببینید | لحظاتی از وداع سردار سید مجید موسوی، فرما����ه هوافضای سپاه ب�� رهبر شهید",
-      "lead": "این خبر ��امل فیلمی از لحظات وداع سردار سید مجید موسوی، فرمانده هواف��ای سپاه با رهبر شهید است. این ویدئو توسط دانشجویان منتشر شده است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2241715/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D9%84%D8%AD%D8%B8%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B2-%D9%88%D8%AF%D8%A7%D8%B9-%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D8%B3%DB%8C%D8%AF-%D9%85%D8%AC%DB%8C%D8%AF-%D9%85%D9%88%D8%B3%D9%88%DB%8C-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D9%87%D9%88%D8%A7%D9%81%D8%B6%D8%A7%DB%8C",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 50,
-        "neutral": 50,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 19:55:02 GMT",
-      "time": "۲۳:۲۵ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "asriran_13",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "اشک‌های فرزند اربکان در مراسم ادای احترام به امام شهید",
-      "title_fa": "��شک‌های فرزند اربکان در مراسم ادای احترام به امام شهید",
-      "lead": "فاتح اربکان، فرزند نجم‌الدین اربکان و رهبر حزب رفاه نو ترکیه، در مراسم اد��ی احترام به ره��ر شهید ایران حضور یافت. او در این مراسم منقلب شد و لحظاتی گریست.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174911/اشک-های-فرزند-اربکان-در-مراسم-ادای-احترام-به-امام-شهید",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 40,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 23:22:07 +0330",
-      "time": "۲۳:۲۲ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "isna_14",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "فهرست مراکز اسکان زائران در مدارس و مراکز آموزشی شهرستان‌های تهران",
-      "title_fa": "فهرست مراک�� اسکان زائران در مدارس و مراکز آموزشی شهرستان‌های تهران منتشر شد",
-      "lead": "اداره اطلاع‌رسانی و روابط عمومی آموزش و پرورش شهرستان‌های استان تهران، فهرست مراکز اسکان را منتشر کرد. این مراکز با ��ماهنگی مدیران مناطق و مدارس، به منظور خدمت‌رسا��ی شایسته به زائ��ان مراسم وداع با رهبر شهید آماده‌سازی شده‌اند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405041207426/%D9%81%D9%87%D8%B1%D8%B3%D8%AA-%D9%85%D8%B1%DA%A9%D8%B2-%D8%A7%D8%B3%DA%A9%D8%A7%D9%86-%D8%B2%D8%A7%D8%A6%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D9%88-%D9%85%D8%B1%DA%A9%D8%B2-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 80,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "asriran_0",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "استاندار ت��ران: راس ساعت ۶ صبح فردا در‌های مصلای تهران باز می‌شود",
-      "title_fa": "استاندار تهران: درهای مصلای تهران فردا ساعت ۶ صبح باز می‌شود",
-      "lead": "استاندار تهران اعلام کرد که درهای مصلای تهران فردا راس ساعت ۶ صبح به روی مردم باز خواهد شد. او از مردم خواست برنامه‌ریزی خود را به گونه‌ای انجام دهند که از این ساعت به بعد به مصلی مراجعه کنند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174908/استاندار-تهران-راس-ساعت-6-صبح-فردا-در-های-مصلای-تهران-باز-می-شود",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 23:09:20 +0330",
-      "time": "۲۳:۰۹ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "yjc_1",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "تهران در بالاترین سطح آمادگی امنیتی برای مراسم تشییع رهبر شهید/ بازگشایی ��ر‌های مصلی ساعت۶صبح",
-      "title_fa": "تهران در بالاترین سطح آمادگی امنیتی برای مراسم تشییع رهبر شهید؛ بازگشایی درهای مصلی ساعت ۶ صبح",
-      "lead": "استاندار تهران از آمادگی کامل دستگاه‌های اجرایی، نظامی، امنیتی و امدادی برای برگزاری مراسم وداع و تشییع رهبر شهید خبر داد. وی تاکید کرد که پایتخت در بالاترین سطح آمادگی امنیتی، ترافیکی و درمانی برای این مراسم قرار دارد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104420/تهران-در-بالاترین-سطح-آمادگی-امنیتی-برای-مراسم-تشییع-رهبر-شهید-بازگشایی-در‌های-مصلی-ساعت۶صبح",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 23:06:18 +0330",
-      "time": "۲۳:۰۶ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "isna_2",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "تعطیلی رسمی در بغداد به مناسبت مراسم تشییع پیکر مطهر رهبر انقلاب",
-      "title_fa": "تعطیلی رسمی در بغداد به مناسبت مراسم تشییع پیکر رهبر انقلاب",
-      "lead": "استانداری بغداد اعلام کرد که روز چهارشنبه آینده، ۸ ژوئیه ۲۰۲۶ را به مناسبت مراسم تشییع پیکر رهبر شهید جمهوری اسلامی ایران تعطیل رسمی خواهد بود. این تصمیم به احترام این مراسم مهم و برای تسهیل حضور مردم گرفته شده است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405041207423/%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%DB%8C-%D8%B1%D8%B3%D9%85%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A8%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%AA-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%AA%D8%B4%DB%8C%DB%8C%D8%B9-%D9%BE%DB%8C%DA%A9%D8%B1-%D9%85%D8%B7%D9%87%D8%B1-%D8%B1%D9%87%D8%A8%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 19:33:12 GMT",
-      "time": "۲۳:۰۳ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "mashregh_4",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "نماهنگ/ \"عمامه خونی\" با نوای مصطفی اللهیاری",
-      "title_fa": "نماهنگ \"عمامه خونی\" با نوای مصطفی اللهیاری منتشر شد",
-      "lead": "نماهنگ \"عمامه خونی\" با نوای مصطفی اللهیاری در سوگ رهبر شهید منتشر شده است. این اثر هنری با مضمون \"خون تو شد رنگ سرخ پرچم ایران\" به یادبود ایشان ساخته شده است.",
-      "category": "culture",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1822978/%D9%86%D9%85%D8%A7%D9%87%D9%86%DA%AF-%D8%B9%D9%85%D8%A7%D9%85%D9%87-%D8%AE%D9%88%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D9%88%D8%A7%DB%8C-%D9%85%D8%B5%D8%B7%D9%81%DB%8C-%D8%A7%D9%84%D9%84%D9%87%DB%8C%D8%A7%D8%B1%DB%8C",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Fri, 03 Jul 2026 19:30:00 GMT",
-      "time": "۲۳:۰۰ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "irna_5",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "فنلاند به دنبال خرید سیستم‌های دفاع هوایی پیشرفته از سوئد",
-      "title_fa": "فنلاند قصد خرید سیستم‌های دفاع هوایی پیشرفته از س��ئد را دارد",
-      "lead": "وزارت دفاع فنلاند اعلام کرد که در حال بررسی خرید سیستم‌های دفاع هوایی زمین‌پایه کوتاه‌برد از سوئد است. این اقدام در راستای تقویت توان دفاعی فنلاند و همکاری‌های نظامی با کشورهای همسایه صورت می‌گیرد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.irna.ir/news/86199971/%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D8%AF%D9%81%D8%A7%D8%B9-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%A7%D8%B2-%D8%B3%D9%88%D8%A6%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 19:02:39 GMT",
-      "time": "۲۲:۳۲ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "irna_6",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "استاندار البرز: بدرقه «امام شهید ایران » جلوه‌ای ماندگار از وحدت است",
-      "title_fa": "استاندار البرز: بدرقه «امام شهید ایران» جلوه‌ای ماندگار از وحدت است",
-      "lead": "استاندار البرز اظهار داشت که مراسم باشکوه بدرقه «امام شهید ایران» نشان‌دهنده وحدت و همدلی ملت بزرگ ایران است. وی این آیین را جلوه‌ای ماندگار از وفاداری ب�� آرمان‌های انقلاب و ولایت توصیف کرد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.irna.ir/news/86199967/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-%D8%A8%D8%AF%D8%B1%D9%82%D9%87-%D8%A7%D9%85%D8%A7%D9%85-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AC%D9%84%D9%88%D9%87-%D8%A7%DB%8C-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%B1-%D8%A7%D8%B2-%D9%88%D8%AD%D8%AF%D8%AA",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 100,
-        "neutral": 0,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "mashregh_7",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "عدالت دیجیتال علیه پول‌های کثیف",
-      "title_fa": "عدالت دیجیتال برای مقابله با پول‌های کثیف",
-      "lead": "جرایم مالی مدرن، از شرکت‌های صوری تا پولشویی دیجیتال، به چالشی جدی تبدیل شده‌اند. مقابله با این پدیده بدون حکمرانی داده‌محور و رویکرد عدالت دیجیتال ممکن نیست.",
-      "category": "economy",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1822827/%D8%B9%D8%AF%D8%A7%D9%84%D8%AA-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%B9%D9%84%DB%8C%D9%87-%D9%BE%D9%88%D9%84-%D9%87%D8%A7%DB%8C-%DA%A9%D8%AB%DB%8C%D9%81",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 20:32:00 GMT",
-      "time": "۰۰:۰۲ - ۱۳ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "mashregh_8",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "پرواز هواپیماهای شناسایی آمریکایی بر فراز مناطقی در غرب عراق",
-      "title_fa": "پرواز هواپیماهای شناسایی آمریکا بر فراز مناطقی در غرب عراق",
-      "lead": "یک منبع امنیتی عراق از پرواز هواپیماهای شناسایی آمریکا بر فراز مناطق امن بین فلوجه و بابل در استان الانبار خبر داد. این پروازها در غرب عراق مشاهده شده‌اند.",
-      "category": "military",
-      "region": "middle_east",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823028/%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%D9%87%D8%A7%DB%8C-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%A8%D8%B1-%D9%81%D8%B1%D8%A7%D8%B2-%D9%85%D9%86%D8%A7%D8%B7%D9%82%DB%8C-%D8%AF%D8%B1-%D8%BA%D8%B1%D8%A8-%D8%B9%D8%B1%D8%A7%D9%82",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 20:22:00 GMT",
-      "time": "۲۳:۵۲ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "mashregh_9",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "حضور پرشور مردم در مقابل مصلی امام خمینی (ره)+ فیلم",
-      "title_fa": "حضور پرشور مردم در مقابل مصلی امام خمینی (ره)",
-      "lead": "با وجود اینکه مراسم رسمی وداع با پیکر رهبر شهید انقلاب فردا آغاز می‌شود، شمار زی��دی از مردم در اطراف مصلی امام خمینی (ره) حضور یافته‌اند. این جمعیت مشتاقانه در انتظار بازگشایی درهای محل برگزاری مراسم هستند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823027/%D8%AD%D8%B6%D9%88%D8%B1-%D9%BE%D8%B1%D8%B4%D9%88%D8%B1-%D9%85%D8%B1%D8%AF%D9%85-%D8%AF%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B5%D9%84%DB%8C-%D8%A7%D9%85%D8%A7%D9%85-%D8%AE%D9%85%DB%8C%D9%86%DB%8C-%D8%B1%D9%87-%D9%81%DB%8C%D9%84%D9%85",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 100,
-        "neutral": 0,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 20:14:48 GMT",
-      "time": "۲۳:۴۴ - ۱۲ ت��ر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "khabaronline_11",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "آیا رهبر شهید در ��وروی درس خ��انده ب��د؟",
-      "title_fa": "آیا رهبر شهید در شوروی تحصیل کرده بود؟",
-      "lead": "هادی خامنه‌ای درباره شایعات تحصیل برادر شهیدش در شوروی توضیحاتی ارائه داد. او تاکید کرد که ایشان قبل از انقلاب ممنو��‌الخروج بودند و امکان سفر به خارج از کشور را نداشتند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2241685/%D8%A2%DB%8C%D8%A7-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%B4%D9%88%D8%B1%D9%88%DB%8C-%D8%AF%D8%B1%D8%B3-%D8%AE%D9%88%D8%A7%D9%86%D8%AF%D9%87-%D8%A8%D9%88%D8%AF",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 20:03:00 GMT",
-      "time": "۲۳:۳۳ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "asriran_13",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "وزارت دفاع روسیه منتشر کرد: فیلم انهدام مرکز پهپا��ی اوکراین با بمب 1500 کیلوگرمی سوخو-34 روسی",
-      "title_fa": "انتشار فیلم انهدام مرکز پهپادی اوکراین توسط روسیه با بمب ۱۵۰۰ کیلوگرمی سوخو-۳۴",
-      "lead": "وزارت دفاع روسیه ویدیویی از انهدام یک مرکز هدایت پهپادهای اوکراینی ر�� منتشر کرده است. این عملیات با استفاده از بمب ۱.۵ تنی FAB-1500 توسط جنگنده سوخو-۳۴ روسی انجام شده است.",
-      "category": "military",
-      "region": "europe",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174854/وزارت-دفاع-روسیه-منتشر-کرد-فیلم-انهدام-مرکز-پهپادی-اوکراین-با-بمب-1500-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85%DB%8C-%D8%B3%D9%88%D8%AE%D9%88-34-%D8%B1%D9%88%D8%B3%DB%8C",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "asriran_0",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "اژدها بیدار می‌شود؛ حاج ابراهیم دنبال انتقام از یلدا و عماد!",
-      "title_fa": "اژدها بیدار می‌شود؛ حاج ابراهیم دنبال انتقام از یلدا و عماد!",
-      "lead": "ابراهیم حکم اژدهایی براشفته و به مرز جنون رسیده را دارد که نه فقط یلدا بلکه عماد را هم می‌خواهد به زیر بکشد. ظاهرا قصه «بدنام» تازه شروع شده و سرانجام این خروش و عصیان نامشخص است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174909/اژدها-بیدار-می-شود-حج-ابراهیم-دنبال-انتقام-از-یلدا-و-عماد",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      },
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "yjc_1",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "از صفوف تشییع تا ه����گ‌های دلتنگی + فیلم",
-      "title_fa": "از صفوف تشییع تا هشتگ‌های دلتنگی",
-      "lead": "در آستانه مراسم وداع با رهبر معظم انقلاب، روایت‌های متعددی از آخرین فرصت‌ها برای ادای احترام شکل گرفته است. این روایات شامل صفوف تشییع و هشتگ‌های دلتنگی در فضای مجازی می‌شود.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104396/از-صفوف-تشییع-تا-هشتگ‌های-دلتنگی-فیلم",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 70,
-        "negative": 10
-      },
-      "pubDate": "03 Jul 2026 23:11:04 +0330",
-      "time": "۲۳:۱۱ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "yjc_3",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "فریاد خون‌خواهی خر��‌آبادی ها امام شهید در آستانه آیین باشکوه تشییع قائد امت + فیلم",
-      "title_fa": "فریاد خون‌خواهی مردم خرم‌آباد در آستانه تشییع رهبر شهید",
-      "lead": "در آستانه آیین تشییع قائد امت، جمع کثیری از مردم خرم‌آباد برای شرکت در این مراسم راهی شدند. آنها با حضور پرشور ��ود، ارادت و وفاداری به آرمان‌های انقلاب اسلامی و رهبر شهید را به نمایش گذاشتند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104414/فریاد-خون‌خواهی-خرم‌آبادی-ها-امام-شهید-در-آستانه-آیین-باشکوه-تشییع-قائد-امت-فیلم",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 20,
-        "negative": 10
-      },
-      "pubDate": "03 Jul 2026 23:01:58 +0330",
-      "time": "۲۳:۰۱ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "mashregh_4",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "آخرین دیدار؛ به روایت محمود رضوی",
-      "title_fa": "آخرین دیدار؛ به روایت محمود رضوی",
-      "lead": "محمود رضوی روایتی از آخرین دیدار خود (احتمالاً با رهبر فقید) ارائه می‌دهد. این روایت به وقایع مهم پیش از تشییع مربوط می‌شود و می‌تواند جنبه‌های پنهانی از آن دوران را آشکار کند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823017/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D8%B1%D8%B6%D9%88%DB%8C",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 80,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 19:21:07 GMT",
-      "time": "۲۲:۵۱ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "asriran_5",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "اوج جاه طلبی لامبورگینی در بازار خودروهای شاسی بلند (+عکس)",
-      "title_fa": "اوج جاه طلبی لامبورگینی در بازار خودروهای شاسی بلند",
-      "lead": "لامبورگینی با معرفی مدل جدید اوروس SE Performante، اوج جاه طلبی خود را در بازار خودروهای شاسی بلند نشان داد. این مدل جدید، یک شاسی بلند خانوادگی پلاگین هیبریدی است که قدرتی در حد سوپراسپرت و بدنه‌ای از فیبر کربن دارد.",
-      "category": "economy",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174902/اوج-جاه-طلبی-لامبورگینی-در-بازار-خودروهای-شاسی-بلند-عکس",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 22:46:39 +0330",
-      "time": "۲۲:۴۶ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "isna_6",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "توهین چیلاورت در جواب توهین دوگاری!/ نبرد فرانسه و پاراگوئه از حالا ��روع شده است",
-      "title_fa": "توهین چیلاورت در جواب توهین دوگاری؛ نبرد فرانسه و پاراگوئه از حالا شروع شده است",
-      "lead": "خوزه لوئیس چیلاورت، اسطوره دروازه‌بانی پاراگوئه، به اظهارات توهین‌آمیز کریستوف دوگاری، قهرمان جام جهانی ۱۹۹۸ فرانسه، پاسخ داد. این واکنش‌ها نبرد لفظی بین دو کشور ��ا از همین حالا آغاز کرده است.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405041207419/%D8%AA%D9%88%D9%87%DB%8C%D9%86-%DA%86%DB%8C%D9%84%D8%A7%D9%88%D8%B1%D8%AA-%D8%AF%D8%B1-%D8%AC%D9%88%D8%A7%D8%A8-%D8%AA%D9%88%D9%87%DB%8C%D9%86-%D8%AF%D9%88%DA%AF%D8%A7%D8%B1%DB%8C-%D9%86%D8%A8%D8%B1%D8%AF-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-%D9%88-%D9%BE%D8%A7%D8%B1%D8%A7%DA%AF%D9%88%D8%A6%D9%87-%D8%A7%D8%B2",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 30,
-        "negative": 70
-      },
-      "pubDate": "Fri, 03 Jul 2026 19:15:00 GMT",
-      "time": "۲۲:۴۵ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "isna_7",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "مساجد قم در روزهای تشییع پیکر مطهر رهبر انقلاب باز خواهند بود",
-      "title_fa": "مساجد قم در روزهای تشییع پیکر رهبر انقلاب باز خواهند بود",
-      "lead": "دبیر قرارگاه راهبری مساجد استان قم اعلام کرد که مساجد استان در روزهای دوشنبه و سه‌شنبه هفته آینده (۱۵ و ۱۶ تیر) باز خواهند بود. این اقدام برای میزبانی شایسته از زائران و شرکت‌کنندگان در مراسم تشییع پیکر رهبر شهید انقلاب اسلامی صورت می‌گیرد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405041207418/%D9%85%D8%B3%D8%A7%D8%AC%D8%AF-%D9%82%D9%85-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D8%AA%D8%B4%DB%8C%DB%8C%D8%B9-%D9%BE%DB%8C%DA%A9%D8%B1-%D9%85%D8%B7%D9%87%D8%B1-%D8%B1%D9%87%D8%A8%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B2-%D8%AE%D9%88%D8%A7%D9%87%D9%86%D8%AF-%D8%A8%D9%88%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 40,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 19:00:57 GMT",
-      "time": "۲۲:۳۰ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "khabaronline_8",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "عکس | داماد شهید رهبری دکتر مصباح الهدی باقری به همراه همسر و فرزندانشان در کنار آبمیوه فروشی خیابان کارگر",
-      "title_fa": "عکس: داماد رهبر شهید، دکتر مصباح الهدی باقری، به همراه همسر و فرزندانشان",
-      "lead": "تصویری از داماد رهبر شهید، دکتر مصباح الهدی باقری، به همراه همسر و فرزندانشان منتشر شده است. این عکس در کنار یک آبمیوه‌فروشی در خیابان کارگر گرفته شده است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/photo/2241674/%D8%B9%DA%A9%D8%B3-%D8%AF%D8%A7%D9%85%D8%A7%D8%AF-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D8%AF%DA%A9%D8%AA%D8%B1-%D9%85%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%87%D8%AF%DB%8C-%D8%A8%D8%A7%D9%82%D8%B1%DB%8C-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%87%D9%85%D8%B3%D8%B1-%D9%88",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 80,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 19:00:00 GMT",
-      "time": "۲۲:۳۰ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "khabaronline_10",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "کالاهای مورد نیاز مواکب در قزوین تأمین شد",
-      "title_fa": "کالاهای مورد نیاز مواکب در قزوین تأمین شد",
-      "lead": "معاون هماهنگی امور اقتصادی استاندار قزوین از تأمین اقلام و کالاهای اساسی مورد نیاز مواکب در مبادی ورودی و خروجی استان خبر داد. او بر آمادگی کامل برای خدمت‌رسانی شبانه‌روزی به زائران تأکید کرد.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2241709/%DA%A9%D8%A7%D9%84%D8%A7%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D8%B1%D8%AF-%D9%86%DB%8C%D8%A7%D8%B2-%D9%85%D9%88%D8%A7%DA%A9%D8%A8-%D8%AF%D8%B1-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D8%B4%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 18:43:57 GMT",
-      "time": "۲۲:۱۳ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "khabaronline_11",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "ت��ویر ز��با از مصری‌ها بعد از گلزنی به استرالیا",
-      "title_fa": "تصویر زیبا از مصری‌ها بعد از گلزنی به استرالیا",
-      "lead": "تصویری زیبا از بازیکنان و هواداران مصری پس از به ثمر رساندن گل مقابل استرالیا منتشر شد. در این بازی، تیم مصر با یک گل از استرالیا پیش افتاد.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2241716/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%B2%DB%8C%D8%A8%D8%A7-%D8%A7%D8%B2-%D9%85%D8%B5%D8%B1%DB%8C-%D9%87%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%B2-%DA%AF%D9%84%D8%B2%D9%86%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%DB%8C%D8%A7",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 18:38:13 GMT",
-      "time": "۲۲:۰۸ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "yjc_12",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "رگبار رعدوبرق در نواحی غرب و شمال غرب کشور",
-      "title_fa": "رگبار و رعدوب��ق در نواحی غرب و شمال غرب کشور",
-      "lead": "مدی��کل پیش‌بینی سازمان هواشناسی از رگبار و رعدوبرق در نواحی غرب و شمال غرب کشور خبر داد. این وضعیت برای روزهای شنبه و یکشنبه (۱۳ و ۱۴ تیر) در شمال آذربایجان غربی، آذربایجان شرقی، اردبیل و ارتفاعات البرز پیش‌بینی می‌شود.",
-      "category": "environment",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104409/رگبار-��عدوبرق-در-نواحی-غرب-و-شمال-غرب-کشور",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 22:01:56 +0330",
-      "time": "۲۲:۰۱ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "aljazeera_13",
-      "agencyId": "aljazeera",
-      "keep": true,
-      "title": "Pope Leo, Mamdani send pro-immigrant message for US’s 250th anniversary",
-      "title_fa": "پاپ لئو و ممانی پیامی حامی مهاجران برای دویست و پنجاهمین ���الگرد آمریکا ارسال می‌کنند",
-      "lead": "در آستانه دویست و پنجاهمین سالگرد ایالات متحده، پاپ لئو و ممانی، شخصیت‌های بانفوذ، پیام�� در حمایت از مهاجران ارائه دادند. این سخنرا��ی‌ها با یادآوری آرمان��های آمریکا، ��یاست‌های سخت‌گیرانه مهاجرتی رئیس‌جمهور ترامپ را به چالش می‌کشد.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/7/3/pope-leo-mamdani-send-pro-immigrant-message-for-uss-250th-anniversary?traffic_source=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 50,
-        "neutral": 20,
-        "negative": 30
-      },
-      "pubDate": "Fri, 03 Jul 2026 18:30:40 +0000",
-      "time": "۲۲:۰۰ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "aljazeera_14",
-      "agencyId": "aljazeera",
-      "keep": true,
-      "title": "What to know about Taylor Swift and Travis Kelce’s wedding in NYC",
-      "title_fa": "هر آنچه باید درباره عروسی تیلور سوئیفت و تراویس کلس در نیویورک بدانید",
-      "lead": "عروسی تیلور سوئیفت و تراویس کلس، زوج مشهور، که از آن به عنوان «عروسی سلطنتی آمریکا» یاد می‌شود، شهر نیویورک را به وجد آورده است. این مراسم با هیجان و گمانه‌زنی‌های فراوان همراه است.",
-      "category": "entertainment",
-      "region": "americas",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/7/3/what-to-know-about-taylor-swift-and-travis-kelces-wedding-in-nyc?traffic_source=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 90,
-        "neutral": 10,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 18:26:18 +0000",
-      "time": "۲۱:۵۶ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "yjc_0",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "کشف ۶ تن گندم احتکار شده در قم",
-      "title_fa": "کشف ۶ تن گندم احتکار شده در قم",
-      "lead": "ر��یس پلیس امنیت اقتصادی قم از شناسایی و پلمب یک واحد صنفی به دلیل احتکار ۶ تن گندم در ا��تان خبر داد. ارزش گندم‌های احتکار شده ۴ میلیارد ریال برآورد شده است.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104399/کشف-۶-تن-گندم-احتکار-شده-در-قم",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "03 Jul 2026 21:53:34 +0330",
-      "time": "۲۱:۵۳ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "dw_2",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "Maltese tycoon faces trial over Caruana Galizia murder",
-      "title_fa": "محاکمه سرمایه‌دار مالتی به اتهام سازماندهی قتل روزنامه‌نگار کاروانا گالیزیا",
-      "lead": "یک سرمایه‌دار مالتی متهم به سازماندهی قتل دافنه ک��روانا گالیزیا، روزنامه‌نگار مالتی، پس از هفت سال بازداشت در دادگاه حاضر شد. پنج نفر دیگر پیش از این به دلیل نقششان در این قتل مجرم شناخته شده‌اند.",
-      "category": "politics",
-      "region": "europe",
-      "sourceUrl": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "pubDate": "Fri, 3 Jul 2026 18:20:00 GMT",
-      "time": "۲۱:۵۰ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "france24_3",
-      "agencyId": "france24",
-      "keep": true,
-      "title": "Putin &amp; The ‘Drowning Man Syndrome’ Sudan",
-      "title_fa": "پوتین و \"سندرم مرد غرق شده\" در سودان",
-      "lead": "درگیری‌های این هفته حول محور تشدید جنگ پهپادی بین اوکراین و روسیه و افزایش نگرانی‌ها از یک فاجعه انسانی در سودان شکل گرفته است. همچنین اعتراضات ضد مهاجر��ی در آفریقای جنوبی و حکم تاریخی ��یوان عالی آمریکا از جمله رویدادهای مهم این هفته بودند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.france24.com/en/tv-shows/the-world-this-week/20260703-putin-the-drowning-man-syndrome-sudan",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "Fri, 03 Jul 2026 18:18:01 GMT",
-      "time": "۲۱:۴۸ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "yjc_4",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "نتانیاهو به واشنگتن می‌رود",
-      "title_fa": "نتانیاهو به واشنگتن می‌رود",
-      "lead": "دفتر بنیامین نتانیاهو از گفتگوی تلفنی او با دونالد ترامپ خبر داد. آنها در این گفتگو تصمیم گرفتند که به زود�� در آمریکا با یکدیگر دیدار کنند و نتانیاهو به همین منظور به واشنگتن سفر خواهد کرد.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104398/نتانیاهو-به-واشنگتن-می‌رود",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 80,
-        "negative": 10
-      },
-      "pubDate": "03 Jul 2026 21:45:02 +0330",
-      "time": "۲۱:۴۵ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "aljazeera_5",
-      "agencyId": "aljazeera",
-      "keep": true,
-      "title": "Keiko Fujimori officially declared winner of Peru presidential race",
-      "title_fa": "کیکو فوجی‌موری رسماً برنده انتخابات ریاست جمهوری پرو اعلام شد",
-      "lead": "کیکو فوجی‌موری، نامزد ر��ست‌گرا، رسماً به عنوان برنده انتخابات ریاست جمهوری پرو اعلام شد. این پیروزی او بر روبرتو سانچز چپ‌گرا، از سوی نهاد انتخاباتی پرو تأیید و قطعی شد.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/7/3/keiko-fujimori-officially-declared-winner-of-peru-presidential-race?traffic_source=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 80,
-        "negative": 10
-      },
-      "pubDate": "Fri, 03 Jul 2026 18:14:45 +0000",
-      "time": "۲۱:۴۴ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "aljazeera_6",
-      "agencyId": "aljazeera",
-      "keep": true,
-      "title": "Israel prevents exiled Palestinian detainees from reuniting with their families",
-      "title_fa": "اسرائیل مانع از پیوستن زندانیان فلسطینی تبعید شده به خانواده‌هایشان می‌شود",
-      "lead": "اسرائیل مانع از آن می‌شود که زندانیان فلسطینی تبعید شده با خانواده‌های خود دوباره دیدار کنند. این زندانیان پس از آزادی از زندان‌های اسرائیل، به دلیل محدودیت‌های سفر از عزیزان خود جدا مانده‌اند.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.aljazeera.com/features/2026/7/3/israel-israel-prevents-exiled-palestinian-detainees-from-reuniting-with-their-families?traffic_source=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "dw_7",
-      "agencyId": "dw",
-      "keep": true,
-      "title": "Pope Leo defends US immigrant history at 250th anniversary",
-      "title_fa": "پاپ لئو در دویست و پنجاهمین سالگرد استقلال آمریکا از تاریخ مهاجرتی این کشور دفاع کرد",
-      "lead": "نخستین پاپ آمریکایی در دویست و پنجاهمین سالگرد ایالات متحده، گفت که \"امواج پی‌درپی مهاجران\" در شکل‌گیری این کشور نقش داشته‌اند. اظهارات پاپ لئو او را به هدف انتقادات رئیس جمهور دونالد ترامپ تبدیل کرده است.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://www.dw.com/en/pope-leo-defends-us-immigrant-history-at-250th-anniversary/a-77825299?maca=en-rss-en-all-1573-xml-mrss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 50,
-        "negative": 30
-      },
-      "pubDate": "Fri, 3 Jul 2026 18:13:00 GMT",
-      "time": "۲۱:۴۳ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "yjc_8",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "لنز‌هایی که ارادت جهانی را روایت کردند + فیلم",
-      "title_fa": "لنزهایی که ارادت جهانی را روایت کردند + فیلم",
-      "lead": "تصاویر ثبت‌شده، حضور و ادای احترام شخصیت‌ها، رسانه‌ها و مردم از کشورهای مختلف را نشان می‌دهد. این تصاویر روایتگر ارادتی فراتر از مرزها به بزرگمردی است که نام و راه او نمادی از همبستگی در برابر ظلم شده است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104387/لنز‌هایی-که-ارادت-جهانی-را-روایت-کردند-فیلم",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 21:41:07 +0330",
-      "time": "۲۱:۴۱ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "asriran_9",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "تصاویری از انتظار مردم برای باز شدن در‌های مصلی",
-      "title_fa": "تصاویری از انتظار مردم برای باز شدن درهای مصلی",
-      "lead": "در آستانه برگزاری مراسم تشییع رهبر شهید، جمعیت بسیاری پشت درهای مصلای امام خمینی تجمع کرده‌اند. این مردم در انتظار ورود به مصلی برای شرکت در مراسم هستند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174888/تصاویری-از-انتظار-مردم-برای-باز-شدن-در-های-مصلی",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 21:24:52 +0330",
-      "time": "۲۱:۲۴ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "nytimes_10",
-      "agencyId": "nytimes",
-      "keep": true,
-      "title": "A Hitler Bunker Faces Demolition in Housing-Challenged Berlin",
-      "title_fa": "یک ��ناهگاه هیتلر در برلین در آستانه تخریب به دلیل کمبو�� مسکن",
-      "lead": "یک پناهگاه مربوط به دوران هیتلر در برلین، به دلیل نیاز به مسکن، با خطر تخریب مواجه است. کارشناسان حفاظت از آثار تاریخی می‌گویند این اقدام نشان‌دهنده تنش در آلمان بین حفظ بناهای تاریخی مهم و نیاز به ساخت���و��از و مدرن‌سازی است.",
-      "category": "politics",
-      "region": "europe",
-      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/hitler-bunker-berlin-germany.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 60,
-        "negative": 30
-      },
-      "pubDate": "Fri, 03 Jul 2026 17:47:13 +0000",
-      "time": "۲۱:۱۷ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "aljazeera_11",
-      "agencyId": "aljazeera",
-      "keep": true,
-      "title": "Pakistan bus crash kills 40",
-      "title_fa": "تصادف اتوبوس در پاکستان ۴۰ کشته برجای گذاشت",
-      "lead": "در پی سقوط یک اتوبو�� مسافربری به دره در پاکستان، دست‌کم ۴۰ نفر کشته و ۸ نفر دیگر زخمی شدند. این حادثه تلفات سنگینی به بار آورده است.",
-      "category": "disaster",
-      "region": "asia",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Fri, 03 Jul 2026 17:44:02 +0000",
-      "time": "۲۱:۱۴ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
-    },
-    {
-      "id": "asriran_12",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "وداع با پیکر مطهر شهید مصباح‌الهدی باقری کنی در منزل پدری",
-      "title_fa": "وداع با پیکر مطهر شهید مصباح‌الهدی باقری کنی در منزل پدری",
-      "lead": "پیکر مطهر شهید مصباح‌اله��ی باقری کنی، داماد رهبر شهید، در منزل پدری خود مورد وداع قرار گرفت. او در جریان حمله به بیت رهبری به شهادت رسیده بود و خانواده و همراهانش با او وداع کردند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174880/وداع-با-پیکر-مطهر-شهید-مصباح-الهدی-باقری-کنی-در-منزل-پدری",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 30,
-        "negative": 50
-      },
-      "pubDate": "03 Jul 2026 21:06:16 +0330",
-      "time": "۲۱:۰۶ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T21:07:42.391Z"
     }
   ]
 }
