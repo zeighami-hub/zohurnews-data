@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "skynews_9",
@@ -26,6 +26,54 @@
       "pubDate": "Fri, 03 Jul 2026 03:00:00 +0100",
       "time": "۰۵:۳۰ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T09:07:44.654Z"
+    },
+    {
+      "id": "skynews_5",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Cubans face endless blackouts, collapsing salaries and empty shops – but they're refusing to give up",
+      "title_fa": "کوبایی‌ها با خاموشی‌های بی‌پایان، حقوق‌های ناچیز و مغازه‌های خالی روبرو هستند – اما تسل��م نمی‌شوند",
+      "lead": "مردم کوبا با خاموشی‌های طولانی، حقوق‌های در حال سقوط و قفسه‌های خال�� فروشگاه‌ها دست و پنجه نرم می‌کنند. با وجود این مشکلات بی‌امان، روحیه مقاومت و عدم تسلیم در میان آنها موج می‌زند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/cuba-faces-an-unceasing-crisis-but-its-people-are-refusing-to-give-up-13559697",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "pubDate": "Thu, 02 Jul 2026 04:59:00 +0100",
+      "time": "۰۷:۲۹ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T11:18:36.383Z"
+    },
+    {
+      "id": "skynews_9",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Alleged member of hacking group Scattered Spider arrested",
+      "title_fa": "عضو مظنون گروه هکری «اسکَتِرد اسپایدر» دستگیر شد",
+      "lead": "یک نوجوان ک�� گفته می‌شود عضو گروه هکری تبهکار \"اسکَتِرد اسپایدر\" است، توسط مقامات آمریکایی دستگیر شد. این گروه به ��ملاتی علیه M&S و حمل و نقل لندن مرتبط بوده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/alleged-member-of-international-cyber-hacking-group-scattered-spider-arrested-13559690",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      },
+      "pubDate": "Thu, 02 Jul 2026 00:38:00 +0100",
+      "time": "۰۳:۰۸ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T11:18:36.383Z"
     }
   ]
 }
