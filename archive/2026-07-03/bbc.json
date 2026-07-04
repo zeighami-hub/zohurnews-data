@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "bbc",
-  "total": 9,
+  "total": 13,
   "articles": [
     {
       "id": "bbc_11",
@@ -218,6 +218,102 @@
       "pubDate": "Thu, 02 Jul 2026 05:00:03 GMT",
       "time": "۰۸:۳۰ - ۱۱ تیر",
       "analyzed_at": "2026-07-03T11:18:36.383Z"
+    },
+    {
+      "id": "bbc_8",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
+      "title_fa": "وزیر: زوما با دیدار با برادر گوپتا «انگشت میانی» را به آفریقای جنوبی نشان می‌دهد",
+      "lead": "یکی از وزرا اظهار داشته که جاکوب زوما، رئیس‌جمهور سابق آفریقای جنوبی، با دیدار با برادر گوپتا «انگشت میانی» را به کشورش نشان می‌دهد. سفر زوما به هند خشم عمومی را در مورد یک رسوایی فساد ده ساله دوباره برانگیخته است.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:35:07 GMT",
+      "time": "۱۹:۰۵ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
+    },
+    {
+      "id": "bbc_14",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "title_fa": "پلیس به دنبال مظنون اوکراینی حمله بمب‌گذاری مونا��و که «با لباس مردانه تغییر قیا��ه د��ده بود»",
+      "lead": "پلیس به دنبال مظنون اوکراینی حمله بمب‌گذاری موناکو است که گفته می‌شود با لباس مردانه تغییر قیافه داده بود. مقامات بر این باورند که مظنون تنها عمل نکرده و روزها قبل از حمله، محل حادثه را شناسایی کرده بود.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:20:57 GMT",
+      "time": "۱۸:۵۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
+    },
+    {
+      "id": "bbc_11",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "German row over plan for workers to need sick note on first day of illness",
+      "title_fa": "جنجال در آلمان بر سر طرحی که ��ارگران را ملزم به دریافت گواهی استعلاجی در روز اول بیماری می‌کند",
+      "lead": "طرحی در آلمان که کارگران را ملزم می‌کند از روز اول بیماری گواهی استعلاجی ارائه دهند، با جنجال مواجه شده است. یک گروه پزشکان این طرح را \"نزدیک به جنون\" توصیف کرده و معتقدند بیماران مجبور خواهند شد شخصاً برای دریافت گواهی مراجعه کنند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:56:30 GMT",
+      "time": "۱۸:۲۶ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
+    },
+    {
+      "id": "bbc_7",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US withdraws troops from Nigeria after Islamic State mission",
+      "title_fa": "آمریکا پس از مأموریت علیه دولت اسلامی، نیروهای خود را از نیجریه خارج می‌کند",
+      "lead": "��یالات متحده اعلام کرد که عملیات مشترک آغاز شده در دسامبر سال گذشته با موفقیت به پایان رسیده است. به دنبال این مأموریت، نیروهای آمریکایی از نیجریه خارج می‌شوند.",
+      "category": "military",
+      "region": "africa",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:00:50 GMT",
+      "time": "۱۷:۳۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
     }
   ]
 }
