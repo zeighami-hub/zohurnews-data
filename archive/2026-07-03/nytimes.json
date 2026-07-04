@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_8",
@@ -146,6 +146,102 @@
       "pubDate": "Fri, 03 Jul 2026 00:14:32 +0000",
       "time": "۰۳:۴۴ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T09:07:44.654Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War’s Outset",
+      "title_fa": "ایران آماده دفن رهبر معظم انقلاب، آیت‌الله علی خامنه‌ای، می‌شود که در آغاز ج��گ ایران کشته شد",
+      "lead": "مراسم تشییع جنازه آیت��الله علی خامنه‌ای که در پی حملات آمریکا و اسرائیل در آغاز جنگ کشته شد، پس از تأخیری طول��نی قرار است از روز جمعه آغاز شود. این لحظه‌ای حیاتی برای ��ژیم است تا نشان دهد که دوام آورده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 02:47:51 +0000",
+      "time": "۰۶:۱۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T11:03:40.225Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Hopes for Investment in Iran Would Break With Decades of History",
+      "title_fa": "امیدواری آمریکا به سرمایه‌گذاری در ایران، تاریخی چند دهه‌ای را خواهد شکست",
+      "lead": "مقامات ارشد آمریکایی اعلام کرده‌اند که ایران در صورت تغییر موضع خود نسبت به ایالات متحده، پاداش‌های کلانی دریافت خواهد کرد. رهبران ایران ��ر گذشته چنین توافقی را رد کرده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Thu, 02 Jul 2026 14:14:38 +0000",
+      "time": "۱۷:۴۴ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T11:03:40.225Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Russia Hammers Ukraine’s Capital in Deadly Attacks",
+      "title_fa": "روسیه پایتخت اوکراین را در حملات مرگبار درهم کوبید",
+      "lead": "مقامات محلی اعلام کردند که دست‌کم ۲۱ نفر در کی‌یف کشته شده‌اند. رئیس‌جمهور اوکراین پیش از این هشدار داده بود که مسکو در حال آماده‌سازی برای یک «حمله گسترده» است، زیرا نیروهای کشورش به عمق خاک روسیه نفوذ کرده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 02:52:25 +0000",
+      "time": "۰۶:۲۲ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T11:03:40.225Z"
+    },
+    {
+      "id": "nytimes_5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As Far Right Rises, German Leaders Look to Jump-Start the Economy",
+      "title_fa": "با اوج‌گیری ��است افراطی، رهبر��ن آلمان به دنبال احیای اقتصاد هستند",
+      "lead": "توافقی میان صدراعظم فردریش مرتز و شرکای چپ‌میانه‌رو او، بر سازش‌های سیاسی دشو��ر شرط بسته است، به امید جلوگیری از قدرت‌گیری رقبای تندرو. این اقدام با هدف تحریک اقتصاد آلمان در بحبوحه چالش‌های سیاسی فزاینده صورت می‌گیرد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/europe/germany-overhaul-merz-economy-pensions.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 02 Jul 2026 12:21:06 +0000",
+      "time": "۱۵:۵۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T11:03:40.225Z"
     }
   ]
 }
