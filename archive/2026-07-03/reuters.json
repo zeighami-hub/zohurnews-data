@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "reuters",
-  "total": 41,
+  "total": 43,
   "articles": [
     {
       "id": "reuters_2",
@@ -938,6 +938,52 @@
         "negative": 10
       },
       "analyzed_at": "2026-07-03T16:50:53.770Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran prepares to bury slain supreme leader with week of mass mourning - Reuters",
+      "title_fa": "ایران آماده مراسم تشییع رهبر عالی‌مقام کشته‌شده با یک هفته عزای عمومی می‌شود",
+      "lead": "ایران در حال آماده‌سازی برای مراسم تشییع رهبر عالی‌مقام کشته‌شده با یک هفته عزای عمومی است. این رویداد مهم سراسر کشور را دربرمی‌گیرد و برنامه‌های گسترده‌ای برای بزرگداشت برگزار می‌شود.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDFZb2Q4bXdRa0pnRGtueDdUd3ZWQ1VyMHFsVlp5WGx6aGdtM2dxRW5YWDhLQVhSNV9CUFBNLWMwTnp4NTZ5NHN1UmxCR1RBYW12V0NEcE40NUZTNWI5NjhlNkx0TmFHV2NfTk5YWmtuczdEUGdEU1lpYlggN2JmNkJ1OUthT0E3V2pKNGVmSmF2QTdnR2hhVzV3Q3pqTkhQdlBjc1hrZS1fdDE0UHVJNzkyOWVBNVpP?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-03T17:49:07.534Z"
+    },
+    {
+      "id": "reuters_3",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran's Revolutionary Guards say they killed Kurdish militants in northwest Iran - Reuters",
+      "title_fa": "سپاه پاسداران ایران از کشته شدن شبه‌نظامیان کرد در شمال غرب ایران خبر داد",
+      "lead": "سپاه پاسداران انقلاب اسلامی ایران اعلام کرد که تعدادی از شبه‌نظامیان کرد را در شمال غرب کشور به هلاکت رسانده است. این عملیات در پاسخ به فعالیت‌های گروه‌های مسلح در مناطق مرزی انجام شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS0JnV1Rxc1p1a0NNYXNXTzM4UEZVdU5TVlMwdzZhNGVnVFY5NzU0WEhOQUFNMkFJdjI5V19UQWRHa3VjSHhSTG9oMGc2dFZ2SE1ra1B6UWptdGtsallUdUF4M3JUYzg1TTZVYzJZRkpLZm9iZzNVZ2dLUTV4T2NQU1RlN01qZUowTVdJM1d3cUFMMnctUTdSWnVXWVlubzZVQkVQMkNMblZ3NzBaVmw3OFFIc2JYbHlPdmJkajVYYmRweTV0TFRfZ1RZY2FvSE0?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 02 Jul 2026 11:56:46 GMT",
+      "time": "۱۵:۲۶ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T17:49:07.534Z"
     }
   ]
 }
