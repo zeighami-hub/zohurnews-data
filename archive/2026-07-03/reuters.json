@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "reuters",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "reuters_2",
@@ -94,6 +94,52 @@
         "negative": 60
       },
       "analyzed_at": "2026-07-03T11:03:40.225Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran war and AI boom drive wild ride on global markets - Reuters",
+      "title_fa": "جنگ ایران و رونق هوش مصنوعی بازارهای جهانی را به تلاطم انداخته است",
+      "lead": "جنگ در ایران و رونق هوش مصنوعی باعث نوسانات شدید در بازارهای جهانی شده است. این عوامل مجموعاً مسیر غیرقابل پیش‌بینی را برای اقتصاد جهانی رقم می‌زنند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTNpc0JlcmktcWZKeE1Ra0hLYzNaNkZYSDBIQlhTM1VnLV9tZ2NuNDBuTDljWmhRTGR1MmxHZkRSdw2mY0hFNWNpRzFpenZ2NFAtOVRjdDJjZWFyWXBLN1U2QVB6RmZLMFA5YXM1R05GaXh2TDBmelpfMlpobUhRZHNXdWtPRVhV?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-07-03T11:18:36.383Z"
+    },
+    {
+      "id": "reuters_8",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil gains on short-covering buys ahead of US holiday - Reuters",
+      "title_fa": "افزایش قیمت نفت در ��ستانه تعطیلات آمریکا",
+      "lead": "قیمت نفت در آستانه تعطیلات ایالات متح��ه به دلیل پوشش موقعیت‌های فروش (short-covering) افزایش یافت. این اتفاق نشان‌دهنده نوسانات معمول در بازارهای جهانی انرژی است.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJuTlNEejJjWHZfckJtT3BHcWVLbXpJQUZzOVEzaDJCMThGUmJaU1pXRXdKYV9RUG9Nc09WaVRaVHhYUXh5LW43QzNzU3dzNDd5dGVQaFpmQzNhenJRcW1HMVVOQ3pnNVptVHpCSk9mUC1BWl9xTUJyQmttcHdRWF9jdkZiS3dZMkQ2ekY5aWpPX284MnFMOVVBaw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "pubDate": "Thu, 02 Jul 2026 01:11:00 GMT",
+      "time": "۰۴:۴۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T11:18:36.383Z"
     }
   ]
 }
