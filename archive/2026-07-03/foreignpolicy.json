@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "foreignpolicy",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "foreignpolicy_9",
@@ -32,7 +32,7 @@
       "agencyId": "foreignpolicy",
       "keep": true,
       "title": "Is Sports Diplomacy Still Possible?",
-      "title_fa": "آیا دیپلماسی ورزشی همچنان امکان‌پذیر است؟",
+      "title_fa": "آیا دیپلماسی ورزشی همچنان امکان‌پذیر اس��؟",
       "lead": "«قدرت سخت» جای خود را در جام جهانی امسال نشان داده است. این موضوع این سوال را پیش می‌آورد که آیا در دنیای امروز، �����پلماسی ورزشی هنوز می‌تواند کارآمد باشد یا خیر.",
       "category": "politics",
       "region": "global",
@@ -177,7 +177,7 @@
       "keep": true,
       "title": "Between Independence and Freedom",
       "title_fa": "ب��ن استقلال و آزادی",
-      "lead": "این مقاله به چگونگی بازتاب یک تنش اساسی در اعلامیه استقلال آمریکا در سیاست خارجی ایالات متحده می‌پردازد. این تحلیل تاریخچه طولانی و پیچیده روابط بین این دو مفهوم را بررسی می‌کند.",
+      "lead": "این مقاله به چگونگی بازتاب یک تنش اساسی در اعلامیه استقلال آمریکا در سیاست خ��رجی ایالات متحده می‌پردازد. این تحلیل تاریخچه طولانی و پیچیده روابط بین این دو مفهوم را بررسی می‌کند.",
       "category": "politics",
       "region": "americas",
       "sourceUrl": "https://foreignpolicy.com/2026/07/02/america-250-declaration-independence-foreign-policy/",
@@ -264,6 +264,54 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-03T19:48:23.236Z"
+    },
+    {
+      "id": "foreignpolicy_0",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Is Cuba Really Next?",
+      "title_fa": "آیا کوبا واقعاً بعدی است؟",
+      "lead": "پیامدهای درگیری در ایران و نزدیک شدن انتخابات میان‌دوره‌ای آمریکا ممکن است محاسبات ترامپ را ��غییر دهد. این مقاله به بررسی احتمال تغییر سیاست آمریکا در قبال کوبا می‌پردازد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/01/michael-bustamante-cuba-trump-venezuela-rubio-regime-change-blockade/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Wed, 01 Jul 2026 17:40:59 +0000",
+      "time": "۲۱:۱۰ - ۱۰ تیر",
+      "analyzed_at": "2026-07-03T20:03:23.543Z"
+    },
+    {
+      "id": "foreignpolicy_6",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "How to Spin an Empire",
+      "title_fa": "چگونه یک امپراتوری را رو��یت کنیم",
+      "lead": "این مقاله به بررسی امپریالیسم آمریکا به عنوان الهام‌بخش و مانعی برای سیاست خارجی می‌پردازد. چگونگی بازنمایی و توجیه قدرت جهانی آمریکا محور اصلی این تحلیل است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/01/trump-cuba-imperialism-history-empire-cold-war-books/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 13:57:36 +0000",
+      "time": "۱۷:۲۷ - ۱۰ تیر",
+      "analyzed_at": "2026-07-03T20:03:23.543Z"
     }
   ]
 }
