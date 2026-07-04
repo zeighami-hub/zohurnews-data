@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T11:33:32.899Z",
-  "total": 916,
-  "new_this_cycle": 4,
+  "generated_at": "2026-07-04T11:48:18.780Z",
+  "total": 914,
+  "new_this_cycle": 3,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,78 @@
     }
   ],
   "articles": [
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Can the World’s Largest Stadium Explain the Global Economy?",
+      "title_fa": "آیا بزرگترین استادیوم جهان می‌تواند اقتصاد جهانی را توضیح دهد؟",
+      "lead": "نرخ‌های رشد بالا و صادرات فزاینده در ویتنام، نارضایتی‌های عمیقی را در یکی از جاه‌طلب‌ترین کشورهای آسیا پنهان می‌کند. این وضعیت می‌تواند به عنوان نمونه‌ای برای درک پیچیدگی‌های اقتصاد جهانی عمل کند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "pubDate": "Thu, 02 Jul 2026 19:43:36 +0000",
+      "time": "۲۳:۱۳ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T11:48:15.578Z"
+    },
+    {
+      "id": "skynews_1",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Cubans face endless blackouts, collapsing salaries and empty shops – but they're refusing to give up",
+      "title_fa": "کوبا با قطعی‌های بی‌پایان برق، حقوق‌های در حال سقوط و فروشگاه‌های خالی روبرو است، اما مردم تسلیم نمی‌شوند",
+      "lead": "مردم کوبا با بحرانی مداوم شامل قطعی‌های بی‌پایان برق، حقوق‌های ناچیز و کمبود کالا در فروشگاه‌ها مواجه هستند. با این حال، با وجود این مشکلات طاقت‌فرسا، مردم این کشور همچنان مقاومت می‌کنند و تسلیم نمی‌شوند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/cuba-faces-an-unceasing-crisis-but-its-people-are-refusing-to-give-up-13559697",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "pubDate": "Thu, 02 Jul 2026 04:59:00 +0100",
+      "time": "۰۷:۲۹ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T11:48:15.578Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "China’s ethnic unity law denounced as ‘forced assimilation’ by rights groups",
+      "title_fa": "قانون «وحدت قومی» چین توسط گروه‌های حقوق بشری به عنوان «همگون‌سازی اجباری» محکوم شد",
+      "lead": "قانون جدید «وحدت قومی» در چین با وجود هشدارهای تایوان، سازمان ملل و گروه‌های حقوق بشری، به مرحله اجرا درآمد. منتقدان بیم آن دارند که این قانون حقوق اویغورها و تبتی‌ها را بیشتر تضعیف کند و به پکن اجازه دهد مخالفان را در خارج از کشور نیز تحت پیگرد قرار دهد.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/china-ethnic-unity-law-denounced-rights-groups",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 01:17:38 GMT",
+      "time": "۰۴:۴۷ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T11:48:15.578Z"
+    },
     {
       "id": "nytimes_0",
       "agencyId": "nytimes",
@@ -370,7 +442,7 @@
       "keep": true,
       "title": "Republican’s ‘let them eat lobster’ comment leaves sour taste",
       "title_fa": "اظهارنظر نماینده جمهوری‌خواه با مضمون «بگذارید خرچنگ بخورند» طعم تلخی بر جای گذاشت.",
-      "lead": "تروی نلس، قانون‌گذار حزب جمهوری‌خواه، استدلال کرده است که آمریکایی‌های فقیری که توانایی خرید استیک و خرچنگ را ندارند، باید سخت‌تر کار کنند. این اظهارنظر جنجال برانگیخته و واکنش‌های منفی زیادی را به دنبال داشته است.",
+      "lead": "تروی نلس، قانون‌گذار حزب جمهوری‌خواه، استدلال کرده است که آمریکایی‌ه��ی فقیری که توانایی خرید استیک و خرچنگ را ندارند، باید سخت‌تر کار کنند. این اظهارنظر جنجال برانگیخته و واکنش‌های منفی زیادی را به دنبال داشته است.",
       "category": "politics",
       "region": "americas",
       "sourceUrl": "https://www.rt.com/news/642503-troy-nehls-steak-lobster/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
@@ -4166,7 +4238,7 @@
       "keep": true,
       "title": "London Pride live: Thousands to line streets for iconic LGBTQ+ march",
       "title_fa": "پوشش زنده رژه افتخار لندن: هزاران نفر در خیابان‌ها برای راهپیمایی نمادین دگرباشان جنسی صف می‌کشند",
-      "lead": "انتظار می‌رود بیش از یک میلیون نفر برای رژه افتخار نمادین دگرباشان جنسی به خیابان‌های لندن بیایند. این رویداد بزرگ قرار است با حضور هزاران نفر در شهر برگزار شود.",
+      "lead": "انتظار می‌ر��د بیش از یک میلیون نفر برای رژه افتخار نمادین دگرباشان جنسی به خیابان‌های لندن بیایند. این رویداد بزرگ قرار است با حضور هزاران نفر در شهر برگزار شود.",
       "category": "society",
       "region": "europe",
       "sourceUrl": "https://www.independent.co.uk/news/uk/home-news/london-pride-2026-latest-uk-b3008662.html",
@@ -5020,7 +5092,7 @@
       "keep": true,
       "title": "تغییر قیمت خودروهای پرفروش در بازار/ آخرین قیمت سمند، پژو، کوییک، شاهین و تارا + جدول",
       "title_fa": "تغییر قیمت خودروهای پرفروش در بازار؛ آخرین قیمت سمند، پژو، کوییک، شاهین و تارا",
-      "lead": "بازار خودرو امروز شنبه ۱۳ تیرماه ۱۴۰۵ با وجود ادامه رکود معاملات، بار دیگر شاهد افزایش قیمت بود. این تغییرات بر قیمت خودروهای پرفروشی چون سمند، پژو، کوییک، شاهین و تارا تأثیر گذاشت.",
+      "lead": "بازار خودرو امروز شنبه ۱۳ تیرماه ۱۴۰۵ با وجود ادامه رکود معاملات، بار دیگر شاهد افزایش قیمت بود. این تغییرات بر قیمت خودروهای پرفروشی چون سم��د، پژو، کوییک، شاهین و تارا تأثیر گذاشت.",
       "category": "economy",
       "region": "middle east",
       "sourceUrl": "https://www.khabaronline.ir/news/2241758/%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%82%DB%8C%D9%85%D8%AA-%D8%B3%D9%85%D9%86%D8%AF%D9%88-%DA%A9%D9%88%DB%8C%DB%8C%DA%A9",
@@ -11393,7 +11465,7 @@
         "negative": 80
       },
       "pubDate": "Fri, 03 Jul 2026 19:57:51 GMT",
-      "time": "۲۳:۲۷ - ۱۲ تیر",
+      "time": "۲۳:۲�� - ۱۲ تیر",
       "analyzed_at": "2026-07-03T21:02:24.264Z"
     },
     {
@@ -15215,7 +15287,7 @@
       "lead": "افراد محلی پیکر یک سرما��ه‌گذار شیرازی را در پایین‌دست محل واژگونی تراکتور در رودخانه سیمر�� پیدا کردند. این کشف پس از ساعت‌ها جستجو و با حضور ��یروهای امدادی صورت گرفت.",
       "category": "accidents",
       "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174853/کشف-پیکر-سرمایه-گذار-شیرازی-در-رودخانه-سیمره",
+      "sourceUrl": "https://www.asriran.com/fa/news/1174853/کشف-پیکر-س��مایه-گذار-شیرازی-در-رودخانه-سیمره",
       "newsValues": {
         "timeliness": "high",
         "impact": "low",
@@ -16470,7 +16542,7 @@
       "keep": true,
       "title": "CENTCOM weighs regional bases relocation after Iran war",
       "title_fa": "سنتکام ��ابجایی پایگاه‌های منطقه‌ای پس از جنگ ایران را بررسی می‌کند",
-      "lead": "سنتکا�� پس از جنگ ایران، در حال بررسی جابجایی پایگاه‌های خود در خلیج فارس است. این اقدام با اذعان به تغییر در بازدارندگی و آسیب‌پذیری بیشتر آمریکا در برابر حملات صورت می‌گیرد.",
+      "lead": "سنتکا�� پس از جنگ ایران، در حال بررسی جابجایی پایگاه‌های خود در خلیج فارس است. این اقدام با ��ذعان به تغییر در بازدارندگی و آسیب‌پذیری بیشتر آمریکا در برابر حملات صورت می‌گیرد.",
       "category": "military",
       "region": "iran",
       "sourceUrl": "https://en.mehrnews.com/news/245845/CENTCOM-weighs-regional-bases-relocation-after-Iran-war",
@@ -16750,7 +16822,7 @@
       "id": "irna_12",
       "agencyId": "irna",
       "keep": true,
-      "title": "اسرائیل در ۱۰۰۰ روز جنگ، دستاوردی نداشت/ شکست مطلق نصیب ما شد",
+      "title": "اسرائیل در ۱۰۰۰ روز جنگ، دستاوردی نداشت/ شکست مطل�� نصیب ما شد",
       "title_fa": "اسرائیل در ۱۰۰۰ روز جنگ، دستاوردی نداشت؛ ایران قوی‌تر بیرون آمد",
       "lead": "تحلیلگران و رسانه‌های رژیم صهیونیستی اذعان کردند که اسرائیل در طول ۱۰۰۰ روز جنگ‌افروزی در منطقه به اهداف خود نرسید. آنها اشاره کردند که ایران از این جنگ قوی‌تر بیرون آمد و هیچ یک از اهداف جنگ‌افروزی علیه این کشور محقق نشد.",
       "category": "politics",
@@ -17339,7 +17411,7 @@
       "agencyId": "isna",
       "keep": true,
       "title": "بسیج ظرفیت‌های مردمی و فرهنگی تهران برای میزبانی شایسته از زائران آیین وداع با رهبرشهید",
-      "title_fa": "بسیج ظرفیت‌های مردمی و فرهنگی تهران برای میزبانی شایسته از زائران آیین وداع با رهبر شهید",
+      "title_fa": "بسیج ظرفیت‌های مردمی و فر��نگی تهران برای میزبانی شایسته از زائران آیین وداع با رهبر شهید",
       "lead": "معاون امور اج��ماعی و فرهنگی شهرداری تهران از بسیج کامل ظرفیت‌های مردمی، فرهنگی و اجتماعی برای میزبانی از زائران آیین وداع با رهبر شهید خبر داد. برنامه‌ریزی‌ها در پنج محور اصلی شامل اسکان و خدمات مردمی صورت گرفته است.",
       "category": "politics",
       "region": "iran",
@@ -18402,7 +18474,7 @@
       "keep": true,
       "title": "NHS vows discounts and shopping vouchers for people who walk 20 minutes a day",
       "title_fa": "سازمان ملی بهداشت بریتانیا (NHS) برای کسانی که روزانه ۲۰ دقیقه پیاده‌روی می‌کنند، تخفیف و بن خرید وعده داد",
-      "lead": "سازمان ملی بهداشت بریتانیا (NHS) برنامه‌ای را برای تشویق مردم به فعالیت بدنی معرفی کرده است. طبق این طرح، افرادی که ر��زانه حداقل ۲۰ دقیقه پیاده‌روی کنند، تخفیف و بن خرید دریافت خواهند کرد.",
+      "lead": "سازمان ملی بهداشت بریتانیا (NHS) برنامه‌ای را برای تشویق مردم به فعالیت بدنی معرفی کرده است. طبق این طرح، افرادی که ر��زانه ��داقل ۲۰ دقیقه پیاده‌روی کنند، تخفیف و بن خرید دریافت خواهند کرد.",
       "category": "health",
       "region": "europe",
       "sourceUrl": "https://www.independent.co.uk/bulletin/news/nhs-walking-exercise-rewards-discounts-b3008525.html",
@@ -19261,7 +19333,7 @@
       "agencyId": "khabaronline",
       "keep": true,
       "title": "ببینید | ادای احترام قائم‌مقام وزارت خارجه عربستان و هیئت همراه به پیکر رهبر شهید انقلاب",
-      "title_fa": "ادای احترام قائم‌مقام وزارت خارجه عربستان و هیئت همراه به پیکر رهبر شهید انقلاب",
+      "title_fa": "ادای احترام قائم‌مقام وزارت خارجه عربس��ان و هیئت همراه به پیکر رهبر شهید انقلاب",
       "lead": "قائم‌مقام وزارت خارجه عربستان و هیئت همراه به پیکر رهبر شهید انقلاب ادای احترام کردند. این اقدام نشان‌دهنده ابراز همدردی و حضور مقامات خارجی در مراسم است.",
       "category": "politics",
       "region": "global",
@@ -19541,7 +19613,7 @@
         "negative": 60
       },
       "pubDate": "Fri, 03 Jul 2026 15:03:17 GMT",
-      "time": "۱۸:۳۳ - ۱۲ تیر",
+      "time": "۱۸:۳۳ - ��۲ تیر",
       "analyzed_at": "2026-07-03T16:18:10.989Z"
     },
     {
@@ -21637,124 +21709,6 @@
       "pubDate": "Mon, 29 Jun 2026 01:31:00 GMT",
       "time": "۰۵:۰۱ - ۸ تیر",
       "analyzed_at": "2026-07-03T11:48:17.512Z"
-    },
-    {
-      "id": "reuters_0",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Iran warns US, Israel against attacks ahead of funeral processions for Khamenei - Reuters",
-      "title_fa": "ایران به آمریکا و اسرائیل درباره حملات احتمالی پیش از مراسم تشییع خامنه‌ای هشدار داد",
-      "lead": "ایران به آمریکا و اسرائیل هشدار داده است که پیش از برگزاری ��راسم تشییع آیت‌ال��ه خا��نه‌ای، از هرگونه حمله احتمالی خودداری کنند. ��ین هشدار در بحبوحه افزایش تنش‌ها در منطقه خاورم��انه صادر شده است.",
-      "category": "military",
-      "region": "middleeast",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjd1X1pITDBSckd0dXdzYzdCbTZ2T3o2UmFUWG5yaHRuZFZWR1pMclo4Z3BLNGYzeS1WREhPZ291WFlJcmZGOGNHclp0dEp4cVhaQTdweUx5Rl90U2tnRGdJOEtjZHNnbC05aUJRMXZJbHl3aUtKMzlxRl94SUl5N251SENtMVBqVVFHdldIcDJCTnpaamphc2VVWUlReGZCMkZpOEJYMlBxcGlOaVktWUdIR2RseW94clhPenQzVlVhOWM?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "Thu, 02 Jul 2026 17:56:56 GMT",
-      "time": "۲۱:۲۶ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T11:33:39.834Z"
-    },
-    {
-      "id": "reuters_1",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "The next Iran war may come sooner than you think - Reuters",
-      "title_fa": "جنگ بعدی ایران ممکن است زودتر از آنچه فکر می‌کنید آغاز شود",
-      "lead": "تحلیلگران و گزارش‌ها هشدار می‌دهند که احتمال وقوع درگیری نظامی گسترده با ایران در آینده‌ای نزدیک افزایش یافته است. این پیش‌بینی‌ها بر پایه تحولات اخیر منطقه‌ا�� و بین‌المللی بنا شده‌اند.",
-      "category": "military",
-      "region": "iran",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaGhZVGxYcGxXVFlVSXdiMDkxN0Z1QnJwX1k1Nm1pWTRJX0hBR0c4QW5CUFg2Ukw3dmxJUUstR2EtUDY2TDNuMjBVWmRTNnNNeTR4MkVGU3AwYkV5Wmo4OU9ZYWR1enRRNk9PUlNLcnBpVElzTnNaVTBTOVNkcmtyVE9FSXRVUWpKQ3ZWeDA1QWxVblNaTURUWk92YlR5VF9VRDNJczJTaDhYakQtbk9PVHo5a0R4MldOcW12amV5bVhYRm05VVJOTQ?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Wed, 01 Jul 2026 11:01:57 GMT",
-      "time": "۱۴:۳۱ - ۱۰ تیر",
-      "analyzed_at": "2026-07-03T11:33:39.834Z"
-    },
-    {
-      "id": "reuters_2",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Iran war and AI boom drive wild ride on global markets - Reuters",
-      "title_fa": "جنگ ایران و رونق هوش مصنوعی، نوسانات شدیدی در بازارهای جهانی ایجاد کرده است",
-      "lead": "ترس از جنگ احتمالی با ایران و همزمان رونق بی‌سابقه در حوزه هوش مصنوعی، باعث ایجاد نوسانات گسترده���ای در بازارهای مالی جهانی شده است. سرمایه‌گذاران با عدم قطعیت‌های ژئوپلیتیکی و تغییرات تکنولوژیکی دست و پنجه نرم می‌کنند که بر تصمیمات آنها تأثیر می‌گذارد.",
-      "category": "finance",
-      "region": "global",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTNpc0JlcmktcWZKeE1Ra0hLYzNaNkZYSDBIQlhTM1VnLV9tZ2NuNDBuTDljWmhRTGR1MmxHZkRSdzJmY0hFNWNpRzFpenZ2NFAtOVRjdDJjZWFyWXBLN1U2QVB6RmZLMFA5YXM1R05GaXh2TDBmelpfMlpobUhRZHNXdWtPRVhV?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 40,
-        "negative": 60
-      },
-      "pubDate": "Tue, 30 Jun 2026 15:09:04 GMT",
-      "time": "۱۸:۳۹ - ۹ تیر",
-      "analyzed_at": "2026-07-03T11:33:39.834Z"
-    },
-    {
-      "id": "reuters_3",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "U.S. says Trump envoys Kushner and Witkoff will travel for Iran meeting in Doha - Reuters",
-      "title_fa": "آمریکا اعلام کرد: فرستادگان ��رامپ، کوشنر و ویتکف، برای نشست ایران به دوحه سفر می���کنند",
-      "lead": "ایالات متحده گزارش داده است که جرد کوشنر و ریچارد ویتکف، فرستادگان رئ��س‌جمهو�� سابق دونالد ترامپ، برای شرکت در نشستی مرتبط با ای��ان به دوحه سفر خواهند کرد. این دیدارها ا��تمالاً با هدف بحث و گفتگو درباره مسائل مربوط به ایران و منطقه برگزار می‌شوند.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWlTN0M4a0lya0J1UmV6eHppZW40VjJFMjlVcWNZU0o5bHQ1OGhfdnZDcGJOU3ZEYlF1Ylh5aTlHcXpBeDgtdTdMeFZBQkNfdlUxUWhZOGxyS3l1R0JZMmxyaG10LXc2TEVQRjU5anpxR0RVYS1zRnpZRWZaN25lT1lCRTZ6cWlEM0U1YmhLdHRmSzB3T2VvTktjYVdvTC1VUmhGTUxqYko3N1V5R2xPQW9BdzVhaTV4VzZpRg?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-03T11:33:39.834Z"
-    },
-    {
-      "id": "foreignpolicy_4",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "India Should Stop Panicking About Trump",
-      "title_fa": "هند باید از وحشت درباره ترامپ دست بردارد",
-      "lead": "این مقاله استدلال می‌کند که احساسات‌گرایی ��ر سیاست هند، منطق استراتژیک رواب�� ایالات متحده و هند را تحت‌الشعاع قرار داده است. نویسنده تاکید می‌کند که هند باید با رویکردی عقلانی‌تر به آینده روابط با آمریکا تحت ریاست جمهوری احتمالی ترامپ نگاه کند.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/01/india-trump-modi-united-states-china-geopolitics-brics-quad/",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 09:26:05 +0000",
-      "time": "۱۲:۵۶ - ۱۰ تیر",
-      "analyzed_at": "2026-07-03T11:33:39.834Z"
     }
   ]
 }
