@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "reuters",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "reuters_2",
@@ -548,6 +548,52 @@
         "negative": 90
       },
       "analyzed_at": "2026-07-03T13:48:13.836Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Gold slips as US-Iran tensions spark inflation, rate hike fears - Reuters",
+      "title_fa": "کاهش قیمت طلا در پی افزایش تنش‌های آمریکا و ایران و نگرانی از تورم و افزایش نرخ بهره",
+      "lead": "ق��مت طلا به دلیل افزایش تنش‌ها بین ایالات متحده و ایران، با کاهش روبرو شده است. این وضعیت نگرانی‌هایی را در مورد تورم و احتمال افزایش نرخ بهره ای��اد کرده است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWpkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 01:56:29 GMT",
+      "time": "۰۵:۲۶ - ۹ تیر",
+      "analyzed_at": "2026-07-03T14:03:26.083Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Wall Street ends choppy session lower as tech shares drop - Reuters",
+      "title_fa": "وال استریت در پایان جلسه پرنوسان با افت سهام تکنول��ژی پایین آمد",
+      "lead": "وال اس��ریت جلسه معاملاتی پرنوسان خود را با کاهش به پایان رساند. این افت عمدتاً ناشی از کاهش ارزش سهام شرکت‌های تکنولوژی بود.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlRDSDhyZXpFd2lVaWQyUllERFNzcHA4T2ZZZzZhWGdGaDRRcDVKY202NmFRbGFwSnRZcmhOeTBIVG1kci1qc0Zld2lKX2Z0bW1reTRiYmJCV21UNW16dFd5cWFXVW9JbXI0R0RxWGhFa1NsWXB2NFJXZTM1dHI2cmY1NmVDRHFFTm9MZEJMSnlLZUxiSGtIb1pPM1NsdFliWlI0OWR2R0V4T2tneUkw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-03T14:03:26.083Z"
     }
   ]
 }
