@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "bbc",
-  "total": 17,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_11",
@@ -410,6 +410,102 @@
       "pubDate": "Fri, 03 Jul 2026 06:38:45 GMT",
       "time": "۱۰:۰۸ - ۱�� تیر",
       "analyzed_at": "2026-07-03T17:49:07.534Z"
+    },
+    {
+      "id": "bbc_10",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
+      "title_fa": "آفریقای جنوبی و غنا بر سر قتل ادعایی یک مهاجر درگیر اختلافات دیپلماتیک شدند",
+      "lead": "آفریقای جنوبی و غنا بر سر گزارش‌هایی مبنی بر کشته شدن یک شهروند غنایی در اعتراضات ضد مهاجران در کیپ‌تاون وارد نزاع دیپلماتیک شده‌اند. آفریقای جنوبی این ادعاها را تکذیب می‌کند.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 13:11:16 GMT",
+      "time": "۱۶:۴۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T18:04:36.829Z"
+    },
+    {
+      "id": "bbc_13",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Nine Thai monks killed after 11-year-old driver collides with procession",
+      "title_fa": "مرگ ۹ راهب تایلندی پس از تصادف راننده ۱۱ ساله با کاروان مذهبی",
+      "lead": "۹ راهب تایلندی در پی برخورد یک رانند�� ۱۱ ساله با کاروان مذهبی‌شان کشته شدند. این گروه ۳۵ راهب و پنج پیرو مذهبی در کنار جا��ه در حال حرکت بودند که کامیون به آنها برخورد کرد.",
+      "category": "accident",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c23y90lygpzo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 11:43:40 GMT",
+      "time": "۱۵:۱۳ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T18:04:36.829Z"
+    },
+    {
+      "id": "bbc_4",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+      "title_fa": "چین: خلبان هواپیمای کوچک را به دلیل «مسائل شخصی» به آسمان‌خراش کوبید",
+      "lead": "مقامات چین اعلام کردند که خلبان ۶۶ ساله که در این حادثه جان باخت، دچار اضطراب بود. او در دفتر خاطرات خود به «پایان دادن به زندگی‌اش» اشاره کرده بود.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 02 Jul 2026 09:21:31 GMT",
+      "time": "۱۲:۵۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T18:04:36.829Z"
+    },
+    {
+      "id": "bbc_5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+      "title_fa": "مرگ پسر ۱۱ ساله کانادایی بر اثر هاری پس از بیدار شدن با خفاشی بر صورتش",
+      "lead": "عفونت‌های هاری در کانادا نادر است و از سال ۱۹۲۴ تاکنون تنها ۲۸ مورد مرگ و میر انسانی در این کشور به دلیل هاری ثبت شده است. این حادثه پس از بیدار شدن پسر با خفاشی بر صورتش رخ داد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 02 Jul 2026 03:07:39 GMT",
+      "time": "۰۶:۳۷ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T18:04:36.829Z"
     }
   ]
 }
