@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "guardian",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "guardian_4",
@@ -192,6 +192,54 @@
       "pubDate": "Fri, 03 Jul 2026 00:00:13 GMT",
       "time": "۰۳:۳۰ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T09:18:37.860Z"
+    },
+    {
+      "id": "guardian_7",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Young Indonesian couple publicly caned after kissing on TikTok",
+      "title_fa": "زوج جوان اندونزیایی پس از بوسیدن در تیک‌تاک، در ملاء عام شلاق خوردند",
+      "lead": "یک مرد و زن مجرد، هر یک ۲۱ ضربه شلاق خوردند، زیرا آنها نسخه محلی از قوانین اسلامی را نقض کرده بودند. این زوج جوان در استان محافظه‌کار آچه اندونزی، پس از محکومیت توسط یک دادگاه شریعت به دلیل نقض قوانین اسلامی، در ملاء عام شلاق زد�� شدند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/young-indonesian-couple-publicly-caned-after-kissing-on-tiktok",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 09:18:36 GMT",
+      "time": "۱۲:۴۸ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T11:03:40.225Z"
+    },
+    {
+      "id": "guardian_8",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
+      "title_fa": "درک منشأ حیات وحش ابولا برای پیشگیری از شیوع بزرگ بعدی حیاتی است",
+      "lead": "اگر منبع ش��وع ابولا را نشناسیم، نه تنها انسان‌ها در معرض خطر باقی می‌مانند، بلکه حیات وحش نیز می‌تواند بی‌جهت از طریق اقدامات تلافی‌جویانه آسیب ببیند. درک منشأ اب��لا در حیات وحش برای جلوگیری از شیوع بزرگ بعدی این بیماری حیاتی است.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Thu, 02 Jul 2026 09:00:00 GMT",
+      "time": "۱۲:۳۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T11:03:40.225Z"
     }
   ]
 }
