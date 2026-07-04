@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "nytimes",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_8",
@@ -297,7 +297,7 @@
       "keep": true,
       "title": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
       "title_fa": "مقامات آمریکایی معتقد بودند اسرائیل قصد ترور مذاکره‌کنندگان ایرانی را داشت",
-      "lead": "مقامات آمریکایی نگران بودند که ه��گونه تل��ش اسرائیل برای ترور عباس ��راقچی، وزیر امور خارجه، یا محمد قالیباف، رئیس مجلس، مذاکرات صلح را از مسیر خود خارج کند. این اتهامات می‌تواند تنش‌های منطقه‌ای را به شدت افزایش دهد.",
+      "lead": "مقامات آمریکایی نگران بودند که ه��گون�� تل��ش اسرائیل برای ترور عباس ��راقچی، وزیر امور خارجه، یا محمد قالیباف، رئیس مجلس، مذاکرات صلح را از مسیر خود خارج کند. این اتهامات می‌تواند تنش‌های منطقه‌ای را به شدت افزایش دهد.",
       "category": "diplomacy",
       "region": "middleeast",
       "sourceUrl": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
@@ -554,6 +554,30 @@
       "pubDate": "Fri, 03 Jul 2026 17:19:51 +0000",
       "time": "۲۰:۴۹ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T21:02:24.264Z"
+    },
+    {
+      "id": "nytimes_10",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Hitler Bunker Faces Demolition in Housing-Challenged Berlin",
+      "title_fa": "یک ��ناهگاه هیتلر در برلین در آستانه تخریب به دلیل کمبو�� مسکن",
+      "lead": "یک پناهگاه مربوط به دوران هیتلر در برلین، به دلیل نیاز به مسکن، با خطر تخریب مواجه است. کارشناسان حفاظت از آثار تاریخی می‌گویند این اقدام نشان‌دهنده تنش در آلمان بین حفظ بناهای تاریخی مهم و نیاز به ساخت���و��از و مدرن‌سازی است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/hitler-bunker-berlin-germany.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Fri, 03 Jul 2026 17:47:13 +0000",
+      "time": "۲۱:۱۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:07:42.391Z"
     }
   ]
 }
