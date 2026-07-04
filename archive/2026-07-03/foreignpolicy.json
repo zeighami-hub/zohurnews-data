@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "foreignpolicy",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "foreignpolicy_9",
@@ -98,6 +98,30 @@
       "pubDate": "Wed, 01 Jul 2026 09:26:05 +0000",
       "time": "۱۲:۵۶ - ۱۰ تیر",
       "analyzed_at": "2026-07-03T11:33:39.834Z"
+    },
+    {
+      "id": "foreignpolicy_7",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Venezuela’s Bungled Earthquake Response",
+      "title_fa": "واکنش ناموفق ونزوئلا به زلزله",
+      "lead": "بلایای طبیعی در مناطق دیگر جهان، تغییرات سیاسی را تسریع کرده‌اند. در ونزوئلا، مدیریت ضعیف واکنش به زلزله می‌تواند پیامدهای سیاسی جدی برای دولت داشته باشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/03/venezuela-earthquakes-rodriguez-machado-politics/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 12:00:53 +0000",
+      "time": "۱۵:۳۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:39:08.080Z"
     }
   ]
 }
