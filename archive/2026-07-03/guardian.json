@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "guardian",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "guardian_4",
@@ -168,6 +168,30 @@
         "negative": 30
       },
       "analyzed_at": "2026-07-03T09:07:44.654Z"
+    },
+    {
+      "id": "guardian_9",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
+      "title_fa": "نارندرا مودی به جمع‌آوری جوایز در سفرهای خارجی شهرت دارد",
+      "lead": "نارندرا مودی، نخست‌وزی�� هند، عادت دارد در سفرهای خارجی خود جوایز و افتخارات مختلفی را دریافت کند. او اخیراً در ��دو ورود به سیشل، یکی از عالی‌��رین جوایز این کشور را دریافت کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Fri, 03 Jul 2026 00:00:13 GMT",
+      "time": "۰۳:۳۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T09:18:37.860Z"
     }
   ]
 }
