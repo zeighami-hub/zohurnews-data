@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "bbc_11",
@@ -194,6 +194,30 @@
       "pubDate": "Fri, 03 Jul 2026 04:41:05 GMT",
       "time": "۰۸:۱۱ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T11:03:40.225Z"
+    },
+    {
+      "id": "bbc_3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+      "title_fa": "قاچاقچی انسان که در فرانسه محکوم شده بود، توسط بی‌بی‌سی در بریتانیا در حال درخواست پناهندگی یافت شد",
+      "lead": "یک قاچاقچی انسان که قبلاً در فرانسه محکوم شده و به \"پدرخوانده\" اردوگاه‌های مهاجران فرانسوی معروف بود، اکنون در بریتانیا زندگی می‌کند. او در یک روستای لسترشایر مشغول به کار بوده �� در حال درخواست پناهندگی است که توسط بی‌بی‌سی کشف شد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 02 Jul 2026 05:00:03 GMT",
+      "time": "۰۸:۳۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T11:18:36.383Z"
     }
   ]
 }
