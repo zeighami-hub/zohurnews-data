@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "bbc",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "bbc_11",
@@ -578,6 +578,54 @@
       "pubDate": "Fri, 03 Jul 2026 12:28:43 GMT",
       "time": "۱۵:۵۸ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T21:02:24.264Z"
+    },
+    {
+      "id": "bbc_13",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
+      "title_fa": "انفجار بمب در کافه‌ای در دمشق ۹ کشته بر جای گذاشت",
+      "lead": "بر اساس گزارش رسانه‌های دولتی سوریه، انفجار بمبی در کافه‌ای در دمشق منجر به کشته شدن نه نفر شد. این حادثه در نزدیکی کاخ دادگستری، یک ساختمان مهم دولتی، رخ داده است و تاکنون هیچ گروهی مسئولیت آن را بر عهده نگرفته است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 03 Jul 2026 06:42:14 GMT",
+      "time": "۱۰:۱۲ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:19:38.937Z"
+    },
+    {
+      "id": "bbc_2",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Killers of British couple in South Africa sentenced to life",
+      "title_fa": "قاتلان زوج بریتانیایی در آفریقای جنوبی به حبس ابد محکوم شدند",
+      "lead": "قاتلان یک زوج بریتانیایی در آفریقای جنوبی به حبس ابد محکوم شده‌اند. این زوج پیش از پیدا شدن اجسادشان در رودخانه، مشغول جمع‌آوری گیاهان و دانه‌های کمیاب بودند.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "pubDate": "Thu, 02 Jul 2026 18:43:07 GMT",
+      "time": "۲۲:۱۳ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T21:19:38.937Z"
     }
   ]
 }
