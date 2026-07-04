@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_8",
@@ -578,6 +578,30 @@
       "pubDate": "Fri, 03 Jul 2026 17:47:13 +0000",
       "time": "۲۱:۱۷ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T21:07:42.391Z"
+    },
+    {
+      "id": "nytimes_14",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Man Rescued 8 Days After Quake, a Ray of Joy in Stricken Venezuela",
+      "title_fa": "نجات مردی ۸ روز پس از زلزله در ونزوئلا، کورسوی امید در میان فاجعه",
+      "lead": "یک نگهبان ۴۴ ساله هشت روز پس از زلزله از زیر آوار ساختمانی در ونزوئلا زنده بیرون کشیده شد. این نجات، لحظه‌ای امیدبخش را در میان آمار بالای تلفات زلزله‌زده ونزوئلا ایجاد کرد.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-survivor.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 10,
+        "negative": 50
+      },
+      "pubDate": "Thu, 02 Jul 2026 22:34:11 +0000",
+      "time": "۰۲:��۴ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:19:38.937Z"
     }
   ]
 }
