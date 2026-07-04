@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T16:19:24.465Z",
-  "total": 1126,
-  "new_this_cycle": 9,
+  "generated_at": "2026-07-04T16:34:25.297Z",
+  "total": 1139,
+  "new_this_cycle": 13,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,316 @@
     }
   ],
   "articles": [
+    {
+      "id": "independent_0",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Trump spokeswoman Leavitt returns and glibly trolls ‘lazy’ Gen Zers: ‘Send them to Iran’",
+      "title_fa": "سخنگوی ترامپ، لیویت، با طعنه به نسل Z تنبل بازگشت: «آن‌ها را به ایران بفرستید»",
+      "lead": "سخنگوی ترامپ، کارولین لیویت، با اظهارنظری جنجالی نسل Z را \"تنبل\" خواند. او به طعنه پیشنهاد کرد که \"آن‌ها را به ایران بفرستید.\"",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/karoline-leavitt-gen-z-fox-news-b3008479.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Sat, 04 Jul 2026 15:39:14 GMT",
+      "time": "۱۹:۰۹ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
+      "title_fa": "مقامات آمریکایی معتقد بودند اسرائیل در حال توطئه برای کشتن مذاکره‌کنندگان ایرانی است",
+      "lead": "مقامات آمریکایی نگران بودند که اسرائیل قصد ترور عباس عراقچی، وزیر خارجه، و محمد قالیباف، رئیس مجلس ایران را داشته باشد. آن‌ها بیم داشتند که چنین اقدامی مذاکرات صلح را از مسیر خود خارج کند.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 18:10:21 +0000",
+      "time": "۲۱:۴۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "rt_2",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US feared plot to kill Iranian negotiators – NYT",
+      "title_fa": "آمریکا از توطئه برای کشتن مذاکره‌کنندگان ایرانی نگران بود – نیویورک تایمز",
+      "lead": "نیویورک تایمز گزارش داده که آمریکا نگران توطئه اسرائیل برای ترور مذاکره‌کنندگان ایرانی بوده است. این نگرانی با هدف جلوگیری از به هم خوردن مذاکرات صلح مطرح شده بود.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/642546-iran-us-israel-ghalibaf/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:16:43 +0000",
+      "time": "۱۷:۴۶ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "reuters_3",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "How does the Iran crisis compare with the 1979 oil shock? - Reuters",
+      "title_fa": "بحران ایران چه تفاوتی با شوک نفتی سال ۱۹۷۹ دارد؟ - رویترز",
+      "lead": "رویترز به مقایسه بحران کنونی ایران با شوک نفتی سال ۱۹۷۹ می‌پردازد. این تحلیل به بررسی شباهت‌ها و تفاوت‌های تأثیرات احتمالی بر بازار جهانی انرژی می‌پردازد.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG9oa3VPLW5oa2dhSDc5NXA3czBNYlVLR3lrdGprX2FpQ1VYOGxtNngweEJVVm52d0F0RmVuQXhfc0xWcWxjck9oUWN6S0NLRjhoSEkyTVN4R3Rod05JeWRPS1M0LUZtamZ6NlFDUGRmSnBxTTgxYUlZdkRjb2NaNmV3d2tKZkZ0ZEd4MmU3X19EZzhQdVlzTDM2ZDVfSjU1ZmFJZWF2QllXNkU?oc=5",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Fri, 03 Jul 2026 13:52:45 GMT",
+      "time": "۱۷:۲۲ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "reuters_4",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil prices little changed as US-Iran peace efforts hold - Reuters",
+      "title_fa": "قیمت نفت با ادامه تلاش‌های صلح آمریکا و ایران تغییر چندانی نکرد - رویترز",
+      "lead": "رویترز گزارش داد که قیمت نفت در پی تداوم تلاش‌های صلح بین آمریکا و ایران تغییر محسوسی نداشته است. این وضعیت نشان‌دهنده واکنش بازار به تحولات ژئوپلیتیکی منطقه است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0NjRDBBT1J0ZC1KY0c5R1huTjYyNzk4NTg4VU1Za2dmMDVGeHNQcl92Tm1vY3FnQks5ZmE4bWU0YUpwdlFBZjYybVgwQ2FlU1U4TkFBWG9SbHZ6ejZiT0lYdTdVM21VR1JOVk05Qm0yb19pcjk2WEhyZUxjbmV2RklXcGNDVmF2ZURTWkQxNERESHBFcE1LN082a1lYc0MwNDJFUEQzM0J3WkNH?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "guardian_12",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
+      "title_fa": "پروژه خط لوله جدید در کانادا با تعهد ۱۵۰ میلیارد دلاری برای رفع نگرانی‌های بریتیش کلمبیا و بومیان پیش خواهد رفت",
+      "lead": "پروژه یک خط لوله نفتی بزرگ جدید در کانادا پس از تعهد ۱۵۰ میلیارد دلاری دولت‌ها برای رفع نگرانی‌ها پیش می‌رود. این طرح شامل گسترش بندر و حفاظت از نهنگ‌ها برای رفع دغدغه‌های بریتیش کلمبیا و بومیان است.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:34:32 GMT",
+      "time": "۱۹:۰۴ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "bbc_13",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "title_fa": "مظنون اوکراینی تحت تعقیب پلیس پس از حمله بمب‌گذاری موناکو \"با لباس مردانه مبدل شده بود\"",
+      "lead": "پلیس پس از حمله بمب‌گذاری در موناکو در حال تعقیب یک مظنون اوکراینی است که گفته می‌شود با لباس مردانه مبدل شده بود. مقامات بر این باورند که مظنون به تنهایی عمل نکرده و روزها محل حمله را تحت نظر داشته است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:20:57 GMT",
+      "time": "۱۸:۵۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "rt_14",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "EU nation moves to lift nuclear weapons ban",
+      "title_fa": "کشور عضو اتحادیه اروپا به سمت لغو ممنوعیت سلاح‌های هسته‌ای حرکت می‌کند",
+      "lead": "قانون‌گذاران لیتوانیایی پیش‌نویس اصلاحیه‌ای برای قانون اساسی ارائه کرده‌اند که ممنوعیت میزبانی سلاح‌های هسته‌ای در این کشور را لغو می‌کند. این اقدام می‌تواند پیامدهای مهمی برای امنیت منطقه‌ای و بین‌المللی داشته باشد.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642529-lithuania-nuclear-weapon-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:06:45 +0000",
+      "time": "۱۸:۳۶ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "dw_0",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Nigeria: US pulls some troops after anti-IS operation",
+      "title_fa": "نیجریه: آمریکا بخشی از نیروهای خود را پس از عملیات ضد داعش خارج می‌کند",
+      "lead": "ایالات متحده بیشتر نیروهایی را که برای عملیات اخیر علیه ستیزه‌جویان \"دولت اسلامی\" در شمال شرقی نیجریه اعزام کرده بود، خارج کرده است. اما این کشور به درخواست ابوجا به حمایت اطلاعاتی خود ادامه می‌دهد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/nigeria-us-pulls-some-troops-after-anti-is-operation/a-77824484?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Fri, 3 Jul 2026 15:03:00 GMT",
+      "time": "۱۸:۳۳ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "guardian_1",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Cold feet and cooling prices: Australia’s property market is transforming – and first home buyers aren’t biting",
+      "title_fa": "افزایش احتیاط و کاهش قیمت‌ها: بازار املاک استرالیا در حال تغییر است – و خریداران خانه اول دست به کار نمی‌شوند",
+      "lead": "داده‌ها نشان می‌دهند که خریداران با وجود قیمت‌های پایین‌تر و رقابت کمتر، برای ورود به بازار عجله‌ای ندارند. خریداران خانه اول در حال عقب‌نشینی هستند و تقاضای سرمایه‌گذاران نیز کاهش یافته است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/04/australia-property-market-transforming-first-home-buyers-cold-feet",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:00:33 GMT",
+      "time": "۱۸:۳۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "rt_2",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "AI industry is ‘effing insane’ – Palantir CEO",
+      "title_fa": "مدیرعامل پالانتیر: صنعت هوش مصنوعی \"کاملاً دیوانه‌وار\" است",
+      "lead": "الکس کارپ، مدیرعامل پالانتیر، رقبای خود در صنعت هوش مصنوعی را متهم کرده است که از دولت آمریکا سوءاستفاده کرده و امنیت ملی را به خطر می‌اندازند. او اظهارات شدیدی درباره وضعیت کنونی صنعت هوش مصنوعی بیان کرد.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642548-palantir-alex-karp-insane/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 25,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:59:23 +0000",
+      "time": "۱۸:۲۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "guardian_3",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "One Nation is campaigning directly to Christians. But will party policies rub against worshippers’ conscience?",
+      "title_fa": "حزب \"یک ملت\" مستقیماً برای مسیحیان کمپین می‌کند؛ اما آیا سیاست‌های این حزب با وجدان پرستش‌کنندگان در تضاد خواهد بود؟",
+      "lead": "سیاست‌های ضد سقط جنین ممکن است جذابیت داشته باشد، اما با توجه به اینکه یک سوم از کلیسارویان استرالیایی متولد خارج هستند، بحث از یک فرهنگ واحد ممکن است آنها را دلسرد کند. این حزب مستقیماً برای یک جمعیت مذهبی قابل توجه کمپین می‌کند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/03/one-nation-christians-christian-voters-churchgoers-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:57:34 GMT",
+      "time": "۱۸:۲۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "rt_4",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "UNESCO warns Pakistan over ancient city’s status",
+      "title_fa": "یونسکو به پاکستان در مورد وضعیت شهر باستانی هشدار می‌دهد",
+      "lead": "سازمان ملل به پاکستان در مورد کارهای حفاظتی در بناهای تاریخی تاکسیلا که یکپارچگی آنها را تضعیف کرده است، هشدار می‌دهد. یونسکو نگرانی‌های خود را در مورد نگهداری از این شهر باستانی ابراز کرده است.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/india/642547-unesco-taxila-heritage-pakistan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 25,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:22:08 +0000",
+      "time": "۱۷:۵۲ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
     {
       "id": "yjc_0",
       "agencyId": "yjc",
@@ -1240,7 +1550,7 @@
       "keep": true,
       "title": "مراسم بزرگداشت رهبر شهید ایران در مادرید",
       "title_fa": "مراسم بزرگداشت رهبر شهید ایران در مادرید",
-      "lead": "هم‌زمان با مراسم‌های تهران، مراسم مردمی بزرگداشت و وداع با «رهبر شهید» با حضور ایرانیان مقیم و علاقمندان در مادرید برگزار شد. این مراسم نشان‌دهنده ابراز احترام به روح رهبر شهید ایران در خارج از کشور است.",
+      "lead": "هم‌زم��ن با مراسم‌های تهران، مراسم مردمی بزرگداشت و وداع با «رهبر شهید» با حضور ایرانیان مقیم و علاقمندان در مادرید برگزار شد. این مراسم نشان‌دهنده ابراز احترام به روح رهبر شهید ایران در خارج از کشور است.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.isna.ir/news/1405041308068/%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AF%D8%A7%D8%B4%D8%AA-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%A7%D8%AF%D8%B1%DB%8C%D8%AF",
@@ -3194,7 +3504,7 @@
       "keep": true,
       "title": "محدودیت‌های سوخت‌گیری در خراسان جنوبی برای خدمت‌رسانی به زائران کاهش یافت",
       "title_fa": "محدودیت‌های سوخت‌گیری در خراسان جنوبی برای خدمت‌رسانی به زائران کاهش یافت",
-      "lead": "مدیر شرکت ملی پخش فرآورده‌های نفتی خراسان جنوبی از کاهش محدودیت‌های سوخت‌گیری در این استان خبر داد. این اقدام به منظور خدمت‌رسانی بهتر به زائران و افزایش تردد در جاده‌ها همزمان با برگزاری آیین تشییع رهبر شهید انقلاب اسلامی در مشهد انجام شد.",
+      "lead": "مدیر شرکت ملی پخش فرآورده‌های نفتی خراسان جنوبی از کاهش محدودیت‌های سوخت‌گیری در این استان خبر داد. این اقدام به منظور خدمت‌رسانی بهتر به زائران و افزایش ت��دد در جاده‌ها همزمان با برگزاری آیین تشییع رهبر شهید انقلاب اسلامی در مشهد انجام شد.",
       "category": "society",
       "region": "global",
       "sourceUrl": "https://www.irna.ir/news/86200592/%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%B3%D9%88%D8%AE%D8%AA-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D8%AF%D9%85%D8%AA-%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%B2%D8%A7%D8%A6%D8%B1%D8%A7%D9%86",
@@ -4097,7 +4407,7 @@
       "agencyId": "bbc",
       "keep": true,
       "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
-      "title_fa": "لباس دیور، آدام سندلر و مرد افتخاری: آنچه درباره عروسی تیلور و تراویس می‌دانیم",
+      "title_fa": "لباس دیور، آدام سندلر و مرد افتخاری: آنچه درباره عروسی تیلور و ترا��یس می‌دانیم",
       "lead": "این زوج روز جمعه در نیویورک مراسم ازدواج خود را برگزار کردند. این اتفاق پس از ماه‌ها گمانه‌زنی درباره زمان، مکان و چگونگی این مراسم رخ داد.",
       "category": "entertainment",
       "region": "global",
@@ -5160,7 +5470,7 @@
       "keep": true,
       "title": "France banned Iran opposition rally after monarchist threats, security note shows - Reuters",
       "title_fa": "فرانسه رالی مخالفان ایران را پس از تهدیدات سلطنت‌طلبان ممنوع کرد، یادداشت امنیتی نشان می‌دهد",
-      "lead": "یادداشتی امنیتی نشان می‌دهد که فرانسه یک تجمع مخالفان ایران را پس از تهدیدات گروه های سلطنت‌طلب ممنوع کرده است. این تصمیم به دلیل نگرانی‌های امنیتی اتخاذ شد.",
+      "lead": "یادداشتی امنیتی نشان می‌دهد که فرانسه یک تجمع مخالفان ایران را پس از تهدیدات گروه های سلطنت‌طلب ممنوع کرده است. این تصمیم به دلیل نگرانی���های امنیتی اتخاذ شد.",
       "category": "politics",
       "region": "europe",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTA2MkhUbV9yOVJNdnBKdUszVi1wTEdCNkk2UjRWTFMyaklPdEs0b2laZkpGdDNreUI3X3JzZ3RJMV9MSnZRWTNfQVJHSUg5Rk9KemwyNHF0dGVMN0hwbnZuNHd2bXRKaE1wRERIeXRvWXZPLVB3NG1vMFNNOVItVWtqX1BHcUpWVlVDOG9jYWs5YWRMQ3pER2UyZE1DUHdOSzJscmpaTjJFTEJ5bmtQSmRUY2dMUlB5WHF1LWlnRQ?oc=5",
@@ -5759,7 +6069,7 @@
       "agencyId": "independent",
       "keep": true,
       "title": "Trump considering pardon for P. Diddy and other high-profile figures to mark America’s 250th: report",
-      "title_fa": "گزارش: ترامپ در حال بررسی عفو پی. دیدی و دیگر چهره‌های سرشناس به مناسبت ۲۵۰ سالگی آمریکا است",
+      "title_fa": "گزارش: ترامپ در حال بررسی عفو پی. دیدی و دیگر چهره‌های سرشنا�� به مناسبت ۲۵۰ سالگی آمریکا است",
       "lead": "گزارش‌ها حاک�� از آن است که ترامپ در حال بررسی عفو پی. دیدی و دیگر چهره‌های سرشناس به مناسبت ۲۵۰ سالگی آمریکا است. کاخ سفید گزارش‌های قبلی مبنی بر عفو قریب‌الوقوع این غول موسیقی رسوا شده را رد کرده بود.",
       "category": "politics",
       "region": "americas",
@@ -6952,7 +7262,7 @@
       "id": "isna_5",
       "agencyId": "isna",
       "keep": true,
-      "title": "رسانه هندی: در شکوه وداع؛تابوت کوچک «زهرا» نقاب از چهره کودک‌کش‌ مدعیان حقوق بشر برمی‌دارد",
+      "title": "رسانه هندی: در شکوه وداع؛تابوت کوچک «زهرا» نقاب از چهره کودک‌ک��‌ مدعیان حقوق بشر برمی‌دارد",
       "title_fa": "رسانه هندی: تابوت کوچک «زهرا» در مراسم وداع، چهره مدعیان حقوق بشر را برملا می‌کند",
       "lead": "یک رسانه هندی در گزارشی اختصاصی از مراسم تشییع رهبر شهید، تابوت نوه ۱۴ ماهه ایشان را \"تاثرآورترین تصویر\" این مراسم دانسته است. این رسانه معتقد است که این صحنه نقاب از چهره مدعیان حقوق بشر برمی‌دارد.",
       "category": "politics",
@@ -8124,7 +8434,7 @@
       "keep": true,
       "title": "ناگفته‌های مرضیه وحیددستجردی از رهبر شهید انقلاب و خانواده ایشان",
       "title_fa": "ناگفته‌های مرضیه وحیددستجردی از رهبر شهید انقلاب و خانواده ایشان",
-      "lead": "مرضیه وحیددستجردی، دبیر ستاد ملی جمعیت، خاطراتی از رهبر شهید انقلاب و خانواده ایشان بیان کرد. او به نگاه رهبر فقید به زنان و خانواده، تولد نوه‌هایشان و پاسخ به شایعات مطرح شده درباره خانواده رهبر انقلاب پرداخت.",
+      "lead": "مرضیه وحیددستجردی، دبیر ستاد ملی جمعیت، خاطراتی از رهبر شهید انقلاب و خ��نواده ایشان بیان کرد. او به نگاه رهبر فقید به زنان و خانواده، تولد نوه‌هایشان و پاسخ به شایعات مطرح شده درباره خانواده رهبر انقلاب پرداخت.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://www.yjc.ir/fa/news/9104650/ناگفته‌های-مرضیه-وحیددستجردی-از-رهبر-شهید-انقلاب-و-خانواده-ایشان",
@@ -9558,7 +9868,7 @@
       "keep": true,
       "title": "عکس‌کودکانتان را در فضای مجازی منتشر نکنید",
       "title_fa": "عکس کودکانتان را در فضای مجازی منتشر نکنید",
-      "lead": "این سازمان در قالب دستورالعملی مشترک با «بنیاد دیده‌بان اینترنت» (IWF)، به خانواده‌ها توصیه کرد که حساب‌های رسانه‌های اجتماعی خود را خصوصی کنند. همچنین پیشنهاد شد که اشتراک‌گذاری محتوا به گروه‌های «دوستان نزدیک» محدود شود تا از حریم خصوصی کودکان محافظت گردد.",
+      "lead": "این سازمان در قالب دستورالعملی مشترک با «بنیاد دیده‌بان اینترنت» (IWF)، به خانواده‌ها توصیه کرد که حساب‌های رسانه‌های اجتماعی خود را خصوصی کنند. همچنین پیشنهاد شد که اشتراک‌گذاری محتوا به گروه‌های «دوستان نزدیک» مح��ود شود تا از حریم خصوصی کودکان محافظت گردد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1175045/%D8%B9%DA%A9%D8%B3-%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86%D8%AA%D8%A7%D9%86-%D8%B1%D8%A7-%D8%AF%D8%B1-%D9%81%D8%B6%D8%A7%DB%8C-%D9%85%D8%AC%D8%A7%D8%B2%DB%8C-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D9%86%DA%A9%D9%86%DB%8C%D8%AF",
@@ -11427,7 +11737,7 @@
       "agencyId": "khabaronline",
       "keep": true,
       "title": "۴۰۰دستگاه اتوبوس رایگان برای مراسم بدرقه رهبر شهید اختصاص یافت",
-      "title_fa": "اختصاص ۴۰۰ دستگاه اتوبوس رایگان برای مراسم بدرقه رهبر شهید",
+      "title_fa": "اختصاص ۴۰۰ دستگاه ��توبوس رایگان برای مراسم بدرقه رهبر شهید",
       "lead": "شهردار قزوین از اختصاص ۴۰۰ دستگاه اتوبوس و مینی‌بوس رایگان خبر داد. این اقدام برای تسهیل حضور گسترده شهروندان قزوینی در مراسم تشییع «رهبر شهید انقلاب» در تهران صورت می‌گیرد.",
       "category": "politics",
       "region": "iran",
@@ -14016,7 +14326,7 @@
       "id": "yjc_4",
       "agencyId": "yjc",
       "keep": true,
-      "title": "اختصاص ۷۰ درصد از ظرفیت ناوگان ریلی سیستان و بلوچستان در مسیر زاهدان–تهران",
+      "title": "اختصاص ۷۰ درصد از ظر��یت ناوگان ریلی سیستان و بلوچستان در مسیر زاهدان–تهران",
       "title_fa": "اختصاص ۷۰ درصد ظرفیت ناوگان ریلی سیستان و بلوچستان در مسیر زاهدان–تهران",
       "lead": "۷۰ درصد از ظرفیت ناوگان ریلی سیستان و بلوچستان برای تسهیل مشارکت مردم در مراسم تشییع رهبر شهید انقلاب اختصاص یافت. مدیرکل راه آهن جنوب شرق اعلام کرد که برنامه ویژه‌ای در مسیر زاهدان–تهران آغاز شده است.",
       "category": "politics",
@@ -14874,7 +15184,7 @@
       "id": "isna_13",
       "agencyId": "isna",
       "keep": true,
-      "title": "احساس افتخار سرمربی کیپ ورد باوجود حذف از جام جهانی",
+      "title": "احس��س افتخار سرمربی کیپ ورد باوجود حذف از جام جهانی",
       "title_fa": "احساس افتخار سرمربی کیپ ورد با وجود حذف از جام جهانی",
       "lead": "سرمربی تیم ملی فوتبال کیپ ورد با وجود شکست برابر آرژانتین و حذف از جام جهانی، به شاگردانش افتخار می‌کند. او از عملکرد تیم خود راضی است.",
       "category": "sport",
@@ -15158,7 +15468,7 @@
       "id": "asriran_3",
       "agencyId": "asriran",
       "keep": true,
-      "title": "«پزشکی» دیگر رؤیای نخبگان نیست؛ چرا جذابیت این حرفه کاهش یافته؟/ معاون اسبق آموزشی وزارت بهداشت پاسخ می‌دهد",
+      "title": "«پزشکی» دیگر رؤیای نخبگان نیست؛ چرا جذابیت این حرفه ��اهش یافته؟/ معاون اسبق آموزشی وزارت بهداشت پاسخ می‌دهد",
       "title_fa": "«پزشکی» دیگر رؤیای نخبگان نیست؛ چرا جذابیت این حرفه کاهش یافته است؟",
       "lead": "ضیایی، معاون اسبق آموزشی وزارت بهداشت، هشدار می‌دهد که ادامه روند کاهش استقبال از رشته پزشکی تنها به این حوزه محدود نمی‌شود. او تاکید می‌کند که این وضعیت می‌تواند در آینده بر کیفیت آموزش، تأمین نیروی انسانی متخصص و توان پاسخگویی نظام سلامت نیز تأثیر منفی بگذارد.",
       "category": "politics",
@@ -15443,7 +15753,7 @@
       "agencyId": "yjc",
       "keep": true,
       "title": "نقشی از غم، خطی از عزم؛ نمادهای آثار گرافیکی تشییع رهبر شهید چه بود؟",
-      "title_fa": "نقشی از غم، خطی از عزم؛ نمادهای آثار گرافیکی تشییع رهبر شهید چه بود؟",
+      "title_fa": "نقشی از غم، خطی از عزم؛ نمادهای آثار گرافیکی تشییع رهبر ش��ید چه بود؟",
       "lead": "همزمان با تشییع رهبر شهید، هنر گرافیک نقشی کلیدی در مدیریت احساسات جمعی ایفا کرد. این هنر به بازنمایی مفاهیمی چون ثبات و استمرار کمک شایانی کرد.",
       "category": "politics",
       "region": "global",
@@ -17881,7 +18191,7 @@
       "agencyId": "isna",
       "keep": true,
       "title": "خودرو شخصی به مرکز تهران نیاورید/ برخلاف جهت جمعیت حرکت نکنید",
-      "title_fa": "توصیه‌های ایمنی برای مراسم تشییع رهبر شهید: خودرو شخصی نیاورید و برخلاف جهت جمعیت حرکت نکنید",
+      "title_fa": "توصیه‌ه��ی ایمنی برای مراسم تشییع رهبر شهید: خودرو شخصی نیاورید و برخلاف جهت جمعیت حرکت نکنید",
       "lead": "سخنگوی سازمان آتش‌نشانی تهران مهم‌ترین توصیه‌های ایمنی را برای مراسم تشییع رهبر شهید تشریح کرد. او از مردم خواست با رعایت نکات ایمنی و همکاری با نیروهای امدادی، از بروز حوادث احتمالی جلوگیری کنند و خودرو شخصی به مرکز تهران نیاورند.",
       "category": "politics",
       "region": "global",
@@ -19072,7 +19382,7 @@
       "keep": true,
       "title": "World leaders pay tribute to Iran’s late leader Khamenei in Tehran",
       "title_fa": "ادای احترام رهبران جهان به رهبر فقید ایران در تهران",
-      "lead": "رهبران کشورهای جهان برای ادای احترام به رهبر فقید ایران، آیت‌الله خامنه‌ای، در تهران حضور یافتند. این حضور نشان‌دهنده ابراز همدردی و روابط دیپلماتیک بین‌المللی است.",
+      "lead": "رهبران کشورهای جهان برای ادای احترام به رهبر فقید ای��ان، آیت‌الله خامنه‌ای، در تهران حضور یافتند. این حضور نشان‌دهنده ابراز همدردی و روابط دیپلماتیک بین‌المللی است.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/3/world-leaders-pay-tribute-to-irans-late-leader-khamenei-in-tehran?traffic_source=rss",
@@ -21924,7 +22234,7 @@
       "keep": true,
       "title": "ضرورت رعایت اصول نگهداری دارو در مراسم‌های شلوغ و هوای گرم",
       "title_fa": "ضرورت رعایت اصول نگهداری دارو در مراسم‌های شلوغ و هوای گرم",
-      "lead": "با توجه به برگزاری آیین تشییع رهبر شهید و حضور گسترده مردم، رعایت اصول صحیح نگهداری دارو در این شرایط بسیار مهم است. این توصیه به ویژه برای افرادی که داروهای روزانه مصرف می‌کنند و ساعت‌های طولانی در هوای گرم حضور دارند، اهمیت دارد.",
+      "lead": "با توجه به برگزاری آیین تشییع رهبر شهید و حضور گسترده مردم، رعایت اصول صحیح نگهداری دارو در این شرایط بسیار مهم است. این توصیه به ویژه برای اف��ادی که داروهای روزانه مصرف می‌کنند و ساعت‌های طولانی در هوای گرم حضور دارند، اهمیت دارد.",
       "category": "health",
       "region": "iran",
       "sourceUrl": "https://www.khabaronline.ir/news/2241539/%D8%B6%D8%B1%D9%88%D8%B1%D8%AA-%D8%B1%D8%B9%D8%A7%DB%8C%D8%AA-%D8%A7%D8%B5%D9%88%D9%84-%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AF%D8%A7%D8%B1%D9%88-%D8%AF%D8%B1-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D9%87%D8%A7%DB%8C-%D8%B4%D9%84%D9%88%D8%BA-%D9%88-%D9%87%D9%88%D8%A7%DB%8C-%DA%AF%D8%B1%D9%85",
@@ -24361,7 +24671,7 @@
       "agencyId": "irna",
       "keep": true,
       "title": "اعزام ۲۶۰۰ زائر مینابی در قالب کاروان «کربلای ایران، میناب ۱۶۸» به مراسم تشییع رهبر شهید",
-      "title_fa": "اعزام ۲۶۰۰ زائر مینابی به مراسم تشییع رهبر شهید در قالب کاروان «کربلای ایران، میناب ۱۶۸»",
+      "title_fa": "اعزام ۲۶۰۰ زائر مینابی به مراسم تشییع رهبر شهید در قالب کاروان «کربلای ایران، می��اب ۱۶۸»",
       "lead": "فرماندار ویژه میناب از برنامه‌ریزی برای اعزام ۲۶۰۰ زائر از این شهرستان به مراسم تشییع رهبر شهید انقلاب خبر داد. او افزود که تمامی ��رفیت‌های دولتی و مردمی برای پشتیبانی از کاروان «کربلای ایران - میناب ۱۶۸» در نظر گرفته شده است.",
       "category": "politics",
       "region": "iran",
@@ -24919,7 +25229,7 @@
       "agencyId": "yjc",
       "keep": true,
       "title": "برنامه پنج‌ساله بنیاد مستضعفان در گام سوم اجرا قرار دارد/ هیچ ایرانی نباید بی���خانه یا بیکار باشد + فیلم",
-      "title_fa": "برنامه پنج‌ساله بنیاد مستضعفان در گام سوم اجرا قرار دارد؛ هیچ ایرانی نباید بی‌خانه یا بیکار باشد",
+      "title_fa": "برنامه پنج‌ساله بنیاد مستضعفان در گام سوم اج��ا قرار دارد؛ هیچ ایرانی نباید بی‌خانه یا بیکار باشد",
       "lead": "رئیس بنیاد مستضعفان اعلام کرد که برنامه پنج‌ساله این بنیاد در گام سوم اجرا قرار دارد. او ت��کید کرد که هیچ ایرانی نباید بی‌خانه یا بدون شغل باشد و برای این هدف، آموزش و مهارت‌آموزی نیز در اولویت قرار گرفته است.",
       "category": "politics",
       "region": "iran",
@@ -25202,7 +25512,7 @@
       "id": "khabaronline_0",
       "agencyId": "khabaronline",
       "keep": true,
-      "title": "رازهای ناگفته قتل میرزاده عشقی؛ ترور سیاسی یا انتقام عاش��انه؟/ روزگار شاعرِ شاکیِ مشروطه‌خواه",
+      "title": "رازهای ناگفته قتل میرزاده عشقی؛ ترور سیاسی یا انتقام عاش��انه؟/ روزگار ش��عرِ شاکیِ مشروطه‌خواه",
       "title_fa": "رازهای ناگفته قتل میرزاده عشقی؛ ترور سیاسی یا انتقام عاشقانه؟",
       "lead": "این مقاله به بررسی رازهای ناگفته قتل میرزاده عشقی، شاعر و مشروطه‌خواه، می‌پردازد و ابهامات پیرامون آن را از دیدگاه ترور سیاسی یا انتقام عاشقانه واکاوی می‌کند. در بخشی از متن، سخنان قوام‌السلطنه و وثوق‌الدوله در مورد فساد اخلاق و لزوم پاکسازی از آن مطرح شده است.",
       "category": "politics",
@@ -26370,7 +26680,7 @@
       "keep": true,
       "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
       "title_fa": "«فقط می‌توانم آن را منطقه جنگی توصیف کنم»: امدادگران در جهنم پس از زلزله ونزوئلا",
-      "lead": "هزاران داوطلب به همراه تیم‌های خارجی در تلاشند تا بازماندگان بیشتری را از زیر آوار زلزله ونزوئلا پیدا کنند. این منطق�� پس از دو زمین‌لرزه هفته گذشته، وضعیتی فاجعه‌بار دارد.",
+      "lead": "هزاران داوطلب ب�� همراه تیم‌های خارجی در تلاشند تا بازماندگان بیشتری را از زیر آوار زلزله ونزوئلا پیدا کنند. این منطق�� پس از دو زمین‌لرزه هفته گذشته، وضعیتی فاجعه‌بار دارد.",
       "category": "disaster",
       "region": "americas",
       "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
@@ -26706,7 +27016,7 @@
       "keep": true,
       "title": "Woman wanted over Monaco bombing 'that targeted Ukrainian tycoon' is named",
       "title_fa": "نام زنی که به دلیل بمب‌گذاری در موناکو و هدف قرار دادن یک سرمایه‌دار اوکراینی تحت تعقیب است، اعلام شد",
-      "lead": "اینترپل نام زنی را که به دلیل بمب‌گذاری در موناکو تحت تعقیب است، فاش کرد. این بمب‌گذاری ظاهراً یک سرمایه‌دار اوکراینی با ارتباطاتی با روسیه را هدف قرار داده بود.",
+      "lead": "اینترپل نام زنی را که به دلیل بمب‌گذاری در موناکو ��حت تعقیب است، فاش کرد. این بمب‌گذاری ظاهراً یک سرمایه‌دار اوکراینی با ارتباطاتی با روسیه را هدف قرار داده بود.",
       "category": "politics",
       "region": "eurasia",
       "sourceUrl": "https://news.sky.com/story/arrest-warrant-issued-for-woman-wanted-over-monaco-bombing-13560051",
