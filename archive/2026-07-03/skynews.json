@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_9",
@@ -74,6 +74,52 @@
       "pubDate": "Thu, 02 Jul 2026 00:38:00 +0100",
       "time": "۰۳:۰۸ - ۱۱ تیر",
       "analyzed_at": "2026-07-03T11:18:36.383Z"
+    },
+    {
+      "id": "skynews_13",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Two men jailed for stabbing Iranian TV presenter on London street",
+      "title_fa": "دو نفر به دلیل چاقو زدن به مجری تلویزیون ایرانی در خیابان لندن زندانی شدند",
+      "lead": "دو مرد به دلیل چاقو زدن به یک مجری تلوی��یون در لندن زندانی شده‌اند. این پرونده ��ستفاده دولت ایران از \"عوامل نیابتی\" مجرم در بریتانیا را افشا کرد.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/two-men-recruited-by-iran-jhttps://news.sky.com/story/two-men-recruited-by-iran-jailed-for-stabbing-iranian-tv-presenter-on-london-street-13559993ailed-for-stabbing-iranian-tv-presenter-on-london-street-13559993",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
+    },
+    {
+      "id": "skynews_14",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "MPs call on foreign secretary to sanction Netanyahu over 'torture' of Palestinian civilians",
+      "title_fa": "نمایندگان پارلمان خواستار تحریم ن��انیاهو به دل��ل 'شکنجه' غیرنظامیان ��لسطینی ��دند",
+      "lead": "ده‌ها نماینده پا��لمان بریتانیا از وزیر خارجه این کشور خواسته‌اند تا بنیامین نتانیاهو، نخست‌وزیر اسرائیل، و وزیر دادگستری او را تحریم کند. این درخواست به دلیل اتهامات 'شکنجه' غیرنظامیان فلسطینی مطرح شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/calls-for-israeli-pm-netanyahu-and-his-justice-minister-to-be-sanctioned-by-uk-13559852",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 02 Jul 2026 14:35:00 +0100",
+      "time": "۱۷:۰۵ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
     }
   ]
 }
