@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_8",
@@ -74,6 +74,78 @@
       "pubDate": "Fri, 03 Jul 2026 06:52:11 +0000",
       "time": "۱۰:۲۲ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T09:02:36.423Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Denmark Has a Big Fourth of July Party. This Year, the U.S. Is Uninvited.",
+      "title_fa": "دانمارک مهمانی بزرگ چهارم ژوئیه برگزار می‌ک��د؛ امسال آمریکا دعوت نیست.",
+      "lead": "مقامات دانمارکی از رئیس‌جمهور ترامپ بر سر گرینلند خشمگین هستند. آن‌ها گام بی‌سابقه‌ای برای اعمال فشار بر سازمان‌دهندگان برداشتند تا مقامات آمریکایی را از برنامه حذف کنند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/denmark-fourth-of-july-trump-us.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 04:01:07 +0000",
+      "time": "۰۷:۳۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T09:07:44.654Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.K. Lawmakers Demand Deportation of ‘Grooming Gang’ Leader",
+      "title_fa": "قانون‌گذاران بریت��نیا خواستار اخراج رهبر «باند سوءاستفاده جنسی» شدند",
+      "lead": "شبیر احمد در سال ۲۰۱۲ به دلیل ارتباطش با یک حلقه سوءاستفاده جنسی به حبس طولانی محکوم شد. اکنون نمایندگان مجلس بریتانیا خواس��ار اخراج او از کشور شده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/europe/uk-deport-leader-grooming-gang.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 00:19:38 +0000",
+      "time": "۰۳:۴۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T09:07:44.654Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Toronto hosts its last game. Portugal versus Croatia is a great way to go out.",
+      "title_fa": "تورنتو میزبان آخرین با��ی خود است؛ دیدار پرتغال و کرواسی پایانی عالی خواهد بود",
+      "lead": "شهر تورنتو آخرین بازی خود را در جام جهانی فوتبال میزبانی می‌کند. این مسابقه حساس بین تیم‌های ملی پرتغال و کرواسی ��رگزار خواهد شد که نوید یک پایان مهیج را می‌دهد.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/us/fifa-world-cup/world-cup-portugal-croatia-ronaldo",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 00:14:32 +0000",
+      "time": "۰۳:۴۴ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T09:07:44.654Z"
     }
   ]
 }
