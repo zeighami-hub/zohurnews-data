@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T16:49:10.368Z",
-  "total": 1059,
-  "new_this_cycle": 2,
+  "generated_at": "2026-07-04T17:04:34.637Z",
+  "total": 1038,
+  "new_this_cycle": 14,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,340 @@
     }
   ],
   "articles": [
+    {
+      "id": "skynews_0",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Two men jailed for stabbing TV presenter on street",
+      "title_fa": "دو مرد به دلیل چاقو زدن به مجری تلویزیون در خیابان زندانی شدند",
+      "lead": "دو مرد به دلیل چاقو زدن به یک مجری تلویزیون در بریتانیا زندانی شده‌اند. این پرونده استفاده دولت ایران از «عوامل نیابتی» جنایتکار در بریتانیا را برملا کرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/two-men-recruited-by-iran-jailed-for-stabbing-iranian-tv-presenter-on-london-street-13559993",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 16:37:00 +0100",
+      "time": "۱۹:۰۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil prices little changed as US-Iran peace efforts hold - Reuters",
+      "title_fa": "قیمت نفت با حفظ تلاش‌های صلح آمریکا و ایران تغییر چندانی نکرد",
+      "lead": "قیمت نفت با ادامه تلاش‌های صلح بین ایالات متحده و ایران، تغییر اندکی داشته است. این وضعیت ثبات نسبی را در بازار جهانی انرژی نشان می‌دهد.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0NjRDBBT1J0ZC1KY0c5R1huTjYyNzk4NTg4VU1aa2dmMDVGeHNQcl92Tm1vY3FnQks5ZmE4bWU0YUpwdlFBZjYybVgwQ2FlU1U4TkFBWG9SbHZ6ejZiT0lYdTdVM21VR1JOVk05Qm0yb19pcjk2WEhyZUxjbmV2RklXcGNDVmF2ZURTWkQxNERESHBFcE1LN082a1lYc0MwNDJFUEQzM0J3WkNH?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "pubDate": "Fri, 03 Jul 2026 02:05:00 GMT",
+      "time": "۰۵:۳۵ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "khabaronline_3",
+      "agencyId": "khabaronline",
+      "keep": true,
+      "title": "ببینید| بنی‌اسرائیل ماهیت فرامین الهی را به نفع خود تغییر می‌دادند",
+      "title_fa": "ببینید| بنی‌اسرائیل ماهیت فرامین الهی را به نفع خود تغییر می‌دادند",
+      "lead": "صفحه دهم قرآن شامل آیات ۶۲ تا ۶۹ سوره بقره است که مخاطب اصلی آن افراد باایمان هستند. این آیات به تغییر ماهیت فرامین الهی توسط بنی‌اسرائیل به نفع خود اشاره دارد.",
+      "category": "religion",
+      "region": "global",
+      "sourceUrl": "https://www.khabaronline.ir/news/2241705/%D8%A8%D9%86%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%85%D8%A7%D9%87%DB%8C%D8%AA-%D9%81%D8%B1%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D9%84%D9%87%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%86%D9%81%D8%B9-%D8%AE%D9%88%D8%AF-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%DB%8C-%D8%AF%D8%A7%D8%AF%D9%86%D8%AF",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "foreignpolicy_8",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Venezuela’s Bungled Earthquake Response",
+      "title_fa": "واکنش ناموفق ونزوئلا به زلزله",
+      "lead": "واکنش دولت ونزوئلا به زلزله اخیر ناکارآمد توصیف شده است. در گذشته، بلایای طبیعی در این منطقه تغییرات سیاسی را تسریع کرده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/03/venezuela-earthquakes-rodriguez-machado-politics/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 12:00:53 +0000",
+      "time": "۱۵:۳۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "rt_9",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "British MPs demand ban on Russian children’s cartoon",
+      "title_fa": "نمایندگان پارلمان بریتانیا خواستار ممنوعیت کارتون کودکانه روسی شدند",
+      "lead": "نمایندگان پارلمان بریتانیا خواستار اقدام علیه کارتون روسی «ماشا و خرس» شده‌اند. آنها ادعا می‌کنند که این کارتون ممکن است به عنوان ابزاری برای «قدرت نرم» استفاده شود.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/642534-uk-mp-russian-cartoon-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 12:00:19 +0000",
+      "time": "۱۵:۳۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "rt_10",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Nearly half of Americans don’t know what 4th of July is about – poll",
+      "title_fa": "نظرسنجی: نزدیک به نیمی از آمریکایی‌ها نمی‌دانند چهارم ژوئیه درباره چیست",
+      "lead": "یک نظرسنجی نشان می‌دهد که نزدیک به نیمی از آمریکایی‌ها نمی‌توانند بگویند که چهارم ژوئیه چه چیزی را جشن می‌گیرد. اکثریت نیز در پاسخ به سوالات اساسی مدنی دچار مشکل بودند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/642526-americans-july-four/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 11:59:41 +0000",
+      "time": "۱۵:۲۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "rt_11",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Macron’s final gift: A law for death",
+      "title_fa": "هدیه پایانی ماکرون: قانونی برای مرگ",
+      "lead": "در حالی که پارلمان فرانسه به نفع قانونی شدن اوتانازی رأی می‌دهد، یک دهه قدرت رئیس‌جمهور ماکرون نماد تاریک خود را تثبیت می‌کند. این قانون بحث‌های اخلاقی و اجتماعی گسترده‌ای را به همراه دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642524-macron-gift-euthanasia-law/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 03 Jul 2026 11:11:51 +0000",
+      "time": "۱۴:۴۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "guardian_12",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
+      "title_fa": "«فقط می‌توانم آن را منطقه جنگی توصیف کنم»: امدادگران در جهنم پس از زلزله ونزوئلا",
+      "lead": "هزاران داوطلب به همراه تیم‌های خارجی در تلاش برای یافتن بازماندگان بیشتر در آوار زلزله ونزوئلا هستند. پس از دو زلزله ویرانگر در سواحل شمالی ونزوئلا، منطقه به یک \"منطقه جنگی\" تبدیل شده است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 0,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 11:08:44 GMT",
+      "time": "۱۴:۳۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "nytimes_13",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
+      "title_fa": "صف‌های طولانی بنزین، توهم عادی بودن زندگی در روسیه زمان جنگ را درهم شکست",
+      "lead": "صف‌های طولانی برای بنزین در روسیه، توهم عادی بودن زندگی در این کشور در زمان جنگ را از بین برده است. یکی از شهروندان روس با حیرت و سرخوردگی از این انتظارها پرسید: \"آیا ما اکنون در شوروی هستیم؟\"",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 10:47:14 +0000",
+      "time": "۱۴:۱۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "skynews_14",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Bus plunges into ravine, killing 40",
+      "title_fa": "سقوط اتوبوس به دره و کشته شدن ۴۰ نفر",
+      "lead": "چهل نفر در پی سقوط یک اتوبوس مسافربری بیش از حد پر به داخل دره‌ای در پاکستان جان باختند. این حادثه تلخ تلفات جانی گسترده‌ای به همراه داشت.",
+      "category": "accident",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/bus-plunges-into-ravine-in-pakistan-killing-40-13560085",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 03 Jul 2026 11:27:00 +0100",
+      "time": "۱۳:۵۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "title_fa": "فرانسه در اوج موج گرما ۲۰۲۵ مورد مرگ و میر اضافه را ثبت کرده و اروپا خود را برای آب و هوای بسیار شدیدتر آماده می‌کند",
+      "lead": "پیش‌بینی‌کنندگان هواشناسی در مورد دمای بسیار شدیدتر در قاره اروپا طی چند روز آینده هشدار می‌دهند. این موج گرما در فرانسه منجر به مرگ و میر قابل توجهی شده و نگرانی‌ها را در مورد تغییرات اقلیمی افزایش داده است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 10:23:32 GMT",
+      "time": "۱۳:۵۳ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "rt_1",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Merz’s ratings plummet to record low",
+      "title_fa": "محبوبیت مرز به پایین‌ترین حد خود سقوط کرد",
+      "lead": "یک نظرسنجی ARD-DeutschlandTrend نشان می‌دهد که مجموعاً ۸۴ درصد از آلمانی‌ها از عملکرد صدراعظم فریدریش مرز ناراضی هستند. این آمار نشان‌دهنده کاهش بی‌سابقه محبوبیت اوست.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642515-merz-geramny-afd-weidel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 09:02:54 +0000",
+      "time": "۱۲:۳۲ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "skynews_2",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Woman wanted over Monaco bombing 'that targeted Ukrainian tycoon' is named",
+      "title_fa": "زن تحت تعقیب در ارتباط با بمب‌گذاری موناکو که «یک سرمایه‌دار اوکراینی را هدف قرار داده بود» نام‌گذاری شد",
+      "lead": "اینترپل نام زنی را اعلام کرده است که به دلیل بمب‌گذاری در موناکو تحت تعقیب است. این بمب‌گذاری ظاهراً یک سرمایه‌دار اوکراینی با ارتباطات روسی را هدف قرار داده بود.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/arrest-warrant-issued-for-woman-wanted-over-monaco-bombing-13560051",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 03 Jul 2026 08:38:00 +0100",
+      "time": "۱۱:۰۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "skynews_3",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Venezuelan leader hits out at 'disgraceful' misinformation over earthquake response",
+      "title_fa": "رهبر ونزوئلا به «اطلاعات نادرست شرم‌آور» در مورد واکنش به زلزله حمله کرد",
+      "lead": "دلسی رودریگز، رئیس‌جمهور موقت ونزوئلا، از واکنش دولت خود به زمین‌لرزه‌های ویرانگر هفته گذشته، که جان ۲۶۴۵ نفر را گرفت، به شدت دفاع کرد. او به شدت از اتهامات مربوط به مدیریت بحران انتقاد کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/venezuelas-interim-president-delcy-rodriguez-defends-earthquake-response-as-more-than-2500-confirmed-dead-13560045",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 08:15:00 +0100",
+      "time": "۱۰:۴۵ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
     {
       "id": "reuters_0",
       "agencyId": "reuters",
@@ -2614,7 +2948,7 @@
       "id": "isna_8",
       "agencyId": "isna",
       "keep": true,
-      "title": "حضور مردم در مراسم بدرقه، جلوه‌ای از ادای دین به رهبر شهید است",
+      "title": "حضور مردم در مراسم بدرقه، جلوه‌ای از ادای دین به رهبر ��هید است",
       "title_fa": "حضور مردم در مراسم بدرقه، جلوه‌ای از ادای دین به رهبر شهید است",
       "lead": "وزیر صمت گفت: حضور گسترده مردم و مسئولان در مراسم تشییع، نشانه قدردانی از مجاهدت‌ها و فداکاری‌های رهبر شهید است. او افزود که همه خود را مدیون خون رهبر شهید می‌دانند که توانست ایران را به این عزت برساند.",
       "category": "politics",
@@ -2904,7 +3238,7 @@
       "keep": true,
       "title": "Donors duped into giving cash to Trump-backed group instead of bipartisan America 250 team: report",
       "title_fa": "گزارش: اهداکنندگان به اشتباه به گروه تحت حمایت ترامپ به جای تیم دوحزبی آمریکا ۲۵۰ کمک مالی کرده‌اند",
-      "lead": "بر اساس یک گزارش، برخی اهداکنندگان به دلیل سردرگمی بین کمیته سازماندهی کنگره و گروه \"Freedom 250\" تحت حمایت دونالد ترامپ، کمک‌های مالی خود را به اشتباه به گروه اشتباهی پرداخت کرده‌اند. دموکرات‌های مجلس نمایندگان این موضوع را مطرح کرده‌اند.",
+      "lead": "بر اساس یک گزارش، برخی اهداکنندگان به دلیل سردرگمی بین کمیته سازماندهی ک��گره و گروه \"Freedom 250\" تحت حمایت دونالد ترامپ، کمک‌های مالی خود را به اشتباه به گروه اشتباهی پرداخت کرده‌اند. دموکرات‌های مجلس نمایندگان این موضوع را مطرح کرده‌اند.",
       "category": "politics",
       "region": "americas",
       "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/trump-america-250-donations-anniversary-b3007708.html",
@@ -6454,7 +6788,7 @@
       "keep": true,
       "title": "الخزعلی: آیت‌الله خامنه‌ای سال‌های متمادی پشتوانه‌ای محکم برای امت اسلامی بود",
       "title_fa": "الخزعلی: آیت‌الله خامنه‌ای سال‌های متمادی پشتوانه‌ای محکم برای امت اسلامی بود",
-      "lead": "یکی از نمایندگان عراقی در جریان مشارکت در مراسم وداع رهبر شهید انقلاب اسلامی در تهران، حمایت‌های آیت‌الله خامنه‌ای از عراق در مقابله با تروریسم را ارج نهاد. او همچنین از دفاع ایشان از مسائل امت اسلامی تقدیر کرد.",
+      "lead": "یکی از نمایندگان عراقی در جریان مشارکت در مراسم و��اع رهبر شهید انقلاب اسلامی در تهران، حمایت‌های آیت‌الله خامنه‌ای از عراق در مقابله با تروریسم را ارج نهاد. او همچنین از دفاع ایشان از مسائل امت اسلامی تقدیر کرد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.isna.ir/news/1405041307954/%D8%A7%D9%84%D8%AE%D8%B2%D8%B9%D9%84%DB%8C-%D8%A2%DB%8C%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%AE%D8%A7%D9%85%D9%86%D9%87-%D8%A7%DB%8C-%D8%B7%DB%8C-%D8%B3%D8%A7%D9%84-%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D9%85%D8%A7%D8%AF%DB%8C-%D9%BE%D8%B4%D8%AA%D9%88%D8%A7%D9%86%D9%87-%D9%85%D8%AD%DA%A9%D9%85%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C",
@@ -7620,7 +7954,7 @@
       "keep": true,
       "title": "شبکه برق سه استان میزبان مراسم تشییع رهبر شهید با آمادگی ۱۰۰ درصدی پایدار خواهد ماند",
       "title_fa": "شبکه برق سه استان میزبان مر��سم تشییع رهبر شهید با آمادگی کامل پایدار خواهد ماند",
-      "lead": "مدیرعامل شرکت برق منطقه‌ای تهران از آمادگی کامل صنعت برق برای تأمین برق پایدار خبر داد. این آمادگی مربوط به مراسم تشییع رهبر شهید در استان‌های تهران، قم و خراسان رضوی است.",
+      "lead": "مدیرعامل شرکت برق منطقه‌ای تهران از آمادگی کامل صنعت برق برای تأمین بر�� پایدار خبر داد. این آمادگی مربوط به مراسم تشییع رهبر شهید در استان‌های تهران، قم و خراسان رضوی است.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.yjc.ir/fa/news/9104642/شبکه-برق-سه-استان-میزبان-مراسم-تشییع-رهبر-شهید-با-آمادگی-۱۰۰-درصدی-پایدار-خواهد-ماند",
@@ -8792,7 +9126,7 @@
       "keep": true,
       "title": "۱۰۰ هزار مهندس در کشور فاقد پوشش بیمه‌ای هستند / عملکرد نظام مهندسی آذربایجان‌غربی باید به الگوی سایر استان‌ها ت��دیل شود",
       "title_fa": "۱۰۰ هزار مهندس در کشور فاقد پوشش بیمه‌ای هستند / عملکرد نظام مهندسی آذربایجان‌غربی باید به الگوی سایر استان‌ها تبدیل شود",
-      "lead": "مدیرکل دفتر توسعه مهندسی ساختمان وزارت راه و شهرسازی با اشاره به اینکه ۱۰۰ هزار مهندس در کشور فاقد پوشش بیمه‌ای هستند، ابراز نگرانی کرد. او تاکید کرد که عملکرد نظام مهندسی آذربایجان‌غربی باید به عنوان الگو برای سایر استان‌ها قرار گیرد.",
+      "lead": "مدیر��ل دفتر توسعه مهندسی ساختمان وزارت راه و شهرسازی با اشاره به اینکه ۱۰۰ هزار مهندس در کشور فاقد پوشش بیمه‌ای هستند، ابراز نگرانی کرد. او تاکید کرد که عملکرد نظام مهندسی آذربایجان‌غربی باید به عنوان الگو برای سایر استان‌ها قرار گیرد.",
       "category": "politics",
       "region": "iran_national",
       "sourceUrl": "https://www.khabaronline.ir/news/2241883/%DB%B1%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%AF%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D9%81%D8%A7%D9%82%D8%AF-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%DB%8C%D9%85%D9%87-%D8%A7%DB%8C-%D9%87%D8%B3%D8%AA%D9%86%D8%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D9%86%D8%B8%D8%A7%D9%85",
@@ -9365,7 +9699,7 @@
       "agencyId": "asriran",
       "keep": true,
       "title": "بازیگری که ۲ بار نقش رهبر شهید را ایفا کرد (+عکس)",
-      "title_fa": "بازیگری که ۲ بار نقش رهبر شهید را ایفا کرد",
+      "title_fa": "ب��زیگری که ۲ بار نقش رهبر شهید را ایفا کرد",
       "lead": "علیرضا مهران درباره انتخابش برای ایفای نقش رهبر شهید و چالش‌های بازی در قامت این شخصیت برجسته صحبت کرد. او از سکانس‌های تأثیرگذار، بازخوردهای مردمی و واکنش دفتر رهبری نیز مطالبی را بیان کرد.",
       "category": "culture",
       "region": "iran",
@@ -10580,7 +10914,7 @@
       "keep": true,
       "title": "Trump marks US 250th celebration with speech and Mount Rushmore flyover",
       "title_fa": "ترامپ دویست و پنجاهمین سالگرد ایالات متحده را با سخنرانی و پرواز بر فراز کوه راشمور گرامی داشت",
-      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، در آستانه روز استقلال، از آمریکایی‌ها خواست تا از آزادی‌هایی که بنیان‌گذاران کشور ۲۵۰ سال پیش تصور کرده بودند، در برابر آنچه او «تهدید کمونیستی» دموکرات‌های ترقی‌خواه خواند، محافظت کنند. او این سخنان را در مراسمی با پرواز بر فراز کوه راشمور بیان کرد.",
+      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، در آستانه روز استقلال، از آمریکایی‌ها خواست تا از آزادی‌هایی که بنیان‌گذاران کشور ۲۵۰ سال پیش تصور کرده بودند، در برابر آنچه او «تهدید کمونیستی» دموکرات‌های ترقی‌خواه خواند، محافظت کنند. او این سخنان را در ��راسمی با پرواز بر فراز کوه راشمور بیان کرد.",
       "category": "politics",
       "region": "americas",
       "sourceUrl": "https://www.france24.com/en/trump-marks-us-250th-celebration-with-speech-and-mount-rushmore-flyover",
@@ -10892,7 +11226,7 @@
       "keep": true,
       "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
       "title_fa": "��هر جایزه‌ای به او بدهید، می‌آید»: نارندرا مودی در سفرهای خارجی‌اش جوایز متعددی را از آن خود می‌کند",
-      "lead": "نخست‌وزیر هند، نارندرا مودی، در سفرهای خارجی خود عادت به دریافت جوایز متعدد دارد و گاهی اوقات تنها دریافت‌کننده آن‌ها بوده است. اخیراً پس از ورود او به سیشل، این کشور جزیره‌ای در اقیانوس هند به سرعت یکی از «بالاترین» افتخارات خود را به وی اعطا کرد.",
+      "lead": "نخست‌وزیر هند، نارندرا مودی، در سفرهای خارجی خود عادت به دریافت جوایز متعدد دارد و گاهی اوقات تنها ��ریافت‌کننده آن‌ها بوده است. اخیراً پس از ورود او به سیشل، این کشور جزیره‌ای در اقیانوس هند به سرعت یکی از «بالاترین» افتخارات خود را به وی اعطا کرد.",
       "category": "military",
       "region": "global",
       "sourceUrl": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
@@ -12094,7 +12428,7 @@
       "keep": true,
       "title": "اعزام پنج واحد امدادی از اس��ان مرکزی برای پوشش مراسم تشییع رهبر شهید",
       "title_fa": "اعزام پنج واحد امدادی از استان مرکزی برای پوشش مراسم تشییع رهبر شهید",
-      "lead": "رئیس اورژانس پیش‌بیمارستانی استان مرکزی از اعزام پنج واحد امدادی شامل اتوبوس‌آمبولانس و آمبولانس سبک خبر داد. این واحدها به همراه بالگرد اورژانس هوایی برای پوشش مراسم تشییع رهبر شهید اعزام می‌شوند.",
+      "lead": "رئیس اورژانس پیش‌بیمارستانی استان مرکزی از اعزام پنج واحد امدا��ی شامل اتوبوس‌آمبولانس و آمبولانس سبک خبر داد. این واحدها به همراه بالگرد اورژانس هوایی برای پوشش مراسم تشییع رهبر شهید اعزام می‌شوند.",
       "category": "politics",
       "region": "national",
       "sourceUrl": "https://www.irna.ir/news/86200181/%D8%A7%D8%B9%D8%B2%D8%A7%D9%85-%D9%BE%D9%86%D8%AC-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%85%D8%AF%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B4%D8%B4-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%AA%D8%B4%DB%8C%8C%D8%B9-%D8%B1%D9%87%D8%A8%D8%B1",
@@ -13854,7 +14188,7 @@
       "keep": true,
       "title": "بازگشایی ۳ ایستگاه متروی اطراف مصلی تهران",
       "title_fa": "بازگشایی ۳ ایستگاه متروی اطراف مصلی تهران",
-      "lead": "با اعلام شهرداری تهران، سه ایستگاه متروی اطراف مصلی تهران به صورت موقت بازگشایی شد. این اقدام به منظور تسهیل تردد شرکت‌کنندگان در مراسم بدرقه رهبر شهید صورت گرفته است.",
+      "lead": "با اعلام شهرداری تهران، سه ایستگاه متروی اطراف مصلی تهران به صورت موقت بازگشایی شد. این اقدام به منظور تسهیل تردد شر��ت‌کنندگان در مراسم بدرقه رهبر شهید صورت گرفته است.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.khabaronline.ir/news/2241822/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%DB%B3-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%AA%D8%B1%D9%88%DB%8C-%D8%A7%D8%B7%D8%B1%D8%A7%D9%81-%D9%85%D8%B5%D9%84%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
@@ -16354,7 +16688,7 @@
       "keep": true,
       "title": "Thirty-two years on, young Rwandans reflect on progress, pain and hope",
       "title_fa": "پس از سی و دو سال، جوانان روآندایی ب�� پیشرفت، درد و امید می‌اندیشند",
-      "lead": "ب��ای بسیاری از جوانان روآندایی، روز آزادی هم به گذشته و هم به آینده ��ربوط می‌شود. آن‌ها به پیشرفت‌های کشور، دردهای گذشته و امید به آینده می‌پردازند.",
+      "lead": "ب��ای بسیاری از جوانان روآندایی، روز آزادی هم به گذشته و ه�� به آینده ��ربوط می‌شود. آن‌ها به پیشرفت‌های کشور، دردهای گذشته و امید به آینده می‌پردازند.",
       "category": "politics",
       "region": "africa",
       "sourceUrl": "https://www.aljazeera.com/news/2026/7/4/thirty-two-years-on-young-rwandans-reflect-on-progress-pain-and-hope?traffic_source=rss",
@@ -18734,7 +19068,7 @@
       "id": "yjc_3",
       "agencyId": "yjc",
       "keep": true,
-      "title": "فریاد خون‌خواهی خرم‌آبادی ها امام شهید در آستانه آیین باشکوه تشییع قائد امت + فیلم",
+      "title": "فریاد خون‌خواهی خر��‌آبادی ها امام شهید در آستانه آیین باشکوه تشییع قائد امت + فیلم",
       "title_fa": "فریاد خون‌خواهی مردم خرم‌آباد در آستانه تشییع رهبر شهید",
       "lead": "در آستانه آیین تشییع قائد امت، جمع کثیری از مردم خرم‌آباد برای شرکت در این مراسم راهی شدند. آنها با حضور پرشور ��ود، ارادت و وفاداری به آرمان‌های انقلاب اسلامی و رهبر شهید را به نمایش گذاشتند.",
       "category": "politics",
@@ -19642,7 +19976,7 @@
       "keep": true,
       "title": "روایت‌گر بدرقه آقای شهید ایران باشید",
       "title_fa": "روایت‌گر بدرقه رهبر شهید ایران باشید",
-      "lead": "دفتر حفظ و نشر آثار رهبر شهید، در فراخوانی با عنوان «روایت بدرقه»، از عموم مردم، هنرمندان و نویسندگان دعوت کرده است. این فراخو��ن به منظور جمع‌آوری روایت‌ها از آخرین دیدار عمومی رهبر شهید انقلاب با مردم صادر ش���ه است.",
+      "lead": "دفتر حفظ و نشر آثار رهبر شهید، در فراخوانی با عنوان «روایت بدرقه»، از عموم مردم، هنرمندان و نویسندگان دعوت کرده است. این فراخو��ن به منظور جمع‌آوری روایت‌ها از آخرین دیدار عمومی ر��بر شهید انقلاب با مردم صادر ش���ه است.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.mashreghnews.ir/news/1823021/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%DA%AF%D8%B1-%D8%A8%D8%AF%D8%B1%D9%82%D9%87-%D8%A2%D9%82%D8%A7%DB%8C-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF",
@@ -21323,7 +21657,7 @@
         "negative": 0
       },
       "pubDate": "Fri, 03 Jul 2026 20:33:00 GMT",
-      "time": "۰۰:۰۳ - ۱۳ تیر",
+      "time": "۰۰:۰۳ - ۱�� تیر",
       "analyzed_at": "2026-07-03T21:02:24.264Z"
     },
     {
@@ -21616,7 +21950,7 @@
       "keep": true,
       "title": "Fans express disappointment after HBO Max removes popular cartoon",
       "title_fa": "ابراز ناامیدی طرفداران پس از حذف یک کارتون محبوب توسط HBO Max",
-      "lead": "طرفداران یک کارتون محبوب پس از اینکه HBO Max آن را از پلتفرم خود حذف کرد، ابراز ناامیدی کردند. این اقدام باعث نارضایتی بسیاری از تماشاگران این سریال انیمیشنی شده است.",
+      "lead": "طرفداران یک کارتون محبوب پس از اینکه HBO Max آن را از پلتفرم خود حذف کرد، ابراز نا��میدی کردند. این اقدام باعث نارضایتی بسیاری از تماشاگران این سریال انیمیشنی شده است.",
       "category": "culture",
       "region": "global",
       "sourceUrl": "https://www.independent.co.uk/bulletin/culture/samurai-jack-hbo-max-streaming-b3008688.html",
@@ -22211,7 +22545,7 @@
       "agencyId": "mashregh",
       "keep": true,
       "title": "تعطیلی رسمی بغداد به مناسبت مراسم تشییع رهبر شهید امت",
-      "title_fa": "تعطیلی رسمی بغداد به مناسبت مراسم تشییع رهبر شهید امت",
+      "title_fa": "تعطیلی رسمی بغداد به مناسبت ��راسم تشییع رهبر شهید امت",
       "lead": "استان بغداد به مناسبت برگزاری مراسم تشییع \"قائد شهید امت اسلام\" در عراق تعطیل رسمی اعلام شد. این تعطیلی به منظور مشارکت گسترده مردم در این مراسم برگزار شده است.",
       "category": "politics",
       "region": "global",
@@ -23086,7 +23420,7 @@
       "keep": true,
       "title": "Heavy rain floods Mumbai during intense monsoon spell",
       "title_fa": "باران شدید در طول فصل موسمی شدید، بمبئی را سیلابی کرد",
-      "lead": "باران‌های شدید موسمی بخش‌هایی از بمبئی، پایتخت مالی هند، را زیر آب برده و سیل گسترده‌ای ایجاد کرده است. این وضعیت اختلالات عمده‌ای در زندگی روزمره و زیرساخت‌های شهر به وجود آورده است.",
+      "lead": "باران‌های شدید موسمی بخش‌هایی از بمبئی، پایتخت مال�� هند، را زیر آب برده و سیل گسترده‌ای ایجاد کرده است. این وضعیت اختلالات عمده‌ای در زندگی روزمره و زیرساخت‌های شهر به وجود آورده است.",
       "category": "environment",
       "region": "asia",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss",
@@ -23696,7 +24030,7 @@
       "keep": true,
       "title": "The U.S. at 250: Terminally Ill or Just Very Sick?",
       "title_fa": "ایالات متحده در ۲۵۰ سالگی: در حال احتضار یا فقط بسیار بیمار؟",
-      "lead": "کارشناسان در حال بررسی این موضوع هستند که آیا یکی از قدیمی‌ترین دموکراسی‌های جهان می‌تواند باقی بماند یا خیر. این بحث‌ها به مناسبت ۲۵۰ سالگی استقلال آمریکا و چالش‌های فعلی ��ن مطرح م��‌شود.",
+      "lead": "کارشناسان در حال بررسی این موضوع هستند که آیا یکی از قدیمی‌ترین دموکراسی‌های جهان می‌تواند باقی بماند یا خیر. این بحث‌ها به مناسبت ۲۵۰ سالگی استقلال آمریک�� و چالش‌های فعلی ��ن مطرح م��‌شود.",
       "category": "politics",
       "region": "americas",
       "sourceUrl": "https://foreignpolicy.com/2026/07/02/united-states-250-independence-day-democracy-president/",
@@ -24379,828 +24713,6 @@
         "negative": 30
       },
       "analyzed_at": "2026-07-03T17:18:28.451Z"
-    },
-    {
-      "id": "reuters_0",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "EXCLUSIVE: Iran exploring oil sales to Japan, buyers seek longer sanctions waiver, sources say - Reuters",
-      "title_fa": "اختصاصی: ایران در حال بررسی فروش نفت به ژا��ن؛ خریداران به دنبال تمدید معافیت تحریمی هستند",
-      "lead": "منابع خبری اعلام کردند که ایران در حال بررسی فروش نفت به ژاپن است. همزمان، خریداران ژاپنی به دنبال تمدید معافیت از تحریم‌های نفتی ایران هستند.",
-      "category": "energy",
-      "region": "iran",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlpxZVF6RnlianRMXzVTT05hLXpuT3FCY3pCRzMweXJjUDF5N2pJa3hYOXJzdTFpMTJpWUhKckZZWlllM2pVbzRFcGQ3SUlKZWRyNmRNaW9hNWdBNEU1d2JLYnp2YWJxU2doQXl2bVdZTDlMaWJFbHJiR19VZFVwTHAydHZudzdEN0xJWTdsczNkSmQtZVNUb0FJcjVhV0NSWWJDNEVvcFE1M0RTM2VnSFFPRm1tNGpwTklqSXdUYklQZWIy?oc=5",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 13:23:05 GMT",
-      "time": "۱۶:۵۳ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T17:04:20.923Z"
-    },
-    {
-      "id": "yjc_1",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "ضرب‌الاجل عمرانی فارس برای کاهش تصادفات جاده‌ای",
-      "title_fa": "ضرب‌الاجل معاونت عمرانی فارس برای کاهش تصادفات جاده‌ای",
-      "lead": "معاون هماهنگی ام��ر عمرانی استانداری فارس ب�� ضرورت کاهش تصادفات جاده‌ای و ارتقای ایمنی راه‌ها تاکید کرد. او خواستار همکاری دستگاه��های اجرایی و انتظامی برای شناسایی و رفع نقاط حادثه‌خیز استان شد.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104340/ضرب‌الاجل-عمرانی-فارس-برای-کاهش-تصادفات-جاده‌ای",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 17:17:33 +0330",
-      "time": "۱۷:۱۷ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T17:04:20.923Z"
-    },
-    {
-      "id": "asriran_2",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "اردوغان به ایران سفر می کند؟",
-      "title_fa": "آیا اردوغان به ایران سفر می‌کند؟",
-      "lead": "معاون رئیس‌جمهور ترکیه اعلام کرد که آنکارا اهمیت زیادی برای توسعه روابط با ایران قائل است. او ابراز امیدواری ک��د که پس از تثبیت شرایط، گفت‌وگوهای سیاسی در ��الی‌ترین سطوح میان دو کشو�� ادامه یابد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174841/اردوغان-به-ایران-سفر-می-کند",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 17:11:06 +0330",
-      "time": "۱۷:۱۱ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T17:04:20.923Z"
-    },
-    {
-      "id": "asriran_3",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "درهای مصلی تهران از ساعت ۶ صبح ش��به به روی مردم باز می شود",
-      "title_fa": "درهای مصلی تهران برای مراسم وداع با رهبر شهید از شنبه باز می‌شود",
-      "lead": "درهای مصلی ت��ران از ساعت ۶ صبح روز شنبه ۱۳ تیر به روی مرد�� باز خواهد شد. این مرا��م برای وداع مردمی با پیکر مطهر رهبر شهید انقلاب و خانواده ایشان برگزار می‌شود.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174840/درهای-مصلی-تهران-از-ساعت-6-صبح-شنبه-به-روی-مردم-باز-می-شود",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 50,
-        "negative": 50
-      },
-      "pubDate": "03 Jul 2026 17:09:14 +0330",
-      "time": "۱۷:۰۹ - ۱۲ تی��",
-      "analyzed_at": "2026-07-03T17:04:20.923Z"
-    },
-    {
-      "id": "asriran_4",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "جاده چالوس و آزادراه تهران–شمال دوطرفه شد",
-      "title_fa": "جاده چالوس و آزادراه تهران–شمال دوطرفه شد؛ ترافیک سنگین در برخی محورها",
-      "lead": "رئیس پلیس راه راهور فراجا از دوطرفه شدن جاده چالوس و آزادراه تهران–شمال خبر داد. او افزود که در محور چالوس و هراز ترافیک سنگینی گزارش شده است.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174839/جاده-چالوس-و-آزادراه-تهران-شمال-دوطرفه-شد",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 16:59:15 +0330",
-      "time": "۱۶:۵۹ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T17:04:20.923Z"
-    },
-    {
-      "id": "asriran_5",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "عکس‌های کمتر دیده شده از رهبر شهید انقلاب",
-      "title_fa": "انتشار عکس‌های کمتر دیده شده از رهبر شهید انقلاب",
-      "lead": "آرشیو ملی ایران در آستانه برگزاری مراسم وداع و تشییع رهبر شهید انقلاب، تصاویری از ایشان را ��نتشر کرد. این عکس‌ها شامل لحظاتی کمتر دیده شده از دوران زندگی این شخصیت برجسته است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174838/عکس-های-کمتر-دیده-شده-ا��-رهبر-شهید-انقلاب",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 16:48:17 +0330",
-      "time": "۱۶:۴۸ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T17:04:20.923Z"
-    },
-    {
-      "id": "asriran_6",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "اتحادیه اروپا �� تبعه روس را به اتهام نقش در مرگ ناوالنی تحریم کرد",
-      "title_fa": "اتحادیه اروپا ۶ تبعه روس را به اتهام نقش در مرگ نا��النی تحریم کرد",
-      "lead": "شورای اتحادیه اروپا در بیانیه‌ای ۶ تبعه روس را به اتهام نقش در مرگ ناوالنی تحریم کرد. این افراد از دانشمندان و پژوهشگران بخش نظامی روسیه هستند که در توسعه مواد شیمیایی سمی نقش داشته‌اند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174837/اتحادیه-اروپا-6-تبعه-روس-��ا-به-اتهام-نقش-در-مرگ-ناوالنی-تحریم-کرد",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "03 Jul 2026 16:43:17 +0330",
-      "time": "۱۶:۴۳ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T17:04:20.923Z"
-    },
-    {
-      "id": "asriran_7",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "آغاز محدودیت‌های ترافیکی مراسم وداع با رهبر شهید از دقایقی پیش در محدوده مصلی تهران",
-      "title_fa": "محدودیت‌های ترافیکی مراسم وداع با رهبر شهید در محدوده مصلی تهران آغاز شد",
-      "lead": "محدودیت‌های ترافیکی برای مراسم وداع با رهبر شهید از دقایقی پیش در محدوده مصلی تهران آغاز شده است. این محدودیت‌ها در خیابان‌های منتهی به مصلی اعمال شده و از شرکت‌کنندگان خواسته شده از حمل‌ونقل عمومی استفاده کنند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174835/آغاز-محدودیت-های-ترافیکی-مراسم-وداع-با-رهبر-شهید-از-دقایقی-پیش-در-محدوده-مصلی-تهران",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 16:26:26 +0330",
-      "time": "۱۶:۲۶ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T17:04:20.923Z"
-    },
-    {
-      "id": "yjc_14",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "پیدا شدن جسد ��وان غرق‌ شده در سد ایلام",
-      "title_fa": "پیدا شدن جسد ج��ان غرق‌ شده در سد ایلام",
-      "lead": "رئیس هیات نجات غریق و غواصی ایلام از کشف و خروج پیکر بی‌جان یک جوان ۲۸ ساله از آب‌های سد «چم‌گردلان» ایل��م ��بر داد. این حادثه موجب تکرار هشدارها درباره خطرات شنا در سدهای استان شد.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104341/پیدا-شدن-جسد-جوان-غرق‌-شده-در-سد-ایلام",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "03 Jul 2026 17:21:38 +0330",
-      "time": "۱۷:۲۱ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T17:04:20.923Z"
-    },
-    {
-      "id": "asriran_0",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "بوی نامطبوع از یک منزل مسکونی منجر به کشف جسد یک مرد شد",
-      "title_fa": "بوی نامطبوع از یک منزل مسکونی منجر به کشف جسد یک مرد شد",
-      "lead": "بوی نامطبوعی که از یک منزل مسکونی به مشام می‌رسید، به کشف جسد یک مرد انجامید. جسد اکنون برای بررسی بیشتر و مشخص شدن علت مرگ، به پزشکی قانونی منتقل شده است.",
-      "category": "crime",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174842/بوی-نامطبوع-از-یک-منزل-مسکونی-منجر-به-کشف-جسد-یک-مرد-شد",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "03 Jul 2026 17:20:52 +0330",
-      "time": "۱۷:۲۰ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T17:04:20.923Z"
-    },
-    {
-      "id": "aljazeera_1",
-      "agencyId": "aljazeera",
-      "keep": true,
-      "title": "‘If it dies, it’s on you’: Saving Nigeria’s Benin bronze casting",
-      "title_fa": "«اگر بمیرد، مسئولیتش با شماست»: نجات هنر ریخته‌گری برنز بنین در نیجریه",
-      "lead": "در پسِ داستان جهانی ��ازگرداندن آثار باستانی، استادکاران در تلاشند تا یک هنر چند صد ساله را زنده نگه دارند. این نبرد برای حفظ میراث فرهنگی نیجریه و هنر ری��ته‌گری برنز بنین، مسئولیت جهانی به همراه دارد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.aljazeera.com/features/longform/2026/7/3/if-it-dies-its-on-you-saving-nigerias-benin-bronze-casting?traffic_source=rss",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 60,
-        "neutral": 20,
-        "negative": 20
-      },
-      "pubDate": "Fri, 03 Jul 2026 12:12:59 +0000",
-      "time": "۱۵:۴۲ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T17:04:20.923Z"
-    },
-    {
-      "id": "reuters_0",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Khamenei lies in state in Tehran as Iran begins week of funeral ceremonies - Reuters",
-      "title_fa": "پیکر خامنه‌ای در تهران به نمایش گذاشته شد؛ ایران هفته مراسم تشییع را آغاز می‌کند",
-      "lead": "پیکر آیت‌الله علی خامنه‌ای، رهبر معظم ایران�� در تهران برای مراسم وداع به نمایش گذاشته شده است. ایران هفته‌ای از مراسم تشییع و ترحی�� را برای او آغاز کرده که رویدادی ملی و مهم به شمار می‌رود.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXpMemJHeWdSem1ZSTR1aFZMQjgzNzZna1VrRmFIQVVkUkQzVUp4QzV1LXBhUjdOVHRWWkF0dHJyc0ZIZDhmUXNMYjVOZWs5dFNONVEwUGJmQlFNYXpLalM2Y25NMjI5UXVMNzhaMmhDaHVQb1VvMzJGZEFSMUxJN3JhWllBVzE5RFZiVzRhUks0MlBuXzZBaTNUM2QybVlyNUlabG9jekdSN3hTR3ZQZGxheTJ4ZXVGRW9lMG9VX3JOQQ?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 80,
-        "negative": 10
-      },
-      "pubDate": "Fri, 03 Jul 2026 14:06:39 GMT",
-      "time": "۱۷:۳۶ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "reuters_1",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "EXCLUSIVE: Iran exploring oil sales to Japan, buyers seek longer sanctions waiver, sources say - Reuters",
-      "title_fa": "اختص��صی: ایران در حال بررسی فروش نفت به ژاپن است؛ خریداران به دنبال معافیت طولانی‌تر از تحریم‌ها هستند، منابع می‌گویند",
-      "lead": "بر اساس گزارش‌های اختصاصی، ایران در حال بررسی گزینه‌هایی برای فروش نفت به ژاپن است. خریداران برای تسهیل این معاملات احتمالی، به دنبال معافیت طولانی‌تری از تحریم��ها هستند.",
-      "category": "energy",
-      "region": "iran",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlpxZVF6RnlianRMXzVTT05hLXpuT3FCY3pCRzMweXJjUDF5N2pJa3hYOXJzdTFpMTJpWUhKckZZWlllM2pVbzRFcGQ3SUlKZWRyNmRNaW9hNWdBNEU1d2JLYnp2YWJxU2doQXl2bWdZTDlMaWJFbHJiR19VZHVwTHAydHZudzdEN0xJWTdsczNkSmQtZVNUb0FJcjVhV0NSWWJDNEVvcFE1M0RTM2VnSFFPRm1tNGpwTklqSXdUYklQZWIy?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 60,
-        "negative": 10
-      },
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "irna_2",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "اعزام ۲۶۰۰ زائر مینابی در قالب کاروان «کربلای ایران، میناب ۱۶۸» به مراسم تشییع رهبر شهید",
-      "title_fa": "اعزام ۲۶۰۰ زائر مینابی به مراسم تشییع رهبر شهید در قالب کاروان «کربلای ایران، می��اب ۱۶۸»",
-      "lead": "فرماندار ویژه میناب از برنامه‌ریزی برای اعزام ۲۶۰۰ زائر از این شهرستان به مراسم تشییع رهبر شهید انقلاب خبر داد. او افزود که تمامی ��رفیت‌های دولتی و مردمی برای پشتیبانی از کاروان «کربلای ایران - میناب ۱۶۸» در نظر گرفته شده است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86199867/%D8%A7%D8%B9%D8%B2%D8%A7%D9%85-%DB%B2%DB%B6%DB%B0%DB%B0-%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%DB%8C%D9%86%D8%A7%D8%A8%DB%8C-%D8%AF%D8%B1-%D9%82%D8%A7%D9%84%D8%A8-%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86-%DA%A9%D8%B1%D8%A8%D9%84%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%DB%8C%D9%86%D8%A7%D8%A8-%DB%B1%DB%B6%DB%B8",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 15:36:00 GMT",
-      "time": "۱۹:۰۶ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "khabaronline_3",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "رازهای ناگفته قتل میرزاده عشقی؛ ترور سیاسی یا انتقام عاشقانه؟/ روزگار شاعرِ شاکیِ مشروطه‌خواه",
-      "title_fa": "رازهای ناگفته قتل میرزاده عشقی: ترور سیاسی یا انتقام عاشقانه؟",
-      "lead": "این مقاله به رازهای ناگفته قتل میرزاده عشقی، شاعر برجسته و مشروطه‌خواه می‌پردازد. این گزارش بررسی می‌کند که آیا مرگ او یک ترور سیاسی بوده یا ناشی از انتقام عاشقانه، و به زندگی و چالش‌های این شاعر می‌نگرد.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2233345/%D8%B1%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%DA%AF%D9%81%D8%AA%D9%87-%D9%82%D8%AA%D9%84-%D9%85%DB%8C%D8%B1%D8%B2%D8%A7%D8%AF%D9%87-%D8%B9%D8%B4%D9%82%DB%8C-%D8%AA%D8%B1%D9%88%D8%B1-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%DB%8C%D8%A7-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82%D8%A7%D9%86%D9%87",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 70,
-        "negative": 20
-      },
-      "pubDate": "Fri, 03 Jul 2026 15:16:16 GMT",
-      "time": "۱۸:۴۶ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "mashregh_4",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "فیلم/ حضور پرشور مردم و فریاد مرگ بر آمریکا در تشییع داماد رهبر شهید انقلاب",
-      "title_fa": "فیلم: حضور پرشور مردم و فریاد «مرگ بر آمریکا» در تشییع داماد رهبر شهید انقلاب",
-      "lead": "مراس�� تشییع و وداع با پیکر شهید مصباح الهدی باقری کنی، داماد رهبر شهید انقلاب، با حضور پرشور مردم در غرب تهران برگزار شد. در این آیین، مردم شعار «مرگ بر آمریکا» سر دادند که نشانگر احساسات ضدآمریکایی در مراسم بود.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1822957/%D9%81%DB%8C%D9%84%D9%85-%D8%AD%D8%B6%D9%88%D8%B1-%D9%BE%D8%B1%D8%B4%D9%88%D8%B1-%D9%85%D8%B1%D8%AF%D9%85-%D9%88-%D9%81%D8%B1%DB%8C%D8%A7%D8%AF-%D9%85%D8%B1%DA%AF-%D8%A8%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D8%AA%D8%B4%DB%8C%DB%8C%D8%B9-%D8%AF%D8%A7%D9%85%D8%A7%D8%AF-%D8%B1%D9%87%D8%A8%D8%B1",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 50,
-        "negative": 30
-      },
-      "pubDate": "Fri, 03 Jul 2026 14:52:20 GMT",
-      "time": "۱۸:��۲ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "yjc_6",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "خیز بلند فارس برای تحول در شبکه لجستیک کشور/از دهکده لجستیک شیراز تا قطب اقتصادی مرودشت",
-      "title_fa": "گام بلند فارس برای تحول در شبکه لجستیک کشور؛ از دهکده لجستیک شیراز تا قطب اقتصادی مرودشت",
-      "lead": "معاون عمرانی استانداری فارس بر تقویت زیرساخت‌های حمل‌ونقل برای جهش اقتصادی استان تاکید کرد. او از برگزاری نشستی تخصصی برای تعیین تکلیف اراضی پارک‌های لجستیک در شهرستان‌های ��قلید و مرودشت خبر داد که گامی مهم در تحول شبکه لجستیک کشور است.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104336/خیز-بلند-فارس-برای-تحول-در-شبکه-لجستیک-کشوراز-دهکده-لجستیک-شیراز-تا-قطب-اقتصادی-مرودشت",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 17:17:02 +0330",
-      "time": "۱۷:۱۷ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "yjc_7",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "عملیات آماده سازی زائرشهر بوستان ولایت",
-      "title_fa": "آماده‌سازی زائرشهر در بوستان ولایت تهران",
-      "lead": "شهرداری تهران امکانات رفاهی، فرهنگی و اجتماعی را برای اسکان ۱۵ هزار زائر از آذربایجان شرقی در بوستان ولایت فراهم کرده است. این عملیات در راستای خدمت‌رسانی به زائران مراسم تشییع رهبر شهید انقلاب اسلامی انجام شده و شامل زائرسراهای مجزا است.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104332/عملیات-آماده-سازی-زائرشهر-بوستان-و��ایت",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 17:13:06 +0330",
-      "time": "۱۷:۱۳ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "asriran_8",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "اردوغان به ایران سفر می کند؟",
-      "title_fa": "آیا اردوغان به ایران سفر می‌کند؟",
-      "lead": "معاون رئیس‌جمهور ترکیه تاکید کرد که آنکارا اهمیت زیادی برای توسعه روابط با ایران قائل است. او ابراز امیدواری کرد که پس از تثبیت شرایط، گفت‌وگوه��ی سیاسی در عالی‌ترین سطوح میان دو کشور ادامه یابد و احتمال سفر اردوغان را مطرح کرد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174841/%D8%A7%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B3%D9%81%D8%B1-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "asriran_9",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "درهای مصلی تهران از ساعت ۶ صبح شنبه به روی مردم باز می شود",
-      "title_fa": "درهای مصلی تهران از ساعت ۶ صبح شنبه به روی مردم باز می‌شود",
-      "lead": "مراسم مردمی وداع با پیکر مطهر رهبر شهید انقلاب و خانواده ایشان از ساعت ۶ صبح روز شنبه در مصلی تهران آغاز می‌شود. درهای مصلی برای این مراسم از همین ساعت به روی مردم باز خواهد شد تا امکان حضور عمومی فراهم گردد.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174840/%D8%AF%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%B5%D9%84%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D8%B3%D8%A7%D8%B9%D8%AA-6-%D8%B5%D8%A8%D8%AD-%D8%B4%D9%86%D8%A8%D9%87-%D8%A8%D9%87-%D8%B1%D9%88%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%A8%D8%A7%D8%B2-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 80,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "asriran_10",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "جاده چالوس و آزادراه تهران–شمال دوطرفه شد",
-      "title_fa": "جاده چالوس و آزادراه تهران–شمال دوطرفه شد",
-      "lead": "رئیس پلیس راه راهور فراجا از دوطرفه شدن جاده چالوس و آزادراه تهران–شمال خبر داد. او همچنین به ترافیک سنگین در محور چالوس (محدوده سیاه‌بیشه) و محور هراز (محدوده سه‌راهی چلاو) در هر دو مسیر اشاره کرد.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174839/%D8%AC%D8%A7%D8%AF%D9%87-%DA%86%D8%A7%D9%84%D9%88%D8%B3-%D9%88-%D8%A2%D8%B2%D8%A7%D8%AF%D8%B1%D8%A7%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%E2%80%93%D8%B4%D9%85%D8%A7%D9%84-%D8%AF%D9%88%D8%B7%D8%B1%D9%81%D9%87-%D8%B4%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "asriran_11",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "عکس‌های کمتر دیده شده از رهبر شهید انقلاب",
-      "title_fa": "عکس‌های کمتر دیده شده از رهبر شهید انقلاب",
-      "lead": "آرشیو ملی ایران در آستانه مراسم وداع و تشییع رهبر شهید انقلاب، تصاویری کمتر دیده شده از ایشان را منتشر کرد. این اقدام در راستای بزرگداشت یاد و خاطره رهبر فقید انجام شده است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174838/%D8%B9%DA%A9%D8%B3-%D9%87%D8%A7%DB%8C-%DA%A9%D9%85%D8%AA%D8%B1-%D8%AF%DB%8C%D8%AF%D9%87-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "asriran_12",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "اتحادیه اروپا ۶ تبعه روس را به اتهام نقش در مرگ ناوالنی تحریم کرد",
-      "title_fa": "اتحادیه اروپا ۶ تبعه روس را به اتهام نق�� در مرگ ناوالنی تحریم کرد",
-      "lead": "شورای اتحادیه اروپا در بیانیه‌ای شش تبعه روس را به اتهام نقش در مرگ ناوالنی تحریم کرد. اتحادیه اروپا مدعی است که این افراد دانشمند و پژوهشگر بخش نظامی روسیه بوده و در توسعه مواد شیمیایی سمی نقش داشته‌اند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174837/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-6-%D8%AA%D8%A8%D8%B9%D9%87-%D8%B1%D9%88%D8%B3-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%D9%86%D9%82%D8%B4-%D8%AF%D8%B1-%D9%85%D8%B1%DA%AF-%D9%86%D8%A7%D9%88%D8%A7%D9%84%D9%86%DB%8C-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%DA%A9%D8%B1%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 30,
-        "negative": 70
-      },
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "yjc_13",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "اجرای ده‌ها کیلومتر فیبر نوری برای پشتیبانی ارتباطی مراسم وداع و تشییع رهبر شهید + فیلم",
-      "title_fa": "اجرای ده‌ها کیلومتر فیبر نوری برای پشتیبانی ارتباطی مراسم وداع و تشییع رهبر شهید",
-      "lead": "مدیر مخابرات استان تهران از اجر��ی ده‌ها کیلومتر فیبر نوری برای پشتیبانی ارتباطی ��راسم وداع و تشییع رهب�� شهید خبر داد. او تاکید کرد که تمامی نیازهای ارتباطی صداوسیما، خبرنگاران و مراجع مسئول به صورت شبانه‌روزی تأمین شده است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104334/اجرای-ده‌ها-کیلومتر-فیبر-نوری-برای-پشتیبانی-ارتباطی-مراسم-وداع-و-تشییع-رهبر-شهید-فیلم",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 16:32:46 +0330",
-      "time": "۱۶:۳۲ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "asriran_14",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "آغاز محدودیت‌های ترافیکی مراسم وداع با رهبر شهید از دقایقی پیش در محدوده مصلی ت��ران",
-      "title_fa": "آغاز محدودیت‌های ترافیکی مراسم وداع با رهبر شهید در محدوده مصلی تهران",
-      "lead": "محدودیت‌های ترافیکی برای مراسم وداع با رهبر شهید از دقایقی پیش در محدوده مصلی تهران آغاز شده است. این محدودیت‌ها در بزرگراه‌های منتهی به مصلی اعمال شده و از مردم خواسته شده برای تردد از حمل و نقل عمومی استفاده کنند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174835/%D8%A2%D8%BA%D8%A7%D8%B2-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AA%D8%B1%D8%A7%D9%81%DB%8C%DA%A9%DB%8C-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D9%88%D8%AF%D8%A7%D8%B9-%D8%A8%D8%A7-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%AF%D9%82%D8%A7%DB%8C%D9%82%DB%8C-%D9%BE%DB%8C%D8%B4-%D8%AF%D8%B1-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D9%87-%D9%85%D8%B5%D9%84%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "irna_0",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "معاون استاندار آذربایجان شرقی: «سرمایه اجتماعی» نبض تپنده حکمرانی است",
-      "title_fa": "معاون استاندار آذربایجان شرقی: «سرمایه اجتماعی» نبض تپنده حکمرانی است",
-      "lead": "معاون سیاسی و اجتماعی استاندار آذربایجان‌شرقی تاکید کرد که سرمایه اجتماعی ارزشمندترین پشتوانه نظام حکمرانی ��ست. وی افزود اعتماد عمومی زمانی در جامعه نهادینه می‌شود که م��دم احساس کنند صدای آن��ن شنیده شده است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86199891/%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%D9%86%D8%A8%D8%B6-%D8%AA%D9%BE%D9%86%D8%AF%D9%87-%D8%AD%DA%A9%D9%85%D8%B1%D8%A7%D9%86%DB%8C",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 30,
-        "negative": 0
-      },
-      "pubDate": "Fri, 03 Jul 2026 15:53:54 GMT",
-      "time": "۱۹:۲۳ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "yjc_6",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "تاکسیرانی و متروی ش��ر فرودگاهی امام ��مینی (ره) در آماده‌باش کامل هستند",
-      "title_fa": "تاکسیرانی و متروی فرودگاه امام خمینی (ره) در آماده‌باش کامل",
-      "lead": "شهر فرودگاهی امام خمینی (ره) اعلام کرد تمامی ظرفیت‌های حمل‌ونقل زمینی آن، شامل تاکسیرانی و مترو، در آماده‌باش کامل هستند. این آماده‌با�� همزمان با برگزاری مراسم وداع و تشییع رهبر شهید صورت گرفته تا به مسا��ران خدمت‌رسانی شود.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104357/ت��کسیرانی-و-متروی-شهر-فرودگاهی-امام-خمینی-ره-در-آماده‌باش-کامل-هستند",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 19:02:19 +0330",
-      "time": "۱۹:۰۲ - ۱�� تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "asriran_7",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "هشدار فراجا: مراقب عملیات روانی دشمن با انتشار اخبار جعلی ب��شید",
-      "title_fa": "هشدار فراجا: م��اقب عملیات روانی دشمن با انتشار اخبار جعلی باشید",
-      "lead": "رئیس پلیس فتا فراجا به مردم هشدار داد که مراقب عملیات روانی دشمن با انتشار اخبار جعلی باشند. وی از مردم خواست به پیام‌های ناشناس و اخبار غیرموثق در شبکه‌های اجتماعی توجه نکنند و از بازنشر آن‌ها بپرهیزند.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174851/هشدار-فراجا-مراقب-عملیات-روانی-دشمن-با-انتشار-اخبار-جعلی-باشید",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 40,
-        "negative": 40
-      },
-      "pubDate": "03 Jul 2026 19:01:14 +0330",
-      "time": "۱۹:۰۱ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "yjc_8",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "انهدام یک تیم تروریستی در شهرستان تفتان سیستان و بلوچستان",
-      "title_fa": "انهدام یک تیم تروریستی در شهرستان تفتان سیستان و بلوچستان",
-      "lead": "یک تیم تروریستی در شهرستان تفتان استان سیستان و بلوچستان شناسایی و منهدم شد. در این عملیات، دو نفر از اعضای این تیم به هلاکت رسیدند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104356/انهدام-یک-تیم-تروریستی-در-شهرستان-تفتان-سیستان-و-بلوچستان",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 30,
-        "negative": 60
-      },
-      "pubDate": "03 Jul 2026 19:00:39 +0330",
-      "time": "۱۹:۰۰ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "isna_9",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "تازه‌های تولید و پخش تلویزیون همزمان با ایام تشییع رهبر شهید",
-      "title_fa": "تازه‌های تولید و پخش تلویزیون همزمان با ایام تشییع رهبر شهید",
-      "lead": "جدیدترین اخبار مربوط به تولید و پخش برنامه‌های تلویزیون و رادیو همزمان ب�� ایام تشییع ر��بر شهید در این گزارش ارائه شده است. این برنامه‌ها شامل پوشش ویژه این مراسم ملی هستند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405041207341/%D8%AA%D8%A7%D8%B2%D9%87-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%88-%D9%BE%D8%AE%D8%B4-%D8%AA%D9%84%D9%88%D9%8A%D8%B2%D9%8A%D9%88%D9%86-%D9%87%D9%85%D8%B2%D9%85%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A7%DB%8C%D8%A7%D9%85-%D8%AA%D8%B4%DB%8C%DB%8C%D8%B9-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "yjc_10",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "هشدار پلیس فتا؛ هوشیاری در برابر عملیات روانی دشمن برای تحت‌الشعاع قرار دادن مراسم تشییع",
-      "title_fa": "هشدار پلیس فتا: هوشیاری در برابر عملیات روانی دشمن برای تحت‌الشعاع قرار دادن مراسم تشی��ع",
-      "lead": "رئیس پلیس فتا فراجا نسبت به تحر��ات دشمن برای ایجاد اختلال در مراسم تشییع پیکر رهبر شهید هشدار داد. وی از مردم خواست در برابر عملیات روانی و جنگ رسانه��ای دشمن هوشیار باشند.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104349/هشدار-پلیس-فتا-هوشی��ری-در-برابر-عملیات-روانی-دشمن-برای-تحت‌الشعاع-قرار-دادن-مراسم-تشییع",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 30,
-        "negative": 50
-      },
-      "pubDate": "03 Jul 2026 18:06:28 +0330",
-      "time": "۱۸:۰۶ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "yjc_11",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "مهار آتش‌سوزی ناشی از برخورد صاعقه به مخزن بنزین در انبار نفت زاهدان",
-      "title_fa": "مهار آتش‌سوزی ناشی از صاعقه در مخزن بنزین انبار نفت زاهدان",
-      "lead": "مدیر شرکت ملی پخش ف��آورده‌های نفتی منطقه زاهدان از مهار سریع آتش‌سوزی در یکی از مخازن بنزین انبار نفت زاهدان خبر داد. این آتش‌سوزی ناشی از برخورد صاعقه بود.",
-      "category": "disaster",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104344/مهار-آتش‌سوزی-ناشی-از-برخورد-صاعقه-به-مخزن-بنزین-در-انبار-نفت-زاهدان",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 40,
-        "negative": 20
-      },
-      "pubDate": "03 Jul 2026 17:30:02 +0330",
-      "time": "۱۷:۳۰ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "yjc_14",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "متهم پرونده ۵۸ میلیون یورویی آستارا بازداشت شد",
-      "title_fa": "متهم پرونده ۵۸ میلیون یورویی در آستارا بازداشت شد",
-      "lead": "دادستان عمومی و انقلاب بندر آستارا از دستگیری فردی دیگر در پرونده تخلف ارزی به ارزش ۵۸ میلیون یورو در این شهرستان خبر داد. این بازداشت یک هفته پس از اعلا�� دستگیری متهم پرونده‌ای دیگر با ارزش ۵۰ میلیون یورو صورت می‌گیرد.",
-      "category": "crime",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104339/متهم-پرونده-۵۸-میلیون-یورویی-آستارا-بازداشت-شد",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 40,
-        "negative": 40
-      },
-      "pubDate": "03 Jul 2026 17:07:44 +0330",
-      "time": "۱۷:۰۷ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "asriran_0",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "کشف کلید جوانسازی سلول‌ها در یک ماده غذایی",
-      "title_fa": "کشف کلید جوانسازی سلول‌ها در یک ماده غذایی",
-      "lead": "کار ما نشان می‌دهد که هم پیری میتوکندری و هم پیری کل بدن، حداقل تا حدودی، تغییرپذیر هستند. اگر فرآیندهای زمینه‌ای را به درستی درک کنیم، ممکن است بتوانیم اقدامات هدفمندی برای مقابله با آن انجام دهیم.",
-      "category": "science",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1174836/کشف-کلید-جوانسازی-سلول-ها-در-یک-ماده-غذایی",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 85,
-        "neutral": 15,
-        "negative": 0
-      },
-      "pubDate": "03 Jul 2026 16:35:31 +0330",
-      "time": "۱۶:۳۵ - ۱۲ تیر",
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
-    },
-    {
-      "id": "aljazeera_1",
-      "agencyId": "aljazeera",
-      "keep": true,
-      "title": "‘If it dies, it’s on you’: Saving Nigeria’s Benin bronze casting",
-      "title_fa": "«اگر از بین برود، مسئولیتش با شماست»: نجات هنر ریخته‌گری برنز بنین نیجریه",
-      "lead": "در پشت پرده داستان بازگرداندن جهانی آثار، صنعتگران ماهر در تلاشند تا یک هنر صدها ساله را زنده نگه دارند. این تلاش‌ها بر حفظ ریخته‌گری برنز بنین در نیجریه متمرکز است.",
-      "category": "culture",
-      "region": "global",
-      "sourceUrl": "https://www.aljazeera.com/features/longform/2026/7/3/if-it-dies-it-s-on-you-saving-nigerias-benin-bronze-casting?traffic_source=rss",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 70,
-        "neutral": 20,
-        "negative": 10
-      },
-      "analyzed_at": "2026-07-03T16:50:53.770Z"
     }
   ]
 }
