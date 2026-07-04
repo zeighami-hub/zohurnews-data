@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_8",
@@ -242,6 +242,30 @@
       "pubDate": "Thu, 02 Jul 2026 12:21:06 +0000",
       "time": "۱۵:۵۱ - ۱۱ تیر",
       "analyzed_at": "2026-07-03T11:03:40.225Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Can the World’s Largest Stadium Explain the Global Economy?",
+      "title_fa": "آی�� بزرگترین استادیوم جهان می‌تواند اقتصاد جهانی را ��وضیح دهد؟",
+      "lead": "این گزارش بررسی می‌کند که چگونه یک استادیوم در ویتنام می‌تواند نمادی برای درک اقتصاد جهانی باشد. رشد بالا و افزایش صادرات در ویتنام، نارضایتی‌های عمیق در این کشور جاه‌طلب آسیایی را پنهان می‌کند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "pubDate": "Thu, 02 Jul 2026 19:43:36 +0000",
+      "time": "۲۳:۱۳ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T11:18:36.383Z"
     }
   ]
 }
