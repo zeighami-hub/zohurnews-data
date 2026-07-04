@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "guardian",
-  "total": 4,
+  "total": 7,
   "articles": [
     {
       "id": "guardian_4",
@@ -98,6 +98,76 @@
       "pubDate": "Fri, 03 Jul 2026 05:26:14 GMT",
       "time": "��۸:۵۶ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T09:02:36.423Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "NSW records first suspected case of deadly H5 bird flu as virus reaches Australia’s east coast",
+      "title_fa": "ایالت نیو سا��ت ولز استرالیا اولین مورد مشکوک آنفلوآنزای مرغی H5 کشنده را ثبت کرد؛ ویروس به سواحل شرقی استرالیا رسید.",
+      "lead": "یک مرغ دریایی غول‌پیکر مهاجر آلوده به H5 در نزدیکی هاوکس نست در شمال نیوکاسل کشف شد. آزمایش‌ها برای تعیین اینکه آیا این سویه H5N1 با بیماری‌زایی بالا است در حال انجام است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/03/bird-flu-australia-first-suspected-case-nsw-deadly-h5n1-virus",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 03:57:00 GMT",
+      "time": "۰۷:۲۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T09:07:44.654Z"
+    },
+    {
+      "id": "guardian_5",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "China says man who flew plane into Beijing skyscraper had mental health problems",
+      "title_fa": "چین اعلام کرد مردی که هواپیما را به آسمان‌خراش پکن کوبید، مشکلات روانی داشته است.",
+      "lead": "مقامات چینی جزئیات رسمی‌تری از حادثه غیرمعمول و مرگبار هفته گذشته در پکن ��رائه کردند. آن‌ها گفتند که این مرد ۶۶ ساله که یک هواپیمای کوچک را به بلندترین آسمان‌خراش پکن کوبید، مشکلات روانی داشت.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/03/china-man-small-plane-beijing-skyscraper-tower-mental-health-problems-statement",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 03:15:13 GMT",
+      "time": "۰۶:۴۵ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T09:07:44.654Z"
+    },
+    {
+      "id": "guardian_5",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
+      "title_fa": "«هر جایزه‌ای به او بدهید، دوان‌دوان می‌آید»: نا��ندرا مودی در سفرهای خارجی خود جوایز متعددی را جمع‌آوری می‌کند",
+      "lead": "نخست‌وزیر هند عاد�� د����رد در سفرهای خود جوایز متعددی را دریافت کند، که برخی از آن‌ها را به عنوان اولین و تنها گیرنده به دست می‌آورد. این روند با دریافت یکی از «بالاترین» جوایز سیشل در سفر اخیرش ادامه یافت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.guardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-07-03T09:07:44.654Z"
     }
   ]
 }
