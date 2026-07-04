@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_8",
@@ -266,6 +266,126 @@
       "pubDate": "Thu, 02 Jul 2026 19:43:36 +0000",
       "time": "۲۳:۱۳ - ۱۱ تیر",
       "analyzed_at": "2026-07-03T11:18:36.383Z"
+    },
+    {
+      "id": "nytimes_10",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran",
+      "title_fa": "روز اول مراسم تشییع رهبر عالی ایران؛ متحدان در ایران گرد هم آمدند",
+      "lead": "شخصیت‌های برجسته خارجی روز جمعه به آیت‌الله سید علی خامنه‌ای ادای احترام کردند. این اقدام در حالی صورت گرفت که مراسم تشییع چند روزه رهبر عالی ایران آغاز شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:39:00 +0000",
+      "time": "۱۹:۰۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
+    },
+    {
+      "id": "nytimes_13",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
+      "title_fa": "مقامات آمریکایی معتقد بودند اسرائیل قصد ترور مذاکره‌کنندگان ایرانی را داشت",
+      "lead": "مقامات آمریکایی نگران بودند که ه��گونه تل��ش اسرائیل برای ترور عباس ��راقچی، وزیر امور خارجه، یا محمد قالیباف، رئیس مجلس، مذاکرات صلح را از مسیر خود خارج کند. این اتهامات می‌تواند تنش‌های منطقه‌ای را به شدت افزایش دهد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 02 Jul 2026 18:53:58 +0000",
+      "time": "۲۲:۲۳ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
+    },
+    {
+      "id": "nytimes_13",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Four Reasons Crimea Has Become Crucial in the Ukraine War",
+      "title_fa": "چهار دلیل ک�� کریمه در جنگ اوکراین حیاتی شده است",
+      "lead": "حملات پهپادی ��زاینده، کمبود سوخت و قطع برق در منطقه کر��مه، که روسیه آن را ضمیمه کرده، از جمله عواملی هستند که فشار بر رئیس‌جمهور ولادیمیر پوتین را افزایش می‌دهند. این تحولات نشان‌دهنده اهمیت استراتژ��ک فزاینده کریمه در جنگ اوکراین است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:54:03 +0000",
+      "time": "۱۸:۲۴ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Woman From Ukraine Was Behind Monaco Bomb Attack, Officials Say",
+      "title_fa": "مقامات می‌گویند زنی از اوکراین عامل حمله بمب‌گذاری موناکو بوده است",
+      "lead": "مقامات اعلام کردند که آناستازیا برزوفسکا، یک زن ۳۹ ساله ا��کراینی، روز دوشنبه تلاش کرده بود سه نفر را با یک بسته بمب‌گذاری شده به قتل برساند. او همچنان متواری است.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/monaco-bomb-suspect-ukraine-anastasiia-berezovska.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:52:21 +0000",
+      "time": "۱۸:۲۲ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
+    },
+    {
+      "id": "nytimes_4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Bus Plunges 70 Feet Into a Ravine in Pakistan, Killing 40",
+      "title_fa": "سقوط اتوبوس به دره در پاکستان، ۴۰ کشته بر جای گذاشت",
+      "lead": "یک اتوبوس مملو از ۴۸ مسافر در پاکستان در یک بزرگراه بسیار خطرناک که دو مرکز استان را به هم وصل می‌کند، ۷۰ فوت به داخل دره سقوط کرد. این حادثه دلخراش منجر به کشته شدن ۴۰ نفر شد.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/asia/pakistan-bus-crash.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 13:38:27 +0000",
+      "time": "۱۷:۰۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
     }
   ]
 }
