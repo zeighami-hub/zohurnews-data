@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "bbc",
-  "total": 13,
+  "total": 16,
   "articles": [
     {
       "id": "bbc_11",
@@ -314,6 +314,78 @@
       "pubDate": "Fri, 03 Jul 2026 14:00:50 GMT",
       "time": "۱۷:۳۰ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T16:18:10.989Z"
+    },
+    {
+      "id": "bbc_4",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Nasa launches mission to save falling space telescope",
+      "title_fa": "ناسا ماموریتی برای نجات تلسکوپ فضایی در حال سقوط را آغاز کرد",
+      "lead": "یک ربات با بودجه ناسا برای گرفتن یک تلسکوپ در حال سقوط به فضا پر��اب شد. این ماموریت با هدف بازگرداندن تلسکوپ به مدار ایمن، پیش از سوختن آن انجام می‌شود.",
+      "category": "science",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 10:28:17 GMT",
+      "time": "۱۳:۵۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:39:08.080Z"
+    },
+    {
+      "id": "bbc_6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "title_fa": "فرانسه ۲,۰۲۵ مرگ و میر اضافی را در اوج موج گرما ثبت کرد؛ اروپا آماده هوای بسیار نامساعدتر می‌شود",
+      "lead": "فرانسه در اوج موج گرما، ۲,۰۲۵ مورد مرگ و میر اضافی را گزارش کرده است. پیش‌بینی‌کنندگان هواشناسی نسبت به افزایش دماهای شدیدتر در قاره اروپا طی روزهای آینده هشدار می‌دهند.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 10:23:32 GMT",
+      "time": "۱۳:۵۳ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:39:08.080Z"
+    },
+    {
+      "id": "bbc_9",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
+      "title_fa": "دست‌کم ۳۲ کشته در پی سقو�� اتوبوس شلوغ به دره‌ای در پاکستان",
+      "lead": "دست‌کم ۳۲ نفر پس از سقوط یک اتوبوس پر از مسافر به دره‌ای در پاکستان جان باختند. این اتوبوس در مسیر کویته به پیشاور در حال حرکت بود که در رشته‌کوه دانا سار دچار حادثه شد.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czrxezg60x1o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 03 Jul 2026 09:56:57 GMT",
+      "time": "۱۳:۲۶ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:39:08.080Z"
     }
   ]
 }
