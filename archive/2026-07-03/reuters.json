@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "reuters",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "reuters_2",
@@ -72,6 +72,28 @@
       "pubDate": "Sun, 28 Jun 2026 22:11:01 GMT",
       "time": "۰۱:۴۱ - ۸ تیر",
       "analyzed_at": "2026-07-03T09:07:44.654Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran war and AI boom drive wild ride on global markets - Reuters",
+      "title_fa": "جنگ ایران و رونق هوش مصنوعی، بازارهای جهانی را دستخوش نوسانات شدید کرده است",
+      "lead": "گزارش رویترز حاکی از آن است که جنگ ایران و شکوفایی هوش مصنوعی، موجب نوسانات شدید در بازارهای جهانی شده است. این دو عامل به ��ور همزمان، چشم‌انداز اقتصادی بین‌المللی را بی‌ثبات کرده‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTNpc0JlcmktcWZKeE1Ra0hLYzNaNkZYSDBIQlhTM1VnLV9tZ2NuNDBuTDljWmhRTGR1bDJHZkRSdzJmY0hFNWNpRzFpenZ2NFAtOVRjdDJjZWFyWXBLN1U2QVB6RmZLMFA5YXM1R05GaXh2TDBmelpfMlpobUhRZHNXdWtPRVhV?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-07-03T11:03:40.225Z"
     }
   ]
 }
