@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 7,
   "articles": [
     {
       "id": "bbc_11",
@@ -74,6 +74,102 @@
       "pubDate": "Fri, 03 Jul 2026 08:36:23 GMT",
       "time": "۱۲:۰۶ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T09:02:36.423Z"
+    },
+    {
+      "id": "bbc_3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+      "title_fa": "بی‌بی‌سی فاش کرد: اینستاگرام در هند تبلیغاتی برای ترویج مواد سوءاستفاده جنسی از کودکان پخش می‌کند.",
+      "lead": "این تبلیغات از اصطلاحاتی مانند «تجاوز» و «ویدیوی کودک» استفاده کرده و به محتوا در اپلیکیشن پیام‌رسان تلگرام لینک می‌دهند. این یافته‌ها سوالا�� جدی در مورد مسئولیت پلتفرم‌ها و امنیت کودکان مطرح می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 03 Jul 2026 03:50:18 GMT",
+      "time": "۰۷:۲۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T09:07:44.654Z"
+    },
+    {
+      "id": "bbc_6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "After 250 years the American Dream is surviving, but only just",
+      "title_fa": "پس از ۲۵۰ سال، رویای آمریکایی هنوز زنده است�� اما به سختی",
+      "lead": "رویای آمریکایی از زمان بنیان‌گ��اران این کشور دوام آورده است. با این حال، ایمان به این آرمان در حال کمرنگ شدن است و با چالش‌های جدی روبروست.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Thu, 02 Jul 2026 23:14:29 GMT",
+      "time": "۰۲:۴۴ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T09:07:44.654Z"
+    },
+    {
+      "id": "bbc_10",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "A mayor in Japan announced her maternity leave - and got the whole country talking",
+      "title_fa": "اعلام مرخصی زایمان توسط یک شهردار زن در ژاپن کشور را به واکنش واداشت",
+      "lead": "شوکو کاواتا، شهردار ۳۵ ساله ژاپنی، با وجود انتقادها می‌گوید که عاشق کارش است. او افتخار می‌کند که برای به دنیا آوردن فرزندش مرخصی گرفته و این موضوع بحث‌های گسترده‌ای را در کشور به راه انداخته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1mykzj15xno?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 25,
+        "neutral": 50,
+        "negative": 25
+      },
+      "pubDate": "Thu, 02 Jul 2026 22:00:11 GMT",
+      "time": "۰۱:۳۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T09:07:44.654Z"
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ebola treatments trial begins in DR Congo",
+      "title_fa": "آغاز آزمایش درمان‌های ابولا در کنگو دموکراتیک",
+      "lead": "سازمان جهانی بهداشت اعلام کرد که در جمهوری دموکراتیک کنگو ۱۴۰۶ مورد تایید شده و ۳۰۱ مورد مشکوک به بیماری ابولا گزارش شده است. تاکنون ۴۳۸ نفر بر اثر این بیماری جان خود را از دست داده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Thu, 02 Jul 2026 21:21:36 GMT",
+      "time": "۰۰:۵۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T09:07:44.654Z"
     }
   ]
 }
