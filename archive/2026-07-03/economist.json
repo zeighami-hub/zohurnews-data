@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "economist",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "economist_1",
@@ -434,6 +434,30 @@
       "pubDate": "Thu, 23 Apr 2026 13:09:20 +0000",
       "time": "۱۶:۳۹ - ۳ اردیبهشت",
       "analyzed_at": "2026-07-03T15:48:33.662Z"
+    },
+    {
+      "id": "economist_9",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "NATO ponders how to defend Eastern Europe as America pulls back",
+      "title_fa": "ناتو در مورد چگونگی دفاع از اروپای شرقی همزمان با عقب‌نشینی آمریکا تأمل می‌کند",
+      "lead": "ناتو در حال بررسی استراتژی‌های دفاعی برای اروپای شرقی است، در حالی که ایالات متحده نیروهای خود را از منطقه عقب می‌کشد. این موضوع نگرانی‌هایی را در مورد امنیت و توازن قدرت در منطقه ایجاد کرده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.economist.com/international/2026/07/02/nato-ponders-how-to-defend-eastern-europe-as-america-pulls-back",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Thu, 02 Jul 2026 14:22:37 +0000",
+      "time": "۱۷:۵۲ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T18:04:36.829Z"
     }
   ]
 }
