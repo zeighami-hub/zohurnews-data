@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "reuters",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "reuters_2",
@@ -48,6 +48,30 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-03T09:02:36.423Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran and US agree to halt attacks and renew talks, US official says - Reuters",
+      "title_fa": "رویترز: مقامات آمریکایی می‌گویند ایران و آمریکا بر سر توقف حملات و ازسرگیری مذاکرا�� به توافق رسیده‌اند",
+      "lead": "یک مقام آمریکایی به رویترز اعلام کرد که ایران و ایالات متحده توافق کرده‌اند تا حملات را متوقف کرده و مذاکرات را از سر بگیرند. این خبر حاکی از گامی احتمالی برای کاهش تنش‌ها بین دو کشور است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa1VBd0lTLXNIN1ZWWnpuTUVydFpzcmdpU2ZnRFRjVlk2djhWNk1HNi1Hd1V4Q3d4czhkOHE3TzdmQ045Wkl2bUktNURLTTdNU1ZJZGhKbDd5YnY3RXZCak5OTXZNTVM1V1lpM0F1WG9tOTJOYy1zRUY4VG8wazNTU29wRFh5clkzMnFxeWdBWUdyVk1GVmhWUDRmT3E5WTJkSmlaWFJWYk5RUXQ3QnRiTWUyRE81T0d1ODhYSDJEM0FTNUxBZXFmbGtoX3F4SkE?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Sun, 28 Jun 2026 22:11:01 GMT",
+      "time": "۰۱:۴۱ - ۸ تیر",
+      "analyzed_at": "2026-07-03T09:07:44.654Z"
     }
   ]
 }
