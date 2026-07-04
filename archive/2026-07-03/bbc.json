@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "bbc",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "bbc_11",
@@ -386,6 +386,30 @@
       "pubDate": "Fri, 03 Jul 2026 09:56:57 GMT",
       "time": "۱۳:۲۶ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T16:39:08.080Z"
+    },
+    {
+      "id": "bbc_9",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "title_fa": "بازمانده زمین‌لرزه ونزوئلا پس از هشت روز زنده از زیر آوار بیرون کشیده شد",
+      "lead": "هرنان گیل پس از هشت روز از زیر یک پارکینگ طبقاتی فروریخته در ونزوئلا، زنده بیرون کشیده شد. این واقعه نمادی از امید در میان فاجعه زمین‌لرزه اخیر است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 06:38:45 GMT",
+      "time": "۱۰:۰۸ - ۱�� تیر",
+      "analyzed_at": "2026-07-03T17:49:07.534Z"
     }
   ]
 }
