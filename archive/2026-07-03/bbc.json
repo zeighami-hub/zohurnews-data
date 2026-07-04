@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "bbc",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "bbc_11",
@@ -170,6 +170,30 @@
       "pubDate": "Thu, 02 Jul 2026 21:21:36 GMT",
       "time": "۰۰:۵۱ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T09:07:44.654Z"
+    },
+    {
+      "id": "bbc_3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "'Most massive' Russian attack on Kyiv kills at least 30",
+      "title_fa": "«عظیم‌ترین» حمله روسیه به کی‌یف دست‌کم ۳۰ کشته بر جای گذاشت",
+      "lead": "آخرین رگبار حملات، بیشترین تعداد تسلیحات را بر پایتخت اوکراین فرود آورد و مناطق وسیعی را هدف قرار داد. این حمله م��جر به کشته شدن دست‌کم ۳۰ نفر در کی‌یف شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 04:41:05 GMT",
+      "time": "۰۸:۱۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T11:03:40.225Z"
     }
   ]
 }
