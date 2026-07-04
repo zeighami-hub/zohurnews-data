@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_8",
@@ -530,6 +530,30 @@
       "pubDate": "Fri, 03 Jul 2026 01:43:33 +0000",
       "time": "۰۵:۱۳ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T16:39:08.080Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A U.S. Independence Celebration Damaged a Museum in Belgium",
+      "title_fa": "جشن استقلال آمریکا به موزه‌ای در بلژیک آسیب رساند",
+      "lead": "پس از نمایش آتش‌بازی در پارک مرکزی بروک��ل، علائم سیاهی بر روی یک سازه باقی مانده است. سفیر آمریکا در بلژیک این موضوع را تأیید کرده است که نشان‌دهنده آسیب به موزه است.",
+      "category": "diplomacy",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/belgium-building-damaged-america-250-fireworks.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Fri, 03 Jul 2026 17:19:51 +0000",
+      "time": "۲۰:۴۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
     }
   ]
 }
