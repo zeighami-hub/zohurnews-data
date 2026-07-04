@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "foreignpolicy",
-  "total": 13,
+  "total": 16,
   "articles": [
     {
       "id": "foreignpolicy_9",
@@ -312,6 +312,78 @@
       "pubDate": "Wed, 01 Jul 2026 13:57:36 +0000",
       "time": "۱۷:۲۷ - ۱۰ تیر",
       "analyzed_at": "2026-07-03T20:03:23.543Z"
+    },
+    {
+      "id": "foreignpolicy_1",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Gen Z Goes to Hollywood",
+      "title_fa": "نسل زد به هالیوود می‌رود",
+      "lead": "سه فیلم تابستانی بازتاب‌دهنده حساسیت‌های یک نسل است. این تحلیل به بررسی تأثیر نسل زد بر صنعت فیلم‌سازی و محتوای هالیوود می‌پردازد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/02/obsession-backrooms-amazing-digital-circus-movie-review-gen-z-hollywood/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Thu, 02 Jul 2026 19:00:53 +0000",
+      "time": "۲۲:۳۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T21:19:38.937Z"
+    },
+    {
+      "id": "foreignpolicy_4",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "A Short Economic History of the United States",
+      "title_fa": "تاریخچه کوتاه اقتصادی ایالات متحده",
+      "lead": "این مقاله به بررسی تاریخچه اقتصادی ایالات متحده از یک اقتصاد مبتنی بر برده‌داری تا ت��دیل شدن به یک امپراتوری جهانی در ۲۵۰ سال می‌پردازد. تحولات اقتصادی و اجتماعی این کشور در طول این دوره مورد تحلیل قرار گرفته است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/02/united-states-economy-slavery-empire-immigration-socialism/",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Thu, 02 Jul 2026 17:23:28 +0000",
+      "time": "۲۰:۵۳ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T21:19:38.937Z"
+    },
+    {
+      "id": "foreignpolicy_5",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "America, the Once Global Nation",
+      "title_fa": "آمریکا، کشوری که زمانی جهانی بود",
+      "lead": "ایالات متحده در ۲۵۰ سالگی خود در حا�� تلاش برای کنار آمدن با دنیایی است که خود آن را ایجاد کرده است. این مقاله به بررسی چالش‌ها و موقعیت کنونی آمریکا در صحنه جهانی می‌پردازد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/02/america-the-once-global-nation/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Thu, 02 Jul 2026 16:30:58 +0000",
+      "time": "۲۰:۰۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-03T21:19:38.937Z"
     }
   ]
 }
