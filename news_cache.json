@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T18:03:48.434Z",
-  "total": 1030,
-  "new_this_cycle": 1,
+  "generated_at": "2026-07-04T18:18:41.233Z",
+  "total": 1017,
+  "new_this_cycle": 4,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,102 @@
     }
   ],
   "articles": [
+    {
+      "id": "foreignpolicy_0",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "The MOU Is Paying Off Early for Iran",
+      "title_fa": "تفاهم‌نامه برای ایران زودتر از موعد سودآور شده است",
+      "lead": "واشنگتن و تهران درگیر یک «یادداشت تفاهم متقابل سوءتفاهم» هستند. این تفاهم‌نامه به نظر می‌رسد منافع زودهنگامی را برای ایران به همراه داشته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/02/mou-iran-us-talks-doha-strait-hormuz-oil-sanctions-profits-exports/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "pubDate": "Thu, 02 Jul 2026 15:56:26 +0000",
+      "time": "۱۹:۲۶ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T18:18:33.901Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran's Revolutionary Guards say they killed Kurdish militants in northwest Iran - Reuters",
+      "title_fa": "سپاه پاسداران ایران از کشته شدن شبه‌نظامیان کُرد در شمال غرب کشور خبر داد",
+      "lead": "سپاه پاسداران انقلاب اسلامی ایران اعلام کرد که تعدادی از شبه‌نظامیان کُرد را در شمال غرب کشور به هلاکت رسانده است. این عملیات در راستای تامین امنیت مناطق مرزی ایران انجام شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS0JnV1Rxc1p1a0NNYXNXTzM4UEZVdU5TVlMwdzZhNGVnVFY5NzU0WEhOQUFNMkFJdjI5V19UQWRHa3VjSHhSTG9oMGc2dFZ2SE1ra1B6UWptdGtsallUdUF4M3JUYzg1TTZVYzJZRkpLZm9iZzNVZ2dLUTV4T2NQU1RlN01qZUowTVdJM1d3cUFMMnctUTdSWnVXWVlubzZVQkVQMkNMblZ3NzBaVmw3OFFIc2JYbHlPdmJkajVYYmRweTV0TFRfZ1RZY2FvSE0?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 11:56:46 GMT",
+      "time": "۱۵:۲۶ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T18:18:33.901Z"
+    },
+    {
+      "id": "guardian_6",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
+      "title_fa": "مرد ونزوئلایی هشت روز پس از زلزله از زیر آوار مرکز خرید نجات یافت",
+      "lead": "یک نگهبان ۴۳ ساله به نام هرنان آلبرتو گیل فلورس، هشت روز پس از زلزله ویرانگر ونزوئلا، زنده از زیر آوار یک مرکز خرید نجات پیدا کرد. او در ابتدا از امدادگران خواسته بود در صورت عدم بقا، به همسرش خبری ندهند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 17:24:06 GMT",
+      "time": "۲۰:۵۴ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T18:18:33.901Z"
+    },
+    {
+      "id": "guardian_7",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Canadian boy dies of rabies after waking to find bat on his face",
+      "title_fa": "مرگ نوجوان کانادایی بر اثر هاری پس از بیدار شدن با خفاش روی صورتش",
+      "lead": "یک پسر یازده ساله کانادایی پس از اینکه با وجود خفاشی روی صورتش بیدار شد، بر اثر ابتلا به بیماری هاری درگذشت. علائم بیماری ۱۹ روز پس از این حادثه نادر در انتاریو، کانادا، در او ظاهر شده بود.",
+      "category": "health",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 16:29:38 GMT",
+      "time": "۱۹:۵۹ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T18:18:33.901Z"
+    },
     {
       "id": "yjc_4",
       "agencyId": "yjc",
@@ -962,7 +1058,7 @@
       "keep": true,
       "title": "مصلی تهران تا فردا ساعت ۲۰ میزبان زائران است",
       "title_fa": "مصلی تهران تا فردا ساعت ۲۰ میزبان زائران است",
-      "lead": "رئیس مرکز ارتباطات و امور بین‌الملل شهرداری تهران اعلام کرد که مصلی امام خمینی (ره) تا فردا ساعت ۲۰ میزبان زائران است. این میزبانی به صورت یکسره انجام می‌شود.",
+      "lead": "رئیس مرکز ارتباطات و امور بین‌الملل شهرداری تهران اعلام کرد که مصلی امام خمینی (ره) تا فردا ساعت ۲۰ می��بان زائران است. این میزبانی به صورت یکسره انجام می‌شود.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.yjc.ir/fa/news/9104717/مصلی-تهران-تا-فردا-ساعت-۲۰-میزبان-زائران-است",
@@ -2141,7 +2237,7 @@
       "agencyId": "france24",
       "keep": true,
       "title": "Iran holds funeral for Ali Khamenei: Attendees 'hardline factions' of society, specialist says",
-      "title_fa": "ایران مراسم تشییع علی خامنه‌ای را برگزار می‌کند: یک متخصص می‌گوید شرکت‌کنندگان از \"گروه‌های تندرو\" جامعه هستند",
+      "title_fa": "ایران مراسم تشییع علی خامنه‌ای را برگ��ار می‌کند: یک متخصص می‌گوید شرکت‌کنندگان از \"گروه‌های تندرو\" جامعه هستند",
       "lead": "صدها هزار عزادار برای آغاز مراسم تشییع آیت‌الله علی خامنه‌ای، رهبر فقید ایران، در تهران گرد هم آمدند. یک روزنامه‌نگار و نویسنده حوزه بین‌الملل اظهار داشت که بیشتر شرکت‌کنندگان از جناح‌های تندرو جامعه بوده‌اند.",
       "category": "politics",
       "region": "global",
@@ -2686,7 +2782,7 @@
       "keep": true,
       "title": "دیپلماسی ایدئولوژی",
       "title_fa": "دیپلماسی ایدئولوژی",
-      "lead": "در مراسم ادای احترام مقامات سیاسی کشورها به رهبر شهید انقلاب در مصلای تهران، نه تنها پیکر یک مقام عالی‌رتبه سیاسی، بلکه چارچوب روشنی از یک ایدئولوژی برحق به نمایش گذاشته شد. این رویداد ابعاد ایدئولوژیک و سیاسی مراسم تشییع را برجسته می‌کند.",
+      "lead": "در مراسم ادای احترام مقامات سیاسی کشورها به رهبر شهید انقلاب در مصلای تهران، نه ت��ها پیکر یک مقام عالی‌رتبه سیاسی، بلکه چارچوب روشنی از یک ایدئولوژی برحق به نمایش گذاشته شد. این رویداد ابعاد ایدئولوژیک و سیاسی مراسم تشییع را برجسته می‌کند.",
       "category": "society",
       "region": "global",
       "sourceUrl": "https://www.mashreghnews.ir/news/1823255/%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%D8%A7%DB%8C%D8%AF%D8%A6%DB%8C%D9%88%D9%84%D9%88%DA%98%DB%8C",
@@ -2946,7 +3042,7 @@
       "keep": true,
       "title": "بازتاب مراسم بدرقه رهبر شهید در مطبوعات ترکیه",
       "title_fa": "بازتاب مراسم بدرقه رهبر شهید در مطبوعات ترکیه",
-      "lead": "مراسم وداع با پیکر رهبر شهید، آیت‌الله سیدعلی خامنه‌ای، امروز به یکی از مهم‌ترین موضوعات مطبوعات ترکیه تبدیل شد. بسیاری از روزنامه‌های سراسری این کشور با اختصاص تیتر، عکس و گزارش‌های ویژه، به پوشش این رویداد پرداختند.",
+      "lead": "مراسم وداع با پیکر رهبر شهید، آیت‌الله سیدعلی خامنه‌ای، امروز به یکی از مهم‌ترین موضوعات مطبوعات ترکیه تبدیل شد. بسیاری از روزنامه‌های سراسری ای�� کشور با اختصاص تیتر، عکس و گزارش‌های ویژه، به پوشش این رویداد پرداختند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.isna.ir/news/1405041308070/%D8%A8%D8%A7%D8%B2%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A8%D8%AF%D8%B1%D9%82%D9%87-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%AF%D8%B1-%D9%85%D8%B7%D8%A8%D9%88%D8%B9%D8%A7%D8%AA-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87",
@@ -4373,7 +4469,7 @@
         "negative": 0
       },
       "pubDate": "Sat, 04 Jul 2026 15:00:00 GMT",
-      "time": "۱۸:۳۰ - ۱۳ تیر",
+      "time": "۱��:۳۰ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T16:00:09.882Z"
     },
     {
@@ -8121,7 +8217,7 @@
       "lead": "مدیرعامل شرکت برق منطقه‌ای تهران از آمادگی کامل صنعت برق برای تأمین بر�� پایدار خبر داد. این آمادگی مربوط به مراسم تشییع رهبر شهید در استان‌های تهران، قم و خراسان رضوی است.",
       "category": "politics",
       "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104642/شبکه-برق-سه-استان-میزبان-مراسم-تشییع-ر��بر-شهید-با-آمادگی-۱۰۰-درصدی-پایدار-خواهد-ماند",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9104642/شبکه-برق-سه-استان-میزبان-مراسم-تشییع-ر��بر-شهید-با-��مادگی-۱۰۰-درصدی-پایدار-خواهد-ماند",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -9290,7 +9386,7 @@
       "keep": true,
       "title": "۱۰۰ هزار مهندس در کشور فاقد پوشش بیمه‌ای هستند / عملکرد نظام مهندسی آذربایجان‌غربی باید به الگوی سایر استان‌ها ت��دیل شود",
       "title_fa": "۱۰۰ هزار مهندس در کشور فاقد پوشش بیمه‌ای هستند / عملکرد نظام مهندسی آذربایجان‌غربی باید به الگوی سایر استان‌ها تبدیل شود",
-      "lead": "مدیر��ل دفتر توسعه مهندسی ساختمان وزارت راه و شهرسازی با اشاره به اینکه ۱۰۰ هزار مهندس در کشور فاقد پوشش بیمه‌ای هستند، ابراز نگرانی کرد. او تاکید کرد که عملکرد نظام مهندسی آذربایجان‌غربی باید به عنوان الگو برای سایر استان‌ها قرار گیرد.",
+      "lead": "مدیر��ل دفتر توسعه مهندسی ساختمان وزارت راه و شهرسازی با اشاره به اینکه ۱۰۰ هزار مهندس در کشور فاقد پوشش بیمه‌ای هستند، ابراز نگرانی کرد. او تاکید کرد که عملکرد نظام مهندسی آذربایجان‌غربی باید به عنوان الگو ب��ای سایر استان‌ها قرار گیرد.",
       "category": "politics",
       "region": "iran_national",
       "sourceUrl": "https://www.khabaronline.ir/news/2241883/%DB%B1%DB%B0%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D8%AF%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D9%81%D8%A7%D9%82%D8%AF-%D9%BE%D9%88%D8%B4%D8%B4-%D8%A8%DB%8C%D9%85%D9%87-%D8%A7%DB%8C-%D9%87%D8%B3%D8%AA%D9%86%D8%AF-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D9%86%D8%B8%D8%A7%D9%85",
@@ -9864,7 +9960,7 @@
       "keep": true,
       "title": "بازیگری که ۲ بار نقش رهبر شهید را ایفا کرد (+عکس)",
       "title_fa": "ب��زیگری که ۲ بار نقش رهبر شهید را ایفا کرد",
-      "lead": "علیرضا مهران درباره انتخابش برای ایفای نقش رهبر شهید و چالش‌های بازی در قامت این شخصیت برجسته صحبت کرد. او از سکانس‌های تأثیرگذار، بازخوردها�� مردمی و واکنش دفتر رهبری نیز مطالبی را بیان کرد.",
+      "lead": "علیرضا مهران درباره انتخابش برای ایفای نقش رهبر شهید و چالش‌های بازی در قامت این شخصیت برجسته صحبت کرد. او از سکانس‌های تأثیرگذار، بازخوردها�� مرد��ی و واکنش دفتر رهبری نیز مطالبی را بیان کرد.",
       "category": "culture",
       "region": "iran",
       "sourceUrl": "https://www.asriran.com/fa/news/1175050/بازیگری-که-2-بار-نقش-رهبر-شهید-را-ایفا-کرد-عکس",
@@ -10460,7 +10556,7 @@
       "keep": true,
       "title": "فیلم/ شعار مرگ بر آمریکا در متروی شهید بهشتی",
       "title_fa": "فیلم/ شعار مرگ بر آمریکا در متروی شهید بهشتی",
-      "lead": "ویدیویی از سردادن شعار «مرگ بر آمریکا» در متروی ایستگاه شهید بهشتی منتشر شد. این فیلم نشان‌دهنده ابراز مواضع سیاسی در فضای عمومی است و در شبکه‌های اجتماعی بازتاب گسترده‌ای داشته است.",
+      "lead": "ویدیویی از سردادن شعار «مرگ بر آمریکا» در متروی ایستگ��ه شهید بهشتی منتشر شد. این فیلم نشان‌دهنده ابراز مواضع سیاسی در فضای عمومی است و در شبکه‌های اجتماعی بازتاب گسترده‌ای داشته است.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.mashreghnews.ir/news/1823185/%D9%81%DB%8C%D9%84%D9%85-%D8%B4%D8%B9%D8%A7%D8%B1-%D9%85%D8%B1%DA%AF-%D8%A8%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%85%D8%AA%D8%B1%D9%88%DB%8C-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A8%D9%87%D8%B4%D8%AA%DB%8C",
@@ -14083,7 +14179,7 @@
         "negative": 10
       },
       "pubDate": "Fri, 03 Jul 2026 21:30:58 GMT",
-      "time": "۰۱:۰۰ - ۱۳ ��یر",
+      "time": "۰۱:۰۰ - ۱۳ ���یر",
       "analyzed_at": "2026-07-04T07:46:35.151Z"
     },
     {
@@ -16348,7 +16444,7 @@
       "keep": true,
       "title": "رونمایی از نسخه‌های لوکس آیفون تاشو / عکس",
       "title_fa": "رونمایی از نسخه‌های لوکس آیفون تاشو / عکس",
-      "lead": "شرکت کاویار، پیش از تأیید رسمی اپل، خود را برای عرضه آیفون تاشو آماده می‌کند. این شرکت بر اساس شایعات، طرح‌های سفارشی و لوکس این دستگاه را ارائه می‌دهد.",
+      "lead": "شرکت کاویار، پیش از تأیید رسم�� اپل، خود را برای عرضه آیفون تاشو آماده می‌کند. این شرکت بر اساس شایعات، طرح‌های سفارشی و لوکس این دستگاه را ارائه می‌دهد.",
       "category": "society",
       "region": "global",
       "sourceUrl": "https://www.khabaronline.ir/news/2241811/%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D9%86%D8%B3%D8%AE%D9%87-%D9%87%D8%A7%DB%8C-%D9%84%D9%88%DA%A9%D8%B3-%D8%A2%DB%8C%D9%81%D9%88%D9%86-%D8%AA%D8%A7%D8%B4%D9%88-%D8%B9%DA%A9%D8%B3",
@@ -17847,7 +17943,7 @@
       "agencyId": "yjc",
       "keep": true,
       "title": "اطلاعیه انتقال پروازهای داخلی ایران ایر به ترمینال ۲ فرودگاه مهرآباد",
-      "title_fa": "اطلاعی�� انتقال پروازهای داخلی ایران ایر به ترمینال ۲ فرودگاه مهرآباد",
+      "title_fa": "اطلاعی�� انتقال پروازهای داخ��ی ایران ایر به ترمینال ۲ فرودگاه مهرآباد",
       "lead": "هواپیمایی جمهوری اسلامی ایران «هما» اعلام کرد که از روز شنبه ۱۳ تیر، تمامی پروازهای داخلی این شرکت از ترمینال ۲ فرودگاه مهرآباد انجام خواهد شد. این اطلاعیه به منظور اطلاع‌رسانی به مسافران صادر شده است.",
       "category": "politics",
       "region": "Iran",
@@ -19546,7 +19642,7 @@
       "keep": true,
       "title": "Putin &amp; The ‘Drowning Man Syndrome’ Sudan",
       "title_fa": "پوتین و \"سندرم مرد غرق شده\" در سودان",
-      "lead": "درگیری‌های این هفته حول محور تشدید جنگ پهپادی بین اوکراین و روسیه و افزایش نگرانی‌ها از یک فاجعه انسانی در سودان شکل گرفته است. همچنین اعتراضات ضد مهاجرتی در آفریقای جنوبی و حکم تاریخی ��یوان عالی آمریکا از جمله رویدادهای مهم این هفته بودند.",
+      "lead": "درگیری‌های این هفته حول محور تشدید جنگ پهپادی بین اوکراین و روسیه و افزایش نگرانی‌ها از یک فاجعه انسانی در سودان شکل گرفته است. همچنین اعتراضات ضد مهاجر��ی در آفریقای جنوبی و حکم تاریخی ��یوان عالی آمریکا از جمله رویدادهای مهم این هفته بودند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.france24.com/en/tv-shows/the-world-this-week/20260703-putin-the-drowning-man-syndrome-sudan",
@@ -20164,7 +20260,7 @@
       "keep": true,
       "title": "مسئول خانه فرهنگ ایران در لاهور: مکتب فکری و عملی رهبر شهید ادامه مکتب عاشورا است",
       "title_fa": "مسئول خانه فرهنگ ایران در لاهور: مکتب رهبر شهید ادامه مکتب عاشورا است",
-      "lead": "مسئول خانه فرهنگ ایران در لاهور اظهار داشت که مکتب فکری و عملی رهبر شهید ادامه مکتب عاشورا است. وی افزود که رهبر شهید نیز همانند حضرت سیدالشهدا(ع) همواره بر حفظ ا��زش‌های اسلامی و مقابله با ظلم تاکید داشتند.",
+      "lead": "مسئول خانه فرهنگ ایران در لاهور اظهار داشت که مکتب فکری و عملی رهبر شهید ادامه مکتب عاشورا است. وی افزو�� که رهبر شهید نیز همانند حضرت سیدالشهدا(ع) همواره بر حفظ ا��زش‌های اسلامی و مقابله با ظلم تاکید داشتند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.irna.ir/news/86199948/%D9%85%D8%B3%D8%A3%D9%88%D9%84-%D8%AE%D8%A7%D9%86%D9%87-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%84%D8%A7%D9%87%D9%88%D8%B1-%D9%85%DA%A9%D8%AA%D8%A8-%D9%81%DA%A9%D8%B1%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DB%8C-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%D8%AF%D8%A7%D9%85%D9%87",
@@ -20999,7 +21095,7 @@
       "agencyId": "yjc",
       "keep": true,
       "title": "تهران در بالاترین سطح آمادگی امنیتی برای مراسم تشییع رهبر شهید/ بازگشایی در‌های مصلی ساعت۶صبح",
-      "title_fa": "تهران در بالاترین سطح آمادگی امنیتی برای مراسم تشییع؛ بازگشایی درهای مصلی ساعت ۶ صبح",
+      "title_fa": "تهران در بالاترین سطح آمادگی امنیتی برای مراسم تشییع؛ ب��زگشایی درهای مصلی ساعت ۶ صبح",
       "lead": "استاندار تهران از آمادگی کامل دستگاه‌های اجرایی، نظامی و امدادی برای برگزاری مراسم وداع، تشییع و تدفین رهبر شهید خبر داد. وی آخرین تمهیدات امنیتی، ترافیکی، درمانی و اسکان را تشریح کرد و اعلام کرد درهای مصلی ساعت ۶ صبح باز می‌شود.",
       "category": "politics",
       "region": "global",
@@ -22733,7 +22829,7 @@
       "agencyId": "yjc",
       "keep": true,
       "title": "از صفوف تشییع تا هشتگ‌های دلتنگی + فیلم",
-      "title_fa": "از صفوف تشییع تا هشتگ‌های دلتنگی + فیلم",
+      "title_fa": "از صف��ف تشییع تا هشتگ‌های دلتنگی + فیلم",
       "lead": "در آستانه مراسم وداع با رهبر معظم انقلاب، روایت‌های متعددی از آخرین فرصت‌های ادای احترام و وداع شکل گرفته ��ست. این خبر به شور و اشتیاق مردم در صفوف تشییع و هشتگ‌های دلتنگی در فضای مجازی می‌پردازد.",
       "category": "politics",
       "region": "global",
@@ -23297,7 +23393,7 @@
       "agencyId": "asriran",
       "keep": true,
       "title": "قطعی برق و اختلال در زندگی میلیون‌ها آمریکایی در پی گرمای شدید",
-      "title_fa": "قطعی برق و اختلال در زندگی میلیون‌ها آمریکایی در پی گرمای شدید",
+      "title_fa": "قطعی برق و اختلال در زندگی میلیون‌ها آمریکایی در پی گر��ای شدید",
       "lead": "در پی گرمای شدید، قطعی برق و اختلال در زندگی میلیون‌ها آمریکایی رخ داده است. انتظار می‌رود گرمای هوا ابتدا در غرب میانه کاهش یابد، اما بخش‌های ج��وبی آمریکا تا هفته آینده همچنان گرم خواهند ماند.",
       "category": "environment",
       "region": "north america",
@@ -23608,7 +23704,7 @@
       "keep": true,
       "title": "EU ‘tech sovereignty’: Uncoupling from the US and China?",
       "title_fa": "«حاکمیت تکنولوژیک» اتحادیه اروپا: جدایی از آمریکا و چین؟",
-      "lead": "اتحادیه اروپا در تلاش است تا استقلال استراتژیک خود را در دنیایی بی‌ثبات، که برخی اعضای پارلمان اروپا آن را دنیای زورگویان توصیف می‌کنند، اثبات کند. این استقلال شامل مسائل دفاعی، تامین انرژی و همچنین کل حوزه فناوری است.",
+      "lead": "اتحادیه اروپا در تلاش است تا استقلال استراتژیک خود را در دنیایی بی‌ثبات، که برخی اعضای پارلمان ار��پا آن را دنیای زورگویان توصیف می‌کنند، اثبات کند. این استقلال شامل مسائل دفاعی، تامین انرژی و همچنین کل حوزه فناوری است.",
       "category": "technology",
       "region": "europe",
       "sourceUrl": "https://www.france24.com/en/tv-shows/talking-europe/20260703-eu-tech-sovereignty-uncoupling-from-the-us-and-china",
@@ -23915,7 +24011,7 @@
       "agencyId": "foreignpolicy",
       "keep": true,
       "title": "How to Spin an Empire",
-      "title_fa": "چگونه یک امپراتوری را روایت کنیم",
+      "title_fa": "چگونه یک امپراتوری را رو��یت کنیم",
       "lead": "این مقاله به بررسی امپریالیسم آمریکا به عنوان الهام‌بخش و مانعی برای سیاست خارجی می‌پردازد. چگونگی بازنمایی و توجیه قدرت جهانی آمریکا محور اصلی این تحلیل است.",
       "category": "politics",
       "region": "americas",
@@ -24117,412 +24213,6 @@
       "pubDate": "Fri, 03 Jul 2026 15:42:01 GMT",
       "time": "��۹:۱۲ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T18:33:26.195Z"
-    },
-    {
-      "id": "reuters_0",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Senior Chinese lawmaker to attend Khamenei's funeral - Reuters",
-      "title_fa": "حضور قانونگذار ارشد چین در مراسم ��شییع جنازه خامنه‌ای",
-      "lead": "یک قانونگذا�� ار��د چینی در مراسم تشییع جنازه خامنه‌ای شرکت خواهد کرد. خبرگزاری رویترز این خبر را منتشر کرده که ن����ان‌دهنده حضور بین‌المللی در این رویداد است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWm9jVFN2eXJDQ19Oal9VTW1SMlFmcUVOWEtGN2p0VFEwVDJJSzI4NG5MSFozM1k3Q2RWQ3Z6N2czM1JOY2JvRGRCcHFUNWw3bWk0N2VXcFM3cWphMWEKa3BSc3dmdnBiNlNaZUNMMi03Q2ExOTJPVUItY3YxQngyaFhtT283dzQ4ZHJ6LVEtTzMtQ3FwUk9JeGQ4ckI?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-03T18:18:22.598Z"
-    },
-    {
-      "id": "reuters_0",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Iran prepares to bury slain supreme leader with week of mass mourning - Reuters",
-      "title_fa": "ایران برای مراس�� تدفین رهبر عالی‌رتبه فقید با یک هفته عزای عمومی آماده می‌شود",
-      "lead": "ایران برای برگزاری مراسم تدفین رهبر عالی‌رتبه فقید خود و یک هفته عزای عمومی آماده می‌شود. این رویداد از اهمیت بالایی برخوردار است و انتظار می‌رود جمعیت زیادی در مراسم شرکت کنند.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDFZb2Q4bXdRa0pnRGtueDdUd3ZWQ1VyMHFsVlp5WGx6aGdtM2dxRW5YWDhLQVhSNV9CUFBNLWMwTnp4NTZ5NHN1UmxCR1RBYW12V0NEcE40NUZTNWI5NjhlNkx0TmFHV2NfTk5YWmtuczdEUGdEU1lpQlg3YmJmNkJ1OUthT0E3V2pKNGVmSmF2QTdnR2hhVzV3Q3pqTkhQdlBjc1hrZS1fdDE0UHVJNzkyOWVBNVpP?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 60,
-        "negative": 40
-      },
-      "pubDate": "Thu, 02 Jul 2026 13:39:00 GMT",
-      "time": "۱۷:۰۹ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "reuters_1",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "India to send minister, governor to Ali Khamenei funeral - Reuters",
-      "title_fa": "هند وزیر و فرماندار خود را به مراسم تشییع علی خامنه‌ای اعزام می‌کند",
-      "lead": "هند اعلام کرده است که یک وزیر و یک فرماندار را برای شرکت در مراسم تشییع علی خامنه‌ای اعزام خواهد کرد. این اقدام نشان‌دهنده روابط دیپلماتیک و احترام بین‌المللی است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONnhnenpnSUczNUEzNDN1S25EM240ZGRVbzJVSzZVVDRxeVYzZFo3NmdrQWI1TkVFVUktTDdSNzV5cjEyTUFsOVp4TkxyVzBpbEpXajBVMklOZWphRFFDaWQwaWxHUmNZV1lqU0UyVTBBMXlKUU9hY3Z1b0pWREJBdU1DWWZ0R1pVUTlPTG84d0FkeUQ1MGVCb090N1REYmMyejdPZGFn?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 80,
-        "negative": 20
-      },
-      "pubDate": "Thu, 02 Jul 2026 10:53:33 GMT",
-      "time": "۱۴:۲۳ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "foreignpolicy_7",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "The U.S. at 250: Terminally Ill or Just Very Sick?",
-      "title_fa": "ایالات متحده در ۲۵۰ سالگی: در حال احتضار یا فقط بسیار بیمار؟",
-      "lead": "کارشناسان در حال بررسی این موضوع هستند که آیا یکی از قدیمی‌ترین دموکراسی‌های جهان می‌تواند باقی بماند یا خیر. این بحث‌ها به مناسبت ۲۵۰ سالگی استقلال آمریک�� و چالش‌های فعلی ��ن مطرح م��‌شود.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/02/united-states-250-independence-day-democracy-president/",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 40,
-        "negative": 50
-      },
-      "pubDate": "Thu, 02 Jul 2026 14:35:02 +0000",
-      "time": "۱۸:۰۵ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "foreignpolicy_8",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "Between Independence and Freedom",
-      "title_fa": "ب��ن استقلال و آزادی",
-      "lead": "این مقاله به چگونگی بازتاب یک تنش اساسی در اعلامیه استقلال آمریکا در سیاست خارجی ایالات متحده می‌پردازد. این تحلیل تاریخچه طولانی و پیچیده روابط بین این دو مفهوم را بررسی می‌کند.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/02/america-250-declaration-independence-foreign-policy/",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 80,
-        "negative": 20
-      },
-      "pubDate": "Thu, 02 Jul 2026 14:25:44 +0000",
-      "time": "۱۷:۵۵ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "economist_9",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "NATO ponders how to defend Eastern Europe as America pulls back",
-      "title_fa": "ناتو در مورد چگونگی دفاع از اروپای شرقی همزمان با عقب‌نشینی آمریکا تأمل می‌کند",
-      "lead": "ناتو در حال بررسی استراتژی‌های دفاعی برای اروپای شرقی است، در حالی که ایالات متحده نیروهای خود را از منطقه عقب می‌کشد. این موضوع نگرانی‌هایی را در مورد امنیت و توازن قدرت در منطقه ایجاد کرده است.",
-      "category": "politics",
-      "region": "europe",
-      "sourceUrl": "https://www.economist.com/international/2026/07/02/nato-ponders-how-to-defend-eastern-europe-as-america-pulls-back",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 50,
-        "negative": 50
-      },
-      "pubDate": "Thu, 02 Jul 2026 14:22:37 +0000",
-      "time": "۱۷:۵۲ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "bbc_10",
-      "agencyId": "bbc",
-      "keep": true,
-      "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
-      "title_fa": "آفریقای جنوبی و غنا بر سر قتل ادعایی یک مهاجر درگیر اختلافات دیپلماتیک شدند",
-      "lead": "آفریقای جنوبی و غنا بر سر گزارش‌هایی مبنی بر کشته شدن یک شهروند غنایی در اعتراضات ضد مهاجران در کیپ‌تاون وارد نزاع دیپلماتیک شده‌اند. آفریقای جنوبی این ادعاها را تکذیب می‌کند.",
-      "category": "diplomacy",
-      "region": "global",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "Thu, 02 Jul 2026 13:11:16 GMT",
-      "time": "۱۶:۴۱ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "guardian_11",
-      "agencyId": "guardian",
-      "keep": true,
-      "title": "At least nine monks killed in Thailand after boy drives truck into procession",
-      "title_fa": "حداقل ۹ راهب در تایلند پس از آنکه پسری کامیون را به ج��عیت راند، کشته شدند",
-      "lead": "حداقل ۹ راهب بودایی در تایلند پس از آنکه یک پسر ۱۱ ساله کامیون والدینش را به سمت یک کاروان مذهبی راند، جان باختند. پلیس در حال بررسی جزئیات این حادثه دلخراش است و هنوز هیچ اتهامی مطرح نشده است.",
-      "category": "accident",
-      "region": "global",
-      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Thu, 02 Jul 2026 13:10:07 GMT",
-      "time": "۱۶:۴۰ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "guardian_12",
-      "agencyId": "guardian",
-      "keep": true,
-      "title": "Papua separatists kill American pilot in ‘message’ to US and Indonesia",
-      "title_fa": "جدایی‌طلبان پاپوآ یک خلبان آمریکایی را کشتند و پیامی به آمریکا و اندونزی فرستادند",
-      "lead": "جدایی‌طلبان در منطقه پاپوآی اندونزی یک خلبان آمریکایی را به ضرب گلوله کشتند و هواپیمای غیرنظامی او را به آتش کشیدند. این اقدام به عنوان \"پیامی\" به ایالات متحده و اندونز�� در بحبوحه درگیری‌های طولانی‌مدت برای استقلال تلقی م����شود.",
-      "category": "politics",
-      "region": "asia",
-      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/papua-separatists-kill-american-pilot-yahukimo",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Thu, 02 Jul 2026 12:18:48 GMT",
-      "time": "۱۵:۴۸ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "bbc_13",
-      "agencyId": "bbc",
-      "keep": true,
-      "title": "Nine Thai monks killed after 11-year-old driver collides with procession",
-      "title_fa": "مرگ ۹ راهب تایلندی پس از تصادف راننده ۱۱ ساله با کاروان مذهبی",
-      "lead": "۹ راهب تایلندی در پی برخورد یک رانند�� ۱۱ ساله با کاروان مذهبی‌شان کشته شدند. این گروه ۳۵ راهب و پنج پیرو مذهبی در کنار جا��ه در حال حرکت بودند که کامیون به آنها برخورد کرد.",
-      "category": "accident",
-      "region": "global",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c23y90lygpzo?at_medium=RSS&at_campaign=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Thu, 02 Jul 2026 11:43:40 GMT",
-      "time": "۱۵:۱۳ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "skynews_14",
-      "agencyId": "skynews",
-      "keep": true,
-      "title": "At least 16 killed and 20 injured in South Africa bus crash",
-      "title_fa": "حداقل ۱۶ کشته و ۲۰ زخمی در حادثه اتوبوس در آفریقای جنوبی",
-      "lead": "در یک حادثه تصادف اتوبوس در آفر��قای جنوبی، حداقل ۱۶ نفر کشته و ۲۰ نفر دیگر زخمی شدند. این حادثه تلفات انسانی گسترده‌ای را به همراه داشته است.",
-      "category": "accident",
-      "region": "global",
-      "sourceUrl": "https://news.sky.com/story/at-least-16-killed-and-20-injured-in-south-africa-bus-crash-13559802",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Thu, 02 Jul 2026 12:08:00 +0100",
-      "time": "۱۴:۳۸ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "guardian_0",
-      "agencyId": "guardian",
-      "keep": true,
-      "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-      "title_fa": "سیل در ساحل عاج ۵۹ کشته بر جای گذاشت؛ بارندگی���های شدید غرب آفریقا را فرا گرفته است",
-      "lead": "مقامات می‌گویند فصل بارندگی‌ها مرگبارتر شده است، با گزارش ۱۳ کشته در غنا و وقوع سیل در بنین، توگو و نیجریه. در ساحل عاج، سیل از ماه می تاکنون ۵۹ نفر را کشته است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Thu, 02 Jul 2026 11:01:32 GMT",
-      "time": "۱۴:۳۱ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "foreignpolicy_1",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "The Hypocrisy That Shields Erdogan From Global Criticism",
-      "title_fa": "ریاکاری که اردوغان را از انتقاد جهانی در امان نگه می‌دارد",
-      "lead": "نقض فزاینده ��قوق بشر در ترکیه باید مورد توجه قرار گیرد و محکوم شود. این مقاله به بررسی دلایلی می‌پردازد که چرا اردوغان با وجود این نقض‌ها، از انتقادات شدید جهانی مصون مانده است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/02/turkey-erdogan-trump-human-rights-kavala-imamoglu/",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Thu, 02 Jul 2026 11:00:53 +0000",
-      "time": "۱۴:۳۰ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "foreignpolicy_2",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "The Strategy Behind the Battle for Crimea",
-      "title_fa": "استراتژی پشت نبرد برای کریمه",
-      "lead": "حمله جدید اوکراین به این منطقه، دارای ابعاد نظامی بسیار فراتر از صرفاً انتقام‌گیری است. این مقاله به بررسی اهمیت استراتژیک کریمه و برنامه‌های نظامی اوکراین می‌پردازد.",
-      "category": "military",
-      "region": "eurasia",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/02/ukraine-crimea-russia-strategy/",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 70,
-        "negative": 30
-      },
-      "pubDate": "Thu, 02 Jul 2026 10:47:21 +0000",
-      "time": "۱۴:۱۷ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "skynews_3",
-      "agencyId": "skynews",
-      "keep": true,
-      "title": "Nine Thai monks killed as 11-year-old boy crashes pickup truck into pilgrimage walk",
-      "title_fa": "مرگ ۹ راهب تایلندی در تصادف کامیونت ۱۱ ساله در مسیر پیاده‌روی زیارتی",
-      "lead": "مقامات اعلام کردند که یک پسر ۱۱ ساله در روز پنجشنبه ��امیونت خود را به گروهی از راهبان در مسیر ��یاده‌��وی زیارتی در شمال شرقی تایلند کوبید. در این حادثه ۹ نفر کشته شدند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://news.sky.com/story/eight-thai-monks-killed-as-11-year-old-boy-crashes-pickup-truck-into-pilgrimage-walk-13559765",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Thu, 02 Jul 2026 10:57:00 +0100",
-      "time": "۱۳:۲۷ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "bbc_4",
-      "agencyId": "bbc",
-      "keep": true,
-      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
-      "title_fa": "چین: خلبان هواپیمای کوچک را به دلیل «مسائل شخصی» به آسمان‌خراش کوبید",
-      "lead": "مقامات چین اعلام کردند که خلبان ۶۶ ساله که در این حادثه جان باخت، دچار اضطراب بود. او در دفتر خاطرات خود به «پایان دادن به زندگی‌اش» اشاره کرده بود.",
-      "category": "politics",
-      "region": "asia",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Thu, 02 Jul 2026 09:21:31 GMT",
-      "time": "۱۲:۵۱ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
-    },
-    {
-      "id": "bbc_5",
-      "agencyId": "bbc",
-      "keep": true,
-      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
-      "title_fa": "مرگ پسر ۱۱ ساله کانادایی بر اثر هاری پس از بیدار شدن با خفاشی بر صورتش",
-      "lead": "عفونت‌های هاری در کانادا نادر است و از سال ۱۹۲۴ تاکنون تنها ۲۸ مورد مرگ و میر انسانی در این کشور به دلیل هاری ثبت شده است. این حادثه پس از بیدار شدن پسر با خفاشی بر صورتش رخ داد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Thu, 02 Jul 2026 03:07:39 GMT",
-      "time": "۰۶:۳۷ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T18:04:36.829Z"
     }
   ]
 }
