@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 24,
   "articles": [
     {
       "id": "bbc_11",
@@ -506,6 +506,78 @@
       "pubDate": "Thu, 02 Jul 2026 03:07:39 GMT",
       "time": "۰۶:۳۷ - ۱۱ تیر",
       "analyzed_at": "2026-07-03T18:04:36.829Z"
+    },
+    {
+      "id": "bbc_6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Polish PM warns critical months ahead in face of Russian threat",
+      "title_fa": "نخست‌وزیر لهستان نسبت به ماه‌های حساس پیش رو در برابر تهدید روسیه هشدار داد",
+      "lead": "دونالد تاسک می‌گوید لهستان پس از گزارش‌های رسانه‌ای درباره یک حمله برنامه‌ریزی‌شده روسیه، خود را برای سناریوهای «متفاوت» آماده می‌کند. این هشدار نشان‌دهنده افزایش تنش‌ها در منطقه و نگرانی‌های امنیتی لهستان است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 16:41:00 GMT",
+      "time": "۲۰:۱۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
+    },
+    {
+      "id": "bbc_7",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Dissident Hong Kong bookseller Lam Wing-kee dies aged 70",
+      "title_fa": "لام وینگ-کی، کتاب‌فروش مخا��ف هنگ‌کنگ در ۷۰ سالگی درگذشت",
+      "lead": "لام وینگ-کی�� که با فروش مطالب انتقادی از پکن چین را به چالش کشیده بود، پس از تحمل سرطان ریه درگذشت. او یکی از چهره‌های سرشناس مقاومت مدنی در هنگ‌کنگ بود.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Fri, 03 Jul 2026 16:31:40 GMT",
+      "time": "۲۰:۰۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
+    },
+    {
+      "id": "bbc_2",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Stand-up comic held for jokes about Erdoğan and Islam in Turkey crackdown",
+      "title_fa": "کمدین استندآپ به دلیل شوخی با اردوغان و اسلام در سرکوب ترکیه بازداشت شد",
+      "lead": "دنیز گوکتاش، یکی از محب��ب‌ترین کمدین‌های ترکیه، به اته��م \"تحریک نفرت و خصومت\" روی صحنه بازداشت شده است. این ات��اق در چارچوب سرکوب آزادی بیان در ترکیه رخ داده است.",
+      "category": "politics",
+      "region": "middle_east",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 12:28:43 GMT",
+      "time": "۱۵:۵۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
     }
   ]
 }
