@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "france24",
-  "total": 37,
+  "total": 46,
   "articles": [
     {
       "id": "france24_12",
@@ -631,7 +631,7 @@
       "keep": true,
       "title": "France saw 2,025 excess deaths in June heatwave",
       "title_fa": "فرانسه در موج گرمای ژوئن ۲۰۲۵ مورد مرگ‌ومیر اضافی داشته است",
-      "lead": "وزیر بهداشت فرانسه روز جمعه اعلام کرد که در موج گرمای ما�� ژوئن در این کشور، حداقل ۲,۰۲۵ مرگ بیشتر از حد انتظار ثبت شده است. ماه گذشته، فرانسه گرم‌ترین ژوئن خود را از زمان شروع ثبت رکوردها در سال ۱۹۴۷ با دمای بالای ۴۰ درجه سانتیگراد تجربه کرد.",
+      "lead": "وزیر بهداشت فرانسه روز جمعه اعلام کرد که در موج گرمای ما���� ژوئن در این کشور، حداقل ۲,۰۲۵ مرگ بیشتر از حد انتظار ثبت شده است. ماه گذشته، فرانسه گرم‌ترین ژوئن خود را از زمان شروع ثبت رکوردها در سال ۱۹۴۷ با دمای بالای ۴۰ درجه سانتیگراد تجربه کرد.",
       "category": "health",
       "region": "europe",
       "sourceUrl": "https://www.france24.com/en/video/20260703-france-saw-2-025-excess-deaths-in-june-heatwave",
@@ -888,6 +888,222 @@
       "pubDate": "Fri, 03 Jul 2026 12:09:57 GMT",
       "time": "۱۵:۳۹ - ۱۲ تیر",
       "analyzed_at": "2026-07-03T16:39:08.080Z"
+    },
+    {
+      "id": "france24_6",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Iranian leaders, foreign officials pay respects to Khamenei ahead of grand funeral",
+      "title_fa": "مقامات ایرانی و خارجی پیش از تشییع بزرگ به خامنه‌ای ادای احترام کردند",
+      "lead": "مقامات ایرانی و شخصیت‌های بین‌المللی روز جمعه به رهبر سابق ایران، علی خامنه‌ای، در تهران ادای احترام کردند. همزمان عزاداران در خارج از مجموعه عظیم مصلای بزرگ که تابوت او در آن به نمایش گذاشته شده است، گرد هم آمدند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260703-iranian-leaders-foreign-officials-pay-respects-to-khamenei-ahead-of-grand-funeral",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 90,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:19:11 GMT",
+      "time": "۱۷:۴۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
+    },
+    {
+      "id": "france24_12",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Iran gets ready for Khamenei's funeral",
+      "title_fa": "ایران برای مراسم تشییع خامنه‌ای آماده می‌شود",
+      "lead": "ایران خود را برای برگزاری مراسم تشییع رهبر عالی‌رتبه خود، آیت‌الله علی خامنه‌ای، آماده می‌کند. وی در فوریه ۲۰۲۶ در یک حمله مشترک آمریکا و اسرائیل ترور شد و مقامات انتظار دارند ۱۵ تا ۲۰ میلیون نفر در مراسم تشییع وی شرکت کنند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/video/20260703-iran-gets-ready-for-khamenei-s-funeral-1",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 03 Jul 2026 16:31:05 GMT",
+      "time": "۲۰:۰۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
+    },
+    {
+      "id": "france24_7",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "England-Mexico World Cup match could be moved earlier due to storm risk",
+      "title_fa": "احتمال جابه‌جایی زمان مسابقه جام جهانی انگلیس و مکزیک به دلیل خطر طوفان",
+      "lead": "طبق گزارش رسانه‌های محلی، مسابقه یک‌هشتم نهایی جام جهانی بین انگلیس و مکزیک ممکن است به دلیل خطر طوفان و سیل در نزدیکی ورزشگاه آزتکا مکزیکو سیتی، زودتر برگزار شود. فیفا هنوز این تغییر زمان را تایید نکرده است.",
+      "category": "sport",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/sport/20260703-england-mexico-world-cup-match-could-be-moved-earlier-due-to-storm-risk",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 19:48:38 GMT",
+      "time": "۲۳:۱۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
+    },
+    {
+      "id": "france24_1",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "'Not a proxy war': Sudan civil war 'would not go on like this' without role of international players",
+      "title_fa": "«جنگ نیابتی نیست»: جنگ داخلی سودان بدون نقش بازیگران بین‌المللی «به این شکل ادامه پیدا نمی‌کرد»",
+      "lead": "یک تحلیلگر امور سودان می‌گوید که جنگ داخلی این کشور بدون نقش‌آفرینی بازیگران بین‌المللی «به این شکل ادامه پیدا نمی‌کرد». او افزود که محاصره نزدیک به یک سال است که ادامه دارد و نیروهای پشتیبانی سریع (RSF) متعهد به تصرف شهر ال‌اُبَیِّد هستند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/spotlight/20260703-not-a-proxy-war-sudan-civil-war-would-not-go-on-like-this-without-role-of-international-players",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 03 Jul 2026 17:22:29 GMT",
+      "time": "۲۰:۵۲ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
+    },
+    {
+      "id": "france24_4",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Pope calls for 'moderation' in US public discourse on 250th anniversary of independence",
+      "title_fa": "پاپ در ۲۵۰مین سالگرد استقلال آمریکا خواستار «اعتدال» در گفتمان عمومی این کشور شد",
+      "lead": "پاپ لئو، اولین پاپ متولد آمریکا، در سخنرانی خود به مناسبت ۲۵۰می�� سالگرد استقلال ایالات متحده، خواستار «اعتدال» در گفتمان عمومی این کشور شد. او از آمریکایی‌ها خواست تا «زمینه‌های مشترک» را بیابند و اختلافات را کنار بگذارند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/americas/20260703-pope-calls-for-moderation-in-us-public-discourse-on-250th-anniversary-of-independence",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 16:53:00 GMT",
+      "time": "۲۰:۲۳ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
+    },
+    {
+      "id": "france24_9",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "EU ‘tech sovereignty’: Uncoupling from the US and China?",
+      "title_fa": "«حاکمیت تکنولوژیک» اتحادیه اروپا: جدایی از آمریکا و چین؟",
+      "lead": "اتحادیه اروپا در تلاش است تا استقلال استراتژیک خود را در دنیایی بی‌ثبات، که برخی اعضای پارلمان ار��پا آن را دنیای زورگویان توصیف می‌کنند، اثبات کند. این استقلال شامل مسائل دفاعی، تامین انرژی و همچنین کل حوزه فناوری است.",
+      "category": "technology",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/talking-europe/20260703-eu-tech-sovereignty-uncoupling-from-the-us-and-china",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 16:13:15 GMT",
+      "time": "۱۹:۴۳ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
+    },
+    {
+      "id": "france24_10",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "‘A joy to watch’: World Cup fans embrace Les Bleus as Deschamps finally takes the brake off",
+      "title_fa": "«تماشای آن لذت‌بخش است»: ه��اداران جام جهانی، تیم ملی فرانسه را پس از رها شدن از احتیاط دشان، در آغوش می‌کشند",
+      "lead": "پس از ۱۴ سال فوتبال عمل‌گرایانه تحت نظر دیدیه دشان، سرمربی محتاط، تیم ملی فرانسه، از مدعیان جام جهانی، پتانسیل هجومی کامل خود را در آخرین تورنمنت او آزاد کرده است. این اتفاق باعث شادی هواداران فرانسوی و دیگر تماشاگران شده است.",
+      "category": "sport",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/sport/20260703-world-cup-fans-embrace-france-les-bleus-deschamps-takes-brake-off-mbappe-dembele-olise",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 16:09:02 GMT",
+      "time": "۱۹:۳۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
+    },
+    {
+      "id": "france24_14",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "'We hope the member states will recognise our effort' to join the EU: Moldova's President Maia Sandu",
+      "title_fa": "رئیس‌جمهور مولداوی: «امیدواریم کشورهای عضو تلاش ما را برای پیوستن به اتحادیه اروپا به رسمیت بشناسند»",
+      "lead": "مایا ساندو، رئیس‌جمهور مولداوی، در مصاحبه‌ای با FRANCE 24 اظهار امیدواری کرد که کشورهای عضو اتحادیه اروپا، تلاش‌های مولداوی برای پیوستن به این اتحادیه را به رسمیت بشناسند. این اظهارات در چا��چوب نشست سران اتحادیه اروپا و مولداوی در بروکسل مطرح شد.",
+      "category": "diplomacy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/talking-europe/20260703-we-hope-the-member-states-will-recognise-our-effort-to-join-the-eu-moldova-s-president-maia-sandu",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:48:36 GMT",
+      "time": "۱۹:۱۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
+    },
+    {
+      "id": "france24_0",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Kylian \"Mobutu\" Mbappé: 'Les Bleus' embrace the trend at the World Cup",
+      "title_fa": "کیلیان \"موبوتو\" امباپه: \"خروس‌های آبی\" این روند را در جام جهانی پذیرفتند",
+      "lead": "ویدئوهای تولید شده با هوش مصنوعی از کیلیا�� امباپه، کاپیتان تیم ملی فرانسه، در نقش یک دیکتاتور و در حال دستور دادن به هم‌تیمی‌هایش، در شبکه‌های اجتماع�� فراگیر شده است. تیم فرانسه این شوخی را پذیرفته و امباپه را به یاد \"موبوتو\"، رئیس‌جمهور سابق کنگو، \"موبوت\" لق�� داده‌اند.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/video/20260703-kylian-mobutu-mbapp%C3%A9-les-bleus-embrace-the-trend-at-the-world-cup",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:28:23 GMT",
+      "time": "۱۸:۵۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T21:02:24.264Z"
     }
   ]
 }
