@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T11:18:07.442Z",
-  "total": 922,
-  "new_this_cycle": 0,
+  "generated_at": "2026-07-04T11:33:32.899Z",
+  "total": 916,
+  "new_this_cycle": 4,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,102 @@
     }
   ],
   "articles": [
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Hopes for Investment in Iran Would Break With Decades of History",
+      "title_fa": "امیدهای آمریکا برای سرمایه‌گذاری در ایران، پایانی بر دهه‌ها تاریخ خواهد بود",
+      "lead": "مقامات ارشد ایالات متحده اظهار کرده‌اند که ایران به دلیل تغییر موضع خود در قبال آمریکا، پاداش فراوانی دریافت خواهد کرد. با این حال، رهبران ایران در گذشته چنین معامله‌ای را رد کرده‌اند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 02 Jul 2026 14:14:38 +0000",
+      "time": "۱۷:۴۴ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T11:33:26.581Z"
+    },
+    {
+      "id": "bbc_1",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "'Most massive' Russian attack on Kyiv kills at least 30",
+      "title_fa": "«گسترده‌ترین» حمله روسیه به کی‌یف دست‌کم ۳۰ کشته برجای گذاشت",
+      "lead": "جدیدترین حملات روسیه با بیشترین تعداد تسلیحات به پایتخت اوکراین صورت گرفت و نقاط گسترده‌ای را هدف قرار داد. در این حمله بی‌سابقه به کی‌یف، دست‌کم ۳۰ نفر کشته شدند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 03 Jul 2026 04:41:05 GMT",
+      "time": "۰۸:۱۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T11:33:26.581Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Young Indonesian couple publicly caned after kissing on TikTok",
+      "title_fa": "زوج جوان اندونزیایی پس از بوسیدن در تیک‌تاک، به صورت عمومی شلاق خوردند",
+      "lead": "یک زوج جوان در استان آچه اندونزی، پس از اینکه دادگاه شریعت آنها را به دلیل نقض قوانین اسلامی محکوم کرد، به صورت عمومی شلاق زده شدند. این مرد و زن مجرد، هر یک به دلیل بوسیدن در تیک‌تاک، ۲۱ ضربه شلاق دریافت کردند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/young-indonesian-couple-publicly-caned-after-kissing-on-tiktok",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 09:18:36 GMT",
+      "time": "۱۲:۴۸ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T11:33:26.581Z"
+    },
+    {
+      "id": "guardian_3",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
+      "title_fa": "درک منشأ ابولا در حیات وحش برای پیشگیری از شیوع بزرگ بعدی حیاتی است",
+      "lead": "اگر منشأ ابولا را ندانیم، نه تنها انسان‌ها در معرض خطر باقی می‌مانند، بلکه حیات وحش نیز می‌تواند بی‌جهت آسیب ببیند. در حالی که ویروس‌شناسان نگران شیوع بیماری آندز بودند، این مقاله بر اهمیت ریشه‌یابی ابولا تاکید می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 09:00:00 GMT",
+      "time": "۱۲:۳۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T11:33:26.581Z"
+    },
     {
       "id": "asriran_0",
       "agencyId": "asriran",
@@ -2162,7 +2258,7 @@
       "keep": true,
       "title": "از حرم شاهچراغ(ع) تا تهران؛ روایتی از بی‌قراری فارسی‌ها برای آخرین دیدار",
       "title_fa": "از حرم شاهچراغ(ع) تا تهران؛ روایتی از بی‌قراری مردم برای آخرین دیدار",
-      "lead": "معابر اطراف حرم شاهچراغ (ع) در شیراز با پرچم‌های سیاه و نوای قرآن و نوحه رنگ ماتم گرفته است. مردم فارس ب��ای شرکت در مراسم وداع و تشییع، بی‌قرارانه آماده سفر به تهران هستند.",
+      "lead": "معابر اطراف حرم شاهچراغ (ع) در شیراز با پرچم‌های سیاه و نوای قرآن و نوحه رنگ ماتم گرفته است. مردم فارس ب����ای شرکت در مراسم وداع و تشییع، بی‌قرارانه آماده سفر به تهران هستند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.irna.ir/news/86200172/%D8%A7%D8%B2-%D8%AD%D8%B1%D9%85-%D8%B4%D8%A7%D9%87%DA%86%D8%B1%D8%A7%D8%BA-%D8%B9-%D8%AA%D8%A7-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C-%D8%A7%D8%B2-%D8%A8%DB%8C-%D9%82%D8%B1%D8%A7%D8%B1%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D9%87%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C",
@@ -3869,7 +3965,7 @@
         "negative": 0
       },
       "pubDate": "04 Jul 2026 09:40:16 +0330",
-      "time": "۰۹:۴۰ - ۱۳ تیر",
+      "time": "۰۹:۴۰ - ۱�� تیر",
       "analyzed_at": "2026-07-04T07:46:35.151Z"
     },
     {
@@ -5976,7 +6072,7 @@
       "keep": true,
       "title": "Row after Indian state drops eggs from school lunch menu",
       "title_fa": "پس از حذف تخم‌مرغ از منوی ناهار مدارس ایالت هند، نزاع در گرفت",
-      "lead": "اقدام ایالت بنگال غربی در حذف تخم‌مرغ از ��رخی وعده‌های غذایی مدارس، بحث گسترده‌ای را درباره تغذیه و حق انتخاب برانگیخته است. این تصمیم با مخالفت‌هایی روبرو شده و به یک مناقشه عمومی تبدیل گشته است.",
+      "lead": "اقدام ایالت بنگال غربی در حذف تخم‌مر�� از ��رخی وعده‌های غذایی مدارس، بحث گسترده‌ای را درباره تغذیه و حق انتخاب برانگیخته است. این تصمیم با مخالفت‌هایی روبرو شده و به یک مناقشه عمومی تبدیل گشته است.",
       "category": "society",
       "region": "asia",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
@@ -6611,7 +6707,7 @@
       "agencyId": "yjc",
       "keep": true,
       "title": "اطلاعیه انتقال پروازهای داخلی ایران ایر به ترمینال ۲ فرودگاه مهرآباد",
-      "title_fa": "اطلاعیه انتقال پروازهای داخلی ایران ایر به ترمینال ۲ فرودگاه مهرآباد",
+      "title_fa": "اطلاعی�� انتقال پروازهای داخلی ایران ایر به ترمینال ۲ فرودگاه مهرآباد",
       "lead": "هواپیمایی جمهوری اسلامی ایران «هما» اعلام کرد که از روز شنبه ۱۳ تیر، تمامی پروازهای داخلی این شرکت از ترمینال ۲ فرودگاه مهرآباد انجام خواهد شد. این اطلاعیه به منظور اطلاع‌رسانی به مسافران صادر شده است.",
       "category": "politics",
       "region": "Iran",
@@ -8310,7 +8406,7 @@
       "keep": true,
       "title": "Putin &amp; The ‘Drowning Man Syndrome’ Sudan",
       "title_fa": "پوتین و \"سندرم مرد غرق شده\" در سودان",
-      "lead": "درگیری‌های این هفته حول محور تشدید جنگ پهپادی بین اوکراین و روسیه و افزایش نگرانی‌ها از یک فاجعه انسانی در سودان شکل گرفته است. همچنین اعتراضات ضد مهاجرتی در آفریقای جنوبی و حکم تاریخی دیوان عالی آمریکا از جمله رویدادهای مهم این هفته بودند.",
+      "lead": "درگیری‌های این هفته حول محور تشدید جنگ پهپادی بین اوکراین و روسیه و افزایش نگرانی‌ها از یک فاجعه انسانی در سودان شکل گرفته است. همچنین اعتراضات ضد مهاجرتی در آفریقای جنوبی و حکم تاریخی ��یوان عالی آمریکا از جمله رویدادهای مهم این هفته بودند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.france24.com/en/tv-shows/the-world-this-week/20260703-putin-the-drowning-man-syndrome-sudan",
@@ -8928,7 +9024,7 @@
       "keep": true,
       "title": "مسئول خانه فرهنگ ایران در لاهور: مکتب فکری و عملی رهبر شهید ادامه مکتب عاشورا است",
       "title_fa": "مسئول خانه فرهنگ ایران در لاهور: مکتب رهبر شهید ادامه مکتب عاشورا است",
-      "lead": "مسئول خانه فرهنگ ایران در لاهور اظهار داشت که مکتب فکری و عملی رهبر شهید ادامه مکتب عاشورا است. وی افزود که رهبر شهید نیز همانند حضرت سیدالشهدا(ع) همواره بر حفظ ارزش‌های اسلامی و مقابله با ظلم تاکید داشتند.",
+      "lead": "مسئول خانه فرهنگ ایران در لاهور اظهار داشت که مکتب فکری و عملی رهبر شهید ادامه مکتب عاشورا است. وی افزود که رهبر شهید نیز همانند حضرت سیدالشهدا(ع) همواره بر حفظ ا��زش‌های اسلامی و مقابله با ظلم تاکید داشتند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.irna.ir/news/86199948/%D9%85%D8%B3%D8%A3%D9%88%D9%84-%D8%AE%D8%A7%D9%86%D9%87-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%84%D8%A7%D9%87%D9%88%D8%B1-%D9%85%DA%A9%D8%AA%D8%A8-%D9%81%DA%A9%D8%B1%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DB%8C-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A7%D8%AF%D8%A7%D9%85%D9%87",
@@ -10974,7 +11070,7 @@
       "keep": true,
       "title": "اینفوگرافیک/ محدودیت‌های ترافیکی لایه‌‎ای و پارکینگ‌ها در بزرگراه‌ها",
       "title_fa": "اینفوگرافیک: محدودیت‌های ترافیکی لایه‌ای و پارکینگ‌ها در بزرگراه‌ها",
-      "lead": "اینفوگرافیک حاضر به بررسی محدودیت‌های ترافیکی لایه‌ای و ظرفیت پارکی��گ‌ها در بزرگ��اه‌های کشور می‌پردازد. این اطلاعات برای رانندگان و ساکنان شهرهای بزرگ ایر��ن مفید خواهد بود.",
+      "lead": "اینفوگرافیک حاضر به بررسی محدودیت‌های ترافیکی لایه‌ای و ظرفیت پارکی���گ‌ها در بزرگ��اه‌های کشور می‌پردازد. این اطلاعات برای رانندگان و ساکنان شهرهای بزرگ ایر��ن مفید خواهد بود.",
       "category": "society",
       "region": "iran",
       "sourceUrl": "https://www.mashreghnews.ir/photo/1822984/%D8%A7%DB%8C%D9%86%D9%81%D9%88%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AA%D8%B1%D8%A7%D9%81%DB%8C%DA%A9%DB%8C-%D9%84%D8%A7%DB%8C%D9%87-%D8%A7%DB%8C-%D9%88-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%B2%D8%B1%DA%AF%D8%B1%D8%A7%D9%87-%D9%87%D8%A7",
@@ -12134,7 +12230,7 @@
       "keep": true,
       "title": "رگبار رعدوبرق در نواحی غرب و شمال غرب کشور",
       "title_fa": "رگبار رعدوبرق در نواحی غرب و شمال غرب کشور",
-      "lead": "مدیرکل پیش‌بینی سازمان هواشناسی از رگبار و رعد و برق در نواحی غرب و شمال غرب کشور خبر داد. این شرایط جوی شامل استان‌های آذربایجان غربی، شرقی و اردبیل و ارتفاعات البرز طی روزهای شنبه و یکشنبه خ��اهد بود.",
+      "lead": "مدیرکل پیش‌بینی سازمان هواشناسی از رگبار و رعد و برق در نواحی غرب و شمال غرب کشور خبر داد. این شرایط جوی شامل استان‌های آذربای��ان غربی، شرقی و اردبیل و ارتفاعات البرز طی روزهای شنبه و یکشنبه خ��اهد بود.",
       "category": "environment",
       "region": "middleeast",
       "sourceUrl": "https://www.yjc.ir/fa/news/9104409/%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%B1%D8%B9%D8%AF%D9%88%D8%A8%D8%B1%D9%82-%D8%AF%D8%B1-%D9%86%D9%88%D8%A7%D8%AD%DB%8C-%D8%BA%D8%B1%D8%A8-%D9%88-%D8%B4%D9%85%D8%A7%D9%84-%D8%BA%D8%B1%D8%A8-%D کشور",
@@ -14730,7 +14826,7 @@
       "keep": true,
       "title": "اعزام ۲۶۰۰ زائر مینابی در قالب کاروان «کربلای ��یران، میناب ۱۶۸» به مراسم تشییع رهبر شهید",
       "title_fa": "اعزام ۲۶۰۰ ��ائر مینابی در قالب کاروان «کربلای ایران، میناب ۱۶۸» به مراسم تشییع رهبر شهید",
-      "lead": "فرماندار ویژه میناب از برنامه‌ریزی برای اعزام ۲۶۰۰ زائر از این شهرستان به مراسم تشییع رهبر شهید انقلاب خبر داد. این زائران در قالب کاروان «کربلای ایران - میناب ۱۶۸» اعزام می‌شوند و تمامی ظرفیت‌های دولتی و مردمی برای پشتیبانی آنها در نظر گرفته شده است.",
+      "lead": "فرماندار ویژه میناب از برنامه‌ریزی برای اعزام ۲۶۰۰ زائر از این شهرستان به مراسم تشییع رهبر شهید انقلاب خبر داد. این زائران در قالب کاروان «کربلای ایران - میناب ۱۶۸» اعزام می‌شوند و تمامی ظرفیت‌های دولتی و مردمی برای پشتیبانی آنها در نظر گرفته شده ��ست.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://www.irna.ir/news/86199867/%D8%A7%D8%B9%D8%B2%D8%A7%D9%85-%DB%B2%DB%B6%DB%B0%DB%B0-%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%DB%8C%D9%86%D8%A7%D8%A8%DB%8C-%D8%AF%D8%B1-%D9%82%D8%A7%D9%84%D8%A8-%DA%A9%D8%B1%D8%A8%D9%84%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%DB%8C%D9%86%D8%A7%D8%A8-%DB%B1%DB%B6%DB%B8",
@@ -16798,7 +16894,7 @@
       "keep": true,
       "title": "تشییع آیت‌الله خامنه‌ای رژه‌ی پیروزی ایران است",
       "title_fa": "تشییع ��یت‌الله خامنه‌ای رژه‌ی پیروزی ایران است",
-      "lead": "شبکه خبری سی‌ان‌ان نوشت: حفاظت از پیکر رهبر، مدیریت میلیون‌ها عزادار و میزبانی از مقام‌های خارجی، اقدامی عظیم است. برگزاری رویدادهای بزرگ در پنج شهر �� دو کشور، نمایانگر رژه پیروزی ایران است.",
+      "lead": "شبکه خبری سی‌ان‌ان نوشت: حفاظت از پیکر رهبر، مدیریت میلیون‌ها عزادار و میزبانی از مقام‌های خارجی، اقدامی عظیم است. برگزاری رویدادهای بزرگ در پنج شهر �� دو کشور، نمایانگر رژه پیروزی ای��ان است.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.mashreghnews.ir/news/1822958/%D8%AA%D8%B4%DB%8C%DB%8C%D8%B9-%D8%A2%DB%8C%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%AE%D8%A7%D9%85%D9%86%D9%87-%D8%A7%DB%8C-%D8%B1%DA%98%D9%87-%DB%8C-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
@@ -17103,7 +17199,7 @@
       "agencyId": "mehrnews",
       "keep": true,
       "title": "Iran, Turkey stress regional security cooperation",
-      "title_fa": "ایران و ترکیه بر همکاری امنیتی منطقه‌ای تاکید کردند",
+      "title_fa": "ایران و ترکیه ب�� همکاری امنیتی منطقه‌ای تاکید کردند",
       "lead": "مقامات ارشد دفاعی ایران و ترکیه درباره تحولات امنیتی منطقه و راه‌های گسترش همکاری‌های دفاعی دوجانبه گفتگو کردند.",
       "category": "military",
       "region": "iran",
@@ -18925,7 +19021,7 @@
       "agencyId": "khabaronline",
       "keep": true,
       "title": "کالابرگ تیر ۱۴۰۵ کدام دهک‌ها حذف می‌شود؟ / زمان شارژ کالابرگ اعلام شد",
-      "title_fa": "کالابرگ تیر ۱۴۰۵: کدام دهک‌ها حذف می‌شوند و زمان شا��ژ آن چه موقع است؟",
+      "title_fa": "کالابرگ تیر ۱۴۰۵: کدام دهک‌ها حذف می���شوند و زمان شا��ژ آن چه موقع است؟",
       "lead": "یک عضو دولت در خصوص شایعات حذف دهک‌های پردرآمد از طرح کالابرگ الکترونیکی توضیحاتی ارائه داد. در این گزارش، زمان‌بندی سه‌مرحله‌ای شارژ کالابرگ یک میلیون تومانی تیرماه و جزئیات افزایش رقم آن بر اساس کد ملی بررسی می‌شود.",
       "category": "politics",
       "region": "global",
@@ -21659,244 +21755,6 @@
       "pubDate": "Wed, 01 Jul 2026 09:26:05 +0000",
       "time": "۱۲:۵۶ - ۱۰ تیر",
       "analyzed_at": "2026-07-03T11:33:39.834Z"
-    },
-    {
-      "id": "reuters_0",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Iran war and AI boom drive wild ride on global markets - Reuters",
-      "title_fa": "جنگ ایران و رونق هوش مصنوعی بازارهای جهانی را به تلاطم انداخته است",
-      "lead": "جنگ در ایران و رونق هوش مصنوعی باعث نوسانات شدید در بازارهای جهانی شده است. این عوامل مجموعاً مسیر غیرقابل پیش‌بینی را برای اقتصاد جهانی رقم می‌زنند.",
-      "category": "economy",
-      "region": "global",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTNpc0JlcmktcWZKeE1Ra0hLYzNaNkZYSDBIQlhTM1VnLV9tZ2NuNDBuTDljWmhRTGR1MmxHZkRSdw2mY0hFNWNpRzFpenZ2NFAtOVRjdDJjZWFyWXBLN1U2QVB6RmZLMFA5YXM1R05GaXh2TDBmelpfMlpobUhRZHNXdWtPRVhV?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 60,
-        "negative": 30
-      },
-      "analyzed_at": "2026-07-03T11:18:36.383Z"
-    },
-    {
-      "id": "nytimes_1",
-      "agencyId": "nytimes",
-      "keep": true,
-      "title": "Can the World’s Largest Stadium Explain the Global Economy?",
-      "title_fa": "آی�� بزرگترین استادیوم جهان می‌تواند اقتصاد جهانی را ��وضیح دهد؟",
-      "lead": "این گزارش بررسی می‌کند که چگونه یک استادیوم در ویتنام می‌تواند نمادی برای درک اقتصاد جهانی باشد. رشد بالا و افزایش صادرات در ویتنام، نارضایتی‌های عمیق در این کشور جاه‌طلب آسیایی را پنهان می‌کند.",
-      "category": "economy",
-      "region": "global",
-      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 50,
-        "negative": 30
-      },
-      "pubDate": "Thu, 02 Jul 2026 19:43:36 +0000",
-      "time": "۲۳:۱۳ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T11:18:36.383Z"
-    },
-    {
-      "id": "rt_2",
-      "agencyId": "rt",
-      "keep": true,
-      "title": "Ukrainian drone explodes in Türkiye – media (VIDEO)",
-      "title_fa": "رسانه‌ها: پهپاد اوکراینی در ترکیه منفجر شد (ویدئو)",
-      "lead": "یک پهپاد اوکراینی حامل ۵ کیلوگرم مواد منفجر�� در استان ترابزون ترکیه سقوط کرده است. طبق گزارش رسانه‌های محلی، این حادثه تلفاتی نداشته است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.rt.com/news/642475-ukrainian-drone-explodes-turkey/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 60,
-        "negative": 40
-      },
-      "pubDate": "Thu, 02 Jul 2026 07:56:49 +0000",
-      "time": "۱۱:۲۶ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T11:18:36.383Z"
-    },
-    {
-      "id": "bbc_3",
-      "agencyId": "bbc",
-      "keep": true,
-      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-      "title_fa": "قاچاقچی انسان که در فرانسه محکوم شده بود، توسط بی‌بی‌سی در بریتانیا در حال درخواست پناهندگی یافت شد",
-      "lead": "یک قاچاقچی انسان که قبلاً در فرانسه محکوم شده و به \"پدرخوانده\" اردوگاه‌های مهاجران فرانسوی معروف بود، اکنون در بریتانیا زندگی می‌کند. او در یک روستای لسترشایر مشغول به کار بوده �� در حال درخواست پناهندگی است که توسط بی‌بی‌سی کشف شد.",
-      "category": "politics",
-      "region": "europe",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 40,
-        "negative": 60
-      },
-      "pubDate": "Thu, 02 Jul 2026 05:00:03 GMT",
-      "time": "۰۸:۳۰ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T11:18:36.383Z"
-    },
-    {
-      "id": "rt_4",
-      "agencyId": "rt",
-      "keep": true,
-      "title": "Diarrhea-inducing parasite spreading across US",
-      "title_fa": "انگل عامل اسهال در حال گسترش در سراسر ایالات متحده",
-      "lead": "مقامات ایالات متحده در تلاشند تا منبع یک عفونت انگلی که باعث اسهال می‌شود را شناسایی کنند. ۱۴۵ مورد ابتلا در ۱۷ ایالت گزارش شده است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.rt.com/news/642451-diarrhea-inducing-parasite-spreading-across-us/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 50,
-        "negative": 50
-      },
-      "pubDate": "Thu, 02 Jul 2026 04:49:06 +0000",
-      "time": "۰۸:۱۹ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T11:18:36.383Z"
-    },
-    {
-      "id": "skynews_5",
-      "agencyId": "skynews",
-      "keep": true,
-      "title": "Cubans face endless blackouts, collapsing salaries and empty shops – but they're refusing to give up",
-      "title_fa": "کوبایی‌ها با خاموشی‌های بی‌پایان، حقوق‌های ناچیز و مغازه‌های خالی روبرو هستند – اما تسل��م نمی‌شوند",
-      "lead": "مردم کوبا با خاموشی‌های طولانی، حقوق‌های در حال سقوط و قفسه‌های خال�� فروشگاه‌ها دست و پنجه نرم می‌کنند. با وجود این مشکلات بی‌امان، روحیه مقاومت و عدم تسلیم در میان آنها موج می‌زند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://news.sky.com/story/cuba-faces-an-unceasing-crisis-but-its-people-are-refusing-to-give-up-13559697",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 20,
-        "negative": 70
-      },
-      "pubDate": "Thu, 02 Jul 2026 04:59:00 +0100",
-      "time": "۰۷:۲۹ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T11:18:36.383Z"
-    },
-    {
-      "id": "rt_6",
-      "agencyId": "rt",
-      "keep": true,
-      "title": "Longtime Clinton aide ‘can’t remember’ why he said ex-president visited Epstein island",
-      "title_fa": "دستیار قدیمی کلینتون «نمی‌تواند به یاد بیاورد» چرا گفت رئیس‌جمهور سابق از جزیره اپستین بازدید کرده است",
-      "lead": "دستیار سابق بیل کلینتون به کنگره گفت که به یاد نمی‌آورد چرا قبلاً ادعا کرده بود که بیل کلینتون از جزیره خصوصی جفری اپستین بازدید کرده است. این اظهارات در پی رسوایی‌های مربوط به اپستین مورد توجه قرار گرفته است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.rt.com/news/642454-bill-clinton-epstein-island/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 40,
-        "negative": 60
-      },
-      "pubDate": "Thu, 02 Jul 2026 03:29:13 +0000",
-      "time": "۰۶:۵۹ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T11:18:36.383Z"
-    },
-    {
-      "id": "guardian_7",
-      "agencyId": "guardian",
-      "keep": true,
-      "title": "China’s ethnic unity law denounced as ‘forced assimilation’ by rights groups",
-      "title_fa": "گروه‌های حقوق بشری قانون وحدت قومی چین را «همگون‌سازی اجباری» دانستند",
-      "lead": "قانون جدید \"وحدت قومی\" چین که گروه‌های حقوق بشری آن را \"همگون‌سازی اجباری\" می‌خوانند، اجرایی شده است. منتقدان بیم دارند این قانون حقوق اویغورها و تبتی‌ها را بیشتر تضعیف کرده و به پکن اجازه دهد تا مخالفان را د�� خارج از کشور نیز تحت تعقیب قرار دهد.",
-      "category": "politics",
-      "region": "asia",
-      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/china-ethnic-unity-law-denounced-rights-groups",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "Thu, 02 Jul 2026 01:17:38 GMT",
-      "time": "۰۴:۴۷ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T11:18:36.383Z"
-    },
-    {
-      "id": "reuters_8",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Oil gains on short-covering buys ahead of US holiday - Reuters",
-      "title_fa": "افزایش قیمت نفت در ��ستانه تعطیلات آمریکا",
-      "lead": "قیمت نفت در آستانه تعطیلات ایالات متح��ه به دلیل پوشش موقعیت‌های فروش (short-covering) افزایش یافت. این اتفاق نشان‌دهنده نوسانات معمول در بازارهای جهانی انرژی است.",
-      "category": "energy",
-      "region": "global",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjJuTlNEejJjWHZfckJtT3BHcWVLbXpJQUZzOVEzaDJCMThGUmJaU1pXRXdKYV9RUG9Nc09WaVRaVHhYUXh5LW43QzNzU3dzNDd5dGVQaFpmQzNhenJRcW1HMVVOQ3pnNVptVHpCSk9mUC1BWl9xTUJyQmttcHdRWF9jdkZiS3dZMkQ2ekY5aWpPX284MnFMOVVBaw?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 60,
-        "negative": 10
-      },
-      "pubDate": "Thu, 02 Jul 2026 01:11:00 GMT",
-      "time": "۰۴:۴۱ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T11:18:36.383Z"
-    },
-    {
-      "id": "skynews_9",
-      "agencyId": "skynews",
-      "keep": true,
-      "title": "Alleged member of hacking group Scattered Spider arrested",
-      "title_fa": "عضو مظنون گروه هکری «اسکَتِرد اسپایدر» دستگیر شد",
-      "lead": "یک نوجوان ک�� گفته می‌شود عضو گروه هکری تبهکار \"اسکَتِرد اسپایدر\" است، توسط مقامات آمریکایی دستگیر شد. این گروه به ��ملاتی علیه M&S و حمل و نقل لندن مرتبط بوده است.",
-      "category": "military",
-      "region": "global",
-      "sourceUrl": "https://news.sky.com/story/alleged-member-of-international-cyber-hacking-group-scattered-spider-arrested-13559690",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 30,
-        "negative": 30
-      },
-      "pubDate": "Thu, 02 Jul 2026 00:38:00 +0100",
-      "time": "۰۳:۰۸ - ۱۱ تیر",
-      "analyzed_at": "2026-07-03T11:18:36.383Z"
     }
   ]
 }
