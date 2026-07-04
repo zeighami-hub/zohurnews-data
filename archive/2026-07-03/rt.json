@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
   "agencyId": "rt",
-  "total": 10,
+  "total": 14,
   "articles": [
     {
       "id": "rt_11",
@@ -242,6 +242,102 @@
       "pubDate": "Thu, 02 Jul 2026 03:29:13 +0000",
       "time": "۰۶:۵۹ - ۱۱ تیر",
       "analyzed_at": "2026-07-03T11:18:36.383Z"
+    },
+    {
+      "id": "rt_9",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US feared plot to kill Iranian negotiators – NYT",
+      "title_fa": "آمریکا از توطئه ترور مذاکره‌کنندگان ایرانی توسط اسرائیل نگران بود - نیویورک ت��یمز",
+      "lead": "روزنامه نیویورک تایمز گزارش داده است که آمریکا نگران توطئه اسرائیل برای ترور م��اکره‌کنن��گان ایرانی بود. این نگرانی‌ها با هدف جلوگیری از به شکست کشاندن مذاکرات صلح مطرح شده بود.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/642546-iran-us-israel-ghalibaf/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:16:43 +0000",
+      "time": "۱۷:۴۶ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
+    },
+    {
+      "id": "rt_12",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "EU nation moves to lift nuclear weapons ban",
+      "title_fa": "یک کشور اتحادیه اروپا برای لغو ممنوعیت تسلیحات هسته‌ای اقدام می‌کند",
+      "lead": "قانون‌گذاران لی��وانیایی یک اصلاحیه قانون اساسی را برای حذف ممنوعیت می��بانی تسلیحات هسته‌ای در این کشور ارائه کرده‌اند. این اقدام می‌تواند پیامدهای مهمی برای سیاست دفاعی و امنیت منطقه اروپا داشته باشد.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642529-lithuania-nuclear-weapon-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:06:45 +0000",
+      "time": "۱۸:۳۶ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
+    },
+    {
+      "id": "rt_8",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "AI industry is ‘effing insane’ – Palantir CEO",
+      "title_fa": "مدیرعامل پالانتیر: صنعت هوش مصنوعی \"کاملا دیوانه\" است",
+      "lead": "الکس کارپ، مدیرعامل پالانتیر، رقبای خود در صنعت هوش مصنوعی را به سوءاستفاده از دولت آمریکا و به خطر انداختن امنیت ملی متهم کرده است. او معتقد است که وضعیت این صنعت بسیار بی‌ثبات و غیرمنطقی است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642548-palantir-alex-karp-insane/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:59:23 +0000",
+      "time": "۱۸:۲۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
+    },
+    {
+      "id": "rt_0",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "UNESCO warns Pakistan over ancient city’s status",
+      "title_fa": "یونسکو به پاکستان درب��ره وضعیت شهر باستانی هشدار داد",
+      "lead": "سازمان ملل متحد به پاکستان درباره کارهای حفاظتی در آثار تاریخی تاکسیلا که یکپارچگی آنها را تضعیف کرده است، هشدار داد. این هشدار در مورد ��ضعیت شهر باستانی صادر شده است.",
+      "category": "culture",
+      "region": "asia",
+      "sourceUrl": "https://www.rt.com/india/642547-unesco-taxila-heritage-pakistan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:22:08 +0000",
+      "time": "۱۷:۵۲ - ۱۲ تیر",
+      "analyzed_at": "2026-07-03T16:18:10.989Z"
     }
   ]
 }
