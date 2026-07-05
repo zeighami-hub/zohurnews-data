@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "rt",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "rt_14",
@@ -146,6 +146,30 @@
       "pubDate": "Sat, 04 Jul 2026 01:06:39 +0000",
       "time": "۰۴:۳۶ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T07:46:35.151Z"
+    },
+    {
+      "id": "rt_1",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Iran warns US and ‘Zionist regime’ against attacks on Khamenei funeral",
+      "title_fa": "ایران به آمریکا و «رژیم صهیونیستی» درباره حمله به مراسم تشییع جنازه خامنه‌ای هشدار داد",
+      "lead": "ایران به آمریکا و اسرائیل در مورد هرگونه حمله در جریان مراسم تش��یع جنازه آتی آیت‌الله علی خامنه‌ای، رهبر فقید، هشدار داده است. این هشدار در پی برگزاری مراسم عزاداری عمومی برای رهبر پیشین صادر شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/642514-iran-khamenei-funeral-warning/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 04:32:25 +0000",
+      "time": "۰۸:۰۲ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T09:18:31.495Z"
     }
   ]
 }
