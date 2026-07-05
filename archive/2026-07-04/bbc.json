@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "bbc",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "bbc_2",
@@ -602,6 +602,54 @@
       "pubDate": "Fri, 03 Jul 2026 10:23:32 GMT",
       "time": "۱۳:۵۳ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "bbc_4",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
+      "title_fa": "پوشش بی‌بی‌سی از تهران همزمان با گردهمایی عزاداران برای تش��یع رهبر سابق ایران",
+      "lead": "بی‌بی‌سی از تهران گزارش می‌دهد که عزاداران برای مراسم تشییع رهبر سابق ایران گردهم آمده‌اند. مقامات ایرانی انتظار دارند میلیون‌ها نفر در مراسم تشییع آیت‌الله علی خامنه‌ای شرکت کنند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 16:49:36 GMT",
+      "time": "۲۰:۱۹ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T20:29:27.462Z"
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Former chess champion Kramnik banned over cheating remarks",
+      "title_fa": "قهرمان سابق شطرنج، کرامنیک�� به دلیل اظهاراتش درباره تقلب محروم شد",
+      "lead": "قهرمان سابق شطرنج جهان، ولادیمیر کرا��نیک، ��ه دلیل اتهام تقلب به بازیکنان دیگر، از جمله دانیل نارودیتس��ی فقید، محروم شد. این تصمیم پس از بررسی اظهارات وی توسط فدراسیون جهانی شطرنج اتخاذ گردید.",
+      "category": "sport",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "pubDate": "Sat, 04 Jul 2026 15:45:15 GMT",
+      "time": "۱۹:۱۵ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T20:29:27.462Z"
     }
   ]
 }
