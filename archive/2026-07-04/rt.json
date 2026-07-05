@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "rt",
-  "total": 16,
+  "total": 20,
   "articles": [
     {
       "id": "rt_14",
@@ -386,6 +386,102 @@
       "pubDate": "Fri, 03 Jul 2026 14:22:08 +0000",
       "time": "۱۷:۵۲ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "rt_9",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "British MPs demand ban on Russian children’s cartoon",
+      "title_fa": "نمایندگان پارلمان بریتانیا خواستار ممنوعیت کارتون کودکانه روسی شدند",
+      "lead": "نما��ندگان پارلمان بریتانیا خواستار اقدام علیه کارتون روسی «ماشا و خرس» شده‌اند. آنها ادعا می��کنند که این کارتون ممکن است به عنوان ابزاری بر��ی «قدرت نرم» استفاده شود.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/642534-uk-mp-russian-cartoon-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 12:00:19 +0000",
+      "time": "۱۵:۳۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "rt_10",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Nearly half of Americans don’t know what 4th of July is about – poll",
+      "title_fa": "نظرسنجی: نزدیک به نیمی از آمریکایی‌ها نمی‌دانند چه��رم ژوئیه درباره چیست",
+      "lead": "یک نظرسنجی نشان می‌دهد که نزدیک به نیمی از آمریکایی‌ها نمی‌توانند بگویند که چهارم ژوئیه چه چیزی را جشن می‌گیرد. اکثریت نیز در پاسخ به سوالات اساسی مدنی دچار مشکل ��ودند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/642526-americans-july-four/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 11:59:41 +0000",
+      "time": "۱۵:۲۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "rt_11",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Macron’s final gift: A law for death",
+      "title_fa": "هدیه پایانی ماکرون: قانونی برای مرگ",
+      "lead": "در حالی که پارلمان فرانسه به نفع قانونی شدن اوتانازی رأی می‌دهد، یک دهه قدرت رئیس‌جمهور ماکرون نماد تاریک خود را تثبیت می‌کند. این قانون بحث‌های اخلاقی و اجتماعی گسترده‌ای را به ه��راه دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642524-macron-gift-euthanasia-law/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 03 Jul 2026 11:11:51 +0000",
+      "time": "۱۴:۴۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "rt_1",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Merz’s ratings plummet to record low",
+      "title_fa": "محبوبیت مرز به پایین‌ترین حد خود سقوط کرد",
+      "lead": "یک نظرسنجی ARD-DeutschlandTrend نشان می‌دهد که مجموعاً ۸۴ درصد ا�� آلمانی‌ها از عملکرد صدراعظم فریدریش مرز ناراضی هستند. این آمار نشان‌دهنده کاهش بی‌سابقه محبوبیت اوست.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642515-merz-geramny-afd-weidel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 09:02:54 +0000",
+      "time": "۱۲:۳۲ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
     }
   ]
 }
