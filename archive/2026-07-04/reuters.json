@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 26,
+  "total": 27,
   "articles": [
     {
       "id": "reuters_0",
@@ -596,6 +596,30 @@
         "negative": 20
       },
       "analyzed_at": "2026-07-04T16:48:53.692Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil prices little changed as US-Iran peace efforts hold - Reuters",
+      "title_fa": "قیمت نفت با حفظ تلاش‌های صلح آمریکا و ایران ت��ییر چندانی نکرد",
+      "lead": "قیمت نفت با ادامه تلاش‌های صلح بین ایالات متحده و ایران، تغییر اندکی داشته است. این وضعیت ثبات نسبی را در بازار جهانی انرژی نشان می‌دهد.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0NjRDBBT1J0ZC1KY0c5R1huTjYyNzk4NTg4VU1aa2dmMDVGeHNQcl92Tm1vY3FnQks5ZmE4bWU0YUpwdlFBZjYybVgwQ2FlU1U4TkFBWG9SbHZ6ejZiT0lYdTdVM21VR1JOVk05Qm0yb19pcjk2WEhyZUxjbmV2RklXcGNDVmF2ZURTWkQxNERESHBFcE1LN082a1lYc0MwNDJFUEQzM0J3WkNH?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "pubDate": "Fri, 03 Jul 2026 02:05:00 GMT",
+      "time": "۰۵:۳۵ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
     }
   ]
 }
