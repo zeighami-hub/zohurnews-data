@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T18:33:21.570Z",
-  "total": 1010,
-  "new_this_cycle": 3,
+  "generated_at": "2026-07-05T18:48:35.979Z",
+  "total": 1002,
+  "new_this_cycle": 4,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,102 @@
     }
   ],
   "articles": [
+    {
+      "id": "foreignpolicy_0",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "The MOU Is Paying Off Early for Iran",
+      "title_fa": "تفاهم‌نامه از هم‌اکنون برای ایران سودآور است",
+      "lead": "واشنگتن و تهران بر سر «تفاهم‌نامه سوءتفاهم» در حال کشمکش هستند. این تفاهم‌نامه از هم‌اکنون در حال بازدهی برای ایران است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/02/mou-iran-us-talks-doha-strait-hormuz-oil-sanctions-profits-exports/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Thu, 02 Jul 2026 15:56:26 +0000",
+      "time": "۱۹:۲۶ - ۱۱ تیر",
+      "analyzed_at": "2026-07-05T18:48:29.920Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran's Revolutionary Guards say they killed Kurdish militants in northwest Iran - Reuters",
+      "title_fa": "سپاه پاسداران ایران از کشته شدن شبه‌نظامیان کرد در شمال غرب کشور خبر داد",
+      "lead": "سپاه پاسداران ایران اعلام کرد که شبه‌نظامیان کرد را در شمال غرب این کشور کشته است. این عملیات در پی درگیری‌های اخیر در منطقه انجام شده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS0JnV1Rxc1p1a0NNYXNXTzM4UEZVdU5TVlMwdzZhNGVnVFY5NzU0WEhOQUFNMkFJdjI5V19UQWRHa3VjSHhSTG9oMGc2dFZ2SE1ra1B6UWptdGtsallUdUF4M3JUYzg1TTZVYzJZRkpLZm9iZzNVZ2dLUTV4T2NQU1RlN01qZUowTVdJM1d3cUFMMnctUTdSWnVXWVlubzZVQkVQMkNMblZ3NzBaVmw3OFFIc2JYbHlPdmJkajVYYmRweTV0TFRfZ1RZY2FvSE0?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 02 Jul 2026 11:56:46 GMT",
+      "time": "۱۵:۲۶ - ۱۱ تیر",
+      "analyzed_at": "2026-07-05T18:48:29.920Z"
+    },
+    {
+      "id": "guardian_3",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
+      "title_fa": "نجات مرد ونزوئلایی از زیر آوار پاساژ پس از هشت روز از زلزله",
+      "lead": "یک نگهبان ۴۳ ساله امنیتی به نام هرنان آلبرتو گیل فلورس، پس از هشت روز از زلزله ویرانگر هفته گذشته در ونزوئلا، از زیر آوار یک پاساژ نجات یافت. او به لطف یک حفره هوا در محل کارش زنده ماند و در ابتدا از امدادگران خواست تا به همسرش خبری ندهند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 17:24:06 GMT",
+      "time": "۲۰:۵۴ - ۱۱ تیر",
+      "analyzed_at": "2026-07-05T18:48:29.920Z"
+    },
+    {
+      "id": "guardian_4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Canadian boy dies of rabies after waking to find bat on his face",
+      "title_fa": "مرگ پسر کانادایی بر اثر هاری پس از یافتن خفاش روی صورتش هنگام بیداری",
+      "lead": "یک کودک ۱۱ ساله کانادایی پس از بیدار شدن و یافتن خفاشی روی صورتش در انتاریو، ۱۹ روز بعد بر اثر بیماری هاری جان باخت. پزشکان این مورد را «بسیار نادر» توصیف کرده‌اند که باعث نگرانی‌های بهداشتی شده است.",
+      "category": "health",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 16:29:38 GMT",
+      "time": "۱۹:۵۹ - ۱۱ تیر",
+      "analyzed_at": "2026-07-05T18:48:29.920Z"
+    },
     {
       "id": "yjc_0",
       "agencyId": "yjc",
@@ -966,7 +1062,7 @@
       "keep": true,
       "title": "The War Room newsletter: The best generals in history",
       "title_fa": "خبرنامه اتاق جنگ: بهترین فرماندهان تاریخ.",
-      "lead": "ریچارد کاکت، سردبیر ارشد، در این مقاله به تحلیل ویژگی‌های یک فرماندهی خوب پرداخته است. او سه فرمانده برتر تاریخ را نیز رتبه‌بندی می‌کند.",
+      "lead": "ریچارد کاکت، سردبیر ارشد�� در این مقاله به تحلیل ویژگی‌های یک فرماندهی خوب پرداخته است. او سه فرمانده برتر تاریخ را نیز رتبه‌بندی می‌کند.",
       "category": "military",
       "region": "global",
       "sourceUrl": "https://www.economist.com/international/2026/04/27/the-war-room-newsletter-the-best-generals-in-history",
@@ -2429,7 +2525,7 @@
       "agencyId": "aljazeera",
       "keep": true,
       "title": "Millions attend funeral prayers for Iran’s Khamenei and family",
-      "title_fa": "میلیون‌ها نفر در مراسم تشییع آیت‌الله خامنه‌ای و خانواده‌اش شرکت کردند",
+      "title_fa": "میلیون‌ها نفر در مراسم تشییع آیت‌الله خا��نه‌ای و خانواده‌اش شرکت کردند",
       "lead": "میلیون‌ها نفر از مردم در تهران برای اقامه نماز میت آیت‌الله علی خامنه‌ای، رهبر فقید ایران، حضور یافتند. این مراسم تشییع با حضور گسترده مردمی برگزار شد.",
       "category": "politics",
       "region": "iran",
@@ -4754,7 +4850,7 @@
       "keep": true,
       "title": "حضور خادمان هلال‌احمر گرمسار در جاده‌ها و موکب‌ها + فیلم",
       "title_fa": "حضور خادمان هلال‌احمر گرمسار در جاده‌ها و موکب‌ها",
-      "lead": "همزمان با آیین وداع و تشییع، نیروهای هلال احمر گرمسار تیم‌های امداد و نجات را مستقر کرده‌اند. این خدمات شامل پایش سلامت و اسکان اضطراری برای زائران و مسافران در مسیرها و موکب‌های شهرستان است.",
+      "lead": "همزمان با آیین وداع و تشییع، نیروهای هلال احمر گرمسار تیم‌های امداد و نجات را مستقر کرده‌اند. این خدمات شامل پایش سلامت و اسکان اض��راری برای زائران و مسافران در مسیرها و موکب‌های شهرستان است.",
       "category": "society",
       "region": "global",
       "sourceUrl": "https://www.irna.ir/news/86200743/%D8%AD%D8%B6%D9%88%D8%B1-%D8%AE%D8%A7%D8%AF%D9%85%D8%A7%D9%86-%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D8%AD%D9%85%D8%B1-%DA%AF%D8%B1%D9%85%D8%B3%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%AC%D8%A7%D8%AF%D9%87-%D9%87%D8%A7-%D9%88-%D9%85%D9%88%DA%A9%D8%A8-%D9%87%D8%A7-%D9%81%DB%8C%D9%84%D9%85",
@@ -5624,7 +5720,7 @@
       "keep": true,
       "title": "لیلاز: آیت الله خامنه ای آخرین انقلابی تاریخ بود/ شهادت رهبر شهید برای ما بسیار دردناک و تحمل آن دشوار است",
       "title_fa": "لیلاز: آیت الله خامنه ای آخرین انقلابی تاریخ بود/ شهادت رهبر شهید برای ما بسیار دردناک و تحمل آن دشوار است",
-      "lead": "یک فعال سیاسی، آیت‌الله خامنه‌ای را آخرین انقلابی تار��خ نامید. وی شهادت رهبر شهید را برای مردم ایران بسیار دردناک و تحمل‌ناپذیر خواند.",
+      "lead": "یک فعال سیاسی، آیت‌الله خامنه‌ای را آخرین انقلابی تار��خ نامید. وی شهادت رهبر شهید را برای مردم ایران بس��ار دردناک و تحمل‌ناپذیر خواند.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://www.khabaronline.ir/news/2242383/%D9%84%DB%8C%D9%84%D8%A7%D8%B2-%D8%A2%DB%8C%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%AE%D8%A7%D9%85%D9%86%D9%87-%D8%A7%DB%8C-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%A8%D9%88%D8%AF-%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%D8%B1%D9%87%D8%A8%D8%B1",
@@ -5936,7 +6032,7 @@
       "keep": true,
       "title": "بحران در سینمای چین ؛ پایین‌ترین میزان فروش از سال ۲۰۱۴",
       "title_fa": "بحران در سینمای چین؛ پایین‌ترین میزان فروش از سال ۲۰۱۴",
-      "lead": "فروش گیشه سینمای چین در نیمه نخست سال ۲۰۲۶ با بیش از ۴۰ درصد کاهش نسبت به سال قبل مواجه شد. این میزان، به جز دوران همه گیری کرونا، پایین‌ترین میزان فروش از سال ۲۰۱۴ تاکنون محسوب می‌شود.",
+      "lead": "فروش گیشه سینمای چین در نیمه نخست سال ۲۰۲۶ با بیش از ۴۰ درصد کا��ش نسبت به سال قبل مواجه شد. این میزان، به جز دوران همه گیری کرونا، پایین‌ترین میزان فروش از سال ۲۰۱۴ تاکنون محسوب می‌شود.",
       "category": "entertainment",
       "region": "asia",
       "sourceUrl": "https://www.asriran.com/fa/news/1175307/بحران-در-سینمای-چین-پایین-ترین-میزان-فروش-از-سال-2014",
@@ -6248,7 +6344,7 @@
       "keep": true,
       "title": "Indonesian army recovers US pilot’s body from Papua",
       "title_fa": "ارتش اندونزی جسد خلبان آمریکایی را از پاپوآ پیدا کرد",
-      "lead": "نیروهای ارتش اندونزی جسد نیکلاس گوسلین، خلبان آمریکایی را از منطقه ناآرام پاپوآ پیدا کردند. این عملیات جستجو و بازیابی در پی ناپدید شدن وی در این منطقه انجام شد.",
+      "lead": "نیروه��ی ارتش اندونزی جسد نیکلاس گوسلین، خلبان آمریکایی را از منطقه ناآرام پاپوآ پیدا کردند. این عملیات جستجو و بازیابی در پی ناپدید شدن وی در این منطقه انجام شد.",
       "category": "military",
       "region": "asia",
       "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/5/indonesian-army-recovers-us-pilots-body-from-papua?traffic_source=rss",
@@ -8946,7 +9042,7 @@
       "keep": true,
       "title": "سخنرانی ترامپ در پشت حفاظ ضدگلوله",
       "title_fa": "سخنرانی ترامپ در پشت حفاظ ضدگلوله",
-      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، در یک سخنرانی عمومی با تدابیر امنیتی شدید و در پشت حفاظ ضدگلوله حاضر شد. این رویداد، توجهات را به مسائل امنیتی پیرامون کمپ��ن‌های انتخاباتی جلب کرده است.",
+      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، در یک سخنرانی عمومی با تدابیر امنیتی شدید و در پشت حفاظ ضدگلوله حاضر شد. این رویداد، توجهات را به مسائل امنیتی پیرامون کمپ����ن‌های انتخاباتی جلب کرده است.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1175230/سخنرانی-ترامپ-در-پشت-حفاظ-ضدگلوله",
@@ -10744,7 +10840,7 @@
       "id": "isna_10",
       "agencyId": "isna",
       "keep": true,
-      "title": "ترقی: حضور گسترده هیات‌های خارجی در مراسم تشییع نشان داد ایران در برابر آمریکا تنها نیست",
+      "title": "ترقی: حضور گسترده هیات‌های خارجی در مراسم تشییع نشان دا�� ایران در برابر آمریکا تنها نیست",
       "title_fa": "ترقی: حضور گسترده هیات‌های خارجی در مراسم تشییع نشان داد ایران در برابر آمریکا تنها نیست",
       "lead": "معاون بین‌الملل حزب مؤتلفه اسلامی، حضور گسترده هیات‌های خارجی در مراسم تشییع رهبر شهید را مهم ارزیابی کرد. وی گفت این حضور نشان می‌دهد که جمهوری اسلامی ایران در عرصه جهانی در برابر یک‌جانبه‌گرایی آمریکا تنها نیست و طرفداران زیادی دارد.",
       "category": "politics",
@@ -12653,7 +12749,7 @@
       "agencyId": "independent",
       "keep": true,
       "title": "UK braces for third heatwave of the year as temperatures set to hit 34C",
-      "title_fa": "بریتانیا برای سومین موج گرما در سال با دمای ۳۴ درجه سانتی‌گراد آماده می‌شود",
+      "title_fa": "بریتانیا برای سومین موج گرما در سال با دمای ۳۴ درجه س��نتی‌گراد آماده می‌شود",
       "lead": "سازمان هواشناسی بریتانیا اعلام کرد که دمای هوا د�� جنوب شرقی انگلیس به ۳۴ درجه سانتی‌گراد خواهد رسید. این کشور برای سومین موج گرما در سال جاری آماده می‌شود.",
       "category": "politics",
       "region": "europe",
@@ -16234,7 +16330,7 @@
       "keep": true,
       "title": "نماینده ولی‌فقیه در استان و استاندار کرمانشاه شهادت سرهنگ دوم محسن چهری را تسلیت گفتند",
       "title_fa": "نماینده ولی‌فقیه و استاندار کرمانشاه شهادت سرهنگ دوم محسن چهری را تسلیت گفتند",
-      "lead": "نماینده ولی‌فقیه در استان و استاندار کرمانشاه در پیامی مشترک، شهادت سرهنگ دوم «محسن چهری»، افسر انتظامی شهرستان کرمانشاه، را تسلیت گفتند. این پیام بر مجاهدت‌ها و ایثارگری‌های نیروهای انتظامی در پاسداری از امنیت و آرامش جامعه تاکید کرده است.",
+      "lead": "نماینده ولی‌فقیه در استان و استاندار کرمانشاه در پیامی مشترک، شهادت سرهنگ دوم «محسن چهری»، ا��سر انتظامی شهرستان کرمانشاه، را تسلیت گفتند. این پیام بر مجاهدت‌ها و ایثارگری‌های نیروهای انتظامی در پاسداری از امنیت و آرامش جامعه تاکید کرده است.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://www.irna.ir/news/86201050/%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D9%88%D9%84%DB%8C-%D9%81%D9%82%DB%8C%D9%87-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%D8%B3%D8%B1%D9%87%D9%86%DA%AF-%D8%AF%D9%88%D9%85",
@@ -17910,7 +18006,7 @@
       "keep": true,
       "title": "شرکت‌های دانش‌بنیان سربازان خط مقدم جهاد علمی هستند",
       "title_fa": "شرکت‌های دانش‌بنیان، سربازان خط مقدم جهاد علمی",
-      "lead": "عضو هیأت علمی دانشگاه آیت‌الله‌العظمی بروجردی (ره) بر جایگاه راهبردی شرکت‌های دانش‌بنیان در اندیشه رهبر شهید تأکید کرد. وی افزود که از نظر ایشان، تجاری‌سازی علم و ایجاد پیوند میان دانشگاه، پژوهش و صنعت، مسیر تحقق اقتصاد دانش‌بنیان و کاهش وابستگی کشور است.",
+      "lead": "عضو هیأت علمی دانشگاه آیت‌الله‌العظمی بروجردی (ره) بر جایگاه راهبردی شرکت‌های دانش‌بنیان در اندیشه رهبر شهید ت��کید کرد. وی افزود که از نظر ایشان، تجاری‌سازی علم و ایجاد پیوند میان دانشگاه، پژوهش و صنعت، مسیر تحقق اقتصاد دانش‌بنیان و کاهش وابستگی کشور است.",
       "category": "science_and_technology",
       "region": "iran",
       "sourceUrl": "https://www.isna.ir/news/1405041408184/%D8%B4%D8%B1%DA%A9%D8%AA-%D9%87%D8%A7%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A8%D9%86%DB%8C%D8%A7%D9%86-%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%D8%A7%D9%86-%D8%AE%D8%B7-%D9%85%D9%82%D8%AF%D9%85-%D8%AC%D9%87%D8%A7%D8%AF-%D8%B9%D9%84%D9%85%DB%8C-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
@@ -23132,7 +23228,7 @@
       "keep": true,
       "title": "جنایات تازه صهیونیست‌ها در نوار غزه",
       "title_fa": "جنایات تازه صهیونیس��‌ها در نو��ر غزه",
-      "lead": "شبکه الجزیره گزارش داد که ارتش اسرائیل عملیات گسترده بمب‌گذاری و تخریب ساختمان‌ها را در رفح، جنوب نوار غزه، اجرا کرده است. این اقدامات شامل انفجارهای پی‌درپی و تخریب گ��ت��ده بوده است.",
+      "lead": "شبکه الجزیره گزارش داد که ارتش اسرائیل عملیات گسترده بمب‌گذاری و تخریب ساختمان‌ها را در رفح، جنوب نوار غزه، اجرا کرده است. این اقدامات شامل انفجارهای پی‌درپ�� و تخریب گ��ت��ده بوده است.",
       "category": "conflict",
       "region": "palestine",
       "sourceUrl": "https://www.asriran.com/fa/news/1175150/جنایات-تازه-صهیونیست-ها-در-نوار-غزه",
@@ -23723,292 +23819,6 @@
       "pubDate": "Sat, 04 Jul 2026 15:36:52 GMT",
       "time": "۱۹:۰۶ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T19:03:24.382Z"
-    },
-    {
-      "id": "reuters_0",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "India to send minister, governor to Ali Khamenei funeral - Reuters",
-      "title_fa": "هند وزیر و فرماندار خود را به مراسم تشییع علی خامنه‌ای اعزام می‌کند",
-      "lead": "هند اعلام کرد که یک وزیر و یک فرماندار را برای شرکت در مراسم تشییع علی خامنه‌ای اعزام خواهد کرد. این اقدام ��شان‌دهنده روابط دیپلماتیک و اهمیت رویداد در سطح بین‌المللی است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONnhnenpnSUczNUEzNDN1S25EM240ZGRVbzJVSzZVVDRxeVYzZFo3NmdrQWI1TkVFVUktTDdSNzV5cjEyTUFsOVp4TkxyVzBpbEpXajBVMklOZWphRFFDaWQwaWxHUmNZV1lqU0UyVTBBMXlKUU9hY3Z1b0pWREJBdU1DWWZ0R1pVUTlPTG84d0FkeUQ1MGVCb090N1REYmMyejdPZGFn?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Thu, 02 Jul 2026 10:53:33 GMT",
-      "time": "۱۴:۲۳ - ۱۱ تیر",
-      "analyzed_at": "2026-07-04T18:48:28.177Z"
-    },
-    {
-      "id": "independent_1",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Wimbledon 2026 men’s and women’s seeds list and tracker",
-      "title_fa": "فهرست و پیگیری سیدبندی مردان و زنان ویمبلدون ۲۰��۶",
-      "lead": "با آغاز مسابقات ویمبلدون، یانیک سینر و آرینا سابالنکا در صدر جدول سیدبندی مردان و زنان قرار گرفته‌اند. ا��ن رویداد ورزشی مهم، توج�� بسیاری از علاقه‌مندان به تنیس در سراسر جهان را به خود جلب کرده است.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/sport/tennis/wimbledon-2026-rankings-draw-tennis-seed-tracking-b3003663.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 15:38:43 GMT",
-      "time": "۱۹:۰۸ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T18:48:28.177Z"
-    },
-    {
-      "id": "reuters_0",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Iran prepares to bury slain supreme leader with week of mass mourning - Reuters",
-      "title_fa": "ایران برای مراسم تدفین رهبر مقت��ل با یک هفته ع��اداری گستر��ه آماده می‌شود.",
-      "lead": "ای��ان در حال آماده‌سازی برای تدفین رهبر مقتول خود با یک هفته عزاداری عمومی است. این مراسم بزرگترین ر��یداد اخیر سیاسی در کشور خواهد بود.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDFZb2Q4bXdRa0pnRGtueDdUd3ZWQ1VyMHFsVlp5WGx6aGdtM2dxRW5YWDhLQVhSNV9CUFBNLWMwTnp4NTZ5NHN1UmxCR1RBYW12V0NEcE40NUZTNWI5NjhlNkx0TmFHV2NfTk5YWmtuczdEUGdEU1lpQlg3YmJmNkJ1OUthT0E3V2pKNGVmSmF2QTdnR2hhVzV3Q3pqTkhQdlBjc1hrZS1fdDE0UHVJNzkyOWVBNVpP?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Thu, 02 Jul 2026 13:39:00 GMT",
-      "time": "۱۷:۰۹ - ۱۱ تیر",
-      "analyzed_at": "2026-07-04T18:33:56.782Z"
-    },
-    {
-      "id": "reuters_1",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "India to send minister, governor to Ali Khamenei funeral - Reuters",
-      "title_fa": "هند و��ی�� و فرماندار خود را به مراسم تدفین علی خامنه‌ای اعزام می‌کند.",
-      "lead": "هند اعلام کرده که یک وزیر و یک فرماندار را برای شرکت در مراسم تدفین علی خامنه‌ای اعزام خواهد کرد. این اقدام نشان��دهنده روابط دیپلماتیک و اهمیت بین‌المللی این رویداد است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONnhnenpnSUczNUEzNDN1S25EM240ZGRVbzJVSz6VVDRxeVYzZFo3NmdrQWI1TkVFVUktTDdSNzV5cjEyTUFsOVp4TkxyVzBpbEpXajBVMklOZWphRFFDaWQwaWxHUmNZV1lqU0UyVTBBMXlKUU9hY3Z1b0pWREJBdU1DWWZ0R1pVUTlPTG84d0FkeUQ1MGVCb090N1REYmMyejdPZGFn?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-04T18:33:56.782Z"
-    },
-    {
-      "id": "foreignpolicy_6",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "The U.S. at 250: Terminally Ill or Just Very Sick?",
-      "title_fa": "آمریکا در ۲۵۰ سالگی: در حال احتضار یا فقط بسیار بیمار؟",
-      "lead": "در آستانه ۲۵۰ سالگی آمریکا، کارشناسان این پرسش را مطرح می‌کنند که آیا یکی از قدیمی‌ترین دموکراسی‌های جهان می‌تواند بقا یابد. این مقاله به تحلیل وضعیت کنونی سیاسی و اجتماعی ایالات متحده می‌پردازد.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/02/united-states-250-independence-day-democracy-president/",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "Thu, 02 Jul 2026 14:35:02 +0000",
-      "time": "۱۸:۰۵ - ۱۱ تیر",
-      "analyzed_at": "2026-07-04T18:33:56.782Z"
-    },
-    {
-      "id": "foreignpolicy_7",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "Between Independence and Freedom",
-      "title_fa": "میان استقلال و آزادی",
-      "lead": "این مقاله به بررسی چگونگی بازتاب یک ��ضاد اساسی در اعلامیه استقلال آمریکا در طول سیاست خارجی این کشور می‌پردازد. این ت��لیل ریشه‌های تاریخی و فلسفی سیاست‌های کنونی آمریکا را واکاوی می‌کند.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/02/america-250-declaration-independence-foreign-policy/",
-      "newsValues": {
-        "timeliness": "low",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Thu, 02 Jul 2026 14:25:44 +0000",
-      "time": "۱۷:۵۵ - ۱۱ تیر",
-      "analyzed_at": "2026-07-04T18:33:56.782Z"
-    },
-    {
-      "id": "economist_8",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "NATO ponders how to defend Eastern Europe as America pulls back",
-      "title_fa": "ناتو در پی عقب‌نشینی آمریکا به چگونگی دفاع از اروپای شرقی می‌اندیشد.",
-      "lead": "با عقب‌نشینی احت��ال�� آمریکا، ناتو در حال بررسی ��ستراتژی‌های دفاع از اروپای شرقی است. این وضعیت با بازگشت تانک‌های آلمانی به منطقه‌ای که زمانی تخریب کرده بودند، ابعاد جدیدی پیدا می‌کند.",
-      "category": "politics",
-      "region": "europe",
-      "sourceUrl": "https://www.economist.com/international/2026/07/02/nato-ponders-how-to-defend-eastern-europe-as-america-pulls-back",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 30,
-        "negative": 70
-      },
-      "pubDate": "Thu, 02 Jul 2026 14:22:37 +0000",
-      "time": "۱۷:۵۲ - ۱۱ تیر",
-      "analyzed_at": "2026-07-04T18:33:56.782Z"
-    },
-    {
-      "id": "guardian_9",
-      "agencyId": "guardian",
-      "keep": true,
-      "title": "At least nine monks killed in Thailand after boy drives truck into procession",
-      "title_fa": "کشته شدن دست‌کم ۹ راهب در تایلند پس از ای�������که پسربچه‌ای کامیون را به سمت کاروان مذهبی راند.",
-      "lead": "دست‌کم ۹ راهب بودایی در تایلند پس از آنکه یک پسر ۱۱ ساله کامیون والدینش را به سمت یک کاروان مذهبی راند، کشته شدند. پلیس در حال بررسی ابعاد این حادثه و تعیین اتهامات احتمالی است.",
-      "category": "accident",
-      "region": "asia",
-      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Thu, 02 Jul 2026 13:10:07 GMT",
-      "time": "۱۶:۴۰ - ۱۱ تیر",
-      "analyzed_at": "2026-07-04T18:33:56.782Z"
-    },
-    {
-      "id": "guardian_10",
-      "agencyId": "guardian",
-      "keep": true,
-      "title": "Papua separatists kill American pilot in ‘message’ to US and Indonesia",
-      "title_fa": "جدایی‌طلبان پاپوآ یک خلبان آمریکایی را کشتند و «پیامی» به آمریکا و اندونزی ف��ستادند.",
-      "lead": "شورشیان جدایی‌طلب در منطقه پاپوآی اندونزی یک خلبان آمریکایی را به ضرب گلوله کشته و هواپیمای غیرنظامی او را به آتش کشیدند. این اقدام به عنوان «پیامی» به آمریکا و ��ندونزی در بحبوحه درگیری‌های طولانی‌مدت برای استقلال منطقه تعبیر شده است.",
-      "category": "politics",
-      "region": "asia",
-      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/papua-separatists-kill-american-pilot-yahukimo",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Thu, 02 Jul 2026 12:18:48 GMT",
-      "time": "۱۵:۴۸ - ۱۱ تیر",
-      "analyzed_at": "2026-07-04T18:33:56.782Z"
-    },
-    {
-      "id": "guardian_11",
-      "agencyId": "guardian",
-      "keep": true,
-      "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-      "title_fa": "سیل در ساحل عاج ۵۹ کشته برجای گذاشت؛ غرب آفریقا درگیر باران‌های سیل‌آسا.",
-      "lead": "سیل‌های شدید در ساحل عاج از ماه می تاکنون ۵۹ نفر را به کام مرگ کشانده است. مقامات می‌گویند فصل بارندگی در غرب آفریقا مرگبارتر شده و کشورهایی چون غنا، بنین، توگو و نیجریه نیز شاهد سیل بوده‌اند.",
-      "category": "politics",
-      "region": "africa",
-      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Thu, 02 Jul 2026 11:01:32 GMT",
-      "time": "۱۴:۳۱ - ۱۱ تیر",
-      "analyzed_at": "2026-07-04T18:33:56.782Z"
-    },
-    {
-      "id": "foreignpolicy_12",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "The Hypocrisy That Shields Erdogan From Global Criticism",
-      "title_fa": "دورویی که اردوغان را از انتقاد جهانی در امان نگه می‌دارد.",
-      "lead": "این مقاله به این موضوع می‌پردازد که چگ��نه دو رویی مانع از انتقاد جهانی از ��ردوغان می‌شود. نویسنده تاکید می‌کند که اف��ایش نقض حقوق بشر در ترکیه باید مورد توجه قرار گیرد.",
-      "category": "politics",
-      "region": "eurasia",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/02/turkey-erdogan-trump-human-rights-kavala-imamoglu/",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "Thu, 02 Jul 2026 11:00:53 +0000",
-      "time": "۱۴:۳۰ - ۱۱ تیر",
-      "analyzed_at": "2026-07-04T18:33:56.782Z"
-    },
-    {
-      "id": "foreignpolicy_13",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "The Strategy Behind the Battle for Crimea",
-      "title_fa": "استراتژی پشت نبرد برای کریمه",
-      "lead": "اوکراین حمله‌ای جدید به کریمه را آغاز کرده است که دارای ابعاد نظامی ف��اتر از انتقام‌جویی است. این ��قاله به تحلیل استراتژی نهفته در این نبرد می‌پردازد.",
-      "category": "military",
-      "region": "eurasia",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/02/ukraine-crimea-russia-strategy/",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 70,
-        "negative": 30
-      },
-      "pubDate": "Thu, 02 Jul 2026 10:47:21 +0000",
-      "time": "۱۴:۱۷ - ۱۱ تیر",
-      "analyzed_at": "2026-07-04T18:33:56.782Z"
     }
   ]
 }
