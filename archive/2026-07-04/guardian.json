@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "guardian",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "guardian_5",
@@ -146,6 +146,54 @@
       "pubDate": "Fri, 03 Jul 2026 03:15:13 GMT",
       "time": "۰۶:۴۵ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T09:33:31.153Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Young Indonesian couple publicly caned after kissing on TikTok",
+      "title_fa": "زوج جوان اندونزیایی پس از بوسیدن در تیک‌تاک، به صورت عمومی شلاق خوردند",
+      "lead": "یک زوج جوان در استان آچه اندونزی، پس از اینکه دادگاه شریعت آنها را به دلیل نقض قوانین اسلامی محکوم کرد، به صورت عمومی شلاق زده شدند. این مرد و زن مجرد، هر یک به دلیل بوسیدن در تیک‌تاک، ۲۱ ضربه شلاق دریافت کردند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/young-indonesian-couple-publicly-caned-after-kissing-on-tiktok",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 09:18:36 GMT",
+      "time": "۱۲:۴۸ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T11:33:26.581Z"
+    },
+    {
+      "id": "guardian_3",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
+      "title_fa": "درک منشأ ابولا در حیات وحش برای پیشگیری از شیوع بزرگ بعدی حیاتی است",
+      "lead": "اگر منشأ ابولا را ندانیم، نه تنها انسان‌ها در معرض خطر باقی می‌مانند، بلکه حیات وحش نیز می‌تواند بی‌جهت آسیب ببیند. در حالی که ویروس‌شناسان نگران شیوع بیماری آندز ب��دند، این مقاله بر اهمیت ریشه‌یابی ابولا تاکید می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 09:00:00 GMT",
+      "time": "۱۲:۳۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T11:33:26.581Z"
     }
   ]
 }
