@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_6",
@@ -458,6 +458,78 @@
       "pubDate": "Sat, 04 Jul 2026 09:01:42 +0000",
       "time": "۱۲:۳۱ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T12:15:44.980Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The funeral comes amid fraught, sluggish U.S.-Iran peace talks.",
+      "title_fa": "مراسم تشییع در بحبوحه مذاکرات دشوار و کند صلح آمریکا و ایران",
+      "lead": "این مراسم تشییع در حالی برگزار می‌شود که مذاکرات صلح بین آمریکا و ایران با دشواری و کندی پیش می‌رود. این شرایط، پیچیدگی‌های بیشتری به فضای دیپلماتیک میان دو کشور افزوده است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Sat, 04 Jul 2026 13:59:02 +0000",
+      "time": "۱۷:۲۹ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T16:00:09.882Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "When Iran Last Buried a Supreme Leader, There Was Chaos",
+      "title_fa": "آخرین باری که ایران یک رهبر عالی را به خاک سپرد، هرج و مرج به پا شد",
+      "lead": "آخرین باری که ایران شاهد مراسم خاکسپاری یک رهبر عالی بود، کشور درگیر هرج و مرج و بی‌نظمی شد. این رویداد تاریخی نشان‌دهنده اهمیت و حساسیت انتقال قدرت در ایران است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-last-time-iran-buried-a-supreme-leader-there-was-chaos",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sat, 04 Jul 2026 13:39:55 +0000",
+      "time": "۱۷:۰۹ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T16:00:09.882Z"
+    },
+    {
+      "id": "nytimes_13",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Britain, July 4 Is Mostly Just a Saturday",
+      "title_fa": "در بریتانیا، چهارم ژوئیه بیشتر فقط یک شنبه معمولی است",
+      "lead": "روز استقلال آمریکا در تصور عمومی بریتانیا چندان جایگاه برجسته‌ای ندارد. با این حال، برخی نهادهای فرهنگی به این روز اشاره کردند و شاه چارلز سوم نیز بیانیه‌ای صادر کرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/04/world/europe/uk-july-fourth-us-independence.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 13:40:15 +0000",
+      "time": "۱۷:۱۰ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T16:00:09.882Z"
     }
   ]
 }
