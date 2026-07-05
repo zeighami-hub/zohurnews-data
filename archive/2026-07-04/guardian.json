@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "guardian",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "guardian_5",
@@ -530,6 +530,54 @@
       "pubDate": "Thu, 02 Jul 2026 11:01:32 GMT",
       "time": "۱۴:۳۱ - ۱۱ تیر",
       "analyzed_at": "2026-07-04T18:33:56.782Z"
+    },
+    {
+      "id": "guardian_5",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Doctors’ soaring use of AI scribes prompts Australian government warning over privacy",
+      "title_fa": "افزایش چشمگیر استف��ده پزشکان از دستیاران هوش مصنوعی، هشدار دولت استرالیا را درباره حریم خصوصی در پی دارد",
+      "lead": "استفاده روزافزون پزشکان از دستیاران هوش مصنوعی برای یادداشت‌برداری، نگرانی‌هایی را در دولت استرالیا ایجاد کرده است. رگولاتورها در حال نظارت بر پیاده‌سازی این فناوری و مشکلات احتمالی حریم خصوصی آن هستند.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Sat, 04 Jul 2026 20:00:07 GMT",
+      "time": "۲۳:۳۰ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T20:29:27.462Z"
+    },
+    {
+      "id": "guardian_6",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Norfolk Island’s unique corals under triple threat from disease, El Niño and now government-approved dredging",
+      "title_fa": "مرجان‌های منحصربه‌فرد جزیره نورفولک تحت تهدید سه‌گانه بیماری، ال‌نینو و لایروبی مورد تأیید دولت",
+      "lead": "مرجان‌های منح��ربه‌فرد جزیره نورفولک با تهدید سه‌گانه‌ای شامل بیماری، پدیده ال‌نینو و لایروبی تأیید شده توسط دولت مواجه هستند. دانشمندان نگرانند که بسیاری از این گونه‌های مرجانی که هنوز رسماً شناسایی نشده‌اند، در خطر نابودی قرار گیرند.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/05/norfolk-islands-unique-corals-under-triple-threat-from-disease-el-nino-and-now-government-approved-dredging",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 04 Jul 2026 20:00:07 GMT",
+      "time": "۲۳:۳۰ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T20:29:27.462Z"
     }
   ]
 }
