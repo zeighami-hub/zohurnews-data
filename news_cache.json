@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T16:48:24.472Z",
-  "total": 1015,
-  "new_this_cycle": 1,
+  "generated_at": "2026-07-05T17:03:34.713Z",
+  "total": 1017,
+  "new_this_cycle": 4,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,98 @@
     }
   ],
   "articles": [
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "How does the Iran crisis compare with the 1979 oil shock? - Reuters",
+      "title_fa": "بحران کنونی ایران چه شباهتی به شوک نفتی سال ۱۹۷۹ دارد؟",
+      "lead": "این تحلیل ریشه‌های بحران کنونی در ایران و تأثیرات احتمالی آن بر بازار جهانی نفت را بررسی می‌کند. همچنین این وضعیت را با بحران نفتی سال ۱۹۷۹ مقایسه می‌کند تا پیامدهای اقتصادی و ژئوپلیتیکی احتمالی را روشن سازد.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG9oa3VPLW5oa2dhSDc5NXA3czBNYlVLR3lrdGprX2FpQ1VYOGxtNngweEJVVm52d0F0RmVuQXhfc0xWcWxjck9oUWN6S0NLRjhoSEkyTVN4R3Rod05JeWRPS1M0LUZtamZ6NlFDUGRmSnBxTTgxYUlZdmRjb2NaNmV3d2tKZkZ0ZEd4MmU3X19EZzhQdVlzTDM2ZDVfSjU1ZmFJZWF2QllXNkY?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "analyzed_at": "2026-07-05T17:03:31.129Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Gold slips as US-Iran tensions spark inflation, rate hike fears - Reuters",
+      "title_fa": "قیمت طلا در پی تنش‌های آمریکا و ایران و ترس از تورم و افزایش نرخ بهره کاهش یافت",
+      "lead": "تنش‌های فزاینده بین ایالات متحده و ایران به نگرانی‌ها در مورد تورم و احتمال افزایش نرخ بهره دامن زده است. این عوامل باعث کاهش قیمت طلا در بازارهای جهانی شده است، زیرا سرمایه‌گذاران به سمت دارایی‌های امن‌تر روی می‌آورند.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWpkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ0VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-05T17:03:31.129Z"
+    },
+    {
+      "id": "guardian_4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
+      "title_fa": "پروژه خط لوله جدید در کانادا پس از اختصاص ۱۵۰ میلیارد دلار برای رفع نگرانی‌های بریتیش کلمبیا و بومیان به اجرا در می‌آید",
+      "lead": "دولت کانادا و استان آلبرتا اعلام کردند که پس از تعهد ۱۵۰ میلیارد دلاری برای رفع نگرانی‌های بریتیش کلمبیا و بومیان، پروژه خط لوله نفت جدید را ادامه خواهند داد. این طرح شامل توسعه بندر و حفاظت از نهنگ‌ها به عنوان بخشی از برنامه گسترش حضور کشور در خارج از کشور است.",
+      "category": "energy",
+      "region": "canada",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:34:32 GMT",
+      "time": "۱۹:۰۴ - ۱۲ تیر",
+      "analyzed_at": "2026-07-05T17:03:31.129Z"
+    },
+    {
+      "id": "bbc_5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "title_fa": "مظنون اوکراینی تحت تعقیب پلیس پس از حمله بمب‌گذاری موناکو \"در لباس مبدل مردانه\" بود",
+      "lead": "پلیس در حال تعقیب یک مظنون اوکراینی است که در حمله بمب‌گذاری در موناکو نقش داشته و گفته می‌شود \"در لباس مبدل مردانه\" بوده است. مقامات معتقدند که مظنون ممکن است تنها عمل نکرده باشد و روزها را صرف شناسایی محل حمله کرده است.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:20:57 GMT",
+      "time": "۱۸:۵۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-05T17:03:31.129Z"
+    },
     {
       "id": "reuters_0",
       "agencyId": "reuters",
@@ -3328,7 +3420,7 @@
       "keep": true,
       "title": "روند افزایش دما در کشور تا پایان هفته ادامه دارد",
       "title_fa": "روند افزایش دما در کشور تا پایان هفته ادامه دارد",
-      "lead": "کارشناس سازمان هواشناسی از تداوم افزایش دمای هوا در کشور تا پایان هفته خبر داد. توصیه شده است زائران در تهران، قم و مشهد از قرار گرفتن طولانی‌مدت در معرض آفتاب خودداری کنند.",
+      "lead": "کارشناس سازمان هواشناسی از تداوم افزایش دمای هوا در کشور تا پایان هفته خبر داد. توصیه شده است زائران د�� تهران، قم و مشهد از قرار گرفتن طولانی‌مدت در معرض آفتاب خودداری کنند.",
       "category": "weather",
       "region": "iran",
       "sourceUrl": "https://www.yjc.ir/fa/news/9105036/روند-افزایش-دما-در-کشور-تا-پایان-هفته-ادامه-دارد",
@@ -4674,7 +4766,7 @@
       "keep": true,
       "title": "سخنگوی کرملین: اوکراین آماده هرگونه حملات تروریستی است",
       "title_fa": "سخنگوی کرملین: اوکراین آماده هرگونه حملات تروریستی است",
-      "lead": "سخنگوی کرملین اعلام کرد که اوکراین برای هرگونه حملات تروریستی آماده است. او افزود که تماس‌ها از طریق کانال‌های موجود واقعا مکرر هستند و از فرستادگان ریاست‌جمهوری آمریکا همیشه در مسکو استقبال خواهد شد.",
+      "lead": "سخنگوی کرملین اعلام کرد که اوکراین برای هرگونه حملات تروریستی آماده است. او افزود که تماس‌ها از طریق کانال‌های موج��د واقعا مکرر هستند و از فرستادگان ریاست‌جمهوری آمریکا همیشه در مسکو استقبال خواهد شد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1175319/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%DA%A9%D8%B1%D9%85%D9%84%DB%8C%D9%86-%D8%A7%D9%88%DA%A9%D8%B1%D8%A7%DB%8C%D9%86-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D9%87%D8%B1%DA%AF%D9%88%D9%86%D9%87-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA",
@@ -5624,7 +5716,7 @@
       "keep": true,
       "title": "Europe is ‘Third World’ – Trump",
       "title_fa": "ترامپ: اروپا «جهان سوم» است",
-      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، اظهار داشت که کشورهای اروپایی به وضعیت کشورهای جهان سوم تنزل یافته‌اند. این اظهارنظر جنجالی، واکنش‌هایی را در محافل سیاسی و رسانه‌ای به دنبال داشته است.",
+      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، اظهار داشت که کشورهای اروپایی به وضعیت کشورهای جهان سوم تنزل یافته‌اند. این اظهارنظر جنجالی، واکنش‌ه��یی را در محافل سیاسی و رسانه‌ای به دنبال داشته است.",
       "category": "politics",
       "region": "europe",
       "sourceUrl": "https://www.rt.com/news/642597-trump-us-eu-migration/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
@@ -6271,7 +6363,7 @@
       "agencyId": "france24",
       "keep": true,
       "title": "Summer festival revives worship of Ancient Greek deities at Mount Olympus",
-      "title_fa": "جشنواره تابستانی پرستش خدایان یونان باستان در کوه المپ را احیا می‌کند",
+      "title_fa": "جشنواره تابستانی پرستش خدایان یونان باستان در کوه ا��مپ را احیا می‌کند",
       "lead": "در حالی که صدای طبل‌ها در زیر کوه المپ طنین‌انداز می‌شود و پرستش‌کنندگان مشعل‌به‌دست سرودهایی را برای زئوس می‌خوانند، سنتی باستانی هر تابستان در شمال یونان زنده می‌شود. بیش از سه دهه است که پیروان خدایان پیش از مسیحیت این کشور برای این مراسم گرد هم می‌آیند.",
       "category": "culture",
       "region": "global",
@@ -7750,7 +7842,7 @@
       "keep": true,
       "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
       "title_fa": "سه پسر رهبر کشته‌شده ایران، خامنه‌ای، در مراسم تشییع حاضر شدند اما جانشین او خیر",
-      "lead": "خ��رگزاری رویترز گزارش داد که سه پسر رهبر کشته‌شده ایران، خامنه‌ای، در مراسم تشییع ��نازه او حضور یافتند. با این حال، جانشین احتمالی او در این مراسم دیده نشد.",
+      "lead": "خ��رگ��اری رویترز گزارش داد که سه پسر رهبر کشته‌شده ایران، خامنه‌ای، در مراسم تشییع ��نازه او حضور یافتند. با این حال، جانشین احتمالی او در این مراسم دیده نشد.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmcyb0xaUjZMcUNjSDFQODFUX0Y1TDg0bDlHUkxLZE5FeWZQajJtZnRKYjRWV3ZjN0RmRWcwdFN1dWtkLXdhUWFGNGJKVTFSSDJVRnV4Yy05YWJVbjh4RjJyS1YxdnBOMW9jQVp5Uk9aa1hxYmd1RndVZER6dTBSa0V2cnQxTTFscG5rY1hpV3NEMVNIeWJ0TFF4WE9XcEdoanFyVmtkenhSbXhvdnU1c3BQNEVOVmM1OHgyVmJvdGR3aWc?oc=5",
@@ -8039,7 +8131,7 @@
       "lead": "محل تجمع جامعه ورزش کشور برای بدرقه پیکر رهبر انقلاب اسلامی تعیین شد. فدراسیون‌ها و انجمن‌های ورزشی می‌توانند فردا ساعت ۱۲ در ورزشگاه شهید حیدرنیا تجمع کنند تا به سمت محل تشییع حرکت کنند.",
       "category": "politics",
       "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104944/تعیین-محل-تجمع-جامعه-ورزش-برای-بد��قه-پیکر-رهبر-انقلاب",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9104944/تعیین-محل-تجمع-جامعه-ورزش-برای-ب����قه-پیکر-رهبر-انقلاب",
       "newsValues": {
         "timeliness": "high",
         "impact": "medium",
@@ -11492,7 +11584,7 @@
       "id": "irna_12",
       "agencyId": "irna",
       "keep": true,
-      "title": "راهی روز وداع؛ روایت اعزام زائران برای شرکت در آیین تشییع رهبر شهید+ فیلم",
+      "title": "راهی روز وداع؛ روایت اعزام زائران برای شرکت در آیین تشییع رهبر شهید+ ف��لم",
       "title_fa": "راهی روز وداع؛ روایت اعزام زائران برای شرکت در آیین تشییع رهبر شهید",
       "lead": "محوطه گلزار شهدای شهرکرد از نخستین ساعات بامداد م��زبان دلدادگان امام شهید شده است. این گزارش روایت اعزام زائران برای شرکت در آیین تشییع رهبر شهید را به تصویر می‌کشد.",
       "category": "politics",
@@ -12338,7 +12430,7 @@
       "keep": true,
       "title": "مکعبی تصویرسازی شده با شعر",
       "title_fa": "مکعبی تصویرسازی شده با شعر رهبر شهید",
-      "lead": "مکعبی شامل تصویرسازی و نقاشی از اشعار «رهبر شهید» توسط هنرمندان طراح گرافیک به نمایش گذاشته شد. این اثر هنری در میدان امام خمینی(ره) تهران در معرض دید عموم قرار گرفت.",
+      "lead": "مکعبی شامل تصویرسازی و نقاشی از اشعار «رهبر شهید» توسط هنرمندان طراح گرافیک به نما��ش گذاشته شد. این اثر هنری در میدان امام خمینی(ره) تهران در معرض دید عموم قرار گرفت.",
       "category": "culture",
       "region": "iran",
       "sourceUrl": "https://www.khabaronline.ir/news/2242181/%D9%85%DA%A9%D8%B9%D8%A8%DB%8C-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87-%D8%A8%D8%A7-%D8%B4%D8%B9%D8%B1",
@@ -12648,7 +12740,7 @@
       "keep": true,
       "title": "World Cup 2026: Last-16 fixtures, results and full tournament bracket",
       "title_fa": "جام جهانی ۲۰۲۶: برنامه‌ بازی‌ها، نتایج و جدول کامل مرحله یک هشتم نهایی",
-      "lead": "جام جهانی ۲۰۲۶ در حال حاضر وارد مرحله یک هشتم نهایی شده است. در این گزارش می‌توانید برنامه‌ی بازی‌ها، نتایج و جدول کامل این مرحله از مسابقات را مشاهده کنید.",
+      "lead": "جام جهانی ۲۰۲۶ در ح��ل حاضر وارد مرحله یک هشتم نهایی شده است. در این گزارش می‌توانید برنامه‌ی بازی‌ها، نتایج و جدول کامل این مرحله از مسابقات را مشاهده کنید.",
       "category": "sports",
       "region": "global",
       "sourceUrl": "https://www.independent.co.uk/sport/football/world-cup-2026-last-16-fixtures-results-bracket-b3008127.html",
@@ -14194,7 +14286,7 @@
       "id": "asriran_6",
       "agencyId": "asriran",
       "keep": true,
-      "title": "ممنوعیت پیش‌فروش خودروهای وارداتی در مناطق آزاد",
+      "title": "ممنوعیت پیش‌فروش خودرو��ای وارداتی در مناطق آزاد",
       "title_fa": "ممنوعیت پیش‌فروش خودروهای وارداتی در مناطق آزاد",
       "lead": "دبیرخانه شورای‌عالی مناطق آزاد اعلام کرد که هرگونه پیش‌فروش خودروهای وارداتی در این مناطق غی��قانونی است. این نهاد هشدار جدی داده و از متقاضیان خواست از پرداخت وجه و انعقاد قرارداد با مجموعه‌های متخلف خودداری کنند.",
       "category": "economy",
@@ -20418,7 +20510,7 @@
       "keep": true,
       "title": "قدرت‌نمایی مراکش؛ نخستین بلیت یک‌چهارم نهایی صادر شد",
       "title_fa": "قدرت‌نمایی مراکش؛ نخستین بلیت یک‌چهارم نهایی صادر شد",
-      "lead": "تیم ملی فوتبال مراکش در نخستین دیدار مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶ با برتری سه بر صفر مقابل کانادا، به جمع هشت تیم پایانی صعود کرد. این پیروزی اولین بلیت این مرحله را برای مراکش صادر کرد و قدرت‌نمایی این تیم در بزرگ‌ترین تورنمنت فوتبال جهان را نشان داد.",
+      "lead": "تیم ملی فوتبال مراکش در نخستین دیدار مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶ با برتری سه بر صفر مقابل کانادا، به جمع هشت تیم پایانی صعود کرد. این پیروزی اولین بلیت این مرحله را برای ��راکش صادر کرد و قدرت‌نمایی این تیم در بزرگ‌ترین تورنمنت فوتبال جهان را نشان داد.",
       "category": "sports",
       "region": "global",
       "sourceUrl": "https://www.irna.ir/news/86201010/%D9%82%D8%AF%D8%B1%D8%AA-%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D9%85%D8%B1%D8%A7%DA%A9%D8%B4-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%A8%D9%84%DB%8C%D8%AA-%DB%8C%DA%A9-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B4%D8%AF",
@@ -21558,7 +21650,7 @@
       "keep": true,
       "title": "ترکیب فرانسه مقابل پاراگوئه",
       "title_fa": "ترکیب فرانسه مقابل پاراگوئه",
-      "lead": "ترکیب تیم ملی فرانسه برای رویارو��ی با پاراگوئه اعلام شد. این خبر پیش از برگزاری مسابقه بین دو تیم منتشر شده است.",
+      "lead": "ترکیب تیم ملی فرانسه برای رویارو��ی با پاراگوئه اعلام شد. این خبر پیش از برگزاری مسابقه بین دو تیم ��نتشر شده است.",
       "category": "sports",
       "region": "global",
       "sourceUrl": "https://www.isna.ir/photo/1405041308159/%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D9%BE%D8%A7%D8%B1%D8%A7%DA%AF%D9%88%D8%A6%D9%87",
@@ -21868,7 +21960,7 @@
       "keep": true,
       "title": "از انیمیشن تا مستند؛ رسانه چگونه در جنگ تحمیلی سوم به میدان آمد؟",
       "title_fa": "از انیمیشن تا مستند؛ رسانه چگونه در جنگ تحمیلی سوم به میدان آمد؟",
-      "lead": "جنگ تحمیلی سوم تنها در میدان نبرد جریان نداشت، بلکه رسانه نیز به یکی از ارکان اصلی این رویارویی تبدیل شد. تولیدات رسانه‌ای متنوعی از جمله انیمیشن، ویدئوهای هوش مصنوعی، نماهنگ‌های حماسی و مستندهای جنگ در این زمینه نقش آفرینی کردند.",
+      "lead": "جنگ تحمیلی سوم تنها در میدان نبرد جریان نداشت، بلکه رسانه نیز به یکی از ارکان اصلی این رویارویی تبدیل شد. تولیدات رسانه‌ا�� متنوعی از جمله انیمیشن، ویدئوهای هوش مصنوعی، نماهنگ‌های حماسی و مستندهای جنگ در این زمینه نقش آفرینی کردند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.khabaronline.ir/news/2241710/%D8%A7%D8%B2-%D8%A7%D9%86%DB%8C%D9%85%D8%B4%D9%86-%D8%AA%D8%A7-%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%AA%D8%AD%D9%85%DB%8C%D9%84%DB%8C-%D8%B3%D9%88%D9%85-%D8%A8%D9%87-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D8%A2%D9%85%D8%AF",
@@ -23702,7 +23794,7 @@
       "keep": true,
       "title": "Khamenei lies in state in Tehran as Iran begins week of funeral ceremonies - Reuters",
       "title_fa": "خامنه‌ای در تهران در تابوت قرار گرفت؛ ایران هفته مراسم تشییع را آغاز می‌کند",
-      "lead": "آیت‌الله خامنه‌ای، رهبر عالی ایران، در تهران در تابوت قرار گرفته و مراسم تشییع پیکر وی به مدت یک هفته آغاز شده است. این مراسم از رویدادهای مهم سیاسی و مذهبی در ایران محسوب می‌شود.",
+      "lead": "آی��‌الله خامنه‌ای، رهبر عالی ایران، در تهران در تابوت قرار گرفته و مراسم تشییع پیکر وی به مدت یک هفته آغاز شده است. این مراسم از رویدادهای مهم سیاسی و مذهبی در ایران محسوب می‌شود.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXpMemJHeWdSem1ZSTR1aFZMQjgzNzZna1VrRmFIQVVkUkQzVUp4QzV1LXBhUjdOVHRWWkF0dHJyc0ZIZDhmUXNMYjVOZWs5dFNONVEwUGJmQlFNYXpLalM2Y25NMjI5UXVMNzhaMmhDaHVQb1VvMzJGZEFSMUxJN3JhWllBVzE5RFZiVzRhUks0MlBuXzZBaTNUM2QybVlyNUlabG9jekdSN3hTR3ZQZGxheTJ4ZXVGRW9lMG9VX3JOQQ?oc=5",
@@ -24010,7 +24102,7 @@
       "keep": true,
       "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
       "title_fa": "فرانسه در اوج موج گرما ۲۰۲۵ مورد مرگ و میر اضافه را ثبت کرده و اروپا خود را برای آب و هوای بسیار شدیدتر آماده می‌کند",
-      "lead": "پیش‌بینی‌کنندگان هواشناسی در مورد دمای بسیار شدیدتر در قاره اروپا طی چند روز آینده هشدار می‌دهند. این موج گرما در فرانسه منجر به مرگ و میر قابل توجهی شده و نگرانی‌ها را در مورد تغییرات اقلیمی افزایش داده است.",
+      "lead": "پیش‌بینی‌کنندگان هواشناسی در مورد دمای بسیار شدیدتر در قاره اروپا طی چند روز آینده هشدار می‌دهند. این موج ��رما در فرانسه منجر به مرگ و میر قابل توجهی شده و نگرانی‌ها را در مورد تغییرات اقلیمی افزایش داده است.",
       "category": "environment",
       "region": "europe",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
@@ -24099,52 +24191,6 @@
       "pubDate": "Fri, 03 Jul 2026 08:15:00 +0100",
       "time": "۱۰:۴۵ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "reuters_0",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Oil prices little changed as US-Iran peace efforts hold - Reuters",
-      "title_fa": "قیمت نفت در بحبوحه ت��اش‌های صلح آمریکا و ایران تغییری نکرد",
-      "lead": "قیمت نفت در پی تلاش‌های صلح بین ایالات متحده و ایران با تغییرات کمی روبرو شد. این وضعیت نشان‌دهنده تاثیر مسائل ژئوپلیتیکی بر بازارهای جهانی انرژی است.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0NjRDBBT1J0ZC1KY0c5R1huTjYyNzk4NTg4VU1Za2dmMDVGeHNQcl92Tm1vY3FnQks5ZmE4bWU0YUpwdlFBZjYybVgwQ2FlU1U4TkFBWG9SbHZ6ejZiT0lYdTdVM21VR1JOVk05Qm0yb19pcjk2WEhyZUxjbmV2RklXcGNDVmF2ZURTWkQxNERESHBFcE1LN082a1lYc0MwNDJFUEQzM0J3WkNH?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 60,
-        "negative": 20
-      },
-      "analyzed_at": "2026-07-04T16:48:53.692Z"
-    },
-    {
-      "id": "irna_4",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "سهمیه گندم کارخانه‌های آرد چهارمحال و بختیاری بازنگری می‌شود",
-      "title_fa": "سهمیه گندم کارخانه��های آرد چهارمحال و بختیاری بازنگری می‌شود",
-      "lead": "رئیس سازمان جهاد کشاورزی چهارمحال و بختیاری از بازنگری سهمیه گندم کارخانه‌های آرد��ازی استان خبر داد. این سهمیه‌ها پس از بررسی کارشناسی و با حضور دستگاه‌های نظارتی تعیین و درباره سهمیه‌های مازاد نیز بر اساس عملکرد تصمیم‌گیری می‌شود.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86200878/%D8%B3%D9%87%D9%85%DB%8C%D9%87-%DA%AF%D9%86%D8%AF%D9%85-%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D8%B1%D8%AF-%DA%86%D9%87%D8%A7%D8%B1%D9%85%D8%AD%D8%A7%D9%84-%D9%88-%D8%A8%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%DB%8C-%D8%A8%D8%A7%D8%B2%D9%86%DA%AF%D8%B1%DB%8C-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 60,
-        "negative": 20
-      },
-      "pubDate": "Sat, 04 Jul 2026 15:13:41 GMT",
-      "time": "۱۸:۴۳ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:48:53.692Z"
     }
   ]
 }
