@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "reuters_0",
@@ -436,6 +436,50 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-04T14:33:38.001Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Gold slips as US-Iran tensions spark inflation, rate hike fears - Reuters",
+      "title_fa": "کاهش قیمت طلا در ��ی نگرانی‌ها از تنش‌های آمریکا و ایران و افزایش نرخ تورم",
+      "lead": "رویترز گزارش داد که به دلیل تنش‌های اخ��ر میان آمریکا و ایران، قیمت طلا شاهد افت بوده است. این تنش‌ها نگرانی‌هایی را در مورد افزایش نر�� تورم و بالا رفتن نرخ بهره ایجاد کرده است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWpkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ0VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-07-04T15:03:40.269Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Gold slips as US-Iran tensions spark inflation, rate hike fears - Reuters",
+      "title_fa": "قیمت طلا در پی افزایش تنش‌های آمریکا و ایران و ترس از تورم و افزایش نرخ بهره کاهش ��افت",
+      "lead": "تنش‌های اخیر میان ایالات متحده و ایران باعث نگرانی از تورم و افزایش نرخ بهره شده است. این عوامل به نوبه خود منجر به کاهش قیمت طلا در بازارهای جهانی شده‌اند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU0FJMWFsaWlkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ0VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-04T14:48:30.515Z"
     }
   ]
 }
