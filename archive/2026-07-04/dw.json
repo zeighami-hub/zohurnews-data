@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "dw",
-  "total": 20,
+  "total": 23,
   "articles": [
     {
       "id": "dw_11",
@@ -321,7 +321,7 @@
       "keep": true,
       "title": "Nigeria: US pulls some troops after anti-IS operation",
       "title_fa": "نیجریه: آمریکا بخشی از نیروهای خود را پس از عملیات ضد داعش خارج می‌کند",
-      "lead": "ایالات متحده بیشتر نیروهایی را که برای عملیات اخیر علیه ستیزه‌جویان \"دولت اسلامی\" در شمال شرقی نیجریه اعزام کرده بود، خارج کرده است. اما این کشور به درخواست ا����وجا به حمایت اطلاعاتی خود ادامه می‌دهد.",
+      "lead": "ایالات متحده بیشتر نیروهایی را که برای عملیات اخیر علیه ستیزه‌جویان \"دولت اسلامی\" در شمال شرقی نیجریه اعزام کرده بود، خارج کرده است. اما این کشور به درخواست ا������وجا به حمایت اطلاعاتی خود ادامه می‌دهد.",
       "category": "military",
       "region": "global",
       "sourceUrl": "https://www.dw.com/en/nigeria-us-pulls-some-troops-after-anti-is-operation/a-77824484?maca=en-rss-en-all-1573-xml-mrss",
@@ -480,6 +480,78 @@
       "pubDate": "Fri, 3 Jul 2026 17:29:00 GMT",
       "time": "۲۰:۵۹ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "dw_3",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "NASA launches spacecraft to recover sinking telescope",
+      "title_fa": "ناسا فضاپیمایی برای نجات تلسکوپ در حال سقوط پرتاب کرد.",
+      "lead": "تلسکوپ سوئیفت به دلیل طوفان‌های خورشیدی اخیر در حال سق��ط به سمت زمین است. ناسا با پر��اب ��ک فضاپیما تلاش می‌کند تا این تلسکوپ را بازیابی کرده و مدار آن را ��فزایش دهد.",
+      "category": "science",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/nasa-launches-spacecraft-to-recover-sinking-telescope/a-77826514?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "pubDate": "Fri, 3 Jul 2026 19:59:00 GMT",
+      "time": "۲��:۲۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:33:25.041Z"
+    },
+    {
+      "id": "dw_4",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Maltese tycoon faces trial over Caruana Galizia murder",
+      "title_fa": "غول مالتیایی به اتهام قتل کاروانا گالیزیا محاکمه می‌شود.",
+      "lead": "یک تاجر مالتیایی که متهم به سازماندهی قتل دافنه کاروانا گالیزیا، روزنامه‌نگار در سال ۲۰۱۷ است، پس از هفت سال بازداشت در دادگاه حاضر شد. پنج نفر دیگر نیز پیش از این به دلیل نقششان در این قتل محکوم شده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 3 Jul 2026 18:20:00 GMT",
+      "time": "۲۱:۵�� - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:33:25.041Z"
+    },
+    {
+      "id": "dw_5",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Pope Leo defends US immigrant history at 250th anniversary",
+      "title_fa": "پاپ لئو در دویست و پنجاهمین سالگرد، از تاریخ مهاجرتی آمریکا دفاع کرد.",
+      "lead": "اولین پاپ آمریکایی اظهار داشت که \"امواج پیاپی مهاجران\" در شک��‌گیری ایالات متحده نقش داشته‌اند. اظهارات پاپ لئو او را به هدف انتقاد دونالد ترامپ تبدیل کرده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.dw.com/en/pope-leo-defends-us-immigrant-history-at-250th-anniversary/a-77825299?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Fri, 3 Jul 2026 18:13:00 GMT",
+      "time": "۲۱:۴۳ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:33:25.041Z"
     }
   ]
 }
