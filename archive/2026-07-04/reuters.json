@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "reuters_0",
@@ -280,6 +280,28 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-04T13:18:31.980Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "'Let us wail!' Iranians flock to Khamenei's funeral after wartime death - Reuters",
+      "title_fa": "ایرانیان ب��ای مراسم تشییع رئیس جمهور رئیسی عزاداری می‌کنند",
+      "lead": "مردم ایران برای شرکت در مراسم تشییع جنازه ابر��هیم رئیسی، رئیس جمهور فقید، که پس از مرگ او در سانحه هلیکوپتر برگزار شد، به خیابان‌ها هجوم آوردند. عزاداران با شیون و ابراز غم �� اندوه، در این مراسم حضور یافته و به رئیس جمهور از دست رفته خود ادای احترام کردند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS0NHb181V19lQUxyWlFMQnU5WjNucmZBZHl3NlQtUzZTRFN6aVgweE4tdVJrNVlOYVQzQTExdllpN3NHaWlHcXZTSENOa3hWeEpycTBHdGJLRVhzYlhRdEs1UVk4VE1pR3ZnTzEyb0Z3YmxBUUV5cHJEV2VLMjAzUXp1Q1FfVWY1aWNmYVo3TUgxOXdEdExNenNKT1RyQlRFVWlrakprSWV0Zw?oc=0",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-07-04T13:33:35.837Z"
     }
   ]
 }
