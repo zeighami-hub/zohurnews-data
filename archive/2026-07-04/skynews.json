@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 6,
   "articles": [
     {
       "id": "skynews_1",
@@ -24,7 +24,7 @@
         "negative": 50
       },
       "pubDate": "Thu, 02 Jul 2026 04:59:00 +0100",
-      "time": "۰۷:۲۹ - ۱۱ تیر",
+      "time": "۰۷:۲�� - ۱۱ تیر",
       "analyzed_at": "2026-07-04T11:48:15.578Z"
     },
     {
@@ -50,6 +50,102 @@
       "pubDate": "Sat, 04 Jul 2026 10:20:00 +0100",
       "time": "۱۲:۵۰ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T12:15:44.980Z"
+    },
+    {
+      "id": "skynews_0",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Two men jailed for stabbing TV presenter on street",
+      "title_fa": "دو مرد به دلیل چاق�� زد�� به مجری تلویزیون در خیابان زندانی شدند",
+      "lead": "دو مرد به دلیل چاقو زدن به یک مجری تلویزیون در بریتانیا زندانی شده‌اند. این پرونده استفاده دولت ایران از «عوامل نیابتی» جنایتکار در بریتانیا را برمل�� کرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/two-men-recruited-by-iran-jailed-for-stabbing-iranian-tv-presenter-on-london-street-13559993",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 16:37:00 +0100",
+      "time": "۱۹:۰۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "skynews_14",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Bus plunges into ravine, killing 40",
+      "title_fa": "سقوط اتوبوس به دره و کشته شدن ۴۰ نفر",
+      "lead": "چهل نفر در پی سقوط یک اتوبوس مسافربری بیش از حد پر به داخل دره‌ای در پاکستان جان باختند. این ح��دثه تلخ تلفات جانی گسترده‌ای به همراه داشت.",
+      "category": "accident",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/bus-plunges-into-ravine-in-pakistan-killing-40-13560085",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 03 Jul 2026 11:27:00 +0100",
+      "time": "۱۳:۵۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "skynews_2",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Woman wanted over Monaco bombing 'that targeted Ukrainian tycoon' is named",
+      "title_fa": "زن تحت تعقیب در ارتباط با بمب‌گذاری موناکو که «یک سرمایه‌دار اوکراینی را هدف قرار داده بود» نام‌گذاری شد",
+      "lead": "اینترپل نام زنی را اعلام کرده است که به دلیل بمب‌گذاری در موناکو تحت تعقیب است. این بمب‌گذاری ظاهراً یک سرمایه‌دار اوکراینی با ارتباطات روسی را هدف قرار داده بود.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/arrest-warrant-issued-for-woman-wanted-over-monaco-bombing-13560051",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 03 Jul 2026 08:38:00 +0100",
+      "time": "۱۱:۰۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "skynews_3",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Venezuelan leader hits out at 'disgraceful' misinformation over earthquake response",
+      "title_fa": "رهبر ونزوئلا به «اطلاعات نادرست شرم‌آور» در مورد واکنش به زلزله حمله کرد",
+      "lead": "دلسی رودریگز، رئیس‌جمهور موقت ونزوئلا، از واکنش دولت خود به زمین‌لرزه‌های ویرانگر هفته گذشته، که جان ۲۶۴۵ نفر را گرفت، به شدت دفاع کرد. او به شدت از اتهامات مربوط به مدیریت بحران انتقاد کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/venezuelas-interim-president-delcy-rodriguez-defends-earthquake-response-as-more-than-2500-confirmed-dead-13560045",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 08:15:00 +0100",
+      "time": "۱۰:۴۵ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
     }
   ]
 }
