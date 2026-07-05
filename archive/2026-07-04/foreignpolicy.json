@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "foreignpolicy",
-  "total": 6,
+  "total": 9,
   "articles": [
     {
       "id": "foreignpolicy_1",
@@ -81,7 +81,7 @@
       "keep": true,
       "title": "What to Know About Ethiopia’s Debt Breakthrough",
       "title_fa": "آنچه باید درباره پیشرفت اتیوپی در زمینه بدهی‌هایش بدانید.",
-      "lead": "فرآیند کاهش بدهی آدیس آبابا، اختلافات در سیستم مالی جهانی را برجسته کرده است. این پیشرفت، نکات مهمی را درباره وضعیت اقتصادی اتیوپی و نحوه تعامل آن با نهادهای مالی بین‌المللی در بر دارد.",
+      "lead": "فرآیند کاهش بدهی آدیس آبابا، اختلافات در سیستم مالی جهانی را برجسته کرده است. این پیشرفت، نکات مهمی را درباره وضعیت اقتصادی اتیوپی و نحوه تعامل آن با نهادهای مالی بین‌��لمللی در بر دارد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://foreignpolicy.com/2026/07/01/ethiopia-debt-relief-g-20-uk-france-china-abiy-ahmed/",
@@ -146,6 +146,78 @@
       "pubDate": "Wed, 01 Jul 2026 18:23:06 +0000",
       "time": "۲۱:۵۳ - ۱۰ تیر",
       "analyzed_at": "2026-07-04T00:03:32.790Z"
+    },
+    {
+      "id": "foreignpolicy_6",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Angsty in Ankara",
+      "title_fa": "اضطراب در آنکارا.",
+      "lead": "آیا ناتو می‌تواند از نیاز به راضی نگه داشتن ترامپ عبور کند؟ این سوالی است که در پس‌زمینه اجلاس ناتو در آنکارا مطرح شده و به تنش‌های فعلی میان اعضا و نقش ترکیه می‌پردازد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/02/nato-summit-ankara-trump-rutte-erdogan-ukraine-iran/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 22:03:52 +0000",
+      "time": "۰۱:��۳ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T09:33:31.153Z"
+    },
+    {
+      "id": "foreignpolicy_7",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Is Sports Diplomacy Still Possible?",
+      "title_fa": "آیا دیپلماسی ورزشی هنوز ممکن است؟",
+      "lead": "قدرت سخت (Hard power) تأثیر خود را بر جام جهانی امسال گذاشته است. این مقاله به بررسی این موضوع می‌پردازد که چگونه روید��دهای ورزشی بزرگ تحت تأثیر مسائل سیاسی و ژئوپلیتیک قرار می‌گیرند و آیا م��‌توانند هنوز نقشی در دیپلماسی ایفا کنند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/02/sports-diplomacy-politics-world-cup-sportswashing-immigration-war/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 21:31:30 +0000",
+      "time": "۰۱:۰۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T09:33:31.153Z"
+    },
+    {
+      "id": "foreignpolicy_8",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Russia’s 11-Hour Assault on Kyiv",
+      "title_fa": "حمله ۱۱ ساعته روسیه به کی‌یف.",
+      "lead": "بمباران مرگبار موشکی و پهپادی کی‌یف، تلافی حملات اخیر اوکراین به زیرساخت‌های حیاتی روسیه بود. این حمله گسترده خسارات زیادی به بار آورد و نشان‌دهنده تشدید درگیری‌ها است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/02/russia-ukraine-missiles-drones-kyiv-oil-energy-critical-infrastructure-strikes/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 02 Jul 2026 20:49:19 +0000",
+      "time": "۰۰:۱۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T09:33:31.153Z"
     }
   ]
 }
