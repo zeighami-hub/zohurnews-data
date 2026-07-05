@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "guardian",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "guardian_5",
@@ -194,6 +194,30 @@
       "pubDate": "Thu, 02 Jul 2026 09:00:00 GMT",
       "time": "۱۲:۳۰ - ۱۱ تیر",
       "analyzed_at": "2026-07-04T11:33:26.581Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "China’s ethnic unity law denounced as ‘forced assimilation’ by rights groups",
+      "title_fa": "قانون «وحدت قومی» چین توسط گروه���های حقوق بشری به عنوان «همگون‌سازی اجباری» محکوم شد",
+      "lead": "قانون جدید «وحدت قومی» در چین با وجود ه��دارهای تایوان، سازمان ملل و گروه‌های حقوق بشری، به مرحله اجرا درآمد. منتقدان بیم آن دارند که این قانون حقوق اویغورها و تبتی‌ها را بیشتر تضعیف کند و به پکن اجازه دهد مخالفان را در خارج از کشور نیز تحت پیگرد قرار دهد.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/china-ethnic-unity-law-denounced-rights-groups",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 01:17:38 GMT",
+      "time": "۰۴:۴۷ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T11:48:15.578Z"
     }
   ]
 }
