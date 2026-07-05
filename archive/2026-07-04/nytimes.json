@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_6",
@@ -312,7 +312,7 @@
         "negative": 100
       },
       "pubDate": "Sat, 04 Jul 2026 10:33:34 +0000",
-      "time": "۱۴:۰۳ - ۱۳ تیر",
+      "time": "۱۴:۰۳ - ��۳ تیر",
       "analyzed_at": "2026-07-04T12:15:44.980Z"
     },
     {
@@ -602,6 +602,30 @@
       "pubDate": "Sat, 04 Jul 2026 20:02:05 +0000",
       "time": "۲۳:۳۲ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T20:29:27.462Z"
+    },
+    {
+      "id": "nytimes_11",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A U.S. Independence Celebration Damaged a Museum in Belgium",
+      "title_fa": "جشن استقلال آمریکا به موزه‌ای ��ر بل��یک خسارت زد",
+      "lead": "نمایش آتش‌بازی در جریان جشن استقلال آمریکا در بروکسل به یک سازه در ��ارک مرکزی شهر خسارت وارد کرد. سفیر آمریکا در بلژیک این حادثه را تایید کرده است.",
+      "category": "diplomacy",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/belgium-building-damaged-america-250-fireworks.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 03 Jul 2026 17:19:51 +0000",
+      "time": "۲۰:۴۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
     }
   ]
 }
