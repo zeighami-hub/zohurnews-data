@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_6",
@@ -57,7 +57,7 @@
       "keep": true,
       "title": "Putin Visits Battlefield and Vows to Take More of Ukraine",
       "title_fa": "پوتین از میدان نبرد بازدید ��رد و قول داد مناطق بیشتری از اوکراین را تصرف کند",
-      "lead": "رهبر روسیه از میدان نبرد بازدید کرد و قول داد مناطق بیشتری از اوکراین را تصرف کند. او دستاوردهای اوکراین در میدان جنگ را «خیالی» خواند و رهبران�� را «بازیگر» نامید.",
+      "lead": "رهبر روسیه از میدان نبرد بازدید کرد و قول داد من��طق بیشتری از اوکراین را تصرف کند. او دستاوردهای اوکراین در میدان جنگ را «خیالی» خواند و رهبران�� را «بازیگر» نامید.",
       "category": "politics",
       "region": "europe",
       "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html",
@@ -122,6 +122,54 @@
       "pubDate": "Fri, 03 Jul 2026 08:18:23 +0000",
       "time": "۱۱:۴۸ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T09:18:31.495Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Denmark Has a Big Fourth of July Party. This Year, the U.S. Is Uninvited.",
+      "title_fa": "دانمارک مهمانی بزرگ چهارم ژوئیه را برگزار می‌ک��د؛ امسال آمریکا دعوت نیست.",
+      "lead": "مقامات دانمارک�� از دست پرزیدنت ترامپ به دلیل موضوع گرینلند خشمگین شده و گامی بی‌سابقه برداشتند. آن‌ها برگزارکنندگان را تحت فشار قرار دادند تا مقامات آمریکایی را از برنامه حذف کنند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/denmark-fourth-of-july-trump-us.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:03:17 +0000",
+      "time": "۱۸:۳۳ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T09:33:31.153Z"
+    },
+    {
+      "id": "nytimes_5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.K. Lawmakers Demand Deportation of ‘Grooming Gang’ Leader",
+      "title_fa": "قانون‌گذاران بریتانیایی خواستار اخراج ره��ر «باند سوءاستفاده» شدند.",
+      "lead": "شبیر احمد در سال ۲۰۱۲ به دلیل ارتباطش با یک حلقه سوءاستفاده جنسی، به حبس طولانی‌مدت محکوم شد. اکنون نمایندگان مجلس بریتانیا خواستار اخراج او از کشور هستند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/europe/uk-deport-leader-grooming-gang.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 00:19:38 +0000",
+      "time": "۰۳:۴۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T09:33:31.153Z"
     }
   ]
 }
