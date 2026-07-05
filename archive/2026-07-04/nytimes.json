@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_6",
@@ -392,7 +392,7 @@
       "agencyId": "nytimes",
       "keep": true,
       "title": "A Big Week in the West, Canada vs. Morocco, Trade and a Canada-U.S. Quiz",
-      "title_fa": "هفته‌ای بزرگ در غرب، کانادا در برابر مراکش، تجارت و یک مسابقه کانادا-آمریکا",
+      "title_fa": "هفته‌ای بزرگ در غرب، کانادا در برابر مراکش، تجارت و یک مسابقه کاناد��-آمریکا",
       "lead": "نخست‌وزیر مارک کارنی با اعلام سرمایه‌گذاری‌های چند میلیارد دلاری در آلبرتا و بریتیش کلمبیا، تجارت کانادا را از ایالات متحده بیشتر متنوع کرد. این اقدام در ه��ته‌ای پر خبر در غرب صورت گرفت.",
       "category": "economy",
       "region": "americas",
@@ -530,6 +530,30 @@
       "pubDate": "Sat, 04 Jul 2026 13:40:15 +0000",
       "time": "۱۷:۱۰ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T16:00:09.882Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
+      "title_fa": "مقامات آمریکایی معتقد بودند اسرائیل در حال توطئه برای کشتن مذاکره‌کنندگان ایرانی است",
+      "lead": "مقامات آمریکایی نگران بودند که اسرائیل قصد ��رور عباس عراقچی، وزیر خارجه، و محمد قالیباف، رئیس مجلس ایران را داشته باشد. آن‌ها بیم داشتند که چنین اقدامی مذاکرات صلح را از مسیر خود خارج کند.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 18:10:21 +0000",
+      "time": "۲۱:۴۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
     }
   ]
 }
