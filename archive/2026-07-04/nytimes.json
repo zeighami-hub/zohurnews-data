@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_6",
@@ -74,6 +74,54 @@
       "pubDate": "Sat, 04 Jul 2026 00:24:33 +0000",
       "time": "۰۳:۵۴ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T07:46:35.151Z"
+    },
+    {
+      "id": "nytimes_6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Tibetan Man Dies After Self-Immolation Protest in New York",
+      "title_fa": "مرد تبتی پس از خودسوزی اعتراضی در نیویورک درگذشت",
+      "lead": "لوبگا رانگزن، یک مرد ۵۲ ساله تبتی و ساکن کوئینز، پس از خودسوزی در نیویورک درگذشت. او گفته بود که سیاست‌های پکن «در حال نابودی مردم تبت» است و این اقدام اعتراضی به وضعیت تبت بود.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/asia/tibet-self-immolation-united-nations-china.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 18:32:08 +0000",
+      "time": "۲۲:۰۲ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T09:18:31.495Z"
+    },
+    {
+      "id": "nytimes_7",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "China Defends Widely Criticized ‘Ethnic Unity’ Law",
+      "title_fa": "چین از قانون «وحدت قومی» مورد انتقاد گسترده دفاع می‌کند",
+      "lead": "چین از قانون «وحدت قومی» خود که به شدت مورد انتقاد قرار گرفته است، دفاع می‌کند. گرو��‌های حقوق بشری و مقامات غربی این قانون ��ا تهدیدی برای تبتی‌ها، اویغورها و سایر اقلیت‌ها می‌دانند، اما پکن هدف آن را محافظت از آنها عنوان می‌کند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/asia/china-ethnic-unity-tibetan-uyghurs.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 08:18:23 +0000",
+      "time": "۱۱:۴۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T09:18:31.495Z"
     }
   ]
 }
