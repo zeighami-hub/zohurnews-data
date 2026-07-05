@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "guardian",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "guardian_5",
@@ -410,6 +410,54 @@
       "pubDate": "Fri, 03 Jul 2026 11:08:44 GMT",
       "time": "۱۴:۳۸ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "guardian_6",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
+      "title_fa": "مرد ونزوئلایی هشت روز پس از زلزله از زیر آوار مرکز خرید نجات یافت",
+      "lead": "یک نگهبان ۴۳ ساله به نام هرنان آلبرتو گیل فلورس، هشت روز پس از زلزله ویرانگر ونزوئلا، زنده از زیر آوار یک مرکز خرید نجات پیدا کرد. او در ابتدا از امدادگران خواسته بود در صورت عدم بقا، به همسرش خبری ندهند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 17:24:06 GMT",
+      "time": "۲۰:۵۴ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T18:18:33.901Z"
+    },
+    {
+      "id": "guardian_7",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Canadian boy dies of rabies after waking to find bat on his face",
+      "title_fa": "مرگ نوجوان کانادایی بر اثر هاری پس از بیدار شدن با خفاش روی صورتش",
+      "lead": "یک پسر یازده ساله کانادایی پس از اینکه با وجود خفاشی روی صورتش بیدار ش��، بر اثر ابت��ا به بیماری هاری درگذشت. علائم بیماری ۱۹ روز پس از این حادثه نادر در انتاریو، کانادا، در او ظاهر شده بود.",
+      "category": "health",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 16:29:38 GMT",
+      "time": "۱۹:۵۹ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T18:18:33.901Z"
     }
   ]
 }
