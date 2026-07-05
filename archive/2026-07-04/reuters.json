@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "reuters_0",
@@ -26,6 +26,30 @@
       "pubDate": "Tue, 30 Jun 2026 10:49:43 GMT",
       "time": "۱۴:۱۹ - ۹ تیر",
       "analyzed_at": "2026-07-04T00:03:32.790Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Most Gulf markets in red as US-Iran negotiations show little headway - Reuters",
+      "title_fa": "بیشتر بازارهای خلیج فارس با عد�� پیشرفت در مذاکرات آمریکا و ایران قرمز شد��د",
+      "lead": "بیشتر بازارهای مالی خلیج فارس در پی عدم پیشرفت قابل توجه در مذاکرات بین ایالات متحده و ایران، روند نزولی و \"قرمز\" را تجربه کردند. این وضعیت نشان‌دهنده تاثیر مسائل ژئوپلیتیک بر اقتصاد منطقه است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXVRbEsycW1kbXBRRkRNSkViSjZDT2QtcFNURHFrMzczbEtpUmdmN0xlVUZHUjE0dUcwR2xYM210OFZsVVhQYVl2VU41RHQ0QlQ1ZS1hcmdWdlY0NXVJQmhLc0w0MnRKSTlQbzNyak9sdnVCWWZ2bTNVeUxFeEEtR2N1OEt6bzhtclBlQ3hHX2hsS3VqM3pHNmJ1cGZCbGJCNkg2U1dONDZBLUJaSnFtUVFLeWRCSjRCRkE?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 02 Jul 2026 13:23:44 GMT",
+      "time": "۱۶:۵۳ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T09:18:31.495Z"
     }
   ]
 }
