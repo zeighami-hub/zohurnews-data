@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "reuters_0",
@@ -258,6 +258,28 @@
         "negative": 90
       },
       "analyzed_at": "2026-07-04T12:48:40.367Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "'Let us wail!' Iranians flock to Khamenei's funeral after wartime death - Reuters",
+      "title_fa": "«بگذارید زاری کنیم!» ایرانی‌ها پس از مرگِ در زمان جنگ به مراسم خاکسپاری خامنه‌ای سرازیر شدند.",
+      "lead": "گزارش‌ها حاکی از آن است که ایرانی‌ها پس ا�� مرگ خامنه‌ای در زمان جنگ، به مراسم خاکسپاری او سرازیر شده‌اند. این رویداد جمعیت زیادی را برای عزاداری به خود جذب کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cWxNS1NHb181V19lQUxyWlFMQnU5WjNucmZBZHl3NlQtUzZTRFN6aVgweE4tdVJrNVlOYVQzQTExdllpN3NHaWlHcXZTSENOa3hWeEpycTBHdGJLRVhzYlhRdEs1UVk4VE1pR3ZnTzEyb0Z3YmxBUUV5cHJEV2VLMjAzUXp1Q1FfVWY1aWNmYVo3TUgxOXdEdExNenNKT1RyQlRFVWlrakprSWV0Zw?oc=0",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-04T13:18:31.980Z"
     }
   ]
 }
