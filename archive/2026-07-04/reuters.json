@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "reuters_0",
@@ -390,6 +390,52 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-04T14:22:22.266Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "'Let us wail!' Iranians flock to Khamenei's funeral after wartime death - Reuters",
+      "title_fa": "ایرانیان پس از مرگ زمان جنگ به مراسم ت��ییع خامنه‌ای سرازیر می‌شوند!",
+      "lead": "ایرانیان با فریاد «ای وای بر ما!» به مراسم تشییع جنازه خ��منه‌ای هجوم می‌آورند. این اتفاق پس از مرگ وی در شرایط جنگی رخ می‌دهد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1NHb181V19lQUxyWlFMQnU5WjNucmZBZHl3NlQtUzZTRFN6aVgweE4tdVJrNVlOYVQzQTExdllpN3NHaWlHcXZTSENOa3hWeEpycTBHdGJLRVhzYlhRdEs1UVk4VE1pR3ZnTzEyb0Z3YmxBUUV5cHJEV2VLMjAzUXp1Q1FfVWY1aWNmYVo3TUgxOXdEdExNenNKT1RyQlRFVWlrakprSWV0Zw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Sat, 04 Jul 2026 10:47:41 GMT",
+      "time": "۱۴:۱۷ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T14:33:38.001Z"
+    },
+    {
+      "id": "reuters_3",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Gold slips as US-Iran tensions spark inflation, rate hike fears - Reuters",
+      "title_fa": "طلا در پی افزایش تنش‌های آمریکا و ایران و ترس از تورم و افزایش نرخ بهره، کاهش ی��فت.",
+      "lead": "بهای طلا در بازارهای جهانی به دلیل افزایش تنش‌ها بین آمریکا و ایران کاهش یافته است. این تنش‌ها همچنین نگرانی‌ها را درباره تورم و احتمال افزایش نرخ بهره دامن زده است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWpkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYck9ONEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-04T14:33:38.001Z"
     }
   ]
 }
