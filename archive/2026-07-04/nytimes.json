@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "nytimes",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_6",
@@ -554,6 +554,30 @@
       "pubDate": "Fri, 03 Jul 2026 18:10:21 +0000",
       "time": "۲۱:۴۰ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "nytimes_13",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
+      "title_fa": "صف‌��ای طولانی بنزین، توهم عادی بودن زندگی در روسیه زمان جنگ را درهم شکست",
+      "lead": "صف‌های طولانی برای بنزین در روسیه، توهم عادی بودن زندگی در این کشور در زمان جنگ را از ��ین برده است. یکی از شهروندان روس با حیرت و سرخوردگی از این انتظارها پرسید: \"آیا ما اکنون در شوروی هستیم؟\"",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 10:47:14 +0000",
+      "time": "۱۴:۱۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
     }
   ]
 }
