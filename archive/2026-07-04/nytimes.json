@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_6",
@@ -578,6 +578,30 @@
       "pubDate": "Fri, 03 Jul 2026 10:47:14 +0000",
       "time": "۱۴:۱۷ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "nytimes_7",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
+      "title_fa": "مراسم تشییع رهبر معظم ��یران، علی خامنه‌ای",
+      "lead": "رهبران جدید ایران در حال برگزاری مراسم تشییع آیت‌الله علی خامنه‌ای هستند که در اولین روز جنگ آمریکا و اسرائیل علیه این کشور کشته شد. این مراسم با هیچ مراسم دیگری در تاریخ اخیر قابل مقایسه نیست.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sat, 04 Jul 2026 20:02:05 +0000",
+      "time": "۲۳:۳۲ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T20:29:27.462Z"
     }
   ]
 }
