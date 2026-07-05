@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "reuters_0",
@@ -346,6 +346,50 @@
         "negative": 90
       },
       "analyzed_at": "2026-07-04T14:03:34.268Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "'Let us wail!' Iranians flock to Khamenei's funeral after wartime death - Reuters",
+      "title_fa": "«ب��ایید مویه کنیم!»: ایرانیان پس از مرگ در زمان جنگ به تشییع جنازه خامنه‌ای سرازیر شدند",
+      "lead": "ایرانیان پس از مرگ خامنه‌ای در زمان جنگ، برای شرکت در مراسم تشییع جنازه او سرازیر شدند و بسیاری از آنها اندوه عمیق خو�� را ابراز می‌کنند. این رویداد، که با عزاداری گسترده‌ای همراه است، توجهات را به فضای سیاسی و اجتماعی کشور جلب می‌کند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV_yqLMLKSGo_5W_eALrZQLBu9Z3nrfAdyw6T-S6SDSziX0eN-uRk5YNaT3A11yYi7sGiIqgqvSCHNkxVxJrq0GtbKEXsbXQtK5QY8TMiGvgO12oFwbL_AQEyprDWeK203QzuCQ_Uf5icfaZ7MH19wDtLMnzsJOTRBTtEUiikJkIetg?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-04T14:22:22.266Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Gold slips as US-Iran tensions spark inflation, rate hike fears - Reuters",
+      "title_fa": "با افزایش تنش‌ها بین آمریکا و ایر��ن و شعله‌ور شدن نگرانی‌ها از تورم و افزایش نرخ بهره، قیمت طلا کاهش یافت",
+      "lead": "قیمت طلا در بحبوحه افزایش تنش‌ها میان ایالات متحده و ایران کاهش یافته است. این تحولات ژئوپلیتیکی، نگرانی‌ها را در بازارهای جهانی از تورم و افزایش احتمالی نرخ بهره برانگیخته است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV_yqLPOJ5JE4re78rwL_a437wRTNSQI1aliJdl5nIAjBVWxEKEWKl5YeTYyRTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYckRONEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-04T14:22:22.266Z"
     }
   ]
 }
