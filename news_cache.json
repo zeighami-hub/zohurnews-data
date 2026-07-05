@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T20:33:28.407Z",
-  "total": 1048,
-  "new_this_cycle": 1,
+  "generated_at": "2026-07-05T20:48:28.612Z",
+  "total": 1029,
+  "new_this_cycle": 4,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,102 @@
     }
   ],
   "articles": [
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
+      "title_fa": "مراسم تشییع جنازه آیت‌الله علی خامنه‌ای، رهبر عالی ایران",
+      "lead": "رهبران جدید ایران در حال برگزاری مراسم تشییع جنازه آیت‌الله علی خامنه‌ای هستند. این مراسم، پس از کشته شدن او در روز اول جنگ آمریکا و اسرائیل علیه این کشور، بی‌سابقه در تاریخ اخیر ایران است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 05 Jul 2026 15:38:17 +0000",
+      "time": "۱۹:۰۸ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T20:48:18.081Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Turkey's Erdogan says Israel must not scupper US-Iran deal - Reuters",
+      "title_fa": "اردوغان، رئیس جمهور ترکیه، می‌گوید اسرائیل نباید توافق آمریکا و ایران را به هم بزند",
+      "lead": "رجب طیب اردوغان، رئیس جمهور ترکیه، تاکید کرده است که اسرائیل نباید به توافق میان آمریکا و ایران آسیب برساند. این اظهارات در راستای تلاش‌های منطقه‌ای برای حفظ ثبات و دیپلماسی مطرح شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0ViRlNyVWgyNWhQRFFuQ3A3SHhQV3VyRmxDQlBEQnVZVU1jdk5ZdEhMVHhSeHZZR2FYTk94cFM5THdSRHV5c25EQjJ4cFJaZHhFVTNWaG1IUEQxTDBGYU5Ca2syUE5oQUM5UUJ6bm1IeEdBS0phcjl1MUVhd1VFV3k5VDN5MG9Ea0lQNzZvSTY0MHlzTVMycWJpSWgwNGZjUGlVVVhRSjQ0VHo2bG5tYm93?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sat, 04 Jul 2026 15:19:25 GMT",
+      "time": "۱۸:۴۹ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T20:48:18.081Z"
+    },
+    {
+      "id": "dw_2",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "The moral test US founding father Thomas Jefferson failed?",
+      "title_fa": "آیا توماس جفرسون، پدر بنیانگذار آمریکا، در آزمون اخلاقی مردود شد؟",
+      "lead": "ژنرال لهستانی و مبارز راه آزادی، تادیوس کوشچوشکو، یک آزمون اخلاقی را پیش روی توماس جفرسون، پدر بنیانگذار ایالات متحده، قرار داد. مورخان هنوز بر سر اینکه آیا جفرسون این آزمون را با موفقیت پشت سر گذاشت یا خیر، اختلاف نظر دارند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/the-moral-test-us-founding-father-thomas-jefferson-failed/a-77833752?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Sat, 4 Jul 2026 19:19:00 GMT",
+      "time": "۲۲:۴۹ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T20:48:18.081Z"
+    },
+    {
+      "id": "bbc_3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Former chess champion Kramnik banned over cheating remarks",
+      "title_fa": "قهرمان سابق شطرنج، کرامنیک، به دلیل اظهاراتش درباره تقلب ممنوع‌الفعالیت شد",
+      "lead": "ولادیمیر کرامنیک، قهرمان سابق شطرنج جهان و روس تبار، به دلیل اتهامات تقلب علیه سایر بازیکنان، از جمله دانیل نارودیتسکی فقید، با محرومیت مواجه شده است. این تصمیم توسط فدراسیون جهانی شطرنج اتخاذ شده و واکنش‌های متفاوتی را به همراه داشته است.",
+      "category": "sports",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 04 Jul 2026 15:45:15 GMT",
+      "time": "۱۹:۱۵ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T20:48:18.081Z"
+    },
     {
       "id": "mashregh_0",
       "agencyId": "mashregh",
@@ -369,7 +465,7 @@
       "agencyId": "khabaronline",
       "keep": true,
       "title": "پنج پیام مراسم وداع با رهبر شهید برای داخل و خارج به روایت معاون سیاسی سپاه/ حاضران در مراسم مطالبه برخورد با عاملان و آمران شهادت رهبر شهید را داشتند",
-      "title_fa": "پنج پیام مراسم وداع با رهبر شهید به روایت معاون سیاسی سپاه؛ مطالبه برخورد با عاملان شهادت توسط حاضران",
+      "title_fa": "پنج پیام مراسم وداع با رهبر شهید به روایت معاون سیاسی سپاه؛ مطالبه برخورد با عاملان شهادت تو��ط حاضران",
       "lead": "سردار یدالله جوانی پیام‌های مراسم وداع با رهبر شهید را نماد تجدید میثاق با آرمان‌های انقلاب و تأکید بر ادامه مسیر رهبری توصیف کرد. وی همچنین این حضور را مطالبه خونخواهی و اعلام ایستادگی در برابر دشمنان دانست.",
       "category": "politics",
       "region": "global",
@@ -1468,7 +1564,7 @@
       "id": "khabaronline_9",
       "agencyId": "khabaronline",
       "keep": true,
-      "title": "پنج پیام مراسم وداع با رهبر شهید برای داخل و خارج به روایت معاون سیاسی سپاه/ حاضران در مراسم مطالبه برخورد با عاملان و آمران شهادت رهبر شهید را داشتند",
+      "title": "پنج پیام مراسم وداع با رهبر شهید برای داخل و خارج به روایت معاون سیاسی سپاه/ حاضران د�� مراسم مطالبه برخورد با عاملان و آمران شهادت رهبر شهید را داشتند",
       "title_fa": "پنج پیام مراسم وداع با رهبر شهید برای داخل و خارج به روایت معاون سیاسی سپاه",
       "lead": "معاون سیاسی سپاه، سردار یدالله جوانی، پنج پیام مراسم وداع با رهبر شهید را برای داخل و خارج از کشور تشریح کرد. او این حضور را نماد تجدید میثاق با آرمان‌های انقلاب، تأکید بر ادامه مسیر رهبری و مطالبه خونخواهی توصیف کرد.",
       "category": "politics",
@@ -4686,7 +4782,7 @@
       "keep": true,
       "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
       "title_fa": "از «شبی زیبا» تا «بدترین خماری دنیا»؛ واکنش مهمانان به عروسی تیلور و تراویس",
-      "lead": "مهمانان مشهور در شبکه‌های اجتماعی درباره مراسم عروسی بزرگ تیلور و تراویس در نیویورک پست گذاشته‌اند. واکنش‌ها از توصیف شب به عنوان «زیبا» تا شوخی با «بدترین خماری دنیا» متفاوت بوده است.",
+      "lead": "مهمانان مشهور در شبکه‌های اجتماعی درباره مراسم عروسی بزرگ تیلور و تراویس در نیویورک پست گذاشته‌اند. واکنش‌ها از تو��یف شب به عنوان «زیبا» تا شوخی با «بدترین خماری دنیا» متفاوت بوده است.",
       "category": "culture",
       "region": "global",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
@@ -9176,7 +9272,7 @@
       "id": "mashregh_2",
       "agencyId": "mashregh",
       "keep": true,
-      "title": "فیلم/ زائر قائد شهید: ما عشایر پشت سر رهبر انقلاب هستیم",
+      "title": "فیلم/ زائر ق��ئد شهید: ما عشایر پشت سر رهبر انقلاب هستیم",
       "title_fa": "فیلم/ زائر قائد شهید: عشایر پشت سر رهبر انقلاب هستند",
       "lead": "یکی از هموطنان عشایر در مراسم وداع با رهبر شهید اظهار داشت: با وجود داغ فقدان رهبرمان، آقا سید مجتبی راه پدرشان را ادامه می‌دهند. وی تاکید کرد که عشایر همچنان پشت سر ایشان هستند و از رهبری ایشان حمایت می‌کنند.",
       "category": "politics",
@@ -12300,7 +12396,7 @@
       "keep": true,
       "title": "UK woman, 21, arrested in Thailand after allegedly stabbing boyfriend to death",
       "title_fa": "زن ۲۱ ساله بریتانیایی به اتهام قتل دوست پسر خود در تایلند دستگیر شد.",
-      "lead": "یک زن ۲۱ ساله اهل بریتانیا در تایلند به ظن قتل دوست پسرش با ضربات چاقو بازداشت شده است. پلیس جسد مردی ۳۴ ساله را در یک خانه لوکس اجا��ه‌ای در منطقه پاتایا کشف کرده است.",
+      "lead": "یک زن ۲۱ ساله اهل بریتانیا در تایلند به ظن قتل دوست پ��رش با ضربات چاقو بازداشت شده است. پلیس جسد مردی ۳۴ ساله را در یک خانه لوکس اجا��ه‌ای در منطقه پاتایا کشف کرده است.",
       "category": "crime",
       "region": "europe",
       "sourceUrl": "https://www.theguardian.com/world/2026/jul/04/uk-woman-arrested-thailand-pattaya-man-stabbed",
@@ -13219,7 +13315,7 @@
       "agencyId": "yjc",
       "keep": true,
       "title": "حضور با شکوه مردم در مراسم وداع با رهبر شهید انقلاب اسلامی در مصلای تهران _ ۲",
-      "title_fa": "حضور باشکوه مردم در مراسم وداع با رهبر شهید انقلاب اسلامی در مصلای تهران",
+      "title_fa": "حضور باشکوه مردم در مراسم ود��ع با رهبر شهید انقلاب اسلامی در مصلای تهران",
       "lead": "مراسم وداع با پیکر مطهر رهبر شهید انقلاب از ساعات اولی�� بامداد امروز در مصلای امام خمینی (ره) تهران آغاز شده است. اقشار مختلف مردم ایران شامل زنان، مردان، نوجوانان و سالمندان با حضوری باشکوه و کم‌نظیر در این مراسم شرکت کرده‌اند.",
       "category": "politics",
       "region": "global",
@@ -14437,7 +14533,7 @@
       "agencyId": "guardian",
       "keep": true,
       "title": "China says man who flew plane into Beijing skyscraper had mental health problems",
-      "title_fa": "چین اعلام کرد مردی که هواپیما را به آسمان‌خراش پکن کوبید، مشکلات روانی داشت",
+      "title_fa": "چین اعلام کرد مردی که هواپیما را به آسم��ن‌خراش پکن کوبید، مشکلات روانی داشت",
       "lead": "مقامات چینی اظهار داشتند مردی که هفته گذشته با یک هواپیمای کوچک به بلندترین آسمان‌خراش پکن کوبید، یک فرد ۶۶ ساله با مشکلات سلامت روان بود. این بیانیه رسمی جزئی‌ترین گزارش را از این حادثه بسیار غیرمعمول و مرگبار ارائه می‌دهد.",
       "category": "politics",
       "region": "asia",
@@ -14998,7 +15094,7 @@
       "id": "khabaronline_5",
       "agencyId": "khabaronline",
       "keep": true,
-      "title": "پرواز ماهان به صنعا با هشدار جنگنده‌های سعودی فقط یک پرواز نبود؛ تهران چه پیامی به عربستان و آمریکا فرستاد؟",
+      "title": "پرواز ماهان به صنعا با هشدار جنگنده‌های سعودی فقط یک پرواز نبود؛ ��هران چه پیامی به عربستان و آمریکا فرستاد؟",
       "title_fa": "پرواز ماهان به صنعا با هشدار جنگنده‌های سعودی؛ تهران چه پیامی به عربستان و آمریکا فرستاد؟",
       "lead": "فرود اولین هواپیمای مسافربری ایران در فرودگاه صنعا پس از یک دهه، از سوی تحلیلگران مسائل خاورمیانه فراتر از یک پرواز عادی تلقی می‌شود. این رویداد، که با هشدار جنگنده‌های سعودی همراه بود، نشانه‌ای از تغییر رویکرد منطقه‌ای تهران و تلاش برای شکستن محاصره هوایی یمن و بازتعریف موازنه قدرت است.",
       "category": "politics",
@@ -16677,7 +16773,7 @@
       "agencyId": "mashregh",
       "keep": true,
       "title": "دشان تاریخ‌ساز شد؛ رکوردی ویژه برای سرمربی خروس‌ها",
-      "title_fa": "دشان تاریخ‌ساز شد؛ رکوردی ویژه برای سرمربی خروس‌ها",
+      "title_fa": "دشان تاریخ‌ساز شد؛ رکوردی ویژه برای سرمربی خرو��‌ها",
       "lead": "دیدیه دشان، سرمربی تیم ملی فوتبال فرانسه، با کسب ۱۰ پیروزی در مراحل حذفی، تاریخ‌ساز شد. او به نخستین مربی در تاریخ جام جهانی تبدیل شده که به این رکورد دست می‌یابد.",
       "category": "sports",
       "region": "global",
@@ -18712,7 +18808,7 @@
       "keep": true,
       "title": "Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction",
       "title_fa": "برزیل مقابل نروژ: یک هشتم نهایی جام جهانی فیفا – وینیسیوس، هالند و پیش‌بینی",
-      "lead": "این باز�� مرحله یک هشتم نهایی جام جهانی فیفا بین برزیل و نر��ژ است که نگاهی به بازیکنان کلیدی مانند وینیسیوس و هالند دارد. نروژ یکی از تنها سه کشوری است که برزیل در جام جهانی با آن روبرو شده و نتوانسته حداقل یک پیروزی کسب کند.",
+      "lead": "این باز�� مرحله یک هشتم نهایی جا�� جهانی فیفا بین برزیل و نر��ژ است که نگاهی به بازیکنان کلیدی مانند وینیسیوس و هالند دارد. نروژ یکی از تنها سه کشوری است که برزیل در جام جهانی با آن روبرو شده و نتوانسته حداقل یک پیروزی کسب کند.",
       "category": "sports",
       "region": "global",
       "sourceUrl": "https://www.aljazeera.com/sports/2026/7/5/brazil-vs-norway-fifa-world-cup-last-16-vinicius-haaland-and-prediction?traffic_source=rss",
@@ -20822,7 +20918,7 @@
       "keep": true,
       "title": "مراجعه بیش از ۴ هزار نفر به مراکز درمانی مستقر در مصلای تهران/ هیچ مورد فوتی گزارش نشد",
       "title_fa": "مراجعه بیش از ۴ هزار نفر به مراکز درمانی در مصلای تهران؛ هیچ مورد فوتی گزارش نشد",
-      "lead": "رئیس دانشگاه علوم پزشکی ایران از مراجعه بیش از ۴ هزار نفر به مراکز درمانی مستقر در مصلای تهران در روز نخست مراسم و��اع با رهبر فقید خبر داد. وی افزود با وجود حجم بالای مراجعات، هیچ مورد فوتی در این مراکز گزارش نشده است.",
+      "lead": "رئیس دانشگاه علوم پزشکی ایران از مراجعه بیش از ۴ هزار نفر به مراکز درمانی مس��قر در مصلای تهران در روز نخست مراسم و��اع با رهبر فقید خبر داد. وی افزود با وجود حجم بالای مراجعات، هیچ مورد فوتی در این مراکز گزارش نشده است.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.irna.ir/news/86201099/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D9%87-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%B1-%D8%A8%D9%87-%D9%85%D8%B1%D8%A7%DA%A9%D8%B2-%D8%AF%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%85%D8%B3%D8%AA%D9%82%D8%B1-%D8%AF%D8%B1-%D9%85%D8%B5%D9%84%D8%A7%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
@@ -21381,7 +21477,7 @@
         "negative": 90
       },
       "pubDate": "Sat, 04 Jul 2026 20:48:16 GMT",
-      "time": "۰۰:۱۸ - ۱۴ تیر",
+      "time": "۰۰:۱�� - ۱۴ تیر",
       "analyzed_at": "2026-07-04T23:57:40.190Z"
     },
     {
@@ -23328,7 +23424,7 @@
       "keep": true,
       "title": "هشدار ا��صارالله: یک ضربه به عربستان رویاهای ۱۰۰ ساله‌اش را بر باد می‌دهد",
       "title_fa": "هشدار انصارالله: یک ضربه به عربستان رویاهای ۱۰۰ ساله‌اش را بر باد می‌دهد",
-      "lead": "انصارالله هشدار داد که اصرار عربستان بر چشیدن طعم شکست، نشان می‌دهد تصمیم‌گیری این کشور تحت فشار بیرونی است. آن‌ها افزودند ریاض منافع ملت خود را مراعات نمی‌کند و ��همیتی به امنیت و جاه‌طلبی‌های خود نمی‌دهد.",
+      "lead": "انصارالله هشدار داد که اصرار عربستان بر چشیدن طعم شکست، نشان می‌دهد تصمیم‌گیری این کشور تحت فشار بیرونی است. آن‌ها ا��زودند ریاض منافع ملت خود را مراعات نمی‌کند و ��همیتی به امنیت و جاه‌طلبی‌های خود نمی‌دهد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1175168/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%D8%A7%D9%84%D9%84%D9%87-%DB%8C%DA%A9-%D8%B6%D8%B1%D8%A8%D9%87-%D8%A8%D9%87-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%B1%D9%88%DB%8C%D8%A7%D9%87%D8%A7%DB%8C-100-%D8%B3%D8%A7%D9%84%D9%87-%D8%A7%D8%B4-%D8%B1%D8%A7-%D8%A8%D8%B1-%D8%A8%D8%A7%D8%AF-%D9%85%DB%8C-%D8%AF%D9%87%D8%AF",
@@ -24359,548 +24455,6 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-04T20:48:50.335Z"
-    },
-    {
-      "id": "mashregh_0",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "توضیح متروی تهران درمور�� دلیل عدم توقف در برخی ایستگاه‌ها",
-      "title_fa": "توضیح متروی تهران درباره دلیل عدم توقف در برخی ایستگاه‌ها",
-      "lead": "مدیر ارتباطات متروی تهران با اشاره به حضور گسترده مردم در مراسم بدرقه «آقای شهید ایران» توضیح داد. او گفت که به دلیل حجم بالای تردد مسافران، ممکن است قطارها در برخی ایستگاه‌ها بدون توقف عبور کنند تا مدیریت تردد و حفظ ایمنی مسافران تضمین شود.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823308/%D8%AA%D9%88%D8%B6%DB%8C%D8%AD-%D9%85%D8%AA%D8%B1%D9%88%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1%D9%85%D9%88%D8%B1%D8%AF-%D8%AF%D9%84%DB%8C%D9%84-%D8%B9%D8%AF%D9%85-%D8%AA%D9%88%D9%82%D9%81-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 20:14:00 GMT",
-      "time": "۲۳:۴۴ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "irna_1",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "دستور فوری ��ادستان شیراز برای شناسایی عامل آتش‌افروزی در کوه‌های این شهر",
-      "title_fa": "دستور فوری دادستان شیراز برای شناسایی عامل آتش‌افروزی در کوه‌های این شهر",
-      "lead": "انتشار کلیپی از آتش‌افروزی عمدی در کوه‌های شیراز در فضای مجازی، واکنش فوری دادستان فارس را در پی داشت. وی دستور شناسایی و دستگیری فرد خاطی را صادر کرد.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86201064/%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D9%81%D9%88%D8%B1%DB%8C-%D8%AF%D8%A7%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%D8%B9%D8%A7%D9%85%D9%84-%D8%A2%D8%AA%D8%B4-%D8%A7%D9%81%D8%B1%D9%88%D8%B2%DB%8C-%D8%AF%D8%B1-%DA%A9%D9%88%D9%87-%D9%87%D8%A7%DB%8C",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 20:04:10 GMT",
-      "time": "۲۳:۳۴ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "irna_2",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "اوناحی، بهترین بازیکن دیدار مراکش و کانادا شد",
-      "title_fa": "اوناحی بهت��ین بازیکن دیدار مراکش و کانادا شد",
-      "lead": "عزالدین اوناحی�� ستاره تیم ملی مراکش، پس از نمایش درخشان برابر ��انادا، بهترین بازیکن زمین انتخاب شد. او این جایزه ویژه را از سوی فدراسیون بین‌المللی فوتبال (فیفا) دریافت کرد.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.irna.ir/news/86201055/%D8%A7%D9%88%D9%86%D8%A7%D8%AD%DB%8C-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D9%85%D8%B1%D8%A7%DA%A9%D8%B4-%D9%88-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7-%D8%B4%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 100,
-        "neutral": 0,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 19:45:00 GMT",
-      "time": "۲۳:۱۵ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "mashregh_3",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "تداوم روابط راهبردی ایران و چین در پرتو تأکیدات رهبر شهید",
-      "title_fa": "تداوم ر��ابط راهبردی ایران و چین در پرتو تأکیدات رهبر شهید",
-      "lead": "دیدار رئیس مجلس ایران با نماینده ارشد کنگره ملی خلق چین برگزار شد. این دیدار بیانگر عزم راسخ دو کشور برای تعمیق روابط راهبردی و گسترش همکاری‌های همه‌جانبه است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823304/%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D8%B1%D9%88%D8%A7%D8%A8%D8%B7-%D8%B1%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%DA%86%DB%8C%D9%86-%D8%AF%D8%B1-%D9%BE%D8%B1%D8%AA%D9%88-%D8%AA%D8%A3%DA%A9%DB%8C%D8%AF%D8%A7%D8%AA-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 100,
-        "neutral": 0,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 19:43:07 GMT",
-      "time": "۲۳:۱۳ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "irna_4",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "نخست وزیر اسبق لبنان: نبود بند «عقب‌نشینی» و «آتش‌بس» در توافق با اسرائیل قابل قبول نیست",
-      "title_fa": "نخست‌وزیر اسبق لبنان: نبود بند «عقب‌نشینی» و «آتش‌بس» در توافق با اسرائیل قابل قبول نیست",
-      "lead": "فؤاد سنیوره، نخست‌وزیر اسبق لبنان، از محتوای توافق‌نامه چارچوب با رژیم صهیونیستی انتقاد کرد. او تأکید کرد که گنجانده نشدن بندهای «عقب‌نشینی» و «آتش‌بس» در این توافق غیرقابل‌قبول است.",
-      "category": "politics",
-      "region": "middle_east",
-      "sourceUrl": "https://www.irna.ir/news/86201051/%D9%86%D8%AE%D8%B3%D8%AA-%D9%88%D8%B2%DB%8C%D8%B1-%D8%A7%D8%B3%D8%A8%D9%82-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%86%D8%A8%D9%88%D8%AF-%D8%A8%D9%86%D8%AF-%C2%AB%D8%B9%D9%82%D8%A8-%D9%86%D8%B4%DB%8C%D9%86%DB%8C%C2%BB-%D9%88-%C2%AB%D8%A2%D8%AA%D8%B4-%D8%A8%D8%B3%C2%BB-%D8%AF%D8%B1-%D8%AA%D9%88%D8%A7%D9%81%D9%82",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "asriran_5",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "عراقچی: تجاوزات رژیم صهیونیستی باید متوقف و اشغالگران از لبنان خارج شوند",
-      "title_fa": "عراقچی: تجاوزات رژیم صهیونیستی باید متوقف و اشغالگران از لبنان خارج شوند",
-      "lead": "عراقچی اظهار داشت که تجاوزات رژیم صهیونیستی باید متوقف و اشغالگران از لبنان خارج شوند. خلیل حمدان نیز از مواضع اص��لی جمهوری اسلامی ایران در حمایت از تمامیت سرزمینی لبنان قدردانی کرد.",
-      "category": "politics",
-      "region": "middle_east",
-      "sourceUrl": "https://www.asriran.com/fa/news/1175156/%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%D8%A7%D8%AA-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D9%88-%D8%A7%D8%B4%D8%BA%D8%A7%D9%84%DA%AF%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%B4%D9%88%D9%86%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "irna_6",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "قدردانی عراقچی از نمایندگان کشورهای شرکت کننده در مراسم بزرگداشت رهبر شهید",
-      "title_fa": "قدردانی عراقچی از نمایندگان کشورهای شرکت‌کننده در مراسم بزرگداشت رهبر شهید",
-      "lead": "عراقچی، وزیر امور خارجه کشورمان، در پستی در شبکه ایکس از نمایندگان کشورهای شرکت‌کننده در مراس�� بزرگداشت رهبر شهید قدردانی کرد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.irna.ir/news/86201046/%D9%82%D8%AF%D8%B1%D8%AF%D8%A7%D9%86%DB%8C-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A7%D8%B2-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%B4%D8%B1%DA%A9%D8%AA-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AF%D8%A7%D8%B4%D8%AA",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 100,
-        "neutral": 0,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 19:00:58 GMT",
-      "time": "۲۲:۳۰ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "mashregh_7",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "دیدار نماینده ویژه رئیس پارلمان لبنان با عراقچی",
-      "title_fa": "دیدار نماینده ویژه رئیس پارلمان لبنان با عراقچی",
-      "lead": "نماینده ویژه رئیس پارلمان لبنان به همراه اعضای ارشد جنبش امل به تهران سفر کرده است. او برای ادای احترام به رهبر شهید با سید عباس ��راقچی دیدار کرد.",
-      "category": "politics",
-      "region": "middle_east",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823286/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D9%88%DB%8C%DA%98%D9%87-%D8%B1%D8%A6%DB%8C%D8%B3-%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 18:21:00 GMT",
-      "time": "۲۱:۵۱ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "foreignpolicy_8",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "Is Cuba Really Next?",
-      "title_fa": "آیا کوبا واقعاً بعدی است؟",
-      "lead": "پیامدهای درگیری ایران و نزدیک شدن انتخابات میان‌دوره‌ای آمریکا ممکن است محاسبات ترامپ را تغییر دهد. این مقاله به بررسی احتمال قرار گرفتن کوبا در کانون توجه بعدی سیاست خارجی آمریکا می‌پردازد.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/01/michael-bustamante-cuba-trump-venezuela-rubio-regime-change-blockade/",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Wed, 01 Jul 2026 17:40:59 +0000",
-      "time": "۲۱:۱۰ - ۱۰ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "mashregh_10",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "تجاوز مجدد رژیم صهیونیستی به جنوب لبنان",
-      "title_fa": "تجاوز مجدد رژیم صهیونیستی به جنوب لبنان",
-      "lead": "منابع خبری گزارش دادند که رژیم صهیونیستی مجدداً به جنوب لبنان تجاوز کرده است. این تجاوز به صورت حمله پهپادی انجام شده است.",
-      "category": "politics",
-      "region": "middle_east",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823305/%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D9%85%D8%AC%D8%AF%D8%AF-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Sat, 04 Jul 2026 20:03:00 GMT",
-      "time": "۲۳:۳۳ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "isna_11",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "تامین برق پایدار زائران با آمادگی کامل ادامه دارد",
-      "title_fa": "تامین برق پایدار زائران با آمادگی کامل ادامه دارد",
-      "lead": "مدیرعامل شرکت توانیر به همراه معاون وزارت نیرو، از موکب‌ها و زائرسراهای منطقه سعادت‌آباد بازدید کرد. آنها از نزدیک در جریان روند ارائه خدمات و تامین برق پایدار به زائران و عزاداران قرار گرفتند.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405041308166/%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%A8%D8%B1%D9%82-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1-%D8%B2%D8%A7%D8%A6%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A2%D9%85%D8%A7%D8%AF%DA%AF%DB%8C-%DA%A9%D8%A7%D9%85%D9%84-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 100,
-        "neutral": 0,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 19:59:21 GMT",
-      "time": "۲۳:۲۹ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "asriran_12",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "انفجار تانکر سوخت در آمریکا",
-      "title_fa": "انفجار تانکر سوخت در آمریکا",
-      "lead": "پلیس شهرستان مونتگومری در آلابامای آمریکا از انفجار یک تانکر سوخت و آتش‌سوزی خبر داد. این حادثه که به دلیل نقص فنی رخ داده، منجر به قطع برق چندین خانه در منطقه شد.",
-      "category": "disaster",
-      "region": "americas",
-      "sourceUrl": "https://www.asriran.com/fa/news/1175159/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AA%D8%A7%D9%86%DA%A9%D8%B1-%D8%B3%D9%88%D8%AE%D8%AA-%D8%AF%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "yjc_13",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "۵۰ زندانی جرائم غیرعمد استان با همت خیران و گذشت شکات آزاد شدند",
-      "title_fa": "آزادی ۵۰ زند��نی جرائم غیرعمد در سیستان و بلوچستان با همت خیران",
-      "lead": "رئیس‌کل دادگستری سیستان و بلوچستان از آزادی ۵۰ نفر از زندانیان جرائم غیرعمد خبر داد. این آزادی با مشارکت ستاد دیه، خیران، گذشت شکات و نهادهای حمایتی صورت گرفته است.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104797/%DB%B5%DB%B0-%D8%B2%D9%86%D8%AF%D8%A7%D9%86%DB%8C-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%BA%DB%8C%D8%B1%D8%B9%D9%85%D8%AF-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7-%D9%87%D9%85%D8%AA-%D8%AE%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%DA%AF%D8%B0%D8%B4%D8%AA-%D8%B4%DA%A9%D8%A7%D8%AA-%D8%A2%D8%B2%D8%A7%D8%AF-%D8%B4%D8%AF%D9%86%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 100,
-        "neutral": 0,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "asriran_14",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "خلاصه بازی کانادا ۰ - مراکش ۳",
-      "title_fa": "خلاصه بازی کانادا ۰ - مراکش ۳",
-      "lead": "خلاصه بازی کا��ادا و مراکش در چارچوب رقابت‌های جام جهانی ۲۰۲۶ منتشر شد. نتیجه این دیدار ۰-۳ به سود مراکش بود.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1175157/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%8 کانادا-0-%D9%8مراکش-3",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "khabaronline_0",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "پاسخ گل‌گهر به احتمال حضور تارتار در پرسپولیس",
-      "title_fa": "پاسخ گل‌گهر به احتمال ح��ور تارتار در پرسپولیس",
-      "lead": "سخنگوی باشگاه گل‌گهر به احتمال حضور مهدی تارتار در تیم پرسپولیس واکنش نشان داد. این اظهارات در پی گمانه‌زنی‌ها درباره مربیگری تارتار در تیم پایتخت صورت گرفته است.",
-      "category": "sports",
-      "region": "iran",
-      "sourceUrl": "https://www.khabaronline.ir/news/2242101/%D9%BE%D8%A7%D8%B3%D8%AE-%DA%AF%D9%84-%DA%AF%D9%87%D8%B1-%D8%A8%D9%87-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%AD%D8%B6%D9%88%D8%B1-%D8%AA%D8%A7%D8%B1%D8%AA%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 80,
-        "negative": 10
-      },
-      "pubDate": "Sat, 04 Jul 2026 19:40:00 GMT",
-      "time": "۲۳:۱۰ - ۱۳ تی��",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "isna_1",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "بازیکن سابق نفت آبادان درگذشت",
-      "title_fa": "بازیکن سابق صنعت نفت آبادان درگذشت",
-      "lead": "بازیکن سابق تیم فوتبال صنعت نفت آبادان، دارفانی را وداع گفت. این خبر موجی از غم و اندوه را در جامعه فوتبال ک��ور ایجاد کرده است.",
-      "category": "sports",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405041308158/%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86-%D8%B3%D8%A7%D8%A8%D9%82-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86-%D8%AF%D8%B1%DA%AF%D8%B0%D8%B4%D8%AA",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Sat, 04 Jul 2026 19:39:12 GMT",
-      "time": "۲۳:۰۹ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "khabaronline_2",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "از انیمیشن تا مستند؛ رسانه چگونه در جنگ تحمیلی سوم به میدان آمد؟",
-      "title_fa": "از انیمیشن تا مستند؛ رسانه چگونه در جنگ تحمیلی سوم به میدان آمد؟",
-      "lead": "جنگ تحمیلی سوم تنها در میدان نبرد محدود نشد و رسانه به یکی از ارکان اصلی این رویارویی تبدیل گشت. از انیمیشن‌های مبتنی بر هوش مصنوعی تا مستندهای روایت‌گر جنگ، هر یک تلاش کردند سهم خود را ایفا کنند.",
-      "category": "media_analysis",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2241710/%D8%A7%D8%B2-%D8%A7%D9%86%DB%8C%D9%85%DB%8C%D8%B4%D9%86-%D8%AA%D8%A7-%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%AA%D8%AD%D9%85%DB%8C%D9%84%DB%8C-%D8%B3%D9%88%D9%85-%D8%A8%D9%87-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D8%A2%D9%85%D8%AF",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 80,
-        "negative": 10
-      },
-      "pubDate": "Sat, 04 Jul 2026 19:23:00 GMT",
-      "time": "۲۲:۵۳ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "asriran_6",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "بریس اوناهی؛ گل دوم مراکش به کانادا",
-      "title_fa": "گل دوم مراکش به کانادا توسط اوناحی",
-      "lead": "گل دوم تیم ملی مراکش در دقیقه ۶۷ بازی مقابل کانادا به ثمر رسید. این گل توسط ازدین اوناحی وارد دروازه حریف شد.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1175152/بریس-اوناهی-گل-دوم-مراکش-به-کانادا",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "04 Jul 2026 22:36:36 +0330",
-      "time": "۲۲:۳۶ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "asriran_8",
-      "agencyId": "asriran",
-      "keep": true,
-      "title": "گل اول مراکش به کانادا توسط اوناهی",
-      "title_fa": "گل اول مراکش به کانادا توسط اوناحی",
-      "lead": "گل اول تیم ملی مراکش در دقیقه ۵۰ بازی مقابل کانادا به ثمر رسید. این گل مهم توسط ازدین اوناحی به ثمر رسید.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1175151/گل-اول-مراکش-به-کانادا-توسط-اوناهی",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "04 Jul 2026 22:29:32 +0330",
-      "time": "۲۲:۲۹ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "yjc_9",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "رایگان شدن سوخت CNG در جایگاه‌های شهرداری قم طی ۳ روز آینده",
-      "title_fa": "رایگان شدن سوخت CNG در جایگاه‌های ش��رداری قم طی ۳ روز آینده",
-      "lead": "شهردار قم اعلام کرد که سوخت CNG در تمامی جایگاه‌های شهرداری قم به مدت سه روز رایگان خواهد بود. این اقدام از ۱۵ تا ۱۷ تیرماه و به منظور رفاه حال شرکت‌کنندگان در مراسم تشییع رهبر شهید انقلاب صورت می‌گیرد.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104778/رایگان-شدن-سوخت-cng-در-جایگاه‌های-شهرداری-قم-طی-۳-روز-آینده",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "04 Jul 2026 22:26:21 +0330",
-      "time": "۲۲:۲۶ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "khabaronline_10",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "آیا حافظه دیجیتال، حقوق کودکان را تهدید می‌کند؟",
-      "title_fa": "آیا حافظه دیجیتال، حقوق کودکان را تهدید می‌کند؟",
-      "lead": "جهان دیجیتال ویژگی‌های بنیادی تاریخ بشر را دگرگون کرده و کمتر فراموش می‌کند. آنچه یک کودک امروز می‌بیند یا می‌نویسد، د�� سامانه‌های دیجیتال باقی می‌ماند و این تحول پرسشی عمیق درباره حقوق کودکان ایجاد کرده است.",
-      "category": "social_issues",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2241721/%D8%A2%DB%8C%D8%A7-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%AD%D9%82%D9%88%D9%82-%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86-%D8%B1%D8%A7-%D8%AA%D9%87%D8%AF%DB%8C%D8%AF-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 60,
-        "negative": 30
-      },
-      "pubDate": "Sat, 04 Jul 2026 18:50:00 GMT",
-      "time": "۲۲:۲۰ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "france24_11",
-      "agencyId": "france24",
-      "keep": true,
-      "title": "Rebel attacks in northern Mali: Some targets meant as 'diversions', expert says",
-      "title_fa": "کارشناس می‌گ��ید: حملات شورشیان در شمال مالی برخی اهداف 'انحرافی' بود",
-      "lead": "ارتش مالی روز شنبه اعلام کرد که چندین شهر شمالی، از جمله گائو و سِوارِه، هدف حملات شورشیان قرار گرفته‌اند. این اظهارات پس از آن مطرح شد که یک گروه شورشی از آغاز حمله جدیدی برای تصرف شهری در شمال کشور خبر داد.",
-      "category": "military",
-      "region": "africa",
-      "sourceUrl": "https://www.france24.com/en/rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-says",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "Sat, 04 Jul 2026 15:44:25 GMT",
-      "time": "۱۹:۱۴ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
-    },
-    {
-      "id": "foreignpolicy_12",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "How to Spin an Empire",
-      "title_fa": "چگونه یک امپراتوری را توجیه کنیم",
-      "lead": "این مقاله به بررسی امپریالیسم ایالات متحد�� به عنوان الهام‌بخش و در عین حال عامل مقابله می‌پردازد. تحلیل حاضر، جنبه‌های مختلف نفوذ تاریخی و سیاسی آمریکا را مورد کاوش قرار می‌دهد.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/01/trump-cuba-imperialism-history-empire-cold-war-books/",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 80,
-        "negative": 10
-      },
-      "pubDate": "Wed, 01 Jul 2026 13:57:36 +0000",
-      "time": "۱۷:۲۷ - ۱۰ تیر",
-      "analyzed_at": "2026-07-04T20:34:38.926Z"
     }
   ]
 }
