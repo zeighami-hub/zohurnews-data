@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 12,
   "articles": [
     {
       "id": "bbc_2",
@@ -194,6 +194,102 @@
       "pubDate": "Fri, 03 Jul 2026 04:41:05 GMT",
       "time": "۰۸:۱۱ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T11:33:26.581Z"
+    },
+    {
+      "id": "bbc_6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "title_fa": "جمعیت کثیری در نخستین روز مراسم تشییع آیت‌الله خامنه‌ای در تهران گرد هم آمدند",
+      "lead": "جمعیت زیادی در روز اول مراسم تشییع آیت‌الله خامنه‌ای در تهران گرد هم آمدند. پیکر علی خامنه‌ای تا دوشنبه در مصلای بزرگ تهران قرار خواهد داشت و سپس به سراسر ایران و عراق منتقل می‌شود.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "pubDate": "Sat, 04 Jul 2026 09:45:55 GMT",
+      "time": "۱۳:۱۵ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T12:15:44.980Z"
+    },
+    {
+      "id": "bbc_9",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "title_fa": "بی‌بی‌سی در تنگه هرمز، کشتی‌های توقیف‌شده و کوسه‌گیران را با ب��زگشت آرامش ناپایدار می‌یابد",
+      "lead": "بی‌بی‌سی به بندرعباس ��فر کرده است، این اولین بار است که خبرنگاران یک رسانه بری��انیایی به سمت ایرانی تنگه هرمز می‌روند. آنها در این منطقه با کشتی‌های توقیف‌شده و ماهیگیران کوسه مواجه شده‌اند، در حالی که آرامشی شکننده برقرار است.",
+      "category": "international relations",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 02 Jul 2026 23:15:22 GMT",
+      "time": "۰۲:۴۵ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T12:15:44.980Z"
+    },
+    {
+      "id": "bbc_11",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Pope urges Europe to do more for migrants while visiting gateway island",
+      "title_fa": "پاپ در بازدید از جزیره‌ای که دروازه ورود مهاجران است، از اروپا خواست برای مهاجران بیشتر تلاش کند",
+      "lead": "پاپ فرانسیس در بازدید از جزیره لامپدوزا ایتالی��، که به عنوان دروازه ورود مهاجران به اروپا شناخته می‌شود، از کشورهای اروپایی خواست تا تلاش‌های بیشتری برای حمایت از مهاجران انجام دهند. او در قبرستان این جزیره به مهاجرانی که جان خود را در دریا از دست داده‌اند، ادای احترام کرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 20,
+        "negative": 20
+      },
+      "pubDate": "Sat, 04 Jul 2026 11:25:57 GMT",
+      "time": "۱۴:۵۵ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T12:15:44.980Z"
+    },
+    {
+      "id": "bbc_3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
+      "title_fa": "در تصاویر: جشن ازدواج تیلور سوئیفت و تراویس کلس با حضور ستارگان و طرفداران",
+      "lead": "افراد مشهور و ستاره‌های ورزشی در مراسم ازدواج این زوج شناخته‌شده که روز جمعه در نیوی��رک برگزار شد، ��یده شدند. طرفداران نیز این رویداد را جشن گرفتند.",
+      "category": "entertainment",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 08:24:17 GMT",
+      "time": "۱۱:۵۴ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T12:15:44.980Z"
     }
   ]
 }
