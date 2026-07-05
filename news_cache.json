@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T16:03:55.475Z",
-  "total": 1049,
-  "new_this_cycle": 4,
+  "generated_at": "2026-07-05T16:18:58.415Z",
+  "total": 1022,
+  "new_this_cycle": 9,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,220 @@
     }
   ],
   "articles": [
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Mass grief in Iran at Khamenei funeral after US, Israel war killing - Reuters",
+      "title_fa": "اندوه گسترده در ایران در مراسم تشییع خامنه‌ای پس از کشته شدن در جنگ آمریکا و اسرائیل",
+      "lead": "ایران شاهد اندوه گسترده‌ای در مراسم تشییع جنازه آیت‌الله خامنه‌ای است. این مراسم پس از کشته شدن وی در پی جنگ آمریکا و اسرائیل برگزار می‌شود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1NHb181V19lQUxyWlFMQnU5WjNucmZBZHl3NlQtUzZTRFN6aVgweE4tdVJrNVlOYVQzQTExdllpN3NHaWlHcXZTSENOa3hWeEpycTBHdGJLRVhzYlhRdEs1UVk4VE1pR3ZnTzEyb0Z3YmxBUUV5cHJEV2VLMjAzUXp1Q1FfVWY1aWNmYVo3TUgxOXdEdExNenNKT1RyQlRFVWlrakprSWV0Zw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 04 Jul 2026 11:02:00 GMT",
+      "time": "۱۴:۳۲ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T16:18:50.325Z"
+    },
+    {
+      "id": "nytimes_1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The funeral comes amid fraught, sluggish U.S.-Iran peace talks.",
+      "title_fa": "مراسم تشییع جنازه در بحبوحه مذاکرات صلح دشوار و کند آمریکا و ایران برگزار می‌شود.",
+      "lead": "مراسم تشییع جنازه رهبر فقید ایران در حالی برگزار می‌شود که مذاکرات صلح بین آمریکا و ایران با دشواری و کندی پیش می‌رود. این وضعیت بر پیچیدگی‌های منطقه‌ای می‌افزاید و آینده روابط دو کشور را تحت تاثیر قرار می‌دهد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sat, 04 Jul 2026 13:59:02 +0000",
+      "time": "۱۷:۲۹ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T16:18:50.325Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "When Iran Last Buried a Supreme Leader, There Was Chaos",
+      "title_fa": "هنگامی که ایران آخرین بار رهبر عالی خود را به خاک سپرد، آشوب برپا شد",
+      "lead": "این گزارش به سابقه تاریخی مراسم تشییع رهبران عالی در ایران می‌پردازد و یادآوری می‌کند که دفن آخرین رهبر عالی با آشوب همراه بود. این موضوع می‌تواند تلویحاتی برای مراسم کنونی داشته باشد و نگرانی‌هایی را در پی آورد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-last-time-iran-buried-a-supreme-leader-there-was-chaos",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 04 Jul 2026 13:39:55 +0000",
+      "time": "۱۷:۰۹ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T16:18:50.325Z"
+    },
+    {
+      "id": "reuters_3",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Gold slips as US-Iran tensions spark inflation, rate hike fears - Reuters",
+      "title_fa": "قیمت طلا با افزایش تنش‌های آمریکا و ایران و ترس از تورم و افزایش نرخ بهره کاهش یافت",
+      "lead": "تنش‌های فزاینده بین آمریکا و ایران باعث نگرانی‌ها در مورد تورم و احتمال افزایش نرخ بهره شده است. در واکنش به این وضعیت، قیمت طلا در بازارهای جهانی کاهش یافته است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWpkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaHNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-05T16:18:50.325Z"
+    },
+    {
+      "id": "bbc_6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "title_fa": "اوکراین یک پایانه نفتی مهم در سنت پترزبورگ روسیه را هدف قرار داد",
+      "lead": "اوکراین اعلام کرد که یک پایانه نفتی بزرگ در شهر سنت پترزبورگ روسیه را مورد حمله قرار داده است. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، اظهار داشت که این هدف‌گیری زیرساخت‌های کلیدی را که برای جنگ روسیه درآمدزا هستند، شامل می‌شود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 04 Jul 2026 18:41:25 GMT",
+      "time": "۲۲:۱۱ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T16:18:50.325Z"
+    },
+    {
+      "id": "bbc_7",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
+      "title_fa": "لباس دیور، آدام سندلر و ساقدوش افتخاری: آنچه از عروسی تیلور و تراویس می‌دانیم",
+      "lead": "این زوج پس از ماه‌ها گمانه‌زنی درباره زمان، مکان و چگونگی برگزاری مراسم، روز جمعه در نیویورک ازدواج کردند. جزئیات جذابی از این عروسی، شامل لباس دیور، حضور آدام سندلر و ساقدوش افتخاری، منتشر شده است.",
+      "category": "society",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 17:51:04 GMT",
+      "time": "۲۱:۲۱ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T16:18:50.325Z"
+    },
+    {
+      "id": "rt_8",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Why Eastern Europe celebrates the 4th of July more than America does",
+      "title_fa": "چرا اروپای شرقی چهارم ژوئیه را بیشتر از آمریکا جشن می‌گیرد",
+      "lead": "این مقاله به تحلیل دلایل جشن گرفتن گسترده‌تر چهارم ژوئیه در اروپای شرقی نسبت به خود آمریکا می‌پردازد. از پراگ تا بخارست، کاخ‌های چراغانی شده و آیین‌های نخبگان، وفاداری، عدم امنیت و تلاشی پرهزینه برای جلب نظر واشنگتن را نشان می‌دهد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642577-us-4july-eastern-europe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sat, 04 Jul 2026 13:57:27 +0000",
+      "time": "۱۷:۲۷ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T16:18:50.325Z"
+    },
+    {
+      "id": "nytimes_9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Britain, July 4 Is Mostly Just a Saturday",
+      "title_fa": "در بریتانیا، چهارم ژوئیه عمدتاً فقط یک شنبه عادی است",
+      "lead": "روز استقلال آمریکا اهمیت چندانی در اذهان عمومی بریتانیا ندارد و برای آن‌ها عمدتاً به معنای یک شنبه عادی است. با این حال، برخی نهادهای فرهنگی به این روز اشاره کردند و پادشاه چارلز سوم نیز بیانیه‌ای صادر کرد.",
+      "category": "society",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/04/world/europe/uk-july-fourth-us-independence.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 13:40:15 +0000",
+      "time": "۱۷:۱۰ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T16:18:50.325Z"
+    },
+    {
+      "id": "bbc_10",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
+      "title_fa": "«گرم‌تر و گرم‌تر و گرم‌تر» - اقلیم جدید اروپا در هفت نمودار",
+      "lead": "این گزارش اقلیم جدید اروپا را در هفت نمودار بررسی می‌کند، با اشاره به اینکه رکوردهای دمایی در ماه ژوئن شکسته شده‌اند. دانشمندان هشدار می‌دهند که این نشانه‌ای از اتفاقات آتی است و وضعیت اقلیمی قاره در حال تغییر است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 04 Jul 2026 00:57:05 GMT",
+      "time": "۰۴:۲۷ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T16:18:50.325Z"
+    },
     {
       "id": "reuters_0",
       "agencyId": "reuters",
@@ -925,7 +1139,7 @@
       "agencyId": "asriran",
       "keep": true,
       "title": "ساختار جدید صعود به لیگ برتر؛ پلی‌آف تیرماه سرنوشت‌ساز شد",
-      "title_fa": "تغییر ساختار صعود به لیگ برتر؛ پلی‌آف تیرماه سرنوشت‌ساز شد",
+      "title_fa": "تغی��ر ساختار صعود به لیگ برتر؛ پلی‌آف تیرماه سرنوشت‌ساز شد",
       "lead": "هیئت‌رئیسه فدراسیون فوتبال، ساختار جدید صعود به لیگ برتر را تصویب کرد که طی آن سرنوشت هجدهمین تیم در یک دیدار پلی‌آف مشخص می‌شود. این مسابقه حساس میان تیم شانزدهم لیگ برتر و تیم سوم لیگ یک، قرار است سی‌ویکم تیرماه برگزار شود.",
       "category": "society",
       "region": "iran",
@@ -4716,7 +4930,7 @@
       "id": "mashregh_4",
       "agencyId": "mashregh",
       "keep": true,
-      "title": "فیلم/ قول دبیر شورای عالی امنیت ملی به رهبر شهید",
+      "title": "فیلم/ قول دبیر شورای عالی امنیت ملی ب�� رهبر شهید",
       "title_fa": "فیلم/ قول دبیر شورای عالی امنیت ملی به رهبر شهید",
       "lead": "دبیر شورای عالی امنیت ملی اعلام کرد: «قول می‌دهیم عزتی را که ایشان برای ملت فراهم کردند، حفظ کنیم و برای فرزند ایشان، رهبر عزیزمان، سربازی کنیم.» این پیام در قالب یک فیلم منتشر شده است.",
       "category": "politics",
@@ -7137,7 +7351,7 @@
       "lead": "رویترز گزارش می‌دهد که ده‌ها هزار نفر از مردم ایران از روز شنبه در مصلای بزرگ تهران گرد هم آمدند. آنها برای تشییع پیکرهای رهبر شهید جمهوری اسلامی و اعضای خانواده‌اش، با شعارهای خونخواهی و همبستگی ملی در سایه مذاکرات صلح شرکت کردند.",
       "category": "politics",
       "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104901/روایت-رویترز-از-مراسم-تشییع-باشکوه-رهبر-شهید-ایران-خونخواهی-و-همبستگی-ملی-در-سایه-مذاکرات-صلح",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9104901/روایت-رویترز-از-مراسم-تشییع-باشکوه-رهبر-شهید-ایران-خونخواهی-و-همبستگی-ملی-در-سایه-مذاکرا��-صلح",
       "newsValues": {
         "timeliness": "high",
         "impact": "high",
@@ -7728,7 +7942,7 @@
       "keep": true,
       "title": "رژیم صهیونیستی استقرار گنبد آهنین در امارات را تأیید کرد",
       "title_fa": "رژیم صهیونیستی استقرار گنبد آهنین در امارات را تأیید کرد",
-      "lead": "یک وزیر صهیونیست تأیید کرده است که اسرائیل در طول جنگ، سامانه گنبد آهنین را به امارات ارسال کرده بود. این خبر از استقرار سامانه پدافند هوایی اسرائیل در امارات، پیامدهای منطقه‌ای مهمی دارد.",
+      "lead": "یک وزیر صهیونیست تأیید کرده است که اسرائیل در طول جنگ، سامانه گنبد آهنین را به ام��رات ارسال کرده بود. این خبر از استقرار سامانه پدافند هوایی اسرائیل در امارات، پیامدهای منطقه‌ای مهمی دارد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.yjc.ir/fa/news/9104895/رژیم-صهیونیستی-استقرار-گنبد-آهنین-در-امارات-را-تأیید-کرد",
@@ -8658,7 +8872,7 @@
       "keep": true,
       "title": "Iran thanks foreign delegations for attending Leader funeral",
       "title_fa": "ایران از هیئت‌های خارجی برای شرکت در مراسم تشییع رهبر قدردانی کرد",
-      "lead": "ایران از مشارکت نمایندگانی از بیش از ۷۰ کشور در مراسم تشییع رهبر شهید انقلاب اسلامی، آیت‌الله سید علی خامنه‌ای قدردانی کرده است. این مراسم‌ها در تهران برگزار شد.",
+      "lead": "ایران از مشارکت نمایندگانی از بی�� از ۷۰ کشور در مراسم تشییع رهبر شهید انقلاب اسلامی، آیت‌الله سید علی خامنه‌ای قدردانی کرده است. این مراسم‌ها در تهران برگزار شد.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://en.mehrnews.com/news/245922/Iran-thanks-foreign-delegations-for-attending-Leader-funeral",
@@ -12030,7 +12244,7 @@
       "keep": true,
       "title": "Vingegaard takes yellow jersey as Tour de France begins in Barcelona",
       "title_fa": "وینگگارد با آغاز تور دو فرانس در بارسلون، پیراهن طلایی را از آن خود کرد",
-      "lead": "جوناس وینگگارد با ثبت سریع‌ترین زمان در مرحله اول تور دو فرانس در بارسلون، پیراهن طلایی را به دست آورد. این مرحله به صورت تایم تریل تیمی به مسافت ۱۹.۶ کیلومتر برگزار شد و وینگگارد به دنبال سومین عنوان قهرمانی خود است.",
+      "lead": "جوناس وینگگارد با ثبت سریع‌ترین زمان در مرحله اول تور دو فرانس در بارسلون، پیراهن طلایی را به دست آورد. این مرحله به صورت تایم تریل تیمی به مسافت ۱۹.۶ کیلومتر برگزار شد و وینگگارد به دنبال سومین عنوان قهرما��ی خود است.",
       "category": "sports",
       "region": "europe",
       "sourceUrl": "https://www.france24.com/en/vingegaard-takes-yellow-jersey-as-tour-de-france-begins-in-barcelona",
@@ -12650,7 +12864,7 @@
       "keep": true,
       "title": "Native Americans Resisting ICE",
       "title_fa": "مقاومت بومیان آمریکا در برابر اداره مهاجرت و گمرک (ICE)",
-      "lead": "یک وکیل بومی آمریکایی در حالی که مقاومت نسلی را به مبارزه‌ای برای عدالت در آمریکا تبدیل می‌کند، با اداره مهاجرت و گمرک (ICE) مقابله می‌کند. این گزارش به تلاش‌های او در برابر اقدامات این سازمان می‌پردازد.",
+      "lead": "یک وکیل بومی آمریکایی در حالی که مقاومت نسلی را ب�� مبارزه‌ای برای عدالت در آمریکا تبدیل می‌کند، با اداره مهاجرت و گمرک (ICE) مقابله می‌کند. این گزارش به تلاش‌های او در برابر اقدامات این سازمان می‌پردازد.",
       "category": "human rights",
       "region": "americas",
       "sourceUrl": "https://www.aljazeera.com/video/witness/2026/7/5/native-americans-resisting-ice?traffic_source=rss",
@@ -12960,7 +13174,7 @@
       "keep": true,
       "title": "Iran bids farewell to late supreme leader (PHOTOS, VIDEOS)",
       "title_fa": "ایران با رهبر عالی فقید خود وداع می‌کند (عکس، ویدئو)",
-      "lead": "ایران پس از ترور آیت‌الله علی خامنه‌ای، رهبر عالی فقید خود در حملات هوایی آمریکا و اسرائیل، مراسم تشییع جنازه دولتی یک هفته‌ای را آغاز کرده است. این مراسم بزرگداشت با حضور گسترده مردم برگزار می‌شود.",
+      "lead": "ایران پس از ترور آیت‌الله علی خامنه��ای، رهبر عالی فقید خود در حملات هوایی آمریکا و اسرائیل، مراسم تشییع جنازه دولتی یک هفته‌ای را آغاز کرده است. این مراسم بزرگداشت با حضور گسترده مردم برگزار می‌شود.",
       "category": "military",
       "region": "middleeast",
       "sourceUrl": "https://www.rt.com/news/642540-iran-ayatollah-ali-khamenei-funeral/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
@@ -13914,7 +14128,7 @@
       "keep": true,
       "title": "تعطیلی مراکز شماره‌گذاری و تعویض پلاک خودرو در یکشنبه ۱۴ تیر/ انتقال نوبت‌ها به چهارشنبه",
       "title_fa": "تعطیلی مراکز شماره‌گذاری و تعویض پلاک خودرو در یکشنبه ۱۴ تیر و انتقال نوبت‌ها به چهارشنبه",
-      "lead": "رئیس شماره‌گذاری پلیس راهور فراجا، از تعطیلی تمامی مراکز شماره‌گذاری و تعویض پلاک کشور در روز یکشنبه ۱۴ تیرماه خبر داد. نوبت‌های اینترنتی ثبت‌شده برای این روز، بدون نیاز به ثبت‌نام مجدد یا پرداخت هزینه، به‌صورت خودکار به روز چهارشنبه منتقل می‌شوند.",
+      "lead": "رئیس شما��ه‌گذاری پلیس راهور فراجا، از تعطیلی تمامی مراکز شماره‌گذاری و تعویض پلاک کشور در روز یکشنبه ۱۴ تیرماه خبر داد. نوبت‌های اینترنتی ثبت‌شده برای این روز، بدون نیاز به ثبت‌نام مجدد یا پرداخت هزینه، به‌صورت خودکار به روز چهارشنبه منتقل می‌شوند.",
       "category": "society",
       "region": "iran",
       "sourceUrl": "https://www.irna.ir/news/86201094/%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%DB%8C-%D9%85%D8%B1%D8%A7%DA%A9%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D9%88-%D8%AA%D8%B9%D9%88%DB%8C%D8%B6-%D9%BE%D9%84%D8%A7%DA%A9-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AF%D8%B1-%DB%8C%DA%A9%D8%B4%D9%86%D8%A8%D9%87-%DB%B1%DB%B4-%D8%AA%DB%8C%D8%B1",
@@ -15046,7 +15260,7 @@
       "keep": true,
       "title": "زلنسکی: چشم‌انداز واقعی برای پایان جنگ با روسیه وجود دارد",
       "title_fa": "زلنسکی: چشم‌انداز واقعی برای پایان جنگ با روسیه وجود دارد",
-      "lead": "ولودیمیر زلنسکی، رئیس جمهور اوکراین، اظهار داشت که چشم‌انداز واقعی برای پایان جنگ با روسیه دیده می‌شود. او افزود که عزم و اراده ایالات متحده آمریکا در این راستا نقش تعیین‌کننده‌ای خواهد داشت.",
+      "lead": "ولودیمیر زلنسکی، رئیس جمهور اوکراین، اظهار داشت که چشم‌انداز واقعی برای پایان جنگ با روسیه دیده می‌شود. او افزود که عزم و اراده ایالات متحده آم��یکا در این راستا نقش تعیین‌کننده‌ای خواهد داشت.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.irna.ir/news/86201103/%D8%B2%D9%84%D9%86%D8%B3%DA%A9%DB%8C-%DA%86%D8%B4%D9%85-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-%D8%A8%D8%A7-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%88%D8%AC%D9%88%D8%AF-%D8%AF%D8%A7%D8%B1%D8%AF",
@@ -16158,7 +16372,7 @@
       "keep": true,
       "title": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
       "title_fa": "پل پلوسی در کالیفرنیا درگیر حادثه «فرار از صحنه تصادف» شد؛ خودرو آسیب جدی دید",
-      "lead": "مقامات در کالیفرنیا اعلام کردند که همسر نانسی پلوسی، رئیس سابق مجلس نمایندگان آمریکا، در یک حادثه \"فرار از صحنه تصادف\" درگیر شده است. خودروی او آسیب جدی دیده و پلوسی ممکن است با اتهامات جزئی روبرو شود.",
+      "lead": "مقامات در کالیفرنیا اعلا�� کردند که همسر نانسی پلوسی، رئیس سابق مجلس نمایندگان آمریکا، در یک حادثه \"فرار از صحنه تصادف\" درگیر شده است. خودروی او آسیب جدی دیده و پلوسی ممکن است با اتهامات جزئی روبرو شود.",
       "category": "politics",
       "region": "us",
       "sourceUrl": "https://www.independent.co.uk/news/nancy-pelosi-california-los-angeles-department-of-motor-vehicles-san-francisco-b3009068.html",
@@ -16439,7 +16653,7 @@
       "agencyId": "isna",
       "keep": true,
       "title": "آمار فرسایش خاک در لرستان نگران کننده است",
-      "title_fa": "آمار فرسایش خاک در لرستان نگران کننده است",
+      "title_fa": "آمار فرسایش خاک در لرستا�� نگران کننده است",
       "lead": "مدیرکل منابع طبیعی و آبخیزداری لرستان اعلام کرد که میانگین فرسایش خاک در این استان ۲۵ تن در هکتار است. این آمار در مقایسه با میانگین کشوری ۱۶ تن در هکتار، بسیار نگران‌کننده تلقی می‌شود.",
       "category": "environment",
       "region": "global",
@@ -16723,7 +16937,7 @@
       "agencyId": "khabaronline",
       "keep": true,
       "title": "وداع آیت‌الله موحدی کرمانی با پیکر رهبر شهید انقلاب",
-      "title_fa": "وداع آیت‌الله موحدی کرمانی با پیکر رهبر شهید انقلاب",
+      "title_fa": "ود��ع آیت‌الله موحدی کرمانی با پیکر رهبر شهید انقلاب",
       "lead": "در آیین وداع با پیکر رهبر شهید انقلاب، آیت‌الله موحدی کرمانی، رئیس مجلس خبرگان رهبری، حضور یافت. این مراسم نشان‌دهنده ادای احترا�� مقا��ات ارشد کشور به رهبر فقید بود.",
       "category": "politics",
       "region": "iran",
@@ -18813,7 +19027,7 @@
         "negative": 80
       },
       "pubDate": "Sat, 04 Jul 2026 20:06:59 GMT",
-      "time": "۲۳:۳۶ - ۱۳ تیر",
+      "time": "۲۳:۳۶ - ۱۳ ��یر",
       "analyzed_at": "2026-07-04T20:29:27.462Z"
     },
     {
@@ -19370,7 +19584,7 @@
       "id": "yjc_10",
       "agencyId": "yjc",
       "keep": true,
-      "title": "دعوت از ملت بزرگ ایران برای حضور در مراسم اقامه نماز بر پیکر مطهر قائد شهید امت",
+      "title": "دعوت از ملت بز��گ ایران برای حضور در مراسم اقامه نماز بر پیکر مطهر قائد شهید امت",
       "title_fa": "دعوت از ملت ایران برای حضور در مراسم اقامه نماز بر پیکر رهبر شهید",
       "lead": "شورای هماهنگی تبلیغات اسلامی در اطلاعیه‌ای از عموم مردم ایران برای حضوری باشکوه و تاریخ‌ساز در مراسم اقامه نماز بر پیکر مطهر رهبر شهید دعوت کرد. این دعوت برای گرامیداشت و وداع با قائد شهید امت صورت گرفته است.",
       "category": "politics",
@@ -20180,7 +20394,7 @@
       "keep": true,
       "title": "توقف مسافرگیری در ایستگاه مترو مصلی تهران",
       "title_fa": "توقف مسافرگیری در ایستگاه مترو مصلی تهران",
-      "lead": "مسافرگیری در ایستگاه مترو مصلی تهران به دلیل ازدحام بی‌سابقه جمعیت برای مراسم وداع با رهبر شهید انقلاب متوقف شد. مسئولان مترو از مردم خواستند از ایستگاه‌های جایگزین برای رسیدن به محل مراسم استفاده کنند.",
+      "lead": "مسافرگیری در ایستگاه مترو مصلی تهران به دلیل ازدحام بی‌سابقه جمعیت برای مراسم وداع با رهبر شهید انقلاب متوقف شد. مسئولان م��رو از مردم خواستند از ایستگاه‌های جایگزین برای رسیدن به محل مراسم استفاده کنند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1175145/توقف-مسافرگیری-در-ایستگاه-مترو-مصلی-��هران",
@@ -20466,7 +20680,7 @@
       "keep": true,
       "title": "استاندار لرستان: شهادت رهبر انقلاب غمی عمیق و ماند��ار است",
       "title_fa": "استاندار لرستان: شهادت رهبر انقلاب غمی عمیق و ماندگار است",
-      "lead": "استاندار لرستان شهادت رهبر معظم انقلاب اسلامی را داغی سنگین و غمی عمیق و ماندگار توصیف کر��. وی این شهادت را به \"دشمن صهیونیستی آمریکایی\" نسبت داد.",
+      "lead": "استاندار لرستان شهادت رهبر معظم انقلاب اسلامی را داغی سنگین و غمی عمیق و ماندگار توصیف کر��. وی ��ین شهادت را به \"دشمن صهیونیستی آمریکایی\" نسبت داد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.irna.ir/news/86201043/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%D8%B1%D9%87%D8%A8%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%BA%D9%85%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D9%88-%D9%85%D8%A7%D9%86%D8%AF%DA%AF%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA",
@@ -20750,7 +20964,7 @@
       "keep": true,
       "title": "Jamie George admits indiscipline cost England in loss to South Africa",
       "title_fa": "جیمی جورج اذعان کرد ��ه بی‌انضباطی باعث شکست انگلیس مقابل آفریقای جنوبی شد",
-      "lead": "جیمی جورج، کاپیتان تیم راگبی انگلیس، اعتراف کرد که بی‌انضباطی بازیکنان عامل اصلی شکست تیمش مقابل آفریقای جنوبی بود. تیم استیو بورث‌ویک در بازی افتتاحیه قهرمانی ملت‌ها در ژوهانسبورگ مغلوب شد.",
+      "lead": "جیمی جورج، کاپیتان تیم راگبی انگلیس، اعتراف کرد که بی‌انضباطی بازیکنان عامل اصلی شکست تیم�� مقابل آفریقای جنوبی بود. تیم استیو بورث‌ویک در بازی افتتاحیه قهرمانی ملت‌ها در ژوهانسبورگ مغلوب شد.",
       "category": "sport",
       "region": "global",
       "sourceUrl": "https://www.independent.co.uk/sport/rugby/rugby-union/jamie-george-south-africa-england-johannesburg-george-furbank-b3009038.html",
@@ -24103,852 +24317,6 @@
       "pubDate": "Sat, 04 Jul 2026 14:25:00 GMT",
       "time": "۱۷:۵۵ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T16:19:07.729Z"
-    },
-    {
-      "id": "irna_0",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "یک دانشجوی نیجریه‌ای: ما را از پدرمان جدا کردند+فیلم",
-      "title_fa": "یک دانشجوی نیجریه‌ای: ما را از پدرمان جدا کردند",
-      "lead": "دانشجوی اهل کشور نیجریه که در ایران درس می‌خواند، در مراسم وداع با رهبر شهید انقلاب و اعضای خانواده ایشان سخنرانی کرد. وی سید ��لی خامنه‌ای را پدر مظلومان خواند و گفت: ما را از پدر جدا کردند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.irna.ir/news/86200485/%DB%8C%DA%A9-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C-%D9%86%DB%8C%D8%AC%D8%B1%DB%8C%D9%87-%D8%A7%DB%8C-%D9%85%D8%A7-%D8%B1%D8%A7-%D8%A7%D8%B2-%D9%BE%D8%AF%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D8%AF%D8%A7-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Sat, 04 Jul 2026 15:00:00 GMT",
-      "time": "۱۸:۳۰ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "yjc_1",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "ای دنیا می‌بینی! آقام از دستم رفت + فیلم",
-      "title_fa": "��ی دنیا می‌بینی! آقام از دستم رفت",
-      "lead": "در مراسم وداع مردم عزادار با «آقای ��هید ایران» در مصلی امام خمینی (ره) ��هران، لحظاتی از نوحه‌خوانی حاج محمدحسین پویانفر به تصویر کشیده شد. این مراسم نشان‌دهنده ابراز غم و اندوه مردم است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104706/ای-دنیا-می‌بینی-آقام-از-دستم-رفت-فیلم",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "04 Jul 2026 19:03:17 +0330",
-      "time": "۱۹:۰۳ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "mashregh_2",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "دانشجوی نیجریه‌ای: ما را از پدرمان جدا کردند +فیلم",
-      "title_fa": "دانشجوی نیجریه‌ای: ما را از پدرمان جدا کردند",
-      "lead": "دانشجوی اهل کشور نیجریه که در ایران تحصیل می‌کند، در مراسم وداع پیکر مطهر رهبر شهید انقلاب و اعضای خانواده ایشان سخنانی احساسی بیان کرد. او گفت: سید علی خامنه‌ای، پدر م��لومان بود و ما را از پدر جدا کردند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823252/%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C-%D9%86%DB%8C%D8%AC%D8%B1%DB%8C%D9%87-%D8%A7%DB%8C-%D9%85%D8%A7-%D8%B1%D8%A7-%D8%A7%D8%B2-%D9%BE%D8%AF%D8%B1%D9%85%D8%A7%D9%86-%D8%AC%D8%AF%D8%A7-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF-%D9%81%DB%8C%D9%84%D9%85",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Sat, 04 Jul 2026 15:18:00 GMT",
-      "time": "۱۸:۴۸ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "yjc_3",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "العربیه: دور جدید مذاکرات آتش‌بس ایران هفته آینده برگزار می‌شود",
-      "title_fa": "العربیه: دور جدید مذاکرات آتش‌بس ایران هفته آینده برگزار می‌شود",
-      "lead": "شبکه العربیه گزارش داد که منابع آگ��ه خبر می‌دهند دور بعدی مذاکرات بین مقامات ایرانی و آمریکای�� شنبه ��فته آینده در پاکستان آغاز خواهد شد. این مذاکرات در راستای دستیابی به آتش‌بس صورت می‌گیرد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104689/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%DB%8C%D9%87-%D8%AF%D9%88%D8%B1-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D8%A2%D8%AA%D8%B4%E2%80%8C%D8%A8%D8%B3-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%87%D9%81%D8%AA%D9%87-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D9%85%DB%8C%E2%80%8C%D8%B4%D9%88%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "isna_4",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "سرپرست وزارت دفاع: هرگونه نقض تعهدات، با پاسخ لازم و قاطع ایران مواجه می‌شود",
-      "title_fa": "سرپرست وزارت دفاع: هرگونه ��قض تعهدات، با پاسخ لازم و قاطع ایران مواجه می‌شود",
-      "lead": "سرپرست وزارت دفاع و پشتیبانی نیروهای مس��ح تاکید کرد که جمهوری اسلامی ایران با وجو�� بی‌اعتمادی به آمریکا، به درخواست کشورهای دوست منطقه تفاهم‌نامه آتش‌بس را امضا کرده است. او هشدار داد که در صورت هرگونه نقض ت��هدات، ایران پاسخی قاطع و لازم خواهد داد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405041308083/%D8%B3%D8%B1%D9%BE%D8%B1%D8%B3%D8%AA-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%AF%D9%81%D8%A7%D8%B9-%D9%87%D8%B1%DA%AF%D9%88%D9%86%D9%87-%D9%86%D9%82%D8%B6-%D8%AA%D8%B9%D9%87%D8%AF%D8%A7%D8%AA-%D8%A8%D8%A7-%D9%BE%D8%A7%D8%B3%D8%AE-%D9%84%D8%A7%D8%B2%D9%85-%D9%88-%D9%82%D8%A7%D8%B7%D8%B9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 40,
-        "negative": 60
-      },
-      "pubDate": "Sat, 04 Jul 2026 15:43:58 GMT",
-      "time": "۱۹:۱۳ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "khabaronline_5",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "سرلشکر ��حیم صفوی: آنچه باقی خواهد ماند، ایران است و آنچ�� از بین خواهد رفت، رژیم صهیونیستی است/ در جنگ ۴۰ روزه چند فرمانده و مسئول شهید شدند؟",
-      "title_fa": "سرلشکر رحیم صفوی: ایران باقی خوا��د ماند و رژیم صهیونیستی از بین خواهد رفت",
-      "lead": "دستیار و مشاور عا��ی فرمانده معظم کل قوا، سرلشکر رحیم صفوی، ضمن قدردانی از حضور پرشور مردم در مراسم وداع با رهبر شهید، اظهار داشت: مردم سنگ تمام گذاشتند و امیدواریم مسئولان نیز در حل مشکلات مردم سنگ تمام بگذارند. وی در ادامه تاکید کرد که آنچه باقی خواهد ماند، ای��ان است و رژیم صهیونیستی از بین خواهد رفت.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2242036/%D8%B3%D8%B1%D9%84%D8%B4%DA%A9%D8%B1-%D8%B1%D8%AD%DB%8C%D9%85-%D8%B5%D9%81%D9%88%DB%8C-%D8%A2%D9%86%DA%86%D9%87-%D8%A8%D8%A7%D9%82%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%D8%AF-%D9%85%D8%A7%D9%86%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA-%D9%88-%D8%A2%D9%86%DA%86%D9%87-%D8%A7%D8%B2-%D8%A8%DB%8C%D9%86",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 30,
-        "negative": 40
-      },
-      "pubDate": "Sat, 04 Jul 2026 15:39:53 GMT",
-      "time": "۱۹:۰۹ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "mashregh_6",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "دیپلماس�� ایدئولوژی",
-      "title_fa": "دیپلماسی ایدئولوژی",
-      "lead": "در مراسم وداع ��ا رهبر شهید انقل��ب، مقامات سیاسی کشورهای مختلف برای ادای احترام به مصلای تهران آمدند. در این مراسم، نه تنها پیکر یک مقام عال��‌رتبه سیاسی، بلکه چهارچوبی روشن از یک ایدئولوژی برحق به نمایش گذاشته شد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823255/%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%8C-%D8%A7%DB%8C%D8%AF%D8%A6%D9%88%D9%84%D9%88%DA%98%DB%8C",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 40,
-        "neutral": 60,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 15:33:37 GMT",
-      "time": "۱۹:۰۳ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "yjc_7",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "مصلی تهران تا فردا ساعت ۲۰ میزبان زائران است",
-      "title_fa": "مصلی تهران تا فردا ساعت ۲۰ میزبان زائران است",
-      "lead": "رئیس مرکز ارتباطات و امور بین‌الملل شهرداری تهران اعلام کرد که مصلی امام خمینی (ره) تا فردا ساعت ۲۰ به صورت یکسره میزبان زائران خواهد بود. این خبر در راستای اطلاع‌رسانی برای مراسم وداع با رهبر شهید منتشر شده است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104717/%D9%85%D8%B5%D9%84%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D9%81%D8%B1%D8%AF%D8%A7-%D8%B3%D8%A7%D8%B9%D8%AA-%DB%B2%DB%B0-%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86-%D8%B2%D8%A7%D8%A6%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "yjc_8",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "حال و هوای مسیر طریق‌المهدی در آستانه بدرقه نایب‌المهدی؛ آماده‌سازی شبانه‌روزی برای تشییع پرشکوه",
-      "title_fa": "آماده‌سازی شبانه‌روزی مسیر طریق‌المهدی قم برای تشییع رهبر شهید",
-      "lead": "مسیر «طریق‌المهدی» در بلوار پیامبر اعظم قم به همت گروه‌های جهادی و نیرو‌های مردمی در حال آماده‌سازی شبانه‌روزی است. این مسیر آماده میزبانی از خیل عظیم بدرقه‌کنندگان «آقای شهید ایران» است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104713/%D8%AD%D8%A7%D9%84-%D9%88-%D9%87%D9%88%D8%A7%DB%8C-%D9%85%D8%B3%DB%8C%D8%B1-%D8%B7%D8%B1%DB%8C%D9%82%E2%80%8C%D8%A7%D9%84%D9%85%D9%87%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%A8%D8%AF%D8%B1%D9%82%D9%87-%D9%86%D8%A7%DB%8C%D8%A8%E2%80%8C%D8%A7%D9%84%D9%85%D9%87%D8%AF%DB%8C-%D8%A2%D9%85%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%A8%D8%A7%D9%86%D9%87%E2%80%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D8%B4%DB%8C%DB%8C%D8%B9-%D9%BE%D8%B1%D8%B4%DA%A9%D9%88%D9%87",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 60,
-        "negative": 40
-      },
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "yjc_9",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "آخرین دیدار/ ما سینه زدیم بی صدا باریدند",
-      "title_fa": "آخرین دیدار: ماتم و اندوه وداع با رهبر شهید",
-      "lead": "این رو��ها در هر گوشه از گیلان ماتم و اندوه وداع با رهبر شهید احساس می‌شود. او عمر خود را برای حفظ عزت و شرف ایران اسلامی و مجاهدت در راه صیانت از ارزش‌های اسلامی سپری کرد و مظلومانه به شهادت رسید.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104704/%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D9%85%D8%A7-%D8%B3%DB%8C%D9%86%D9%87-%D8%B2%D8%AF%DB%8C%D9%85-%D8%A8%DB%8C-%D8%B5%D8%AF%D8%A7-%D8%A8%D8%A7%D8%B1%DB%8C%D8%AF%D9%86%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "isna_10",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "حضور کم سابقه ۲۰ رسانه روسی برای پوشش خبری تشییع پیکر رهبر شهید ایران",
-      "title_fa": "حضور بی‌سابقه ۲۰ رسانه روسی برای پوشش تشییع ��هبر شهید ایران",
-      "lead": "بیش از بیست خبرنگار و عوامل فنی از معتبرترین و مشهورترین رسانه���های روسیه با حضور گسترده در محل برگزاری مراسم، پو��ش خبری وداع و تشییع پیکر رهبر شهید ر�� آغاز کردند. این حضور گسترده نشان‌دهنده اهمیت بین‌المللی این رویداد است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.isna.ir/news/1405041308072/%D8%AD%D8%B6%D9%88%D8%B1-%DA%A9%D9%85-%D8%B3%D8%A7%D8%A8%D9%82%D9%87-20-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D8%B1%D9%88%D8%B3%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D9%88%D8%B4%D8%B4-%D8%AE%D8%A8%D8%B1%DB%8C-%D8%AA%D8%B4%DB%8C%DB%8C%D8%B9-%D9%BE%DB%8C%DA%A9%D8%B1-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 15:12:58 GMT",
-      "time": "۱۸:��۲ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "yjc_11",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "دریادار سیاری: مردم با حضو�� میلیونی خود در مراسم وداع با ��هبر شهید حماسه آفریدند",
-      "title_fa": "دریادار سیاری: حضور میلیونی مردم در وداع با رهبر شهید حماسه آفرید",
-      "lead": "معاون هماهنگ کننده ارتش، دریادار سیاری، گفت که ��مروز روز وداع با رهبر شهید است. او افزود: شاهد حجم گسترده و میلیونی ملت قهرمان و ولایتمدار ایران هستیم که حماسه آفریدند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104711/%D8%AF%D8%B1%DB%8C%D8%A7%D8%AF%D8%A7%D8%B1-%D8%B3%DB%8C%D8%A7%D8%B1%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%A8%D8%A7-%D8%AD%D8%B6%D9%88%D8%B1-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86%DB%8C-%D8%AE%D9%88%D8%AF-%D8%AF%D8%B1-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D9%88%D8%AF%D8%A7%D8%B9-%D8%A8%D8%A7-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%AD%D9%85%D8%A7%D8%B3%D9%87-%D8%A2%D9%81%D8%B1%DB%8C%D8%AF%D9%86%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 30,
-        "neutral": 20,
-        "negative": 50
-      },
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "yjc_12",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "پایان گروگان‌گیری در هرمزگان با آزادی ۲ نوجوا�� از دست آدم‌ربایان",
-      "title_fa": "پایان گروگان‌گیری در هرمزگان؛ آزادی ۲ نوجوان",
-      "lead": "رئیس پلیس آگاهی هرمزگان از انهدام یک باند گروگان‌گیری و رهایی دو نوجوان در عملیاتی منسجم و ضربتی خبر داد. این اقدام پلیس منجر به آزادی گروگان‌ها و دستگیری آدم‌ربایان شد.",
-      "category": "society",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104710/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%DA%AF%D8%B1%D9%88%DA%AF%D8%A7%D9%86%E2%80%8C%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%DB%B2-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86-%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA-%D8%A2%D8%AF%D9%85%E2%80%8C%D8%B1%D8%A8%D8%A7%DB%8C%D8%A7%D9%86",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "independent_14",
-      "agencyId": "independent",
-      "keep": true,
-      "title": "Wales put more off-field woe to one side with morale-boosting win over Fiji",
-      "title_fa": "ولز با پیروزی روحیه‌بخش بر فیجی، مشکلات خارج از زمین را کنار گذاشت",
-      "lead": "ولز در کاردیف با نتیجه ۳۹-۲۴ مقابل فیجی به پیروزی رسید و نمایش چشمگیر دیگری از خود نشان داد. جک مورگان در این دیدار دو بار گلزنی کرد و مشکلات خارج از زمین تیم را موقتاً به فراموشی سپرد.",
-      "category": "sports",
-      "region": "global",
-      "sourceUrl": "https://www.independent.co.uk/sport/rugby/rugby-union/fiji-wales-result-score-tries-nations-championship-jac-morgan-b3008967.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "low",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 80,
-        "neutral": 20,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 15:24:39 GMT",
-      "time": "۱۸:۵۴ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "khabaronline_0",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "ببینید| بنی‌اسرائیل ماهیت فرامین الهی را به نفع خود تغییر می‌دادند",
-      "title_fa": "بنی‌اسرائیل ماهیت فرامین الهی را به نفع خود تغییر می‌دادند",
-      "lead": "صفحه دهم قرآن کریم مشتمل بر آیات ۶۲ تا ۶۹ سوره بقره است. این آیات به کسانی که ایمان آورده‌اند، فارغ از دین و مذهبشان، خطاب می‌کند و درباره تغیی�� فرامین الهی توسط بنی‌اسرائیل بحث می‌کند.",
-      "category": "religion",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2241705/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D8%A8%D9%86%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%85%D8%A7%D9%87%DB%8C%D8%AA-%D9%81%D8%B1%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D9%84%D9%87%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%86%D9%81%D8%B9-%D8%AE%D9%88%D8%AF-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%DB%8C-%D8%AF%D8%A7%D8%AF%D9%89%D8%AF",
-      "newsValues": {
-        "timeliness": "low",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "yjc_1",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "۷ فایده علمی اثبات‌شده برای سلامتی با یک فنجان قهوه روزانه",
-      "title_fa": "۷ فایده علمی اثبات‌شده برای سلامتی با یک فنجان قهوه روزانه",
-      "lead": "میلیون‌ها نفر در سراسر جهان روز خود را با یک فنجان قهوه آغاز می‌کنند تا انرژی بگیرند. اما بسیاری از آنها از فواید فوق‌العاده این نوشیدنی روزانه برای سلامتی بی‌اطلاع هستند.",
-      "category": "health",
-      "region": "global",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104673/۷-فایده-علمی-اثبات‌شده-برای-سلامتی-با-یک-فنجان-قهوه-روزانه",
-      "newsValues": {
-        "timeliness": "low",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 100,
-        "neutral": 0,
-        "negative": 0
-      },
-      "pubDate": "04 Jul 2026 18:51:39 +0330",
-      "time": "۱۸:۵۱ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "isna_2",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "آمادگی دانشگاه علامه برای اسکان ۶ هزار زائر مراسم تشییع رهبر شهید",
-      "title_fa": "آمادگی دانشگاه علامه برای اسکان ۶ هزار زائر مراسم تشییع رهبر شهید",
-      "lead": "دانشگاه علامه طباطبائی اعلام کرد که برای اسکان ۶ هزار زائر مراسم تشییع رهبر شهید آمادگی دارد. این دانشگاه در حال حاضر ظرفیت اسکان بیش از ۲ هزار مهمان را داراست و برنامه‌ریزی برای افزایش آن تا ۶ هزار نفر انجام شده است.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405041308075/%D8%A2%D9%85%D8%A7%D8%AF%DA%AF%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D8%B9%D9%84%D9%85%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%DA%A9%D8%A7%D9%86-%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%AA%D8%B4%DB%8C%DB%8C%D8%B9-%D8%B1%D9%87%D8%A8%D8%B1",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "khabaronline_3",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "بن‌گویر از ترس بازداشت سفرش به نیویورک را لغو کرد",
-      "title_fa": "بن‌گویر از ترس بازداشت، سفر خود به نیویورک را لغو کرد",
-      "lead": "وزیر امنیت داخلی رژیم صهیونیست�� به دلیل نگرانی از احتمال بازداشت در آمریکا، سفر از پیش ب��نامه‌ریزی شده خود به نیویورک را لغو کرد. این اقدام نشان‌دهنده تنش‌ها و چالش‌های حقوقی احتمالی برای مقامات اسرائیلی است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2242040/%D8%A8%D9%86-%DA%AF%D9%88%DB%8C%D8%B1-%D8%A7%D8%B2-%D8%AA%D8%B1%D8%B3-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D8%B3%D9%81%D8%B1%D8%B4-%D8%A8%D9%87-%D9%86%DB%8C%D9%88%DB%8C%D9%88%D8%B1%DA%A9-%D8%B1%D8%A7-%D9%84%D8%BA%D9%88-%DA%A9%D8%B1%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Sat, 04 Jul 2026 15:18:45 GMT",
-      "time": "۱۸:۴۸ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "yjc_6",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "آب شبكه آبرسانی شهر قم در ایام منتهی به تشییع امام شهید شیرین می‌شود",
-      "title_fa": "کیف��ت آب شرب قم برای مراسم تشییع امام شهید افزایش می‌یابد",
-      "lead": "مدیرعامل شرکت آب و فاضلاب استان قم از افزایش ورودی آب شهر قم از سد ک��چری خبر داد. این اقدام به منظور افزای�� کیفیت آب شرب شهر در ایام منتهی به مراسم تشییع امام شهید در قم انجام می‌شود.",
-      "category": "society",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104708/آب-شبكه-آبرسانی-شهر-قم-در-ایام-منتهی-به-تشییع-امام-شهید-شیرین-می‌شود",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 100,
-        "neutral": 0,
-        "negative": 0
-      },
-      "pubDate": "04 Jul 2026 18:40:57 +0330",
-      "time": "۱۸:۴۰ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "isna_8",
-      "agencyId": "isna",
-      "keep": true,
-      "title": "برپایی «خیمه هنر» در سوگ رهبر شهید در قم",
-      "title_fa": "برپایی «خیمه هنر» د�� قم به مناسبت سوگ رهبر شهید",
-      "lead": "مدیر «قرارگاه مردمی هنرمندان» از برنامه‌ریزی برای برپایی «خیمه هنر» در قم خبر داد. این فعالی�� فرهنگی همزمان با ایام تشییع پیکر م��هر رهبر شهید انقلاب برگزار می‌شود و هدف آن نهادینه‌سازی فعالیت‌های فرهنگی است.",
-      "category": "culture",
-      "region": "iran",
-      "sourceUrl": "https://www.isna.ir/news/1405041308067/%D8%A8%D8%B1%D9%BE%D8%A7%DB%8C%DB%8C-%D8%AE%DB%8C%D9%85%D9%87-%D9%87%D9%86%D8%B1-%D8%AF%D8%B1-%D8%B3%D9%88%DA%AF-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%AF%D8%B1-%D9%82%D9%85",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 15:02:21 GMT",
-      "time": "۱۸:۳۲ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "yjc_10",
-      "agencyId": "yjc",
-      "keep": true,
-      "title": "بازدید میدانی معاون اول رئیس‌جمهور از مراکز اسکان و درمان زائران مراسم تشییع رهبر شهید",
-      "title_fa": "بازدید میدانی معاون اول رئیس‌جمهور از مراکز خدمات‌رسانی به زائران رهبر شهید",
-      "lead": "معاون اول رئیس‌جمهور از مراکز اسکان و درمان زائران مراسم تشییع رهبر شهید بازدید میدانی کرد. او در این بازدید روند خدمات‌رسانی را بررسی و بر ارتقای خدمات رفاهی و درمانی تأکید کرد.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://www.yjc.ir/fa/news/9104709/بازدید-میدانی-معاون-اول-رئیس‌جمهور-از-مراکز-اسکان-و-درمان-زائران-مراسم-تشییع-رهبر-شهید",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "04 Jul 2026 18:30:28 +0330",
-      "time": "۱۸:۳۰ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "irna_12",
-      "agencyId": "irna",
-      "keep": true,
-      "title": "کرمانشاه در طرح مسکن استیجاری زوج‌های جوان جزو استان‌های اولویت‌دار است",
-      "title_fa": "کرم��نشاه، استان اولویت‌دار در طرح مسکن استیجاری زوج‌های جوان",
-      "lead": "مدیرکل راه و شهرسازی استان کرمانشاه اعلام کرد که این استان در طرح ملی مسکن استیجاری ویژه زوج‌های جوان موسوم به «آشیانه» جزو استان‌های اولویت‌دار است. این طرح توسط وزارت راه و شهرسازی آغاز شده و کرمانشاه در زمره استان‌های مهم برای اجرای آن قرار گرفته است.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://www.irna.ir/news/86199491/%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%AF%D8%B1-%D8%B7%D8%B1%D8%AD-%D9%85%D8%B3%DA%A9%D9%86-%D8%A7%D8%B3%D8%AA%DB%8C%D8%AC%D8%A7%D8%B1%DB%8C-%D8%B2%D9%88%D8%AC-%D9%87%D8%A7%DB%8C-%D8%AC%D9%88%D8%A7%D9%86-%D8%AC%D8%B2%D9%88-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%A7%D9%88%D9%84%D9%88%DB%8C%D8%AA-%D8%AF%D8%A7%D8%B1",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 100,
-        "neutral": 0,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 14:52:06 GMT",
-      "time": "۱۸:۲۲ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "mashregh_13",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "عکس/ دیدار رئیس و شورای رهبری حماس  با سید عباس عراقچی",
-      "title_fa": "دیدار رئیس و شورای رهبری حماس با سید عباس عراقچی",
-      "lead": "رئیس و شورای رهبری حماس با سید عباس عراقچی، وزیر امور خارجه کشورمان دیدار کردند. این دیدار در راستای گفت‌وگوها و هماهنگی‌های بین طرفین برگزار شد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823245/%D8%B9%DA%A9%D8%B3-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%B1%D8%A6%DB%8C%D8%B3-%D9%88-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%B1%D9%87%D8%A8%D8%B1%DB%8C-%D8%AD%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%AF-%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Sat, 04 Jul 2026 14:45:00 GMT",
-      "time": "۱۸:۱۵ - ۱۳ تیر",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "mashregh_14",
-      "agencyId": "mashregh",
-      "keep": true,
-      "title": "شیخ عیسی قاسم: راه امام راحل و رهبر شهید با قدرت ادامه خ��اهد یافت",
-      "title_fa": "شیخ عیسی قاسم: راه امام راحل و رهبر شهید با قدرت ادامه می‌یابد",
-      "lead": "رهبر شیعیان بحرین، شیخ عیسی قاسم، تاکید کرد که راه امام خمینی(ره) و قائد شهید با قدرت ادامه خواهد یافت. این سخنان در پی رویدادهای اخیر و تاکید بر استمرار مسیر رهبران انقلاب اسلامی ایران بیان شده است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.mashreghnews.ir/news/1823241/%D8%B4%DB%8C%D8%AE-%D8%B9%DB%8C%D8%B3%DB%8C-%D9%82%D8%A7%D8%B3%D9%85-%D8%B1%D8%A7%D9%87-%D8%A7%D9%85%D8%A7%D9%85-%D8%B1%D8%A7%D8%AD%D9%84-%D9%88-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A8%D8%A7-%D9%82%D8%AF%D8%B1%D8%AA-%D8%A7%D8%AF%D9%85%D9%87-%D8%AE%D9%88%D8%A7%D9%87%D8%AF",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 100,
-        "neutral": 0,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "economist_0",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "The War Room newsletter: When war becomes a political aesthetic",
-      "title_fa": "خبرنامه «اتاق جنگ»: وقتی جنگ به یک زیبایی‌شناسی سیاسی تبدیل می‌شود",
-      "lead": "شاشانک جوشی، دبیر دفاعی اکونومیست، بررسی می‌کند که چرا درگیری «کشش عجیبی» دارد. او به چگونگی تبدیل جنگ به یک پدی��ه زیبایی‌شناسی سیاسی می‌پردازد.",
-      "category": "military",
-      "region": "global",
-      "sourceUrl": "https://www.economist.com/international/2026/06/08/the-war-room-newsletter-when-war-becomes-a-political-aesthetic",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Mon, 08 Jun 2026 16:28:40 +0000",
-      "time": "۱۹:۵۸ - ۱۸ خرداد",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "economist_1",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "Donald Trump could be the man to save Cuba",
-      "title_fa": "دونالد ترامپ می‌تواند ناجی کوبا باشد",
-      "lead": "یقین‌های ایدئولوژیک به مدت ۷۰ سال به کوبایی‌ها آسیب رسانده‌اند. زمان آن رسیده است که به بدبینی فرصت داده شود و رویکردهای جدیدی برای نجات کوبا امتحان شود.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://www.economist.com/international/2026/06/02/donald-trump-could-be-the-man-to-save-cuba",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 02 Jun 2026 22:02:54 +0000",
-      "time": "۰۱:۳۲ - ۱۳ خرداد",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "economist_2",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "The War Room newsletter: How the character of war has changed",
-      "title_fa": "خبرنامه «اتاق جنگ»: چگونه ماهیت جنگ تغییر کرده است",
-      "lead": "شاشانک جوشی، دبیر دفاعی، به هشت سال فعالیت خود در این سمت نگاهی می‌اندازد. او به تحلیل تغییرات عمده در ماهیت و ویژگی‌های جنگ در دوران معاصر می‌پردازد.",
-      "category": "military",
-      "region": "global",
-      "sourceUrl": "https://www.economist.com/international/2026/06/02/the-war-room-newsletter-how-the-character-of-war-has-changed",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 02 Jun 2026 00:38:07 +0000",
-      "time": "۰۴:۰۸ - ۱۲ خرداد",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "economist_3",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "Centrists crying “Wolf!”",
-      "title_fa": "میانه‌روها فریاد «گرگ!» می‌کشند",
-      "lead": "این رویکرد اشتباهی برای مقابله با عوام‌گرایانی است که وجود مشکلات سخت ر�� ��نکار می‌کنند. مقاله به تحلیل استراتژی‌های ناکارآمد میانه‌روها در برابر پوپولیسم می‌پردازد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.economist.com/international/2026/05/26/centrists-crying-wolf",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Tue, 26 May 2026 20:55:08 +0000",
-      "time": "۰۰:۲۵ - ۶ خرداد",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "economist_4",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "Home-schooling is taking off",
-      "title_fa": "آموزش در خانه در حال گسترش است",
-      "lead": "در پی همه‌گیری کووید-۱۹، والدین بیشتری فرزندان خود را در خان�� آموز�� می‌دهند. این روند نشان‌دهنده تغییرات مهمی در سیستم آموزشی و رویکردهای والدین است.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.economist.com/international/2026/05/21/home-schooling-is-taking-off",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Thu, 21 May 2026 12:47:57 +0000",
-      "time": "۱۶:۱۷ - ۳۱ اردیبهشت",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "economist_5",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "Israel the lonely",
-      "title_fa": "اسرائیل تنها",
-      "lead": "این کش��ر آنقدر که منتقدانش امید دارند منزوی نیست، اما در حال بیگانه کردن برخی از دوستان واقعی خود است. این تحلیل به بررسی وضعیت دیپلماتیک و روابط بین‌المللی اسرائیل می‌پردازد.",
-      "category": "politics",
-      "region": "middleeast",
-      "sourceUrl": "https://www.economist.com/international/2026/05/19/israel-the-lonely",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 19 May 2026 22:05:36 +0000",
-      "time": "۰۱:۳۵ - ۳۰ اردیبهشت",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "economist_6",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "America’s submarine dominance is under threat",
-      "title_fa": "برتری زیردریایی آمریکا در خطر است",
-      "lead": "تمسخر نیروی دریایی چین در حال تبدیل شدن به نگرانی است. این مقاله به تحلیل تهدیدات فزاینده بر قدرت زیردریایی آمریکا و رقابت دریایی با چین می‌پردازد.",
-      "category": "politics",
-      "region": "asia",
-      "sourceUrl": "https://www.economist.com/international/2026/05/07/americas-submarine-dominance-is-under-threat",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Thu, 07 May 2026 13:08:12 +0000",
-      "time": "۱۶:۳۸ - ۱۷ اردیبهشت",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "economist_7",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "America must hope Donald Trump is not a new Caligula",
-      "title_fa": "آمریکا باید امیدوار باشد دونالد ترامپ یک کالیگولای جدید نباشد",
-      "lead": "در تاریخ حاکمانی که اعمال احمقانه مرتکب شده‌اند، فساد رومی برجسته ��ست. این مقاله به مقای��ه احتمالی دونالد ت��امپ با امپراتور کالیگولا و پیامدهای احتمالی سیاسی آن می‌پردازد.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://www.economist.com/international/2026/05/05/america-must-hope-donald-trump-is-not-a-new-caligula",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Tue, 05 May 2026 21:04:24 +0000",
-      "time": "۰۰:۳۴ - ۱۶ اردیبهشت",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "economist_8",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "The global scramble for ports",
-      "title_fa": "رقابت جهانی برای بنادر",
-      "lead": "تب سرمایه‌گذاری ناشی از نگرانی در مورد تسلط فزاینده چین بر زنجیره‌های تامین است. این مقاله به تحلیل رقابت ژئواستراتژیک بر سر کنترل بنادر در سراسر جهان می‌پردازد.",
-      "category": "politics",
-      "region": "asia",
-      "sourceUrl": "https://www.economist.com/international/2026/04/30/the-global-scramble-for-ports",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Thu, 30 Apr 2026 12:48:47 +0000",
-      "time": "۱۶:۱۸ - ۱۰ اردیبهشت",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "economist_9",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "To fight Russia, Europe needs Ukraine",
-      "title_fa": "برای مبارزه با روسیه، اروپا به اوکراین نیاز دارد",
-      "lead": "ورود اوکراین به اتحادیه اروپا پرخطر است، اما دور نگه داشتن آن خطرناک‌تر است. این مقاله به بررسی ��همیت استراتژیک اوکراین برای امنیت اروپا و مقابله با روسیه می‌پردازد.",
-      "category": "politics",
-      "region": "eurasia",
-      "sourceUrl": "https://www.economist.com/international/2026/04/28/to-fight-russia-europe-needs-ukraine",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 28 Apr 2026 20:24:49 +0000",
-      "time": "۲۳:۵۴ - ۸ اردیبهشت",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "economist_10",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "The War Room newsletter: The best generals in history",
-      "title_fa": "خبرنامه «اتاق جنگ»: بهترین ژنرال‌های تاریخ",
-      "lead": "ریچارد کاکت، دبیر ارشد، تحلیل می‌کند که چه چیزی یک فرماندهی خوب را می‌سازد و سه نفر برتر خود را رتبه‌بندی می‌کند. این مقاله به بررسی ویژگی‌ها و استراتژی‌های ژنرال‌های موف�� در طول تاریخ می‌پردازد.",
-      "category": "military",
-      "region": "global",
-      "sourceUrl": "https://www.economist.com/international/2026/04/27/the-war-room-newsletter-the-best-generals-in-history",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Mon, 27 Apr 2026 14:18:49 +0000",
-      "time": "۱۷:۴۸ - ۷ اردیبهشت",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
-    },
-    {
-      "id": "economist_11",
-      "agencyId": "economist",
-      "keep": true,
-      "title": "Europe’s defence startups face even bigger hurdles than America’s",
-      "title_fa": "استا��تاپ‌های دفاعی اروپا با موانع بزرگ‌تری نسبت به آمریکا روبرو هستند",
-      "lead": "آنها باید با بازاری پراکنده و مشتریان مردد دست و پنجه نرم کنند. این مقاله به تحلیل چالش‌های پیش روی شرکت‌های نوپا در صنعت دفاعی اروپا می‌پردازد.",
-      "category": "economy",
-      "region": "europe",
-      "sourceUrl": "https://www.economist.com/international/2026/04/23/europes-defence-startups-face-even-bigger-hurdles-than-americas",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Thu, 23 Apr 2026 13:09:20 +0000",
-      "time": "۱۶:۳۹ - ۳ اردیبهشت",
-      "analyzed_at": "2026-07-04T16:05:25.854Z"
     }
   ]
 }
