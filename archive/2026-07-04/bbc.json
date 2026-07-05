@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "bbc",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "bbc_2",
@@ -578,6 +578,30 @@
       "pubDate": "Fri, 03 Jul 2026 15:20:57 GMT",
       "time": "۱۸:۵۰ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "title_fa": "فرانسه در اوج موج گرما ۲۰۲۵ مورد مرگ و میر اضافه را ثبت کرده و اروپا خود را برای آب و هوای بسیار شدیدتر آماده می‌کند",
+      "lead": "پیش‌بینی‌کنندگان هواشناسی در مورد دمای بسیار شدیدتر در قاره اروپا طی چند روز آینده هشدار می‌دهند. این موج ��رما در فرانسه منجر به مرگ و میر قابل توجهی شده و نگرانی‌ها را در مورد تغییرات اقلیمی افزایش داده است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 03 Jul 2026 10:23:32 GMT",
+      "time": "۱۳:۵۳ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
     }
   ]
 }
