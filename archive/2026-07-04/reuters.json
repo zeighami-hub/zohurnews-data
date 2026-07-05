@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "reuters_0",
@@ -480,6 +480,52 @@
         "negative": 90
       },
       "analyzed_at": "2026-07-04T15:18:30.696Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Two Revolutionary Guards members killed by gunmen in western Iran - Reuters",
+      "title_fa": "رویترز: دو عضو سپاه پاسدارا�� در غرب ایران توسط افراد مسلح کشته شدند",
+      "lead": "خبرگزاری رویترز گزارش داد که دو نفر از ��عضای سپاه پاسداران انقلاب اسلامی در غرب ایران توسط افراد مسلح به قتل رسیده‌اند. این حادثه به کشته شدن اعضای نیروهای نظامی در منطقه‌ای پر تنش اشاره دارد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmdINWVBU0ZneHJ2ZE5HZl9lcUROd3VtWjlZVDVBQTVlNy05RDdQamcxZFliMFo1S2NCM1phcFVkX01XcVR5djZDNUZwUUhlczdOTUs2N3VtRjNpOEwwb3FQY0tmUFJuMkVzRzZJSzJpa2NkVmRlNXdZU01ta1JudWVmbFppUUZkQ2d5c29vV0w5ZHFxOFN6VnpzMGozTFpxdzI5QnpReG5aSF9CbUQ3MG8taDVLZTJXbjFlQzF3?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 30 Jun 2026 09:48:10 GMT",
+      "time": "۱۳:۱۸ - ۹ تیر",
+      "analyzed_at": "2026-07-04T15:33:54.981Z"
+    },
+    {
+      "id": "reuters_3",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Gold slips as US-Iran tensions spark inflation, rate hike fears - Reuters",
+      "title_fa": "رویترز: طلا با افزایش تنش‌های آمریکا و ایران و ترس از تورم و افزایش نرخ بهره کاهش ��افت",
+      "lead": "به گزارش رویترز، قیمت طلا در پی بالا گرفتن تنش‌ها میان ایالات متحده و ایران و نگرانی‌ها از تورم و افزایش نرخ بهره، افت کرده است. این وضعیت ن��ان‌دهنده تأثیرات ژئوپلیتیکی بر بازارهای جهانی است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU0lJMWFsaWlkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-07-04T15:33:54.981Z"
     }
   ]
 }
