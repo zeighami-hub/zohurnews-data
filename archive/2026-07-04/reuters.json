@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "reuters_0",
@@ -236,6 +236,28 @@
       "pubDate": "Mon, 29 Jun 2026 01:31:00 GMT",
       "time": "۰۵:۰۱ - ۸ تیر",
       "analyzed_at": "2026-07-04T12:20:37.043Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "'Let us wail!' Iranians flock to Khamenei's funeral after wartime death - Reuters",
+      "title_fa": "ایرانیان پس از ��رگِ در زمان جنگ به مراسم تشییع جنازه خامنه‌ای هجوم می‌آورند: «بگذارید شیون کنیم!»",
+      "lead": "گزارش‌ها حاکی از آن است که ایرانیان برای شرکت در مراسم تشییع جنازه آیت‌الله ��امنه‌ای، که پس از مرگی در زمان جنگ رخ داده، گرد هم آمده‌اند. این تجمع بزرگ با شعار «بگذارید شیون ک��یم!» همراه است و نشان‌دهنده فضای حزن‌انگیز در کشور است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cWxta3Nnb181V19lQUxyWlFMQnU5WjNucmZBZHl3NlQtUzZTRFN6aVgweE4tdVJrNVlOYVQzQTExdllpN3NHaWlHcXZTSENOa3hWeEpycTBHdGJLRVhzYlhRdEs1UVk4VE1pR3ZnTzEyb0Z3YmxBUUV5cHJEV2VLMjAzUXp1Q1FfVWY1aWNmYVo3TUgxOXdEdExNenNKT1RyQlRFVWlrakprSWV0Zw?oc=0",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-04T12:48:40.367Z"
     }
   ]
 }
