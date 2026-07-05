@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "france24",
-  "total": 5,
+  "total": 8,
   "articles": [
     {
       "id": "france24_7",
@@ -122,6 +122,78 @@
       "pubDate": "Sat, 04 Jul 2026 00:48:05 GMT",
       "time": "۰۴:۱۸ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T07:46:35.151Z"
+    },
+    {
+      "id": "france24_8",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "US 'royal wedding': Taylor Swift and Travis Kelce marry at Madison Square Garden",
+      "title_fa": "«عروسی سلطنتی» آمریکا: تیلور سوئیفت و تراویس کلس در مدیسن اسکوئر گاردن ازدواج کردند",
+      "lead": "ستاره پاپ آمریکایی تیلور سوئیفت و تراویس کلس، بازیکن NFL، رسماً ازدواج کردند که توجه جهانی را به این \"عروسی سلطنتی\" آمریکا جلب کرد. این زوج هیچ اعلام عمومی درباره برنامه��های عروسی خود نداشتند.",
+      "category": "entertainment",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/americas/20260704-us-royal-wedding-taylor-swift-and-travis-kelce-marry-at-madison-square-garden",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 07:02:57 GMT",
+      "time": "۱۰:۳۲ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T07:50:38.992Z"
+    },
+    {
+      "id": "france24_14",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "More than 400 dead in DR Congo's Ebola outbreak",
+      "title_fa": "بیش از ۴۰۰ کشته در شیوع ابولا در کنگو",
+      "lead": "در جمهوری دموکراتیک کنگو، شیوع ابولا گسترش یافته و اکنون بیش از ۴۰�� نفر جان باخته‌اند. یک مورد جدید نیز تقریباً ۶۰۰ کیلومتر دورتر از کانون اصلی شناسایی شده که نگرانی‌ها را افزایش می‌دهد.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/more-than-400-dead-in-dr-congo-s-ebola-outbreak",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 03 Jul 2026 21:39:49 GMT",
+      "time": "۰۱:۰۹ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T07:50:38.992Z"
+    },
+    {
+      "id": "france24_5",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "World Cup 2026: Salah's Egypt beat Australia in penalty shootout to reach last 16",
+      "title_fa": "جام جهانی ۲۰۲۶: مصر صلاح با غلبه بر استرالیا در ضربات پنالتی به م��حله یک‌هشتم نهایی صعود کرد",
+      "lead": "تیم ملی فوتبال مصر با درخشش صلاح، در ضربات پنالتی از سد استرالیا گذشت. این پیروزی مصر را به مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶ رساند.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/sport/20260703-world-cup-egypt-beat-australia-penalty-shootout-reach-last-16-salah",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 20:54:44 GMT",
+      "time": "۰۰:۲۴ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T07:50:38.992Z"
     }
   ]
 }
