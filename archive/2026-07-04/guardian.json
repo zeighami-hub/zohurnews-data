@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "guardian",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "guardian_5",
@@ -290,6 +290,30 @@
       "pubDate": "Sat, 04 Jul 2026 10:26:54 GMT",
       "time": "۱۳:۵۶ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T12:15:44.980Z"
+    },
+    {
+      "id": "guardian_12",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Overseas education project for women and girls axed by UK after two years",
+      "title_fa": "پروژه آموزش فرامرزی زنان و دختران توسط بریتا��یا پس از دو سال متوقف شد",
+      "lead": "پروژه مهم آموزش فرامرزی برای زنان و دختران، با هدف حفظ یک میلیون دختر در مدرسه در سراسر آفریقا، آسیا و خاورمیانه، توسط بریتانیا پس از دو سال لغو شد. این برنامه به دنبال کاهش کمک‌های خارجی، متوقف شده است که پیامدهای گسترده‌ای برای دسترسی به آموزش خواهد داشت.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 04 Jul 2026 08:00:08 GMT",
+      "time": "۱۱:۳۰ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T12:20:37.043Z"
     }
   ]
 }
