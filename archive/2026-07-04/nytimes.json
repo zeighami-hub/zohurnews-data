@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "nytimes_6",
@@ -57,7 +57,7 @@
       "keep": true,
       "title": "Putin Visits Battlefield and Vows to Take More of Ukraine",
       "title_fa": "پوتین از میدان نبرد بازدید ��رد و قول داد مناطق بیشتری از اوکراین را تصرف کند",
-      "lead": "رهبر روسیه از میدان نبرد بازدید کرد و قول داد من��طق بیشتری از اوکراین را تصرف کند. او دستاوردهای اوکراین در میدان جنگ را «خیالی» خواند و رهبران�� را «بازیگر» نامید.",
+      "lead": "رهبر روسیه از میدان نبرد بازدید کرد و قول داد من����طق بیشتری از اوکراین را تصرف کند. او دستاوردهای اوکراین در میدان جنگ را «خیالی» خواند و رهبران�� را «بازیگر» نامید.",
       "category": "politics",
       "region": "europe",
       "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html",
@@ -170,6 +170,30 @@
       "pubDate": "Fri, 03 Jul 2026 00:19:38 +0000",
       "time": "۰۳:۴۹ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T09:33:31.153Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Hopes for Investment in Iran Would Break With Decades of History",
+      "title_fa": "امیدهای آمریکا برای سرمایه‌گذاری در ایران، پایانی بر دهه‌ها تاریخ خواهد بود",
+      "lead": "مقامات ارشد ایالات متحده اظهار کرده‌اند که ایران به دلیل تغییر موضع خود در قبال آمریکا، پاداش فراوانی دریافت خواهد کرد. با این حال، رهبران ایران در گذشته چنین معامله‌ای را رد کرده‌اند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 02 Jul 2026 14:14:38 +0000",
+      "time": "۱۷:۴۴ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T11:33:26.581Z"
     }
   ]
 }
