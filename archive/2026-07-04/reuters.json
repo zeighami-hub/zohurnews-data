@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 41,
+  "total": 42,
   "articles": [
     {
       "id": "reuters_0",
@@ -946,6 +946,30 @@
         "negative": 10
       },
       "analyzed_at": "2026-07-04T21:48:27.144Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US, Iran talks conclude in Doha, focused on Strait of Hormuz - Reuters",
+      "title_fa": "گفتگوهای آمریکا و ایران در دوحه به پایان رسید، با تمرکز بر تنگه هرمز",
+      "lead": "گفتگوهای میان آمریکا و ایران در دوحه به پایان رسید. این مذاکرات بر موضوع تنگه هرمز متمرکز بود.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2I3cUEydmhlWVB5bmFRM1JuTXZVRHdDVFV6MTFjWHc0V3NFeDBCNFR0ZEJ0U2NjR213NWJwYlQwb0pNQjZmbU1tdlJjRlF2ZUZKZjBBRmpteTM1SUthZV9ESXZpaVRvSVhUaUYxb1lFenoxLUU2MklQd0I1OC1XR1NGSVo4b29CdVZ5ZzQ0QXp4MFdlMnoyRS1Rak0tTVNvYVU1RVhtb29hdENLeldfakJsMHNNaWNkQ0Uw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Fri, 03 Jul 2026 05:18:46 GMT",
+      "time": "۰۸:۴۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T22:03:16.731Z"
     }
   ]
 }
