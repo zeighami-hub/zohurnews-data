@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "skynews",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "skynews_1",
@@ -146,6 +146,30 @@
       "pubDate": "Fri, 03 Jul 2026 08:15:00 +0100",
       "time": "۱۰:۴۵ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T17:04:25.234Z"
+    },
+    {
+      "id": "skynews_8",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "'We should not look like kids and clowns': F1 stars criticise Lego car parade",
+      "title_fa": "ستارگان فرمول یک از رژه ماشین‌های لگویی انتقاد کردند: «نباید مثل بچه‌ها و دلقک‌ها به نظر برسیم»",
+      "lead": "تصمیم فرمول یک برای استفاده از ماشین‌های لگویی در رژه پیش از گرندپری بریتانیا، مورد انتقاد شدید رانندگان مطرح قرار گرفته است. آنها معتقدند این اقدام حرفه‌ای بودن مسابقات را زیر سوال می‌برد.",
+      "category": "sport",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/lewis-hamilton-and-max-verstappen-criticise-formula-ones-lego-car-parade-13560242",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 03 Jul 2026 20:30:00 +0100",
+      "time": "۲۳:۰۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
     }
   ]
 }
