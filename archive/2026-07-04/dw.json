@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "dw",
-  "total": 17,
+  "total": 20,
   "articles": [
     {
       "id": "dw_11",
@@ -321,7 +321,7 @@
       "keep": true,
       "title": "Nigeria: US pulls some troops after anti-IS operation",
       "title_fa": "نیجریه: آمریکا بخشی از نیروهای خود را پس از عملیات ضد داعش خارج می‌کند",
-      "lead": "ایالات متحده بیشتر نیروهایی را که برای عملیات اخیر علیه ستیزه‌جویان \"دولت اسلامی\" در شمال شرقی نیجریه اعزام کرده بود، خارج کرده است. اما این کشور به درخواست ا��وجا به حمایت اطلاعاتی خود ادامه می‌دهد.",
+      "lead": "ایالات متحده بیشتر نیروهایی را که برای عملیات اخیر علیه ستیزه‌جویان \"دولت اسلامی\" در شمال شرقی نیجریه اعزام کرده بود، خارج کرده است. اما این کشور به درخواست ا����وجا به حمایت اطلاعاتی خود ادامه می‌دهد.",
       "category": "military",
       "region": "global",
       "sourceUrl": "https://www.dw.com/en/nigeria-us-pulls-some-troops-after-anti-is-operation/a-77824484?maca=en-rss-en-all-1573-xml-mrss",
@@ -410,6 +410,76 @@
       "pubDate": "Sat, 4 Jul 2026 16:04:00 GMT",
       "time": "۱۹:۳۴ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T20:29:27.462Z"
+    },
+    {
+      "id": "dw_7",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "NASA launches spacecraft to recover sinking telescope",
+      "title_fa": "ناسا فضاپیمایی برای نجات تلسکوپ در حال سقوط پرتاب کرد",
+      "lead": "تلسکوپ سوئیفت بر اثر طوفان‌های خورشیدی اخیر آسیب دیده و سریع‌تر از ه��یشه به سمت زمین سقوط می‌کند. ناسا با پرتاب فضاپیمایی قصد دارد آن را ردیابی و مدارش را تثبیت کند.",
+      "category": "science",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/nasa-lAU_NCHES-spacecraft-to-recover-sinking-telescope/a-77826514?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "dw_9",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Lyra McKee: 3 men acquitted of killing N. Irish journalist",
+      "title_fa": "لیرا مکی: ۳ مرد متهم به قتل روزنامه‌نگار ایرلند شمالی تبرئه شدند",
+      "lead": "سه مرد که متهم به قتل روزنامه‌نگار ایرلند شمالی، لیرا مکی، در جریان درگیری‌های سال ۲۰۱۹ بودند، تبرئه شدند. قاضی اعلام کرد شواهد کافی برای محکومیت وجود ندارد، که با ناامیدی خانواده مکی همراه شد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/lyra-mckee-3-men-acquitted-of-killing-n-irish-journalist/a-77825712?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 3 Jul 2026 18:58:00 GMT",
+      "time": "۲۲:۲۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "dw_10",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "NATO summit: European members and Canada pledge long-term Ukraine aid",
+      "title_fa": "نشست ناتو: اعضای اروپایی و کانادا متعهد به کمک بلندمدت به اوکراین شدند",
+      "lead": "کشورهای عضو ناتو از اروپا و کانادا در نشست اخیر متعهد شدند که تامین مالی بلندمدت جنگ اوکراین علیه روسیه را بر عهده بگیرند. این تعهد نشان‌دهنده حمایت مستمر و قوی از اوکراین در مواجهه با تهاجم روسیه است.",
+      "category": "diplomacy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.dw.com/en/nato-summit-european-members-and-canada-pledge-long-term-ukraine-aid/a-77825447?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "pubDate": "Fri, 3 Jul 2026 17:29:00 GMT",
+      "time": "۲۰:۵۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T21:18:49.614Z"
     }
   ]
 }
