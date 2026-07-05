@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "bbc",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "bbc_2",
@@ -554,6 +554,30 @@
       "pubDate": "Thu, 02 Jul 2026 12:37:02 GMT",
       "time": "۱۶:۰۷ - ۱۱ تیر",
       "analyzed_at": "2026-07-04T16:00:09.882Z"
+    },
+    {
+      "id": "bbc_13",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "title_fa": "مظنون اوکراینی تحت تعقیب پلیس پس از حمله بمب‌گذاری موناکو \"با لباس مردانه مبدل شده بود\"",
+      "lead": "پلیس پس از حمله بمب‌گذاری در موناکو در حال تعقیب یک ��ظنون اوکراینی است که گفته می‌شود با لباس مردانه مبدل شده بود. مقامات بر این باورند که مظنون به تنهایی عمل نکرده و روزها محل حمله را تحت نظر دا��ته است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:20:57 GMT",
+      "time": "۱۸:۵۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
     }
   ]
 }
