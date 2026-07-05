@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "guardian",
-  "total": 13,
+  "total": 16,
   "articles": [
     {
       "id": "guardian_5",
@@ -314,6 +314,78 @@
       "pubDate": "Sat, 04 Jul 2026 08:00:08 GMT",
       "time": "۱۱:۳۰ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T12:20:37.043Z"
+    },
+    {
+      "id": "guardian_12",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
+      "title_fa": "پروژه خط لوله جدید در کانادا با تعهد ۱۵۰ میلیارد دلاری برای رفع نگرانی‌های بریتیش کلمبیا و بومیان پیش خواهد رفت",
+      "lead": "پروژه یک خط لوله نفتی بزرگ جدید در کانادا پس از تعهد ۱۵۰ میلیارد دلاری دولت‌ها برای رفع نگرا��ی‌ها پیش می‌رود. این طرح شامل گسترش بندر و حفاظت از نهنگ‌ها برای رفع دغدغه‌های بریتیش کلمبیا و بومیان است.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:34:32 GMT",
+      "time": "۱۹:۰۴ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "guardian_1",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Cold feet and cooling prices: Australia’s property market is transforming – and first home buyers aren’t biting",
+      "title_fa": "افزایش احتیاط و کاهش قیمت‌ها: بازار املاک استرالیا در حال تغییر است – و خریداران خانه اول دست به کار نمی‌شوند",
+      "lead": "داده‌ها نشان می‌دهند که خریداران با وجود قیمت‌های پایین‌تر و رقابت کمتر، برای ورود به بازار عجله‌ای ندارند. خریداران خانه اول در حال عقب‌نشینی هستند و تقاضای سرمایه‌گذاران نیز کاهش یافته است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/04/australia-property-market-transforming-first-home-buyers-cold-feet",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:00:33 GMT",
+      "time": "۱۸:۳۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "guardian_3",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "One Nation is campaigning directly to Christians. But will party policies rub against worshippers’ conscience?",
+      "title_fa": "حزب \"یک ملت\" مستقیماً برای مسیحیان کمپین می‌کند؛ اما آیا سیاست‌های ��ین حزب با وجدان پرستش‌کنندگان در تضاد خو��هد بود؟",
+      "lead": "سیاست‌های ضد سقط جنین ممکن است جذابیت داشته باشد، اما با توجه ��ه اینکه یک سوم از کلیسارویان استرالیایی متولد خارج هستند، بحث از یک فرهنگ واحد ممکن است آنها را دلسرد کند. این حزب مستقیماً برای یک جمعیت مذهبی قابل توجه کمپین می‌کند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/03/one-nation-christians-christian-voters-churchgoers-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Fri, 03 Jul 2026 14:57:34 GMT",
+      "time": "۱۸:۲۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T16:34:25.292Z"
     }
   ]
 }
