@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "guardian",
-  "total": 19,
+  "total": 22,
   "articles": [
     {
       "id": "guardian_5",
@@ -458,6 +458,78 @@
       "pubDate": "Thu, 02 Jul 2026 16:29:38 GMT",
       "time": "۱۹:۵۹ - ۱۱ تیر",
       "analyzed_at": "2026-07-04T18:18:33.901Z"
+    },
+    {
+      "id": "guardian_9",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "At least nine monks killed in Thailand after boy drives truck into procession",
+      "title_fa": "کشته شدن دست‌کم ۹ راهب در تایلند پس از ای�������که پسربچه‌ای کامیون را به سمت کاروان مذهبی راند.",
+      "lead": "دست‌کم ۹ راهب بودایی در تایلند پس از آنکه یک پسر ۱۱ ساله کامیون والدینش را به سمت یک کاروان مذهبی راند، کشته شدند. پلیس در حال بررسی ابعاد این حادثه و تعیین اتهامات احتمالی است.",
+      "category": "accident",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 13:10:07 GMT",
+      "time": "۱۶:۴۰ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T18:33:56.782Z"
+    },
+    {
+      "id": "guardian_10",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Papua separatists kill American pilot in ‘message’ to US and Indonesia",
+      "title_fa": "جدایی‌طلبان پاپوآ یک خلبان آمریکایی را کشتند و «پیامی» به آمریکا و اندونزی ف��ستادند.",
+      "lead": "شورشیان جدایی‌طلب در منطقه پاپوآی اندونزی یک خلبان آمریکایی را به ضرب گلوله کشته و هواپیمای غیرنظامی او را به آتش کشیدند. این اقدام به عنوان «پیامی» به آمریکا و ��ندونزی در بحبوحه درگیری‌های طولانی‌مدت برای استقلال منطقه تعبیر شده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/papua-separatists-kill-american-pilot-yahukimo",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 12:18:48 GMT",
+      "time": "۱۵:۴۸ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T18:33:56.782Z"
+    },
+    {
+      "id": "guardian_11",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+      "title_fa": "سیل در ساحل عاج ۵۹ کشته برجای گذاشت؛ غرب آفریقا درگیر باران‌های سیل‌آسا.",
+      "lead": "سیل‌های شدید در ساحل عاج از ماه می تاکنون ۵۹ نفر را به کام مرگ کشانده است. مقامات می‌گویند فصل بارندگی در غرب آفریقا مرگبارتر شده و کشورهایی چون غنا، بنین، توگو و نیجریه نیز شاهد سیل بوده‌اند.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 11:01:32 GMT",
+      "time": "۱۴:۳۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T18:33:56.782Z"
     }
   ]
 }
