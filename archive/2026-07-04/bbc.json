@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "bbc",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "bbc_2",
@@ -122,6 +122,30 @@
       "pubDate": "Fri, 03 Jul 2026 21:00:53 GMT",
       "time": "۰۰:۳۰ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T07:50:38.992Z"
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Iran begins public mourning for Ayatollah killed in February",
+      "title_fa": "ایران ��زای عمومی برای آیت‌الله کشته‌شده در فوریه را آغاز می‌کند",
+      "lead": "پیکر علی خامنه‌ای از روز جمعه در مصلای بزرگ تهران در معرض دید عموم قرار خواهد گرفت. این مراسم پیش از برگزاری مراسم تشییع جنازه چند روزه انجام می‌شود.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 04:12:06 GMT",
+      "time": "۰۷:۴۲ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T09:18:31.495Z"
     }
   ]
 }
