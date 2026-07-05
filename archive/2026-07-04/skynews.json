@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_1",
@@ -26,6 +26,30 @@
       "pubDate": "Thu, 02 Jul 2026 04:59:00 +0100",
       "time": "۰۷:۲۹ - ۱۱ تیر",
       "analyzed_at": "2026-07-04T11:48:15.578Z"
+    },
+    {
+      "id": "skynews_8",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Thousands gather for funeral of Iran's assassinated supreme leader Ali Khamenei",
+      "title_fa": "هزاران نفر برای مراسم تشییع رهبر عالی ترور شده ایران، علی خامنه‌ای، گرد هم آمدند",
+      "lead": "مراسم تشییع چند روزه رهبر عالی فقید ایران، آیت‌الله علی خامنه‌ای، در تهران در حال برگزاری است. او در حادثه‌ای که از سوی منابع رسمی ترور تلقی شده، جان باخته است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 04 Jul 2026 10:20:00 +0100",
+      "time": "۱۲:۵۰ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T12:15:44.980Z"
     }
   ]
 }
