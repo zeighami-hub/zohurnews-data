@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 14,
+  "total": 15,
   "articles": [
     {
       "id": "reuters_0",
@@ -324,6 +324,28 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-04T13:48:45.822Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "'Let us wail!' Iranians flock to Khamenei's funeral after wartime death - Reuters",
+      "title_fa": "فریاد «بگذارید شیون کنیم!»؛ ایرانیان پس از مرگ رهبرشان در شرایط جنگی، به سوی مراسم تشییع خامنه‌ای سرازیر شدند",
+      "lead": "ایرانیان با فریاد «بگذارید شیون کنیم!»، پ�� از مرگ رهبرشان در شرایط جنگی، به سوی مراسم تشییع آیت‌الله علی خامنه‌ای سرازیر شدند. این مراسم با حضور گسترده مردم برگزار می‌شود تا با رهبر فقید خود وداع کنند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS0NHb181V19lQUxyWlFMQnU5WjNucmZBZHl3NlQtUzZTRFN6aVgweE4tdVJrNVlOYVQzQTExdllpN3NHaWlHcXZTSENOa3hWeEpycTBHdGJLRVhzYlhRdEs1UVk4VE1pR3ZnTzEyb0Z3YmxBUUV5cHJEV2VLMjAzUXp1Q1FfVWY1aWNmYVo3TUgxOXdEdExNenNKT1RyQlRFVWlrakprSWV0Zw?oc=4",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-04T14:03:34.268Z"
     }
   ]
 }
