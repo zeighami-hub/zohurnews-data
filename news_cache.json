@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T17:03:34.713Z",
-  "total": 1017,
-  "new_this_cycle": 4,
+  "generated_at": "2026-07-05T17:18:32.177Z",
+  "total": 1006,
+  "new_this_cycle": 3,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,72 @@
     }
   ],
   "articles": [
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "How does the Iran crisis compare with the 1979 oil shock? - Reuters",
+      "title_fa": "بحران ایران در مقایسه با شوک نفتی ۱۹۷۹ چگونه است؟",
+      "lead": "این گزارش به بررسی مقایسه بحران کنونی ایران با شوک نفتی سال ۱۹۷۹ می‌پردازد. این مقایسه پیامدهای اقتصادی و ژئوپلیتیکی احتمالی را برای بازارهای جهانی انرژی تحلیل می‌کند.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG9oa3VPLW5oa2dhSDc5NXA3czBNYlVLR3lrdGprX2FpQ1VYOGxtNngweEJVVm52d0F0RmVuQXhfc0xWcWxjck9oUWN6S0NLRjhoSEkyTVN4R3Rod05JeWRPS1M0LUZtamZ6NlFDUGRmSnBxTTgxYUlZdkRjb2NaNmV3d2tKZkZ0ZEd4MmU3X19EZzhQdVlzTDM2ZDVfSjU1ZmFJZWF2QllXNkE?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "analyzed_at": "2026-07-05T17:18:23.578Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Gold slips as US-Iran tensions spark inflation, rate hike fears - Reuters",
+      "title_fa": "طلا با افزایش تنش‌های آمریکا و ایران و نگرانی از تورم و افزایش نرخ بهره، کاهش یافت",
+      "lead": "بهای طلا در بازارهای جهانی با تشدید تنش‌ها میان آمریکا و ایران کاهش پیدا کرد. این کاهش ناشی از نگرانی‌های فزاینده در مورد تورم و احتمال افزایش نرخ بهره توسط بانک‌های مرکزی است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWpkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSIh6WEJGcnNUb1ZGVWstUQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-05T17:18:23.578Z"
+    },
+    {
+      "id": "yjc_3",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "عملیات عمرانی پل پیوند خرم‌آباد آغاز شد",
+      "title_fa": "آغاز عملیات عمرانی پل پیوند در خرم‌آباد",
+      "lead": "شهردار خرم‌آباد از آغاز عملیات اجرایی پروژه پل پیوند در این شهر خبر داد. وی اظهار امیدواری کرد که این پروژه تا پایان سال جاری تکمیل و به بهره‌برداری برسد.",
+      "category": "society",
+      "region": "iran",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9105029/%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%B9%D9%85%D8%B1%D8%A7%D9%86%DB%8C-%D9%BE%D9%84-%D9%BE%DB%8C%D9%88%D9%86%D8%AF-%D8%AE%D8%B1%D9%85%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%B4%D8%AF",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-05T17:18:23.578Z"
+    },
     {
       "id": "reuters_0",
       "agencyId": "reuters",
@@ -3635,7 +3701,7 @@
       "agencyId": "independent",
       "keep": true,
       "title": "Priest from excommunicated Catholic sect says future pope will ‘open the door’ to return",
-      "title_fa": "کشیشی از فرقه کاتولیک تکفیرشده می‌گوید پاپ آینده «در را برای بازگشت» باز خواهد کرد",
+      "title_fa": "کشیشی از ف��قه کاتولیک تکفیرشده می‌گوید پاپ آینده «در را برای بازگشت» باز خواهد کرد",
       "lead": "یک کشیش از فرقه کاتولیک سنت پیوس دهم که پیشتر تکفیر شده بود، ابراز امیدواری کرده که پاپ آینده راه را برای بازگشت آن‌ها به کلیسای کاتولیک باز کند. این فرقه پس از انتصاب چهار اسقف بدون تأیید پاپ لئو تکفیر شده بود.",
       "category": "religion",
       "region": "global",
@@ -4669,7 +4735,7 @@
       "agencyId": "independent",
       "keep": true,
       "title": "Taylor Swift and Travis Kelce’s wedding guestlist: All the celebrities invited to the couple’s big day",
-      "title_fa": "فهرست مهمانان عروسی تیلور سویفت و تراویس کلس: تمام سلبریتی‌های دعوت شده",
+      "title_fa": "فهرست مهمانان عروسی تیلور سویفت و تراویس کلس: تمام سلبریتی‌��ای دعوت شده",
       "lead": "فهرست مهمانان عروسی تیلور سویفت و تراویس کلس شامل چهره‌های مشهوری بود. اما استون، بن استیلر و مشین گان کلی از جمله حاضران در این مراسم بزرگ بودند.",
       "category": "arts-entertainment",
       "region": "global",
@@ -5308,7 +5374,7 @@
       "keep": true,
       "title": "UK Reform's Nigel Farage faces fresh misconduct allegations",
       "title_fa": "نایجل فاراژ، رهبر حزب رفرم بریتانیا، با اتهامات جدید سوء رفتار روبرو شد",
-      "lead": "نایجل فاراژ، رهبر پوپولیست راست‌گرا، پس از گزارشی مبنی بر عدم اعلام دریافت منافع، به ناظر استانداردهای پارلمان بریتانیا ارجاع داده شده است. رهبر حزب رفرم بریتانیا در حال حاضر نیز تحت تحقیق در مورد یک هدیه جداگانه قرار دارد.",
+      "lead": "نایجل فاراژ، رهبر پوپولیست راست‌گرا، پس از گزارشی مبنی بر عدم اعلام دریافت منافع، به ناظر استانداردهای پارلمان بریتانیا ارجاع داده شده است. رهبر حزب رفرم بریتانیا در حال حاضر نیز تحت تحقیق در مورد یک هد��ه جداگانه قرار دارد.",
       "category": "politics",
       "region": "europe",
       "sourceUrl": "https://www.dw.com/en/uk-reform-s-nigel-farage-faces-fresh-misconduct-allegations/a-77837442?maca=en-rss-en-all-1573-xml-mrss",
@@ -5620,7 +5686,7 @@
       "keep": true,
       "title": "دعوت پاکستان از ترامپ برای سفر به اسلام‌آباد",
       "title_fa": "دعوت پاکستان از ترامپ برای سفر به اسلام‌آباد",
-      "lead": "بر اساس بیانیه منتشرشده توسط حساب ریاست‌جمهوری پاکستان، زرداری از دونالد ترامپ برای سفر به اسلام‌آباد دعوت کرد. وی اظهار داشت که مردم پاکستان از میزبانی ترامپ در اولین فرصت ممکن استقبال خواهند کرد.",
+      "lead": "بر اساس بیانیه منتشرشده توسط حساب ر��است‌جمهوری پاکستان، زرداری از دونالد ترامپ برای سفر به اسلام‌آباد دعوت کرد. وی اظهار داشت که مردم پاکستان از میزبانی ترامپ در اولین فرصت ممکن استقبال خواهند کرد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1175305/دعوت-پاکستان-از-ترامپ-برای-سفر-به-اسلام-آباد",
@@ -5932,7 +5998,7 @@
       "keep": true,
       "title": "Venezuela quakes final death toll expected to be 'much higher'",
       "title_fa": "تعداد نهایی قربانیان زلزله ونزوئلا «بسیار بیشتر» تخمین زده می‌شود",
-      "lead": "ارقام رسمی جدید نشان می‌دهد که زلزله‌های ویرانگر دوقلو در ونزوئلا نزدیک به 3000 نفر را کشته‌اند. این در حالی است که تیم‌های نجات بین‌المللی عملیات جستجو برای بازماندگان را در میان آوار فاجعه کاهش می‌دهند.",
+      "lead": "ارقام رسمی جدید نشان می‌دهد که زلزله‌های ویرانگر دوقلو در ونزوئلا نزدیک به 3000 نفر را کشته‌اند. این در حالی است که تیم‌های نجات بین‌المللی عم��یات جستجو برای بازماندگان را در میان آوار فاجعه کاهش می‌دهند.",
       "category": "politics",
       "region": "americas",
       "sourceUrl": "https://www.france24.com/en/venezuela-quakes-final-death-toll-expected-to-be-much-higher",
@@ -7536,7 +7602,7 @@
       "keep": true,
       "title": "خدمت‌رسانی تاکسیرانی تهران تا پایان مراسم وداع امشب",
       "title_fa": "خدمت‌رسانی تاکسیرانی تهران تا پایان مراسم وداع امشب",
-      "lead": "مدیرعامل سازمان تاکسیرانی شهرداری تهران از آماده‌باش و خدمات‌رسانی شبانه‌روزی ۱۵۰۰ دستگاه تاکسی ون و سواری خبر داد. این خدمت‌رسانی تا پایان مراسم وداع امشب در پایتخت ادامه خواهد داشت.",
+      "lead": "مدیرعامل سازمان تاکسیرانی شهرداری تهران از آماده‌باش و خدمات‌رسانی شبانه‌روزی ۱۵۰۰ دستگاه تاکسی ون و سواری خبر داد. این خدمت‌رسانی تا پایان مراسم وداع امش�� در پایتخت ادامه خواهد داشت.",
       "category": "politics",
       "region": "iran",
       "sourceUrl": "https://www.yjc.ir/fa/news/9104940/%D8%AE%D8%AF%D9%85%D8%AA%E2%80%8C%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D8%AA%D8%A7%DA%A9%D8%B3%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AA%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D9%88%D8%AF%D8%A7%D8%B9-%D8%A7%D9%85%D8%B4%D8%A8",
@@ -8104,7 +8170,7 @@
       "keep": true,
       "title": "تمهیدات ویژه سوخت‌رسانی خراسان جنوبی برای زائران مراسم بدرقه رهبر شهید",
       "title_fa": "تمهیدات ویژه سوخت‌رسانی خراسان جنوبی برای زائران مراسم بدرقه رهبر شهید",
-      "lead": "مدیر شرکت ملی پخش فرآورده‌های نفتی خراسان جنوبی از اجرای طرح ویژه سوخت‌رسانی به زائران اعزامی به مراسم تشییع رهبر شهید خبر داد. این طرح از ۱۱ تا ۱۹ تیرماه ادامه خواهد داشت.",
+      "lead": "مدیر شرکت ملی پخش فرآورده‌های نفتی خراسان جنوبی از اجرای ��رح ویژه سوخت‌رسانی به زائران اعزامی به مراسم تشییع رهبر شهید خبر داد. این طرح از ۱۱ تا ۱۹ تیرماه ادامه خواهد داشت.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.yjc.ir/fa/news/9104946/تمهیدات-ویژه-سوخت‌رسانی-خراسان-جنوبی-برای-زائران-مراسم-بدرقه-رهبر-شهید",
@@ -8393,7 +8459,7 @@
       "lead": "ناسا به یکی از عجیب‌ترین پرسش‌های فضایی درباره چگونگی مواجهه با مرگ در فضا پاسخ داده است. طبق دستورالعمل‌های جدید، در مأموریت‌های مدار پایین زمین نظیر ایستگاه فضایی بین‌المللی، اولویت با بازگرداندن پیکر به زمین خواهد بود.",
       "category": "science",
       "region": "global",
-      "sourceUrl": "https://www.asriran.com/fa/news/1175240/ناسا-به-یکی-از-عجیب-ترین-پرسش-های-فضایی-پاسخ-می-دهد",
+      "sourceUrl": "https://www.asriran.com/fa/news/1175240/ناسا-به-یکی-از-عجیب-ترین-پرسش-های-فضایی-پ��سخ-می-دهد",
       "newsValues": {
         "timeliness": "high",
         "impact": "medium",
@@ -9038,7 +9104,7 @@
       "keep": true,
       "title": "Is Sports Diplomacy Still Possible?",
       "title_fa": "آیا دیپلماسی ورزشی همچنان امکان‌پذیر است؟",
-      "lead": "قدرت سخت بر جام جهانی امسال سایه افکنده است. این مقاله به بررسی این می‌پردازد که آیا در سایه تحولات ژئوپلیتیکی، دیپلماسی ورزشی همچنان می‌تواند نقش مؤثری ایفا کند یا خیر.",
+      "lead": "قدرت سخت بر جام جهانی امسال سایه افکنده است. این مقاله به بررسی این می‌پردازد که آیا در سایه تحولات ژئوپلیتیکی، دیپلماسی ورزشی همچنان م��‌تواند نقش مؤثری ایفا کند یا خیر.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://foreignpolicy.com/2026/07/02/sports-diplomacy-politics-world-cup-sportswashing-immigration-war/",
@@ -14860,7 +14926,7 @@
       "keep": true,
       "title": "Beloved Louisiana city worker drowns trying to save his granddaughter after she fell into lake",
       "title_fa": "کارگر محبوب شهر لوئیزیانا در تلاش برای نجات نوه‌اش که به دریاچه افتاده بود، غرق شد",
-      "lead": "کریس راشینگ، پدربزرگ فداکار و کارمند اداره هنر و رویدادهای فرهنگی شهر، در حین تلاش برای نجات ن��ه‌اش که به دریاچه افتاده بود، جان خود را از دست داد. او در برنا��ه‌ریزی جشن‌های چهارم ژوئیه نیز مشارکت داشت.",
+      "lead": "کریس راشینگ، پدربزرگ فداکار و کارمند اداره هنر و رویدادهای فرهنگی شهر، در حین تلاش برای نجات ن��ه‌اش که به دریاچه افتاده بود، جان خود را از دست داد. او در برنا��ه‌ریزی جشن‌های چهارم ژوئی�� نیز مشارکت داشت.",
       "category": "society",
       "region": "global",
       "sourceUrl": "https://www.independent.co.uk/news/world/americas/louisiana-drowned-lake-grandchild-chris-rushing-b3009062.html",
@@ -16606,7 +16672,7 @@
       "keep": true,
       "title": "افزایش شمار جان‌باختگان زمین‌لرزه در ونزوئلا به ۲۹۵۴ تن",
       "title_fa": "افزایش شمار جان‌باختگان زمین‌لرزه در ونزوئلا به ۲۹۵۴ تن",
-      "lead": "بر اساس آمارهای رسمی منتشر شده، شمار جان���باختگان دو زمین‌لرزه شدیدی که هفته گذشته ونزوئلا را لرزاند، به دست‌کم ۲۹۵۴ تن افزایش یافته است. این فاجعه طبیعی ابعاد گسترده‌ای داشته و تلفات انسانی بالایی برجای گذاشته است.",
+      "lead": "بر اساس آمارهای رسمی منتشر شده�� شمار جان���باختگان دو زمین‌لرزه شدیدی که هفته گذشته ونزوئلا را لرزاند، به دست‌کم ۲۹۵۴ تن افزایش یافته است. این فاجعه طبیعی ابعاد گسترده‌ای داشته و تلفات انسانی بالایی برجای گذاشته است.",
       "category": "disaster",
       "region": "global",
       "sourceUrl": "https://www.isna.ir/news/1405041408194/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%B4%D9%85%D8%A7%D8%B1-%D8%AC%D8%A7%D9%86-%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%B2%D9%85%DB%8C%D9%86-%D9%84%D8%B1%D8%B2%D9%87-%D8%AF%D8%B1-%D9%88%D9%86%D8%B2%D9%88%D8%A6%D9%84%D8%A7-%D8%A8%D9%87-%DB%B2%DB%B9%DB%B5%DB%B4-%D8%AA%D9%86",
@@ -23857,340 +23923,6 @@
       "pubDate": "Sat, 04 Jul 2026 15:24:00 GMT",
       "time": "۱۸:۵۴ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T17:18:51.702Z"
-    },
-    {
-      "id": "skynews_0",
-      "agencyId": "skynews",
-      "keep": true,
-      "title": "Two men jailed for stabbing TV presenter on street",
-      "title_fa": "دو مرد به دلیل چاق�� زد�� به مجری تلویزیون در خیابان زندانی شدند",
-      "lead": "دو مرد به دلیل چاقو زدن به یک مجری تلویزیون در بریتانیا زندانی شده‌اند. این پرونده استفاده دولت ایران از «عوامل نیابتی» جنایتکار در بریتانیا را برمل�� کرد.",
-      "category": "politics",
-      "region": "europe",
-      "sourceUrl": "https://news.sky.com/story/two-men-recruited-by-iran-jailed-for-stabbing-iranian-tv-presenter-on-london-street-13559993",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Fri, 03 Jul 2026 16:37:00 +0100",
-      "time": "۱۹:۰۷ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "reuters_1",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "Oil prices little changed as US-Iran peace efforts hold - Reuters",
-      "title_fa": "قیمت نفت با حفظ تلاش‌های صلح آمریکا و ایران ت��ییر چندانی نکرد",
-      "lead": "قیمت نفت با ادامه تلاش‌های صلح بین ایالات متحده و ایران، تغییر اندکی داشته است. این وضعیت ثبات نسبی را در بازار جهانی انرژی نشان می‌دهد.",
-      "category": "economy",
-      "region": "iran",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0NjRDBBT1J0ZC1KY0c5R1huTjYyNzk4NTg4VU1aa2dmMDVGeHNQcl92Tm1vY3FnQks5ZmE4bWU0YUpwdlFBZjYybVgwQ2FlU1U4TkFBWG9SbHZ6ejZiT0lYdTdVM21VR1JOVk05Qm0yb19pcjk2WEhyZUxjbmV2RklXcGNDVmF2ZURTWkQxNERESHBFcE1LN082a1lYc0MwNDJFUEQzM0J3WkNH?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 20,
-        "neutral": 70,
-        "negative": 10
-      },
-      "pubDate": "Fri, 03 Jul 2026 02:05:00 GMT",
-      "time": "۰۵:۳۵ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "khabaronline_3",
-      "agencyId": "khabaronline",
-      "keep": true,
-      "title": "ببینید| بنی‌اسرائیل ماهیت فرامین الهی را به نفع خود تغییر می‌دادند",
-      "title_fa": "ببینید| بنی‌اسرائیل ماهیت فرامین الهی را به نفع خود تغییر می‌دادند",
-      "lead": "صفحه دهم قرآن شامل آیات ۶۲ تا ۶۹ سوره بقره است که ��خاطب اصلی آن افراد باایمان هستند. این آیات به تغییر ماهیت فرامین الهی توسط بنی‌اسرائیل به نفع خود اشاره دارد.",
-      "category": "religion",
-      "region": "global",
-      "sourceUrl": "https://www.khabaronline.ir/news/2241705/%D8%A8%D9%86%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%85%D8%A7%D9%87%DB%8C%D8%AA-%D9%81%D8%B1%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D9%84%D9%87%DB%8C-%D8%B1%D8%A7-%D8%A8%D9%87-%D9%86%D9%81%D8%B9-%D8%AE%D9%88%D8%AF-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%D9%85%DB%8C-%D8%AF%D8%A7%D8%AF%D9%86%D8%AF",
-      "newsValues": {
-        "timeliness": "low",
-        "impact": "low",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "foreignpolicy_8",
-      "agencyId": "foreignpolicy",
-      "keep": true,
-      "title": "Venezuela’s Bungled Earthquake Response",
-      "title_fa": "واکنش ناموفق ونزوئلا به زلزله",
-      "lead": "واکنش دولت ونزوئلا به زلزله اخیر ناکارآمد توصیف شده است. در گذشته، بلایای طبیعی در این منطقه تغییرات سیاسی را ت��ریع کرده‌اند.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://foreignpolicy.com/2026/07/03/venezuela-earthquakes-rodriguez-machado-politics/",
-      "newsValues": {
-        "timeliness": "medium",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Fri, 03 Jul 2026 12:00:53 +0000",
-      "time": "۱۵:۳۰ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "rt_9",
-      "agencyId": "rt",
-      "keep": true,
-      "title": "British MPs demand ban on Russian children’s cartoon",
-      "title_fa": "نمایندگان پارلمان بریتانیا خواستار ممنوعیت کارتون کودکانه روسی شدند",
-      "lead": "نما��ندگان پارلمان بریتانیا خواستار اقدام علیه کارتون روسی «ماشا و خرس» شده‌اند. آنها ادعا می��کنند که این کارتون ممکن است به عنوان ابزاری بر��ی «قدرت نرم» استفاده شود.",
-      "category": "politics",
-      "region": "eurasia",
-      "sourceUrl": "https://www.rt.com/news/642534-uk-mp-russian-cartoon-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "Fri, 03 Jul 2026 12:00:19 +0000",
-      "time": "۱۵:۳۰ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "rt_10",
-      "agencyId": "rt",
-      "keep": true,
-      "title": "Nearly half of Americans don’t know what 4th of July is about – poll",
-      "title_fa": "نظرسنجی: نزدیک به نیمی از آمریکایی‌ها نمی‌دانند چه��رم ژوئیه درباره چیست",
-      "lead": "یک نظرسنجی نشان می‌دهد که نزدیک به نیمی از آمریکایی‌ها نمی‌توانند بگویند که چهارم ژوئیه چه چیزی را جشن می‌گیرد. اکثریت نیز در پاسخ به سوالات اساسی مدنی دچار مشکل ��ودند.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://www.rt.com/news/642526-americans-july-four/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Fri, 03 Jul 2026 11:59:41 +0000",
-      "time": "۱۵:۲۹ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "rt_11",
-      "agencyId": "rt",
-      "keep": true,
-      "title": "Macron’s final gift: A law for death",
-      "title_fa": "هدیه پایانی ماکرون: قانونی برای مرگ",
-      "lead": "در حالی که پارلمان فرانسه به نفع قانونی شدن اوتانازی رأی می‌دهد، یک دهه قدرت رئیس‌جمهور ماکرون نماد تاریک خود را تثبیت می‌کند. این قانون بحث‌های اخلاقی و اجتماعی گسترده‌ای را به ه��راه دارد.",
-      "category": "politics",
-      "region": "global",
-      "sourceUrl": "https://www.rt.com/news/642524-macron-gift-euthanasia-law/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 50,
-        "negative": 50
-      },
-      "pubDate": "Fri, 03 Jul 2026 11:11:51 +0000",
-      "time": "۱۴:۴۱ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "guardian_12",
-      "agencyId": "guardian",
-      "keep": true,
-      "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
-      "title_fa": "«فقط می‌توانم آن را منطقه جنگی توصی�� کنم»: امدادگران در جهنم پس از زلزله ونزوئلا",
-      "lead": "هزاران داوطلب به همراه تیم‌های خارجی در تلاش برای یافتن بازماندگان بیشتر در آوار زلزله ونزوئلا هستند. پس از دو زلزله ویرانگر در سواحل شمالی ونزوئلا، منطقه به یک \"منطقه جنگی\" تبدیل شده است.",
-      "category": "disaster",
-      "region": "americas",
-      "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 10,
-        "neutral": 0,
-        "negative": 90
-      },
-      "pubDate": "Fri, 03 Jul 2026 11:08:44 GMT",
-      "time": "۱۴:۳۸ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "nytimes_13",
-      "agencyId": "nytimes",
-      "keep": true,
-      "title": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
-      "title_fa": "صف‌��ای طولانی بنزین، توهم عادی بودن زندگی در روسیه زمان جنگ را درهم شکست",
-      "lead": "صف‌های طولانی برای بنزین در روسیه، توهم عادی بودن زندگی در این کشور در زمان جنگ را از ��ین برده است. یکی از شهروندان روس با حیرت و سرخوردگی از این انتظارها پرسید: \"آیا ما اکنون در شوروی هستیم؟\"",
-      "category": "military",
-      "region": "eurasia",
-      "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 10,
-        "negative": 90
-      },
-      "pubDate": "Fri, 03 Jul 2026 10:47:14 +0000",
-      "time": "۱۴:۱۷ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "skynews_14",
-      "agencyId": "skynews",
-      "keep": true,
-      "title": "Bus plunges into ravine, killing 40",
-      "title_fa": "سقوط اتوبوس به دره و کشته شدن ۴۰ نفر",
-      "lead": "چهل نفر در پی سقوط یک اتوبوس مسافربری بیش از حد پر به داخل دره‌ای در پاکستان جان باختند. این ح��دثه تلخ تلفات جانی گسترده‌ای به همراه داشت.",
-      "category": "accident",
-      "region": "asia",
-      "sourceUrl": "https://news.sky.com/story/bus-plunges-into-ravine-in-pakistan-killing-40-13560085",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 0,
-        "negative": 100
-      },
-      "pubDate": "Fri, 03 Jul 2026 11:27:00 +0100",
-      "time": "۱۳:۵۷ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "bbc_0",
-      "agencyId": "bbc",
-      "keep": true,
-      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-      "title_fa": "فرانسه در اوج موج گرما ۲۰۲۵ مورد مرگ و میر اضافه را ثبت کرده و اروپا خود را برای آب و هوای بسیار شدیدتر آماده می‌کند",
-      "lead": "پیش‌بینی‌کنندگان هواشناسی در مورد دمای بسیار شدیدتر در قاره اروپا طی چند روز آینده هشدار می‌دهند. این موج ��رما در فرانسه منجر به مرگ و میر قابل توجهی شده و نگرانی‌ها را در مورد تغییرات اقلیمی افزایش داده است.",
-      "category": "environment",
-      "region": "europe",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": false
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 20,
-        "negative": 80
-      },
-      "pubDate": "Fri, 03 Jul 2026 10:23:32 GMT",
-      "time": "۱۳:۵۳ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "rt_1",
-      "agencyId": "rt",
-      "keep": true,
-      "title": "Merz’s ratings plummet to record low",
-      "title_fa": "محبوبیت مرز به پایین‌ترین حد خود سقوط کرد",
-      "lead": "یک نظرسنجی ARD-DeutschlandTrend نشان می‌دهد که مجموعاً ۸۴ درصد ا�� آلمانی‌ها از عملکرد صدراعظم فریدریش مرز ناراضی هستند. این آمار نشان‌دهنده کاهش بی‌سابقه محبوبیت اوست.",
-      "category": "politics",
-      "region": "europe",
-      "sourceUrl": "https://www.rt.com/news/642515-merz-geramny-afd-weidel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 30,
-        "negative": 70
-      },
-      "pubDate": "Fri, 03 Jul 2026 09:02:54 +0000",
-      "time": "۱۲:۳۲ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "skynews_2",
-      "agencyId": "skynews",
-      "keep": true,
-      "title": "Woman wanted over Monaco bombing 'that targeted Ukrainian tycoon' is named",
-      "title_fa": "زن تحت تعقیب در ارتباط با بمب‌گذاری موناکو که «یک سرمایه‌دار اوکراینی را هدف قرار داده بود» نام‌گذاری شد",
-      "lead": "اینترپل نام زنی را اعلام کرده است که به دلیل بمب‌گذاری در موناکو تحت تعقیب است. این بمب‌گذاری ظاهراً یک سرمایه‌دار اوکراینی با ارتباطات روسی را هدف قرار داده بود.",
-      "category": "politics",
-      "region": "eurasia",
-      "sourceUrl": "https://news.sky.com/story/arrest-warrant-issued-for-woman-wanted-over-monaco-bombing-13560051",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "medium",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 40,
-        "negative": 60
-      },
-      "pubDate": "Fri, 03 Jul 2026 08:38:00 +0100",
-      "time": "۱۱:۰۸ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
-    },
-    {
-      "id": "skynews_3",
-      "agencyId": "skynews",
-      "keep": true,
-      "title": "Venezuelan leader hits out at 'disgraceful' misinformation over earthquake response",
-      "title_fa": "رهبر ونزوئلا به «اطلاعات نادرست شرم‌آور» در مورد واکنش به زلزله حمله کرد",
-      "lead": "دلسی رودریگز، رئیس‌جمهور موقت ونزوئلا، از واکنش دولت خود به زمین‌لرزه‌های ویرانگر هفته گذشته، که جان ۲۶۴۵ نفر را گرفت، به شدت دفاع کرد. او به شدت از اتهامات مربوط به مدیریت بحران انتقاد کرد.",
-      "category": "politics",
-      "region": "americas",
-      "sourceUrl": "https://news.sky.com/story/venezuelas-interim-president-delcy-rodriguez-defends-earthquake-response-as-more-than-2500-confirmed-dead-13560045",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 30,
-        "negative": 70
-      },
-      "pubDate": "Fri, 03 Jul 2026 08:15:00 +0100",
-      "time": "۱۰:۴۵ - ۱۲ تیر",
-      "analyzed_at": "2026-07-04T17:04:25.234Z"
     }
   ]
 }
