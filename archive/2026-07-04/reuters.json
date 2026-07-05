@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "reuters_0",
@@ -302,6 +302,28 @@
         "negative": 50
       },
       "analyzed_at": "2026-07-04T13:33:35.837Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "'Let us wail!' Iranians flock to Khamenei's funeral after wartime death - Reuters",
+      "title_fa": "«بیایید زاری کنیم!» ایرانیان پس از مرگ [فردی] در زمان جنگ، به مراسم تشییع جنازه آیت��الله خامنه‌ای سرازیر شدند",
+      "lead": "مردم ایران برای شرکت در مراسم تشییع جنازه آیت‌الله خامنه‌ای پس از مرگِ یک فرد در ��مان جنگ، به این رویداد بزرگ سرازیر شدند. این اجتماع وسیع�� بازتاب‌دهنده سوگواری عمیق و ابراز احسا��ات شدید عمومی است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS0NHb181V19lQUxyWlFMQnU5WjNucmZBZHl3NlQtUzZTRFN6aVgweE4tdVJrNVlOYVQzQTExdllpN3NHaWlHcXZTSENOa3hWeEpycTBHdGJLRVhzYlhRdEs1UVk4VE1pR3ZnTzEyb0Z3YmxBUUV5cHJEV2VLMjAzUXp1Q1FfVWY1aWNmYVo3TUgxOVdEdExNenNKT1RyQlRFVWlrakprSWV0Zw?oc=3",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-04T13:48:45.822Z"
     }
   ]
 }
