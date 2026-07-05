@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "nytimes",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "nytimes_6",
@@ -57,7 +57,7 @@
       "keep": true,
       "title": "Putin Visits Battlefield and Vows to Take More of Ukraine",
       "title_fa": "پوتین از میدان نبرد بازدید ��رد و قول داد مناطق بیشتری از اوکراین را تصرف کند",
-      "lead": "رهبر روسیه از میدان نبرد بازدید کرد و قول داد من����طق بیشتری از اوکراین را تصرف کند. او دستاوردهای اوکراین در میدان جنگ را «خیالی» خواند و رهبران�� را «بازیگر» نامید.",
+      "lead": "رهبر روسیه از میدان نبرد بازدید کرد و قول داد من������طق بیشتری از اوکراین را تصرف کند. او دستاوردهای اوکراین در میدان جنگ را «خیالی» خواند و رهبران�� را «بازیگر» نامید.",
       "category": "politics",
       "region": "europe",
       "sourceUrl": "https://www.nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html",
@@ -194,6 +194,30 @@
       "pubDate": "Thu, 02 Jul 2026 14:14:38 +0000",
       "time": "۱۷:۴۴ - ۱۱ تیر",
       "analyzed_at": "2026-07-04T11:33:26.581Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Can the World’s Largest Stadium Explain the Global Economy?",
+      "title_fa": "آیا بزرگترین استادیوم جهان می‌تواند اقتصاد جهانی را توضیح دهد؟",
+      "lead": "نرخ‌های رشد بالا و صادرات فزاینده در ویتنام، نارضایتی‌های عمیقی را در یکی از جاه‌��لب‌ترین کشورهای آسیا پنهان می‌کند. این وضعیت می‌تواند به عنوان نمونه‌ای برای درک پیچیدگی���های اقتصاد جهانی عمل کند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/02/world/asia/vietnam-stadium-corporate-inequality.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "pubDate": "Thu, 02 Jul 2026 19:43:36 +0000",
+      "time": "۲۳:۱۳ - ۱۱ تیر",
+      "analyzed_at": "2026-07-04T11:48:15.578Z"
     }
   ]
 }
