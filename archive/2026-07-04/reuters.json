@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "reuters",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "reuters_0",
@@ -526,6 +526,30 @@
         "negative": 70
       },
       "analyzed_at": "2026-07-04T15:33:54.981Z"
+    },
+    {
+      "id": "reuters_4",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Gold slips as US-Iran tensions spark inflation, rate hike fears - Reuters",
+      "title_fa": "افت قیمت طلا در پ�� افزایش تنش‌های آمریکا و ایران و ترس از تورم و افزایش نرخ بهر��",
+      "lead": "با تشدید تنش‌ها بین آمریکا و ایران، قیمت طلا کاهش یافت. این وضعیت به دلیل نگرانی‌ها از تورم و احتمال افزایش نرخ بهره در بازارهای جهانی رخ داده است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWpkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Tue, 30 Jun 2026 01:56:29 GMT",
+      "time": "۰۵:۲�� - ۹ تیر",
+      "analyzed_at": "2026-07-04T16:00:09.882Z"
     }
   ]
 }
