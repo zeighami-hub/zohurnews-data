@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "guardian",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "guardian_5",
@@ -386,6 +386,30 @@
       "pubDate": "Fri, 03 Jul 2026 14:57:34 GMT",
       "time": "۱۸:۲۷ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T16:34:25.292Z"
+    },
+    {
+      "id": "guardian_12",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
+      "title_fa": "«فقط می‌توانم آن را منطقه جنگی توصی�� کنم»: امدادگران در جهنم پس از زلزله ونزوئلا",
+      "lead": "هزاران داوطلب به همراه تیم‌های خارجی در تلاش برای یافتن بازماندگان بیشتر در آوار زلزله ونزوئلا هستند. پس از دو زلزله ویرانگر در سواحل شمالی ونزوئلا، منطقه به یک \"منطقه جنگی\" تبدیل شده است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 0,
+        "negative": 90
+      },
+      "pubDate": "Fri, 03 Jul 2026 11:08:44 GMT",
+      "time": "۱۴:۳۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-04T17:04:25.234Z"
     }
   ]
 }
