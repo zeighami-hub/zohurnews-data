@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "bbc",
-  "total": 19,
+  "total": 20,
   "articles": [
     {
       "id": "bbc_13",
@@ -458,6 +458,30 @@
       "pubDate": "Sun, 05 Jul 2026 01:53:01 GMT",
       "time": "۰۵:۲۳ - ۱۴ تیر",
       "analyzed_at": "2026-07-05T15:17:27.175Z"
+    },
+    {
+      "id": "bbc_4",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
+      "title_fa": "گاوچران‌ها، جت‌های جنگنده و گشت م��زی آمریکا؛ پشت پرده کارزار بزرگ جذب نیرو توسط ترامپ",
+      "lead": "نیروی فضایی و گشت مرزی و گمرک ایالات متحده از یک رویداد گاوبازی (رُدئو) به عنوان راهی برای افزایش آمار جذب نیرو استفاده می‌کنند. این رویکرد بخشی از کارزار بزرگ جذب ن��رو است که ظاهراً ��ا حمایت ترامپ انجام می‌شود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 23:33:27 GMT",
+      "time": "۰۳:۰۳ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T15:20:47.915Z"
     }
   ]
 }
