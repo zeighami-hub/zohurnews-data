@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "foreignpolicy",
-  "total": 6,
+  "total": 9,
   "articles": [
     {
       "id": "foreignpolicy_10",
@@ -146,6 +146,78 @@
       "pubDate": "Wed, 01 Jul 2026 18:23:06 +0000",
       "time": "۲۱:۵۳ - ۱۰ تیر",
       "analyzed_at": "2026-07-05T00:18:56.951Z"
+    },
+    {
+      "id": "foreignpolicy_4",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Angsty in Ankara",
+      "title_fa": "اضطراب در آنکارا",
+      "lead": "پرسش اصلی این است که آیا ناتو می‌تواند از نیاز به راضی نگه داشتن ترامپ عبور کند. این موضوع نگرانی‌هایی را در آنکارا و پایتخت‌های اروپایی در مورد آینده ائتلاف و سیاست‌های آن برانگیخته ا��ت.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/02/nato-summit-ankara-trump-rutte-erdogan-ukraine-iran/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Thu, 02 Jul 2026 22:03:52 +0000",
+      "time": "۰۱:۳۳ - ۱۲ تیر",
+      "analyzed_at": "2026-07-05T10:06:12.865Z"
+    },
+    {
+      "id": "foreignpolicy_5",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Is Sports Diplomacy Still Possible?",
+      "title_fa": "آیا دیپلماسی ورزشی همچنان امکان‌پذیر است؟",
+      "lead": "قدرت سخت بر جام جهانی امسال سایه افکن��ه است. این مقاله به بررسی این می‌پردازد که آیا در سایه تحولات ژئوپلیتیکی، دیپلماسی ور��شی همچنا�� م��‌تواند نقش مؤثری ایفا کند یا خیر.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/02/sports-diplomacy-politics-world-cup-sportswashing-immigration-war/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Thu, 02 Jul 2026 21:31:30 +0000",
+      "time": "۰۱:۰۱ - ۱۲ تیر",
+      "analyzed_at": "2026-07-05T10:06:12.865Z"
+    },
+    {
+      "id": "foreignpolicy_6",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Russia’s 11-Hour Assault on Kyiv",
+      "title_fa": "حمله ۱۱ ساعته روسیه به کی‌یف",
+      "lead": "بمباران مرگبار ��وشکی و پهپاد�� روسیه به کی‌یف در تلافی حملات اخیر اوکراین به زیرساخت‌های حیاتی روسیه صورت گرفت. این حمله شدید، خسارات گسترده‌ای به پایتخت اوکراین وارد کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/02/russia-ukraine-missiles-drones-kyiv-oil-energy-critical-infrastructure-strikes/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 02 Jul 2026 20:49:19 +0000",
+      "time": "۰۰:۱۹ - ۱۲ تیر",
+      "analyzed_at": "2026-07-05T10:06:12.865Z"
     }
   ]
 }
