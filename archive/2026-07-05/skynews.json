@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_1",
@@ -26,6 +26,30 @@
       "pubDate": "Sat, 04 Jul 2026 10:20:00 +0100",
       "time": "۱۲:۵۰ - ۱۳ تیر",
       "analyzed_at": "2026-07-05T12:34:17.740Z"
+    },
+    {
+      "id": "skynews_2",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Chinese pastor freed after Donald Trump raised issue of his release with Xi Jinping",
+      "title_fa": "کشیش چینی پس از طرح موضوع آزادی‌اش توسط دونالد ترامپ با شی جین‌پینگ آزاد شد",
+      "lead": "یک کشیش چینی پس از مداخله دونالد ترامپ برای آزادی او، از زندان آزاد شد. خانواده‌اش این اتفاق را «معجزه» توصیف کرده‌اند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/chinese-pastor-freed-after-donald-trump-raised-issue-of-his-release-with-xi-jinping-13560578",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sun, 05 Jul 2026 10:09:00 +0100",
+      "time": "۱۲:۳۹ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T15:17:27.175Z"
     }
   ]
 }
