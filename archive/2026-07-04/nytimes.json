@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 30,
   "articles": [
     {
       "id": "nytimes_6",
@@ -626,6 +626,102 @@
       "pubDate": "Fri, 03 Jul 2026 17:19:51 +0000",
       "time": "۲۰:۴۹ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+      "title_fa": "حضور گسترده مردم در تهران برای مراسم تشییع رهبر انقلاب",
+      "lead": "����مزمان با آغاز مراسم چندین روزه عزاداری عمومی، مردم ایران از تابوت آیت‌الله علی ��امنه‌ای، رهبر فقید، دیدن کردند. ایشان در آغاز حملات آمریکا و اسرائیل به شهادت رسیده بود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sat, 04 Jul 2026 20:39:12 +0000",
+      "time": "۰۰:۰۹ - ۱۴ تیر",
+      "analyzed_at": "2026-07-04T23:57:40.190Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Prince Harry Will Travel to London, but Without His Family",
+      "title_fa": "شاهزاده هری بدون خانواده خود به لندن سفر خواهد کرد",
+      "lead": "شاهزاده هری برای سفر به لندن آماده می‌شود، اما همسرش مگان و فرزندانشان او را همراهی نخواهند کرد. با این حال، یک منبع نزدیک به خانواده عنوان کرد که ممکن است آنها برای بخش‌های دیگر سفر او خارج از پایتخت به او ملحق شوند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/04/world/europe/prince-harry-london-trip-meghan-children.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 23:18:51 +0000",
+      "time": "۰۲:۴۸ - ۱۴ تیر",
+      "analyzed_at": "2026-07-04T23:57:40.190Z"
+    },
+    {
+      "id": "nytimes_13",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Denmark’s century-old Fourth of July party looks different this year.",
+      "title_fa": "جشن یک‌��د ساله چهارم ژوئیه دانمارک امسال متفاوت به نظر می‌رسد.",
+      "lead": "جشن سنتی چهارم ژوئیه در دانمارک امسال تح��‌الشعاع تهدیدهای رئیس‌جمهور ترامپ مبنی بر تصرف گرینلند قرار گرفته است. این رویداد شاهد حذف مقاما�� آمریکایی از برنامه و حضور اعتراضات بود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/denmarks-century-old-fourth-of-july-party-looks-different-this-year",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sat, 04 Jul 2026 21:40:49 +0000",
+      "time": "۰۱:۱۰ - ۱۴ تیر",
+      "analyzed_at": "2026-07-04T23:57:40.190Z"
+    },
+    {
+      "id": "nytimes_14",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Canada Has a New Obsession: Soccer",
+      "title_fa": "کانادا وسواس جدیدی پیدا کرده است: فوتبال",
+      "lead": "حضور شگفت‌انانگیز کانادا در جام جهانی روز شنبه با بازی مقابل مراکش به پایان رسید، اما موفقیت‌های این تیم و کشور میزبان احتمالاً ماندگار خواهد بود. این رویداد علاقه‌ای جدید به فوتبال در کانادا ایجاد کرده است.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/04/world/canada/world-cup-canada-morocco.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 21:37:21 +0000",
+      "time": "۰۱:۰۷ - ۱۴ تیر",
+      "analyzed_at": "2026-07-04T23:57:40.190Z"
     }
   ]
 }
