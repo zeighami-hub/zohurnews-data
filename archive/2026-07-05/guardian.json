@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "guardian",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "guardian_7",
@@ -266,6 +266,54 @@
       "pubDate": "Sat, 04 Jul 2026 11:40:31 GMT",
       "time": "۱۵:۱۰ - ۱۳ تیر",
       "analyzed_at": "2026-07-05T12:34:17.740Z"
+    },
+    {
+      "id": "guardian_10",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "UK woman, 21, arrested in Thailand after allegedly stabbing boyfriend to death",
+      "title_fa": "زن ۲۱ ساله بریتانیایی به اتهام قتل دوست پسر خود در تایلند دستگیر شد.",
+      "lead": "یک زن ۲۱ ساله اهل بریتانیا در تایلند به ظن قتل دوست پ��رش با ضربات چاقو بازداشت شده است. پلیس جسد مردی ۳۴ ساله را در یک خانه لوکس اجا��ه‌ای در منطقه پاتایا کشف کرده است.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/04/uk-woman-arrested-thailand-pattaya-man-stabbed",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 04 Jul 2026 14:51:46 GMT",
+      "time": "۱۸:۲۱ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T12:48:51.729Z"
+    },
+    {
+      "id": "guardian_11",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Overseas education project for women and girls axed by UK after two years",
+      "title_fa": "پروژه آموزشی برون‌مرزی زنان و دختران توسط بریتانیا پس از دو سال متوقف شد.",
+      "lead": "بریتانیا یک پروژه برجسته آموزشی را که با هدف حفظ یک میلیون دختر در مدارس آفریقا، آسیا و خاورمیانه اجرا می‌شد، پس از دو سال لغو کرد. این تصمیم در پی کاهش کمک‌های مالی صورت گرفته است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 04 Jul 2026 08:00:08 GMT",
+      "time": "۱۱:۳۰ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T12:48:51.729Z"
     }
   ]
 }
