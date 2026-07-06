@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "skynews_1",
@@ -50,6 +50,54 @@
       "pubDate": "Sun, 05 Jul 2026 10:09:00 +0100",
       "time": "۱۲:۳۹ - ۱۴ تیر",
       "analyzed_at": "2026-07-05T15:17:27.175Z"
+    },
+    {
+      "id": "skynews_0",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Two men jailed for stabbing TV presenter on street",
+      "title_fa": "دو مرد به دلیل حمله با چاقو به مجری تلویزیون در خیابان زندانی شدند",
+      "lead": "دو مرد به دلیل حمله با چاقو به یک مجری تلویز��ون در بریتانیا زندانی شده‌اند. این پرونده استفاده دولت ایران از «عوامل نیابتی» مجرم در بریتانیا را افشا کرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/two-men-recruited-by-iran-jailed-for-stabbing-iranian-tv-presenter-on-london-street-13559993",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 16:37:00 +0100",
+      "time": "۱۹:۰۷ - ۱۲ تیر",
+      "analyzed_at": "2026-07-05T17:33:50.522Z"
+    },
+    {
+      "id": "skynews_9",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Woman wanted over Monaco bombing 'that targeted Ukrainian tycoon' is named",
+      "title_fa": "زنی که به دلیل بمب‌گذاری در موناکو و هدف قرار دادن «تاجر اوکراینی» تحت ت��قیب بود، نامش فاش شد",
+      "lead": "اینترپ�� نام زنی را که به دلیل بمب‌گذاری در موناکو و هدف قرار دادن یک تاجر اوکراینی با ارتباطات روسی تحت تعقیب است، فاش کرد. این حادثه دارای ابعاد بین‌المللی و احتمالا مرتبط با درگیری‌های ژئوپلیتیکی است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/arrest-warrant-issued-for-woman-wanted-over-monaco-bombing-13560051",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 03 Jul 2026 08:38:00 +0100",
+      "time": "۱۱:۰۸ - ۱۲ تیر",
+      "analyzed_at": "2026-07-05T17:33:50.522Z"
     }
   ]
 }
