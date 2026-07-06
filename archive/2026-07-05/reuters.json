@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "reuters",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "reuters_0",
@@ -68,7 +68,7 @@
         "negative": 0
       },
       "pubDate": "Tue, 30 Jun 2026 10:49:43 GMT",
-      "time": "۱۴:۱۹ - �� تیر",
+      "time": "۱۴:۱۹ - ���� تیر",
       "analyzed_at": "2026-07-05T00:48:15.844Z"
     },
     {
@@ -208,6 +208,28 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-05T11:18:31.547Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
+      "title_fa": "حضور سه پسر آیت‌الله خامنه‌ای، رهبر کشته‌شده ایران، در مراسم تشییع جنازه و غیبت جانشین",
+      "lead": "سه پسر آیت‌الله علی خامنه‌ای، رهبر ایران، در مراسم تشییع جنازه‌ای حضور یافتند. این در حالی است که جان��ین احتمالی او در این ��راسم دیده نشد، که موجب گمانه‌زنی‌هایی شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmcyb0xaRjZMcUNjSDFQODFUX0Y1TDg0bDlHUkxLZE5FeWZQajJtZnRKYjRWdzZjN0RmRWcwdFN1dWtkLXdhUWFGNGJKVTFSSDJVRnV4Yy05YWJVbjh4RjJyS1YxdnBOMW9jQVp5Uk9Za1hxYmd1RndVZER6dTBSa0V2cnQxTTFscG5rY1hpV3NEMVNIeWJ0TFF4WE9XcEdoanFyVmtkenhSbXhvdnU1c3BQNEVOVmM1OHgyVmJvdGR3aWc?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-07-05T11:33:36.787Z"
     }
   ]
 }
