@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_13",
@@ -482,6 +482,78 @@
       "pubDate": "Sat, 04 Jul 2026 23:33:27 GMT",
       "time": "۰۳:۰۳ - ۱۴ تیر",
       "analyzed_at": "2026-07-05T15:20:47.915Z"
+    },
+    {
+      "id": "bbc_6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "title_fa": "اوکراین یک پایانه نفتی مهم در سنت پترزبورگ روسیه ��ا هدف قرار داد",
+      "lead": "اوکراین اعلام کرد که یک پایانه نفتی بزرگ در شهر سنت پترزبورگ روسیه را مورد حمله قرار داده است. ولودیمیر زل��سکی، رئیس‌جمهور اوکراین، اظهار داشت که این هدف‌گیری زیرساخت‌های کلیدی را ���� برای جنگ روسیه درآمدزا هستند، شامل می‌شود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 04 Jul 2026 18:41:25 GMT",
+      "time": "۲۲:۱۱ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T16:18:50.325Z"
+    },
+    {
+      "id": "bbc_7",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
+      "title_fa": "لباس دیور، آدام سندلر و ساقدوش افتخاری: آنچه از عروسی تیلور و تراویس می‌دانیم",
+      "lead": "این زوج پس از ماه‌ها گمانه‌زنی درباره زمان، مکان و چگونگی برگزاری مراسم، روز جمعه در نیویورک ازدواج کردند. جزئیات جذابی از این عروسی، شامل لباس دیور، حضور آدام سندلر و ساقدوش افتخاری، منتشر شده است.",
+      "category": "society",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 17:51:04 GMT",
+      "time": "۲۱:۲۱ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T16:18:50.325Z"
+    },
+    {
+      "id": "bbc_10",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
+      "title_fa": "«گرم‌تر و گرم‌تر و گرم‌تر» - اقلیم جدید اروپا در هفت نمودار",
+      "lead": "این گزارش اقلیم جدید اروپا را در هفت نمودار بررسی می‌کند، با اشاره به اینکه رکوردهای دمایی در ماه ژوئن شکسته شده‌اند. دانشمندان هشدار می‌دهند که این نشانه‌ای از اتفاقات آتی است و وضعیت اقلیمی قاره در حال تغییر است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 04 Jul 2026 00:57:05 GMT",
+      "time": "۰۴:۲۷ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T16:18:50.325Z"
     }
   ]
 }
