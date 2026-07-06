@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "bbc",
-  "total": 27,
+  "total": 29,
   "articles": [
     {
       "id": "bbc_2",
@@ -650,6 +650,54 @@
       "pubDate": "Sat, 04 Jul 2026 15:45:15 GMT",
       "time": "۱۹:۱۵ - ۱۳ تیر",
       "analyzed_at": "2026-07-04T20:29:27.462Z"
+    },
+    {
+      "id": "bbc_5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
+      "title_fa": "مراسم تشییع رهبر سابق ایران \"یک لحظه به شدت سیاسی\" است",
+      "lead": "مقامات پیش‌بینی می‌کنند که تا ۲۰ میلیون نفر در مراسم تشییع اخیر در ایران و عراق طی روزهای آینده شرکت کنند. این رویداد به عنوان یک لحظه به شدت سیاسی ارزیابی شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 21:46:43 GMT",
+      "time": "۰۱:۱۶ - ۱۴ تیر",
+      "analyzed_at": "2026-07-04T23:57:40.190Z"
+    },
+    {
+      "id": "bbc_6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Eala wins 'for all the girls with ruffled socks and chubby cheeks'",
+      "title_fa": "ایالا قهرمانی خود را به \"همه دختران با جوراب‌های چین���دار و لپ‌های تپل\" تقدیم کرد",
+      "lead": "الکساندرا ایالا پیروزی خیره‌کننده خود بر ایگا سویاتک، قهرمان مدافع ویمبلدون را به \"همه دختران با جوراب‌های چین‌دار و لپ‌های تپل\" تقدیم کرد. این اظهارنظر در جشن قهرمانی او در ویمبلدون صورت گرفت.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/cjwgpz3wj69o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 20:19:11 GMT",
+      "time": "۲۳:۴۹ - ۱۳ تیر",
+      "analyzed_at": "2026-07-04T23:57:40.190Z"
     }
   ]
 }
