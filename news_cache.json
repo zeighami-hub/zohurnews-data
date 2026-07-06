@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T00:33:26.893Z",
-  "total": 1014,
-  "new_this_cycle": 1,
+  "generated_at": "2026-07-06T00:48:32.061Z",
+  "total": 1019,
+  "new_this_cycle": 6,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,150 @@
     }
   ],
   "articles": [
+    {
+      "id": "foreignpolicy_2",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "The Political Aftershocks of Venezuela’s Earthquakes",
+      "title_fa": "پس‌لرزه‌های سیاسی زمین‌لرزه‌های ونزوئلا",
+      "lead": "زمین‌لرزه‌ها در ونزوئلا ضعف دِلسی رودریگز در قدرت را آشکار کرده است. این فجایع نشان‌دهنده مشکلات در رهبری سیاسی کشور بود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/01/venezuela-earthquakes-us-politics-rodriguez-maduro-machado/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 01 Jul 2026 21:32:23 +0000",
+      "time": "۰۱:۰۲ - ۱۱ تیر",
+      "analyzed_at": "2026-07-06T00:48:29.762Z"
+    },
+    {
+      "id": "foreignpolicy_3",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "USMCA Was Once Trump’s Brainchild. Now, It’s a Dead Deal Walking.",
+      "title_fa": "USMCA زمانی طرح ترامپ بود؛ اکنون، توافقی مرده است.",
+      "lead": "توافق USMCA که زمانی طرح دونالد ترامپ بود، اکنون در وضعیت نامشخصی قرار دارد. کاخ سفید امیدوار است بررسی‌های سالانه کسری تجاری ایالات متحده با مکزیک و کانادا را مهار کند.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/01/usmca-renewal-us-canada-mexico-trade-deficit-annual-reviews/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "pubDate": "Wed, 01 Jul 2026 21:18:05 +0000",
+      "time": "۰۰:۴۸ - ۱۱ تیر",
+      "analyzed_at": "2026-07-06T00:48:29.762Z"
+    },
+    {
+      "id": "foreignpolicy_4",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Bangladesh Sends Signal With China Visit",
+      "title_fa": "سفر نخست‌وزیر بنگلادش به چین پیامی مهم دارد",
+      "lead": "بنگلادش با سفر نخست‌وزیر خود به چین سیگنالی مهم ارسال می‌کند. در این سفر، دو کشور \"عصر جدیدی\" در روابط خود را اعلام کردند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/01/bangladesh-china-rahman-visit-diplomacy-india/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Wed, 01 Jul 2026 21:09:26 +0000",
+      "time": "۰۰:۳۹ - ۱۱ تیر",
+      "analyzed_at": "2026-07-06T00:48:29.762Z"
+    },
+    {
+      "id": "foreignpolicy_5",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "What to Know About Ethiopia’s Debt Breakthrough",
+      "title_fa": "آنچه باید درباره گشایش اتیوپی در زمینه بدهی بدانید",
+      "lead": "روند کاهش بدهی اتیوپی، اختلافات در سیستم مالی جهانی را برجسته کرده است. این گشایش مالی پیامدهای گسترده‌ای برای سیاست‌های اقتصادی بین‌المللی دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/01/ethiopia-debt-relief-g-20-uk-france-china-abiy-ahmed/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Wed, 01 Jul 2026 20:41:20 +0000",
+      "time": "۰۰:۱۱ - ۱۱ تیر",
+      "analyzed_at": "2026-07-06T00:48:29.762Z"
+    },
+    {
+      "id": "foreignpolicy_6",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Trans-Atlanticism Isn’t Dead—It’s Being Renegotiated",
+      "title_fa": "فراآتلانتیک‌گرایی نمرده است؛ در حال بازنگری است",
+      "lead": "گزارش‌ها مبنی بر فروپاشی ناتو به شدت اغراق‌آمیز بوده است. روابط فراآتلانتیک در حال بازنگری و مذاکره مجدد است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/01/nato-summit-transatlantic-alliance-dead-alive-trump-russia-defense-geopolitics/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Wed, 01 Jul 2026 18:50:18 +0000",
+      "time": "۲۲:۲۰ - ۱۰ تیر",
+      "analyzed_at": "2026-07-06T00:48:29.762Z"
+    },
+    {
+      "id": "foreignpolicy_7",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Is Meloni Done With Trump?",
+      "title_fa": "آیا ملونی با ترامپ قطع رابطه کرده است؟",
+      "lead": "یک نزاع اخیر ممکن است آخرین ضربه بر تابوت راست افراطی فراآتلانتیک باشد. این حادثه می‌تواند به معنای پایان روابط نزدیک بین جورجا ملونی و دونالد ترامپ باشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/01/meloni-trump-photo-italy-us-europe-far-right/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 01 Jul 2026 18:23:06 +0000",
+      "time": "۲۱:۵۳ - ۱۰ تیر",
+      "analyzed_at": "2026-07-06T00:48:29.762Z"
+    },
     {
       "id": "economist_2",
       "agencyId": "economist",
@@ -912,7 +1056,7 @@
       "keep": true,
       "title": "EasyJet agrees ‘in principle’ to £5.2bn offer from US investor",
       "title_fa": "ایزی‌جت با پیشنهاد ۵.۲ میلیارد پوندی سرمایه‌��ذ��ر آمریکایی «اصولاً» موافقت کرد",
-      "lead": "شرکت هواپیمایی ایزی‌جت به صورت \"اصولی\" با پیشنهاد ۵.۲ میلیارد پوندی یک سرمایه‌گذار آمریکایی موافقت کرده است. این توافق پس از ماه‌ها مذاکرات دشوار، پیشرفت چشمگیری برای این شرکت‌ها محسوب می‌شود.",
+      "lead": "شرکت هواپیمایی ایزی‌جت به صورت \"اصولی\" با پیشنهاد ۵.۲ میلیارد پوندی یک سرمایه‌گذار آمریکایی موافقت کرده است. این توافق پس از ماه‌ها مذاکرات دشوار، پ��شرفت چشمگیری برای این شرکت‌ها محسوب می‌شود.",
       "category": "business",
       "region": "global",
       "sourceUrl": "https://www.independent.co.uk/news/uk/home-news/easyjet-takeover-bid-offer-castlelake-b3009372.html",
@@ -1194,7 +1338,7 @@
       "keep": true,
       "title": "خرافات هواداران آرژانتین درباره همسر مسی",
       "title_fa": "خرافات هواداران آرژانتین درباره همسر مسی",
-      "lead": "انتشار تصاویر آنتونلا روکوتزو، همسر مسی، با فرزندانش و پیراهن‌های آرژانتین، به سوژه داغ هواداران در جام جهانی ۲۰۲۶ تبدیل شده است. بسیاری از طرفداران بر این باورند که سبک خاص پوشش او و انتشار این عکس‌ها، طلسمی خوش‌یمن برای موفقیت لیونل مسی و تیم ملی آرژانتین است.",
+      "lead": "انتشار تصاویر آنتونلا روکوتزو، همسر مسی، با فرزندانش و پیراهن���های آرژانتین، به سوژه داغ هواداران در جام جهانی ۲۰۲۶ تبدیل شده است. بسیاری از طرفداران بر این باورند که سبک خاص پوشش او و انتشار این عکس‌ها، طلسمی خوش‌یمن برای موفقیت لیونل مسی و تیم ملی آرژانتین است.",
       "category": "sports",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1175406/%D8%AE%D8%B1%D8%A7%D9%81%D8%A7%D8%AA-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%87%D9%85%D8%B3%D8%B1-%D9%85%D8%B3%DB%8C",
@@ -1478,7 +1622,7 @@
       "id": "khabaronline_11",
       "agencyId": "khabaronline",
       "keep": true,
-      "title": "دریادار ایرانی: دشمن خود را آماده کند/ دشمن امروز نه با یک کشور، بلکه با مقاومت اسلامی روبرو است",
+      "title": "دریادار ایرانی: دشمن خود را آماده کند/ دشمن امروز نه با یک کشور، بلکه با مقاومت اسلامی روبر�� است",
       "title_fa": "دریادار ایرانی: دشمن خود را آماده کند؛ امروز با مقاومت اسلامی روبرو است",
       "lead": "فرمانده نیروی دریایی ایران در گفتگو با یک رسانه یمنی گفت که دشمن باید خود را برای رویارویی با رزمندگان مسلمان آماده کند. او تاکید کرد که دشمن امروز نه با یک کشور، بلکه با مقاومت اسلامی روبرو است و خونخواه همه شهدای خود هستند.",
       "category": "politics",
@@ -2342,7 +2486,7 @@
       "keep": true,
       "title": "What is England’s route to the World Cup final if they beat Mexico?",
       "title_fa": "مسیر انگلیس به فینال جام جهانی در صورت شکست مکزیک چگونه است؟",
-      "lead": "تیم ملی انگلیس تلاش خود برای کسب اولین جام جهانی پس از ۶۰ سال را ادامه می‌دهد. آن‌ها در بازی بعدی خود با مکزیک روبرو خواهند شد.",
+      "lead": "تیم ملی انگلیس تلاش خود برای کسب اولین جام جهانی پس از ۶۰ سال را ادامه می‌دهد. آن‌ها در بازی بعدی خود با مکزیک روبرو خواه��د شد.",
       "category": "sports",
       "region": "global",
       "sourceUrl": "https://www.independent.co.uk/sport/football/england-route-world-cup-final-next-opponents-mexico-b3008782.html",
@@ -7854,7 +7998,7 @@
       "keep": true,
       "title": "گروسی: اقدامات روس‌اتم درباره نیروگاه بوشهر منطقی بود",
       "title_fa": "گروسی: اقدامات روس‌اتم درباره نیروگاه بوشهر منطقی بود",
-      "lead": "گروسی اظهار داشت که اقدامات روس‌اتم در خصوص نیروگاه بوشهر منطقی بوده ا��ت. وی افزود متخصصان لازم برای ادامه فعالیت واحد یک در محل باقی ماندند و اکنون به تدریج در حال بازگشت هس��ند.",
+      "lead": "گروسی اظهار داشت که اقدامات روس‌اتم در خصوص نیروگاه بوشهر منطقی بوده ا��ت. وی افزود متخصصان لازم برای اد��مه فعالیت واحد یک در محل باقی ماندند و اکنون به تدریج در حال بازگشت هس��ند.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.asriran.com/fa/news/1175382/گروسی-اقدامات-روس-اتم-درباره-نیروگاه-بوشهر-منطقی-بود",
@@ -8786,7 +8930,7 @@
       "id": "yjc_13",
       "agencyId": "yjc",
       "keep": true,
-      "title": "یورگن کلوپ؛ مأموریت نجات مانشافت پس از سقوط در جام جهانی",
+      "title": "یورگن کلوپ؛ م��موریت نجات مانشافت پس از سقوط در جام جهانی",
       "title_fa": "یورگن کلوپ؛ مأموریت نجات مانشافت پس از سقوط در جام جهانی",
       "lead": "فدراسیون فوتبال آلمان با انتصاب یورگن کلوپ، تلاش خود را برای بازسازی تیم ملی پس از حذف در مرحله یک‌شانزدهم جام جهانی آغاز کرد. کلوپ ماموریت نجات مانشافت را بر عهده گرفته است.",
       "category": "sport",
@@ -9700,7 +9844,7 @@
       "keep": true,
       "title": "تقویت شبکه پروازی فرودگاه بندرعباس؛ آغاز پروازهای جدید به ۴ مرکز استان",
       "title_fa": "تقویت شبکه پروازی فرودگاه بندرعباس؛ آغاز پروازهای جدید به ۴ مرکز استان",
-      "lead": "مدیر فرودگاه‌های هرمزگان از برقراری پروازهای جدید در مسیرهای تهران، اصفهان، مشهد و اهواز از هفته آینده خبر داد. این اقدام به منظور تقو��ت ش��که پروازی فرودگاه بندرعباس صورت می‌گیرد.",
+      "lead": "مدیر فرودگاه‌های هرمزگان از برقراری پروازهای جدید در مسیرهای تهران، اصفهان، مشهد و اهواز از هفته آینده خبر داد. این اقدام به منظور تقو����ت ش��که پروازی فرودگاه بندرعباس صورت می‌گیرد.",
       "category": "politics",
       "region": "global",
       "sourceUrl": "https://www.yjc.ir/fa/news/9105031/تقویت-شبکه-پروازی-فرودگاه-بندرعباس-آغاز-پروازهای-جدید-به-۴-مرکز-استان",
@@ -11405,7 +11549,7 @@
       "agencyId": "yjc",
       "keep": true,
       "title": "تأمین آب و برق ۳۰۰۰ موکب در تهران توسط وزارت نیرو؛ هیچ مشکل یا کمبودی تاکنون گزارش نشده است",
-      "title_fa": "تأمین آب و برق ۳۰۰۰ موکب در تهران توسط وزارت نیرو؛ تاکنون مشکلی گزارش نشده است",
+      "title_fa": "تأمین آب و برق ۳۰۰۰ موکب در تهران توسط وزارت نیرو�� تاکنون مشکلی گزارش نشده است",
       "lead": "معاون وزیر نیرو ����علام کرد که ۳۰۰۰ موکب در تهران از نظر آب و برق تأمین شده‌اند. وی افزود تا این لحظه هیچ مشکل یا کمبودی در تأمین آب و برق این مراکز گزارش نشده و شرایط پایدار است.",
       "category": "politics",
       "region": "global",
@@ -15074,7 +15218,7 @@
       "id": "yjc_6",
       "agencyId": "yjc",
       "keep": true,
-      "title": "سردار رادان: دشمن ناگزیر قدرت مقاومت را درک خواهد کرد",
+      "title": "سردار رادان: دشمن ناگزیر قد��ت مقاومت را درک خواهد کرد",
       "title_fa": "سردار رادان: دشمن ناگزیر قدرت مقاومت را درک خواهد کرد",
       "lead": "فرمانده کل انتظامی کشور اعلام کرد که دشمن ناگزیر به درک قدرت مقاومت خواهد بود. وی حضور گسترده مردم در مراسم وداع با رهبر شهید را نشانه اتحاد امت اسلامی دانست.",
       "category": "politics",
@@ -16298,7 +16442,7 @@
       "keep": true,
       "title": "Marine Le Pen appeal verdict: Will the far-right leader be barred from the French presidency?",
       "title_fa": "حکم تجدیدنظر مارین لوپن: آیا رهبر راست افراطی از ریاست جمهوری فرانسه محروم خواهد شد؟",
-      "lead": "سرنوشت سیاسی مارین لوپن، رهبر راست افراطی، روز سه‌شنبه با حکم دادگاه تجدیدنظر پاریس مبنی بر صلاحیت او برای شرکت در انتخابات ریاست جمهوری ۲۰۲۷ تعیین می‌شود. این حکم پیامدهای عمده‌ای برای آینده فرانسه خواهد داشت.",
+      "lead": "سرنوشت سیاسی مارین لوپن، رهبر راست افراطی، روز سه‌شنبه با حکم دادگاه تجدیدنظر پاریس مبنی بر صلاحیت او برای شرکت در انتخابات ریاست جمهوری ۲۰۲۷ تعیین می‌شود. این حکم پیامدهای عم��ه‌ای برای آینده فرانسه خواهد داشت.",
       "category": "politics",
       "region": "europe",
       "sourceUrl": "https://www.france24.com/en/france/20260705-marine-le-pen-appeal-will-she-be-barred-from-running-for-french-presidency",
@@ -19182,7 +19326,7 @@
       "id": "khabaronline_4",
       "agencyId": "khabaronline",
       "keep": true,
-      "title": "ببینید | گزارش رسانه عراقی از حضور میلیون‌ها ایرانی در مراسم وداع و تشییع رهبر شهید انقلاب",
+      "title": "ببینید | گزارش رسانه عراقی از حضور میلیون‌ها ایرانی در مراسم وداع �� تشییع رهبر شهید انقلاب",
       "title_fa": "ببینید | گزارش رسانه عراقی از حضور میلیون‌ها ایرانی در مراسم وداع و تشییع رهبر شهید ان��لاب",
       "lead": "خبرنگار رسانه عراقی العهد در ت��ران تصاویری از حضور میلیون‌ها ایرانی در مراسم وداع و تشییع قائد شهید امت منتشر کرد. وی اعلام کرد که همچنان میلیون‌ها نفر در این مراسم شرکت می‌کنند.",
       "category": "politics",
@@ -24105,7 +24249,7 @@
       "agencyId": "asriran",
       "keep": true,
       "title": "طرز تهیه آسان نان روغنی و ن����ن ازبکی در خانه برای صبحانه و عصرانه",
-      "title_fa": "طرز تهیه آسان نان روغنی و نان ازبکی در خانه برای صبحانه و عصرانه",
+      "title_fa": "طرز تهیه آسان نان روغنی و نان ازبکی در خانه برای صبحانه و ��صرانه",
       "lead": "با این دستور پخت آسان، طرز تهیه نان روغنی و نان ازبکی را در خانه بیاموزید. این نان‌ها با مواد اولیه ساده و روشی گام به گام، برای صبحانه و عصرانه ایده‌آل هستند.",
       "category": "food",
       "region": "domestic",
@@ -24123,30 +24267,6 @@
       "pubDate": "04 Jul 2026 23:54:20 +0330",
       "time": "۲۳:۵۴ - ۱۳ تیر",
       "analyzed_at": "2026-07-05T01:48:13.467Z"
-    },
-    {
-      "id": "reuters_0",
-      "agencyId": "reuters",
-      "keep": true,
-      "title": "US envoy Witkoff and Kushner will be in Qatar, no meeting with Iran, Qatari official says - Reuters",
-      "title_fa": "سفیر آمریکا ویتکوف و کوشنر در قطر خواهند بود؛ مقام قطری: دیداری با ایران نخواهد بود",
-      "lead": "یک مقام قطری اعلام کرد که سفیر آمر��کا، ویتکوف و کوشنر در قطر حضور خواهند داشت. او تاکید کرد که هیچ دیداری بین آنها و نمایندگان ایران انجام نخواهد شد.",
-      "category": "politics",
-      "region": "iran",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGNVdFY5c0Q5TVhJNV9LalBTbGJtQVcwanpsVUF6SnpHVzEzMWNHbG5WQ0t5MXpDQWxBeUJqNUJkSTMyNXp6SXo2Yi10LWluN1lDU09PWUxIM1BXNTdLRW9qYnluSVhJdW56QVlGX2NQTkdoa2puRlFmX1lZbTNobHNPbUlRNGkzcUtsQTBHSmVPdHB3TkRfNzB6NFFXQzVRWXNWdmFicThIR25Hcnctb2tndkdVM0Q3cGVFbHZmelRwU3Nac096Mm82Wk1WTXM?oc=5",
-      "newsValues": {
-        "timeliness": "high",
-        "impact": "high",
-        "conflict": true
-      },
-      "sentiment": {
-        "positive": 0,
-        "neutral": 100,
-        "negative": 0
-      },
-      "pubDate": "Tue, 30 Jun 2026 10:49:43 GMT",
-      "time": "۱۴:۱۹ - ۹ تیر",
-      "analyzed_at": "2026-07-05T00:48:15.844Z"
     }
   ]
 }
