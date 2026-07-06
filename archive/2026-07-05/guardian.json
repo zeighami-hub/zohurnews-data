@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "guardian",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "guardian_7",
@@ -218,6 +218,54 @@
       "pubDate": "Fri, 03 Jul 2026 00:00:13 GMT",
       "time": "۰۳:۳۰ - ۱۲ تیر",
       "analyzed_at": "2026-07-05T10:06:12.865Z"
+    },
+    {
+      "id": "guardian_12",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+      "title_fa": "\"وضعیت وحشتناک است\": روایت امدادگران از زندگی در شهر سودانی تحت حملات پهپادی",
+      "lead": "شهر الابید به میدان نبرد اصل�� در جنگ میان نیروهای مسلح سودان و دشمنان شبه‌نظامی آنها، یعنی نیروهای پشتیبانی سریع (RSF)، تبدیل شده است. فاطمه تعداد حملات پهپادی به این شهر محاصره شده را از یاد برده، اما می‌گوید حملات آخر هفته وحشتناک بود.",
+      "category": "military",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 04 Jul 2026 15:14:18 GMT",
+      "time": "۱۸:۴۴ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T12:34:17.740Z"
+    },
+    {
+      "id": "guardian_0",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
+      "title_fa": "چگونه جام جهانی ۱۹۸۶ مکزیک پس از زلزله‌ای ویرانگر تقریباً لغو شد",
+      "lead": "گزارش‌ها پس از فاجعه، از ۵۰۰۰ کشته، ویرانی بخش بزرگی از پایتخت و تردیدها درباره میزبانی مکزیک حکایت داشت. این رقابت‌ها که مکزیک میزبان آن در سال ۱۹۸۶ بود، چند ماه پیش از آغاز تقریباً لغو شد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 04 Jul 2026 11:40:31 GMT",
+      "time": "۱۵:۱۰ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T12:34:17.740Z"
     }
   ]
 }
