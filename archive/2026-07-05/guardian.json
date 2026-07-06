@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "guardian",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "guardian_7",
@@ -314,6 +314,54 @@
       "pubDate": "Sat, 04 Jul 2026 08:00:08 GMT",
       "time": "۱۱:۳۰ - ۱۳ تیر",
       "analyzed_at": "2026-07-05T12:48:51.729Z"
+    },
+    {
+      "id": "guardian_9",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Trump’s $2bn bonanza heralds the rise of political grifters across the west",
+      "title_fa": "سود ۲ میلیارد دلاری ترامپ و صعود دلالان سیاسی در غرب",
+      "lead": "سود ۲ میلیارد دلاری دونالد ترامپ، نشان‌دهنده افزایش دلالان سیاسی در سراسر غرب است. کارشناسان می‌گویند که با پذیرش رهبرانی که آشکارا از مناصب عمومی سود می‌برند، یک کد اخلاقی در حال فروپاشی است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/05/trumps-2bn-bonanza-heralds-the-rise-of-political-grifters-across-the-west",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 05 Jul 2026 14:24:28 GMT",
+      "time": "۱۷:۵۴ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T15:17:27.175Z"
+    },
+    {
+      "id": "guardian_9",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australian aged care firm accused in class action of charging residents for high teas and classes they couldn’t use",
+      "title_fa": "شرکت مراقبت از سالمندان استرالیا در یک دعوای گروهی به دریافت هزینه‌های غیرضروری متهم شد",
+      "lead": "یک شرکت بزرگ مراقبت از سالمندان در استرالیا در یک دعوای گروهی متهم شده است. این شرکت به دریافت هزینه برای خدماتی مانند چای و کلاس‌هایی که ساکنان نمی‌توانستند استفاده کنند، متهم است.",
+      "category": "politics",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/06/australian-aged-care-firm-accused-in-class-action-of-charging-residents-for-high-teas-and-classes-they-couldnt-use-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 05 Jul 2026 14:01:28 GMT",
+      "time": "۱۷:۳۱ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T15:17:27.175Z"
     }
   ]
 }
