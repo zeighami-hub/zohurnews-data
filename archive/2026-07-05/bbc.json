@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "bbc_13",
@@ -74,6 +74,30 @@
       "pubDate": "Sat, 04 Jul 2026 00:55:10 GMT",
       "time": "۰۴:۲۵ - ۱۳ تیر",
       "analyzed_at": "2026-07-05T08:04:21.724Z"
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+      "title_fa": "خا��واده‌های داغدار، قربانیان زلزله ونزوئلا را در سردخانه‌های موقت شناسایی می‌کنند",
+      "lead": "پس از زلزله ویرانگر در ونزوئلا، خانواده‌های قربانیان مجبورند عزیزان خود را در سردخانه‌های موقت شناسایی کنند. خدمات محلی در پی این فاجعه کاملاً فلج شده‌اند و اجساد برای شناسایی در بیرون یا چادرها نگهداری می‌شوند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 03 Jul 2026 21:00:53 GMT",
+      "time": "۰۰:۳۰ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T08:18:11.913Z"
     }
   ]
 }
