@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "reuters",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "reuters_0",
@@ -548,6 +548,52 @@
         "negative": 70
       },
       "analyzed_at": "2026-07-05T13:18:43.301Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Mass grief in Iran at Khamenei funeral after US, Israel war killing - Reuters",
+      "title_fa": "اندوه گسترده در ایران در مراسم تشییع خامنه‌ای پس از کشته شدن در جنگ آمریکا و اسرائیل",
+      "lead": "در ایران اندوه گسترده‌ای در مراسم تشییع خامنه���ای مشاهده شد. این رویداد پس از کشته شدن وی در جنگ با آمریکا و اسرائیل گزارش شد�� است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS0lHby01V19lQUxyWlFMQnU5WjNucmZBZHl3NlQtUzZTRFN6aVgweE4tdVJrNVlOYVQzQTExdllpN2NHaWlHcXZTSENOa3hWeEpycTBHdGJLRVhzYlhRdEs1UVk4VE1pR3ZnTzEyb0Z3YmxBUUV5cHJEV2VLMjAzUXp1Q1FfVWY1aWNmYVo3TUgxOXdEdExNenNKT1RyQlRFVWlrakprSWV0Zw?oc=4",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-05T15:17:27.175Z"
+    },
+    {
+      "id": "reuters_8",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran and Qatar resume maritime trade, Iranian state media reports - Reuters",
+      "title_fa": "ایران و قطر تجارت دریایی را از سر گرفتند",
+      "lead": "بر اساس گزارش رسانه‌های دولتی ایران، این کشور و قطر تجارت دریایی خود را از سر گرفته‌اند. این اقدام می‌تواند نشان‌دهنده تقویت روابط اقتصادی و تجاری بین دو کشور در منطقه باشد.",
+      "category": "economy",
+      "region": "middle_east",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGpKTHAxUnc3bjEyYzczRHhyc2JxYUdEbWlKY3g5MWlVZWJfT3RSRVl5MDJQemVfTHRydm94TUktcTQ1ZjlSOEkyR2Ital9NUUllbVBLcUZEckxPWk40c0dJTXNKQkQxcWlBOEVNZTFtYnA2X3dTNERvZmJNWDRXTVRxRXc2S0JFX3F4cTRvTXZiUjBKRlEzYUh1VkR0UmxGcUpEWFJ4OU1TWko2VVhaM1A5UVY?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sun, 05 Jul 2026 11:49:46 GMT",
+      "time": "۱۵:۱۹ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T15:17:27.175Z"
     }
   ]
 }
