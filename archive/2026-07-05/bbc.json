@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "bbc",
-  "total": 9,
+  "total": 12,
   "articles": [
     {
       "id": "bbc_13",
@@ -218,6 +218,78 @@
       "pubDate": "Sat, 04 Jul 2026 23:17:24 GMT",
       "time": "۰۲:۴۷ - ۱۴ تیر",
       "analyzed_at": "2026-07-05T10:06:12.865Z"
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "title_fa": "تجمع گسترده مردم در تهران در اولین روز مراسم تشییع آیت‌الله خامنه‌ای",
+      "lead": "مراسم تشییع پیکر آیت‌الله علی خامنه‌ای در مصلای بزرگ تهران آغاز شده است. قرار است پیکر او پس از تهران به شهرهای دیگر ایران و عراق منتقل شود.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 09:45:55 GMT",
+      "time": "۱۳:۱۵ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T12:34:17.740Z"
+    },
+    {
+      "id": "bbc_2",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Pope urges Europe to do more for migrants as he visits gateway island",
+      "title_fa": "پاپ در بازدید از جزیره دروازه‌ای مهاجران، اروپا را به حمایت بیشتر از آنها فراخواند",
+      "lead": "پاپ در جریان بازدید خود از جزیر�� لامپدوزا ایتالیا، اروپا را به انجام اقدامات بیشتر برای حمایت از مهاجران ترغیب کرد. او در گورستانی در این جزیره به مهاجرانی که جان خود را در دریا از دست داده‌اند، ادای احترام کرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Sat, 04 Jul 2026 11:25:57 GMT",
+      "time": "۱۴:۵۵ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T12:34:17.740Z"
+    },
+    {
+      "id": "bbc_7",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
+      "title_fa": "در تصاویر: جشن عروسی تیلور سوئیفت و تراویس کلس با حضور ستارگان و طرفداران",
+      "lead": "ستارگان و ورزشکاران برجسته در مراسم عروسی این زوج مشهور در نیویورک حضور داشتند. طرفداران نیز این رویدا�� را به طور گسترده‌ای جشن گرفتند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 08:24:17 GMT",
+      "time": "۱۱:۵۴ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T12:34:17.740Z"
     }
   ]
 }
