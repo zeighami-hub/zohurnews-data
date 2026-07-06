@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "guardian",
-  "total": 6,
+  "total": 9,
   "articles": [
     {
       "id": "guardian_7",
@@ -146,6 +146,78 @@
       "pubDate": "Sun, 05 Jul 2026 05:07:24 GMT",
       "time": "۰۸:۳۷ - ۱۴ تیر",
       "analyzed_at": "2026-07-05T10:01:34.151Z"
+    },
+    {
+      "id": "guardian_8",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Founder of prominent underground church released from prison in China",
+      "title_fa": "بنیانگذار کلیسای زیرزمینی برجسته در چین از زندان آزاد شد",
+      "lead": "ازرا جین، بنیانگذار کلیسای صهیون، پس از آزادی از زندان در چین به آمریکا رسید. او در آنجا با خانواده‌اش که \"غرق در شادی\" بودند، ملاقات کرد.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Sun, 05 Jul 2026 01:40:15 GMT",
+      "time": "۰۵:۱۰ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T10:06:12.865Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "China says man who flew plane into Beijing skyscraper had mental health problems",
+      "title_fa": "چین اعلام کرد مردی که هواپیما را به آسم��ن‌خراش پکن کوبید، مشکلات روانی داشت",
+      "lead": "مقامات چینی اظهار داشتند مردی که هفته گذشته با یک هواپیمای کوچک به بلندترین آسمان‌خراش پکن کوبید، یک فرد ۶۶ ساله با مشکلات سلام�� روان بود. این ��یانیه رسمی جزئی‌ترین گزارش را از این حادثه بسیار غیرمعمول و مرگبار ارائه می‌دهد.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/03/china-man-small-plane-beijing-skyscraper-tower-mental-health-problems-statement",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 03 Jul 2026 03:15:13 GMT",
+      "time": "۰۶:۴۵ - ۱۲ تیر",
+      "analyzed_at": "2026-07-05T10:06:12.865Z"
+    },
+    {
+      "id": "guardian_3",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
+      "title_fa": "«هر جایزه‌ای به او بدهید، دوان‌دوان می‌آید»: نارندرا مودی در سفرهای خارجی خود جوایز را انباشته می‌کند",
+      "lead": "نخست‌وز��ر هند، نارندرا مودی، عادت دارد در سفرهای خود جوایز مختلفی را دریافت کند که برخی از آنها اولین و تنها دریافت‌کننده آن‌هاست. به محض ورود مودی به سیشل در آخر هفته، این کشور جزیره‌ای در اقیانوس هند به سرعت یکی از «بالاترین افتخارات» خود را به او اعطا کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "pubDate": "Fri, 03 Jul 2026 00:00:13 GMT",
+      "time": "۰۳:۳۰ - ۱۲ تیر",
+      "analyzed_at": "2026-07-05T10:06:12.865Z"
     }
   ]
 }
