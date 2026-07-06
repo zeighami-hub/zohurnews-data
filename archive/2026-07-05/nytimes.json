@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_3",
@@ -362,6 +362,30 @@
       "pubDate": "Sat, 04 Jul 2026 09:01:42 +0000",
       "time": "۱۲:۳۱ - ۱۳ تیر",
       "analyzed_at": "2026-07-05T12:34:17.740Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Mourners Chant ‘Revenge’ at Funeral Prayers for Iran’s Slain Supreme Leader",
+      "title_fa": "سوگواران در مراسم تشییع رهبر فقید ایران شعار «انتقام» سر دادند",
+      "lead": "در دومین روز عز��ی عمومی برای آیت‌الله علی خامنه‌ای که در ماه فوریه ترور شد، سوگواران در مراسم تشییع شعار «انتقام» سر دادند. با این حال، هنوز خبری از پسر و جانشین او، مجتبی خامنه‌ای، نیست.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sun, 05 Jul 2026 13:31:26 +0000",
+      "time": "۱۷:۰۱ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T15:17:27.175Z"
     }
   ]
 }
