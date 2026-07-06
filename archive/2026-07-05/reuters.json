@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "reuters",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "reuters_0",
@@ -252,6 +252,50 @@
         "negative": 20
       },
       "analyzed_at": "2026-07-05T12:18:33.820Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters",
+      "title_fa": "حضور سه پسر رهبر فقید ایران، خامنه‌ای، در مراسم تشییع و غیبت جانشین او",
+      "lead": "سه پسر آیت‌الله خامنه‌ای، رهبر فقید ایران، در مراسم تشییع پدرشان حضور یافتند. این در حالی است که جانشین احتمالی او در این مراسم دیده نشد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmcyb0xaUjZMcUNjSDFQODFUX0Y1TDg0bDlHUkxLZE5FeWZQajJtZnRKYjRWdzZjN0RmRWcwdFN1dWtkLXdhUWFGNGJKVTFSSDJVRnV4Yy05YWJVbjh4RjJyS1YxdnBOMW9jQVp5Uk9aa1hxYmd1RndVZER6dTBSa0V2cnQxTTFscG5rY1hpV3NEMVNIeWJ0TFF4WE9XcEdoanFyVmtdenhSbXhvdnU1c3BQNEVOVmM1OHgyVmJvdGR3aWc?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-05T12:34:17.740Z"
+    },
+    {
+      "id": "reuters_5",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran war and AI boom drive wild ride on global markets - Reuters",
+      "title_fa": "جنگ ایران و رونق هوش مصنوعی، عامل نوسانات شدید در بازارهای جهانی",
+      "lead": "جنگ ایران و رونق هوش مصنوعی، سوار بر موجی از نوسانات شدید در بازارهای جهانی می‌شوند. این عوامل بازارهای مالی را تحت تاثیر ��رار داده‌اند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTNpc0JlcmktcWZKeE1Ra0hLYzNaNkZYSDBIQlhTM1VnLV9tZ2NuNDBuTDljWmhRTGR1MmxHZkRSdzJmY0hFNWNpRzFpenZ2NFAtOVRjdDJjZWFyWXBLN7U2QVB6RmZLMFA5YXM1R05GaXh2TDBmelpfMlpobUhRZHNXdWtPRVhV?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-05T12:34:17.740Z"
     }
   ]
 }
