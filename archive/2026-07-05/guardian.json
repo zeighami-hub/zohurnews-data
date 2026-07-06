@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "guardian",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "guardian_7",
@@ -362,6 +362,30 @@
       "pubDate": "Sun, 05 Jul 2026 14:01:28 GMT",
       "time": "۱۷:۳۱ - ۱۴ تیر",
       "analyzed_at": "2026-07-05T15:17:27.175Z"
+    },
+    {
+      "id": "guardian_4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
+      "title_fa": "پروژه خط لوله جدید در کانادا پس از اختصاص ۱۵۰ میلیارد دلار برای رفع نگرانی‌های بریتیش کلمبیا و بومیان به اجرا در می‌آید",
+      "lead": "دولت کانادا و استان آلبرتا اعلام کردند که پس از تعهد ۱۵۰ میلیارد دلاری برای رفع نگرانی‌های بریتیش کلمبیا و بومیان، پروژ�� خط لوله نفت جدید را ادامه خواهند داد. این طرح شامل توسعه بندر و حفاظت از نهنگ‌ها به عنوان بخشی از برنامه گسترش حضور کشور در خارج از کشور است.",
+      "category": "energy",
+      "region": "canada",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "pubDate": "Fri, 03 Jul 2026 15:34:32 GMT",
+      "time": "۱۹:۰۴ - ۱۲ تیر",
+      "analyzed_at": "2026-07-05T17:03:31.129Z"
     }
   ]
 }
