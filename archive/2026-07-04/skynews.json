@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
   "agencyId": "skynews",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "skynews_1",
@@ -170,6 +170,30 @@
       "pubDate": "Fri, 03 Jul 2026 20:30:00 +0100",
       "time": "۲۳:۰۰ - ۱۲ تیر",
       "analyzed_at": "2026-07-04T21:18:49.614Z"
+    },
+    {
+      "id": "skynews_10",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal",
+      "title_fa": "حمله پهپادی گسترده اوکراین به پایانه نفتی سنت پترزبورگ روسیه",
+      "lead": "مقامات روسیه و اوکراین اعلام کردند که پهپادهای اوکراینی یک پایانه نفتی و بندر در سنت پترزبورگ و منطقه اطراف آن را هدف قرار داده‌اند. این حمله پهپادی گسترده، بخشی از درگیری‌های نظام�� جاری میان دو کشور است و به زیرساخت‌های حیاتی روسیه آسیب رسانده است.",
+      "category": "military",
+      "region": "ukraine_russia",
+      "sourceUrl": "https://news.sky.com/story/st-petersburg-oil-terminal-hit-as-ukraine-targets-russia-in-major-drone-attack-13560510",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 04 Jul 2026 22:14:00 +0100",
+      "time": "۰۰:۴۴ - ۱۴ تیر",
+      "analyzed_at": "2026-07-04T23:57:40.190Z"
     }
   ]
 }
