@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "rt",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "rt_1",
@@ -194,6 +194,54 @@
       "pubDate": "Sun, 05 Jul 2026 09:27:21 +0000",
       "time": "۱۲:۵۷ - ۱۴ تیر",
       "analyzed_at": "2026-07-05T10:01:34.151Z"
+    },
+    {
+      "id": "rt_10",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Storm threat triggers chaotic evacuation ahead of Trump’s speech (VIDEOS)",
+      "title_fa": "تهدید طوفان باعث تخلیه آشفته پیش از سخنرانی ترامپ شد",
+      "lead": "هزاران نفر مجبور به پناه گرفتن در پناهگاه‌های شلوغ شد��د. بسیاری برای بازگشت از طریق کنترل‌های امنیتی به تجمع میهن‌پرستانه در نشنال مال با مشکل مواجه شدند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/642589-washington-storm-freedom250-evacuation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Sun, 05 Jul 2026 01:17:20 +0000",
+      "time": "۰۴:۴۷ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T10:06:12.865Z"
+    },
+    {
+      "id": "rt_11",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "British people are ‘crying out’ for change – Vance",
+      "title_fa": "مردم بریتانیا 'خواهان تغییر' هستند ��� ونس",
+      "lead": "معاون رئیس‌جمهور آمریکا گفته است که تغییر مداوم نخست‌وزیران بریتانیا نشان می‌دهد که ��یستم سیاسی این کشور به شدت در خدمت مردم نیست. او معتقد است که مردم بریتانیا خواهان تغییر هستند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642588-british-people-crying-change-vance/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Sun, 05 Jul 2026 01:01:30 +0000",
+      "time": "۰۴:۳۱ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T10:06:12.865Z"
     }
   ]
 }
