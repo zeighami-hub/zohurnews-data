@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "bbc",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "bbc_13",
@@ -290,6 +290,54 @@
       "pubDate": "Sat, 04 Jul 2026 08:24:17 GMT",
       "time": "۱۱:۵۴ - ۱۳ تیر",
       "analyzed_at": "2026-07-05T12:34:17.740Z"
+    },
+    {
+      "id": "bbc_12",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "title_fa": "کیکو فوجیموری، هفته‌ها پس از انتخابات ریاست‌جمهوری پر��، به عنوان برنده اعلام شد.",
+      "lead": "کیکو فوجیموری، دختر رئیس‌جمهور بدنام سابق، آلبرتو فوجیموری، هفته‌ها پس از برگزاری انتخابات، به عنوان برنده رقابت فشرده ریاست‌جمهوری پرو معرفی شد. این اعلام نتایج پس از کشمکش‌های طولانی صورت می‌گیرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 07:52:55 GMT",
+      "time": "۱۱:۲۲ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T12:48:51.729Z"
+    },
+    {
+      "id": "bbc_14",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
+      "title_fa": "تعداد گاوها بیشتر از دانش‌آموزان - علت تعطیلی گسترده مدارس در مناطق روستایی کنیا چیست؟",
+      "lead": "بیش از ۲۰۰۰ مدرسه ابتدایی در مناطق روستایی کنیا به دلیل کاهش شدید تعداد دانش‌آموزان با خطر ��عطیلی مواجه هستند. این پدیده سوالاتی را درباره آینده آموزش و پرورش در این مناطق ایجاد کرده است.",
+      "category": "society",
+      "region": "africa",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 04 Jul 2026 00:51:44 GMT",
+      "time": "۰۴:۲۱ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T12:48:51.729Z"
     }
   ]
 }
