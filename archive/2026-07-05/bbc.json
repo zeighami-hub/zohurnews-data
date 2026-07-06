@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "bbc_13",
@@ -194,6 +194,30 @@
       "pubDate": "Sun, 05 Jul 2026 05:58:21 GMT",
       "time": "۰۹:۲۸ - ۱۴ تیر",
       "analyzed_at": "2026-07-05T10:01:34.151Z"
+    },
+    {
+      "id": "bbc_0",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "title_fa": "لحظه سرنوشت‌ساز برای لو پن فرانسه در حکمی که آینده او را در رقابت ریاست‌جمهوری مشخص می‌کند",
+      "lead": "رهبر راست افراطی، مارین لو پن، در حال تجدیدنظرخواهی علیه حکمی است که او را به سوءاستفاده از بودجه اتحادیه اروپا محکوم ��رده بود. این حکم می‌تواند آینده سیاسی او را در رقابت‌های ریاست‌جمهوری فرانسه تحت تأثیر قرار دهد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sat, 04 Jul 2026 23:17:24 GMT",
+      "time": "۰۲:۴۷ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T10:06:12.865Z"
     }
   ]
 }
