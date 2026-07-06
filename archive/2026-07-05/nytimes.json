@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_3",
@@ -81,7 +81,7 @@
       "keep": true,
       "title": "Guam and Northern Mariana Islands Prepare for Typhoon Bavi",
       "title_fa": "گوآم و جزایر ماریانای شمالی برای طوفان باوی آماده می‌شوند",
-      "lead": "طوفان باوی، یک گردباد استوایی قدرتمند، در حال حرکت از اقیانوس آرام است. پیش‌بینی می‌شود این طوفان با نیروی یک طوفان رده ۵ روز دوشنبه از نزدیکی قلمروهای آمریکا عبور کند.",
+      "lead": "طوفان باوی، یک گردباد استوایی ��درتمند، در حال حرکت از اقیانوس آرام است. پیش‌بینی می‌شود این طوفان با نیروی یک طوفان رده ۵ روز دوشنبه از نزدیکی قلمروهای آمریکا عبور کند.",
       "category": "environment",
       "region": "americas",
       "sourceUrl": "https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html",
@@ -266,6 +266,102 @@
       "pubDate": "Sun, 05 Jul 2026 04:01:06 +0000",
       "time": "۰۷:۳۱ - ۱۴ تیر",
       "analyzed_at": "2026-07-05T10:01:34.151Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Momentary Unity at a Funeral Masks Deep Divisions Among Irans Leaders",
+      "title_fa": "وحدت ظاهری در مراسم تشییع جنازه، اختلافات عمیق میان رهبران ایران را می‌پوشاند",
+      "lead": "غیبت آیت‌الله مجتبی خامنه‌ای در محافل سیاسی ایران سوالاتی را درباره اداره‌کنندگان واقعی کشور برانگیخته است. این وضعیت باعث تشدید اختلافات آشکار شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 20:44:42 +0000",
+      "time": "۰۰:۱۴ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T12:34:17.740Z"
+    },
+    {
+      "id": "nytimes_10",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump’s Travel Crackdown Has a Winner: Mexican Tourism",
+      "title_fa": "سیاست محدودیت سفر ترامپ، برنده غیرمنتظره‌ای داشت: گردشگری م��زیک",
+      "lead": "در حالی که منتقدان در مورد میزان سود بلندمدت جام جهانی برای گردشگری تردید دارند، مقامات مکزیکی معتقدند که این رویداد می‌تواند به ک��ورشان کمک کند تا پنجمین مقصد پربازدید جهان شود.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/04/world/americas/world-cup-mexico-tourism-trump.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 18:03:09 +0000",
+      "time": "۲۱:۳۳ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T12:34:17.740Z"
+    },
+    {
+      "id": "nytimes_14",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "For Cape Verde, There’s Victory in Their World Cup Defeat",
+      "title_fa": "برای کیپ ورد، در شکست جام جهانی‌شان نیز پیروزی وجود د��رد",
+      "lead": "این کشور کوچک آفریقایی توسط یکی از قدرت‌های بزرگ فوتبال، آرژانتین، از جام جهانی حذف شد. اما با این حال، هنوز چیزهای زیادی برای جشن گرفتن وجود داشت.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/04/world/africa/cape-verde-world-cup.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 11:48:23 +0000",
+      "time": "۱۵:۱۸ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T12:34:17.740Z"
+    },
+    {
+      "id": "nytimes_6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Rwanda, July 4 Is Liberation Day From Genocide",
+      "title_fa": "در رواندا، ۴ جولای روز آزادی از نسل‌کشی است",
+      "lead": "این کشور آفریقای مرکزی سالگرد پایان یک کارزار مرگبار علیه قوم توتسی را گرامی می‌دارد که صدها هزار نفر در آن کشته شدند. ۴ جولای در رواندا به عنوان روز آزادی از نسل‌کشی شناخته می‌شود و یادآور مقاومت و بازسازی پس از فجایع است.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.nytimes.com/2026/07/04/world/africa/rwanda-july-4-liberation-day.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "pubDate": "Sat, 04 Jul 2026 09:01:42 +0000",
+      "time": "۱۲:۳۱ - ۱۳ تیر",
+      "analyzed_at": "2026-07-05T12:34:17.740Z"
     }
   ]
 }
