@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
   "agencyId": "dw",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "dw_0",
@@ -242,6 +242,54 @@
       "pubDate": "Sun, 5 Jul 2026 06:19:00 GMT",
       "time": "۰۹:۴۹ - ۱۴ تیر",
       "analyzed_at": "2026-07-05T10:01:34.151Z"
+    },
+    {
+      "id": "dw_3",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "US 250th Independence Day: Trump takes center stage",
+      "title_fa": "دویست و پنجاهمین روز استقلال آمریکا: ترامپ در کانون توجه قرار گرفت",
+      "lead": "آمریکا دویست و پنجاهمین سالگرد استقلال خود را با نمایش آتش‌بازی و پروازهای نظامی در پایتخت جشن می‌گیرد. رئیس‌جمهور دونالد ترامپ پس از دستور تخلیه ناشی از رعد و برق، سخنرانی شبانه خود را ایراد می‌کند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.dw.com/en/us-250th-independence-day-trump-takes-center-stage/live-77833580?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "pubDate": "Sun, 5 Jul 2026 03:42:00 GMT",
+      "time": "۰۷:۱۲ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T10:06:12.865Z"
+    },
+    {
+      "id": "dw_4",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Venezuela earthquake death toll nears 3,000 as hope to find survivors dims",
+      "title_fa": "شمار قربانیان زلزله ونزوئلا نزدیک به ۳۰۰۰ نفر، امید به یافتن بازماندگان کمرنگ می‌شود",
+      "lead": "تیم‌های نجات بین‌المللی با نزدیک شدن شمار قربانیان دو زلزله در ونزوئلا به ۳۰۰۰ نفر، عملیات خود را متوقف می‌کنند. خانواده‌ها هنوز در جستجوی عزیزان گمشده خود هستند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.dw.com/en/venezuela-earthquake-death-toll-nears-3-000-as-hope-to-find-survivors-dims/a-77835156?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 5 Jul 2026 03:27:00 GMT",
+      "time": "۰۶:۵۷ - ۱۴ تیر",
+      "analyzed_at": "2026-07-05T10:06:12.865Z"
     }
   ]
 }
