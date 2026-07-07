@@ -1,7 +1,7 @@
 {
   "date": "2026-07-06",
   "agencyId": "reuters",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "reuters_2",
@@ -504,6 +504,54 @@
       "pubDate": "Mon, 06 Jul 2026 16:19:32 GMT",
       "time": "۱۹:۴۹ - ۱۵ تیر",
       "analyzed_at": "2026-07-06T19:47:14.316Z"
+    },
+    {
+      "id": "reuters_4",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Trump says there will either be a deal with Iran or US will 'finish the job' - Reuters",
+      "title_fa": "ترامپ: یا توافق با ایران یا آمریکا «کار را تمام می‌کند»",
+      "lead": "دونالد ترامپ اظهار داشت که در مورد ایران یا یک توافق حاصل خواهد شد و یا ایالات متحده \"کار را تمام خواهد کرد.\" این اظهارات تنش‌ها در روابط با ایران را افزایش می‌دهد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkNkUE5kLUozQnVZUy1YTVJodXBJWmZmQ3Y5cTBCcTkzb0NCdl82TW1kbGJON1ZkYXM0LVhMWTJiSDFTNndDTkEyTk1jaWs3UEZmUjlzV3V6ZVc5MjBac3lVVFFpQlFfMkFZdVlaVmhOM1Zsa0FlaVVzSHlDX0s5NVNNMXRKNUg5aWRJcTNURmFGVW1nRElxRk5NVEdPdkJSVDdfVzJTVGMxMGZBOVpmWG9pblNKRXVEeVVrbXRycw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Mon, 06 Jul 2026 15:54:17 GMT",
+      "time": "۱۹:۲۴ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T20:05:40.326Z"
+    },
+    {
+      "id": "reuters_6",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Two Revolutionary Guards members killed by gunmen in western Iran - Reuters",
+      "title_fa": "دو عضو سپاه پاسداران در غرب ایران کشته شدند",
+      "lead": "خبرگزاری رویترز گزارش داد که دو عضو سپاه پاسداران انقلاب اسلامی توسط افراد مسلح در غرب ایران کشته شده‌اند. این حادثه می‌تواند به افزایش تنش‌های امنیتی در منطقه منجر شود.",
+      "category": "conflict",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmdINWVBU0ZneHJ2ZE5HZl9lcUROd3VtWjlZVDVBQTVlNy05RDdQamcxZFliMFo1S2NCM1phcFVkX01XcVR5djZDNUZwUUhlczdOTUs2N3VtRjNpOEwwb3FQY0tmUFJuMkVzRzZJSzJpa2NkVmRlNXdZU01ta1JudWVmbFppUUZkQ2d5c29vV0w5ZHFxOFN6VnpzMGozTFpxdzI5QnpReG5aSF9CbUQ3MG8taDVLZTJXbjFlQzF3?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 30 Jun 2026 09:48:10 GMT",
+      "time": "۱۳:۱۸ - ۹ تیر",
+      "analyzed_at": "2026-07-06T20:05:40.326Z"
     }
   ]
 }
