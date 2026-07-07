@@ -1,7 +1,7 @@
 {
   "date": "2026-07-06",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 10,
   "articles": [
     {
       "id": "skynews_1",
@@ -122,6 +122,126 @@
       "pubDate": "Sat, 04 Jul 2026 22:14:00 +0100",
       "time": "۰۰:۴۴ - ۱۴ تیر",
       "analyzed_at": "2026-07-06T18:51:10.895Z"
+    },
+    {
+      "id": "skynews_4",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Russian spy plane dropped sonar trackers in path of Royal Navy aircraft carrier",
+      "title_fa": "هواپیمای جاسوسی روسیه ردیاب‌های سونار را در مسیر ناو هواپیمابر نیروی دری��یی سلطنتی رها کرد",
+      "lead": "یک هواپیمای جاسوسی روسیه ده‌ها دستگاه ردیاب سونار را در مسیر ناو هواپیمابر اصلی بریتانیا رها کرد که این اقدام مشکوک به آزار و اذیت کشتی جنگی منجر به اعزام جت‌های جنگنده RAF شد. این رویداد نشان‌دهنده تنش‌های نظامی ب��ن‌المللی است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/russian-spy-plane-dropped-sonar-trackers-in-path-of-royal-navy-aircraft-carrier-13560985",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 06 Jul 2026 13:29:00 +0100",
+      "time": "۱۵:۵۹ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T20:05:40.326Z"
+    },
+    {
+      "id": "skynews_5",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Thousands flee homes as wildfires rage in southern Europe",
+      "title_fa": "هزاران نفر در پی گسترش آتش‌سوزی‌ه�� در جنوب اروپا از خانه‌های خود گریختند",
+      "lead": "با گسترش آتش‌سوزی‌های جنگلی در مناطق و��یعی از ج��وب اروپا، از جمله مقاصد محبوب تعطیلات، هزاران نفر از خانه‌های خود تخلیه شده‌اند. این حوادث باعث نگرانی‌های جدی در مورد ایمنی و محیط زیست شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/thousands-flee-homes-as-wildfires-rage-in-southern-europe-13560972",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 06 Jul 2026 12:35:00 +0100",
+      "time": "۱۵:۰۵ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T20:05:40.326Z"
+    },
+    {
+      "id": "skynews_0",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "At least 25 people killed after Sri Lankan prison riot",
+      "title_fa": "حداقل ۲۵ کشته در پی شورش در زندانی در سریلانکا",
+      "lead": "شورش گسترده‌ای بین زندانیان در سریلانکا منجر به کشته شدن دست‌کم ۲۵ نفر و زخمی شدن بیش از ۱۰۰ نفر دیگر شد. این حادثه در یک زندان رخ داده و ابعاد گسترده‌ای دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/at-least-25-people-killed-after-sri-lankan-prison-riot-13560944",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 06 Jul 2026 11:39:00 +0100",
+      "time": "۱۴:۰۹ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T19:55:27.719Z"
+    },
+    {
+      "id": "skynews_1",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Son of woman murdered in Crete 17 years ago says fight 'not over' as killer still free",
+      "title_fa": "پسر زنی که ۱۷ سال پیش در کرت به قتل رسید: مبارزه تا زمان آزادی قاتل ادامه دارد",
+      "lead": "پسر زنی اسکاتلندی که ۱۷ سال پیش در کرت به قتل رسیده بود، قسم یاد کرد که تا زمانی که قاتل او آزاد است، مبارزه برای عدالت ادامه خواهد داشت. قاتل همچنان در انتظار تجدید نظر، آزاد است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/son-of-woman-murdered-in-crete-17-years-ago-says-fight-not-over-as-killer-still-free-13560934",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 06 Jul 2026 11:20:00 +0100",
+      "time": "۱۳:۵۰ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T19:55:27.719Z"
+    },
+    {
+      "id": "skynews_5",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "China carries out ballistic missile test hours after warning neighbouring countries",
+      "title_fa": "چین ساعاتی پ�� از هشدار به کشورهای همسایه، آزمایش موشک بالستیک انجام داد",
+      "lead": "چین روز دوشنبه یک آزمایش موشک بالستیک دوربرد در اقیانوس آرام جنوبی انجام داد که با انتقاد نیوزلند و استرالیا روبرو شد. این اقدام تنش‌ها در منطقه را افزایش داده است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/china-carries-out-ballistic-missile-test-hours-after-warning-australia-and-new-zealand-13560852",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 06 Jul 2026 07:39:00 +0100",
+      "time": "۱۰:۰۹ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T19:55:27.719Z"
     }
   ]
 }
