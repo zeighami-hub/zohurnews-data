@@ -1,7 +1,7 @@
 {
   "date": "2026-07-06",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 30,
   "articles": [
     {
       "id": "nytimes_6",
@@ -626,6 +626,102 @@
       "pubDate": "Mon, 06 Jul 2026 16:50:59 +0000",
       "time": "۲۰:۲۰ - ۱۵ تیر",
       "analyzed_at": "2026-07-06T19:47:14.316Z"
+    },
+    {
+      "id": "nytimes_8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Riot in Sri Lanka’s Negombo prison leaves at least 23 dead",
+      "title_fa": "شورش در زن��ان نگومبو سریل��نکا حداقل ۲۳ کشته بر��ای گذاشت",
+      "lead": "در پی شورشی در زندان نگومبو سریلانکا، حداقل ۲۳ نفر کشته شدند. این کشور به دلیل شرایط نامناسب زندان‌ها، از جمله ازدحام و عدم حفاظت از زندانیان، مورد ان��قاد فعالان حقوق بشر قرار گرفته است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/06/world/asia/sri-lanka-prison-riot-dead.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 06 Jul 2026 14:30:00 +0000",
+      "time": "۱۸:۰۰ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T20:05:40.326Z"
+    },
+    {
+      "id": "nytimes_10",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Former Syrian Officials Found Guilty in Torture of Pro-Democracy Protesters",
+      "title_fa": "مقامات سابق سوری در پرونده شکنجه معترضان حامی دموکراسی مجرم شناخته شدند",
+      "lead": "دو مقام سابق سوری که از سال ۲۰۱۵ در اتریش زندگی می‌کردند، به جرم شکنجه معترضان حامی دموکراسی محکوم شدند. این پرونده یکی از اولین موارد تحت اصل صلاحیت جهانی است که اتریش آن را پیگیری کرده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/06/world/middleeast/syrian-torture-verdict-vienna.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 30,
+        "negative": 40
+      },
+      "pubDate": "Mon, 06 Jul 2026 14:12:07 +0000",
+      "time": "۱۷:۴۲ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T20:05:40.326Z"
+    },
+    {
+      "id": "nytimes_0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Sites That Report Venezuela’s Missing Rise Far From Quake Zone",
+      "title_fa": "افزایش وب‌��ای��‌های گزارش‌دهنده افرا�� مفقود ��ده ونزوئلا ��ور از منطقه زلزله‌زده",
+      "lead": "ب�� وجود مشکلاتی مانند ارسال‌های تک��اری، آمارهای جم��‌آوری شده توسط این وب‌سایت‌ها توسط سازمان‌های خبری و منتقدان واکنش دولت ونزوئلا به فاجعه مورد استناد قرار گرفته است. این سایت‌ها به دنبال گزارش وضعیت افرادی هستند که پس از زلزله ناپدید شده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/06/world/americas/venezuela-earthquake-missing.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 06 Jul 2026 13:09:12 +0000",
+      "time": "۱۶:۳۹ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T20:05:40.326Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Turkey Hosts NATO Summit While Cracking Down on Critics",
+      "title_fa": "ترکیه میزب��ن اجلاس ناتو در سایه سرکوب منتقدان",
+      "lead": "مقامات ت��کیه در آستانه اجلاس دو روزه ناتو، وب‌سایت‌ها را فیلتر کرده، ده‌ها نفر را به اتهام تروریسم زندانی کرده و یک کمدین برجسته را دستگیر کرده‌اند. این اقدامات در حالی صورت می‌گیرد که ترکیه میزبان این رویداد مهم بین‌المللی است.",
+      "category": "diplomacy",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/06/world/middleeast/turkey-hosts-nato-summit-while-cracking-down-on-critics.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 06 Jul 2026 18:58:48 +0000",
+      "time": "۲۲:۲۸ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T19:55:27.719Z"
     }
   ]
 }
