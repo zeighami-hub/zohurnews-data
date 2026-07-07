@@ -1,7 +1,7 @@
 {
   "date": "2026-07-06",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_6",
@@ -482,6 +482,150 @@
       "pubDate": "Mon, 06 Jul 2026 12:26:19 +0000",
       "time": "۱۵:��۶ - ۱۵ تیر",
       "analyzed_at": "2026-07-06T18:19:18.243Z"
+    },
+    {
+      "id": "nytimes_11",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran to Bury Ayatollah Ali Khamenei in Holy City of Mashhad",
+      "title_fa": "ایران آیت‌الله علی خامنه‌ای را در شهر مقدس مشهد به خاک می‌سپارد",
+      "lead": "شهر مشهد، محل یکی از مقدس‌ترین اماکن زیارتی شیعیان، میزبان مراسم خاکسپاری آیت‌الله علی خامنه‌ای خواهد بود. مراسم نهایی تدفین روز پنجشنبه در این شهر سه میلیون ن��ری برگزار می‌شود.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/06/world/middleeast/mashhad-iran-khamenei-buried.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 06 Jul 2026 18:41:26 +0000",
+      "time": "۲۲:۱۱ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T19:47:14.316Z"
+    },
+    {
+      "id": "nytimes_7",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Families of Iranians Killed by Government Dismayed by Leader’s Funeral Pageantry",
+      "title_fa": "نارضایتی خانواده‌های قربانیان حکومتی از تشریفات تشییع رهبر",
+      "lead": "خانواده‌های ایرانیانی که توسط دولت کشته شده‌اند، از شکوه و عظمت مراسم تشییع رهبر فقید ابراز نارضایتی کردند. منتقدان حاکمیت آیت‌الله علی خامنه‌ای از مقیاس بزرگ این بزرگداشت‌ها خشمگین شده‌اند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/06/world/middleeast/iran-dissidents-funeral-anger.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 06 Jul 2026 15:21:10 +0000",
+      "time": "۱۸:۵۱ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T19:47:14.316Z"
+    },
+    {
+      "id": "nytimes_9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Khamenei’s Burial Was Delayed, Breaking With Islamic Custom",
+      "title_fa": "دفن خامنه‌ای با تأخیر و برخلاف سنت اسلامی انجام شد",
+      "lead": "بر اساس اعلام دولت ایران، پیکر آیت‌الله علی خامنه‌ای ماه‌ها نگهداری شده بود. ��رخی از علمای اسلامی این اقدام را یک محاسبه سیاسی و امنیتی می‌دانند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/06/world/europe/khamenei-delayed-burial-islamic-custom.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 06 Jul 2026 14:35:22 +0000",
+      "time": "۱۸:۰۵ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T19:47:14.316Z"
+    },
+    {
+      "id": "nytimes_10",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "At Khamenei’s funeral, mourners call for revenge.",
+      "title_fa": "د�� مراسم تشییع خامنه‌ای، عزاداران خواستار انتقام شدند.",
+      "lead": "در مراسم تشییع آیت‌الله خامنه‌ای، گزارش‌ها حاکی از آن است که عزاداران خواستار انتقام شده‌اند. این درخواست‌ها در فضای عمومی مراسم تشییع، بازتاب‌دهنده احساسات بخش‌هایی از جامعه است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei/at-khameneis-funeral-mourners-call-for-revenge",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 06 Jul 2026 15:23:17 +0000",
+      "time": "۱۸:۵۳ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T19:47:14.316Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Heat waves are taking a big toll on chickens",
+      "title_fa": "مو��‌های گرما تلفات زیادی به جوجه‌ها وارد می‌کنند",
+      "lead": "موج‌های گرما در حال وارد کردن خسارات زیادی به مزارع مرغداری هستند. جوجه‌ها به ویژه در برابر دماهای بالا آسیب‌پذیرند و ماه ژوئن داغ فرانسه تلفات سنگینی به آن‌ها وارد کرده است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 06 Jul 2026 18:39:08 +0000",
+      "time": "۲۲:۰۹ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T19:47:14.316Z"
+    },
+    {
+      "id": "nytimes_3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Wildfires Force Evacuation of Thousands in Southwest France",
+      "title_fa": "آتش‌سوزی‌های جنگلی هزاران نفر را در جنوب غربی فرانسه مجبور به تخلیه کرد",
+      "lead": "آتش‌سوزی‌های جنگلی در جنوب غربی فرانسه باع�� تخلیه هزاران نفر از ساکنان شده است. این آتش‌سوزی در منطقه پیرنه، در مرز اسپانیا، تاکنون بیش از ۱۱,۰۰۰ هکتار را سوز��نده است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/06/world/europe/france-wildfires-evacuation.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 06 Jul 2026 16:50:59 +0000",
+      "time": "۲۰:۲۰ - ۱۵ تیر",
+      "analyzed_at": "2026-07-06T19:47:14.316Z"
     }
   ]
 }
