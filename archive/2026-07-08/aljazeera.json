@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "agencyId": "aljazeera",
-  "total": 47,
+  "total": 48,
   "articles": [
     {
       "id": "aljazeera_12",
@@ -1169,6 +1169,31 @@
       "pubDate": "Tue, 07 Jul 2026 23:08:26 +0000",
       "time": "۰۲:۳۸ - ۱۷ تیر",
       "analyzed_at": "2026-07-08T03:19:48.578Z"
+    },
+    {
+      "id": "aljazeera_8",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq",
+      "title_fa": "مراسم تشییع پیکر آیت‌الله خامنه‌ای، رهبر فقید ایران، در عراق در حال برگزاری است",
+      "lead": "مراسم تشییع پیکر آیت‌الله خامنه‌ای، رهبر فقید ایران، در عراق در حال برگزاری است. تابوت او از خیابان‌های نجف عبور کرده و به سمت حرم امام علی، داماد پیامبر اسلام، در حرکت است.",
+      "analysis": "برگزاری مراسم تشییع پیکر آیت‌الله خامنه‌ای در عراق، به‌ویژه در شهر مقدس نجف و حرکت به سمت حرم امام علی، ابعاد مذهبی و فراملی این رویداد را برجسته می‌کند. این اقدام نه تنها نشان‌دهنده نفوذ منطقه‌ای ایران و جایگاه رهبر فقید در میان شیعیان عراق است، بلکه پیامی سیاسی نیز به همراه دارد. این مراسم می‌تواند به تقویت روابط فرهنگی و مذهبی میان ایران و عراق کمک کرده و جایگاه ایران را در محور مقاومت منطقه‌ای تحکیم بخشد. از طرفی، این رویداد می‌تواند نمادی از همبستگی شیعی در منطقه باشد و بر نقش معنوی و سیاسی شهرهای مقدس عراق در پیوندهای منطقه‌ای تأکید کند.",
+      "category": "politics",
+      "region": "middle east",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/8/funeral-events-for-irans-slain-supreme-leader-khamenei-under-way-in-iraq?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Wed, 08 Jul 2026 08:27:43 +0000",
+      "time": "۱۱:۵۷ - ۱۷ تیر",
+      "analyzed_at": "2026-07-08T09:27:42.843Z"
     }
   ]
 }
