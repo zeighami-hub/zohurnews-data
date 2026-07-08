@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
   "agencyId": "aljazeera",
-  "total": 51,
+  "total": 52,
   "articles": [
     {
       "id": "aljazeera_12",
@@ -1269,6 +1269,31 @@
       "pubDate": "Wed, 08 Jul 2026 09:10:41 +0000",
       "time": "۱۲:۴۰ - ۱۷ تیر",
       "analyzed_at": "2026-07-08T09:55:43.639Z"
+    },
+    {
+      "id": "aljazeera_4",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Pakistan searches for Boeing cargo plane missing over Arabian Sea",
+      "title_fa": "پاکستان در حال جستجو برای هواپیمای باری بوئینگ مفقود شده بر فراز دریای عرب است",
+      "lead": "یک هواپیمای باری بوئینگ که عازم کراچی بود، پس از گزارش نقص در سیستم ناوبری، ارتباط خود را با کنترل ترافیک هوایی از دست داد. پاکستان اکنون عملیات جستجو برای یافتن این هواپیما را بر فراز دریای عرب آغاز کرده است.",
+      "analysis": "مفقود شدن یک هواپیمای باری بر فراز دریای عرب یک حادثه هوایی جدی است که ابعاد بین‌المللی دارد. این حادثه می‌تواند نگرانی‌هایی درباره ایمنی پروازها، به‌ویژه در مورد هواپیماهای باری بوئینگ، ایجاد کند. عملیات جستجو و نجات گسترده‌ای نیاز است و پیامدهای این اتفاق می‌تواند شامل تحقیقات فنی، تأثیر بر صنعت هوانوردی و روابط بین‌المللی باشد. این رویداد برای پاکستان و کشورهای منطقه حائز اهمیت است و می‌تواند توجه رسانه‌های جهانی را به خود جلب کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/8/pakistan-searches-for-boeing-cargo-plane-missing-over-arabian-sea?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 08 Jul 2026 09:39:24 +0000",
+      "time": "۱۳:۰۹ - ۱۷ تیر",
+      "analyzed_at": "2026-07-08T10:10:28.412Z"
     }
   ]
 }
