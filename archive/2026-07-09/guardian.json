@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "guardian",
-  "total": 7,
+  "total": 21,
   "articles": [
     {
       "id": "guardian_f815c05f22",
@@ -170,6 +170,340 @@
       "pubDate": "Wed, 08 Jul 2026 08:35:29 GMT",
       "time": "۱۲:۰۵ - ۱۷ تیر",
       "analyzed_at": "2026-07-09T06:46:27.635Z"
+    },
+    {
+      "id": "guardian_16962c21b3",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "As the Telstra crisis unfolded, the Coalition fell victim to another communications failure",
+      "title_fa": "همزمان با بحران تلسترا، ائتلاف قربانی یک شکست ارتباطی دیگر شد",
+      "lead": "در حالی که بحران تلسترا در حال وقوع بود، ائتلاف نیز دچار یک شکست ارتباطی دیگر شد. این دومین خرابی بزرگ شرکت مخابراتی در ۱۲ ماه گذشته است که باید فشار بر دولت را افزایش دهد، اما آنگوس تیلور در حال کسب گل به خودی است.",
+      "category": "politics",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/09/as-the-telstra-crisis-unfolded-the-coalition-fell-victim-to-another-communications-failure",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 09 Jul 2026 06:31:39 GMT",
+      "time": "۱۰:۰۱ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_a3a33ae582",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+      "title_fa": "مطالعه‌ای نشان می‌دهد لوسیون سنبل الطیب به اندازه دیت در دفع پشه‌ها مؤثر است",
+      "lead": "محققان در اوگاندا دریافتند که یک روغن خانگی ارزان‌قیمت، به اندازه دیت (Deet)، ماده شیمیایی مصنوعی مورد استفاده جهانی، در دفع پشه‌ها مؤثر است. لوسیون سنبل الطیب در آزمایشات به عنوان یک دافع پشه \"به همان اندازه دیت مؤثر\" ثابت شده است.",
+      "category": "science",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Tue, 07 Jul 2026 15:17:19 GMT",
+      "time": "۱۸:۴۷ - ۱۶ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_0948fe9835",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
+      "title_fa": "دادستان‌های فرانسوی در حال بررسی توهین‌های نژادپرستانه سناتور پاراگوئه‌ای به کیلیان امباپه هستند",
+      "lead": "دادستان‌های فرانسه تحقیقاتی را درباره حمله نژادپرستانه یک سناتور پاراگوئه‌ای به کیلیان امباپه آغاز کرده‌اند. این سناتور پس از شکایت فدراسیون فوتبال فرانسه در مورد پست‌های رسانه‌های اجتماعی مرتبط با مسابقه جام جهانی، ممکن است با اتهاماتی روبرو شود.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Tue, 07 Jul 2026 15:06:41 GMT",
+      "time": "۱۸:۳۶ - ۱۶ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_49e14c4733",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
+      "title_fa": "چه چیزی میراث ایلان ماسک را تعریف خواهد کرد؟ کاهش کمک‌های دوج به برنامه‌های ابولا USAID",
+      "lead": "کارشناسان می‌گویند کاهش کمک‌ها به برنامه‌های ابولا USAID، واکنش به شیوع ابولا در جمهوری دموکراتیک کنگو را مختل کرده و منجر به \"تعداد قابل توجهی\" از مرگ و میر شده است. سهام اسپیس‌اکس پس از عرضه اولیه عمومی به شدت کاهش یافته و تسلا با موجی از دعاوی حقوقی روبرو است.",
+      "category": "health",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 07 Jul 2026 11:00:06 GMT",
+      "time": "۱۴:۳۰ - ۱۶ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_e9e79c03bf",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Severe storms in China bring tornadoes and landslides that have killed 15 people",
+      "title_fa": "طوفان‌های شدید در چین گردباد و رانش زمین به همراه داشته و ۱۵ نفر را کشته‌اند",
+      "lead": "طوفان‌های ویرانگر در بخش‌هایی از چین تاکنون ۱۵ کشته برجای گذاشته و صدها نفر دیگر را تحت تأثیر قرار داده است. شی جین‌پینگ، رهبر چین، خواستار تلاش \"تمام عیار\" برای نجات شده، در حالی که ۱۶ نفر پس از رانش زمین در غرب این کشور هنوز زیر آوار مانده‌اند.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/07/china-severe-storms-death-toll-xi-jinping-rescue-efforts-landslides-tornadoes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 07 Jul 2026 06:51:54 GMT",
+      "time": "۱۰:۲۱ - ۱۶ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_6fc30878cf",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
+      "title_fa": "پنج نفر در لیبریا پس از کشف بیش از ۲۰۰ کیلوگرم کوکائین در یک عملیات مواد مخدر متهم شدند",
+      "lead": "مقامات لیبریا پنج مظنون را در پی یکی از بزرگترین کشفیات مواد مخدر در تاریخ این کشور متهم کرده‌اند. این محموله که در فرودگاه مونروویا کشف شد و ۱۴.۲ میلیون پوند ارزش داشت، به اشتباه به عنوان مکعب‌های چاشنی اعلام شده بود.",
+      "category": "crime",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "pubDate": "Tue, 07 Jul 2026 06:30:31 GMT",
+      "time": "۱۰:۰۰ - ۱۶ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_0fe5715dca",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australian PM says Chinese missile test could have caused ‘considerable damage’ if weaponised",
+      "title_fa": "نخست‌وزیر استرالیا می‌گوید آزمایش موشکی چین در صورت مسلح شدن می‌توانست «خسارت قابل توجهی» ایجاد کند",
+      "lead": "نخست‌وزیر استرالیا، آنتونی آلبانیز، اظهار داشته که آزمایش تسلیحات چین در اقیانوس آرام خطر دامن زدن به تنش‌ها را در پی دارد. نخست‌وزیر جزایر سلیمان نیز اعلام کرده که خواهان آزمایش بیشتر موشک‌های بالستیک قاره‌پیما در اقیانوس آرام نیست و از چین خواسته که \"دوست ما باشد اما ما را تهدید نکند\".",
+      "category": "military",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 07 Jul 2026 04:28:02 GMT",
+      "time": "۰۷:۵۸ - ۱۶ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_8",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
+      "title_fa": "«زندگی اینگونه عذاب‌آور است»: کوبا در شش ماه گذشته سومین خاموشی سراسری را تجربه می‌کند",
+      "lead": "شرکت برق دولتی کوبا اعلام کرد که این کشور روز دوشنبه سومین خاموشی سراسری خود را از ابتدای سال جاری تجربه کرده است. این جزیره فقیر پیش از اعمال محاصره توسط آمریکا در ماه ژانویه نیز برای تأمین برق خود با مشکل مواجه بود.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/06/cuban-suffers-third-nationwide-blackout-in-six-months",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_7a63041878",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Typhoon Maysak kills two and forces thousands to evacuate in China",
+      "title_fa": "طوفان مایساک در چین دو کشته و هزاران نفر را مجبور به تخلیه کرده است",
+      "lead": "یک طوفان گرمسیری در جنوب چین دو نفر را کشته، باعث شکستگی سدها شده و ده‌ها هزار نفر را مجبور به تخلیه کرده است. طوفان مایساک سیل شدید ایجاد کرده و بارش شدید باران در روزهای آینده پیش‌بینی می‌شود.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/06/typhoon-maysak-kills-two-and-forces-thousands-to-evacuate-in-china",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 06 Jul 2026 17:50:08 GMT",
+      "time": "۲۱:۲۰ - ۱۵ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_cce1e7e45a",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+      "title_fa": "کانادا پس از رقابت مزایده، ۱۲ زیردریایی پیشرفته آلمانی خریداری می‌کند",
+      "lead": "کانادا یک کنسرسیوم آلمانی را برای ساخت دوازده زیردریایی پیشرفته در یکی از بزرگترین قراردادهای دفاعی تاریخ خود انتخاب کرده است. این قرارداد چند میلیارد دلاری روابط کانادا با ناتو را عمیق‌تر خواهد کرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "pubDate": "Mon, 06 Jul 2026 16:41:47 GMT",
+      "time": "۲۰:۱۱ - ۱۵ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_40185c0bac",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Cuban zoo celebrates birth of Bengal tigers amid energy crisis",
+      "title_fa": "باغ‌وحش کوبا تولد ببرهای بنگال را در بحبوحه بحران انرژی جشن می‌گیرد",
+      "lead": "باغ‌وحش ملی کوبا تولد چهار توله ببر بنگال را جشن گرفته است، از جمله یک توله ببر سفید نادر. این اتفاق باعث تجدید حیات روحیه کارکنان خسته از کمبود سوخت و دارو در این کشور شده است.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/06/cuban-zoo-celebrates-birth-of-bengal-tigers-amid-energy-crisis",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 0,
+        "negative": 30
+      },
+      "pubDate": "Mon, 06 Jul 2026 15:58:26 GMT",
+      "time": "۱۹:۲۸ - ۱۵ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_67bc4e2fa2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "China tests long-range missile in South Pacific in move Australia condemns as ‘destabilising to region’",
+      "title_fa": "چین موشک دوربرد در اقیانوس آرام جنوبی آزمایش کرد؛ استرالیا این اقدام را «بی‌ثبات‌کننده منطقه» محکوم می‌کند",
+      "lead": "چین یک آزمایش موشکی دوربرد در اقیانوس آرام جنوبی انجام داده است، تنها چند ساعت پس از امضای توافقنامه دفاعی استرالیا و فیجی. استرالیا این اقدام را \"بی‌ثبات‌کننده منطقه\" محکوم کرده است و کارشناسان معتقدند زمان‌بندی آن تصادفی نیست.",
+      "category": "military",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 06 Jul 2026 10:15:35 GMT",
+      "time": "۱۳:۴۵ - ۱۵ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_0a804d931f",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "title_fa": "باستان‌شناسان شهر باستانی بیزانسی را در صحرای غربی مصر کشف کردند",
+      "lead": "باستان‌شناسان در مصر یک شهر به خوبی حفظ‌شده از دوران بیزانس را در صحرای غربی این کشور کشف کرده‌اند. محله‌های قرن چهارمی این شهر جزئیاتی از زندگی روزمره، توسعه شهری و فعالیت‌های اقتصادی را آشکار می‌کنند.",
+      "category": "culture",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sat, 04 Jul 2026 20:32:52 GMT",
+      "time": "۰۰:۰۲ - ۱۴ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_ea12998b5d",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
+      "title_fa": "«وضعیت وحشتناک است»: کارکنان امدادی از زندگی در شهر سودانی بمباران شده توسط حملات پهپادی می‌گویند",
+      "lead": "کارکنان امدادی وضعیت شهر محاصره شده الابید در سودان را \"وحشتناک\" توصیف می‌کنند، زیرا این شهر به میدان نبرد اصلی در جنگ میان نیروهای مسلح سودان و شبه‌نظامیان دشمن، RSF، تبدیل شده است. حملات پهپادی به این شهر همچنان ادامه دارد.",
+      "category": "military",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 04 Jul 2026 15:14:18 GMT",
+      "time": "۱۸:۴۴ - ۱۳ تیر",
+      "analyzed_at": "2026-07-09T06:54:48.465Z"
     }
   ]
 }
