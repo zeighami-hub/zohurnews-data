@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "guardian",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "guardian_f815c05f22",
@@ -504,6 +504,28 @@
       "pubDate": "Sat, 04 Jul 2026 15:14:18 GMT",
       "time": "۱۸:۴۴ - ۱۳ تیر",
       "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
+      "title_fa": "«اینگونه زندگی کردن عذاب‌آور است»: کوبا در شش ماه گذشته سومین خاموشی سراسری را تجربه کرد",
+      "lead": "شرکت برق دولتی کوبا اعلام کرد که این کشور روز دوشنبه سومین خاموشی سراسری خود را از ابتدای سال تجربه کرده است. این جزیره فقیر پیش از اعمال محاصره توسط آمریکا در ماه ژانویه، برای تامین برق با مشکل مواجه بود.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/06/cuba-suffersthird-nationwide-blackout-in-six-months",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-09T07:22:10.621Z"
     }
   ]
 }
