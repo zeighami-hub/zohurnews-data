@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "mehrnews",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "mehrnews_c1fb7cd82c",
@@ -600,6 +600,30 @@
       "pubDate": "Thu, 09 Jul 2026 08:22:44 GMT",
       "time": "۱۱:۵۲ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T08:39:46.571Z"
+    },
+    {
+      "id": "mehrnews_c52eea3f20",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Martyred Leader’s body arrives in Mashhad for burial",
+      "title_fa": "پیکر رهبر شهید برای تدفین وارد مشهد شد",
+      "lead": "پیکر «رهبر شهید» آیت‌الله سید علی خامنه‌ای برای مراسم تشییع نهایی و تدفین در حرم مطهر امام رضا (ع) وارد شهر مقدس مشهد شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246047/Plane-carrying-body-of-martyred-Leader-lands-at-Mashhad",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 09 Jul 2026 08:49:11 GMT",
+      "time": "۱۲:۱۹ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T09:08:16.608Z"
     }
   ]
 }
