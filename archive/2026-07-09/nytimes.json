@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_f259591dbd",
@@ -602,6 +602,30 @@
       "pubDate": "Thu, 09 Jul 2026 09:00:52 +0000",
       "time": "۱۲:۳۰ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T09:22:37.211Z"
+    },
+    {
+      "id": "nytimes_cc0cc2b2e3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Landfill in Indonesia Caught Fire Over a Week Ago. It’s Still Burning.",
+      "title_fa": "آتش‌سوزی در یک محل دفن زباله در اندونزی بیش از یک هفته پیش آغاز شد و همچنان ادامه دارد",
+      "lead": "یک محل دفن زباله در اندونزی بیش از یک هفته پیش دچار آتش‌سوزی شد و هنوز در حال سوختن است. دودهای سمی ساکنان نزدیک را بیمار کرده است و قانون‌گذاران و فعالان این آتش‌سوزی را نشانه مشکلات دیرینه کشور در مدیریت پسماند می‌دانند.",
+      "category": "environment",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/asia/indonesia-landfill-fire.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 09 Jul 2026 09:56:20 +0000",
+      "time": "۱۳:۲۶ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T10:25:29.538Z"
     }
   ]
 }
