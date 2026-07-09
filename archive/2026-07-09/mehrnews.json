@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "mehrnews",
-  "total": 26,
+  "total": 28,
   "articles": [
     {
       "id": "mehrnews_c1fb7cd82c",
@@ -624,6 +624,54 @@
       "pubDate": "Thu, 09 Jul 2026 08:49:11 GMT",
       "time": "۱۲:۱۹ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T09:08:16.608Z"
+    },
+    {
+      "id": "mehrnews_f2ad12b439",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "VIDEO: Mourners filled streets in Mashhad ahead of funeral",
+      "title_fa": "ویدئو: عزاداران پیش از مراسم تشییع، خیابان‌های مشهد را پر کردند",
+      "lead": "جمعیت گسترده‌ای از عزاداران، خیابان‌های منتهی به حرم امام رضا (ع) را پیش از مراسم تشییع رهبر شهید انقلاب اسلامی، آیت‌الله سید علی خامنه‌ای، پر کرده بودند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246049/VIDEO-Mourners-filled-streets-in-Mashhad-ahead-of-funeral",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 10:53:47 GMT",
+      "time": "۱۴:۲۳ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T11:08:23.799Z"
+    },
+    {
+      "id": "mehrnews_1bd0520fad",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "FM denounces fresh US attacks against Iran as grave war crime",
+      "title_fa": "وزارت خارجه حملات جدید آمریکا علیه ایران را جنایت جنگی جدی محکوم کرد",
+      "lead": "وزارت امور خارجه ایران حملات اخیر آمریکا به چندین منطقه در استان‌های ساحلی جنوبی کشور و پل‌های راه‌آهن را به شدت محکوم کرد و این حملات را «جنایت جنگی آشکار» خواند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246048/FM-denounces-fresh-US-attacks-against-Iran-as-grave-war-crime",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 10:47:19 GMT",
+      "time": "۱۴:۱۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T11:08:23.799Z"
     }
   ]
 }
