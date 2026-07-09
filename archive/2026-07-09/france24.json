@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "france24",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "france24_5f4b9c068b",
@@ -506,6 +506,54 @@
       "pubDate": "Thu, 09 Jul 2026 03:47:11 GMT",
       "time": "۰۷:۱۷ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T07:37:12.037Z"
+    },
+    {
+      "id": "france24_55a5307be1",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Oil prices stabilise after renewed US-Iran strikes rock peace hopes",
+      "title_fa": "قیمت نفت پس از حملات مجدد آمریکا و ایران که امیدهای صلح را متزلزل کرد، تثبیت شد",
+      "lead": "قیمت نفت روز پنجشنبه پس از افزایش شدید روز قبل، تثبیت شد. این نوسان در پی اعلام دونالد ترامپ مبنی بر \"پایان\" آتش‌بس با ایران و حملات مجدد به کشتی‌ها در تنگه هرمز رخ داد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/economy/20260709-oil-prices-stabilise-after-renewed-us-iran-strikes-rock-peace-hopes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Thu, 09 Jul 2026 08:35:50 GMT",
+      "time": "۱۲:۰۵ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T08:54:36.360Z"
+    },
+    {
+      "id": "france24_3e8d1e89ca",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "World Cup: France face Morocco for a place in the semi-finals",
+      "title_fa": "جام جهانی: فرانسه برای راهیابی به نیمه‌نهایی به مصاف مراکش می‌رود",
+      "lead": "تیم‌های فرانسه و مراکش این پنجشنبه در مرحله یک‌چهارم نهایی جام جهانی دوباره به مصاف یکدیگر خواهند رفت. این بازی چهار سال پس از تقابل آن‌ها در نیمه‌نهایی جام جهانی قطر برگزار می‌شود که در آن فرانسه با نتیجه ۲-۰ پیروز شد.",
+      "category": "sports",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/sports/20260709-world-cup-france-face-morocco-place-semi-finals",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 08:40:29 GMT",
+      "time": "۱۲:۱۰ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T08:54:36.360Z"
     }
   ]
 }
