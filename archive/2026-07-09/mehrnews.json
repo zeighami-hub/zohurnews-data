@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "mehrnews",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "mehrnews_c1fb7cd82c",
@@ -576,6 +576,30 @@
       "pubDate": "Thu, 09 Jul 2026 07:49:28 GMT",
       "time": "۱۱:۱۹ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T08:09:37.057Z"
+    },
+    {
+      "id": "mehrnews_ae398d4989",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Tehran denounces US-Israeli war crimes waged against Iran",
+      "title_fa": "تهران جنایات جنگی آمریکا و اسرائیل علیه ایران را محکوم کرد",
+      "lead": "یک نماینده ایرانی، جنایات جنگی و جنایت علیه بشریتِ آمریکا و اسرائیل را که در جریان تهاجم فوریه آنها علیه ایران انجام شده، محکوم کرد. وی خواستار پاسخگویی واقعی شد و کاربرد گزینشی قوانین بین‌المللی را رد کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246046/Tehran-denounces-US-Israeli-war-crimes-waged-against-Iran",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 08:22:44 GMT",
+      "time": "۱۱:۵۲ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T08:39:46.571Z"
     }
   ]
 }
