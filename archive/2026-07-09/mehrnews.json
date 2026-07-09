@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "mehrnews",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "mehrnews_c1fb7cd82c",
@@ -432,6 +432,54 @@
       "pubDate": "Wed, 08 Jul 2026 11:55:14 GMT",
       "time": "۱۵:۲۵ - ۱۷ تیر",
       "analyzed_at": "2026-07-09T06:32:42.372Z"
+    },
+    {
+      "id": "mehrnews_ac6947cdad",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Body of martyred Leader en route to Mashhad for interment",
+      "title_fa": "پیکر رهبر شهید در راه مشهد برای خاکسپاری",
+      "lead": "پیکر رهبر شهید انقلاب اسلامی، آیت‌الله سید علی خامنه‌ای، پس از برگزاری مراسم در نجف و کربلا، از عراق به شهر مقدس مشهد منتقل می‌شود. این انتقال برای مراسم نهایی تشییع و خاکسپاری صورت می‌گیرد.",
+      "category": "politics",
+      "region": "Middle East",
+      "sourceUrl": "https://en.mehrnews.com/news/246041/Body-of-martyred-Leader-en-route-to-Mashhad-for-interment",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 06:19:38 GMT",
+      "time": "۰۹:۴۹ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T06:46:27.635Z"
+    },
+    {
+      "id": "mehrnews_70d7c79b81",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US launches cruise missile attack on targets in northern Iran",
+      "title_fa": "آمریکا به اهدافی در شمال ایران حمله موشکی کروز انجام داد",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که آمریکا اوایل امروز پنجشنبه حمله موشکی کروز به اهدافی در استان گلستان واقع در شمال ایران انجام داده است. سپاه افزود این حمله تهاجمی تلفاتی در پی نداشته و هشدار داد که پاسخی قاطع در پی خواهد داشت.",
+      "category": "military",
+      "region": "Iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246039/US-launches-cruise-missile-attack-on-targets-in-northern-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 09 Jul 2026 05:49:35 GMT",
+      "time": "۰۹:۱۹ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T06:46:27.635Z"
     }
   ]
 }
