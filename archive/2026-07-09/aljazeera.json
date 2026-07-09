@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "aljazeera",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "aljazeera_b6af3cb47f",
@@ -550,6 +550,30 @@
       "pubDate": "Thu, 09 Jul 2026 05:21:18 +0000",
       "time": "۰۸:۵۱ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T06:54:48.465Z"
+    },
+    {
+      "id": "aljazeera_a7dc95542b",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
+      "title_fa": "تصاویر: حملات اسرائیل ۹ نفر از جمله دو کودک را در غزه کشت",
+      "lead": "به گفته پزشکان، حملات هوایی و تیراندازی اسرائیل ۹ فلسطینی از جمله دو کودک را در غزه کشته است. این حملات علی‌رغم برقراری آتش‌بس صورت گرفته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 07:08:32 +0000",
+      "time": "۱۰:۳۸ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T07:22:10.621Z"
     }
   ]
 }
