@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 27,
   "articles": [
     {
       "id": "nytimes_f259591dbd",
@@ -626,6 +626,30 @@
       "pubDate": "Thu, 09 Jul 2026 09:56:20 +0000",
       "time": "۱۳:۲۶ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T10:25:29.538Z"
+    },
+    {
+      "id": "nytimes_9a172a5ee4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Final Stage of Ayatollah Ali Khamenei’s Weeklong Funeral Is Delayed",
+      "title_fa": "مرحله پایانی مراسم تشییع یک هفته‌ای آیت‌الله علی خامنه‌ای به تاخیر افتاد",
+      "lead": "مقامات ایرانی اعلام کردند که مراسم تشییع آیت‌الله علی خامنه‌ای، رهبر سابق ایران، در مشهد با تاخیر آغاز خواهد شد. این تاخیر ساعاتی پس از تبادل حملات بین ایالات متحده و ایران رخ می‌دهد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 09 Jul 2026 10:40:55 +0000",
+      "time": "۱۴:۱۰ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T10:54:51.417Z"
     }
   ]
 }
