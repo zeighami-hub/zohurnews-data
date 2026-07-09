@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "nytimes",
-  "total": 27,
+  "total": 28,
   "articles": [
     {
       "id": "nytimes_f259591dbd",
@@ -650,6 +650,30 @@
       "pubDate": "Thu, 09 Jul 2026 10:40:55 +0000",
       "time": "۱۴:۱۰ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T10:54:51.417Z"
+    },
+    {
+      "id": "nytimes_4cb25b09e8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Live Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
+      "title_fa": "به‌روزرسانی زنده: آمریکا و ایران پس از آخرین حملات وارد چرخه خشونت‌بار شدند",
+      "lead": "حملات به کشتی‌ها با حملات جدید آمریکا به ایران همراه شد که ایران نیز با شلیک به کشورهای حاشیه خلیج فارس پاسخ داد. این الگوی خصومت‌ها تقریباً آتش‌بس را از بین برده و نشانه‌ای از عقب‌نشینی هیچ‌یک از طرفین دیده نمی‌شود.",
+      "category": "military",
+      "region": "middle-east",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 11:01:15 +0000",
+      "time": "۱۴:۳۱ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T11:08:23.799Z"
     }
   ]
 }
