@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "france24",
-  "total": 28,
+  "total": 29,
   "articles": [
     {
       "id": "france24_5f4b9c068b",
@@ -674,6 +674,30 @@
       "pubDate": "Thu, 09 Jul 2026 09:11:53 GMT",
       "time": "۱۲:۴۱ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T09:38:03.504Z"
+    },
+    {
+      "id": "france24_798c881300",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Iran to bury slain Ayatollah Ali Khamenei as week-long funeral ceremonies draw to a close",
+      "title_fa": "ایران آیت‌الله علی خامنه‌ای را به خاک می‌سپارد؛ مراسم تشییع یک هفته‌ای به پایان می‌رسد",
+      "lead": "پیکر آیت‌الله علی خامنه‌ای، رهبر فقید ایران، روز پنجشنبه در مشهد و در حرم مطهر به خاک سپرده خواهد شد. این مراسم پس از یک هفته تشییع‌های گسترده، تجمع‌ها و عزاداری‌ها برگزار می‌شود که با تشدید درگیری با آمریکا همزمان شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/iran-bury-slain-leader-ali-khamenei-culmination-funeral-procession",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 09 Jul 2026 09:54:46 GMT",
+      "time": "۱۳:۲۴ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T10:06:00.261Z"
     }
   ]
 }
