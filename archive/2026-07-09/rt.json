@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "rt",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "rt_d08ca382e0",
@@ -506,6 +506,30 @@
       "pubDate": "Thu, 09 Jul 2026 09:31:14 +0000",
       "time": "۱۳:۰۱ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T09:38:03.504Z"
+    },
+    {
+      "id": "rt_c0c837cca8",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Trump declares himself Iran’s ‘number one target’",
+      "title_fa": "ترامپ خود را «هدف شماره یک» ایران اعلام کرد",
+      "lead": "ترامپ می‌گوید که او «هدف شماره یک» ایران است، زیرا درگیری بین آمریکا و ایران بر سر تنگه هرمز از سر گرفته شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/642796-trump-iran-assassination-target/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 09:47:40 +0000",
+      "time": "۱۳:۱۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T09:52:14.470Z"
     }
   ]
 }
