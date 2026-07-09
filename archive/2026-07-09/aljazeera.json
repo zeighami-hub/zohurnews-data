@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "aljazeera",
-  "total": 33,
+  "total": 34,
   "articles": [
     {
       "id": "aljazeera_b6af3cb47f",
@@ -790,6 +790,30 @@
       "pubDate": "Thu, 09 Jul 2026 08:30:42 +0000",
       "time": "۱۲:۰۰ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T09:22:37.211Z"
+    },
+    {
+      "id": "aljazeera_5f2f73e242",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US, Iran launch more attacks as mediators urge warring sides to uphold MoU",
+      "title_fa": "آمریکا و ایران حملات بیشتری را آغاز کردند؛ میانجی‌ها طرف‌های درگیر را به حفظ تفاهم‌نامه ترغیب می‌کنند",
+      "lead": "ایران اعلام کرد پس از بمباران اهدافی در ایران توسط آمریکا، این کشور به سایت‌های مرتبط با ارتش آمریکا در کویت، بحرین و قطر حمله کرده است. در این میان، میانجی‌ها از طرفین درگیر می‌خواهند که تفاهم‌نامه موجود را رعایت کنند تا از تشدید درگیری‌ها جلوگیری شود.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/9/us-iran-launch-more-attacks-as-mediators-urge-warring-sides-to-uphold-mou?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 09 Jul 2026 09:04:50 +0000",
+      "time": "۱۲:۳۴ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T09:52:14.470Z"
     }
   ]
 }
