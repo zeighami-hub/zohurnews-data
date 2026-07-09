@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "rt",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "rt_d08ca382e0",
@@ -482,6 +482,30 @@
       "pubDate": "Wed, 08 Jul 2026 03:32:13 +0000",
       "time": "۰۷:۰۲ - ۱۷ تیر",
       "analyzed_at": "2026-07-09T06:46:27.635Z"
+    },
+    {
+      "id": "rt_8d5d89dd6b",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "China alleges secret data-sharing mechanism in Anthropic’s Claude AI",
+      "title_fa": "چین مدعی مکانیسم اشتراک‌گذاری مخفی داده‌ها در هوش مصنوعی Claude شرکت Anthropic شد",
+      "lead": "چین ادعا می‌کند که کد هوش مصنوعی Claude شرکت Anthropic حاوی آسیب‌پذیری‌های امنیتی است. این آسیب‌پذیری‌ها می‌توانند داده‌های حساس کاربران را بدون رضایت آن‌ها منتقل کنند.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.rt.com/news/642791-china-security-risk-anthropic/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 09:31:14 +0000",
+      "time": "۱۳:۰۱ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T09:38:03.504Z"
     }
   ]
 }
