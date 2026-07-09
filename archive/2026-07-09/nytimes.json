@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_f259591dbd",
@@ -482,6 +482,30 @@
       "pubDate": "Thu, 09 Jul 2026 07:13:28 +0000",
       "time": "۱۰:۴۳ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T07:22:10.621Z"
+    },
+    {
+      "id": "nytimes_6913ca4fe9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Why India Has Spent Years Blocking the Release of Diljit Dosanjh’s ‘Satluj’",
+      "title_fa": "چرا هند سال‌ها اکران فیلم «ساتلج» دیلجیت دوسانج را مسدود کرده است",
+      "lead": "سانسورچی‌ها ۱۲۷ مورد اصلاحیه برای فیلمی که دوره تاریک خشونت پلیس در ایالت پنجاب را بررسی می‌کند، درخواست کرده‌اند.\nفیلمسازان این موضوع را جدیدترین و نگران‌کننده‌ترین نمونه از سانسور ریشه‌دار در هند می‌دانند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/asia/india-film-censorship-satluj-diljit.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 05:25:14 +0000",
+      "time": "۰۸:۵۵ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T08:24:47.838Z"
     }
   ]
 }
