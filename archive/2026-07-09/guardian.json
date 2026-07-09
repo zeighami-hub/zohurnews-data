@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "guardian",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "guardian_f815c05f22",
@@ -572,6 +572,30 @@
       "pubDate": "Mon, 06 Jul 2026 19:30:09 GMT",
       "time": "۲۳:۰۰ - ۱۵ تیر",
       "analyzed_at": "2026-07-09T07:51:13.626Z"
+    },
+    {
+      "id": "guardian_85379d3ecb",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Venomous snakes escape breeding farms in southern China during flooding",
+      "title_fa": "فرار مارهای سمی از مزارع پرورش در جنوب چین در پی سیل",
+      "lead": "رسانه‌های محلی در هنگژو گزارش داده‌اند که صدها مار از جمله مارهای کبرا و شاه‌ماران در پی سیلاب‌های ناشی از طوفان میساک از مزارع پرورش فرار کرده‌اند.\nاین حادثه در حالی رخ می‌دهد که طوفان‌های شدید همچنان بخش‌هایی از جنوب چین را درگیر کرده و نگرانی‌ها درباره سلامت عمومی را افزایش داده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/09/snakes-cobras-escape-breeding-farms-southern-china-flooding",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 08:08:20 GMT",
+      "time": "۱۱:۳۸ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T08:24:47.838Z"
     }
   ]
 }
