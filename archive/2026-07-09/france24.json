@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "france24",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "france24_5f4b9c068b",
@@ -434,6 +434,54 @@
       "pubDate": "Wed, 08 Jul 2026 16:05:16 GMT",
       "time": "۱۹:۳۵ - ۱۷ تیر",
       "analyzed_at": "2026-07-09T06:46:27.635Z"
+    },
+    {
+      "id": "france24_7ee25a548d",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "South Korea's top court upholds 7-year sentence for ex-president Yoon",
+      "title_fa": "دادگاه عالی کره جنوبی حکم ۷ سال حبس برای رئیس‌جمهور سابق یون را تأیید کرد",
+      "lead": "دادگاه عالی کره جنوبی روز پنجشنبه حکم هفت سال زندان صادر شده برای رئیس‌جمهور سابق، یون سوک یول، را تأیید کرد. این حکم به اتهام اخلال در انجام وظیفه و سایر جرائم مرتبط با اعلام نافرجام وضعیت اضطراری در سال ۲۰۲۴ صادر شده بود.",
+      "category": "Politics",
+      "region": "Asia",
+      "sourceUrl": "https://www.france24.com/en/asia-pacific/20260709-south-korea-top-court-upholds-7-year-sentence-for-ex-president-yoon",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 09 Jul 2026 06:54:49 GMT",
+      "time": "۱۰:۲۴ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T07:07:39.782Z"
+    },
+    {
+      "id": "france24_a74e02bc38",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Western Europe records its hottest June as heatwaves surge: EU monitor",
+      "title_fa": "اروپای غربی گرم‌ترین ژوئن خود را در بحبوحه افزایش امواج گرما ثبت کرد: ناظر اتحادیه اروپا",
+      "lead": "ناظر اقلیمی اتحادیه اروپا روز پنجشنبه اعلام کرد که اروپای غربی امسال گرم‌ترین ماه ژوئن ثبت شده خود را تجربه کرده است. این اتفاق در پی موج گرمای سوزانی رخ داد که قاره‌ای را فرا گرفت که با گرمای شدید فزاینده و مکرر روبرو است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/live-news/20260709-western-europe-records-its-hottest-june-as-heatwaves-surge-eu-monitor",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 03:47:11 GMT",
+      "time": "۰۷:۱۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T07:07:39.782Z"
     }
   ]
 }
