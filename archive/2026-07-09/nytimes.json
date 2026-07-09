@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_f259591dbd",
@@ -458,6 +458,30 @@
       "pubDate": "Wed, 08 Jul 2026 04:00:07 +0000",
       "time": "۰۷:۳۰ - ۱۷ تیر",
       "analyzed_at": "2026-07-09T06:46:27.635Z"
+    },
+    {
+      "id": "nytimes_2db5417b5e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Mexico Investigates Possible F.B.I. Role in El Mayo Arrest",
+      "title_fa": "مکزیک نقش احتمالی اف‌بی‌آی در دستگیری \"ال مایو\" را بررسی می‌کند",
+      "lead": "مکزیک در حال بررسی نقش احتمالی اف‌بی‌آی در دستگیری \"ال مایو\"، قاچاقچی معروف مواد مخدر است. اتهامات مبنی بر دروغگویی ایالات متحده درباره دخالتش در این عملیات، جنجال‌ها بر سر روابط پرتنش آمریکا و مکزیک را تازه کرده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/americas/mexico-el-mayo-fbi-us-cartel.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 07:13:28 +0000",
+      "time": "۱۰:۴۳ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T07:22:10.621Z"
     }
   ]
 }
