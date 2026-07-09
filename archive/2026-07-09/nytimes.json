@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "nytimes",
-  "total": 28,
+  "total": 29,
   "articles": [
     {
       "id": "nytimes_f259591dbd",
@@ -674,6 +674,30 @@
       "pubDate": "Thu, 09 Jul 2026 11:01:15 +0000",
       "time": "۱۴:۳۱ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T11:08:23.799Z"
+    },
+    {
+      "id": "nytimes_0728c06cf1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "What Germany and Japan Can Teach Ukraine About Patriot Missiles",
+      "title_fa": "آنچه آلمان و ژاپن می‌توانند درباره موشک‌های پاتریوت به اوکراین بیاموزند",
+      "lead": "دو متحد آمریکا از قبل مجوز ساخت رهگیرهای آمریکایی را دارند. رئیس‌جمهور ترامپ اعلام کرده است که اوکراین نیز این مجوز را دریافت خواهد کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/europe/germany-japan-ukraine-patriot-missiles.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Thu, 09 Jul 2026 11:11:49 +0000",
+      "time": "۱۴:۴۱ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T11:23:28.813Z"
     }
   ]
 }
