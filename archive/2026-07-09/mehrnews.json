@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "mehrnews",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "mehrnews_c1fb7cd82c",
@@ -552,6 +552,30 @@
       "pubDate": "Thu, 09 Jul 2026 07:06:03 GMT",
       "time": "۱۰:۳۶ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T07:22:10.621Z"
+    },
+    {
+      "id": "mehrnews_050cdf4ef4",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Tehran summons UK envoy over accusations leveled against Iran",
+      "title_fa": "تهران سفیر بریتانیا را در پی اتهامات علیه ایران احضار کرد",
+      "lead": "در پی تکرار اتهامات واهی و بی‌اساس مقامات بریتانیایی علیه ایران، سفیر این کشور در تهران توسط مدیرکل غرب اروپای وزارت امور خارجه احضار شد. این اقدام در اعتراض به این اتهامات صورت گرفت.",
+      "category": "diplomacy",
+      "region": "international",
+      "sourceUrl": "https://en.mehrnews.com/news/246045/Tehran-summons-UK-envoy-to-protest-accusations-against-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 09 Jul 2026 07:49:28 GMT",
+      "time": "۱۱:۱۹ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T08:09:37.057Z"
     }
   ]
 }
