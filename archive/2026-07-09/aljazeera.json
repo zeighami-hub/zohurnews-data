@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "aljazeera",
-  "total": 40,
+  "total": 42,
   "articles": [
     {
       "id": "aljazeera_b6af3cb47f",
@@ -958,6 +958,54 @@
       "pubDate": "Thu, 09 Jul 2026 10:09:03 +0000",
       "time": "۱۳:۳۹ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T10:54:51.417Z"
+    },
+    {
+      "id": "aljazeera_4f027893e6",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran prepares to bury slain leader Khamenei after mass funeral processions",
+      "title_fa": "ایران آماده خاکسپاری رهبر فقید خامنه‌ای پس از مراسم تشییع گسترده می‌شود",
+      "lead": "ایران آماده خاکسپاری رهبر فقید خود، آیت‌الله خامنه‌ای، پس از برگزاری مراسم تشییع گسترده می‌شود. پیکر وی در زادگاهش، شهر مقدس مشهد در شرق کشور، به خاک سپرده خواهد شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/9/iran-prepares-to-bury-slain-leader-khamenei-after-mass-funeral-ceremonies?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 10:52:38 +0000",
+      "time": "۱۴:۲۲ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T11:23:28.813Z"
+    },
+    {
+      "id": "aljazeera_3349edf2f2",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US strikes Iran for second night – is the peace process all over now?",
+      "title_fa": "حملات آمریکا به ایران برای دومین شب؛ آیا روند صلح به پایان رسیده است؟",
+      "lead": "ایالات متحده برای دومین شب متوالی به ایران حمله کرده است. با وجود این تشدید تنش‌ها، هیچ یک از طرفین رسماً توافقنامه صلح موقت را لغو نکرده‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/9/us-strikes-iran-for-second-night-is-the-peace-process-all-over-now?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 09 Jul 2026 10:49:40 +0000",
+      "time": "۱۴:۱۹ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T11:23:28.813Z"
     }
   ]
 }
