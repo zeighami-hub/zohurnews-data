@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -578,6 +578,30 @@
       "pubDate": "Fri, 10 Jul 2026 07:39:11 +0000",
       "time": "۱۱:۰۹ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T08:22:02.814Z"
+    },
+    {
+      "id": "nytimes_c83bcd1829",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "12 People Die in Southern Spain Wildfire",
+      "title_fa": "۱۲ نفر در آتش‌سوزی گسترده جنوب اسپانیا جان باختند",
+      "lead": "در پی آتش‌سوزی گسترده در اندلس اسپانیا، ۱۲ نفر جان خود را از دست دادند. این حادثه موجب عملیات گسترده مهار آتش شد و کارشناسان هشدار می‌دهند که موج گرما خطر چنین آتش‌سوزی‌هایی را افزایش داده است.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 08:18:51 +0000",
+      "time": "۱۱:۴۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T08:38:22.920Z"
     }
   ]
 }
