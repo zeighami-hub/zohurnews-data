@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "bbc",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_ab6e220907",
@@ -530,6 +530,30 @@
       "pubDate": "Thu, 09 Jul 2026 14:41:54 GMT",
       "time": "۱۸:۱۱ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T14:50:37.040Z"
+    },
+    {
+      "id": "bbc_38b5c15763",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+      "title_fa": "حملات اوکراین به کشتی‌های روسی در نزدیکی کریمه، تشدید حملات به ذخایر سوخت",
+      "lead": "اوکراین به کشتی‌های روسی در نزدیکی کریمه حمله کرده و حملات خود به ذخایر سوخت را تشدید کرده است. به نظر می‌رسد این حملات فاز جدیدی از تلاش اوکراین برای قطع مسیرهای تامین و خروج کالا از کریمه اشغالی است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 15:21:17 GMT",
+      "time": "۱۸:۵۱ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T15:37:55.060Z"
     }
   ]
 }
