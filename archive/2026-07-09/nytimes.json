@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "nytimes",
-  "total": 32,
+  "total": 33,
   "articles": [
     {
       "id": "nytimes_f259591dbd",
@@ -770,6 +770,30 @@
       "pubDate": "Thu, 09 Jul 2026 12:00:11 +0000",
       "time": "۱۵:۳۰ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T12:09:31.001Z"
+    },
+    {
+      "id": "nytimes_4c8d00652b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Factory Fire in China Causes ‘Significant’ Casualties, Xi Says",
+      "title_fa": "شی جین پینگ: آتش‌سوزی در یک کارخانه در چین تلفات «قابل توجهی» داشته است",
+      "lead": "در ویدئوهای منتشر شده از سوی رسانه‌های دولتی، دست‌کم ده‌ها نفر در سقف یک کارخانه کفش گرفتار شده بودند. رئیس جمهور شی جین پینگ این حادثه را تایید کرده و آن را دارای تلفات قابل توجهی دانسته است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/asia/china-fire-shoe-factory.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 09 Jul 2026 12:26:23 +0000",
+      "time": "۱۵:۵۶ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T12:39:04.685Z"
     }
   ]
 }
