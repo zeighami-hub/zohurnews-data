@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "skynews",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "skynews_291a59a7d4",
@@ -170,6 +170,30 @@
       "pubDate": "Thu, 09 Jul 2026 17:13:00 +0100",
       "time": "۱۹:۴۳ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T06:40:30.026Z"
+    },
+    {
+      "id": "skynews_a799193d5d",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Britons feared to be among 11 killed in Spain wildfire",
+      "title_fa": "بیم آن می‌رود که بریتانیایی‌ها در میان ۱۱ کشته در آتش‌سوزی جنگلی اسپانیا باشند",
+      "lead": "مقامات اعلام کرده‌اند که چهار نفر از بریتانیا احتمالاً در میان ۱۱ نفری هستند که کشته شده‌اند. این حادثه در بدترین آتش‌سوزی جنگلی اسپانیا در بیش از دو دهه گذشته رخ داده است.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/spain-wildfire-four-people-from-britain-feared-to-be-among-11-killed-13562150",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 04:30:00 +0100",
+      "time": "۰۷:۰۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T08:07:36.235Z"
     }
   ]
 }
