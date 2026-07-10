@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_fdcbbff025",
@@ -482,6 +482,30 @@
       "pubDate": "Thu, 09 Jul 2026 15:21:17 GMT",
       "time": "۱۸:۵۱ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T04:19:50.976Z"
+    },
+    {
+      "id": "bbc_51cd609904",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
+      "title_fa": "قهرمان پیشین المپیک اتهامات خرابکاری در حوض بازتابی را رد کرد",
+      "lead": "یک قایقران کانو و قهرمان پیشین المپیک ایالات متحده، اتهامات وارده مبنی بر آسیب رساندن عمدی به پوشش حوض بازتابی یادبود لینکلن را رد کرده است. او در این پرونده اعلام بی‌گناهی کرده است.",
+      "category": "crime",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Thu, 09 Jul 2026 17:01:15 GMT",
+      "time": "۲۰:۳۱ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T04:49:32.080Z"
     }
   ]
 }
