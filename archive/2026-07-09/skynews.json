@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "skynews",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "skynews_291a59a7d4",
@@ -146,6 +146,30 @@
       "pubDate": "Wed, 08 Jul 2026 02:13:00 +0100",
       "time": "۰۴:۴۳ - ۱۷ تیر",
       "analyzed_at": "2026-07-09T15:23:27.435Z"
+    },
+    {
+      "id": "skynews_4f5c4050c6",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Protests threaten to spiral out of control after rape and murder of girl, 12, in India",
+      "title_fa": "اعتراضات پس از تجاوز و قتل دختر ۱۲ ساله در هند به اوج خود رسیده است",
+      "lead": "پس از تجاوز و قتل یک دختر ۱۲ ساله در هند، اعتراضات در این کشور در حال اوج‌گیری و تهدید به خروج از کنترل است. این وضعیت پس از کشته شدن یک مرد بی‌گناه در جریان تظاهرات تشدید شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/protests-threaten-to-spiral-out-of-control-in-india-after-rape-and-murder-of-12-year-old-girl-saw-innocent-man-killed-13562029",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 17:13:00 +0100",
+      "time": "۱۹:۴۳ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T17:50:14.460Z"
     }
   ]
 }
