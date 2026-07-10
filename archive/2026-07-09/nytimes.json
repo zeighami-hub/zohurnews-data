@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "nytimes",
-  "total": 34,
+  "total": 35,
   "articles": [
     {
       "id": "nytimes_f259591dbd",
@@ -818,6 +818,30 @@
       "pubDate": "Thu, 09 Jul 2026 14:31:08 +0000",
       "time": "۱۸:۰۱ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T14:50:37.040Z"
+    },
+    {
+      "id": "nytimes_0b933e9ff0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
+      "title_fa": "کشته شدن امدادگر غزه در مسیر تماشای جام جهانی بر اثر حمله اسرائیل",
+      "lead": "یک امدادگر در غزه که در مسیر تماشای جام جهانی بود، بر اثر حمله اسرائیل کشته شد. ارتش اسرائیل اعلام کرد که یک ستیزه‌جوی حماس را هدف قرار داده، اما از گزارش‌ها مبنی بر آسیب دیدن «غیرنظامیان بی‌گناه» مطلع است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/aid-worker-killed-israeli-strike.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 15:24:45 +0000",
+      "time": "۱۸:۵۴ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T15:37:55.060Z"
     }
   ]
 }
