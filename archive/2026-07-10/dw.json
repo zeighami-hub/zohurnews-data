@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "dw",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "dw_34c0ad2564",
@@ -552,6 +552,54 @@
       "pubDate": "Thu, 9 Jul 2026 17:20:00 GMT",
       "time": "۲۰:۵۰ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T06:40:30.026Z"
+    },
+    {
+      "id": "dw_e32fd123b2",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "India news: Prime Minister Modi embarks on maiden trip to New Zealand",
+      "title_fa": "اخبار هند: نخست‌وزیر مودی اولین سفر خود به نیوزلند را آغاز کرد",
+      "lead": "نارندرا مودی، نخست‌وزیر هند، اولین سفر خود به نیوزلند را آغاز کرده و این بخش پایانی تور سه‌کشوره اوست. در برنامه کاری او، مذاکرات دوجانبه در زمینه تجارت، بازرگانی و دفاع گنجانده شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/india-news-prime-minister-modi-embarks-on-maiden-trip-to-new-zealand/live-77899386?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 06:50:00 GMT",
+      "time": "۱۰:۲۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T07:07:13.884Z"
+    },
+    {
+      "id": "dw_97fdaf26b4",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Iran war: Former supreme leader buried amid new escalation",
+      "title_fa": "دفن رهبر سابق ایران در بحبوحه تشدید تنش‌های جدید",
+      "lead": "آیت‌الله علی خامنه‌ای، رهبر سابق ایران، پس از شش روز مراسم تشییع جنازه و در بحبوحه تشدید تنش‌های جدید، به خاک سپرده شد. در همین حال، برخی از نفتکش‌ها همچنان از تنگه هرمز عبور می‌کنند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/iran-war-former-supreme-leader-buried-amid-new-escalation/live-77899274?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 06:44:00 GMT",
+      "time": "۱۰:۱۴ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T06:52:25.352Z"
     }
   ]
 }
