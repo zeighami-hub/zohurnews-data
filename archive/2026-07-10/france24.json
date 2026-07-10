@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "france24",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "france24_fcb4c4f778",
@@ -530,6 +530,54 @@
       "pubDate": "Fri, 10 Jul 2026 09:24:26 GMT",
       "time": "۱۲:۵۴ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T10:07:04.845Z"
+    },
+    {
+      "id": "france24_93d16ba2cd",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "A cultural stroll through Paris with Kalash and Manon Lisa",
+      "title_fa": "گشت و گذاری فرهنگی در پاریس با کلاش و مانون لیزا",
+      "lead": "برنامه تلویزیونی «پاریس دز آرت» تابستانی پر از موسیقی را با حضور رپر فرانسوی کلاش و خواننده مانون لیزا به تصویر می‌کشد. این برنامه به گشت و گذاری فرهنگی در پاریس با این دو هنرمند می‌پردازد.",
+      "category": "culture",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/paris-des-arts/20260710-a-cultural-stroll-through-paris-with-kalash-and-manon-lisa",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 10:14:25 GMT",
+      "time": "۱۳:۴۴ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:22:11.647Z"
+    },
+    {
+      "id": "france24_a91970f510",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "The dark side of the World Cup: A rise in domestic violence",
+      "title_fa": "روی تاریک جام جهانی: افزایش خشونت خانگی",
+      "lead": "با وجود اینکه میلیون‌ها نفر جام جهانی را دنبال می‌کنند، مطالعات نشان‌دهنده افزایش قابل توجه خشونت خانگی در طول این رویداد است. این مسئله باعث شده تا فعالان حقوق زنان نسبت به آن هشدار دهند و نگرانی‌ها را مطرح سازند.",
+      "category": "social_issues",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/the-51/20260710-the-dark-side-of-the-world-cup-a-rise-in-domestic-violence",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 10 Jul 2026 10:05:44 GMT",
+      "time": "۱۳:۳۵ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:22:11.647Z"
     }
   ]
 }
