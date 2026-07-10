@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "nytimes",
-  "total": 33,
+  "total": 34,
   "articles": [
     {
       "id": "nytimes_f259591dbd",
@@ -794,6 +794,30 @@
       "pubDate": "Thu, 09 Jul 2026 12:26:23 +0000",
       "time": "۱۵:۵۶ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T12:39:04.685Z"
+    },
+    {
+      "id": "nytimes_2ea6309542",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ukrainians Cautiously Welcome Trump’s Announcement About Air-Defense Systems",
+      "title_fa": "استقبال محتاطانه اوکراینی‌ها از اعلام ترامپ درباره سامانه‌های دفاع هوایی",
+      "lead": "رئیس‌جمهور ترامپ اعلام کرد که ایالات متحده مجوز تولید سامانه‌های دفاع هوایی پاتریوت را به اوکراین خواهد داد. با این حال، ممکن است ماه‌ها یا سال‌ها طول بکشد تا این سامانه‌های رهگیر موشک‌های بالستیک آماده عملیات شوند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/europe/ukraine-patriots-trump-russia.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 14:31:08 +0000",
+      "time": "۱۸:۰۱ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T14:50:37.040Z"
     }
   ]
 }
