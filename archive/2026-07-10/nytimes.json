@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -554,6 +554,30 @@
       "pubDate": "Thu, 09 Jul 2026 21:02:05 +0000",
       "time": "۰۰:۳۲ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T07:36:19.827Z"
+    },
+    {
+      "id": "nytimes_bfd84f2ac1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "China Launches Reusable Rocket, Clearing a Key Hurdle in Race With SpaceX",
+      "title_fa": "چین موشک قابل استفاده مجدد پرتاب کرد و مانع اصلی در رقابت با اسپیس‌ایکس را برداشت.",
+      "lead": "پرتاب و بازیابی موفقیت‌آمیز موشک لانگ مارچ ۱۰B توسط چین، می‌تواند یک پیشرفت مهم برای شرکت‌های ماهواره‌ای این کشور باشد. این اتفاق، مانع اصلی در رقابت با شرکت‌هایی مانند اسپیس‌ایکس را از میان برداشته است.",
+      "category": "science",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/asia/china-space-reusable-rocket-launch-spacex.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 07:39:11 +0000",
+      "time": "۱۱:۰۹ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T08:22:02.814Z"
     }
   ]
 }
