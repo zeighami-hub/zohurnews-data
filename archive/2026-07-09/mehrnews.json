@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "mehrnews",
-  "total": 35,
+  "total": 37,
   "articles": [
     {
       "id": "mehrnews_c1fb7cd82c",
@@ -838,6 +838,54 @@
         "negative": 90
       },
       "analyzed_at": "2026-07-09T14:50:37.040Z"
+    },
+    {
+      "id": "mehrnews_c90b19cfec",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Araghchi spoke with his Turkish, Omani counterparts on Hormuz",
+      "title_fa": "گفت‌وگوی عراقچی با همتایان ترکیه‌ای و عمانی خود درباره هرمز",
+      "lead": "سید عباس عراقچی، وزیر امور خارجه ایران، عصر پنجشنبه با همتایان ترکیه‌ای و عمانی خود گفت‌وگوهای تلفنی جداگانه‌ای انجام داد. این گفت‌وگوها به منظور بررسی آخرین تحولات منطقه و رویدادهای اخیر در تنگه هرمز صورت گرفت.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246059/Araghchi-spoke-with-his-Turkish-Omani-counterparts-on-Hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 14:56:44 GMT",
+      "time": "۱۸:۲۶ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T15:06:40.092Z"
+    },
+    {
+      "id": "mehrnews_91f3975ba3",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC launches missiles against US Command, airbase in Jordan",
+      "title_fa": "سپاه پاسداران مواضع فرماندهی آمریکا و پایگاه هوایی آن در اردن را موشک‌باران کرد",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که در یک حمله تلافی‌جویانه، ۱۰ موشک بالستیک به مرکز فرماندهی و کنترل آمریکا در غرب آسیا و یک پایگاه هوایی آمریکا در اردن شلیک کرده است. این اقدام از سوی سپاه پاسداران گزارش شده است.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://en.mehrnews.com/news/246058/IRGC-launches-missiles-against-US-Command-airbase-in-Jordan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 14:40:59 GMT",
+      "time": "۱۸:۱۰ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T15:06:40.092Z"
     }
   ]
 }
