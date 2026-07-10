@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "rt",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "rt_d08ca382e0",
@@ -386,6 +386,54 @@
       "pubDate": "Thu, 09 Jul 2026 09:31:14 +0000",
       "time": "۱۳:۰۱ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "rt_283fc045c3",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "‘We are not at war’ – NATO state questions bloc’s Ukraine strategy",
+      "title_fa": "یک کشور ناتو استراتژی بلوک در اوکراین را زیر سوال برد: «ما در حال جنگ نیستیم»",
+      "lead": "نخست‌وزیر جمهوری چک، آندری بابیش، درباره استراتژی ناتو در قبال اوکراین و تامین مالی تلاش‌های جنگی این کشور علیه روسیه ابراز نگرانی کرده است. او اظهار داشته که \"ما در حال جنگ نیستیم\".",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/642800-babis-nato-ukraine-strategy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 09 Jul 2026 12:36:46 +0000",
+      "time": "۱۶:۰۶ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:50:52.494Z"
+    },
+    {
+      "id": "rt_347df87942",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Cancer cases to soar worldwide – WHO",
+      "title_fa": "سازمان جهانی بهداشت: موارد ابتلا به سرطان در سراسر جهان به شدت افزایش خواهد یافت",
+      "lead": "سازمان جهانی بهداشت (WHO) هشدار می‌دهد که موارد سالانه ابتلا به سرطان می‌تواند تا سال ۲۰۵۰ تقریباً دو برابر شود. انتظار می‌رود این بیماری بیش از ۹۰ درصد جمعیت جهان را تحت تاثیر قرار دهد.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642795-cancer-cases-soar-who/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 12:31:59 +0000",
+      "time": "۱۶:۰۱ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:50:52.494Z"
     }
   ]
 }
