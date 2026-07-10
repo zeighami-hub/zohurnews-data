@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "skynews_291a59a7d4",
@@ -122,6 +122,30 @@
       "pubDate": "Wed, 08 Jul 2026 01:00:00 +0100",
       "time": "۰۳:۳۰ - ۱۷ تیر",
       "analyzed_at": "2026-07-09T06:46:27.635Z"
+    },
+    {
+      "id": "skynews_ade2b4a6be",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "FIFA to discuss lifting ban on Russian teams after IOC decision",
+      "title_fa": "فیفا بحث لغو ممنوعیت تیم‌های روسی را پس از تصمیم IOC بررسی می‌کند",
+      "lead": "اسکای نیوز گزارش داد که فیفا به طور رسمی لغو ممنوعیت تیم‌های روسی را مورد بحث قرار خواهد داد. این اقدام پس از درخواست کمیته بین‌المللی المپیک (IOC) برای پایان دادن به تحریم‌های مرتبط با جنگ در ورزش صورت می‌گیرد.",
+      "category": "sports",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/fifa-to-discuss-lifting-ban-on-russian-teams-after-ioc-urged-sports-to-end-war-related-sanctions-13561508",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 08 Jul 2026 02:13:00 +0100",
+      "time": "۰۴:۴۳ - ۱۷ تیر",
+      "analyzed_at": "2026-07-09T15:23:27.435Z"
     }
   ]
 }
