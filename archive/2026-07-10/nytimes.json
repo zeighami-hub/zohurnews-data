@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 29,
+  "total": 35,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -698,6 +698,150 @@
       "pubDate": "Fri, 10 Jul 2026 09:00:42 +0000",
       "time": "۱۲:۳۰ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T09:21:48.586Z"
+    },
+    {
+      "id": "nytimes_796bca5dd1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Bombing Iran, Then a Tentative Accord Didn’t Work. Does Trump Have a Plan C?",
+      "title_fa": "بمباران ایران، سپس توافق موقتی کارساز نبود. آیا ترامپ برنامه سومی دارد؟",
+      "lead": "به نظر می‌رسد دولت به رویکرد \"فقط چماق و بدون هویج\" بازگشته است. اما هنوز مشخص نیست چرا معتقدند این بار جنگ اقتصادی و بمباران نتیجه متفاوتی خواهد داد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/us/politics/trump-iran-war.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Fri, 10 Jul 2026 01:05:12 +0000",
+      "time": "۰۴:۳۵ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:07:04.845Z"
+    },
+    {
+      "id": "nytimes_db6cf21cbc",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iranian Attacks on Jordan Highlight Kingdom’s Difficult Position",
+      "title_fa": "حملات ایران به اردن موقعیت دشوار این پادشاهی را برجسته می‌کند",
+      "lead": "ارتش ایران اعلام کرد که موشک‌هایی را به یک پایگاه هوایی اردن که توسط نیروهای آمریکایی استفاده می‌شود، شلیک کرده است. اردن نیز اعلام کرد که موشک‌های ورودی به حریم هوایی خود را رهگیری کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/jordan-iran-missiles.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 10 Jul 2026 01:00:57 +0000",
+      "time": "۰۴:۳۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:07:04.845Z"
+    },
+    {
+      "id": "nytimes_86020c59c8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’",
+      "title_fa": "مسکو هنوز هنر و فرهنگ دارد. فقط نگویید «اوکراین».",
+      "lead": "در مسکو، هنر و فرهنگ همچنان پابرجاست، اما یک وضعیت نامعلوم و مرموز در نمایشگاه‌های کوچک هنری، تئاترهای مستقل و کلوب‌های سیاسی خصوصی حاکم است. در این فضاها، جنگ به مثابه فیلی در اتاق است که کسی درباره آن حرفی نمی‌زند.",
+      "category": "culture",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:09:31 +0000",
+      "time": "۱۲:۳۹ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:07:04.845Z"
+    },
+    {
+      "id": "nytimes_ef8590e37a",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "After Venezuela Earthquakes, a Youth Baseball League Counts the Dead",
+      "title_fa": "پس از زلزله‌های ونزوئلا، یک لیگ بیسبال جوانان قربانیان را می‌شمارد",
+      "lead": "پس از زلزله‌های ونزوئلا، کودکانی که برای لیگ بیسبال جوانان این کشور، نمادی از غرور ملی، بازی می‌کردند، زخمی، یتیم یا کشته شده‌اند. این حادثه به طور گسترده جامعه را تحت تاثیر قرار داده است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/americas/venezuela-earthquake-death-baseball-los-criollitos.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:01:59 +0000",
+      "time": "۱۲:۳۱ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:07:04.845Z"
+    },
+    {
+      "id": "nytimes_987c4b7017",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Inside a Theater Sheltering Families in Lebanon",
+      "title_fa": "داخل یک تئاتر که خانواده‌ها را در لبنان پناه داده است",
+      "lead": "کریستینا گلدباوم، خبرنگار ما، از تئاتر ملی لبنان در بیروت بازدید می‌کند. او در آنجا با خانواده‌های آواره‌ای که در طول جنگ در این مکان پناه گرفته‌اند، دیدار و گفتگو می‌کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/video/world/100000010937075/inside-a-theater-sheltering-families-in-lebanon.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:00:19 +0000",
+      "time": "۱۲:۳۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:07:04.845Z"
+    },
+    {
+      "id": "nytimes_527181433c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Albanian Leader Rejects Complaints About Kanye West Concert",
+      "title_fa": "رهبر آلبانی شکایات درباره کنسرت کانیه وست را رد می‌کند",
+      "lead": "ادی راما، نخست‌وزیر آلبانی، به دلیل یک طرح تفریحی مرتبط با ترامپ و کنسرت برنامه‌ریزی شده توسط موسیقیدان بحث‌برانگیز کانیه وست (یی)، تحت فشار قرار گرفته است. او در هر دو مورد، نیاز به توسعه گردشگری را به عنوان توجیه مطرح می‌کند.",
+      "category": "culture",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/europe/albania-kanye-west-concert.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Fri, 10 Jul 2026 00:22:59 +0000",
+      "time": "۰۳:۵۲ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:07:04.845Z"
     }
   ]
 }
