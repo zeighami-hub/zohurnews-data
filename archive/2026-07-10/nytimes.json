@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -506,6 +506,54 @@
       "pubDate": "Thu, 09 Jul 2026 16:57:51 +0000",
       "time": "۲۰:۲۷ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T05:53:02.739Z"
+    },
+    {
+      "id": "nytimes_0e5788a1dc",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Indian Diaspora, Now the Largest Foreign-Born Group in Australia, Welcomes Modi",
+      "title_fa": "جامعه هندی‌تباران، اکنون بزرگترین گروه متولد خارج در استرالیا، از مودی استقبال کرد",
+      "lead": "جامعه بزرگ هندی‌تباران در استرالیا، که اکنون بزرگترین گروه متولد خارج از کشور در این کشور محسوب می‌شوند، از نارندرا مودی، نخست‌وزیر هند، استقبالی پرشور به عمل آوردند. این استقبال در ملبورن صورت گرفت و تنش‌های موجود بر سر مهاجرت در استرالیا را پوشش داد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/asia/australia-modi-india-diaspora.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "pubDate": "Fri, 10 Jul 2026 05:50:28 +0000",
+      "time": "۰۹:۲۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T07:36:19.827Z"
+    },
+    {
+      "id": "nytimes_ee36847c7f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Israel Investigating After Photo of Stripped and Bound Detainee Is Shared",
+      "title_fa": "اسرائیل پس از انتشار عکس بازداشتی برهنه و دست‌بسته، تحقیقات را آغاز کرد",
+      "lead": "ارتش اسرائیل صحت عکسی را تأیید کرده است که پس از انتشار توسط یک فعال فلسطینی به طور گسترده‌ای دست به دست شد. گروه‌های حقوق بشری اسرائیل اعلام کرده‌اند که این عکس نشان‌دهنده یک جنایت جنگی است و تحقیقاتی در این زمینه آغاز شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/photo-detainee-bound.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 21:02:05 +0000",
+      "time": "۰۰:۳۲ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T07:36:19.827Z"
     }
   ]
 }
