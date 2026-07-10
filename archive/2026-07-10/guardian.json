@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "guardian",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "guardian_0709b3986d",
@@ -482,6 +482,54 @@
       "pubDate": "Thu, 09 Jul 2026 16:20:41 GMT",
       "time": "۱۹:۵۰ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T05:05:04.657Z"
+    },
+    {
+      "id": "guardian_4b67786f3c",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Abuse survivors launch bid to transfer claims to entity that benefited from Christian Brothers’ wealth",
+      "title_fa": "بازماندگان آزاردیدگی برای انتقال دعاوی به نهادی که از ثروت برادران مسیحی بهره‌مند شد، تلاش می‌کنند",
+      "lead": "بازماندگان آزاردیدگی در تلاشند تا دعاوی خود را به نهادی منتقل کنند که از ثروت برادران مسیحی بهره‌مند شده است. دادگاه ویکتوریا شنید که «ادمونت رایس اجوکیشن استرالیا» با متهم شدن در این پرونده که «به دادگاه عالی مربوط می‌شود» موافق نیست.",
+      "category": "law",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/law/2026/jul/10/christian-brothers-edmund-rice-education-australia-abuse-survivors-supreme-court-victoria-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 10 Jul 2026 05:07:17 GMT",
+      "time": "۰۸:۳۷ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T05:20:16.508Z"
+    },
+    {
+      "id": "guardian_25d9e2e775",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
+      "title_fa": "شرکت تراشه‌سازی کره جنوبی SK Hynix با رونق هوش مصنوعی ۲۶.۵ میلیارد دلار در بورس آمریکا جذب کرد",
+      "lead": "شرکت تراشه‌سازی کره‌جنوبی SK Hynix، تامین‌کننده تراشه‌های حافظه پیشرفته، به دلیل رونق هوش مصنوعی و نیاز به دیتاسنترهای هوش مصنوعی، افزایش سود چشمگیری داشته است. این شرکت برای جذب ۲۶.۵ میلیارد دلار در بورس آمریکا قیمت‌گذاری انجام داده است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 05:06:57 GMT",
+      "time": "۰۸:۳۶ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T05:20:16.508Z"
     }
   ]
 }
