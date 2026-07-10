@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "reuters",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "reuters_11",
@@ -514,6 +514,30 @@
         "negative": 60
       },
       "analyzed_at": "2026-07-09T12:09:31.001Z"
+    },
+    {
+      "id": "reuters_a133df96c9",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "S&P 500, Nasdaq futures edge up as chip stocks gain; US-Iran tensions in focus - Reuters",
+      "title_fa": "آینده‌ بازارهای S&P 500 و نزدک با رشد سهام تراشه‌ها افزایش یافت؛ تنش‌های آمریکا و ایران در کانون توجه",
+      "lead": "بازارهای آتی S&P 500 و نزدک با افزایش ارزش سهام شرکت‌های تولیدکننده تراشه‌های کامپیوتری رشد اندکی را تجربه کردند. در همین حال، تنش‌های بین ایالات متحده و ایران در کانون توجه تحلیلگران اقتصادی قرار دارد.",
+      "category": "technology",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlJrcUhGNjUtY2dOX1RQcWxqNW1KNGtrZU9uYU5KSjZiaDdZM3ozU1BZUjR4WmJyLVJjLW9yYjJGRHdSSEo4T0NNVUQ1T2VHN19keUtvRklORURPYUhtS0hUR2NJWnRIcnd3VFRLdGpDTmcwSnA0WHcxSUJ2RHhrNG1hOWUycm5kUjl6OHhoTjhSNVZXRmFUVnRMclJYMW9FdXRJZ1VLSkFrbmxRWVg5N3Z5c3M?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 12:12:27 GMT",
+      "time": "۱۵:۴۲ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T13:21:39.434Z"
     }
   ]
 }
