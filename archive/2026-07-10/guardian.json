@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "guardian",
-  "total": 26,
+  "total": 27,
   "articles": [
     {
       "id": "guardian_0709b3986d",
@@ -626,6 +626,30 @@
       "pubDate": "Thu, 09 Jul 2026 18:17:49 GMT",
       "time": "۲۱:۴۷ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T08:52:16.279Z"
+    },
+    {
+      "id": "guardian_888ebf97eb",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
+      "title_fa": "ردیاب آب‌وهوا: طوفان مردم را در چین بر روی پشت‌بام‌ها سرگردان کرده است",
+      "lead": "یازده نفر در چین در پی طوفان کشته و سیل نیز خطر مارها را به همراه داشته است. در بمبئی نیز ساختمان‌ها در میان باران‌های شدید فرو ریختند و این اولین طوفان فصل 2026 در چین خسارات ویرانگری در مناطق جنوبی و مرکزی به بار آورده است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:18:01 GMT",
+      "time": "۱۲:۴۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T09:36:44.980Z"
     }
   ]
 }
