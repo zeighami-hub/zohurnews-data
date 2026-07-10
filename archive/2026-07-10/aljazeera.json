@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "aljazeera",
-  "total": 29,
+  "total": 30,
   "articles": [
     {
       "id": "aljazeera_9772cb7303",
@@ -698,6 +698,30 @@
       "pubDate": "Fri, 10 Jul 2026 07:02:05 +0000",
       "time": "۱۰:۳۲ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T07:51:41.917Z"
+    },
+    {
+      "id": "aljazeera_d724f6e84b",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Wildfires in southern Spain kill at least 12",
+      "title_fa": "آتش‌سوزی‌های جنگلی در جنوب اسپانیا دست‌کم ۱۲ کشته برجای گذاشت",
+      "lead": "آتش‌سوزی‌های جنگلی در جنوب اسپانیا حداقل ۱۲ نفر را کشته است. مرگبارترین آتش‌سوزی آندالوسیا در حالی رخ می‌دهد که موج گرما در سراسر اروپا، مناطق وسیعی از قاره را به شدت آسیب‌پذیر کرده است.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/10/wildfires-in-southern-spain-kill-at-least-12?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 07:43:19 +0000",
+      "time": "۱۱:۱۳ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T08:07:36.235Z"
     }
   ]
 }
