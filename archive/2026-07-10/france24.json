@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "france24",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "france24_fcb4c4f778",
@@ -482,6 +482,54 @@
       "pubDate": "Fri, 10 Jul 2026 06:25:12 GMT",
       "time": "۰۹:۵۵ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T09:06:40.518Z"
+    },
+    {
+      "id": "france24_0ac56684ab",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Defence spending, Erdogan-style: Guns for NATO leaders",
+      "title_fa": "هزینه‌های دفاعی به سبک اردوغان: تفنگ برای رهبران ناتو",
+      "lead": "این یک مرور مطبوعاتی از ۱۰ ژوئیه است که به واکنش مطبوعات فرانسه به یک پیروزی دیگر جام جهانی برای «آبی‌ها» (تیم ملی فرانسه) این بار در برابر مراکش می‌پردازد. همچنین، جنجال جدیدی بر سر جت بوئینگ اهدایی دولت قطر به دونالد ترامپ ایجاد شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/press-review/20260710-defence-spending-erdogan-style-guns-for-nato-leaders",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:34:46 GMT",
+      "time": "۱۳:۰۴ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:07:04.845Z"
+    },
+    {
+      "id": "france24_fc1d0b4279",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "What future for Gaza after Hamas dissolves governing body?",
+      "title_fa": "آینده غزه پس از انحلال نهاد حاکم توسط حماس چگونه خواهد بود؟",
+      "lead": "حماس این هفته اعلام کرد که دولت دوفاکتو خود را منحل کرده و آماده است قدرت را به گروهی از تکنوکرات‌ها که توسط «هیئت صلح» دونالد ترامپ تعیین شده‌اند، واگذار کند. اسرائیل این اقدام را یک نمایش تبلیغاتی دانست.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/middle-east-matters/20260710-what-future-for-gaza-after-hamas-dissolves-governing-body",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:24:26 GMT",
+      "time": "۱۲:۵۴ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:07:04.845Z"
     }
   ]
 }
