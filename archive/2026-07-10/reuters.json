@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "reuters",
-  "total": 19,
+  "total": 20,
   "articles": [
     {
       "id": "reuters_2e7ecdd55f",
@@ -440,6 +440,28 @@
         "negative": 90
       },
       "analyzed_at": "2026-07-10T02:50:52.494Z"
+    },
+    {
+      "id": "reuters_3",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil edges lower, but heads for weekly gain as Middle East supply risks persist - Reuters",
+      "title_fa": "قیمت نفت اندکی کاهش یافت اما با تداوم خطرات عرضه در خاورمیانه، برای افزایش هفتگی پیش می‌رود",
+      "lead": "قیمت نفت در معاملات امروز اندکی کاهش یافت. با این حال، به دلیل تداوم خطرات مربوط به عرضه از خاورمیانه، برای کسب سود هفتگی آماده می‌شود.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdU1pbkMwaXhwRm5RZ000RGVzRzA0b0hTa24wcF9ZWG8wcThYNnRmSTlDdDBsdFhBZEk3OWg5Uzl1WHlvZ3hNSUlZVUtfSFZ2Y1RqYmx0bGpfNlRNT05jY2JrUXQxSkR5bWY4UUtjUjl4VWROSnZoeEpIaGtYTkJfZjdET2I0eDk0ZzlNek9QZ1JJYXRIcEhvaWJNWGlZbV9SN2hRSlZwQmJpZFN1ajNSYzBZNmFYR2ZIMlE?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-10T04:19:50.976Z"
     }
   ]
 }
