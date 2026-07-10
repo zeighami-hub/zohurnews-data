@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "aljazeera",
-  "total": 19,
+  "total": 20,
   "articles": [
     {
       "id": "aljazeera_9772cb7303",
@@ -458,6 +458,30 @@
       "pubDate": "Fri, 10 Jul 2026 02:55:59 +0000",
       "time": "۰۶:۲۵ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T03:04:02.888Z"
+    },
+    {
+      "id": "aljazeera_17a5e44a4f",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran says strikes hit southern areas, but US denies it carried attacks",
+      "title_fa": "ایران می‌گوید حملاتی به مناطق جنوبی این کشور صورت گرفته اما آمریکا انجام آن‌ها را تکذیب می‌کند",
+      "lead": "رسانه‌های دولتی ایران گزارش دادند که مقرهای نظامی در استان بوشهر و شهر کنارک مورد حمله قرار گرفته‌اند. این در حالی است که آمریکا انجام این حملات را تکذیب کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/10/iran-says-strikes-hit-southern-areas-but-us-denies-it-carried-attacks?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 10 Jul 2026 03:05:55 +0000",
+      "time": "۰۶:۳۵ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T03:49:46.289Z"
     }
   ]
 }
