@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -98,6 +98,246 @@
       "pubDate": "Thu, 09 Jul 2026 07:13:29 +0000",
       "time": "۱۰:۴۳ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T00:02:55.445Z"
+    },
+    {
+      "id": "nytimes_9a172a5ee4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Final Stage of Ayatollah Ali Khamenei’s Funeral Begins After Delay",
+      "title_fa": "آغاز مرحله نهایی تشییع پیکر آیت‌الله علی خامنه‌ای پس از تاخیر",
+      "lead": "مرحله نهایی تشییع پیکر آیت‌الله علی خامنه‌ای، رهبر عالی ایران، پس از تاخیر آغاز شد. هزاران نفر برای این مراسم در مشهد گرد هم آمدند. وی در اولین حملات آمریکا و اسرائیل در جریان جنگ کشته شده بود و ساعاتی پیش از آن نیز آمریکا و ایران به تبادل حملات پرداخته بودند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/khamenei-funeral-iran.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Thu, 09 Jul 2026 21:59:16 +0000",
+      "time": "۰۱:۲۹ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "nytimes_4cb25b09e8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran War Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
+      "title_fa": "آخرین تحولات جنگ ایران: آمریکا و ایران پس از حملات اخیر وارد چرخه خشونت‌بار شدند",
+      "lead": "پس از آخرین حملات، آمریکا و ایران وارد یک چرخه خشونت‌بار شده‌اند. همزمان با تدفین آیت‌الله علی خامنه‌ای، رهبر کشته‌شده ایران، چشم‌انداز یک توافق صلح بلندمدت رو به کاهش به نظر می‌رسد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 10 Jul 2026 02:08:04 +0000",
+      "time": "۰۵:۳۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "nytimes_50c8f5f052",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Exchange of Strikes With Iran, U.S. Lands Most of the Blows",
+      "title_fa": "در تبادل حملات با ایران، ایالات متحده بیشتر ضربات را وارد می‌کند",
+      "lead": "در تبادل حملات اخیر با ایران، ایالات متحده بیشتر ضربات را وارد کرده است. این تفاوت نشان‌دهنده قدرت آتش محدود و سیستم‌های دفاع هوایی ضعیف ایران است و بر عوارض نامتناسبی که این جنگ بر ایرانیان وارد می‌کند، تأکید دارد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/us-iran-war-strikes-cease-fire.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 09 Jul 2026 18:50:10 +0000",
+      "time": "۲۲:۲۰ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "nytimes_0728c06cf1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "For Ukraine, Other Patriot Makers Are a Cautionary Tale",
+      "title_fa": "برای اوکراین، دیگر سازندگان پاتریوت یک داستان هشداردهنده هستند",
+      "lead": "این گزارش به بررسی این موضوع می‌پردازد که چگونه تجربه‌ی سایر تولیدکنندگان سامانه پاتریوت می‌تواند برای اوکراین درس عبرت باشد. آلمان و ژاپن قبلاً اجازه ساخت این رهگیرهای آمریکایی را دریافت کرده‌اند، مجوزی که رئیس‌جمهور ترامپ می‌گوید به کی‌یف نیز اعطا خواهد کرد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/europe/germany-japan-ukraine-patriot-missiles.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Fri, 10 Jul 2026 02:09:03 +0000",
+      "time": "۰۵:۳۹ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "nytimes_e33a024b10",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Sifting Through Venezuela Earthquakes’ Rubble, and the Ashes of a Revolution",
+      "title_fa": "کندوکاو در آوارهای زلزله‌های ونزوئلا و خاکستر یک انقلاب",
+      "lead": "ویرانی شهر ژاکلین زونیگا در ونزوئلا پس از فروپاشی پروژه سیاسی او رخ می‌دهد. انقلاب به پایان رسیده است، اما پیوندهای انسانی که به او کمک می‌کنند تا با شرایط کنار بیاید، همچنان پابرجا هستند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/americas/jacqueline-zuniga-venezuela-earthquakes-socialist-revolution.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 09 Jul 2026 19:17:55 +0000",
+      "time": "۲۲:۴۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "nytimes_442e0de828",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Between Trump and Pope, an Ambassador Is Clear About His Allegiance",
+      "title_fa": "بین ترامپ و پاپ، سفیر درباره وفاداری خود شفاف است",
+      "lead": "سفیر برایان برچ باید رابطه بین دو مرد برجسته آمریکایی در جهان را مدیریت کند. اولویت او کسی است که در واشنگتن است.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/us/pope-leo-brian-burch-vatican-ambassador.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 09 Jul 2026 18:07:52 +0000",
+      "time": "۲۱:۳۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "nytimes_0c32d3b2a1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As France and Morocco Take the Field, Colonial Past and Global Present Will Mix",
+      "title_fa": "با رویارویی فرانسه و مراکش در میدان، گذشته استعماری و حال جهانی در هم می‌آمیزند",
+      "lead": "تاریخ بر بازی یک‌چهارم نهایی جام جهانی بین فرانسه و کشور تحت‌الحمایه سابق آن سایه افکنده است. این روزها، تیم‌های ملی در هم می‌آمیزند و همپوشانی دارند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/europe/france-morocco-world-cup-soccer.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 15:48:32 +0000",
+      "time": "۱۹:۱۸ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "nytimes_61e7e4c3d5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump’s NATO Summit, and Everyone Else’s",
+      "title_fa": "اجلاس ناتو ترامپ، و اجلاس دیگران",
+      "lead": "در حالی که پرزیدنت ترامپ به متحدان توهین می‌کرد و خواستار وفاداری بود، ائتلاف نظامی به آرامی به پذیرش مسئولیت بیشتر اروپایی‌ها برای دفاع نزدیک‌تر شد.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/europe/nato-trump-turkey-summit.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Thu, 09 Jul 2026 13:42:07 +0000",
+      "time": "۱۷:۱۲ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "nytimes_cc0cc2b2e3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Landfill in Indonesia Caught Fire Over a Week Ago. It’s Still Burning.",
+      "title_fa": "یک هفته پیش یک محل دفن زباله در اندونزی آتش گرفت. هنوز در حال سوختن است.",
+      "lead": "دودهای سمی ساکنان اطراف را بیمار کرده است. قانون‌گذاران و فعالان می‌گویند که این آتش‌سوزی نشانه‌ای از مشکلات دیرینه این کشور در مدیریت زباله است.",
+      "category": "environment",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/asia/indonesia-landfill-fire.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 10:32:49 +0000",
+      "time": "۱۴:۰۲ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "nytimes_70770da314",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Arrest in Minnesota Pandemic Fraud Case Faces Extradition Hurdles in Somalia",
+      "title_fa": "دستگیری در پرونده کلاهبرداری همه‌گیری کرونا در مینه سوتا با موانع استرداد در سومالی روبروست",
+      "lead": "دولت ترامپ گفت که بازداشت عبدالكریم عیدله در سومالی نقطه عطفی در تحقیقات چندین ساله بود. اما نزدیک به دو هفته بعد، او هنوز به ایالات متحده آورده نشده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/africa/minnesota-somali-fraud-trump.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 09:02:32 +0000",
+      "time": "۱۲:۳۲ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:44:40.727Z"
     }
   ]
 }
