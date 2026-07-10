@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "reuters",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "reuters_2e7ecdd55f",
@@ -506,6 +506,28 @@
         "negative": 100
       },
       "analyzed_at": "2026-07-10T07:20:59.179Z"
+    },
+    {
+      "id": "reuters_3",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil heads for weekly gain as Middle East supply risks persist - Reuters",
+      "title_fa": "نفت در آستانه افزایش هفتگی قرار گرفت؛ ریسک‌های عرضه در خاورمیانه همچنان پابرجاست",
+      "lead": "قیمت نفت در مسیر ثبت افزایش هفتگی قرار دارد. این افزایش به دلیل پایداری ریسک‌های مربوط به عرضه از خاورمیانه است که بر بازار تاثیر می‌گذارد.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdU1pbkMwaXhwRm5RZ000RGVzRzA0b0hTa24wcF9ZWG8wcThYNnRmSTlDdDBsdFhBZEk3OWg5Szl1WHlvZ3hNSUlZVUtfSFp2Y1RqYmx0bGpfNlRNT05jY2JrUXQxSkR5bWY4UUtjUjl4VWROSnZoeEpIaGtYTkJfZjdET2I0eDk0ZzlNek9QZ1JJYXRIcEhvaWJNWGlZbV9SN2hRSlZwQmJpZFN1ajNSYzBZNmFYR2ZIMlE?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-07-10T09:21:48.586Z"
     }
   ]
 }
