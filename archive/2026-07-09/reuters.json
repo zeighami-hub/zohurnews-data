@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "reuters",
-  "total": 28,
+  "total": 29,
   "articles": [
     {
       "id": "reuters_11",
@@ -654,6 +654,28 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-09T15:23:27.435Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "EU drafts 'electrification' plan to curb oil and gas use, after Iran war disruption - Reuters",
+      "title_fa": "اتحادیه اروپا پس از اختلال ناشی از جنگ ایران، طرح «برقی‌سازی» را برای کاهش مصرف نفت و گاز تدوین می‌کند",
+      "lead": "رویترز گزارش داده است که اتحادیه اروپا در حال تدوین یک طرح «برقی‌سازی» است. این طرح با هدف کاهش مصرف نفت و گاز پس از اختلالات ناشی از جنگ ایران انجام می‌شود.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelR4YllUUlFCN1lSUzNsWGloUUowNDJ2c1J4TldYRkhEZVR6U29OUVZOWVlDSK9kdlJRT215c1RGOGtIOVNGZ3FjUVo4d0FqdWxNRGtPbjh0UGZoT2Z1SXNiOFVWNmxPdWVXcTU0Nll0LXZrYjJYMDh0UkJtRDU5TDlUczk0SFIzNjlXNmNubW81RzVkTldBUmUtV1prc0htQzg5MUZvREtWSlk4SVhuWGlXQm1zck9TblMtVTFaakxjWHc?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "analyzed_at": "2026-07-09T17:23:18.972Z"
     }
   ]
 }
