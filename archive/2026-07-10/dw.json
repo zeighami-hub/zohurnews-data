@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "dw",
-  "total": 30,
+  "total": 31,
   "articles": [
     {
       "id": "dw_34c0ad2564",
@@ -720,6 +720,30 @@
       "pubDate": "Fri, 10 Jul 2026 08:47:00 GMT",
       "time": "۱۲:۱۷ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T09:06:40.518Z"
+    },
+    {
+      "id": "dw_fb2335209f",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Ukrainian drone strikes ignite fires at Russian oil sites",
+      "title_fa": "حملات پهپادی اوکراین باعث آتش‌سوزی در تأسیسات نفتی روسیه شد",
+      "lead": "یک حمله شبانه به تأسیسات کلیدی نفتی در جنوب روسیه رسید و فشار بر شبکه سوخت این کشور را افزایش داد. این شبکه پیش از این نیز بر اثر حملات مکرر اوکراین تحت فشار بود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.dw.com/en/ukrainian-drone-strikes-ignite-fires-at-russian-oil-sites/a-77900682?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:09:00 GMT",
+      "time": "۱۲:۳۹ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T09:21:48.586Z"
     }
   ]
 }
