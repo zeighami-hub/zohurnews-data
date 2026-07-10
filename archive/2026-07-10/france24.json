@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "france24",
-  "total": 8,
+  "total": 11,
   "articles": [
     {
       "id": "france24_fcb4c4f778",
@@ -194,6 +194,78 @@
       "pubDate": "Fri, 10 Jul 2026 02:39:10 GMT",
       "time": "۰۶:۰۹ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T02:50:52.494Z"
+    },
+    {
+      "id": "france24_e81a82771f",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Iran claims US strike hit near nuclear powerplant",
+      "title_fa": "ایران ادعا می‌کند حمله آمریکا نزدیک نیروگاه هسته‌ای انجام شده است",
+      "lead": "ایران ادعا کرده است که حمله آمریکا به نزدیکی نیروگاه هسته‌ای این کشور اصابت کرده است. این حملات در حالی صورت می‌گیرد که آمریکا و ایران برای دومین روز متوالی در حال تبادل حمله هستند و دونالد ترامپ آتش‌بس را \"مرده\" اعلام کرده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/iran-claims-us-strike-hit-near-nuclear-powerplant",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 09 Jul 2026 15:48:49 GMT",
+      "time": "۱۹:۱۸ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T04:49:32.080Z"
+    },
+    {
+      "id": "france24_65136a1460",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Turkey: Erdogan gives NATO leaders pistols with ammunition after summit",
+      "title_fa": "ترکیه: اردوغان پس از اجلاس ناتو به رهبران تپانچه و مهمات هدیه داد",
+      "lead": "رجب طیب اردوغان، رئیس‌جمهور ترکیه، پس از اجلاس روز چهارشنبه ناتو در آنکارا، به رهبران این سازمان یک رولور قدیمی به همراه جعبه‌ای از مهمات اهدا کرد. این اقدام پس از پایان نشست سران ناتو در پایتخت ترکیه انجام شد.",
+      "category": "diplomacy",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/video/20260709-turkey-erdogan-gives-nato-leaders-pistols-with-ammunition-after-summit",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 15:48:41 GMT",
+      "time": "۱۹:۱۸ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T04:49:32.080Z"
+    },
+    {
+      "id": "france24_a88458385d",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Mali rebels attack convoy of Russian reinforcements headed to besieged military camp",
+      "title_fa": "شورشین مالی به کاروان نیروهای کمکی روسیه در راه اردوگاه نظامی تحت محاصره حمله کردند",
+      "lead": "جدایی‌طلبان طوارق جبهه آزادی‌بخش ازواد و متحدان جهادگرای آن‌ها، روز پنجشنبه به کاروانی از سربازان روسی و نیروهای مالیایی حمله کردند. این نیروها در راه تقویت یک اردوگاه نظامی در شهر شمالی آنفیس بودند.",
+      "category": "military",
+      "region": "africa",
+      "sourceUrl": "https://www.france24.com/en/africa/20260709-tuareg-separatists-attack-convoy-of-russian-mercenaries-and-malian-troops",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 16:09:41 GMT",
+      "time": "۱۹:۳۹ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T04:49:32.080Z"
     }
   ]
 }
