@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "bbc",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_fdcbbff025",
@@ -530,6 +530,30 @@
       "pubDate": "Thu, 09 Jul 2026 16:15:10 GMT",
       "time": "۱۹:۴۵ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T05:05:04.657Z"
+    },
+    {
+      "id": "bbc_7384106803",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+      "title_fa": "خاکسپاری رهبر فقید ایران با حضور جمعیت انبوه در مشهد",
+      "lead": "علی خامنه‌ای، رهبر فقید ایران، در حرم امام رضا، مقدس‌ترین مکان شیعیان در این کشور، به خاک سپرده شد و به این ترتیب شش روز عزاداری عمومی پایان یافت.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 90,
+        "negative": 10
+      },
+      "pubDate": "Thu, 09 Jul 2026 23:18:18 GMT",
+      "time": "۰۲:۴۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T05:53:02.739Z"
     }
   ]
 }
