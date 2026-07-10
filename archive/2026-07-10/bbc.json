@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "bbc",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "bbc_fdcbbff025",
@@ -578,6 +578,30 @@
       "pubDate": "Fri, 10 Jul 2026 06:44:21 GMT",
       "time": "۱۰:۱۴ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T08:52:16.279Z"
+    },
+    {
+      "id": "bbc_65c5c97f08",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "title_fa": "با کشته شدن ۱۵ نفر در فیلیپین بر اثر رانش زمین، شرق آسیا خود را برای طوفان ویرانگر آماده می‌کند",
+      "lead": "در حالی که شرق آسیا خود را برای طوفان ویرانگر باوی آماده می‌کند، رانش زمین در فیلیپین تاکنون ۱۵ نفر را به کام مرگ کشانده است. پیش‌بینی می‌شود این طوفان ۱۰۰۰ کیلومتری که به سمت تایوان و جنوب شرقی چین در حرکت است، یکی از قوی‌ترین طوفان‌ها در دهه‌های اخیر باشد.",
+      "category": "environment",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 10 Jul 2026 10:42:13 GMT",
+      "time": "۱۴:۱۲ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T11:08:29.023Z"
     }
   ]
 }
