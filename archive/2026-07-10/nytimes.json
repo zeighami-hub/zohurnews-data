@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -338,6 +338,102 @@
       "pubDate": "Thu, 09 Jul 2026 09:02:32 +0000",
       "time": "۱۲:۳۲ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "nytimes_2ea6309542",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ukrainians Cautiously Welcome Trump’s Announcement About Patriot Missile Systems",
+      "title_fa": "استقبال محتاطانه اوکراینی‌ها از اعلام ترامپ درباره سامانه‌های موشکی پاتریوت",
+      "lead": "رئیس‌جمهور ترامپ اعلام کرد که ایالات متحده به اوکراین مجوز تولید سامانه‌های پاتریوت را خواهد داد که قادر به رهگیری موشک‌های بالستیک هستند. با این حال، ممکن است ماه‌ها یا سال‌ها طول بکشد تا این سامانه‌ها آماده استفاده شوند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/europe/ukraine-patriots-trump-russia.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Thu, 09 Jul 2026 14:57:59 +0000",
+      "time": "۱۸:۲۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T03:04:02.888Z"
+    },
+    {
+      "id": "nytimes_3dc6cf96d0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "War-weary Gulf Arab countries are hit by new Iranian attacks.",
+      "title_fa": "کشورهای عربی خلیج فارس، خسته از جنگ، هدف حملات جدید ایران قرار گرفتند.",
+      "lead": "کشورهای عربی خلیج فارس که از جنگ خسته شده‌اند، هدف حملات جدید ایران قرار گرفته‌اند. این حملات می‌تواند به بی‌ثباتی بیشتر در منطقه دامن بزند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump/war-weary-gulf-arab-countries-hit-by-new-iranian-attacks",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 16:08:30 +0000",
+      "time": "۱۹:۳۸ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:50:52.494Z"
+    },
+    {
+      "id": "nytimes_4c8d00652b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Factory Blaze in China’s ‘Shoe Capital’ Kills 28",
+      "title_fa": "آتش‌سوزی کارخانه در \"پایتخت کفش\" چین 28 کشته بر جای گذاشت.",
+      "lead": "آتش‌سوزی در یک کارخانه در \"پایتخت کفش\" چین 28 نفر را کشت. شی جین پینگ، رهبر این کشور، از مقامات خواستار تحقیق درباره این آتش‌سوزی شده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/asia/china-fire-shoe-factory.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 20:27:59 +0000",
+      "time": "۲۳:۵۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:50:52.494Z"
+    },
+    {
+      "id": "nytimes_80810c4cd0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "I.U.C.N. Update Says Deep-Sea Mining Threatens Mollusks Around Hydrothermal Vents",
+      "title_fa": "به‌روزرسانی IUCN: استخراج معدن از اعماق دریا حلزون‌ها و نرم‌تنان اطراف منافذ گرمابی را تهدید می‌کند",
+      "lead": "اتحادیه بین‌المللی حفاظت از طبیعت (IUCN) در به‌روزرسانی خود اعلام کرد که استخراج معدن از اعماق دریا حلزون‌ها و دیگر نرم‌تنان اطراف منافذ گرمابی را تهدید می‌کند. بیش از نیمی از این گونه‌ها که برای زندگی در شرایط افراطی تکامل یافته‌اند، ممکن است در معرض خطر انقراض قرار گیرند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/climate/iucn-red-list-threatened-species.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 18:47:34 +0000",
+      "time": "۲۲:۱۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:50:52.494Z"
     }
   ]
 }
