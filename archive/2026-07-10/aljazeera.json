@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "aljazeera",
-  "total": 30,
+  "total": 31,
   "articles": [
     {
       "id": "aljazeera_9772cb7303",
@@ -722,6 +722,30 @@
       "pubDate": "Fri, 10 Jul 2026 07:43:19 +0000",
       "time": "۱۱:۱۳ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T08:07:36.235Z"
+    },
+    {
+      "id": "aljazeera_bf9ae7fd89",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "The US is building a new pressure architecture against Iran",
+      "title_fa": "آمریکا در حال ایجاد ساختار فشار جدید علیه ایران است",
+      "lead": "دیپلماسی ناتو توسط ترامپ بخشی از تلاش گسترده‌تر برای تضعیف تهران است. این اقدام با تغییر شکل منطقه اطراف ایران انجام می‌شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 10 Jul 2026 07:29:09 +0000",
+      "time": "۱۰:۵۹ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T08:22:02.814Z"
     }
   ]
 }
