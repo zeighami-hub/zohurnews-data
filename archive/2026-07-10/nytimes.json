@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 29,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -626,6 +626,78 @@
       "pubDate": "Thu, 09 Jul 2026 19:53:05 +0000",
       "time": "۲۳:۲۳ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T08:52:16.279Z"
+    },
+    {
+      "id": "nytimes_e7bb3ac53f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
+      "title_fa": "غیبت رهبر عالی ایران؛ خلاء در راس رژیم",
+      "lead": "آیت‌الله مجتبی خامنه‌ای این هفته در مراسم تشییع پدرش حاضر نشد. این مسئله به گمانه‌زنی‌ها درباره وضعیت جسمانی او دامن زده و خلاء قدرتی را در کشوری دچار تفرقه ایجاد کرده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:00:06 +0000",
+      "time": "۱۲:۳۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T09:21:48.586Z"
+    },
+    {
+      "id": "nytimes_3d53a14c8e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Can Hungarian Holocaust Survivors Find Justice in the U.S.?",
+      "title_fa": "آیا بازماندگان هولوکاست مجارستانی می‌توانند در آمریکا به عدالت دست یابند؟",
+      "lead": "برای بیش از یک دهه، گروهی از بازماندگان نبرد قانونی را برای واداشتن دادگاه‌های آمریکایی به رسیدگی به شکایت خود علیه راه‌آهن ملی مجارستان به دلیل نقش آن در جنایات، انجام داده‌اند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/hungarian-holocaust-us-lawsuit.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:00:58 +0000",
+      "time": "۱۲:۳۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T09:21:48.586Z"
+    },
+    {
+      "id": "nytimes_914fc5e022",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Fighting Fires With Figures, These Experts Are Trying to Stop Europe from Burning",
+      "title_fa": "این کارشناسان با استفاده از داده‌ها در تلاشند تا اروپا را از سوختن نجات دهند",
+      "lead": "تیمی از مهندسان، جنگلبانان و دانشمندان از یک پارک علمی بزرگ در ایتالیا، به قاره اروپا در آماده‌سازی برای مقابله با آتش‌سوزی‌های جنگلی کمک می‌کنند. ابزارهای آنها شامل ماهواره‌ها، مدل‌های آب‌وهوا و تحلیل‌های کارشناسی است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/fire-climate-change-heat-wave-global-warming.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:00:42 +0000",
+      "time": "۱۲:۳۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T09:21:48.586Z"
     }
   ]
 }
