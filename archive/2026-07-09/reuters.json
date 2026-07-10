@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "reuters",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "reuters_11",
@@ -538,6 +538,28 @@
       "pubDate": "Thu, 09 Jul 2026 12:12:27 GMT",
       "time": "۱۵:۴۲ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T13:21:39.434Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil tanker traffic through Hormuz at near standstill as attacks strain Iran truce - Reuters",
+      "title_fa": "تردد نفتکش‌ها در هرمز با تشدید حملات و تحت فشار قرار گرفتن آتش‌بس ایران تقریباً متوقف شده است.",
+      "lead": "بر اساس گزارش رویترز، تردد نفتکش‌ها از طریق تنگه هرمز به دلیل حملات و فشار بر آتش‌بس ایران تقریباً متوقف شده است. این وضعیت نشان‌دهنده تشدید تنش‌ها و تاثیر آن بر مسیر حیاتی کشتیرانی است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWUtOFlPYmpMTHRWUjQ5ZTNjOFRaaVNCV0Z1aWZJY2E1UkcxV0t5M1dUYjExWWljV0lEbTd2ZE9semxVZjZQXzlYQnlQWjY0dWx0YUMyTXUtWnJsa3hYUlJGY3MxSWpuQmRUNjZxU19YZU41S0l5WDBLWlY1aTZHQVROdzNIcE1GYjlfTXJka3NNbGNTV2hvRFlxRllZd1AzOHlYRVJwSUtFUURha0NtbWdtWXBxb0MwaEEwNkFpaW9sQzlfajAwSQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-09T14:22:23.754Z"
     }
   ]
 }
