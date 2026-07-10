@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "bbc_fdcbbff025",
@@ -506,6 +506,30 @@
       "pubDate": "Thu, 09 Jul 2026 17:01:15 GMT",
       "time": "۲۰:۳۱ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T04:49:32.080Z"
+    },
+    {
+      "id": "bbc_a36a27bc8c",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
+      "title_fa": "جت جنگنده F-16 یونان در فرودگاه شلوغ زاکینتوس سقوط کرد.",
+      "lead": "یک جت جنگنده F-16 یونانی در فرودگاه شلوغ زاکینتوس فرود اضطراری کرد. باند فرودگاه پس از اینکه جت بدون باز کردن ارابه فرود خود فرود آمد و سپس آتش گرفت، بسته شد.",
+      "category": "accidents",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 16:15:10 GMT",
+      "time": "۱۹:۴۵ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T05:05:04.657Z"
     }
   ]
 }
