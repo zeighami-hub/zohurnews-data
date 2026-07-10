@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "reuters",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "reuters_2e7ecdd55f",
@@ -484,6 +484,28 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-10T06:52:25.352Z"
+    },
+    {
+      "id": "reuters_4",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US says it has completed a new round of strikes on Iran - Reuters",
+      "title_fa": "آمریکا از تکمیل دور جدید حملات علیه ایران خبر داد",
+      "lead": "آمریکا اعلام کرد که دور جدیدی از حملات خود را علیه ایران به پایان رسانده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGdfTTZZUTJuczJONlh3R3NBTmd2VFQ4YlBWSC1fYzBOT3VCUnU1NGJXaGFoorS_hWdWVjJSZFdNVjJSTHp2MExDOUFDdlJUNFY2OG1oLXRLdjgzVERUS0lLUkREbXB2Q1lKaVd5VWlpZmpNSXR6aTFzdjZYMmNBNklIaDQxUzBqcTVwM2hLYXQxTGdWX2s4UWVOYnZmcm40bVd1RldWdUlR?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-10T07:20:59.179Z"
     }
   ]
 }
