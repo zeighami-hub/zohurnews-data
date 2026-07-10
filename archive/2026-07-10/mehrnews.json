@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "mehrnews",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "mehrnews_050cdf4ef4",
@@ -314,6 +314,54 @@
       "pubDate": "Thu, 09 Jul 2026 14:40:59 GMT",
       "time": "۱۸:۱۰ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T03:33:58.644Z"
+    },
+    {
+      "id": "mehrnews_a8df000548",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Martyred Leader laid to rest in Imam Reza shrine in Mashhad",
+      "title_fa": "پیکر رهبر شهید در حرم امام رضا(ع) در مشهد به خاک سپرده شد",
+      "lead": "پیکر «رهبر شهید انقلاب اسلامی، آیت‌الله سید علی خامنه‌ای» پس از چندین روز مراسم تشییع و وداع گسترده، در جوار حرم مطهر امام رضا (ع) در مشهد به خاک سپرده شد. این مراسم پس از چندین روز تشییع گسترده و وداع برگزار گردید.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246062/Martyred-Leader-laid-to-rest-in-Imam-Reza-shrine-in-Mashhad",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 05:55:08 GMT",
+      "time": "۰۹:۲۵ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T06:40:30.026Z"
+    },
+    {
+      "id": "mehrnews_3288e62c15",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Araghchi, Munir discuss latest regional developments in call",
+      "title_fa": "عراقچی و منیر در گفتگوی تلفنی آخرین تحولات منطقه را بررسی کردند",
+      "lead": "سید عباس عراقچی، وزیر امور خارجه ایران، در یک گفتگوی تلفنی با فیلد مارشال عاصم منیر، فرمانده ارتش پاکستان، به بررسی آخرین تحولات منطقه پرداخت. این گفتگو روز پنجشنبه انجام شد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246060/Araghchi-Munir-discuss-latest-regional-developments-in-call",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 15:28:41 GMT",
+      "time": "۱۸:۵۸ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T06:40:30.026Z"
     }
   ]
 }
