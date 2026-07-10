@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "reuters",
-  "total": 29,
+  "total": 30,
   "articles": [
     {
       "id": "reuters_11",
@@ -676,6 +676,30 @@
         "negative": 10
       },
       "analyzed_at": "2026-07-09T17:23:18.972Z"
+    },
+    {
+      "id": "reuters_e501cec609",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Dollar dips as labor market remains stable, US-Iran tensions rise - Reuters",
+      "title_fa": "رویترز: دلار با ثبات بازار کار و افزایش تنش‌های آمریکا و ایران سقوط کرد",
+      "lead": "دلار در حالی کاهش یافت که بازار کار پایدار باقی مانده است. این کاهش همزمان با افزایش تنش‌ها میان ایالات متحده و ایران رخ داد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEtZMUh4bWpMRVNDRm42NVlyN2dsWExFZGsyNnlFa3FRelRxT1RlcVJGRkRYODBsa3JfbkxoTWhoUHVpWWxHUWx4dW1ERDlwMlc1b0pzSE9rS3J4OU9yeUx1cHNIUm9kcW9xNjhFTl9oaXdJSFVqWHpWVkpOM3VHTnphOHo1WXBmNXFodHZ5TVVhXzE4ZFFsN2JKQmNGbE93ejhjY2VRM0JwNkNaOE1oUkdtYXZZYUZ4M3JUMFpRdw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 09 Jul 2026 01:21:00 GMT",
+      "time": "۰۴:۵۱ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T18:06:42.872Z"
     }
   ]
 }
