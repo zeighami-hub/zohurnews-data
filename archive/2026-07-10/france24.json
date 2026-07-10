@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "france24",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "france24_fcb4c4f778",
@@ -146,6 +146,54 @@
       "pubDate": "Fri, 10 Jul 2026 00:11:13 GMT",
       "time": "۰۳:۴۱ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "france24_6e6e260ded",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "US-Iran conflict escalates as fresh missile strikes threaten Middle East ceasefire",
+      "title_fa": "درگیری آمریکا و ایران تشدید شد؛ حملات موشکی جدید آتش‌بس در خاورمیانه را تهدید می‌کند",
+      "lead": "ایالات متحده روز پنجشنبه حملات هوایی جدیدی را علیه ایران آغاز کرد که منجر به شلیک موشک‌های ایران به بحرین، قطر، کویت و اردن شد. این حملات کشورهایی را که میزبان نیروهای آمریکایی هستند هدف قرار دادند و یک آتش‌بس شکننده موقت را به خطر انداختند.",
+      "category": "military",
+      "region": "Middle East",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260710-us-iran-conflict-escalates-missile-strikes-threaten-middle-east-ceasefire",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 02:47:31 GMT",
+      "time": "۰۶:۱۷ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T03:04:02.888Z"
+    },
+    {
+      "id": "france24_8cac1e0259",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "World Cup 2026: Mbappé clears air around penalty against Morocco",
+      "title_fa": "جام جهانی 2026: امباپه درباره پنالتی از دست رفته مقابل مراکش توضیح می‌دهد.",
+      "lead": "کیلیان امباپه، کاپیتان فرانسه، خود را به دلیل از دست دادن تمرکز و عدم گلزنی از روی نقطه پنالتی در نیمه اول بازی مقابل مراکش مورد انتقاد قرار داد. او هرچند در ادامه مسابقه گلزنی کرد، اما به توضیح درباره این پنالتی پرداخت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/video/20260710-world-cup-2026-mbapp%C3%A9-clears-air-around-penalty-against-morocco",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Fri, 10 Jul 2026 02:39:10 GMT",
+      "time": "۰۶:۰۹ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T02:50:52.494Z"
     }
   ]
 }
