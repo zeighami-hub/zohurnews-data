@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 35,
+  "total": 37,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -842,6 +842,54 @@
       "pubDate": "Fri, 10 Jul 2026 00:22:59 +0000",
       "time": "۰۳:۵۲ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T10:07:04.845Z"
+    },
+    {
+      "id": "nytimes_0cc570dc56",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Iranians Who Prefer War",
+      "title_fa": "ایرانیانی که جنگ را ترجیح می‌دهند",
+      "lead": "آخرین تشدید خصومت‌ها بر سر تنگه هرمز در حال تقویت تندروهای ایرانی است. این وضعیت ممکن است به افزایش تنش‌ها در منطقه منجر شود.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/iran-war-hardliners-hormuz-funeral.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 10 Jul 2026 04:59:42 +0000",
+      "time": "۰۸:۲۹ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:54:36.852Z"
+    },
+    {
+      "id": "nytimes_6aa778bdb8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As U.S. Steps Up Attacks on Iran, Prospect of All-Out War Rises",
+      "title_fa": "با تشدید حملات آمریکا به ایران، چشم‌انداز جنگ تمام‌عیار افزایش می‌یابد",
+      "lead": "مقامات آمریکایی اعلام کردند که تلاش دارند تا از تردد دریایی در تنگه هرمز محافظت کنند. ایران نیز در پاسخ، از شلیک به پایگاه‌های آمریکا در قطر، بحرین و کویت خبر داده است.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/us-iran-war-strikes.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 09 Jul 2026 21:03:49 +0000",
+      "time": "۰۰:۳۳ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:54:36.852Z"
     }
   ]
 }
