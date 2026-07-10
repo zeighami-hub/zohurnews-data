@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "nytimes",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "nytimes_f259591dbd",
@@ -722,6 +722,54 @@
       "pubDate": "Thu, 09 Jul 2026 11:32:25 +0000",
       "time": "۱۵:۰۲ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T11:54:57.961Z"
+    },
+    {
+      "id": "nytimes_3dc6cf96d0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "War-weary Gulf Arab countries hit by new Iranian attacks.",
+      "title_fa": "کشورهای عربی حوزه خلیج فارس هدف حملات جدید ایران قرار گرفتند",
+      "lead": "کشورهای عربی حوزه خلیج فارس که از جنگ فرسوده شده‌اند، هدف حملات جدید ایران قرار گرفته‌اند. این حملات نگرانی‌ها را در منطقه افزایش داده است.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump/war-weary-gulf-arab-countries-hit-by-new-iranian-attacks",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 11:47:43 +0000",
+      "time": "۱۵:۱۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T12:09:31.001Z"
+    },
+    {
+      "id": "nytimes_80810c4cd0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "I.U.C.N. Update Says Deep-Sea Mining Threatens Mollusks Around Hydrothermal Vents",
+      "title_fa": "بروزرسانی IUCN: معدن‌کاری در اعماق دریا، صدف‌داران اطراف منافذ گرمابی را تهدید می‌کند",
+      "lead": "اتحادیه بین‌المللی حفاظت از طبیعت (IUCN) در گزارشی جدید اعلام کرده است که استخراج معادن از اعماق دریا، صدف‌داران اطراف منافذ گرمابی را تهدید می‌کند. این حلزون‌ها و دیگر نرم‌تنان که در شرایط سخت تکامل یافته‌اند، ممکن است در اثر استخراج معادن، بیش از نیمی از آن‌ها منقرض شوند.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/climate/iucn-red-list-threatened-species.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 12:00:11 +0000",
+      "time": "۱۵:۳۰ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T12:09:31.001Z"
     }
   ]
 }
