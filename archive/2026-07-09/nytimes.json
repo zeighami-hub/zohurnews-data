@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "nytimes",
-  "total": 35,
+  "total": 36,
   "articles": [
     {
       "id": "nytimes_f259591dbd",
@@ -842,6 +842,30 @@
       "pubDate": "Thu, 09 Jul 2026 15:24:45 +0000",
       "time": "۱۸:۵۴ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T15:37:55.060Z"
+    },
+    {
+      "id": "nytimes_9421727630",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Poland Sentences Russian Exile to 7 Years in Prison for Spying",
+      "title_fa": "لهستان یک تبعیدی روس را به اتهام جاسوسی به ۷ سال زندان محکوم کرد.",
+      "lead": "ایگور روگوف، که علناً با کرملین مخالفت کرده، در سال ۲۰۲۴ دستگیر شد. او بعدها به جاسوسی برای اطلاعات روسیه در مورد مخالفان رژیم که در خارج از کشور زندگی می‌کنند، اعتراف کرد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/europe/poland-russian-exile-spy.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 16:57:51 +0000",
+      "time": "۲۰:۲۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T17:05:33.648Z"
     }
   ]
 }
