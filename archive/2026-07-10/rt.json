@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "rt",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "rt_d08ca382e0",
@@ -530,6 +530,30 @@
       "pubDate": "Thu, 09 Jul 2026 16:11:34 +0000",
       "time": "۱۹:۴۱ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T04:49:32.080Z"
+    },
+    {
+      "id": "rt_846a39c953",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "France summons Durov for questioning again – media",
+      "title_fa": "فرانسه بار دیگر دوروف را برای بازجویی احضار کرد – رسانه‌ها",
+      "lead": "محققان فرانسوی پاول دوروف، یکی از بنیانگذاران تلگرام را برای چهارمین بار بازجویی کرده‌اند. این اقدام در چارچوب یک تحقیقات جنایی طولانی مدت صورت گرفته است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642813-france-durov-telegram-questioning/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Thu, 09 Jul 2026 16:52:56 +0000",
+      "time": "۲۰:۲۲ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T05:53:02.739Z"
     }
   ]
 }
