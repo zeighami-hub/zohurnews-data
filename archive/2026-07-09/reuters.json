@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "reuters",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "reuters_11",
@@ -492,6 +492,28 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-09T09:38:03.504Z"
+    },
+    {
+      "id": "reuters_3",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran says it hits US military targets in Gulf, prepares to bury slain leader - Reuters",
+      "title_fa": "ایران اعلام کرد اهداف نظامی آمریکا را در خلیج فارس هدف قرار داده و برای دفن رهبر کشته شده خود آماده می‌شود",
+      "lead": "ایران اعلام کرده است که اهداف نظامی آمریکا را در خلیج فارس مورد حمله قرار داده است. این کشور همچنین خود را برای دفن رهبر کشته‌شده خود آماده می‌کند.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0l1cEJNcjlUQjVYcXFjUVViTThKdnVqSGJMTUpEM2Jqem5HUGJyN1VvcEtyQUdrUnFBYWFhNXB3aEFUX2RmRHhCbXJxQ1JhX1Y1RXVyZUp3TXFlY1RFRXpLMWxHQnlQa3Q2OU1wekRWOEY4dGVzNVhQMnhYw_wXw2V4Xw2VEM0c080bUdGY01KNGJ2RW05MnlQMER1Q21EeUNfME1TVTh2aFk3TFZqMnpnOFowUzhmMWpXdUVHTmJtaXE1VkU?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-07-09T12:09:31.001Z"
     }
   ]
 }
