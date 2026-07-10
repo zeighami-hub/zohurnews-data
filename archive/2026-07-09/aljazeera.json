@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "aljazeera",
-  "total": 42,
+  "total": 44,
   "articles": [
     {
       "id": "aljazeera_b6af3cb47f",
@@ -1006,6 +1006,54 @@
       "pubDate": "Thu, 09 Jul 2026 10:49:40 +0000",
       "time": "۱۴:۱۹ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T11:23:28.813Z"
+    },
+    {
+      "id": "aljazeera_6c4264a6c6",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Deadly US strikes trigger Iranian attacks on Gulf states",
+      "title_fa": "حملات مرگبار آمریکا به تلافی حملات ایران به کشورهای خلیج منجر شد",
+      "lead": "ارتش آمریکا اعلام کرده که ۹۰ هدف را در ایران مورد حمله قرار داده است. در مقابل، ایران نیز می‌گوید که حملات پهپادی به سایت‌های مرتبط با آمریکا در منطقه خلیج فارس انجام داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-us-strikes-trigger-iranian-attacks-on-gulf-states?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 11:23:34 +0000",
+      "time": "۱۴:۵۳ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T11:54:57.961Z"
+    },
+    {
+      "id": "aljazeera_054acd2628",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "India floods sweep away thousands of gas cylinders",
+      "title_fa": "سیل در هند هزاران سیلندر گاز را با خود برد",
+      "lead": "سیل در هند موجب از بین رفتن هزاران سیلندر گاز شده است. این حادثه خسارات گسترده‌ای در مناطق سیل‌زده هند به بار آورده است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/9/india-floods-sweep-away-thousands-of-gas-cylinders?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 11:32:58 +0000",
+      "time": "۱۵:۰۲ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T11:54:57.961Z"
     }
   ]
 }
