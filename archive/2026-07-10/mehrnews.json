@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "mehrnews",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "mehrnews_050cdf4ef4",
@@ -506,6 +506,30 @@
       "pubDate": "Fri, 10 Jul 2026 09:01:45 GMT",
       "time": "۱۲:۳۱ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T09:21:48.586Z"
+    },
+    {
+      "id": "mehrnews_ef1cc3ff2d",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "At least 11 people killed in a wildfire in Spain",
+      "title_fa": "کشته شدن دست‌کم ۱۱ نفر در پی آتش‌سوزی جنگل‌ها در اسپانیا",
+      "lead": "مقامات اسپانیا اعلام کردند که در پی آتش‌سوزی جنگل‌ها در جنوب این کشور، دست‌کم ۱۱ نفر جان خود را از دست داده‌اند. این آتش‌سوزی یکی از مرگبارترین رویدادها در تاریخ اسپانیا به شمار می‌رود و در حالی رخ داده که دمای هوا در بخش‌های زیادی از کشور به شدت بالا رفته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246068/At-least-11-people-killed-in-a-wildfire-in-Spain",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:54:46 GMT",
+      "time": "۱۳:۲۴ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T10:07:04.845Z"
     }
   ]
 }
