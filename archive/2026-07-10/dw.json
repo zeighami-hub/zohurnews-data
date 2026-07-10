@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "dw",
-  "total": 11,
+  "total": 15,
   "articles": [
     {
       "id": "dw_34c0ad2564",
@@ -264,6 +264,102 @@
       "pubDate": "Thu, 9 Jul 2026 09:10:00 GMT",
       "time": "۱۲:۴۰ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "dw_251f02412b",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Spain battles deadly wildfire amid heat wave",
+      "title_fa": "اسپانیا در میان موج گرما با آتش‌سوزی مرگبار جنگل‌ها مبارزه می‌کند.",
+      "lead": "اسپانیا در حال مبارزه با یک آتش‌سوزی مرگبار در جنگل‌ها است که در بحبوحه موج گرما رخ داده است. واحدهای اضطراری ارتش برای کمک به آتش‌نشانان منطقه‌ای بسیج شده‌اند و نخست‌وزیر از جان باختگان ابراز تاسف کرده است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/spain-battles-deadly-wildfire-amid-heat-wave/a-77898335?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 02:41:00 GMT",
+      "time": "۰۶:۱۱ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T02:50:52.494Z"
+    },
+    {
+      "id": "dw_f591fda53a",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Syria regains voting rights at world chemical weapons watchdog",
+      "title_fa": "سوریه حقوق رای خود را در ناظر جهانی تسلیحات شیمیایی بازیافت",
+      "lead": "سازمان منع جنگ‌افزارهای شیمیایی (OPCW) اعلام کرد که سوریه حقوق رای خود را در این نهاد جهانی بازیافته است. این سازمان \"تغییر در شرایط\" را دلیل تصمیم خود عنوان کرده است؛ سوریه در سال ۲۰۱۳ به این نهاد پیوست اما حقوقش در سال ۲۰۲۱ سلب شده بود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.dw.com/en/syria-regains-voting-rights-at-world-chemical-weapons-watchdog/a-77891618?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 9 Jul 2026 14:00:00 GMT",
+      "time": "۱۷:۳۰ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:50:52.494Z"
+    },
+    {
+      "id": "dw_dba022c7bd",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Congo: UN laments uptick in fighting in South Kivu",
+      "title_fa": "کنگو: سازمان ملل از افزایش درگیری‌ها در کیوو جنوبی ابراز تأسف کرد",
+      "lead": "رئیس حقوق بشر سازمان ملل خواستار توقف فوری درگیری‌ها در شرق جمهوری دموکراتیک کنگو شده است. این درخواست پس از تشدید درگیری‌ها بین ارتش و شبه‌نظامیان M23 مورد حمایت رواندا در کیوو جنوبی صورت می‌گیرد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/congo-un-laments-uptick-in-fighting-in-south-kivu/a-77887082?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 9 Jul 2026 13:57:00 GMT",
+      "time": "۱۷:۲۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:50:52.494Z"
+    },
+    {
+      "id": "dw_32de4beb36",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Germany news: Man jailed over killing of train conductor",
+      "title_fa": "اخبار آلمان: مردی به دلیل قتل مامور قطار به زندان محکوم شد",
+      "lead": "حکمی در پرونده‌ای که توجه ملی را به خود جلب کرده و نگرانی‌هایی را در مورد ایمنی کارکنان قطار ایجاد کرده بود، صادر شد. در این حکم، مردی به دلیل قتل یک مامور قطار به زندان محکوم شده است.",
+      "category": "justice",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/germany-news-man-jailed-over-killing-of-train-conductor/live-77884027?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 9 Jul 2026 11:33:00 GMT",
+      "time": "۱۵:۰۳ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T02:50:52.494Z"
     }
   ]
 }
