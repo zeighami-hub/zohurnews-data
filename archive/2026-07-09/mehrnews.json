@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "mehrnews",
-  "total": 34,
+  "total": 35,
   "articles": [
     {
       "id": "mehrnews_c1fb7cd82c",
@@ -816,6 +816,28 @@
       "pubDate": "Thu, 09 Jul 2026 13:37:37 GMT",
       "time": "۱۷:۰۷ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T13:51:45.720Z"
+    },
+    {
+      "id": "mehrnews_5",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC launches missiles against US Command, airbase in Jordan",
+      "title_fa": "سپاه پاسداران علیه فرماندهی آمریکا و پایگاه هوایی در اردن موشک پرتاب کرد",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که در یک حمله تلافی‌جویانه، ۱۰ موشک بالستیک را به سمت مرکز فرماندهی و کنترل آمریکا در غرب آسیا و یک پایگاه هوایی آمریکایی در اردن شلیک کرده است. این خبر در تاریخ ۹ جولای منتشر شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246058/IRGC-lunches-missiles-against-US-Command-airbase-in-Jordan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-09T14:50:37.040Z"
     }
   ]
 }
