@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "guardian",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "guardian_0709b3986d",
@@ -602,6 +602,30 @@
       "pubDate": "Fri, 10 Jul 2026 07:00:14 GMT",
       "time": "۱۰:۳۰ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T07:20:59.179Z"
+    },
+    {
+      "id": "guardian_fdb39828d8",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Mexico investigates whether US lied about role in capture of drug lord",
+      "title_fa": "مکزیک در مورد اینکه آیا آمریکا درباره نقش خود در دستگیری قاچاقچی مواد مخدر دروغ گفته است، تحقیق می‌کند",
+      "lead": "گزارش‌ها حاکی از دست داشتن اف‌بی‌آی در دستگیری اسماعیل 'ال مایو' زامبادا گارسیا از خاک مکزیک در سال ۲۰۲۴ است. مکزیک تحقیقاتی را آغاز کرده است تا بررسی کند که آیا آمریکا درباره دخالت خود در دستگیری و انتقال مخفیانه یکی از سران کارتل سینالوآ دروغ گفته است یا خیر.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 18:17:49 GMT",
+      "time": "۲۱:۴۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T08:52:16.279Z"
     }
   ]
 }
