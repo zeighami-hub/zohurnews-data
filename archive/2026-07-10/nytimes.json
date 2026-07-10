@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -458,6 +458,54 @@
       "pubDate": "Thu, 09 Jul 2026 22:11:13 +0000",
       "time": "۰۱:۴۱ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T04:19:50.976Z"
+    },
+    {
+      "id": "nytimes_a5575cec78",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Russian Finances Get Shakier, Despite Short-Term Bonus From Iran War",
+      "title_fa": "علی‌رغم سود کوتاه‌مدت از جنگ ایران، وضعیت مالی روسیه متزلزل‌تر می‌شود",
+      "lead": "با بازگشت قیمت نفت به سطوح پیش از آغاز جنگ خاورمیانه، کرملین با کسری بودجه فزاینده‌ای مواجه خواهد شد. این وضعیت نشان‌دهنده چالش‌های اقتصادی برای روسیه است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/europe/russia-oil-budget-deficit.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 09 Jul 2026 20:04:47 +0000",
+      "time": "۲۳:۳۴ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T05:53:02.739Z"
+    },
+    {
+      "id": "nytimes_9421727630",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Poland Sentences Russian Exile to 7 Years in Prison for Spying",
+      "title_fa": "لهستان یک تبعیدی روس را به ۷ سال زندان به جرم جاسوسی محکوم کرد",
+      "lead": "ایگور روگوف، که آشکارا با کرملین مخالفت کرده است، در سال ۲۰۲۴ دستگیر شد. او بعداً به جاسوسی برای اطلاعات روسیه در مورد مخالفان رژیم که در خارج از کشور زندگی می‌کنند، اعتراف کرد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/europe/poland-russian-exile-spy.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 09 Jul 2026 16:57:51 +0000",
+      "time": "۲۰:۲۷ - ۱۸ تیر",
+      "analyzed_at": "2026-07-10T05:53:02.739Z"
     }
   ]
 }
