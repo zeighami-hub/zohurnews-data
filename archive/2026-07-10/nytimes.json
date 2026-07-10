@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 38,
+  "total": 39,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -914,6 +914,30 @@
       "pubDate": "Fri, 10 Jul 2026 11:11:40 +0000",
       "time": "۱۴:۴۱ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T11:22:50.861Z"
+    },
+    {
+      "id": "nytimes_c4ba2c376f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Greece Arrests 3 in Connection With Bombings Targeting Governing Party",
+      "title_fa": "یونان ۳ نفر را در ارتباط با بمب‌گذاری‌های حزب حاکم دستگیر کرد",
+      "lead": "این حملات بمب‌گذاری منجر به کشته شدن یک نفر و زخمی شدن چندین نفر دیگر شده بود. مقامات یونانی اعلام کرده‌اند که تحقیقات در این زمینه ادامه خواهد داشت.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/greece-bombing-arrests.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 11:26:02 +0000",
+      "time": "۱۴:۵۶ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T11:38:02.977Z"
     }
   ]
 }
