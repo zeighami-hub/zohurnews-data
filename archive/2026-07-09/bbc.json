@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "bbc_ab6e220907",
@@ -506,6 +506,30 @@
       "pubDate": "Thu, 09 Jul 2026 14:04:23 GMT",
       "time": "۱۷:۳۴ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T14:22:23.754Z"
+    },
+    {
+      "id": "bbc_8cca221c4f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Traffic through Strait of Hormuz falls steeply after new US-Iran strikes",
+      "title_fa": "کاهش شدید تردد در تنگه هرمز پس از حملات جدید آمریکا و ایران",
+      "lead": "داده‌ها نشان می‌دهد که پس از حملات این هفته، تعداد کشتی‌هایی که از تنگه هرمز عبور می‌کنند، به ویژه کشتی‌های حامل نفت و گاز، به شدت کاهش یافته است. این کاهش تردد در پی حملات جدید آمریکا و ایران رخ داده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 14:41:54 GMT",
+      "time": "۱۸:۱۱ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T14:50:37.040Z"
     }
   ]
 }
