@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "aljazeera",
-  "total": 71,
+  "total": 72,
   "articles": [
     {
       "id": "aljazeera_b6af3cb47f",
@@ -1702,6 +1702,30 @@
       "pubDate": "Thu, 09 Jul 2026 17:32:09 +0000",
       "time": "۲۱:۰۲ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T18:06:42.872Z"
+    },
+    {
+      "id": "aljazeera_2699de071d",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Israeli attacks on Gaza kill 10 people in 24 hours despite ‘ceasefire’",
+      "title_fa": "حملات اسرائیل به غزه با وجود «آتش‌بس» در ۲۴ ساعت گذشته ۱۰ کشته بر جای گذاشت",
+      "lead": "حملات اسرائیل به غزه در ۲۴ ساعت گذشته، با وجود برقراری «آتش‌بس»، منجر به کشته شدن ۱۰ نفر شده است. سازمان «ورلد سنترال کیچن» حمله هوایی مرگبار به راننده امدادرسان را محکوم کرده و خواستار پاسخگویی در بحبوحه تشدید خشونت‌ها در غزه شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 09 Jul 2026 18:04:00 +0000",
+      "time": "۲۱:۳۴ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T18:21:12.894Z"
     }
   ]
 }
