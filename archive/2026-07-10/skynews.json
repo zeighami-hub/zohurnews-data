@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_291a59a7d4",
@@ -74,6 +74,54 @@
       "pubDate": "Wed, 08 Jul 2026 11:49:00 +0100",
       "time": "۱۴:۱۹ - ۱۷ تیر",
       "analyzed_at": "2026-07-10T00:02:55.445Z"
+    },
+    {
+      "id": "skynews_e7009bff10",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Florida airport renamed after Donald Trump",
+      "title_fa": "فرودگاهی در فلوریدا به نام دونالد ترامپ تغییر نام یافت",
+      "lead": "یک فرودگاه در جنوب فلوریدا رسماً به نام دونالد ترامپ تغییر نام داده است. این اولین بار است که یک فرودگاه به نام یک رئیس‌جمهور فعلی آمریکا نامگذاری می‌شود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/florida-airport-renamed-president-donald-j-trump-international-airport-13562146",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 00:59:00 +0100",
+      "time": "۰۳:۲۹ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T02:44:40.727Z"
+    },
+    {
+      "id": "skynews_8bd3785fcc",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Woman forced to bury husband in Cape Verde after he fell ill and died while on holiday",
+      "title_fa": "زنی که مجبور شد همسرش را پس از بیماری و فوت در تعطیلات، در کیپ ورد دفن کند",
+      "lead": "یک زن بریتانیایی گفت که پس از بیمار شدن و فوت همسرش در کیپ ورد، مجبور شد او را در یک قبر بی‌نام دفن کند.",
+      "category": "social",
+      "region": "africa",
+      "sourceUrl": "https://news.sky.com/story/woman-forced-to-bury-husband-in-cape-verde-after-he-fell-ill-and-died-while-on-holiday-13562053",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 10 Jul 2026 00:01:00 +0100",
+      "time": "۰۲:۳۱ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T02:44:40.727Z"
     }
   ]
 }
