@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
   "agencyId": "nytimes",
-  "total": 36,
+  "total": 37,
   "articles": [
     {
       "id": "nytimes_f259591dbd",
@@ -866,6 +866,30 @@
       "pubDate": "Thu, 09 Jul 2026 16:57:51 +0000",
       "time": "۲۰:۲۷ - ۱۸ تیر",
       "analyzed_at": "2026-07-09T17:05:33.648Z"
+    },
+    {
+      "id": "nytimes_91b960a8d0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Palestinian Authority Sets Date for First Major Elections in 20 Years",
+      "title_fa": "تشکیلات خودگردان فلسطین تاریخ اولین انتخابات مهم خود در ۲۰ سال اخیر را تعیین کرد",
+      "lead": "تشکیلات خودگردان فلسطین تاریخ برگزاری اولین انتخابات مهم خود را در ۲۰ سال گذشته اعلام کرده است. تحلیلگران نسبت به برگزاری این انتخابات طبق برنامه ابراز تردید کرده‌اند، زیرا محمود عباس، رهبر این تشکیلات، انتخابات مشابهی را در سال ۲۰۲۱ برنامه‌ریزی کرده و سپس لغو کرده بود.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/09/world/middleeast/palestinian-authority-elections-abbas.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 19:53:05 +0000",
+      "time": "۲۳:۲۳ - ۱۸ تیر",
+      "analyzed_at": "2026-07-09T20:31:09.446Z"
     }
   ]
 }
