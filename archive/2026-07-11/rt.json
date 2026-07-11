@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "rt",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "rt_4a33e3d7a4",
@@ -362,6 +362,30 @@
       "pubDate": "Fri, 10 Jul 2026 04:38:57 +0000",
       "time": "۰۸:۰۸ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T06:09:32.681Z"
+    },
+    {
+      "id": "rt_6b13109c0a",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Ayatollah Khamenei’s lesson from beyond the grave",
+      "title_fa": "درس آیت‌الله خامنه‌ای از فرای قبر",
+      "lead": "مرگ او یک رهبر را به یک شهید تبدیل کرد و غم، ایمان و سرسختی را در پیامی آمیخت. پیامی که ایالات متحده و اسرائیل قادر به درک آن نیستند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/642860-iran-khamenei-death-lesson/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      },
+      "pubDate": "Fri, 10 Jul 2026 18:06:21 +0000",
+      "time": "۲۱:۳۶ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T06:38:51.662Z"
     }
   ]
 }
