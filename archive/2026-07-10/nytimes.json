@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 45,
+  "total": 46,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -1082,6 +1082,30 @@
       "pubDate": "Fri, 10 Jul 2026 16:01:33 +0000",
       "time": "۱۹:۳۱ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T16:56:41.810Z"
+    },
+    {
+      "id": "nytimes_4a98416d95",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Sexual Assault and Killing of Girl Set Off Days of Protest in West Bengal",
+      "title_fa": "تجاوز جنسی و قتل دختربچه در بنگال غربی روزها اعتراضات را به راه انداخت",
+      "lead": "پس از وعده حزب نخست‌وزیر نارندرا مودی برای بهبود امنیت زنان در ایالت بنگال غربی هند، خشم عمومی به دنبال مرگ یک دختربچه ۱۱ ساله افزایش یافته است. این حادثه منجر به روزها اعتراضات در منطقه شده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/asia/girl-riots-west-bengal-baruipur.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 10 Jul 2026 17:56:36 +0000",
+      "time": "۲۱:۲۶ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T18:22:34.431Z"
     }
   ]
 }
