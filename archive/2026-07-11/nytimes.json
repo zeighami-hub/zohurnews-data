@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -194,6 +194,30 @@
       "pubDate": "Fri, 10 Jul 2026 21:23:19 +0000",
       "time": "۰۰:۵۳ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T04:37:40.813Z"
+    },
+    {
+      "id": "nytimes_3ce144cd00",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Museum Spreads 800 Pounds of Peanut Butter in Tribute to Dutch Artist",
+      "title_fa": "موزه‌ای ۸۰۰ پوند کره بادام‌زمینی را به افتخار هنرمند هلندی پهن می‌کند",
+      "lead": "یک چیدمان هنری به افتخار هنرمند «ویم تی. شیپرس» شامل یک شش‌ضلعی به مساحت ۲۷۰ فوت مربع است که روی کف موزه‌ای در روتردام پهن شده است.",
+      "category": "arts",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/arts/dutch-museum-peanut-butter-floor-art-wim-schippers.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 90,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 22:25:30 +0000",
+      "time": "۰۱:۵۵ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T05:22:55.106Z"
     }
   ]
 }
