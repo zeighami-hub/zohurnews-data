@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "independent",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "independent_13c550fe9d",
@@ -98,6 +98,30 @@
       "pubDate": "Sat, 11 Jul 2026 00:22:49 GMT",
       "time": "۰۳:۵۲ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T01:19:50.195Z"
+    },
+    {
+      "id": "independent_67a96ab99e",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "South African police arrest UK fugitive sought in alleged killings of his wife and 2 daughters",
+      "title_fa": "پلیس آفریقای جنوبی فراری بریتانیایی متهم به قتل همسر و دو دخترش را دستگیر کرد",
+      "lead": "پلیس آفریقای جنوبی مردی را که توسط مقامات بریتانیایی به اتهام قتل همسر و دو دخترش در انگلستان تحت تعقیب بود، دستگیر کرد.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.independent.co.uk/news/south-african-johannesburg-england-acting-kensington-b3013027.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "pubDate": "Sat, 11 Jul 2026 01:31:29 GMT",
+      "time": "۰۵:۰۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
     }
   ]
 }
