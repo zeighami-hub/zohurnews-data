@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "bbc",
-  "total": 17,
+  "total": 18,
   "articles": [
     {
       "id": "bbc_a5f050445b",
@@ -410,6 +410,30 @@
       "pubDate": "Fri, 10 Jul 2026 19:30:06 GMT",
       "time": "۲۳:۰۰ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T10:08:38.998Z"
+    },
+    {
+      "id": "bbc_9f48b5a198",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "title_fa": "کشف گونه جدید دایناسور به طول زمین کریکت در تایلند",
+      "lead": "گونه جدیدی از دایناسورها به طول یک زمین کریکت در تایلند کشف شده است. این دایناسور گیاه‌خوار که اوراگاسوروس کالاسیننسیس نام گرفته، گمان می‌رود حدود ۱۵۰ میلیون سال پیش زندگی می‌کرده است.",
+      "category": "science",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 08:23:45 GMT",
+      "time": "۱۱:۵۳ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T10:24:22.047Z"
     }
   ]
 }
