@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -266,6 +266,54 @@
       "pubDate": "Fri, 10 Jul 2026 17:56:37 +0000",
       "time": "۲۱:۲۶ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T06:38:51.662Z"
+    },
+    {
+      "id": "nytimes_dc39023edf",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Man Arrested in Killing of U.K. Ex-Lawmaker Is Released",
+      "title_fa": "فرد دستگیر شده در پرونده قتل نماینده سابق پارلمان بریتانیا آزاد شد",
+      "lead": "پلیس اعلام کرد که فرد ۲۶ ساله‌ای که در ارتباط با مرگ آن ویدکومب، نماینده سابق پارلمان بریتانیا، دستگیر شده بود، دیگر بخشی از تحقیقات نیست. آنها از هر کسی که اطلاعاتی درباره این جنایت دارد، خواستند تا به پلیس مراجعه کند.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/europe/uk-ann-widdecombe-suspect-released.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 08:36:56 +0000",
+      "time": "۱۲:۰۶ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T08:54:42.496Z"
+    },
+    {
+      "id": "nytimes_7b2c9ca911",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
+      "title_fa": "همگرایی سلطنتی: هری و مگان دیداری کم‌سابقه با پادشاه و ملکه انجام دادند",
+      "lead": "بازدید روز جمعه هری و همسرش مگان از پادشاه چارلز و ملکه کامیلا، نشانه‌ای از بهبود روابط آنها بود. این زوج در سال ۲۰۲۰ از وظایف سلطنتی کناره‌گیری کرده و به ایالات متحده نقل مکان کرده بودند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 01:37:41 +0000",
+      "time": "۰۵:۰۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T08:54:42.496Z"
     }
   ]
 }
