@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "dw",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "dw_3f883d9847",
@@ -530,6 +530,30 @@
       "pubDate": "Sat, 11 Jul 2026 08:21:00 GMT",
       "time": "۱۱:۵۱ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T08:41:17.518Z"
+    },
+    {
+      "id": "dw_cc6311eb7d",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "India news: Telangana man accused of stalking minor kills 6",
+      "title_fa": "اخبار هند: مردی در تلانگانا که به آزار و اذیت یک خردسال متهم بود، ۶ نفر را کشت",
+      "lead": "در ایالت تلانگانای هند، مردی پس از کشتن شش نفر، از جمله دختری که او را به آزار و اذیت متهم کرده بود، متواری شده است.",
+      "category": "crime",
+      "region": "India",
+      "sourceUrl": "https://www.dw.com/en/india-news-telangana-man-accused-of-stalking-minor-kills-6/live-77915146?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 09:48:00 GMT",
+      "time": "۱۳:۱۸ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T10:08:38.998Z"
     }
   ]
 }
