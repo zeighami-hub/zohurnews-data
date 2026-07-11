@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "rt",
-  "total": 17,
+  "total": 18,
   "articles": [
     {
       "id": "rt_4a33e3d7a4",
@@ -410,6 +410,30 @@
       "pubDate": "Thu, 09 Jul 2026 16:52:56 +0000",
       "time": "۲۰:۲۲ - ۱۸ تیر",
       "analyzed_at": "2026-07-11T06:53:49.698Z"
+    },
+    {
+      "id": "rt_dcc2e43163",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "‘Sober up’ – Polish PM tells Ukraine",
+      "title_fa": "نخست‌وزیر لهستان به اوکراین: \"هوشیار شوید\"",
+      "lead": "دونالد تاسک، نخست‌وزیر لهستان، اظهار داشت که کی‌یف باید \"هوشیار شود\". این اظهارات در بحبوحه اختلاف ورشو با اوکراین بر سر ستایش از همدستان نازی اوکراینی مطرح شده است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/642881-poland-ukraine-upa-tusk/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 11 Jul 2026 06:53:20 +0000",
+      "time": "۱۰:۲۳ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T07:08:03.568Z"
     }
   ]
 }
