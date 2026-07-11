@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -146,6 +146,30 @@
       "pubDate": "Fri, 10 Jul 2026 13:38:46 +0000",
       "time": "۱۷:۰۸ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T02:18:38.822Z"
+    },
+    {
+      "id": "nytimes_b99aa4c815",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
+      "title_fa": "«آنها به انسان‌ها نیاز ندارند»: کارگرانی که توسط پیشرفت رباتیک چین کنار گذاشته شدند",
+      "lead": "در کونشان، منطقه‌ای که به دلیل تولید لوازم الکترونیکی به ثروت رسیده بود، کارگران بیکار کارخانه‌ها تنها به یک پارک پناه می‌برند. این وضعیت نشان‌دهنده تاثیر پیشرفت رباتیک در چین و کاهش نیاز به نیروی کار انسانی است.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 11 Jul 2026 04:01:08 +0000",
+      "time": "۰۷:۳۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T04:04:49.095Z"
     }
   ]
 }
