@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 40,
+  "total": 41,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -962,6 +962,30 @@
       "pubDate": "Fri, 10 Jul 2026 13:38:45 +0000",
       "time": "۱۷:۰۸ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T13:51:17.010Z"
+    },
+    {
+      "id": "nytimes_709c374cc4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Passenger Is Partly Sucked Through Plane Window but Survives, Reports Say",
+      "title_fa": "گزارش‌ها: مسافری که تا حدی از پنجره هواپیما به بیرون کشیده شده بود، زنده ماند",
+      "lead": "بر اساس گزارش‌ها، یک مسافر ۶۱ ساله پس از آسیب دیدن پنجره هواپیما در طول پرواز از یونان به آلمان، تا حدی به بیرون کشیده شده بود اما زنده ماند. این پرواز توسط مالتا ایر، زیرمجموعه رایان‌ایر، انجام شده بود و فرد دچار سوختگی ناشی از اصطکاک تحت درمان قرار گرفت.",
+      "category": "accident",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/ryanair-plane-greece-passenger-broken-window.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Fri, 10 Jul 2026 14:10:16 +0000",
+      "time": "۱۷:۴۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T14:22:03.484Z"
     }
   ]
 }
