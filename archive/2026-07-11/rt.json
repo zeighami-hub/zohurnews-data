@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "rt",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "rt_4a33e3d7a4",
@@ -266,6 +266,30 @@
       "pubDate": "Fri, 10 Jul 2026 00:42:01 +0000",
       "time": "۰۴:۱۲ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T04:37:40.813Z"
+    },
+    {
+      "id": "rt_dbb2fdc1d0",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Replica mosque torched in Northern Ireland bonfire (VIDEOS)",
+      "title_fa": "ماکت مسجد در آتش‌سوزی ایرلند شمالی به آتش کشیده شد (ویدئوها)",
+      "lead": "وفاداران ایرلند شمالی ماکت یک مسجد را بر روی یک آتش‌سوزی بزرگ سوزاندند. پلیس این اقدام را \"نمایش نفرت‌انگیز\" خوانده است.",
+      "category": "society",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642859-northern-ireland-mosque-bonfire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 16:34:21 +0000",
+      "time": "۲۰:۰۴ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T05:22:55.106Z"
     }
   ]
 }
