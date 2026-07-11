@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "guardian",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "guardian_6f5525577e",
@@ -50,6 +50,54 @@
       "pubDate": "Sat, 11 Jul 2026 00:37:54 GMT",
       "time": "۰۴:۰۷ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T01:19:50.195Z"
+    },
+    {
+      "id": "guardian_85379d3ecb",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Venomous snakes escape breeding farms in southern China during flooding",
+      "title_fa": "فرار مارهای سمی از مزارع پرورشی در جنوب چین هنگام سیل",
+      "lead": "رسانه‌های محلی در هنگژو گزارش داده‌اند که صدها مار سمی از جمله کبراها و مارهای شاه موش‌خوار، در آب‌های سیلاب ناشی از طوفان مایساک از مزارع پرورشی فرار کرده‌اند. این حادثه در جنوب چین و در حالی رخ داده که طوفان‌های شدید همچنان بخش‌هایی از منطقه را درمی‌نوردند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/09/snakes-cobras-escape-breeding-farms-southern-china-flooding",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 08:08:20 GMT",
+      "time": "۱۱:۳۸ - ۱۸ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
+    },
+    {
+      "id": "guardian_98706a1ffb",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
+      "title_fa": "قضات بریتانیایی رسیدگی به درخواست تجدیدنظر علیه قانون ضد همجنسگرایی ترینیداد و توباگو را آغاز کردند",
+      "lead": "یک فعال حقوق بشر، حکم سال گذشته که قانون همجنس‌گراهراسانه دوران استعمار علیه روابط همجنس‌گرایانه را احیا کرد، به چالش کشیده است. برخی از عالی‌ترین قضات بریتانیا در حال بررسی این موضوع هستند که آیا دادگاهی در ترینیداد و توباگو حق قانونی برای لغو حکم سال ۲۰۱۸ را داشته است یا خیر.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Wed, 08 Jul 2026 14:01:35 GMT",
+      "time": "۱۷:۳۱ - ۱۷ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
     }
   ]
 }
