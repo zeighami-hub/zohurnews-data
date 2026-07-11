@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "economist",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "economist_25cf022700",
@@ -482,6 +482,50 @@
       "pubDate": "Thu, 09 Jul 2026 13:03:07 +0000",
       "time": "۱۶:۳۳ - ۱۸ تیر",
       "analyzed_at": "2026-07-10T02:50:52.494Z"
+    },
+    {
+      "id": "economist_8",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "Donald Trump could be the man to save Cuba",
+      "title_fa": "دونالد ترامپ می‌تواند مردی باشد که کوبا را نجات دهد",
+      "lead": "اطمینان‌های ایدئولوژیک به مدت ۷۰ سال به کوبایی‌ها آسیب رسانده است. زمان آن فرا رسیده که به بدبینی فرصتی داده شود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.economist.com/international/2026/06/02/donald-trump-could-be-the-man-to-save-cub",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-07-10T16:16:08.353Z"
+    },
+    {
+      "id": "economist_14",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "America must hope Donald Trump is not a new Caligula",
+      "title_fa": "آمریکا باید امیدوار باشد که دونالد ترامپ یک کالیگولای جدید نباشد",
+      "lead": "در سالنامه‌های حاکمانی که اعمال حماقت‌آمیز مرتکب شده‌اند، فساد رومی برجسته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.economist.com/international/2026/05/05/americas-submarine-dominance-is-under-threat",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-10T16:16:08.353Z"
     }
   ]
 }
