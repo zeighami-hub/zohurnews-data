@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "mehrnews",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "mehrnews_050cdf4ef4",
@@ -602,6 +602,30 @@
       "pubDate": "Fri, 10 Jul 2026 11:45:27 GMT",
       "time": "۱۵:۱۵ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T11:52:39.369Z"
+    },
+    {
+      "id": "mehrnews_f94e35f37f",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran warns of retaliation for attacks on its infrastructures",
+      "title_fa": "ایران در مورد حملات به زیرساخت‌های خود هشدار تلافی‌جویانه می‌دهد",
+      "lead": "دبیر شورای عالی امنیت ملی ایران هشدار داد که هرگونه حمله به زیرساخت‌های کشور با اقدام متقابل مواجه خواهد شد. او افزود رژیم صهیونیستی نیز در صورت حمایت از چنین حمله‌ای با تلافی روبرو خواهد شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246072/Iran-warns-of-retaliation-for-attacks-on-its-infrastructures",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 10 Jul 2026 12:06:56 GMT",
+      "time": "۱۵:۳۶ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T12:28:08.877Z"
     }
   ]
 }
