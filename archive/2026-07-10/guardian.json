@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "guardian",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "guardian_0709b3986d",
@@ -674,6 +674,54 @@
       "pubDate": "Fri, 10 Jul 2026 11:06:40 GMT",
       "time": "۱۴:۳۶ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T11:22:50.861Z"
+    },
+    {
+      "id": "guardian_51eec883d4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Child abuser who preyed on orphans housed at Christian Brothers property",
+      "title_fa": "متجاوز به کودکان یتیم در ملک برادران مسیحی اسکان داده شده بود",
+      "lead": "سوابق به دست آمده توسط گاردین نشان می‌دهد که ملکی متعلق به فرقه کاتولیک برای اسکان حداقل دو برادر با سابقه وحشتناک سوء استفاده جنسی از کودکان استفاده شده است.",
+      "category": "social_issues",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/11/christian-brothers-properties-housing-convicted-child-sexual-abuse-offenders-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 15:00:26 GMT",
+      "time": "۱۸:۳۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T16:16:08.353Z"
+    },
+    {
+      "id": "guardian_3e3dd1bfcc",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Journalist Richard Guilliatt resigns from Walkley awards board after critic wins reporting prize",
+      "title_fa": "ریچارد گویلیات، روزنامه‌نگار، پس از برنده شدن منتقد جایزه گزارشگری، از هیئت مدیره جوایز والکلی استعفا داد",
+      "lead": "این استعفا پس از آن صورت گرفت که یک بازمانده از آزار گفت که از مصاحبه با پدرش، که به ۴۸ سال زندان محکوم شده بود، برای پادکست «سایه تردید» ویران شده است. این موضوع به دنبال نگرانی‌ها در مورد اهدای جایزه گزارشگری به اثری مرتبط با پرونده مذکور است.",
+      "category": "media",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/media/2026/jul/11/shadow-of-doubt-podcast-journalist-richard-guilliatt-walkley-awards-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 10 Jul 2026 15:00:23 GMT",
+      "time": "۱۸:۳۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T16:16:08.353Z"
     }
   ]
 }
