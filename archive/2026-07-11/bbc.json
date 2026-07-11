@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "bbc_a5f050445b",
@@ -194,6 +194,30 @@
       "pubDate": "Sat, 11 Jul 2026 01:24:49 GMT",
       "time": "۰۴:۵۴ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T02:03:58.450Z"
+    },
+    {
+      "id": "bbc_fb1a6225d7",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "title_fa": "اسپانیا برای مهار یکی از مرگبارترین آتش‌سوزی‌های جنگلی خود می‌جنگد؛ حداقل ۱۲ نفر کشته شدند",
+      "lead": "اسپانیا در تلاش برای مهار یکی از مرگبارترین آتش‌سوزی‌های جنگلی خود است که تاکنون دست‌کم ۱۲ کشته برجای گذاشته است. همچنین، گمان می‌رود حداقل چهار بریتانیایی در میان قربانیان این آتش‌سوزی باشند و ۲۳ نفر دیگر نیز ناپدید شده‌اند.",
+      "category": "politics",
+      "region": "spain",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 04:06:56 GMT",
+      "time": "۰۷:۳۶ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T04:20:07.757Z"
     }
   ]
 }
