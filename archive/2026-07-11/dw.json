@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "dw",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "dw_3f883d9847",
@@ -194,6 +194,30 @@
       "pubDate": "Fri, 10 Jul 2026 13:22:00 GMT",
       "time": "۱۶:۵۲ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T02:03:58.450Z"
+    },
+    {
+      "id": "dw_ccf90436e6",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Passenger partly sucked from Ryanair plane during flight",
+      "title_fa": "مسافر هواپیمای رایان‌ایر در حین پرواز تقریباً به بیرون کشیده شد",
+      "lead": "یک مرد در پرواز رایان‌ایر از یونان به آلمان، تقریباً از پنجره کابین به بیرون کشیده شد. پس از صدای بلند اولیه، تلاش‌های شدیدی برای نجات این مسافر صورت گرفت.",
+      "category": "incident",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 14:15:00 GMT",
+      "time": "۱۷:۴۵ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T02:48:59.809Z"
     }
   ]
 }
