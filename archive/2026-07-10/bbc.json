@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "bbc",
-  "total": 33,
+  "total": 34,
   "articles": [
     {
       "id": "bbc_fdcbbff025",
@@ -794,6 +794,30 @@
       "pubDate": "Wed, 08 Jul 2026 18:56:36 GMT",
       "time": "۲۲:۲۶ - ۱۷ تیر",
       "analyzed_at": "2026-07-10T16:16:08.353Z"
+    },
+    {
+      "id": "bbc_0600eba25f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Zulu king expresses regret after video captures tirade against his wife",
+      "title_fa": "پادشاه زولو پس از انتشار ویدیوی حمله لفظی به همسرش ابراز پشیمانی کرد",
+      "lead": "در ویدیویی که به طور گسترده در آفریقای جنوبی منتشر شده است، پادشاه میسوزولو همسرش را تهدید به تعرض فیزیکی می‌کند و او را به خیانت متهم می‌سازد. او پس از انتشار این ویدیو ابراز پشیمانی کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 10 Jul 2026 16:42:11 GMT",
+      "time": "۲۰:۱۲ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T16:56:41.810Z"
     }
   ]
 }
