@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 41,
+  "total": 43,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -986,6 +986,54 @@
       "pubDate": "Fri, 10 Jul 2026 14:10:16 +0000",
       "time": "۱۷:۴۰ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T14:22:03.484Z"
+    },
+    {
+      "id": "nytimes_01e9ae6785",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Two Days of U.S. Strikes in Iran Signal a Sharp Escalation",
+      "title_fa": "حملات دو روزه آمریکا در ایران نشانه‌ای از تشدید شدید تنش است",
+      "lead": "نیروهای آمریکایی بیش از ۱۷۰ هدف را در ایران مورد حمله قرار دادند. این اهداف شامل سامانه‌های دفاع هوایی، سایت‌های ذخیره‌سازی پهپاد و موشک، و قایق‌های تندرو نظامی بوده‌اند.",
+      "category": "military",
+      "region": "mideast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 15:16:05 +0000",
+      "time": "۱۸:۴۶ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T16:16:08.353Z"
+    },
+    {
+      "id": "nytimes_67d75150fa",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.K. Police Open Murder Investigation Into Death of Politician Ann Widdecombe",
+      "title_fa": "پلیس بریتانیا تحقیقات قتل را درباره مرگ «ان ویدیکامب»، سیاستمدار، آغاز کرد",
+      "lead": "پلیس اعلام کرد که «ان ویدیکامب»، قانونگذار سابق ۷۸ ساله، روز پنجشنبه با جراحات جدی فوت شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 15:39:17 +0000",
+      "time": "۱۹:۰۹ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T16:16:08.353Z"
     }
   ]
 }
