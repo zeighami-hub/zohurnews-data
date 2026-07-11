@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 39,
+  "total": 40,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -938,6 +938,30 @@
       "pubDate": "Fri, 10 Jul 2026 11:26:02 +0000",
       "time": "۱۴:۵۶ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T11:38:02.977Z"
+    },
+    {
+      "id": "nytimes_561f80467c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Police Investigating Donations to Reform U.K., Reports Say",
+      "title_fa": "گزارش‌ها: پلیس در حال تحقیق درباره کمک‌های مالی به حزب «اصلاحات بریتانیا» است",
+      "lead": "پلیس لندن اعلام کرد که در چارچوب تحقیقاتی درباره کمک‌های مالی به یک حزب سیاسی، دو نفر را مورد بازجویی قرار داده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/reform-uk-farage-cottrell-donation-police.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 10 Jul 2026 13:38:45 +0000",
+      "time": "۱۷:۰۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T13:51:17.010Z"
     }
   ]
 }
