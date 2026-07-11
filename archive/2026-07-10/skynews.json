@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "skynews",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "skynews_291a59a7d4",
@@ -194,6 +194,30 @@
       "pubDate": "Fri, 10 Jul 2026 04:30:00 +0100",
       "time": "۰۷:۰۰ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T08:07:36.235Z"
+    },
+    {
+      "id": "skynews_f85622a873",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Ukrainian security officer 'retracts confession' over killing of Monaco bomb suspect",
+      "title_fa": "«افسر امنیتی اوکراینی اعتراف خود را پس گرفت» درباره قتل مظنون بمب‌گذاری موناکو",
+      "lead": "در پرونده زنی اوکراینی که پس از بمب‌گذاری در موناکو کشته شد، پیچش جدیدی رخ داده است. یک افسر امنیتی اوکراینی اعتراف خود را درباره قتل مظنون بمب‌گذاری موناکو پس گرفت.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/ukrainian-security-officer-retracts-confession-over-killing-of-monaco-bomb-suspect-13562250",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 10 Jul 2026 12:05:00 +0100",
+      "time": "۱۴:۳۵ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T13:06:25.016Z"
     }
   ]
 }
