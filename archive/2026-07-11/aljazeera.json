@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "aljazeera",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "aljazeera_725aa49709",
@@ -146,6 +146,54 @@
       "pubDate": "Sat, 11 Jul 2026 04:34:33 +0000",
       "time": "۰۸:۰۴ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T05:06:32.378Z"
+    },
+    {
+      "id": "aljazeera_d2851dbc01",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Are the US and Iran at war again?",
+      "title_fa": "آیا آمریکا و ایران دوباره در جنگ هستند؟",
+      "lead": "رهبران ایران اعلام کرده‌اند که هرگز تسلیم نخواهند شد. این در حالی است که دونالد ترامپ، رئیس‌جمهور آمریکا، می‌گوید آتش‌بس «به پایان رسیده است».",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 11 Jul 2026 04:51:20 +0000",
+      "time": "۰۸:۲۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T05:39:29.685Z"
+    },
+    {
+      "id": "aljazeera_0b4d05df5c",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "‘We are the lost generation of Sudan’: Students in exile",
+      "title_fa": "«ما نسل گمشده سودان هستیم»: دانشجویان در تبعید",
+      "lead": "سال‌ها درگیری، هزاران دانشجوی سودانی را مجبور کرده است تا برای ادامه تحصیل خود در تبعید با مشکلات زیادی دست و پنجه نرم کنند.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/11/we-are-the-lost-generation-of-sudan-students-in-exile?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 04:41:40 +0000",
+      "time": "۰۸:۱۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T05:39:29.685Z"
     }
   ]
 }
