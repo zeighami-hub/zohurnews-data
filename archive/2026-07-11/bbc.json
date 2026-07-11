@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "bbc",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "bbc_a5f050445b",
@@ -122,6 +122,54 @@
       "pubDate": "Sat, 11 Jul 2026 00:17:15 GMT",
       "time": "۰۳:۴۷ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T01:19:50.195Z"
+    },
+    {
+      "id": "bbc_0983b925d0",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "title_fa": "مسافران می‌گویند: مردی در پرواز رایان‌ایر در میانه هوا تقریباً از پنجره هواپیما مکیده شد",
+      "lead": "مقامات می‌گویند همسر این مرد حدود پنج دقیقه پاهایش را گرفته بود تا مانع از مکیده شدن او به بیرون شود.",
+      "category": "accident",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 10 Jul 2026 16:42:24 GMT",
+      "time": "۲۰:۱۲ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
+    },
+    {
+      "id": "bbc_fc3031e6a5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "How an app in South Korea will let victims track their stalkers",
+      "title_fa": "چگونه یک اپلیکیشن در کره جنوبی به قربانیان اجازه می‌دهد مزاحمان خود را ردیابی کنند",
+      "lead": "مقامات می‌گویند این اپلیکیشن به قربانیان مزاحمت کمک خواهد کرد تا مزاحمان خود را ردیابی کنند. اما برخی کارشناسان در مورد تأثیر و پیامدهای احتمالی آن تردید دارند و سوالاتی را مطرح کرده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c2dyw4zygrko?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 22:09:57 GMT",
+      "time": "۰۱:۳۹ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
     }
   ]
 }
