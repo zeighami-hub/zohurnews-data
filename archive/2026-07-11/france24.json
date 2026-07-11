@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "france24",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "france24_34efb58a4a",
@@ -362,6 +362,30 @@
       "pubDate": "Fri, 10 Jul 2026 16:21:14 GMT",
       "time": "۱۹:۵۱ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T06:38:51.662Z"
+    },
+    {
+      "id": "france24_7ffe399f26",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Typhoon Bavi forces Taiwan evacuations, batters Japan islands",
+      "title_fa": "طوفان باوی باعث تخلیه تایوان و خسارت به جزایر ژاپن شد",
+      "lead": "طوفان باوی با باران شدید و بادهای قوی تایوان را درنوردید و بیش از ۱۴,۰۰۰ نفر از خانه‌های خود گریختند. این طوفان پیشتر برق هزاران نفر را در جزایر اوکیناوای ژاپن قطع کرده بود و اکنون به سمت شرق چین در حرکت است.",
+      "category": "environment",
+      "region": "asia",
+      "sourceUrl": "https://www.france24.com/en/asia-pacific/20260711-typhoon-bavi-forces-taiwan-evacuations-batters-japan-islands",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 03:23:15 GMT",
+      "time": "۰۶:۵۳ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T06:53:49.698Z"
     }
   ]
 }
