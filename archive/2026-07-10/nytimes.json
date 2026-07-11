@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 46,
+  "total": 48,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -1106,6 +1106,54 @@
       "pubDate": "Fri, 10 Jul 2026 17:56:36 +0000",
       "time": "۲۱:۲۶ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T18:22:34.431Z"
+    },
+    {
+      "id": "nytimes_d1f791dd7e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Cuts Habitat Protections for Endangered Species",
+      "title_fa": "ترامپ حفاظت از زیستگاه‌های گونه‌های در حال انقراض را کاهش می‌دهد",
+      "lead": "تغییر این قانون به حفاظتی ۵۰ ساله پایان می‌دهد و می‌تواند روند انقراض حیوانات در معرض خطر را تسریع بخشد. این تصمیم توسط ترامپ برای کاهش حفاظت از زیستگاه‌های گونه‌های در حال انقراض گرفته شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 10 Jul 2026 19:48:49 +0000",
+      "time": "۲۳:۱۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T20:15:08.319Z"
+    },
+    {
+      "id": "nytimes_7b2c9ca911",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
+      "title_fa": "آشتی سلطنتی: هری و مگان دیداری نادر با پادشاه و ملکه داشتند",
+      "lead": "دیدار روز جمعه با شاه چارلز و ملکه کامیلا، نشانه‌ای از بهبود روابط با شاهزاده هری و همسرش، مگان، است. آنها در سال ۲۰۲۰ از عناوین سلطنتی خود چشم پوشی کرده و به ایالات متحده نقل مکان کرده بودند.",
+      "category": "society",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 19:43:26 +0000",
+      "time": "۲۳:۱۳ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T20:15:08.319Z"
     }
   ]
 }
