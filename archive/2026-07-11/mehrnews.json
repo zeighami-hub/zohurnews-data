@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "mehrnews",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "mehrnews_d56a9ca40e",
@@ -434,6 +434,30 @@
       "pubDate": "Sat, 11 Jul 2026 06:32:06 GMT",
       "time": "۱۰:۰۲ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T06:53:49.698Z"
+    },
+    {
+      "id": "mehrnews_5f74a52098",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "North Korea condemns NATO Summit",
+      "title_fa": "کره‌شمالی نشست ناتو را محکوم کرد",
+      "lead": "کره‌شمالی روز شنبه آمریکا و متحدانش را به دلیل تقویت بلوک‌های نظامی و تسریع در تسلیحات پس از نشست این هفته ناتو محکوم کرد. این محکومیت در پی برگزاری نشست ناتو صورت گرفت.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246086/North-Korea-condemns-NATO-Summit",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sat, 11 Jul 2026 07:01:44 GMT",
+      "time": "۱۰:۳۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T07:08:03.568Z"
     }
   ]
 }
