@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "france24",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "france24_34efb58a4a",
@@ -386,6 +386,54 @@
       "pubDate": "Sat, 11 Jul 2026 03:23:15 GMT",
       "time": "۰۶:۵۳ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T06:53:49.698Z"
+    },
+    {
+      "id": "france24_05abc9f3dc",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "World Cup 2022: Spain edge Belgium, set up semi-final showdown with France",
+      "title_fa": "جام جهانی ۲۰۲۲: اسپانیا با پیروزی مقابل بلژیک، برای نیمه‌نهایی به مصاف فرانسه می‌رود",
+      "lead": "اسپانیا با یک پیروزی دراماتیک ۲ بر ۱ مقابل بلژیک و با گل دیرهنگام میکل مرینو، جای خود را در نیمه‌نهایی جام جهانی رزرو کرد. لاروخا حالا روز سه‌شنبه برای راهیابی به فینال به مصاف فرانسه خواهد رفت.",
+      "category": "sports",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/sports/20260711-world-cup-2022-spain-edge-belgium-set-up-semi-final-showdown-with-france",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 08:11:45 GMT",
+      "time": "۱۱:۴۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T08:41:17.518Z"
+    },
+    {
+      "id": "france24_e63ab8410c",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Death toll in Venezuela quakes surpasses 4,000",
+      "title_fa": "تلفات زمین‌لرزه‌های ونزوئلا از ۴۰۰۰ نفر گذشت",
+      "lead": "مقامات روز جمعه اعلام کردند که تلفات زمین‌لرزه‌های ویرانگر ونزوئلا از ۴۰۰۰ نفر فراتر رفته است. این در حالی است که خانواده‌ها بیش از دو هفته پس از مرگبارترین زلزله قرن در این کشور، همچنان در میان آوارها به دنبال عزیزان گمشده خود هستند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/americas/20260711-death-toll-in-venezuela-quakes-surpasses-4-000",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 08:11:31 GMT",
+      "time": "۱۱:۴۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T08:41:17.518Z"
     }
   ]
 }
