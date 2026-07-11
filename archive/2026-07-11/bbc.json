@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "bbc",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "bbc_a5f050445b",
@@ -266,6 +266,30 @@
       "pubDate": "Fri, 10 Jul 2026 15:28:17 GMT",
       "time": "۱۸:۵۸ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T04:37:40.813Z"
+    },
+    {
+      "id": "bbc_f65a4cafcf",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Small plane crash in Bahamas kills 10 people",
+      "title_fa": "سقوط هواپیمای کوچک در باهاما ۱۰ کشته برجای گذاشت",
+      "lead": "یک هواپیمای کوچک در باهاما سقوط کرد که در نتیجه آن ۱۰ نفر جان باختند. نخست‌وزیر این کشور، این حادثه را که در روز استقلال رخ داد، یک فاجعه توصیف کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 11 Jul 2026 04:47:37 GMT",
+      "time": "۰۸:۱۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T05:06:32.378Z"
     }
   ]
 }
