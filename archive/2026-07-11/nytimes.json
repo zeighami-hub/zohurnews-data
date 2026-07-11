@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -218,6 +218,54 @@
       "pubDate": "Fri, 10 Jul 2026 22:25:30 +0000",
       "time": "۰۱:۵۵ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T05:22:55.106Z"
+    },
+    {
+      "id": "nytimes_df635c625e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "title_fa": "شهروند آمریکایی در جمهوری دموکراتیک کنگو به ابولا مبتلا شد",
+      "lead": "یک شهروند آمریکایی در جمهوری دموکراتیک کنگو به ویروس ابولا مبتلا شده است. مراکز کنترل و پیشگیری از بیماری‌ها اعلام کردند که این فرد برای یک سازمان بشردوستانه در کنگو کار می‌کند.",
+      "category": "health",
+      "region": "africa",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 11 Jul 2026 06:25:20 +0000",
+      "time": "۰۹:۵۵ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T06:38:51.662Z"
+    },
+    {
+      "id": "nytimes_4a98416d95",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Sexual Assault and Killing of Girl Set Off Days of Protest in West Bengal",
+      "title_fa": "تجاوز جنسی و قتل یک دختربچه، اعتراضات چند روزه در بنگال غربی را برانگیخت",
+      "lead": "پس از وعده بهبود امنیت زنان در ایالت بنگال غربی هند، حزب نخست‌وزیر نارندرا مودی با خشم عمومی مواجه شده است. این خشم در پی مرگ یک دختر ۱۱ ساله پس از تجاوز جنسی صورت گرفته است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/asia/girl-riots-west-bengal-baruipur.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 10 Jul 2026 17:56:37 +0000",
+      "time": "۲۱:۲۶ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T06:38:51.662Z"
     }
   ]
 }
