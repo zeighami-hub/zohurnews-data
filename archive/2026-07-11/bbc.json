@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "bbc",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "bbc_a5f050445b",
@@ -314,6 +314,30 @@
       "pubDate": "Fri, 10 Jul 2026 16:42:11 GMT",
       "time": "۲۰:۱۲ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T05:22:55.106Z"
+    },
+    {
+      "id": "bbc_2a09893dd5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Newly-released video shows Peter Falconio's killer questioned",
+      "title_fa": "ویدیوی تازه منتشر شده، بازجویی از قاتل پیتر فالکونیو را نشان می‌دهد",
+      "lead": "پلیس استرالیا در بیست و پنجمین سالگرد قتل پیتر فالکونیو، ویدیویی را منتشر کرده است. این ویدیو یکی از آخرین تلاش‌ها برای واداشتن بردلی مرداک به افشای محل جسد پیتر فالکونیو را نشان می‌دهد.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 08:35:33 GMT",
+      "time": "۱۲:۰۵ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T08:54:42.496Z"
     }
   ]
 }
