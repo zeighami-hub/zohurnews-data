@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "mehrnews",
-  "total": 26,
+  "total": 27,
   "articles": [
     {
       "id": "mehrnews_050cdf4ef4",
@@ -626,6 +626,30 @@
       "pubDate": "Fri, 10 Jul 2026 12:06:56 GMT",
       "time": "۱۵:۳۶ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T12:28:08.877Z"
+    },
+    {
+      "id": "mehrnews_f45d424fe8",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran strongly condemns deadly terrorist attacks in Pakistan",
+      "title_fa": "ایران حملات تروریستی مرگبار در پاکستان را به شدت محکوم کرد",
+      "lead": "سخنگوی وزارت امور خارجه ایران حمله تروریستی مرگبار در شهر خضدار پاکستان را که به کشته شدن دست‌کم ۱۷ نفر و زخمی شدن ده‌ها تن انجامید، محکوم کرد. این حمله توسط ایران به شدت محکوم شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246073/Iran-strongly-condemns-deadly-terrorist-attacks-in-Pakistan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 10 Jul 2026 12:48:57 GMT",
+      "time": "۱۶:۱۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T13:06:25.016Z"
     }
   ]
 }
