@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 17,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -410,6 +410,30 @@
       "pubDate": "Fri, 10 Jul 2026 21:24:08 +0000",
       "time": "۰۰:۵۴ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T09:40:44.360Z"
+    },
+    {
+      "id": "nytimes_429b5e31a1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Inside the Canadian Lab Burning Down Buildings to Save Them",
+      "title_fa": "گزارشی از آزمایشگاه کانادایی که برای نجات ساختمان‌ها، آن‌ها را می‌سوزاند",
+      "lead": "در تأسیسات ملی ایمنی آتش‌سوزی در اوتاوا، دانشمندان و مهندسان بر تهدید ناشی از آتش‌سوزی جنگل‌ها تمرکز کرده‌اند. آن‌ها در این آزمایشگاه برای نجات ساختمان‌ها، تحقیقاتی در مورد سوختن آن‌ها انجام می‌دهند.",
+      "category": "science",
+      "region": "North America",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/canada/wildfires-prevention-testing-canada.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 10:00:04 +0000",
+      "time": "۱۳:۳۰ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T10:08:38.998Z"
     }
   ]
 }
