@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "economist",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "economist_376199c627",
@@ -434,6 +434,54 @@
       "pubDate": "Tue, 28 Apr 2026 20:24:49 +0000",
       "time": "۲۳:۵۴ - ۸ اردیبهشت",
       "analyzed_at": "2026-07-11T04:37:40.813Z"
+    },
+    {
+      "id": "economist_c081e52b8e",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "Donald Trump could be the man to save Cuba",
+      "title_fa": "دونالد ترامپ می‌تواند ناجی کوبا باشد",
+      "lead": "یقین‌های ایدئولوژیک به مدت ۷۰ سال به کوبایی‌ها آسیب رسانده‌اند. زمان آن رسیده که به بدبینی فرصت داده شود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.economist.com/international/2026/06/02/donald-trump-could-be-the-man-to-save-cuba",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Tue, 02 Jun 2026 22:02:54 +0000",
+      "time": "۰۱:۳۲ - ۱۳ خرداد",
+      "analyzed_at": "2026-07-11T05:22:55.106Z"
+    },
+    {
+      "id": "economist_42b1d8b5a3",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "America must hope Donald Trump is not a new Caligula",
+      "title_fa": "آمریکا باید امیدوار باشد که دونالد ترامپ کالیگولای جدیدی نباشد",
+      "lead": "در تاریخ حاکمانی که دست به حماقت زده‌اند، انحطاط رومی برجسته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.economist.com/international/2026/05/05/america-must-hope-donald-trump-is-not-a-new-caligula",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 05 May 2026 21:04:24 +0000",
+      "time": "۰۰:۳۴ - ۱۶ اردیبهشت",
+      "analyzed_at": "2026-07-11T05:22:55.106Z"
     }
   ]
 }
