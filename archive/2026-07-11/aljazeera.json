@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "aljazeera",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "aljazeera_725aa49709",
@@ -530,6 +530,54 @@
       "pubDate": "Sat, 11 Jul 2026 09:32:57 +0000",
       "time": "۱۳:۰۲ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T09:53:30.325Z"
+    },
+    {
+      "id": "aljazeera_31c03862b5",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
+      "title_fa": "تحقیقات دادستانی آلبانی در مورد اسناد جعلی زمین پروژه تفریحی مورد حمایت کوشنر",
+      "lead": "دادستان‌های آلبانی در حال تحقیق درباره اسناد جعلی مربوط به زمین‌های واگذار شده برای یک پروژه تفریحی هستند که توسط جرد کوشنر حمایت می‌شود. این تحقیقات در حالی صورت می‌گیرد که اعتراضات مردمی علیه این پروژه تشدید شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 10:14:39 +0000",
+      "time": "۱۳:۴۴ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T10:38:07.451Z"
+    },
+    {
+      "id": "aljazeera_7ef9dddc9b",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "World cup wrap day 30",
+      "title_fa": "خلاصه جام جهانی: روز سی‌ام",
+      "lead": "این گزارش خلاصه‌ای از مهم‌ترین رویدادها و نتایج جام جهانی در روز سی‌ام را ارائه می‌دهد. اخبار و تحلیل‌های مرتبط با مسابقات این روز پوشش داده شده است.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/11/world-cup-wrap-day-30?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 09:47:33 +0000",
+      "time": "۱۳:۱۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T10:38:07.451Z"
     }
   ]
 }
