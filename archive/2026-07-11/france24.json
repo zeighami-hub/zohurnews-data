@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "france24",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "france24_34efb58a4a",
@@ -26,6 +26,54 @@
       "pubDate": "Fri, 10 Jul 2026 13:57:50 GMT",
       "time": "۱۷:۲۷ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T02:48:59.809Z"
+    },
+    {
+      "id": "france24_136b7eefbb",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Port Arthur: The shooting that changed Australia",
+      "title_fa": "پورت آرتور: تیراندازی که استرالیا را تغییر داد",
+      "lead": "سی سال پیش، استرالیا مرگبارترین تیراندازی جمعی تاریخ خود را تجربه کرد که به کشتار پورت آرتور معروف شد. این واقعه رابطه کشور با اسلحه را دگرگون کرده و سیاست‌های مربوط به سلاح گرم را برای دهه‌ها شکل داد.",
+      "category": "crime",
+      "region": "oceania",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/revisited/20260710-port-arthur-the-shooting-that-changed-australia",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 14:53:05 GMT",
+      "time": "۱۸:۲۳ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T03:34:03.589Z"
+    },
+    {
+      "id": "france24_c0cdbb0a6e",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "'My childhood passion is now a lifetime commitment': Wildlife conservationist Krithi Karanth",
+      "title_fa": "کریتی کارانت، فعال محیط زیست: «عشق دوران کودکی‌ام اکنون تعهد مادام‌العمر من است»",
+      "lead": "یکی از محیط‌بانان برجسته و برنده جوایز متعدد جهان، کریتی کارانت، در گفتگو با FRANCE 24 توضیح داد که چگونه علاقه دوران کودکی‌اش به طبیعت به یک تعهد مادام‌العمر تبدیل شده است. او بیان کرد که پدرش چگونه در طول 17 سال عشق به طبیعت را در او پرورش داده است.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/perspective/20260710-my-childhood-passion-is-now-a-lifetime-commitment-wildlife-conservationist-krithi-karanth",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 14:30:46 GMT",
+      "time": "۱۸:۰۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T03:34:03.589Z"
     }
   ]
 }
