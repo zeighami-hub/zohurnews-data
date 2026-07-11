@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "independent",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "independent_13c550fe9d",
@@ -434,6 +434,30 @@
       "pubDate": "Sat, 11 Jul 2026 05:00:00 GMT",
       "time": "۰۸:۳۰ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T05:06:32.378Z"
+    },
+    {
+      "id": "independent_bdb490fb73",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Rapidly growing wildfire in Los Angeles County prompts evacuations in remote high desert",
+      "title_fa": "آتش‌سوزی سریع‌الرشد در شهرستان لس‌آنجلس به تخلیه مناطق بیابانی منجر شد",
+      "lead": "یک آتش‌سوزی سریع‌الرشد در منطقه بیابانی دورافتاده‌ای از شهرستان لس‌آنجلس، باعث تخلیه ساکنان شد. این حادثه در حال گسترش است.",
+      "category": "disaster",
+      "region": "north america",
+      "sourceUrl": "https://www.independent.co.uk/news/los-angeles-los-angeles-county-american-red-cross-ymca-b3013057.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sat, 11 Jul 2026 04:57:10 GMT",
+      "time": "۰۸:۲۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T05:22:55.106Z"
     }
   ]
 }
