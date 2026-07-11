@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "bbc",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "bbc_a5f050445b",
@@ -338,6 +338,54 @@
       "pubDate": "Sat, 11 Jul 2026 08:35:33 GMT",
       "time": "۱۲:۰۵ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T08:54:42.496Z"
+    },
+    {
+      "id": "bbc_e34aaebe85",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+      "title_fa": "روسیه مدارس، ادارات و اتوبوس‌ها را در یک شهر شلوغ اوکراین هدف قرار می‌دهد",
+      "lead": "در شهر پرجمعیت زاپوریژیا، نزدیک خط مقدم، وضعیت امنیتی رو به وخامت است. روسیه این شهر را با هدف قرار دادن مدارس، ادارات و اتوبوس‌ها هدف حملات خود قرار داده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 23:02:35 GMT",
+      "time": "۰۲:۳۲ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T09:08:41.795Z"
+    },
+    {
+      "id": "bbc_6c0e26f9e1",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "'Really frightening, unbelievably quick': Witnesses describe fleeing deadly Spain wildfire",
+      "title_fa": "شاهدان از فرار وحشتناک و سریع از آتش‌سوزی مهیب اسپانیا می‌گویند",
+      "lead": "گردشگران به بی‌بی‌سی گفتند که چگونه لباس‌های خود را برداشتند، به سرعت سوار خودروها شدند و از میان شعله‌ها و دود گریختند. آنها وضعیت را \"واقعاً ترسناک و باورنکردنی سریع\" توصیف کردند.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c932zyex1w2o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 10 Jul 2026 18:56:06 GMT",
+      "time": "۲۲:۲۶ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T09:08:41.795Z"
     }
   ]
 }
