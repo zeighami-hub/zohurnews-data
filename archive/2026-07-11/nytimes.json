@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -434,6 +434,102 @@
       "pubDate": "Sat, 11 Jul 2026 10:00:04 +0000",
       "time": "۱۳:۳۰ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T10:08:38.998Z"
+    },
+    {
+      "id": "nytimes_e7bb3ac53f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
+      "title_fa": "غیبت رهبر عالی ایران؛ خلأ در راس نظام",
+      "lead": "آیت‌الله مجتبی خامنه‌ای این هفته در مراسم تشییع جنازه پدرش شرکت نکرد. این غیبت به گمانه‌زنی‌ها درباره وضعیت جسمانی او دامن زده و در کشوری دچار تفرقه، خلأ قدرتی را ایجاد کرده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 10 Jul 2026 16:00:30 +0000",
+      "time": "۱۹:۳۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T10:24:22.047Z"
+    },
+    {
+      "id": "nytimes_874c40b6ec",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Mexico to File Criminal Complaints in U.S. Over Immigrant Deaths",
+      "title_fa": "مکزیک در مورد مرگ مهاجران در آمریکا شکایات کیفری ثبت می‌کند",
+      "lead": "رئیس‌جمهور مکزیک پس از کشته شدن لورنزو سالگادو آراوخو، یک مرد مکزیکی، توسط یک مأمور مهاجرت آمریکا در تگزاس این هفته، متعهد شد که \"فراتر از یادداشت‌های دیپلماتیک\" عمل کند. مکزیک قصد دارد در آمریکا شکایات کیفری در مورد مرگ مهاجران ارائه دهد.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/americas/mexico-criminal-complaints-immigration-deaths-usa.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 10 Jul 2026 20:24:21 +0000",
+      "time": "۲۳:۵۴ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T10:24:22.047Z"
+    },
+    {
+      "id": "nytimes_c83bcd1829",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "At Least 12 People Die in Southern Spain Wildfire",
+      "title_fa": "حداقل ۱۲ نفر در آتش‌سوزی جنگلی جنوب اسپانیا جان باختند",
+      "lead": "آتش‌سوزی در منطقه آندلس، یکی از مرگبارترین آتش‌سوزی‌های ثبت شده در این کشور، تاکنون حداقل ۱۲ کشته و بیش از ۲۰ نفر ناپدید بر جای گذاشته است. مقامات اسپانیایی اعلام کردند که بسیاری از قربانیان گردشگران خارجی بوده‌اند.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 18:45:03 +0000",
+      "time": "۲۲:۱۵ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T10:24:22.047Z"
+    },
+    {
+      "id": "nytimes_914fc5e022",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Fighting Fires With Figures, These Experts Are Trying to Stop Europe From Burning",
+      "title_fa": "مبارزه با آتش‌سوزی‌ها با ارقام؛ کارشناسان تلاش می‌کنند اروپا را از سوختن نجات دهند",
+      "lead": "تیمی از مهندسان، جنگلبانان و دانشمندان از یک پارک علمی بزرگ در ایتالیا در حال کمک به قاره اروپا برای آمادگی در برابر آتش‌سوزی‌های جنگلی هستند. ابزارهای آنها شامل ماهواره‌ها، مدل‌های آب و هوایی و تحلیل‌های تخصصی است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/fire-climate-change-heat-wave-global-warming.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 13:08:42 +0000",
+      "time": "۱۶:۳۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T10:24:22.047Z"
     }
   ]
 }
