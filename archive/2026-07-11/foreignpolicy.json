@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "foreignpolicy",
-  "total": 1,
+  "total": 7,
   "articles": [
     {
       "id": "foreignpolicy_f01b5fc904",
@@ -26,6 +26,150 @@
       "pubDate": "Fri, 10 Jul 2026 10:29:42 +0000",
       "time": "۱۳:۵۹ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T01:19:50.195Z"
+    },
+    {
+      "id": "foreignpolicy_a28665b931",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "U.S., Iran Return to the Brink of All-Out War",
+      "title_fa": "آمریکا و ایران در آستانه جنگ تمام عیار قرار گرفتند",
+      "lead": "با تشدید حملات از سوی هر دو طرف، مذاکرات صلح آینده نامشخص به نظر می‌رسد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/09/us-iran-war-strikes-intensify-cease-fire-over-trump-strait-hormuz/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 21:10:18 +0000",
+      "time": "۰۰:۴۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
+    },
+    {
+      "id": "foreignpolicy_cc5470d755",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Is the U.S.-Iran Cease-Fire Over?",
+      "title_fa": "آیا آتش‌بس آمریکا و ایران پایان یافته است؟",
+      "lead": "با از سرگیری حملات، ترامپ مذاکرات صلح ادامه یافته را «هدر دادن وقت» خواند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/08/us-iran-cease-fire-over-trump-nato-summit-strikes-strait-hormuz/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 08 Jul 2026 20:59:58 +0000",
+      "time": "۰۰:۲۹ - ۱۸ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
+    },
+    {
+      "id": "foreignpolicy_96a4e93e45",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "What the World Cup Meant to Mexico",
+      "title_fa": "جام جهانی برای مکزیک چه معنایی داشت؟",
+      "lead": "این کشور میزبانی مسابقات جام جهانی را به پایان رسانده است. اما مردم آن «شادی جمعی» ناشی از این رویداد را به یاد خواهند داشت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/10/mexico-world-cup-legacy-host-quinones-jimenez-sheinbaum/",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 12:00:53 +0000",
+      "time": "۱۵:۳۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
+    },
+    {
+      "id": "foreignpolicy_5ebe81dba7",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "NATO’s Waiting Game",
+      "title_fa": "بازی انتظار ناتو",
+      "lead": "ناتو در حال حاضر در یک دوره انتظار به سر می‌برد و به دنبال تغییرات در رهبری و سیاست‌های احتمالی است. این وضعیت با سوالاتی در مورد نقش کمتر ترامپ و افزایش نفوذ اروپا در آینده ناتو همراه است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/09/nato-summit-ankara-trump-europe-rutte-erdogan/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 09 Jul 2026 21:24:23 +0000",
+      "time": "۰۰:۵۴ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
+    },
+    {
+      "id": "foreignpolicy_ab4905a73f",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Trump Hands NATO a Mixed Bag",
+      "title_fa": "ترامپ، ناتو را با نتایج متفاوتی روبرو کرد",
+      "lead": "اعضای ناتو خواهان نمایش یکپارچگی خود بودند. اما حضور ترامپ در نشست، این ائتلاف را با شرایطی پیچیده و نتایجی متفاوت روبرو کرد و بر یکدلی اعضا سایه افکند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/08/trump-nato-ankara-summit-iran-ukraine-greenland-spain/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Wed, 08 Jul 2026 22:06:40 +0000",
+      "time": "۰۱:۳۶ - ۱۸ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
+    },
+    {
+      "id": "foreignpolicy_65effe8282",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Propaganda Sustains Russians Fighting in Ukraine",
+      "title_fa": "پروپاگاندا روس‌ها را در نبرد اوکراین پایدار نگه می‌دارد",
+      "lead": "باور به روایت‌های کرملین، اوکراینی‌ها را از انسانیت ساقط کرده و اراده برای ادامه نبرد را پایدار نگه می‌دارد. این پروپاگاندا در طول جنگ اوکراین نقش مهمی در حفظ روحیه نیروهای روسی ایفا می‌کند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/08/propaganda-sustains-russians-fighting-in-ukraine/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 08 Jul 2026 19:39:46 +0000",
+      "time": "۲۳:۰۹ - ۱۷ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
     }
   ]
 }
