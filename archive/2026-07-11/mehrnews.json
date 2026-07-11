@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "mehrnews",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "mehrnews_d56a9ca40e",
@@ -98,6 +98,54 @@
       "pubDate": "Fri, 10 Jul 2026 11:45:27 GMT",
       "time": "۱۵:۱۵ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T01:19:50.195Z"
+    },
+    {
+      "id": "mehrnews_f45d424fe8",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran strongly condemns deadly terrorist attacks in Pakistan",
+      "title_fa": "ایران حملات تروریستی مرگبار در پاکستان را به شدت محکوم کرد",
+      "lead": "سخنگوی وزارت امور خارجه ایران حمله تروریستی مرگبار در شهر خضدار پاکستان را که به کشته شدن حداقل ۱۷ نفر و زخمی شدن ده‌ها نفر منجر شد، محکوم کرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246073/Iran-strongly-condemns-deadly-terrorist-attacks-in-Pakistan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 10 Jul 2026 12:48:57 GMT",
+      "time": "۱۶:۱۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
+    },
+    {
+      "id": "mehrnews_f94e35f37f",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran warns of retaliation for attacks on its infrastructures",
+      "title_fa": "ایران درباره حمله به زیرساخت‌هایش هشدار تلافی‌جویانه داد",
+      "lead": "دبیر شورای عالی امنیت ملی ایران هشدار داد که هرگونه حمله به زیرساخت‌های کشور با اقدام متقابل مواجه خواهد شد. او افزود رژیم صهیونیستی نیز به دلیل حمایت از چنین حمله‌ای با تلافی روبرو خواهد شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246072/Iran-warns-of-retaliation-for-attacks-on-its-infrastructures",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 10 Jul 2026 12:06:56 GMT",
+      "time": "۱۵:۳۶ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
     }
   ]
 }
