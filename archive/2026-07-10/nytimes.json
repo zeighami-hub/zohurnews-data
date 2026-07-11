@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 48,
+  "total": 49,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -1154,6 +1154,30 @@
       "pubDate": "Fri, 10 Jul 2026 19:43:26 +0000",
       "time": "۲۳:۱۳ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T20:15:08.319Z"
+    },
+    {
+      "id": "nytimes_874c40b6ec",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Mexico to File Criminal Complaints in U.S. Over Immigrant Deaths",
+      "title_fa": "مکزیک قصد دارد در آمریکا به دلیل مرگ مهاجران شکایت کیفری ثبت کند",
+      "lead": "رئیس‌جمهور مکزیک پس از آنکه یک مامور مهاجرت ایالات متحده این هفته لورنزو سالگادو آراوخو، شهروند مکزیکی را در تگزاس به ضرب گلوله کشت، قول داد که «فراتر از یادداشت‌های دیپلماتیک» عمل کند. مکزیک قصد دارد در آمریکا به دلیل این حادثه شکایت کیفری مطرح کند.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/americas/mexico-criminal-complaints-immigration-deaths-usa.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 10 Jul 2026 20:24:21 +0000",
+      "time": "۲۳:۵۴ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T21:57:39.233Z"
     }
   ]
 }
