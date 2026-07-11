@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "mehrnews",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "mehrnews_d56a9ca40e",
@@ -218,6 +218,54 @@
       "pubDate": "Fri, 10 Jul 2026 13:08:58 GMT",
       "time": "۱۶:۳۸ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T02:03:58.450Z"
+    },
+    {
+      "id": "mehrnews_7bca43b410",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Araghchi heads to Oman for talks on Strait of Hormuz",
+      "title_fa": "عراقچی برای گفتگو درباره تنگه هرمز عازم عمان شد",
+      "lead": "معاون وزیر امور خارجه ایران برای مشاوره‌های دوجانبه درباره تحولات منطقه‌ای عازم مسقط شده است. محور این گفتگوها، بررسی ترتیبات عبور و مرور ایمن دریایی از تنگه هرمز خواهد بود.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246078/Araghchi-heads-to-Oman-for-talks-on-Strait-of-Hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Sat, 11 Jul 2026 03:54:56 GMT",
+      "time": "۰۷:۲۴ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T04:04:49.095Z"
+    },
+    {
+      "id": "mehrnews_38d3db0b84",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Qatari mediators visit Iran to ease tensions",
+      "title_fa": "میانجیگران قطری برای کاهش تنش‌ها از ایران بازدید کردند",
+      "lead": "میانجیگران قطری با هماهنگی آمریکا به ایران سفر کرده و با مقامات ایرانی دیدار کردند. هدف این سفر، کاهش تنش‌ها و بازگشت به میز مذاکرات است.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://en.mehrnews.com/news/246077/Qatari-mediators-visit-Iran-to-ease-tensions",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "pubDate": "Sat, 11 Jul 2026 03:48:35 GMT",
+      "time": "۰۷:۱۸ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T04:04:49.095Z"
     }
   ]
 }
