@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "skynews",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "skynews_291a59a7d4",
@@ -218,6 +218,54 @@
       "pubDate": "Fri, 10 Jul 2026 12:05:00 +0100",
       "time": "۱۴:۳۵ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T13:06:25.016Z"
+    },
+    {
+      "id": "skynews_f465727795",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Europe's first total solar eclipse in almost 30 years: What you need to know",
+      "title_fa": "اولین خورشیدگرفتگی کامل اروپا در تقریباً ۳۰ سال اخیر: آنچه باید بدانید",
+      "lead": "بخش‌هایی از اروپا ماه آینده شاهد یک خورشیدگرفتگی کامل خواهند بود که اولین آن در تقریباً سه دهه اخیر است. در طول این رویداد نادر، روز برای مدت کوتاهی به شب تبدیل خواهد شد.",
+      "category": "science",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/europes-first-total-solar-eclipse-in-almost-30-years-what-you-need-to-know-13560160",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 14:30:00 +0100",
+      "time": "۱۷:۰۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T13:51:17.010Z"
+    },
+    {
+      "id": "skynews_13da6328d4",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Passenger 'partially sucked out of window' on Ryanair flight",
+      "title_fa": "مسافر یک پرواز رایان‌ایر «تا حدی از پنجره به بیرون کشیده شد»",
+      "lead": "یک پرواز رایان‌ایر پس از آنکه یک مسافر بنا به گزارش‌ها تا حدی از پنجره به بیرون کشیده شد، مجبور به فرود اضطراری شد. این حادثه منجر به فرود اضطراری و برنامه‌ریزی نشده هواپیما گردید.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/passenger-partially-sucked-out-of-window-on-ryanair-flight-13562267",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 10 Jul 2026 13:06:00 +0100",
+      "time": "۱۵:۳۶ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T13:51:17.010Z"
     }
   ]
 }
