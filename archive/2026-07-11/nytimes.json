@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -530,6 +530,30 @@
       "pubDate": "Fri, 10 Jul 2026 13:08:42 +0000",
       "time": "۱۶:۳۸ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T10:24:22.047Z"
+    },
+    {
+      "id": "nytimes_bd62401a0a",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran’s Top Diplomat in Oman for Talks on Strait of Hormuz",
+      "title_fa": "دیپلمات ارشد ایران برای مذاکرات تنگه هرمز در عمان",
+      "lead": "وزیر امور خارجه ایران روز شنبه وارد مسقط شد. این سفر برای مذاکرات درباره تنگه هرمز انجام می‌گیرد؛ جایی که تنش‌ها در هفته جاری به درگیری‌های شدیدی میان آمریکا و ایران منجر شد.",
+      "category": "diplomacy",
+      "region": "middle_east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Sat, 11 Jul 2026 10:49:53 +0000",
+      "time": "۱۴:۱۹ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T11:06:28.245Z"
     }
   ]
 }
