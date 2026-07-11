@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -170,6 +170,30 @@
       "pubDate": "Sat, 11 Jul 2026 04:01:08 +0000",
       "time": "۰۷:۳۱ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T04:04:49.095Z"
+    },
+    {
+      "id": "nytimes_67d75150fa",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Man Arrested on Suspicion of Murdering Ann Widdecombe, Former U.K. Politician",
+      "title_fa": "مردی به ظن قتل آن ویدکومب، سیاستمدار سابق بریتانیا، دستگیر شد",
+      "lead": "پلیس اعلام کرد مردی ۲۶ ساله بریتانیایی را در پی کشف جسد آن ویدکومب، قانون‌گذار ۷۸ ساله سابق، با جراحات شدید، دستگیر کرده است. جسد وی روز پنجشنبه پیدا شده بود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 21:23:19 +0000",
+      "time": "۰۰:۵۳ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T04:37:40.813Z"
     }
   ]
 }
