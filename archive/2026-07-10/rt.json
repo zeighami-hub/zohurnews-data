@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "rt",
-  "total": 32,
+  "total": 33,
   "articles": [
     {
       "id": "rt_d08ca382e0",
@@ -770,6 +770,30 @@
       "pubDate": "Fri, 10 Jul 2026 18:06:21 +0000",
       "time": "۲۱:۳۶ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T18:22:34.431Z"
+    },
+    {
+      "id": "rt_34f3a902d4",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Boeing passenger partially sucked out of ‘dislodged’ window mid-flight (VIDEO)",
+      "title_fa": "خروج جزئی مسافر بوئینگ از پنجره \"جدا شده\" در میانه پرواز (ویدئو)",
+      "lead": "یک پرواز رایان‌ایر دچار نقص پنجره در حین پرواز شد. گزارش‌ها حاکی از آن است که یک مسافر به طور جزئی از پنجره به بیرون کشیده شده است.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642876-boeing-plane-window-sucked/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 19:34:10 +0000",
+      "time": "۲۳:۰۴ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T21:57:39.233Z"
     }
   ]
 }
