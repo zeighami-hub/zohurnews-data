@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "aljazeera",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "aljazeera_725aa49709",
@@ -506,6 +506,30 @@
       "pubDate": "Sat, 11 Jul 2026 08:30:41 +0000",
       "time": "۱۲:۰۰ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T09:08:41.795Z"
+    },
+    {
+      "id": "aljazeera_ce05d5db1b",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
+      "title_fa": "تخلیه صدها هزار نفر با نزدیک شدن طوفان باوی به چین",
+      "lead": "صدها هزار نفر در پی نزدیک شدن طوفان باوی به سمت چین تخلیه شدند. هواشناسان می‌گویند که ابرطوفان باوی اگرچه ضعیف‌تر شده، اما همچنان خطرناک است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 09:32:57 +0000",
+      "time": "۱۳:۰۲ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T09:53:30.325Z"
     }
   ]
 }
