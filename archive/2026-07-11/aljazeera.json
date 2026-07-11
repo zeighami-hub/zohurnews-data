@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "aljazeera",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "aljazeera_725aa49709",
@@ -98,6 +98,30 @@
       "pubDate": "Sat, 11 Jul 2026 00:41:51 +0000",
       "time": "۰۴:۱۱ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T01:19:50.195Z"
+    },
+    {
+      "id": "aljazeera_d28af43416",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
+      "title_fa": "شهردار زاپروژیا می‌گوید پیشروی روسیه به حومه شهر رسیده است",
+      "lead": "نیروهای امدادی پس از حمله هوایی روسیه به شهر زاپروژیا در اوکراین، در حال جستجو برای یافتن بازماندگان هستند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 01:12:46 +0000",
+      "time": "۰۴:۴۲ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T01:49:53.705Z"
     }
   ]
 }
