@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "mehrnews",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "mehrnews_d56a9ca40e",
@@ -362,6 +362,30 @@
       "pubDate": "Sat, 11 Jul 2026 05:02:10 GMT",
       "time": "۰۸:۳۲ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T05:22:55.106Z"
+    },
+    {
+      "id": "mehrnews_3d213a673a",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Tehran rejects US talks request, slams MoU violations",
+      "title_fa": "تهران درخواست آمریکا برای مذاکره را رد کرد؛ نقض تفاهم‌نامه‌ها محکوم شد",
+      "lead": "ایران درخواست مذاکره با واشنگتن را رد کرد، اما حضور یک میانجی قطری در مشهد برای گفتگو درباره وضعیت آتش‌بس را تأیید کرد. این میانجی برای بررسی نقض تفاهم‌نامه‌ها نیز گفتگو کرده است.",
+      "category": "diplomacy",
+      "region": "middle east",
+      "sourceUrl": "https://en.mehrnews.com/news/246083/Tehran-rejects-US-talks-request-slams-MoU-violations",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 05:34:54 GMT",
+      "time": "۰۹:۰۴ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T05:52:25.180Z"
     }
   ]
 }
