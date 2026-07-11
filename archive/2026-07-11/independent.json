@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "independent",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "independent_13c550fe9d",
@@ -146,6 +146,30 @@
       "pubDate": "Sat, 11 Jul 2026 01:54:55 GMT",
       "time": "۰۵:۲۴ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T02:03:58.450Z"
+    },
+    {
+      "id": "independent_f2b284ea3f",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Patel cancels flight to visit girlfriend for last-minute White House meeting as frustrations mount: report",
+      "title_fa": "گزارش‌ها: پاتل پرواز خود را برای دیدار با دوست‌دخترش به دلیل جلسه اضطراری در کاخ سفید لغو کرد؛ نارضایتی‌ها در حال افزایش است",
+      "lead": "بر اساس گزارش‌ها، مدیر اف‌بی‌آی در حال پرواز به شیکاگو برای دیدار با دوست‌دخترش بود که برای جلسه‌ای به کاخ سفید فراخوانده شد. این اتفاق در حالی رخ می‌دهد که نارضایتی‌ها در مورد او در حال افزایش است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/kash-patel-cancel-flight-girlfriend-white-house-fbi-b3013014.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sat, 11 Jul 2026 02:27:08 GMT",
+      "time": "۰۵:۵۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T02:33:47.215Z"
     }
   ]
 }
