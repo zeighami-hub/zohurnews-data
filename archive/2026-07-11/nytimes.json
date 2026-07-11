@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -338,6 +338,78 @@
       "pubDate": "Sat, 11 Jul 2026 09:00:17 +0000",
       "time": "۱۲:۳۰ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T09:08:41.795Z"
+    },
+    {
+      "id": "nytimes_1fc51a39c1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "England and Norway, Old Friends, Resurrect a Rivalry for the World Cup",
+      "title_fa": "انگلیس و نروژ، دوستان قدیمی، رقابتی را برای جام جهانی احیا می‌کنند",
+      "lead": "علاوه بر روابط تاریخی و دیپلماتیک، تیم‌های باشگاهی فوتبال انگلیس در نروژ طرفداران وفاداری دارند. روز شنبه، با رویارویی دو کشور در جام جهانی، هواداران باید یک تیم را انتخاب کنند.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Sat, 11 Jul 2026 09:02:19 +0000",
+      "time": "۱۲:۳۲ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T09:40:44.360Z"
+    },
+    {
+      "id": "nytimes_f9be826580",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Hot Weather Sets Off Scramble for Outdoor Swimming in London",
+      "title_fa": "هوای گرم، هجوم برای شنا در فضای باز را در لندن به راه انداخته است",
+      "lead": "در شهری که همواره گرم‌تر می‌شود، رقابت برای استفاده از استخرها شدید است. برخی شناگران به برکه‌ها و کانال‌ها روی آورده‌اند که مشکلات خاص خود را دارند.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/europe/london-outdoor-swimming-heat-wave-uk.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "pubDate": "Sat, 11 Jul 2026 09:01:32 +0000",
+      "time": "۱۲:۳۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T09:40:44.360Z"
+    },
+    {
+      "id": "nytimes_d1f791dd7e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Cuts Habitat Protections for Endangered Species",
+      "title_fa": "ترامپ حفاظت از زیستگاه گونه‌های در حال انقراض را کاهش می‌دهد",
+      "lead": "این تغییر قانون به یک سازوکار حفاظتی که به مدت ۵۰ سال وجود داشت، پایان می‌دهد. این اقدام می‌تواند زوال حیوانات در معرض خطر را تسریع کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 10 Jul 2026 21:24:08 +0000",
+      "time": "۰۰:۵۴ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T09:40:44.360Z"
     }
   ]
 }
