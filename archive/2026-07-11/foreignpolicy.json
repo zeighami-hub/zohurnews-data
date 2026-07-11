@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "foreignpolicy",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "foreignpolicy_f01b5fc904",
@@ -290,6 +290,54 @@
       "pubDate": "Fri, 10 Jul 2026 04:01:06 +0000",
       "time": "۰۷:۳۱ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T06:09:32.681Z"
+    },
+    {
+      "id": "foreignpolicy_19f8fd2507",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "How Ukraine Figured Out Trump World",
+      "title_fa": "اوکراین چگونه دنیای ترامپ را درک کرد؟",
+      "lead": "دیمیتری کوله‌با، وزیر امور خارجه سابق اوکراین، درباره تغییر ظاهری لحن کاخ سفید نسبت به کی‌یف صحبت کرده است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/10/dmytro-kuleba-ukraine-russia-war-victory-nato-patriot-missile/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 17:48:02 +0000",
+      "time": "۲۱:۱۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T06:38:51.662Z"
+    },
+    {
+      "id": "foreignpolicy_8dfa2f53f5",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "What in the World?",
+      "title_fa": "چه خبر در جهان؟",
+      "lead": "این یک آزمون خبری درباره رویدادهای هفته چهارم جولای است. شامل آزمایش موشکی چین، آغاز محاکمه استیضاح در فیلیپین، و میزبانی ترکیه از نشست سران ناتو می‌شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/10/news-quiz-china-missile-test-fire-philippines-impeachment-nato-leaders-summit/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 17:38:55 +0000",
+      "time": "۲۱:۰۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T06:38:51.662Z"
     }
   ]
 }
