@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "guardian",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "guardian_0709b3986d",
@@ -722,6 +722,50 @@
       "pubDate": "Fri, 10 Jul 2026 15:00:23 GMT",
       "time": "۱۸:۳۰ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T16:16:08.353Z"
+    },
+    {
+      "id": "guardian_8",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Why pay a premium fee for a service that isn’t? How the nationwide outage could hurt Telstra",
+      "title_fa": "چرا باید هزینه گزافی برای سرویسی که ارائه نمی‌شود پرداخت؟ چگونه قطعی سراسری می‌تواند به تلسترا آسیب برساند",
+      "lead": "شرکت مخابراتی تلسترا مدت‌ها به شهرت خود در داشتن پایدارترین و گسترده‌ترین پوشش تلفن همراه تکیه کرده بود. اکنون این شهرت به شدت خدشه‌دار شده است و یک قطعی سراسری می‌تواند به این شرکت آسیب جدی برساند.",
+      "category": "economy",
+      "region": "oceania",
+      "sourceUrl": "https://www.guardian.com/business/2026/jul/11/why-pay-a-premium-fee-for-a-service-that-isnt-how-the-nationwide-outage-could-hurt-telstra",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-10T16:56:41.810Z"
+    },
+    {
+      "id": "guardian_12",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
+      "title_fa": "«این‌گونه زندگی کردن عذاب‌آور است»: کوبا سومین قطعی برق سراسری را در شش ماه متحمل شد",
+      "lead": "کوبا روز دوشنبه سومین قطعی برق سراسری خود را از ابتدای سال جاری تجربه کرد، به گفته شرکت برق دولتی. این جزیره فقیر پیش از اعمال تحریم‌های آمریکا در ژانویه، نیز برای تأمین برق خود با مشکلاتی مواجه بود.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.guardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-10T16:56:41.810Z"
     }
   ]
 }
