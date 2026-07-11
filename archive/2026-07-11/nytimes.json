@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -74,6 +74,54 @@
       "pubDate": "Fri, 10 Jul 2026 09:01:59 +0000",
       "time": "۱۲:۳۱ - ۱۹ تیر",
       "analyzed_at": "2026-07-11T00:19:46.563Z"
+    },
+    {
+      "id": "nytimes_433650a537",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Tried to Block Canada’s New Bridge to Detroit. It’s Opening Anyway.",
+      "title_fa": "ترامپ تلاش کرد پل جدید کانادا به دیترویت را مسدود کند؛ این پل با این حال افتتاح می‌شود.",
+      "lead": "یک توافق به مسدود کردن ساخت پل جدید توسط دولت ترامپ پایان داد. این پل به کاهش تراکم در شلوغ‌ترین کریدور تجاری بین ایالات متحده و کانادا کمک خواهد کرد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 01:00:54 +0000",
+      "time": "۰۴:۳۰ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T01:19:50.195Z"
+    },
+    {
+      "id": "nytimes_c4ba2c376f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Greece Arrests 3 in Connection With Bombings Targeting Governing Party",
+      "title_fa": "یونان سه نفر را در ارتباط با بمب‌گذاری‌های هدف قرار دادن حزب حاکم دستگیر کرد",
+      "lead": "یونان سه نفر را در ارتباط با بمب‌گذاری‌هایی که حزب حاکم را هدف قرار داده بودند، دستگیر کرد. این حملات منجر به کشته شدن یک نفر و زخمی شدن تعدادی دیگر شد، و مقامات یونانی اعلام کردند که تحقیقات ادامه خواهد یافت.",
+      "category": "terrorism",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/greece-bombing-arrests.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 10 Jul 2026 11:26:02 +0000",
+      "time": "۱۴:۵۶ - ۱۹ تیر",
+      "analyzed_at": "2026-07-11T01:19:50.195Z"
     }
   ]
 }
