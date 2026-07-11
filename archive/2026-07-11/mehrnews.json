@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "mehrnews",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "mehrnews_d56a9ca40e",
@@ -290,6 +290,54 @@
       "pubDate": "Sat, 11 Jul 2026 04:07:01 GMT",
       "time": "۰۷:۳۷ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T04:20:07.757Z"
+    },
+    {
+      "id": "mehrnews_edb19b60b4",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran envoy slams UNSC for holding western-backed meeting",
+      "title_fa": "نماینده ایران شورای امنیت را به دلیل برگزاری نشست تحت حمایت غرب محکوم کرد",
+      "lead": "امیرسعید ایروانی، سفیر و نماینده دائم ایران در سازمان ملل، به نشست روز جمعه شورای امنیت سازمان ملل درباره قطعنامه ۲۲۳۱ اعتراض کرد. او همچنین شورای امنیت را به دلیل ناکارآمدی مورد انتقاد قرار داد.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246080/Iran-envoy-slams-UNSC-for-holding-western-backed-meeting",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 04:47:46 GMT",
+      "time": "۰۸:۱۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T05:06:32.378Z"
+    },
+    {
+      "id": "mehrnews_da33251efd",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US team arrives in Lebanon to support ceasefire with Israel",
+      "title_fa": "ورود تیم آمریکایی به لبنان برای حمایت از آتش‌بس با اسرائیل",
+      "lead": "ایالات متحده یک هیئت نظامی به لبنان فرستاده است. این هیئت برای کمک به اجرای یک توافق چارچوب که با هدف پایان دادن به درگیری‌ها بین رژیم اسرائیل و حزب‌الله است، وارد این کشور شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246081/US-team-arrives-in-Lebanon-to-support-ceasefire-with-Israel",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 04:56:41 GMT",
+      "time": "۰۸:۲۶ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T05:06:32.378Z"
     }
   ]
 }
