@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "mehrnews",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "mehrnews_d56a9ca40e",
@@ -266,6 +266,30 @@
       "pubDate": "Sat, 11 Jul 2026 03:48:35 GMT",
       "time": "۰۷:۱۸ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T04:04:49.095Z"
+    },
+    {
+      "id": "mehrnews_e2fe9de0ba",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iranian president warns against regional sabotage",
+      "title_fa": "رئیس‌جمهور ایران درباره خرابکاری منطقه‌ای هشدار داد",
+      "lead": "مسعود پزشکیان، رئیس‌جمهور ایران، هشدار داد که برخی بازیگران به طور فعال در تلاش برای بی‌ثبات کردن منطقه غرب آسیا هستند. وی تاکید کرد که چنین اقداماتی می‌تواند امنیت و آرامش منطقه را به خطر اندازد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246079/Iranian-president-warns-against-regional-sabotage",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 04:07:01 GMT",
+      "time": "۰۷:۳۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T04:20:07.757Z"
     }
   ]
 }
