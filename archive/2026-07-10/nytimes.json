@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "nytimes",
-  "total": 43,
+  "total": 45,
   "articles": [
     {
       "id": "nytimes_a8495f2ec1",
@@ -1034,6 +1034,54 @@
       "pubDate": "Fri, 10 Jul 2026 15:39:17 +0000",
       "time": "۱۹:۰۹ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T16:16:08.353Z"
+    },
+    {
+      "id": "nytimes_3ce144cd00",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Museum Spreads 800 Pounds of Peanut Butter in Tribute to Dutch Artist",
+      "title_fa": "موزه‌ای ۸۰۰ پوند کره بادام زمینی را به افتخار هنرمند هلندی روی زمین پهن کرد",
+      "lead": "یک موزه در روتردام، به منظور ادای احترام به هنرمند هلندی ویم تی. شیپرز، ۸۰۰ پوند کره بادام زمینی را روی زمین پهن کرده است. این چیدمان شامل یک شش‌ضلعی به مساحت ۲۷۰ فوت مربع است که در کف موزه قرار گرفته است.",
+      "category": "art",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/arts/dutch-museum-peanut-butter-floor-art-wim-schippers.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 16:38:15 +0000",
+      "time": "۲۰:۰۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T16:56:41.810Z"
+    },
+    {
+      "id": "nytimes_145fe6a5f7",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ghanaian Influencer Is Extradited Over Romance Scam Targeting Older Americans",
+      "title_fa": "اینفلوئنسر غنایی به اتهام کلاهبرداری عشقی از سالمندان آمریکایی مسترد شد",
+      "lead": "فردریک کومی، اینفلوئنسر غنایی، به اتهام کلاهبرداری عشقی از شهروندان مسن آمریکایی مسترد شد. دادستان‌ها او را به راه‌اندازی طرحی متهم کرده‌اند که طی آن ۸ میلیون دلار از آمریکایی‌ها کلاهبرداری شده است و وکیل او اعلام کرد که وی روز پنجشنبه به ایالات متحده منتقل شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/us/ghana-romance-scam-us-extradition-abu-trica.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 16:01:33 +0000",
+      "time": "۱۹:۳۱ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T16:56:41.810Z"
     }
   ]
 }
