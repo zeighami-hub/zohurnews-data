@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "agencyId": "france24",
-  "total": 50,
+  "total": 51,
   "articles": [
     {
       "id": "france24_fcb4c4f778",
@@ -1202,6 +1202,30 @@
       "pubDate": "Fri, 10 Jul 2026 12:41:50 GMT",
       "time": "۱۶:۱۱ - ۱۹ تیر",
       "analyzed_at": "2026-07-10T13:51:17.010Z"
+    },
+    {
+      "id": "france24_34efb58a4a",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Israel warns US of alleged Iran plot to assassinate Trump",
+      "title_fa": "اسرائیل درباره طرح ادعایی ایران برای ترور ترامپ به آمریکا هشدار داد",
+      "lead": "اسرائیل به ایالات متحده درباره یک توطئه ادعایی ایران برای ترور دونالد ترامپ هشدار داده است. این هشدار تنش‌ها را پس از حملات جدید آمریکا به ایران افزایش داده و تردیدها را در مورد تلاش‌های آتش‌بس بیشتر می‌کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/israel-warns-us-of-alleged-iran-plot-to-assassinate-trump",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 13:57:50 GMT",
+      "time": "۱۷:۲۷ - ۱۹ تیر",
+      "analyzed_at": "2026-07-10T14:22:03.484Z"
     }
   ]
 }
