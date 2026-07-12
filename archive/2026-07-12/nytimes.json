@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -458,6 +458,126 @@
       "pubDate": "Sat, 11 Jul 2026 13:26:24 +0000",
       "time": "۱۶:۵۶ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T10:08:31.442Z"
+    },
+    {
+      "id": "nytimes_e7bb3ac53f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
+      "title_fa": "غیبت رهبر عالی ایران و خلأ در راس رژیم همچنان ادامه دارد",
+      "lead": "آیت‌الله مجتبی خامنه‌ای این هفته در مراسم تشییع پدرش حاضر نشد، که این موضوع گمانه‌زنی‌ها را درباره وضعیت جسمانی او و خلأ قدرت در کشوری متشتت دامن زده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Fri, 10 Jul 2026 16:00:30 +0000",
+      "time": "۱۹:۳۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-12T11:40:54.128Z"
+    },
+    {
+      "id": "nytimes_930a840c12",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.K. Police Make 2nd Arrest in Killing of Ex-Lawmaker",
+      "title_fa": "پلیس بریتانیا دومین نفر را در پرونده قتل نماینده سابق پارلمان بازداشت کرد",
+      "lead": "پلیس بریتانیا روز شنبه مردی ۲۶ ساله را در رابطه با مرگ «آن ویدمب»، نماینده سابق پارلمان، بازداشت کرد. این در حالی است که مرد دیگری که روز جمعه بازداشت شده بود، آزاد شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/europe/ann-widdecombe-arrest-uk.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 11:23:48 +0000",
+      "time": "۱۴:۵۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T11:40:54.128Z"
+    },
+    {
+      "id": "nytimes_ef31d0139d",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s a look at the heavy strikes in recent days.",
+      "title_fa": "نگاهی به حملات سنگین در روزهای اخیر",
+      "lead": "این گزارش نگاهی به حملات سنگینی دارد که در روزهای اخیر رخ داده‌اند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/us-and-iranian-strikes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 11:12:29 +0000",
+      "time": "۱۴:۴۲ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T11:40:54.128Z"
+    },
+    {
+      "id": "nytimes_1fc51a39c1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "England and Norway Resurrect a Rivalry for the World Cup",
+      "title_fa": "انگلستان و نروژ رقابتی را برای جام جهانی احیا می‌کنند",
+      "lead": "تیم‌های باشگاهی فوتبال انگلستان در نروژ هواداران وفاداری دارند. روز شنبه، هواداران باید یک طرف را انتخاب کنند و این در حالی است که هر دو کشور پیوندهای تاریخی و دیپلماتیک دارند.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 90,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 00:12:39 +0000",
+      "time": "۰۳:۴۲ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T11:40:54.128Z"
+    },
+    {
+      "id": "nytimes_429b5e31a1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Inside the Canadian Lab Burning Down Buildings to Save Them",
+      "title_fa": "داخل آزمایشگاه کانادایی که برای نجات ساختمان‌ها، آنها را می‌سوزاند",
+      "lead": "در تأسیسات ملی ایمنی آتش‌سوزی در اتاوا، دانشمندان و مهندسان به طور فزاینده‌ای بر تهدید ناشی از جنگل تمرکز کرده‌اند. آنها روش‌های جدیدی را برای مقاومت ساختمان‌ها در برابر آتش‌سوزی‌های جنگلی آزمایش می‌کنند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/canada/wildfires-prevention-testing-canada.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 90,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 10:00:04 +0000",
+      "time": "۱۳:۳۰ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T11:40:54.128Z"
     }
   ]
 }
