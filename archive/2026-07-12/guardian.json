@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "guardian",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "guardian_fe4f334a4f",
@@ -314,6 +314,30 @@
       "pubDate": "Thu, 09 Jul 2026 16:20:41 GMT",
       "time": "۱۹:۵۰ - ۱۸ تیر",
       "analyzed_at": "2026-07-12T07:54:42.180Z"
+    },
+    {
+      "id": "guardian_e0e96a7b8d",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "title_fa": "اولین بیماران در کارآزمایی رکوردشکن درمان ابولا در کنگو ثبت‌نام کردند",
+      "lead": "دو دارو در منطقه ایتوری در برنامه‌ای که تنها شش هفته پس از اعلام شیوع بیماری آغاز شد، در حال آزمایش هستند. امید می‌رود که این کارآزمایی نرخ مرگ و میر را کاهش دهد، زیرا در حال حاضر هیچ داروی تایید شده‌ای برای کمک به تیم‌های پزشکی در نجات جان بیماران ابولا وجود ندارد.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "pubDate": "Sun, 12 Jul 2026 08:00:12 GMT",
+      "time": "۱۱:۳۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T08:23:41.545Z"
     }
   ]
 }
