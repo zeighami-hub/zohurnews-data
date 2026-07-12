@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "aljazeera",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "aljazeera_e290f557b8",
@@ -506,6 +506,30 @@
       "pubDate": "Sun, 12 Jul 2026 07:19:25 +0000",
       "time": "۱۰:۴۹ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T07:54:42.180Z"
+    },
+    {
+      "id": "aljazeera_4d48f60a49",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US CENTCOM completes third round of strikes on Iran",
+      "title_fa": "فرماندهی مرکزی آمریکا (سنتکام) سومین دور حملات خود به ایران را تکمیل کرد",
+      "lead": "فرماندهی مرکزی آمریکا (سنتکام) اعلام کرد که سومین دور از حملات خود را در ایران تکمیل کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 07:58:48 +0000",
+      "time": "۱۱:۲۸ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T08:23:41.545Z"
     }
   ]
 }
