@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "aljazeera",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "aljazeera_e290f557b8",
@@ -434,6 +434,30 @@
       "pubDate": "Sun, 12 Jul 2026 06:08:46 +0000",
       "time": "۰۹:۳۸ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T06:53:41.016Z"
+    },
+    {
+      "id": "aljazeera_589a2ca9a7",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "IRGC vows ‘crushing response’ to any further US attacks",
+      "title_fa": "سپاه پاسداران در مورد حملات بیشتر آمریکا به \"پاسخ کوبنده\" تهدید کرد",
+      "lead": "سپاه پاسداران انقلاب اسلامی تهدید کرد که به هرگونه حمله بیشتر ایالات متحده \"پاسخ کوبنده‌ای\" خواهد داد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-vows-crushing-response-to-any-further-us-attacks?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 07:08:20 +0000",
+      "time": "۱۰:۳۸ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T07:39:42.818Z"
     }
   ]
 }
