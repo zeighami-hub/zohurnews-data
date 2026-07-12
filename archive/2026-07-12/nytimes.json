@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -290,6 +290,30 @@
       "pubDate": "Sun, 12 Jul 2026 07:17:40 +0000",
       "time": "۱۰:۴۷ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T07:39:42.818Z"
+    },
+    {
+      "id": "nytimes_df635c625e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
+      "title_fa": "شهروند آمریکایی در جمهوری دموکراتیک کنگو به ابولا مبتلا شد",
+      "lead": "این شهروند آمریکایی، که برای سازمان بشردوستانه \"ساماریتانز پرس\" کار می‌کند، دومین نفری است که در شیوع جاری و رو به گسترش ابولا به این بیماری مبتلا شده است.",
+      "category": "health",
+      "region": "africa",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 19:25:29 +0000",
+      "time": "۲۲:۵۵ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T07:54:42.180Z"
     }
   ]
 }
