@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "aljazeera",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "aljazeera_e290f557b8",
@@ -122,6 +122,30 @@
       "pubDate": "Sun, 12 Jul 2026 00:11:57 +0000",
       "time": "۰۳:۴۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T01:04:48.720Z"
+    },
+    {
+      "id": "aljazeera_876f69ed75",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Nigeria rescues dozens of abducted school children in Oyo state",
+      "title_fa": "نیجریه ده‌ها کودک مدرسه‌ای ربوده‌شده را در ایالت اویو نجات داد",
+      "lead": "نیروهای امنیتی نیجریه ۳۹ کودک مدرسه‌ای و پنج معلم را در ایالت اویو نجات دادند. این افراد نزدیک به دو ماه پیش ربوده شده بودند.",
+      "category": "crime",
+      "region": "africa",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 01:56:01 +0000",
+      "time": "۰۵:۲۶ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T02:19:37.335Z"
     }
   ]
 }
