@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "bbc",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "bbc_1130b60a0f",
@@ -218,6 +218,30 @@
       "pubDate": "Sat, 11 Jul 2026 13:11:52 GMT",
       "time": "۱۶:۴۱ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T01:33:58.089Z"
+    },
+    {
+      "id": "bbc_57ac54e438",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "At least two killed in Toronto street festival shooting",
+      "title_fa": "حداقل دو کشته در تیراندازی جشنواره خیابانی تورنتو",
+      "lead": "در پی تیراندازی در جشنواره خیابانی تورنتو، حداقل دو نفر کشته شدند. پلیس از مردم خواسته است که از محل حادثه دوری کنند.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 01:47:58 GMT",
+      "time": "۰۵:۱۷ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T02:04:38.281Z"
     }
   ]
 }
