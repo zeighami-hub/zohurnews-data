@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "france24",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "france24_7e2d9edf4d",
@@ -500,6 +500,54 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-12T07:54:42.180Z"
+    },
+    {
+      "id": "france24_eb74a84063",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Norway-England: Three Lions advance to semi-finals after Bellingham's extra-time double",
+      "title_fa": "نروژ-انگلیس: سه شیرها با دو گل بلینگام در وقت اضافه به نیمه‌نهایی صعود کردند",
+      "lead": "تیم ملی انگلستان روز شنبه با پیروزی ۲-۱ مقابل نروژ در وقت اضافه، به مرحله نیمه‌نهایی جام جهانی صعود کرد. دو گل جود بلینگام در این مسابقه که در میامی برگزار شد، تعیین‌کننده بود.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/sport/20260711-norway-england-live-haaland-s-vikings-seek-to-shock-the-three-lions",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 20:16:38 GMT",
+      "time": "۲۳:۴۶ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T09:09:14.544Z"
+    },
+    {
+      "id": "france24_ee3fb9384b",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "More than 1 million evacuated as Typhoon Bavi makes landfall in China",
+      "title_fa": "بیش از یک میلیون نفر در چین با فرود تندباد باوی تخلیه شدند",
+      "lead": "مقامات چینی تاکنون بیش از ۱.۷ میلیون نفر را در پی ورود تندباد باوی به استان شرقی ژجیانگ چین تخلیه کرده‌اند. همچنین صدها پرواز لغو و برخی خدمات قطارهای سریع‌السیر متوقف شده‌اند.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.france24.com/en/asia-pacific/20260711-more-than-1-million-evacuated-as-typhoon-bavi-makes-landfall-in-china",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 19:44:32 GMT",
+      "time": "۲۳:۱۴ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T09:09:14.544Z"
     }
   ]
 }
