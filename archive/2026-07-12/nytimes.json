@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -194,6 +194,54 @@
       "pubDate": "Sat, 11 Jul 2026 14:46:11 +0000",
       "time": "۱۸:۱۶ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T03:35:16.002Z"
+    },
+    {
+      "id": "nytimes_7d952d52f4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As India Erases Its Colonial Past, Delhi’s Elite Feel Targeted",
+      "title_fa": "همزمان با تلاش هند برای محو گذشته استعماری خود، نخبگان دهلی احساس هدف قرار گرفتن می‌کنند",
+      "lead": "دولت هند قصد دارد باشگاه \"جیمخانا دهلی\" را که نخست‌وزیر آن را نماد استعمار می‌خواند، تعطیل کند. برخی از اعضای این باشگاه به انگیزه‌های دیگری برای این اقدام مشکوک هستند.",
+      "category": "politics",
+      "region": "india",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/asia/india-gymkhana-club-eviction-colonialism.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Sun, 12 Jul 2026 04:01:13 +0000",
+      "time": "۰۷:۳۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T04:21:07.793Z"
+    },
+    {
+      "id": "nytimes_5dc926ae50",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "How Putin Turned Japan Into a Den of Spies",
+      "title_fa": "چگونه پوتین ژاپن را به لانه جاسوسی تبدیل کرد",
+      "lead": "یک واحد اطلاعات نظامی روسی از یک ساختمان بلند در توکیو برای تامین تجهیزات پیشرفته مورد نیاز جنگی روسیه استفاده می‌کند. این عملیات نشان می‌دهد چگونه ژاپن به مرکزی برای فعالیت‌های جاسوسی روسیه تبدیل شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sun, 12 Jul 2026 04:01:11 +0000",
+      "time": "۰۷:۳۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T04:21:07.793Z"
     }
   ]
 }
