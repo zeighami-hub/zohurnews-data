@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -74,6 +74,30 @@
       "pubDate": "Fri, 10 Jul 2026 09:01:59 +0000",
       "time": "۱۲:۳۱ - ۱۹ تیر",
       "analyzed_at": "2026-07-12T01:19:29.996Z"
+    },
+    {
+      "id": "nytimes_30e67c01a4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "15 Killed as Speedboat Capsizes in Vietnam",
+      "title_fa": "واژگونی قایق موتوری در ویتنام ۱۵ کشته برجای گذاشت",
+      "lead": "یک قایق موتوری حامل ۳۶ نفر در نزدیکی جزیره فو کووک در جنوب ویتنام واژگون شد. در این حادثه ۱۵ نفر جان باختند و باقی سرنشینان نجات یافتند.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 16:08:27 +0000",
+      "time": "۱۹:۳۸ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T01:33:58.089Z"
     }
   ]
 }
