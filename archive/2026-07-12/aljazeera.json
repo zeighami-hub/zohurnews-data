@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "aljazeera",
-  "total": 2,
+  "total": 5,
   "articles": [
     {
       "id": "aljazeera_e290f557b8",
@@ -50,6 +50,78 @@
       "pubDate": "Sat, 11 Jul 2026 23:31:23 +0000",
       "time": "۰۳:۰۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T00:19:26.581Z"
+    },
+    {
+      "id": "aljazeera_d773ed1c9e",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran war live: IRGC declares Strait of Hormuz closed over US interference",
+      "title_fa": "سپاه پاسداران تنگه هرمز را به دلیل دخالت آمریکا مسدود اعلام کرد",
+      "lead": "سپاه پاسداران انقلاب اسلامی تنگه هرمز را به دلیل آنچه \"دخالت آمریکا\" خوانده، مسدود اعلام کرده است. این اقدام در حالی صورت می‌گیرد که اسرائیل به حملات خود در غزه و لبنان ادامه می‌دهد و چندین غیرنظامی کشته و زخمی شده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 00:00:00 +0000",
+      "time": "۰۳:۳۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T01:04:48.720Z"
+    },
+    {
+      "id": "aljazeera_defc33f4c5",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+      "title_fa": "میانجی‌گران گفتگوهای آمریکا و ایران را در قطر و عمان برای جلوگیری از تشدید تنش‌ها پیش می‌برند",
+      "lead": "میانجی‌گران منطقه‌ای تلاش‌ها برای جلوگیری از تشدید بیشتر تنش‌ها بین ایران و ایالات متحده را افزایش داده‌اند. آنها در حال پیشبرد مذاکرات بین دو کشور در قطر و عمان هستند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 00:22:21 +0000",
+      "time": "۰۳:۵۲ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T01:04:48.720Z"
+    },
+    {
+      "id": "aljazeera_1bdf37f4e5",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis",
+      "title_fa": "با دو گل بلینگام، انگلیس با نتیجه ۲-۱ نروژ را شکست داد و به نیمه‌نهایی جام جهانی صعود کرد.",
+      "lead": "جود بلینگام دو گل به ثمر رساند و انگلیس با شکست ۲-۱ نروژ، به نیمه‌نهایی جام جهانی راه یافت. این اولین باری است که انگلیس از سال ۲۰۱۸ به مرحله نیمه‌نهایی جام جهانی صعود می‌کند.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 00:11:57 +0000",
+      "time": "۰۳:۴۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T01:04:48.720Z"
     }
   ]
 }
