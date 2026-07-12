@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "bbc",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "bbc_a5f050445b",
@@ -434,6 +434,30 @@
       "pubDate": "Sat, 11 Jul 2026 08:23:45 GMT",
       "time": "۱۱:۵۳ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T10:24:22.047Z"
+    },
+    {
+      "id": "bbc_31faa46d00",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "'We escaped Spanish wildfire, but our friends lost their lives'",
+      "title_fa": "«از آتش‌سوزی اسپانیا گریختیم، اما دوستانمان جان باختند»",
+      "lead": "صدها آتش‌نشان در جنوب اسپانیا در حال مبارزه با یک آتش‌سوزی مرگبار هستند. این آتش‌سوزی خسارات جانی به دنبال داشته و برخی از ساکنان با وجود فرار، دوستان خود را از دست داده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 11 Jul 2026 11:45:55 GMT",
+      "time": "۱۵:۱۵ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T11:56:43.590Z"
     }
   ]
 }
