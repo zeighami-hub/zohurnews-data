@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "bbc",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "bbc_1130b60a0f",
@@ -242,6 +242,30 @@
       "pubDate": "Sun, 12 Jul 2026 01:47:58 GMT",
       "time": "۰۵:۱۷ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T02:04:38.281Z"
+    },
+    {
+      "id": "bbc_0a622d2e99",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "South Africa World Cup midfielder Adams dies aged 25",
+      "title_fa": "جیدن آدامز، هافبک تیم ملی آفریقای جنوبی در جام جهانی، در ۲۵ سالگی درگذشت",
+      "lead": "جیدن آدامز، هافبک تیم ملی آفریقای جنوبی و باشگاه ماملودی سانداونز، در سن ۲۵ سالگی درگذشت. او تنها چند هفته پس از حضور در جام جهانی برای کشورش، فوت کرده است.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 14:47:47 GMT",
+      "time": "۱۸:۱۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T03:35:16.002Z"
     }
   ]
 }
