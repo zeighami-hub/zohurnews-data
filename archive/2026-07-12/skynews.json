@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "skynews",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "skynews_83c8b54b91",
@@ -146,6 +146,54 @@
       "pubDate": "Sun, 12 Jul 2026 00:01:00 +0100",
       "time": "۰۲:۳۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T06:38:40.652Z"
+    },
+    {
+      "id": "skynews_edf46ac4d9",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "More than 4,300 confirmed dead in Venezuela earthquakes",
+      "title_fa": "بیش از ۴۳۰۰ کشته در زلزله‌های ونزوئلا تأیید شد",
+      "lead": "تعداد قربانیان تایید شده زلزله‌های ویرانگر و پی در پی ماه گذشته در ونزوئلا به بیش از ۴۳۰۰ نفر افزایش یافته است.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/more-than-4300-confirmed-dead-in-venezuela-earthquakes-13562615",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 18:51:00 +0100",
+      "time": "۲۱:۲۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T07:54:42.180Z"
+    },
+    {
+      "id": "skynews_b6f610e4bf",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "US congressman 'detained by armed Israeli settlers' in West Bank",
+      "title_fa": "نماینده کنگره آمریکا در کرانه باختری توسط \"شهرک‌نشینان مسلح اسرائیلی\" بازداشت شد",
+      "lead": "یک سیاستمدار آمریکایی اعلام کرد که در جریان بازدید از کرانه باختری، توسط شهرک‌نشینان مسلح اسرائیلی بازداشت شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/us-congressman-ro-khanna-detained-by-armed-israeli-settlers-in-west-bank-13562598",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 17:49:00 +0100",
+      "time": "۲۰:۱۹ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T07:54:42.180Z"
     }
   ]
 }
