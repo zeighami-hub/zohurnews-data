@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -98,6 +98,54 @@
       "pubDate": "Sat, 11 Jul 2026 16:08:27 +0000",
       "time": "۱۹:۳۸ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T01:33:58.089Z"
+    },
+    {
+      "id": "nytimes_7d198940cf",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Toronto Police Search For Active Shooter After 2 Killed at Street Festival",
+      "title_fa": "پلیس تورنتو در جستجوی تیرانداز فعال پس از کشته شدن ۲ نفر در جشنواره خیابانی",
+      "lead": "پلیس تورنتو پس از تیراندازی در یک جشنواره خیابانی که منجر به کشته شدن دو نفر شد، در جستجوی تیرانداز فعال است. این حادثه یک جشن آخر هفته لاتین را که صدها نفر شنبه شب در آن جمع شده بودند، مختل کرد.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/canada/toronto-shooting-salsa-festival-canada.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 01:52:55 +0000",
+      "time": "۰۵:۲۲ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T02:04:38.281Z"
+    },
+    {
+      "id": "nytimes_ff38d1eaf9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s a look at the heavy strikes in recent days.",
+      "title_fa": "نگاهی به حملات سنگین روزهای اخیر",
+      "lead": "این خبر به بررسی حملات سنگین نظامی صورت گرفته در روزهای اخیر می‌پردازد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump/heres-a-look-at-the-heavy-strikes-in-recent-days",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 01:44:26 +0000",
+      "time": "۰۵:۱۴ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T02:04:38.281Z"
     }
   ]
 }
