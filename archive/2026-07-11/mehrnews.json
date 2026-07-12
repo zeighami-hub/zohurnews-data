@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "mehrnews",
-  "total": 29,
+  "total": 30,
   "articles": [
     {
       "id": "mehrnews_d56a9ca40e",
@@ -698,6 +698,28 @@
       "pubDate": "Sat, 11 Jul 2026 11:20:58 GMT",
       "time": "۱۴:۵۰ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T11:56:43.590Z"
+    },
+    {
+      "id": "mehrnews_8",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Trump accused of trying to rig election after firing official",
+      "title_fa": "ترامپ به تلاش برای دستکاری انتخابات پس از اخراج مقام متهم شد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، پس از اخراج سه عضو باقیمانده از یک کمیسیون مستقل فدرال، متهم شده است. او به تلاش برای «دستکاری» انتخابات میان‌دوره‌ای آتی آمریکا متهم شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246097/Trump-ac***sed-of-trying-to-rig-election-after-firing-official",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-11T12:10:37.528Z"
     }
   ]
 }
