@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -554,6 +554,30 @@
       "pubDate": "Sat, 11 Jul 2026 10:49:53 +0000",
       "time": "۱۴:۱۹ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T11:06:28.245Z"
+    },
+    {
+      "id": "nytimes_89c0b6e448",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ten Killed in Plane Crash on the Bahamas’ Largest Island",
+      "title_fa": "ده کشته در سقوط هواپیما در بزرگترین جزیره باهاما",
+      "lead": "در سقوط یک هواپیما در بزرگترین جزیره باهاما، ده نفر جان خود را از دست دادند. این حادثه در حالی رخ داد که این کشور استقلال خود را از بریتانیا جشن می‌گرفت.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/americas/bahamas-plane-crash-deaths.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 23:21:53 +0000",
+      "time": "۰۲:۵۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T12:10:37.528Z"
     }
   ]
 }
