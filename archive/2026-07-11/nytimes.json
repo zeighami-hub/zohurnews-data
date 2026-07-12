@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 27,
+  "total": 28,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -650,6 +650,30 @@
       "pubDate": "Sat, 11 Jul 2026 16:17:44 +0000",
       "time": "۱۹:۴۷ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T17:01:53.344Z"
+    },
+    {
+      "id": "nytimes_ece3728e6d",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
+      "title_fa": "ویدئوها تعقیب و گریز قبل از قتل توسط ICE در هیوستون را روشن می‌کنند",
+      "lead": "تصاویر نظارتی به دست آمده توسط نیویورک تایمز نشان می‌دهد که ماموران ICE به طور تهاجمی با خودروهای بدون علامت رانندگی می‌کردند. با این حال، لحظه تیراندازی مرگبار به لورنزو سالگادو آراوخو همچنان نامشخص است.",
+      "category": "crime",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 17:46:49 +0000",
+      "time": "۲۱:۱۶ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T19:02:36.917Z"
     }
   ]
 }
