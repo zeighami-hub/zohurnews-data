@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "guardian",
-  "total": 7,
+  "total": 11,
   "articles": [
     {
       "id": "guardian_fe4f334a4f",
@@ -170,6 +170,102 @@
       "pubDate": "Wed, 08 Jul 2026 14:01:35 GMT",
       "time": "۱۷:۳۱ - ۱۷ تیر",
       "analyzed_at": "2026-07-12T05:23:00.606Z"
+    },
+    {
+      "id": "guardian_89f30bac42",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
+      "title_fa": "کشتی کروز ال‌جی‌بی‌تی‌کیو+ پس از ترکیه، از ورود به مصر نیز منع شد",
+      "lead": "یک کشتی کروز حامل مسافران ال‌جی‌بی‌تی‌کیو+ که هفته گذشته از ورود به آب‌های ترکیه منع شده بود، این بار اجازه ورود به مصر را نیز پیدا نکرد. ۲,۰۰۰ مسافر این کشتی مطلع شدند که برنامه سفرشان تغییر کرده است.",
+      "category": "politics",
+      "region": "middle-east",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 09 Jul 2026 12:59:24 GMT",
+      "time": "۱۶:۲۹ - ۱۸ تیر",
+      "analyzed_at": "2026-07-12T07:23:39.774Z"
+    },
+    {
+      "id": "guardian_f71e416a4c",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘A lot of red flags’: plans for New Zealand’s first datacentre spark concern as locals demand greater transparency",
+      "title_fa": "«هشدارهای فراوان»: برنامه‌های اولین مرکز داده نیوزلند نگرانی‌هایی را برانگیخته و ساکنان خواستار شفافیت بیشتر هستند",
+      "lead": "برنامه‌های ساخت یک مرکز داده به ارزش ۳.۵ میلیارد دلار نیوزلند در ماکاروا، نگرانی‌هایی را در مورد مصرف برق و آب و آلودگی صوتی ایجاد کرده است. ساکنان نزدیک محل احداث اولین مرکز داده هوش مصنوعی برنامه‌ریزی‌شده نیوزلند، خواستار شفافیت بیشتر هستند.",
+      "category": "technology",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/10/new-zealand-first-datacentre-concern-locals-makarewa-invercargill-datagrid",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Fri, 10 Jul 2026 00:40:26 GMT",
+      "time": "۰۴:۱۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-12T07:23:39.774Z"
+    },
+    {
+      "id": "guardian_733358b8e9",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
+      "title_fa": "استراتژی‌های بقای هوشمندانه گونه‌ها در برابر تخریب انسانی بی‌اثر است، لیست قرمز نشان می‌دهد",
+      "lead": "لیست قرمز جدید نشان می‌دهد که استراتژی‌های بقای هوشمندانه گونه‌ها دیگر در برابر تخریب انسانی کافی نیست. حیوانات تازه‌ای از جمله قورباغه‌های بیابانی و حلزون‌های اعماق اقیانوس، که هر دو توسط معدن‌کاری تهدید می‌شوند، در لیست گونه‌های در معرض خطر قرار گرفته‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 09 Jul 2026 12:20:09 GMT",
+      "time": "۱۵:۵۰ - ۱۸ تیر",
+      "analyzed_at": "2026-07-12T07:23:39.774Z"
+    },
+    {
+      "id": "guardian_406624e02e",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Software glitch’ blamed for mass outage – as it happened",
+      "title_fa": "«ایراد نرم‌افزاری» دلیل قطعی گسترده اعلام شد",
+      "lead": "یک قطعی گسترده به دلیل «ایراد نرم‌افزاری» رخ داده است. شرکت مخابراتی Telstra به دلیل مشکل عمده در زمان‌سنجی که بر تلفن‌های همراه، قطارها و تماس‌های اضطراری تأثیر گذاشته بود، عذرخواهی کرده است.",
+      "category": "technology",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 08 Jul 2026 08:35:29 GMT",
+      "time": "۱۲:۰۵ - ۱۷ تیر",
+      "analyzed_at": "2026-07-12T07:23:39.774Z"
     }
   ]
 }
