@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "rt",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "rt_4a33e3d7a4",
@@ -530,6 +530,54 @@
       "pubDate": "Sat, 11 Jul 2026 10:48:18 +0000",
       "time": "۱۴:۱۸ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T11:06:28.245Z"
+    },
+    {
+      "id": "rt_415fb4fd73",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "A sea of mourners buried the myth of a weak Iran",
+      "title_fa": "اقیانوسی از عزاداران، افسانه ایران ضعیف را دفن کردند",
+      "lead": "میلیون‌ها عزادار علی خامنه‌ای، پیش‌بینی‌ها درباره فروپاشی را به چالش کشیدند. این حضور گسترده دوام نظم سیاسی‌ای را که او شکل داده بود، به نمایش گذاشت.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/642889-sea-of-mourners-ali-khamenei/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 16:03:46 +0000",
+      "time": "۱۹:۳۳ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T17:01:53.344Z"
+    },
+    {
+      "id": "rt_81323bcc0c",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Murder probe launched into death of Reform UK spokeswoman",
+      "title_fa": "تحقیقات قتل در مورد مرگ سخنگوی حزب \"ریفورم یو‌کی\" آغاز شد",
+      "lead": "پلیس بریتانیا تحقیقاتی را در مورد مرگ آن ویدیکامب، وزیر سابق و سخنگوی حزب ریفورم یو‌کی، با عنوان پرونده قتل آغاز کرده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642888-widdecombe-uk-reform-farage/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 13:44:37 +0000",
+      "time": "۱۷:۱۴ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T17:01:53.344Z"
     }
   ]
 }
