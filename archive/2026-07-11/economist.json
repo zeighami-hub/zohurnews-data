@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "economist",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "economist_376199c627",
@@ -482,6 +482,28 @@
       "pubDate": "Tue, 05 May 2026 21:04:24 +0000",
       "time": "۰۰:۳۴ - ۱۶ اردیبهشت",
       "analyzed_at": "2026-07-11T05:22:55.106Z"
+    },
+    {
+      "id": "economist_2",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "If ludicrous Trump flattery can save NATO, bring it on",
+      "title_fa": "اگر چاپلوسی مسخره ترامپ می‌تواند ناتو را نجات دهد، بسم‌الله",
+      "lead": "رئیس ناتو، مارک روته، شخصیتی نسبتاً آزاردهنده است. این رویکرد به منظور یک هدف ارزشمند اتخاذ شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.theeconomist.com/international/2026/07/06/if-ludicrous-trump-flattery-can-save-nato-bring-it-on",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-07-11T19:02:36.917Z"
     }
   ]
 }
