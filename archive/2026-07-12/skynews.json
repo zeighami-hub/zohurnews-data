@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_83c8b54b91",
@@ -26,6 +26,30 @@
       "pubDate": "Sat, 11 Jul 2026 08:38:00 +0100",
       "time": "۱۱:۰۸ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T01:19:29.996Z"
+    },
+    {
+      "id": "skynews_204670551b",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Two dead and four injured in shooting at Toronto festival, police say",
+      "title_fa": "پلیس: دو کشته و چهار زخمی در تیراندازی جشنواره تورنتو",
+      "lead": "پلیس اعلام کرد که در پی تیراندازی در یک جشنواره خیابانی در تورنتو، دو نفر کشته و چهار نفر دیگر زخمی شده‌اند. این حادثه موجب نگرانی‌های امنیتی در رویدادهای عمومی شهر شده است.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/two-dead-and-four-injured-in-shooting-at-toronto-festival-police-say-13562675",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 02:41:00 +0100",
+      "time": "۰۵:۱۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T02:19:37.335Z"
     }
   ]
 }
