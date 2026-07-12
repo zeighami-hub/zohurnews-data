@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "aljazeera",
-  "total": 28,
+  "total": 29,
   "articles": [
     {
       "id": "aljazeera_725aa49709",
@@ -674,6 +674,30 @@
       "pubDate": "Sat, 11 Jul 2026 12:17:45 +0000",
       "time": "۱۵:۴۷ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T12:42:10.539Z"
+    },
+    {
+      "id": "aljazeera_93f50919db",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "What is going on in Yemen?",
+      "title_fa": "چه اتفاقی در یمن در حال رخ دادن است؟",
+      "lead": "تنش‌ها در میدان نبرد و عرصه سیاسی یمن رو به افزایش است. این گزارش این پرسش را مطرح می‌کند که آیا درگیری‌ها دوباره شعله‌ور خواهند شد یا خیر.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 11 Jul 2026 12:53:27 +0000",
+      "time": "۱۶:۲۳ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T13:06:12.951Z"
     }
   ]
 }
