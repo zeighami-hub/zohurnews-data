@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "mehrnews",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "mehrnews_195c4b3fbc",
@@ -314,6 +314,30 @@
       "pubDate": "Sat, 11 Jul 2026 16:34:32 GMT",
       "time": "۲۰:۰۴ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T05:23:00.606Z"
+    },
+    {
+      "id": "mehrnews_5db60a5775",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Israeli forces set off large blast in south Lebanon",
+      "title_fa": "نیروهای اسرائیلی انفجار بزرگی در جنوب لبنان انجام دادند",
+      "lead": "رسانه‌های لبنانی گزارش دادند که ارتش اسرائیل روز یکشنبه انفجار بزرگی را در شهر کفر تبنیت در جنوب لبنان انجام داده است. این اقدام توسط نیروهای اسرائیلی صورت گرفته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246117/Israeli-forces-set-off-large-blast-in-south-Lebanon",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 05:40:40 GMT",
+      "time": "۰۹:۱۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T05:52:58.926Z"
     }
   ]
 }
