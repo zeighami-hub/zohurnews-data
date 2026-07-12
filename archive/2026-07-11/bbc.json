@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "bbc",
-  "total": 31,
+  "total": 32,
   "articles": [
     {
       "id": "bbc_a5f050445b",
@@ -746,6 +746,30 @@
       "pubDate": "Sat, 11 Jul 2026 13:35:09 GMT",
       "time": "۱۷:۰۵ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T17:01:53.344Z"
+    },
+    {
+      "id": "bbc_4136d57feb",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "title_fa": "رو خانا، دموکرات آمریکایی، می‌گوید توسط شهرک‌نشینان مسلح اسرائیلی بازداشت شده است",
+      "lead": "رو خانا، نماینده دموکرات آمریکا، اظهار داشت که در جریان بازدید از کرانه باختری اشغالی، توسط شهرک‌نشینان مسلح اسرائیلی برای ۹۰ دقیقه بازداشت شده است. او ۴۹ ساله است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 18:00:09 GMT",
+      "time": "۲۱:۳۰ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T19:02:36.917Z"
     }
   ]
 }
