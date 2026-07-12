@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "dw",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "dw_188f19eaba",
@@ -502,6 +502,54 @@
       "pubDate": "Sat, 11 Jul 2026 09:48:00 GMT",
       "time": "۱۳:۱۸ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T08:53:21.981Z"
+    },
+    {
+      "id": "dw_c967db1cb0",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Berlin hostage crisis: Woman freed after hourslong standoff",
+      "title_fa": "بحران گروگان‌گیری برلین: زن پس از ساعت‌ها بن‌بست آزاد شد",
+      "lead": "یک مرد مظنون به گروگان‌گیری زنی در یک سوپرمارکت در برلین، عملیات گسترده پلیس را در پی داشت. گزارش شده که این مظنون قبل از بسته شدن سوپرمارکت در عصر جمعه، چاقوی بزرگی را بیرون کشیده بود.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 07:54:00 GMT",
+      "time": "۱۱:۲۴ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T09:09:14.544Z"
+    },
+    {
+      "id": "dw_b6a055ef37",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Germany news: Third summer heat wave looms",
+      "title_fa": "اخبار آلمان: موج سوم گرمای تابستانی در راه است",
+      "lead": "پیش‌بینی می‌شود آلمان هفته‌ای داغ دیگر را تجربه کند، هرچند کارشناسان هواشناسی اعلام کرده‌اند که این بار رکورد دما شکسته نخواهد شد. در همین حال، پلیس به بحران گروگان‌گیری در یک سوپرمارکت در برلین پایان داده است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 07:26:00 GMT",
+      "time": "۱۰:۵۶ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T09:09:14.544Z"
     }
   ]
 }
