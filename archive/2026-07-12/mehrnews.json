@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "mehrnews",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "mehrnews_195c4b3fbc",
@@ -266,6 +266,30 @@
       "pubDate": "Sun, 12 Jul 2026 04:44:57 GMT",
       "time": "۰۸:۱۴ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T04:51:51.796Z"
+    },
+    {
+      "id": "mehrnews_1129f05d71",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC pounds US logistics hub in Oman",
+      "title_fa": "سپاه مراکز لجستیکی آمریکا را در عمان درهم کوبید",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که روز یکشنبه حمله‌ای سنگین و غافلگیرکننده به مراکز پشتیبانی لجستیکی و سکوهای سوخت‌گیری ناوهای هواپیمابر آمریکا در بندر دقم عمان انجام داده است.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://en.mehrnews.com/news/246116/IRGC-pounds-US-logistics-hub-in-Oman",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 04:51:06 GMT",
+      "time": "۰۸:۲۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T05:07:05.995Z"
     }
   ]
 }
