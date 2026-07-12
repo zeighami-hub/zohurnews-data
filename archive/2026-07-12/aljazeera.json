@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "aljazeera",
-  "total": 27,
+  "total": 29,
   "articles": [
     {
       "id": "aljazeera_e290f557b8",
@@ -650,6 +650,52 @@
       "pubDate": "Sun, 12 Jul 2026 10:17:04 +0000",
       "time": "۱۳:۴۷ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T11:11:39.288Z"
+    },
+    {
+      "id": "aljazeera_4589b49f41",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "IRGC releases video of retaliatory missile strikes",
+      "title_fa": "سپاه پاسداران ویدئوی حملات موشکی تلافی‌جویانه را منتشر کرد",
+      "lead": "سپاه پاسداران انقلاب اسلامی ویدئویی از حملات موشکی تلافی‌جویانه خود منتشر کرده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 11:07:26 +0000",
+      "time": "۱۴:۳۷ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T11:40:54.128Z"
+    },
+    {
+      "id": "aljazeera_0",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Key moments from former Qatar Emir Sheikh Hamad bin Khalifa Al Thani’s life",
+      "title_fa": "لحظات کلیدی از زندگی امیر سابق قطر، شیخ حمد بن خلیفه آل ثانی",
+      "lead": "۱۸ سال حکومت شیخ حمد قطر را به سوی رفاه سوق داد و ردپای داخلی، منطقه‌ای و جهانی آن را تغییر شکل داد. این مرور به بررسی برجسته‌ترین جنبه‌های دوران سلطنت او می‌پردازد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/12/key-moments-from-former-qatar-emir-sheikh-hamad-bin-khadiffa-al-thanis-life?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 90,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-12T11:40:54.128Z"
     }
   ]
 }
