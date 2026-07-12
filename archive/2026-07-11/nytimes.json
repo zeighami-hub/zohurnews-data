@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -578,6 +578,30 @@
       "pubDate": "Fri, 10 Jul 2026 23:21:53 +0000",
       "time": "۰۲:۵۱ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T12:10:37.528Z"
+    },
+    {
+      "id": "nytimes_30e67c01a4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Boat Carrying Dozens of Tourists Capsizes in Vietnam",
+      "title_fa": "واژگونی قایق حامل ده‌ها گردشگر در ویتنام",
+      "lead": "یک قایق تندرو حامل ۳۶ نفر در نزدیکی جزیره فو کوک در جنوب ویتنام واژگون شد. رسانه‌های محلی گزارش دادند که ۱۵ نفر در این حادثه جان باخته و بقیه نجات یافته‌اند.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 12:45:59 +0000",
+      "time": "۱۶:۱۵ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T13:06:12.951Z"
     }
   ]
 }
