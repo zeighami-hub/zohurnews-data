@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "mehrnews",
-  "total": 4,
+  "total": 7,
   "articles": [
     {
       "id": "mehrnews_195c4b3fbc",
@@ -98,6 +98,78 @@
       "pubDate": "Sat, 11 Jul 2026 11:55:29 GMT",
       "time": "۱۵:۲۵ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T01:19:29.996Z"
+    },
+    {
+      "id": "mehrnews_615efcfcb8",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran, Tajikistan to carry out joint agricultural projects",
+      "title_fa": "ایران و تاجیکستان پروژه‌های کشاورزی مشترک اجرا می‌کنند",
+      "lead": "وابسته بازرگانی سفارت ایران در تاجیکستان از بررسی ظرفیت‌های همکاری بین دو کشور در زمینه کشاورزی خبر داد. این همکاری‌ها قرار است به اجرای پروژه‌های مشترک کشاورزی منجر شود.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246103/Iran-Tajikistan-to-carry-out-joint-agricultural-projects",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 13:25:33 GMT",
+      "time": "۱۶:۵۵ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T02:19:37.335Z"
+    },
+    {
+      "id": "mehrnews_e90aa1f862",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "'Israel' continues to violate truce by bombing S. Lebanon",
+      "title_fa": "اسرائیل با بمباران جنوب لبنان به نقض آتش‌بس ادامه می‌دهد",
+      "lead": "خبرگزاری مهر گزارش داد که رژیم صهیونیستی به نقض آتش‌بس آمریکا-ایران با بمباران مناطق مختلف در جنوب لبنان ادامه داده است. این حملات در روز شنبه صورت گرفته است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246102/Israel-continues-to-violate-truce-by-bombing-S-Lebanon",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 11 Jul 2026 13:09:13 GMT",
+      "time": "۱۶:۳۹ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T02:19:37.335Z"
+    },
+    {
+      "id": "mehrnews_304ed4f28a",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran’s drone production output tripled during US-Israeli war",
+      "title_fa": "تولید پهپاد ایران در طول جنگ آمریکا و اسرائیل سه برابر شد",
+      "lead": "سرپرست وزارت دفاع ایران اعلام کرد که ظرفیت تولید پهپاد کشور طی جنگ اخیر آمریکا و اسرائیل علیه ایران سه برابر شده است. وی این دستاورد را نتیجه تخصص داخلی دانست.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246101/Iran-s-drone-production-output-tripled-during-US-Israeli-war",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 13:02:32 GMT",
+      "time": "۱۶:۳۲ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T02:19:37.335Z"
     }
   ]
 }
