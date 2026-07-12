@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "bbc",
-  "total": 22,
+  "total": 26,
   "articles": [
     {
       "id": "bbc_1130b60a0f",
@@ -530,6 +530,102 @@
       "pubDate": "Sun, 12 Jul 2026 06:49:46 GMT",
       "time": "۱۰:۱۹ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T09:09:14.544Z"
+    },
+    {
+      "id": "bbc_688e783c92",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "People flee as Russian strike hits near Ukraine coffee shop",
+      "title_fa": "حمله روسیه در نزدیکی یک کافی‌شاپ در اوکراین؛ مردم در حال فرار",
+      "lead": "سه دوربین لحظه‌ای را ثبت کرده‌اند که مردم در سومی، در شمال شرقی اوکراین، برای پناه گرفتن خم شده و سپس فرار می‌کنند. این اتفاق در پی حمله روسیه در نزدیکی یک کافی‌شاپ رخ داده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 09:03:17 GMT",
+      "time": "۱۲:۳۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T09:57:34.786Z"
+    },
+    {
+      "id": "bbc_edce0b190b",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "How a viral seal called Neil caused mayhem in Australia",
+      "title_fa": "چگونه یک فُک وایرال شده به نام «نیل» در استرالیا هرج و مرج ایجاد کرد",
+      "lead": "یک فُک فیل پنج ساله به نام «نیل» در طول مدت حضور اخیر خود در سواحل جنوبی تاسمانی، توجه جهانی را به خود جلب کرد. این فُک باعث ایجاد هرج و مرج در استرالیا شده است.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c05yr465yyro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 21:19:05 GMT",
+      "time": "۰۰:۴۹ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T09:57:34.786Z"
+    },
+    {
+      "id": "bbc_ef14cebb0f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "title_fa": "با میلیاردرهای کریپتو آشنا شوید که دنیایی را می‌سازند که در آن پول، رأی می‌خرد",
+      "lead": "آنها معتقدند که دموکراسی به پایان راه خود رسیده است. به همین دلیل، در حال تاسیس ملت‌های خود هستند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 23:03:11 GMT",
+      "time": "۰۲:۳۳ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T09:57:34.786Z"
+    },
+    {
+      "id": "bbc_fbc04936ff",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "The photo that shows who's really on top in Le Pen's party",
+      "title_fa": "عکسی که نشان می‌دهد چه کسی واقعاً در حزب لوپن در صدر است",
+      "lead": "جردن باردلا، سی ساله، برای موفقیت به عنوان رهبر بعدی راست افراطی فرانسه آماده شده بود. اکنون او باید بیشتر صبر کند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 23:02:59 GMT",
+      "time": "۰۲:۳۲ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T09:57:34.786Z"
     }
   ]
 }
