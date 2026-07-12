@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "rt",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "rt_2ff1451530",
@@ -98,6 +98,30 @@
       "pubDate": "Sun, 12 Jul 2026 02:47:58 +0000",
       "time": "۰۶:۱۷ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T03:04:14.403Z"
+    },
+    {
+      "id": "rt_23a58e80d1",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US congressman says he was detained by armed Israeli settlers",
+      "title_fa": "نماینده کنگره آمریکا می‌گوید توسط شهرک‌نشینان مسلح اسرائیلی بازداشت شده است",
+      "lead": "رو خانا، نماینده کنگره آمریکا، اظهار داشت که هیئت همراهش در کرانه باختری اشغالی توسط شهرک‌نشینان مسلح اسرائیلی بازداشت شده است. این حادثه در زمانی رخ داده که تنش‌ها در منطقه همچنان بالاست.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/642904-us-congressman-detained-israeli-settlers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sun, 12 Jul 2026 04:50:53 +0000",
+      "time": "۰۸:۲۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T05:07:05.995Z"
     }
   ]
 }
