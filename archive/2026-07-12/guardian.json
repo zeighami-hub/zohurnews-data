@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "guardian",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "guardian_fe4f334a4f",
@@ -74,6 +74,30 @@
       "pubDate": "Sun, 12 Jul 2026 00:20:54 GMT",
       "time": "۰۳:۵۰ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T02:49:05.750Z"
+    },
+    {
+      "id": "guardian_6b4ac47736",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
+      "title_fa": "تعداد کشته‌شدگان زلزله ونزوئلا از ۴۳۰۰ نفر گذشت؛ ابعاد گسترده تلاش‌های بازیابی در پیش است",
+      "lead": "دولت ونزوئلا اعلام کرد که تعداد کشته‌شدگان زلزله‌های ویرانگر این کشور از ۴۳۰۰ نفر گذشته است. نزدیک به ۱۷۰۰۰ نفر زخمی شده و هزاران نفر دیگر نیز مفقود هستند. رئیس‌جمهور دلسی رودریگز و سازمان ملل برای کمک‌های مالی درخواست کرده‌اند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 17:23:19 GMT",
+      "time": "۲۰:۵۳ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T03:35:16.002Z"
     }
   ]
 }
