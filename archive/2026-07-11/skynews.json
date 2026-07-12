@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "skynews",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "skynews_f85622a873",
@@ -218,6 +218,54 @@
       "pubDate": "Sat, 11 Jul 2026 08:38:00 +0100",
       "time": "۱۱:۰۸ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T12:42:10.539Z"
+    },
+    {
+      "id": "skynews_b6f610e4bf",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "US congressman 'detained by armed Israeli settlers' in West Bank",
+      "title_fa": "نماینده کنگره آمریکا «توسط شهرک‌نشینان مسلح اسرائیلی» در کرانه باختری بازداشت شد",
+      "lead": "یک سیاستمدار آمریکایی می‌گوید که در جریان بازدید از کرانه باختری، توسط شهرک‌نشینان مسلح اسرائیلی بازداشت شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/us-congressman-ro-khanna-detained-by-armed-israeli-settlers-in-west-bank-13562598",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 11 Jul 2026 17:49:00 +0100",
+      "time": "۲۰:۱۹ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T19:36:53.372Z"
+    },
+    {
+      "id": "skynews_edf46ac4d9",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "More than 4,300 confirmed dead in Venezuela earthquakes",
+      "title_fa": "بیش از ۴۳۰۰ کشته در زلزله‌های ونزوئلا تایید شد",
+      "lead": "تعداد کشته‌شدگان تایید شده در پی زلزله‌های ویرانگر و متوالی ماه گذشته در ونزوئلا به بیش از ۴۳۰۰ نفر افزایش یافته است. این فاجعه طبیعی خسارات انسانی گسترده‌ای در پی داشته است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/more-than-4300-confirmed-dead-in-venezuela-earthquakes-13562615",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 18:51:00 +0100",
+      "time": "۲۱:۲۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T19:27:54.817Z"
     }
   ]
 }
