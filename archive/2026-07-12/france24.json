@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "france24",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "france24_7e2d9edf4d",
@@ -166,6 +166,54 @@
       "pubDate": "Sat, 11 Jul 2026 14:33:47 GMT",
       "time": "۱۸:۰۳ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T03:35:16.002Z"
+    },
+    {
+      "id": "france24_5df8ad8ea5",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "World Cup 2026: Argentina reach semi-finals after extra-time battle with 10-man Switzerland",
+      "title_fa": "جام جهانی ۲۰۲۶: آرژانتین پس از نبردی سخت در وقت اضافه به نیمه‌نهایی رسید",
+      "lead": "تیم آرژانتین پس از پیروزی دراماتیک ۳-۱ مقابل سوئیس در مرحله یک‌چهارم نهایی و در وقت اضافه، به نیمه‌نهایی جام جهانی ۲۰۲۶ راه یافت. کاهش تعداد بازیکنان سوئیس به ۱۰ نفر در نهایت تعیین‌کننده بود.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/sport/20260712-world-cup-2026-argentina-reach-semi-finals-after-epic-extra-time-battle-with-10-man-switzerland",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 03:46:12 GMT",
+      "time": "۰۷:۱۶ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T03:50:23.738Z"
+    },
+    {
+      "id": "france24_3d657afd6e",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "11 wounded in overnight Russian missile and drone strikes on Kyiv",
+      "title_fa": "۱۱ زخمی در حملات موشکی و پهپادی شبانه روسیه به کی‌یف",
+      "lead": "بر اساس اعلام سرویس اورژانس دولتی اوکراین، در پی حملات موشکی و پهپادی شبانه روسیه به کی‌یف در اوایل روز شنبه، دست‌کم ۱۱ نفر از جمله یک کودک زخمی شدند. این حملات در طول شب گذشته رخ داده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/video/20260711-11-wounded-in-overnight-russian-missile-and-drone-strikes-on-kyiv",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 14:54:06 GMT",
+      "time": "۱۸:۲۴ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T03:50:23.738Z"
     }
   ]
 }
