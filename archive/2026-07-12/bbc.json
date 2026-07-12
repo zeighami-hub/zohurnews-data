@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_1130b60a0f",
@@ -98,6 +98,30 @@
       "pubDate": "Fri, 10 Jul 2026 22:54:16 GMT",
       "time": "۰۲:۲۴ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T00:34:39.218Z"
+    },
+    {
+      "id": "bbc_9b66494561",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+      "title_fa": "قاضی مسلمان در هند پس از محکومیت \"گاوچران‌های خودسر\" با تهدید به مرگ روبرو شد",
+      "lead": "یک قاضی مسلمان در هند پس از محکوم کردن ۱۴ مرد هندو در یک پرونده قتل عام (لینچ)، با تهدید به مرگ مواجه شده است. تبسم خان پس از این حکم، هدف سوءاستفاده آنلاین قرار گرفته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 00:49:24 GMT",
+      "time": "۰۴:۱۹ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T01:04:48.720Z"
     }
   ]
 }
