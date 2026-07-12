@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -362,6 +362,78 @@
       "pubDate": "Sun, 12 Jul 2026 09:14:10 +0000",
       "time": "۱۲:۴۴ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T09:23:33.437Z"
+    },
+    {
+      "id": "nytimes_f67a08b7e8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Hard-Liners in Iran Want to Keep Fighting America",
+      "title_fa": "تندروها در ایران خواهان ادامه نبرد با آمریکا هستند",
+      "lead": "با کشته شدن بخش عمده‌ای از رهبری تندروها در جنگ، محافظه‌کاران ایران در پی پر کردن این خلاء هستند. آنها به دنبال تشدید نبرد علیه ایالات متحده آمریکا می‌باشند.",
+      "category": "politics",
+      "region": "middle east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sun, 12 Jul 2026 09:25:20 +0000",
+      "time": "۱۲:۵۵ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T09:57:34.786Z"
+    },
+    {
+      "id": "nytimes_ece3728e6d",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
+      "title_fa": "ویدئوها تعقیب و گریز پیش از قتل توسط ICE در هیوستون را روشن می‌کنند",
+      "lead": "فیلم‌های نظارتی به دست آمده توسط نیویورک تایمز نشان می‌دهند که ماموران ICE به طور تهاجمی با خودروهای بدون علامت رانندگی می‌کردند. با این حال، لحظه تیراندازی مرگبار لورنزو سالگادو آراوخو همچنان نامشخص است.",
+      "category": "politics",
+      "region": "us",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 11 Jul 2026 18:47:36 +0000",
+      "time": "۲۲:۱۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T09:57:34.786Z"
+    },
+    {
+      "id": "nytimes_dc39023edf",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Man Arrested in Killing of U.K. Ex-Lawmaker Is Released",
+      "title_fa": "فرد دستگیر شده در پرونده قتل نماینده سابق پارلمان بریتانیا آزاد شد",
+      "lead": "پلیس اعلام کرد که فرد ۲۶ ساله دیگر بخشی از تحقیقات درباره مرگ آن ویدیکامب نیست. آنها از هر کسی که اطلاعاتی درباره این جنایت دارد خواستند که به جلو بیاید.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/europe/uk-ann-widdecombe-suspect-released.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 11 Jul 2026 13:16:54 +0000",
+      "time": "۱۶:۴۶ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T09:57:34.786Z"
     }
   ]
 }
