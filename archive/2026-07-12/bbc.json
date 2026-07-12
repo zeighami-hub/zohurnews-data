@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "bbc_1130b60a0f",
@@ -506,6 +506,30 @@
       "pubDate": "Sat, 11 Jul 2026 04:47:37 GMT",
       "time": "۰۸:۱۷ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T07:54:42.180Z"
+    },
+    {
+      "id": "bbc_34a40f33ff",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "title_fa": "آمریکا حملات جدیدی را آغاز کرد؛ ایران تنگه هرمز را بست",
+      "lead": "آمریکا حملات تازه‌ای را در منطقه آغاز کرده است. این حملات در پی حمله به یک کشتی با پرچم قبرس که در آبراه حیاتی تنگه هرمز در حال حرکت بود، صورت می‌گیرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 06:49:46 GMT",
+      "time": "۱۰:۱۹ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T09:09:14.544Z"
     }
   ]
 }
