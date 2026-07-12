@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "france24",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "france24_7e2d9edf4d",
@@ -72,6 +72,30 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-12T02:34:32.987Z"
+    },
+    {
+      "id": "france24_e9f00761a1",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Norway eliminated: What do supporters think of their team's overall performance?",
+      "title_fa": "حذف نروژ: هواداران درباره عملکرد کلی تیمشان چه می‌گویند؟",
+      "lead": "تیم نروژ در مرحله یک چهارم نهایی جام جهانی، پس از یک بازی نزدیک، با نتیجه ۲ بر ۱ در وقت اضافه به انگلیس باخت و حذف شد. فرانس ۲۴ با هواداران نروژی مصاحبه کرده تا نظرشان را درباره عملکرد تیمشان در این رقابت‌ها جویا شود.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/norway-eliminated-what-do-supporters-think-of-their-team-s-overall-performance",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 02:24:01 GMT",
+      "time": "۰۵:۵۴ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T02:49:05.750Z"
     }
   ]
 }
