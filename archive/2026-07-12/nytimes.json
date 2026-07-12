@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -434,6 +434,30 @@
       "pubDate": "Sat, 11 Jul 2026 13:16:54 +0000",
       "time": "۱۶:۴۶ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T09:57:34.786Z"
+    },
+    {
+      "id": "nytimes_33ae6204f3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+      "title_fa": "اسرائیل به یک مرکز فولاد ایران حمله کرد. آیا این یک هدف نظامی معتبر بود؟",
+      "lead": "اسرائیل در جریان جنگ به کارخانه‌های فولاد ایران حمله کرد. به گفته این کشور، این کارخانه‌ها درآمد و ابزار ساخت تسلیحات را برای نیروها فراهم می‌کردند، اما این حملات به اقتصاد غیرنظامی نیز آسیب رساند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 13:26:24 +0000",
+      "time": "۱۶:۵۶ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T10:08:31.442Z"
     }
   ]
 }
