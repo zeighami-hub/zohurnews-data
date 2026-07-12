@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "guardian",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "guardian_fe4f334a4f",
@@ -26,6 +26,30 @@
       "pubDate": "Sat, 11 Jul 2026 11:59:11 GMT",
       "time": "۱۵:۲۹ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T00:34:39.218Z"
+    },
+    {
+      "id": "guardian_f359810757",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Toronto shooting: two dead and three injured as police search for active shooter",
+      "title_fa": "تیراندازی در تورنتو: دو کشته و سه زخمی در حالی که پلیس در جستجوی فرد مسلح فعال است",
+      "lead": "پلیس تورنتو در کانادا شب گذشته در پی یافتن پنج نفر با جراحات ناشی از گلوله، که دو نفر از آنها کشته شدند، در جستجوی یک فرد مسلح فعال بود. پلیس از عموم مردم خواست از منطقه جشنواره «سالسا در سنت کلر» دوری کنند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 01:30:57 GMT",
+      "time": "۰۵:۰۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T02:04:38.281Z"
     }
   ]
 }
