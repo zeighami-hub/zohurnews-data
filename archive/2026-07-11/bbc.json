@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "bbc",
-  "total": 33,
+  "total": 34,
   "articles": [
     {
       "id": "bbc_a5f050445b",
@@ -794,6 +794,30 @@
       "pubDate": "Sat, 11 Jul 2026 19:32:07 GMT",
       "time": "۲۳:۰۲ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T19:36:53.372Z"
+    },
+    {
+      "id": "bbc_34a40f33ff",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Iran supreme leader calls for revenge for father's killing",
+      "title_fa": "رهبر ایران خواستار انتقام برای کشته شدن پدرش شد",
+      "lead": "مجتبی خامنه‌ای اعلام کرده است که انتقام‌گیری برای کشته شدنی که در اولین روز جنگ آمریکا و اسرائیل علیه ایران رخ داد، «اجتناب‌ناپذیر» است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 19:30:36 GMT",
+      "time": "۲۳:۰۰ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T20:42:05.363Z"
     }
   ]
 }
