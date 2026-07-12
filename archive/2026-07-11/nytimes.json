@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_0e092c8aff",
@@ -602,6 +602,30 @@
       "pubDate": "Sat, 11 Jul 2026 12:45:59 +0000",
       "time": "۱۶:۱۵ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T13:06:12.951Z"
+    },
+    {
+      "id": "nytimes_d78c80391c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.",
+      "title_fa": "آتش‌سوزی در جنوب اسپانیا ۱۲ کشته بر جای گذاشت؛ آخرین اخبار",
+      "lead": "مقامات اعلام کردند که در پی آتش‌سوزی در جنوب اسپانیا ۱۲ نفر جان باختند و بیش از ۲۰ نفر همچنان مفقود هستند. این آتش‌سوزی یکی از مرگبارترین‌ها در تاریخ اسپانیا محسوب می‌شود و بیشتر کشته‌شدگان از بلژیک یا بریتانیا بوده‌اند.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 14:46:11 +0000",
+      "time": "۱۸:۱۶ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T15:14:21.363Z"
     }
   ]
 }
