@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "yjc",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "yjc_3",
@@ -24,6 +24,30 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-12T00:19:26.581Z"
+    },
+    {
+      "id": "yjc_dc721c25de",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "حمله ارتش تروریستی آمریکا به چند نقطه در جنوب ایران",
+      "title_fa": "حمله ارتش تروریستی آمریکا به چند نقطه در جنوب ایران",
+      "lead": "بامداد امروز یکشنبه، مناطقی از جنوب ایران از جمله بندرعباس، سیریک، کنارک، بوشهر، کنگان، عسلویه و جاسک بار دیگر هدف تجاوز رژیم جنایتکار آمریکا قرار گرفت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9107045/حمله-ارتش-تروریستی-آمریکا-به-چند-نقطه-در-جنوب-ایران",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 95
+      },
+      "pubDate": "12 Jul 2026 05:25:37 +0330",
+      "time": "۰۵:۲۵ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T02:04:38.281Z"
     }
   ]
 }
