@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "mehrnews",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_195c4b3fbc",
@@ -194,6 +194,54 @@
       "pubDate": "Sat, 11 Jul 2026 14:14:05 GMT",
       "time": "۱۷:۴۴ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T03:35:16.002Z"
+    },
+    {
+      "id": "mehrnews_fc98df8ac3",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC destroys US command centre at Jordan base",
+      "title_fa": "سپاه پاسداران مرکز فرماندهی آمریکا در پایگاه اردن را منهدم کرد",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که نیروهای هوافضای آن پایگاه هوایی پرینس حسن آمریکا در اردن را هدف قرار داده‌اند. این حمله زیرساخت‌ها و آشیانه‌های پهپاد MQ-9 را مورد اصابت قرار داده و در پاسخ به حملات آمریکا به پایگاه‌های ساحلی و برج‌های مخابراتی در جنوب ایران صورت گرفته است.",
+      "category": "military",
+      "region": "middle-east",
+      "sourceUrl": "https://en.mehrnews.com/news/246114/IRGC-destroys-US-command-centre-at-Jordan-base",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 04:01:27 GMT",
+      "time": "۰۷:۳۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T04:06:22.943Z"
+    },
+    {
+      "id": "mehrnews_6fbbf1dc9c",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US confirms fresh wave of strikes on Iran",
+      "title_fa": "آمریکا موج جدید حملات به ایران را تأیید کرد",
+      "lead": "ستاد فرماندهی مرکزی آمریکا (سنتکام) تأیید کرد که نیروهای این کشور موج جدیدی از حملات را شامگاه شنبه علیه ایران انجام داده‌اند. این اقدام در بحبوحه تنش‌های فزاینده در منطقه صورت می‌گیرد.",
+      "category": "military",
+      "region": "middle-east",
+      "sourceUrl": "https://en.mehrnews.com/news/246113/US-confirms-fresh-wave-of-strikes-on-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 03:53:29 GMT",
+      "time": "۰۷:۲۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T04:06:22.943Z"
     }
   ]
 }
