@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -266,6 +266,30 @@
       "pubDate": "Sat, 11 Jul 2026 04:01:08 +0000",
       "time": "۰۷:۳۱ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T07:23:39.774Z"
+    },
+    {
+      "id": "nytimes_1c82dbe1f8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays",
+      "title_fa": "طوفان باوی به چین رسید و باعث تخلیه، سیل و تاخیر پروازها شد",
+      "lead": "طوفان باوی پس از کشته شدن ۱۷ نفر در فیلیپین و عبور از نزدیکی ژاپن و تایوان، در چین به خشکی رسید. این طوفان در بزرگترین حالت خود، تقریباً به عرض کشور فرانسه بود و باعث تخلیه، سیل و تاخیر در پروازها در چین شد.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 07:17:40 +0000",
+      "time": "۱۰:۴۷ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T07:39:42.818Z"
     }
   ]
 }
