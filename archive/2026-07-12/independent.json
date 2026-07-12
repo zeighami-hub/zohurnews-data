@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "independent",
-  "total": 34,
+  "total": 35,
   "articles": [
     {
       "id": "independent_6a7d9773a5",
@@ -818,6 +818,30 @@
       "pubDate": "Sun, 12 Jul 2026 07:08:49 GMT",
       "time": "۱۰:۳۸ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T07:23:39.774Z"
+    },
+    {
+      "id": "independent_6572400322",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Ann Widdecombe’s final messages sent minutes before death revealed",
+      "title_fa": "پیام‌های پایانی ارسالی آن ویدیکامب دقایقی پیش از مرگ فاش شد",
+      "lead": "پلیس معتقد است که خانم ویدیکامب تنها دقایقی پس از ارسال آخرین پیام متنی خود به کارکنان شبکه 5 مورد حمله قرار گرفته است. این پیام‌ها دقایقی پیش از مرگ او ارسال شده‌اند.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/crime/ann-widdecombe-murder-final-messages-suspect-b3013362.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 07:21:10 GMT",
+      "time": "۱۰:۵۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T07:39:42.818Z"
     }
   ]
 }
