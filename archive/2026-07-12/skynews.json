@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "skynews",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "skynews_83c8b54b91",
@@ -218,6 +218,30 @@
       "pubDate": "Sun, 12 Jul 2026 07:01:00 +0100",
       "time": "۰۹:۳۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T09:09:14.544Z"
+    },
+    {
+      "id": "skynews_931c31b230",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "What Peter Falconio's killer told police when asked to reveal location of backpacker's body",
+      "title_fa": "قاتل پیتر فالکونیو هنگام پرسش پلیس درباره محل جسد جهانگرد چه گفت؟",
+      "lead": "تصاویر جدیدی منتشر شده است که نشان می‌دهد مردی که پیتر فالکونیو، جهانگرد بریتانیایی را به قتل رساند، مکرراً انکار می‌کند که از محل جسد قربانی اطلاع دارد.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/new-footage-shows-peter-falconios-killer-bradley-murdoch-refusing-reveal-location-of-backpackers-body-to-australian-police-13562460",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 07:31:00 +0100",
+      "time": "۱۰:۰۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T10:08:31.442Z"
     }
   ]
 }
