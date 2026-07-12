@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "france24",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "france24_7e2d9edf4d",
@@ -548,6 +548,54 @@
       "pubDate": "Sat, 11 Jul 2026 19:44:32 GMT",
       "time": "۲۳:۱۴ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T09:09:14.544Z"
+    },
+    {
+      "id": "france24_191e2459e2",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Russian strikes kill eight in Ukraine, officials say",
+      "title_fa": "مقامات می‌گویند حملات روسیه هشت نفر را در اوکراین کشت",
+      "lead": "مقامات اوکراینی گزارش دادند که روسیه روز شنبه با موشک، پهپاد و بمب‌های هدایت‌شونده به اوکراین حمله کرده است. در این حملات، هشت نفر کشته و ده‌ها نفر دیگر زخمی شدند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/video/20260712-russian-strikes-kill-eight-in-ukraine-officials-say",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 09:09:58 GMT",
+      "time": "۱۲:۳۹ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T09:23:33.437Z"
+    },
+    {
+      "id": "france24_b0b3bf241e",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Firefighters gain upper hand on deadly Spain wildfire",
+      "title_fa": "آتش‌نشانان بر آتش‌سوزی مرگبار در اسپانیا مسلط می‌شوند",
+      "lead": "آتش‌نشانان در اسپانیا در حال مهار آتش‌سوزی بزرگی هستند که ۱۲ نفر را کشته است. با وجود پیشرفت در کنترل آتش، روستای به شدت آسیب‌دیده همچنان خالی از سکنه است و پوشش گیاهی سوخته و خانه‌های سیاه شده یادآور وحشت این فاجعه هستند.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/video/20260712-firefighters-gain-upper-hand-on-deadly-spain-wildfire",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Sun, 12 Jul 2026 09:07:42 GMT",
+      "time": "۱۲:۳۷ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T09:23:33.437Z"
     }
   ]
 }
