@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "mehrnews",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "mehrnews_195c4b3fbc",
@@ -170,6 +170,30 @@
       "pubDate": "Sat, 11 Jul 2026 13:02:32 GMT",
       "time": "۱۶:۳۲ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T02:19:37.335Z"
+    },
+    {
+      "id": "mehrnews_2923409276",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC confirms martyrdom of two Basijis in Mashhad",
+      "title_fa": "سپاه شهادت دو بسیجی در مشهد را تایید کرد",
+      "lead": "سپاه پاسداران شهادت دو عضو نیروهای بسیج داوطلب را در حمله اخیر در شهر مشهد در شمال شرق ایران تایید کرد. این حادثه در این شهر رخ داده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246104/IRGC-confirms-martyrdom-of-two-Basijis-in-Mashhad",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Sat, 11 Jul 2026 14:14:05 GMT",
+      "time": "۱۷:۴۴ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T03:35:16.002Z"
     }
   ]
 }
