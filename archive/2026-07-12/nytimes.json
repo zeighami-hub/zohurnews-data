@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -146,6 +146,30 @@
       "pubDate": "Sun, 12 Jul 2026 01:44:26 +0000",
       "time": "۰۵:۱۴ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T02:04:38.281Z"
+    },
+    {
+      "id": "nytimes_9b8d7e5e41",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Oil Prices Set for More Volatility After Latest Iranian Attack in Strait of Hormuz",
+      "title_fa": "قیمت نفت پس از آخرین حمله ایران در تنگه هرمز در آستانه نوسانات بیشتر",
+      "lead": "قیمت نفت خام این هفته به بالای سطح پیش از جنگ جهش کرد. این افزایش قیمت نشان‌دهنده توانایی ایران در تأثیرگذاری بر قیمت‌های انرژی از طریق نمایش قدرت در تنگه هرمز است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/11/world/middleeast/strait-hormuz-shipping-oil-prices.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sun, 12 Jul 2026 02:13:22 +0000",
+      "time": "۰۵:۴۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T02:19:37.335Z"
     }
   ]
 }
