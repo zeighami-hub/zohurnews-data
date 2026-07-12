@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "mehrnews",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "mehrnews_195c4b3fbc",
@@ -242,6 +242,30 @@
       "pubDate": "Sun, 12 Jul 2026 03:53:29 GMT",
       "time": "۰۷:۲۳ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T04:06:22.943Z"
+    },
+    {
+      "id": "mehrnews_8e730dce8a",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran closes Strait of Hormuz, warns US against new attack",
+      "title_fa": "ایران تنگه هرمز را می‌بندد، به آمریکا در مورد حمله جدید هشدار می‌دهد",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که تنگه هرمز تا اطلاع ثانوی و تا زمانی که مداخلات ایالات متحده متوقف نشود، بسته است. این اقدام در پی هشدار ایران به آمریکا در مورد هرگونه حمله جدید صورت می‌گیرد.",
+      "category": "military",
+      "region": "middle-east",
+      "sourceUrl": "https://en.mehrnews.com/news/246115/Iran-blocks-Hormuz-warns-US-against-new-attack",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 04:44:57 GMT",
+      "time": "۰۸:۱۴ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T04:51:51.796Z"
     }
   ]
 }
