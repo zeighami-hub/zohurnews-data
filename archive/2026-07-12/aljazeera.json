@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "aljazeera",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "aljazeera_e290f557b8",
@@ -386,6 +386,54 @@
       "pubDate": "Sun, 12 Jul 2026 06:01:07 +0000",
       "time": "۰۹:۳۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T06:38:40.652Z"
+    },
+    {
+      "id": "aljazeera_fdc2a8a946",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US Senator Lindsey Graham passes away",
+      "title_fa": "سناتور آمریکایی، لیندسی گراهام، درگذشت",
+      "lead": "لیندسی گراهام، سناتور آمریکایی، درگذشت. این خبر یک گزارش فوری است.",
+      "category": "politics",
+      "region": "north america",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 06:27:06 +0000",
+      "time": "۰۹:۵۷ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T06:53:41.016Z"
+    },
+    {
+      "id": "aljazeera_a6f7cfc0a4",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Ghana slavery apology: Why many descendants say words are not enough",
+      "title_fa": "عذرخواهی غنا برای برده‌داری: چرا بسیاری از نوادگان می‌گویند کلمات کافی نیستند",
+      "lead": "فرزندان آفریقایی‌های برده شده، عذرخواهی‌های نمادین غنا را کافی نمی‌دانند. آنها معتقدند که این عذرخواهی‌ها نمی‌توانند نسل‌ها از دست دادن و بی‌عدالتی را جبران کنند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/12/ghana-slavery-apology-why-many-descendants-say-words-are-not-enough?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 06:08:46 +0000",
+      "time": "۰۹:۳۸ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T06:53:41.016Z"
     }
   ]
 }
