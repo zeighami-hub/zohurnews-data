@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "mehrnews",
-  "total": 37,
+  "total": 39,
   "articles": [
     {
       "id": "mehrnews_d56a9ca40e",
@@ -888,6 +888,54 @@
       "pubDate": "Sat, 11 Jul 2026 14:14:05 GMT",
       "time": "۱۷:۴۴ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T15:14:21.363Z"
+    },
+    {
+      "id": "mehrnews_45a0a5d4aa",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iranian math team win China IMSO olympiad",
+      "title_fa": "تیم ریاضی ایران قهرمان المپیاد IMSO چین شد",
+      "lead": "تیم ریاضی ایران موفق به کسب قهرمانی در المپیاد بین‌المللی ریاضی و علوم (IMSO) به میزبانی چین شد. این تیم در این رقابت علمی جهانی به مقام نخست دست یافت.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://en.mehrnews.com/news/246105/Iranian-math-team-win-China-IMSO-olympiad",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 16:17:44 GMT",
+      "time": "۱۹:۴۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T17:01:53.344Z"
+    },
+    {
+      "id": "mehrnews_9b74899dbf",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "\"We are powerfull enough to break Saudi-led blockade\"",
+      "title_fa": "مقام انصارالله یمن: «ما به اندازه کافی قدرتمندیم تا محاصره به رهبری عربستان را بشکنیم»",
+      "lead": "یک مقام ارشد جنبش انصارالله یمن که دولت صنعا را رهبری می‌کند، هشدار داده است. وی به دولت سعودی اعلام کرد که آنها به اندازه کافی قدرتمند هستند تا محاصره کشور فقیر یمن را بشکنند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246106/We-are-powerfull-enough-to-break-Saudi-led-blockade",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sat, 11 Jul 2026 16:34:32 GMT",
+      "time": "۲۰:۰۴ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T17:01:53.344Z"
     }
   ]
 }
