@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "skynews",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "skynews_83c8b54b91",
@@ -266,6 +266,30 @@
       "pubDate": "Sun, 12 Jul 2026 10:13:00 +0100",
       "time": "۱۲:۴۳ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T11:11:39.288Z"
+    },
+    {
+      "id": "skynews_f3b623ab2c",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Woman pleads for help over parents missing after Spanish wildfire",
+      "title_fa": "درخواست کمک زن برای والدین گمشده‌اش پس از آتش‌سوزی جنگلی در اسپانیا",
+      "lead": "پس از مرگ حداقل ۱۲ نفر در بدترین آتش‌سوزی جنگلی اسپانیا در بیش از دو دهه گذشته، گروه‌های امدادی و بستگان در تلاش برای یافتن بازماندگان هستند. یک زن برای یافتن والدین گمشده‌اش درخواست کمک کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/rescuers-search-for-spanish-wildfire-survivors-as-woman-issues-plea-for-help-over-missing-parents-13562489",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 11 Jul 2026 09:41:00 +0100",
+      "time": "۱۲:۱۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T11:40:54.128Z"
     }
   ]
 }
