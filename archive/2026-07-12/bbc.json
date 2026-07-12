@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "bbc",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "bbc_1130b60a0f",
@@ -386,6 +386,54 @@
       "pubDate": "Sat, 11 Jul 2026 01:45:59 GMT",
       "time": "۰۵:۱۵ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T05:23:00.606Z"
+    },
+    {
+      "id": "bbc_4136d57feb",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "title_fa": "رو خانا، دموکرات آمریکایی، می‌گوید توسط شهرک‌نشینان مسلح اسرائیلی بازداشت شده است",
+      "lead": "رو خانا، سناتور ۴۹ ساله آمریکایی، اعلام کرد که هنگام بازدید از کرانه باختری اشغالی، به مدت ۹۰ دقیقه توسط شهرک‌نشینان مسلح اسرائیلی بازداشت شده است.",
+      "category": "politics",
+      "region": "middle-east",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 11 Jul 2026 18:00:09 GMT",
+      "time": "۲۱:۳۰ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T07:23:39.774Z"
+    },
+    {
+      "id": "bbc_fb1a6225d7",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "title_fa": "اسپانیا در حال مبارزه برای مهار یکی از مرگبارترین آتش‌سوزی‌های جنگلی خود است؛ حداقل ۱۲ نفر کشته شدند",
+      "lead": "اسپانیا در حال مهار یکی از مرگبارترین آتش‌سوزی‌های جنگلی خود است که تاکنون حداقل ۱۲ نفر را به کام مرگ کشانده است. گمان می‌رود چهار شهروند بریتانیایی در میان قربانیان باشند و ۲۳ نفر دیگر نیز مفقود شده‌اند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 15:03:45 GMT",
+      "time": "۱۸:۳۳ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T07:23:39.774Z"
     }
   ]
 }
