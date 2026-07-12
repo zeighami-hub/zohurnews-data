@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_83c8b54b91",
@@ -50,6 +50,78 @@
       "pubDate": "Sun, 12 Jul 2026 02:41:00 +0100",
       "time": "۰۵:۱۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T02:19:37.335Z"
+    },
+    {
+      "id": "skynews_f465727795",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Europe's first total solar eclipse in almost 30 years: What you need to know",
+      "title_fa": "اولین خورشیدگرفتگی کامل اروپا در تقریباً ۳۰ سال اخیر: آنچه باید بدانید",
+      "lead": "ماه آینده، روز برای بخش‌هایی از اروپا به مدت کوتاهی به شب تبدیل خواهد شد، زیرا این قاره اولین خورشیدگرفتگی کامل خود را در نزدیک به سه دهه تجربه می‌کند. این رویداد نجومی مهمی برای اروپا خواهد بود.",
+      "category": "science",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/europes-first-total-solar-eclipse-in-almost-30-years-what-you-need-to-know-13560160",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 14:30:00 +0100",
+      "time": "۱۷:۰۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-12T05:23:00.606Z"
+    },
+    {
+      "id": "skynews_13da6328d4",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Passenger 'partially sucked out of window' on Ryanair flight",
+      "title_fa": "یک مسافر در پرواز رایان‌ایر «تا حدی از پنجره به بیرون کشیده شد»",
+      "lead": "یک پرواز رایان‌ایر مجبور به فرود اضطراری شد، پس از آنکه گزارش‌ها حاکی از آن بود که یک مسافر تا حدی از پنجره به بیرون کشیده شده است. این حادثه موجب انحراف فوری هواپیما از مسیر شد.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/passenger-partially-sucked-out-of-window-on-ryanair-flight-13562267",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 10 Jul 2026 13:06:00 +0100",
+      "time": "۱۵:۳۶ - ۱۹ تیر",
+      "analyzed_at": "2026-07-12T05:23:00.606Z"
+    },
+    {
+      "id": "skynews_f85622a873",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Ukrainian security officer 'retracts confession' over killing of Monaco bomb suspect",
+      "title_fa": "افسر امنیتی اوکراینی «اعتراف خود را پس گرفت» در مورد قتل مظنون بمب‌گذاری موناکو",
+      "lead": "پیچیدگی جدیدی در پرونده زن اوکراینی که پس از یک بمب‌گذاری ادعایی در موناکو مرده پیدا شد، به وجود آمده است. یک افسر امنیتی اوکراینی اعتراف خود را در مورد قتل مظنون بمب‌گذاری موناکو پس گرفته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/ukrainian-security-officer-retracts-confession-over-killing-of-monaco-bomb-suspect-13562250",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 10 Jul 2026 12:05:00 +0100",
+      "time": "۱۴:۳۵ - ۱۹ تیر",
+      "analyzed_at": "2026-07-12T05:23:00.606Z"
     }
   ]
 }
