@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "dw",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "dw_188f19eaba",
@@ -70,6 +70,78 @@
         "negative": 100
       },
       "analyzed_at": "2026-07-12T00:34:39.218Z"
+    },
+    {
+      "id": "dw_9967ae199e",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Iran closes Strait of Hormuz, US launches fresh strikes",
+      "title_fa": "ایران تنگه هرمز را بست، آمریکا حملات جدیدی را آغاز کرد",
+      "lead": "نیروی دریایی ایران اعلام کرد که پس از شلیک به یک کشتی در \"مسیر غیرمجاز\"، تنگه هرمز را مسدود کرده است. در پاسخ به این اقدام، ایالات متحده سومین دور حملات خود را در این هفته علیه ایران آغاز کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/iran-closes-strait-of-hormuz-us-launches-fresh-strikes/live-77920097?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 22:48:00 GMT",
+      "time": "۰۲:۱۸ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T01:04:48.720Z"
+    },
+    {
+      "id": "dw_3b6a4c4d6b",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Russia hits Ukraine's Kyiv, Odesa in fresh attacks",
+      "title_fa": "روسیه در حملات جدید به کی‌یف و اودسای اوکراین حمله کرد.",
+      "lead": "روسیه حملات جدیدی به شهرهای کی‌یف و اودسای اوکراین انجام داده است. این حملات در حالی صورت می‌گیرد که اوکراین با کمبود مهمات برای مقابله با موشک‌های بالستیک روسیه مواجه است. رئیس‌جمهور اوکراین، زلنسکی، از اعضای ناتو خواست تا به وعده‌های داده شده در اجلاس آنکارا عمل کنند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 11:49:00 GMT",
+      "time": "۱۵:۱۹ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T01:04:48.720Z"
+    },
+    {
+      "id": "dw_2e67eb089e",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Cuba suffers second nationwide blackout in five days",
+      "title_fa": "کوبا در پنج روز گذشته دچار دومین قطعی برق سراسری شد.",
+      "lead": "کوبا در طول پنج روز گذشته برای دومین بار دچار قطعی برق سراسری شده است. شبکه برق این کشور در میان محاصره شش ماهه سوخت توسط آمریکا و زیرساخت‌های انرژی از پیش فرسوده، فروپاشیده است.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/cuba-suffers-second-nationwide-blackout-in-five-days/a-77913285?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 23:27:00 GMT",
+      "time": "۰۲:۵۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T01:04:48.720Z"
     }
   ]
 }
