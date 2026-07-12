@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
   "agencyId": "france24",
-  "total": 55,
+  "total": 57,
   "articles": [
     {
       "id": "france24_34efb58a4a",
@@ -1318,6 +1318,54 @@
       "pubDate": "Sat, 11 Jul 2026 19:25:29 GMT",
       "time": "۲۲:۵۵ - ۲۰ تیر",
       "analyzed_at": "2026-07-11T19:36:53.372Z"
+    },
+    {
+      "id": "france24_eb74a84063",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Norway-England live: Haaland's Vikings seek to shock the Three Lions",
+      "title_fa": "نروژ-انگلیس زنده: وایکینگ‌های هالند در پی شگفتی‌سازی مقابل سه شیرها",
+      "lead": "نروژ و انگلیس در مرحله یک‌چهارم نهایی جام جهانی به مصاف یکدیگر می‌روند. هر دو تیم به دنبال راهیابی به نیمه‌نهایی هستند. سه شیرها قصد دارند کارزار حذفی خود را ادامه دهند، در حالی که اسکاندیناویایی‌ها می‌خواهند یکی از تیم‌های بزرگ فوتبال جهان را غافلگیر کنند.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/sport/20260711-norway-england-live-haaland-s-vikings-seek-to-shock-the-three-lions",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Sat, 11 Jul 2026 20:16:38 GMT",
+      "time": "۲۳:۴۶ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T20:42:05.363Z"
+    },
+    {
+      "id": "france24_ee3fb9384b",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "More than 1 million evacuated as Typhoon Bavi makes landfall in China",
+      "title_fa": "بیش از ۱ میلیون نفر در پی ورود تایفون باوی به چین تخلیه شدند",
+      "lead": "مقامات چینی تاکنون بیش از ۱.۷ میلیون نفر را تخلیه کرده‌اند، زیرا تایفون باوی در استان ژجیانگ شرقی این کشور به خشکی رسید. صدها پرواز نیز لغو شده و برخی خدمات قطار پرسرعت متوقف گشته‌اند.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.france24.com/en/asia-pacific/20260711-more-than-1-million-evacuated-as-typhoon-bavi-makes-landfall-in-china",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 11 Jul 2026 19:44:32 GMT",
+      "time": "۲۳:۱۴ - ۲۰ تیر",
+      "analyzed_at": "2026-07-11T20:42:05.363Z"
     }
   ]
 }
