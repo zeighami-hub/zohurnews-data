@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -26,6 +26,54 @@
       "pubDate": "Fri, 10 Jul 2026 23:21:53 +0000",
       "time": "۰۲:۵۱ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T00:34:39.218Z"
+    },
+    {
+      "id": "nytimes_86020c59c8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’",
+      "title_fa": "مسکو همچنان هنر و فرهنگ دارد؛ فقط «اوکراین» را به زبان نیاورید.",
+      "lead": "فضایی وهم‌آلود و مبهم بر نمایشگاه‌های کوچک هنری، تئاترهای مستقل و کلوب‌های سیاسی خصوصی حاکم است. در این اماکن، جنگ مانند فیلی در اتاق است که هیچ‌کس درباره آن حرفی نمی‌زند.",
+      "category": "culture",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 10 Jul 2026 13:03:34 +0000",
+      "time": "۱۶:۳۳ - ۱۹ تیر",
+      "analyzed_at": "2026-07-12T01:19:29.996Z"
+    },
+    {
+      "id": "nytimes_ef8590e37a",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "After Venezuela Earthquakes, a Youth Baseball League Counts the Dead",
+      "title_fa": "پس از زلزله‌های ونزوئلا، لیگ بیسبال جوانان در حال شمارش کشته‌شدگان است.",
+      "lead": "کودکانی که در لیگ بیسبال جوانان ونزوئلا، نمادی از غرور ملی، بازی می‌کردند، اکنون مجروح، یتیم یا کشته شده‌اند. این حادثه پس از وقوع زلزله‌های اخیر در این کشور رخ داده است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/10/world/americas/venezuela-earthquake-death-baseball-los-criollitos.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 95
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:01:59 +0000",
+      "time": "۱۲:۳۱ - ۱۹ تیر",
+      "analyzed_at": "2026-07-12T01:19:29.996Z"
     }
   ]
 }
