@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "bbc",
-  "total": 18,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_1130b60a0f",
@@ -434,6 +434,78 @@
       "pubDate": "Sat, 11 Jul 2026 15:03:45 GMT",
       "time": "۱۸:۳۳ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T07:23:39.774Z"
+    },
+    {
+      "id": "bbc_b2e44540b8",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
+      "title_fa": "دفتر سناتور آمریکایی لیندسی گراهام از درگذشت او پس از \"بیماری کوتاه و ناگهانی\" خبر داد",
+      "lead": "این سیاستمدار بانفوذ به تازگی از کی‌یف بازگشته بود، جایی که روز جمعه با رئیس‌جمهور اوکراین، ولودیمیر زلنسکی، دیدار کرده بود.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 07:33:12 GMT",
+      "time": "۱۱:۰۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T07:54:42.180Z"
+    },
+    {
+      "id": "bbc_2ea87ab9a5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "title_fa": "نخست‌وزیر لهستان متعهد شد یادبودی برای قربانیان \"نسل‌کشی ملی‌گرایان اوکراینی\" در جنگ جهانی دوم بسازد",
+      "lead": "ورشو و کی‌یف برای دهه‌ها بر سر کشتار هزاران غیرنظامی در طول جنگ جهانی دوم اختلاف نظر داشته‌اند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 11 Jul 2026 21:56:52 GMT",
+      "time": "۰۱:۲۶ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T07:54:42.180Z"
+    },
+    {
+      "id": "bbc_f65a4cafcf",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Small plane crash in Bahamas kills 10 people",
+      "title_fa": "سقوط هواپیمای کوچک در باهاما ۱۰ کشته بر جای گذاشت",
+      "lead": "در یک حادثه غم‌انگیز، یک هواپیمای کوچک در باهاما سقوط کرد که منجر به کشته شدن ۱۰ نفر شد. نخست وزیر این کشور این سقوط را که در روز استقلال رخ داد، یک فاجعه خواند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 04:47:37 GMT",
+      "time": "۰۸:۱۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T07:54:42.180Z"
     }
   ]
 }
