@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "guardian",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "guardian_888ebf97eb",
@@ -98,6 +98,30 @@
       "pubDate": "Sun, 12 Jul 2026 12:00:18 GMT",
       "time": "۱۵:۳۰ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T02:20:10.344Z"
+    },
+    {
+      "id": "guardian_fe4f334a4f",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+      "title_fa": "نیجریه می‌گوید ارتش ۳۰۰ راهزن را در ایالت زامفارا در شمال غرب این کشور کشته است",
+      "lead": "ارتش نیجریه اعلام کرد که این هفته بیش از ۳۰۰ نفر از اعضای باندهای آدم‌ربا و سارق دام را در ایالت زامفارا در شمال غرب کشور به هلاکت رسانده است. به گفته ساکنان، نیروهای مردمی نیز در این درگیری که تمام شب و صبح روز بعد ادامه داشت، شرکت داشتند.",
+      "category": "military",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 11:59:11 GMT",
+      "time": "۱۵:۲۹ - ۲۰ تیر",
+      "analyzed_at": "2026-07-13T02:35:35.188Z"
     }
   ]
 }
