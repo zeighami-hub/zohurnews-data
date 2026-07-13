@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "mehrnews",
-  "total": 32,
+  "total": 34,
   "articles": [
     {
       "id": "mehrnews_195c4b3fbc",
@@ -770,6 +770,54 @@
       "pubDate": "Sun, 12 Jul 2026 11:56:28 GMT",
       "time": "۱۵:۲۶ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T12:06:41.869Z"
+    },
+    {
+      "id": "mehrnews_41710a4467",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Cruise missile downed in Iran's Khorramabad (Photos)",
+      "title_fa": "سرنگونی موشک کروز آمریکایی در خرم‌آباد ایران (عکس)",
+      "lead": "سپاه پاسداران انقلاب اسلامی از سرنگونی یک موشک کروز آمریکایی در حومه شهرستان خرم‌آباد در استان لرستان خبر داد. این موشک با استفاده از سامانه پدافند موشکی پیشرفته تازه به دست آمده، ساقط شده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246112/Cruise-missile-downed-in-Iran-s-Khorramabad-Photos",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 12:34:24 GMT",
+      "time": "۱۶:۰۴ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T12:56:57.038Z"
+    },
+    {
+      "id": "mehrnews_af32067a7a",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Letter from Mideast: A shared Arab dream",
+      "title_fa": "نامه از خاورمیانه: رویایی مشترک عربی",
+      "lead": "برای چند روز فراموش‌نشدنی، به نظر می‌رسید جهان عرب یک رویای مشترک را در سر می‌پروراند. میلیون‌ها نفر در سراسر منطقه، از قاهره تا رباط، تیم‌های مصر و مراکش را دنبال می‌کردند که امیدهای عربی را تا مراحل حذفی جام جهانی پیش بردند.",
+      "category": "politics",
+      "region": "middle-east",
+      "sourceUrl": "https://en.mehrnews.com/news/246131/Letter-from-Mideast-A-shared-Arab-dream",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 12:20:35 GMT",
+      "time": "۱۵:۵۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T12:56:57.038Z"
     }
   ]
 }
