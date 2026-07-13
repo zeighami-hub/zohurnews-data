@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 27,
+  "total": 28,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -650,6 +650,30 @@
       "pubDate": "Sun, 12 Jul 2026 18:26:13 +0000",
       "time": "۲۱:۵۶ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T10:38:24.580Z"
+    },
+    {
+      "id": "nytimes_7955cc1f7a",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Netherlands Pushes to Make Manure a Hotter Product",
+      "title_fa": "هلند برای تبدیل کود حیوانی به محصولی با ارزش‌تر تلاش می‌کند",
+      "lead": "هلند به دلیل قوانین زیست‌محیطی در تلاش است تا راهی برای استفاده از کود حیوانی که دیگر نمی‌تواند به کار ببرد، پیدا کند. هزینه‌های بالای کود شیمیایی ممکن است به این کشور کمک کند تا کود حیوانی را به محصولی با ارزش‌تر تبدیل کند.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/europe/manure-fertilizer-netherlands.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Mon, 13 Jul 2026 07:19:46 +0000",
+      "time": "۱۰:۴۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T11:42:13.206Z"
     }
   ]
 }
