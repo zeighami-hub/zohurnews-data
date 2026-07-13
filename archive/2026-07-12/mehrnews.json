@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "mehrnews",
-  "total": 44,
+  "total": 45,
   "articles": [
     {
       "id": "mehrnews_195c4b3fbc",
@@ -1058,6 +1058,30 @@
       "pubDate": "Sun, 12 Jul 2026 21:20:42 GMT",
       "time": "۰۰:۵۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-12T21:35:08.259Z"
+    },
+    {
+      "id": "mehrnews_c3f5dec9d7",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran FM spokesman slams renewed US aggression",
+      "title_fa": "سخنگوی وزارت خارجه ایران تجاوز مجدد آمریکا را محکوم کرد",
+      "lead": "سخنگوی وزارت امور خارجه ایران روایت‌های غربی مبنی بر تجاوز بی‌دلیل عملیات اخیر ایران را رد کرده است. وی تاکید کرد که ایران در حال دفاع است و نه حمله.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246142/Iran-FM-spokesman-slams-renewed-US-aggression",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sun, 12 Jul 2026 22:02:22 GMT",
+      "time": "۰۱:۳۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-12T22:19:12.383Z"
     }
   ]
 }
