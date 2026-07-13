@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "france24",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "france24_a8ca37f4ad",
@@ -506,6 +506,54 @@
       "pubDate": "Mon, 13 Jul 2026 08:54:23 GMT",
       "time": "۱۲:۲۴ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T09:11:34.551Z"
+    },
+    {
+      "id": "france24_caa517922d",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Iran expands attacks on Gulf states after intense US strikes",
+      "title_fa": "ایران حملات خود را پس از ضربات شدید آمریکا به کشورهای خلیج فارس گسترش می‌دهد",
+      "lead": "ایران روز یکشنبه از حملاتی به دو جزیره جنوبی خود خبر داد. همزمان، کویت گزارش داد که پست‌های مرزی و یک سکوی نفتی فراساحلی در آن کشور هدف حمله قرار گرفته‌اند. این حملات، که هنوز کسی مسئولیت آنها را بر عهده نگرفته است، ساعاتی پس از حملات شدید آمریکا صورت گرفت.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260712-iran-expands-attacks-on-gulf-states-after-intense-us-strikes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 20:49:55 GMT",
+      "time": "۰۰:۱۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T09:40:46.634Z"
+    },
+    {
+      "id": "france24_6c026b28f0",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "How heatwaves are changing France's real-estate market",
+      "title_fa": "چگونه امواج گرما بازار املاک و مستغلات فرانسه را تغییر می‌دهند",
+      "lead": "با افزایش دفعات امواج گرما در فرانسه، مشاوران املاک می‌گویند اولویت‌های خریداران ملک در حال تغییر است. این تغییرات به دلیل تاثیرات اقلیمی بر بازار املاک این کشور است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/business/20260713-how-heatwaves-are-changing-france-s-real-estate-market",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 09:04:04 GMT",
+      "time": "۱۲:۳۴ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T09:26:09.421Z"
     }
   ]
 }
