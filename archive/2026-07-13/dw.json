@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "dw",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "dw_e4c75aad23",
@@ -74,6 +74,76 @@
       "pubDate": "Sun, 12 Jul 2026 08:22:00 GMT",
       "time": "۱۱:۵۲ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "dw_ad43371d9f",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Ukraine's Zelenskyy swaps out prime minister in reshuffle",
+      "title_fa": "زلنسکی، نخست وزیر اوکراین را در تغییرات کابینه برکنار کرد",
+      "lead": "رئیس جمهور اوکراین از تغییرات کابینه خبر داد و یولیا سویریدنکو پس از یک سال از سمت نخست وزیری کناره‌گیری کرد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 17:03:00 GMT",
+      "time": "۲۰:۳۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "dw_2",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
+      "title_fa": "صف‌های سوخت طولانی‌تر می‌شوند؛ اوکراین عرضه سوخت روسیه را هدف قرار می‌دهد",
+      "lead": "حملات اوکراین به بحران سوخت در روسیه منجر شده است. گزارش‌ها از سراسر روسیه نشان می‌دهد که ساکنان چگونه با اختلالات در زندگی روزمره خود کنار می‌آیند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russias-fuel-supply/a-77887704?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "dw_59f999ee36",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Two people killed and several wounded in mass shooting at Toronto festival",
+      "title_fa": "دو نفر کشته و چندین نفر در تیراندازی گسترده در جشنواره تورنتو زخمی شدند",
+      "lead": "این تیراندازی در طول یک رویداد سالسا، بزرگترین جشنواره خیابانی لاتین کانادا، رخ داد. پلیس تورنتو می‌گوید دو فرد مسلح مسئول این حادثه بوده‌اند، اما مظنونان هنوز بازداشت نشده‌اند.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/two-people-killed-and-several-wounded-in-mass-shooting-at-toronto-festival/a-77920249?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 01:03:00 GMT",
+      "time": "۰۴:۳۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
     }
   ]
 }
