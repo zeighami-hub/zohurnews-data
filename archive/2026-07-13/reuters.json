@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "reuters",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "reuters_641b0141a9",
@@ -534,6 +534,52 @@
         "negative": 100
       },
       "analyzed_at": "2026-07-13T08:09:30.807Z"
+    },
+    {
+      "id": "reuters_00f69b5771",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran widens attacks on US bases in Gulf, Hormuz tensions lift oil prices - Reuters",
+      "title_fa": "رویترز: ایران حملات به پایگاه‌های آمریکا در خلیج فارس را گسترش داد؛ تنش‌ها در هرمز قیمت نفت را افزایش داد",
+      "lead": "رویترز گزارش داده است که ایران حملات خود را به پایگاه‌های ایالات متحده در خلیج فارس گسترش داده است. این تنش‌ها در منطقه هرمز منجر به افزایش قیمت نفت شده است.",
+      "category": "military",
+      "region": "Middle East",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 06:47:00 GMT",
+      "time": "۱۰:۱۷ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T10:29:29.389Z"
+    },
+    {
+      "id": "reuters_1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Dollar wavers amid renewed Iran attacks, yen slides on pensions doubts - Reuters",
+      "title_fa": "دلار در پی حملات جدید ایران دچار نوسان شد، ین به دلیل تردیدها در مورد بازنشستگی سقوط کرد",
+      "lead": "ارزش دلار آمریکا در بحبوحه حملات جدید به ایران دچار نوسان شده است. در همین حال، ین ژاپن به دلیل تردیدها در مورد سیستم بازنشستگی با افت ارزش مواجه شد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjVMa3FGTU1NQ1pSWXVaRllPTTBLc0xYR1dlQS1URUdySXZOb1ZaT3RxUFNlUmo4djVDcTNrWVpNOUFsNnpkcW5nWFJyZWlKamtvMlppZkYyTUpLeFBGc1dYUHYtcTNSTjk2aVhDSjI2OUV0MU81eDBsMUNaRGxiZHQ2SzUzRTBsd290RGZRTWl0NUZ0Mi1LVnBsMVMzSWlqNVJUcEJQQVp4cTRUUGhj?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-13T10:29:29.389Z"
     }
   ]
 }
