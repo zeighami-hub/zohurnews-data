@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "economist",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "economist_376199c627",
@@ -482,6 +482,28 @@
       "pubDate": "Tue, 05 May 2026 21:04:24 +0000",
       "time": "۰۰:۳۴ - ۱۶ اردیبهشت",
       "analyzed_at": "2026-07-12T07:54:42.180Z"
+    },
+    {
+      "id": "economist_0",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "Child suspects are being prosecuted at younger ages",
+      "title_fa": "مظنونان کودک در سنین پایین‌تر تحت پیگرد قانونی قرار می‌گیرند",
+      "lead": "برخی دولت‌ها در حال کاهش سن مسئولیت کیفری هستند. این رویکرد ممکن است نتایج معکوسی داشته باشد و عواقب ناخواسته‌ای در پی داشته باشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.economist.com/international/2026/07/09/child-suspects-are-being-проsecuted-at-younger-ages",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-12T20:42:27.569Z"
     }
   ]
 }
