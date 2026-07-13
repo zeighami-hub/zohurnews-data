@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 27,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -578,6 +578,78 @@
       "pubDate": "Sun, 12 Jul 2026 17:13:47 +0000",
       "time": "۲۰:۴۳ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T09:26:09.421Z"
+    },
+    {
+      "id": "nytimes_f67a08b7e8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Hard-Liners in Iran Want to Keep Fighting America",
+      "title_fa": "تندروها در ایران خواهان ادامه نبرد با آمریکا هستند",
+      "lead": "با کشته شدن بخش عمده‌ای از رهبرانشان در جنگ، تندروها در ایران به دنبال پر کردن این خلاء و تشدید مبارزه علیه ایالات متحده هستند.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 11:24:55 +0000",
+      "time": "۱۴:۵۴ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T10:38:24.580Z"
+    },
+    {
+      "id": "nytimes_0dc3a32f04",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
+      "title_fa": "با کناره‌گیری لیندسی گراهام، اوکراین یکی از متحدان خود در حلقه نزدیک ترامپ را از دست می‌دهد",
+      "lead": "لیندسی گراهام، سناتور جمهوری‌خواه کارولینای جنوبی، تاثیرگذارترین حامی اوکراین در میان حلقه سیاسی \"آمریکای اول\" پرزیدنت ترامپ بود. با کناره‌گیری او، اوکراین یکی از اصلی‌ترین متحدان خود را در داخل ایالات متحده از دست داده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 09:10:17 +0000",
+      "time": "۱۲:۴۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T10:38:24.580Z"
+    },
+    {
+      "id": "nytimes_25079b6d93",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Inside Herat, Where a Taliban Campaign Targets a Cosmopolitan Outpost",
+      "title_fa": "درون هرات، جایی که کمپین طالبان یک پایگاه جهانی را هدف قرار می‌دهد",
+      "lead": "رهبر افغانستان کنترل کامل خود را بر شهری اعمال کرده است که حتی تحت حکومت طالبان نیز از هنجارهای اجتماعی آزادانه‌تری برخوردار بود. این اقدام در قالب کمپینی انجام می‌شود که یک پایگاه جهانی در هرات را هدف قرار داده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 18:26:13 +0000",
+      "time": "۲۱:۵۶ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T10:38:24.580Z"
     }
   ]
 }
