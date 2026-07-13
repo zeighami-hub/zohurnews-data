@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "bbc",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "bbc_f9bde58bb8",
@@ -146,6 +146,54 @@
       "pubDate": "Sat, 11 Jul 2026 13:44:03 GMT",
       "time": "۱۷:۱۴ - ۲۰ تیر",
       "analyzed_at": "2026-07-13T02:35:35.188Z"
+    },
+    {
+      "id": "bbc_4645adbf8b",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US launches new attacks on Iran, killing one person, state media reports",
+      "title_fa": "حملات جدید آمریکا به ایران و کشته شدن یک نفر، گزارش رسانه‌های دولتی",
+      "lead": "رسانه‌های دولتی گزارش دادند که آمریکا حملات جدیدی را علیه ایران انجام داده که منجر به کشته شدن یک نفر شده است. ساعاتی پس از این حملات، ایران اعلام کرد که پایگاه‌های نظامی آمریکا در اردن و بحرین را هدف قرار داده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 04:06:57 GMT",
+      "time": "۰۷:۳۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T04:22:26.600Z"
+    },
+    {
+      "id": "bbc_770d6bf5a9",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
+      "title_fa": "اعزام هواپیماها برای مقابله با آتش‌سوزی‌های «فوق‌العاده گسترده» در نزدیکی پاریس",
+      "lead": "هواپیماهایی برای مقابله با آتش‌سوزی‌های جنگلی «فوق‌العاده گسترده» در نزدیکی پاریس اعزام شده‌اند. این برای اولین بار است که هواپیماهای اطفاء حریق از جنوب کشور برای مقابله با آتش‌سوزی‌ها در منطقه پاریس به پرواز درآمده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 03:36:09 GMT",
+      "time": "۰۷:۰۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T04:22:26.600Z"
     }
   ]
 }
