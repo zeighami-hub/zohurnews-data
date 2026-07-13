@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "bbc",
-  "total": 16,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_f9bde58bb8",
@@ -386,6 +386,126 @@
       "pubDate": "Sun, 12 Jul 2026 18:57:17 GMT",
       "time": "۲۲:۲۷ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T07:39:13.025Z"
+    },
+    {
+      "id": "bbc_1f1e8ee37f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "At least 27 killed, 22 critically injured after fire engulfs Bangkok bar",
+      "title_fa": "دست‌کم ۲۷ کشته و ۲۲ زخمی در آتش‌سوزی مهیب یک بار در بانکوک",
+      "lead": "در پی آتش‌سوزی در یک بار در بانکوک، دست‌کم ۲۷ نفر کشته و ۲۲ نفر به شدت زخمی شدند. آتش‌نشانان پس از رسیدن به محل حادثه در منطقه چاتوچاک، شاهد فرار مشتریان از میان شعله‌های آتش برای نجات جان خود بودند.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 06:07:17 GMT",
+      "time": "۰۹:۳۷ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T09:26:09.421Z"
+    },
+    {
+      "id": "bbc_b2e44540b8",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "title_fa": "لیندسی گراهام، سناتور آمریکایی و متحد نزدیک ترامپ، پس از «بیماری کوتاه و ناگهانی» درگذشت",
+      "lead": "سخنگوی سناتور ۷۱ ساله کارولینای جنوبی اعلام کرد که یافته‌های اولیه نشان می‌دهد علت مرگ گراهام مربوط به قلب او بوده است. این خبر ناگهانی جامعه سیاسی آمریکا را تحت تاثیر قرار داده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 22:08:07 GMT",
+      "time": "۰۱:۳۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T09:26:09.421Z"
+    },
+    {
+      "id": "bbc_47f82eb69f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "title_fa": "آنتونی زورچر: لیندسی گراهام، از منتقد ترامپ تا متحد او، یکی از بازماندگان سیاسی دوران ماگا بود",
+      "lead": "به نوشته خبرنگار بی‌بی‌سی در آمریکای شمالی، کارنامه این سناتور با تمایل به سازگاری با فضای سیاسی به شدت متغیر آمریکا مشخص شده است. این مقاله به تحلیل مسیر سیاسی او می‌پردازد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 19:42:26 GMT",
+      "time": "۲۳:۱۲ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T09:26:09.421Z"
+    },
+    {
+      "id": "bbc_2ea87ab9a5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "title_fa": "نخست‌وزیر لهستان متعهد شد بنای یادبود قربانیان «نسل‌کشی ناسیونالیست‌های اوکراینی» در جنگ جهانی دوم را بسازد",
+      "lead": "ورشو و کی‌یف دهه‌هاست بر سر کشتار هزاران غیرنظامی در طول جنگ جهانی دوم اختلاف دارند. این تعهد جدید نخست‌وزیر لهستان می‌تواند بر روابط بین دو کشور تأثیر بگذارد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 11 Jul 2026 21:56:52 GMT",
+      "time": "۰۱:۲۶ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T09:26:09.421Z"
+    },
+    {
+      "id": "bbc_4136d57feb",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "title_fa": "نماینده دموکرات آمریکا، رو کانا، می‌گوید توسط شهرک‌نشینان مسلح اسرائیلی بازداشت شده است",
+      "lead": "رو کانا، نماینده دموکرات آمریکا، اظهار داشته است که هنگام بازدید از کرانه باختری اشغالی به مدت ۹۰ دقیقه توسط شهرک‌نشینان مسلح اسرائیلی بازداشت شده است. او ۴۹ ساله است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sat, 11 Jul 2026 18:00:09 GMT",
+      "time": "۲۱:۳۰ - ۲۰ تیر",
+      "analyzed_at": "2026-07-13T09:26:09.421Z"
     }
   ]
 }
