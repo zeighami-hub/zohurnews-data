@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "independent",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "independent_29628e064b",
@@ -98,6 +98,30 @@
       "pubDate": "Mon, 13 Jul 2026 00:59:26 GMT",
       "time": "۰۴:۲۹ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T02:35:35.188Z"
+    },
+    {
+      "id": "independent_94e998b08b",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "US ends latest round of airstrikes on Iran after Tehran strikes Gulf states",
+      "title_fa": "آمریکا به آخرین دور حملات هوایی علیه ایران پایان داد",
+      "lead": "ارتش آمریکا اعلام کرد که به آخرین موج حملات خود علیه ایران پایان داده است. این نهاد نظامی تاکید کرد که تهران کنترل تنگه هرمز را در اختیار ندارد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/news/dubai-iran-tehran-united-arab-emirates-strait-of-hormuz-b3013590.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 02:45:04 GMT",
+      "time": "۰۶:۱۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T03:04:08.782Z"
     }
   ]
 }
