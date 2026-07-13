@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -146,6 +146,54 @@
       "pubDate": "Mon, 13 Jul 2026 04:00:00 +0000",
       "time": "۰۷:۳۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T04:07:00.023Z"
+    },
+    {
+      "id": "nytimes_16a09ccaa1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "It’s the Scent of Manure to Most, but ‘the Smell of Money’ to Them",
+      "title_fa": "در هلند، بوی کود دامی برای برخی «بوی پول» است",
+      "lead": "هلند به دلیل قوانین زیست‌محیطی در تلاش است تا راه حلی برای کود دامی که دیگر قابل استفاده نیست، بیابد. نوسانات در هزینه‌های کود ممکن است در این زمینه کمک کند.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/europe/its-the-scent-of-manure-to-most-but-the-smell-of-money-to-them.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "pubDate": "Mon, 13 Jul 2026 04:01:08 +0000",
+      "time": "۰۷:۳۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T04:22:26.600Z"
+    },
+    {
+      "id": "nytimes_8092c719d1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Japan Is Building a New Intelligence Agency With Help From the West",
+      "title_fa": "ژاپن با کمک غرب، آژانس اطلاعاتی جدیدی می‌سازد",
+      "lead": "ژاپن در واکنش به تهدیدات روسیه و چین، در حال تأسیس یک آژانس اطلاعاتی جدید با کمک کشورهای غربی است. نخست‌وزیر سانائه تاکایچی با این اقدام، محدودیت‌های امنیتی دوران جنگ جهانی دوم را زیر پا می‌گذارد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/asia/japan-is-building-a-new-intelligence-agency-with-help-from-the-west.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Mon, 13 Jul 2026 04:01:08 +0000",
+      "time": "۰۷:۳۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T04:22:26.600Z"
     }
   ]
 }
