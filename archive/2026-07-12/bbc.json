@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "bbc",
-  "total": 29,
+  "total": 30,
   "articles": [
     {
       "id": "bbc_1130b60a0f",
@@ -698,6 +698,30 @@
       "pubDate": "Sun, 12 Jul 2026 15:22:52 GMT",
       "time": "۱۸:۵۲ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T17:15:20.316Z"
+    },
+    {
+      "id": "bbc_860e3f63af",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "title_fa": "آفریقای جنوبی از اخراج بیش از ۵۳ هزار خارجی در کمپین مهاجرتی خبر داد",
+      "lead": "آفریقای جنوبی اعلام کرده است که بیش از ۵۳ هزار خارجی را در چارچوب یک کمپین مهاجرتی اخراج کرده است. این کشور پس از اعتراضات گسترده ضد مهاجرت، مقابله با مهاجران غیرقانونی را تشدید کرده است.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 18:57:17 GMT",
+      "time": "۲۲:۲۷ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T19:23:18.240Z"
     }
   ]
 }
