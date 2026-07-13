@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "aljazeera",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "aljazeera_06de707cd3",
@@ -386,6 +386,30 @@
       "pubDate": "Mon, 13 Jul 2026 07:41:59 +0000",
       "time": "۱۱:۱۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T08:23:46.435Z"
+    },
+    {
+      "id": "aljazeera_d23779f5cb",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "More than 2,700 deaths in UK linked to May, June heatwaves",
+      "title_fa": "بیش از ۲۷۰۰ مرگ در بریتانیا با موج گرمای ماه مه و ژوئن مرتبط است",
+      "lead": "بریتانیا در سال جاری دو موج گرمای بی‌سابقه را تجربه کرده است که دمای هوا در ماه مه به ۳۵.۱ درجه سانتی‌گراد و در ماه ژوئن به ۳۷.۷ درجه سانتی‌گراد رسیده است. بیش از ۲۷۰۰ مورد مرگ در این کشور به این امواج گرما در ماه‌های مه و ژوئن مرتبط شده است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/13/more-than-2700-deaths-in-uk-linked-to-may-june-heatwaves?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 08:01:19 +0000",
+      "time": "۱۱:۳۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T08:38:48.709Z"
     }
   ]
 }
