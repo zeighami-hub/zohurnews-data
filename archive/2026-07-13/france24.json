@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "france24",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "france24_a8ca37f4ad",
@@ -338,6 +338,54 @@
       "pubDate": "Sun, 12 Jul 2026 17:33:28 GMT",
       "time": "۲۱:۰۳ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T06:55:36.431Z"
+    },
+    {
+      "id": "france24_a7c6cf2852",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Jannik Sinner beats Alexander Zverev to win second straight Wimbledon title",
+      "title_fa": "یانیک سینر با غلبه بر الکساندر زورف، دومین عنوان پیاپی ویمبلدون خود را کسب کرد",
+      "lead": "یانیک سینر، تنیس‌باز ایتالیایی، با شکست الکساندر زورف، دومین عنوان قهرمانی متوالی خود در ویمبلدون را به دست آورد. حریف آلمانی سینر به نظر می‌رسید در اواخر ست سوم، پس از یک سُرخوردگی، از ناحیه زانو دچار مشکل شده است.",
+      "category": "sport",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/sport/20260712-jannik-sinner-beats-alexander-zverev-to-win-second-straight-wimbledon-title",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 19:15:15 GMT",
+      "time": "۲۲:۴۵ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T07:39:13.025Z"
+    },
+    {
+      "id": "france24_40dcfa3488",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Hundreds evacuated from Paris suburb after weapons found near synagogue",
+      "title_fa": "پس از کشف اسلحه در نزدیکی یک کنیسه، صدها نفر از حومه پاریس تخلیه شدند",
+      "lead": "روز شنبه، سیصد نفر از یک محله در سارسِل، واقع در شمال پاریس، پس از گزارش‌هایی مبنی بر وجود یک خودروی مشکوک، تخلیه شدند. وزیر کشور اعلام کرد که در این خودرو اسلحه، از جمله \"یک سلاح با درجه نظامی\"، کشف شده است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/france/20260712-hundreds-evacuated-from-paris-suburb-after-weapons-found-near-synagogue",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 18:48:20 GMT",
+      "time": "۲۲:۱۸ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T07:39:13.025Z"
     }
   ]
 }
