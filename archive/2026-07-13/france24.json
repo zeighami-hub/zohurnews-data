@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "france24",
-  "total": 31,
+  "total": 33,
   "articles": [
     {
       "id": "france24_a8ca37f4ad",
@@ -746,6 +746,54 @@
       "pubDate": "Mon, 13 Jul 2026 10:31:20 GMT",
       "time": "۱۴:۰۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T10:52:58.335Z"
+    },
+    {
+      "id": "france24_7e1b750b3c",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Iran: Rising regional power or too weak to make peace?",
+      "title_fa": "ایران: قدرت منطقه‌ای رو به افزایش یا بسیار ضعیف برای صلح؟",
+      "lead": "بررسی مطبوعات روز دوشنبه به تحلیل استراتژی ایران در برابر ایالات متحده می‌پردازد. این تحلیل درباره این است که آیا ایران یک قدرت منطقه‌ای رو به افزایش است یا برای صلح بسیار ضعیف است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/press-review/20260713-iran-rising-regional-power-or-too-weak-to-make-peace",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 10:56:19 GMT",
+      "time": "۱۴:۲۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T11:42:13.206Z"
+    },
+    {
+      "id": "france24_ca5ae5f850",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Replay: Emmanuel Macron addresses armed forces for the last time",
+      "title_fa": "بازپخش: امانوئل ماکرون برای آخرین بار خطاب به نیروهای مسلح سخنرانی می‌کند",
+      "lead": "امانوئل ماکرون، رئیس‌جمهور فرانسه، آخرین سخنرانی خود را خطاب به نیروهای مسلح پیش از تعطیلات ملی ۱۴ جولای انجام داد. این خبر امکان بازپخش این سخنرانی را فراهم می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/replay-emmanuel-macron-addresses-armed-forces-for-the-last-time",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 11:00:03 GMT",
+      "time": "۱۴:۳۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T11:42:13.206Z"
     }
   ]
 }
