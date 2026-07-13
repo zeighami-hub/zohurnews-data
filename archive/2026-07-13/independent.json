@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "independent",
-  "total": 42,
+  "total": 44,
   "articles": [
     {
       "id": "independent_29628e064b",
@@ -1010,6 +1010,54 @@
       "pubDate": "Mon, 13 Jul 2026 06:36:14 GMT",
       "time": "۱۰:۰۶ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T06:55:36.431Z"
+    },
+    {
+      "id": "independent_ced2748d73",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Oil prices soar after Middle East conflict escalates again",
+      "title_fa": "قیمت نفت پس از تشدید مجدد درگیری در خاورمیانه سر به فلک کشید",
+      "lead": "قیمت نفت با افزایش قابل توجهی مواجه شده است. این افزایش به عنوان نتیجه مستقیم تشدید مجدد درگیری‌ها در منطقه خاورمیانه گزارش شده است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/oil-prices-us-uk-iran-war-strait-of-hormuz-b3013636.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 06:52:56 GMT",
+      "time": "۱۰:۲۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T07:09:41.260Z"
+    },
+    {
+      "id": "independent_d22fe0a5ad",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Heathrow passenger numbers dropped 1.8% in June",
+      "title_fa": "تعداد مسافران فرودگاه هیترو در ماه ژوئن ۱.۸ درصد کاهش یافت",
+      "lead": "فرودگاه غرب لندن اعلام کرد که ۷.۲ میلیون مسافر در ماه ژوئن از چهار پایانه آن عبور کرده‌اند. این رقم نشان‌دهنده کاهش ۱.۸ درصدی نسبت به دوره‌های پیشین است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/news/business/heathrow-london-north-america-middle-east-government-b3013637.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 06:52:43 GMT",
+      "time": "۱۰:۲۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T07:09:41.260Z"
     }
   ]
 }
