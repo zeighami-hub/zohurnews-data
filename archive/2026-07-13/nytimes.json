@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -386,6 +386,30 @@
       "pubDate": "Sun, 12 Jul 2026 04:01:13 +0000",
       "time": "۰۷:۳۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "nytimes_dc8025e66c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Sheikh Hamad bin Khalifa, Ruler Who Transformed Qatar, Dies at 74",
+      "title_fa": "شیخ حمد بن خلیفه، حاکمی که قطر را متحول کرد، در ۷۴ سالگی درگذشت",
+      "lead": "شیخ حمد بن خلیفه، حاکم سابق قطر که کشورش را متحول کرد، در سن ۷۴ سالگی درگذشت. در دوران حکومت او، این کشور کوچک از ثروت عظیم گاز طبیعی بهره‌مند شد و نفوذ خود را فراتر از مرزهایش گسترش داد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Sun, 12 Jul 2026 18:11:16 +0000",
+      "time": "۲۱:۴۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:55:36.431Z"
     }
   ]
 }
