@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -194,6 +194,30 @@
       "pubDate": "Mon, 13 Jul 2026 04:01:08 +0000",
       "time": "۰۷:۳۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T04:22:26.600Z"
+    },
+    {
+      "id": "nytimes_2bb2b4e32e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Japan Is Building a New Intelligence Agency With Help From the West",
+      "title_fa": "ژاپن با کمک غرب یک آژانس اطلاعاتی جدید می‌سازد",
+      "lead": "ژاپن در مواجهه با تهدیدات فزاینده روسیه و چین، نخست‌وزیر سنائه تاکایچی در حال تأسیس یک آژانس اطلاعاتی جدید است. این اقدام نشان‌دهنده عدول از محدودیت‌های امنیتی ژاپن پس از جنگ جهانی دوم است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 04:01:09 +0000",
+      "time": "۰۷:۳۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T04:37:03.555Z"
     }
   ]
 }
