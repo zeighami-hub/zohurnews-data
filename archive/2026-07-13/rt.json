@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "rt",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "rt_f892bedb84",
@@ -314,6 +314,54 @@
       "pubDate": "Sun, 12 Jul 2026 06:33:28 +0000",
       "time": "۱۰:۰۳ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T07:53:16.987Z"
+    },
+    {
+      "id": "rt_9930ad2df9",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "White House subpoenas NYT reporters over article on Qatari-donated Air Force One",
+      "title_fa": "کاخ سفید خبرنگاران نیویورک تایمز را در مورد مقاله‌ای درباره ایر فورس وان اهدایی قطر احضار کرد",
+      "lead": "دولت ترامپ چند خبرنگار نیویورک تایمز را در خصوص مقاله‌ای درباره ایر فورس وان اهدایی قطر احضار کرده است. این اقدام کاخ سفید واکنش‌های گسترده‌ای را در پی داشته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/642924-trump-admin-subpoenas-reporters-article-qatari-donated-air-force-one/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 21:06:39 +0000",
+      "time": "۰۰:۳۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T09:40:46.634Z"
+    },
+    {
+      "id": "rt_717eedb534",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Lindsey Graham was a monster, but not exceptional",
+      "title_fa": "لیندسی گراهام هیولا بود، اما استثنایی نبود",
+      "lead": "مرگ لیندسی گراهام با ستایش‌های گرمی از سوی رهبران غربی همراه شده است، اما رویکرد او در قبال غزه، ایران و اوکراین داستانی بسیار تاریک‌تر را روایت می‌کند. این مقاله به بررسی این دیدگاه متضاد می‌پردازد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/642923-lindsey-graham-was-monster/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 20:39:53 +0000",
+      "time": "۰۰:۰۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T09:26:09.421Z"
     }
   ]
 }
