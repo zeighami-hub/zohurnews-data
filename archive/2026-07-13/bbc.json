@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "bbc",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "bbc_f9bde58bb8",
@@ -218,6 +218,54 @@
       "pubDate": "Mon, 13 Jul 2026 00:29:21 GMT",
       "time": "۰۳:۵۹ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "bbc_5543115b7c",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "title_fa": "شیخ حمد بن خلیفه آل ثانی، امیر سابق قطر، در ۷۴ سالگی درگذشت",
+      "lead": "شیخ حمد بن خلیفه آل ثانی، امیر سابق قطر، در ۷۴ سالگی درگذشت. او در سال ۱۹۹۶ با کودتایی بدون خونریزی علیه پدرش به قدرت رسید و قطر را به قدرت گازی کنونی تبدیل کرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 16:35:50 GMT",
+      "time": "۲۰:۰۵ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "bbc_7a0a643aab",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "David Willey, esteemed BBC Vatican correspondent, dies aged 93",
+      "title_fa": "دیوید ویلی، خبرنگار برجسته بی‌بی‌سی در واتیکان، در ۹۳ سالگی درگذشت",
+      "lead": "دیوید ویلی، یکی از با سابقه‌ترین خبرنگاران خارجی بی‌بی‌سی، در ۹۳ سالگی درگذشت. او در طول دوران حرفه‌ای خود در مورد پنج پاپ گزارش تهیه کرده بود.",
+      "category": "media",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 15:22:52 GMT",
+      "time": "۱۸:۵۲ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
     }
   ]
 }
