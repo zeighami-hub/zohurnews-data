@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "bbc_f9bde58bb8",
@@ -194,6 +194,30 @@
       "pubDate": "Mon, 13 Jul 2026 03:36:09 GMT",
       "time": "۰۷:۰۶ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T04:22:26.600Z"
+    },
+    {
+      "id": "bbc_9cb75f6363",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "British couple return to village at heart of deadly Spanish wildfire",
+      "title_fa": "بازگشت زوج بریتانیایی به روستایی در کانون آتش‌سوزی مرگبار اسپانیا",
+      "lead": "یک زوج بریتانیایی پس از آتش‌سوزی مرگبار در اسپانیا به روستای محل زندگی خود بازگشتند. این آتش‌سوزی در استان آلمریا اسپانیا حداقل ۱۳ نفر از جمله پنج بریتانیایی را به کام مرگ کشانده است.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 00:29:21 GMT",
+      "time": "۰۳:۵۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
     }
   ]
 }
