@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "france24",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "france24_a8ca37f4ad",
@@ -290,6 +290,54 @@
       "pubDate": "Mon, 13 Jul 2026 06:08:03 GMT",
       "time": "۰۹:۳۸ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T06:23:55.913Z"
+    },
+    {
+      "id": "france24_23bee3e0d7",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Macron calls for 'constant vigilance' against antisemitism as France honors Alfred Dreyfus",
+      "title_fa": "ماکرون همزمان با بزرگداشت آلفرد دریفوس، خواستار \"هوشیاری مداوم\" در برابر یهودی‌ستیزی شد",
+      "lead": "امانوئل ماکرون، رئیس‌جمهور فرانسه، روز یکشنبه از تندیس آلفرد دریفوس رونمایی کرد. او همزمان با این بزرگداشت، خواستار \"هوشیاری مداوم\" در برابر یهودی‌ستیزی شد و از ظهور مجدد \"شیاطین\" یهودی‌ستیزی ابراز نگرانی کرد. دریفوس در قرن نوزدهم به ناحق محکوم شده بود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/france/20260712-macron-calls-for-constant-vigilance-against-antisemitism-as-france-honors-alfred-dreyfus",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 20,
+        "negative": 30
+      },
+      "pubDate": "Sun, 12 Jul 2026 18:26:00 GMT",
+      "time": "۲۱:۵۶ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:55:36.431Z"
+    },
+    {
+      "id": "france24_d98729effe",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Are tanks ageing like the cavalry in WW1?",
+      "title_fa": "آیا تانک‌ها مانند سواره‌نظام در جنگ جهانی اول در حال قدیمی شدن هستند؟",
+      "lead": "پیشرفت سریع فناوری در جنگ پهپادی، با هدایت هوش مصنوعی در اوکراین و سایر نقاط جهان، چهره درگیری‌ها را به طور بنیادی تغییر داده است. این پرسش مطرح است که این تغییر تا چه حد رادیکال است: آیا یک تکامل است یا...",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/spotlight/20260712-are-tanks-aging-like-the-cavalry-in-ww1",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 17:33:28 GMT",
+      "time": "۲۱:۰۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:55:36.431Z"
     }
   ]
 }
