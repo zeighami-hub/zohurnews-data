@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -74,6 +74,30 @@
       "pubDate": "Sun, 12 Jul 2026 00:12:39 +0000",
       "time": "۰۳:۴۲ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T00:34:18.619Z"
+    },
+    {
+      "id": "nytimes_87751f8aab",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s the latest.",
+      "title_fa": "آخرین تحولات: ایران، جنگ، ترامپ، هرمز",
+      "lead": "این خبر خلاصه‌ای از آخرین تحولات مربوط به موضوعات ایران، جنگ، ترامپ و تنگه هرمز را پوشش می‌دهد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/heres-the-latest",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 22:41:58 +0000",
+      "time": "۰۲:۱۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T02:20:10.344Z"
     }
   ]
 }
