@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "france24",
-  "total": 2,
+  "total": 10,
   "articles": [
     {
       "id": "france24_a8ca37f4ad",
@@ -50,6 +50,198 @@
       "pubDate": "Mon, 13 Jul 2026 02:19:14 GMT",
       "time": "۰۵:۴۹ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T02:35:35.188Z"
+    },
+    {
+      "id": "france24_414abbe687",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Lindsey Graham: 'He was the one who justified Israel's actions'",
+      "title_fa": "لیندسی گراهام: «او کسی بود که اقدامات اسرائیل را توجیه می‌کرد»",
+      "lead": "لیندسی گراهام، سناتور آمریکایی، اغلب به ترامپ در امور خارجی، به ویژه در مسائل مربوط به اسرائیل، اوکراین و ایران مشاوره می‌داد. او بازدیدکننده مکرر کاخ سفید بود.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/video/20260712-lindsey-graham-he-was-the-one-who-justified-israel-s-actions",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 16:33:41 GMT",
+      "time": "۲۰:۰۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "france24_3bba68cd95",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Ukrainian drone strikes kill at least 3, wound 5 in Moscow region",
+      "title_fa": "حملات پهپادی اوکراین دست‌کم ۳ کشته و ۵ زخمی در منطقه مسکو برجای گذاشت",
+      "lead": "فرماندار آندری ووروبیوف در تلگرام اعلام کرد که حملات پهپادی در منطقه مسکو دست‌کم سه کشته و پنج زخمی برجای گذاشته است. اوکراین در پاسخ به حملات مسکو، حملات خود را به اهداف انرژی روسیه تشدید کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/europe/20260713-ukrainian-drone-strikes-kill-at-least-3-wound-5-moscow-region",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:23:39 GMT",
+      "time": "۰۸:۵۳ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "france24_aeafce3774",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Spain ex-PM draws criticism with 'xenophobic' remark on French team",
+      "title_fa": "نخست‌وزیر سابق اسپانیا با اظهارات \"بیگانه‌هراسانه\" درباره تیم فرانسه مورد انتقاد قرار گرفت",
+      "lead": "ماریانو راخوی، نخست‌وزیر سابق محافظه‌کار اسپانیا، روز یکشنبه پس از اظهارنظرش مبنی بر اینکه تیم ملی فوتبال فرانسه \"بازیکن فرانسوی ندارد\"، در داخل کشور و در فرانسه مورد انتقاد قرار گرفت. خبرنگار ما، سارا موریس، اطلاعات بیشتری در این باره ارائه می‌دهد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/video/20260712-spain-ex-pm-draws-criticism-with-xenophobic-remark-on-french-team",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sun, 12 Jul 2026 16:17:03 GMT",
+      "time": "۱۹:۴۷ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "france24_15a14e119d",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Sanchez slams 'xenophobic' remarks by ex-PM about French football team",
+      "title_fa": "سانچز اظهارات \"بیگانه‌هراسانه\" نخست‌وزیر سابق درباره تیم فوتبال فرانسه را محکوم کرد",
+      "lead": "پدرو سانچز، نخست‌وزیر اسپانیا، روز یکشنبه اظهارات ماریانو راخوی، نخست‌وزیر سابق محافظه‌کار را محکوم کرد. راخوی گفته بود که تیم ملی فوتبال فرانسه \"بازیکن فرانسوی ندارد\"؛ سانچز این اظهارنظر را \"بیگانه‌هراسانه\" خواند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/europe/20260712-sanchez-slams-xenophobic-remarks-by-ex-pm-about-french-football-team",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sun, 12 Jul 2026 16:15:58 GMT",
+      "time": "۱۹:۴۵ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "france24_b7ccd0647d",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Mathieu Van der Poel overcomes heat to win Tour de France stage nine",
+      "title_fa": "متیو فان در پول با غلبه بر گرما، برنده مرحله نهم تور دو فرانس شد",
+      "lead": "متیو فان در پول، دوچرخه‌سوار ۳۱ ساله هلندی و متخصص مسابقات کلاسیک، روز یکشنبه با پیروزی در مرحله نهم، سومین برد خود را در تور دو فرانس به دست آورد. این مرحله به دلیل گرمای شدید کوتاه شده بود.",
+      "category": "sport",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/sport/20260712-mathieu-van-der-poel-overcomes-heat-to-win-tour-de-france-stage-nine",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 15:59:09 GMT",
+      "time": "۱۹:۲۹ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "france24_f2a3a6fa61",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "France temporarily shuts down three nuclear reactors over heatwave",
+      "title_fa": "فرانسه سه راکتور هسته‌ای را به دلیل موج گرما به طور موقت تعطیل کرد",
+      "lead": "تامین‌کننده اصلی انرژی فرانسه روز یکشنبه اعلام کرد که سه راکتور هسته‌ای به طور موقت تعطیل شده‌اند، در حالی که هشت راکتور دیگر با قدرت کاهش‌یافته کار می‌کنند. این اقدام یک الزام حفاظت از محیط زیست برای جلوگیری از تخلیه بیش از حد آب گرم است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/france/20260712-france-temporarily-shuts-down-three-nuclear-reactors-over-heatwave",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Sun, 12 Jul 2026 15:22:51 GMT",
+      "time": "۱۸:۵۲ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "france24_8d6e1864ee",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "US: Salgado Araujo is mourned after fatal ICE shooting",
+      "title_fa": "آمریکا: سالگادو آراوخو پس از تیراندازی مرگبار ICE سوگوار می‌شود",
+      "lead": "روز سه‌شنبه، یک افسر اداره مهاجرت و گمرک آمریکا (ICE) سالگادو آراوخو ۵۲ ساله را به ضرب گلوله کشت. این حادثه پس از آن رخ داد که ماموران فدرال با خودروهای بدون علامت او را در حین انتقال تیمش به محل کار تعقیب کردند. این تیراندازی خشم مردم هوستون را برانگیخته است.",
+      "category": "crime/justice",
+      "region": "north_america",
+      "sourceUrl": "https://www.france24.com/en/video/20260712-us-salgado-araujo-is-mourned-after-fatal-ice-shooting",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 14:47:24 GMT",
+      "time": "۱۸:۱۷ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "france24_e4a961a323",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "World Cup 2026: England beat Norway to reach semis",
+      "title_fa": "جام جهانی ۲۰۲۶: انگلستان با شکست نروژ به نیمه‌نهایی صعود کرد",
+      "lead": "هواداران تیم ملی فوتبال انگلستان از فلوریدا تا لیورپول، هافبک ستاره خود را ستودند. او تقریباً به تنهایی آنها را دو گام تا کسب عنوان قهرمانی جام جهانی پیش برد.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/video/20260712-world-cup-2026-england-beat-norway-to-reach-semis",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 14:41:26 GMT",
+      "time": "۱۸:۱۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
     }
   ]
 }
