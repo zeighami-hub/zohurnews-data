@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 32,
+  "total": 33,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -768,6 +768,30 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-12T18:25:06.257Z"
+    },
+    {
+      "id": "nytimes_c19cd152fd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Venezuela’s Post-Quake Politics",
+      "title_fa": "سیاست ونزوئلا پس از زلزله",
+      "lead": "مردم ونزوئلا برای اولین بار در سال‌های اخیر، آشکارا و با شدت خشم خود را از دولت به دلیل مدیریت پس از زلزله ابراز می‌کنند. این اعتراضات می‌تواند نشان‌دهنده تغییرات سیاسی باشد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/venezuela-earthquake-iran.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 21:00:33 +0000",
+      "time": "۰۰:۳۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-12T21:20:39.380Z"
     }
   ]
 }
