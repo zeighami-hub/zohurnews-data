@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "dw",
-  "total": 30,
+  "total": 31,
   "articles": [
     {
       "id": "dw_188f19eaba",
@@ -716,6 +716,30 @@
       "pubDate": "Sun, 12 Jul 2026 12:37:00 GMT",
       "time": "۱۶:۰۷ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T12:56:57.038Z"
+    },
+    {
+      "id": "dw_052e99a727",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Are German companies leaving the country?",
+      "title_fa": "آیا شرکت‌های آلمانی در حال ترک این کشور هستند؟",
+      "lead": "با توجه به هزینه‌های بالا و رشد کند آلمان، برخی از رهبران کسب‌وکار در حال بررسی جابجایی یا حداقل سرمایه‌گذاری در خارج از کشور هستند. دویچه وله به بررسی این آمار و ارقام می‌پردازد.",
+      "category": "economy",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/are-german-companies-leaving-the-country/a-77875399?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sun, 12 Jul 2026 16:46:00 GMT",
+      "time": "۲۰:۱۶ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T17:15:20.316Z"
     }
   ]
 }
