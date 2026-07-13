@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "guardian",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "guardian_fe4f334a4f",
@@ -504,6 +504,30 @@
       "pubDate": "Sun, 12 Jul 2026 04:00:08 GMT",
       "time": "۰۷:۳۰ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T12:06:41.869Z"
+    },
+    {
+      "id": "guardian_68eabc4950",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "New anti-racism standard will force Australian universities to use definitions of antisemitism and Islamophobia",
+      "title_fa": "استاندارد جدید ضد نژادپرستی دانشگاه‌های استرالیا را به استفاده از تعاریف یهودستیزی و اسلام‌هراسی وادار می‌کند",
+      "lead": "استاندارد جدید ضد نژادپرستی در استرالیا دانشگاه‌ها را ملزم می‌کند تا تعاریفی را برای یهودستیزی، اسلام‌هراسی و نژادپرستی نسبت به بومیان و ساکنان جزایر تنگه تورس اتخاذ کنند. روسای آموزش عالی، دانشگاهیان و دانشجویان قرار است این هفته در کمیسیون سلطنتی در این مورد شهادت دهند.",
+      "category": "politics",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/12/new-anti-racism-standard-will-force-australian-universities-to-use-definitions-of-antisemitism-and-islamophobia-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Sun, 12 Jul 2026 12:00:18 GMT",
+      "time": "۱۵:۳۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T12:56:57.038Z"
     }
   ]
 }
