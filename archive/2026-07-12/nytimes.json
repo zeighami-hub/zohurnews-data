@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 33,
+  "total": 34,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -792,6 +792,30 @@
       "pubDate": "Sun, 12 Jul 2026 21:00:33 +0000",
       "time": "۰۰:۳۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-12T21:20:39.380Z"
+    },
+    {
+      "id": "nytimes_0dc3a32f04",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "With Lindsey Graham Gone, Ukraine Loses an Ally in Trump’s Ear",
+      "title_fa": "با کناره‌گیری لیندسی گراهام، اوکراین یک متحد در حلقه ترامپ را از دست می‌دهد",
+      "lead": "این خبر به از دست دادن لیندسی گراهام به عنوان متحد اصلی اوکراین در میان حامیان ترامپ می‌پردازد. سناتور کارولینای جنوبی بانفوذترین مدافع اوکراین در دایره سیاسی \"اول آمریکا\" ترامپ بود.",
+      "category": "politics",
+      "region": "us",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 21:38:42 +0000",
+      "time": "۰۱:۰۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-12T21:49:20.710Z"
     }
   ]
 }
