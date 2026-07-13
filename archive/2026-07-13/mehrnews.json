@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "mehrnews",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_41710a4467",
@@ -218,6 +218,30 @@
       "pubDate": "Mon, 13 Jul 2026 04:07:58 GMT",
       "time": "۰۷:۳۷ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T04:22:26.600Z"
+    },
+    {
+      "id": "mehrnews_b80449d999",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Foreign Ministry issues statement after fresh US aggression",
+      "title_fa": "وزارت خارجه ایران پس از تجاوز جدید آمریکا بیانیه‌ای صادر کرد",
+      "lead": "وزارت خارجه ایران روز دوشنبه اعلام کرد که آمریکا تقریباً تمامی بخش‌های توافق آتش‌بس را نقض کرده است. این وزارتخانه موج جدید حملات آمریکا به خاک ایران در طول روز گذشته را به شدت محکوم کرد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246149/Foreign-Ministry-issues-statement-after-fresh-US-aggression",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 04:34:12 GMT",
+      "time": "۰۸:۰۴ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T04:50:47.309Z"
     }
   ]
 }
