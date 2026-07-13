@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "independent",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "independent_29628e064b",
@@ -242,6 +242,30 @@
       "pubDate": "Mon, 13 Jul 2026 03:46:26 GMT",
       "time": "۰۷:۱۶ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T04:07:00.023Z"
+    },
+    {
+      "id": "independent_9826c19ddc",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Oil prices jump and Asian shares slip as US and Iran carry out airstrikes",
+      "title_fa": "جهش قیمت نفت و کاهش سهام آسیا همزمان با حملات هوایی آمریکا و ایران",
+      "lead": "قیمت نفت با انجام حملات هوایی از سوی آمریکا و ایران جهش یافته است. همچنین، سهام در بازارهای آسیایی عمدتاً با کاهش مواجه شده‌اند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/news/iran-asian-bangkok-brent-wall-street-b3013596.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Mon, 13 Jul 2026 03:59:32 GMT",
+      "time": "۰۷:۲۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T04:22:26.600Z"
     }
   ]
 }
