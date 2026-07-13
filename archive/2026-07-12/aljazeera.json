@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "aljazeera",
-  "total": 35,
+  "total": 36,
   "articles": [
     {
       "id": "aljazeera_e290f557b8",
@@ -836,6 +836,28 @@
       "pubDate": "Sun, 12 Jul 2026 12:07:10 +0000",
       "time": "۱۵:۳۷ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T12:56:57.038Z"
+    },
+    {
+      "id": "aljazeera_6",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani",
+      "title_fa": "قطر در سوگ امیر پدر شیخ حمد بن خلیفه آل ثانی است",
+      "lead": "قطر در سوگ درگذشت امیر پدر، شیخ حمد بن خلیفه آل ثانی، است. این گزارش از الجزیره به دوره عزاداری در این کشور می‌پردازد.",
+      "category": "politics",
+      "region": "middle east",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/12/qatar-mourns-father-emir-sheikh-hamad-bin-khaleefa-al-thani?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-07-12T13:26:30.833Z"
     }
   ]
 }
