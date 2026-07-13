@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "skynews_8729ce6c67",
@@ -50,6 +50,54 @@
       "pubDate": "Sun, 12 Jul 2026 16:39:00 +0100",
       "time": "۱۹:۰۹ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "skynews_e48b0b16f5",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Ukraine's prime minister stepping down after only a year, in Zelenskyy reshuffle",
+      "title_fa": "نخست‌وزیر اوکراین پس از یک سال در پی تغییرات زلنسکی استعفا داد",
+      "lead": "یولیا سویریدنکو، نخست‌وزیر اوکراین، از سمت خود کناره‌گیری کرده است. این اقدام در حالی صورت می‌گیرد که رئیس‌جمهور ولودیمیر زلنسکی آغازگر تغییراتی در دولت اوکراین است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/ukraines-prime-minister-stepping-down-after-only-a-year-in-zelenskyy-reshuffle-13562826",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 15:43:00 +0100",
+      "time": "۱۸:۱۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "skynews_204670551b",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Two dead and four injured in Toronto shooting",
+      "title_fa": "دو کشته و چهار زخمی در تیراندازی تورنتو",
+      "lead": "پلیس اعلام کرده است که دو مرد در یک تیراندازی در جشنواره خیابانی تورنتو کشته و چهار نفر دیگر زخمی شده‌اند.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/two-dead-and-four-injured-in-shooting-at-toronto-festival-police-say-13562675",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 02:41:00 +0100",
+      "time": "۰۵:۱۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
     }
   ]
 }
