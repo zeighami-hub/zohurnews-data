@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "guardian",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "guardian_888ebf97eb",
@@ -552,6 +552,30 @@
       "pubDate": "Mon, 13 Jul 2026 09:00:09 GMT",
       "time": "۱۲:۳۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T10:29:29.389Z"
+    },
+    {
+      "id": "guardian_f0169ac5eb",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Weather tracker: Unusually warm rivers affect French nuclear power plants",
+      "title_fa": "ردیاب آب‌وهوا: رودخانه‌های غیرعادی گرم، نیروگاه‌های هسته‌ای فرانسه را تحت تأثیر قرار داده‌اند",
+      "lead": "دمای بالا و بارندگی کمتر از حد معمول در بخش‌های وسیعی از اروپای غربی و مرکزی طی ژوئن و اوایل ژوئیه، بر آبراه‌های مورد استفاده برای خنک کردن راکتورها فشار وارد کرده است. این شرایط بر نیروگاه‌های هسته‌ای فرانسه تأثیر گذاشته است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/jul/13/weather-tracker-unusually-warm-rivers-affect-french-nuclear-power-plants",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Mon, 13 Jul 2026 10:53:56 GMT",
+      "time": "۱۴:۲۳ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T11:42:13.206Z"
     }
   ]
 }
