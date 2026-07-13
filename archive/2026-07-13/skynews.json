@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_8729ce6c67",
@@ -26,6 +26,30 @@
       "pubDate": "Sun, 12 Jul 2026 23:52:00 +0100",
       "time": "۰۲:۲۲ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T00:34:18.619Z"
+    },
+    {
+      "id": "skynews_48a0d7dc19",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Girl, 9, among at least six killed in Israeli Gaza attacks - say Palestinian officials",
+      "title_fa": "مقامات فلسطینی: یک دختر ۹ ساله در میان حداقل شش کشته حملات اسرائیل در غزه است",
+      "lead": "به گفته مقامات بهداشتی فلسطینی، یک دختر ۹ ساله در میان حداقل شش نفری بود که روز یکشنبه در حملات اسرائیل در غزه کشته شدند. این حملات تلفاتی را به بار آورده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/girl-9-among-at-least-six-killed-in-israeli-gaza-attacks-say-palestinian-officials-13562832",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 16:39:00 +0100",
+      "time": "۱۹:۰۹ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
     }
   ]
 }
