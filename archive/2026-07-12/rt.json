@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "rt",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "rt_2ff1451530",
@@ -576,6 +576,30 @@
       "pubDate": "Sun, 12 Jul 2026 12:55:48 +0000",
       "time": "۱۶:۲۵ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T13:40:29.748Z"
+    },
+    {
+      "id": "rt_02b8bb2dcc",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "EU Commission recommends defunding Venice Biennale over Russia’s return",
+      "title_fa": "کمیسیون اروپا توصیه به قطع بودجه دوسالانه ونیز به دلیل بازگشت روسیه کرد",
+      "lead": "کمیسیون اروپا به دلیل بازگشایی غرفه روسیه، قطع بودجه دوسالانه ونیز را توصیه کرده است. این توصیه در واکنش به حضور مجدد روسیه در این رویداد هنری مطرح شده است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/642916-eu-defunding-venice-biennale-russia/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sun, 12 Jul 2026 15:44:13 +0000",
+      "time": "۱۹:۱۴ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T17:15:20.316Z"
     }
   ]
 }
