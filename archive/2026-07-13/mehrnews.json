@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "mehrnews",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "mehrnews_41710a4467",
@@ -434,6 +434,54 @@
       "pubDate": "Sun, 12 Jul 2026 17:02:40 GMT",
       "time": "۲۰:۳۲ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "mehrnews_de25e8639a",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Israeli regime to hold regular Parl. elections on October 27",
+      "title_fa": "رژیم اسرائیل انتخابات پارلمانی عادی را در ۲۷ اکتبر برگزار می‌کند",
+      "lead": "انتخابات کنست رژیم اسرائیل قرار است در تاریخ ۲۷ اکتبر ۲۰۲۶ برگزار شود. این خبر از تهران و توسط مهر نیوز در ۱۳ جولای منتشر شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246153/Israeli-regime-to-hold-regular-Parl-elections-on-October-27",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 06:27:51 GMT",
+      "time": "۰۹:۵۷ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T06:39:13.774Z"
+    },
+    {
+      "id": "mehrnews_b91d1ee025",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "No attack will go unanswered: Gharibabadi",
+      "title_fa": "غریب‌آبادی: هیچ حمله‌ای بی‌جواب نخواهد ماند",
+      "lead": "معاون وزیر امور خارجه ایران اظهار داشت که هیچ اقدامی علیه جمهوری اسلامی نباید بی‌پاسخ بماند. وی تاکید کرد که هرگونه حمله با واکنش مواجه خواهد شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246152/No-attack-will-go-unanswered-Gharibabadi",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 06:15:41 GMT",
+      "time": "۰۹:۴۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T06:23:55.913Z"
     }
   ]
 }
