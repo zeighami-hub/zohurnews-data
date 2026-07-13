@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "france24",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "france24_a8ca37f4ad",
@@ -242,6 +242,54 @@
       "pubDate": "Sun, 12 Jul 2026 14:41:26 GMT",
       "time": "۱۸:۱۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "france24_a83b6ad249",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Ukraine allies gather in Paris to step up defence aid, heighten pressure on Russia",
+      "title_fa": "نشست متحدان اوکراین در پاریس برای افزایش کمک‌های دفاعی و فشار بر روسیه",
+      "lead": "متحدان غربی اوکراین روز دوشنبه در پاریس گرد هم می‌آیند تا بر حمایت خود از کی‌یف تاکید کرده و فشار بر روسیه را افزایش دهند. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، به همراه حداقل ۲۵ رهبر دیگر در این نشست \"ائتلاف اراده‌مندان\" شرکت خواهد کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/europe/20260713-ukraine-allies-gather-paris-step-defence-aid-heighten-pressure-russia",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 06:30:42 GMT",
+      "time": "۱۰:۰۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T06:39:13.774Z"
+    },
+    {
+      "id": "france24_3930f15e78",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Actor Sam Neill, star of 'Jurassic Park', dies at 78",
+      "title_fa": "سام نیل، بازیگر «پارک ژوراسیک»، در ۷۸ سالگی درگذشت",
+      "lead": "خانواده سام نیل، بازیگر نیوزلندی، در بیانیه‌ای اعلام کردند که او روز دوشنبه درگذشت. وی که ستاره فیلم «پارک ژوراسیک» بود، ۷۸ سال داشت.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/culture/20260713-jurassic-park-star-sam-neill-dies-at-78",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 06:08:03 GMT",
+      "time": "۰۹:۳۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T06:23:55.913Z"
     }
   ]
 }
