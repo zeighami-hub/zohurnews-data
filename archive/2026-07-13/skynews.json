@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "skynews_8729ce6c67",
@@ -122,6 +122,30 @@
       "pubDate": "Mon, 13 Jul 2026 06:51:00 +0100",
       "time": "۰۹:۲۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T06:23:55.913Z"
+    },
+    {
+      "id": "skynews_715fa4235b",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Trump ally Lindsey Graham dies - Zelenskyy pays tribute",
+      "title_fa": "لیندسی گراهام، متحد ترامپ، درگذشت؛ زلنسکی ادای احترام کرد",
+      "lead": "لیندسی گراهام، سناتور آمریکایی و از متحدان برجسته دونالد ترامپ، درگذشت. ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در پیامی به او ادای احترام کرد.",
+      "category": "politics",
+      "region": "usa",
+      "sourceUrl": "https://news.sky.com/story/us-senator-and-trump-ally-lindsey-graham-dies-13562481",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 00:01:00 +0100",
+      "time": "۰۲:۳۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T07:53:16.987Z"
     }
   ]
 }
