@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -578,6 +578,30 @@
       "pubDate": "Sat, 11 Jul 2026 10:00:04 +0000",
       "time": "۱۳:۳۰ - ۲۰ تیر",
       "analyzed_at": "2026-07-12T11:40:54.128Z"
+    },
+    {
+      "id": "nytimes_d6a069196d",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "At World Cup Ticket Prices, Even Messi Can’t Fill a Stadium",
+      "title_fa": "حتی مسی هم با قیمت‌های بلیت جام جهانی نتوانست ورزشگاه را پر کند",
+      "lead": "تیم آرژانتین و ستاره آن، لیونل مسی، از پرطرفدارترین‌ها در جام جهانی بودند. اما این برای جلوگیری از صندلی‌های خالی در بازی یک‌چهارم نهایی آن‌ها در روز شنبه کافی نبود.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 13:23:24 +0000",
+      "time": "۱۶:۵۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T13:40:29.748Z"
     }
   ]
 }
