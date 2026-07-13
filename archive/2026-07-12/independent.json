@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "independent",
-  "total": 76,
+  "total": 78,
   "articles": [
     {
       "id": "independent_6a7d9773a5",
@@ -1824,6 +1824,54 @@
       "pubDate": "Sun, 12 Jul 2026 11:39:01 GMT",
       "time": "۱۵:۰۹ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T11:52:42.641Z"
+    },
+    {
+      "id": "independent_2eeb615dec",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "US attacks Iran over ship being hit in Strait of Hormuz",
+      "title_fa": "آمریکا ایران را به دلیل هدف قرار گرفتن کشتی در تنگه هرمز مورد حمله قرار داد",
+      "lead": "آمریکا ایران را به دلیل حمله به یک کشتی در تنگه هرمز مورد انتقاد شدید قرار داده است. این حادثه در یکی از مهمترین گذرگاه‌های کشتیرانی جهان رخ داده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/iran-qatar-us-trump-war-b3013417.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Sun, 12 Jul 2026 11:54:44 GMT",
+      "time": "۱۵:۲۴ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T12:06:41.869Z"
+    },
+    {
+      "id": "independent_951c84f01b",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Arsenal pushing to seal quick transfer for Argentina’s World Cup hero",
+      "title_fa": "آرسنال در تلاش برای نهایی کردن انتقال سریع قهرمان جام جهانی آرژانتین",
+      "lead": "باشگاه آرسنال در تلاش است تا به سرعت انتقال جولیان آلوارز، ستاره آرژانتینی جام جهانی را قطعی کند. آلوارز با گلی زیبا، جایگاه آرژانتین را در نیمه نهایی جام جهانی تثبیت کرده بود، جایی که انگلیس در آتلانتا منتظر است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/sport/football/arsenal-julian-alvarez-transfer-news-b3013415.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 11:49:34 GMT",
+      "time": "۱۵:۱۹ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T12:06:41.869Z"
     }
   ]
 }
