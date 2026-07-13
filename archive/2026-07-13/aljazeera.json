@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "aljazeera",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "aljazeera_06de707cd3",
@@ -122,6 +122,30 @@
       "pubDate": "Mon, 13 Jul 2026 00:54:53 +0000",
       "time": "۰۴:۲۴ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T02:20:10.344Z"
+    },
+    {
+      "id": "aljazeera_32f3ae1a87",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Israel releases video of hidden tunnels below Lebanon’s Beaufort Castle",
+      "title_fa": "اسرائیل ویدئویی از تونل‌های مخفی زیر قلعه بوفورت لبنان منتشر کرد",
+      "lead": "ارتش اسرائیل تصاویری را منتشر کرده که ادعا می‌کند تونل‌های مخفی زیر قلعه تاریخی بوفورت در لبنان هستند. این ویدئو جزئیاتی از این تونل‌ها را به نمایش می‌گذارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/israel-releases-video-of-hidden-tunnels-below-lebanons-beaufort-castle?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 02:10:10 +0000",
+      "time": "۰۵:۴۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T02:35:35.188Z"
     }
   ]
 }
