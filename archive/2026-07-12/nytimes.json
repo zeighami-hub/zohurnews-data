@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -722,6 +722,52 @@
       "pubDate": "Sun, 12 Jul 2026 17:11:00 +0000",
       "time": "۲۰:۴۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T17:25:16.628Z"
+    },
+    {
+      "id": "nytimes_dc8025e66c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Sheikh Hamad bin Khalifa, Ruler Who Transformed Qatar, Dies at 74",
+      "title_fa": "شیخ حمد بن خلیفه، حاکم قطر که این کشور را متحول کرد، در ۷۴ سالگی درگذشت.",
+      "lead": "شیخ حمد بن خلیفه، حاکم سابق قطر، در سن ۷۴ سالگی درگذشت. تحت رهبری او، این کشور کوچک با بهره‌برداری از ثروت عظیم گاز طبیعی، نفوذی فراتر از مرزهای خود به دست آورد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 18:11:15 +0000",
+      "time": "۲۱:۴۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T18:36:07.485Z"
+    },
+    {
+      "id": "nytimes_2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Sheikh Hamad bin Khalifa, Ruler Who Transformed Qatar, Dies at 74",
+      "title_fa": "شیخ حمد بن خلیفه، حاکمی که قطر را متحول کرد، در ۷۴ سالگی درگذشت",
+      "lead": "شیخ حمد بن خلیفه، حاکم پیشین قطر، در سن ۷۴ سالگی درگذشت. تحت رهبری او، کشور کوچک قطر ثروت عظیمی از گاز طبیعی به دست آورد و نفوذ خود را فراتر از مرزهایش گسترش داد.",
+      "category": "energy",
+      "region": "middle east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khali-fa-qatar-dead.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-12T18:25:06.257Z"
     }
   ]
 }
