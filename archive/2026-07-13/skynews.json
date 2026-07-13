@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "skynews",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "skynews_8729ce6c67",
@@ -146,6 +146,30 @@
       "pubDate": "Sun, 12 Jul 2026 00:01:00 +0100",
       "time": "۰۲:۳۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T07:53:16.987Z"
+    },
+    {
+      "id": "skynews_851416f53b",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Wildfire of 'exceptional scale' breaks out in forest near Paris",
+      "title_fa": "آتش‌سوزی گسترده‌ای با «مقیاس استثنایی» در جنگلی در نزدیکی پاریس آغاز شد",
+      "lead": "یک آتش‌سوزی با «مقیاس استثنایی» در جنگلی در نزدیکی پاریس به وقوع پیوسته است. این حادثه در حالی رخ می‌دهد که فرانسه با سومین موج گرمای تابستان دست و پنجه نرم می‌کند.",
+      "category": "disaster",
+      "region": "Europe",
+      "sourceUrl": "https://news.sky.com/story/wildfire-of-exceptional-scale-breaks-out-in-forest-near-paris-13562914",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 07:25:00 +0100",
+      "time": "۰۹:۵۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T09:11:34.551Z"
     }
   ]
 }
