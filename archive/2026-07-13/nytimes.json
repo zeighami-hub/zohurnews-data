@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -122,6 +122,30 @@
       "pubDate": "Mon, 13 Jul 2026 01:05:30 +0000",
       "time": "۰۴:۳۵ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T02:35:35.188Z"
+    },
+    {
+      "id": "nytimes_0811b612aa",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Why Young People in China Are Buying Feelings",
+      "title_fa": "چرا جوانان چینی در حال خرید احساسات هستند",
+      "lead": "جوانان در چین به طور فزاینده‌ای نگران آینده خود هستند و به همین دلیل برای تجربیات و محصولاتی هزینه می‌کنند که \"ارزش عاطفی\" فراهم می‌کنند. این روند، نشان‌دهنده یک بازار مصرفی رو به رشد است که شامل خدماتی مانند همراهی در کوهنوردی و کاسپلی می‌شود.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/video/world/asia/100000010988376/china-emotional-value.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Mon, 13 Jul 2026 04:00:00 +0000",
+      "time": "۰۷:۳۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T04:07:00.023Z"
     }
   ]
 }
