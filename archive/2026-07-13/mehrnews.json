@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "mehrnews",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "mehrnews_41710a4467",
@@ -242,6 +242,30 @@
       "pubDate": "Mon, 13 Jul 2026 04:34:12 GMT",
       "time": "۰۸:۰۴ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T04:50:47.309Z"
+    },
+    {
+      "id": "mehrnews_b9373507b0",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US reports fresh wave of strikes on Iran",
+      "title_fa": "آمریکا از موج جدید حملات علیه ایران خبر داد",
+      "lead": "فرماندهی مرکزی ایالات متحده (سنتکام) با انتشار بیانیه‌ای، از تکمیل تازه‌ترین موج حملات خود علیه جمهوری اسلامی ایران خبر داد. این گزارش از تهران منتشر شده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246147/US-reports-fresh-wave-of-strikes-on-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 04:58:38 GMT",
+      "time": "۰۸:۲۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:07:39.666Z"
     }
   ]
 }
