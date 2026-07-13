@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "france24",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "france24_a8ca37f4ad",
@@ -26,6 +26,30 @@
       "pubDate": "Mon, 13 Jul 2026 00:21:02 GMT",
       "time": "۰۳:۵۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T00:48:45.408Z"
+    },
+    {
+      "id": "france24_726c1da4be",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Israel sets October 27 election as Netanyahu faces crucial post-Gaza war test",
+      "title_fa": "اسرائیل تاریخ ۲۷ اکتبر را برای انتخابات تعیین کرد؛ نتانیاهو با آزمونی حیاتی پس از جنگ غزه مواجه است",
+      "lead": "پارلمان اسرائیل روز یکشنبه اعلام کرد که این کشور در تاریخ ۲۷ اکتبر، آخرین مهلت قانونی، انتخابات سراسری برگزار خواهد کرد. این رای‌گیری به طور گسترده‌ای به عنوان یک رفراندوم بر رهبری بنیامین نتانیاهو پس از آغاز جنگ غزه تلقی می‌شود.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260713-israel-october-27-election-netanyahu-gaza-war",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 02:19:14 GMT",
+      "time": "۰۵:۴۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T02:35:35.188Z"
     }
   ]
 }
