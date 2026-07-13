@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "france24",
-  "total": 49,
+  "total": 51,
   "articles": [
     {
       "id": "france24_7e2d9edf4d",
@@ -1172,6 +1172,54 @@
       "pubDate": "Sun, 12 Jul 2026 17:33:28 GMT",
       "time": "۲۱:۰۳ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T18:36:07.485Z"
+    },
+    {
+      "id": "france24_a7c6cf2852",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Jannik Sinner beats Alexander Zverev to win second straight Wimbledon title",
+      "title_fa": "یانیک سینر با غلبه بر الکساندر زورف، برای دومین بار پیاپی قهرمان ویمبلدون شد",
+      "lead": "یانیک سینر، تنیس‌باز ایتالیایی، دومین عنوان قهرمانی متوالی خود در ویمبلدون را با شکست الکساندر زورف آلمانی کسب کرد. زورف در ست سوم به دلیل مشکل زانو که پس از یک لغزش رخ داد، دچار مشکل شد. این پنجمین عنوان گرند اسلم سینر در اولین تورنمنت او از زمان یک رویداد خاص است.",
+      "category": "sport",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/sport/20260712-jannik-sinner-beats-alexander-zverev-to-win-second-straight-wimbledon-title",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 19:15:15 GMT",
+      "time": "۲۲:۴۵ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T19:23:18.240Z"
+    },
+    {
+      "id": "france24_40dcfa3488",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Hundreds evacuated from Paris suburb after weapons found near synagogue",
+      "title_fa": "پس از کشف اسلحه در نزدیکی کنیسه، صدها نفر از حومه پاریس تخلیه شدند",
+      "lead": "پس از گزارش‌هایی مبنی بر وجود یک خودروی مشکوک که حاوی اسلحه از جمله «سلاحی با درجه نظامی» بود، سیصد نفر از محله‌ای در سارسِل، شمال پاریس، تخلیه شدند. این رویداد عصر شنبه رخ داد.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/france/20260712-hundreds-evacuated-from-paris-suburb-after-weapons-found-near-synagogue",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 18:48:20 GMT",
+      "time": "۲۲:۱۸ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T19:23:18.240Z"
     }
   ]
 }
