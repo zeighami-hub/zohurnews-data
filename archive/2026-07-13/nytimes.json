@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -290,6 +290,102 @@
       "pubDate": "Sun, 12 Jul 2026 14:51:40 +0000",
       "time": "۱۸:۲۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "nytimes_6e6bc2b436",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
+      "title_fa": "بروزرسانی زنده: آتش‌بس در حال فروپاشی است؛ آمریکا و ایران دوباره حملاتی را مبادله می‌کنند",
+      "lead": "ارتش آمریکا اعلام کرد که در آخرین حمله خود ده‌ها هدف ایرانی را مورد اصابت قرار داده است. ارتش ایران نیز گفت پهپادهای بیشتری را به سمت مواضع نظامی آمریکا در منطقه پرتاب کرده است، در حالی که دو طرف بر سر تنگه هرمز درگیر هستند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:04:23 +0000",
+      "time": "۰۸:۳۴ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "nytimes_bb49aea98b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Lindsey Graham Championed Israel, Even as Wars Eroded American Support",
+      "title_fa": "لیندسی گراهام حامی اسرائیل بود، حتی در حالی که جنگ‌ها حمایت آمریکا را تضعیف می‌کرد",
+      "lead": "سناتور جمهوری‌خواه کارولینای جنوبی، لیندسی گراهام، علاقه‌ای شدید به خاورمیانه داشت. او حامی سرسخت حملات آمریکا به ایران بود.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 19:42:08 +0000",
+      "time": "۲۳:۱۲ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "nytimes_5dc926ae50",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "How Putin Turned Japan Into a Den of Spies",
+      "title_fa": "چگونه پوتین ژاپن را به لانه جاسوسان تبدیل کرد",
+      "lead": "یک واحد اطلاعات نظامی از برجی در توکیو فعالیت می‌کند. این واحد تجهیزات پیشرفته‌ای را که روسیه برای ادامه جنگ نیاز دارد، پیدا می‌کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 12:14:21 +0000",
+      "time": "۱۵:۴۴ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "nytimes_7d952d52f4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As India Erases Its Colonial Past, Delhi’s Elite Feel Targeted",
+      "title_fa": "در حالی که هند گذشته استعماری خود را پاک می‌کند، نخبگان دهلی احساس می‌کنند هدف قرار گرفته‌اند",
+      "lead": "دولت هند قصد دارد باشگاه گیم‌خانا در دهلی را تعطیل کند، که نخست‌وزیر آن را بازمانده‌ای از استعمار می‌داند. برخی از اعضا به انگیزه دیگری مشکوک هستند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/asia/india-gymkhana-club-eviction-colonialism.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 04:01:13 +0000",
+      "time": "۰۷:۳۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
     }
   ]
 }
