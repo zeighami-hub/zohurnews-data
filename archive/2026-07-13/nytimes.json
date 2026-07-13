@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -218,6 +218,78 @@
       "pubDate": "Mon, 13 Jul 2026 04:01:09 +0000",
       "time": "۰۷:۳۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T04:37:03.555Z"
+    },
+    {
+      "id": "nytimes_5657780982",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
+      "title_fa": "چگونه ترامپ در توافق با ایران نتوانست امنیت تنگه هرمز را تامین کند",
+      "lead": "طبق گزارش‌ها، رئیس‌جمهور ترامپ توافقی را امضا کرد که ایران مدعی شد کنترل آبراهه و منابع انرژی جهانی را به آن بخشیده است. اکنون، ارتش ایران به شدت در حال اعمال قدرت در این منطقه است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 16:43:37 +0000",
+      "time": "۲۰:۱۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "nytimes_a233aaaa2c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
+      "title_fa": "ساکنان شهرهای اسپانیا گرفتار در آتش‌سوزی‌های شدید از فرارهای وحشتناک خود می‌گویند",
+      "lead": "بسیاری از ساکنان شهرهایی که درگیر آتش‌سوزی‌های شدید اسپانیا بودند، می‌گویند که ارتباطات آشفته و حتی قطع شده بود. این آتش‌سوزی‌ها ۱۲ نفر را در یکی از مرگبارترین آتش‌سوزی‌های ثبت‌شده در اسپانیا به کام مرگ کشاند.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 15:31:34 +0000",
+      "time": "۱۹:۰۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "nytimes_6d76c47c06",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor",
+      "title_fa": "زلنسکی از تغییرات در رهبری خبر داد؛ جنگ در اوکراین به نفع این کشور در حال چرخش است",
+      "lead": "ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، گفت که یولیا سویریدنکو، نخست‌وزیر اوکراین، از سمت خود کناره‌گیری خواهد کرد. این اقدام در میان تغییرات گسترده‌تر در رهبری ارشد اوکراین صورت می‌گیرد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Sun, 12 Jul 2026 14:51:40 +0000",
+      "time": "۱۸:۲۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
     }
   ]
 }
