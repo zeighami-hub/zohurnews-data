@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "skynews",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "skynews_8729ce6c67",
@@ -194,6 +194,30 @@
       "pubDate": "Sat, 11 Jul 2026 18:51:00 +0100",
       "time": "۲۱:۲۱ - ۲۰ تیر",
       "analyzed_at": "2026-07-13T09:26:09.421Z"
+    },
+    {
+      "id": "skynews_61e29ec84b",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "US journalists ordered to testify over Air Force One leak after Trump flight",
+      "title_fa": "احضار روزنامه‌نگاران آمریکایی برای شهادت در مورد افشای اطلاعات ایر فورس وان پس از پرواز ترامپ",
+      "lead": "وزارت دادگستری ایالات متحده چندین روزنامه‌نگار نیویورک تایمز را برای شهادت زیر سوگند احضار کرده است. این احضار پس از آن صورت می‌گیرد که آنها گزارشی در مورد نگرانی‌های امنیتی مربوط به هواپیمای جدید ایر فورس وان اهدایی قطر منتشر کردند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/new-york-times-journalists-subpoenaed-over-air-force-one-leak-after-donald-trumps-flight-on-qatari-gifted-jet-13562695",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 07:01:00 +0100",
+      "time": "۰۹:۳۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T10:29:29.389Z"
     }
   ]
 }
