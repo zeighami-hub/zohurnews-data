@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "aljazeera_06de707cd3",
@@ -26,6 +26,30 @@
       "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000",
       "time": "۰۳:۳۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T00:34:18.619Z"
+    },
+    {
+      "id": "aljazeera_2f9865a593",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
+      "title_fa": "آمریکا با تشدید تنش‌ها در تنگه هرمز، حملات بیشتری علیه ایران انجام داد",
+      "lead": "ایالات متحده موج جدیدی از حملات را علیه ایران آغاز کرده است. این حملات توانایی تهران برای تهدید کشتیرانی در تنگه هرمز را هدف قرار می‌دهند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 00:22:10 +0000",
+      "time": "۰۳:۵۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T00:48:45.408Z"
     }
   ]
 }
