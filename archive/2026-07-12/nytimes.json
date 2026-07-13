@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -674,6 +674,54 @@
       "pubDate": "Sun, 12 Jul 2026 14:51:39 +0000",
       "time": "۱۸:۲۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T17:15:20.316Z"
+    },
+    {
+      "id": "nytimes_6e6bc2b436",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Live Updates: Iran Targets Gulf States After Night of Intense U.S. Strikes",
+      "title_fa": "به‌روزرسانی زنده: ایران پس از حملات شدید آمریکا، کشورهای حوزه خلیج فارس را هدف قرار می‌دهد",
+      "lead": "فرماندهی مرکزی آمریکا اعلام کرد که پس از حمله تهران به یک کشتی در تنگه هرمز، حدود ۱۴۰ هدف را در ایران طی شب گذشته هدف قرار داده است. ارتش ایران نیز اظهار داشت که در پاسخ به این حملات، اهداف آمریکایی در اردن، عمان و قطر را مورد حمله قرار داده است.",
+      "category": "military",
+      "region": "Middle East",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 17:28:54 +0000",
+      "time": "۲۰:۵۸ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T17:37:01.380Z"
+    },
+    {
+      "id": "nytimes_bb49aea98b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Lindsey Graham Championed Israel, Even as Wars Eroded American Support",
+      "title_fa": "حمایت لیندسی گراهام از اسرائیل، حتی با وجود کاهش حمایت آمریکا در بحبوحه جنگ‌ها",
+      "lead": "لیندسی گراهام، سناتور جمهوری‌خواه از کارولینای جنوبی، علاقه شدیدی به خاورمیانه دارد. او از حامیان سرسخت حملات آمریکا به ایران بوده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 17:11:00 +0000",
+      "time": "۲۰:۴۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T17:25:16.628Z"
     }
   ]
 }
