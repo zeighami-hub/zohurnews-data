@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "independent",
-  "total": 95,
+  "total": 97,
   "articles": [
     {
       "id": "independent_6a7d9773a5",
@@ -2280,6 +2280,54 @@
       "pubDate": "Sun, 12 Jul 2026 13:12:21 GMT",
       "time": "۱۶:۴۲ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T13:40:29.748Z"
+    },
+    {
+      "id": "independent_1f3768bb84",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Murder suspect in hospital after jumping from window following double stabbing in West London",
+      "title_fa": "مظنون به قتل پس از پرش از پنجره و دو مورد چاقوکشی در غرب لندن در بیمارستان بستری شد",
+      "lead": "یک مظنون به قتل در غرب لندن پس از یک حادثه دو مورد چاقوکشی و پرش از پنجره در بیمارستان بستری شده است. نیروهای پلیس در محل حادثه حاضر شده و منطقه‌ای را تحت محاصره قرار داده‌اند.",
+      "category": "crime",
+      "region": "uk",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/crime/hayes-murder-stabbing-uxbridge-road-b3013438.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 13:42:40 GMT",
+      "time": "۱۷:۱۲ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T13:51:46.303Z"
+    },
+    {
+      "id": "independent_c7dd51a0f8",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Suspect still at large after Toronto mass shooting leaves two dead, four injured",
+      "title_fa": "مظنون تیراندازی گسترده در تورنتو که دو کشته و چهار زخمی بر جای گذاشت، همچنان فراری است",
+      "lead": "مظنون اصلی تیراندازی گسترده در تورنتو که منجر به کشته شدن دو نفر و زخمی شدن چهار تن شد، همچنان متواری است. تحقیقات پلیس برای دستگیری وی ادامه دارد.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/toronto-st-clair-festival-shooting-suspect-b3013434.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 13:31:05 GMT",
+      "time": "۱۷:۰۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T13:51:46.303Z"
     }
   ]
 }
