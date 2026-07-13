@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "rt",
-  "total": 7,
+  "total": 10,
   "articles": [
     {
       "id": "rt_f892bedb84",
@@ -170,6 +170,78 @@
       "pubDate": "Sun, 12 Jul 2026 15:44:13 +0000",
       "time": "۱۹:۱۴ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "rt_f8826b95b9",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Iran’s supreme leader vows revenge against US and Israel",
+      "title_fa": "رهبر عالی ایران سوگند به انتقام علیه آمریکا و اسرائیل خورد",
+      "lead": "رهبر عالی جدید ایران سوگند یاد کرده است که انتقام کشته شدن پدرش در حملات آمریکا و اسرائیل را بگیرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/642901-irans-supreme-leader-vows-revenge/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 02:03:28 +0000",
+      "time": "۰۵:۳۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "rt_23a58e80d1",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US congressman says he was detained by armed Israeli settlers",
+      "title_fa": "نماینده کنگره آمریکا می‌گوید توسط شهرک‌نشینان مسلح اسرائیلی بازداشت شده است",
+      "lead": "رو کانا، نماینده کنگره آمریکا، اعلام کرد که هیئت او توسط شهرک‌نشینان مسلح اسرائیلی در کرانه باختری اشغالی بازداشت شده‌اند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/642904-us-congressman-detained-israeli-settlers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 04:50:53 +0000",
+      "time": "۰۸:۲۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "rt_36121eeb2d",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Two dead, six wounded in shooting at Toronto salsa festival (VIDEOS)",
+      "title_fa": "دو کشته و شش زخمی در تیراندازی جشنواره سالسا تورنتو",
+      "lead": "در یک تیراندازی گسترده در جشنواره خیابانی سالسا در سنت کلر تورنتو، دو نفر کشته و حداقل شش نفر دیگر زخمی شدند.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642903-toronto-salsa-event-shooting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 02:47:58 +0000",
+      "time": "۰۶:۱۷ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
     }
   ]
 }
