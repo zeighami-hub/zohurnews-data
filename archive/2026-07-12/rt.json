@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "rt",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "rt_2ff1451530",
@@ -458,6 +458,54 @@
       "pubDate": "Fri, 10 Jul 2026 19:34:10 +0000",
       "time": "۲۳:۰۴ - ۱۹ تیر",
       "analyzed_at": "2026-07-12T11:40:54.128Z"
+    },
+    {
+      "id": "rt_3af1ba3b58",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Iran declares Strait of Hormuz closed until US ends ‘illegal’ interventions",
+      "title_fa": "ایران تنگه هرمز را تا پایان «مداخله‌های غیرقانونی» آمریکا بسته اعلام کرد",
+      "lead": "ایران اعلام کرده است که تنگه هرمز تا زمانی که ایالات متحده به آنچه تهران «مداخله‌های غیرقانونی» می‌نامد پایان دهد، به روی تمام کشتیرانی‌ها بسته خواهد بود. این هشدار در پی ادعاهای ایران مبنی بر مداخلات آمریکا در منطقه صادر شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/642900-iran-closes-hormuz-again/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 11 Jul 2026 23:06:38 +0000",
+      "time": "۰۲:۳۶ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T11:52:42.641Z"
+    },
+    {
+      "id": "rt_98ea9bc338",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Ukraine won’t produce Patriot missiles despite Trump’s promise – Reuters",
+      "title_fa": "اوکراین با وجود وعده ترامپ، موشک‌های پاتریوت تولید نخواهد کرد - رویترز",
+      "lead": "رویترز گزارش می‌دهد که اوکراین احتمالاً با وجود وعده دونالد ترامپ مبنی بر اعطای مجوز به آن، موشک‌های پاتریوت تولید نخواهد کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/642886-ukraine-patriot-trump-germany/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 10:48:18 +0000",
+      "time": "۱۴:۱۸ - ۲۰ تیر",
+      "analyzed_at": "2026-07-12T11:52:42.641Z"
     }
   ]
 }
