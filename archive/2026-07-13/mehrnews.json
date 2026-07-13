@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "mehrnews",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "mehrnews_41710a4467",
@@ -122,6 +122,30 @@
       "pubDate": "Sun, 12 Jul 2026 12:49:02 GMT",
       "time": "۱۶:۱۹ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T02:35:35.188Z"
+    },
+    {
+      "id": "mehrnews_8c62587be6",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Explosions rock US bases in Kuwait, Jordan",
+      "title_fa": "انفجارهایی پایگاه‌های آمریکا در کویت و اردن را لرزاند",
+      "lead": "انفجارهای مهیبی روز دوشنبه پایگاه‌های نظامی آمریکا در کویت و اردن را لرزاند. گزارش‌ها حاکی از شنیده شدن صدای این انفجارها در عراق و تعلیق پروازها در امان است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246143/Explosions-rock-US-bases-in-Kuwait-Jordan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 03:45:46 GMT",
+      "time": "۰۷:۱۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T03:50:04.667Z"
     }
   ]
 }
