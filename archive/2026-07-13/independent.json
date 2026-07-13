@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "independent",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "independent_29628e064b",
@@ -122,6 +122,54 @@
       "pubDate": "Mon, 13 Jul 2026 02:45:04 GMT",
       "time": "۰۶:۱۵ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T03:04:08.782Z"
+    },
+    {
+      "id": "independent_e134c9e9b1",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Oil prices jump after US and Iran escalate strikes in the Middle East",
+      "title_fa": "افزایش قیمت نفت پس از تشدید حملات آمریکا و ایران در خاورمیانه",
+      "lead": "قیمت نفت خام برنت پس از تشدید حملات آمریکا و ایران در خاورمیانه، جهش یافت. قیمت برنت در معاملات اولیه با ۳.۳ درصد افزایش به ۷۸.۵۰ دلار در هر بشکه رسید.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/news/business/oil-prices-us-iran-escalate-strikes-in-the-middle-east-b3013591.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 03:22:20 GMT",
+      "time": "۰۶:۵۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T03:34:03.488Z"
+    },
+    {
+      "id": "independent_db2905f033",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "At least 13 killed after truck carrying wedding guests crushed on Indonesia highway",
+      "title_fa": "حداقل ۱۳ کشته در تصادف کامیون حامل مهمانان عروسی در اندونزی",
+      "lead": "در پی تصادف کامیونی که حامل مهمانان عروسی در بزرگراهی در اندونزی بود، دست‌کم ۱۳ نفر کشته شدند. پلیس اعلام کرد که این برخورد شدید، بیش از ده‌ها نفر را از کامیونت به بیرون پرتاب کرده است.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/asia/southeast-asia/indonesia-truck-wedding-guests-highway-death-b3013592.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 03:32:05 GMT",
+      "time": "۰۷:۰۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T03:34:03.488Z"
     }
   ]
 }
