@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "mehrnews",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "mehrnews_41710a4467",
@@ -482,6 +482,54 @@
       "pubDate": "Mon, 13 Jul 2026 06:15:41 GMT",
       "time": "۰۹:۴۵ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T06:23:55.913Z"
+    },
+    {
+      "id": "mehrnews_c1c6a84c80",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Sanaa gov. says it is with Iran, has many choices",
+      "title_fa": "دولت صنعا: با ایران هستیم و گزینه‌های زیادی داریم",
+      "lead": "وزارت خارجه دولت یمن در صنعا اعلام کرد که در کنار ایران خواهد بود. این وزارتخانه افزود که تجاوزات مجدد آمریکا به جایی نخواهد رسید.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246139/Sanaa-gov-says-it-is-with-Iran-has-many-choices",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 18:09:28 GMT",
+      "time": "۲۱:۳۹ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:55:36.431Z"
+    },
+    {
+      "id": "mehrnews_a37d74f242",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Bangkok fire kills 27, injures 63",
+      "title_fa": "آتش‌سوزی در بانکوک ۲۷ کشته و ۶۳ زخمی برجای گذاشت.",
+      "lead": "در آتش‌سوزی بزرگی که در یک میخانه در شمال بانکوک رخ داد، دست‌کم ۲۷ نفر جان باختند. همچنین ۶۳ نفر دیگر در این حادثه مجروح شدند.",
+      "category": "disaster",
+      "region": "Thailand",
+      "sourceUrl": "https://en.mehrnews.com/news/246154/Bangkok-fire-kills-27-injures-63",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 06:34:37 GMT",
+      "time": "۱۰:۰۴ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T06:55:36.431Z"
     }
   ]
 }
