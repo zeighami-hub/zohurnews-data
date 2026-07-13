@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "skynews",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "skynews_8729ce6c67",
@@ -170,6 +170,30 @@
       "pubDate": "Mon, 13 Jul 2026 07:25:00 +0100",
       "time": "۰۹:۵۵ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T09:11:34.551Z"
+    },
+    {
+      "id": "skynews_edf46ac4d9",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "More than 4,400 confirmed dead in Venezuela earthquakes",
+      "title_fa": "بیش از ۴۴۰۰ کشته تایید شده در زلزله‌های ونزوئلا",
+      "lead": "تعداد کشته‌شدگان تایید شده پس از زلزله‌های ویرانگر متوالی ماه گذشته در ونزوئلا به بیش از ۴۴۰۰ نفر افزایش یافته است.",
+      "category": "disaster",
+      "region": "latin america",
+      "sourceUrl": "https://news.sky.com/story/more-than-4300-confirmed-dead-in-venezuela-earthquakes-13562615",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 11 Jul 2026 18:51:00 +0100",
+      "time": "۲۱:۲۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-13T09:26:09.421Z"
     }
   ]
 }
