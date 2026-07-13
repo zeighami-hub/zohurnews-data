@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "aljazeera",
-  "total": 8,
+  "total": 11,
   "articles": [
     {
       "id": "aljazeera_06de707cd3",
@@ -194,6 +194,78 @@
       "pubDate": "Mon, 13 Jul 2026 03:24:24 +0000",
       "time": "۰۶:۵۴ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T03:34:03.488Z"
+    },
+    {
+      "id": "aljazeera_9276684cb1",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
+      "title_fa": "ایران به پایگاه‌های نظامی آمریکا در بحرین، کویت و اردن حمله کرد",
+      "lead": "ایران حملاتی را به کشورهای حوزه خلیج فارس آغاز کرده است. این حملات دارایی‌های نظامی آمریکا را در بحرین، کویت و اردن هدف قرار داده‌اند.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:15:54 +0000",
+      "time": "۰۸:۴۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "aljazeera_0b8dce3699",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "How former Emir Sheikh Hamad bin Khalifa Al Thani built Qatar’s economy",
+      "title_fa": "چگونه امیر پیشین شیخ حمد بن خلیفه آل ثانی اقتصاد قطر را بنا نهاد",
+      "lead": "شیخ حمد، امیر پیشین قطر که در ۷۴ سالگی درگذشت، اقتصاد این کشور را با ایجاد ثروت پایدار و رشد دگرگون کرد. این گزارش به بررسی چگونگی ساختاردهی اقتصاد قطر توسط وی می‌پردازد.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/13/how-former-emir-sheikh-hamad-bin-khalifa-al-thani-built-qatar-economy?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:18:17 +0000",
+      "time": "۰۸:۴۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "aljazeera_6cdcd19bc9",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Elderly Palestinian describes being beaten up by Israeli settlers",
+      "title_fa": "فلسطینی سالخورده از مورد ضرب و شتم قرار گرفتن توسط شهرک‌نشینان اسرائیلی می‌گوید",
+      "lead": "شهرک‌نشینان اسرائیلی ابراهیم الجابور ۷۹ ساله و خانواده‌اش را در منطقه مسافر یطا در کرانه باختری اشغالی مورد حمله قرار دادند. این حادثه خشونت‌آمیز گزارش شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_elderly-palestinian-beaten-up-by-israeli-settlers-130726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:06:03 +0000",
+      "time": "۰۸:۳۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
     }
   ]
 }
