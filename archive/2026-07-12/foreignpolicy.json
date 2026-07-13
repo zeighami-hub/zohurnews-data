@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "foreignpolicy",
-  "total": 19,
+  "total": 20,
   "articles": [
     {
       "id": "foreignpolicy_f01b5fc904",
@@ -458,6 +458,30 @@
       "pubDate": "Fri, 10 Jul 2026 18:00:56 +0000",
       "time": "۲۱:۳۰ - ۱۹ تیر",
       "analyzed_at": "2026-07-12T09:57:34.786Z"
+    },
+    {
+      "id": "foreignpolicy_8dfa2f53f5",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "What in the World?",
+      "title_fa": "چه خبر در جهان؟",
+      "lead": "خودتان را در مورد رویدادهای هفته چهارم ژوئیه بیازمایید. چین یک موشک را آزمایش می‌کند، فیلیپین محاکمه استیضاح را آغاز می‌کند و ترکیه میزبان نشست سران ناتو است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/10/news-quiz-china-missile-test-fire-philippines-impeachment-nato-leaders-summit/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 10 Jul 2026 17:38:55 +0000",
+      "time": "۲۱:۰۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-12T19:35:56.400Z"
     }
   ]
 }
