@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "bbc",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "bbc_1130b60a0f",
@@ -722,6 +722,54 @@
       "pubDate": "Sun, 12 Jul 2026 18:57:17 GMT",
       "time": "۲۲:۲۷ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T19:23:18.240Z"
+    },
+    {
+      "id": "bbc_1f1e8ee37f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+      "title_fa": "مقامات تایلند: دست‌کم ۲۷ نفر در آتش‌سوزی یک بار در بانکوک کشته شدند",
+      "lead": "آتش‌نشانان کمی پس از نیمه‌شب به وقت محلی به محل حادثه فراخوانده شدند. آنها مشتریانی را مشاهده کردند که از در ورودی شعله‌ور محل حادثه در حال فرار بودند. این آتش‌سوزی منجر به کشته شدن دست‌کم ۲۷ نفر شد.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 20:13:14 GMT",
+      "time": "۲۳:۴۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T20:42:27.569Z"
+    },
+    {
+      "id": "bbc_47f82eb69f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "title_fa": "آنتونی زورچر: لیندسی گراهام، از منتقد ترامپ تا متحد او، بازمانده سیاسی عصر مگا بود",
+      "lead": "خبرنگار بی‌بی‌سی در آمریکای شمالی می‌نویسد که دوران کاری سناتور لیندسی گراهام با تمایل به انطباق با آب‌وهوای سیاسی به شدت در حال تغییر آمریکا مشخص شده است. او توانست از منتقد ترامپ به متحد او تبدیل شود و به عنوان یک بازمانده سیاسی عصر مگا شناخته شود.",
+      "category": "politics",
+      "region": "north_america",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 19:42:26 GMT",
+      "time": "۲۳:۱۲ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T20:42:27.569Z"
     }
   ]
 }
