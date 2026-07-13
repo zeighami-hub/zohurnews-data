@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "skynews",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_8729ce6c67",
@@ -98,6 +98,30 @@
       "pubDate": "Sun, 12 Jul 2026 02:41:00 +0100",
       "time": "۰۵:۱۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "skynews_1b2d4bfa05",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Jurassic Park star Sam Neill has died",
+      "title_fa": "سام نیل، ستاره «پارک ژوراسیک»، درگذشت",
+      "lead": "سام نیل، بازیگر ستاره فیلم «پارک ژوراسیک» و سریال «پیکی بلایندرز»، در سن ۷۸ سالگی درگذشت.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/jurassic-park-star-sam-neill-has-died-13562906",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 06:51:00 +0100",
+      "time": "۰۹:۲۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T06:23:55.913Z"
     }
   ]
 }
