@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "mehrnews",
-  "total": 40,
+  "total": 41,
   "articles": [
     {
       "id": "mehrnews_195c4b3fbc",
@@ -962,6 +962,30 @@
       "pubDate": "Sun, 12 Jul 2026 14:35:02 GMT",
       "time": "۱۸:۰۵ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T17:15:20.316Z"
+    },
+    {
+      "id": "mehrnews_6d3a153420",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Over 10 projectiles reportedly hit Qeshm island",
+      "title_fa": "گزارش شده است که بیش از ۱۰ پرتابه به جزیره قشم اصابت کرده است",
+      "lead": "فرماندار جزیره قشم در خلیج فارس گزارش داد که بعدازظهر یکشنبه بیش از ۱۰ پرتابه به این جزیره اصابت کرده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246138/Over-10-projectiles-reported-hitting-Qeshm-Island",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 17:02:40 GMT",
+      "time": "۲۰:۳۲ - ۲۱ تیر",
+      "analyzed_at": "2026-07-12T17:25:16.628Z"
     }
   ]
 }
