@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "aljazeera",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "aljazeera_06de707cd3",
@@ -146,6 +146,30 @@
       "pubDate": "Mon, 13 Jul 2026 02:10:10 +0000",
       "time": "۰۵:۴۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T02:35:35.188Z"
+    },
+    {
+      "id": "aljazeera_eb423c49d7",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
+      "title_fa": "افزایش قیمت نفت با تبادل حملات آمریکا و ایران بر سر تنگه هرمز",
+      "lead": "قیمت نفت برنت بیش از ۴ درصد افزایش یافت. این افزایش قیمت در پی درگیری واشنگتن و تهران بر سر کنترل آبراه حیاتی تنگه هرمز رخ داده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 02:58:05 +0000",
+      "time": "۰۶:۲۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T03:19:06.501Z"
     }
   ]
 }
