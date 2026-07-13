@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "dw",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "dw_e4c75aad23",
@@ -26,6 +26,54 @@
       "pubDate": "Sun, 12 Jul 2026 12:37:00 GMT",
       "time": "۱۶:۰۷ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T02:20:10.344Z"
+    },
+    {
+      "id": "dw_052e99a727",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Are German companies leaving the country?",
+      "title_fa": "آیا شرکت‌های آلمانی در حال ترک کشور هستند؟",
+      "lead": "با توجه به هزینه‌های بالا و رشد کند در آلمان، برخی از رهبران کسب‌وکار در حال بررسی انتقال یا حداقل سرمایه‌گذاری در خارج از کشور هستند. دویچه وله به بررسی این آمار و ارقام پرداخته است.",
+      "category": "economy",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/are-german-companies-leaving-the-country/a-77875399?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Sun, 12 Jul 2026 16:46:00 GMT",
+      "time": "۲۰:۱۶ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "dw_b15d31dcac",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Could AI help al-Qaeda and other groups plan terror attacks?",
+      "title_fa": "آیا هوش مصنوعی می‌تواند به القاعده و دیگر گروه‌ها در برنامه‌ریزی حملات تروریستی کمک کند؟",
+      "lead": "پیروان گروه‌های افراط‌گرا مرتباً می‌پرسند که چگونه هوش مصنوعی می‌تواند به آنها در برنامه‌ریزی حملات تروریستی کمک کند. یک مطالعه جدید نشان می‌دهد که حدود یک سوم از چت‌بات‌های هوش مصنوعی، در صورت سؤال صحیح، ممکن است به آنها کمک کنند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/could-ai-help-al-qaeda-and-other-groups-plan-terror-attacks/a-77909676?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 08:22:00 GMT",
+      "time": "۱۱:۵۲ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T05:57:12.690Z"
     }
   ]
 }
