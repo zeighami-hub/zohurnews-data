@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "isna",
-  "total": 62,
+  "total": 76,
   "articles": [
     {
       "id": "isna_0a3160fc8c",
@@ -1472,6 +1472,334 @@
       "pubDate": "Mon, 13 Jul 2026 04:47:38 GMT",
       "time": "۰۸:۱۷ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T05:07:39.666Z"
+    },
+    {
+      "id": "isna_39d942bd82",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "هشدار اولیانوف نسبت به عواقب تعرض آمریکا علیه نیروگاه بوشهر",
+      "title_fa": "هشدار اولیانوف نسبت به عواقب تعرض آمریکا علیه نیروگاه بوشهر",
+      "lead": "نماینده دائم روسیه در سازمان‌های بین‌المللی در وین نسبت به عواقب تعرض آمریکا علیه نیروگاه بوشهر هشدار داد. وی تاکید کرد که حملات اخیر آمریکا به مناطق جنوبی ایران، نیروگاه هسته‌ای بوشهر را هدف قرار نداده است و در غیر این صورت عواقب فاجعه‌بار خواهد داشت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.isna.ir/news/1405042212601/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%A7%D9%88%D9%84%DB%8C%D8%A7%D9%86%D9%88%D9%81-%D9%86%D8%B3%D8%A8%D8%AA-%D8%A8%D9%87-%D8%B9%D9%88%D8%A7%D9%82%D8%A8-%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87-%D8%A8%D9%88%D8%B4%D9%87%D8%B1",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:16:07 GMT",
+      "time": "۰۸:۴۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_2",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "شناسایی یک‌هزار و ۷۰۰ بیمار هموفیلی در سیستان و بلوچستان",
+      "title_fa": "شناسایی ۱۷۰۰ بیمار هموفیلی در سیستان و بلوچستان",
+      "lead": "مدیر کانون هموفیلی ایران در سیستان و بلوچستان از شناسایی حدود ۱۷۰۰ بیمار هموفیلی در این استان خبر داد. وی افزود که سیستان و بلوچستان در سطح جهانی با بالاترین آمار برخی اختلالات انعقادی، به‌ویژه فاکتور ۱۳، روبه‌رو است.",
+      "category": "health",
+      "region": "Sistan and Baluchestan",
+      "sourceUrl": "https://www.isna.ir/news/1405042212594/%D9%8E%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%DB%8C%DA%A9-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88-%DB%B7%DB%B0%DB%B0-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1-%D9%87%D9%85%D9%88%D9%81%DB%8C%D9%84%DB%8C-%D8%AF%D8%B1-%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_5",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "انهدام پهپاد «لوکاس» توسط نیروی پدافند هوایی ارتش در بندرعباس",
+      "title_fa": "انهدام پهپاد «لوکاس» توسط پدافند هوایی ارتش در بندرعباس",
+      "lead": "ارتش جمهوری اسلامی ایران اعلام کرد که نیروی پدافند هوایی ارتش یک فروند پهپاد متجاوز «لوکاس» را در بندرعباس ساقط کرده است. این پهپاد توسط سامانه موشکی زمین به هوای ارتش منهدم شد.",
+      "category": "military",
+      "region": "Bandar Abbas",
+      "sourceUrl": "https://www.isna.ir/news/1405042212597/%D8%A7%D9%86%D9%87%D8%AF%D8%A7%D9%85-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF-%D9%84%D9%88%DA%A9%D8%A7%D8%B3-%D8%AA%D9%88%D8%B3%D8%B7-%D9%86%DB%8C%D8%B1%D9%88%DB%8C-%D9%8E%D9%81%D8%A7%D9%81%D9%86%D8%AF-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%AF%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_6",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "جهش ۴ درصدی قیمت نفت در پی شرارت نظامی آمریکا",
+      "title_fa": "جهش ۴ درصدی قیمت نفت در پی اقدامات نظامی آمریکا",
+      "lead": "قیمت نفت در معاملات روز دوشنبه بازار جهانی، بیش از ۴ درصد افزایش یافت. این جهش در پی تشدید تجاوز نظامی آمریکا و مقابله به مثل ایران رخ داد که نگرانی‌هایی را درباره اختلال در حمل و نقل انرژی از تنگه هرمز ایجاد کرده است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.isna.ir/news/1405042212593/%D8%AC%D9%87%D8%B4-%DB%B4-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%D9%81%D8%AA-%D8%AF%D8%B1-%D9%8E%D9%81%DB%8C-%D8%B4%D8%B1%D8%A7%D8%B1%D8%AA-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_7",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "جلوه‌نمایی پایتخت نساجی ایران در روستای شکوفه‌های سیب",
+      "title_fa": "جلوه‌نمایی پایتخت نساجی ایران در روستای شکوفه‌های سیب",
+      "lead": "روستای پلکانی رویین اسفراین که به \"پایتخت نساجی ایران\" مشهور است، از جمله برترین روستاهای پلکانی کشور محسوب می‌شود. این روستا همچنین یکی از توریستی‌ترین مناطق ایران و استان خراسان شمالی است.",
+      "category": "culture",
+      "region": "North Khorasan",
+      "sourceUrl": "https://www.isna.ir/news/1405042212590/%D8%AC%D9%84%D9%88%D9%87-%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D9%8E%D9%81%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA-%D9%86%D8%B3%D8%A7%D8%AC%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C-%D8%B4%DA%A9%D9%88%D9%81%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D8%A8",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_6944c54d40",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "سرمربی تیم ملی راگبی بانوان: زنجان همواره پشتوانه مهم تیم ملی بوده است",
+      "title_fa": "سرمربی تیم ملی راگبی بانوان: زنجان همواره پشتوانه مهم تیم ملی بوده است",
+      "lead": "سرمربی تیم ملی راگبی بانوان اعلام کرد که اولین اردوی آماده‌سازی سال ۱۴۰۵ در زنجان برگزار شده است. او با اشاره به تغییر برنامه‌های آماده‌سازی به دلیل شرایط کشور، اظهار داشت که زنجان همواره با فراهم کردن امکانات مناسب، نقش مهمی در آماده‌سازی تیم ملی ایفا کرده است.",
+      "category": "sports",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405042212596/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D8%B1%D8%A7%DA%AF%D8%A8%DB%8C-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%B2%D9%86%D8%AC%D8%A7%D9%86-%D9%87%D9%85%D9%88%D8%A7%D8%B1%D9%87-%D9%BE%D8%B4%D8%AA%D9%88%D8%A7%D9%86%D9%87-%D9%85%D9%87%D9%85-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:09:06 GMT",
+      "time": "۰۸:۳۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_3ff2a08ce9",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "کاهش ۱۵ درصدی پرونده‌های قضایی و ‌۳۳ درصد سرقت ‌در کردستان‌",
+      "title_fa": "کاهش ۱۵ درصدی پرونده‌های قضایی و ۳۳ درصد سرقت در کردستان",
+      "lead": "معاون اجتماعی و پیشگیری از وقوع جرم دادگستری استان کردستان از کاهش چشمگیر جرایم در سه‌ماهه نخست امسال خبر داد. وی اعلام کرد که سرقت ۳۳ درصد، رانندگی بدون پروانه ۲۸ درصد و کلاهبرداری ۱۵ درصد کاهش یافته است. همچنین جرایم مرتبط با تقلب ۲۲ درصد و پرونده‌های تخریب کاهش داشته‌اند.",
+      "category": "justice",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405042212595/%DA%A9%D8%A7%D9%87%D8%B4-%DB%B1%DB%B5-%D8%AF%D8%B1%D8%B5%D8%AF%DB%8C-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D9%82%D8%B6%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D8%B1%D9%82%D8%AA-%DB%B3%DB%B3-%D8%AF%D8%B1%D8%B5%D8%AF-%DA%A9%D8%A7%D9%87%D8%B4",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:08:49 GMT",
+      "time": "۰۸:۳۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_a96690968f",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "از بازی آنلاین تا قتل، چرا خشونت به نوجوانان نزدیک‌تر شده است؟",
+      "title_fa": "از بازی آنلاین تا قتل؛ افزایش خشونت در میان نوجوانان",
+      "lead": "آگهی‌های مربوط به گم‌شدن نوجوانی ۱۴ ساله در تبریز به طور گسترده در فضای مجازی منتشر شد. اما این جست‌وجو با خبر تلخ قتل این نوجوان و دستگیری عامل آن به پایان رسید. این حادثه سوالاتی را درباره ارتباط بازی‌های آنلاین و افزایش خشونت در میان نوجوانان مطرح کرده است.",
+      "category": "society",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405042212591/%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%AA%D8%A7-%D9%82%D8%AA%D9%84-%DA%86%D8%B1%D8%A7-%D8%AE%D8%B4%D9%88%D9%86%D8%AA-%D8%A8%D9%87-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D8%AA%D8%B1-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:04:02 GMT",
+      "time": "۰۸:۳۴ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_96c79f09b8",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "نمک‌های رنگی و سنگ نمک؛ انتخابی پرخطر برای سلامت",
+      "title_fa": "نمک‌های رنگی و سنگ نمک؛ انتخابی پرخطر برای سلامت",
+      "lead": "یک کارشناس مسئول تغذیه درباره تبلیغات گسترده نمک‌های رنگی، نمک دریا و سنگ نمک هشدار داد. این محصولات به دلیل تصفیه نشدن می‌توانند حاوی فلزات سنگین، ناخالصی‌های مضر و فاقد ید کافی باشند.",
+      "category": "society",
+      "region": "national",
+      "sourceUrl": "https://www.isna.ir/news/1405042212600/%D9%86%D9%85%DA%A9-%D9%87%D8%A7%DB%8C-%D8%B1%D9%86%DA%AF%DB%8C-%D9%88-%D8%B3%D9%86%DA%AF-%D9%86%D9%85%DA%A9-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%DB%8C-%D9%BE%D8%B1%D8%AE%D8%B7%D8%B1-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D9%84%D8%A7%D9%85%D8%AA",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:13:52 GMT",
+      "time": "۰۸:۴۳ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_1405b8d659",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "همه سکوت کرده‌اند!",
+      "title_fa": "انتقاد ناشر موسیقی از وضعیت صنعت موسیقی کشور",
+      "lead": "یک ناشر موسیقی از وضعیت صنعت موسیقی انتقاد کرد و عواملی چون نبود حمایت موثر از حقوق مؤلف، ضعف پلتفرم‌های داخلی و نگاه ابزاری به موسیقی را از دلایل رکود این حوزه برشمرد. وی تأکید کرد بدون تشکیل ستاد بحران و همفکری فعالان، نمی‌توان به بهبود وضعیت امیدوار بود.",
+      "category": "culture",
+      "region": "national",
+      "sourceUrl": "https://www.isna.ir/news/1405042212599/%D9%87%D9%85%D9%87-%D8%B3%DA%A9%D9%88%D8%AA-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%D9%86%D8%AF",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:13:18 GMT",
+      "time": "۰۸:۴۳ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_75b00e0b5e",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "طلای جهانی فرصت افزایش قیمت نیافت",
+      "title_fa": "کاهش قیمت طلای جهانی در معاملات روز دوشنبه",
+      "lead": "قیمت طلا در معاملات روز دوشنبه بازار جهانی، بیش از یک درصد کاهش یافت. این کاهش تحت تاثیر افزایش قیمت نفت و انتظارات برای افزایش نرخ بهره آمریکا صورت گرفت.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.isna.ir/news/1405042212598/%D8%B7%D9%84%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D9%81%D8%B1%D8%B5%D8%AA-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D9%86%DB%8C%D8%A7%D9%81%D8%AA",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:10:09 GMT",
+      "time": "۰۸:۴۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_0ee8d2252d",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "وقتی می‌دانیم زمان محدود است، چگونه باید زیست؟",
+      "title_fa": "رمانی تأملی بر «زندگیِ قرضی»",
+      "lead": "رمان «کسی نظرکرده آسمان نیست» را می‌توان تاملی بر «زندگیِ قرضی» دانست. این اثر به زیستنی موقتی می‌پردازد که همین موقتی‌بودن می‌تواند به آن درخششی خاص ببخشد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.isna.ir/news/1405042212592/%D9%88%D9%82%D8%AA%DB%8C-%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%DB%8C%D9%85-%D8%B2%D9%85%D8%A7%D9%86-%D9%85%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D8%B3%D8%AA-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%B2%DB%8C%D8%B3%D8%AA",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:05:03 GMT",
+      "time": "۰۸:۳۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_0aecc1fb05",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "آماده‌سازی محورهای مواصلاتی البرز و تأمین ناوگان برای مراسم اربعین",
+      "title_fa": "آماده‌سازی محورهای البرز و تأمین ناوگان برای مراسم اربعین",
+      "lead": "مدیرکل راهداری و حمل‌ونقل جاده‌ای استان البرز از آغاز برنامه‌ریزی‌ها و اجرای اقدامات زیرساختی برای سفرهای اربعین خبر داد. این اقدامات شامل آماده‌سازی محورهای مواصلاتی، ساماندهی ناوگان و تأمین رانندگان کمکی است.",
+      "category": "society",
+      "region": "national",
+      "sourceUrl": "https://www.isna.ir/news/1405042212589/%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%85%D8%AD%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A7%D8%AA%DB%8C-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-%D9%88-%D8%AA%D8%A3%D9%85%DB%8C%D9%86-%D9%86%D8%A7%D9%88%DA%AF%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:02:30 GMT",
+      "time": "۰۸:۳۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
+    },
+    {
+      "id": "isna_2e3c0670b8",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "وزیر خارجه مصر: ناکارآمدی سیاست‌های مبتنی بر زور آشکار شده است",
+      "title_fa": "وزیر خارجه مصر: سیاست‌های مبتنی بر زور پس از ۷ اکتبر ناکارآمدی خود را نشان داده‌اند",
+      "lead": "وزیر امور خارجه مصر تأکید کرد که تحولات پس از ۷ اکتبر ۲۰۲۳، ناکارآمدی سیاست‌های مبتنی بر زور را آشکار کرده است. وی افزود هیچ طرفی نمی‌تواند اراده خود را به‌تنهایی بر منطقه تحمیل کند و طرح‌هایی چون «اسرائیل بزرگ» بی‌نتیجه خواهند ماند.",
+      "category": "politics",
+      "region": "middle-east",
+      "sourceUrl": "https://www.isna.ir/news/1405042212584/%D9%88%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D9%85%D8%B5%D8%B1-%D9%86%D8%A7%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D8%AF%DB%8C-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D8%A8%D8%AA%D9%86%DB%8C-%D8%A8%D8%B1-%D8%B2%D9%88%D8%B1-%D8%A2%D8%B4%DA%A9%D8%A7%D8%B1-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Mon, 13 Jul 2026 04:55:59 GMT",
+      "time": "۰۸:۲۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T05:22:56.365Z"
     }
   ]
 }
