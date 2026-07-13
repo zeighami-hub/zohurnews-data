@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "bbc",
-  "total": 11,
+  "total": 15,
   "articles": [
     {
       "id": "bbc_f9bde58bb8",
@@ -266,6 +266,102 @@
       "pubDate": "Sun, 12 Jul 2026 15:22:52 GMT",
       "time": "۱۸:۵۲ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T05:57:12.690Z"
+    },
+    {
+      "id": "bbc_57ac54e438",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "At least two killed in Toronto street festival shooting",
+      "title_fa": "حداقل دو نفر در تیراندازی جشنواره خیابانی تورنتو کشته شدند",
+      "lead": "پلیس می‌گوید بین دو فرد در این جشنواره تبادل آتش صورت گرفته است. دو قبضه سلاح گرم از محل حادثه کشف شده است.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 03:56:02 GMT",
+      "time": "۰۷:۲۶ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "bbc_2bfa21b061",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "title_fa": "دولت ترامپ خبرنگاران نیویورک تایمز را به دلیل گزارش درباره ایر فورس وان احضار کرد",
+      "lead": "خبرنگاران پس از گزارش درباره مسائل امنیتی ادعایی مربوط به هواپیمای جدید رئیس‌جمهور، که توسط قطر هدیه داده شده بود، احضاریه قانونی دریافت کردند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 16:11:33 GMT",
+      "time": "۱۹:۴۱ - ۲۰ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "bbc_0a622d2e99",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "South Africa World Cup midfielder Adams dies aged 25",
+      "title_fa": "جیدن آدامز، هافبک ۲۵ ساله آفریقای جنوبی و تیم ملی، درگذشت",
+      "lead": "جیدن آدامز، هافبک آفریقای جنوبی و باشگاه مامیلودی سان‌داونز، در سن ۲۵ سالگی درگذشت. او تنها چند هفته پیش در جام جهانی برای کشورش بازی کرده بود.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 11 Jul 2026 14:47:47 GMT",
+      "time": "۱۸:۱۷ - ۲۰ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
+    },
+    {
+      "id": "bbc_53a4d8c425",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+      "title_fa": "بیش از ۴۰ کودک و معلم ربوده‌شده پس از عملیات ارتش نیجریه آزاد شدند",
+      "lead": "بیش از ۴۰ کودک و معلم ربوده‌شده پس از عملیات ارتش نیجریه آزاد شدند. رئیس اتحادیه معلمان محلی به بی‌بی‌سی گفت که «احساس خوشحالی و شعف» دارد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sat, 11 Jul 2026 14:19:34 GMT",
+      "time": "۱۷:۴۹ - ۲۰ تیر",
+      "analyzed_at": "2026-07-13T06:11:09.815Z"
     }
   ]
 }
