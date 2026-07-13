@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "aljazeera",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "aljazeera_06de707cd3",
@@ -434,6 +434,54 @@
       "pubDate": "Mon, 13 Jul 2026 08:15:41 +0000",
       "time": "۱۱:۴۵ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T09:11:34.551Z"
+    },
+    {
+      "id": "aljazeera_5761ff980f",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "New Iran strikes on Gulf as US attacks escalate: What we know",
+      "title_fa": "حملات جدید ایران در خلیج فارس همزمان با تشدید حملات آمریکا: آنچه می‌دانیم",
+      "lead": "ایران در سومین دور از حملات تلافی‌جویانه در یک هفته، همزمان با تشدید حملات آمریکا، همسایگان خود در خلیج فارس را هدف قرار داده است. این خبر نشان‌دهنده تنش‌های فزاینده در منطقه است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 09:16:08 +0000",
+      "time": "۱۲:۴۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T09:40:46.634Z"
+    },
+    {
+      "id": "aljazeera_9ab1b014e0",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Typhoon Bavi pummels China’s eastern coast",
+      "title_fa": "توفان باوی سواحل شرقی چین را درهم کوبید",
+      "lead": "توفان باوی سواحل شرقی چین را درهم کوبید و ویدئویی دراماتیک لحظه برخورد امواج ناشی از این توفان به خانه‌ای در استان ژجیانگ چین را ثبت کرده است. این توفان خسارات قابل توجهی به منطقه وارد کرده است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/typhoon-bavi-pummels-chinas-eastern-coast?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 08:53:41 +0000",
+      "time": "۱۲:۲۳ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T09:40:46.634Z"
     }
   ]
 }
