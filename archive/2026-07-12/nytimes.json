@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "nytimes",
-  "total": 34,
+  "total": 35,
   "articles": [
     {
       "id": "nytimes_89c0b6e448",
@@ -816,6 +816,30 @@
       "pubDate": "Sun, 12 Jul 2026 21:38:42 +0000",
       "time": "۰۱:۰۸ - ۲۲ تیر",
       "analyzed_at": "2026-07-12T21:49:20.710Z"
+    },
+    {
+      "id": "nytimes_0eb7b5f5fb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Fire in Bangkok Pub Kills Dozens",
+      "title_fa": "آتش‌سوزی در یک میخانه در بانکوک ده‌ها کشته برجای گذاشت",
+      "lead": "علت آتش‌سوزی هنوز مشخص نیست، اما زمانی آغاز شد که یک گروه موسیقی در حال اجرا روی صحنه بود. آتش به سرعت گسترش یافت و حداقل ۲۷ نفر را کشت.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 23:12:16 +0000",
+      "time": "۰۲:۴۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-12T23:19:02.011Z"
     }
   ]
 }
