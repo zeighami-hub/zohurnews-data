@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 5,
   "articles": [
     {
       "id": "mehrnews_41710a4467",
@@ -50,6 +50,78 @@
       "pubDate": "Sun, 12 Jul 2026 12:20:35 GMT",
       "time": "۱۵:۵۰ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T02:20:10.344Z"
+    },
+    {
+      "id": "mehrnews_972e509015",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Passage through Hormuz Strait currently ‘not possible’: PGSA",
+      "title_fa": "عبور از تنگه هرمز در حال حاضر «غیرممکن» است: PGSA",
+      "lead": "سازمان تنگه خلیج فارس (PGSA) اعلام کرده است که عبور از تنگه هرمز در حال حاضر امکان‌پذیر نیست. این تصمیم به دلیل فعالیت‌های غیرقانونی اخیر نیروهای نظامی آمریکا در منطقه اتخاذ شده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246133/Passage-through-Hormuz-Strait-currently-not-possible-PGSA",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 13:08:38 GMT",
+      "time": "۱۶:۳۸ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T02:35:35.188Z"
+    },
+    {
+      "id": "mehrnews_184b373cd9",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Pezeshkian lauds Iran Physics Olympiad team for achievements",
+      "title_fa": "پزشکیان تیم المپیاد فیزیک ایران را برای دستاوردها ستود",
+      "lead": "رئیس‌جمهور مسعود پزشکیان به تیم ملی المپیاد فیزیک ایران تبریک گفت. این تبریک به دلیل عملکرد عالی آنها در پنجاه و ششمین المپیاد جهانی فیزیک (IPhO) صورت گرفت.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246134/Pezeshkian-lauds-Iran-Physics-Olympiad-team-for-achievements",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 13:33:51 GMT",
+      "time": "۱۷:۰۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T02:35:35.188Z"
+    },
+    {
+      "id": "mehrnews_a5fe2f6ad2",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "VIDEO: Flash floods in Bangladesh, 44 killed",
+      "title_fa": "ویدئو: سیلاب ناگهانی در بنگلادش، ۴۴ کشته برجای گذاشت",
+      "lead": "سیلاب‌های ناگهانی در بنگلادش جان ۴۴ نفر را گرفت. همچنین این سیلاب‌ها بیش از یک میلیون نفر را در روز یکشنبه سرگردان کرده است.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246132/VIDEO-Flash-floods-in-Bangladesh-44-killed",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 12:49:02 GMT",
+      "time": "۱۶:۱۹ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T02:35:35.188Z"
     }
   ]
 }
