@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "mehrnews",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "mehrnews_41710a4467",
@@ -170,6 +170,54 @@
       "pubDate": "Mon, 13 Jul 2026 03:53:02 GMT",
       "time": "۰۷:۲۳ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T04:07:00.023Z"
+    },
+    {
+      "id": "mehrnews_843efa6866",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran army drones hit US bases in Kuwait",
+      "title_fa": "پهپادهای ارتش ایران به پایگاه‌های آمریکا در کویت حمله کردند",
+      "lead": "ارتش ایران اعلام کرد که موج جدیدی از حملات پهپادی را علیه مواضع نیروهای آمریکایی، سامانه‌های پدافند هوایی و موشکی و تاسیسات پشتیبانی در کویت انجام داده است. این حملات در تلافی حملات مکرر آمریکا به ایران صورت گرفته است.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://en.mehrnews.com/news/246146/Iran-army-drones-hit-US-bases-in-Kuwait",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 04:14:50 GMT",
+      "time": "۰۷:۴۴ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T04:22:26.600Z"
+    },
+    {
+      "id": "mehrnews_3121ffa53a",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "At least 10,000 people may be victims Europe's extreme heat",
+      "title_fa": "حداقل ۱۰ هزار نفر قربانی گرمای شدید اروپا شده‌اند",
+      "lead": "بر اساس داده‌های مرکز پایش مرگ و میر اروپا، حداقل ۱۰ هزار نفر ممکن است در اثر گرمای شدید نیمه دوم ماه ژوئن در اروپا جان باخته باشند. این پدیده جوی بخش‌های وسیعی از قاره اروپا را تحت تأثیر قرار داده است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://en.mehrnews.com/news/246145/At-least-10-000-people-may-be-victims-Europe-s-extreme-heat",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 04:07:58 GMT",
+      "time": "۰۷:۳۷ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T04:22:26.600Z"
     }
   ]
 }
