@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
   "agencyId": "mehrnews",
-  "total": 42,
+  "total": 44,
   "articles": [
     {
       "id": "mehrnews_195c4b3fbc",
@@ -1010,6 +1010,54 @@
       "pubDate": "Sun, 12 Jul 2026 18:09:28 GMT",
       "time": "۲۱:۳۹ - ۲۱ تیر",
       "analyzed_at": "2026-07-12T18:25:06.257Z"
+    },
+    {
+      "id": "mehrnews_66132740f1",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "AEOI rejects rumors of attacks on Bushehr nuclear plant",
+      "title_fa": "سازمان انرژی اتمی شایعات حمله به نیروگاه بوشهر را رد کرد",
+      "lead": "سازمان انرژی اتمی ایران (AEOI) به طور رسمی شایعات مربوط به حمله به نیروگاه اتمی بوشهر را تکذیب کرد. این سازمان اعلام کرد که تأسیسات ایمن و پایدار است و تمام واحدهای آن بدون وقفه در حال فعالیت هستند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246141/AEOI-rejects-rumors-of-attacks-on-Bushehr-nuclear-plant",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "pubDate": "Sun, 12 Jul 2026 21:26:15 GMT",
+      "time": "۰۰:۵۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-12T21:35:08.259Z"
+    },
+    {
+      "id": "mehrnews_826e835ac5",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Third night of mourning after Leader's burial in Mashhad",
+      "title_fa": "سومین شب مراسم عزاداری پس از تدفین رهبر در مشهد",
+      "lead": "مردم مشهد مقدس سومین شب مراسم عزاداری خود را پس از تدفین رهبر انقلاب اسلامی برگزار کردند. این مراسم یکشنبه شب در حرم مطهر امام رضا (ع) برگزار شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/photo/246140/Third-night-of-mourning-after-Leader-s-burial-in-Mashhad",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 21:20:42 GMT",
+      "time": "۰۰:۵۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-12T21:35:08.259Z"
     }
   ]
 }
