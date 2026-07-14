@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "guardian",
-  "total": 35,
+  "total": 37,
   "articles": [
     {
       "id": "guardian_888ebf97eb",
@@ -834,6 +834,54 @@
       "pubDate": "Sun, 12 Jul 2026 11:00:17 GMT",
       "time": "۱۴:۳۰ - ۲۱ تیر",
       "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "guardian_21200f41e0",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Police hope new photos will help find remains of British backpacker Peter Falconio 25 years after infamous murder",
+      "title_fa": "پلیس امیدوار است عکس‌های جدید به یافتن بقایای پیتر فالکونیو، گردشگر بریتانیایی، ۲۵ سال پس از قتل بدنامش کمک کند",
+      "lead": "پلیس قلمرو شمالی استرالیا جعبه‌های شواهد مربوط به قتل پیتر فالکونیو، گردشگر بریتانیایی، را پس از ۲۵ سال بازگشایی کرده است. امید می‌رود عکس‌های جدید به کشف بقایای وی و بسته شدن پرونده این جنایت وحشتناک کمک کند.",
+      "category": "crime",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/14/peter-falconio-murder-joanne-lees-abduction-anniversary-northern-territory-police-mystery-photos",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 22:23:09 GMT",
+      "time": "۰۱:۵۳ - ۲۳ تیر",
+      "analyzed_at": "2026-07-13T22:50:47.651Z"
+    },
+    {
+      "id": "guardian_b618695378",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Mexico to file criminal complaints over migrants killed by ICE in US",
+      "title_fa": "مکزیک در مورد مهاجران کشته شده توسط ICE در آمریکا شکایت کیفری ارائه می‌دهد",
+      "lead": "کلودیا شاینبوم، رئیس‌جمهور مکزیک، روز دوشنبه اعلام کرد که مکزیک شکایات کیفری را در آمریکا به دلیل مرگ بیش از یک مهاجر توسط ماموران ICE در هیوستون، مطرح خواهد کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 22:06:01 GMT",
+      "time": "۰۱:۳۶ - ۲۳ تیر",
+      "analyzed_at": "2026-07-13T22:41:28.289Z"
     }
   ]
 }
