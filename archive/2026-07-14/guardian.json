@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "guardian",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "guardian_f0169ac5eb",
@@ -98,6 +98,54 @@
       "pubDate": "Fri, 10 Jul 2026 07:00:14 GMT",
       "time": "۱۰:۳۰ - ۱۹ تیر",
       "analyzed_at": "2026-07-14T02:19:43.741Z"
+    },
+    {
+      "id": "guardian_4ca0577a74",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Police claim breakthrough in Melbourne’s hospitality wars, alleging links to overseas crime figure",
+      "title_fa": "پلیس از کشف ارتباط میان «جنگ‌های مهمانداری» ملبورن و یک شخصیت جنایی خارج از کشور خبر داد",
+      "lead": "پلیس ویکتوریا از دستگیری یک فرد «رده‌بالا» از سندیکایی خبر داد که متهم به سازماندهی حملات آتش‌سوزی در ملبورن است. آنها ادعا می‌کنند که ارتباطاتی با یک شخصیت جنایی خارج از کشور کشف شده است.",
+      "category": "crime",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/14/melbourne-hospitality-hospo-wars-arrest-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 03:08:34 GMT",
+      "time": "۰۶:۳۸ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T03:34:08.142Z"
+    },
+    {
+      "id": "guardian_7e1444ae76",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
+      "title_fa": "کشتار در مزرعه دل مونته کنیا، پس از استخدام G4S برای امنیت، ادامه دارد",
+      "lead": "خانواده‌های قربانیان می‌گویند که پس از استخدام شرکت G4S برای امنیت، کشتارها در مزرعه آناناس دل مونته در کنیا همچنان ادامه دارد. ادعا می‌شود که در سال گذشته سه مرد در حوادثی که گاردین با گارد G4S مرتبط می‌داند، کشته شده‌اند.",
+      "category": "human rights",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 14:00:49 GMT",
+      "time": "۱۷:۳۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T03:34:08.142Z"
     }
   ]
 }
