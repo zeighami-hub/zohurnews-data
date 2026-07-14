@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "aljazeera",
-  "total": 27,
+  "total": 30,
   "articles": [
     {
       "id": "aljazeera_06de707cd3",
@@ -650,6 +650,78 @@
       "pubDate": "Mon, 13 Jul 2026 10:32:25 +0000",
       "time": "۱۴:۰۲ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T11:42:13.206Z"
+    },
+    {
+      "id": "aljazeera_64eae9a213",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Yemen gov’t says its forces attacked Sanaa airport",
+      "title_fa": "دولت یمن می‌گوید نیروهایش فرودگاه صنعا را هدف قرار داده‌اند",
+      "lead": "دولت یمن اعلام کرد که نیروهایش حمله‌ای به فرودگاه صنعا انجام داده‌اند. هدف از این حمله، جلوگیری از فرود یک هواپیمای ایرانی در آنجا بوده است که نشان‌دهنده تشدید درگیری‌ها است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/videos/2026/7/13/yemen-govt-says-its-forces-attacked-sanaa-airport?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 11:38:03 +0000",
+      "time": "۱۵:۰۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T12:09:09.463Z"
+    },
+    {
+      "id": "aljazeera_bc69354c79",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Al Jazeera bids farewell to founder Sheikh Hamad",
+      "title_fa": "الجزیره با شیخ حمد، بنیان‌گذار خود، وداع می‌کند",
+      "lead": "شبکه الجزیره با شیخ حمد، بنیان‌گذار خود، وداع می‌کند.",
+      "category": "media",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/al-jazeera-bids-farewell-to-founder-sheikh-hamad?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 11:38:09 +0000",
+      "time": "۱۵:۰۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T12:09:09.463Z"
+    },
+    {
+      "id": "aljazeera_2b71ad3faa",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Will the 2030 World Cup expand to 64 teams? What FIFA’s Infantino says",
+      "title_fa": "آیا جام جهانی ۲۰۳۰ به ۶۴ تیم گسترش خواهد یافت؟ گفته‌های اینفانتینو، رئیس فیفا",
+      "lead": "رئیس فیفا اعلام کرده است که در اولین جام جهانی با ۴۸ تیم، گسترش به ۶۴ تیم برای جام جهانی ۲۰۳۰ در دست بررسی است.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/13/gianni-infantino-64-teams-expansion-comments-fifa-2030-world-cup?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 11:29:20 +0000",
+      "time": "۱۴:۵۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T12:09:09.463Z"
     }
   ]
 }
