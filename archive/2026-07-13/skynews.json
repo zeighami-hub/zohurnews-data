@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "skynews",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "skynews_8729ce6c67",
@@ -314,6 +314,30 @@
       "pubDate": "Mon, 13 Jul 2026 11:20:00 +0100",
       "time": "۱۳:۵۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T13:56:34.363Z"
+    },
+    {
+      "id": "skynews_48b1049cad",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Man wanted in UK over murder of wife and two children appears in South African court",
+      "title_fa": "مردی که در بریتانیا به دلیل قتل همسر و دو فرزندش تحت تعقیب بود، در دادگاه آفریقای جنوبی حاضر شد",
+      "lead": "مردی که مظنون به قتل همسر و دو فرزندش در بریتانیا است، در دادگاهی در آفریقای جنوبی حاضر شده است. او در این دادگاه به اتهامات مربوط به سلاح گرم پاسخ می‌دهد.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/man-wanted-in-uk-over-murder-of-wife-and-two-children-appears-in-south-african-court-on-gun-charges-13562934",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 08:51:00 +0100",
+      "time": "۱۱:۲۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T15:59:24.164Z"
     }
   ]
 }
