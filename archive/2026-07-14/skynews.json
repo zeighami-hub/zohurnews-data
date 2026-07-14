@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "skynews_41c2c617d7",
@@ -50,6 +50,30 @@
       "pubDate": "Mon, 13 Jul 2026 10:10:00 +0100",
       "time": "۱۲:۴۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T00:49:48.704Z"
+    },
+    {
+      "id": "skynews_cff03f07ac",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "UK proscribes Iran's IRGC after 'threats to life' on British soil",
+      "title_fa": "بریتانیا سپاه پاسداران ایران را پس از 'تهدید جان' در خاک بریتانیا، ممنوع اعلام کرد",
+      "lead": "بریتانیا سپاه پاسداران انقلاب اسلامی ایران را پس از مطرح شدن 'تهدیداتی برای زندگی' در خاک این کشور، ممنوع اعلام کرده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/uk-proscribes-irans-irgc-after-threats-to-life-on-british-soil-13563034",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 13 Jul 2026 13:28:00 +0100",
+      "time": "۱۵:۵۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T01:34:01.822Z"
     }
   ]
 }
