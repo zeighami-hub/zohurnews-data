@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "bbc",
-  "total": 41,
+  "total": 42,
   "articles": [
     {
       "id": "bbc_f9bde58bb8",
@@ -986,6 +986,30 @@
       "pubDate": "Mon, 13 Jul 2026 17:31:54 GMT",
       "time": "۲۱:۰۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "bbc_42474ab12a",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "title_fa": "ترامپ محاصره بنادر ایران را بازگرداند و وعده دریافت ۲۰ درصد عوارض از محموله‌های عبوری از هرمز را داد",
+      "lead": "ترامپ محاصره بنادر ایران را بازگردانده و تهدید کرده است که ۲۰ درصد عوارض از محموله‌های عبوری از تنگه هرمز دریافت خواهد شد. رئیس‌جمهور آمریکا اعلام کرد که واشنگتن این هزینه را بر تمامی کالاهای ارسال شده از طریق تنگه هرمز اعمال خواهد کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 21:46:06 GMT",
+      "time": "۰۱:۱۶ - ۲۳ تیر",
+      "analyzed_at": "2026-07-13T22:41:28.289Z"
     }
   ]
 }
