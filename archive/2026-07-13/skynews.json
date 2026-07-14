@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "skynews",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "skynews_8729ce6c67",
@@ -362,6 +362,54 @@
       "pubDate": "Mon, 13 Jul 2026 15:56:00 +0100",
       "time": "۱۸:۲۶ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T17:45:39.031Z"
+    },
+    {
+      "id": "skynews_31447a9b5d",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Fifth Briton identified as victim of wildfire in Spain",
+      "title_fa": "پنجمین شهروند بریتانیایی به عنوان قربانی آتش‌سوزی جنگلی در اسپانیا شناسایی شد",
+      "lead": "یک شهروند بریتانیایی دیگر به عنوان پنجمین قربانی آتش‌سوزی جنگلی در جنوب اسپانیا شناسایی شد. این حادثه تاکنون منجر به کشته شدن بیش از دوازده نفر شده است.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/fifth-british-national-identified-as-victim-of-wildfire-in-spain-13563196",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 21:17:00 +0100",
+      "time": "۲۳:۴۷ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T22:50:47.651Z"
+    },
+    {
+      "id": "skynews_9b75a5037c",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "US senators demand findings of probe into deadly strike on Iran school",
+      "title_fa": "سناتورهای آمریکایی خواستار انتشار یافته‌های تحقیقات حمله مرگبار به مدرسه‌ای در ایران شدند",
+      "lead": "سناتورهای آمریکایی از ارتش این کشور خواسته‌اند که یافته‌های تحقیقات خود درباره حمله موشکی مرگبار به مدرسه‌ای در ایران را فورا اعلام کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/senators-demand-pentagon-reveals-outcome-of-minab-school-strike-probe-13563191",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 20:59:00 +0100",
+      "time": "۲۳:۲۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T22:41:28.289Z"
     }
   ]
 }
