@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 37,
+  "total": 38,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -890,6 +890,30 @@
       "pubDate": "Mon, 13 Jul 2026 13:58:11 +0000",
       "time": "۱۷:۲۸ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T14:09:49.600Z"
+    },
+    {
+      "id": "nytimes_a28b459fab",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Europe Will Defend Itself ‘With Blood, if Necessary,’ Macron Says",
+      "title_fa": "ماکرون: اروپا در صورت لزوم «با خون» از خود دفاع خواهد کرد",
+      "lead": "امانوئل ماکرون، رئیس‌جمهور فرانسه، پیش از نشستی با بیش از ۲۵ متحد در پاریس سخنرانی کرد. این اظهارات در راستای حمایت از اوکراین و علیه روسیه بیان شد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/europe/macron-defend-blood-ukraine-europe.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Mon, 13 Jul 2026 15:10:32 +0000",
+      "time": "۱۸:۴۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T15:59:24.164Z"
     }
   ]
 }
