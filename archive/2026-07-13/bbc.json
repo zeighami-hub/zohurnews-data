@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "bbc",
-  "total": 36,
+  "total": 38,
   "articles": [
     {
       "id": "bbc_f9bde58bb8",
@@ -866,6 +866,54 @@
       "pubDate": "Mon, 13 Jul 2026 12:10:38 GMT",
       "time": "۱۵:۴۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T14:58:23.417Z"
+    },
+    {
+      "id": "bbc_89eceb0acf",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+      "title_fa": "توافق بریتانیا و سوئیس برای حذف هزینه‌های رومینگ و اجازه استفاده بریتانیایی‌ها از گیت‌های الکترونیکی",
+      "lead": "بریتانیا یک توافقنامه جدید خدمات با سوئیس امضا کرده که به گفته آن، صادرات سالانه را \"در بلندمدت\" ۵.۲ میلیارد پوند افزایش خواهد داد. این توافق همچنین شامل حذف هزینه‌های رومینگ و امکان استفاده بریتانیایی‌ها از گیت‌های الکترونیکی می‌شود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 16:05:13 GMT",
+      "time": "۱۹:۳۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T17:45:39.031Z"
+    },
+    {
+      "id": "bbc_f5ddf352cb",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
+      "title_fa": "فرمانده نیروهای واکنش سریع سودان به اتهام جنایات جنگی به اعدام محکوم شد",
+      "lead": "محمد حمدان داگلو، فرمانده نیروهای شبه‌نظامی واکنش سریع (RSF) سودان، به اتهام جنایات جنگی غیاباً به اعدام محکوم شد. او به همراه ۱۵ فرمانده و متحد RSF محکوم شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 12:02:19 GMT",
+      "time": "۱۵:۳۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T17:45:39.031Z"
     }
   ]
 }
