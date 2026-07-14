@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "rt",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "rt_f892bedb84",
@@ -506,6 +506,30 @@
       "pubDate": "Mon, 13 Jul 2026 10:59:13 +0000",
       "time": "۱۴:۲۹ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T11:42:13.206Z"
+    },
+    {
+      "id": "rt_c27018e90b",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US ‘taking over’ Strait of Hormuz – Trump",
+      "title_fa": "ترامپ: آمریکا در حال «تصاحب» تنگه هرمز است",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که این کشور در حال \"تصاحب\" تنگه هرمز از ایران است. این اظهارات در بحبوحه تشدید درگیری‌ها بر سر این آبراه مهم بیان شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642947-trump-iran-hormuz-escalation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 13:34:59 +0000",
+      "time": "۱۷:۰۴ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T13:56:34.363Z"
     }
   ]
 }
