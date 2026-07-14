@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_7955cc1f7a",
@@ -290,6 +290,30 @@
       "pubDate": "Sun, 12 Jul 2026 14:51:40 +0000",
       "time": "۱۸:۲۱ - ۲۱ تیر",
       "analyzed_at": "2026-07-14T10:39:48.119Z"
+    },
+    {
+      "id": "nytimes_58a0f4784b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
+      "title_fa": "اروپا در اوکراین قدرت‌نمایی می‌کند، اما در مورد ایران همچنان بی‌طرف است",
+      "lead": "در نمایشی از قدرت جمعی، امانوئل ماکرون، رئیس‌جمهور فرانسه، میزبان متحدان اروپایی در رژه سالانه روز باستیل در پاریس بود. با این حال، اروپا همچنان گروگان سیاست خارجی آمریکا است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Tue, 14 Jul 2026 11:04:35 +0000",
+      "time": "۱۴:۳۴ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T11:27:28.212Z"
     }
   ]
 }
