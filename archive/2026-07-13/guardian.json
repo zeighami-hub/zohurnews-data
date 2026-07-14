@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "guardian",
-  "total": 33,
+  "total": 35,
   "articles": [
     {
       "id": "guardian_888ebf97eb",
@@ -786,6 +786,54 @@
       "pubDate": "Mon, 13 Jul 2026 15:00:50 GMT",
       "time": "۱۸:۳۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T15:59:24.164Z"
+    },
+    {
+      "id": "guardian_35fbd290b2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australia news live: NT police still seek answers over 25 year-old murder of British backpacker Peter Falconio",
+      "title_fa": "اخبار زنده استرالیا: پلیس قلمرو شمالی همچنان به دنبال پاسخ‌هایی برای قتل ۲۵ ساله پیتر فالکونیو، گردشگر بریتانیایی، است",
+      "lead": "پلیس قلمرو شمالی (NT) استرالیا همچنان در جستجوی پاسخ‌هایی در مورد پرونده قتل ۲۵ ساله پیتر فالکونیو، گردشگر بریتانیایی است. این در حالی است که بردلی جان مورداک به جرم قتل این مرد ۲۸ ساله محکوم شده، اما بقایای جسد او هرگز یافت نشده است. کمیسر امنیت الکترونیکی همچنین هشدار داده که گروه‌های تبهکار سازمان‌یافته از هوش مصنوعی برای اخاذی جنسی استفاده می‌کنند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 13 Jul 2026 21:49:20 GMT",
+      "time": "۰۱:۱۹ - ۲۳ تیر",
+      "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "guardian_86cf3b55a4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Experts warn of ways screwworm could spread in the US and new difficulties in keeping it at bay",
+      "title_fa": "کارشناسان در مورد راه‌های گسترش کرم پیچ در ایالات متحده و مشکلات جدید در مهار آن هشدار می‌دهند.",
+      "lead": "دانشمندان نگرانند که تلاش‌های فعلی برای ریشه‌کن کردن کرم پیچ نتواند یک آفت انگلی را که در حال نفوذ به ایالات متحده است، مهار کند. این نگرانی با وجود نصب دوربین توسط فعالان محیط زیست برای نظارت بر جابجایی غیرقانونی دام در جنگل‌های آمریکای مرکزی، مطرح شده است.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/12/new-world-screwworm-infestation-cattle-industry",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 11:00:17 GMT",
+      "time": "۱۴:۳۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T22:18:22.893Z"
     }
   ]
 }
