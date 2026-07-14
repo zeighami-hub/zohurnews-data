@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "bbc",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "bbc_a6b166d1d3",
@@ -554,6 +554,54 @@
       "pubDate": "Tue, 14 Jul 2026 08:32:49 GMT",
       "time": "۱۲:۰۲ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T10:10:02.360Z"
+    },
+    {
+      "id": "bbc_9b3193ebfb",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+      "title_fa": "حوثی‌های یمن پس از حملات به فرودگاه صنعا، موشک‌هایی را به عربستان سعودی شلیک کردند",
+      "lead": "حوثی‌های تحت حمایت ایران، عربستان سعودی را مسئول حمله به پایتخت یمن می‌دانند. آنها اعلام کرده‌اند که در پاسخ به این حملات، فرودگاه ابها را هدف قرار داده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 10:02:43 GMT",
+      "time": "۱۳:۳۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T10:24:24.419Z"
+    },
+    {
+      "id": "bbc_82c111113b",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "title_fa": "«اگر بمیریم، با هم می‌میریم»: همسر مردی که نزدیک بود از هواپیمای رایان‌ایر به بیرون کشیده شود، از تجربه وحشتناک خود می‌گوید",
+      "lead": "همسر مردی که در جریان یک پرواز رایان‌ایر نزدیک بود به بیرون از هواپیما کشیده شود، از تجربه وحشتناک خود صحبت کرده است. سوتلانا گرکوویچ به رسانه‌های صربستان گفت که همسرش \"به شدت مجروح و در شوک\" است.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 14 Jul 2026 09:40:23 GMT",
+      "time": "۱۳:۱۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T10:24:24.419Z"
     }
   ]
 }
