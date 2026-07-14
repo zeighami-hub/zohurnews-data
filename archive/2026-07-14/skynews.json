@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "skynews_41c2c617d7",
@@ -122,6 +122,30 @@
       "pubDate": "Mon, 13 Jul 2026 08:51:00 +0100",
       "time": "۱۱:۲۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T04:22:54.888Z"
+    },
+    {
+      "id": "skynews_f0e6315dc6",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Former Spanish PM under fire for saying France's World Cup team has 'no French players'",
+      "title_fa": "نخست‌وزیر سابق اسپانیا به دلیل گفتن اینکه تیم جام جهانی فرانسه «بازیکن فرانسوی ندارد» مورد انتقاد قرار گرفت",
+      "lead": "یک نخست‌وزیر سابق اسپانیا به دلیل اظهارنظرش مبنی بر اینکه تیم جام جهانی فرانسه «هیچ بازیکن فرانسوی ندارد»، مورد انتقاد شدید قرار گرفته است.",
+      "category": "sports",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/world-cup-ex-spanish-pm-under-fire-for-saying-france-has-no-french-players-13563099",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 15:56:00 +0100",
+      "time": "۱۸:۲۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T06:10:06.420Z"
     }
   ]
 }
