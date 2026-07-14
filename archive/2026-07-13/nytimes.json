@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 28,
+  "total": 29,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -674,6 +674,30 @@
       "pubDate": "Mon, 13 Jul 2026 07:19:46 +0000",
       "time": "۱۰:۴۹ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T11:42:13.206Z"
+    },
+    {
+      "id": "nytimes_0eb7b5f5fb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Fire in Bangkok Bar Leaves at Least 27 Dead",
+      "title_fa": "آتش‌سوزی در کافه‌ای در بانکوک دست‌کم ۲۷ کشته بر جای گذاشت",
+      "lead": "مقامات اعلام کردند که این آتش‌سوزی سریع‌الانتشار باعث شد افراد برای پنهان شدن به سمت سرویس‌های بهداشتی فرار کنند. اجساد آن‌ها در همان مکان پیدا شد که پرسش‌هایی را درباره استانداردهای ایمنی مطرح می‌کند.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 11:06:01 +0000",
+      "time": "۱۴:۳۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T11:55:11.245Z"
     }
   ]
 }
