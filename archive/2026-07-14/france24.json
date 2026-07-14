@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "france24",
-  "total": 20,
+  "total": 23,
   "articles": [
     {
       "id": "france24_9cb48e37f3",
@@ -482,6 +482,78 @@
       "pubDate": "Tue, 14 Jul 2026 08:56:08 GMT",
       "time": "۱۲:۲۶ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T09:09:00.132Z"
+    },
+    {
+      "id": "france24_b3f79961bb",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Kyiv claims drone attacks on 11 Russian tankers in Sea of Azov",
+      "title_fa": "کی‌یف از حمله پهپادی به ۱۱ تانکر روسی در دریای آزوف خبر داد",
+      "lead": "فرمانده نیروهای پهپادی کی‌یف اعلام کرد که پهپادهای اوکراینی سه‌شنبه شب به چندین کشتی روسی در دریای آزوف حمله کرده‌اند. این در حالی است که کرملین هرگونه تأثیر حملات مکرر اوکراین بر ظرفیت صادرات روسیه از این مسیر مهم را رد می‌کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/europe/20260714-kyiv-claims-drone-attacks-11-russian-tankers-in-sea-of-azov",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 09:15:33 GMT",
+      "time": "۱۲:۴۵ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T09:23:33.737Z"
+    },
+    {
+      "id": "france24_22f222c95d",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Police investigate Jayden Adam's death after he was found in CapeTown property",
+      "title_fa": "پلیس در مورد مرگ جیدن آدامز پس از یافتن او در ملک کیپ‌تاون تحقیق می‌کند",
+      "lead": "جیدن آدامز، بازیکن بین‌المللی فوتبال اهل آفریقای جنوبی، در سن ۲۵ سالگی درگذشت. او در هر سه بازی مرحله گروهی تیمش در جام جهانی حضور داشت. علت مرگ او هنوز اعلام نشده و تحقیقات پلیس در کیپ‌تاون در جریان است.",
+      "category": "sports",
+      "region": "africa",
+      "sourceUrl": "https://www.france24.com/en/police-investigate-jayden-adam-s-death-after-he-was-found-in-capetown-property",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 09:12:23 GMT",
+      "time": "۱۲:۴۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T09:23:33.737Z"
+    },
+    {
+      "id": "france24_605925e3cf",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Senegal football coach sacked after World Cup defeat",
+      "title_fa": "مربی فوتبال سنگال پس از شکست در جام جهانی اخراج شد",
+      "lead": "فدراسیون فوتبال سنگال، در پی حذف بحث‌برانگیز شیرهای ترانگا از جام جهانی ۲۰۲۶، پاپ تیاو، سرمربی تیم ملی را برکنار کرد. این فدراسیون دوشنبه با برگزاری کنفرانس مطبوعاتی به تشریح دلایل این تصمیم پرداخت.",
+      "category": "sports",
+      "region": "africa",
+      "sourceUrl": "https://www.france24.com/en/senegal-football-coach-sacked-after-world-cup-defeat",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Tue, 14 Jul 2026 09:08:38 GMT",
+      "time": "۱۲:۳۸ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T09:23:33.737Z"
     }
   ]
 }
