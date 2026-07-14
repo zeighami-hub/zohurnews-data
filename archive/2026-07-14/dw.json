@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "dw",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "dw_c688dcf935",
@@ -98,6 +98,54 @@
       "pubDate": "Mon, 13 Jul 2026 12:02:00 GMT",
       "time": "۱۵:۳۲ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T01:19:39.085Z"
+    },
+    {
+      "id": "dw_ed943ccd2e",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Iran: Living in limbo between war and ceasefire",
+      "title_fa": "ایران: زندگی در برزخ میان جنگ و آتش‌بس",
+      "lead": "نقض مکرر آتش‌بس، سیگنال‌های سیاسی متناقض و ادامه اقدامات اضطراری، باعث فرسودگی، خشم و عدم قطعیت عمیق در میان بسیاری از ایرانیان شده است. این شرایط، وضعیت زندگی مردم در ایران را در حالت بلاتکلیفی بین جنگ و آتش‌بس قرار داده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/iran-living-in-limbo-between-war-and-ceasefire/a-77933549?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 12:18:00 GMT",
+      "time": "۱۵:۴۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T02:19:43.741Z"
+    },
+    {
+      "id": "dw_24c2ffaf59",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Venezuela: Almost 4,500 killed in quake, many more missing",
+      "title_fa": "ونزوئلا: نزدیک به ۴۵۰۰ کشته و تعداد زیادی مفقود در زلزله",
+      "lead": "با ادامه افزایش آمار رسمی قربانیان زلزله‌های ویرانگر ماه گذشته در شمال ونزوئلا، نزدیک به ۴۵۰۰ نفر کشته و تعداد زیادی نیز مفقود شده‌اند. مقامات در حال برنامه‌ریزی برای سرپناه موقت برای هزاران نفر آواره هستند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.dw.com/en/venezuela-almost-4-500-killed-in-quake-many-more-missing/a-77924690?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 21:18:00 GMT",
+      "time": "۰۰:۴۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T02:19:43.741Z"
     }
   ]
 }
