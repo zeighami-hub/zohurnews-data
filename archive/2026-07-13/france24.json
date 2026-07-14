@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "france24",
-  "total": 54,
+  "total": 56,
   "articles": [
     {
       "id": "france24_a8ca37f4ad",
@@ -1298,6 +1298,54 @@
       "pubDate": "Mon, 13 Jul 2026 15:00:09 GMT",
       "time": "۱۸:۳۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T15:59:24.164Z"
+    },
+    {
+      "id": "france24_8b99e3a3cf",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "France: Fire scorches Fontainebleau forest southeast of Paris",
+      "title_fa": "فرانسه: آتش‌سوزی جنگل فونتن‌بلو در جنوب شرقی پاریس را سوزاند",
+      "lead": "آتش‌سوزی گسترده‌ای جنگل فونتن‌بلو فرانسه، واقع در ۶۰ کیلومتری جنوب شرقی پاریس را سوزانده است. مقامات تخمین می‌زنند که تاکنون حدود ۱۰۰۰ هکتار زمین سوخته است.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/video/20260713-france-fire-scorches-fontainebleau-forest-southeast-of-paris",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 16:52:01 GMT",
+      "time": "۲۰:۲۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T17:45:39.031Z"
+    },
+    {
+      "id": "france24_47576970c6",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "One person killed in Maine shooting involving ICE, state lawmaker says",
+      "title_fa": "به گفته یک قانونگذار ایالتی، یک نفر در تیراندازی با ICE در مین کشته شد",
+      "lead": "رئیس مجلس نمایندگان مین گفت که در یک تیراندازی مرگبار با حضور اداره مهاجرت و گمرک ایالات متحده (ICE) در مین، یک نفر کشته شد. این حادثه چند روز پس از آن رخ داد که یک مأمور ICE در یک ایست بازرسی ترافیکی یک مرد را به ضرب گلوله کشت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/americas/20260713-one-person-killed-in-maine-shooting-involving-ice-state-lawmaker-says",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 15:55:23 GMT",
+      "time": "۱۹:۲۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T17:45:39.031Z"
     }
   ]
 }
