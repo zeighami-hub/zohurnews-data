@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -348,6 +348,28 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-14T09:23:33.737Z"
+    },
+    {
+      "id": "reuters_6",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran and US stage new attacks, battle over control of Strait of Hormuz - Reuters",
+      "title_fa": "ایران و آمریکا حملات جدیدی را به نمایش می‌گذارند، نبرد بر سر کنترل تنگه هرمز",
+      "lead": "رویترز گزارش داد که ایران و آمریکا حملات جدیدی را به نمایش می‌گذارند. این دو کشور بر سر کنترل تنگه هرمز در حال نبرد هستند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV1NVbmwxanV3R25iWTRkMnNoY3hRblJYYVdDTU9FSGVrbDJkRDlNazBlbGV2MjBUYlNDX09Mcng5Vk9BdGJRSEIyNGdXdzlZOFV4OTh5N0xBSlB4WklnZ2VvUFc2WENOalA4Z1p0djZXVmFzV3RpMklJekp2U1JYbmxVREk4bTFtR19jQ2pJVzJkQU0xWmtsZzhBOHc5UkYtMGtld1RYUE91ZE9nNFQ5MTdvT2xxY2xoVjdzX2JqMG1uYy1IRTJz?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-14T10:24:24.419Z"
     }
   ]
 }
