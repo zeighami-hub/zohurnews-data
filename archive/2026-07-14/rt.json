@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "rt",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "rt_c002914115",
@@ -170,6 +170,54 @@
       "pubDate": "Mon, 13 Jul 2026 13:50:35 +0000",
       "time": "۱۷:۲۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T02:35:25.905Z"
+    },
+    {
+      "id": "rt_0dd7d834d6",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Dozens killed in Bangkok bar blaze (GRAPHIC VIDEOS)",
+      "title_fa": "ده‌ها نفر در آتش‌سوزی کافه‌ای در بانکوک کشته شدند (ویدئوهای گرافیکی)",
+      "lead": "آتش‌سوزی مرگبار در یک کافه در بانکوک حداقل ۲۸ کشته و ۲۵ زخمی با حال وخیم برجای گذاشته است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.rt.com/news/642949-28-dead-bangkok-bar-fire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 16:57:09 +0000",
+      "time": "۲۰:۲۷ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T06:10:06.420Z"
+    },
+    {
+      "id": "rt_7d66a56ba1",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Hundreds evacuated after ‘military-grade’ weapon found near Paris synagogue",
+      "title_fa": "پس از کشف سلاح «نظامی» نزدیک کنیسه پاریس، صدها نفر تخلیه شدند",
+      "lead": "پس از کشف سلاح در یک خودروی سرقتی نزدیک کنیسه‌ای در پاریس، صدها نفر تخلیه شدند. دادستان‌های ضد تروریسم فرانسه تحقیقاتی را در این زمینه آغاز کرده‌اند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642928-hundreds-evacuated-military-grade-weapon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 02:59:56 +0000",
+      "time": "۰۶:۲۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T06:10:06.420Z"
     }
   ]
 }
