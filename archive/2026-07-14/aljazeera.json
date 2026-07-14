@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "aljazeera",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "aljazeera_6aaad77e90",
@@ -480,6 +480,30 @@
       "pubDate": "Tue, 14 Jul 2026 06:41:51 +0000",
       "time": "۱۰:۱۱ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T07:09:10.819Z"
+    },
+    {
+      "id": "aljazeera_573fb0ce38",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Bangkok bar fire death toll rises to 30 as police probe possible negligence",
+      "title_fa": "افزایش آمار قربانیان آتش‌سوزی در بانکوک به ۳۰ نفر؛ پلیس در حال بررسی سهل‌انگاری احتمالی است",
+      "lead": "مقامات تایلند گزارش دادند که تعداد قربانیان آتش‌سوزی در یک بار در بانکوک به ۳۰ نفر رسیده است. ۲۴ نفر دیگر نیز در بیمارستان در وضعیت وخیم به سر می‌برند و پلیس در حال بررسی احتمال سهل‌انگاری در این حادثه است.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 07:39:34 +0000",
+      "time": "۱۱:۰۹ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T07:53:18.560Z"
     }
   ]
 }
