@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "aljazeera",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "aljazeera_06de707cd3",
@@ -722,6 +722,54 @@
       "pubDate": "Mon, 13 Jul 2026 11:29:20 +0000",
       "time": "۱۴:۵۹ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T12:09:09.463Z"
+    },
+    {
+      "id": "aljazeera_b69ba1b295",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Yemen government says its forces attacked Sanaa airport",
+      "title_fa": "دولت یمن می‌گوید نیروهایش به فرودگاه صنعا حمله کرده‌اند",
+      "lead": "دولت یمن اعلام کرد که نیروهایش به فرودگاه صنعا حمله کرده‌اند. هدف از این حمله، جلوگیری از فرود یک هواپیمای ایرانی در آنجا بوده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/13/yemen-govt-says-its-forces-attacked-sanaa-airport?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 11:38:03 +0000",
+      "time": "۱۵:۰۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T12:23:13.218Z"
+    },
+    {
+      "id": "aljazeera_a6daa7d319",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "South Korea rolls out plan to tackle youth suicide crisis",
+      "title_fa": "کره جنوبی طرحی را برای مقابله با بحران خودکشی جوانان اجرا می‌کند",
+      "lead": "کره جنوبی طرحی ملی را برای مقابله با بحران فزاینده خودکشی در میان جوانان به اجرا گذاشته است. این طرح با هدف کاهش نرخ خودکشی در این گروه سنی و ارائه حمایت‌های لازم ارائه شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/south-korea-rolls-out-plan-to-tackle-youth-suicide-crisis?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 11:48:52 +0000",
+      "time": "۱۵:۱۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T12:23:13.218Z"
     }
   ]
 }
