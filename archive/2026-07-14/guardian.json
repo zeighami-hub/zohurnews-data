@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "guardian",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "guardian_f0169ac5eb",
@@ -218,6 +218,30 @@
       "pubDate": "Sat, 11 Jul 2026 11:59:11 GMT",
       "time": "۱۵:۲۹ - ۲۰ تیر",
       "analyzed_at": "2026-07-14T04:22:54.888Z"
+    },
+    {
+      "id": "guardian_826a5a206c",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Fourth Australian interest rate rise more likely if Trump’s Iran conflict not resolved within a week",
+      "title_fa": "چهارمین افزایش نرخ بهره استرالیا در صورت حل نشدن درگیری ترامپ با ایران طی یک هفته، محتمل‌تر است",
+      "lead": "اقتصاددانان هشدار می‌دهند که درگیری‌های ادامه‌دار می‌تواند قیمت نفت را فراتر از ۱۰۰ دلار در هر بشکه افزایش دهد. این افزایش قیمت، احتمالاً باعث افزایش بیشتر نرخ بهره بانک مرکزی استرالیا (RBA) می‌شود و چهارمین افزایش نرخ بهره در سال جاری را محتمل‌تر می‌سازد.",
+      "category": "economy",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/14/australia-interest-rate-rise-trump-iran-war",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 14 Jul 2026 04:24:16 GMT",
+      "time": "۰۷:۵۴ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T04:52:19.364Z"
     }
   ]
 }
