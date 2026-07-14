@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "bbc",
-  "total": 13,
+  "total": 16,
   "articles": [
     {
       "id": "bbc_a6b166d1d3",
@@ -314,6 +314,78 @@
       "pubDate": "Tue, 14 Jul 2026 01:43:57 GMT",
       "time": "۰۵:۱۳ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T02:19:43.741Z"
+    },
+    {
+      "id": "bbc_7a1488e820",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+      "title_fa": "افزایش شمار قربانیان آتش‌سوزی بار بانکوک به ۳۰ نفر در پی بررسی پلیس در مورد نقض ایمنی",
+      "lead": "شمار قربانیان آتش‌سوزی در یک بار موسیقی در بانکوک به ۳۰ نفر افزایش یافته است. پلیس در حال بررسی نقض‌های ایمنی است و بازماندگان و اولین گزارشگران از قفل بودن درها و نبود علائم خروج اضطراری خبر داده‌اند.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 03:47:41 GMT",
+      "time": "۰۷:۱۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T04:37:32.681Z"
+    },
+    {
+      "id": "bbc_fb8cfeaaf3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+      "title_fa": "پلیس استرالیا ۲۵ سال پس از قتل توریست بریتانیایی، عکس‌های دیده نشده‌ای را منتشر کرد",
+      "lead": "پلیس استرالیا عکس‌های دیده نشده‌ای را ۲۵ سال پس از قتل پیتر فالکونیو، توریست بریتانیایی، منتشر کرده است. پلیس امیدوار است که این تصاویر بتواند خاطراتی را زنده کند و به یافتن جسد او کمک نماید.",
+      "category": "crime",
+      "region": "oceania",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 02:26:45 GMT",
+      "time": "۰۵:۵۶ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T04:37:32.681Z"
+    },
+    {
+      "id": "bbc_fb9bebc413",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
+      "title_fa": "قاضی آمریکایی توافق ۱.۸ میلیارد دلاری دونالد ترامپ با سازمان امور مالیاتی (IRS) را که به او از ممیزی‌های مالیاتی مصونیت می‌داد، باطل کرد",
+      "lead": "قاضی اظهار داشت که این پرونده برای «اهداف نامناسب» مطرح شده بود. او همچنین وکیل ترامپ را برای اقدام انضباطی احتمالی معرفی کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 18:52:46 GMT",
+      "time": "۲۲:۲۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T04:37:32.681Z"
     }
   ]
 }
