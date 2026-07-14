@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "bbc",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_a6b166d1d3",
@@ -530,6 +530,30 @@
       "pubDate": "Mon, 13 Jul 2026 22:03:16 GMT",
       "time": "۰۱:۳۳ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T08:56:01.045Z"
+    },
+    {
+      "id": "bbc_6e751d5fb6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "EU bans gold imports from Sudan to curb money financing the war",
+      "title_fa": "اتحادیه اروپا برای مهار تامین مالی جنگ، واردات طلا از سودان را ممنوع کرد",
+      "lead": "اتحادیه اروپا به منظور مهار تامین مالی جنگ، واردات طلا از سودان را ممنوع کرده است. این ممنوعیت همچنین صادرات جیوه و سیانید به سودان را که مواد شیمیایی به طور گسترده در استخراج طلا استفاده می‌شوند، محدود می‌کند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 08:32:49 GMT",
+      "time": "۱۲:۰۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T10:10:02.360Z"
     }
   ]
 }
