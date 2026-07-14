@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "skynews",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_41c2c617d7",
@@ -98,6 +98,30 @@
       "pubDate": "Mon, 13 Jul 2026 11:20:00 +0100",
       "time": "۱۳:۵۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T02:19:43.741Z"
+    },
+    {
+      "id": "skynews_48b1049cad",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Man wanted in UK over Bedfordshire triple murder appears in South African court - as cause of death revealed",
+      "title_fa": "مرد تحت تعقیب در بریتانیا به دلیل قتل سه‌گانه در بدفوردشایر در دادگاه آفریقای جنوبی حاضر شد؛ علت مرگ نیز فاش شد",
+      "lead": "فردی که مظنون به قتل همسر و دو فرزندش در بریتانیا است، در دادگاهی در آفریقای جنوبی حاضر شد. همزمان، علت مرگ قربانیان نیز فاش شده است.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/man-wanted-in-uk-over-murder-of-wife-and-two-children-appears-in-south-african-court-on-gun-charges-13562934",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 08:51:00 +0100",
+      "time": "۱۱:۲۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T04:22:54.888Z"
     }
   ]
 }
