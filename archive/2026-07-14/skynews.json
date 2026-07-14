@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "skynews",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "skynews_41c2c617d7",
@@ -146,6 +146,30 @@
       "pubDate": "Mon, 13 Jul 2026 15:56:00 +0100",
       "time": "۱۸:۲۶ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T06:10:06.420Z"
+    },
+    {
+      "id": "skynews_10997f4930",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Australian police release unseen photos 25 years after British backpacker Peter Falconio's murder",
+      "title_fa": "پلیس استرالیا ۲۵ سال پس از قتل پیتر فالکونیو، کوله‌گرد بریتانیایی، عکس‌های دیده نشده منتشر کرد",
+      "lead": "پلیس استرالیا با انتشار عکس‌هایی که پیش از این از تحقیقاتشان منتشر نشده بود، بیست و پنجمین سالگرد قتل پیتر فالکونیو، کوله‌گرد بریتانیایی را گرامی داشت. این اقدام در سالگرد این پرونده صورت گرفته است.",
+      "category": "crime",
+      "region": "oceania",
+      "sourceUrl": "https://news.sky.com/story/australian-police-release-unseen-photos-25-years-after-british-backpacker-peter-falconios-murder-13563240",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 07:35:00 +0100",
+      "time": "۱۰:۰۵ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T08:08:46.347Z"
     }
   ]
 }
