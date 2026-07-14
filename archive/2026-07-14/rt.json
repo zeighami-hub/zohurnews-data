@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "rt",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "rt_c002914115",
@@ -218,6 +218,30 @@
       "pubDate": "Mon, 13 Jul 2026 02:59:56 +0000",
       "time": "۰۶:۲۹ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T06:10:06.420Z"
+    },
+    {
+      "id": "rt_de454a777f",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Here’s where America’s next strike on Iran will come from",
+      "title_fa": "آمریکا از کجا به ایران حمله خواهد کرد؟",
+      "lead": "این گزارش مدعی است که ایالات متحده ممکن است عراق را به عنوان یک بستر سیاسی، اطلاعاتی و لجستیکی برای اعمال فشار بر ایران به کار گیرد. این اقدام بدون نیاز به خطر یک تهاجم زمینی تمام‌عیار صورت خواهد گرفت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/642957-americas-next-strike-on-iran/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 17:51:04 +0000",
+      "time": "۲۱:۲۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T06:24:41.942Z"
     }
   ]
 }
