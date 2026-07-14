@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "france24",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "france24_9cb48e37f3",
@@ -266,6 +266,30 @@
       "pubDate": "Mon, 13 Jul 2026 21:11:12 GMT",
       "time": "۰۰:۴۱ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T06:55:11.699Z"
+    },
+    {
+      "id": "france24_3baa37acc4",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "World Cup 2026: France aim for third consecutive final against Spain",
+      "title_fa": "جام جهانی ۲۰۲۶: فرانسه در برابر اسپانیا به دنبال سومین فینال متوالی است",
+      "lead": "تیم ملی فرانسه در نیمه‌نهایی جام جهانی در دالاس به مصاف اسپانیا می‌رود. فرانسوی‌ها امیدوارند که به دومین کشوری تبدیل شوند که به سه فینال متوالی جام جهانی راه یافته است.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/sports/20260714-world-cup-2026-france-aim-third-consecutive-final-against-spain",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 07:31:35 GMT",
+      "time": "۱۱:۰۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T07:38:49.473Z"
     }
   ]
 }
