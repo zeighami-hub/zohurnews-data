@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_7955cc1f7a",
@@ -74,6 +74,54 @@
       "pubDate": "Mon, 13 Jul 2026 12:57:30 +0000",
       "time": "۱۶:۲۷ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T06:10:06.420Z"
+    },
+    {
+      "id": "nytimes_f471c243f1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Will Let Ukraine Build Patriots. Ukraine Wants to Make Homegrown Missiles Too.",
+      "title_fa": "ترامپ به اوکراین اجازه ساخت پاتریوت می‌دهد؛ اوکراین موشک‌های بومی نیز می‌خواهد",
+      "lead": "شرکت اوکراینی فایر پوینت تسلیحاتی تولید کرده است که به خاک روسیه اصابت می‌کند. به گفته کارشناسان، هدف بعدی این شرکت، یعنی توسعه یک سامانه ضد موشکی، چالشی بسیار بزرگ‌تر است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 09:02:37 +0000",
+      "time": "۱۲:۳۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T09:23:33.737Z"
+    },
+    {
+      "id": "nytimes_9aa550d7eb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Heated Rivalry Over Bull Mascots Is Dividing a Brazilian Town",
+      "title_fa": "رقابت شدید بر سر نمادهای گاو یک شهر برزیلی را دوپاره کرده است",
+      "lead": "در اعماق جنگل‌های آمازون، رقابتی شدید یک شهر را برای یک قرن دوپاره کرده است. این رقابت هیچ ارتباطی با ورزش یا سیاست ندارد.",
+      "category": "culture",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/americas/bull-mascots-red-blue-parintins-brazil.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 09:01:38 +0000",
+      "time": "۱۲:۳۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T09:23:33.737Z"
     }
   ]
 }
