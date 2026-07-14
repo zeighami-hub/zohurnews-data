@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "guardian",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "guardian_f0169ac5eb",
@@ -434,6 +434,30 @@
       "pubDate": "Sun, 12 Jul 2026 11:00:17 GMT",
       "time": "۱۴:۳۰ - ۲۱ تیر",
       "analyzed_at": "2026-07-14T10:39:48.119Z"
+    },
+    {
+      "id": "guardian_2aa172b1b3",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "China’s monthly car ‌exports top 1m for first time as overall trade soars",
+      "title_fa": "صادرات ماهانه خودروی چین برای اولین بار از ۱ میلیون دستگاه فراتر رفت؛ تجارت کلی این کشور اوج گرفت",
+      "lead": "صادرات ماهانه خودروی چین در ماه ژوئن برای اولین بار به بیش از ۱ میلیون دستگاه رسید و تجارت کلی این کشور اوج گرفت. این کشور با خطر تعرفه‌های جدید از سوی آمریکا و اتحادیه اروپا مواجه است، زیرا به نظر می‌رسد مازاد تجاری رکوردشکن ۱ تریلیون دلاری سال گذشته را تکرار یا حتی پشت سر بگذارد.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/business/2026/jul/14/china-car-exports-june-trade-us-eu-trump-tariffs",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Tue, 14 Jul 2026 10:32:23 GMT",
+      "time": "۱۴:۰۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T11:27:28.212Z"
     }
   ]
 }
