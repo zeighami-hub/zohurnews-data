@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "bbc",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "bbc_a6b166d1d3",
@@ -266,6 +266,54 @@
       "pubDate": "Mon, 13 Jul 2026 13:01:33 GMT",
       "time": "۱۶:۳۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T02:08:29.019Z"
+    },
+    {
+      "id": "bbc_abd8c5b2ac",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Colombian national killed by ICE agent during operation in Maine",
+      "title_fa": "کشته شدن یک شهروند کلمبیایی توسط مأمور اداره مهاجرت آمریکا در ایالت مین",
+      "lead": "یک شهروند کلمبیایی در جریان عملیاتی در ایالت مین توسط مأمور اداره مهاجرت و گمرک ایالات متحده (ICE) کشته شد. این حادثه کمتر از یک هفته پس از آن رخ می‌دهد که یک مهاجر بدون مدرک در هیوستون توسط مأمور مهاجرت به ضرب گلوله کشته شده بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 01:50:48 GMT",
+      "time": "۰۵:۲۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T02:19:43.741Z"
+    },
+    {
+      "id": "bbc_69ac4fe049",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
+      "title_fa": "هویت کارمند مهدکودک سیدنی که با ۳۲۹ اتهام آزار و اذیت کودکان روبرو است، افشا شد",
+      "lead": "هویت یک کارمند مهدکودک در سیدنی که متهم به ۳۲۹ مورد آزار و اذیت کودکان است، فاش شده است. حمیش تایت متهم است که ۱۳۶ کودک را در پنج مرکز مراقبت از کودکان در یک دوره ۱۶ ساله مورد آزار و اذیت قرار داده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 01:43:57 GMT",
+      "time": "۰۵:۱۳ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T02:19:43.741Z"
     }
   ]
 }
