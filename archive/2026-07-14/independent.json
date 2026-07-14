@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "independent",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "independent_fdbe11c5dc",
@@ -98,6 +98,30 @@
       "pubDate": "Tue, 14 Jul 2026 00:40:40 GMT",
       "time": "۰۴:۱۰ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T01:19:39.085Z"
+    },
+    {
+      "id": "independent_1a8a5b8b79",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Trump says US launching fresh round of ‘very heavy’ strikes on Iran",
+      "title_fa": "ترامپ: آمریکا دور جدیدی از حملات 'بسیار سنگین' علیه ایران را آغاز می‌کند",
+      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، گفته است که ایالات متحده دور جدیدی از حملات 'بسیار سنگین' را علیه ایران آغاز خواهد کرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/trump-iran-airstrikes-strait-hormuz-b3014269.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 01:20:26 GMT",
+      "time": "۰۴:۵۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T01:34:01.822Z"
     }
   ]
 }
