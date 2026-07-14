@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "bbc",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "bbc_a6b166d1d3",
@@ -122,6 +122,54 @@
       "pubDate": "Sun, 12 Jul 2026 19:18:56 GMT",
       "time": "۲۲:۴۸ - ۲۱ تیر",
       "analyzed_at": "2026-07-14T00:19:37.054Z"
+    },
+    {
+      "id": "bbc_439bdde87f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "title_fa": "«قهرمان، اسطوره، عزیز»: ادای احترام به سم نیل، بازیگر پارک ژوراسیک که در ۷۸ سالگی درگذشت",
+      "lead": "دوستان، سیاستمداران و همکاران هنرمند او یاد سم نیل را پس از مرگ «ناگهانی و غیرمنتظره»اش گرامی داشتند. او در ۷۸ سالگی درگذشت و با القاب «قهرمان، اسطوره، عزیز» مورد تجلیل قرار گرفت.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 0,
+        "negative": 60
+      },
+      "pubDate": "Mon, 13 Jul 2026 22:38:34 GMT",
+      "time": "۰۲:۰۸ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T00:49:48.704Z"
+    },
+    {
+      "id": "bbc_103cacbfd4",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "title_fa": "دادگاه آلمان یک زوج عراقی را به جرم به بردگی کشیدن دختران ایزدی محکوم کرد",
+      "lead": "یک دادگاه آلمانی زوجی عراقی به نام‌های توانا ه.اس. و آسیا ر.ا. را به جرم به بردگی کشیدن دختران ایزدی محکوم کرد. این زوج در سال ۲۰۱۵ آلمان را به مقصد عراق ترک کرده و به عضویت گروه دولت اسلامی درآمده بودند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 11:36:18 GMT",
+      "time": "۱۵:۰۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T00:49:48.704Z"
     }
   ]
 }
