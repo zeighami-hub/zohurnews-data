@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "economist",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "economist_4cf649596f",
@@ -528,6 +528,28 @@
       "pubDate": "Mon, 13 Jul 2026 17:03:12 +0000",
       "time": "۲۰:۳۳ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T17:51:22.849Z"
+    },
+    {
+      "id": "economist_4",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "America must hope Donald Trump is not a new Caligula",
+      "title_fa": "آمریکا باید امیدوار باشد دونالد ترامپ کالیگولای جدیدی نباشد",
+      "lead": "این مقاله به این موضوع می‌پردازد که آمریکا باید امیدوار باشد دونالد ترامپ، مانند امپراتور رومی کالیگولا، مرتکب اعمال جنون‌آمیز نشود. در تاریخ حکمرانانی که حماقت‌های بزرگی انجام داده‌اند، انحطاط روم برجسته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.economist.com/international/2026/05/05/america-must-hope-donald-trump-is-not-a-new-Caligula",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-07-13T22:41:28.289Z"
     }
   ]
 }
