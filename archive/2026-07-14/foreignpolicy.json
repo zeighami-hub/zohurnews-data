@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "foreignpolicy",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "foreignpolicy_832fde1c5c",
@@ -98,6 +98,30 @@
       "pubDate": "Mon, 13 Jul 2026 04:01:26 +0000",
       "time": "۰۷:۳۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T06:10:06.420Z"
+    },
+    {
+      "id": "foreignpolicy_2204743c74",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Russian Energy Is Now at Ukraine’s Mercy",
+      "title_fa": "انرژی روسیه اکنون در دست اوکراین است",
+      "lead": "حملات پهپادی اوکراین علیه تاسیسات نفتی روسیه به مرحله جدیدی وارد شده است. این عملیات‌ها به طور فزاینده‌ای بر توانایی‌های انرژی روسیه تأثیر می‌گذارند.",
+      "category": "energy",
+      "region": "eurasia",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/13/ukraine-drone-strike-russia-energy-oil-refinery-putin/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 20:10:12 +0000",
+      "time": "۲۳:۴۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T10:39:48.119Z"
     }
   ]
 }
