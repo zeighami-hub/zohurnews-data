@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "france24",
-  "total": 1,
+  "total": 4,
   "articles": [
     {
       "id": "france24_9cb48e37f3",
@@ -26,6 +26,78 @@
       "pubDate": "Tue, 14 Jul 2026 02:11:08 GMT",
       "time": "۰۵:۴۱ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T02:35:25.905Z"
+    },
+    {
+      "id": "france24_83136fa575",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "'It's a monster': FRANCE 24 speaks to resident evacuated due to the Fontainebleau fire",
+      "title_fa": "\"یک هیولا است\": فرانس ۲۴ با ساکنی که به دلیل آتش‌سوزی فونتن‌بلو تخلیه شده، گفتگو می‌کند",
+      "lead": "یک آتش‌سوزی جنگلی در جنگل فونتن‌بلو در جنوب پاریس از ۱۲ جولای تاکنون نزدیک به ۱۰۰۰ هکتار را سوزانده است. این آتش‌سوزی منطقه‌ای بزرگتر از جبل‌الطارق را درگیر کرده و صدها نفر از ساکنان شهرهای اطراف را مجبور به تخلیه کرده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/it-s-a-monster-france-24-speaks-to-resident-evacuated-due-to-the-fontainebleau-fire",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 15:37:41 GMT",
+      "time": "۱۹:۰۷ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T04:22:54.888Z"
+    },
+    {
+      "id": "france24_6735cb90ef",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Ally coalition is about 'putting Ukraine in the strongest position possible'",
+      "title_fa": "ائتلاف متحدان به دنبال \"قرار دادن اوکراین در قوی‌ترین موقعیت ممکن\" است",
+      "lead": "دست‌کم ۲۵ رئیس کشور، از جمله ولودیمیر زلنسکی، رهبر اوکراین، در نشستی از ائتلاف \"تمایل‌مندان\" در ۱۳ جولای شرکت می‌کنند. این نشست با هدف قرار دادن اوکراین در قوی‌ترین موقعیت ممکن برگزار می‌شود و مسکو این نشست را رد کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/ally-coalition-is-about-putting-ukraine-in-the-strongest-position-possible",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 15:35:34 GMT",
+      "time": "۱۹:۰۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T04:22:54.888Z"
+    },
+    {
+      "id": "france24_da74069096",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Marianne: The allegory that defines France",
+      "title_fa": "ماریان: نمادی که فرانسه را تعریف می‌کند",
+      "lead": "ماریان، چهره نمادین فرانسه، در مکان‌های مختلفی از جمله موزه لوور، سنا و حتی لوگوی رسمی دولت دیده می‌شود. گزارشگر فرانس ۲۴ به بررسی نحوه پیدایش این نماد و معنای آن در دوران کنونی می‌پردازد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/video/20260713-marianne-the-allegory-that-defines-france",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 15:16:14 GMT",
+      "time": "۱۸:۴۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T04:22:54.888Z"
     }
   ]
 }
