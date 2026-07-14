@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "france24",
-  "total": 67,
+  "total": 68,
   "articles": [
     {
       "id": "france24_a8ca37f4ad",
@@ -1610,6 +1610,30 @@
       "pubDate": "Mon, 13 Jul 2026 23:10:20 GMT",
       "time": "۰۲:۴۰ - ۲۳ تیر",
       "analyzed_at": "2026-07-13T23:19:17.550Z"
+    },
+    {
+      "id": "france24_d0436803e6",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Middle East live: US strikes Iran for third night as Trump says deal still 'possible'",
+      "title_fa": "خاورمیانه زنده: حملات آمریکا به ایران برای سومین شب متوالی در حالی که ترامپ می‌گوید توافق هنوز «ممکن» است",
+      "lead": "ایالات متحده در اوایل روز سه‌شنبه دور جدیدی از حملات را علیه ایران آغاز کرد. این حملات نشان‌دهنده تشدید جدیدی در از سرگیری خصومت‌ها است. این در حالی است که دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرده توافق با تهران همچنان امکان‌پذیر است.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260713-middle-east-live-us-strikes-iran-for-third-night-as-trump-says-deal-still-possible",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Mon, 13 Jul 2026 23:26:10 GMT",
+      "time": "۰۲:۵۶ - ۲۳ تیر",
+      "analyzed_at": "2026-07-13T23:34:10.478Z"
     }
   ]
 }
