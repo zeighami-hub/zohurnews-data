@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "mehrnews",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "mehrnews_963ac5d5a4",
@@ -242,6 +242,54 @@
       "pubDate": "Tue, 14 Jul 2026 05:13:34 GMT",
       "time": "۰۸:۴۳ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T05:24:21.821Z"
+    },
+    {
+      "id": "mehrnews_6eeff16cde",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran, Russia strategic partners, reliable friends: Pezeshkian",
+      "title_fa": "رئیس جمهور: ایران و روسیه شرکای راهبردی و دوستان قابل اعتماد هستند",
+      "lead": "رئیس جمهور، مسعود پزشکیان، اظهار داشت که ایران و روسیه شرکای راهبردی و دوستان قابل اعتماد برای یکدیگر هستند. این اظهارات بر تعمیق روابط دوجانبه تهران و مسکو تاکید دارد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://en.mehrnews.com/news/246171/Iran-Russia-strategic-partners-reliable-friends-Pezeshkian",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 16:27:19 GMT",
+      "time": "۱۹:۵۷ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T05:37:34.260Z"
+    },
+    {
+      "id": "mehrnews_6b93fd889c",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Tehran condemns Saudi Arabia attack on Sana’a airport",
+      "title_fa": "تهران حمله عربستان به فرودگاه صنعا را محکوم کرد",
+      "lead": "سخنگوی وزارت امور خارجه ایران، اسماعیل بقایی، حمله عربستان سعودی به فرودگاه بین‌المللی صنعا را محکوم کرد. وی این حمله را نقض قوانین بین‌المللی و حاکمیت ملی یمن دانست.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246177/Tehran-condemns-Saudi-Arabia-attack-on-Sana-a-airport",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Tue, 14 Jul 2026 05:25:01 GMT",
+      "time": "۰۸:۵۵ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T05:37:34.260Z"
     }
   ]
 }
