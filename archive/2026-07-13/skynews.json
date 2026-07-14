@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "skynews",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "skynews_8729ce6c67",
@@ -290,6 +290,30 @@
       "pubDate": "Mon, 13 Jul 2026 13:28:00 +0100",
       "time": "۱۵:۵۸ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T12:57:10.026Z"
+    },
+    {
+      "id": "skynews_32e083b67a",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Alleged hackers linked to Russia facing UK and EU sanctions",
+      "title_fa": "هکرهای مظنون مرتبط با روسیه با تحریم‌های بریتانیا و اتحادیه اروپا مواجه شدند",
+      "lead": "هکرهای مظنون به ارتباط با روسیه به طور مشترک توسط بریتانیا و اتحادیه اروپا تحریم شده‌اند. این اقدام نشان‌دهنده واکنش بین‌المللی به فعالیت‌های سایبری مخرب است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/alleged-hackers-linked-to-russia-facing-uk-and-eu-sanctions-13562980",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 11:20:00 +0100",
+      "time": "۱۳:۵۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T13:56:34.363Z"
     }
   ]
 }
