@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 32,
+  "total": 34,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -770,6 +770,54 @@
       "pubDate": "Mon, 13 Jul 2026 13:25:12 +0000",
       "time": "۱۶:۵۵ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T13:41:00.952Z"
+    },
+    {
+      "id": "nytimes_e42ec8b570",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iranian hard-liners threaten Trump as U.S.-Iran strikes continue",
+      "title_fa": "تندروهای ایران ترامپ را تهدید می‌کنند؛ ادامه درگیری‌های آمریکا و ایران",
+      "lead": "برخی تندروهای ایرانی خواستار انتقام از رئیس‌جمهور ترامپ و نخست‌وزیر بنیامین نتانیاهو به دلیل قتل رهبر عالی این کشور در ماه فوریه شده‌اند. این تهدیدها در حالی مطرح می‌شود که درگیری‌ها بین آمریکا و ایران همچنان ادامه دارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/middleeast/iranian-hard-liners-escalate-threats-against-us-and-trump.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 13:44:00 +0000",
+      "time": "۱۷:۱۴ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T13:56:34.363Z"
+    },
+    {
+      "id": "nytimes_0427eb5f40",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Counterterrorism Police Take Over Investigation Into U.K. Lawmaker’s Death",
+      "title_fa": "پلیس ضد تروریسم تحقیقات درباره مرگ نماینده پارلمان بریتانیا را به دست گرفت",
+      "lead": "پلیس اعلام کرد که اطلاعات و شواهد جدیدی در پرونده قتل نماینده سابق پارلمان بریتانیا، آن ویدکامب، به دست آمده است. به همین دلیل، پلیس ضد تروریسم مسئولیت این تحقیقات را بر عهده گرفته است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/europe/counterterrorism-police-ann-widdecombe-death.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 13:35:17 +0000",
+      "time": "۱۷:۰۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T13:56:34.363Z"
     }
   ]
 }
