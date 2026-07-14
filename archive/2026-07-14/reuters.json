@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -234,6 +234,28 @@
       "pubDate": "Mon, 13 Jul 2026 00:29:00 GMT",
       "time": "۰۳:۵۹ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T05:37:34.260Z"
+    },
+    {
+      "id": "reuters_6",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iranian-born engineer convicted in US of exporting technology to Iran - Reuters",
+      "title_fa": "محکومیت مهندس ایرانی‌الاصل در آمریکا به دلیل صادرات فناوری به ایران",
+      "lead": "یک مهندس ایرانی‌الاصل در ایالات متحده به جرم صادرات فناوری به ایران محکوم شد. این پرونده با قوانین تحریم‌های آمریکا علیه ایران مرتبط است.",
+      "category": "technology",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjRGVm92N1B3TGQ5aWlmTDdQa3llVWhraXJ1Mm5PSE14SVI5NDBHUkc4WDljdUZyQjZzRVBGMzdiak9RekNxZ2lWWXJCaGIyQm5YSjdIQVpPMHhpazgxVVJZSWM0VGJ2Y0ZBWU9EMHJXQjhySWJSR1FTWXVSbWVGdzllY0x4dmpvRllSVEhwTk9CMFRmVmhEdy1LUHQzbTRTZDdGRTJuUm81SHFNYkwyRlp1cw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-07-14T06:24:41.942Z"
     }
   ]
 }
