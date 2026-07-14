@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_7955cc1f7a",
@@ -50,6 +50,30 @@
       "pubDate": "Tue, 14 Jul 2026 04:00:18 +0000",
       "time": "۰۷:۳۰ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T04:05:32.328Z"
+    },
+    {
+      "id": "nytimes_2bb2b4e32e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
+      "title_fa": "ژاپن آژانس اطلاعاتی می‌سازد که از زمان جنگ جهانی دوم نداشته است",
+      "lead": "ژاپن در مواجهه با تهدیدات روسیه و چین، نخست‌وزیر این کشور سانا تاکیچی، برای تشکیل یک آژانس متمرکز اطلاعاتی از متحدان غربی کمک می‌گیرد. این اقدام به ایجاد یک نهاد اطلاعاتی جدید در ژاپن منجر می‌شود که از زمان جنگ جهانی دوم بی‌سابقه بوده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 12:57:30 +0000",
+      "time": "۱۶:۲۷ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T06:10:06.420Z"
     }
   ]
 }
