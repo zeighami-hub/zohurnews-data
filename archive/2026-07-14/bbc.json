@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 11,
   "articles": [
     {
       "id": "bbc_a6b166d1d3",
@@ -194,6 +194,78 @@
       "pubDate": "Sun, 12 Jul 2026 23:41:00 GMT",
       "time": "۰۳:۱۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T01:34:01.822Z"
+    },
+    {
+      "id": "bbc_9f472c0dd6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
+      "title_fa": "گاومیش کوهان‌دار پدربزرگی را در پارک یلوستون هدف حمله قرار داد و او را چند متر به هوا پرتاب کرد",
+      "lead": "این مرد و نوه‌اش در ابتدا در فاصله ایمنی از گاومیش کوهان‌دار قرار داشتند. اما ناگهان حیوان به سرعت به سمت آن‌ها حمله‌ور شد و آن‌ها را دنبال کرد و به پدربزرگ حمله کرد.",
+      "category": "accident",
+      "region": "usa",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 17:21:21 GMT",
+      "time": "۲۰:۵۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T02:08:29.019Z"
+    },
+    {
+      "id": "bbc_ef5b7268e6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Volkswagen planning to cut up to 100,000 jobs globally",
+      "title_fa": "فولکس‌واگن در حال برنامه‌ریزی برای حذف تا ۱۰۰,۰۰۰ شغل در سطح جهانی است",
+      "lead": "این گروه خودروسازی که شامل پورشه و آئودی نیز می‌شود، با کاهش شدید سود و رقابت سخت از سوی چین مواجه شده است. این کاهش مشاغل قرار است در سراسر جهان صورت گیرد.",
+      "category": "business",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 16:19:15 GMT",
+      "time": "۱۹:۴۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T02:08:29.019Z"
+    },
+    {
+      "id": "bbc_4e6bf67f6d",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "''There was no way to get out': Witnesses describe how deadly inferno swept through Bangkok bar",
+      "title_fa": "«راه فراری نبود»: شاهدان عینی چگونگی گسترش آتش‌سوزی مرگبار در یک بار بانکوک را تشریح می‌کنند",
+      "lead": "یک نوازنده که در زمان شروع آتش‌سوزی در حال اجرا بود، می‌گوید برای خروج خزید. او اضافه می‌کند که هنگامی که چیزی منفجر شد، از بار به بیرون پرتاب شد و این آتش‌سوزی مرگبار باعث وحشت و تلفات شد.",
+      "category": "disaster",
+      "region": "thailand",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 13:01:33 GMT",
+      "time": "۱۶:۳۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T02:08:29.019Z"
     }
   ]
 }
