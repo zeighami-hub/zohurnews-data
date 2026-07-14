@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 29,
+  "total": 30,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -698,6 +698,30 @@
       "pubDate": "Mon, 13 Jul 2026 11:06:01 +0000",
       "time": "۱۴:۳۶ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T11:55:11.245Z"
+    },
+    {
+      "id": "nytimes_a83563ef6b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s where the U.S. and Iran are targeting each other in their latest attacks.",
+      "title_fa": "محل حملات اخیر متقابل آمریکا و ایران",
+      "lead": "این گزارش به بررسی محل‌هایی می‌پردازد که ایالات متحده و ایران در حملات اخیر خود یکدیگر را هدف قرار داده‌اند. این تحلیل جزئیات درگیری‌های اخیر و نقاط استراتژیک مورد هدف را ارائه می‌دهد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz/heres-where-the-us-and-iran-are-targeting-each-other-in-their-latest-attacks",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 11:58:09 +0000",
+      "time": "۱۵:۲۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T12:09:09.463Z"
     }
   ]
 }
