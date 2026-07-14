@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "aljazeera",
-  "total": 26,
+  "total": 27,
   "articles": [
     {
       "id": "aljazeera_6aaad77e90",
@@ -624,6 +624,30 @@
       "pubDate": "Tue, 14 Jul 2026 08:15:41 +0000",
       "time": "۱۱:۴۵ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T09:09:00.132Z"
+    },
+    {
+      "id": "aljazeera_34ca1421ba",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
+      "title_fa": "آمریکا بار دیگر ایران را بمباران کرد، تهران به خلیج فارس و نفتکش‌ها حمله می‌کند: آخرین وضعیت چیست؟",
+      "lead": "بر اساس گزارش‌ها، آمریکا بار دیگر ایران را بمباران کرده و تهران نیز به خلیج فارس و نفتکش‌ها حمله کرده است. در حالی که ترامپ تهدید کرده که اهدافی در ایران از جمله کوه پیکاکس را هدف قرار خواهد داد، وی در عین حال اظهار کرده که توافق ممکن است.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 08:52:22 +0000",
+      "time": "۱۲:۲۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T09:23:33.737Z"
     }
   ]
 }
