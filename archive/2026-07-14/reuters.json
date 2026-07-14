@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -166,6 +166,50 @@
       "pubDate": "Tue, 14 Jul 2026 01:01:00 GMT",
       "time": "۰۴:۳۱ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T02:19:43.741Z"
+    },
+    {
+      "id": "reuters_9",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo - Reuters",
+      "title_fa": "ترامپ: محاصره ایران دوباره اعمال شد، آمریکا ۲۰ درصد عوارض بر محموله‌های تنگه هرمز دریافت می‌کند",
+      "lead": "دونالد ترامپ اعلام کرد که محاصره ایران مجدداً اعمال شده و آمریکا قصد دارد ۲۰ درصد عوارض بر محموله‌هایی که از تنگه هرمز عبور می‌کنند، دریافت کند. این اقدام می‌تواند تأثیرات گسترده‌ای بر تجارت و روابط بین‌الملل داشته باشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5RkYtUjZ1dw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-14T03:34:08.142Z"
+    },
+    {
+      "id": "reuters_10",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "UK bans support for two Iranian groups over antisemitic attacks in Britain - Reuters",
+      "title_fa": "بریتانیا حمایت از دو گروه ایرانی را به دلیل حملات یهودی‌ستیزانه در این کشور ممنوع کرد",
+      "lead": "بریتانیا اعلام کرده است که حمایت از دو گروه ایرانی را به دلیل دست داشتن در حملات یهودی‌ستیزانه در این کشور ممنوع می‌کند. این اقدام در پی تحقیقات و اتهامات مربوط به این حملات صورت گرفته است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVRejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-14T03:34:08.142Z"
     }
   ]
 }
