@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "reuters",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "reuters_641b0141a9",
@@ -648,6 +648,52 @@
         "negative": 100
       },
       "analyzed_at": "2026-07-13T12:57:10.026Z"
+    },
+    {
+      "id": "reuters_3",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "UK outlaws two Iranian groups over antisemitic attacks in Britain - Reuters",
+      "title_fa": "بریتانیا دو گروه ایرانی را به دلیل حملات یهودستیزانه در این کشور غیرقانونی اعلام کرد",
+      "lead": "بریتانیا دو گروه ایرانی را به دلیل دست داشتن در حملات یهودستیزانه در خاک این کشور، غیرقانونی اعلام کرد. این اقدام به مسائل امنیت ملی و روابط بین‌الملل مربوط می‌شود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSeTUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-07-13T13:41:00.952Z"
+    },
+    {
+      "id": "reuters_c59e00949c",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Trump says Strait of Hormuz open to commercial traffic - Reuters",
+      "title_fa": "ترامپ می‌گوید تنگه هرمز برای تردد تجاری باز است",
+      "lead": "دونالد ترامپ اعلام کرد که تنگه هرمز برای تردد کشتی‌های تجاری باز است. این اظهارات در حالی مطرح می‌شود که این تنگه از اهمیت استراتژیک بالایی برخوردار است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM04zYVJRb2pfTkwzT0lIUm8wWHpKRkc4WE9TazFxdGQ4RktValc5UXhBbmM3ZGlHaFNBZm5MVDI4a3dDMG8zX2pza3NSb2o5dS1RYVNLUzFhd0wtOFZucWdhcHMzZFgyRWRaNUJUOUJ6VXp2ZEl4NXFmeXFiRWQzZDNQbWFqRDRpVnZXNmNwWmQ0a3RMeDRkTUQ0NkZXUUhZUHc?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 12 Jul 2026 13:30:09 GMT",
+      "time": "۱۷:۰۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-13T13:41:00.952Z"
     }
   ]
 }
