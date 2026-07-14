@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "france24",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "france24_9cb48e37f3",
@@ -218,6 +218,30 @@
       "pubDate": "Tue, 14 Jul 2026 06:16:49 GMT",
       "time": "۰۹:۴۶ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T06:24:41.942Z"
+    },
+    {
+      "id": "france24_1141c10a23",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "France and Spain prepare to duel at World Cup",
+      "title_fa": "فرانسه و اسپانیا برای دوئل در جام جهانی آماده می‌شوند",
+      "lead": "تیم‌های فرانسه و اسپانیا در اولین نیمه‌نهایی جام جهانی روز سه‌شنبه به مصاف یکدیگر می‌روند. فرانسه با حمله‌ای هیجان‌انگیز به رهبری کیلیان امباپه، با تیم اسپانیای از نظر فنی توانمند روبرو خواهد شد.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/live-news/20260713-france-and-spain-prepare-to-duel-at-world-cup",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 21:11:12 GMT",
+      "time": "۰۰:۴۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T06:39:09.693Z"
     }
   ]
 }
