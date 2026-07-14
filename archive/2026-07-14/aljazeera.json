@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "aljazeera",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "aljazeera_6aaad77e90",
@@ -240,6 +240,30 @@
       "pubDate": "Tue, 14 Jul 2026 02:59:18 +0000",
       "time": "۰۶:۲۹ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T03:19:51.922Z"
+    },
+    {
+      "id": "aljazeera_b572cea2aa",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Oil hits 1-month high as US-Iran fighting clouds Strait of Hormuz outlook",
+      "title_fa": "قیمت نفت به بالاترین حد یک ماه اخیر رسید؛ درگیری آمریکا و ایران چشم‌انداز تنگه هرمز را مبهم می‌کند",
+      "lead": "قیمت نفت برنت در بحبوحه خصومت‌های تازه میان واشنگتن و تهران به ۸۵ دلار در هر بشکه نزدیک شد. این افزایش قیمت، چشم‌انداز تنگه هرمز را با ابهامات بیشتری مواجه کرده است.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 03:38:22 +0000",
+      "time": "۰۷:۰۸ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T04:05:32.328Z"
     }
   ]
 }
