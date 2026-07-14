@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "irna",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "irna_7d40ad601d",
@@ -356,6 +356,28 @@
       "pubDate": "Tue, 14 Jul 2026 02:26:55 GMT",
       "time": "۰۵:۵۶ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T03:19:51.922Z"
+    },
+    {
+      "id": "irna_0",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "آسمان صاف در اغلب مناطق کشور",
+      "title_fa": "آسمان صاف در اغلب مناطق کشور",
+      "lead": "سازمان هواشناسی اعلام‌کرد: طی پنج روز آینده، آسمان در غالب مناطق کشور صاف خواهد بود. این پیش‌بینی شامل اکثر نقاط ایران می‌شود.",
+      "category": "weather",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86208581/%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%B5%D8%A7%D9%81-%D8%AF%D8%B1-%D8%A7%D8%BA%D9%84%D8%A8-%D9%85%D9%86%D8%A7%D8%B7%91-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A8%D8%A7%D8%B1%D8%B4-%D9%BE%D8%B1%D8%A7%DA%A9%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%B3%D8%A7%D8%AD%D9%84%DB%8C",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-14T03:34:08.142Z"
     }
   ]
 }
