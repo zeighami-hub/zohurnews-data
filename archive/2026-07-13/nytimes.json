@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 38,
+  "total": 39,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -914,6 +914,30 @@
       "pubDate": "Mon, 13 Jul 2026 15:10:32 +0000",
       "time": "۱۸:۴۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T15:59:24.164Z"
+    },
+    {
+      "id": "nytimes_4455d2fcc2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Conflict Over Iranian Planes Imperils Yemen’s Fragile Peace",
+      "title_fa": "درگیری بر سر هواپیماهای ایرانی صلح شکننده یمن را به خطر می‌اندازد",
+      "lead": "شبه‌نظامیان حوثی تحت حمایت ایران در یمن، عربستان سعودی را به حمله به فرودگاهی در صنعا، پایتخت یمن، متهم کردند. این تشدید تنش پس از اختلافی بر سر یک هواپیمای ایرانی حامل مقامات حوثی به تهران رخ داد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/middleeast/yemen-houthis-saudi-arabia-iran-war.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 13 Jul 2026 17:21:45 +0000",
+      "time": "۲۰:۵۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T17:45:39.031Z"
     }
   ]
 }
