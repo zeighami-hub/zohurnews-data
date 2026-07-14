@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "reuters",
-  "total": 31,
+  "total": 33,
   "articles": [
     {
       "id": "reuters_641b0141a9",
@@ -716,6 +716,54 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-13T13:56:34.363Z"
+    },
+    {
+      "id": "reuters_14761fcce6",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "UK bans support for two Iranian groups over antisemitic attacks in Britain - Reuters",
+      "title_fa": "بریتانیا حمایت از دو گروه ایرانی را به دلیل حملات یهودی‌ستیزانه در این کشور ممنوع کرد",
+      "lead": "بریتانیا حمایت از دو گروه ایرانی را ممنوع اعلام کرد. این اقدام به دلیل حملات یهودی‌ستیزانه این گروه‌ها در بریتانیا صورت گرفته است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 13:58:01 GMT",
+      "time": "۱۷:۲۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T14:58:23.417Z"
+    },
+    {
+      "id": "reuters_dde1bf1185",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Trump says the US should control the Strait of Hormuz and get paid for it - Reuters",
+      "title_fa": "ترامپ می‌گوید آمریکا باید تنگه هرمز را کنترل کرده و در ازای آن پول دریافت کند",
+      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، اظهار داشت که ایالات متحده باید کنترل تنگه هرمز را در اختیار بگیرد. او افزود که آمریکا باید بابت این کنترل، پول دریافت کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5Rk4tUjZ1dw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 13:03:52 GMT",
+      "time": "۱۶:۳۳ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T14:58:23.417Z"
     }
   ]
 }
