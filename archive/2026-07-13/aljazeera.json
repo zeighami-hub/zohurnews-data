@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "aljazeera",
-  "total": 74,
+  "total": 76,
   "articles": [
     {
       "id": "aljazeera_06de707cd3",
@@ -1776,6 +1776,54 @@
       "pubDate": "Mon, 13 Jul 2026 19:09:46 +0000",
       "time": "۲۲:۳۹ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "aljazeera_a5003d43ed",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US, Iran exchange attacks around Strait of Hormuz",
+      "title_fa": "تبادل حملات میان آمریکا و ایران در اطراف تنگه هرمز",
+      "lead": "گزارش‌ها حاکی از حملات موشکی و تهاجم به کشتی‌ها در اطراف تنگه هرمز است. این خبر به عنوان یک خبر فوری منتشر شده و جزئیات بیشتری در دست نیست.",
+      "category": "military",
+      "region": "middle-east",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 21:19:28 +0000",
+      "time": "۰۰:۴۹ - ۲۳ تیر",
+      "analyzed_at": "2026-07-13T22:41:28.289Z"
+    },
+    {
+      "id": "aljazeera_ad06a91bf5",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Artist sews names of Gaza children killed by Israel into gown",
+      "title_fa": "هنرمند نام کودکان غزه کشته شده توسط اسرائیل را روی لباس می‌دوزد",
+      "lead": "یک هنرمند اهل ولز به نام دایانا ویلیامز، نام ۳۰۰ نوزادی را که در جنگ اسرائیل علیه غزه کشته شده‌اند، روی یک لباس دوخته است. این اقدام واکنشی هنری به جنگی است که اسرائیل آن را «نسل‌کشی» می‌خواند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/artist-sews-names-of-gaza-children-killed-by-israel-into-gown?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Mon, 13 Jul 2026 20:35:50 +0000",
+      "time": "۰۰:۰۵ - ۲۳ تیر",
+      "analyzed_at": "2026-07-13T22:41:28.289Z"
     }
   ]
 }
