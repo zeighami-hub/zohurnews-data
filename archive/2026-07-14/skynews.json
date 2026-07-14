@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_41c2c617d7",
@@ -26,6 +26,30 @@
       "pubDate": "Mon, 13 Jul 2026 10:41:00 +0100",
       "time": "۱۳:۱۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T00:19:37.054Z"
+    },
+    {
+      "id": "skynews_8e0324ac96",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Human trials of new Ebola vaccine set to begin in UK",
+      "title_fa": "آزمایشات انسانی واکسن جدید ابولا در بریتانیا آغاز می‌شود",
+      "lead": "بر اساس برنامه‌های اعلام شده امروز، یک واکسن جدید برای مقابله با نوعی از ابولا که در جمهوری دموکراتیک کنگو در حال گسترش است، به زودی بر روی بزرگسالان در بریتانیا آزمایش خواهد شد. این آزمایشات انسانی قرار است آغاز شوند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/human-trials-of-new-ebola-vaccine-set-to-begin-in-uk-13562950",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 10:10:00 +0100",
+      "time": "۱۲:۴۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T00:49:48.704Z"
     }
   ]
 }
