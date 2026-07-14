@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "dw",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "dw_c688dcf935",
@@ -458,6 +458,54 @@
       "pubDate": "Tue, 14 Jul 2026 08:02:00 GMT",
       "time": "۱۱:۳۲ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T08:23:48.567Z"
+    },
+    {
+      "id": "dw_40a6519111",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Germany news: Military conscientious objections spike",
+      "title_fa": "افزایش چشمگیر درخواست‌های معافیت از خدمت سربازی در آلمان",
+      "lead": "تعداد افرادی که برای معافیت از خدمت سربازی در آلمان درخواست داده‌اند، به شدت افزایش یافته است. همچنین، در ماه ژوئن به تنهایی حدود ۵۱۰۰ مورد مرگ مرتبط با گرما ثبت شده است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/germany-news-military-conscientious-objections-spike/live-77945300?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 09:00:00 GMT",
+      "time": "۱۲:۳۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T09:09:00.132Z"
+    },
+    {
+      "id": "dw_eaa7dc890c",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "France arrests arson suspects amid Fontainebleau forest fire",
+      "title_fa": "فرانسه مظنونان به آتش‌سوزی در جنگل فونتن‌بلو را دستگیر کرد.",
+      "lead": "آتش‌نشانان در تلاشند تا آتش‌سوزی بزرگی را که از روز یکشنبه در جنگل پربازدید فونتن‌بلو، در نزدیکی پاریس، پایتخت فرانسه شعله‌ور شده، مهار کنند. در همین رابطه، دو نفر به ظن آتش‌افروزی دستگیر شده‌اند.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/france-arrests-arson-suspects-amid-fontainebleau-forest-fire/a-77946073?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 08:47:00 GMT",
+      "time": "۱۲:۱۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T09:09:00.132Z"
     }
   ]
 }
