@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "irna",
-  "total": 8,
+  "total": 11,
   "articles": [
     {
       "id": "irna_7d40ad601d",
@@ -192,6 +192,76 @@
       "pubDate": "Tue, 14 Jul 2026 01:20:06 GMT",
       "time": "۰۴:۵۰ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T02:08:29.019Z"
+    },
+    {
+      "id": "irna_3",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "۱۳۶ شب خون‌خواهی رهبر شهید؛ حماسه همدلی مردم خاش در میدان امام حسین(ع)",
+      "title_fa": "۱۳۶ شب خون‌خواهی رهبر شهید؛ حماسه همدلی مردم خاش در میدان امام حسین(ع)",
+      "lead": "مردم ولایتمدار و انقلابی شهرستان خاش در یکصد و سی و ششمین شب از تجمعات خودجوش، با حضور پرشور در میدان امام حسین(ع) شرکت کردند. آنها بر خون‌خواهی رهبر شهید آیت‌الله سیدعلی خامنه‌ای و تداوم راه ایشان در مقابله با استکبار تأکید کردند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86208565/%DB%B1%DB%B3%D9%B6-%D8%B4%D8%A8-%D8%AE%D9%88%D9%86-%D8%AE%D9%88%D8%A7%D9%87%DB%8C-%D8%B1%D9%87%D8%A8%D8%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%AD%D9%85%D8%A7%D8%B3%D9%87-%D9%87%D9%85%D8%AF%D9%84%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%AE%D8%A7%D8%B4-%D8%AF%D8%B1-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D8%A7%D9%85%D8%A7%D9%85",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-14T02:35:25.905Z"
+    },
+    {
+      "id": "irna_e009c88e33",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "هشدار جدی پزشک درباره خطرات مرگبار دمای ۵۰ درجه؛ از نارسایی کلیوی تا شوک حرارتی",
+      "title_fa": "هشدار جدی پزشک درباره خطرات مرگبار دمای ۵۰ درجه؛ از نارسایی کلیوی تا شوک حرارتی",
+      "lead": "معاون بهداشتی دانشگاه علوم پزشکی ایرانشهر درباره پیامدهای فیزیولوژیک گرمای شدید و اختلال در سیستم‌های حیاتی بدن توضیح داد. او بر لزوم رعایت پروتکل‌های پیشگیرانه برای جلوگیری از گرمازدگی و شوک گرمایی در دمای ۴۵ تا ۵۰ درجه سانتی‌گراد هشدار داد.",
+      "category": "health",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86206427/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AC%D8%AF%DB%8C-%D9%BE%D8%B2%D8%B4%DA%A9-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AE%D8%B7%D8%B1%D8%A7%D8%AA-%D9%85%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%AF%D9%85%D8%A7%DB%8C-%DB%B5%DB%B0-%D8%AF%D8%B1%D8%AC%D9%87-%D8%A7%D8%B2-%D9%86%D8%A7%D8%B1%D8%B3%D8%A7%DB%8C%DB%8C-%DA%A9%D9%84%DB%8C%D9%88%DB%8C",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 02:32:00 GMT",
+      "time": "۰۶:۰۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T02:35:25.905Z"
+    },
+    {
+      "id": "irna_57685b397f",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "آژیر خطر بار دیگر در بحرین به صدا درآمد",
+      "title_fa": "آژیر خطر بار دیگر در بحرین به صدا درآمد",
+      "lead": "وزارت کشور بحرین اعلام کرد که آژیر خطر بار دیگر در این کشور فعال شده است. این خبر نشان‌دهنده وقوع احتمالی وضعیت اضطراری یا تهدیدی در بحرین است.",
+      "category": "politics",
+      "region": "middle-east",
+      "sourceUrl": "https://www.irna.ir/news/86208571/%D8%A2%DA%98%DB%8C%D8%B1-%D8%AE%D8%B7%D8%B1-%D8%A8%D8%A7%D8%B1-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%AD%D8%B1%DB%8C%D9%86-%D8%A8%D9%87-%D8%B5%D8%AF%D8%A7-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 02:17:35 GMT",
+      "time": "۰۵:۴۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T02:35:25.905Z"
     }
   ]
 }
