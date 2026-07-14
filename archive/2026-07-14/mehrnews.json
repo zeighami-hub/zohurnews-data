@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "mehrnews_963ac5d5a4",
@@ -50,6 +50,54 @@
       "pubDate": "Mon, 13 Jul 2026 12:14:16 GMT",
       "time": "۱۵:۴۴ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T01:19:39.085Z"
+    },
+    {
+      "id": "mehrnews_f0222b759e",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran military shoots down US drone",
+      "title_fa": "نظامیان ایران پهپاد آمریکایی را ساقط کردند",
+      "lead": "پدافند هوایی ارتش ایران یک پهپاد متخاصم آمریکایی را بر فراز بندرعباس در جنوب کشور ساقط کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246166/Iran-military-shoots-down-US-drone",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 12:53:56 GMT",
+      "time": "۱۶:۲۳ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T01:34:01.822Z"
+    },
+    {
+      "id": "mehrnews_13a050f603",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran FM making efforts to ease services for Arbaeen pilgrims",
+      "title_fa": "وزیر خارجه ایران برای تسهیل خدمات به زائران اربعین تلاش می‌کند",
+      "lead": "مقامات ایرانی در جلسه روز دوشنبه آخرین ترتیبات حج اربعین امسال را بررسی کردند. وزارت خارجه متعهد شد که پشتیبانی کامل دیپلماتیک و کنسولی را برای تسهیل خدمات به زائران ارائه دهد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246165/Iran-FM-making-efforts-to-ease-services-for-Arbaeen-pilgrims",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 12:48:55 GMT",
+      "time": "۱۶:۱۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T01:34:01.822Z"
     }
   ]
 }
