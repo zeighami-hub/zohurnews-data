@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "independent",
-  "total": 14,
+  "total": 15,
   "articles": [
     {
       "id": "independent_fdbe11c5dc",
@@ -338,6 +338,30 @@
       "pubDate": "Tue, 14 Jul 2026 03:40:35 GMT",
       "time": "۰۷:۱۰ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T03:49:57.791Z"
+    },
+    {
+      "id": "independent_44789d22af",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Iran-US war latest: Trump launches new wave of strikes as UAE condemns Iran’s ‘brazen’ attacks on tankers",
+      "title_fa": "آخرین تحولات جنگ ایران و آمریکا: ترامپ موج جدیدی از حملات را آغاز کرد؛ امارات حملات «گستاخانه» ایران به نفتکش‌ها را محکوم کرد",
+      "lead": "دونالد ترامپ اعلام کرده است که آمریکا حافظ تنگه هرمز خواهد بود و ۲۰ درصد عوارض بر کشتی‌های عبوری از آن اعمال خواهد کرد. این خبر در حالی منتشر شده که امارات حملات ایران به نفتکش‌ها را محکوم کرده است.",
+      "category": "military",
+      "region": "middle-east",
+      "sourceUrl": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-strait-hormuz-oil-b3014278.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 03:58:06 GMT",
+      "time": "۰۷:۲۸ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T04:05:32.328Z"
     }
   ]
 }
