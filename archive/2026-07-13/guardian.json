@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "guardian",
-  "total": 25,
+  "total": 28,
   "articles": [
     {
       "id": "guardian_888ebf97eb",
@@ -600,6 +600,72 @@
       "pubDate": "Mon, 13 Jul 2026 12:00:46 GMT",
       "time": "۱۵:۳۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T12:23:13.218Z"
+    },
+    {
+      "id": "guardian_0",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
+      "title_fa": "ردیاب آب و هوا: طوفان مردم را در چین بر روی پشت بام‌ها گرفتار کرد",
+      "lead": "گزارش‌ها حاکی از کشته شدن یازده نفر است، در حالی که سیل خطر مارها را نیز به همراه دارد و ساختمان‌هایی در بمبئی در میان باران‌های شدید فروریخته‌اند. طوفان میساک، اولین طوفان فصل ۲۰۲۶ در چین، خسارات ویرانگری در مناطق جنوبی و مرکزی به بار آورده است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.guardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 95
+      },
+      "analyzed_at": "2026-07-13T13:09:21.521Z"
+    },
+    {
+      "id": "guardian_1",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+      "title_fa": "سازمان ملل متحد فاش کرد: کشورهای در حال توسعه بیشتر از آموزش، صرف بازپرداخت بدهی‌های خارجی می‌کنند",
+      "lead": "گزارش یونسکو نشان می‌دهد که کودکان در ۱۱۳ کشور به دلیل سرویس‌دهی بدهی‌ها ضرر کرده‌اند و ۱۸ کشور پنج برابر بیشتر صرف وام‌ها کرده‌اند. طبق گزارش سازمان ملل، اکثر کشورهای در حال توسعه سال گذشته کمتر از آنچه صرف بازپرداخت بدهی کردند، برای آموزش هزینه کرده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.guardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-13T13:09:21.521Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Mexico investigates whether US lied about role in capture of drug lord",
+      "title_fa": "مکزیک در حال تحقیق است که آیا آمریکا درباره نقش خود در دستگیری قاچاقچی مواد مخدر دروغ گفته است",
+      "lead": "گزارش‌ها حاکی از آن است که اف‌بی‌آی در سال ۲۰۲۴ در بازداشت اسماعیل «ال مایو» زامبادا گارسیا از خاک مکزیک دست داشته است. مکزیک تحقیقاتی را آغاز کرده است تا مشخص کند آیا ایالات متحده در مورد دخالت خود در دستگیری و انتقال مخفیانه یک قاچاقچی بزرگ کارتل سینالوآ دروغ گفته است یا خیر.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.guardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-07-13T13:09:21.521Z"
     }
   ]
 }
