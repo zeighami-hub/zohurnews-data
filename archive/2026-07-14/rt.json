@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "rt",
-  "total": 11,
+  "total": 14,
   "articles": [
     {
       "id": "rt_c002914115",
@@ -266,6 +266,78 @@
       "pubDate": "Tue, 14 Jul 2026 09:44:08 +0000",
       "time": "۱۳:۱۴ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T09:54:34.805Z"
+    },
+    {
+      "id": "rt_7fd9c8b264",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Trump tells Congress that Iran war is back on",
+      "title_fa": "ترامپ به کنگره اعلام کرد که جنگ با ایران از سر گرفته شده است",
+      "lead": "گزارش شده است که رئیس‌جمهور دونالد ترامپ به کنگره اطلاع داده است. بر این اساس، ایالات متحده بار دیگر با ایران در وضعیت جنگی قرار گرفته است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642968-trump-congress-new-iran-war/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 21:24:38 +0000",
+      "time": "۰۰:۵۴ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T10:39:48.119Z"
+    },
+    {
+      "id": "rt_fa07bcfcbe",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US and Iran exchange strikes: What is known so far",
+      "title_fa": "تبادل حملات میان آمریکا و ایران: آنچه تاکنون مشخص است",
+      "lead": "ایران گزارش داده است که حداقل شش پایگاه آمریکا در سراسر خاورمیانه را هدف قرار داده است. در همین حال، سنتکام اعلام کرده که \"ده‌ها هدف\" را در جمهوری اسلامی مورد حمله قرار داده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/642966-iran-us-exchange-strikes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 20:34:28 +0000",
+      "time": "۰۰:۰۴ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T10:39:48.119Z"
+    },
+    {
+      "id": "rt_20ea196de1",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Corporations are not preparing their workers for an AI tsunami",
+      "title_fa": "شرکت‌ها کارکنان خود را برای سونامی هوش مصنوعی آماده نمی‌کنند",
+      "lead": "در حالی که کسب‌وکارها به سرعت در حال اتوماسیون هستند، بسیاری از کارکنان بدون آموزش مجدد، وضوح یا تضمین‌های لازم برای سازگاری رها شده‌اند. این وضعیت نگرانی‌هایی را در مورد آمادگی نیروی کار برای تغییرات ناشی از هوش مصنوعی ایجاد می‌کند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/642965-corporations-workers-ai-fear/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 13 Jul 2026 19:20:29 +0000",
+      "time": "۲۲:۵۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T10:39:48.119Z"
     }
   ]
 }
