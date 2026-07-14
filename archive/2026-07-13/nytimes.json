@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 45,
+  "total": 46,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -1082,6 +1082,30 @@
       "pubDate": "Mon, 13 Jul 2026 18:55:33 +0000",
       "time": "۲۲:۲۵ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "nytimes_31095318bc",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes",
+      "title_fa": "ترامپ محاصره دریایی را بازگرداند؛ تشدید حملات آمریکا و ایران",
+      "lead": "پس از چندین روز حمله، تهران و واشنگتن عملاً به وضعیت درگیری آشکار قبل از توافق آتش‌بس در ماه ژوئن بازگشته‌اند. ترامپ محاصره دریایی را مجدداً اعمال کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/middleeast/trump-iran-naval-blockade-strikes.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 22:11:17 +0000",
+      "time": "۰۱:۴۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-13T22:41:28.289Z"
     }
   ]
 }
