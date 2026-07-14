@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "bbc_a6b166d1d3",
@@ -506,6 +506,30 @@
       "pubDate": "Mon, 13 Jul 2026 12:02:19 GMT",
       "time": "۱۵:۳۲ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T06:10:06.420Z"
+    },
+    {
+      "id": "bbc_4add9faa57",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
+      "title_fa": "نگرانی‌های سلامتی با کاهش وزن ۸.۲ کیلوگرمی یک فعال نحیف هندی در اعتصاب غذا",
+      "lead": "این فعال محیط زیست به مدت ۱۶ روز است که در اعتصاب غذا به سر می‌برد. وضعیت جسمانی او به وضوح ضعیف‌تر شده است.",
+      "category": "human rights",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 22:03:16 GMT",
+      "time": "۰۱:۳۳ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T08:56:01.045Z"
     }
   ]
 }
