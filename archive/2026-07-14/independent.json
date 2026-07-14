@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "independent",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "independent_fdbe11c5dc",
@@ -266,6 +266,54 @@
       "pubDate": "Mon, 13 Jul 2026 13:48:32 GMT",
       "time": "۱۷:۱۸ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T02:35:25.905Z"
+    },
+    {
+      "id": "independent_8474701303",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "China's exports surge 27% from a year earlier as AI boom drives strong demand",
+      "title_fa": "صادرات چین با رشد ۲۷ درصدی نسبت به سال گذشته، با رونق هوش مصنوعی افزایش یافت",
+      "lead": "سازمان گمرک چین اعلام کرده که صادرات این کشور در ماه ژوئن ۲۷ درصد نسبت به سال گذشته افزایش یافته است. این رشد قابل توجه ناشی از تقاضای قوی در پی رونق هوش مصنوعی بوده است.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.independent.co.uk/news/hong-kong-china-b3014276.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 03:06:46 GMT",
+      "time": "۰۶:۳۶ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T03:19:51.922Z"
+    },
+    {
+      "id": "independent_45b5108333",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Ukraine-Russia war latest: Kyiv bombs 15 more Russian ships on key trade route",
+      "title_fa": "آخرین تحولات جنگ اوکراین و روسیه: کی‌یف ۱۵ کشتی روسی دیگر را در مسیر تجاری کلیدی بمباران کرد",
+      "lead": "اوکراین گزارش داده است که ۱۵ کشتی روسی دیگر را در یک مسیر تجاری استراتژیک بمباران کرده است. این حملات همچنین تانکرهای روسی و کشتی‌های مسافربری را در نزدیکی دریای آزوف هدف قرار داده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-trump-zelensky-drone-strikes-b3013631.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 02:49:19 GMT",
+      "time": "۰۶:۱۹ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T03:19:51.922Z"
     }
   ]
 }
