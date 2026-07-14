@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "aljazeera",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "aljazeera_6aaad77e90",
@@ -72,6 +72,30 @@
         "negative": 100
       },
       "analyzed_at": "2026-07-14T00:19:37.054Z"
+    },
+    {
+      "id": "aljazeera_65da9d0980",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
+      "title_fa": "سه فلسطینی در حملات اسرائیل در سراسر غزه کشته، ۱۵ نفر زخمی شدند",
+      "lead": "با وجود برقراری «آتش‌بس»، اسرائیل هیچ نشانه‌ای از توقف حملات خود به قلمرو ویران‌شده فلسطین نشان نمی‌دهد. در نتیجه این حملات، سه فلسطینی کشته و ۱۵ نفر زخمی شده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 23:41:32 +0000",
+      "time": "۰۳:۱۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T00:49:48.704Z"
     }
   ]
 }
