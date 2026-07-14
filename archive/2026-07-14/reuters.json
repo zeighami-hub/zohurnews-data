@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -302,6 +302,30 @@
         "negative": 50
       },
       "analyzed_at": "2026-07-14T08:08:46.347Z"
+    },
+    {
+      "id": "reuters_b59908b752",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "China's June oil imports hit near 10-year low amid Iran war - Reuters",
+      "title_fa": "واردات نفت چین در ماه ژوئن در بحبوحه جنگ ایران به پایین‌ترین حد ۱۰ سال اخیر رسید",
+      "lead": "واردات نفت چین در ماه ژوئن در بحبوحه جنگ ایران به پایین‌ترین سطح خود در نزدیک به ۱۰ سال گذشته رسید. این خبر توسط رویترز گزارش شده است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkxRblJwR3pkdkRBLW9BQTJwT3htaWpDNXBaTi1LQ1ptQ1VlLW5VellsQ3JTWUluQ2oyOVlGLVBvSmFsM0FmTWh3eE1OV3AtN1RKRUJEQVJaQmdXTXNnNEVyUHFfanFDMjVBRGZqcmVJNWhLLWNNd0IxVGtYSUpJZnUxQmJwSFZBcjU4YVFhYy1ic2RZZXhDZnJhaHhzbG8zTkppelFCcHZoNWJhSGFN?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Tue, 14 Jul 2026 05:22:00 GMT",
+      "time": "۰۸:۵۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T08:56:01.045Z"
     }
   ]
 }
