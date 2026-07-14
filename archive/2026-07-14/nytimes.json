@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_7955cc1f7a",
@@ -122,6 +122,30 @@
       "pubDate": "Tue, 14 Jul 2026 09:01:38 +0000",
       "time": "۱۲:۳۱ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T09:23:33.737Z"
+    },
+    {
+      "id": "nytimes_e7edb4fffb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+      "title_fa": "در آتش‌سوزی میخانه بانکوک، نشانه‌هایی از سهل‌انگاری‌های مرگبار تکرار شده در سراسر جهان",
+      "lead": "پس از آتش‌سوزی در یک میخانه بانکوک که منجر به کشته شدن ۳۰ نفر شد، بررسی‌ها به سمت استفاده از فوم قابل اشتعال در سقف و مسدود بودن خروجی‌ها معطوف شده است. این حادثه نشانه‌هایی از سهل‌انگاری‌های مرگبار را بازتاب می‌دهد که در سراسر جهان تکرار می‌شوند.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 09:46:07 +0000",
+      "time": "۱۳:۱۶ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T09:54:34.805Z"
     }
   ]
 }
