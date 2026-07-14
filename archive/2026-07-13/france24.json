@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "france24",
-  "total": 56,
+  "total": 66,
   "articles": [
     {
       "id": "france24_a8ca37f4ad",
@@ -1346,6 +1346,246 @@
       "pubDate": "Mon, 13 Jul 2026 15:55:23 GMT",
       "time": "۱۹:۲۵ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T17:45:39.031Z"
+    },
+    {
+      "id": "france24_82bead9b36",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Trump reimposes Iran naval blockade, threatens Hormuz fees",
+      "title_fa": "ترامپ محاصره دریایی ایران را بازگرداند، هزینه برای عبور از هرمز را تهدید کرد",
+      "lead": "پرزیدنت دونالد ترامپ روز دوشنبه محاصره دریایی آمریکا بر بنادر ایران را مجدداً اعمال کرد و برای کشتی‌های عبوری از تنگه هرمز هزینه‌های سنگین تهدید کرد. در همین حال، تهران به تمسخر متعهد شد که نرخ پایین‌تری برای عبور از این آبراه استراتژیک دریافت کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/trump-reimposes-iran-naval-blockade-threatens-hormuz-fees",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 19:34:08 GMT",
+      "time": "۲۳:۰۴ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "france24_920ce58b9d",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "US judge voids Donald Trump 'improper' $1.8 billion settlement with IRS",
+      "title_fa": "قاضی آمریکایی توافق «نامناسب» ۱.۸ میلیارد دلاری دونالد ترامپ با IRS را باطل کرد",
+      "lead": "یک قاضی آمریکایی روز دوشنبه توافقی بین رئیس‌جمهور دونالد ترامپ و سازمان امور مالیاتی (IRS) بر سر پرونده مالیاتی او را باطل کرد. قاضی حکم داد که این شکایت با «هدف نامناسبی» مطرح شده بود و به همین دلیل توافق باطل است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/americas/20260713-us-judge-voids-trump-irs-settlement-taxes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Mon, 13 Jul 2026 21:58:19 GMT",
+      "time": "۰۱:۲۸ - ۲۳ تیر",
+      "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "france24_81c93e4f25",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "'We will never eliminate the risk of fire completely', expert says as wildfire rages south of Paris",
+      "title_fa": "کارشناس می‌گوید: «هرگز نمی‌توانیم خطر آتش‌سوزی را به طور کامل از بین ببریم»، همزمان با شعله‌ور شدن آتش‌سوزی مهیب در جنوب پاریس",
+      "lead": "استفان دور، مدیر مرکز تحقیقات آتش‌سوزی جنگلی در دانشگاه سوانسی، در گفتگو با فرانس ۲۴ اظهار داشت که «ما باید محیط زیست را برای کاهش خطر آتش‌سوزی بیشتر آماده کنیم، اما هرگز نمی‌توانیم آن را به طور کامل از بین ببریم.» این اظهارات در حالی مطرح می‌شود که آتش‌سوزی گسترده‌ای در جنوب پاریس در جریان است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/a-propos/20260713-we-will-never-eliminate-the-risk-of-fire-completely-expert-says-as-wildfire-rages-south-of-paris",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Mon, 13 Jul 2026 21:01:14 GMT",
+      "time": "۰۰:۳۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "france24_b582b0d7a7",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Ukraine strikes halt shipping on key wheat route as Russian fuel crisis deepens",
+      "title_fa": "حملات اوکراین کشتیرانی در مسیر اصلی گندم را متوقف کرد؛ بحران سوخت روسیه عمیق‌تر می‌شود",
+      "lead": "حملات اوکراین باعث توقف کشتیرانی در یک مسیر حیاتی برای حمل گندم شده است. در همین حال، بحران سوخت در روسیه در حال عمیق‌تر شدن است که پیامدهای اقتصادی و تجاری مهمی دارد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/ukraine-strikes-halt-shipping-on-key-wheat-route-as-russian-fuel-crisis-deepens",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 13 Jul 2026 21:00:50 GMT",
+      "time": "۰۰:۳۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "france24_566f418be0",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Ebola spreads to more provinces",
+      "title_fa": "گسترش ابولا به استان‌های بیشتر",
+      "lead": "بنابر گزارش‌ها، شیوع ابولا به دو استان دیگر گسترش یافته است. همچنین یک دادگاه سودانی محمد حمدان داگلو، رهبر شبه‌نظامی، و ۱۵ نفر دیگر را به طور غیابی به اعدام محکوم کرد. در خبر دیگری، ساکنان شهر بیله در دلتای نیجر به خیابان‌ها آمده و خواستار اقدامات دولت شده‌اند.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/ebola-spreads-to-more-provinces",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 13 Jul 2026 20:35:58 GMT",
+      "time": "۰۰:۰۵ - ۲۳ تیر",
+      "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "france24_b8a1cf630e",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Ukraine and allies set up coalition to tackle Russia ballistic missile threat",
+      "title_fa": "اوکراین و متحدانش ائتلافی برای مقابله با تهدید موشک‌های بالستیک روسیه تشکیل دادند",
+      "lead": "اوکراین و متحدان اصلی غربی‌اش روز دوشنبه یک ائتلاف دفاع هوایی را اعلام کردند. این ائتلاف شامل توسعه مشترک یک سامانه جدید ضد موشک بالستیک به عنوان راه حلی جایگزین و ارزان‌تر نسبت به سیستم پاتریوت آمریکا خواهد بود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/ukraine-and-allies-set-up-coalition-to-tackle-russia-ballistic-missile-threat",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Mon, 13 Jul 2026 20:01:37 GMT",
+      "time": "۲۳:۳۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "france24_9b5440eb0f",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Nearly 1,000 hectares burnt in fire near Paris",
+      "title_fa": "تقریباً ۱۰۰۰ هکتار در آتش‌سوزی در نزدیکی پاریس سوخت",
+      "lead": "آتش‌سوزی گسترده در جنگل تاریخی و پربازدید فونتن‌بلو در جنوب پاریس، باعث تخلیه مناطق و اختلال در ترافیک قطار و بزرگراه شده است. مقامات می‌گویند این آتش‌سوزی تقریباً پنج درصد از مساحت ۲۵ هزار هکتاری جنگل را از بین برده است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/nearly-1-000-hectares-burnt-in-fire-near-paris",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 19:41:25 GMT",
+      "time": "۲۳:۱۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "france24_8c85b744c5",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Two arrested as Fontainebleau forest near Paris ravaged by fire, prompting evacuations",
+      "title_fa": "دو نفر در پی آتش‌سوزی مهیب جنگل فونتن‌بلو در نزدیکی پاریس و تخلیه مناطق بازداشت شدند",
+      "lead": "فرانسه روز دوشنبه در تلاش برای مهار آتش‌سوزی در جنگلی در جنوب پاریس بود که حدود ۱۲۰۰ هکتار را سوزاند. پلیس دو نفر را به ظن آغاز این آتش‌سوزی دستگیر کرده است. این آتش‌سوزی روز یکشنبه در جنگل گسترده فونتن‌بلو، حدود ۶۰ کیلومتری پاریس، آغاز شد.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/two-arrested-as-fontainebleau-forest-near-paris-ravaged-by-fire-prompting-evacuations",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 19:22:10 GMT",
+      "time": "۲۲:۵۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "france24_0c2b923867",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Replay: Macron speaks as Ukraine’s ‘Coalition of the Willing’ meeting ends in Paris",
+      "title_fa": "بازپخش: ماکرون در پایان نشست «ائتلاف مایلین» اوکراین در پاریس سخنرانی می‌کند",
+      "lead": "امانوئل ماکرون، رئیس‌جمهور فرانسه، اعلام کرد که اوکراین ۱۶ جت جنگنده رافال و اولین سری از باتری‌های دفاع هوایی زمین به هوای SAMP/T نسل جدید سفارش داده است. همچنین مجوزهایی برای تولید چندین قابلیت، از جمله موشک کروز اسکالپ، اعطا شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/video/20260713-replay-macron-speaks-as-ukraine-s-coalition-of-the-willing-meeting-ends-in-paris",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Mon, 13 Jul 2026 19:13:07 GMT",
+      "time": "۲۲:۴۳ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T22:18:22.893Z"
+    },
+    {
+      "id": "france24_a66e118242",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Willing to pay: how much? Ukraine allies in Paris without the United States",
+      "title_fa": "مایل به پرداخت: چقدر؟ متحدان اوکراین در پاریس بدون ایالات متحده",
+      "lead": "این خبر به ائتلاف مایلین - یا ناتو بدون ایالات متحده - در پاریس اشاره دارد. این ائتلاف در حال برگزاری نشستی برای بررسی حمایت از اوکراین و هزینه‌های مربوط به آن است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/the-debate/20260713-willing-to-pay-how-much-ukraine-allies-in-paris-without-the-united-states",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Mon, 13 Jul 2026 18:25:35 GMT",
+      "time": "۲۱:۵۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T22:18:22.893Z"
     }
   ]
 }
