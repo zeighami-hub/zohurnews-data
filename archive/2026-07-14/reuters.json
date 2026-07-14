@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -142,6 +142,30 @@
         "negative": 70
       },
       "analyzed_at": "2026-07-14T01:19:39.085Z"
+    },
+    {
+      "id": "reuters_3cb870b7ba",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil climbs to one-month high as US, Iran step up attacks in Strait of Hormuz - Reuters",
+      "title_fa": "افزایش قیمت نفت به بالاترین سطح یک ماه اخیر در پی تشدید حملات آمریکا و ایران در تنگه هرمز",
+      "lead": "قیمت نفت در پی تشدید حملات آمریکا و ایران در تنگه هرمز به بالاترین سطح خود در یک ماه اخیر رسید. این تنش‌ها در یکی از مهم‌ترین آبراه‌های جهان، بر بازارهای جهانی انرژی تأثیر گذاشته است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObjBFQ0x4dHAxeGhVUDB4NlR2LVlyU1JTNnJhWkV1bnI4b1Zneng1X0E4bmpBWnJLVjBHZm1aaDctN19OejdjdGpnYVlxaHJxcjRGQzZZLUNhbmtvakJmc0MxTVpmc1l3ZzBXWFhzWE8teV91d0x0WFlTc2JUM2RDNFUyMzVCWl9mMWltOTJjTWM5Mlpta3dtN3VtT1A1RHpCcUhGQmNUMWNIaTYtZGU3MjQxMnExZw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 01:01:00 GMT",
+      "time": "۰۴:۳۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T02:19:43.741Z"
     }
   ]
 }
