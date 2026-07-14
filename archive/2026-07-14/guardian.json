@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "guardian",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "guardian_f0169ac5eb",
@@ -362,6 +362,30 @@
       "pubDate": "Tue, 14 Jul 2026 06:23:46 GMT",
       "time": "۰۹:۵۳ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T06:55:11.699Z"
+    },
+    {
+      "id": "guardian_f48a501cd5",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘God is punishing the politicians’: anger at earthquake response grows in Venezuela",
+      "title_fa": "«خدا سیاستمداران را مجازات می‌کند»: خشم از واکنش به زلزله در ونزوئلا رو به افزایش است",
+      "lead": "تهدید ناآرامی‌های اجتماعی در ونزوئلا رو به افزایش است، زیرا خشم عمومی از کمبود کمک‌های بلایای طبیعی، علاوه بر پیامدهای مداخله نظامی آمریکا، بیشتر شده است. خشم عمومی در ونزوئلا از آنچه بسیاری واکنش ضعیف به زلزله می‌دانند، رو به فزونی است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 14 Jul 2026 09:00:26 GMT",
+      "time": "۱۲:۳۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T09:23:33.737Z"
     }
   ]
 }
