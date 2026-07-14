@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "mehrnews",
-  "total": 31,
+  "total": 32,
   "articles": [
     {
       "id": "mehrnews_41710a4467",
@@ -746,6 +746,30 @@
       "pubDate": "Mon, 13 Jul 2026 11:43:20 GMT",
       "time": "۱۵:۱۳ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T11:55:11.245Z"
+    },
+    {
+      "id": "mehrnews_d02ef92417",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Saudi airstrikes hit Sana’a airport",
+      "title_fa": "حملات هوایی عربستان فرودگاه صنعا را هدف قرار داد",
+      "lead": "بر اساس گزارش‌ها، هواپیماهای جنگی سعودی حملات هوایی متعددی را علیه فرودگاه بین‌المللی صنعا انجام دادند. این حملات هوایی روز دوشنبه صورت گرفت.",
+      "category": "military",
+      "region": "middle-east",
+      "sourceUrl": "https://en.mehrnews.com/news/246164/Saudi-airstrikes-hit-Sana-a-airport",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 12:14:16 GMT",
+      "time": "۱۵:۴۴ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T12:23:13.218Z"
     }
   ]
 }
