@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "rt",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "rt_c002914115",
@@ -242,6 +242,30 @@
       "pubDate": "Mon, 13 Jul 2026 17:51:04 +0000",
       "time": "۲۱:۲۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T06:24:41.942Z"
+    },
+    {
+      "id": "rt_643d138b9e",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Trump backed Saudi strikes on Yemen – Axios",
+      "title_fa": "اکسیوس: ترامپ از حملات عربستان به یمن حمایت کرد",
+      "lead": "بر اساس گزارش اکسیوس، دونالد ترامپ حملات عربستان سعودی علیه حوثی‌های یمن را تایید کرده بود. این اقدام می‌تواند رویارویی با ایران را گسترش دهد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/643014-trump-backed-saudi-strikes-houthis-yemen/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 09:44:08 +0000",
+      "time": "۱۳:۱۴ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T09:54:34.805Z"
     }
   ]
 }
