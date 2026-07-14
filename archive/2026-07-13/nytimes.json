@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 30,
+  "total": 31,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -722,6 +722,30 @@
       "pubDate": "Mon, 13 Jul 2026 11:58:09 +0000",
       "time": "۱۵:۲۸ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T12:09:09.463Z"
+    },
+    {
+      "id": "nytimes_5ac81e30cd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Heat Waves in Europe Linked to Thousands of Excess Deaths",
+      "title_fa": "امواج گرمایی در اروپا با هزاران مورد مرگ و میر اضافی مرتبط است",
+      "lead": "در حالی که محاسبه آمار کامل تلفات ماه‌ها طول خواهد کشید، آمار مرگ و میر در حال حاضر در مقایسه با میانگین‌های تاریخی قابل توجه به نظر می‌رسد. این پدیده امواج گرمایی شدید در اروپا باعث افزایش چشمگیر نرخ فوت شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/europe/heat-europe-excess-death-fire.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 12:51:11 +0000",
+      "time": "۱۶:۲۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T13:09:21.521Z"
     }
   ]
 }
