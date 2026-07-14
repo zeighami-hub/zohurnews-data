@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "france24",
-  "total": 33,
+  "total": 34,
   "articles": [
     {
       "id": "france24_a8ca37f4ad",
@@ -794,6 +794,30 @@
       "pubDate": "Mon, 13 Jul 2026 11:00:03 GMT",
       "time": "۱۴:۳۰ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T11:42:13.206Z"
+    },
+    {
+      "id": "france24_c1939a1598",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "🔴 Iran claims strikes against Oman, Bahrain, Kuwait and Jordan. Follow our live coverage",
+      "title_fa": "ایران ادعای حمله به عمان، بحرین، کویت و اردن را مطرح کرد؛ پوشش زنده ما را دنبال کنید",
+      "lead": "ایران مدعی شده است که حملاتی را علیه عمان، بحرین، کویت و اردن انجام داده است. این خبر به صورت زنده پوشش داده می‌شود.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260712-middle-east-live-us-strikes-iran-gulf-states-targeted-strait-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 05:58:44 GMT",
+      "time": "۰۹:۲۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T11:55:11.245Z"
     }
   ]
 }
