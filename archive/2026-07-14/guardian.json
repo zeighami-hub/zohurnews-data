@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "guardian",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "guardian_f0169ac5eb",
@@ -26,6 +26,30 @@
       "pubDate": "Mon, 13 Jul 2026 10:53:56 GMT",
       "time": "۱۴:۲۳ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T00:19:37.054Z"
+    },
+    {
+      "id": "guardian_42bf46129e",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Japan admits growing need to counter espionage after Russian ‘den of spies’ report",
+      "title_fa": "ژاپن پس از گزارش 'لانه جاسوسان' روسیه، به نیاز فزاینده برای مقابله با جاسوسی اذعان کرد",
+      "lead": "ژاپن پس از گزارش نیویورک تایمز مبنی بر تبدیل شدن این کشور به مرکز جاسوسی برای ولادیمیر پوتین، به نیاز فزاینده برای مقابله بهتر با اطلاعات خارجی اذعان کرد. سخنگوی دولت اعلام کرد که این مسئله باید با دقت بیشتری مورد بررسی قرار گیرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/14/japan-espionage-russia-den-of-spies",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Tue, 14 Jul 2026 01:10:26 GMT",
+      "time": "۰۴:۴۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T01:34:01.822Z"
     }
   ]
 }
