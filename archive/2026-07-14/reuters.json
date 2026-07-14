@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -210,6 +210,30 @@
         "negative": 90
       },
       "analyzed_at": "2026-07-14T03:34:08.142Z"
+    },
+    {
+      "id": "reuters_ddf532f50a",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Dollar edges higher on escalating US-Iran tension, yen slides on pension doubts - Reuters",
+      "title_fa": "افزایش اندک دلار در پی تشدید تنش‌های آمریکا و ایران؛ ین به دلیل تردیدها در مورد بازنشستگی سقوط کرد",
+      "lead": "دلار آمریکا در پی تشدید تنش‌ها میان واشنگتن و تهران، اندکی افزایش یافت. در همین حال، ین ژاپن به دلیل تردیدها پیرامون وضعیت بازنشستگی با کاهش قیمت مواجه شد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjVMa3FGTU1NQ1pSWXVaRllPTTBLc0xYR1dlQS1URUdySXZOb1ZaT3RxUFNlUmo4djVDcTNrWVpNOUFsNnpkcW5nWFJyZWlKamtvMlppZkYyTUpLeFBGc1dYUHYtcTNSTjk2aVhDSjI2OUV0MU81eDBsMUNaRGxiZHQ2SzUzRTBsd290RGZRTWl0NUZ0Mi1LVnBsMVMzSWlqNVJUeEJQQVp4cTRUUGhj?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 00:29:00 GMT",
+      "time": "۰۳:۵۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T05:37:34.260Z"
     }
   ]
 }
