@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_7955cc1f7a",
@@ -170,6 +170,126 @@
       "pubDate": "Tue, 14 Jul 2026 09:46:56 +0000",
       "time": "۱۳:۱۶ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T10:10:02.360Z"
+    },
+    {
+      "id": "nytimes_5657780982",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
+      "title_fa": "چگونه ترامپ در توافق هسته‌ای خود با ایران نتوانست امنیت تنگه هرمز را تامین کند",
+      "lead": "رئیس‌جمهور ترامپ توافقی را امضا کرد که ایران مدعی بود کنترل آبراه و ذخایر انرژی جهانی را به آن می‌دهد. اکنون، ارتش ایران به شدت در حال اعمال قدرت خود در این منطقه است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 12 Jul 2026 16:43:37 +0000",
+      "time": "۲۰:۱۳ - ۲۱ تیر",
+      "analyzed_at": "2026-07-14T10:39:48.119Z"
+    },
+    {
+      "id": "nytimes_91fdc493bb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "China Purges Top Official Over Corruption and Sex Charges",
+      "title_fa": "چین مقام ارشد خود را به اتهام فساد و تخلفات جنسی برکنار کرد",
+      "lead": "یکی از اعضای پلیتبورو، ما شینگ‌رویی، به دلیل اتهامات فساد و مسائل جنسی از سمت خود برکنار شده است. او که پیشتر رهبری منطقه سین‌کیانگ و ریاست برنامه فضایی چین را بر عهده داشت، سومین عضو پلیتبورو است که از سال ۲۰۲۲ پاکسازی می‌شود.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 10:23:29 +0000",
+      "time": "۱۳:۵۳ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T10:39:48.119Z"
+    },
+    {
+      "id": "nytimes_e433809850",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.K. to Change Law to Allow Deportation of ‘Grooming Gang’ Leader",
+      "title_fa": "بریتانیا قانون را برای اجازه اخراج رهبر «باند سوءاستفاده» تغییر می‌دهد",
+      "lead": "دولت بریتانیا اقداماتی را برای امکان‌پذیر ساختن اخراج شبیر احمد، رهبر باندی که ده‌ها دختر را در شمال انگلستان مورد تجاوز قرار داده بود، به پاکستان ارائه کرد. این تغییر قانونی برای تسهیل این گونه اخراج‌ها صورت می‌گیرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/europe/uk-deportation-law-change-grooming-gang.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Mon, 13 Jul 2026 18:55:33 +0000",
+      "time": "۲۲:۲۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T10:39:48.119Z"
+    },
+    {
+      "id": "nytimes_a233aaaa2c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
+      "title_fa": "ساکنان شهرهای اسپانیا گرفتار در آتش‌سوزی‌های شدید، فرارهای دلهره‌آور خود را روایت می‌کنند",
+      "lead": "بسیاری از ساکنان شهرهای اسپانیا که در آتش‌سوزی‌های شدید گرفتار شده بودند، از هرج و مرج و حتی عدم ارتباط هنگام گسترش شعله‌ها در منطقه حکایت می‌کنند. این آتش‌سوزی‌ها جان ۱۲ نفر را گرفت و به یکی از مرگبارترین حوادث تاریخ اسپانیا تبدیل شد.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 15:31:34 +0000",
+      "time": "۱۹:۰۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-14T10:39:48.119Z"
+    },
+    {
+      "id": "nytimes_6d76c47c06",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor",
+      "title_fa": "زلنسکی از تغییرات در رهبری اوکراین در پی بهبود وضعیت جنگ خبر داد",
+      "lead": "ولودیمیر زلنسکی، رئیس جمهور اوکراین، اعلام کرد که یولیا سویریدنکو، نخست وزیر اوکراین، در میان یک تغییر و تحول گسترده‌تر در رهبری ارشد این کشور از سمت خود کناره‌گیری خواهد کرد. این تحولات در شرایطی رخ می‌دهد که اوکراین شاهد پیشرفت‌هایی در جنگ است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "pubDate": "Sun, 12 Jul 2026 14:51:40 +0000",
+      "time": "۱۸:۲۱ - ۲۱ تیر",
+      "analyzed_at": "2026-07-14T10:39:48.119Z"
     }
   ]
 }
