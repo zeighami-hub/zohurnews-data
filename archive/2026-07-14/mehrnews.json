@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "mehrnews",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "mehrnews_963ac5d5a4",
@@ -290,6 +290,30 @@
       "pubDate": "Tue, 14 Jul 2026 05:25:01 GMT",
       "time": "۰۸:۵۵ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T05:37:34.260Z"
+    },
+    {
+      "id": "mehrnews_50486fa672",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran executes two ISIL terrorists for armed plot",
+      "title_fa": "ایران دو تروریست داعشی را به اتهام توطئه مسلحانه اعدام کرد",
+      "lead": "قوه قضائیه ایران اعلام کرد که دو عضو یک هسته داعش را روز سه‌شنبه اعدام کرده است. این اعدام پس از تأیید احکام اعدام آن‌ها از سوی دیوان عالی کشور به اتهام شورش مسلحانه صورت گرفت.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246178/Iran-executes-two-ISIL-terrorists-for-armed-plot",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Tue, 14 Jul 2026 05:38:27 GMT",
+      "time": "۰۹:۰۸ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T05:52:28.264Z"
     }
   ]
 }
