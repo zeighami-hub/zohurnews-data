@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "guardian",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "guardian_f0169ac5eb",
@@ -50,6 +50,54 @@
       "pubDate": "Tue, 14 Jul 2026 01:10:26 GMT",
       "time": "۰۴:۴۰ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T01:34:01.822Z"
+    },
+    {
+      "id": "guardian_888ebf97eb",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
+      "title_fa": "رهگیر آب و هوا: طوفان در چین مردم را در پشت بام‌ها سرگردان کرده است",
+      "lead": "اولین طوفان فصلی چین، «مایساک»، خسارات ویرانگری در مناطق جنوبی و مرکزی به بار آورده و مردم را در پشت بام‌ها سرگردان کرده است. تاکنون ۱۱ نفر کشته شده‌اند و سیل همچنین خطر مارها را افزایش داده و ساختمان‌ها در بمبئی در میان باران شدید فروریخته‌اند.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 10 Jul 2026 09:18:01 GMT",
+      "time": "۱۲:۴۸ - ۱۹ تیر",
+      "analyzed_at": "2026-07-14T02:19:43.741Z"
+    },
+    {
+      "id": "guardian_49a7ce37d7",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+      "title_fa": "سازمان ملل متحد فاش کرد: کشورهای در حال توسعه بیش از آموزش، صرف بازپرداخت بدهی‌های خارجی می‌کنند",
+      "lead": "سازمان ملل متحد فاش کرد که کشورهای در حال توسعه برای بازپرداخت بدهی‌های خارجی خود بیشتر از هزینه‌های آموزش صرف می‌کنند. گزارش یونسکو نشان می‌دهد که در ۱۱۳ کشور، کودکان به دلیل سرویس‌دهی به بدهی‌ها آسیب دیده‌اند و ۱۸ کشور پنج برابر بیشتر از آموزش، صرف وام‌ها (بازپرداخت بدهی) کرده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 10 Jul 2026 07:00:14 GMT",
+      "time": "۱۰:۳۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-14T02:19:43.741Z"
     }
   ]
 }
