@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "nytimes_7955cc1f7a",
@@ -26,6 +26,30 @@
       "pubDate": "Mon, 13 Jul 2026 07:19:46 +0000",
       "time": "۱۰:۴۹ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T00:19:37.054Z"
+    },
+    {
+      "id": "nytimes_fdf5fa2aba",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Deportations by India Cause Tension Along Border with Bangladesh",
+      "title_fa": "اخراج مهاجران توسط هند باعث تنش در مرز با بنگلادش شد",
+      "lead": "هند در حال اخراج مهاجران بنگلادشی است که ادعا می‌کند به طور غیرقانونی در این کشور حضور دارند. بنگلادش نیز در مقابل این اقدام ایستادگی می‌کند که منجر به سرگردانی مردم در امتداد مرز و افزایش تنش‌ها میان دو کشور شده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 14 Jul 2026 04:00:18 +0000",
+      "time": "۰۷:۳۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T04:05:32.328Z"
     }
   ]
 }
