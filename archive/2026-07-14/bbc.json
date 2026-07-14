@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "bbc",
-  "total": 17,
+  "total": 18,
   "articles": [
     {
       "id": "bbc_a6b166d1d3",
@@ -410,6 +410,30 @@
       "pubDate": "Tue, 14 Jul 2026 02:42:51 GMT",
       "time": "۰۶:۱۲ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T04:52:19.364Z"
+    },
+    {
+      "id": "bbc_b231af268d",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+      "title_fa": "چگونه ارتباط وزیر بازرگانی آمریکا با اپستین توسط یک افشاگر بریتانیایی فاش شد",
+      "lead": "سایمون اندریز این کشف را درباره هوارد لاتنیک در پرونده‌های اپستین که به صورت عمومی منتشر شده بودند، انجام داد. این اطلاعات مربوط به ارتباطات افراد درگیر در پرونده اپستین است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 05:00:03 GMT",
+      "time": "۰۸:۳۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T05:24:21.821Z"
     }
   ]
 }
