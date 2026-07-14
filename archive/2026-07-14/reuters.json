@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -280,6 +280,28 @@
       "pubDate": "Tue, 14 Jul 2026 03:17:00 GMT",
       "time": "۰۶:۴۷ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T06:39:09.693Z"
+    },
+    {
+      "id": "reuters_14",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran says it struck US air base in Jordan, US military ends five hours of attacks - Reuters",
+      "title_fa": "ایران می‌گوید پایگاه هوایی آمریکا در اردن را هدف قرار داده است؛ ارتش آمریکا به حملات پنج ساعته پایان داد",
+      "lead": "ایران اعلام کرده که یک پایگاه هوایی آمریکا در اردن را مورد هدف قرار داده است. در همین حال، ارتش آمریکا به پنج ساعت حملات خود پایان داد.",
+      "category": "military",
+      "region": "Middle East",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV1NVbmwxanV3R25iWTRkMnNoY3hRblJYYVdDTU9FSGVrbDJkRDlNazBlbGV2MjBUYlNDX09Mcng5Vk9BdGJRSEIyNGdXdzlZOFV4aTh5N0xBSlB4WklnZ2VvUFc2WENOalA4Z1p0djZXVmFzV3RpNklJekp2U1JYbmxVREk4bTFtR19jQ2pJVzJkQU0xWmtsZzgBOHc5UkYtMGtld1RYUE91ZE9nNFQ5MTdvT2xxY2xoVjdzX2JqMG1uYy1IRTJz?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-07-14T08:08:46.347Z"
     }
   ]
 }
