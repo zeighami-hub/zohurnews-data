@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "nytimes",
-  "total": 31,
+  "total": 32,
   "articles": [
     {
       "id": "nytimes_ef31d0139d",
@@ -746,6 +746,30 @@
       "pubDate": "Mon, 13 Jul 2026 12:51:11 +0000",
       "time": "۱۶:۲۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T13:09:21.521Z"
+    },
+    {
+      "id": "nytimes_0046589ccc",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Brazilian Biopic About Jair Bolsonaro Is Threatening His Son’s Presidential Campaign",
+      "title_fa": "زندگی‌نامه سینمایی ژائیر بولسونارو در برزیل، کمپین پسرش برای ریاست جمهوری را تهدید می‌کند",
+      "lead": "یک فیلم زندگی‌نامه برزیلی درباره ژائیر بولسونارو، آرزوهای ریاست جمهوری پسرش، فلاویو بولسونارو را بر هم زده است. این اتفاق پس از افشای مذاکره او با یک بانکدار بدنام برای تامین مالی فیلم رخ داده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/americas/jair-bolsonaro-biopic-son-presidential-campaign.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Mon, 13 Jul 2026 13:25:12 +0000",
+      "time": "۱۶:۵۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T13:41:00.952Z"
     }
   ]
 }
