@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "mehrnews",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "mehrnews_963ac5d5a4",
@@ -386,6 +386,54 @@
       "pubDate": "Mon, 13 Jul 2026 17:06:05 GMT",
       "time": "۲۰:۳۶ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T06:10:06.420Z"
+    },
+    {
+      "id": "mehrnews_5777f162b9",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran UN envoy slams repeated US violation of Islamabad MoU",
+      "title_fa": "نماینده ایران در سازمان ملل نقض مکرر تفاهم‌نامه اسلام‌آباد توسط آمریکا را محکوم کرد",
+      "lead": "ایران نامه‌ای به دبیرکل سازمان ملل متحد و رئیس شورای امنیت این سازمان ارسال کرده است. در این نامه، ایران ایالات متحده را به دلیل نقض مکرر تفاهم‌نامه اسلام‌آباد محکوم کرده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246180/Iran-UN-envoy-slams-repeated-US-violation-of-Islamabad-MoU",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Tue, 14 Jul 2026 07:04:48 GMT",
+      "time": "۱۰:۳۴ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T07:24:39.494Z"
+    },
+    {
+      "id": "mehrnews_be7ef5e8fc",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Tehran hosting 33rd intl. cosmetics, cellulose products",
+      "title_fa": "تهران میزبان سی و سومین نمایشگاه بین‌المللی مواد آرایشی، بهداشتی و سلولزی",
+      "lead": "سی و سومین نمایشگاه بین‌المللی مواد شوینده، بهداشتی، سلولزی و صنایع وابسته در تهران آغاز به کار کرد. این نمایشگاه با مشارکت بیش از ۱۶۰ شرکت داخلی و خارجی در محل دائمی نمایشگاه‌های بین‌المللی تهران برگزار می‌شود.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246181/Tehran-hosting-33rd-intl-cosmetics-cellulose-products",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 07:03:01 GMT",
+      "time": "۱۰:۳۳ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T07:24:39.494Z"
     }
   ]
 }
