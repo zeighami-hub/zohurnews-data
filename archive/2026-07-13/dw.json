@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
   "agencyId": "dw",
-  "total": 30,
+  "total": 31,
   "articles": [
     {
       "id": "dw_e4c75aad23",
@@ -720,6 +720,30 @@
       "pubDate": "Mon, 13 Jul 2026 12:02:00 GMT",
       "time": "۱۵:۳۲ - ۲۲ تیر",
       "analyzed_at": "2026-07-13T12:23:13.218Z"
+    },
+    {
+      "id": "dw_9af197daa1",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Iran: Life in limbo between war and ceasefire",
+      "title_fa": "ایران: زندگی در برزخ میان جنگ و آتش‌بس",
+      "lead": "نقض مکرر آتش‌بس، سیگنال‌های سیاسی متناقض و تداوم اقدامات اضطراری، فضای خستگی، خشم و عدم اطمینان عمیق نسبت به آینده را در میان بسیاری از ایرانیان ایجاد کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/iran-life-in-limbo-between-war-and-ceasefire/a-77933549?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 12:18:00 GMT",
+      "time": "۱۵:۴۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-13T12:57:10.026Z"
     }
   ]
 }
