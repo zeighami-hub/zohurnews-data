@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "nytimes_58a0f4784b",
@@ -170,6 +170,30 @@
       "pubDate": "Tue, 14 Jul 2026 20:55:01 +0000",
       "time": "۰۰:۲۵ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T01:19:04.674Z"
+    },
+    {
+      "id": "nytimes_b7a894f81f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Expelled from China",
+      "title_fa": "اخراج از چین",
+      "lead": "یک خبرنگار نیویورک تایمز پس از گزارش در مورد مشکلات مردم عادی چین از این کشور اخراج شد. این خبر داستان او را روایت می‌کند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/china-journalist-expelled-spain-world-cup.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 21:11:40 +0000",
+      "time": "۰۰:۴۱ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T01:34:12.160Z"
     }
   ]
 }
