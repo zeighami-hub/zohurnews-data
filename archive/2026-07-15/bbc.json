@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "bbc",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "bbc_5258cc0b91",
@@ -50,6 +50,30 @@
       "pubDate": "Tue, 14 Jul 2026 23:15:53 GMT",
       "time": "۰۲:۴۵ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T01:04:53.475Z"
+    },
+    {
+      "id": "bbc_7640339d85",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Seven Britons among those killed in Spain wildfires",
+      "title_fa": "هفت بریتانیایی در میان کشته‌شدگان آتش‌سوزی‌های اسپانیا",
+      "lead": "مقامات اسپانیایی گزارش دادند که در آتش‌سوزی‌های اخیر این کشور، هفت شهروند بریتانیایی در میان کشته‌شدگان هستند. مجموعاً ۱۲ نفر از ۱۳ قربانی این حادثه، اتباع خارجی بوده‌اند.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 01:03:07 GMT",
+      "time": "۰۴:۳۳ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T01:19:04.674Z"
     }
   ]
 }
