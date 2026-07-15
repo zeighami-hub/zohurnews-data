@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "reuters",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "reuters_12",
@@ -204,6 +204,28 @@
       "pubDate": "Tue, 14 Jul 2026 20:13:55 GMT",
       "time": "۲۳:۴۳ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T02:04:12.895Z"
+    },
+    {
+      "id": "reuters_9",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "U.S. military renews strikes on Iran while tankers come under attack in Strait of Hormuz - Reuters",
+      "title_fa": "ارتش آمریکا حملات به ایران را از سر گرفت؛ حملاتی به تانکرهای نفتی در تنگه هرمز",
+      "lead": "ارتش آمریکا حملات خود را علیه ایران از سر گرفته است. این رویداد در حالی صورت می‌گیرد که تانکرهای نفتی در تنگه هرمز نیز مورد حمله قرار گرفته‌اند.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3a2MyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-15T04:36:08.674Z"
     }
   ]
 }
