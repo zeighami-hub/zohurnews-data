@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "reuters",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "reuters_12",
@@ -226,6 +226,30 @@
         "negative": 100
       },
       "analyzed_at": "2026-07-15T04:36:08.674Z"
+    },
+    {
+      "id": "reuters_c05e227f3a",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil prices rise as hostilities worsen in the Middle East - Reuters",
+      "title_fa": "قیمت نفت با تشدید خصومت‌ها در خاورمیانه افزایش یافت",
+      "lead": "با تشدید خصومت‌ها در خاورمیانه، قیمت جهانی نفت افزایش یافته است. رویترز گزارش داد که این افزایش قیمت در پی وخامت اوضاع در منطقه رخ داده است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 15 Jul 2026 01:06:00 GMT",
+      "time": "۰۴:۳۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T04:51:44.923Z"
     }
   ]
 }
