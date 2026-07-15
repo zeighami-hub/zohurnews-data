@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_7955cc1f7a",
@@ -530,6 +530,78 @@
       "pubDate": "Sun, 12 Jul 2026 18:26:13 +0000",
       "time": "۲۱:۵۶ - ۲۱ تیر",
       "analyzed_at": "2026-07-14T12:16:30.341Z"
+    },
+    {
+      "id": "nytimes_31095318bc",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Reimposes Naval Blockade, as U.S. and Iran Escalate Strikes",
+      "title_fa": "ترامپ محاصره دریایی را مجدداً اعمال کرد، همزمان با تشدید حملات آمریکا و ایران",
+      "lead": "پس از چندین روز حمله، تهران و واشنگتن عملاً به وضعیت درگیری آشکار بازگشته‌اند. این وضعیت پیش از توافق آمریکا و ایران بر سر آتش‌بس در ماه ژوئن وجود داشت.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/middleeast/trump-iran-naval-blockade-strikes.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 22:11:17 +0000",
+      "time": "۰۱:۴۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T13:11:55.321Z"
+    },
+    {
+      "id": "nytimes_62dbc294d9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Israel’s Regime-Change Plan for Iran",
+      "title_fa": "طرح اسرائیل برای تغییر رژیم در ایران",
+      "lead": "این گزارش به پشت‌پرده عجیب یک طرح شکست‌خورده برای نصب محمود احمدی‌نژاد به عنوان رهبر بعدی ایران می‌پردازد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/iran-israel-ahmadinejad-bangkok-fire.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 04:38:06 +0000",
+      "time": "۰۸:۰۸ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T13:11:55.321Z"
+    },
+    {
+      "id": "nytimes_ca5d2122a9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Hamas Forces Interfered With Aid Distribution, U.N. Says",
+      "title_fa": "سازمان ملل می‌گوید نیروهای حماس در توزیع کمک‌ها اخلال ایجاد کرده‌اند",
+      "lead": "سازمان ملل متحد اعلام کرد که نیروهای حماس در توزیع کمک‌های بشردوستانه اخلال ایجاد کرده‌اند. حمله توسط پرسنل مسلح، برنامه جهانی غذا را مجبور کرد تا عملیات خود را در بخشی از غزه به حالت تعلیق درآورد؛ اتهاماتی که حماس آنها را رد کرده است.",
+      "category": "international relations",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/middleeast/un-says-hamas-forces-interfered-with-aid-distribution-at-a-gaza-site.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Mon, 13 Jul 2026 21:47:56 +0000",
+      "time": "۰۱:۱۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T13:11:55.321Z"
     }
   ]
 }
