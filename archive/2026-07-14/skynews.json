@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "skynews",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "skynews_41c2c617d7",
@@ -290,6 +290,30 @@
       "pubDate": "Tue, 14 Jul 2026 13:34:00 +0100",
       "time": "۱۶:۰۴ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T15:09:59.053Z"
+    },
+    {
+      "id": "skynews_964f06f9ba",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Why is Trump risking a 'forever war' with Iran?",
+      "title_fa": "چرا ترامپ خطر «جنگ ابدی» با ایران را به جان می‌خرد؟",
+      "lead": "این گزارش به بررسی دلایلی می‌پردازد که چرا رئیس‌جمهور ترامپ ممکن است در حال مخاطره‌آمیز کردن «جنگ ابدی» با ایران باشد. این تحلیل، جوانب و پیامدهای احتمالی چنین رویکردی را واکاوی می‌کند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/why-is-trump-risking-a-forever-war-with-iran-13563446",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 16:22:00 +0100",
+      "time": "۱۸:۵۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T21:09:27.913Z"
     }
   ]
 }
