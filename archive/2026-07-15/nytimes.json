@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "nytimes",
-  "total": 23,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_58a0f4784b",
@@ -554,6 +554,78 @@
       "pubDate": "Wed, 15 Jul 2026 08:22:20 +0000",
       "time": "۱۱:۵۲ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T10:14:18.229Z"
+    },
+    {
+      "id": "nytimes_3955f64375",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Six Dead in an Elevator After Fire in Central Brussels",
+      "title_fa": "شش کشته در آسانسور پس از آتش‌سوزی در مرکز بروکسل",
+      "lead": "پس از وقوع آتش‌سوزی در ساختمان اوکسی در مرکز بروکسل در صبح روز سه‌شنبه، شش جسد در یک آسانسور پیدا شد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 15 Jul 2026 07:01:30 +0000",
+      "time": "۱۰:۳۱ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "nytimes_fdf5fa2aba",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Deportations by India Cause Tension Along Border with Bangladesh",
+      "title_fa": "اخراج مهاجران توسط هند باعث تنش در مرز با بنگلادش شده است",
+      "lead": "هند مهاجران بنگلادشی را که به گفته‌اش به طور غیرقانونی در این کشور هستند، اخراج می‌کند. بنگلادش در حال مقابله است و این موضوع مردم را در مرز سرگردان کرده و تنش‌ها بین دو کشور افزایش یافته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 07:12:27 +0000",
+      "time": "۱۰:۴۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "nytimes_2bb2b4e32e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Japan Builds Intelligence Agency It Hasn’t Had Since World War II",
+      "title_fa": "ژاپن آژانس اطلاعاتی را می‌سازد که از جنگ جهانی دوم نداشته است",
+      "lead": "ژاپن در مواجهه با تهدیدات روسیه و چین، در حال تشکیل یک آژانس اطلاعاتی متمرکز است. نخست وزیر سانای تاکایچی برای این منظور به دنبال کمک از متحدان غربی است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "pubDate": "Mon, 13 Jul 2026 12:57:30 +0000",
+      "time": "۱۶:۲۷ - ۲۲ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
     }
   ]
 }
