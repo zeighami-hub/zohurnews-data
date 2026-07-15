@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "france24",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "france24_115695428b",
@@ -74,6 +74,54 @@
       "pubDate": "Tue, 14 Jul 2026 23:25:31 GMT",
       "time": "۰۲:۵۵ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T01:04:53.475Z"
+    },
+    {
+      "id": "france24_980d85b44d",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Middle East live: Tehran and US exchange strikes as blockade of Iranian ports resumes",
+      "title_fa": "خاورمیانه زنده: تهران و آمریکا حملات متقابل انجام دادند؛ محاصره بنادر ایران از سر گرفته شد",
+      "lead": "ایالات متحده روز چهارشنبه حملاتی را علیه ایران انجام داد که بمباران‌هایی در بندرعباس، جزیره قشم و شهر اهواز گزارش شد. تهران نیز به سرعت تلافی کرد و اردن، کویت و بحرین همگی از حملات گزارش دادند.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 95
+      },
+      "pubDate": "Wed, 15 Jul 2026 01:08:15 GMT",
+      "time": "۰۴:۳۸ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T04:21:11.827Z"
+    },
+    {
+      "id": "france24_fb1e495fa2",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "World Cup 2026: Which team are supporters from eliminated nations rooting for?",
+      "title_fa": "جام جهانی 2026: هواداران کشورهای حذف شده از کدام تیم حمایت می‌کنند؟",
+      "lead": "در نیمه‌نهایی فرانسه و اسپانیا، بسیاری از هواداران در منطقه هواداران فیفا در دالاس لباس تیم‌های حذف شده را بر تن داشتند. خبرنگاران به سراغ آنها رفتند تا بپرسند اکنون از کدام تیم حمایت می‌کنند.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/world-cup-2026-which-team-are-supporters-from-eliminated-nations-rooting-for",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 01:06:59 GMT",
+      "time": "۰۴:۳۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T04:21:11.827Z"
     }
   ]
 }
