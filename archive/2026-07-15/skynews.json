@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 4,
   "articles": [
     {
       "id": "skynews_7812d54ff6",
@@ -26,6 +26,78 @@
       "pubDate": "Tue, 14 Jul 2026 16:11:00 +0100",
       "time": "۱۸:۴۱ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T00:34:29.454Z"
+    },
+    {
+      "id": "skynews_9b75a5037c",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "US senators demand findings of probe into deadly strike on Iran school",
+      "title_fa": "سناتورهای آمریکایی خواستار افشای نتایج تحقیقات حمله مرگبار به مدرسه‌ای در ایران شدند",
+      "lead": "سناتورهای آمریکایی از ارتش ایالات متحده خواسته‌اند تا فوراً یافته‌های تحقیقات خود را در مورد حمله موشکی مرگبار به یک مدرسه ایرانی فاش کند. این درخواست پس از وقوع حادثه‌ای که منجر به تلفات در این مدرسه شد، مطرح شده است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/senators-demand-pentagon-reveals-outcome-of-minab-school-strike-probe-13563191",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "pubDate": "Mon, 13 Jul 2026 20:59:00 +0100",
+      "time": "۲۳:۲۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-15T00:51:37.870Z"
+    },
+    {
+      "id": "skynews_31447a9b5d",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Fifth Briton identified as victim of wildfire in Spain",
+      "title_fa": "پنجمین بریتانیایی به عنوان قربانی آتش‌سوزی گسترده در اسپانیا شناسایی شد",
+      "lead": "یک شهروند بریتانیایی دیگر به عنوان پنجمین قربانی آتش‌سوزی گسترده در جنوب اسپانیا شناسایی شده است. این آتش‌سوزی تاکنون جان بیش از ده‌ها نفر را گرفته است و تلاش‌ها برای مهار آن ادامه دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/fifth-british-national-identified-as-victim-of-wildfire-in-spain-13563196",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 21:17:00 +0100",
+      "time": "۲۳:۴۷ - ۲۲ تیر",
+      "analyzed_at": "2026-07-15T00:51:37.870Z"
+    },
+    {
+      "id": "skynews_851416f53b",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Wildfire of 'exceptional scale' breaks out in forest near Paris",
+      "title_fa": "آتش‌سوزی «در مقیاس استثنایی» در جنگلی نزدیک پاریس شعله‌ور شد",
+      "lead": "یک آتش‌سوزی گسترده و «در مقیاس استثنایی» در جنگلی نزدیک پاریس به وقوع پیوسته است. این حادثه در حالی رخ می‌دهد که فرانسه با سومین موج گرمای تابستان خود دست و پنجه نرم می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/wildfire-of-exceptional-scale-breaks-out-in-forest-near-paris-13562914",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 07:25:00 +0100",
+      "time": "۰۹:۵۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-15T00:51:37.870Z"
     }
   ]
 }
