@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "guardian",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "guardian_2aa172b1b3",
@@ -122,6 +122,54 @@
       "pubDate": "Sun, 12 Jul 2026 08:00:12 GMT",
       "time": "۱۱:۳۰ - ۲۱ تیر",
       "analyzed_at": "2026-07-15T01:04:53.475Z"
+    },
+    {
+      "id": "guardian_db72ce696e",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "New US Ebola patient arrives in Germany for treatment",
+      "title_fa": "بیمار جدید ابولا از آمریکا برای درمان به آلمان رسید",
+      "lead": "یک شهروند آمریکایی که در جمهوری دموکراتیک کنگو به ابولا مبتلا شده بود، برای درمان به آلمان منتقل شد. دولت ترامپ آمریکایی‌ها را از سفر به آمریکا با پروازهای تجاری منع کرده است.",
+      "category": "health",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 12:27:06 GMT",
+      "time": "۱۵:۵۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T01:34:12.160Z"
+    },
+    {
+      "id": "guardian_f0169ac5eb",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Weather tracker: Unusually warm rivers affect French nuclear power plants",
+      "title_fa": "ردیاب آب و هوا: رودخانه‌های غیرمعمولا گرم بر نیروگاه‌های هسته‌ای فرانسه تأثیر می‌گذارند",
+      "lead": "دمای بالای غیرعادی و بارندگی کمتر از حد نرمال در بخش‌های وسیعی از غرب و مرکز اروپا، بر آبراه‌های مورد استفاده برای خنک کردن راکتورهای هسته‌ای فرانسه فشار وارد کرده است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/jul/13/weather-tracker-unusually-warm-rivers-affect-french-nuclear-power-plants",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 13 Jul 2026 10:53:56 GMT",
+      "time": "۱۴:۲۳ - ۲۲ تیر",
+      "analyzed_at": "2026-07-15T01:34:12.160Z"
     }
   ]
 }
