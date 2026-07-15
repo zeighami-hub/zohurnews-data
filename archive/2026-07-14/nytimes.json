@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_7955cc1f7a",
@@ -602,6 +602,30 @@
       "pubDate": "Mon, 13 Jul 2026 21:47:56 +0000",
       "time": "۰۱:۱۷ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T13:11:55.321Z"
+    },
+    {
+      "id": "nytimes_0659cce7d6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. and Iran Reignite War Over Strait of Hormuz",
+      "title_fa": "آمریکا و ایران جنگ بر سر تنگه هرمز را از سر گرفتند",
+      "lead": "ایالات متحده و ایران بر سر تنگه هرمز بار دیگر وارد درگیری آشکار شدند. آمریکا قصد دارد سه‌شنبه محاصره بنادر ایران را از سر بگیرد، در حالی که ایران اعلام کرده دو تانکر را هدف قرار داده و به مواضع نظامی آمریکا شلیک کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 13:11:14 +0000",
+      "time": "۱۶:۴۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T13:59:40.299Z"
     }
   ]
 }
