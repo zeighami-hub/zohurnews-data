@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "france24",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "france24_9cb48e37f3",
@@ -720,6 +720,54 @@
       "pubDate": "Tue, 14 Jul 2026 13:01:20 GMT",
       "time": "۱۶:۳۱ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T13:59:40.299Z"
+    },
+    {
+      "id": "france24_8e9504e72a",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Macron reviews troops for the last time at France's annual military parade",
+      "title_fa": "ماکرون برای آخرین بار در رژه نظامی سالانه فرانسه از نیروها سان دید",
+      "lead": "رئیس‌جمهور فرانسه، امانوئل ماکرون، برای آخرین بار به عنوان رئیس‌جمهور، رژه نظامی روز باستیل را هدایت کرد. این مراسم با حضور بیش از ۶۰۰۰ سرباز، از جمله ۵۰۰ نفر از ائتلاف داوطلبان، برگزار شد و بر تسلیح مجدد فرانسه و خودمختاری استراتژیک اروپا تأکید داشت.",
+      "category": "military",
+      "region": "france",
+      "sourceUrl": "https://www.france24.com/en/macron-reviews-troops-for-the-last-time-at-france-s-annual-military-parade",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 13:58:50 GMT",
+      "time": "۱۷:۲۸ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T14:59:08.663Z"
+    },
+    {
+      "id": "france24_ebae3987fd",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "French city of Nice marks 10th anniversary of terrorist attack",
+      "title_fa": "شهر نیس فرانسه دهمین سالگرد حمله تروریستی را گرامی می‌دارد",
+      "lead": "شهر نیس فرانسه دهمین سالگرد حمله تروریستی سال ۲۰۱۶ روز باستیل را گرامی می‌دارد. در آن حمله، محمد لحویج بوهل کامیون خود را به سمت جمعیتی که برای تماشای آتش‌بازی گرد هم آمده بودند راند و ۸۶ نفر را به قتل رساند.",
+      "category": "terrorism",
+      "region": "france",
+      "sourceUrl": "https://www.france24.com/en/french-city-of-nice-marks-10th-anniversary-of-terrorist-attack",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 13:56:14 GMT",
+      "time": "۱۷:۲۶ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T14:59:08.663Z"
     }
   ]
 }
