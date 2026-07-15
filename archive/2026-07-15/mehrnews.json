@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "mehrnews",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "mehrnews_fbba9c57b6",
@@ -290,6 +290,54 @@
       "pubDate": "Wed, 15 Jul 2026 04:44:27 GMT",
       "time": "۰۸:۱۴ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T04:51:44.923Z"
+    },
+    {
+      "id": "mehrnews_af061c2f32",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Satellite images show Iran strike damage at US base in Qatar",
+      "title_fa": "تصاویر ماهواره‌ای آسیب‌های ناشی از حمله ایران به پایگاه آمریکا در قطر را نشان می‌دهد",
+      "lead": "تصاویر ماهواره‌ای آسیب به مرکز تعمیر جنگنده‌های آمریکایی در پایگاه هوایی العدید قطر را پس از حملات موشکی ایران تایید می‌کند. این گزارش روز چهارشنبه توسط یک شرکت تجاری ماهواره‌ای منتشر شد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246210/Satellite-images-show-Iran-strike-damage-at-US-base-in-Qatar",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 05:12:34 GMT",
+      "time": "۰۸:۴۲ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T05:23:07.596Z"
+    },
+    {
+      "id": "mehrnews_4f5bcdd9f4",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran Army launches fresh attack on US base in Jordan",
+      "title_fa": "ارتش ایران حمله جدیدی به پایگاه آمریکا در اردن انجام داد",
+      "lead": "ارتش ایران روز چهارشنبه هفتمین موج حملات پهپادی خود را به پایگاه‌های آمریکا در منطقه انجام داد. این حملات تأسیسات F-18 و زیرساخت‌های پشتیبانی را در الازرق اردن هدف قرار دادند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246209/Iran-Army-launches-fresh-attack-on-US-base-in-Jordan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 15 Jul 2026 04:56:42 GMT",
+      "time": "۰۸:۲۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T05:06:39.026Z"
     }
   ]
 }
