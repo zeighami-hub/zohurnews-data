@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 21,
+  "total": 24,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -486,6 +486,74 @@
         "negative": 10
       },
       "analyzed_at": "2026-07-14T11:27:28.212Z"
+    },
+    {
+      "id": "reuters_3dca824852",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk - Reuters",
+      "title_fa": "کاهش تردد در هرمز به پایین‌ترین سطح دو ماه اخیر در پی افزایش خطرات ناشی از حملات آمریکا و ایران",
+      "lead": "در پی تشدید حملات بین آمریکا و ایران، تردد در تنگه هرمز به پایین‌ترین سطح خود در دو ماه اخیر کاهش یافته است. این وضعیت به دلیل افزایش خطر امنیتی برای کشتی‌ها در این آبراه مهم بین‌المللی رخ داده است.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVJyVWNDbGpUSGtYdm1NUzhqZmpSVFp2SnEtS0N4VzBJZnJTeDZ5X21NN0I4SGJ6V2lYZDBLM3FvSkNTbFRNTkkxWlhtNjRqakpmRGotN3lub0RMZkxmOUlWSUU4WEdBVUZrU09lNzl2d0xMT09aVEw3aU5KNkJaZmpEYlllTTZfMl9ULXg4cDBHZkd4MVJ4OEo0SzNwYkxRUjIta0tONkVJb2puQnhNN0g1WTQwcjZaX0ZYZG85dnZWT0pyUHZFbUY2TQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 04:52:00 GMT",
+      "time": "۰۸:۲۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Wall St futures mixed ahead of CPI, bank earnings; US-Iran tensions in focus - Reuters",
+      "title_fa": "معاملات آتی وال استریت پیش از انتشار داده‌های CPI و گزارش‌های سود بانک‌ها با نوسان همراه شد؛ تنش‌های آمریکا و ایران در کانون توجه",
+      "lead": "معاملات آتی وال استریت در انتظار انتشار داده‌های شاخص قیمت مصرف‌کننده (CPI) و گزارش‌های سود بانک‌ها، با نوساناتی روبرو بود. همزمان، تنش‌های بین ایالات متحده و ایران نیز در کانون توجه بازارها قرار گرفته است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampLUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Less than a month's supply: Europe's jet fuel stocks are wafer thin as Iran tensions flare - Reuters",
+      "title_fa": "ذخایر سوخت جت اروپا به کمتر از یک ماه کاهش یافته است؛ تنش‌های ایران شعله‌ور می‌شود",
+      "lead": "ذخایر سوخت جت اروپا به میزان بسیار کمی رسیده و تنها برای کمتر از یک ماه کفایت می‌کند. این وضعیت همزمان با شعله‌ور شدن دوباره تنش‌ها با ایران رخ داده که می‌تواند بر عرضه انرژی تأثیر بگذارد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR1lCYWdoRS1ZVjB4RTR3bHhleGU2aFlLOTdxckNDWXFtMGxQZVdTUklud0N1SXRXaG50LUk3dTBLZl_tV0FVVGg1cHNPZ3ZCOEFQY0FBUkhINUQzMEFDVUNqTzg2a3FsUkJiclZCZjJSbF_vd3AycW5ta1lNZHBObjF0Y1ZMV3UyUzVfR05iMmhLLTl2MmJ1YUhzX2pKZEZtMk14OEtHNVRPVFdYN1BkMDlscUlXRTAycjB1cGJ1Q1NYcTNyYTFr?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
     }
   ]
 }
