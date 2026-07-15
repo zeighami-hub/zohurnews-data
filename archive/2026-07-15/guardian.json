@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "guardian",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "guardian_2aa172b1b3",
@@ -194,6 +194,54 @@
       "pubDate": "Wed, 15 Jul 2026 02:03:57 GMT",
       "time": "۰۵:۳۳ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T02:19:27.100Z"
+    },
+    {
+      "id": "guardian_f0b02c2fe1",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Liberals re-examine gender quotas in slew of proposals to make party ‘fit-for-purpose political machine’",
+      "title_fa": "لیبرال‌ها سهمیه‌های جنسیتی را در راستای پیشنهاداتی برای تبدیل حزب به 'ماشین سیاسی کارآمد' بازنگری می‌کنند",
+      "lead": "حزب لیبرال در حال بررسی مجدد سهمیه‌های جنسیتی به عنوان بخشی از پیشنهاداتی است که هدف آنها تبدیل حزب به یک 'ماشین سیاسی کارآمد' است. آنگوس تیلور مخالفت خود را با این طرح اعلام کرده است، اما نویسندگان مقاله هشدار می‌دهند که برای دستیابی به نتایج متفاوت، باید آماده انجام کارهای متفاوت بود.",
+      "category": "politics",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/15/liberal-party-australia-gender-quotas",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Wed, 15 Jul 2026 03:18:24 GMT",
+      "time": "۰۶:۴۸ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T03:35:34.436Z"
+    },
+    {
+      "id": "guardian_b8fffd77e4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Coalition and One Nation’s plan to ditch net zero would not lower power prices, CSIRO report finds",
+      "title_fa": "گزارش CSIRO: طرح ائتلاف و حزب 'وان نیشن' برای کنار گذاشتن هدف 'صفر خالص' قیمت برق را کاهش نمی‌دهد",
+      "lead": "گزارش CSIRO ادعاهای احزاب ائتلاف و 'وان نیشن' مبنی بر کاهش قیمت برق با کنار گذاشتن هدف انتشار صفر خالص را رد می‌کند. این گزارش همچنین نشان می‌دهد که انرژی هسته‌ای گران‌ترین روش تولید برق خواهد بود. این یافته‌ها بحث‌های مربوط به سیاست‌های انرژی در استرالیا را تشدید کرده است.",
+      "category": "environment",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/15/coalition-and-one-nations-plan-to-ditch-net-zero-would-not-lower-power-prices-csiro-report-finds",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Tue, 14 Jul 2026 14:01:27 GMT",
+      "time": "۱۷:۳۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T03:35:34.436Z"
     }
   ]
 }
