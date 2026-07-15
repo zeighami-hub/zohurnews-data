@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "dw",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "dw_4",
@@ -192,6 +192,30 @@
       "pubDate": "Tue, 14 Jul 2026 14:47:00 GMT",
       "time": "۱۸:۱۷ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T03:49:45.831Z"
+    },
+    {
+      "id": "dw_a02dd57ad5",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Iranian newspaper threatens German Chancellor Merz",
+      "title_fa": "روزنامه ایرانی صدر اعظم آلمان مرز را تهدید می‌کند",
+      "lead": "یک روزنامه بزرگ ایرانی تهدیدی مبنی بر \"تلافی\" علیه فریدریش مرز، صدر اعظم آلمان منتشر کرده است. این مسئله موجب ابراز نگرانی سیاستمداران و واکنش محتاطانه دولت آلمان شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/iranian-newspaper-threatens-german-chancellor-merz/a-77958683?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 18:42:00 GMT",
+      "time": "۲۲:۱۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T05:23:07.596Z"
     }
   ]
 }
