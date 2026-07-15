@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "skynews_7812d54ff6",
@@ -122,6 +122,30 @@
       "pubDate": "Tue, 14 Jul 2026 13:34:00 +0100",
       "time": "۱۶:۰۴ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T03:49:45.831Z"
+    },
+    {
+      "id": "skynews_5240163462",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "British man jailed with wife in Iran given additional sentence",
+      "title_fa": "مرد بریتانیایی زندانی در ایران به همراه همسرش، حکم زندان اضافی دریافت کرد",
+      "lead": "به گفته خانواده این زوج، یک مرد بریتانیایی که به همراه همسرش در ایران زندانی است، به دو سال حبس اضافی محکوم شده است. این پرونده ابعاد بین‌المللی داشته و مورد توجه قرار گرفته است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.sky.com/story/british-man-jailed-with-wife-in-iran-given-additional-sentence-family-says-13563522",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 15 Jul 2026 06:08:00 +0100",
+      "time": "۰۸:۳۸ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T06:09:51.471Z"
     }
   ]
 }
