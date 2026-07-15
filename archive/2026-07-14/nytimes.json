@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "nytimes",
-  "total": 28,
+  "total": 33,
   "articles": [
     {
       "id": "nytimes_7955cc1f7a",
@@ -674,6 +674,126 @@
       "pubDate": "Tue, 14 Jul 2026 15:06:02 +0000",
       "time": "۱۸:۳۶ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T17:15:57.528Z"
+    },
+    {
+      "id": "nytimes_6f43b4b809",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "India Condemns Deadly Iranian Strike on Commercial Ship",
+      "title_fa": "هند حمله مرگبار ایران به کشتی تجاری را محکوم کرد",
+      "lead": "هند پس از کشته شدن یک دریانورد هندی و زخمی شدن ده‌ها نفر دیگر در حمله ایران به یک تانکر در تنگه هرمز، اعتراض دیپلماتیک صادر کرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/middleeast/iran-killed-indian-sailors.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 15:34:42 +0000",
+      "time": "۱۹:۰۴ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T20:50:13.554Z"
+    },
+    {
+      "id": "nytimes_4939155e9b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
+      "title_fa": "ترامپ ۲ میلیون دلار از یک شرکت کره‌ای جنوبی تحت تحقیقات تجاری دریافت کرد",
+      "lead": "دونالد ترامپ ۲ میلیون دلار از یک شرکت کره‌ای جنوبی که در حال حاضر با تحقیقات تجاری روبرو است، دریافت کرده است. این پرداخت، دشواری‌هایی را که آقای ترامپ با حفظ روابط مالی شخصی با کسب‌وکارهای خارجی در دوران تصدی خود ایجاد کرده، نشان می‌دهد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 14 Jul 2026 16:35:57 +0000",
+      "time": "۲۰:۰۵ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T20:50:13.554Z"
+    },
+    {
+      "id": "nytimes_ae87bdfffc",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Antonio Rattín, Whose World Cup Expulsion Led to Penalty-Card System, Dies at 89",
+      "title_fa": "آنتونیو راتین، کسی که اخراجش در جام جهانی منجر به سیستم کارت‌های جریمه شد، در ۸۹ سالگی درگذشت",
+      "lead": "آنتونیو راتین، ستاره فوتبال آرژانتین، در سن ۸۹ سالگی درگذشت. اخراج او در مسابقه سال ۱۹۶۶ جام جهانی مقابل انگلستان، به معرفی کارت‌های زرد و قرمز در فوتبال منجر شد.",
+      "category": "sport",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/americas/antonio-rattin-dead.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 16:04:19 +0000",
+      "time": "۱۹:۳۴ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T20:50:13.554Z"
+    },
+    {
+      "id": "nytimes_69c147a47e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Jeffries Says He Will Oppose Proposal to Cut Off U.S. Aid to Israel",
+      "title_fa": "جفریز می‌گوید با پیشنهاد قطع کمک‌های آمریکا به اسرائیل مخالفت خواهد کرد",
+      "lead": "رهبر دموکرات‌های مجلس نمایندگان آمریکا اعلام کرد که با پیشنهاد قطع کمک‌های این کشور به اسرائیل مخالفت خواهد کرد. او همچنین گفت که در تلاش برای متقاعد کردن سایر دموکرات‌ها برای رای مخالف به این طرح نخواهد بود، طرحی که حزب را بر سر حمایت از اسرائیل دچار اختلاف عمیق کرده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/middleeast/jeffries-israel-aid.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Tue, 14 Jul 2026 15:53:18 +0000",
+      "time": "۱۹:۲۳ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T20:50:13.554Z"
+    },
+    {
+      "id": "nytimes_50db6f0c98",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Inky Mark, Former Canada MP, Arrested After Police Find 439 Guns and Cannon in His Home",
+      "title_fa": "اینکی مارک، نماینده سابق پارلمان کانادا، پس از کشف ۴۳۹ قبضه اسلحه و یک توپ جنگی در خانه‌اش دستگیر شد",
+      "lead": "اینکی مارک، نماینده سابق محافظه‌کار مجلس کانادا در منیتوبا، پس از کشف ۴۳۹ قبضه اسلحه و یک توپ جنگی در خانه‌اش دستگیر شد. او با اتهاماتی از جمله قاچاق سلاح گرم روبرو شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/canada/inky-mark-arrested-guns-manitoba.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 15:25:49 +0000",
+      "time": "۱۸:۵۵ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T20:50:13.554Z"
     }
   ]
 }
