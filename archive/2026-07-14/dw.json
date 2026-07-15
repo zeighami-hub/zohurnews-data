@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "dw",
-  "total": 38,
+  "total": 39,
   "articles": [
     {
       "id": "dw_c688dcf935",
@@ -914,6 +914,28 @@
       "pubDate": "Tue, 14 Jul 2026 18:42:00 GMT",
       "time": "۲۲:۱۲ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T21:09:27.913Z"
+    },
+    {
+      "id": "dw_3",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Iran war: US launches new round of strikes",
+      "title_fa": "جنگ ایران: آمریکا دور جدیدی از حملات را آغاز کرد",
+      "lead": "ارتش آمریکا اعلام کرد که این حملات با هدف «ادامه تضعیف قابلیت‌های ایران» انجام شده است. در همین حال، ایران اظهار داشته که «محاصره مجدد» آمریکا توافق آتش‌بس را «برهم می‌زند».",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/iran-war-us-lAunches-new-round-of-strikes/live-77942892?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-14T21:22:22.255Z"
     }
   ]
 }
