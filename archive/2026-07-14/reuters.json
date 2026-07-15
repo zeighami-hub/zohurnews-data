@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 38,
+  "total": 39,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -874,6 +874,28 @@
         "negative": 30
       },
       "analyzed_at": "2026-07-14T22:22:43.077Z"
+    },
+    {
+      "id": "reuters_4",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Why has the Iran-US ceasefire memorandum frayed? - Reuters",
+      "title_fa": "رویترز: چرا تفاهم‌نامه آتش‌بس ایران و آمریکا تضعیف شده است؟",
+      "lead": "رویترز در گزارشی به بررسی این موضوع پرداخته که چرا تفاهم‌نامه آتش‌بس بین ایران و آمریکا تضعیف شده است. این گزارش به دلایل و عوامل مؤثر بر این وضعیت می‌پردازد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXN1cXVSb3ZQMXNpLTJLQ3F0OGJ4bXUxWmRHZ080XzVUNE9nNzdyeFp3VTIySjRxYzZjTGJ5LWw2SVpJU2U0OWp3ZjBOdlhrVEpaQ18yWUZoM3gtY3VOdFFSTHVPemwxcmJicFJWMlAwNWFnNlJKMlVIU2lmTUNvMi12cjRMZTZRSkZERFZn?oc=5",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-07-14T22:51:11.350Z"
     }
   ]
 }
