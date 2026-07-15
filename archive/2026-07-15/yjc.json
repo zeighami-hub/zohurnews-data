@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "yjc",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "yjc_2",
@@ -162,6 +162,50 @@
       "pubDate": "15 Jul 2026 05:30:03 +0330",
       "time": "۰۵:۳۰ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T02:19:27.100Z"
+    },
+    {
+      "id": "yjc_9",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "حملۀ آمریکا به دهلران",
+      "title_fa": "حمله آمریکا به دهلران",
+      "lead": "آمریکا بامداد امشب در ادامه حملات خود، به دهلران در استان ایلام حمله کرد. این خبر توسط منبع مذکور منتشر شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9108277/حملۀ-آمریکا-به-دهلران",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-15T03:04:24.950Z"
+    },
+    {
+      "id": "yjc_6",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "حملۀ آمریکا به دهلران",
+      "title_fa": "حمله آمریکا به دهلران",
+      "lead": "آمریکا در ادامه حملات خود، بامداد امشب به دهلران در استان ایلام حمله کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9108277/%D8%AD%D9%85%D9%84%DB%8C%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%AF%D9%87%D9%84%D8%B1%D8%A7%D9%86",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-15T02:48:59.379Z"
     }
   ]
 }
