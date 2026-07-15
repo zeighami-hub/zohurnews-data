@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_58a0f4784b",
@@ -146,6 +146,30 @@
       "pubDate": "Mon, 13 Jul 2026 09:02:08 +0000",
       "time": "۱۲:۳۲ - ۲۲ تیر",
       "analyzed_at": "2026-07-15T00:51:37.870Z"
+    },
+    {
+      "id": "nytimes_6ff5d76e5c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Lindsey Graham’s Death Leaves Fate of Russia Sanctions Bill Uncertain",
+      "title_fa": "درگذشت لیندسی گراهام سرنوشت لایحه تحریم‌های روسیه را نامعلوم می‌کند",
+      "lead": "درگذشت سناتور لیندسی گراهام، حامی اصلی لایحه تحریم‌های روسیه، سرنوشت این طرح را در کنگره نامعلوم کرده است. با این حال، حامیان از هر دو حزب امیدوارند که این لایحه به افتخار او با شتاب بیشتری پیش برود.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Tue, 14 Jul 2026 20:55:01 +0000",
+      "time": "۰۰:۲۵ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T01:19:04.674Z"
     }
   ]
 }
