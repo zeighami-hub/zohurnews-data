@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "skynews",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "skynews_7812d54ff6",
@@ -146,6 +146,54 @@
       "pubDate": "Wed, 15 Jul 2026 06:08:00 +0100",
       "time": "۰۸:۳۸ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T06:09:51.471Z"
+    },
+    {
+      "id": "skynews_964f06f9ba",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Why is Trump risking a 'forever war' with Iran?",
+      "title_fa": "چرا ترامپ ریسک «جنگ ابدی» با ایران را می‌کند؟",
+      "lead": "این مقاله به پرسش درباره دلایل ریسک کردن دونالد ترامپ برای آغاز یک «جنگ ابدی» با ایران می‌پردازد. جزئیات بیشتر در این خصوص در برنامه پادکست مربوطه قابل شنیدن است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/why-is-trump-risking-a-forever-war-with-iran-13563446",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 14 Jul 2026 16:22:00 +0100",
+      "time": "۱۸:۵۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "skynews_10997f4930",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Unseen photos released 25 years after British backpacker's murder",
+      "title_fa": "انتشار عکس‌های دیده نشده ۲۵ سال پس از قتل جهانگرد بریتانیایی",
+      "lead": "پلیس استرالیا در بیست و پنجمین سالگرد قتل پیتر فالکونیو، جهانگرد بریتانیایی، عکس‌های دیده نشده‌ای را از تحقیقات خود منتشر کرده است. این تصاویر جدید مربوط به پرونده‌ای است که ۲۵ سال پیش اتفاق افتاده بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/australian-police-release-unseen-photos-25-years-after-british-backpacker-peter-falconios-murder-13563240",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Tue, 14 Jul 2026 07:35:00 +0100",
+      "time": "۱۰:۰۵ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
     }
   ]
 }
