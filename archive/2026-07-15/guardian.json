@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "guardian",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "guardian_2aa172b1b3",
@@ -602,6 +602,54 @@
       "pubDate": "Sat, 11 Jul 2026 11:59:11 GMT",
       "time": "۱۵:۲۹ - ۲۰ تیر",
       "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "guardian_9117ed3b42",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "China’s economy grows at 4.3%, one of its lowest rates on record",
+      "title_fa": "اقتصاد چین با ۴.۳ درصد رشد، یکی از پایین‌ترین نرخ‌های خود را در تاریخ ثبت کرد",
+      "lead": "ارقام بدتر از انتظار برای سه ماه منتهی به ژوئن، نگرانی‌ها در مورد عدم توازن اقتصادی چین را تشدید کرده است. اقتصاد این کشور تنها ۴.۳ درصد رشد داشته که یکی از پایین‌ترین نرخ‌های ثبت شده است.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Wed, 15 Jul 2026 10:48:27 GMT",
+      "time": "۱۴:۱۸ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T11:45:01.238Z"
+    },
+    {
+      "id": "guardian_9e61ed18a9",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Patient records stolen in cyber-attack on Australian healthcare provider",
+      "title_fa": "اطلاعات بیماران در حمله سایبری به ارائه‌دهنده خدمات درمانی استرالیایی به سرقت رفت",
+      "lead": "شرکت Partnered Health اعلام کرده که در پی یک حمله سایبری به ۲۱ کلینیک، اطلاعات شخصی و جزئیات پزشکی بیماران به سرقت رفته است. هزاران پرونده پزشکی و اطلاعات بیماران در این حمله فاش شده است.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/15/patient-records-stolen-in-cyber-attack-on-australian-healthcare-provider",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Wed, 15 Jul 2026 10:41:34 GMT",
+      "time": "۱۴:۱۱ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T11:45:01.238Z"
     }
   ]
 }
