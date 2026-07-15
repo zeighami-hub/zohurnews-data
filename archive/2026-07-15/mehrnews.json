@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "mehrnews",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "mehrnews_fbba9c57b6",
@@ -146,6 +146,54 @@
       "pubDate": "Tue, 14 Jul 2026 12:46:46 GMT",
       "time": "۱۶:۱۶ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T01:34:12.160Z"
+    },
+    {
+      "id": "mehrnews_c20931533d",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Senior gen. hails martyred Leader's vision on Hormuz Strait",
+      "title_fa": "تقدیر یک ژنرال ارشد از چشم‌انداز رهبر شهید درباره تنگه هرمز",
+      "lead": "یک ژنرال ارشد از رهبر شهید انقلاب اسلامی، آیت‌الله سید علی خامنه‌ای، به دلیل پایه‌گذاری استراتژی کنونی ایران در تنگه هرمز قدردانی کرد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246195/Senior-gen-hails-martyred-Leader-s-vision-on-Hormuz-Strait",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 13:19:31 GMT",
+      "time": "۱۶:۴۹ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T02:19:27.100Z"
+    },
+    {
+      "id": "mehrnews_df1cb3a53a",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US to reap nothing but failure in war on Iran: envoy",
+      "title_fa": "سفیر ایران: آمریکا در جنگ علیه ایران جز شکست چیزی نخواهد برد",
+      "lead": "سفیر ایران در روسیه اظهار داشت که ایالات متحده در تنش‌های فزاینده خود علیه ایران به چیزی جز شکست دست نخواهد یافت.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://en.mehrnews.com/news/246196/Closure-of-Hormuz-15-year-old-plan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 14 Jul 2026 13:27:23 GMT",
+      "time": "۱۶:۵۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T02:19:27.100Z"
     }
   ]
 }
