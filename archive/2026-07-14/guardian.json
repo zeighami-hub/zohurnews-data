@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "guardian",
-  "total": 19,
+  "total": 25,
   "articles": [
     {
       "id": "guardian_f0169ac5eb",
@@ -458,6 +458,148 @@
       "pubDate": "Tue, 14 Jul 2026 10:32:23 GMT",
       "time": "۱۴:۰۲ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T11:27:28.212Z"
+    },
+    {
+      "id": "guardian_b618695378",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Mexico to file criminal complaints over migrants killed by ICE in US",
+      "title_fa": "مکزیک به دلیل کشته شدن مهاجران توسط ICE در آمریکا، شکایات کیفری ثبت می‌کند",
+      "lead": "کلودیا شاینبام اعلام کرد که مکزیک شکایات کیفری را در ایالات متحده به دلیل مرگ بیش از دوازده شهروند مکزیکی توسط ماموران اداره مهاجرت و گمرک (ICE) ثبت خواهد کرد. او بیان کرد که مکزیکی‌ها از کشته شدن لورنزو سالگادو آراوجو در هفته گذشته توسط ماموران در هیوستون خشمگین هستند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 22:06:01 GMT",
+      "time": "۰۱:۳۶ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
+    },
+    {
+      "id": "guardian_4634644dd6",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "At least 27 killed in fire at Bangkok pub with another 22 critically injured",
+      "title_fa": "در آتش‌سوزی یک کلوپ شبانه در بانکوک حداقل ۲۷ نفر کشته و ۲۲ نفر به شدت مجروح شدند",
+      "lead": "آتش‌سوزی مهیبی در یک کلوپ شبانه پرطرفدار در بانکوک، پایتخت تایلند، ۲۷ کشته و ۲۲ مجروح با وضعیت وخیم بر جای گذاشت. این حادثه یکی از مرگبارترین رویدادها از این نوع در سال‌های اخیر در این مقصد گردشگری محبوب محسوب می‌شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 13 Jul 2026 12:05:27 GMT",
+      "time": "۱۵:۳۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
+    },
+    {
+      "id": "guardian_13",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "title_fa": "اولین بیماران در آزمایش رکوردشکن درمان ابولا در جمهوری دموکراتیک کنگو ثبت‌نام کردند",
+      "lead": "اولین بیماران در آزمایش بالینی بی‌سابقه‌ای برای درمان ابولا در جمهوری دموکراتیک کنگو ثبت‌نام شده‌اند. در این برنامه که تنها شش هفته پس از اعلام شیوع بیماری آغاز شد، دو دارو در منطقه ایتوری آزمایش می‌شوند، با این امید که نرخ مرگ و میر را کاهش دهند.",
+      "category": "health",
+      "region": "africa",
+      "sourceUrl": "https://www.guardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
+    },
+    {
+      "id": "guardian_bb885ead91",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
+      "title_fa": "انقلابی در ویرانه‌ها: خشم در میان آوارهای یک پروژه مسکونی در ونزوئلای زلزله‌زده",
+      "lead": "در میان آوارهای پروژه مسکونی دولتی OPPE 25 که در اثر دو زلزله قدرتمند به ویرانی کشیده شده، نارضایتی‌ها از دولت مورد حمایت ترامپ افزایش یافته است. وارثان چاوز در واکنش به این فاجعه که برای آن آمادگی کافی نداشتند، با مشکل مواجه هستند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 12 Jul 2026 05:00:09 GMT",
+      "time": "۰۸:۳۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
+    },
+    {
+      "id": "guardian_f359810757",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
+      "title_fa": "تیراندازی در تورنتو: دو کشته و چهار زخمی در جشنواره خیابانی سالسا در خیابان سنت کلر",
+      "lead": "پلیس اعلام کرد که دو نفر در تیراندازی شنبه شب در نزدیکی جشنواره خیابانی تورنتو، آتش گشودند. در این حادثه دو مرد کشته و چهار نفر دیگر زخمی شدند. شهردار این رخداد را یک «عمل خشونت‌آمیز غیرمسئولانه» خواند.",
+      "category": "crime",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 04:00:31 GMT",
+      "time": "۰۷:۳۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
+    },
+    {
+      "id": "guardian_cbcb9ce425",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
+      "title_fa": "جنجال در نیجریه بر سر آژانس فدرال جعلی که در مقر دولت راه‌اندازی شده بود",
+      "lead": "یک نهاد فدرال ساختگی که ۱.۳ میلیارد نایرا (۷۰۰ هزار پوند) در بودجه سال ۲۰۲۶ نیجریه به آن اختصاص یافته بود، یک طوفان سیاسی ایجاد کرده است. رئیس جمهور دستور تحقیق را صادر کرده و این امر باعث بررسی مجدد اتهامات فساد شده است.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 09 Jul 2026 16:20:41 GMT",
+      "time": "۱۹:۵۰ - ۱۸ تیر",
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
     }
   ]
 }
