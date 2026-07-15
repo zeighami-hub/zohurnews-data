@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "yjc",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "yjc_2",
@@ -68,6 +68,54 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-15T00:04:02.485Z"
+    },
+    {
+      "id": "yjc_4cbfd143a1",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "حملۀ آمریکا به دهلران",
+      "title_fa": "حملۀ آمریکا به دهلران",
+      "lead": "بامداد امروز، آمریکا در ادامه حملات خود به ایران، منطقه دهلران را مورد حمله قرار داد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9108278/حملۀ-آمریکا-به-دهلران",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "15 Jul 2026 02:51:30 +0330",
+      "time": "۰۲:۵۱ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T00:34:29.454Z"
+    },
+    {
+      "id": "yjc_d59e1b738f",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "برگزاری مراسم «به یاد بابا» در شیرخوارگاه آمنه /مهاجرانی:رهبر شهید برای عزت ایران به شهادت رسید",
+      "title_fa": "برگزاری مراسم «به یاد بابا» در شیرخوارگاه آمنه؛ مهاجرانی: رهبر شهید برای عزت ایران به شهادت رسید",
+      "lead": "فرزندان سازمان بهزیستی مراسم یادبودی با عنوان «به یاد بابا» در سوگ رهبر شهید برگزار کردند. مهاجرانی اظهار داشت که رهبر شهید برای عزت ایران به شهادت رسید.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9108267/برگزاری-مراسم-به-یاد-بابا-در-شیرخوارگاه-آمنه مهاجرانیرهبر-شهید-برای-عزت-ایران-به-شهادت-رسید",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "15 Jul 2026 01:06:28 +0330",
+      "time": "۰۱:۰۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T00:34:29.454Z"
     }
   ]
 }
