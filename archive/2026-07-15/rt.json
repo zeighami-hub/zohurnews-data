@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "rt",
-  "total": 12,
+  "total": 15,
   "articles": [
     {
       "id": "rt_72c3e2b7b3",
@@ -290,6 +290,78 @@
       "pubDate": "Wed, 15 Jul 2026 09:00:03 +0000",
       "time": "۱۲:۳۰ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T10:14:18.229Z"
+    },
+    {
+      "id": "rt_40d91cfefc",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Strait of Hormuz crisis: What is the current state of the waterway?",
+      "title_fa": "بحران تنگه هرمز: وضعیت کنونی این آبراه چیست؟",
+      "lead": "تنگه هرمز در مرکز درگیری‌های مجدد آمریکا و ایران قرار گرفته است. این وضعیت با افزایش قیمت نفت و ادعاهای رقابتی بر سر کنترل مسیر همراه است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/643033-us-iran-hormuz-state/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 14 Jul 2026 19:05:41 +0000",
+      "time": "۲۲:۳۵ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "rt_c415df4989",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "France licenses missile production in Ukraine",
+      "title_fa": "فرانسه مجوز تولید موشک در اوکراین را صادر کرد",
+      "lead": "امانوئل ماکرون، رئیس‌جمهور فرانسه، اعلام کرده است که این کشور به اوکراین اجازه می‌دهد تا بمب‌های گلاید، موشک‌های رهگیر و موشک‌های کروز تولید کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643053-france-licenses-missile-production-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 20:12:29 +0000",
+      "time": "۲۳:۴۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "rt_1e53ce11ca",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Europe’s military future is starting to take shape",
+      "title_fa": "آینده نظامی اروپا در حال شکل‌گیری است",
+      "lead": "آنکارا بلوکی را نشان داد که با لحنی تند صحبت می‌کرد، اما اختلافات عمیق بر سر جنگ، هزینه‌ها و نقش واشنگتن در حال حاضر مدل بعدی این قاره را شکل می‌دهند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/643046-europe-military-future-nato/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 18:09:50 +0000",
+      "time": "۲۱:۳۹ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
     }
   ]
 }
