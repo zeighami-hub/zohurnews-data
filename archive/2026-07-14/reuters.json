@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 41,
+  "total": 42,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -940,6 +940,28 @@
         "negative": 100
       },
       "analyzed_at": "2026-07-14T23:05:13.128Z"
+    },
+    {
+      "id": "reuters_5",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US Senate Democrats block $1.15 trillion defense bill over Iran war objections - Reuters",
+      "title_fa": "دموکرات‌های سنای آمریکا لایحه دفاعی ۱.۱۵ تریلیون دلاری را به دلیل اعتراضات به جنگ ایران مسدود کردند",
+      "lead": "دموکرات‌های سنای آمریکا لایحه دفاعی به ارزش ۱.۱۵ تریلیون دلار را مسدود کرده‌اند. این اقدام به دلیل اعتراضات آنها به احتمال وقوع جنگ با ایران صورت گرفته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSTNubHF4MkkzU3NnRWMyZG1jZFdYbHlDU2tiNTc2Nm5sOWc0eGpNZ1ZKdFpPYVlFMFAtN2twWWJrY1RkTkc1cVFHdFA5ZUJHeTFPMWtvR0RVWllsd0U1tDNfY1hwdnJHZk5LWHNkNm56NTduRmh3a2tqT0IxbjlBcHpCZENPWHBFN0ZhYVBWaU5hSDgtLXVvRFFQRE5XVFMyTGhiT0JRWjZfeENPZDYtUXY5bHdrVjBnWXVqOGZpd3NPeUY0cVhzTA?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-07-14T23:49:15.564Z"
     }
   ]
 }
