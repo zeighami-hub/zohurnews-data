@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "france24",
-  "total": 64,
+  "total": 65,
   "articles": [
     {
       "id": "france24_9cb48e37f3",
@@ -1536,6 +1536,30 @@
       "pubDate": "Tue, 14 Jul 2026 22:46:34 GMT",
       "time": "۰۲:۱۶ - ۲۴ تیر",
       "analyzed_at": "2026-07-14T23:05:13.128Z"
+    },
+    {
+      "id": "france24_ecc4f4ad35",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Deschamps says France 'devastated' by defeat, questions referee",
+      "title_fa": "دشان: فرانسه از شکست «ویران شده» است، داور را زیر سوال برد",
+      "lead": "دیدیه دشان، سرمربی تیم ملی فرانسه، گفت که بازیکنانش از شکست در نیمه نهایی جام جهانی مقابل اسپانیا «ویران شده‌اند». او همچنین به ایوان بارتون، داور بازی اهل السالوادور، انتقاد کرد.",
+      "category": "sport",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/sport/20260714-deschamps-says-france-devastated-by-defeat-questions-referee",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 21:53:08 GMT",
+      "time": "۰۱:۲۳ - ۲۴ تیر",
+      "analyzed_at": "2026-07-14T23:19:21.614Z"
     }
   ]
 }
