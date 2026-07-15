@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_58a0f4784b",
@@ -386,6 +386,30 @@
       "pubDate": "Wed, 15 Jul 2026 04:01:08 +0000",
       "time": "۰۷:۳۱ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T04:21:11.827Z"
+    },
+    {
+      "id": "nytimes_601ed41b4c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ann Widdecombe Was Killed in ‘Targeted Attack,’ UK Police Say",
+      "title_fa": "پلیس بریتانیا: آن ویدیکومب در یک «حمله هدفمند» کشته شد",
+      "lead": "پلیس بریتانیا اعلام کرد که آن ویدیکومب در یک \"حمله هدفمند\" به قتل رسیده است. پلیس ضدتروریسم همچنان در حال بازجویی از یک مرد ۲۸ ساله مظنون به قتل این عضو برجسته حزب راست‌گرای ریفرم بریتانیا است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/europe/ann-widdecombe-targeted-attack.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Wed, 15 Jul 2026 04:38:50 +0000",
+      "time": "۰۸:۰۸ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T05:39:33.367Z"
     }
   ]
 }
