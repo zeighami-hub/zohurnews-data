@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "guardian",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "guardian_f0169ac5eb",
@@ -672,6 +672,54 @@
       "pubDate": "Tue, 14 Jul 2026 12:27:06 GMT",
       "time": "۱۵:۵۷ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T13:11:55.321Z"
+    },
+    {
+      "id": "guardian_4bcc05065c",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Politically engaged – but ‘very much’ worried about buying a home: study reveals young Australians’ anxieties",
+      "title_fa": "جوانان استرالیایی از نظر سیاسی فعال، اما به شدت نگران خرید خانه: مطالعه‌ای اضطراب‌های آنها را آشکار می‌کند",
+      "lead": "گزارش \"رشد در استرالیا\" نشان می‌دهد که نسل Z بیش از تغییرات اقلیمی یا دنبال کردن مسیر شغلی انتخابی، نگران توانایی خرید خانه هستند. این گزارش نگرانی‌های عمیق جوانان استرالیایی درباره مقرون‌به‌صرفه بودن مسکن را آشکار می‌کند.",
+      "category": "society",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/15/young-australians-buying-home-housing-climate-change-concerns-report",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 14:01:27 GMT",
+      "time": "۱۷:۳۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T14:59:08.663Z"
+    },
+    {
+      "id": "guardian_b8fffd77e4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Coalition and One Nation’s plan to ditch net zero would not lower power prices, CSIRO report finds",
+      "title_fa": "گزارش CSIRO نشان می‌دهد که طرح ائتلاف و حزب وان نیشن برای کنار گذاشتن هدف خالص صفر، قیمت برق را کاهش نخواهد داد",
+      "lead": "گزارش GenCost سازمان CSIRO ادعاهای احزاب ائتلاف و وان نیشن مبنی بر اینکه کنار گذاشتن هدف خالص صفر انتشار کربن قیمت برق را کاهش می‌دهد، رد می‌کند. این گزارش همچنین نشان می‌دهد که انرژی هسته‌ای گران‌ترین راه برای تولید برق خواهد بود.",
+      "category": "environment",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/15/coalition-and-one-nations-plan-to-ditch-net-zero-would-not-lower-power-prices-csiro-report-finds",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 14:01:27 GMT",
+      "time": "۱۷:۳۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T14:59:08.663Z"
     }
   ]
 }
