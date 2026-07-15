@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 34,
+  "total": 35,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -780,6 +780,30 @@
         "negative": 10
       },
       "analyzed_at": "2026-07-14T17:15:57.528Z"
+    },
+    {
+      "id": "reuters_dde1bf1185",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Trump: Iran blockade reinstated, US to charge 20% on Strait of Hormuz cargo - Reuters",
+      "title_fa": "ترامپ: محاصره ایران دوباره برقرار شد، آمریکا ۲۰ درصد از محموله‌های تنگه هرمز را دریافت خواهد کرد",
+      "lead": "ترامپ اعلام کرد که محاصره ایران مجدداً برقرار شده و آمریکا ۲۰ درصد از محموله‌های عبوری از تنگه هرمز را دریافت خواهد کرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5Rk4tUjZ1dw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Mon, 13 Jul 2026 12:28:00 GMT",
+      "time": "۱۵:۵۸ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T20:50:13.554Z"
     }
   ]
 }
