@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "aljazeera",
-  "total": 93,
+  "total": 95,
   "articles": [
     {
       "id": "aljazeera_6aaad77e90",
@@ -2226,6 +2226,54 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-14T22:22:43.077Z"
+    },
+    {
+      "id": "aljazeera_ab6786a3d7",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca",
+      "title_fa": "مهدی الیوبی، رپر منتقد مراکشی در کازابلانکا بازداشت شد",
+      "lead": "به گفته فعالان، مقامات مراکش سرکوب صداهای منتقد و جنبش اعتراضی نسل Z را تشدید کرده‌اند. این بازداشت در کازابلانکا صورت گرفته است.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Tue, 14 Jul 2026 22:11:33 +0000",
+      "time": "۰۱:۴۱ - ۲۴ تیر",
+      "analyzed_at": "2026-07-14T22:51:11.350Z"
+    },
+    {
+      "id": "aljazeera_229e27a267",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US-Russian crew launches on mission to space station",
+      "title_fa": "پرتاب خدمه آمریکایی-روسی به ایستگاه فضایی",
+      "lead": "یک خدمه آمریکایی-روسی با فضاپیمای سایوز برای یک ماموریت هشت ماهه به ایستگاه فضایی بین‌المللی پرتاب شدند. این پرتاب با موفقیت انجام شد.",
+      "category": "science_technology",
+      "region": "eurasia",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-russian-crew-launches-on-mission-to-space-station?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 20:36:57 +0000",
+      "time": "۰۰:۰۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-14T22:51:11.350Z"
     }
   ]
 }
