@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "guardian",
-  "total": 1,
+  "total": 4,
   "articles": [
     {
       "id": "guardian_2aa172b1b3",
@@ -26,6 +26,78 @@
       "pubDate": "Tue, 14 Jul 2026 10:32:23 GMT",
       "time": "۱۴:۰۲ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T00:04:02.485Z"
+    },
+    {
+      "id": "guardian_b618695378",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Mexico to demand criminal complaints over migrants killed by ICE in US",
+      "title_fa": "مکزیک خواستار شکایت کیفری در مورد مهاجران کشته‌شده توسط ICE در آمریکا می‌شود",
+      "lead": "کلودیا شاینباوم، رئیس‌جمهور مکزیک، اعلام کرد که کشورش خواستار شکایت کیفری در ایالات متحده به دلیل مرگ مهاجران مکزیکی توسط ماموران ICE خواهد شد. این اقدام در پی خشم مردم مکزیک از کشته شدن لورنزو سالگادو آراوخو و بیش از ده‌ها مهاجر دیگر صورت می‌گیرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Mon, 13 Jul 2026 22:06:01 GMT",
+      "time": "۰۱:۳۶ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T00:51:37.870Z"
+    },
+    {
+      "id": "guardian_4634644dd6",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "At least 27 killed in fire at Bangkok pub with another 22 critically injured",
+      "title_fa": "حداقل ۲۷ نفر در آتش‌سوزی میخانه‌ای در بانکوک کشته و ۲۲ نفر دیگر به شدت مجروح شدند",
+      "lead": "در یک آتش‌سوزی مهیب در میخانه‌ای محبوب در بانکوک، پایتخت تایلند، حداقل ۲۷ نفر کشته و ۲۲ نفر دیگر در وضعیت وخیم قرار گرفتند. این حادثه به عنوان یکی از مرگبارترین حوادث مشابه در این مقصد توریستی محبوب در سال‌های اخیر گزارش شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 12:05:27 GMT",
+      "time": "۱۵:۳۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-15T00:51:37.870Z"
+    },
+    {
+      "id": "guardian_bb885ead91",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
+      "title_fa": "انقلابی ویران‌شده: خشم در میان آوارهای یک پروژه مسکن در ونزوئلای زلزله‌زده",
+      "lead": "نارضایتی از دولتی که مورد حمایت ترامپ است، در ونزوئلا شدت گرفته است. وارثان چاوز در مواجهه با بلایای طبیعی ناشی از زمین‌لرزه، برای واکنش به فاجعه‌ای که به نظر می‌رسد برای آن آمادگی کافی ندارند، با مشکل روبرو هستند. این وضعیت حتی پیش از آنکه دو زمین‌لرزه قوی پروژه مسکن دولتی OPPE 25 را به هرج و مرجی از بتن‌های خرد شده تبدیل کند، وجود داشت.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 12 Jul 2026 05:00:09 GMT",
+      "time": "۰۸:۳۰ - ۲۱ تیر",
+      "analyzed_at": "2026-07-15T00:51:37.870Z"
     }
   ]
 }
