@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 39,
+  "total": 41,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -896,6 +896,50 @@
         "negative": 50
       },
       "analyzed_at": "2026-07-14T22:51:11.350Z"
+    },
+    {
+      "id": "reuters_10",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Trump says the US will take out Pickaxe Mountain in Iran - Reuters",
+      "title_fa": "ترامپ می‌گوید آمریکا \"کوه پیکاکس\" در ایران را از بین خواهد برد",
+      "lead": "ترامپ اعلام کرده است که ایالات متحده \"کوه پیکاکس\" (Pickaxe Mountain) را در ایران \"از بین خواهد برد\".",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0MxRE1KWWs1OXh4SkpMa3dwZWQzSEhxMm11YkNzX1diNFJxNWl6TkxBV1VNczl0c1hheGVMT0l4UVpFcW15YVotc3ZrV1E1bi1TM2tHS3dfdTN1YTJpUTVLdG95RUpELXo5dm9GUFNKSUZ2ekdNdHNfZ2NLQlRyVV94LVhsbVVLSWNvbndVbmpNWTJiMEFlS0xUMWh4WnZzYWFHMncfdTMxMTQxMjk2MTI4Mw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-14T23:05:13.128Z"
+    },
+    {
+      "id": "reuters_11",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Houthis fire missiles at Saudi Arabia, breaking years of calm - Reuters",
+      "title_fa": "حوثی‌ها به سمت عربستان سعودی موشک شلیک کردند و سال‌ها آرامش را شکستند",
+      "lead": "حوثی‌ها به سمت عربستان سعودی موشک شلیک کرده‌اند. این اقدام به سال‌ها آرامش در منطقه پایان داده و تنش‌ها را دوباره افزایش داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obnGKa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-14T23:05:13.128Z"
     }
   ]
 }
