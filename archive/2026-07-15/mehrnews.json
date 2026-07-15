@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "mehrnews",
-  "total": 31,
+  "total": 33,
   "articles": [
     {
       "id": "mehrnews_fbba9c57b6",
@@ -746,6 +746,54 @@
       "pubDate": "Wed, 15 Jul 2026 07:20:12 GMT",
       "time": "۱۰:۵۰ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T07:39:48.730Z"
+    },
+    {
+      "id": "mehrnews_50c52832b0",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran rejects US allegations on military activities in Yemen",
+      "title_fa": "ایران اتهامات آمریکا درباره فعالیت‌های نظامی در یمن را رد کرد",
+      "lead": "سفیر ایران در سازمان ملل اتهامات آمریکا مبنی بر ارتباط تهران با فعالیت‌های نظامی در یمن را رد کرد. وی واشنگتن را به استفاده از شورای امنیت سازمان ملل برای انتشار اطلاعات غلط و منحرف کردن توجه از اقدامات خود در منطقه متهم نمود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246227/Iran-rejects-US-allegations-on-military-activities-in-Yemen",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 15 Jul 2026 08:09:23 GMT",
+      "time": "۱۱:۳۹ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T08:25:18.407Z"
+    },
+    {
+      "id": "mehrnews_967991689f",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran, Turkey stress expanding coop. in e-commerce field",
+      "title_fa": "ایران و ترکیه بر گسترش همکاری در زمینه تجارت الکترونیک تاکید کردند",
+      "lead": "مقامات ایرانی و ترکیه‌ای بر لزوم افزایش همکاری در بخش‌های پستی و خدمات تجارت الکترونیک تاکید کرده‌اند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246226/Iran-Turkey-stress-expanding-coop-in-e-commerce-field",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 08:00:30 GMT",
+      "time": "۱۱:۳۰ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T08:08:41.025Z"
     }
   ]
 }
