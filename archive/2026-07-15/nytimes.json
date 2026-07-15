@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_58a0f4784b",
@@ -50,6 +50,102 @@
       "pubDate": "Tue, 14 Jul 2026 19:03:21 +0000",
       "time": "۲۲:۳۳ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T00:34:29.454Z"
+    },
+    {
+      "id": "nytimes_733163cd02",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Drops Plan to Tax Ships in Strait of Hormuz as Fighting with Iran Escalates",
+      "title_fa": "ترامپ طرح اخذ مالیات از کشتی‌ها در تنگه هرمز را کنار گذاشت؛ در حالی که درگیری با ایران تشدید می‌شود",
+      "lead": "رئیس‌جمهور ترامپ طرح خود برای اعمال عوارض بر کشتیرانی در تنگه هرمز را لغو کرد. این پیشنهاد تهدید کرده بود که قیمت‌های جهانی انرژی را افزایش دهد، در حالی که درگیری‌ها با ایران تشدید شده است.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/middleeast/trump-hormuz-shipping-fee-dropped.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 20,
+        "negative": 50
+      },
+      "pubDate": "Tue, 14 Jul 2026 20:07:29 +0000",
+      "time": "۲۳:۳۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T00:51:37.870Z"
+    },
+    {
+      "id": "nytimes_37506d2d1a",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Robot Army Remakes Ground Warfare in Ukraine",
+      "title_fa": "ارتش ربات‌ها در حال تغییر چهره جنگ زمینی در اوکراین",
+      "lead": "ربات‌ها که در ابتدا به عنوان حمل‌کننده تدارکات در اوکراین به کار گرفته شدند، اکنون وظایف پیچیده‌تری مانند تخلیه مجروحان و نگهداری سنگرها را انجام می‌دهند. برخی از این ربات‌ها حتی در عملیات کشتار نیز مشارکت دارند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "pubDate": "Mon, 13 Jul 2026 16:09:36 +0000",
+      "time": "۱۹:۳۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-15T00:51:37.870Z"
+    },
+    {
+      "id": "nytimes_96246d2747",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Lebanese Hold Fast to Their Land Despite Threat of Long Israeli Occupation",
+      "title_fa": "لبنانی‌ها با وجود تهدید اشغال طولانی‌مدت اسرائیل، به سرزمین خود پایبند هستند",
+      "lead": "در پی جنگ میان اسرائیل و حزب‌الله، تمام شهرهای جنوب لبنان خالی از سکنه شده‌اند. با این حال، برخی از ساکنان در منطقه باقی مانده‌اند و از جابه‌جایی دائمی و از دست دادن سرزمین خود بیم دارند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Mon, 13 Jul 2026 09:06:37 +0000",
+      "time": "۱۲:۳۶ - ۲۲ تیر",
+      "analyzed_at": "2026-07-15T00:51:37.870Z"
+    },
+    {
+      "id": "nytimes_31ce1614a4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Next Phase in Ukraine’s War With Russia: The Battle for Minds",
+      "title_fa": "فاز بعدی جنگ اوکراین با روسیه: نبرد برای افکار عمومی",
+      "lead": "اوکراینی‌ها که پیش از این در نوآوری پهپادی پیشرو بودند، اکنون تمرکز خود را بر عملیات روانی معطوف کرده‌اند. هدف این عملیات تضعیف حمایت روسیه از جنگ و تأثیرگذاری بر افکار عمومی است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "pubDate": "Mon, 13 Jul 2026 09:02:08 +0000",
+      "time": "۱۲:۳۲ - ۲۲ تیر",
+      "analyzed_at": "2026-07-15T00:51:37.870Z"
     }
   ]
 }
