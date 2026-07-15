@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "aljazeera",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "aljazeera_18adc5d1f6",
@@ -98,6 +98,54 @@
       "pubDate": "Wed, 15 Jul 2026 02:00:03 +0000",
       "time": "۰۵:۳۰ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T02:34:25.862Z"
+    },
+    {
+      "id": "aljazeera_e5bba3337d",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’",
+      "title_fa": "ترامپ از نخست‌وزیر عراق در کاخ سفید استقبال کرد و وعده 'قراردادهای زیاد' داد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، و علی‌الزیدی، نخست‌وزیر عراق، در کاخ سفید با یکدیگر دیدار کردند. آنها متعهد به تعمیق روابط اقتصادی بین دو کشور شدند. ترامپ در این دیدار بر انجام 'قراردادهای زیاد' تاکید کرد.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 02:46:31 +0000",
+      "time": "۰۶:۱۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T03:35:34.436Z"
+    },
+    {
+      "id": "aljazeera_454bb722d5",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Argentina happy to be in World Cup semifinal, coach Scaloni says",
+      "title_fa": "اسکالونی، سرمربی آرژانتین، می‌گوید این تیم از حضور در نیمه‌نهایی جام جهانی خوشحال است",
+      "lead": "لیونل اسکالونی، سرمربی آرژانتین، اعلام کرد که تیمش از حضور در مرحله نیمه‌نهایی جام جهانی خوشحال است. او گفت که آرژانتین 'در وضعیت خوبی قرار دارد' و هیچ نگرانی بابت خستگی بازیکنان ندارد. قهرمان جهان به دنبال صعود به فینال دیگری است.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/15/argentina-happy-to-be-in-world-cup-semifinal-coach-scaloni-says?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 02:45:05 +0000",
+      "time": "۰۶:۱۵ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T03:35:34.436Z"
     }
   ]
 }
