@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "mehrnews",
-  "total": 22,
+  "total": 26,
   "articles": [
     {
       "id": "mehrnews_fbba9c57b6",
@@ -530,6 +530,102 @@
       "pubDate": "Wed, 15 Jul 2026 06:32:29 GMT",
       "time": "۱۰:۰۲ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T06:53:39.503Z"
+    },
+    {
+      "id": "mehrnews_ecfeebb973",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US attack on park ranger post ‘latest example of war crime’",
+      "title_fa": "حمله آمریکا به پاسگاه محیط‌بانی «نمونه‌ای از جنایت جنگی»",
+      "lead": "سخنگوی وزارت امور خارجه ایران اعلام کرد که حملات هوایی آمریکا به پاسگاه محیط‌بانی در استان هرمزگان، جدیدترین نمونه از جنایات جنگی علیه خاک ایران است. این حمله هوایی توسط ایالات متحده صورت گرفته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246219/US-attack-on-park-ranger-post-new-example-of-war-crime",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 07:06:33 GMT",
+      "time": "۱۰:۳۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T07:23:48.608Z"
+    },
+    {
+      "id": "mehrnews_724696c98b",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Over 40 mln people attended Ayatollah Khamenei funeral rites",
+      "title_fa": "بیش از ۴۰ میلیون نفر در مراسم تشییع آیت‌الله خامنه‌ای شرکت کردند",
+      "lead": "طبق گفته فرمانده سپاه تهران، بیش از ۴۰ میلیون نفر در مراسم تشییع رهبر شهید انقلاب اسلامی آیت‌الله سید علی خامنه‌ای در ایران و عراق شرکت کردند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246218/Over-40-mln-people-attended-Ayatollah-Khamenei-funeral-rites",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 07:01:27 GMT",
+      "time": "۱۰:۳۱ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T07:09:14.050Z"
+    },
+    {
+      "id": "mehrnews_97b498f07f",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC destroys US warplane hangars in Jordan",
+      "title_fa": "سپاه پاسداران آشیانه‌های هواپیماهای جنگی آمریکا را در اردن منهدم کرد",
+      "lead": "سپاه پاسداران انقلاب اسلامی آشیانه‌های هواپیماهای جنگی F-15, F-16 و F-35 و چندین پهپاد استراتژیک MQ-9 آمریکا را در پایگاه هوایی الازرق اردن منهدم کرده است. این حادثه روز چهارشنبه رخ داده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246217/IRGC-destroys-US-warplane-hangars-in-Jordan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 06:56:15 GMT",
+      "time": "۱۰:۲۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T07:09:14.050Z"
+    },
+    {
+      "id": "mehrnews_af46ff77dc",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Yemeni Armed Forces down Saudi spy drone",
+      "title_fa": "نیروهای مسلح یمن پهپاد جاسوسی سعودی را سرنگون کردند",
+      "lead": "سخنگوی نیروهای مسلح یمن اعلام کرد که یک پهپاد شناسایی \"وینگ لونگ ۲\" عربستان سعودی سرنگون و منهدم شده است. این حادثه روز سه‌شنبه بر فراز استان البیضا یمن رخ داد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246216/Yemeni-Armed-Forces-down-Saudi-spy-drone",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 06:48:31 GMT",
+      "time": "۱۰:۱۸ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T07:09:14.050Z"
     }
   ]
 }
