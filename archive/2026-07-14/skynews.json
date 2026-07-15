@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "skynews",
-  "total": 7,
+  "total": 11,
   "articles": [
     {
       "id": "skynews_41c2c617d7",
@@ -170,6 +170,102 @@
       "pubDate": "Tue, 14 Jul 2026 07:35:00 +0100",
       "time": "۱۰:۰۵ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T08:08:46.347Z"
+    },
+    {
+      "id": "skynews_9b75a5037c",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "US senators demand findings of probe into deadly strike on Iran school",
+      "title_fa": "سناتورهای آمریکایی خواستار افشای نتایج تحقیقات درباره حمله مرگبار به یک مدرسه در ایران شدند",
+      "lead": "سناتورهای آمریکایی از ارتش این کشور خواسته‌اند تا فوراً نتایج تحقیقات خود را درباره حمله موشکی مرگبار به یک مدرسه ایرانی فاش کند. این درخواست نشان‌دهنده فشار بر پنتاگون برای شفافیت در مورد این رویداد است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/senators-demand-pentagon-reveals-outcome-of-minab-school-strike-probe-13563191",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 20:59:00 +0100",
+      "time": "۲۳:۲۹ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
+    },
+    {
+      "id": "skynews_31447a9b5d",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Fifth Briton identified as victim of wildfire in Spain",
+      "title_fa": "پنجمین شهروند بریتانیایی قربانی آتش‌سوزی جنگلی در اسپانیا شناسایی شد",
+      "lead": "پنجمین تبعه بریتانیایی در آتش‌سوزی جنگلی در جنوب اسپانیا شناسایی شده است. این آتش‌سوزی منجر به کشته شدن بیش از دوازده نفر شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/fifth-british-national-identified-as-victim-of-wildfire-in-spain-13563196",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 21:17:00 +0100",
+      "time": "۲۳:۴۷ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
+    },
+    {
+      "id": "skynews_851416f53b",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Wildfire of 'exceptional scale' breaks out in forest near Paris",
+      "title_fa": "آتش‌سوزی جنگلی \"در مقیاس استثنایی\" در نزدیکی پاریس آغاز شد",
+      "lead": "آتش‌سوزی جنگلی \"در مقیاس استثنایی\" در نزدیکی پاریس شعله‌ور شده است. این حادثه در حالی رخ می‌دهد که فرانسه با سومین موج گرمای تابستان خود دست و پنجه نرم می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/wildfire-of-exceptional-scale-breaks-out-in-forest-near-paris-13562914",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 13 Jul 2026 07:25:00 +0100",
+      "time": "۰۹:۵۵ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
+    },
+    {
+      "id": "skynews_1b2d4bfa05",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Jurassic Park star Sam Neill has died",
+      "title_fa": "سام نیل، ستاره پارک ژوراسیک، درگذشت",
+      "lead": "سام نیل، ستاره فیلم‌های \"پارک ژوراسیک\" و سریال \"پیکی بلایندرز\"، در سن ۷۸ سالگی درگذشت.",
+      "category": "arts_culture",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/jurassic-park-star-sam-neill-has-died-13562906",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 13 Jul 2026 06:51:00 +0100",
+      "time": "۰۹:۲۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-14T12:16:30.341Z"
     }
   ]
 }
