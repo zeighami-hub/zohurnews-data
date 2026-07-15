@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "aljazeera",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "aljazeera_18adc5d1f6",
@@ -146,6 +146,30 @@
       "pubDate": "Wed, 15 Jul 2026 02:45:05 +0000",
       "time": "۰۶:۱۵ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T03:35:34.436Z"
+    },
+    {
+      "id": "aljazeera_54e36e0608",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Nearly 75% of Americans think there’s too much money in politics",
+      "title_fa": "نزدیک به ۷۵ درصد آمریکایی‌ها معتقدند پول زیادی در سیاست وجود دارد",
+      "lead": "بر اساس گزارش‌ها، انتخابات آتی ایالات متحده قرار است از گران‌ترین انتخابات در تاریخ این کشور باشد. تقریباً ۷۵ درصد از آمریکایی‌ها بر این باورند که میزان پول در سیاست بیش از حد است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/15/nearly-75-of-americans-think-theres-too-much-money-in-politics?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 15 Jul 2026 03:15:32 +0000",
+      "time": "۰۶:۴۵ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T03:49:45.831Z"
     }
   ]
 }
