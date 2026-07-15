@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "bbc",
-  "total": 31,
+  "total": 33,
   "articles": [
     {
       "id": "bbc_a6b166d1d3",
@@ -746,6 +746,54 @@
       "pubDate": "Tue, 14 Jul 2026 11:21:48 GMT",
       "time": "۱۴:۵۱ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T15:09:59.053Z"
+    },
+    {
+      "id": "bbc_6ae1b848f2",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+      "title_fa": "ترامپ ۵ میلیون دلار غرامت به نویسنده ای. جین کارول بابت سوءاستفاده جنسی و افترا پرداخت کرد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، ۵ میلیون دلار غرامت به نویسنده ای. جین کارول پرداخت کرده است. وی پیش از این تلاش کرده بود تا با درخواست از دیوان عالی، پرداخت این مبلغ را به تاخیر بیندازد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 16:55:48 GMT",
+      "time": "۲۰:۲۵ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T17:15:57.528Z"
+    },
+    {
+      "id": "bbc_deb054534e",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
+      "title_fa": "گران‌ترین دایناسور تی‌رکس تاکنون به فروش رسید",
+      "lead": "اسکلت یک دایناسور تی‌رکس، که ۶۷ میلیون سال پیش روی زمین زندگی می‌کرد، توسط حراجی ساتبی در نیویورک به فروش رفت. این فروش رکورد گران‌ترین دایناسور فروخته شده تاکنون را به نام خود ثبت کرد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Tue, 14 Jul 2026 15:37:52 GMT",
+      "time": "۱۹:۰۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T17:15:57.528Z"
     }
   ]
 }
