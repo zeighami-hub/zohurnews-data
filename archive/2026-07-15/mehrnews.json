@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "mehrnews",
-  "total": 33,
+  "total": 36,
   "articles": [
     {
       "id": "mehrnews_fbba9c57b6",
@@ -794,6 +794,78 @@
       "pubDate": "Wed, 15 Jul 2026 08:00:30 GMT",
       "time": "۱۱:۳۰ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T08:08:41.025Z"
+    },
+    {
+      "id": "mehrnews_8f16bea1a0",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Trump’s vicious cycle of threats against Iran",
+      "title_fa": "چرخه شرورانه تهدیدات ترامپ علیه ایران",
+      "lead": "پس از به کارگیری تحریم‌ها، مانورهای نظامی و فشارهای سیاسی، تهدیدات دوباره ترامپ علیه ایران بیشتر نشان‌دهنده بن‌بست استراتژیک است تا قدرت آمریکا. این اقدامات نشان می‌دهد که آمریکا به جای قدرت، به یک چرخه باطل از تهدیدات روی آورده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246228/Trump-s-vicious-cycle-of-threats-against-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Wed, 15 Jul 2026 09:02:35 GMT",
+      "time": "۱۲:۳۲ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T10:14:18.229Z"
+    },
+    {
+      "id": "mehrnews_92624be809",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Man executed for arson attack on police station in Iran",
+      "title_fa": "یک مرد به دلیل حمله آتش‌زا به ایستگاه پلیس در ایران اعدام شد",
+      "lead": "یک مرد به دلیل آتش زدن فرمانداری و یک ایستگاه پلیس در شهر دهاقان در جریان ناآرامی‌های ژانویه ۲۰۲۶ اعدام شده است. این حکم پس از تأیید دیوان عالی کشور به اجرا درآمد.",
+      "category": "judicial",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246230/Man-executed-for-arson-attack-on-police-station-in-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 15 Jul 2026 09:33:16 GMT",
+      "time": "۱۳:۰۳ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T10:14:18.229Z"
+    },
+    {
+      "id": "mehrnews_f8279893c1",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Commemoration ceremony held for martyred Leader in Tehran",
+      "title_fa": "مراسم یادبود رهبر شهید در تهران برگزار شد",
+      "lead": "یک مراسم یادبود برای رهبر شهید آیت‌الله سید علی خامنه‌ای در مصلای امام خمینی (ره) تهران برگزار شد. در این مراسم مقامات عالی‌رتبه دولتی حضور داشتند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/photo/246229/Commemoration-ceremony-held-for-martyred-Leader-in-Tehran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 09:06:23 GMT",
+      "time": "۱۲:۳۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T10:14:18.229Z"
     }
   ]
 }
