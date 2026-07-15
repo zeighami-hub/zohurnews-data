@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -554,6 +554,28 @@
         "negative": 90
       },
       "analyzed_at": "2026-07-14T12:16:30.341Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Spot Mideast crude prices strengthen after Iran attacks UAE tankers - Reuters",
+      "title_fa": "قیمت‌های نفت خام خاورمیانه پس از حمله ایران به نفتکش‌های اماراتی تقویت شد",
+      "lead": "پس از حملات ایران به نفتکش‌های اماراتی، قیمت نفت خام خاورمیانه در بازار لحظه‌ای افزایش یافت. این رویداد بر بازارهای جهانی نفت و اقتصاد منطقه تأثیر گذاشته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUmN4Q2hMdDhRQ3ZIb0J5cGF2Rm5sd2tMUlppLUVtV2xmOU5zRXp5NVhkU0k5V0ZBSElqUl9LZVo0THZqRTYtaVFIM0ZiUTRUR3ZQb3VsekR4OHJESlNIWWU2SFQ4QnpRUmpVZldJUDhLdFk1Q2xkZHZUa2I3empXWktsc050ZjJHSFh4RVhGVHAzUEdOM0J5SDJHYlVKcC11bFUzellTOXFPejF5WlJVNElJdW9scVN2aEl3?oc=0",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-14T12:43:39.674Z"
     }
   ]
 }
