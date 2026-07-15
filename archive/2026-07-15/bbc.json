@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "bbc",
-  "total": 5,
+  "total": 8,
   "articles": [
     {
       "id": "bbc_5258cc0b91",
@@ -122,6 +122,78 @@
       "pubDate": "Tue, 14 Jul 2026 13:22:09 GMT",
       "time": "۱۶:۵۲ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T03:35:34.436Z"
+    },
+    {
+      "id": "bbc_abd8c5b2ac",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Colombian national killed by ICE agent during operation in Maine",
+      "title_fa": "یک تبعه کلمبیایی در جریان عملیات مامور ICE در مین کشته شد",
+      "lead": "یک شهروند کلمبیایی در جریان عملیات یک مامور سازمان اجرای مهاجرت و گمرک (ICE) در ایالت مِین آمریکا کشته شد. این حادثه کمتر از یک هفته پس از کشته شدن یک مهاجر بدون مدرک توسط یک مامور مهاجرت در هیوستون رخ می‌دهد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 19:11:37 GMT",
+      "time": "۲۲:۴۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T03:49:45.831Z"
+    },
+    {
+      "id": "bbc_80a7a2ef19",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
+      "title_fa": "دادگاه سنگاپور بلومبرگ را به پرداخت ۳۵۶ هزار دلار به وزرا در پرونده افترا محکوم کرد",
+      "lead": "دادگاهی در سنگاپور، بلومبرگ را به پرداخت ۳۵۶ هزار دلار به چند وزیر در یک پرونده افترا محکوم کرد. این وزرا مدعی بودند که گزارشی از بلومبرگ درباره معاملات بانگلوهای لوکس آنها، به اعتبارشان لطمه زده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Tue, 14 Jul 2026 11:21:48 GMT",
+      "time": "۱۴:۵۱ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T03:49:45.831Z"
+    },
+    {
+      "id": "bbc_69ac4fe049",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
+      "title_fa": "هویت کارمند مهدکودک سیدنی که با ۳۲۹ اتهام آزار جنسی کودکان روبروست، فاش شد",
+      "lead": "هویت یک کارمند مهدکودک در سیدنی که با ۳۲۹ اتهام آزار جنسی کودکان مواجه است، فاش شده است. همیش تیت متهم است که ۱۳۶ کودک را در پنج مرکز نگهداری از کودکان طی ۱۶ سال مورد آزار قرار داده است.",
+      "category": "crime",
+      "region": "oceania",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 01:43:57 GMT",
+      "time": "۰۵:۱۳ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T03:49:45.831Z"
     }
   ]
 }
