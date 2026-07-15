@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "bbc",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "bbc_a6b166d1d3",
@@ -674,6 +674,54 @@
       "pubDate": "Mon, 13 Jul 2026 17:31:54 GMT",
       "time": "۲۱:۰۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T10:39:48.119Z"
+    },
+    {
+      "id": "bbc_55d28973bc",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "title_fa": "مقامات می‌گویند حمله اسرائیل به یک پاسگاه پلیس در شمال غزه هفت کشته بر جای گذاشت",
+      "lead": "مقامات اعلام کردند که در یک حمله اسرائیل به پاسگاه پلیس در شمال غزه، هفت نفر کشته شدند. ارتش اسرائیل می‌گوید این حمله \"تروریست‌ها\" را هدف قرار داده بود و یک افسر ارشد پلیس تحت کنترل حماس نیز در میان کشته‌شدگان بود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 13:46:14 GMT",
+      "time": "۱۷:۱۶ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T14:59:08.663Z"
+    },
+    {
+      "id": "bbc_b7c2b136ed",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
+      "title_fa": "غول الماس د بیرز، کار در معدن اصلی خود در آفریقای جنوبی را به دلیل سقوط تقاضا متوقف می‌کند",
+      "lead": "شرکت بزرگ الماس د بیرز، به دلیل کاهش شدید تقاضا، فعالیت در معدن اصلی خود در آفریقای جنوبی را برای دو سال متوقف خواهد کرد. این معدن بیش از ۴۰۰۰ نفر را استخدام کرده است.",
+      "category": "business",
+      "region": "africa",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 13:22:09 GMT",
+      "time": "۱۶:۵۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T14:59:08.663Z"
     }
   ]
 }
