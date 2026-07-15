@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "dw",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "dw_4",
@@ -144,6 +144,54 @@
       "pubDate": "Tue, 14 Jul 2026 14:07:00 GMT",
       "time": "۱۷:۳۷ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T03:35:34.436Z"
+    },
+    {
+      "id": "dw_57ac98268a",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Border controls scrapped between Spain and Gibraltar",
+      "title_fa": "کنترل‌های مرزی بین اسپانیا و جبل الطارق لغو شد",
+      "lead": "با اجرایی شدن پایان کنترل‌های مرزی، حصار سیمی قدیمی بین اسپانیا و جبل الطارق برداشته شد. این تصمیم تاریخی آزادی حرکت بیشتری را برای افراد و کالاها فراهم می‌کند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/border-controls-scrapped-between-spain-and-gibraltar/a-77961013?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 04:00:00 GMT",
+      "time": "۰۷:۳۰ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T04:05:18.595Z"
+    },
+    {
+      "id": "dw_928778c00d",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Ebola outbreak much larger than official figures, WHO says",
+      "title_fa": "سازمان جهانی بهداشت: شیوع ابولا بسیار گسترده‌تر از آمار رسمی است",
+      "lead": "سازمان جهانی بهداشت هشدار داد که شیوع ابولا، که تقریباً ۲۰۰۰ نفر را آلوده کرده و بیش از ۷۰۰ نفر را کشته است، ممکن است دو تا چهار برابر بزرگتر از آمار رسمی باشد. این شیوع در حال حاضر در جمهوری دموکراتیک کنگو و اوگاندا ادامه دارد.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/ebola-outbreak-much-larger-than-official-figures-who-says/a-77951823?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 14:47:00 GMT",
+      "time": "۱۸:۱۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T03:49:45.831Z"
     }
   ]
 }
