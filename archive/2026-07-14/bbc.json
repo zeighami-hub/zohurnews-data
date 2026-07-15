@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "bbc",
-  "total": 33,
+  "total": 35,
   "articles": [
     {
       "id": "bbc_a6b166d1d3",
@@ -794,6 +794,54 @@
       "pubDate": "Tue, 14 Jul 2026 15:37:52 GMT",
       "time": "۱۹:۰۷ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T17:15:57.528Z"
+    },
+    {
+      "id": "bbc_34ac38df47",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+      "title_fa": "ترامپ تهدید اخذ ۲۰ درصد عوارض از محموله‌های هرمز را لغو کرد و آمریکا محاصره بنادر ایران را از سر گرفت",
+      "lead": "ترامپ تهدید ۲۴ ساعته خود مبنی بر دریافت عوارض از کشتی‌های باربری در تنگه هرمز را لغو کرد. با این حال، آمریکا نبرد خود را برای از بین بردن تسلط ایران بر این آبراه ادامه می‌دهد.",
+      "category": "politics",
+      "region": "middle east",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 20:10:37 GMT",
+      "time": "۲۳:۴۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T20:50:13.554Z"
+    },
+    {
+      "id": "bbc_5205caa57e",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+      "title_fa": "«خط گسل» تنگه هرمز ضعف توافق آمریکا و ایران را آشکار می‌کند",
+      "lead": "کنترل تنگه هرمز به نقطه اصلی اختلاف میان آمریکا و ایران تبدیل شده است. این موضوع همزمان با تضعیف یک توافق آتش‌بس، نشان‌دهنده ضعف این معامله است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 19:13:49 GMT",
+      "time": "۲۲:۴۳ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T20:50:13.554Z"
     }
   ]
 }
