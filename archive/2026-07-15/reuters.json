@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "reuters",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "reuters_12",
@@ -250,6 +250,28 @@
       "pubDate": "Wed, 15 Jul 2026 01:06:00 GMT",
       "time": "۰۴:۳۶ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T04:51:44.923Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran-linked vessels pass through Hormuz ahead of US blockade - Reuters",
+      "title_fa": "کشتی‌های مرتبط با ایران پیش از محاصره آمریکا از تنگه هرمز عبور می‌کنند",
+      "lead": "بر اساس گزارش رویترز، کشتی‌های مرتبط با ایران پیش از محاصره احتمالی آمریکا از تنگه هرمز عبور کرده‌اند. این اقدام در بحبوحه تنش‌های فزاینده در منطقه و تهدیدات مربوط به انسداد دریایی صورت می‌گیرد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaTdNZVY3NU9GZGdKMHVSdHhqUTdmMm9ycmQ3a01SRnZhenFpM29SS2JhbWd4Z2N0ZDNEXzBYS0RDbWZnd1RnaHRBOVJHNWFLenA0WmtpSUV4X041WkMtYUxwMzhlS3BhREdGdGpMNnVmSlg1bFJJLTBBVGlVdFF0M01XQmE5aU5OMmpUcnFCdm9vWEU5LTFXalJsSnlGaynxSHZTOEJuZ0hZMnpiUkE?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-15T05:06:39.026Z"
     }
   ]
 }
