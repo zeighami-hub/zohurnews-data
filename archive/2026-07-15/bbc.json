@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_5258cc0b91",
@@ -74,6 +74,54 @@
       "pubDate": "Wed, 15 Jul 2026 01:03:07 GMT",
       "time": "۰۴:۳۳ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T01:19:04.674Z"
+    },
+    {
+      "id": "bbc_55d28973bc",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "title_fa": "مقامات می‌گویند حمله اسرائیل به پاسگاه پلیس در شمال غزه هفت کشته برجای گذاشت",
+      "lead": "مقامات اعلام کردند که در حمله اسرائیل به یک پاسگاه پلیس در شمال غزه، هفت نفر کشته شدند. یک افسر ارشد در نیروی پلیس تحت کنترل حماس نیز در میان کشته‌شدگان است. ارتش اسرائیل می‌گوید این حمله 'تروریست‌ها' را هدف قرار داده بود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 17:13:27 GMT",
+      "time": "۲۰:۴۳ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T03:35:34.436Z"
+    },
+    {
+      "id": "bbc_b7c2b136ed",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
+      "title_fa": "غول الماس دی بیرز فعالیت در معدن اصلی آفریقای جنوبی را به دلیل سقوط تقاضا متوقف می‌کند",
+      "lead": "تولید در این معدن که بیش از ۴۰۰۰ نفر را استخدام کرده است، به مدت دو سال متوقف خواهد شد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 13:22:09 GMT",
+      "time": "۱۶:۵۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T03:35:34.436Z"
     }
   ]
 }
