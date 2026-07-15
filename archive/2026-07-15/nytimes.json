@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 29,
   "articles": [
     {
       "id": "nytimes_58a0f4784b",
@@ -626,6 +626,78 @@
       "pubDate": "Mon, 13 Jul 2026 12:57:30 +0000",
       "time": "۱۶:۲۷ - ۲۲ تیر",
       "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "nytimes_5b534a81c0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Vague Clause That Helps Explain the U.S.-Iran Fight Over the Strait of Hormuz",
+      "title_fa": "بند مبهمی که به توضیح درگیری آمریکا و ایران بر سر تنگه هرمز کمک می‌کند",
+      "lead": "یک تفاهم‌نامه میان ایالات متحده و ایران نتوانسته به کاهش تنش‌ها کمک چندانی کند. این وضعیت تا حدی به این دلیل است که دو کشور بر سر معنای واقعی این تفاهم‌نامه اختلاف نظر دارند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-war-hormuz-strait.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Wed, 15 Jul 2026 11:26:32 +0000",
+      "time": "۱۴:۵۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T11:45:01.238Z"
+    },
+    {
+      "id": "nytimes_c800e9f48b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
+      "title_fa": "خصومت‌های آمریکا و ایران، اسرائیل را در برزخی ناآرام قرار داده است",
+      "lead": "به عقیده مقامات اسرائیلی، بازگشت به جنگ تمام‌عیار برای آن‌ها بهتر از توافقی است که نتواند تهدیدات ایران علیه اسرائیل را مهار کند. در حال حاضر، اسرائیل در انتظار تحولات آتی به سر می‌برد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/15/world/middleeast/israel-us-iran-trump.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 15 Jul 2026 09:03:46 +0000",
+      "time": "۱۲:۳۳ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T11:45:01.238Z"
+    },
+    {
+      "id": "nytimes_0d62c7ef4f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Australia to Impose Energy and Water Guardrails on Data Centers Amid A.I. Boom",
+      "title_fa": "استرالیا در بحبوحه رونق هوش مصنوعی، محدودیت‌های انرژی و آب را بر مراکز داده اعمال می‌کند",
+      "lead": "استرالیا قصد دارد محدودیت‌هایی را برای مصرف انرژی و آب توسط مراکز داده در پی رشد هوش مصنوعی اعمال کند. این کشور همچنین به دنبال حفاظت از حقوق سازندگان آثاری است که برای آموزش مدل‌های هوش مصنوعی استفاده می‌شوند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 11:03:07 +0000",
+      "time": "۱۴:۳۳ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T11:45:01.238Z"
     }
   ]
 }
