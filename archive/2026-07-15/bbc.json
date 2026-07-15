@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "bbc_5258cc0b91",
@@ -194,6 +194,54 @@
       "pubDate": "Tue, 14 Jul 2026 01:43:57 GMT",
       "time": "۰۵:۱۳ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T03:49:45.831Z"
+    },
+    {
+      "id": "bbc_92628fb493",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "China economic growth falls sharply, missing target",
+      "title_fa": "رشد اقتصادی چین به شدت کاهش یافت و از هدف‌گذاری عقب ماند",
+      "lead": "رشد اقتصادی چین به شدت کاهش یافته و از هدف‌گذاری خود باز مانده است. تقاضای ضعیف داخلی و تأثیر جنگ ایران بر قیمت نفت، صادرات قوی این کشور را تحت‌الشعاع قرار داده است.",
+      "category": "economy",
+      "region": "china",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 03:26:47 GMT",
+      "time": "۰۶:۵۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T04:51:44.923Z"
+    },
+    {
+      "id": "bbc_88789c3432",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "China detains US scientist who studied North Korea nuclear tests",
+      "title_fa": "چین دانشمند آمریکایی را که درباره آزمایشات هسته‌ای کره شمالی تحقیق می‌کرد، بازداشت کرد",
+      "lead": "چین یک دانشمند آمریکایی را که در مورد آزمایشات هسته‌ای کره شمالی مطالعه می‌کرد، بازداشت کرده است. خانواده چن یولین می‌گویند او نزدیک به دو سال است که به اتهام جاسوسی به ناحق بازداشت شده است.",
+      "category": "politics",
+      "region": "china",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 02:14:37 GMT",
+      "time": "۰۵:۴۴ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T04:51:44.923Z"
     }
   ]
 }
