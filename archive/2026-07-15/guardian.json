@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "guardian",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "guardian_2aa172b1b3",
@@ -242,6 +242,54 @@
       "pubDate": "Tue, 14 Jul 2026 14:01:27 GMT",
       "time": "۱۷:۳۱ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T03:35:34.436Z"
+    },
+    {
+      "id": "guardian_42bf46129e",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Japan admits growing need to counter espionage after Russian ‘den of spies’ report",
+      "title_fa": "ژاپن پس از گزارش 'لانه جاسوسان' روسیه، به نیاز فزاینده برای مقابله با جاسوسی اذعان کرد",
+      "lead": "سخنگوی دولت ژاپن اعلام کرد که پس از گزارش نیویورک تایمز مبنی بر تبدیل شدن این کشور به مرکز جاسوسی ولادیمیر پوتین، این مسئله باید با جدیت بیشتری مورد توجه قرار گیرد. ژاپن اذعان کرده که نیاز فزاینده‌ای به مقابله بهتر با جاسوسی خارجی دارد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/14/japan-espionage-russia-den-of-spies",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 01:10:26 GMT",
+      "time": "۰۴:۴۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T03:49:45.831Z"
+    },
+    {
+      "id": "guardian_49a7ce37d7",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+      "title_fa": "سازمان ملل متحد فاش کرد: کشورهای در حال توسعه بیش از آموزش، صرف بازپرداخت بدهی‌های خارجی می‌کنند",
+      "lead": "گزارش یونسکو نشان می‌دهد که کودکان در ۱۱۳ کشور، به دلیل پرداخت بدهی‌ها، از آموزش محروم شده‌اند و ۱۸ کشور پنج برابر بیشتر صرف بازپرداخت وام‌ها می‌کنند. بر اساس اعلام سازمان ملل، اکثر کشورهای در حال توسعه سال گذشته کمتر از آنچه برای بازپرداخت بدهی هزینه کردند، برای آموزش هزینه کرده‌اند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 10 Jul 2026 07:00:14 GMT",
+      "time": "۱۰:۳۰ - ۱۹ تیر",
+      "analyzed_at": "2026-07-15T03:49:45.831Z"
     }
   ]
 }
