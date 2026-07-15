@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "rt",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "rt_72c3e2b7b3",
@@ -170,6 +170,30 @@
       "pubDate": "Tue, 14 Jul 2026 14:04:02 +0000",
       "time": "۱۷:۳۴ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T03:35:34.436Z"
+    },
+    {
+      "id": "rt_d99959780a",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "War of words turns ugly after EU migration vote",
+      "title_fa": "جنگ لفظی پس از رای‌گیری مهاجرت در اتحادیه اروپا به تندی گرایید",
+      "lead": "پس از رای‌گیری مهاجرت در پارلمان اروپا، یک جنگ لفظی شدید شکل گرفته است. این رای‌گیری به شکایت کیفری یک عضو پارلمان اروپا علیه همکارش به دلیل نژادپرستی ادعایی منجر شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/642967-eu-migration-scandal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 02:03:46 +0000",
+      "time": "۰۵:۳۳ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T03:49:45.831Z"
     }
   ]
 }
