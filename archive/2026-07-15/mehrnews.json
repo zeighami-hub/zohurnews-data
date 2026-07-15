@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "mehrnews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "mehrnews_fbba9c57b6",
@@ -74,6 +74,54 @@
       "pubDate": "Tue, 14 Jul 2026 11:55:30 GMT",
       "time": "۱۵:۲۵ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T00:51:37.870Z"
+    },
+    {
+      "id": "mehrnews_d0feb79221",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran’s oil exports continue despite US revocation of waivers",
+      "title_fa": "صادرات نفت ایران با وجود لغو معافیت‌های آمریکا ادامه دارد",
+      "lead": "وزیر محسن پاک‌نژاد اعلام کرد که صادرات نفت ایران با وجود لغو معافیت ۶۰ روزه تحریم‌ها توسط آمریکا، بدون وقفه ادامه دارد. او به سازوکارهای از پیش موجود برای خنثی‌سازی تأثیر اقدام آمریکا اشاره کرد.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246193/Iran-s-oil-exports-continue-despite-US-revocation-of-waivers",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 12:16:45 GMT",
+      "time": "۱۵:۴۶ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T01:04:53.475Z"
+    },
+    {
+      "id": "mehrnews_a23293c706",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US raids kills family members of Iranian park ranger in south",
+      "title_fa": "حملات آمریکا منجر به کشته شدن اعضای خانواده محیط‌بان ایرانی در جنوب شد",
+      "lead": "مقامات ایرانی گزارش دادند که در یک حمله هوایی آمریکا در شمال استان هرمزگان، اعضای خانواده یک محیط‌بان ایرانی کشته شده‌اند. این اتفاق در حالی رخ می‌دهد که حملات نظامی آمریکا در جنوب ایران ادامه دارد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246192/Three-martyred-in-US-attacks-on-Iran-s-Hormozgan-prov",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 12:02:54 GMT",
+      "time": "۱۵:۳۲ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T01:04:53.475Z"
     }
   ]
 }
