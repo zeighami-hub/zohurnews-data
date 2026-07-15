@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "foreignpolicy",
-  "total": 13,
+  "total": 19,
   "articles": [
     {
       "id": "foreignpolicy_4ce96ed94d",
@@ -314,6 +314,150 @@
       "pubDate": "Wed, 15 Jul 2026 05:00:42 +0000",
       "time": "۰۸:۳۰ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T06:22:30.625Z"
+    },
+    {
+      "id": "foreignpolicy_f0a24f7034",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "The Gulf States That Iran Thinks It Can Attack",
+      "title_fa": "کشورهای حاشیه خلیج فارس که ایران گمان می‌کند می‌تواند به آنها حمله کند",
+      "lead": "این گزارش به تحلیل این موضوع می‌پردازد که چرا بحرین و کویت به اهداف ترجیحی تهران تبدیل شده‌اند.",
+      "category": "military",
+      "region": "middle-east",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/14/iran-gulf-attacks-kuwait-bahrain-saudi-arabia-uae-trump/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 20:24:17 +0000",
+      "time": "۲۳:۵۴ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "foreignpolicy_261f6d68cd",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "The Houthis Have Joined the Chat",
+      "title_fa": "حوثی‌ها به گفتگو پیوسته‌اند",
+      "lead": "برنامه اضطراری ایران برای تنگ کردن آبراه کلیدی دیگری ممکن است اکنون فعال شده باشد. این تحول نشان‌دهنده تغییر در دینامیک‌های منطقه‌ای است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/14/houthis-iran-war-saudi-arabia-bab-el-mandeb-strait-hormuz-oil/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 14 Jul 2026 19:04:43 +0000",
+      "time": "۲۲:۳۴ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "foreignpolicy_b142a53116",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "China Is Ready to Get Tough",
+      "title_fa": "چین آماده سخت‌گیری است",
+      "lead": "تلافی دیپلماتیک پکن محدودیت‌هایی دارد، اما این محدودیت‌ها اکنون کمتر از گذشته است.",
+      "category": "diplomacy",
+      "region": "asia",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/14/china-diplomacy-retaliation-sanctions/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 14 Jul 2026 19:08:18 +0000",
+      "time": "۲۲:۳۸ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "foreignpolicy_dff8a89532",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Stop Overreacting to China’s Missile Test",
+      "title_fa": "به واکنش‌های افراطی به آزمایش موشکی چین پایان دهید",
+      "lead": "آزمایش موشکی اخیر چین یک نقطه عطف برای نیروهای هسته‌ای پکن بود. اما این آزمایش لزوماً آن تحریک‌آمیزی که بسیاری از تحلیلگران تصور می‌کنند، نبوده است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/13/china-nuclear-missile-test-launch-slbm/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Mon, 13 Jul 2026 16:20:51 +0000",
+      "time": "۱۹:۵۰ - ۲۲ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "foreignpolicy_4972f747f5",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Washington Shouldn’t Fear NATO Expansion",
+      "title_fa": "واشنگتن نباید از گسترش ناتو بترسد",
+      "lead": "متحدان جدید ناتو دارایی‌های قدرتمندی را به همراه می‌آورند. این موضوع فارغ از نظرات دونالد ترامپ، حقیقت دارد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/13/nato-expansion-ukraine-sweden-trump/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Mon, 13 Jul 2026 15:43:27 +0000",
+      "time": "۱۹:۱۳ - ۲۲ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "foreignpolicy_bf74710414",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "The Politicization of the U.S. Military Did Not Start With Trump",
+      "title_fa": "سیاسی شدن ارتش آمریکا با ترامپ آغاز نشد",
+      "lead": "نوستالژی درباره فراتر بودن نیروهای مسلح آمریکا از درگیری‌های حزبی، با تاریخ سازگار نیست. این مقاله نشان می‌دهد که سیاسی شدن ارتش آمریکا پدیده‌ای جدید نیست و با ترامپ آغاز نشده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/13/politicization-military-trump-macarthur-truman/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Mon, 13 Jul 2026 04:01:26 +0000",
+      "time": "۰۷:۳۱ - ۲۲ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
     }
   ]
 }
