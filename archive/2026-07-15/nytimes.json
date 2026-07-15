@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "nytimes",
-  "total": 8,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_58a0f4784b",
@@ -194,6 +194,102 @@
       "pubDate": "Tue, 14 Jul 2026 21:11:40 +0000",
       "time": "۰۰:۴۱ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T01:34:12.160Z"
+    },
+    {
+      "id": "nytimes_0659cce7d6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. and Iran Reignite War Over Strait of Hormuz",
+      "title_fa": "آمریکا و ایران جنگ بر سر تنگه هرمز را از سر گرفتند",
+      "lead": "دو کشور بر سر آبراه تنگه هرمز دوباره وارد جنگ علنی شدند. ایالات متحده برنامه ریزی کرده بود که سه‌شنبه محاصره بنادر ایران را از سر بگیرد. ایران نیز اعلام کرد که به دو نفتکش حمله کرده و به مواضع نظامی آمریکا شلیک کرده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 14 Jul 2026 20:36:23 +0000",
+      "time": "۰۰:۰۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T02:19:27.100Z"
+    },
+    {
+      "id": "nytimes_aebb368595",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
+      "title_fa": "ترامپ در جنگ دوباره با ایران، حریفی می‌یابد که نمی‌تواند به آسانی بر آن مسلط شود",
+      "lead": "رئیس‌جمهور (ترامپ) به وادار کردن سایر کشورها به تسلیم در برابر خواست خود عادت کرده است. اما با فروپاشی آتش‌بس که او واسطه‌اش بود، در یافتن راهبردی برای گرفتن امتیاز از ایران در تلاش است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Tue, 14 Jul 2026 23:01:39 +0000",
+      "time": "۰۲:۳۱ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T02:19:27.100Z"
+    },
+    {
+      "id": "nytimes_7e92a2317b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran’s Cyberattackers Tracked Phones of U.S. Military Personnel in the Mideast, Data Suggests",
+      "title_fa": "حمله‌کنندگان سایبری ایران تلفن‌های پرسنل نظامی آمریکا در خاورمیانه را ردیابی کردند، داده‌ها نشان می‌دهد",
+      "lead": "محققان می‌گویند قابلیت‌های جنگ سایبری ایران در طول جنگ با ایالات متحده و اسرائیل پیشرفته‌تر و تهاجمی‌تر شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/middleeast/iran-cyberattack-us-military-phones-tracking.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 14 Jul 2026 22:43:01 +0000",
+      "time": "۰۲:۱۳ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T02:19:27.100Z"
+    },
+    {
+      "id": "nytimes_c992e251c4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran’s Former Leader Denies Times Report",
+      "title_fa": "رهبر سابق ایران گزارش تایمز را تکذیب کرد",
+      "lead": "روزنامه تایمز گزارش داده بود که اسرائیل قصد داشته است محمود احمدی‌نژاد را پس از جنگ دوباره به عنوان رهبر ایران منصوب کند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/middleeast/mahmoud-ahmadinejad-iran-israeli-asset.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Tue, 14 Jul 2026 22:16:02 +0000",
+      "time": "۰۱:۴۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T02:19:27.100Z"
     }
   ]
 }
