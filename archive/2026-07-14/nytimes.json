@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "nytimes",
-  "total": 33,
+  "total": 34,
   "articles": [
     {
       "id": "nytimes_7955cc1f7a",
@@ -794,6 +794,30 @@
       "pubDate": "Tue, 14 Jul 2026 15:25:49 +0000",
       "time": "۱۸:۵۵ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T20:50:13.554Z"
+    },
+    {
+      "id": "nytimes_3955f64375",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Six Dead in an Elevator After Fire in Central Brussels",
+      "title_fa": "شش کشته در آسانسور پس از آتش‌سوزی در مرکز بروکسل",
+      "lead": "شش جسد پس از آتش‌سوزی در ساختمان اوکسی در مرکز بروکسل در صبح روز سه‌شنبه، در یک آسانسور پیدا شد. تحقیقات برای بررسی علت این حادثه مرگبار آغاز شده است.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 18:57:54 +0000",
+      "time": "۲۲:۲۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T21:09:27.913Z"
     }
   ]
 }
