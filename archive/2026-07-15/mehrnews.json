@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "mehrnews",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_fbba9c57b6",
@@ -194,6 +194,54 @@
       "pubDate": "Tue, 14 Jul 2026 13:27:23 GMT",
       "time": "۱۶:۵۷ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T02:19:27.100Z"
+    },
+    {
+      "id": "mehrnews_1e6f602919",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC sets US logistics hub ablaze in Kuwait",
+      "title_fa": "سپاه پاسداران مرکز لجستیک آمریکا در کویت را به آتش کشید",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که مرکز اصلی لجستیک و پشتیبانی آمریکا برای غرب آسیا در بندر عبدالله کویت را به آتش کشیده است. این اقدام چهارمین موج از عملیات تلافی‌جویانه \"نصر ۲\" در پاسخ به حملات آمریکا عنوان شده است.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://en.mehrnews.com/news/246206/IRGC-sets-US-logistics-hub-ablaze-in-Kuwait",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 03:57:44 GMT",
+      "time": "۰۷:۲۷ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T04:05:18.595Z"
+    },
+    {
+      "id": "mehrnews_2959ea5604",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Israeli strike kills 3 in central Gaza home",
+      "title_fa": "حمله اسرائیل به خانه‌ای در مرکز غزه ۳ کشته برجای گذاشت",
+      "lead": "در پی یک حمله هوایی اسرائیل به خانه‌ای در دیرالبلاح در مرکز غزه، سه غیرنظامی فلسطینی کشته و چندین نفر دیگر زخمی شدند. این حادثه در میانه درگیری‌های جاری در منطقه رخ داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246205/Israeli-strike-kills-3-in-central-Gaza-home",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 03:44:34 GMT",
+      "time": "۰۷:۱۴ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T03:49:45.831Z"
     }
   ]
 }
