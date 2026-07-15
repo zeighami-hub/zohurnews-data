@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "reuters",
-  "total": 28,
+  "total": 29,
   "articles": [
     {
       "id": "reuters_8046a37741",
@@ -646,6 +646,28 @@
       "pubDate": "Mon, 13 Jul 2026 20:21:00 GMT",
       "time": "۲۳:۵۱ - ۲۲ تیر",
       "analyzed_at": "2026-07-14T13:11:55.321Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Wall Street ends lower as Iran tensions dampen risk appetite; chipmakers drop - Reuters",
+      "title_fa": "وال استریت در پی تنش‌های ایران با کاهش به کار خود پایان داد؛ سهام شرکت‌های تولیدکننده تراشه سقوط کرد",
+      "lead": "بازارهای سهام وال استریت با افت به کار خود پایان دادند. این کاهش ناشی از افزایش تنش‌ها با ایران بود که تمایل به ریسک‌پذیری در بازار را تضعیف کرد و به ویژه بر سهام شرکت‌های تولیدکننده تراشه تأثیر منفی گذاشت.",
+      "category": "technology",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzMxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-14T13:59:40.299Z"
     }
   ]
 }
