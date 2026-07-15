@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "bbc",
-  "total": 15,
+  "total": 20,
   "articles": [
     {
       "id": "bbc_5258cc0b91",
@@ -362,6 +362,126 @@
       "pubDate": "Tue, 14 Jul 2026 22:17:43 GMT",
       "time": "۰۱:۴۷ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T10:14:18.229Z"
+    },
+    {
+      "id": "bbc_5205caa57e",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+      "title_fa": "تنگه هرمز؛ «خط گسل» که ضعف توافق آمریکا و ایران را آشکار می‌کند",
+      "lead": "کنترل این آبراه به یکی از نقاط اصلی اختلاف بین آمریکا و ایران تبدیل شده است. این وضعیت در حالی است که توافق آتش‌بس در حال تزلزل است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Tue, 14 Jul 2026 19:13:49 GMT",
+      "time": "۲۲:۴۳ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "bbc_34ac38df47",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "title_fa": "ترامپ تهدید کرد در صورت عدم ازسرگیری مذاکرات از سوی ایران، پل‌ها و نیروگاه‌های این کشور را بمباران خواهد کرد",
+      "lead": "اظهارات ترامپ در حالی منتشر شد که دو کشور برای چهارمین روز متوالی به تبادل آتش پرداختند. همچنین آمریکا محاصره بنادر ایران را از سر گرفت.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 09:06:52 GMT",
+      "time": "۱۲:۳۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "bbc_5ef248ac9e",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Air India crash report likely to be ready in October, say investigators",
+      "title_fa": "محققان می‌گویند گزارش سقوط هواپیمای ایر ایندیا احتمالا تا اکتبر آماده می‌شود",
+      "lead": "در این سانحه ۲۶۰ نفر جان باختند که ۲۴۱ نفر آنها از سرنشینان هواپیما بودند و تنها یک مسافر زنده ماند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 15 Jul 2026 09:45:21 GMT",
+      "time": "۱۳:۱۵ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "bbc_b231af268d",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+      "title_fa": "چگونه ارتباطات وزیر بازرگانی آمریکا با اپستین توسط یک افشاگر بریتانیایی فاش شد",
+      "lead": "سیمون آندریز ارتباطات هاوارد لوتینک، وزیر بازرگانی آمریکا، با اپستین را در پرونده‌های عمومی منتشر شده اپستین کشف کرد. این کشف توسط یک افشاگر بریتانیایی صورت گرفته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Tue, 14 Jul 2026 05:00:03 GMT",
+      "time": "۰۸:۳۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
+    },
+    {
+      "id": "bbc_7a1488e820",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
+      "title_fa": "تحقیقات آتش‌سوزی بانکوک از وجود درهای قفل‌شده و دکوراسیون قابل اشتعال خبر می‌دهد؛ شمار کشته‌شدگان به ۳۰ نفر رسید",
+      "lead": "تحقیقات درباره آتش‌سوزی بانکوک نشان می‌دهد که درهای قفل‌شده و دکوراسیون قابل اشتعال در این حادثه وجود داشته است. بازماندگان و امدادگران از نبود علائم مشخص کننده خروجی‌های اضطراری گزارش داده‌اند که منجر به افزایش شمار کشته‌شدگان به ۳۰ نفر شده است.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 14 Jul 2026 03:47:41 GMT",
+      "time": "۰۷:۱۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-15T10:43:41.833Z"
     }
   ]
 }
