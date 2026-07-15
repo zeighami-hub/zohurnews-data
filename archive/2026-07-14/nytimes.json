@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 28,
   "articles": [
     {
       "id": "nytimes_7955cc1f7a",
@@ -626,6 +626,54 @@
       "pubDate": "Tue, 14 Jul 2026 13:11:14 +0000",
       "time": "۱۶:۴۱ - ۲۳ تیر",
       "analyzed_at": "2026-07-14T13:59:40.299Z"
+    },
+    {
+      "id": "nytimes_601ed41b4c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ann Widdecombe Was Killed in ‘Targeted Attack,’ UK Police Say",
+      "title_fa": "پلیس بریتانیا: آن وایدیکام در یک «حمله هدفمند» کشته شد",
+      "lead": "پلیس ضد تروریسم بریتانیا اعلام کرد که تحقیقات درباره قتل آن وایدیکام، از اعضای برجسته حزب ریفورم بریتانیا، به عنوان یک «حمله هدفمند» ادامه دارد. بازجویی از یک مرد ۲۸ ساله مظنون به قتل وی در حال انجام است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/europe/ann-widdecombe-targeted-attack.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 17:00:16 +0000",
+      "time": "۲۰:۳۰ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T17:15:57.528Z"
+    },
+    {
+      "id": "nytimes_4dee7a7e1e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Israel and Lebanon Meet to Advance Peace Talks, as Broader Truce Unravels",
+      "title_fa": "اسرائیل و لبنان برای پیشبرد مذاکرات صلح دیدار می‌کنند، در حالی که آتش‌بس گسترده‌تر در حال فروپاشی است",
+      "lead": "انتظارات برای دور جدید مذاکرات با میانجیگری آمریکا که هدف آن پایان دادن به ماه‌ها جنگ بین اسرائیل و حزب‌الله است، پایین است. این دیدارها در حالی صورت می‌گیرد که آتش‌بس گسترده‌تر در منطقه در حال فروپاشی است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/middleeast/israel-lebanon-peace-talks.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Tue, 14 Jul 2026 15:06:02 +0000",
+      "time": "۱۸:۳۶ - ۲۳ تیر",
+      "analyzed_at": "2026-07-14T17:15:57.528Z"
     }
   ]
 }
