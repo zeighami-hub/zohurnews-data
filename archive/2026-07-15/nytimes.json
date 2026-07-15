@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_58a0f4784b",
@@ -290,6 +290,30 @@
       "pubDate": "Tue, 14 Jul 2026 22:16:02 +0000",
       "time": "۰۱:۴۶ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T02:19:27.100Z"
+    },
+    {
+      "id": "nytimes_9c346089b5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Former Child Care Worker in Sydney Facing Over 300 Abuse Charges Is Identified",
+      "title_fa": "کارمند سابق مهدکودک در سیدنی با بیش از ۳۰۰ اتهام آزار و اذیت شناسایی شد",
+      "lead": "دادگاهی در سیدنی حکم منع انتشار هویت مردی را که متهم به آزار بیش از ۱۰۰ کودک در طول ۱۶ سال است، لغو کرد. این فرد کارمند سابق مهدکودک بوده و با بیش از ۳۰۰ اتهام آزار و اذیت مواجه است.",
+      "category": "crime",
+      "region": "oceania",
+      "sourceUrl": "https://www.nytimes.com/2026/07/14/world/australia/sydney-child-abuse-daycare-worker.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 15 Jul 2026 02:15:58 +0000",
+      "time": "۰۵:۴۵ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T02:34:25.862Z"
     }
   ]
 }
