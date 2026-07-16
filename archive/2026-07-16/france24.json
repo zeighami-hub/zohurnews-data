@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "france24",
-  "total": 29,
+  "total": 30,
   "articles": [
     {
       "id": "france24_f79318a295",
@@ -694,6 +694,30 @@
         "negative": 60
       },
       "analyzed_at": "2026-07-16T10:53:16.439Z"
+    },
+    {
+      "id": "france24_10a786dc2f",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "New Pegasus spyware revelations as French PM visits Morocco",
+      "title_fa": "افشای جدید نرم‌افزار جاسوسی پگاسوس همزمان با سفر نخست‌وزیر فرانسه به مراکش",
+      "lead": "این خبر نگاهی به افشاگری‌های جدید درباره ابزار نظارتی مراکش، پنج سال پس از موج اول رسوایی نرم‌افزار جاسوسی پگاسوس دارد. در خبرهای دیگر، حمایت از اسرائیل در هر دو طیف سیاسی با مشکل مواجه شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/press-review/20260716-new-pegasus-spyware-revelations-as-french-pm-visits-morocco",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 16 Jul 2026 10:25:42 GMT",
+      "time": "۱۳:۵۵ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T11:08:12.917Z"
     }
   ]
 }
