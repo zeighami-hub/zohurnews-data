@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "aljazeera_af697c3f48",
@@ -26,6 +26,54 @@
       "pubDate": "Wed, 15 Jul 2026 23:36:16 +0000",
       "time": "۰۳:۰۶ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T00:04:20.707Z"
+    },
+    {
+      "id": "aljazeera_bf2cfdc451",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker",
+      "title_fa": "جنگ ایران زنده: آژیرهای خطر در بحرین و کویت؛ آمریکا نفتکش ایرانی را \"غیرفعال\" کرد",
+      "lead": "رسانه‌های ایرانی از وقوع انفجارها در جزیره قشم، بندرعباس و چابهار خبر می‌دهند، در حالی که بحرین و کویت آژیرهای حمله هوایی را به صدا درآوردند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 00:00:48 +0000",
+      "time": "۰۳:۳۰ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T00:19:41.107Z"
+    },
+    {
+      "id": "aljazeera_62d65c0528",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Tuchel defends tactics after Argentina send England packing from World Cup",
+      "title_fa": "توخل پس از حذف انگلیس توسط آرژانتین از جام جهانی، از تاکتیک‌های خود دفاع کرد",
+      "lead": "توخل، سرمربی انگلیس، در دقیقه ۸۲ بازی ریس جیمز را با دن برن و دکلان رایس را با مدافع نیکو اورایلی تعویض کرد.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/15/tuchel-defends-tactics-after-argentina-send-england-packing-from-world-cup?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 23:58:12 +0000",
+      "time": "۰۳:۲۸ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T00:19:41.107Z"
     }
   ]
 }
