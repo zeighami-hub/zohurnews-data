@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_8c2dff5802",
@@ -26,6 +26,30 @@
       "pubDate": "Wed, 15 Jul 2026 10:53:00 +0100",
       "time": "۱۳:۲۳ - ۲۴ تیر",
       "analyzed_at": "2026-07-16T00:19:41.107Z"
+    },
+    {
+      "id": "skynews_1c2fe90b3f",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "TikTok being investigated by Ofcom over child safety measures",
+      "title_fa": "تحقیق آفکام درباره اقدامات ایمنی تیک‌تاک برای کودکان",
+      "lead": "آفکام تحقیقاتی را آغاز کرده تا مشخص کند آیا تیک‌تاک در محافظت از کودکان در برابر محتوای مضر موفق عمل می‌کند یا خیر. این تحقیق بر تدابیر ایمنی پلتفرم برای کاربران خردسال متمرکز است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/tiktok-being-investigated-by-ofcom-over-child-safety-measures-13563884",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 16 Jul 2026 06:41:00 +0100",
+      "time": "۰۹:۱۱ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T05:51:57.994Z"
     }
   ]
 }
