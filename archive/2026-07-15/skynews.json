@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "skynews",
-  "total": 9,
+  "total": 13,
   "articles": [
     {
       "id": "skynews_7812d54ff6",
@@ -218,6 +218,102 @@
       "pubDate": "Wed, 15 Jul 2026 10:53:00 +0100",
       "time": "۱۳:۲۳ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T11:45:01.238Z"
+    },
+    {
+      "id": "skynews_74e377d010",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Seven Britons dead after wildfires in Spain",
+      "title_fa": "هفت بریتانیایی در پی آتش‌سوزی‌های اسپانیا جان باختند",
+      "lead": "پس از آتش‌سوزی‌های گسترده در جنوب اسپانیا، مرگ دو تبعه بریتانیایی دیگر نیز تأیید شد. مجموعاً هفت شهروند بریتانیایی در این حوادث جان باخته‌اند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/seven-britons-among-13-dead-after-wildfires-in-spain-13563685",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 15 Jul 2026 13:02:00 +0100",
+      "time": "۱۵:۳۲ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T21:18:03.165Z"
+    },
+    {
+      "id": "skynews_f56d3835a9",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Gus the T-rex breaks dinosaur fossil sale record at auction",
+      "title_fa": "«گاس تی‌رکس» رکورد فروش فسیل دایناسور در حراج را شکست",
+      "lead": "یک اسکلت تی‌رکس (دایناسور) پس از اینکه یک خریدار ناشناس بیش از ۵۰ میلیون دلار برای آن پرداخت، به گران‌ترین فسیل دایناسور فروخته شده در حراج تبدیل شد. این رویداد رکورد جدیدی را در زمینه فروش فسیل‌ها به ثبت رساند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/gus-the-50m-t-rex-breaks-dinosaur-fossil-sale-record-at-new-york-auction-13563667",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 11:58:00 +0100",
+      "time": "۱۴:۲۸ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T21:18:03.165Z"
+    },
+    {
+      "id": "skynews_e18a0b7b8e",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Ebola outbreak deepens as officials admit 'we're still chasing it'",
+      "title_fa": "شیوع ابولا عمیق‌تر می‌شود؛ مقامات اذعان دارند «ما هنوز در تعقیب آن هستیم»",
+      "lead": "طبق داده‌های دولتی، تعداد موارد تأیید شده ابولا در جمهوری دموکراتیک کنگو به ۲,۰۱۱ نفر و تعداد مرگ و میر ناشی از آن به ۷۵۴ نفر رسیده است. مقامات اذعان کرده‌اند که هنوز در تلاش برای کنترل این بیماری هستند.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/ebola-outbreak-in-congo-passes-2000-cases-and-750-deaths-13563636",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 11:00:00 +0100",
+      "time": "۱۳:۳۰ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T21:18:03.165Z"
+    },
+    {
+      "id": "skynews_523150ae0d",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "UK working to ban goods and services exports to and imports from Israeli settlements",
+      "title_fa": "بریتانیا در حال کار برای ممنوعیت صادرات و واردات کالا و خدمات به شهرک‌های اسرائیلی است",
+      "lead": "دولت بریتانیا در حال برنامه‌ریزی برای ممنوعیت واردات و صادرات به شهرک‌های غیرقانونی اسرائیلی است. این موضوع توسط وزیر تجارت در روز چهارشنبه تایید شد.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/uk-working-to-ban-goods-and-services-exports-to-and-imports-from-israeli-settlements-13563617",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 10:02:00 +0100",
+      "time": "۱۲:۳۲ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T21:18:03.165Z"
     }
   ]
 }
