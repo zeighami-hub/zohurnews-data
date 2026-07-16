@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "rt",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "rt_e5e51de44c",
@@ -410,6 +410,54 @@
       "pubDate": "Wed, 15 Jul 2026 01:49:23 +0000",
       "time": "۰۵:۱۹ - ۲۴ تیر",
       "analyzed_at": "2026-07-16T10:46:06.941Z"
+    },
+    {
+      "id": "rt_92cec01dee",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "EU fails to agree on Russia sanctions after days of talks – media",
+      "title_fa": "رسانه‌ها: اتحادیه اروپا پس از روزها مذاکره در مورد تحریم‌های روسیه به توافق نرسید",
+      "lead": "نمایندگان اتحادیه اروپا نتوانستند در مورد بسته جدید تحریم‌های ضد روسی به توافق برسند. با این حال، سقف قیمت نفت برای یک هفته در ۴۴.۱۰ دلار در هر بشکه حفظ شد.",
+      "category": "economy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643112-eu-russia-sanctions-fail/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 22:05:22 +0000",
+      "time": "۰۱:۳۵ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T10:53:16.439Z"
+    },
+    {
+      "id": "rt_24c3559a28",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "‘They don’t want you there’: Trump tells Netanyahu to leave Syria and Lebanon – Axios",
+      "title_fa": "ترامپ به نتانیاهو گفت: \"آنها شما را آنجا نمی‌خواهند\" و خواستار خروج از سوریه و لبنان شد – آکسیوس",
+      "lead": "بر اساس گزارش آکسیوس، دونالد ترامپ از بنیامین نتانیاهو خواسته است که نیروهای اسرائیلی را از سوریه و لبنان خارج کند. این موضوع به نقل از آکسیوس در آر‌تی دات‌کام منتشر شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/643080-trump-tells-netanyahu-leave-syria-lebanon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 09:00:03 +0000",
+      "time": "۱۲:۳۰ - ۲۴ تیر",
+      "analyzed_at": "2026-07-16T10:53:16.439Z"
     }
   ]
 }
