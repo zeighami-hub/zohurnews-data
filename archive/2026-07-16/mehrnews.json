@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "mehrnews",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "mehrnews_7c085f5d6d",
@@ -170,6 +170,30 @@
       "pubDate": "Thu, 16 Jul 2026 06:35:23 GMT",
       "time": "۱۰:۰۵ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T06:52:18.553Z"
+    },
+    {
+      "id": "mehrnews_ec077928e9",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US air radar, jet fuel pumps destroyed in Bahrain",
+      "title_fa": "ادعای انهدام رادار هوایی و پمپ‌های سوخت جت آمریکا در بحرین",
+      "lead": "خبرگزاری مهر گزارش داد که سپاه پاسداران انقلاب اسلامی اعلام کرده است یک رادار و زیرساخت سوخت جت را در پایگاه هوایی شیخ عیسی در بحرین مورد حمله قرار داده و منهدم کرده است. این خبر از سوی خبرگزاری مهر منتشر شده است.",
+      "category": "politics",
+      "region": "bahrain",
+      "sourceUrl": "https://en.mehrnews.com/news/246257/US-air-radar-jet-fuel-pumps-destroyed-in-Bahrain",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 07:31:23 GMT",
+      "time": "۱۱:۰۱ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T07:36:58.398Z"
     }
   ]
 }
