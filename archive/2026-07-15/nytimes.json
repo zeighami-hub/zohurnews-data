@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "nytimes",
-  "total": 34,
+  "total": 36,
   "articles": [
     {
       "id": "nytimes_58a0f4784b",
@@ -818,6 +818,54 @@
       "pubDate": "Wed, 15 Jul 2026 19:04:18 +0000",
       "time": "۲۲:۳۴ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T20:33:35.760Z"
+    },
+    {
+      "id": "nytimes_3ba1ade4a1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. and Iran Trade Strikes With No Sign of Backing Down",
+      "title_fa": "آمریکا و ایران در حال تبادل حملات بدون نشانه عقب‌نشینی هستند",
+      "lead": "در پنجمین روز متوالی درگیری، ایالات متحده یک حمله ۹۰ دقیقه‌ای به ایران انجام داد. در همین حال، تهران نیز بحرین، اردن و کویت را هدف قرار داده است.",
+      "category": "military",
+      "region": "middle-east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-us-strikes-war.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 15 Jul 2026 20:02:07 +0000",
+      "time": "۲۳:۳۲ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T21:18:03.165Z"
+    },
+    {
+      "id": "nytimes_d6a0dea93c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Brazen Japanese Bears Are Breaking Into Homes and Raiding Pantries",
+      "title_fa": "خرس‌های جسور ژاپنی در حال نفوذ به خانه‌ها و غارت انباری‌ها هستند",
+      "lead": "تغییرات آب و هوا و تغییرات جمعیتی باعث شده است که خرس‌های سیاه آسیایی در این کشور به انسان‌ها نزدیک‌تر شوند. این خرس‌ها به خانه‌ها نفوذ کرده و مواد غذایی را غارت می‌کنند.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/15/world/asia/japan-bear-home-break-in.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 15 Jul 2026 14:06:36 +0000",
+      "time": "۱۷:۳۶ - ۲۴ تیر",
+      "analyzed_at": "2026-07-15T21:18:03.165Z"
     }
   ]
 }
