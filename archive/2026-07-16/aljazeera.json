@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "aljazeera",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "aljazeera_af697c3f48",
@@ -288,6 +288,54 @@
       "pubDate": "Thu, 16 Jul 2026 02:31:26 +0000",
       "time": "۰۶:۰۱ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T03:04:04.606Z"
+    },
+    {
+      "id": "aljazeera_439ace82aa",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Senior Chinese delegation visits North Korea for talks",
+      "title_fa": "هیئت عالی‌رتبه چینی برای مذاکره از کره شمالی بازدید می‌کند",
+      "lead": "وانگ هونینگ، چهارمین مقام ارشد چین، با یک مقام عالی‌رتبه حزب حاکم کره شمالی گفتگو کرد. این بازدید در راستای مذاکرات دوجانبه انجام شده است.",
+      "category": "diplomacy",
+      "region": "asia",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/16/senior-chinese-delegation-visits-north-korea-for-talks?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 03:45:33 +0000",
+      "time": "۰۷:۱۵ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T04:20:06.662Z"
+    },
+    {
+      "id": "aljazeera_f8743ce0d7",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "South Korea’s international adoptees seek justice, not homecoming",
+      "title_fa": "فرزندخوانده‌های بین‌المللی کره جنوبی به دنبال عدالت هستند، نه بازگشت به خانه",
+      "lead": "دولت کره جنوبی به اشتباهات اعتراف کرده است، اما فعالان می‌گویند پاسخگویی هنوز کافی نیست. این افراد به دنبال عدالت در مورد شرایط فرزندخواندگی خود هستند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/features/2026/7/16/south-koreas-international-adoptees-seek-justice-not-homecoming?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 03:41:50 +0000",
+      "time": "۰۷:۱۱ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T04:20:06.662Z"
     }
   ]
 }
