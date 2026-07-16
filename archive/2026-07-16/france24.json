@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "france24",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "france24_f79318a295",
@@ -146,6 +146,30 @@
       "pubDate": "Thu, 16 Jul 2026 06:19:43 GMT",
       "time": "۰۹:۴۹ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T06:38:37.013Z"
+    },
+    {
+      "id": "france24_d0265e65d2",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Protests against removal of popular defence minister erupt across Ukraine",
+      "title_fa": "اعتراضات سراسری در اوکراین علیه برکناری وزیر دفاع محبوب",
+      "lead": "اعتراضات کم‌سابقه در زمان جنگ، روز پنجشنبه در سراسر اوکراین به وقوع پیوست. معترضان خواستار بازگرداندن میخایلو فدروف به سمت وزیر دفاع هستند که روز چهارشنبه از سمت خود برکنار شد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/europe/20260716-protests-against-removal-of-popular-defence-minister-erupt-across-ukraine",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 07:34:49 GMT",
+      "time": "۱۱:۰۴ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T07:53:17.843Z"
     }
   ]
 }
