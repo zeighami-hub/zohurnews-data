@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "dw",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "dw_26b1f76e0e",
@@ -26,6 +26,30 @@
       "pubDate": "Wed, 15 Jul 2026 23:41:00 GMT",
       "time": "۰۳:۱۱ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T00:04:20.707Z"
+    },
+    {
+      "id": "dw_7b45793a86",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Hong Kong police raid two bookstores, arrest five people",
+      "title_fa": "پلیس هنگ کنگ به دو کتابفروشی یورش برد و پنج نفر را دستگیر کرد",
+      "lead": "پنج کتابفروش در هنگ کنگ به دلیل فروش انتشاراتی که ادعا می‌شود «تحریک‌آمیز» هستند، دستگیر شده‌اند. دو کتابفروشی هدف جدیدی در سرکوب مداوم کتابفروشی‌های مستقل قرار گرفته‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/hong-kong-police-raid-two-bookstores-arrest-five-people/a-77976983?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 04:13:00 GMT",
+      "time": "۰۷:۴۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T04:20:06.662Z"
     }
   ]
 }
