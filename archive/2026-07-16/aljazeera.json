@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "aljazeera",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "aljazeera_af697c3f48",
@@ -96,6 +96,54 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-16T00:48:44.655Z"
+    },
+    {
+      "id": "aljazeera_6b9300feec",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Wildfire smoke engulfs Toronto, Canada and turns its skies orange",
+      "title_fa": "دود آتش‌سوزی‌های جنگلی تورنتو کانادا را فرا گرفت و آسمان آن را نارنجی کرد",
+      "lead": "دود ناشی از آتش‌سوزی‌های جنگلی، آسمان تورنتو و سایر مناطق انتاریو را نارنجی کرده است. این پدیده شهر را تحت تأثیر قرار داده است.",
+      "category": "environment",
+      "region": "canada",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-engulfs-toronto-canada-and-turns-its-skies-orange?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 00:47:07 +0000",
+      "time": "۰۴:۱۷ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T01:03:38.458Z"
+    },
+    {
+      "id": "aljazeera_16f8851ed4",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "‘Epic squared’: Scaloni lauds Argentina’s back-to-back World Cup comebacks",
+      "title_fa": "اسکالونی بازگشت‌های پیاپی آرژانتین در جام جهانی را \"فوق‌العاده مضاعف\" خواند",
+      "lead": "سرمربی آرژانتین، اسکالونی، بازگشت‌های پیاپی تیمش در جام جهانی را تحسین کرد و آنها را \"فوق‌العاده مضاعف\" خواند. او درباره حملات بی‌وقفه دیرهنگام مقابل انگلیس گفت: \"خون در آب بود و ما به دنبال آن رفتیم.\"",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/16/epic-squared-scaloni-lauds-argentinas-back-to-back-world-cup-comebacks?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 00:15:34 +0000",
+      "time": "۰۳:۴۵ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T01:03:38.458Z"
     }
   ]
 }
