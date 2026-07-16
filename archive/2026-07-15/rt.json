@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "rt",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "rt_72c3e2b7b3",
@@ -602,6 +602,30 @@
       "pubDate": "Wed, 15 Jul 2026 22:05:22 +0000",
       "time": "۰۱:۳۵ - ۲۵ تیر",
       "analyzed_at": "2026-07-15T22:20:23.267Z"
+    },
+    {
+      "id": "rt_8834c74566",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "New York mayor blasted over justifying rising rape numbers (VIDEO)",
+      "title_fa": "انتقاد شدید از شهردار نیویورک به دلیل توجیه افزایش آمار تجاوز جنسی",
+      "lead": "شهردار نیویورک، زهران ممدانی، افزایش گزارش‌های تجاوز جنسی را به گسترش تعریف قانونی این جرم نسبت داده است. این اظهارات با انتقادات گسترده‌ای مواجه شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643093-mamdani-nyc-rape-statistics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 15 Jul 2026 23:02:00 +0000",
+      "time": "۰۲:۳۲ - ۲۵ تیر",
+      "analyzed_at": "2026-07-15T23:05:23.140Z"
     }
   ]
 }
