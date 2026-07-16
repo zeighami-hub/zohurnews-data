@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "reuters",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "reuters_0",
@@ -552,6 +552,30 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-16T08:54:48.324Z"
+    },
+    {
+      "id": "reuters_3fec77fee1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran warns Strait of Hormuz is a 'red line' and will resist until the end - Reuters",
+      "title_fa": "ایران هشدار می‌دهد تنگه هرمز «خط قرمز» است و تا پایان مقاومت خواهد کرد.",
+      "lead": "ایران هشدار داده است که تنگه هرمز «خط قرمز» محسوب می‌شود. این کشور تأکید کرده است که تا پایان در برابر هرگونه تهدید یا اقدام علیه این آبراه مقاومت خواهد کرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 08:30:49 GMT",
+      "time": "۱۲:۰۰ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T09:09:31.226Z"
     }
   ]
 }
