@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "bbc",
-  "total": 32,
+  "total": 34,
   "articles": [
     {
       "id": "bbc_5258cc0b91",
@@ -770,6 +770,54 @@
       "pubDate": "Wed, 15 Jul 2026 22:46:02 GMT",
       "time": "۰۲:۱۶ - ۲۵ تیر",
       "analyzed_at": "2026-07-15T23:05:23.140Z"
+    },
+    {
+      "id": "bbc_0fa10ea5b5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+      "title_fa": "کشف گونه جدیدی از میمون با لب‌های نارنجی در جنگل‌های کنگو",
+      "lead": "دانشمندان از یافتن گونه جدیدی از میمون با لب‌های نارنجی در جنگل‌های جمهوری دموکراتیک کنگو خبر دادند. آنها این کشف را \"حس شگفت‌انگیزی\" برای مشاهده حیوانی که کمتر کسی از وجود آن باخبر بود، توصیف کردند.",
+      "category": "science",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 23:02:49 GMT",
+      "time": "۰۲:۳۲ - ۲۵ تیر",
+      "analyzed_at": "2026-07-15T23:19:11.833Z"
+    },
+    {
+      "id": "bbc_1ad3180c3d",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+      "title_fa": "خانواده‌های ۴۳ قربانی فاجعه پل جنوا منتظر حکم دادگاه هستند",
+      "lead": "بخش بزرگی از پل غول‌پیکر بزرگراه موراندی فرو ریخت و بر روی خطوط راه‌آهن زیرین افتاد. خانواده‌های ۴۳ قربانی این فاجعه منتظر اعلام حکم دادگاه هستند.",
+      "category": "society",
+      "region": "Italy",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 23:02:37 GMT",
+      "time": "۰۲:۳۲ - ۲۵ تیر",
+      "analyzed_at": "2026-07-15T23:19:11.833Z"
     }
   ]
 }
