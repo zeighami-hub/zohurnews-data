@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_099ede8c36",
@@ -98,6 +98,30 @@
       "pubDate": "Wed, 15 Jul 2026 23:45:12 GMT",
       "time": "۰۳:۱۵ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T04:20:06.662Z"
+    },
+    {
+      "id": "bbc_3bfb92b511",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Actor Sam Neill died from pneumonia, agent confirms",
+      "title_fa": "درگذشت بازیگر سام نیل بر اثر ذات‌الریه تایید شد",
+      "lead": "نماینده سام نیل، بازیگر معروف، تایید کرد که او بر اثر ذات‌الریه درگذشته است. نیل روز دوشنبه در سیدنی درگذشت و خانواده‌اش مرگ او را «ناگهانی و غیرمنتظره» توصیف کردند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 16 Jul 2026 04:28:22 GMT",
+      "time": "۰۷:۵۸ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T06:09:05.891Z"
     }
   ]
 }
