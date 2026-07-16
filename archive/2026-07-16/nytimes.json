@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_c800e9f48b",
@@ -50,6 +50,30 @@
       "pubDate": "Wed, 15 Jul 2026 14:03:27 +0000",
       "time": "۱۷:۳۳ - ۲۴ تیر",
       "analyzed_at": "2026-07-16T00:19:41.107Z"
+    },
+    {
+      "id": "nytimes_dc4a75b58b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iranian American Woman Held in Iran on Spying Charges Is Released",
+      "title_fa": "یک زن ایرانی-آمریکایی که به اتهام جاسوسی در ایران زندانی بود، آزاد شد",
+      "lead": "دنا قراری، شهروند دوتابعیتی ایرانی-آمریکایی که پاسپورتش در دسامبر ۲۰۲۴ توقیف شده بود و با اتهامات جاسوسی روبرو بود، از ایران آزاد شد. او به دلیل این اتهامات قادر به ترک ایران نبود.",
+      "category": "politics",
+      "region": "middle-east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 01:59:52 +0000",
+      "time": "۰۵:۲۹ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T02:04:10.450Z"
     }
   ]
 }
