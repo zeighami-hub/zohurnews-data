@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "nytimes_c800e9f48b",
@@ -170,6 +170,30 @@
       "pubDate": "Thu, 16 Jul 2026 05:24:49 +0000",
       "time": "۰۸:۵۴ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T05:36:57.940Z"
+    },
+    {
+      "id": "nytimes_267bd77062",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Hong Kong Police Raid Independent Bookstores and Arrest 5",
+      "title_fa": "پلیس هنگ کنگ به کتابفروشی‌های مستقل یورش برد و ۵ نفر را دستگیر کرد",
+      "lead": "پلیس هنگ کنگ به کتابفروشی‌های مستقل یورش برده و پنج نفر را بازداشت کرده است. این بازداشت‌ها در راستای سرکوب گسترده امنیت ملی صورت می‌گیرد که طی ماه‌های اخیر منجر به بازداشت دیگر کتابفروشان نیز شده است.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/asia/hong-kong-bookstore-arrest-china.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 05:54:33 +0000",
+      "time": "۰۹:۲۴ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T06:09:05.891Z"
     }
   ]
 }
