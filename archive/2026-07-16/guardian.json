@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "guardian",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "guardian_6195984c50",
@@ -242,6 +242,30 @@
       "pubDate": "Thu, 16 Jul 2026 05:46:29 GMT",
       "time": "۰۹:۱۶ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T06:09:05.891Z"
+    },
+    {
+      "id": "guardian_18efd9b2aa",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Police release images of clothes to help identify victims of alleged Sydney childcare paedophile",
+      "title_fa": "پلیس برای کمک به شناسایی قربانیان پرونده‌ی پدوفیل متهم در مهدکودک سیدنی، تصاویر لباس‌ها را منتشر کرد",
+      "lead": "پلیس استرالیا تصاویری از لباس‌های کودکان را که بر روی دستگاه‌های الکترونیکی ضبط شده بود، منتشر کرده است. این اقدام با هدف کمک به شناسایی قربانیان پرونده‌ی همیش تایت، پدوفیل متهم در یک مهدکودک در سیدنی، صورت گرفته است.",
+      "category": "crime",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/16/hamish-tait-childcare-alleged-paedophile-police-release-clothes-images-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 05:52:50 GMT",
+      "time": "۰۹:۲۲ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T06:24:42.056Z"
     }
   ]
 }
