@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_c800e9f48b",
@@ -218,6 +218,102 @@
       "pubDate": "Thu, 16 Jul 2026 08:42:07 +0000",
       "time": "۱۲:۱۲ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T08:54:48.324Z"
+    },
+    {
+      "id": "nytimes_2ed88a6ae1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran War Updates: U.S. and Iran Exchange Strikes for 5th Straight Day",
+      "title_fa": "به‌روزرسانی‌های جنگ ایران: تبادل حملات آمریکا و ایران برای پنجمین روز متوالی",
+      "lead": "آمریکا و ایران برای پنجمین روز متوالی حملات خود را تبادل کردند و به نظر می‌رسد هر دو طرف بر مواضع خود پافشاری می‌کنند. با این حال، یک مقام ارشد ایرانی با بیان اینکه \"ما نباید از جنگ و مذاکره هراسی داشته باشیم\"، راه را برای یک توافق احتمالی باز گذاشت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "pubDate": "Thu, 16 Jul 2026 08:50:14 +0000",
+      "time": "۱۲:۲۰ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T09:09:31.226Z"
+    },
+    {
+      "id": "nytimes_b8f3d871fb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s Where the U.S. and Iran Have Launched Attacks as the War Escalates",
+      "title_fa": "اینجا نقاطی است که آمریکا و ایران با تشدید جنگ در آن حملاتی را آغاز کرده‌اند.",
+      "lead": "ارتش آمریکا اهداف خود را در ایران گسترش داده است. در همین حال، ایران نیز به پایگاه‌های متعلق به متحدان آمریکا در خاورمیانه حمله کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/middleeast/iran-war-us-strikes.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 08:43:56 +0000",
+      "time": "۱۲:۱۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T09:09:31.226Z"
+    },
+    {
+      "id": "nytimes_b8194f5f22",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Wildfires Rage in Ontario as Smoke Affects Toronto’s Air Quality",
+      "title_fa": "آتش‌سوزی‌های گسترده در انتاریو و تاثیر دود بر کیفیت هوای تورنتو",
+      "lead": "در روز چهارشنبه، کیفیت هوا در بزرگترین شهر کانادا گاهی بدترین در جهان بود. این وضعیت ناشی از آتش‌سوزی‌های گسترده در سراسر انتاریو بود که دود را به شهر نیویورک و فراتر از آن کشاند.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/15/world/canada/wildfire-smoke-toronto-ontario-northeast.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 15 Jul 2026 20:58:19 +0000",
+      "time": "۰۰:۲۸ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T09:09:31.226Z"
+    },
+    {
+      "id": "nytimes_b41b6cf72a",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "France Votes to Allow Assisted Dying",
+      "title_fa": "فرانسه به اجازه مرگ کمکی رأی داد",
+      "lead": "قانون‌گذاران لایحه‌ای را تصویب کردند که به پزشکان اجازه می‌دهد به بیماران لاعلاج برای مردن کمک کنند. با این مصوبه، فرانسه به لیست کوتاهی از کشورهایی که این عمل را مجاز می‌دانند، اضافه می‌شود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/15/world/europe/france-law-assisted-dying.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 19:11:21 +0000",
+      "time": "۲۲:۴۱ - ۲۴ تیر",
+      "analyzed_at": "2026-07-16T09:09:31.226Z"
     }
   ]
 }
