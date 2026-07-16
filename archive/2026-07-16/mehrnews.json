@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "mehrnews",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "mehrnews_7c085f5d6d",
@@ -122,6 +122,54 @@
       "pubDate": "Thu, 16 Jul 2026 06:15:15 GMT",
       "time": "۰۹:۴۵ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T06:24:42.056Z"
+    },
+    {
+      "id": "mehrnews_fa06df93b8",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran Army attacks US radar, fuel tanks in Jordan",
+      "title_fa": "ارتش ایران به رادار و مخازن سوخت آمریکا در اردن حمله کرد",
+      "lead": "ارتش ایران اعلام کرد که پهپادهایش بامداد پنجشنبه یک سایت راداری ثابت، سامانه‌های ارتباطی و مخازن سوخت را در پایگاه هوایی \"الازرق\" آمریکا در اردن هدف قرار داده‌اند.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://en.mehrnews.com/news/246253/Iran-Army-attacks-US-radar-fuel-tanks-in-Jordan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 06:43:35 GMT",
+      "time": "۱۰:۱۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T06:52:18.553Z"
+    },
+    {
+      "id": "mehrnews_3fa88cc483",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC hits US radar, troops gathering site in Kuwait",
+      "title_fa": "سپاه پاسداران به رادار و محل تجمع نیروهای آمریکایی در کویت حمله کرد",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که بامداد پنجشنبه به یک رادار هشدار زودهنگام C-RAM و محل تجمع نیروهای آمریکایی در پایگاه هوایی \"علی السالم\" در کویت حمله کرده است.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://en.mehrnews.com/news/246252/IRGC-hits-US-radar-troops-gathering-site-in-Kuwait",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 06:35:23 GMT",
+      "time": "۱۰:۰۵ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T06:52:18.553Z"
     }
   ]
 }
