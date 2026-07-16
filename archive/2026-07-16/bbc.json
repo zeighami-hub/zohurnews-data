@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "bbc",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "bbc_099ede8c36",
@@ -122,6 +122,30 @@
       "pubDate": "Thu, 16 Jul 2026 04:28:22 GMT",
       "time": "۰۷:۵۸ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T06:09:05.891Z"
+    },
+    {
+      "id": "bbc_506229ce99",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Iran targets military bases as US launches wave of strikes",
+      "title_fa": "ایران پایگاه‌های نظامی را هدف قرار داد در حالی که آمریکا موجی از حملات را آغاز کرده است",
+      "lead": "صدای انفجارها طی شب گذشته در سراسر ایران شنیده شد. این اتفاق اندکی پس از آن رخ داد که کشورهای همسایه حوزه خلیج فارس نیز گزارش حملاتی را آغاز کردند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 07:06:38 GMT",
+      "time": "۱۰:۳۶ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T07:23:39.015Z"
     }
   ]
 }
