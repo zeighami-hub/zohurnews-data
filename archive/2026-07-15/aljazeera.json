@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "aljazeera",
-  "total": 61,
+  "total": 63,
   "articles": [
     {
       "id": "aljazeera_18adc5d1f6",
@@ -1462,6 +1462,52 @@
       "pubDate": "Wed, 15 Jul 2026 21:31:44 +0000",
       "time": "۰۱:۰۱ - ۲۵ تیر",
       "analyzed_at": "2026-07-15T22:20:23.267Z"
+    },
+    {
+      "id": "aljazeera_d41a495582",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
+      "title_fa": "ایران: پس از حملات آمریکا، توافق صلح باطل شده و در «جنگ موجودیتی» هستیم",
+      "lead": "آمریکا شب چهارشنبه موج جدیدی از حملات را اعلام کرد. این اتفاق در بحبوحه گزارش‌هایی از وقوع انفجارهایی در بندرعباس، چابهار و اهواز رخ داد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 21:46:57 +0000",
+      "time": "۰۱:۱۶ - ۲۵ تیر",
+      "analyzed_at": "2026-07-15T22:36:02.548Z"
+    },
+    {
+      "id": "aljazeera_6",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
+      "title_fa": "آرژانتین با پیروزی ۲-۱ در بازگشتی خیره‌کننده، انگلیس را شکست داد و به فینال جام جهانی ۲۰۲۶ رسید",
+      "lead": "تیم آرژانتین، مدافع عنوان قهرمانی، با یک بازگشت تماشایی توانست انگلیس را با نتیجه ۲-۱ شکست دهد و به فینال جام جهانی ۲۰۲۶ راه یابد. آنها در فینال با اسپانیا روبرو خواهند شد، پس از این دیدار پرشور و هیجان‌انگیز.",
+      "category": "sport",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/15/argentina-stun-england-in-2-1-comback-win-to-reach-2026-world-cup-final?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-15T22:36:02.548Z"
     }
   ]
 }
