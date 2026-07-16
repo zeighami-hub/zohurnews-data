@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "nytimes",
-  "total": 40,
+  "total": 41,
   "articles": [
     {
       "id": "nytimes_58a0f4784b",
@@ -962,6 +962,30 @@
       "pubDate": "Wed, 15 Jul 2026 21:42:19 +0000",
       "time": "۰۱:۱۲ - ۲۵ تیر",
       "analyzed_at": "2026-07-15T21:50:50.449Z"
+    },
+    {
+      "id": "nytimes_6b2ee66e9f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "For England, the World Cup Final Remains Elusive",
+      "title_fa": "برای انگلیس، فینال جام جهانی همچنان دست‌نیافتنی است",
+      "lead": "تیم ملی انگلیس نتوانست به فینال جام جهانی راه یابد. این شکست سال‌ها ناکامی این کشور در رسیدن به فینال جام جهانی را ادامه می‌دهد.",
+      "category": "sport",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/15/world/europe/england-world-cup-loss-fans.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Wed, 15 Jul 2026 23:24:37 +0000",
+      "time": "۰۲:۵۴ - ۲۵ تیر",
+      "analyzed_at": "2026-07-15T23:34:42.457Z"
     }
   ]
 }
