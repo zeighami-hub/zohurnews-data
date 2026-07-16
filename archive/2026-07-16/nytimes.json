@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_c800e9f48b",
@@ -122,6 +122,54 @@
       "pubDate": "Thu, 16 Jul 2026 04:01:08 +0000",
       "time": "۰۷:۳۱ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T04:20:06.662Z"
+    },
+    {
+      "id": "nytimes_9eb528aa70",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Race for A.I. Data Centers Arrives in India",
+      "title_fa": "رقابت برای مراکز داده هوش مصنوعی به هند رسید",
+      "lead": "هند در حال توسعه مراکز داده جدید برای دستیابی به جایگاهی در رقابت جهانی هوش مصنوعی است. رئیس دفتر آسیای جنوبی نیویورک تایمز، مجیب ماشال، توضیح می‌دهد که چگونه استفاده بالقوه پردیس جدید گوگل از منابع انرژی و آب تحت فشار منطقه، نگرانی‌هایی ایجاد می‌کند.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/video/world/100000011024159/the-race-for-ai-data-centers-arrives-in-india.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Thu, 16 Jul 2026 05:25:29 +0000",
+      "time": "۰۸:۵۵ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T05:36:57.940Z"
+    },
+    {
+      "id": "nytimes_096d661f86",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.",
+      "title_fa": "هند به سرعت در حال ساخت مراکز داده هوش مصنوعی است؛ یک شهر ساحلی ممکن است بهای آن را بپردازد",
+      "lead": "با عقب ماندن هند در فناوری، مقامات این کشور به سرعت در حال ساخت مراکز داده عظیم هستند. اما منتقدان می‌گویند این پروژه‌های بزرگ منابع انرژی و آب را مصرف خواهند کرد، بدون اینکه مشاغل بلندمدتی را فراهم کنند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Thu, 16 Jul 2026 05:24:49 +0000",
+      "time": "۰۸:۵۴ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T05:36:57.940Z"
     }
   ]
 }
