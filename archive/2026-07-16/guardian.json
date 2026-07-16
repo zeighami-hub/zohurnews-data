@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "guardian",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "guardian_6195984c50",
@@ -74,6 +74,30 @@
       "pubDate": "Thu, 16 Jul 2026 00:35:12 GMT",
       "time": "۰۴:۰۵ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T01:03:38.458Z"
+    },
+    {
+      "id": "guardian_b25954eb15",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Fears for New Zealand’s native species as first bird flu case emerges",
+      "title_fa": "نگرانی‌ها برای گونه‌های بومی نیوزلند با ظهور اولین مورد آنفلوآنزای پرندگان",
+      "lead": "با تأیید اولین مورد آنفلوآنزای پرندگان H5N1 در نیوزلند، نگرانی‌هایی برای گونه‌های بومی این کشور ایجاد شده است. این ویروس در یک پرنده دریایی در ساحل ولینگتون شناسایی شده و وزیر مربوطه از عموم مردم خواسته است موارد مشاهده سه یا بیشتر پرنده بیمار یا مرده را گزارش دهند.",
+      "category": "health",
+      "region": "new zealand",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/16/new-zealand-first-h5n1-bird-flu-case",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 02:23:46 GMT",
+      "time": "۰۵:۵۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T02:49:10.231Z"
     }
   ]
 }
