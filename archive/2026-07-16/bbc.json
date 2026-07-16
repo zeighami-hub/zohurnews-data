@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "bbc",
-  "total": 10,
+  "total": 17,
   "articles": [
     {
       "id": "bbc_099ede8c36",
@@ -242,6 +242,174 @@
       "pubDate": "Wed, 15 Jul 2026 16:51:07 GMT",
       "time": "۲۰:۲۱ - ۲۴ تیر",
       "analyzed_at": "2026-07-16T09:09:31.226Z"
+    },
+    {
+      "id": "bbc_30cea8f47a",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Chip giant TSMC pledges another $100bn to expand US production",
+      "title_fa": "غول تراشه‌سازی TSMC متعهد به سرمایه‌گذاری ۱۰۰ میلیارد دلار دیگر برای گسترش تولید در آمریکا شد.",
+      "lead": "شرکت TSMC متعهد شده است که ۱۰۰ میلیارد دلار دیگر برای گسترش تولید در ایالات متحده سرمایه‌گذاری کند. این شرکت اعلام کرده که این اقدام «مشاغل با فناوری پیشرفته و پردرآمد» ایجاد خواهد کرد و مجموع تعهدات آن به آمریکا را به ۲۶۵ میلیارد دلار می‌رساند.",
+      "category": "technology",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 10:23:00 GMT",
+      "time": "۱۳:۵۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T10:46:06.941Z"
+    },
+    {
+      "id": "bbc_06d624b185",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Moment US Navy jet stuns packed Florida beach with low flypast",
+      "title_fa": "لحظه حیرت‌انگیز پرواز ارتفاع پایین جت نیروی دریایی آمریکا بر فراز ساحل شلوغ فلوریدا",
+      "lead": "یک جت تیم آکروجت «بلو اِنجلز» نیروی دریایی آمریکا با پرواز در ارتفاع پایین بر فراز جمعیت در ساحل پنساکولا، فلوریدا، موجب پرتاب شدن برخی وسایل ساحلی به هوا شد. این رویداد در مقابل چشم جمعیت حاضر رخ داد و توجه بسیاری را به خود جلب کرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Thu, 16 Jul 2026 10:13:40 GMT",
+      "time": "۱۳:۴۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T10:46:06.941Z"
+    },
+    {
+      "id": "bbc_5f291c0fab",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+      "title_fa": "تظاهرات در شهرهای اوکراین در اعتراض به برکناری وزیر دفاع توسط زلنسکی",
+      "lead": "رئیس‌جمهور اوکراین برکناری میخائیلو فدوروف را توضیح نداده است. این اقدام باعث ناراحتی و ناآرامی گسترده در میان جامعه مدنی و ارتش اوکراین شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 09:29:28 GMT",
+      "time": "۱۲:۵۹ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T10:46:06.941Z"
+    },
+    {
+      "id": "bbc_f66b8e07a3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Pakistan resisting UK attempts to deport grooming gang leader",
+      "title_fa": "مقاومت پاکستان در برابر تلاش‌های بریتانیا برای اخراج رهبر باند تبهکار",
+      "lead": "دولت پاکستان اعلام کرده است که هیچ ارتباطی با پرونده شبیر احمد ندارد. این در حالی است که بریتانیا در تلاش است تا این رهبر باند تبهکار را به پاکستان اخراج کند، اما با مقاومت اسلام‌آباد روبرو شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxnvjy706o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 16 Jul 2026 08:38:06 GMT",
+      "time": "۱۲:۰۸ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T10:46:06.941Z"
+    },
+    {
+      "id": "bbc_b0341965db",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Special police team to investigate killing of an anti-migrant leader in South Africa",
+      "title_fa": "تیم ویژه پلیس برای تحقیق درباره قتل رهبر ضد مهاجرت در آفریقای جنوبی",
+      "lead": "رهبر استانی \"مارس و مارس\" چند روز پس از تیراندازی، بر اثر جراحات وارده در بیمارستان جان باخت. اکنون یک تیم ویژه پلیس برای تحقیق در مورد این قتل تشکیل شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 15 Jul 2026 15:33:30 GMT",
+      "time": "۱۹:۰۳ - ۲۴ تیر",
+      "analyzed_at": "2026-07-16T10:46:06.941Z"
+    },
+    {
+      "id": "bbc_2370849361",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Venezuela government to launch formal talks with opposition members",
+      "title_fa": "دولت ونزوئلا مذاکرات رسمی با اعضای اپوزیسیون را آغاز می‌کند",
+      "lead": "دولت ونزوئلا قرار است مذاکرات رسمی را با اعضای اپوزیسیون آغاز کند. اپوزیسیون اعلام کرده است که هدف از این گفتگوها تقویت نهادهای دموکراتیک و نظام انتخاباتی است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 12:21:21 GMT",
+      "time": "۱۵:۵۱ - ۲۴ تیر",
+      "analyzed_at": "2026-07-16T10:46:06.941Z"
+    },
+    {
+      "id": "bbc_7c56b68799",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
+      "title_fa": "ملونی، نخست‌وزیر ایتالیا، در یک رای‌گیری نزدیک درباره اصلاحات انتخاباتی متحمل شکست غیرمنتظره‌ای شد",
+      "lead": "ملونی، نخست‌وزیر ایتالیا، در یک رای‌گیری نزدیک در مورد اصلاحات انتخاباتی متحمل یک شکست غیرمنتظره شد. این شکست منجر به درخواست مخالفان برای استعفای او پیش از انتخابات عمومی سال آینده شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 11:44:28 GMT",
+      "time": "۱۵:۱۴ - ۲۴ تیر",
+      "analyzed_at": "2026-07-16T10:46:06.941Z"
     }
   ]
 }
