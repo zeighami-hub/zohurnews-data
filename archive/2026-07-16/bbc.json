@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "bbc_099ede8c36",
@@ -74,6 +74,30 @@
       "pubDate": "Wed, 15 Jul 2026 11:43:15 GMT",
       "time": "۱۵:۱۳ - ۲۴ تیر",
       "analyzed_at": "2026-07-16T00:19:41.107Z"
+    },
+    {
+      "id": "bbc_6308f7e47a",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Blanche apologises on Capitol Hill for Epstein files 'mistakes'",
+      "title_fa": "بلانش به خاطر «اشتباهات» مربوط به پرونده‌های اپستاین در کنگره عذرخواهی کرد",
+      "lead": "بلانش در کنگره تحت بازجویی دوحزبی قرار گرفت. او در تلاش است تا به طور دائمی سمت دادستان کل ایالات متحده را بر عهده بگیرد و این عذرخواهی در همین راستا انجام شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62q3g32204o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 15 Jul 2026 23:45:12 GMT",
+      "time": "۰۳:۱۵ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T04:20:06.662Z"
     }
   ]
 }
