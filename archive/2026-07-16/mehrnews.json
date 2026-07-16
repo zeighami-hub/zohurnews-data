@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 5,
   "articles": [
     {
       "id": "mehrnews_7c085f5d6d",
@@ -50,6 +50,78 @@
       "pubDate": "Thu, 16 Jul 2026 05:38:55 GMT",
       "time": "۰۹:۰۸ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T05:51:57.994Z"
+    },
+    {
+      "id": "mehrnews_c9250c2c41",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US MQ-9 drone over Iran's Andimeshk",
+      "title_fa": "پهپاد آمریکایی MQ-9 بر فراز اندیمشک ایران",
+      "lead": "یک پهپاد آمریکایی MQ-9 بر فراز اندیمشک در استان خوزستان رهگیری و منهدم شد.",
+      "category": "politics",
+      "region": "middle-east",
+      "sourceUrl": "https://en.mehrnews.com/news/246250/US-MQ-9-drone-over-Iran-s-Andimeshk",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 06:22:04 GMT",
+      "time": "۰۹:۵۲ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T06:38:37.013Z"
+    },
+    {
+      "id": "mehrnews_f86c9dbddb",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US strikes target Semnan airport",
+      "title_fa": "حملات آمریکا فرودگاه سمنان را هدف قرار داد",
+      "lead": "بخش‌هایی از فرودگاه سمنان در ایران اوایل پنجشنبه هدف حملات هوایی آمریکا قرار گرفت. تیم‌های اضطراری برای ارزیابی خسارات اعزام شدند اما هیچ گزارشی فوری از تلفات غیرنظامی منتشر نشده است.",
+      "category": "military",
+      "region": "middle-east",
+      "sourceUrl": "https://en.mehrnews.com/news/246251/US-strikes-target-Semnan-airport",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 06:28:58 GMT",
+      "time": "۰۹:۵۸ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T06:38:37.013Z"
+    },
+    {
+      "id": "mehrnews_807ea551ff",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US strikes pound S Iran, kids cancer hospital evacuated",
+      "title_fa": "حملات آمریکا به جنوب ایران، بیمارستان سرطان کودکان تخلیه شد",
+      "lead": "نیروهای آمریکایی شب گذشته چندین نقطه در استان‌های جنوبی ایران را مورد حمله قرار دادند. این حملات باعث وقوع انفجارهایی در اهواز، بندرعباس، قشم و چابهار شد و به تخلیه اضطراری بیمارستان سرطان کودکان در اهواز انجامید.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://en.mehrnews.com/news/246249/US-strikes-pound-S-Iran-kids-cancer-hospital-evacuated",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 06:15:15 GMT",
+      "time": "۰۹:۴۵ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T06:24:42.056Z"
     }
   ]
 }
