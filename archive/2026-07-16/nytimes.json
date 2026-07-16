@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_c800e9f48b",
@@ -74,6 +74,54 @@
       "pubDate": "Thu, 16 Jul 2026 01:59:52 +0000",
       "time": "۰۵:۲۹ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T02:04:10.450Z"
+    },
+    {
+      "id": "nytimes_c82193213c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Iran war, Trump Risks Another American ‘Forever War’",
+      "title_fa": "ترامپ در جنگ ایران، خطر «جنگ ابدی» دیگری را برای آمریکا به جان می‌خرد",
+      "lead": "رئیس‌جمهور ترامپ، که قول داده بود «جنگ‌ها را پایان دهد» نه آغاز کند، ممکن است در تله آشنای رؤسای جمهور افتاده باشد. این وضعیت خطر آغاز یک «جنگ ابدی» دیگر برای آمریکا را در پی دارد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 04:01:08 +0000",
+      "time": "۰۷:۳۱ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T04:20:06.662Z"
+    },
+    {
+      "id": "nytimes_8eaac92898",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Europe Wants to Break Free From American and Chinese Technology. But How?",
+      "title_fa": "اروپا می‌خواهد از فناوری‌های آمریکایی و چینی مستقل شود، اما چگونه؟",
+      "lead": "فرانسه و آلمان می‌خواهند وابستگی خود را به آمریکا و چین برای فناوری‌های کلیدی مانند هوش مصنوعی کاهش دهند. اما آن‌ها باید انتخاب کنند که این کار را در کدام حوزه‌ها انجام دهند.",
+      "category": "technology",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 04:01:08 +0000",
+      "time": "۰۷:۳۱ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T04:20:06.662Z"
     }
   ]
 }
