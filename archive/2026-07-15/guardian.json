@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "guardian",
-  "total": 34,
+  "total": 35,
   "articles": [
     {
       "id": "guardian_2aa172b1b3",
@@ -818,6 +818,30 @@
       "pubDate": "Tue, 14 Jul 2026 09:00:26 GMT",
       "time": "۱۲:۳۰ - ۲۳ تیر",
       "analyzed_at": "2026-07-15T21:18:03.165Z"
+    },
+    {
+      "id": "guardian_a6b5abdd59",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
+      "title_fa": "مکزیک از دادستان‌های کل ایالتی آمریکا خواستار تحقیق درباره مرگ مهاجران در بازداشتگاه‌های ICE شد",
+      "lead": "مکزیک رسماً از دادستان‌های کل ایالتی ایالات متحده درخواست کرده است تا پرونده‌های مهاجرانی را که در بازداشتگاه‌ها و عملیات‌های ICE جان باخته‌اند، مورد تحقیق جنایی قرار دهند. از ابتدای دوره دوم ریاست جمهوری ترامپ، ۱۴ مهاجر مکزیکی در بازداشتگاه‌های ICE و سه نفر در عملیات‌های این سازمان جان خود را از دست داده‌اند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Wed, 15 Jul 2026 20:58:43 GMT",
+      "time": "۰۰:۲۸ - ۲۵ تیر",
+      "analyzed_at": "2026-07-15T21:38:33.099Z"
     }
   ]
 }
