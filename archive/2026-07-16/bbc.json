@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "bbc",
-  "total": 6,
+  "total": 10,
   "articles": [
     {
       "id": "bbc_099ede8c36",
@@ -146,6 +146,102 @@
       "pubDate": "Thu, 16 Jul 2026 07:06:38 GMT",
       "time": "۱۰:۳۶ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T07:23:39.015Z"
+    },
+    {
+      "id": "bbc_7183cef6ef",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Eleven people die in fire at Algerian foster care home",
+      "title_fa": "یازده نفر در آتش‌سوزی یک پرورشگاه در الجزایر جان باختند",
+      "lead": "مقامات الجزایر گزارش دادند که در یک آتش‌سوزی در یک پرورشگاه، یازده نفر جان خود را از دست دادند. همچنین، نوزده نفر در این حادثه مجروح شدند که وضعیت آنها در حال بررسی است.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 08:51:18 GMT",
+      "time": "۱۲:۲۱ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T09:21:50.758Z"
+    },
+    {
+      "id": "bbc_5e11634ac6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "French MPs approve assisted dying law with strict rules after years of argument",
+      "title_fa": "نمایندگان پارلمان فرانسه قانون مرگ کمکی با قوانین سختگیرانه را پس از سال‌ها بحث تصویب کردند",
+      "lead": "این لایحه اجازه مرگ کمکی را برای بزرگسالان لاعلاج که معیارهای سختگیرانه‌ای را برآورده می‌کنند، می‌دهد. تصویب این قانون پس از سال‌ها بحث و جدل صورت گرفته است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 17:29:26 GMT",
+      "time": "۲۰:۵۹ - ۲۴ تیر",
+      "analyzed_at": "2026-07-16T09:09:31.226Z"
+    },
+    {
+      "id": "bbc_0ee607b1e5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "More people around the world now favour China over the US, Pew study suggests",
+      "title_fa": "نظرسنجی موسسه پیو نشان می‌دهد که اکنون افراد بیشتری در سراسر جهان چین را به آمریکا ترجیح می‌دهند",
+      "lead": "بررسی این اتاق فکر آمریکایی نشان می‌دهد که اعتماد به شی جین پینگ بیشتر از دونالد ترامپ است. این مطالعه حاکی از تغییر در ترجیحات جهانی بین دو قدرت بزرگ است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 17:02:41 GMT",
+      "time": "۲۰:۳۲ - ۲۴ تیر",
+      "analyzed_at": "2026-07-16T09:09:31.226Z"
+    },
+    {
+      "id": "bbc_4a8c9f43d6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Five arrested after Hong Kong police raid independent bookshops",
+      "title_fa": "پنج نفر پس از یورش پلیس هنگ کنگ به کتابفروشی‌های مستقل دستگیر شدند",
+      "lead": "مقامات می‌گویند این افراد به فروش کتاب‌های «تحریک‌آمیز» که «نفرت» علیه مقامات را تحریک می‌کردند، مظنون هستند. این دستگیری‌ها پس از یورش پلیس به چندین کتابفروشی مستقل صورت گرفت.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 15 Jul 2026 16:51:07 GMT",
+      "time": "۲۰:۲۱ - ۲۴ تیر",
+      "analyzed_at": "2026-07-16T09:09:31.226Z"
     }
   ]
 }
