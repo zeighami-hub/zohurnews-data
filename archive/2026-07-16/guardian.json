@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "guardian",
-  "total": 6,
+  "total": 9,
   "articles": [
     {
       "id": "guardian_6195984c50",
@@ -146,6 +146,78 @@
       "pubDate": "Thu, 16 Jul 2026 04:30:13 GMT",
       "time": "۰۸:۰۰ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T04:50:01.124Z"
+    },
+    {
+      "id": "guardian_07c09b6e13",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Brazil condemns US move to impose 25% tariffs next week",
+      "title_fa": "برزیل اقدام آمریکا برای اعمال تعرفه‌های ۲۵ درصدی در هفته آینده را محکوم کرد",
+      "lead": "برزیل تصمیم ایالات متحده برای اعمال تعرفه‌های ۲۵ درصدی بر برخی محصولات خود در هفته آینده را محکوم کرده است. دفتر تجارت آمریکا این اقدام را به تحقیقات درباره شیوه‌های تجاری برزیل نسبت داده، در حالی که مارکو روبیو سیاست‌های لولا را \"برای آمریکایی‌ها و برزیلی‌ها بد\" خوانده است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Thu, 16 Jul 2026 05:01:23 GMT",
+      "time": "۰۸:۳۱ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T05:20:51.061Z"
+    },
+    {
+      "id": "guardian_1fd1d9ea4e",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Liberals say ‘all options’ should be considered despite Angus Taylor hosing down gender quota proposal",
+      "title_fa": "لیبرال‌ها می‌گویند «همه گزینه‌ها» باید بررسی شوند، علی‌رغم کاهش حمایت انگس تیلور از پیشنهاد سهمیه جنسیتی",
+      "lead": "آن راستون خواستار اقدام «فوری» حزب پس از ارائه مقاله بحثی شده است. این مقاله راه‌هایی برای بهبود تعامل با زنان، جوامع چندفرهنگی و جوانان پیشنهاد داده است.",
+      "category": "politics",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/16/liberal-party-gender-quotas-angus-taylor-response",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 04:42:01 GMT",
+      "time": "۰۸:۱۲ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T05:06:31.399Z"
+    },
+    {
+      "id": "guardian_cdd6164d14",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Japan officials hunt bear that raided couple’s fridge amid string of break-ins",
+      "title_fa": "مقامات ژاپن به دنبال خرسی هستند که یخچال یک زوج را غارت کرده؛ در بحبوحه یک سری سرقت",
+      "lead": "مقامات ژاپن پس از ثبت ۱۴ مورد سرقت در یک شهر طی دو هفته، تله‌ها و حصارهای الکتریکی نصب کرده‌اند. این اقدامات در بحبوحه ترس از یک متخلف تکراری صورت گرفته است. آنها به دنبال خرسی هستند که وارد خانه یک زوج سالمند شده و یخچال آنها را غارت کرده است.",
+      "category": "environment",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/15/japan-bear-raids-fridge",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 15 Jul 2026 04:27:29 GMT",
+      "time": "۰۷:۵۷ - ۲۴ تیر",
+      "analyzed_at": "2026-07-16T05:06:31.399Z"
     }
   ]
 }
