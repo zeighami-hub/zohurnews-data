@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "aljazeera",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "aljazeera_af697c3f48",
@@ -216,6 +216,54 @@
       "pubDate": "Thu, 16 Jul 2026 01:55:54 +0000",
       "time": "۰۵:۲۵ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T02:04:10.450Z"
+    },
+    {
+      "id": "aljazeera_0f54160bb3",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran launches strikes on Gulf, even as FM visits Qatar",
+      "title_fa": "ایران در حال بازدید وزیر امور خارجه از قطر، حملاتی را در خلیج فارس آغاز کرد",
+      "lead": "ایران حملاتی را در خلیج فارس آغاز کرده است. این اقدام در حالی صورت می‌گیرد که وزیر امور خارجه ایران برای ادای احترام در پی درگذشت امیر فقید قطر، شیخ حمد بن خلیفه آل ثانی، از قطر بازدید می‌کند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Thu, 16 Jul 2026 02:10:58 +0000",
+      "time": "۰۵:۴۰ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T02:34:36.627Z"
+    },
+    {
+      "id": "aljazeera_f1f0101c89",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal",
+      "title_fa": "کی‌یف پس از امضای توافق پهپادی اتحادیه اروپا و اوکراین، هدف حملات موشکی روسیه قرار گرفت",
+      "lead": "کی‌یف هدف حملات موشکی روسیه قرار گرفته است. شهردار ویتالی کلیچکو اعلام کرده که خدمات اضطراری در حال مقابله با آتش‌سوزی‌ها در سراسر پایتخت اوکراین هستند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 01:58:45 +0000",
+      "time": "۰۵:۲۸ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T02:34:36.627Z"
     }
   ]
 }
