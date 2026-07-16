@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "guardian",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "guardian_6195984c50",
@@ -218,6 +218,30 @@
       "pubDate": "Wed, 15 Jul 2026 04:27:29 GMT",
       "time": "۰۷:۵۷ - ۲۴ تیر",
       "analyzed_at": "2026-07-16T05:06:31.399Z"
+    },
+    {
+      "id": "guardian_2815713c9c",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australian patients’ medical records could be sold on dark web after clinics’ data breach",
+      "title_fa": "سوابق پزشکی بیماران استرالیایی پس از نقض داده‌ها در کلینیک‌ها ممکن است در دارک وب فروخته شود",
+      "lead": "یک «عامل مخرب» داده‌های حساسی از جمله شماره‌های Medicare، جزئیات درمان و نتایج پاتولوژی را در یک حمله سایبری به شرکت Partnered Health به دست آورده است. این داده‌ها ممکن است در دارک وب به فروش برسند و حریم خصوصی بیماران را به خطر بیاندازند.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/16/partnered-health-data-breach-medical-centres-cyber-attack",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 05:46:29 GMT",
+      "time": "۰۹:۱۶ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T06:09:05.891Z"
     }
   ]
 }
