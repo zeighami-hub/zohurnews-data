@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "bbc",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "bbc_5258cc0b91",
@@ -722,6 +722,54 @@
       "pubDate": "Wed, 15 Jul 2026 11:38:37 GMT",
       "time": "۱۵:۰۸ - ۲۴ تیر",
       "analyzed_at": "2026-07-15T21:18:03.165Z"
+    },
+    {
+      "id": "bbc_383f54e984",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Argentina face fine for Falklands banner in semi-final win",
+      "title_fa": "آرژانتین به دلیل برافراشتن بنر فالکلند در پیروزی نیمه‌نهایی با جریمه روبرو می‌شود",
+      "lead": "آرژانتین با احتمال جریمه فیفا مواجه است. این به دلیل برافراشتن بنری در حمایت از ادعاهای کشورشان بر جزایر فالکلند توسط بازیکنانشان، پس از پیروزی در نیمه‌نهایی جام جهانی مقابل انگلیس است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 22:49:47 GMT",
+      "time": "۰۲:۱۹ - ۲۵ تیر",
+      "analyzed_at": "2026-07-15T23:05:23.140Z"
+    },
+    {
+      "id": "bbc_b2b483cad9",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US military to start testosterone testing, Hegseth says",
+      "title_fa": "هگست اعلام کرد ارتش آمریکا آزمایش تستوسترون را آغاز خواهد کرد",
+      "lead": "هگست اعلام کرده است که ارتش ایالات متحده آزمایش تستوسترون را آغاز خواهد کرد. او در ویدئویی گفت: «ما بهترین مراقبت پزشکی مطلق را در جهان به جنگجویان خود مدیونیم، و این برنامه به این تعهد عمل می‌کند.»",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 22:46:02 GMT",
+      "time": "۰۲:۱۶ - ۲۵ تیر",
+      "analyzed_at": "2026-07-15T23:05:23.140Z"
     }
   ]
 }
