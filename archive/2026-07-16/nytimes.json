@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "nytimes_c800e9f48b",
@@ -602,6 +602,54 @@
       "pubDate": "Wed, 15 Jul 2026 10:58:43 +0000",
       "time": "۱۴:۲۸ - ۲۴ تیر",
       "analyzed_at": "2026-07-16T10:53:16.439Z"
+    },
+    {
+      "id": "nytimes_559d848b56",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Pakistan, a mediator in the war, struggles to make itself heard.",
+      "title_fa": "پاکستان، میانجی در جنگ، برای شنیده شدن تلاش می‌کند.",
+      "lead": "پاکستان که در نقش میانجی در جنگ فعلی ایفای نقش می‌کند، با چالش‌هایی برای شنیده شدن صدای خود مواجه است. این کشور در تلاش است تا نقش فعال‌تری در روند صلح ایفا کند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz/pakistan-a-mediator-in-the-war-struggles-to-make-itself-heard",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 10:47:17 +0000",
+      "time": "۱۴:۱۷ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T11:08:12.917Z"
+    },
+    {
+      "id": "nytimes_772eba86d5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
+      "title_fa": "وزیر دفاع اوکراین، حامی جنگ پهپادی، برکنار شد",
+      "lead": "میخائیلو فدروف، وزیر دفاع اوکراین، روز چهارشنبه اعلام کرد که وزارت را ترک می‌کند. این تصمیم پس از درگیری‌هایی با ژنرال‌ها و پیمانکاران نظامی بر سر نقش تسلیحات نوآورانه اتخاذ شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-minister-of-defense-mykhailo-fedorov-zelensky-war-russia.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 16 Jul 2026 10:27:12 +0000",
+      "time": "۱۳:۵۷ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T11:08:12.917Z"
     }
   ]
 }
