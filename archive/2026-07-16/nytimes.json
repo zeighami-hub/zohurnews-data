@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "nytimes",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "nytimes_c800e9f48b",
@@ -194,6 +194,30 @@
       "pubDate": "Thu, 16 Jul 2026 05:54:33 +0000",
       "time": "۰۹:۲۴ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T06:09:05.891Z"
+    },
+    {
+      "id": "nytimes_afa865b840",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s the latest.",
+      "title_fa": "آخرین اخبار.",
+      "lead": "این خبر آخرین به‌روزرسانی‌ها را در مورد رویدادهای جاری ارائه می‌دهد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz/heres-the-latest",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 08:42:07 +0000",
+      "time": "۱۲:۱۲ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T08:54:48.324Z"
     }
   ]
 }
