@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "mehrnews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "mehrnews_7c085f5d6d",
@@ -26,6 +26,30 @@
       "pubDate": "Wed, 15 Jul 2026 10:52:30 GMT",
       "time": "۱۴:۲۲ - ۲۴ تیر",
       "analyzed_at": "2026-07-16T00:19:41.107Z"
+    },
+    {
+      "id": "mehrnews_89b7eb8801",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran warns next phase of operations still to come",
+      "title_fa": "ایران هشدار داد: فاز بعدی عملیات در راه است",
+      "lead": "سخنگوی سپاه پاسداران، سردار حسین محبی، هشدار داد که دشمن نباید تصور کند می‌تواند نبرد کنونی را به جنگ فرسایشی تبدیل کند. وی افزود ایران ابتدا در حال از بین بردن توانمندی‌های آمریکا است پیش از آنکه وارد فاز بعدی شود.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246248/Iran-warns-next-phase-of-operations-still-to-come",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 05:38:55 GMT",
+      "time": "۰۹:۰۸ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T05:51:57.994Z"
     }
   ]
 }
