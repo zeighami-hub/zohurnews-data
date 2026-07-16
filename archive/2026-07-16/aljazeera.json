@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "aljazeera",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "aljazeera_af697c3f48",
@@ -144,6 +144,54 @@
       "pubDate": "Thu, 16 Jul 2026 00:15:34 +0000",
       "time": "۰۳:۴۵ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T01:03:38.458Z"
+    },
+    {
+      "id": "aljazeera_f0575e38e7",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iranian doctor says US strike damaged children’s cancer hospital",
+      "title_fa": "پزشک ایرانی: حمله آمریکا به بیمارستان سرطان کودکان آسیب رسانده است",
+      "lead": "یک پزشک ایرانی گزارش داده است که حملات ایالات متحده به بیمارستان سرطان کودکان آسیب رسانده است. ایرانیان در حال بررسی خسارات ناشی از روزها حملات آمریکا در شهرهای کلیدی جنوب و غرب کشور هستند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 01:36:58 +0000",
+      "time": "۰۵:۰۶ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T01:48:58.025Z"
+    },
+    {
+      "id": "aljazeera_c7e4e71650",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Celebrations erupt in Argentina’s capital after World Cup semifinal win",
+      "title_fa": "شادی و جشن در پایتخت آرژانتین پس از پیروزی در نیمه نهایی جام جهانی",
+      "lead": "پس از پیروزی ۲-۱ آرژانتین مقابل انگلیس در نیمه‌نهایی جام جهانی، جشن و پایکوبی در بوئنوس آیرس، پایتخت آرژانتین، برپا شد. هواداران شادمان با خوشحالی به جشن و پایکوبی پرداختند.",
+      "category": "sports",
+      "region": "argentina",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/16/celebrations-erupt-in-argentinas-capital-after-world-cup-semifinal-win?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 01:27:32 +0000",
+      "time": "۰۴:۵۷ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T01:48:58.025Z"
     }
   ]
 }
