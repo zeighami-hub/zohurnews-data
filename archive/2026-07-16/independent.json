@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "independent",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "independent_d8ec250714",
@@ -242,6 +242,30 @@
       "pubDate": "Thu, 16 Jul 2026 00:34:03 GMT",
       "time": "۰۴:۰۴ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T00:48:44.655Z"
+    },
+    {
+      "id": "independent_4ee701f405",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Canadian wildfire smoke sparks air quality alert in New York ahead of World Cup final",
+      "title_fa": "دود آتش‌سوزی‌های جنگلی کانادا هشدار کیفیت هوا را در نیویورک پیش از فینال جام جهانی صادر کرد",
+      "lead": "دود ناشی از آتش‌سوزی‌های جنگلی کانادا باعث صدور هشدار کیفیت هوا در نیویورک شده است. این وضعیت پیش از فینال جام جهانی رخ داده است.",
+      "category": "environment",
+      "region": "usa",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/canada-wildfire-smoke-new-york-world-cup-final-b3015832.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 00:56:34 GMT",
+      "time": "۰۴:۲۶ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T01:03:38.458Z"
     }
   ]
 }
