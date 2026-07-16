@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "guardian",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "guardian_6195984c50",
@@ -122,6 +122,30 @@
       "pubDate": "Thu, 16 Jul 2026 02:47:04 GMT",
       "time": "۰۶:۱۷ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T03:33:44.403Z"
+    },
+    {
+      "id": "guardian_ccdb7ccbd6",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+      "title_fa": "افشاگر اطلاعاتی مراکش از استفاده گسترده از نرم‌افزار جاسوسی پگاسوس پرده برداشت",
+      "lead": "یک افشاگر از درون دستگاه اطلاعاتی مراکش، جزئیاتی از استفاده گسترده این کشور از نرم‌افزار جاسوسی پگاسوس را فاش کرده است. این افشاگر ادعا می‌کند که سرویس‌های امنیتی داخلی از سال ۲۰۱۷ این بدافزار را علیه اهداف کلیدی داخلی و خارجی به کار برده‌اند. این اطلاعات بینش بی‌سابقه‌ای از عملیات دستگاه اطلاعاتی مراکش ارائه می‌دهد.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 04:30:13 GMT",
+      "time": "۰۸:۰۰ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T04:50:01.124Z"
     }
   ]
 }
