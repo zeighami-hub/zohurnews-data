@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "guardian",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "guardian_6195984c50",
@@ -98,6 +98,30 @@
       "pubDate": "Thu, 16 Jul 2026 02:23:46 GMT",
       "time": "۰۵:۵۳ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T02:49:10.231Z"
+    },
+    {
+      "id": "guardian_af8d286ac9",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "ANU denies it ‘lost control’ to a pro-Palestine encampment, royal commission hears",
+      "title_fa": "دانشگاه ملی استرالیا تکذیب کرد که «کنترل خود را از دست داده» در برابر کمپ حامی فلسطین، کمیسیون سلطنتی می‌شنود",
+      "lead": "بررسی ایمنی داخلی در دانشگاه ملی استرالیا نشان داد که کمپ معترضان حامی فلسطین دارای رتبه ریسک روان‌اجتماعی «بالا» بوده است. در همین حال، کمیسیون سلطنتی در حال بررسی این موضوع است و دانشگاه انکار کرده که کنترل خود را به این کمپ از دست داده است.",
+      "category": "politics",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/16/anu-pro-palestine-protest-university-antisemitism-royal-commission-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Thu, 16 Jul 2026 02:47:04 GMT",
+      "time": "۰۶:۱۷ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T03:33:44.403Z"
     }
   ]
 }
