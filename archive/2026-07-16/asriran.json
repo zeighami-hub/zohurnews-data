@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "asriran",
-  "total": 27,
+  "total": 29,
   "articles": [
     {
       "id": "asriran_3",
@@ -632,6 +632,50 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-16T05:06:31.399Z"
+    },
+    {
+      "id": "asriran_3",
+      "agencyId": "asriran",
+      "keep": true,
+      "title": "لحظه اصابت موشک ایرانی به پایگاه آمریکایی در بحرین",
+      "title_fa": "لحظه اصابت موشک ایرانی به پایگاه آمریکایی در بحرین",
+      "lead": "این ویدئو لحظه اصابت موشک ایرانی به پایگاه آمریکایی در بحرین را به تصویر می‌کشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.asriran.com/fa/news/1177855/%D9%84%D8%AD%D8%B8%D9%87-%D8%A7%D8%B5%D8%A7%D8%A8%D8%AA-%D9%85%D9%88%D8%B4%DA%A9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%A8%D8%AD%D8%B1%DB%8C%D9%86",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-16T05:36:57.940Z"
+    },
+    {
+      "id": "asriran_12",
+      "agencyId": "asriran",
+      "keep": true,
+      "title": "کنایه علی دایی و کریم باقری به جمله جنجالی بیرانوند!",
+      "title_fa": "کنایه علی دایی و کریم باقری به جمله جنجالی بیرانوند",
+      "lead": "علی دایی و کریم باقری به جمله جنجالی علیرضا بیرانوند واکنش نشان دادند. بیرانوند پیشتر گفته بود که اگر کسی به جای قلعه‌نویی با آن نتایج برمی‌گشت، مجسمه او را می‌ساختند.",
+      "category": "sports",
+      "region": "iran",
+      "sourceUrl": "https://www.asriran.com/fa/news/1177860/%D9%8E%DA%A9%D9%86%D8%A7%DB%8C%D9%87-%D8%B9%D9%84%DB%8C-%D8%AF%D8%A7%DB%8C%DB%8C-%D9%88-%DA%A9%D8%B1%DB%8C%D9%85-%D8%A8%D8%A7%D9%82%D8%B1%DB%8C-%D8%A8%D9%87-%D8%AC%D9%85%D9%84%D9%87-%D8%AC%D9%86%D8%AC%D8%A7%D9%84%DB%8C-%D8%A8%DB%8C%D8%B1%D8%A7%D9%86%D9%88%D9%86%D8%AF",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-07-16T05:36:57.940Z"
     }
   ]
 }
