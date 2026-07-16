@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
   "agencyId": "nytimes",
-  "total": 39,
+  "total": 40,
   "articles": [
     {
       "id": "nytimes_58a0f4784b",
@@ -938,6 +938,30 @@
       "pubDate": "Wed, 15 Jul 2026 21:07:09 +0000",
       "time": "۰۰:۳۷ - ۲۵ تیر",
       "analyzed_at": "2026-07-15T21:38:33.099Z"
+    },
+    {
+      "id": "nytimes_a58e32e249",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran’s Top Negotiator Signals Door to Diplomacy Is Still Open",
+      "title_fa": "مذاکره‌کننده ارشد ایران از باز بودن در دیپلماسی خبر داد",
+      "lead": "ژنرال محمد باقر قالیباف، مذاکره‌کننده ارشد ایران، با وجود اختلافات شدید داخلی، رویکردی جسورانه اتخاذ کرد. او با این حال تاکید کرد که دیپلماسی می‌تواند منافع ایران را تامین کند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-ghalibaf-us-talks.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "pubDate": "Wed, 15 Jul 2026 21:42:19 +0000",
+      "time": "۰۱:۱۲ - ۲۵ تیر",
+      "analyzed_at": "2026-07-15T21:50:50.449Z"
     }
   ]
 }
