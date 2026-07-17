@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "skynews_5207ec92d3",
@@ -74,6 +74,30 @@
       "pubDate": "Fri, 17 Jul 2026 02:46:00 +0100",
       "time": "۰۵:۱۶ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T02:33:50.466Z"
+    },
+    {
+      "id": "skynews_343d73506f",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Man charged with assisting Iranian intelligence service, Met Police says",
+      "title_fa": "پلیس متروپولیتن: مردی به اتهام کمک به سرویس اطلاعاتی ایران متهم شد",
+      "lead": "پلیس متروپولیتن اعلام کرد که مردی به اتهام کمک به سرویس اطلاعاتی ایران متهم شده است. این اتهامات توسط پلیس بریتانیا مطرح شده‌اند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/man-charged-with-allegedly-assisting-iran-intelligence-service-met-police-says-13564226",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 17 Jul 2026 08:13:00 +0100",
+      "time": "۱۰:۴۳ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T09:06:25.195Z"
     }
   ]
 }
