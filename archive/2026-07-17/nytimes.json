@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -530,6 +530,78 @@
       "pubDate": "Fri, 17 Jul 2026 05:25:39 +0000",
       "time": "۰۸:۵۵ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T10:08:50.644Z"
+    },
+    {
+      "id": "nytimes_68a57b91db",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran War Live Updates: U.S. Hits Bridges and a Port in Country’s South, Iranian Media says",
+      "title_fa": "به‌روزرسانی زنده جنگ ایران: رسانه‌های ایرانی می‌گویند آمریکا پل‌ها و بندری در جنوب این کشور را هدف قرار داد",
+      "lead": "رسانه‌های ایرانی گزارش داده‌اند که ایالات متحده پل‌ها و بندری را در جنوب ایران هدف قرار داده است. فرماندهی مرکزی ارتش آمریکا اعلام کرد که حملات اخیر \"ده‌ها هدف نظامی ایران\" را هدف قرار داده، اما به زیرساخت‌های غیرنظامی اشاره‌ای نکرد.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 10:27:54 +0000",
+      "time": "۱۳:۵۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T10:40:51.043Z"
+    },
+    {
+      "id": "nytimes_e331e96cc0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Gay-Themed Mediterranean Cruise Turned Away From Turkey and Then Egypt",
+      "title_fa": "کشتی تفریحی با تم همجنس‌گرایان از ترکیه و سپس مصر بازگردانده شد",
+      "lead": "یک کشتی تفریحی با تم همجنس‌گرایان ابتدا از ترکیه و سپس از مصر بازگردانده شد. این اتفاق در حالی رخ داد که پیشتر همین کشتی بدون مشکل به این کشورها سفر کرده بود و همزمان با افزایش خصومت رسمی با افراد همجنس‌گرا در هر دو کشور با اکثریت مسلمان.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/middleeast/gay-cruise-turkey-egypt.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 17 Jul 2026 00:59:40 +0000",
+      "time": "۰۴:۲۹ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T10:40:51.043Z"
+    },
+    {
+      "id": "nytimes_a5378aec57",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
+      "title_fa": "اوکراین در حال پیشرفت بود، سپس اختلاف بر سر استراتژی جنگ علنی شد.",
+      "lead": "وزیر دفاع اوکراین که به تازگی برکنار شده بود، به طور علنی از فرماندهی ارتش انتقاد کرد که این نشان‌دهنده چشمگیرترین اختلاف علنی در طول جنگ است. این درگیری بر سر استراتژی جنگی پس از دوره‌ای از موفقیت‌های اوکراین آشکار شد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 16 Jul 2026 22:01:29 +0000",
+      "time": "۰۱:۳۱ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T10:40:51.043Z"
     }
   ]
 }
