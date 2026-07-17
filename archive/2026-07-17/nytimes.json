@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -218,6 +218,30 @@
       "pubDate": "Thu, 16 Jul 2026 14:55:45 +0000",
       "time": "۱۸:۲۵ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T07:53:41.559Z"
+    },
+    {
+      "id": "nytimes_9cdcb17056",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "How Andy Burnham, ‘King of the North,’ Conquered U.K. Politics",
+      "title_fa": "چگونه اندی برنهام، «پادشاه شمال»، سیاست بریتانیا را فتح کرد",
+      "lead": "اندی برنهام، سیاستمداری صریح‌اللهجه با پیشینه‌ای معمولی از شمال غربی انگلستان، قرار است روز جمعه به عنوان رهبر حزب کارگر معرفی شود. او به عنوان نخست‌وزیر آتی کشور نیز مطرح است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 07:54:02 +0000",
+      "time": "۱۱:۲۴ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T08:07:01.698Z"
     }
   ]
 }
