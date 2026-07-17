@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "mehrnews",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "mehrnews_0ac3c776d7",
@@ -98,6 +98,30 @@
       "pubDate": "Fri, 17 Jul 2026 06:07:16 GMT",
       "time": "۰۹:۳۷ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T06:20:36.929Z"
+    },
+    {
+      "id": "mehrnews_2255c431d0",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US attacks bridges in Iran in its latest war crimes",
+      "title_fa": "آمریکا در جدیدترین جنایات جنگی خود، به پل‌هایی در ایران حمله کرد",
+      "lead": "ارتش ایالات متحده در ادامه جنایات جنگی خود در ایران، به چندین پل در جنوب کشور حمله کرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246269/US-attacks-bridges-in-Iran-in-its-latest-bombings",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 06:32:27 GMT",
+      "time": "۱۰:۰۲ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T06:52:15.954Z"
     }
   ]
 }
