@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "reuters",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "reuters_1",
@@ -48,6 +48,28 @@
       "pubDate": "Thu, 16 Jul 2026 06:00:00 GMT",
       "time": "۰۹:۳۰ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T00:06:09.630Z"
+    },
+    {
+      "id": "reuters_7",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Trump says the US will take out Pickaxe Mountain in Iran - Reuters",
+      "title_fa": "ترامپ می‌گوید آمریکا کوه «پیک‌اکس» در ایران را هدف قرار خواهد داد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، اعلام کرد که ایالات متحده کوه «پیک‌اکس» در ایران را از بین خواهد برد. این خبر توسط خبرگزاری رویترز گزارش شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0MxRE1KWWs1OXh4SkpMa3dwZWQzSEhxMm11YkNzX1diNFJxNWl6TkxBV1VNczl0c1hheGVMT0l4UVpFcW15YVotc3ZrV1E1bi1TM2tHS3dfdTN1YTJpUTVLdG95RUpELXo5dm9GUFNKSUZ2ekdNdHNfZ2NLQlRyVV94LVhsbVVLSWNvbndVbmpNWTJiMEFlS0tMM1hXc2FpRzJ3?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-17T01:33:45.994Z"
     }
   ]
 }
