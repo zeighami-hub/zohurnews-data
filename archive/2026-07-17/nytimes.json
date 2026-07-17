@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 9,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -122,6 +122,102 @@
       "pubDate": "Fri, 17 Jul 2026 07:00:11 +0000",
       "time": "۱۰:۳۰ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T07:06:42.176Z"
+    },
+    {
+      "id": "nytimes_9d08f5a3d6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Israeli Government Pushes Through Divisive Laws Before Election",
+      "title_fa": "دولت اسرائیل قوانین تفرقه‌افکنانه را پیش از انتخابات به تصویب رساند",
+      "lead": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، از مجموعه‌ای از قوانین حمایت کرده که نظارت قانونی بر دولت را تضعیف می‌کند. این قوانین به نفع رسانه‌های متحد و با هدف تقویت حمایت سیاسی از جریان‌های افراطی ارتدوکس تصویب شده‌اند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/middleeast/israel-divisive-new-laws.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Fri, 17 Jul 2026 07:22:36 +0000",
+      "time": "۱۰:۵۲ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T07:53:41.559Z"
+    },
+    {
+      "id": "nytimes_037c97daab",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Orphanage Fire Kills Eleven in Algeria",
+      "title_fa": "آتش‌سوزی در یتیم‌خانه الجزایر ۱۱ کشته برجای گذاشت",
+      "lead": "مقامات اعلام کردند که آتش‌سوزی صبح پنجشنبه در یک یتیم‌خانه نزدیک پایتخت الجزایر، ۱۱ نفر از جمله تعدادی کودک را به کام مرگ کشانده است. این حادثه همچنین ده‌ها نفر را زخمی کرد.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/africa/algeria-orphanage-fire.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 20:03:38 +0000",
+      "time": "۲۳:۳۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T07:53:41.559Z"
+    },
+    {
+      "id": "nytimes_8c0098e8e3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Highway Executive Given 12-Year Sentence Over Deadly Bridge Collapse in Italy",
+      "title_fa": "مدیر اجرایی بزرگراه به دلیل فروریختن پل مرگبار در ایتالیا به ۱۲ سال زندان محکوم شد",
+      "lead": "جیووانی کاستلوچی، مدیر اجرایی یک شرکت که پل موراندی در جنوا را مدیریت می‌کرد، به دلیل فروریختن این پل در سال ۲۰۱۸ به ۱۲ سال زندان محکوم شد. این حادثه منجر به کشته شدن ۴۳ نفر شده بود.",
+      "category": "society",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/europe/italy-bridge-verdict-morandi-collapse.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "pubDate": "Thu, 16 Jul 2026 17:15:21 +0000",
+      "time": "۲۰:۴۵ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T07:53:41.559Z"
+    },
+    {
+      "id": "nytimes_d2d8559c20",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Why Netflix’s ‘The Polygamist’ Has Viewers Outside South Africa Talking",
+      "title_fa": "چرا سریال «چندهمسری» نتفلیکس در خارج از آفریقای جنوبی بحث‌برانگیز شده است",
+      "lead": "این سریال پرطرفدار نتفلیکس زندگی یک زوج ثروتمند در آفریقای جنوبی را به تصویر می‌کشد که با فشارهای خیانت و ظاهرسازی دست و پنجه نرم می‌کنند. اکنون این برنامه در خارج از آفریقای جنوبی نیز مورد توجه بینندگان قرار گرفته و به موضوع بحث تبدیل شده است.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/africa/netflix-the-polygamist-south-africa.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 14:55:45 +0000",
+      "time": "۱۸:۲۵ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T07:53:41.559Z"
     }
   ]
 }
