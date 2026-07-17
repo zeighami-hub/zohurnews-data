@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "guardian",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "guardian_13",
@@ -216,6 +216,30 @@
       "pubDate": "Thu, 16 Jul 2026 15:20:58 GMT",
       "time": "۱۸:۵۰ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T07:53:41.559Z"
+    },
+    {
+      "id": "guardian_f603cb3df9",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Moira Deeming disendorsed as Victorian Liberal party candidate for upcoming state election",
+      "title_fa": "مویرا دیمینگ به عنوان نامزد حزب لیبرال ویکتوریا برای انتخابات ایالتی آینده رد صلاحیت شد.",
+      "lead": "مویرا دیمینگ، نماینده حزب لیبرال ویکتوریا، پیش از انتخابات ایالتی آینده، توسط حزب رد صلاحیت شد. این تصمیم پس از آن گرفته شد که او شکایت حقوقی خود علیه حزب را در اوایل این هفته پس گرفت.",
+      "category": "politics",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/17/moira-deeming-victorian-liberal-party-disendorsement-decision-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 08:16:57 GMT",
+      "time": "۱۱:۴۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T08:37:37.568Z"
     }
   ]
 }
