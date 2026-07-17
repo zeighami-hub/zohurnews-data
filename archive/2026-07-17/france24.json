@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "france24",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "france24_f81a158653",
@@ -26,6 +26,30 @@
       "pubDate": "Thu, 16 Jul 2026 23:56:57 GMT",
       "time": "۰۳:۲۶ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T00:06:09.630Z"
+    },
+    {
+      "id": "france24_6d02a3658d",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Trump accuses China of 'largest compromise' US election data, vows to declassify intelligence",
+      "title_fa": "ترامپ، چین را به «بزرگترین خدشه» به داده‌های انتخابات آمریکا متهم کرد و قول داد اطلاعات محرمانه را از طبقه‌بندی خارج کند",
+      "lead": "دونالد ترامپ روز پنجشنبه چین را متهم کرد که به داده‌های انتخاباتی آمریکا خدشه وارد کرده است. وی اعلام کرد که اطلاعات محرمانه مربوط به «آسیب‌پذیری‌های تکان‌دهنده» در سیستم انتخاباتی را از طبقه‌بندی خارج خواهد کرد.",
+      "category": "politics",
+      "region": "us",
+      "sourceUrl": "https://www.france24.com/en/americas/20260717-trump-china-largest-compromise-us-election-data-declassify-intelligence",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 02:22:15 GMT",
+      "time": "۰۵:۵۲ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T02:33:50.466Z"
     }
   ]
 }
