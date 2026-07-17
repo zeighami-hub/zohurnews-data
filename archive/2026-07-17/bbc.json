@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "bbc_b2b483cad9",
@@ -482,6 +482,54 @@
       "pubDate": "Thu, 16 Jul 2026 17:22:31 GMT",
       "time": "۲۰:۵۲ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T07:53:41.559Z"
+    },
+    {
+      "id": "bbc_6fb950790d",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Kris Jenner's mother Mary Jo dies aged 91",
+      "title_fa": "مری جو، مادر کریس جنر، در سن ۹۱ سالگی درگذشت.",
+      "lead": "مری جو «ام‌جی» کمپبل، مادر کریس جنر، در سن ۹۱ سالگی درگذشت. او طی سالیان متمادی در چندین قسمت از برنامه «همگام با کارداشیان‌ها» حضور داشت و چهره‌ای شناخته‌شده برای طرفداران این خانواده بود.",
+      "category": "celebrity",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 20:24:54 GMT",
+      "time": "۲۳:۵۴ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T10:08:50.644Z"
+    },
+    {
+      "id": "bbc_18ed56ce39",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+      "title_fa": "نوجوانی به انجام اقدامات خرابکارانه در لهستان برای روسیه متهم شد",
+      "lead": "سرویس‌های امنیتی لهستان می‌گویند هدف این اقدامات تحریک تنش‌های قومی بین لهستان و اوکراین بوده است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 13:08:28 GMT",
+      "time": "۱۶:۳۸ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T10:08:50.644Z"
     }
   ]
 }
