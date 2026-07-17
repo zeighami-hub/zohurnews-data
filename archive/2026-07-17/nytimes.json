@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -98,6 +98,30 @@
       "pubDate": "Fri, 17 Jul 2026 04:01:05 +0000",
       "time": "۰۷:۳۱ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T04:19:14.067Z"
+    },
+    {
+      "id": "nytimes_be6f2e2e99",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Japan Passes New Law Banning Flag Desecration in Nationalist Push",
+      "title_fa": "ژاپن قانون جدیدی برای ممنوعیت هتک حرمت پرچم در راستای رویکرد ملی‌گرایانه تصویب کرد",
+      "lead": "قانون جدید بخشی از کارزار سانا تا کایچی، نخست‌وزیر محافظه‌کار افراطی، برای ساختن ژاپنی میهن‌پرست‌تر و قاطع‌تر است. منتقدان می‌گویند این قانون آزادی بیان را تضعیف می‌کند.",
+      "category": "politics",
+      "region": "japan",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/asia/japan-flag-desecration-law.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Fri, 17 Jul 2026 07:00:11 +0000",
+      "time": "۱۰:۳۰ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T07:06:42.176Z"
     }
   ]
 }
