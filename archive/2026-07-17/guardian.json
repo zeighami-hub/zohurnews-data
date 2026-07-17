@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "guardian",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "guardian_13",
@@ -240,6 +240,54 @@
       "pubDate": "Fri, 17 Jul 2026 08:16:57 GMT",
       "time": "۱۱:۴۶ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T08:37:37.568Z"
+    },
+    {
+      "id": "guardian_5c58f1fc50",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Weather tracker: Thunderstorms strike across Europe amid record heatwave",
+      "title_fa": "رصدگر آب‌وهوا: طوفان‌های رعدوبرق در سراسر اروپا در میانه موج گرمای بی‌سابقه",
+      "lead": "طوفان‌های رعدوبرق در سراسر اروپا در میانه یک موج گرمای بی‌سابقه در جریان است و شدت آنها این هفته بسیار شدید گزارش شده است. همچنین، باران‌های موسمی مرگبار در بنگلادش رخ داده و در روستاهای فرانسه تگرگ‌هایی به اندازه توپ گلف مشاهده شده است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 08:35:56 GMT",
+      "time": "۱۲:۰۵ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T08:51:10.766Z"
+    },
+    {
+      "id": "guardian_b1abb30cd4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "China ‘strongly dissatisfied’ with nationalisation of British Steel",
+      "title_fa": "چین از ملی‌سازی شرکت بریتیش استیل «به شدت ناراضی» است",
+      "lead": "چین از تصمیم بریتانیا برای ملی‌سازی شرکت بریتیش استیل «به شدت ناراضی» است. وزارت بازرگانی چین اعلام کرده که این اقدام «ضربه سختی به اعتماد شرکت‌های چینی برای سرمایه‌گذاری در بریتانیا» وارد کرده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 06:57:08 GMT",
+      "time": "۱۰:۲۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T08:51:10.766Z"
     }
   ]
 }
