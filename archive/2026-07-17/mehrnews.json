@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "mehrnews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "mehrnews_0ac3c776d7",
@@ -26,6 +26,30 @@
       "pubDate": "Thu, 16 Jul 2026 10:56:10 GMT",
       "time": "۱۴:۲۶ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T00:06:09.630Z"
+    },
+    {
+      "id": "mehrnews_0d5953037f",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC says hit US command center in Syria's Al-Tanf",
+      "title_fa": "سپاه پاسداران از حمله به مرکز فرماندهی آمریکا در التنف سوریه خبر داد",
+      "lead": "سپاه پاسداران اعلام کرد که موشک‌هایش یک مرکز فرماندهی آمریکا را در منطقه التنف سوریه هدف قرار داده‌اند. این حمله به گفته سپاه، در تلافی حملات قبلی آمریکا به پادگان سربازان ارتش ایران در ایرانشهر صورت گرفته و منجر به کشته شدن بسیاری از سربازان آمریکایی شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246266/IRGC-says-hit-US-command-center-in-Syria-s-Al-Tanf",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 05:15:27 GMT",
+      "time": "۰۸:۴۵ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T05:20:31.131Z"
     }
   ]
 }
