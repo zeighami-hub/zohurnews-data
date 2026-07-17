@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "mehrnews",
-  "total": 24,
+  "total": 27,
   "articles": [
     {
       "id": "mehrnews_7c085f5d6d",
@@ -578,6 +578,78 @@
       "pubDate": "Thu, 16 Jul 2026 12:01:04 GMT",
       "time": "۱۵:۳۱ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T19:24:40.017Z"
+    },
+    {
+      "id": "mehrnews_3188e7041e",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Foreign Ministry summons UK envoy over IRGC blacklisting",
+      "title_fa": "وزارت خارجه سفیر بریتانیا را در پی لیست سیاه قرار دادن سپاه احضار کرد",
+      "lead": "وزارت امور خارجه ایران سفیر بریتانیا در تهران را برای اعتراض رسمی به اقدام خصمانه اخیر دولت لندن علیه سپاه پاسداران انقلاب اسلامی احضار کرد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246254/Foreign-Ministry-summons-UK-envoy-over-IRGC-blacklisting",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 06:49:02 GMT",
+      "time": "۱۰:۱۹ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T21:35:09.806Z"
+    },
+    {
+      "id": "mehrnews_54bad2e59c",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "All regional infrastructure to be destroyed if Iran's hit",
+      "title_fa": "سخنگوی قرارگاه خاتم‌الانبیا: در صورت حمله به ایران، تمام زیرساخت‌های منطقه نابود خواهد شد",
+      "lead": "سخنگوی قرارگاه مرکزی خاتم‌الانبیا ایران هشدار داد که در صورت عملی شدن تهدیدات ترامپ علیه ایران، تمام زیرساخت‌های باقی‌مانده در منطقه نابود خواهند شد. این سخنگو بر این پیامد جدی تأکید کرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246256/All-regional-infrastructure-to-be-destroyed-if-Iran-s-hit",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 07:14:40 GMT",
+      "time": "۱۰:۴۴ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T21:35:09.806Z"
+    },
+    {
+      "id": "mehrnews_bb9d701d5d",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Lebanon calls for end to Israel’s occupation",
+      "title_fa": "لبنان خواستار پایان اشغالگری اسرائیل شد",
+      "lead": "وزیر امور خارجه لبنان، یوسف راگی، اعلام کرده است که هدف نیروهای مسلح این کشور «گسترش تدریجی اقتدار خود بر تمام قلمرو لبنان، از جمله جنوب» است. این اظهارات در راستای موضع لبنان برای پایان اشغالگری اسرائیل مطرح شده است.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246255/Lebanon-calls-for-end-to-Israel-s-occupation",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 06:57:42 GMT",
+      "time": "۱۰:۲۷ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T21:35:09.806Z"
     }
   ]
 }
