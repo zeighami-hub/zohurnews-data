@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -602,6 +602,54 @@
       "pubDate": "Thu, 16 Jul 2026 22:01:29 +0000",
       "time": "۰۱:۳۱ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T10:40:51.043Z"
+    },
+    {
+      "id": "nytimes_7ddc80d2d0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s the latest.",
+      "title_fa": "آخرین اخبار",
+      "lead": "این یک عنوان و خلاصه جایگزین برای یک وبلاگ زنده است. محتوای مشخص \"آخرین اخبار\" در این بریده ارائه نشده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/17/world/uk-burnham-starmer-labour/heres-the-latest",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 10:29:22 +0000",
+      "time": "۱۳:۵۹ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T11:11:49.410Z"
+    },
+    {
+      "id": "nytimes_9069f16b27",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Canada’s Wildfires Are Burning Through the Night",
+      "title_fa": "آتش‌سوزی‌های کانادا در تمام طول شب می‌سوزند",
+      "lead": "آتش‌سوزی‌های جنگلی در کانادا اکنون به دلیل افزایش دما در طول شب، برخلاف الگوهای قبلی که پس از تاریکی کندتر پخش می‌شدند، به طور مداوم در تمام طول شب می‌سوزند. این آتش‌سوزی‌های مداوم فشار زیادی بر نیروهای آتش‌نشانی در سراسر کشور وارد می‌کند.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 22:08:16 +0000",
+      "time": "۰۱:۳۸ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T11:11:49.410Z"
     }
   ]
 }
