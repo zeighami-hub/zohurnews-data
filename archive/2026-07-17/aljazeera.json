@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "aljazeera",
-  "total": 2,
+  "total": 5,
   "articles": [
     {
       "id": "aljazeera_504e90e0de",
@@ -50,6 +50,78 @@
       "pubDate": "Thu, 16 Jul 2026 23:05:37 +0000",
       "time": "۰۲:۳۵ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T00:06:09.630Z"
+    },
+    {
+      "id": "aljazeera_f034a00b11",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
+      "title_fa": "جنگ ایران به صورت زنده: آمریکا زیرساخت‌های غیرنظامی در جنوب ایران را هدف قرار داد",
+      "lead": "مقامات از قطعی برق و حمله به ایستگاه قطار در بندر گزارش می‌دهند. در همین حال، ایران اعلام کرده که وضعیت هرمز به قبل از جنگ باز نخواهد گشت.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 23:58:15 +0000",
+      "time": "۰۳:۲۸ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T00:19:13.865Z"
+    },
+    {
+      "id": "aljazeera_52bba5dfac",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Venezuela earthquake: Number of known dead rises to nearly 5,000 victims",
+      "title_fa": "زلزله ونزوئلا: شمار کشته‌شدگان شناخته‌شده به نزدیک ۵,۰۰۰ نفر رسید",
+      "lead": "تعداد قربانیان شناخته‌شده زلزله ونزوئلا به تقریباً ۵,۰۰۰ نفر افزایش یافته است. سازمان ملل متحد تخمین می‌زند که ۵۰,۰۰۰ نفر ناپدید هستند و بیم آن می‌رود که افراد بیشتری در زیر آوار جان باخته باشند؛ اکنون تمرکز بر بازسازی است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/16/venezuela-earthquake-number-of-known-dead-rises-to-nearly-5000-victims?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 23:51:04 +0000",
+      "time": "۰۳:۲۱ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T00:19:13.865Z"
+    },
+    {
+      "id": "aljazeera_17cea1496d",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Vietnamese activist places rare national spotlight on Gaza’s suffering",
+      "title_fa": "فعال ویتنامی توجه ملی نادری را به رنج‌های غزه جلب می‌کند",
+      "lead": "بائو نگاک، یک فعال ویتنامی، توجه نادری را به وضعیت اسفبار فلسطینیان در کشوری جلب کرده است که کنترل شدیدی بر اعتراضات دارد. این اقدام، وضعیت غزه را در کانون توجه ملی قرار داده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/16/vietnamese-activist-places-rare-national-spotlight-on-gazas-suffering?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "pubDate": "Thu, 16 Jul 2026 23:39:36 +0000",
+      "time": "۰۳:۰۹ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T00:19:13.865Z"
     }
   ]
 }
