@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "guardian",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "guardian_13",
@@ -192,6 +192,30 @@
       "pubDate": "Fri, 17 Jul 2026 03:59:52 GMT",
       "time": "۰۷:۲۹ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T04:19:14.067Z"
+    },
+    {
+      "id": "guardian_4e6cd8426c",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+      "title_fa": "کاهش کمک‌های بریتانیا «حمایت دوجانبه از برخی کشورهای آفریقایی را تا ۹۰٪ کاهش می‌دهد»",
+      "lead": "منتقدان می‌گویند ارقام وزارت خارجه پیامی جهانی درباره نقش بریتانیا در صحنه بین‌المللی ارسال می‌کنند. کاهش کمک‌های خارجی حزب کارگر به معنای کاهش تا ۹۰ درصدی حمایت دوجانبه بریتانیا از برخی کشورهای آفریقایی است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 16 Jul 2026 15:20:58 GMT",
+      "time": "۱۸:۵۰ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T07:53:41.559Z"
     }
   ]
 }
