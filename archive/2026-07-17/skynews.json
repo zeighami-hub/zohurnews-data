@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_5207ec92d3",
@@ -26,6 +26,30 @@
       "pubDate": "Thu, 16 Jul 2026 12:05:00 +0100",
       "time": "۱۴:۳۵ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T00:06:09.630Z"
+    },
+    {
+      "id": "skynews_f97ae6d59c",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Hundreds feared dead after boats carrying refugees 'capsize' in Bay of Bengal",
+      "title_fa": "ترس از مرگ صدها نفر پس از غرق شدن قایق‌های حامل پناهجویان در خلیج بنگال",
+      "lead": "گزارش‌ها حاکی از آن است که دو قایق حامل پناهجویان روهینگیا در خلیج بنگال واژگون شده‌اند. بیم آن می‌رود که بیش از ۵۰۰ نفر در این حادثه جان باخته باشند.",
+      "category": "humanitarian",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/hundreds-of-rohingya-feared-dead-after-boats-carrying-refugees-capsize-in-bay-of-bengal-13563927",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 09:25:00 +0100",
+      "time": "۱۱:۵۵ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T00:19:13.865Z"
     }
   ]
 }
