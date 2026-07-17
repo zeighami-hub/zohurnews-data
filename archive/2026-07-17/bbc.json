@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "bbc",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "bbc_b2b483cad9",
@@ -314,6 +314,30 @@
       "pubDate": "Fri, 17 Jul 2026 02:37:45 GMT",
       "time": "۰۶:۰۷ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T05:36:12.621Z"
+    },
+    {
+      "id": "bbc_e86bb1095e",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "School bus crash kills at least 20 pupils in Uganda",
+      "title_fa": "سقوط اتوبوس مدرسه در اوگاندا دست‌کم ۲۰ دانش‌آموز را کشت",
+      "lead": "در سقوط یک اتوبوس مدرسه در اوگاندا، دست‌کم ۲۰ دانش‌آموز کشته و ده‌ها نفر دیگر از جمله کارکنان مدرسه زخمی شدند. گمان می‌رود نقص فنی عامل این حادثه بوده باشد.",
+      "category": "disaster",
+      "region": "africa",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 95
+      },
+      "pubDate": "Fri, 17 Jul 2026 05:36:22 GMT",
+      "time": "۰۹:۰۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T05:52:52.135Z"
     }
   ]
 }
