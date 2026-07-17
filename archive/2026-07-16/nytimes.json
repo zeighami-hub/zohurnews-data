@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "nytimes",
-  "total": 38,
+  "total": 39,
   "articles": [
     {
       "id": "nytimes_c800e9f48b",
@@ -914,6 +914,30 @@
       "pubDate": "Thu, 16 Jul 2026 20:02:43 +0000",
       "time": "۲۳:۳۲ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T21:35:09.806Z"
+    },
+    {
+      "id": "nytimes_e331e96cc0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Gay-Themed Mediterranean Cruise Turned Away From Turkey and Then Egypt",
+      "title_fa": "کشتی تفریحی با تم همجنس‌گرایان از ترکیه و سپس مصر بازگردانده شد",
+      "lead": "در هر دو کشور با اکثریت مسلمان، خصومت رسمی با همجنس‌گرایان در سال‌های اخیر افزایش یافته است. با این حال، همین کشتی تفریحی قبلاً بدون مشکل به این کشورها سفر کرده بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/middleeast/gay-cruise-turkey-egypt.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 16 Jul 2026 21:40:37 +0000",
+      "time": "۰۱:۱۰ - ۲۶ تیر",
+      "analyzed_at": "2026-07-16T21:54:22.565Z"
     }
   ]
 }
