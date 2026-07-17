@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "aljazeera",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "aljazeera_504e90e0de",
@@ -314,6 +314,30 @@
       "pubDate": "Fri, 17 Jul 2026 03:40:46 +0000",
       "time": "۰۷:۱۰ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T04:19:14.067Z"
+    },
+    {
+      "id": "aljazeera_c5945a3680",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Israeli settlers attack Sinjil town in occupied West Bank",
+      "title_fa": "حمله شهرک‌نشینان اسرائیلی به شهر سنجیل در کرانه باختری اشغالی",
+      "lead": "در پی حمله شهرک‌نشینان اسرائیلی به حومه شهر سنجیل در کرانه باختری اشغالی، درگیری‌هایی رخ داد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 04:39:08 +0000",
+      "time": "۰۸:۰۹ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T05:05:31.882Z"
     }
   ]
 }
