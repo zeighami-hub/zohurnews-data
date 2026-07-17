@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -266,6 +266,30 @@
       "pubDate": "Fri, 17 Jul 2026 08:31:06 +0000",
       "time": "۱۲:۰۱ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T08:37:37.568Z"
+    },
+    {
+      "id": "nytimes_37dc8436d5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet",
+      "title_fa": "اخترشناسان جوی را در سیاره‌ای شبیه به زمین در نزدیکی ما کشف کردند",
+      "lead": "این سیاره اولین جهان بالقوه قابل سکونت است که وجود جو در آن شناخته شده است. این کشف آن را به یکی از پیشتازان در جستجوی حیات فراتر از منظومه شمسی ما تبدیل می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 20:17:13 +0000",
+      "time": "۲۳:۴۷ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T09:06:25.195Z"
     }
   ]
 }
