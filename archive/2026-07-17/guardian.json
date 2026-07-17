@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "guardian",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "guardian_13",
@@ -48,6 +48,54 @@
       "pubDate": "Wed, 15 Jul 2026 20:58:43 GMT",
       "time": "۰۰:۲۸ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T00:06:09.630Z"
+    },
+    {
+      "id": "guardian_2f5a15c401",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+      "title_fa": "اوگاندا پس از ترخیص آخرین بیمار ابولا، خواستار لغو محدودیت‌های سفر شد",
+      "lead": "اوگاندا پس از ترخیص آخرین بیمار ابولا، به دنبال لغو محدودیت‌های سفر است. این کشور اکنون شمارش معکوس ۴۲ روزه را برای اعلام رسمی پایان همه‌گیری آغاز کرده، در حالی که شمار مبتلایان در جمهوری دموکراتیک کنگو همچنان در حال افزایش است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      },
+      "pubDate": "Thu, 16 Jul 2026 11:33:27 GMT",
+      "time": "۱۵:۰۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T00:19:13.865Z"
+    },
+    {
+      "id": "guardian_2c41aa8bca",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
+      "title_fa": "«مالویناس آرژانتینی است»: قهرمانان جام جهانی، پیروزی مقابل انگلیس را با بنر فالکلند جشن گرفتند",
+      "lead": "بازیکنان آرژانتین پس از پیروزی در جام جهانی مقابل انگلیس، با بنری که روی آن نوشته شده بود «مالویناس آرژانتینی است»، جشن گرفتند. این بنر اشاره‌ای به درگیری‌های سال ۱۹۸۲ بر سر جزایر فالکلند دارد. وزیر بازرگانی بریتانیا خواستار تحقیق فیفا در این خصوص شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "pubDate": "Thu, 16 Jul 2026 08:13:50 GMT",
+      "time": "۱۱:۴۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T00:19:13.865Z"
     }
   ]
 }
