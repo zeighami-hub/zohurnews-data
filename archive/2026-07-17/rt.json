@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "rt",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "rt_92cec01dee",
@@ -218,6 +218,30 @@
       "pubDate": "Fri, 17 Jul 2026 03:24:11 +0000",
       "time": "۰۶:۵۴ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T03:33:38.370Z"
+    },
+    {
+      "id": "rt_a8d75fa967",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "UK calls for FIFA to sanction Argentina over banner after World Cup elimination",
+      "title_fa": "بریتانیا از فیفا خواست آرژانتین را به دلیل بنر پس از حذف از جام جهانی تحریم کند",
+      "lead": "بریتانیا از فیفا خواسته است که آرژانتین را به دلیل بنری که بازیکنان این کشور پس از پیروزی در جام جهانی بالا بردند، تحریم کند. این بنر حاوی پیامی درباره مناقشه حاکمیت بریتانیا بر جزایر فالکلند بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643132-fifa-uk-complaint-argentina/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 04:56:35 +0000",
+      "time": "۰۸:۲۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T05:05:31.882Z"
     }
   ]
 }
