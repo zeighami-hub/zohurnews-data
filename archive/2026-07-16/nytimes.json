@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "nytimes",
-  "total": 34,
+  "total": 38,
   "articles": [
     {
       "id": "nytimes_c800e9f48b",
@@ -818,6 +818,102 @@
       "pubDate": "Thu, 16 Jul 2026 14:55:44 +0000",
       "time": "۱۸:۲۵ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T19:24:40.017Z"
+    },
+    {
+      "id": "nytimes_23f54aaf95",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran War Live Updates: U.S. and Iran Trade Strikes, Escalating Tensions Over Strait of Hormuz",
+      "title_fa": "اخبار فوری جنگ ایران: آمریکا و ایران در حال تبادل حملات، تنش‌ها بر سر تنگه هرمز در حال تشدید",
+      "lead": "نیروهای آمریکایی بعدازظهر پنجشنبه حملات جدیدی را آغاز کردند. اما هر دو طرف به نظر می‌رسیدند که راه را برای مذاکرات بیشتر جهت پایان دادن به جنگ باز گذاشته‌اند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 21:10:24 +0000",
+      "time": "۰۰:۴۰ - ۲۶ تیر",
+      "analyzed_at": "2026-07-16T21:35:09.806Z"
+    },
+    {
+      "id": "nytimes_d67c53d684",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "How the NYT Reported on Khamenei’s Funeral in Iran",
+      "title_fa": "نحوه گزارش‌دهی نیویورک تایمز از مراسم تشییع جنازه خامنه‌ای در ایران",
+      "lead": "خبرنگار نیویورک تایمز درباره چالش‌های پوشش اخبار مهم تحت نظارت و ارسال گزارش بدون دسترسی مطمئن به اینترنت صحبت کرد. این گزارش به مسائل پیش روی روزنامه‌نگاران در شرایط خاص می‌پردازد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/insider/iran-funeral-coverage.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 16:46:32 +0000",
+      "time": "۲۰:۱۶ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T21:35:09.806Z"
+    },
+    {
+      "id": "nytimes_d99971d12c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Delightful World Cup Stories",
+      "title_fa": "داستان‌های جذاب جام جهانی",
+      "lead": "تمام بهترین لحظات جام جهانی تنها در زمین بازی نبوده‌اند و این گزارش به بازبینی برخی از آن‌ها می‌پردازد. ما برخی از محبوب‌ترین لحظاتمان را پیش از فینال روز یکشنبه دوباره مرور می‌کنیم.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/world-cup-spain-argentina-ukraine.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 20:53:40 +0000",
+      "time": "۰۰:۲۳ - ۲۶ تیر",
+      "analyzed_at": "2026-07-16T21:35:09.806Z"
+    },
+    {
+      "id": "nytimes_a5378aec57",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
+      "title_fa": "اوکراین در حال پیشروی بود. سپس درگیری بر سر استراتژی جنگی علنی شد.",
+      "lead": "وزیر دفاع تازه برکنار شده اوکراین، در انتقادی علنی و بی‌سابقه، فرماندهی نظامی را زیر سوال برد. این انتقاد در زمانی رخ می‌دهد که به نظر می‌رسید اوکراین در حال پیشروی است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 16 Jul 2026 20:02:43 +0000",
+      "time": "۲۳:۳۲ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T21:35:09.806Z"
     }
   ]
 }
