@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "skynews",
-  "total": 4,
+  "total": 8,
   "articles": [
     {
       "id": "skynews_5207ec92d3",
@@ -98,6 +98,102 @@
       "pubDate": "Fri, 17 Jul 2026 08:13:00 +0100",
       "time": "۱۰:۴۳ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T09:06:25.195Z"
+    },
+    {
+      "id": "skynews_bd1c7ca783",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Former Italian motorway boss sentenced over Genoa bridge tragedy",
+      "title_fa": "رئیس سابق بزرگراه ایتالیا به دلیل فاجعه پل جنوا محکوم شد",
+      "lead": "رئیس سابق اپراتور بزرگراه ایتالیا به دلیل نقش خود در فروپاشی پل جنوا که ۴۳ نفر را کشت، به ۱۲ سال زندان محکوم شد.",
+      "category": "society",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/former-italian-motorway-boss-sentenced-over-genoa-bridge-tragedy-13564047",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Thu, 16 Jul 2026 14:53:00 +0100",
+      "time": "۱۷:۲۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T10:08:50.644Z"
+    },
+    {
+      "id": "skynews_8074602b82",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Wildfires force thousands to evacuate as smoke darkens skies over major cities",
+      "title_fa": "آتش‌سوزی‌های جنگلی هزاران نفر را مجبور به تخلیه کرد؛ دود آسمان شهرهای بزرگ را تاریک کرده است",
+      "lead": "با گسترش آتش‌سوزی‌های جنگلی، به هزاران نفر دستور داده شده است تا بیش از یک میلیون هکتار از مناطق طبیعی را ترک کنند.",
+      "category": "society",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/wildfires-force-thousands-to-evacuate-as-skies-darken-over-us-and-canadian-cities-13563962",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 11:17:00 +0100",
+      "time": "۱۳:۴۷ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T10:08:50.644Z"
+    },
+    {
+      "id": "skynews_00f68750e9",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "New monkey species discovered in African forest",
+      "title_fa": "گونه جدیدی از میمون در جنگل‌های آفریقا کشف شد",
+      "lead": "گونه‌ای جدید از میمون با لب‌های نارنجی متمایز در اعماق جنگل‌های جمهوری دموکراتیک کنگو کشف شده است.",
+      "category": "science",
+      "region": "africa",
+      "sourceUrl": "https://news.sky.com/story/new-monkey-species-with-orange-lips-discovered-in-forests-of-dr-congo-13563944",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 10:36:00 +0100",
+      "time": "۱۳:۰۶ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T10:08:50.644Z"
+    },
+    {
+      "id": "skynews_1c2fe90b3f",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "TikTok under investigation in UK over child safety measures",
+      "title_fa": "تیک‌تاک در بریتانیا به دلیل اقدامات ایمنی کودکان تحت بازرسی قرار گرفت",
+      "lead": "آفکام تحقیقاتی را آغاز کرده است تا مشخص کند آیا تیک‌تاک در محافظت از کودکان در برابر محتوای مضر کوتاهی می‌کند یا خیر.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/tiktok-being-investigated-by-ofcom-over-child-safety-measures-13563884",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 16 Jul 2026 06:41:00 +0100",
+      "time": "۰۹:۱۱ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T10:08:50.644Z"
     }
   ]
 }
