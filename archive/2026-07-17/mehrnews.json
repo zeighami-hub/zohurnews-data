@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "mehrnews_0ac3c776d7",
@@ -50,6 +50,30 @@
       "pubDate": "Fri, 17 Jul 2026 05:15:27 GMT",
       "time": "۰۸:۴۵ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T05:20:31.131Z"
+    },
+    {
+      "id": "mehrnews_c29540d0b6",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iranian army targets US base in Bahrain with drones",
+      "title_fa": "ارتش ایران پایگاه آمریکا در بحرین را با پهپاد هدف قرار داد",
+      "lead": "ارتش ایران اعلام کرد که مرحله یازدهم عملیات \"صاعقه\" خود را با هدف قرار دادن مواضع نظامی آمریکا در بحرین انجام داده است. این حمله شامل هدف‌گیری پایگاه‌های نظامی آمریکا با استفاده از پهپادها بوده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246267/Iranian-army-targets-US-base-in-Bahrain-with-drones",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 05:46:17 GMT",
+      "time": "۰۹:۱۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T05:52:52.135Z"
     }
   ]
 }
