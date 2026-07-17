@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -434,6 +434,102 @@
       "pubDate": "Fri, 17 Jul 2026 09:01:52 +0000",
       "time": "۱۲:۳۱ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T09:54:18.652Z"
+    },
+    {
+      "id": "nytimes_c82193213c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Iran war, Trump Risks Another American ‘Forever War’",
+      "title_fa": "در جنگ ایران، ترامپ خطر یک 'جنگ بی‌پایان' دیگر را برای آمریکا به همراه دارد",
+      "lead": "رئیس‌جمهور ترامپ که وعده «پایان دادن به جنگ‌ها» را داده بود، ممکن است در جنگ با ایران گرفتار یک تله آشنای ریاست‌جمهوری شده باشد. این وضعیت خطر تبدیل شدن درگیری به یک «جنگ بی‌پایان» دیگر برای آمریکا را به دنبال دارد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/middleeast/forever-war-trump-iran.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 16 Jul 2026 13:20:24 +0000",
+      "time": "۱۶:۵۰ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T10:08:50.644Z"
+    },
+    {
+      "id": "nytimes_195eb813eb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
+      "title_fa": "پکن ادعای ترامپ مبنی بر دخالت را رد می‌کند، اما از درگیری اجتناب می‌ورزد",
+      "lead": "مقامات چینی اتهام دخالت در انتخابات را بی‌اساس خواندند و آن را رد کردند. تحلیلگران معتقدند که پکن در تلاش است تا یک تنش‌زدایی شکننده را حفظ کند و از درگیری اجتناب ورزد.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Fri, 17 Jul 2026 09:56:14 +0000",
+      "time": "۱۳:۲۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T10:08:50.644Z"
+    },
+    {
+      "id": "nytimes_52ebb1195d",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s the latest.",
+      "title_fa": "آخرین تحولات: حملات آمریکا به ایران، پل‌ها و بندرگاه",
+      "lead": "این گزارش به بررسی آخرین تحولات مربوط به تنش‌ها میان ایران و آمریکا می‌پردازد. بر اساس اطلاعات موجود در آدرس، این خبر شامل گزارش‌هایی درباره حملات احتمالی ایالات متحده به پل‌ها و بندرگاه‌های ایران است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz/us-strikes-iran-bridges-port",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 09:54:17 +0000",
+      "time": "۱۳:۲۴ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T10:08:50.644Z"
+    },
+    {
+      "id": "nytimes_d99971d12c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Delightful World Cup Stories",
+      "title_fa": "داستان‌های دلپذیر جام جهانی",
+      "lead": "این گزارش به بررسی داستان‌ها و لحظات دلپذیر جام جهانی می‌پردازد که تنها به وقایع درون زمین محدود نمی‌شدند. اینها برخی از بهترین خاطراتی هستند که پیش از فینال یکشنبه، دوباره مرور می‌شوند.",
+      "category": "sport",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/world-cup-spain-argentina-ukraine.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 05:25:39 +0000",
+      "time": "۰۸:۵۵ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T10:08:50.644Z"
     }
   ]
 }
