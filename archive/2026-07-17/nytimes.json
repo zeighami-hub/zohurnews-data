@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 27,
+  "total": 28,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -650,6 +650,30 @@
       "pubDate": "Thu, 16 Jul 2026 22:08:16 +0000",
       "time": "۰۱:۳۸ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T11:11:49.410Z"
+    },
+    {
+      "id": "nytimes_6dac868066",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Hundreds of Rohingya Feared Drowned at Sea",
+      "title_fa": "بیم غرق شدن صدها نفر از روهینگیا در دریا",
+      "lead": "صدها نفر از اعضای گروه اقلیت مورد آزار و اذیت روهینگیا از میانمار، هفته‌ها پیش در جستجوی زندگی بهتر به راه افتادند. اما اخبار مربوط به غرق شدن قایق‌های آنها اخیراً منتشر شده است و بیم آن می‌رود که بیش از ۵۰۰ نفر جان باخته باشند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/asia/rohingya-myanmar-boats-sink-missing.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 11:14:43 +0000",
+      "time": "۱۴:۴۴ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T11:38:18.611Z"
     }
   ]
 }
