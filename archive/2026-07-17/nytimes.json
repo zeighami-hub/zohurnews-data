@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -50,6 +50,54 @@
       "pubDate": "Thu, 16 Jul 2026 10:43:35 +0000",
       "time": "۱۴:۱۳ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T00:06:09.630Z"
+    },
+    {
+      "id": "nytimes_4eb628aac0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
+      "title_fa": "او یک بازمانده سیاسی روس بود، تا زمانی که مردان نقاب‌دار ظاهر شدند",
+      "lead": "بوریس ب. نادژدین، یکی از مخالفان صریح جنگ در اوکراین، بازداشت شد. او می‌گوید دلیل بازداشتش را می‌داند و آن را به «وحشت و هرج و مرج» در میان رهبری روسیه نسبت می‌دهد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 04:01:08 +0000",
+      "time": "۰۷:۳۱ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T04:19:14.067Z"
+    },
+    {
+      "id": "nytimes_f413465b53",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "How Andy Burnham Becomes Britain’s New Prime Minister",
+      "title_fa": "چگونه اندی برنهام نخست‌وزیر جدید بریتانیا می‌شود",
+      "lead": "اندی برنهام قرار است دوشنبه رسماً نخست‌وزیر جدید بریتانیا شود. این گزارش توضیح می‌دهد که پیش از آن چه مراحلی باید طی شود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "pubDate": "Fri, 17 Jul 2026 04:01:05 +0000",
+      "time": "۰۷:۳۱ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T04:19:14.067Z"
     }
   ]
 }
