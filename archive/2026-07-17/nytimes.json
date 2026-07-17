@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -362,6 +362,78 @@
       "pubDate": "Fri, 17 Jul 2026 09:01:42 +0000",
       "time": "۱۲:۳۱ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T09:22:43.124Z"
+    },
+    {
+      "id": "nytimes_b2ae1fb641",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Hits Bridges and a Port in Southern Iran as Airstrikes Expand",
+      "title_fa": "حملات هوایی آمریکا به پل‌ها و یک بندر در جنوب ایران گسترش یافت",
+      "lead": "گزارش شده است که ایالات متحده در جنوب ایران پل‌ها و مسیرهای ریلی و جاده‌ای و یک بندر را هدف حملات هوایی قرار داده است. این اقدام در حالی صورت می‌گیرد که واشنگتن به دنبال تضعیف کنترل تهران بر تنگه هرمز است. ایران نیز در واکنش به این حملات، به تاسیسات نظامی آمریکا در منطقه شلیک کرد.",
+      "category": "military",
+      "region": "middle-east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/middleeast/us-strikes-iran-bridges-port.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 09:40:46 +0000",
+      "time": "۱۳:۱۰ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T09:54:18.652Z"
+    },
+    {
+      "id": "nytimes_e9dcc375f3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The 20-Somethings Running Ukraine’s War Machine",
+      "title_fa": "جوانان بیست و چند ساله، گرداننده ماشین جنگی اوکراین",
+      "lead": "نسل جدیدی از جوانان اوکراینی که نوآوری و سرعت بخش فناوری را ارج می‌نهند، در حال جایگزین کردن گارد قدیمی هستند. این نسل، در توسعه تسلیحات و هدایت ارتش اوکراین برای مقابله با حمله روسیه نقش دارد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 09:33:02 +0000",
+      "time": "۱۳:۰۳ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T09:54:18.652Z"
+    },
+    {
+      "id": "nytimes_8e9b3bb5bf",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
+      "title_fa": "با گسترش آتش‌سوزی‌ها در نزدیکی پاریس، گرمای شدید نحوه مبارزه فرانسه با آتش را تغییر می‌دهد",
+      "lead": "تا همین اواخر، آتش‌سوزی‌های جنگلی فرانسه عمدتاً در جنوب این کشور رخ می‌داد. این هفته، آتش‌سوزی‌ها در مناطق بسیار شمالی‌تر نیز شعله‌ور شده‌اند. فرانسه مجبور است استراتژی آتش‌نشانی خود را بازنگری کند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/france-forest-fires-extreme-heat.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 09:01:52 +0000",
+      "time": "۱۲:۳۱ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T09:54:18.652Z"
     }
   ]
 }
