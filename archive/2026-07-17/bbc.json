@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "bbc",
-  "total": 16,
+  "total": 20,
   "articles": [
     {
       "id": "bbc_b2b483cad9",
@@ -386,6 +386,102 @@
       "pubDate": "Fri, 17 Jul 2026 06:28:35 GMT",
       "time": "۰۹:۵۸ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T06:52:15.954Z"
+    },
+    {
+      "id": "bbc_e1c8a37a37",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
+      "title_fa": "آتش‌سوزی‌های کانادا باعث اعلام هشدار کیفیت هوا در آمریکا شد؛ دود شهرهای بزرگ را فرا گرفت",
+      "lead": "دود ناشی از بیش از ۸۰۰ آتش‌سوزی، شهرهای بزرگی از تورنتو و نیویورک گرفته تا بخش‌هایی از غرب میانه و منطقه دریاچه‌های بزرگ آمریکا را فرا گرفته است. این وضعیت منجر به اعلام هشدارهای کیفیت هوا در ایالات متحده شده است.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 02:15:23 GMT",
+      "time": "۰۵:۴۵ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T07:53:41.559Z"
+    },
+    {
+      "id": "bbc_b33bb78e2a",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "At least one dead in Texas floods ravaging same area where campers died",
+      "title_fa": "دست‌کم یک کشته در سیل تگزاس که همان منطقه‌ای را که سال گذشته باعث مرگ گردشگران شده بود، ویران می‌کند",
+      "lead": "دست‌کم یک نفر در سیل‌های تگزاس جان باخته است. این سیل‌ها بار دیگر همان منطقه‌ای را که سال گذشته در اثر سیل ۱۳۰ کشته برجای گذاشته بود، درگیر کرده‌اند.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 22:08:13 GMT",
+      "time": "۰۱:۳۸ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T07:53:41.559Z"
+    },
+    {
+      "id": "bbc_e3b8d93112",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
+      "title_fa": "اپراتور تله‌پروپتر کاخ سفید متهم به کسب ۱۰۰ هزار دلار از شرط‌بندی بر سخنرانی‌های ترامپ شد",
+      "lead": "یک کارمند کاخ سفید متهم شده است که با استفاده از اطلاعات داخلی سخنرانی‌ها، نزدیک به ۱۰۰ هزار دلار از طریق پلتفرم Kalshi کسب کرده است. این اتهام مربوط به شرط‌بندی بر محتوای سخنرانی‌های ترامپ است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 18:52:35 GMT",
+      "time": "۲۲:۲۲ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T07:53:41.559Z"
+    },
+    {
+      "id": "bbc_285ba802f9",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "title_fa": "مقامات ایتالیایی به دلیل فاجعه ریزش پل جنوا که ۴۳ کشته بر جای گذاشت، به حبس محکوم شدند",
+      "lead": "جیووانی کاستلوچی، رئیس سابق اپراتور بزرگراه ایتالیا، به دلیل فروریختن پل در سال ۲۰۱۸، به ۱۲ سال زندان محکوم شد. این فاجعه در جنوا منجر به کشته شدن ۴۳ نفر شده بود.",
+      "category": "justice",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 17:22:31 GMT",
+      "time": "۲۰:۵۲ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T07:53:41.559Z"
     }
   ]
 }
