@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "aljazeera",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "aljazeera_504e90e0de",
@@ -554,6 +554,30 @@
       "pubDate": "Fri, 17 Jul 2026 08:30:41 +0000",
       "time": "۱۲:۰۰ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T09:06:25.195Z"
+    },
+    {
+      "id": "aljazeera_85ab85bf86",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US strikes destroy key bridges, tower in southern Iran",
+      "title_fa": "حملات آمریکا پل‌ها و برجی کلیدی را در جنوب ایران تخریب کرد",
+      "lead": "نیروهای آمریکایی در جنوب ایران به پل‌ها و یک برج کلیدی حمله کرده و آن‌ها را تخریب کردند. این حملات در منطقه جنوبی ایران صورت گرفته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 08:57:56 +0000",
+      "time": "۱۲:۲۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T09:22:43.124Z"
     }
   ]
 }
