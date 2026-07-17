@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "guardian",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "guardian_13",
@@ -120,6 +120,30 @@
       "pubDate": "Fri, 17 Jul 2026 00:34:00 GMT",
       "time": "۰۴:۰۴ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T00:48:39.729Z"
+    },
+    {
+      "id": "guardian_df44615b5d",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Telstra blames missing software update and undocumented design change for massive outage",
+      "title_fa": "تلسترا دلیل قطعی گسترده را به‌روزرسانی نرم‌افزاری از دست رفته و تغییر طراحی ثبت‌نشده عنوان کرد",
+      "lead": "شرکت مخابراتی تلسترا دلایل قطعی گسترده شبکه خود را، که موبایل‌ها، قطارها و خرده‌فروشان را تحت تأثیر قرار داد، تشریح کرد. این شرکت این دلایل را یک به‌روزرسانی نرم‌افزاری از دست رفته و یک تغییر طراحی ثبت‌نشده عنوان کرده است. این اظهارات پیش از حضور در تحقیقات سنا مطرح شد.",
+      "category": "technology",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/business/2026/jul/17/telstra-missing-software-update-undocumented-design-change-outage",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 01:00:08 GMT",
+      "time": "۰۴:۳۰ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T01:19:07.598Z"
     }
   ]
 }
