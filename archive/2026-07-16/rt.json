@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "rt",
-  "total": 29,
+  "total": 30,
   "articles": [
     {
       "id": "rt_e5e51de44c",
@@ -696,6 +696,30 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-16T21:54:22.565Z"
+    },
+    {
+      "id": "rt_e9fc1d9e3a",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Iran warns ‘entire region will pay the price’ as US bombs bridges (PHOTOS, VIDEOS)",
+      "title_fa": "ایران هشدار می‌دهد «تمام منطقه تاوان خواهد داد» در حالی که آمریکا پل‌ها را بمباران می‌کند",
+      "lead": "آمریکا دور دیگری از حملات شبانه را آغاز کرده که بنا بر گزارش‌ها، زیرساخت‌های غیرنظامی از جمله چندین پل در سراسر ایران را هدف قرار داده است. در واکنش به این حملات، ایران هشدار داده است که \"تمام منطقه تاوان خواهد داد\".",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/643155-iran-bridges-region-price/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 22:03:17 +0000",
+      "time": "۰۱:۳۳ - ۲۶ تیر",
+      "analyzed_at": "2026-07-16T22:19:13.832Z"
     }
   ]
 }
