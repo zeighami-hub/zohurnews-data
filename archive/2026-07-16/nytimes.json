@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "nytimes",
-  "total": 39,
+  "total": 40,
   "articles": [
     {
       "id": "nytimes_c800e9f48b",
@@ -938,6 +938,30 @@
       "pubDate": "Thu, 16 Jul 2026 21:40:37 +0000",
       "time": "۰۱:۱۰ - ۲۶ تیر",
       "analyzed_at": "2026-07-16T21:54:22.565Z"
+    },
+    {
+      "id": "nytimes_9069f16b27",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Canada, Wildfires Are Burning Through the Night. Firefighters Are Running Out of Time.",
+      "title_fa": "در کانادا، آتش‌سوزی‌های جنگلی شبانه‌روزی می‌سوزند؛ آتش‌نشانان زمان کمی دارند",
+      "lead": "با افزایش دمای شبانه در سراسر کانادا، آتش‌سوزی‌هایی که پیشتر پس از تاریکی هوا با سرعت کمتری گسترش می‌یافتند، اکنون به صورت شبانه‌روزی می‌سوزند. این وضعیت باعث وارد آمدن فشار مضاعف بر تیم‌های آتش‌نشانی شده است.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 22:08:16 +0000",
+      "time": "۰۱:۳۸ - ۲۶ تیر",
+      "analyzed_at": "2026-07-16T22:19:13.832Z"
     }
   ]
 }
