@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "aljazeera",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "aljazeera_504e90e0de",
@@ -266,6 +266,30 @@
       "pubDate": "Fri, 17 Jul 2026 02:35:55 +0000",
       "time": "۰۶:۰۵ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T03:03:59.475Z"
+    },
+    {
+      "id": "aljazeera_84cf45abb3",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
+      "title_fa": "رئیس آژانس بین‌المللی انرژی درباره تهدید بحران تنگه هرمز برای امنیت انرژی جهانی هشدار داد",
+      "lead": "فاتح بیرول، رئیس آژانس بین‌المللی انرژی (IEA)، اظهار داشت که «امنیت نفتی همچنان یک مسئله حیاتی است». او هشدار داد که اگر وضعیت بهبود نیابد، جهان باید «نگران» باشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 02:25:55 +0000",
+      "time": "۰۵:۵۵ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T03:18:35.735Z"
     }
   ]
 }
