@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "bbc",
-  "total": 35,
+  "total": 36,
   "articles": [
     {
       "id": "bbc_099ede8c36",
@@ -842,6 +842,30 @@
       "pubDate": "Thu, 16 Jul 2026 12:44:26 GMT",
       "time": "۱۶:۱۴ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T21:35:09.806Z"
+    },
+    {
+      "id": "bbc_8f74d875a1",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Blasts reported in Iran as US launches new wave of strikes",
+      "title_fa": "گزارش انفجارها در ایران همزمان با موج جدید حملات آمریکا",
+      "lead": "گزارش‌هایی از وقوع انفجارها در ایران منتشر شده است، در حالی که آمریکا موج جدیدی از حملات را آغاز کرده است. ایالات متحده می‌گوید هدف از این حملات «تضعیف بیشتر قابلیت‌های نظامی ایران» است و درگیری‌ها برای ششمین روز متوالی ادامه دارد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 21:44:37 GMT",
+      "time": "۰۱:۱۴ - ۲۶ تیر",
+      "analyzed_at": "2026-07-16T21:54:22.565Z"
     }
   ]
 }
