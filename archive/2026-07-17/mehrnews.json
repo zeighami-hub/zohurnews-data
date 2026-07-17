@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "mehrnews",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "mehrnews_0ac3c776d7",
@@ -506,6 +506,30 @@
       "pubDate": "Fri, 17 Jul 2026 10:45:23 GMT",
       "time": "۱۴:۱۵ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T11:11:49.410Z"
+    },
+    {
+      "id": "mehrnews_2158e33611",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC releases video footage of attack on US base in UAE",
+      "title_fa": "سپاه فیلم حملات به پایگاه آمریکا در امارات را منتشر کرد",
+      "lead": "نیروی هوافضای سپاه پاسداران انقلاب اسلامی فیلمی از پرتاب موشک‌های خود به اهداف آمریکایی در امارات متحده عربی را منتشر کرد. این حمله شب گذشته صورت گرفته است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246274/IRGC-releases-video-footage-of-attack-on-US-base-in-UAE",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 11:17:02 GMT",
+      "time": "۱۴:۴۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T11:38:18.611Z"
     }
   ]
 }
