@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "skynews_5207ec92d3",
@@ -50,6 +50,30 @@
       "pubDate": "Thu, 16 Jul 2026 09:25:00 +0100",
       "time": "۱۱:۵۵ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T00:19:13.865Z"
+    },
+    {
+      "id": "skynews_e6d7ac2062",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Trump accused of making 'totally bogus' election claims in primetime address to nation",
+      "title_fa": "ترامپ به طرح ادعاهای «کاملاً بی‌اساس» درباره انتخابات در سخنرانی ملی متهم شد",
+      "lead": "دونالد ترامپ متهم شده است که در یک سخنرانی ملی در ساعات پربیننده، ادعاهای «کاملاً بی‌اساس» درباره دخالت در انتخابات ۲۰۲۰ آمریکا مطرح کرده است. این اتهامات به دخالت چین در انتخابات اشاره دارد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/trump-alleges-chinese-election-interference-in-address-to-nation-13564219",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 02:46:00 +0100",
+      "time": "۰۵:۱۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T02:33:50.466Z"
     }
   ]
 }
