@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_b2b483cad9",
@@ -98,6 +98,30 @@
       "pubDate": "Wed, 15 Jul 2026 23:02:49 GMT",
       "time": "۰۲:۳۲ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T00:19:13.865Z"
+    },
+    {
+      "id": "bbc_88407b471b",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
+      "title_fa": "استرالیا از اتهامات مربوط به مسمومیت با متانول در لائوس «به شدت ابراز ناامیدی» کرد",
+      "lead": "استرالیا از اتهامات مرتبط با مسمومیت با متانول در لائوس «به شدت ناامید» شده است. گزارش‌های رسانه‌ای حاکی از آن است که لائوس تا یک سال زندان را برای افراد متهم به این حادثه در نظر گرفته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 02:56:45 GMT",
+      "time": "۰۶:۲۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T03:18:35.735Z"
     }
   ]
 }
