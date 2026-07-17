@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "rt",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "rt_92cec01dee",
@@ -122,6 +122,30 @@
       "pubDate": "Thu, 16 Jul 2026 11:30:35 +0000",
       "time": "۱۵:۰۰ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T00:19:13.865Z"
+    },
+    {
+      "id": "rt_866939e2ae",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "WATCH LIVE: Trump delivers speech on ‘election integrity’",
+      "title_fa": "مشاهده زنده: ترامپ سخنرانی درباره «یکپارچگی انتخابات» ایراد می‌کند",
+      "lead": "کاخ سفید از یافته‌های بالقوه «تکان‌دهنده» خبر داده و خواستار تغییراتی در رویه‌های رای‌گیری ایالات متحده شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643157-trump-major-address-election/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Fri, 17 Jul 2026 01:02:23 +0000",
+      "time": "۰۴:۳۲ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T01:03:45.678Z"
     }
   ]
 }
