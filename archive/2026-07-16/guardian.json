@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "guardian",
-  "total": 27,
+  "total": 29,
   "articles": [
     {
       "id": "guardian_6195984c50",
@@ -650,6 +650,52 @@
       "pubDate": "Thu, 16 Jul 2026 14:49:46 GMT",
       "time": "۱۸:۱۹ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T21:35:09.806Z"
+    },
+    {
+      "id": "guardian_2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Fears for New Zealand’s native species as first bird flu case emerges",
+      "title_fa": "ظهور اولین مورد آنفولانزای پرندگان در نیوزلند، نگرانی‌هایی را برای گونه‌های بومی ایجاد کرده است",
+      "lead": "آنفولانزای کشنده H5N1 برای اولین بار در نیوزلند تأیید شده است که زنگ خطر را به صدا درآورده است. یک مرغ دریایی اسکوا قهوه‌ای در ساحل ولینگتون به H5N1 مثبت شد و وزیر از مردم خواست موارد سه یا بیشتر پرنده بیمار یا مرده را گزارش دهند.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.guardian.com/world/2026/jul/16/new-zealand-first-h5n1-bird-flu-case",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-07-16T21:54:22.565Z"
+    },
+    {
+      "id": "guardian_88d3b77a8e",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Five arrested in Hong Kong bookstore raids in ‘seditious’ materials crackdown",
+      "title_fa": "پنج نفر در یورش به کتابفروشی‌های هنگ کنگ در پی سرکوب «مطالب فتنه‌انگیز» دستگیر شدند",
+      "lead": "مقامات هنگ کنگ به دو کتابفروشی یورش برده و پنج نفر را به ظن فروش نشریات «فتنه‌انگیز» دستگیر کرده‌اند. این سومین دور دستگیری‌های مرتبط با کتابفروشی‌های مستقل است که به طور گسترده به عنوان سرکوب مخالفان در این منطقه تلقی می‌شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/16/hong-kong-bookstore-bookshop-raids-arrests",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 01:27:00 GMT",
+      "time": "۰۴:۵۷ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T21:54:22.565Z"
     }
   ]
 }
