@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -242,6 +242,30 @@
       "pubDate": "Fri, 17 Jul 2026 07:54:02 +0000",
       "time": "۱۱:۲۴ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T08:07:01.698Z"
+    },
+    {
+      "id": "nytimes_fe254fea3e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey",
+      "title_fa": "فیلیپین ویدیوی هوش مصنوعی منتشر شده توسط رسانه‌های دولتی چین را که آن را به شکل میمون به تصویر می‌کشد، محکوم کرد.",
+      "lead": "فیلیپین ویدیوی تولیدشده با هوش مصنوعی توسط رسانه‌های دولتی چین را که این کشور را به شکل میمون نشان می‌دهد، محکوم کرد. این کشور شکایتی دیپلماتیک علیه پکن درباره این ویدیو که به اختلافات ارضی در دریای چین جنوبی مربوط می‌شود، مطرح کرده است.",
+      "category": "diplomacy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/asia/philippines-ai-video-china-racist.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 08:31:06 +0000",
+      "time": "۱۲:۰۱ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T08:37:37.568Z"
     }
   ]
 }
