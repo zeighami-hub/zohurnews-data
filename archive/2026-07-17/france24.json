@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "france24",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "france24_f81a158653",
@@ -122,6 +122,54 @@
       "pubDate": "Thu, 16 Jul 2026 15:43:10 GMT",
       "time": "۱۹:۱۳ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T05:36:12.621Z"
+    },
+    {
+      "id": "france24_4f4f4eff7a",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Tour de France : Merlier the fastest again, Pogacar still in yellow",
+      "title_fa": "تور دو فرانس: مرلیه دوباره سریع‌ترین شد، پوگاچار همچنان در لباس زرد",
+      "lead": "رکابزن بلژیکی، تیم مرلیه، برنده مرحله دوازدهم تور دو فرانس در شالون-سور-سون شد. این سومین پیروزی مرحله‌ای او در تور امسال است و پوگاچار همچنان پیراهن طلایی را حفظ کرده است.",
+      "category": "sports",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/sports/20260717-tour-de-france-merlier-the-fastest-again-pogacar-still-in-yellow",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 05:45:03 GMT",
+      "time": "۰۹:۱۵ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T05:52:52.135Z"
+    },
+    {
+      "id": "france24_8461513586",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Canadian wildfire smoke brings dangerously high pollution to US cities",
+      "title_fa": "دود آتش‌سوزی‌های کانادا هوای شهرهای آمریکا را به شدت آلوده کرده است",
+      "lead": "کیفیت هوا در شهرهای شیکاگو، دیترویت و نیویورک روز سه‌شنبه به دلیل دود ناشی از آتش‌سوزی‌های گسترده در جنگل‌های کانادا به سطوح خطرناکی رسید. بیش از ۱۳۰ آتش‌سوزی همچنان در شمال فعال هستند.",
+      "category": "environment",
+      "region": "north-america",
+      "sourceUrl": "https://www.france24.com/en/americas/20260716-canadian-wildfire-smoke-brings-dangerously-high-pollution-to-us-cities",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 15:43:10 GMT",
+      "time": "۱۹:۱۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T05:52:52.135Z"
     }
   ]
 }
