@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "aljazeera",
-  "total": 14,
+  "total": 17,
   "articles": [
     {
       "id": "aljazeera_504e90e0de",
@@ -338,6 +338,78 @@
       "pubDate": "Fri, 17 Jul 2026 04:39:08 +0000",
       "time": "۰۸:۰۹ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T05:05:31.882Z"
+    },
+    {
+      "id": "aljazeera_0445dde57e",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Texas floods ravage through southwestern areas of state",
+      "title_fa": "سیل تگزاس مناطق جنوب غربی این ایالت را ویران کرد",
+      "lead": "سیل‌های ویرانگر، منطقه تگزاس هیل کانتری را درنوردیده و حداقل دو نفر کشته شده‌اند. بیش از ۲۰۰ نفر نیز از مناطق آسیب‌دیده نجات یافته‌اند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/17/texas-floods-ravage-through-southwestern-areas-of-state?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 05:12:11 +0000",
+      "time": "۰۸:۴۲ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T05:36:12.621Z"
+    },
+    {
+      "id": "aljazeera_6e6555c62d",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US bombards Iran in sixth-straight night of attacks",
+      "title_fa": "آمریکا ایران را در ششمین شب متوالی حملات بمباران کرد",
+      "lead": "آمریکا تهدیدات خود مبنی بر بمباران زیرساخت‌های غیرنظامی در ایران را عملی کرده و برای ششمین شب متوالی به این کشور حمله کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 04:57:08 +0000",
+      "time": "۰۸:۲۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T05:20:31.131Z"
+    },
+    {
+      "id": "aljazeera_b38fada6d7",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Key takeaways from Donald Trump’s speech on election security",
+      "title_fa": "نکات کلیدی سخنرانی دونالد ترامپ درباره امنیت انتخابات",
+      "lead": "رئیس جمهور ادعا کرد که چین و عوامل «دولت پنهان» رای‌دهندگان آمریکایی را فریب داده‌اند. اما منتقدان می‌گویند ادعاهای او گمراه‌کننده بود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 04:58:58 +0000",
+      "time": "۰۸:۲۸ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T05:20:31.131Z"
     }
   ]
 }
