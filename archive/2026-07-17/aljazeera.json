@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "aljazeera",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "aljazeera_504e90e0de",
@@ -170,6 +170,54 @@
       "pubDate": "Fri, 17 Jul 2026 00:44:37 +0000",
       "time": "۰۴:۱۴ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T01:19:07.598Z"
+    },
+    {
+      "id": "aljazeera_73bc60c731",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "‘Trump Accounts’ are symbolic, not effective at closing wealth gap",
+      "title_fa": "«حساب‌های ترامپ» نمادین هستند و در کاهش شکاف ثروت مؤثر نیستند",
+      "lead": "گزارش‌ها حاکی از آن است که «حساب‌های ترامپ» صرفاً نمادین بوده و در کاهش شکاف ثروت تأثیری ندارند. این در حالی است که شکاف ثروت در سه دهه اخیر به بالاترین میزان خود رسیده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trump-accounts-are-symbolic-not-effective-at-closing-wealth-gap?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 01:49:16 +0000",
+      "time": "۰۵:۱۹ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T02:18:58.921Z"
+    },
+    {
+      "id": "aljazeera_7e008d698c",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "North Korean leader Kim Jong Un meets with top Chinese official",
+      "title_fa": "دیدار کیم جونگ اون، رهبر کره شمالی، با مقام ارشد چینی",
+      "lead": "کیم جونگ اون، رهبر کره شمالی، با یک مقام ارشد چینی دیدار کرد. این دیدار پس از آن صورت می‌گیرد که شی جین‌پینگ به کره شمالی سفر کرده و وعده همکاری نزدیک‌تر دیپلماتیک، انتظامی و نظامی را داده بود.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/17/north-korean-leader-kim-jong-un-meets-with-top-chinese-official?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 01:49:03 +0000",
+      "time": "۰۵:۱۹ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T02:18:58.921Z"
     }
   ]
 }
