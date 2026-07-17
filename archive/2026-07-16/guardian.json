@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
   "agencyId": "guardian",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "guardian_6195984c50",
@@ -602,6 +602,54 @@
       "pubDate": "Thu, 16 Jul 2026 15:00:41 GMT",
       "time": "۱۸:۳۰ - ۲۵ تیر",
       "analyzed_at": "2026-07-16T19:24:40.017Z"
+    },
+    {
+      "id": "guardian_1ed813a61c",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australia news live: Telstra CEO to face parliamentary inquiry over mobile outage",
+      "title_fa": "اخبار زنده استرالیا: مدیرعامل تلسترا در مورد قطعی موبایل با تحقیقات پارلمانی روبرو می‌شود",
+      "lead": "ویکی برادی، مدیرعامل تلسترا، قرار است در جلسه تحقیقات پارلمانی در مورد قطعی موبایل هفته گذشته حاضر شود. همچنین، ارتش استرالیا ممکن است به حفاظت از کشتی‌ها در تنگه هرمز کمک کند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 16 Jul 2026 21:09:32 GMT",
+      "time": "۰۰:۳۹ - ۲۶ تیر",
+      "analyzed_at": "2026-07-16T21:35:09.806Z"
+    },
+    {
+      "id": "guardian_e58e5a7d22",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
+      "title_fa": "کاهش شدید کیفیت هوا در ۲۰ ایالت آمریکا با گسترش دود آتش‌سوزی‌های کانادا",
+      "lead": "میلیون‌ها آمریکایی در ۲۰ ایالت، از مینه سوتا تا نیویورک، با هشدارهای کیفیت هوا مواجه هستند. مقامات از مردم خواسته‌اند در داخل خانه بمانند زیرا دود ناشی از آتش‌سوزی‌های جنگلی کانادا گسترش یافته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 14:49:46 GMT",
+      "time": "۱۸:۱۹ - ۲۵ تیر",
+      "analyzed_at": "2026-07-16T21:35:09.806Z"
     }
   ]
 }
