@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "france24",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "france24_f81a158653",
@@ -98,6 +98,30 @@
       "pubDate": "Fri, 17 Jul 2026 03:32:26 GMT",
       "time": "۰۷:۰۲ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T03:48:42.705Z"
+    },
+    {
+      "id": "france24_f9d2e79846",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Hazardous Canadian wildfire smoke choking millions in US",
+      "title_fa": "دود خطرناک ناشی از آتش‌سوزی‌های کانادا میلیون‌ها نفر را در آمریکا درگیر کرده است",
+      "lead": "دود خطرناک ناشی از آتش‌سوزی‌های مهارنشدنی در کانادا، میلیون‌ها نفر را در آمریکا درگیر کرده است. مه غلیظ آسمان منهتن را پوشانده و شیکاگو سواحل خود را بست، زیرا هوای ناسالم و خطرناک در سراسر منطقه گسترش یافته است.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/live-news/20260716-hazardous-wildfire-smoke-chokes-millions-in-us-canada",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 16 Jul 2026 15:43:10 GMT",
+      "time": "۱۹:۱۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T05:36:12.621Z"
     }
   ]
 }
