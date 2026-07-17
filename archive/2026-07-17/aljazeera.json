@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "aljazeera",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "aljazeera_504e90e0de",
@@ -242,6 +242,30 @@
       "pubDate": "Fri, 17 Jul 2026 02:07:17 +0000",
       "time": "۰۵:۳۷ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T02:33:50.466Z"
+    },
+    {
+      "id": "aljazeera_c3a6f9ce7a",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iranian sources say US strikes hit civilian infrastructure",
+      "title_fa": "منابع ایرانی می‌گویند حملات آمریکا زیرساخت‌های غیرنظامی را هدف قرار داده است",
+      "lead": "منابع خبری و حساب‌های کاربری محلی ایرانی در شبکه‌های اجتماعی ادعا می‌کنند که حملات ایالات متحده منجر به تلفات جانی و آسیب به زیرساخت‌ها شده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 02:35:55 +0000",
+      "time": "۰۶:۰۵ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T03:03:59.475Z"
     }
   ]
 }
