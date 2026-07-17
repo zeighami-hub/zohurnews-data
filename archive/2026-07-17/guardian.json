@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "guardian",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "guardian_13",
@@ -96,6 +96,30 @@
       "pubDate": "Thu, 16 Jul 2026 08:13:50 GMT",
       "time": "۱۱:۴۳ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T00:19:13.865Z"
+    },
+    {
+      "id": "guardian_01ab30fac5",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Family devastated by ‘unacceptable’ charges over methanol deaths of Australian teenagers in Laos",
+      "title_fa": "خانواده از اتهامات «غیرقابل قبول» در مورد مرگ نوجوانان استرالیایی بر اثر متانول در لائوس به شدت ناراحت است",
+      "lead": "دولت استرالیا اعلام کرده که از اتهامات مربوط به مرگ بیانکا جونز و هالی مورتون-بولز بر اثر متانول «به شدت ناامید» است. این دولت تاکید کرد که برای طرح «اتهامات واقعی و جدی» در این پرونده به تلاش خود ادامه خواهد داد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/17/laos-methanol-poisoning-charges-bianca-jones-holly-bowles-deaths",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 17 Jul 2026 00:34:00 GMT",
+      "time": "۰۴:۰۴ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T00:48:39.729Z"
     }
   ]
 }
