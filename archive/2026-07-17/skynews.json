@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "skynews",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "skynews_5207ec92d3",
@@ -194,6 +194,30 @@
       "pubDate": "Thu, 16 Jul 2026 06:41:00 +0100",
       "time": "۰۹:۱۱ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T10:08:50.644Z"
+    },
+    {
+      "id": "skynews_1588f90474",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Russia is the only winner from Ukraine's internal war",
+      "title_fa": "روسیه تنها برنده از جنگ داخلی اوکراین است",
+      "lead": "یک شکاف غیرعادی در قلب تیم جنگی اوکراین لحظه‌ای خطرناک برای این کشور است. این وضعیت تنها می‌تواند به نفع روسیه باشد و قدرت اوکراین را تضعیف کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/russia-is-the-only-winner-from-ukraines-internal-war-as-zelenskyy-backs-general-syrskyi-over-mykhailo-fedorov-13564274",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 09:45:00 +0100",
+      "time": "۱۲:۱۵ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T11:38:18.611Z"
     }
   ]
 }
