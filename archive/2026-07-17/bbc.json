@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "bbc",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "bbc_b2b483cad9",
@@ -122,6 +122,30 @@
       "pubDate": "Fri, 17 Jul 2026 02:56:45 GMT",
       "time": "۰۶:۲۶ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T03:18:35.735Z"
+    },
+    {
+      "id": "bbc_781ce3fa70",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "More than 500 Rohingya vanished at sea - what happened?",
+      "title_fa": "بیش از ۵۰۰ روهینگیایی در دریا ناپدید شدند - چه اتفاقی افتاد؟",
+      "lead": "دو قایق حامل حدود ۵۳۰ نفر از روهینگیایی‌ها از زمان ترک میانمار در ۲۹ ژوئن ناپدید شده‌اند. سرنوشت این افراد در دریا نامشخص است و نگرانی‌های جدی را برانگیخته است.",
+      "category": "humanitarian",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 03:07:11 GMT",
+      "time": "۰۶:۳۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T03:33:38.370Z"
     }
   ]
 }
