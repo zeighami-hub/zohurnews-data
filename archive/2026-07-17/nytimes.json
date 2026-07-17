@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -290,6 +290,78 @@
       "pubDate": "Thu, 16 Jul 2026 20:17:13 +0000",
       "time": "۲۳:۴۷ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T09:06:25.195Z"
+    },
+    {
+      "id": "nytimes_7d83e7324b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Dubai Migrant Worker Layoffs Reveal Costs of Middle East War",
+      "title_fa": "اخراج کارگران مهاجر در دبی پیامدهای اقتصادی جنگ خاورمیانه را آشکار می‌کند",
+      "lead": "شهر دبی در خلیج فارس، کارگران مهاجر را با وعده فرصت‌های شغلی جذب کرده بود. اکنون بسیاری از این کارگران می‌گویند که جنگ خاورمیانه باعث از دست دادن شغل و کاهش دستمزد آنها شده است.",
+      "category": "military",
+      "region": "mideast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/middleeast/dubai-iran-war-migrant-workers-layoffs.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 09:00:33 +0000",
+      "time": "۱۲:۳۰ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T09:22:43.124Z"
+    },
+    {
+      "id": "nytimes_d8e8745c69",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+      "title_fa": "«ناگهان آزاد شدم»: سفر یک کشیش چینی از زندان به آمریکا",
+      "lead": "کشیش ازرا جین مینگری، یک کشیش چینی، در اولین مصاحبه خود پس از آزادی، سفر خود را از زندان در چین به آمریکا بازگو می‌کند. او جزئیات آزادی ناگهانی خود را تشریح می‌کند که گفته می‌شود پس از درخواست مستقیم رئیس‌جمهور وقت ترامپ از شی جین‌پینگ صورت گرفته است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "pubDate": "Fri, 17 Jul 2026 09:03:36 +0000",
+      "time": "۱۲:۳۳ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T09:22:43.124Z"
+    },
+    {
+      "id": "nytimes_704631f9df",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
+      "title_fa": "زمین‌لرزه‌های ونزوئلا مهاجران را مجبور به بازگشتی تلخ می‌کند",
+      "lead": "زمین‌لرزه‌ها در ونزوئلا بسیاری از مهاجران را مجبور به بازگشت به خانه می‌کند و وضعیت تلخی را برای کسانی که کشور را ترک کرده بودند، رقم می‌زند. در حالی که مهاجرت گسترده ممکن است برخی را از پیامدهای فوری نجات داده باشد، اما با رویارویی آنها با تبعات زلزله، غم و اندوهشان را نیز شدیدتر می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 09:01:42 +0000",
+      "time": "۱۲:۳۱ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T09:22:43.124Z"
     }
   ]
 }
