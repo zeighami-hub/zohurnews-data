@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "france24",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "france24_f81a158653",
@@ -50,6 +50,30 @@
       "pubDate": "Fri, 17 Jul 2026 02:22:15 GMT",
       "time": "۰۵:۵۲ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T02:33:50.466Z"
+    },
+    {
+      "id": "france24_d23df5ea53",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "China's Xi urges global cooperation on AI, warns against single-country dominance",
+      "title_fa": "شی جین پینگ خواستار همکاری جهانی در زمینه هوش مصنوعی شد و نسبت به تسلط یک کشور بر آن هشدار داد",
+      "lead": "رئیس جمهور چین، شی جین پینگ، روز جمعه خواستار همکاری بین‌المللی بیشتر در توسعه و حکمرانی هوش مصنوعی شد. وی در کنفرانسی در شانگهای هشدار داد که هوش مصنوعی نباید تحت تسلط هیچ کشور واحدی قرار گیرد.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.france24.com/en/asia-pacific/20260717-china-s-xi-urges-global-cooperation-on-ai-warns-against-single-country-dominance",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "pubDate": "Fri, 17 Jul 2026 03:19:21 GMT",
+      "time": "۰۶:۴۹ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T03:33:38.370Z"
     }
   ]
 }
