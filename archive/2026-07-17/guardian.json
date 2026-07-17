@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "guardian",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "guardian_13",
@@ -288,6 +288,30 @@
       "pubDate": "Fri, 17 Jul 2026 06:57:08 GMT",
       "time": "۱۰:۲۷ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T08:51:10.766Z"
+    },
+    {
+      "id": "guardian_64cf7c73bc",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "ICE arrests human rights lawyer who fled Chinese crackdown",
+      "title_fa": "سازمان ICE وکیل حقوق بشر فراری از سرکوب چین را دستگیر کرد",
+      "lead": "یک وکیل حقوق بشر چینی توسط سازمان مهاجرت و گمرک ایالات متحده (ICE) در پنسیلوانیا دستگیر شده است. این فرد، وو شائوپینگ، که در انتظار تصمیم پناهندگی خود است، از سرکوب در چین گریخته بود و دستگیری او نگرانی‌هایی را در مورد اخراج و آزار و اذیت احتمالی او افزایش می‌دهد.",
+      "category": "human rights",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 09:20:57 GMT",
+      "time": "۱۲:۵۰ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T09:54:18.652Z"
     }
   ]
 }
