@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "bbc",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_b2b483cad9",
@@ -530,6 +530,30 @@
       "pubDate": "Thu, 16 Jul 2026 13:08:28 GMT",
       "time": "۱۶:۳۸ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T10:08:50.644Z"
+    },
+    {
+      "id": "bbc_8f74d875a1",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US launches new strikes as Iran says civilian infrastructure hit",
+      "title_fa": "آمریکا حملات جدیدی انجام داد؛ ایران می‌گوید زیرساخت‌های غیرنظامی مورد اصابت قرار گرفته است",
+      "lead": "تهران اعلام کرده است که حملات آمریکا به پل‌ها اصابت کرده، در حالی که ایالات متحده یک کشتی را در تنگه هرمز توقیف کرده است. این حملات جدید در بحبوحه تنش‌ها صورت می‌گیرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 10:14:30 GMT",
+      "time": "۱۳:۴۴ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T10:40:51.043Z"
     }
   ]
 }
