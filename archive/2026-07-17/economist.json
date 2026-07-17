@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "economist",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "economist_7e26f05de5",
@@ -194,6 +194,30 @@
       "pubDate": "Tue, 05 May 2026 21:04:24 +0000",
       "time": "۰۰:۳۴ - ۱۶ اردیبهشت",
       "analyzed_at": "2026-07-17T00:06:09.630Z"
+    },
+    {
+      "id": "economist_6b5e5ab57e",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "When China’s open-source AI is a trap",
+      "title_fa": "چه زمانی هوش مصنوعی متن‌باز چین یک تله است",
+      "lead": "در رقابت بر سر برتری در هوش مصنوعی، تلاش آمریکا برای دستیابی به سلطه نگران‌کننده به نظر می‌رسد. در این میان، چین نیز راه‌حل نیست و هوش مصنوعی متن‌باز این کشور می‌تواند یک تله باشد.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 14 Jul 2026 20:17:29 +0000",
+      "time": "۲۳:۴۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-17T00:19:13.865Z"
     }
   ]
 }
