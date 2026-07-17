@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "mehrnews",
-  "total": 15,
+  "total": 19,
   "articles": [
     {
       "id": "mehrnews_0ac3c776d7",
@@ -362,6 +362,102 @@
       "pubDate": "Thu, 16 Jul 2026 06:57:42 GMT",
       "time": "۱۰:۲۷ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T10:08:50.644Z"
+    },
+    {
+      "id": "mehrnews_6e34e2e5f9",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Fire erupts at Imam Reza shrine in Mashhad",
+      "title_fa": "آتش‌سوزی در حرم امام رضا (ع) در مشهد",
+      "lead": "آتش‌سوزی در یک کارگاه قیر در داخل مجموعه حرم امام رضا (ع) در مشهد رخ داد. این حادثه روز پنجشنبه در تاریخ ۱۶ جولای گزارش شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246260/Fire-erupts-at-Imam-Reza-shrine-in-Mashhad",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 09:12:32 GMT",
+      "time": "۱۲:۴۲ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T10:40:51.043Z"
+    },
+    {
+      "id": "mehrnews_4f002434a5",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran Army drones attack US Patriots in Kuwait, Bahrain",
+      "title_fa": "ارتش ایران: پهپادهای ما به پاتریوت‌های آمریکا در کویت و بحرین حمله کردند",
+      "lead": "ارتش ایران اعلام کرد که پهپادهایش سامانه‌های راداری، باتری‌های دفاع هوایی پاتریوت و مخازن سوخت آمریکا را در پایگاه‌های کویت و بحرین هدف قرار داده‌اند. این حملات اوایل پنجشنبه صورت گرفت.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://en.mehrnews.com/news/246259/Iran-Army-drones-attack-US-Patriots-in-Kuwait-Bahrain",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 08:08:35 GMT",
+      "time": "۱۱:۳۸ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T10:40:51.043Z"
+    },
+    {
+      "id": "mehrnews_00424e399e",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Majority of Americans believe launching war on Iran was wrong",
+      "title_fa": "اکثریت آمریکایی‌ها معتقدند که شروع جنگ علیه ایران اشتباه بود",
+      "lead": "یک نظرسنجی جدید نشان می‌دهد که ۵۷ درصد از آمریکایی‌ها معتقدند تصمیم برای شروع جنگ علیه ایران اشتباه بوده است. این نظرسنجی در تاریخ ۱۶ جولای منتشر شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246258/Majority-of-Americans-believe-launching-war-on-Iran-was-wrong",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "pubDate": "Thu, 16 Jul 2026 07:55:59 GMT",
+      "time": "۱۱:۲۵ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T10:40:51.043Z"
+    },
+    {
+      "id": "mehrnews_ec077928e9",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US air radar, jet fuel pumps destroyed in Bahrain",
+      "title_fa": "رادار هوایی آمریکا و پمپ‌های سوخت جت در بحرین منهدم شد",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که یک رادار و زیرساخت‌های سوخت جت را در پایگاه هوایی شیخ عیسی بحرین مورد هدف قرار داده و منهدم کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246257/US-air-radar-jet-fuel-pumps-destroyed-in-Bahrain",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 16 Jul 2026 07:31:23 GMT",
+      "time": "۱۱:۰۱ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T10:40:51.043Z"
     }
   ]
 }
