@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "france24",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "france24_f81a158653",
@@ -530,6 +530,54 @@
       "pubDate": "Fri, 17 Jul 2026 10:33:27 GMT",
       "time": "۱۴:۰۳ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T11:11:49.410Z"
+    },
+    {
+      "id": "france24_e0e04e85ff",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "🔴 UK’s Andy Burnham named Labour leader ahead of taking over as PM",
+      "title_fa": "اندی برنهام، رهبر حزب کارگر بریتانیا شد و در آستانه نخست‌وزیری قرار گرفت",
+      "lead": "اندی برنهام، سیاستمدار بریتانیایی، به عنوان رهبر جدید حزب کارگر معرفی شد. این رویداد او را در موقعیتی قرار می‌دهد که پیش از تصدی پست نخست‌وزیری کشور قرار گیرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/europe/20260717-uk-s-andy-burnham-named-labour-leader-ahead-of-taking-over-as-pm",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 11:16:44 GMT",
+      "time": "۱۴:۴۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T11:22:35.474Z"
+    },
+    {
+      "id": "france24_2282e26e18",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "'We will have to share the water': a quarter of small waterways in France have run dry",
+      "title_fa": "«ما باید آب را تقسیم کنیم»: یک چهارم از آبراه‌های کوچک فرانسه خشک شده‌اند",
+      "lead": "یک چهارم از آبراه‌های کوچک در فرانسه خشک شده‌اند. این وضعیت ناشی از بارندگی کم در ماه می و سه موج گرمای شدید است که ۱۰۰ دپارتمان فرانسه را تحت تأثیر قرار داده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/press-review/20260717-we-will-have-to-share-the-water-a-quarter-of-small-waterways-in-france-have-run-dry",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 17 Jul 2026 11:12:50 GMT",
+      "time": "۱۴:۴۲ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T11:22:35.474Z"
     }
   ]
 }
