@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "mehrnews",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_0ac3c776d7",
@@ -194,6 +194,54 @@
       "pubDate": "Thu, 16 Jul 2026 12:01:04 GMT",
       "time": "۱۵:۳۱ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T07:53:41.559Z"
+    },
+    {
+      "id": "mehrnews_02e03dfcb5",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US aggressive acts against Iran constitute war crimes",
+      "title_fa": "اقدامات تجاوزکارانه آمریکا علیه ایران مصداق جنایت جنگی است",
+      "lead": "سفیر و نماینده دائم ایران در سازمان ملل متحد اظهار داشت که هدف قرار دادن سیستماتیک زیرساخت‌های غیرنظامی توسط آمریکا، جنایت جنگی محسوب می‌شود. او این اقدامات تجاوزکارانه آمریکا را محکوم کرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246271/US-aggressive-acts-against-Iran-constitute-war-crimes",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 08:17:16 GMT",
+      "time": "۱۱:۴۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T08:20:59.573Z"
+    },
+    {
+      "id": "mehrnews_cfa7b9891a",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "VIDEO: US airstrike on Hormuzgan bridge",
+      "title_fa": "حمله هوایی آمریکا به پل هرمزگان",
+      "lead": "حمله آمریکا به پل کوهستک در استان هرمزگان در شب پنجشنبه مسیر حمل و نقل بین استان جنوبی و استان فارس همسایه را قطع کرد. این حمله هوایی توسط آمریکا صورت گرفته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246270/VIDEO-US-airstrike-on-Hormuzgan-bridge",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 07:57:15 GMT",
+      "time": "۱۱:۲۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T08:07:01.698Z"
     }
   ]
 }
