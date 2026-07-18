@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "economist",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "economist_7e26f05de5",
@@ -482,6 +482,28 @@
       "pubDate": "Tue, 09 Jun 2026 17:54:12 +0000",
       "time": "۲۱:۲۴ - ۱۹ خرداد",
       "analyzed_at": "2026-07-17T11:53:19.540Z"
+    },
+    {
+      "id": "economist_12",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "America must hope Donald Trump is not a new Caligula",
+      "title_fa": "آمریکا باید امیدوار باشد دونالد ترامپ کالیگولای جدیدی نباشد",
+      "lead": "این مقاله اظهار می‌کند که آمریکا باید امیدوار باشد دونالد ترامپ کالیگولای جدیدی نباشد. در تاریخ حاکمانی که اعمال احمقانه مرتکب شده‌اند، فساد رومی برجسته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.economist.com/international/2026/05/05/americas-must-hope-donald-trump-is-not-a-new-caligula",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-17T21:45:01.614Z"
     }
   ]
 }
