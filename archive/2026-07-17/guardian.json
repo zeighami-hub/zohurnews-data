@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "guardian",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "guardian_13",
@@ -528,6 +528,30 @@
       "pubDate": "Tue, 14 Jul 2026 12:27:06 GMT",
       "time": "۱۵:۵۷ - ۲۳ تیر",
       "analyzed_at": "2026-07-17T11:53:19.540Z"
+    },
+    {
+      "id": "guardian_d28fe04dcf",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
+      "title_fa": "دود بیشتر آتش‌سوزی‌های جنگلی کانادا مناطق مرکزی، اقیانوس اطلس میانه و شمال شرق آمریکا را فرا گرفت",
+      "lead": "دود ناشی از آتش‌سوزی‌های جنگلی کانادا بار دیگر مناطق غرب میانه، اقیانوس اطلس میانه و شمال شرق ایالات متحده را پوشانده است. ۱۰۹ میلیون نفر با یک روز دیگر از کیفیت هوای نامطلوب مواجه هستند، زیرا دود ناشی از آتش‌سوزی‌ها در انتاریو بر فراز آمریکا پراکنده شده است.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 17 Jul 2026 13:49:33 GMT",
+      "time": "۱۷:۱۹ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T14:17:16.648Z"
     }
   ]
 }
