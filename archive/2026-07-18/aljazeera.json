@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "aljazeera",
-  "total": 2,
+  "total": 5,
   "articles": [
     {
       "id": "aljazeera_691f3ed229",
@@ -50,6 +50,78 @@
       "pubDate": "Sat, 18 Jul 2026 00:07:38 +0000",
       "time": "۰۳:۳۷ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T00:33:50.059Z"
+    },
+    {
+      "id": "aljazeera_5d37167034",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Landslide in southwest China kills eight and leaves 34 missing",
+      "title_fa": "رانش زمین در جنوب غرب چین: ۸ کشته و ۳۴ مفقود",
+      "lead": "رانش زمین در حومه شهر چونگ‌کینگ در جنوب غرب چین رخ داد. این حادثه منجر به کشته شدن دست‌کم هشت نفر و مفقود شدن ۳۴ نفر شده است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/18/landslide-in-southwest-china-kills-eight-and-leaves-34-missing?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 00:33:59 +0000",
+      "time": "۰۴:۰۳ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T00:48:59.634Z"
+    },
+    {
+      "id": "aljazeera_77ac4a95a2",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Trump Media reportedly mulling fee for first access to social media posts",
+      "title_fa": "ترامپ مدیا در حال بررسی دریافت هزینه برای دسترسی زودهنگام به پست‌های شبکه‌های اجتماعی",
+      "lead": "بر اساس گزارش‌ها، شرکت ترامپ مدیا در حال بررسی دریافت هزینه برای دسترسی اولیه به پست‌های شبکه‌های اجتماعی است. رئیس‌جمهور سابق آمریکا به دفعات به تبادل نفوذ دولتی برای منافع مالی نامناسب متهم شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/18/trump-media-reportedly-mulling-fee-for-first-access-to-social-media-posts?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 00:32:34 +0000",
+      "time": "۰۴:۰۲ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T00:48:59.634Z"
+    },
+    {
+      "id": "aljazeera_58214bc3a6",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "UK by-election sees record 34 candidates as Farage seeks return",
+      "title_fa": "انتخابات میان‌دوره‌ای بریتانیا با رکورد ۳۴ نامزد در حالی برگزار می‌شود که فاراژ به دنبال بازگشت است",
+      "lead": "در انتخابات میان‌دوره‌ای بریتانیا، رکورد ۳۴ نامزد به رقابت می‌پردازند. نایجل فاراژ، رهبر حزب اصلاحات بریتانیا، به دنبال بازپس‌گیری کرسی خود پس از استعفا در پی جنجال هدایا است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/18/uk-by-election-sees-record-34-candidates-as-farage-seeks-return?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 40
+      },
+      "pubDate": "Sat, 18 Jul 2026 00:23:40 +0000",
+      "time": "۰۳:۵۳ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T00:48:59.634Z"
     }
   ]
 }
