@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "mehrnews",
-  "total": 30,
+  "total": 31,
   "articles": [
     {
       "id": "mehrnews_9f26097649",
@@ -720,6 +720,30 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-18T08:56:17.825Z"
+    },
+    {
+      "id": "mehrnews_e6e5734220",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC launches missile, drone attacks on US base in Jordan",
+      "title_fa": "سپاه پاسداران به پایگاه آمریکایی در اردن حمله موشکی و پهپادی انجام داد",
+      "lead": "سپاه پاسداران انقلاب اسلامی در حملاتی تلافی‌جویانه، به پایگاه آمریکایی الازرق در اردن حمله موشکی و پهپادی انجام داده است. این حملات پناهگاه‌های هواپیماهای جنگی و یک رمپ بزرگ در این پایگاه را هدف قرار دادند.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://en.mehrnews.com/news/246308/IRGC-launches-missile-drone-attacks-on-US-base-in-Jordan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 08:44:01 GMT",
+      "time": "۱۲:۱۴ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T09:09:38.588Z"
     }
   ]
 }
