@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_6dac868066",
@@ -98,6 +98,30 @@
       "pubDate": "Sat, 18 Jul 2026 04:01:04 +0000",
       "time": "۰۷:۳۱ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T04:21:37.946Z"
+    },
+    {
+      "id": "nytimes_f02e788ca4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
+      "title_fa": "یک فعال هندی که در اعتصاب غذا بود، توسط پلیس به زور منتقل شد",
+      "lead": "سونام وانگچوک، فعال هندی که در اعتصاب غذا به سر می‌برد، توسط پلیس به زور از محل اعتصاب منتقل شد. او ماه گذشته اعتصاب خود را در اعتراض به سوءمدیریت آموزشی که میلیون‌ها دانشجو را تحت تأثیر قرار داده است، آغاز کرده بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 07:28:32 +0000",
+      "time": "۱۰:۵۸ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T07:37:59.178Z"
     }
   ]
 }
