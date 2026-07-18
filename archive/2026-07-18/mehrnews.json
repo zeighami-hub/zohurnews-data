@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "mehrnews",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "mehrnews_9f26097649",
@@ -290,6 +290,54 @@
       "pubDate": "Sat, 18 Jul 2026 04:43:25 GMT",
       "time": "۰۸:۱۳ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T04:52:16.035Z"
+    },
+    {
+      "id": "mehrnews_d2a85945c0",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran Army launches fresh drone attacks on US bases in region",
+      "title_fa": "ارتش ایران حملات پهپادی جدیدی را به پایگاه‌های آمریکا در منطقه آغاز کرد",
+      "lead": "ارتش ایران اعلام کرد که پهپادهایش انبار مهمات، ساختمان‌های مقر و مخازن سوخت را در پایگاه‌های نظامی آمریکا در کویت و اردن هدف قرار دادند. این حملات روز شنبه انجام شد.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://en.mehrnews.com/news/246292/Iran-Army-launches-fresh-drone-attacks-on-US-bases-in-region",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 04:58:36 GMT",
+      "time": "۰۸:۲۸ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T05:08:40.824Z"
+    },
+    {
+      "id": "mehrnews_7f26579029",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran missiles hit key US base in Jordan",
+      "title_fa": "موشک‌های ایران پایگاه کلیدی آمریکا در اردن را هدف قرار دادند",
+      "lead": "موشک‌های ایران پایگاه هوایی «موفق السلطی» در اردن را هدف قرار دادند. این پایگاه به عنوان مرکز حیاتی لجستیک و عملیات نیروهای آمریکایی در غرب آسیا شناخته می‌شود.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://en.mehrnews.com/news/246291/Iran-missiles-hit-key-US-base-in-Jordan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 04:51:51 GMT",
+      "time": "۰۸:۲۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T05:08:40.824Z"
     }
   ]
 }
