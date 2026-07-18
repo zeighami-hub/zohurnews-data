@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 28,
+  "total": 29,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -674,6 +674,30 @@
       "pubDate": "Fri, 17 Jul 2026 11:14:43 +0000",
       "time": "۱۴:۴۴ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T11:38:18.611Z"
+    },
+    {
+      "id": "nytimes_58a016c8b8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard",
+      "title_fa": "وزیر دفاع برکنار شده اوکراین به گارد قدیمی ارتش حمله کرد",
+      "lead": "میخایلو فدروف در حالی که هزاران نفر به برکناری او اعتراض می‌کردند، از تلاش‌های خود برای نوسازی نیروهای مسلح اوکراین دفاع کرد. این رویداد در پی برکناری او از سمت وزیر دفاع رخ داده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 16:19:50 +0000",
+      "time": "۱۹:۴۹ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T11:53:19.540Z"
     }
   ]
 }
