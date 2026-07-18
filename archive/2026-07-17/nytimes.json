@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 40,
+  "total": 43,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -962,6 +962,78 @@
       "pubDate": "Fri, 17 Jul 2026 16:03:37 +0000",
       "time": "۱۹:۳۳ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T20:32:25.487Z"
+    },
+    {
+      "id": "nytimes_ebdd72c3c8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Rise and Fall of Ukraine’s Drone Warfare Mastermind",
+      "title_fa": "ظهور و سقوط مغز متفکر جنگ پهپادی اوکراین",
+      "lead": "محبوبیت پهپادها و وزیر دفاعی که به شدت آن‌ها را ترویج می‌کرد، به درگیری‌ای منجر شد که در آن رئیس‌جمهور ولودیمیر زلنسکی از مقامات نظامی حمایت کرد. این مقاله به بررسی فراز و نشیب‌های این فرد در زمینه جنگ پهپادی اوکراین می‌پردازد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/europe/ukraine-fedorov-defense-minister.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "pubDate": "Fri, 17 Jul 2026 20:51:47 +0000",
+      "time": "۰۰:۲۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-17T21:45:01.614Z"
+    },
+    {
+      "id": "nytimes_ab2cb4be4c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Karim Khan’s Accuser Breaks Silence on Alleged Sexual Misconduct at I.C.C.",
+      "title_fa": "مدعی علیه کریم خان سکوت خود را درباره سوء رفتار جنسی ادعایی در دیوان کیفری بین‌المللی شکست",
+      "lead": "مدعی علیه کریم خان، دادستان کل دیوان کیفری بین‌المللی، سکوت خود را در مورد اتهامات سوء رفتار جنسی شکست. کریم خان این اتهامات را تکذیب کرده است و هفته آینده با رای‌گیری روبرو خواهد شد که تعیین‌کننده ادامه فعالیت او در این سمت است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/europe/karim-khan-icc-accusations.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 20:51:08 +0000",
+      "time": "۰۰:۲۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-17T21:45:01.614Z"
+    },
+    {
+      "id": "nytimes_184e660bea",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "E.U. Proposes Changes to Emissions Trading System",
+      "title_fa": "اتحادیه اروپا تغییراتی را در سیستم تجارت انتشار کربن پیشنهاد می‌کند",
+      "lead": "اتحادیه اروپا با واکنش‌های منفی سبز مواجه است، زیرا کاهش انتشار گازهای گلخانه‌ای دشوارتر شده و نیازمند تغییرات اساسی‌تری در صنعت و معیشت است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/climate/european-union-emissions-rollback.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 15:48:47 +0000",
+      "time": "۱۹:۱۸ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T21:45:01.614Z"
     }
   ]
 }
