@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "mehrnews",
-  "total": 29,
+  "total": 31,
   "articles": [
     {
       "id": "mehrnews_0ac3c776d7",
@@ -698,6 +698,54 @@
       "pubDate": "Fri, 17 Jul 2026 14:07:53 GMT",
       "time": "۱۷:۳۷ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T20:32:25.487Z"
+    },
+    {
+      "id": "mehrnews_d94fe73b66",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Explosions reported in s. Iran on 7th night of US aggression",
+      "title_fa": "گزارش انفجارها در جنوب ایران در هفتمین شب تجاوز آمریکا",
+      "lead": "در حالی که نیروهای آمریکایی از دور جدید تجاوز به ایران خبر می‌دهند، گزارش‌هایی از وقوع انفجارها در مناطقی در جنوب ایران منتشر شده است. این انفجارها برای هفتمین شب متوالی رخ داده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246282/Explosions-reported-in-s-Iran-on-7th-night-of-US-aggression",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 17 Jul 2026 21:32:08 GMT",
+      "time": "۰۱:۰۲ - ۲۷ تیر",
+      "analyzed_at": "2026-07-17T21:51:06.494Z"
+    },
+    {
+      "id": "mehrnews_eb4d5f34f1",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Americans move closer to “zero hour”: IRGC navy warns",
+      "title_fa": "نیروی دریایی سپاه هشدار داد: آمریکایی‌ها به «ساعت صفر» نزدیک‌تر می‌شوند",
+      "lead": "نیروی دریایی سپاه پاسداران انقلاب اسلامی هشدار داده است که نیروهای آمریکایی به «ساعت صفر» برای عملیات نظامی علیه سنتکام در منطقه نزدیک‌تر می‌شوند. این هشدار بر تنش‌های فزاینده در منطقه تأکید دارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246281/Americans-move-closer-to-zero-hour-IRGC-navy-warns",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 21:14:06 GMT",
+      "time": "۰۰:۴۴ - ۲۷ تیر",
+      "analyzed_at": "2026-07-17T21:45:01.614Z"
     }
   ]
 }
