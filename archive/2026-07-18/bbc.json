@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "bbc",
-  "total": 12,
+  "total": 20,
   "articles": [
     {
       "id": "bbc_9fb48f594b",
@@ -290,6 +290,198 @@
       "pubDate": "Sat, 18 Jul 2026 05:10:44 GMT",
       "time": "۰۸:۴۰ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T10:08:52.299Z"
+    },
+    {
+      "id": "bbc_670d25959f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "title_fa": "ترامپ کانادا را به تعرفه‌های جدید به دلیل ارسال هوای \"کثیف\" ناشی از آتش‌سوزی‌ها به شهرهای آمریکا تهدید کرد",
+      "lead": "دونالد ترامپ کانادا را به وضع تعرفه‌های جدیدی تهدید کرده است، زیرا آتش‌سوزی‌های این کشور هوای \"کثیف\" را به شهرهای آمریکا می‌فرستند. در همین حال، مارک کارنی، رهبر کانادایی، می‌گوید هر دو کشور مسئولیت یکسانی در مبارزه با تغییرات اقلیمی دارند.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 01:29:47 GMT",
+      "time": "۰۴:۵۹ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "bbc_d3fe7779fb",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
+      "title_fa": "تاکو بل پس از ارتباط با انگل عامل اسهال شدید، کاهو را از منوی خود در آمریکا حذف کرد",
+      "lead": "تاکو بل کاهو را از منوی خود در ایالات متحده حذف کرده است. این اقدام پس از آن صورت گرفت که ۱۶۴۵ نفر در پنج ایالت به دلیل مصرف محصولات این رستوران به انگلی که باعث اسهال شدید می‌شود، آلوده شدند.",
+      "category": "health",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 21:29:22 GMT",
+      "time": "۰۰:۵۹ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "bbc_ef9625bd23",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "China hits out at British Steel nationalisation",
+      "title_fa": "چین از ملی‌سازی «بریتیش استیل» انتقاد کرد",
+      "lead": "دولت بریتانیا اعلام کرد که ملی‌سازی شرکت «بریتیش استیل» از یک «توانایی حیاتی ملی» حفاظت خواهد کرد. با این حال، چین به ملی‌سازی این شرکت انتقاد کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 16:44:22 GMT",
+      "time": "۲۰:۱۴ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "bbc_9da5955c6d",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "title_fa": "ترامپ مدعی شد چین در انتخابات ۲۰۲۰ دخالت کرده و امنیت رأی‌گیری را پیش از انتخابات میان‌دوره‌ای زیر سؤال برد",
+      "lead": "چین اظهارات ترامپ را ساختگی خواند و دموکرات‌های آمریکا گفتند که او در حال هموار کردن راه برای تضعیف انتخابات نوامبر است. این اظهارات تنش‌های سیاسی و بین‌المللی را افزایش داده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 15,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 11:37:00 GMT",
+      "time": "۱۵:۰۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "bbc_11943fcaf9",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump Media to sell instant access to 'market-moving' social posts",
+      "title_fa": "ترامپ مدیا دسترسی فوری به پست‌های اجتماعی «تاثیرگذار بر بازار» را می‌فروشد",
+      "lead": "شرکت ترامپ مدیا قصد دارد خوراک (فید) سریع و پولی از تاثیرگذارترین پست‌های خود را برای معامله‌گران وال استریت عرضه کند. این اقدام با هدف فروش دسترسی فوری به محتوای شبکه‌های اجتماعی انجام می‌شود.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 07:25:31 GMT",
+      "time": "۱۰:۵۵ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "bbc_0c8723ff94",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
+      "title_fa": "ژاپن قوانین جانشینی سلطنتی را تسهیل می‌کند – اما ممنوعیت امپراتریس زن پابرجا می‌ماند",
+      "lead": "ژاپن قوانین جانشینی سلطنتی خود را تغییر داده و اکنون امکان پذیرش مجدد خویشاوندان دورتر مذکر بالای ۱۵ سال به خانواده امپراتوری را فراهم می‌کند. با این حال، ممنوعیت به تخت نشستن زنان به عنوان امپراتریس همچنان باقی است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 05:16:34 GMT",
+      "time": "۰۸:۴۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "bbc_513b1d6473",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Olympic cyclist admits to driving despite ban after crash that killed wife",
+      "title_fa": "دوچرخه‌سوار المپیکی به رانندگی در زمان ممنوعیت پس از تصادف مرگبار همسرش اعتراف کرد",
+      "lead": "روهان دنیس، دوچرخه‌سوار المپیکی، به رانندگی در حال محرومیت اعتراف کرده است. او ماه گذشته پس از متوقف شدن توسط پلیس، به این اتهام که پس از تصادفی که همسرش را کشت، رانندگی می‌کرد، اقرار کرد.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 05:09:14 GMT",
+      "time": "۰۸:۳۹ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "bbc_a79ffa2d56",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Philippines condemns monkey video on Chinese media as racist",
+      "title_fa": "فیلیپین ویدیوی میمون در رسانه چینی را نژادپرستانه محکوم کرد",
+      "lead": "فیلیپین ویدیوی هوش مصنوعی منتشر شده در روزنامه دولتی چین (China Daily) را نژادپرستانه خوانده و آن را محکوم کرده است. این ویدیو یک میمون را با لباس‌های فیلیپینی نشان می‌داد که ادعاهای این کشور در دریای جنوبی چین را به سخره می‌گرفت.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 02:37:45 GMT",
+      "time": "۰۶:۰۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
     }
   ]
 }
