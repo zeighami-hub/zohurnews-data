@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "mehrnews",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_9f26097649",
@@ -218,6 +218,30 @@
       "pubDate": "Sat, 18 Jul 2026 04:06:53 GMT",
       "time": "۰۷:۳۶ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T04:21:37.946Z"
+    },
+    {
+      "id": "mehrnews_ffee9730bf",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "American MQ-9 drone downed in southern Iran",
+      "title_fa": "سرنگونی پهپاد آمریکایی MQ-9 در جنوب ایران",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که پدافند هوایی نیروی دریایی این نهاد یک پهپاد آمریکایی MQ-9 ریپر را بر فراز منطقه ساحلی عسلویه در جنوب ایران سرنگون کرده است.",
+      "category": "politics",
+      "region": "middle_east",
+      "sourceUrl": "https://en.mehrnews.com/news/246288/American-MQ-9-drone-downed-in-southern-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 18 Jul 2026 04:24:48 GMT",
+      "time": "۰۷:۵۴ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T04:36:19.570Z"
     }
   ]
 }
