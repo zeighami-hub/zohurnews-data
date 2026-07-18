@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "bbc",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "bbc_9fb48f594b",
@@ -26,6 +26,30 @@
       "pubDate": "Sat, 18 Jul 2026 01:16:11 GMT",
       "time": "۰۴:۴۶ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T01:33:38.010Z"
+    },
+    {
+      "id": "bbc_eb396f6d13",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+      "title_fa": "یک فعال هندی پس از ۲۰ روز اعتصاب غذا به زور به بیمارستان منتقل شد",
+      "lead": "سونام وانگچوک، فعال هندی که به مدت ۲۰ روز اعتصاب غذا کرده بود، به اجبار به بیمارستان منتقل شد. او پیش از این از مردم خواسته بود تا در یک راهپیمایی اعتراضی به سمت پارلمان در ۲۰ ژوئیه شرکت کنند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 03:54:51 GMT",
+      "time": "۰۷:۲۴ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T04:04:51.860Z"
     }
   ]
 }
