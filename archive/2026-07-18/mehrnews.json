@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "mehrnews",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "mehrnews_9f26097649",
@@ -386,6 +386,30 @@
       "pubDate": "Sat, 18 Jul 2026 05:33:46 GMT",
       "time": "۰۹:۰۳ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T05:52:55.758Z"
+    },
+    {
+      "id": "mehrnews_80e7c2641d",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US strikes hit bridges, water plants in south Iran",
+      "title_fa": "حملات آمریکا به پل‌ها و تاسیسات آبرسانی در جنوب ایران",
+      "lead": "گزارش‌ها حاکی از آن است که حملات آمریکا به جنوب ایران در اوایل روز شنبه، به پل‌ها، تونل‌ها، خطوط برق و یک تاسیسات نمک‌زدایی خسارت وارد کرده است. این حملات باعث قطع آب روستاها شده و چندین کشته بر جای گذاشته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246295/US-strikes-hit-bridges-water-plants-in-south-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 06:05:34 GMT",
+      "time": "۰۹:۳۵ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T06:22:43.343Z"
     }
   ]
 }
