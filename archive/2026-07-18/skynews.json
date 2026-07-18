@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 9,
   "articles": [
     {
       "id": "skynews_1588f90474",
@@ -122,6 +122,102 @@
       "pubDate": "Sat, 18 Jul 2026 03:57:00 +0100",
       "time": "۰۶:۲۷ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T04:36:19.570Z"
+    },
+    {
+      "id": "skynews_c16c7fc91b",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "'Shameless' fraudster who stole £300k from vulnerable pensioner led away by police",
+      "title_fa": "کلاهبردار \"بی‌شرم\" که ۳۰۰ هزار پوند از یک سالمند آسیب‌پذیر دزدید، توسط پلیس دستگیر شد",
+      "lead": "این لحظه‌ای است که یک کلاهبردار \"بی‌شرم\" که ۳۰۰ هزار پوند از یک سالمند آسیب‌پذیر سرقت کرده بود، توسط پلیس دستگیر و از محل خارج می‌شود. این دستگیری پس از آن صورت گرفت که اسکای نیوز او را در تنریف پیدا کرد.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/video-shows-shameless-fraudster-who-stole-300k-from-vulnerable-pensioner-led-away-by-police-13564444",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 17 Jul 2026 15:36:00 +0100",
+      "time": "۱۸:۰۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "skynews_cd79be5e74",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Trump blames Canada as US 'invaded by filthy air'",
+      "title_fa": "ترامپ کانادا را به دلیل \"تهاجم هوای کثیف\" به آمریکا مقصر دانست",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، کانادا را به دلیل دود ناشی از آتش‌سوزی‌های جنگلی که می‌تواند بر فینال جام جهانی تأثیر بگذارد، مقصر دانست. این اظهارات نگرانی‌هایی را در مورد کیفیت هوا و روابط دوجانبه مطرح می‌کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/trump-blames-canada-as-us-invaded-by-filthy-air-from-wildfires-that-could-impact-world-cup-final-13563357",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 25,
+        "negative": 70
+      },
+      "pubDate": "Fri, 17 Jul 2026 14:00:00 +0100",
+      "time": "۱۶:۳۰ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "skynews_4e4f665f9a",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "FIFA to hand World Cup winners US-style championship rings",
+      "title_fa": "فیفا به برندگان جام جهانی حلقه‌های قهرمانی به سبک آمریکا اهدا می‌کند",
+      "lead": "فیفا اعلام کرد که برندگان فینال جام جهانی روز یکشنبه بین آرژانتین و اسپانیا برای اولین بار حلقه‌های قهرمانی دریافت خواهند کرد. این اقدام به سبک سنت‌های ورزشی آمریکا صورت می‌گیرد.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/fifa-to-hand-winners-of-argentina-v-spain-world-cup-final-us-style-championship-rings-13564329",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 11:42:00 +0100",
+      "time": "۱۴:۱۲ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "skynews_e6d7ac2062",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Trump accused of making 'totally bogus' election claims in primetime address to nation",
+      "title_fa": "ترامپ به طرح ادعاهای «کاملا بی‌اساس» درباره انتخابات در سخنرانی ملی متهم شد",
+      "lead": "دونالد ترامپ متهم شده است که در یک سخنرانی ملی در ساعات پربیننده، ادعاهای «کاملا بی‌اساس» در مورد دخالت در انتخابات ۲۰۲۰ آمریکا مطرح کرده است. وی همچنین ادعاهایی درباره دخالت چین در این انتخابات را بیان کرده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/trump-alleges-chinese-election-interference-in-address-to-nation-13564219",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 02:46:00 +0100",
+      "time": "۰۵:۱۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
     }
   ]
 }
