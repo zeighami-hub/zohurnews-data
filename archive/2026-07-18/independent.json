@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "independent",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "independent_61e52800e2",
@@ -242,6 +242,54 @@
       "pubDate": "Sat, 18 Jul 2026 00:32:11 GMT",
       "time": "۰۴:۰۲ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T00:48:59.634Z"
+    },
+    {
+      "id": "independent_1599f50a03",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Mexico struck by powerful earthquake off southern coast as tsunami threat lifted",
+      "title_fa": "زلزله‌ای قدرتمند سواحل جنوبی مکزیک را لرزاند؛ هشدار سونامی لغو شد",
+      "lead": "زمین‌لرزه‌ای قدرتمند سواحل جنوبی مکزیک را لرزانده است. پس از این حادثه، تهدید سونامی در منطقه لغو شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/mexico-earthquake-tsunami-warning-chiapas-magnitude-b3017061.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Sat, 18 Jul 2026 01:12:08 GMT",
+      "time": "۰۴:۴۲ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T01:18:30.463Z"
+    },
+    {
+      "id": "independent_01b78f5947",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Paul Pelosi charged with hit-and-run after California crash",
+      "title_fa": "پل پلوسی پس از تصادف در کالیفرنیا به اتهام فرار از صحنه حادثه متهم شد",
+      "lead": "پل پلوسی، همسر نانسی پلوسی، پس از یک تصادف در کالیفرنیا به اتهام فرار از صحنه حادثه متهم شده است. او متهم است که با یک خودروی پارک شده در کنار جاده برخورد کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/news/world/americas/paul-pelosi-misdemeanor-hit-and-run-california-b3017270.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 18 Jul 2026 01:07:14 GMT",
+      "time": "۰۴:۳۷ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T01:18:30.463Z"
     }
   ]
 }
