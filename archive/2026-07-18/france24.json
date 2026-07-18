@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "france24",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "france24_67993361d8",
@@ -216,6 +216,54 @@
         "negative": 100
       },
       "analyzed_at": "2026-07-18T08:25:43.015Z"
+    },
+    {
+      "id": "france24_3945a40510",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Venezuela quake death toll tops 5,000 as IMF releases recovery funds",
+      "title_fa": "تعداد کشته‌شدگان زمین‌لرزه ونزوئلا از ۵۰۰۰ نفر گذشت؛ صندوق بین‌المللی پول بودجه بازسازی را آزاد کرد",
+      "lead": "مقامات اعلام کردند که بیش از ۵۰۰۰ نفر در زمین‌لرزه‌های دوقلوی ماه گذشته در ونزوئلا کشته شده‌اند. آنها افزودند که این کشور برای بازسازی از ۳۴۶ میلیون دلار از صندوق بین‌المللی پول (IMF) استفاده خواهد کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/americas/20260718-venezuela-quake-death-toll-tops-5-000-as-imf-releases-recovery-funds",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 08:25:28 GMT",
+      "time": "۱۱:۵۵ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T08:39:10.372Z"
+    },
+    {
+      "id": "france24_203f5f8f95",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "No fuel, no patience: Russians endure fuel shortages",
+      "title_fa": "بدون سوخت، بدون صبر: روس‌ها کمبود سوخت را تحمل می‌کنند",
+      "lead": "روس‌ها با کمبود سوخت مواجه هستند و این وضعیت صبر آنها را به سر آورده است. یک زوج روسی مجبور شدند از چهار پمپ بنزین عبور کنند تا بالاخره یکی با سوخت در وولوگدا پیدا کنند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/europe/20260718-no-fuel-no-patience-russians-endure-fuel-shortages",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 02:09:24 GMT",
+      "time": "۰۵:۳۹ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T08:39:10.372Z"
     }
   ]
 }
