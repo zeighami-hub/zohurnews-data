@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "mehrnews_9f26097649",
@@ -50,6 +50,54 @@
       "pubDate": "Fri, 17 Jul 2026 10:45:23 GMT",
       "time": "۱۴:۱۵ - ۲۶ تیر",
       "analyzed_at": "2026-07-18T00:04:48.681Z"
+    },
+    {
+      "id": "mehrnews_3b8673c60d",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "VIDEO: US attack on Griveh bridge in Hormozgan",
+      "title_fa": "ویدئو: حمله آمریکا به پل گریوه در هرمزگان",
+      "lead": "موشک‌های آمریکایی شب گذشته به پل گریوه در استان هرمزگان اصابت کردند. این حمله یکی از شش پلی است که در این استان جنوبی مورد هدف قرار گرفته‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246275/VIDEO-US-attack-on-Griveh-bridge-in-Hormozgan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 11:37:48 GMT",
+      "time": "۱۵:۰۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T00:20:46.279Z"
+    },
+    {
+      "id": "mehrnews_2158e33611",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC releases video footage of attack on US base in UAE",
+      "title_fa": "سپاه پاسداران فیلمی از حمله به پایگاه آمریکا در امارات منتشر کرد",
+      "lead": "نیروی هوافضای سپاه پاسداران انقلاب اسلامی فیلم پرتاب موشک‌های خود به اهداف آمریکایی در امارات متحده عربی را منتشر کرد. این حمله شب گذشته انجام شده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246274/IRGC-releases-video-footage-of-attack-on-US-base-in-UAE",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Fri, 17 Jul 2026 11:17:02 GMT",
+      "time": "۱۴:۴۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T00:20:46.279Z"
     }
   ]
 }
