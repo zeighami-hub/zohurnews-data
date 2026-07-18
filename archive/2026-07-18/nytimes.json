@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_6dac868066",
@@ -506,6 +506,30 @@
       "pubDate": "Fri, 17 Jul 2026 12:46:57 +0000",
       "time": "۱۶:۱۶ - ۲۶ تیر",
       "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "nytimes_45f2e9afdd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Bangladesh, Argentina’s Soccer Team Finds a Huge Fan Base",
+      "title_fa": "حمایت گسترده هواداران از تیم فوتبال آرژانتین در بنگلادش",
+      "lead": "با وجود اینکه بنگلادش هرگز به جام جهانی صعود نکرده است، بسیاری از مردم این کشور تیم آرژانتین را در هر چهار سال به عنوان تیم خود انتخاب می‌کنند. این تیم فوتبال هواداران زیادی در بنگلادش پیدا کرده است.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/asia/world-cup-bangladesh-argentina-fans.html",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 11:16:31 +0000",
+      "time": "۱۴:۴۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T11:23:56.249Z"
     }
   ]
 }
