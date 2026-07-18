@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "skynews",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_1588f90474",
@@ -98,6 +98,30 @@
       "pubDate": "Fri, 17 Jul 2026 13:09:00 +0100",
       "time": "۱۵:۳۹ - ۲۶ تیر",
       "analyzed_at": "2026-07-18T02:50:32.062Z"
+    },
+    {
+      "id": "skynews_506e9e4c83",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "More than 100 homes destroyed as firefighters battle Norway blaze",
+      "title_fa": "بیش از ۱۰۰ خانه در آتش‌سوزی نروژ تخریب شد؛ آتش‌نشانان در حال مهار حریق هستند",
+      "lead": "مقامات امدادی اعلام کردند که بیش از ۱۰۰ خانه در آتش‌سوزی گسترده‌ای در جنوب نروژ تخریب شده است. این حادثه صدها نفر را مجبور به تخلیه منطقه کرده است.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/more-than-100-homes-destroyed-as-firefighters-battle-norway-blaze-13564563",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 03:57:00 +0100",
+      "time": "۰۶:۲۷ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T04:36:19.570Z"
     }
   ]
 }
