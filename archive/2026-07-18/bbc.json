@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "bbc",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "bbc_9fb48f594b",
@@ -242,6 +242,54 @@
       "pubDate": "Fri, 17 Jul 2026 16:20:45 GMT",
       "time": "۱۹:۵۰ - ۲۶ تیر",
       "analyzed_at": "2026-07-18T08:56:17.825Z"
+    },
+    {
+      "id": "bbc_98ad1850ad",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Laos says it can't determine cause of tourist deaths linked to methanol",
+      "title_fa": "لائوس اعلام کرد که نمی‌تواند علت مرگ گردشگران مرتبط با متانول را مشخص کند",
+      "lead": "مقامات لائوس اعلام کرده‌اند که نمی‌توانند علت مرگ گردشگران در سال ۲۰۲۴ را که با متانول مرتبط بود، تعیین کنند. به گفته آنها، به دلیل عدم انجام کالبدشکافی، هیچ مدرکی دال بر مسمومیت وجود ندارد.",
+      "category": "crime",
+      "region": "laos",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 09:30:32 GMT",
+      "time": "۱۳:۰۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T10:08:52.299Z"
+    },
+    {
+      "id": "bbc_b5678e8dd3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
+      "title_fa": "کنترل، تهدید، جراحی تغییر شکل دهنده: زندگی من در «فرقه» جفری اپستین",
+      "lead": "فردی با نام مستعار «آنیا» در روایتی نادر به بی‌بی‌سی جزئیاتی از زندگی خود در «فرقه» جفری اپستین را ارائه کرده است. او شرح داده است که این سرمایه‌دار مجرم جنسی چگونه «دستیاران» خود را فریب داده و مورد آزار و اذیت قرار می‌داده است.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 05:10:44 GMT",
+      "time": "۰۸:۴۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T10:08:52.299Z"
     }
   ]
 }
