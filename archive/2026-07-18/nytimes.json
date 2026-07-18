@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_6dac868066",
@@ -362,6 +362,30 @@
       "pubDate": "Sat, 18 Jul 2026 09:26:43 +0000",
       "time": "۱۲:۵۶ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T09:39:12.192Z"
+    },
+    {
+      "id": "nytimes_e7fb428a2b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Freedom Convoy Leader, Under House Arrest, Wants to Visit the White House",
+      "title_fa": "رهبر کاروان آزادی، در حصر خانگی، خواهان بازدید از کاخ سفید است",
+      "lead": "تامارا لیچ، رهبر کاروان آزادی، که در حصر خانگی به سر می‌برد، قصد دارد از کاخ سفید بازدید کند. دادستان‌ها می‌گویند او به دنبال یک «چک سفید» برای سفرهای بین‌المللی است و این اقدام را تلاشی برای کسب سود از اعتراضاتی می‌دانند که منجر به محکومیتش شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/canada/freedom-convoy-ottawa-lich-wildfires.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 10:00:03 +0000",
+      "time": "۱۳:۳۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T10:08:52.299Z"
     }
   ]
 }
