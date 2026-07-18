@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "mehrnews",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "mehrnews_0ac3c776d7",
@@ -530,6 +530,54 @@
       "pubDate": "Fri, 17 Jul 2026 11:17:02 GMT",
       "time": "۱۴:۴۷ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T11:38:18.611Z"
+    },
+    {
+      "id": "mehrnews_3b8673c60d",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "VIDEO: US attack on Griveh bridge in Hormozgan",
+      "title_fa": "ویدئو: حمله آمریکا به پل گِریوه در هرمزگان",
+      "lead": "منابع خبری گزارش دادند که موشک‌های آمریکایی شب گذشته به پل گریوه در استان هرمزگان اصابت کرده‌اند. این یکی از شش پلی است که در این استان جنوبی مورد هدف قرار گرفته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246275/VIDEO-US-attack-on-Griveh-bridge-in-Hormozgan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 11:37:48 GMT",
+      "time": "۱۵:۰۷ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T11:53:19.540Z"
+    },
+    {
+      "id": "mehrnews_c4f72725e1",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Pakistan urges US, Iran to resume technical-level talks",
+      "title_fa": "پاکستان از آمریکا و ایران خواست مذاکرات فنی را از سر بگیرند",
+      "lead": "پاکستان روز پنجشنبه از ایالات متحده و ایران خواست تا مذاکرات در سطح فنی را به عنوان بخشی از تفاهم‌نامه اسلام‌آباد از سر بگیرند. این درخواست در شرایطی مطرح شده که تنش‌ها بین دو کشور در منطقه ادامه دارد.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246261/Pakistan-urges-US-Iran-to-resume-technical-level-talks",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 10:30:16 GMT",
+      "time": "۱۴:۰۰ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T11:53:19.540Z"
     }
   ]
 }
