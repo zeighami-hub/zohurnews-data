@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "mehrnews",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "mehrnews_0ac3c776d7",
@@ -578,6 +578,54 @@
       "pubDate": "Thu, 16 Jul 2026 10:30:16 GMT",
       "time": "۱۴:۰۰ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T11:53:19.540Z"
+    },
+    {
+      "id": "mehrnews_dd564fad4d",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Qatar rejects Israeli media propaganda on attacking Iran",
+      "title_fa": "قطر تبلیغات رسانه‌های اسرائیلی درباره حمله به ایران را رد کرد",
+      "lead": "قطر به شدت گزارش‌های رسانه‌های اسرائیلی مبنی بر موافقت این کشور با مشارکت در اقدام نظامی علیه ایران را رد کرد. قطر این ادعاها را دروغ محض خواند و بر عدم صحت آنها تاکید کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246276/Qatar-rejects-Israeli-media-propaganda-on-attacking-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Fri, 17 Jul 2026 13:28:45 GMT",
+      "time": "۱۶:۵۸ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T14:17:16.648Z"
+    },
+    {
+      "id": "mehrnews_8ae6983c39",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Senior cleric stresses multi-phase revenge for Leader's blood",
+      "title_fa": "روحانی ارشد بر انتقام چند مرحله‌ای برای خون رهبر شهید تاکید کرد",
+      "lead": "امام جمعه موقت تهران تاکید کرد که انتقام برای خون رهبر شهید انقلاب اسلامی از عاملان آن ادامه خواهد یافت. او گفت این انتقام با هدف اخراج آمریکا از منطقه و نابودی رژیم صهیونیستی پیگیری می‌شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246277/Senior-cleric-stresses-multi-phase-revenge-for-Leader-s-blood",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 14:01:05 GMT",
+      "time": "۱۷:۳۱ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T14:17:16.648Z"
     }
   ]
 }
