@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "france24",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "france24_67993361d8",
@@ -74,6 +74,30 @@
       "pubDate": "Fri, 17 Jul 2026 13:34:19 GMT",
       "time": "۱۷:۰۴ - ۲۶ تیر",
       "analyzed_at": "2026-07-18T02:50:32.062Z"
+    },
+    {
+      "id": "france24_07e9c8396a",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Middle East live: Tehran threatens 'full-scale' offensive as US launches seventh night of attacks",
+      "title_fa": "خاورمیانه زنده: تهران تهدید به حمله 'تمام‌عیار' می‌کند در حالی که آمریکا هفتمین شب حملات را آغاز کرد",
+      "lead": "آمریکا شب گذشته هفتمین موج حملات هوایی خود را علیه ایران انجام داد، با وجود هشدار تهران که اگر این حملات ادامه یابد، عملیات تهاجمی 'تمام‌عیار' خود را از سر خواهد گرفت. برای آخرین به روزرسانی‌ها، وبلاگ زنده ما را دنبال کنید.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260718-middle-east-live-tehran-threatens-full-scale-offensive-as-us-launches-seventh-night-of-attacks",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 18 Jul 2026 05:02:22 GMT",
+      "time": "۰۸:۳۲ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T05:22:34.786Z"
     }
   ]
 }
