@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_6dac868066",
@@ -50,6 +50,54 @@
       "pubDate": "Sat, 18 Jul 2026 00:22:05 +0000",
       "time": "۰۳:۵۲ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T00:33:50.059Z"
+    },
+    {
+      "id": "nytimes_9d85d8a3e4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+      "title_fa": "در حالی که ترامپ با ملونی درگیر است، فرستاده او به ایتالیا در سفر تفریحی است",
+      "lead": "در بحبوحه درگیری لفظی بین رئیس‌جمهور ترامپ و نخست‌وزیر ایتالیا، جورجیا ملونی، سفیر آمریکا در رم، تیلمن ج. فرتیتا، در حال گذراندن تابستان خود بر روی ابرقایق تفریحی‌اش است. این وضعیت سوالاتی را درباره نقش و حضور دیپلماتیک وی مطرح کرده است.",
+      "category": "diplomacy",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sat, 18 Jul 2026 04:01:15 +0000",
+      "time": "۰۷:۳۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T04:21:37.946Z"
+    },
+    {
+      "id": "nytimes_34d3e8be12",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
+      "title_fa": "به سم نیل «اسکاكس» می‌گفتند (که یک تعریف بود)",
+      "lead": "پس از درگذشت سم نیل، بازیگر سرشناس، واژه عامیانه «اسکاكس» که مربوط به دهه ۱۹۹۰ در نیوزلند است، دوباره در یادبودها و احترام به او رواج یافته است. این واژه در واقع یک تعریف و تحسین محسوب می‌شود.",
+      "category": "culture",
+      "region": "oceania",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/australia/new-zealand-sam-neill-skux-meaning.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 04:01:04 +0000",
+      "time": "۰۷:۳۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T04:21:37.946Z"
     }
   ]
 }
