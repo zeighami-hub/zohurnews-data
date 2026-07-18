@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_6dac868066",
@@ -338,6 +338,30 @@
       "pubDate": "Sat, 18 Jul 2026 09:01:06 +0000",
       "time": "۱۲:۳۱ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T09:24:49.615Z"
+    },
+    {
+      "id": "nytimes_bee47307ce",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s the latest.",
+      "title_fa": "آخرین اخبار.",
+      "lead": "این یک به‌روزرسانی از آخرین تحولات مربوط به اخبار جهانی است. این خبر شامل موضوعاتی مانند جنگ، حملات، و مسائل مرتبط با سیاست بین‌المللی است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/heres-the-latest",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 09:26:43 +0000",
+      "time": "۱۲:۵۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T09:39:12.192Z"
     }
   ]
 }
