@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "mehrnews",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "mehrnews_9f26097649",
@@ -242,6 +242,54 @@
       "pubDate": "Sat, 18 Jul 2026 04:24:48 GMT",
       "time": "۰۷:۵۴ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T04:36:19.570Z"
+    },
+    {
+      "id": "mehrnews_9e3020a09f",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC stops four US-backed ships in Strait of Hormuz",
+      "title_fa": "سپاه پاسداران چهار کشتی تحت حمایت آمریکا را در تنگه هرمز متوقف کرد",
+      "lead": "سپاه پاسداران انقلاب اسلامی روز شنبه چهار کشتی تجاری را که تحت حفاظت نظامی آمریکا قصد عبور از تنگه هرمز را داشتند، متوقف کرد. این عملیات با استفاده از ترکیبی از موشک و پهپاد انجام شد.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://en.mehrnews.com/news/246289/IRGC-stops-four-US-backed-ships-in-Strait-of-Hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 18 Jul 2026 04:34:59 GMT",
+      "time": "۰۸:۰۴ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T04:52:16.035Z"
+    },
+    {
+      "id": "mehrnews_e372068e09",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "VIDEO: U.S. attacks bridges in southern Iran",
+      "title_fa": "ویدئو: آمریکا به پل‌هایی در جنوب ایران حمله کرد",
+      "lead": "مهرنیوز گزارش داد که ارتش تروریست آمریکا اوایل روز شنبه به تعدادی از پل‌ها در جاده بندرعباس-حاجی‌آباد در جنوب ایران حمله کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246290/VIDEO-U-S-attacks-bridges-in-southern-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 04:43:25 GMT",
+      "time": "۰۸:۱۳ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T04:52:16.035Z"
     }
   ]
 }
