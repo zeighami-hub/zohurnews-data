@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "skynews",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "skynews_1588f90474",
@@ -218,6 +218,30 @@
       "pubDate": "Fri, 17 Jul 2026 02:46:00 +0100",
       "time": "۰۵:۱۶ - ۲۶ تیر",
       "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "skynews_967005da84",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Hunger striker taken to hospital as police launch 'chilling crackdown'",
+      "title_fa": "اعتصاب‌کننده غذا به بیمارستان منتقل شد؛ پلیس 'سرکوب وحشتناکی' را آغاز کرده است",
+      "lead": "سونام وانگچوک، اعتصاب‌کننده غذا، توسط پلیس به زور از محل اعتراض دانشجویی در هند منتقل شده است. این اقدام پلیس به عنوان یک \"سرکوب وحشتناک\" توصیف شده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/indian-hunger-striker-taken-to-hospital-as-police-launch-chilling-crackdown-13564607",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 18 Jul 2026 10:24:00 +0100",
+      "time": "۱۲:۵۴ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T11:23:56.249Z"
     }
   ]
 }
