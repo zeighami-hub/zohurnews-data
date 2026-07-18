@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "yjc",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "yjc_a8a748bdc6",
@@ -48,6 +48,50 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-18T03:04:39.137Z"
+    },
+    {
+      "id": "yjc_7",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "صفحه نخست روزنامه‌ها - شنبه ۲۷ تیر",
+      "title_fa": "صفحه نخست روزنامه‌ها - شنبه ۲۷ تیر",
+      "lead": "روزنامه‌های امروز به موضوعاتی نظیر حمله آمریکا به زیرساخت‌های کشورمان و تنش در تنگه هرمز پرداختند. این خبر مروری بر عناوین اصلی روزنامه‌های شنبه ۲۷ تیر است.",
+      "category": "society",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9109252/%D8%B5%D9%81%D8%AD%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%87%D8%A7-%D8%B4%D9%86%D8%A8%D9%87-۲۷-%D8%AA%DB%8C%D8%B1",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-18T03:19:09.136Z"
+    },
+    {
+      "id": "yjc_13",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "مرتضی طاهری: رهبر انقلاب بار‌ها فرمودند به آمریکا اعتماد ندارم + فیلم",
+      "title_fa": "مرتضی طاهری: رهبر انقلاب بار‌ها فرمودند به آمریکا اعتماد ندارم",
+      "lead": "مرتضی طاهری، مداح اهل بیت (ع)، گفت: رهبر شهید انقلاب بارها فرموده بودند که به آمریکایی‌ها اعتماد ندارم و به آنها خوشبین نیستم.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9109196/%D9%85%D8%B1%D8%AA%D8%B6%DB%8C-%D8%B7%D8%A7%D9%87%D8%B1%DB%8C-%D8%B1%D9%87%D8%A8%D8%B1-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B1%E2%80%8C%D9%87%D8%A7-%D9%81%D8%B1%D9%85%D9%88%D8%AF%D9%86%D8%AF-%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D9%86%D8%AF%D8%A7%D8%B1%D9%85-%D9%81%DB%8C%D9%84%D9%85",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-18T03:19:09.136Z"
     }
   ]
 }
