@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "bbc",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "bbc_9fb48f594b",
@@ -50,6 +50,30 @@
       "pubDate": "Sat, 18 Jul 2026 03:54:51 GMT",
       "time": "۰۷:۲۴ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T04:04:51.860Z"
+    },
+    {
+      "id": "bbc_fce12ec1ea",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "What to know about the Canadian and US wildfires and their impact",
+      "title_fa": "آنچه باید درباره آتش‌سوزی‌های جنگلی کانادا و آمریکا و پیامدهای آن‌ها بدانید",
+      "lead": "آتش‌سوزی‌های جنگلی در انتاریو شهرهای کانادا و آمریکا را با دود خطرناک پوشانده است.",
+      "category": "environment",
+      "region": "north-america",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 23:50:29 GMT",
+      "time": "۰۳:۲۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T05:22:34.786Z"
     }
   ]
 }
