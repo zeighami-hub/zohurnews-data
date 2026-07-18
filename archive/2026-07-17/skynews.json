@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "skynews",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "skynews_5207ec92d3",
@@ -218,6 +218,30 @@
       "pubDate": "Fri, 17 Jul 2026 09:45:00 +0100",
       "time": "۱۲:۱۵ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T11:38:18.611Z"
+    },
+    {
+      "id": "skynews_ce2b0b9248",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Eleven children killed in fire at Algerian orphanage",
+      "title_fa": "یازده کودک در آتش‌سوزی یتیم‌خانه‌ای در الجزایر جان باختند",
+      "lead": "بر اساس اعلام مقامات، یازده کودک در پی آتش‌سوزی در یک یتیم‌خانه در الجزایر کشته شدند. این حادثه دلخراش در این مرکز نگهداری کودکان رخ داده است.",
+      "category": "crime/accident",
+      "region": "africa",
+      "sourceUrl": "https://news.sky.com/story/eleven-killed-as-fire-breaks-out-at-algerian-orphanage-13563931",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 10:50:00 +0100",
+      "time": "۱۳:۲۰ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T11:53:19.540Z"
     }
   ]
 }
