@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "independent",
-  "total": 54,
+  "total": 56,
   "articles": [
     {
       "id": "independent_61e52800e2",
@@ -1298,6 +1298,54 @@
       "pubDate": "Sat, 18 Jul 2026 08:15:42 GMT",
       "time": "۱۱:۴۵ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T08:39:10.372Z"
+    },
+    {
+      "id": "independent_d458b3619d",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Flights suspended at Kuwait Airport as Iran and US exchange strikes overnight",
+      "title_fa": "تعلیق پروازها در فرودگاه کویت در پی تبادل حملات ایران و آمریکا در طول شب",
+      "lead": "پروازها در فرودگاه کویت پس از تبادل حملات بین ایران و آمریکا در طول شب به حالت تعلیق درآمد. این اقدام در پی گزارش‌هایی از حملات انجام شده در منطقه صورت گرفته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/iran-us-war-latest-kuwait-airport-strikes-b3017333.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 08:47:36 GMT",
+      "time": "۱۲:۱۷ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T09:09:38.588Z"
+    },
+    {
+      "id": "independent_da0d32a5c5",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Small boat arrivals to the UK and Europe are falling. But no one really knows why",
+      "title_fa": "کاهش ورود قایق‌های کوچک به بریتانیا و اروپا؛ علت آن نامعلوم است",
+      "lead": "تعداد مهاجرانی که با قایق‌های کوچک به بریتانیا می‌رسند، نسبت به سال گذشته ۴۲ درصد کاهش یافته است. با وجود این کاهش، علت دقیق آن هنوز به درستی مشخص نیست.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/home-news/small-boat-uk-immigration-arrivals-migration-b3014450.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Sat, 18 Jul 2026 08:57:22 GMT",
+      "time": "۱۲:۲۷ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T09:09:38.588Z"
     }
   ]
 }
