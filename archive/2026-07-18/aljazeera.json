@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "aljazeera",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "aljazeera_691f3ed229",
@@ -122,6 +122,30 @@
       "pubDate": "Sat, 18 Jul 2026 00:23:40 +0000",
       "time": "۰۳:۵۳ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T00:48:59.634Z"
+    },
+    {
+      "id": "aljazeera_51b305ba9b",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Analyst questions Trump’s renewed focus on US election integrity",
+      "title_fa": "تحلیلگر تمرکز مجدد ترامپ بر یکپارچگی انتخابات آمریکا را زیر سوال می‌برد",
+      "lead": "اریک هام استدلال می‌کند که تمرکز مجدد دونالد ترامپ، رئیس جمهور آمریکا، بر امنیت انتخابات، تلاشی برای گسترش اختیارات فدرال است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/18/analyst-questions-trumps-renewed-focus-on-us-election-integrity?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Sat, 18 Jul 2026 00:49:51 +0000",
+      "time": "۰۴:۱۹ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T01:03:42.190Z"
     }
   ]
 }
