@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_6dac868066",
@@ -242,6 +242,102 @@
       "pubDate": "Fri, 17 Jul 2026 16:03:37 +0000",
       "time": "۱۹:۳۳ - ۲۶ تیر",
       "analyzed_at": "2026-07-18T08:56:17.825Z"
+    },
+    {
+      "id": "nytimes_9cc3fccb59",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+      "title_fa": "لایحه تحریم‌های روسیه گسترش می‌یابد اما می‌تواند نگرانی‌ها در مورد دلار را افزایش دهد",
+      "lead": "لایحه جدیدی در مورد تحریم‌های روسیه در حال گسترش است، اما این اقدام می‌تواند نگرانی‌ها درباره جایگاه دلار آمریکا را دامن زند. دولت ترامپ اخیراً تلاش کرده تا تحریم‌ها را کاهش دهد، زیرا مخالفان در حال یافتن راه‌هایی برای دور زدن آن‌ها هستند که برخی معتقدند می‌تواند به برتری دلار آمریکا آسیب بزند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 09:01:37 +0000",
+      "time": "۱۲:۳۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T09:24:49.615Z"
+    },
+    {
+      "id": "nytimes_ecbf8d12c0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Israel Counters Iranian Spying by Warning Against Recruitment",
+      "title_fa": "اسرائیل با هشدار در مورد استخدام افراد، با جاسوسی ایران مقابله می‌کند",
+      "lead": "مقامات اسرائیلی اقدامات متقابل گسترده‌ای را برای مهار آنچه که آن‌ها تلاش‌های جذب آنلاین توسط عوامل ایرانی توصیف می‌کنند، به اجرا گذاشته‌اند. این اقدامات با هدف مقابله با جاسوسی ایران انجام می‌شود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 09:00:35 +0000",
+      "time": "۱۲:۳۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T09:24:49.615Z"
+    },
+    {
+      "id": "nytimes_44e977560b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
+      "title_fa": "لامین یامال، ستاره فوتبال و فرزند مهاجران آفریقایی، نمادی از اسپانیای در حال تغییر است",
+      "lead": "لامین یامال، ستاره ۱۹ ساله فوتبال و فرزند مهاجران آفریقایی، در آستانه فینال جام جهانی، در کانون بحث ملی در مورد معنای اسپانیایی بودن در جامعه‌ای فزاینده چندفرهنگی قرار دارد. او نمادی از اسپانیای در حال تغییر است.",
+      "category": "culture",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 09:02:09 +0000",
+      "time": "۱۲:۳۲ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T09:24:49.615Z"
+    },
+    {
+      "id": "nytimes_3cb5ea10e2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
+      "title_fa": "ایکالویت، شمالی‌ترین شهر کانادا، اولین خط اتوبوس خود را راه‌اندازی کرد",
+      "lead": "ایکالویت، شمالی‌ترین و تنها شهر در منطقه قطب شمال کانادا، اولین خط اتوبوس خود را راه‌اندازی کرده است. ژاسینتو مارکز، که از آنگولا به این منطقه سرد کانادا آمده، اکنون این سرویس اتوبوس‌رانی را در ایکالویت اداره می‌کند.",
+      "category": "urban development",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 09:01:06 +0000",
+      "time": "۱۲:۳۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T09:24:49.615Z"
     }
   ]
 }
