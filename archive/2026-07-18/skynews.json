@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "skynews_1588f90474",
@@ -50,6 +50,54 @@
       "pubDate": "Thu, 16 Jul 2026 10:50:00 +0100",
       "time": "۱۳:۲۰ - ۲۵ تیر",
       "analyzed_at": "2026-07-18T00:20:46.279Z"
+    },
+    {
+      "id": "skynews_91e38370e6",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Home Alone 2 actress has died",
+      "title_fa": "بازیگر \"تنها در خانه ۲\" درگذشت",
+      "lead": "برندا فریکر، اولین زن ایرلندی که جایزه اسکار را دریافت کرد، در سن ۸۱ سالگی درگذشت. این خبر را نماینده او اعلام کرد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/brenda-fricker-actress-best-known-for-my-left-foot-and-home-alone-2-has-died-13564392",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 17 Jul 2026 13:34:00 +0100",
+      "time": "۱۶:۰۴ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T02:50:32.062Z"
+    },
+    {
+      "id": "skynews_d61562d321",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Families of women killed by 'poisonous shots' hit out at sentences",
+      "title_fa": "خانواده‌های قربانیان \"شات‌های سمی\" از احکام صادره انتقاد کردند",
+      "lead": "خانواده‌های دو زن استرالیایی که پس از نوشیدن کوکتل در یک هاستل در لائوس جان باختند، اعلام کردند که اتهامات مورد انتظار در این پرونده \"غیرقابل قبول\" است. این اعتراض در پی حکم اعلام شده صورت گرفته است.",
+      "category": "crime",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/families-of-australian-women-killed-by-poisonous-shots-in-laos-hit-out-at-expected-sentences-13564297",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 13:09:00 +0100",
+      "time": "۱۵:۳۹ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T02:50:32.062Z"
     }
   ]
 }
