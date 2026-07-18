@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "nytimes_6dac868066",
@@ -26,6 +26,30 @@
       "pubDate": "Fri, 17 Jul 2026 14:20:07 +0000",
       "time": "۱۷:۵۰ - ۲۶ تیر",
       "analyzed_at": "2026-07-18T00:20:46.279Z"
+    },
+    {
+      "id": "nytimes_b659a6fa0d",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "7 Americans Sent to Disputed Kenya Ebola Site After New Trump Travel Ban",
+      "title_fa": "۷ آمریکایی پس از فرمان جدید ممنوعیت سفر ترامپ به منطقه مورد اختلاف ابولا در کنیا فرستاده شدند",
+      "lead": "هفت امدادگر آمریکایی پس از فرمان جدید ممنوعیت سفر ترامپ به منطقه‌ای در کنیا که مورد اختلاف است، فرستاده شده‌اند. کارفرمای آنها اعلام کرد که این افراد در خط مقدم مبارزه با شیوع ابولا در جمهوری دموکراتیک کنگو بودند و هیچ علائمی از بیماری نشان نداده‌اند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/africa/ebola-kenya-americans-quarantine.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 00:22:05 +0000",
+      "time": "۰۳:۵۲ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T00:33:50.059Z"
     }
   ]
 }
