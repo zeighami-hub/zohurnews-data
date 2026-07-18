@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "guardian",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "guardian_d28fe04dcf",
@@ -50,6 +50,30 @@
       "pubDate": "Sat, 18 Jul 2026 04:00:47 GMT",
       "time": "۰۷:۳۰ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T04:21:37.946Z"
+    },
+    {
+      "id": "guardian_e8dff3a65c",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
+      "title_fa": "«اوضاع فقط بدتر خواهد شد»: آتش‌سوزی‌های جنگلی آتش‌نشانان را مجبور به انتخاب‌های ناممکن می‌کند",
+      "lead": "با تشدید بحران آب و هوا که به سوخت‌رسانی آتش‌سوزی‌های شدیدتر در مناطق جدیدی از جهان دامن می‌زند، آتش‌نشانان مجبور به سهمیه‌بندی منابع و تصمیم‌گیری در مورد مبارزه با کدامیک می‌شوند.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 05:00:50 GMT",
+      "time": "۰۸:۳۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T05:22:34.786Z"
     }
   ]
 }
