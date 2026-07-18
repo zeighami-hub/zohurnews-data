@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "nytimes",
-  "total": 29,
+  "total": 31,
   "articles": [
     {
       "id": "nytimes_772eba86d5",
@@ -698,6 +698,54 @@
       "pubDate": "Thu, 16 Jul 2026 16:19:50 +0000",
       "time": "۱۹:۴۹ - ۲۵ تیر",
       "analyzed_at": "2026-07-17T11:53:19.540Z"
+    },
+    {
+      "id": "nytimes_d4067fb6f4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran-U.S. Talks: How 4 Negotiators Would Approach Diplomacy",
+      "title_fa": "مذاکرات ایران و آمریکا: چهار مذاکره‌کننده چگونه به دیپلماسی می‌پردازند",
+      "lead": "این گزارش بررسی می‌کند که چهار مذاکره‌کننده با تجربه چگونه به موضوع دیپلماسی بین ایران و آمریکا نزدیک می‌شوند. اولین گام پیشنهادی آن‌ها توافق بر سر یک هدف مشترک است.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/middleeast/iran-us-war-peace-talks-strategies.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 13:06:32 +0000",
+      "time": "۱۶:۳۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T14:17:16.648Z"
+    },
+    {
+      "id": "nytimes_92e9c2bc1f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Andy Burnham Becomes Labour Leader and Is Set to Be Britain’s Prime Minister",
+      "title_fa": "اندی برنهام رهبر حزب کارگر شد و قرار است نخست‌وزیر بریتانیا شود",
+      "lead": "اندی برنهام به عنوان رهبر حزب کارگر انتخاب شد و اکنون آماده است تا نخست‌وزیر بریتانیا شود. او وعده کنترل بیشتر عمومی بر خدمات ضروری، انتقال قدرت به دولت‌های محلی و تلاش برای رشد اقتصادی را داده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/17/world/uk-burnham-starmer-labour",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 13:53:09 +0000",
+      "time": "۱۷:۲۳ - ۲۶ تیر",
+      "analyzed_at": "2026-07-17T14:17:16.648Z"
     }
   ]
 }
