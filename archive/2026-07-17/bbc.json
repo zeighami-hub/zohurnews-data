@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
   "agencyId": "bbc",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "bbc_b2b483cad9",
@@ -578,6 +578,30 @@
       "pubDate": "Thu, 16 Jul 2026 21:22:09 GMT",
       "time": "۰۰:۵۲ - ۲۶ تیر",
       "analyzed_at": "2026-07-17T11:11:49.410Z"
+    },
+    {
+      "id": "bbc_5f291c0fab",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+      "title_fa": "برکناری وزیر دفاع محبوب توسط زلنسکی، اعتراضاتی را در اوکراین برانگیخت",
+      "lead": "برکناری وزیر دفاع محبوب اوکراین توسط زلنسکی، اعتراضاتی را در این کشور برانگیخته است. ظاهراً اختلاف بین فدروف و فرمانده کل قوا، اولکساندر سیرسکی، دلیل اصلی تصمیم زلنسکی بوده است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 16 Jul 2026 16:36:21 GMT",
+      "time": "۲۰:۰۶ - ۲۵ تیر",
+      "analyzed_at": "2026-07-17T11:53:19.540Z"
     }
   ]
 }
