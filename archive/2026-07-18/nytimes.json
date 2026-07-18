@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_6dac868066",
@@ -386,6 +386,126 @@
       "pubDate": "Sat, 18 Jul 2026 10:00:03 +0000",
       "time": "۱۳:۳۰ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T10:08:52.299Z"
+    },
+    {
+      "id": "nytimes_78f38d9fdd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+      "title_fa": "به‌روزرسانی زنده جنگ ایران: تشدید درگیری‌ها با حملات به زیرساخت‌های حیاتی",
+      "lead": "در روزهای پس از فروپاشی آتش‌بس، آمریکا و ایران دامنه حملات خود را گسترش داده‌اند. گزارش‌هایی از هدف قرار گرفتن تاسیسات آبی و سایر زیرساخت‌ها منتشر شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 10:06:55 +0000",
+      "time": "۱۳:۳۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "nytimes_ebdd72c3c8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Rise and Fall of Ukraine’s Drone Warfare Mastermind",
+      "title_fa": "ظهور و سقوط مغز متفکر جنگ پهپادی اوکراین",
+      "lead": "محبوبیت پهپادها و وزیر دفاعی که به شدت آنها را ترویج می‌کرد، به درگیری داخلی منجر شد. در این درگیری، ولودیمیر زلنسکی، رئیس‌جمهور، از فرماندهان ارشد نظامی حمایت کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/europe/ukraine-fedorov-defense-minister.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 23:29:05 +0000",
+      "time": "۰۲:۵۹ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "nytimes_704631f9df",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
+      "title_fa": "زمین‌لرزه‌های ونزوئلا مهاجران را به بازگشتی تلخ واداشت",
+      "lead": "مهاجرت گسترده، که مشخصه ونزوئلای مدرن است، به شدت زمین‌لرزه‌ها را نیز تحت تأثیر قرار داده است. این پدیده جان بسیاری از افرادی را که کشور را ترک کرده بودند، نجات داد، اما غم و اندوه آنها را نیز تشدید کرده است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 25,
+        "negative": 70
+      },
+      "pubDate": "Fri, 17 Jul 2026 14:50:01 +0000",
+      "time": "۱۸:۲۰ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "nytimes_9cdcb17056",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "How Andy Burnham, ‘King of the North,’ Conquered U.K. Politics",
+      "title_fa": "چگونه اندی برنهام، \"شاه شمال\"، سیاست بریتانیا را فتح کرد",
+      "lead": "آقای برنهام، یک سیاستمدار صریح و از پیشینه‌ای متواضع در شمال غربی انگلستان، روز جمعه به رهبر حزب کارگر – و نخست‌وزیر آتی بریتانیا – تبدیل شد. این گزارش به چگونگی این موفقیت و نفوذ او در سیاست بریتانیا می‌پردازد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 13:56:33 +0000",
+      "time": "۱۷:۲۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "nytimes_d8e8745c69",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+      "title_fa": "«ناگهان آزاد شدم»: سفر یک کشیش چینی از زندان به آمریکا",
+      "lead": "در اولین مصاحبه خود پس از آزادی از چین، کشیش ازرا جین مینگ‌ری جزئیات آزادی غافلگیرکننده خود را پس از درخواست مستقیم رئیس‌جمهور ترامپ از شی جین پینگ شرح می‌دهد. این خبر به وضعیت حقوق بشر و دیپلماسی بین‌المللی می‌پردازد.",
+      "category": "human-rights",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 20,
+        "negative": 30
+      },
+      "pubDate": "Fri, 17 Jul 2026 12:46:57 +0000",
+      "time": "۱۶:۱۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T10:25:54.304Z"
     }
   ]
 }
