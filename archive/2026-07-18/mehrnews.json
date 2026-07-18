@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "mehrnews",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "mehrnews_9f26097649",
@@ -146,6 +146,30 @@
       "pubDate": "Fri, 17 Jul 2026 14:01:05 GMT",
       "time": "۱۷:۳۱ - ۲۶ تیر",
       "analyzed_at": "2026-07-18T02:50:32.062Z"
+    },
+    {
+      "id": "mehrnews_e537e47baa",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Tehran urges UN to halt US aggression immediately",
+      "title_fa": "تهران از سازمان ملل خواست فورا تجاوز آمریکا را متوقف کند",
+      "lead": "ایران به سازمان ملل هشدار داد که ادامه حملات هوایی آمریکا به خاک این کشور \"تهدیدی قریب‌الوقوع برای صلح و امنیت بین‌المللی\" است. تهران از سازمان ملل خواست تا این تجاوز را فورا متوقف کند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246285/Tehran-urges-UN-to-halt-US-aggression-immediately",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 03:59:28 GMT",
+      "time": "۰۷:۲۹ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T04:04:51.860Z"
     }
   ]
 }
