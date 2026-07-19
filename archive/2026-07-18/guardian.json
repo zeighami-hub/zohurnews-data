@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "guardian",
-  "total": 16,
+  "total": 21,
   "articles": [
     {
       "id": "guardian_d28fe04dcf",
@@ -386,6 +386,126 @@
       "pubDate": "Sat, 18 Jul 2026 10:54:07 GMT",
       "time": "۱۴:۲۴ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T11:23:56.249Z"
+    },
+    {
+      "id": "guardian_1da552a525",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US",
+      "title_fa": "لوئیس مانوئل اوترو آلکانتارا، هنرمند مخالف کوبایی، برای سفر به آمریکا مجوز گرفت",
+      "lead": "محل نگهداری این هنرمند که پس از اعتراضات سال ۲۰۲۱ زندانی شده بود، پس از پایان دوران محکومیتش در ماه جولای نامعلوم بود. لوئیس مانوئل اوترو آلکانتارا، هنرمند برجسته مخالف کوبایی، اکنون مجوز سفر به آمریکا را دریافت کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 20,
+        "negative": 40
+      },
+      "pubDate": "Fri, 17 Jul 2026 22:28:42 GMT",
+      "time": "۰۱:۵۸ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T11:55:03.512Z"
+    },
+    {
+      "id": "guardian_64cf7c73bc",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "ICE arrests human rights lawyer who fled Chinese crackdown",
+      "title_fa": "سازمان مهاجرت و گمرک آمریکا (ICE) وکیل حقوق بشری را که از سرکوب چین گریخته بود، دستگیر کرد",
+      "lead": "وو شائوپینگ، وکیل حقوق بشری چینی که در انتظار تصمیم پناهندگی بود، در پنسیلوانیا دستگیر شد. این بازداشت نگرانی‌هایی را در مورد اخراج و آزار و اذیت او افزایش داده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 09:20:57 GMT",
+      "time": "۱۲:۵۰ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T11:55:03.512Z"
+    },
+    {
+      "id": "guardian_1ed813a61c",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "NSW woman arrested over movements of Dezi Freeman – as it happened",
+      "title_fa": "زنی در نیو ساوت ولز به دلیل تردد دیزی فریمن دستگیر شد – رویدادها",
+      "lead": "پالین هنسون به دلیل حضور در یک پادکست با تامی رابینسون، فعال راست افراطی بریتانیایی، \"غیر استرالیایی\" خوانده شده است. سارا هنسون-یانگ، سناتور حزب سبز، این اظهارات را مطرح کرده است.",
+      "category": "politics",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 17 Jul 2026 08:34:00 GMT",
+      "time": "۱۲:۰۴ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T11:55:03.512Z"
+    },
+    {
+      "id": "guardian_e58e5a7d22",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
+      "title_fa": "کیفیت هوا در ۲۰ ایالت آمریکا با گسترش دود آتش‌سوزی‌های جنگلی کانادا به شدت کاهش یافت",
+      "lead": "با گسترش دود ناشی از آتش‌سوزی‌های جنگلی کانادا، کیفیت هوا در ۲۰ ایالت آمریکا به شدت کاهش یافته است. میلیون‌ها آمریکایی از مینه‌سوتا تا نیویورک با هشدارهای کیفیت هوا مواجه هستند و مقامات از مردم خواسته‌اند در خانه بمانند.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 22:21:08 GMT",
+      "time": "۰۱:۵۱ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T11:55:03.512Z"
+    },
+    {
+      "id": "guardian_ccdb7ccbd6",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
+      "title_fa": "یک منبع داخلی اطلاعاتی مراکش از استفاده گسترده نرم‌افزار جاسوسی پگاسوس پرده برداشت",
+      "lead": "یک افشاگر اطلاعاتی مراکشی فاش کرده است که سرویس‌های امنیتی داخلی این کشور از سال ۲۰۱۷ نرم‌افزار جاسوسی پگاسوس را علیه اهداف کلیدی داخلی و خارجی به کار گرفته‌اند. یک عضو سابق سرویس اطلاعاتی داخلی مراکش کمک کرده تا اطلاعات بی‌سابقه‌ای در مورد نحوه استفاده از این نرم‌افزار ارائه شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 16 Jul 2026 04:30:13 GMT",
+      "time": "۰۸:۰۰ - ۲۵ تیر",
+      "analyzed_at": "2026-07-18T11:55:03.512Z"
     }
   ]
 }
