@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "reuters",
-  "total": 42,
+  "total": 43,
   "articles": [
     {
       "id": "reuters_5e275f233f",
@@ -958,6 +958,30 @@
         "negative": 90
       },
       "analyzed_at": "2026-07-18T22:04:01.766Z"
+    },
+    {
+      "id": "reuters_fcd0df8254",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Fewer vessels travel through Hormuz after US resumes blockade - Reuters",
+      "title_fa": "رویترز: تردد کشتی‌ها از هرمز پس از ازسرگیری محاصره آمریکا کاهش یافت",
+      "lead": "رویترز گزارش داده است که پس از ازسرگیری محاصره توسط آمریکا، تعداد کشتی‌های عبوری از تنگه هرمز کاهش یافته است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0VSSEhJSHhNNVl6b2dXTWNoa0FjeV9KQkZOMUs5aUtvM0Rwc1FPYk9pd3NlSDgxcy1oVDZqWjQ0c1dFb3NXLUdBOTFpWlJwUld6ZXkwN1lENTREaFpVZ0lDWFY5Y0UzVjdGbHVjQVRsc0FIXzZMSVJfdkVaamtnVnNmZ2lPQm9jV0pCMjdlajFhMmRFVERaLXVvNG1JSi1yYlRxU0NUaGZIUlFhXzJteHhvcTA?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 09:56:34 GMT",
+      "time": "۱۳:۲۶ - ۲۵ تیر",
+      "analyzed_at": "2026-07-18T23:49:26.223Z"
     }
   ]
 }
