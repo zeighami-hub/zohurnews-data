@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "reuters",
-  "total": 23,
+  "total": 26,
   "articles": [
     {
       "id": "reuters_5e275f233f",
@@ -522,6 +522,72 @@
       "pubDate": "Wed, 15 Jul 2026 14:04:20 GMT",
       "time": "۱۷:۳۴ - ۲۴ تیر",
       "analyzed_at": "2026-07-18T14:28:45.035Z"
+    },
+    {
+      "id": "reuters_5",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless' - Reuters",
+      "title_fa": "رهبر عالی ایران می‌گوید نقض‌های آمریکا نشان می‌دهد امضای ترامپ \"بی‌ارزش\" است",
+      "lead": "رهبر عالی ایران اظهار داشت که نقض‌های آمریکا نشان می‌دهد امضای ترامپ \"بی‌ارزش\" است. این اظهارنظر در بحبوحه تنش‌های فزاینده بین دو کشور بیان شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzdnRWcydkxHbFRjbEdiRnZnMUFwprT5N3ZwZTVHbWRKMTFNb21ldHhfNDRBaFF1VmRoRHpUTFJlREVhc0MwZUExOUlxcWlvejU0X256Q2J4MzE0QTVaWG42WGpMS0NVcWNzOXJqX1RQRjh1czFncm1DM2ZfWm9xT0pkSWxLeDZ2ZU1mOE9KQy1JMGFyMlRCamNBSjVWNExTUkRTNXVvX0w1YWREaXJCMmNVUXVZR2oxVlBLd0lWdnB1WFUt?oc=5",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-18T19:46:37.107Z"
+    },
+    {
+      "id": "reuters_7",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US says two military personnel killed in Jordan - Reuters",
+      "title_fa": "آمریکا اعلام کرد دو نیروی نظامی این کشور در اردن کشته شدند",
+      "lead": "ایالات متحده اعلام کرد که دو نفر از پرسنل نظامی این کشور در اردن کشته شده‌اند. جزئیات بیشتری در این مورد توسط رویترز منتشر شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bmJXOEpFQy1DREthRVFySzzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b2RkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-18T19:46:37.107Z"
+    },
+    {
+      "id": "reuters_14",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "China’s oil fortress will reshape the global order - Reuters",
+      "title_fa": "«قلعه نفتی» چین نظم جهانی را تغییر خواهد داد",
+      "lead": "«قلعه نفتی» چین آماده است تا نظم جهانی را از نو شکل دهد. این موضوع در گزارشی از رویترز مطرح شده است.",
+      "category": "energy",
+      "region": "asia",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlNEU0xzdGZaZ3lmRjRlZEFUaUJ0QnQxdEMxT25VYTdxS1_0T25XN3NhdlB2Tm50V1lqVzEtaGVOWFRJb3ZqeHd1LUNpZHkzdHpYUmRfZ0Z1YUxoTjBTaDFvSzhpVXYwUjB5dmYtUWExZG9sQnJsbmowY2dHeWlMcDlvX0NQN3pTRExIQkNuMjVrYWs3eDhmbnA2WmJPLU5HcUZMVXVKNFVFa1EyR1ROTTZaRUM?oc=5",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-18T19:46:37.107Z"
     }
   ]
 }
