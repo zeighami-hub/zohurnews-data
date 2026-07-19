@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "guardian",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "guardian_d28fe04dcf",
@@ -530,6 +530,30 @@
       "pubDate": "Sat, 18 Jul 2026 13:14:57 GMT",
       "time": "۱۶:۴۴ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T14:28:45.035Z"
+    },
+    {
+      "id": "guardian_3957f9640a",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+      "title_fa": "هشدارهای کیفیت هوا در سراسر آمریکا به دلیل تداوم دود آتش‌سوزی‌های جنگلی پابرجا است",
+      "lead": "هشدارهای مربوط به شرایط خطرناک کیفیت هوا همچنان در سراسر ایالات متحده برقرار است، زیرا دود ناشی از آتش‌سوزی‌های جنگلی به پوشاندن کشور ادامه می‌دهد. انتظار می‌رود فینال جام جهانی طبق برنامه در روز یکشنبه برگزار شود و باران می‌تواند شرایط را در مناطق میانی آتلانتیک و شمال شرق بهبود بخشد.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 18 Jul 2026 14:13:36 GMT",
+      "time": "۱۷:۴۳ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T19:46:37.107Z"
     }
   ]
 }
