@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "aljazeera",
-  "total": 9,
+  "total": 12,
   "articles": [
     {
       "id": "aljazeera_c652d78de8",
@@ -218,6 +218,78 @@
       "pubDate": "Sun, 19 Jul 2026 02:57:31 +0000",
       "time": "۰۶:۲۷ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T03:34:12.707Z"
+    },
+    {
+      "id": "aljazeera_6844ce7f69",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Somalia races to save Radio Mogadishu’s fading archive",
+      "title_fa": "سومالی برای نجات آرشیو رو به زوال رادیو موگادیشو تلاش می‌کند",
+      "lead": "یک تیم کوچک در سومالی در تلاش است تا آرشیو ده‌ها سال تاریخ این کشور را در ایستگاه اصلی رادیو عمومی دیجیتالی کند. این پروژه با هدف حفظ گنجینه اطلاعاتی رادیو موگادیشو که در حال فرسایش است، انجام می‌شود.",
+      "category": "culture",
+      "region": "africa",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 03:38:03 +0000",
+      "time": "۰۷:۰۸ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T04:04:30.958Z"
+    },
+    {
+      "id": "aljazeera_2aa307f212",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Tate brothers arrested in Miami on rape and sex trafficking charges",
+      "title_fa": "برادران تیت به اتهام تجاوز و قاچاق جنسی در میامی دستگیر شدند",
+      "lead": "اندرو و تریستان تیت، اینفلوئنسرهای جنجالی، در میامی به اتهام تجاوز و قاچاق جنسی بازداشت شده‌اند. این بازداشت در پی اتهامات جدی علیه این دو نفر صورت گرفته است.",
+      "category": "crime",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 19 Jul 2026 03:36:44 +0000",
+      "time": "۰۷:۰۶ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T04:04:30.958Z"
+    },
+    {
+      "id": "aljazeera_0518a7497c",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "FIFA World Cup 2026 sees major increase in goals from outside the box",
+      "title_fa": "افزایش چشمگیر گل‌های از راه دور در جام جهانی فوتبال ۲۰۲۶",
+      "lead": "یورگن کلینزمن بیان کرد که در جام جهانی فوتبال ۲۰۲۶، شاهد افزایش قابل توجهی در تعداد گل‌های به ثمر رسیده از خارج محوطه جریمه هستیم. او این روند را به دفاع عمقی تیم‌ها نسبت داد که مهاجمان را به شوت‌زنی از راه دور ترغیب کرده است.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 03:34:40 +0000",
+      "time": "۰۷:۰۴ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T04:04:30.958Z"
     }
   ]
 }
