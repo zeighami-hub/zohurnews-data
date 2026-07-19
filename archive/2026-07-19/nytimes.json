@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_8f56282646",
@@ -74,6 +74,30 @@
       "pubDate": "Sat, 18 Jul 2026 12:31:34 +0000",
       "time": "۱۶:۰۱ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T03:05:31.806Z"
+    },
+    {
+      "id": "nytimes_179838859a",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
+      "title_fa": "چرا سیاست جدید توکیو در مورد شورت پوشیدن در ژاپن بحث‌برانگیز شده است؟",
+      "lead": "دولت توکیو برای اولین بار در تابستان امسال به کارمندان اجازه می‌دهد شورت بپوشند. این تصمیم سوالات ظریفی را در مورد آداب معاشرت و پاهای پرمو ایجاد کرده است.",
+      "category": "society",
+      "region": "Japan",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 04:01:05 +0000",
+      "time": "۰۷:۳۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T04:21:20.276Z"
     }
   ]
 }
