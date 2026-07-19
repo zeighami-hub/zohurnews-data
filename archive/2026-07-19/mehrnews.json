@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "mehrnews",
-  "total": 14,
+  "total": 17,
   "articles": [
     {
       "id": "mehrnews_56850161ea",
@@ -336,6 +336,78 @@
       "pubDate": "Sun, 19 Jul 2026 06:47:17 GMT",
       "time": "۱۰:۱۷ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T07:08:27.933Z"
+    },
+    {
+      "id": "mehrnews_eec6c98d98",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US aggression against Iran ‘gross violation of UN Charter’",
+      "title_fa": "تجاوز آمریکا علیه ایران «نقض فاحش منشور سازمان ملل» است",
+      "lead": "شورای عالی حقوق بشر جمهوری اسلامی ایران، حملات نظامی آمریکا علیه مناطق متعددی از ایران را محکوم کرد. این شورا، این حملات را «نقض فاحش» منشور سازمان ملل متحد و حقوق بین‌الملل بشردوستانه توصیف کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246334/US-aggression-against-Iran-gross-violation-of-UN-Charter",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sun, 19 Jul 2026 07:24:13 GMT",
+      "time": "۱۰:۵۴ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T07:36:52.944Z"
+    },
+    {
+      "id": "mehrnews_5c8f644cc2",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "President Pezeshkian urges stronger legal deterrence in Iran",
+      "title_fa": "رئیس جمهور پزشکیان بر تقویت بازدارندگی حقوقی در ایران تاکید کرد",
+      "lead": "رئیس جمهور مسعود پزشکیان خواستار تقویت بازدارندگی حقوقی ایران شد. وی این موضوع را از طریق پیگیری پرونده‌های مرتبط با جنگ در دادگاه‌های داخلی و بین‌المللی مطرح کرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246333/President-Pezeshkian-urges-stronger-legal-deterrence-in-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 07:11:56 GMT",
+      "time": "۱۰:۴۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T07:23:49.685Z"
+    },
+    {
+      "id": "mehrnews_22a87bc4cf",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "NY looking into Netanyahu arrest during visit: mayor",
+      "title_fa": "شهردار نیویورک در حال بررسی دستگیری نتانیاهو در طول سفر او",
+      "lead": "زهران ممدانی، شهردار نیویورک، اعلام کرد که با مقامات شهری در حال مشورت است. این مشورت‌ها در مورد امکان دستگیری بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در صورت سفر او به نیویورک برای مجمع عمومی سازمان ملل در ماه سپتامبر است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246332/NY-looking-into-Netanyahu-arrest-during-visit-mayor",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 07:07:08 GMT",
+      "time": "۱۰:۳۷ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T07:23:49.685Z"
     }
   ]
 }
