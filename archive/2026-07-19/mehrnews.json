@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "mehrnews",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "mehrnews_56850161ea",
@@ -170,6 +170,30 @@
       "pubDate": "Sun, 19 Jul 2026 03:53:25 GMT",
       "time": "۰۷:۲۳ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T04:21:20.276Z"
+    },
+    {
+      "id": "mehrnews_e1cafb8766",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Israeli forces killed at least 11 people in Gaza on Saturday",
+      "title_fa": "نیروهای اسرائیلی دست‌کم ۱۱ نفر را در غزه کشتند",
+      "lead": "مقامات بهداشتی فلسطین گزارش دادند که حملات رژیم تروریست اسرائیل به غزه در روز شنبه منجر به کشته شدن ۱۱ نفر در سراسر این منطقه شده است. در میان کشته‌شدگان، یک خانواده پنج نفره نیز حضور داشتند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246326/Israeli-forces-killed-at-least-11-people-in-Gaza-on-Saturday",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 04:24:53 GMT",
+      "time": "۰۷:۵۴ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T04:36:01.664Z"
     }
   ]
 }
