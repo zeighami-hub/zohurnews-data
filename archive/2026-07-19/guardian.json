@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "guardian",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "guardian_1da552a525",
@@ -98,6 +98,30 @@
       "pubDate": "Sat, 18 Jul 2026 13:14:57 GMT",
       "time": "۱۶:۴۴ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T03:05:31.806Z"
+    },
+    {
+      "id": "guardian_c50ea30d5b",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Man dies after cross-border police pursuit ends in NSW northern rivers",
+      "title_fa": "مردی پس از تعقیب و گریز پلیس بین ایالتی در شمال نیو ساوت ولز جان باخت",
+      "lead": "پلیس اعلام کرد که یک تعقیب و گریز خودرویی پس از گزارش یک مرد مسلح در گلد کوست کوئینزلند، در شمال نیو ساوت ولز به پایان رسید. در پی این حادثه، یک مرد جان خود را از دست داد.",
+      "category": "crime",
+      "region": "Australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/19/man-dies-after-queensland-nsw-police-car-chase-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 19 Jul 2026 02:46:04 GMT",
+      "time": "۰۶:۱۶ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T03:19:04.144Z"
     }
   ]
 }
