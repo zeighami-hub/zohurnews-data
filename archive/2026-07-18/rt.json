@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "rt",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "rt_175887804f",
@@ -578,6 +578,30 @@
       "pubDate": "Sat, 18 Jul 2026 20:56:23 +0000",
       "time": "۰۰:۲۶ - ۲۸ تیر",
       "analyzed_at": "2026-07-18T21:05:17.009Z"
+    },
+    {
+      "id": "rt_6b44c28464",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US issues worldwide travel warning to Americans",
+      "title_fa": "آمریکا هشدار سفر جهانی به شهروندان خود صادر کرد",
+      "lead": "وزارت امور خارجه آمریکا در پی نگرانی‌ها از تشدید بیشتر درگیری‌های واشنگتن با ایران، هشدار امنیتی جهانی صادر کرده است. این هشدار سفر به شهروندان آمریکایی در سراسر جهان ابلاغ شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643218-us-iran-worldwide-travel-warning/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 22:16:25 +0000",
+      "time": "۰۱:۴۶ - ۲۸ تیر",
+      "analyzed_at": "2026-07-18T22:18:45.286Z"
     }
   ]
 }
