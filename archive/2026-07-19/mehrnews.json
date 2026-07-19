@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "mehrnews",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "mehrnews_56850161ea",
@@ -408,6 +408,54 @@
       "pubDate": "Sun, 19 Jul 2026 07:07:08 GMT",
       "time": "۱۰:۳۷ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T07:23:49.685Z"
+    },
+    {
+      "id": "mehrnews_3c802ddf5d",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC Aerospace Force downs US-made MQ-9 drone over Ahvaz",
+      "title_fa": "نیروی هوافضای سپاه پهپاد آمریکایی MQ-9 را در اهواز سرنگون کرد",
+      "lead": "نیروی هوافضای سپاه پاسداران انقلاب اسلامی روز یکشنبه یک فروند پهپاد آمریکایی MQ-9 را بر فراز اهواز سرنگون کرد. این اقدام با استفاده از سامانه پدافند هوایی پیشرفته انجام شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246335/IRGC-Aerospace-Force-downs-US-made-MQ-9-drone-over-Ahvaz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "pubDate": "Sun, 19 Jul 2026 07:44:53 GMT",
+      "time": "۱۱:۱۴ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T08:09:19.952Z"
+    },
+    {
+      "id": "mehrnews_297e39fee4",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "A small plane crashes in central Brazil, 2 killed",
+      "title_fa": "سقوط هواپیمای کوچک در مرکز برزیل؛ ۲ کشته برجای گذاشت",
+      "lead": "یک هواپیمای کوچک در منطقه پالمس، پایتخت ایالت توکانتینس در مرکز برزیل، سقوط کرد. مقامات محلی اعلام کردند که در این حادثه دو نفر کشته و یک نفر زخمی شدند.",
+      "category": "disaster",
+      "region": "latin america",
+      "sourceUrl": "https://en.mehrnews.com/news/246336/A-small-plane-crashes-in-central-Brazil-2-killed",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 07:58:38 GMT",
+      "time": "۱۱:۲۸ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T08:09:19.952Z"
     }
   ]
 }
