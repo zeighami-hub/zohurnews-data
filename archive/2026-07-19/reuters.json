@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "reuters",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "reuters_1e23f75edd",
@@ -26,6 +26,28 @@
       "pubDate": "Fri, 17 Jul 2026 05:00:00 GMT",
       "time": "۰۸:۳۰ - ۲۶ تیر",
       "analyzed_at": "2026-07-19T00:18:52.305Z"
+    },
+    {
+      "id": "reuters_4",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US renews strikes on Iran after two military personnel killed by Iranian attack - Reuters",
+      "title_fa": "آمریکا پس از کشته شدن دو پرسنل نظامی توسط حمله ایران، حملات خود را به ایران از سر گرفت",
+      "lead": "رویترز گزارش داد که ایالات متحده حملات خود را علیه ایران از سر گرفته است. این اقدام پس از کشته شدن دو پرسنل نظامی در پی حمله ایران صورت می‌گیرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3ZnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSJMM1MWFrT05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-19T01:48:41.464Z"
     }
   ]
 }
