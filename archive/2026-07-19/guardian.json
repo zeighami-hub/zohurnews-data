@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "guardian",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "guardian_1da552a525",
@@ -74,6 +74,30 @@
       "pubDate": "Thu, 16 Jul 2026 04:30:13 GMT",
       "time": "۰۸:۰۰ - ۲۵ تیر",
       "analyzed_at": "2026-07-19T00:18:52.305Z"
+    },
+    {
+      "id": "guardian_e077d791f2",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
+      "title_fa": "کوبا در آستانه فروپاشی: قطع برق و دخالت آمریکا جامعه را به مرز می‌کشاند",
+      "lead": "با قطع برق مکرر و تحریم‌های شش ماهه نفتی آمریکا، کوبا با مشکلات فزاینده‌ای روبرو است. این وضعیت باعث تنش‌های اجتماعی و نارضایتی‌های عمومی در سراسر شهرهای این کشور شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 13:14:57 GMT",
+      "time": "۱۶:۴۴ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T03:05:31.806Z"
     }
   ]
 }
