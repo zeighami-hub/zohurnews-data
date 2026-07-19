@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "dw",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "dw_7c39c0cfe5",
@@ -26,6 +26,30 @@
       "pubDate": "Sun, 19 Jul 2026 06:39:00 GMT",
       "time": "۱۰:۰۹ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T06:53:12.146Z"
+    },
+    {
+      "id": "dw_c0496dac72",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "US strikes Iran after 2 service members killed in Jordan",
+      "title_fa": "حملات آمریکا به ایران پس از کشته شدن دو نظامی آمریکایی در اردن",
+      "lead": "ارتش آمریکا برای هشتمین شب متوالی به ایران حمله کرده است. این حملات پس از کشته شدن دو سرباز آمریکایی و مفقود شدن یک نفر دیگر در حمله به پایگاه آمریکا در اردن صورت می‌گیرد.",
+      "category": "military",
+      "region": "Middle East",
+      "sourceUrl": "https://www.dw.com/en/us-strikes-iran-after-2-service-members-killed-in-jordan/live-78015388?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 17:28:00 GMT",
+      "time": "۲۰:۵۸ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T07:08:27.933Z"
     }
   ]
 }
