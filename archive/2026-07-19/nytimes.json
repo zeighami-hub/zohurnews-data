@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_8f56282646",
@@ -458,6 +458,78 @@
       "pubDate": "Fri, 17 Jul 2026 18:53:00 +0000",
       "time": "۲۲:۲۳ - ۲۶ تیر",
       "analyzed_at": "2026-07-19T10:14:40.306Z"
+    },
+    {
+      "id": "nytimes_ecbf8d12c0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Israel Counters Iranian Spying by Warning Against Recruitment",
+      "title_fa": "اسرائیل با هشدار در مورد استخدام، با جاسوسی ایران مقابله می‌کند",
+      "lead": "مقامات اسرائیلی اقدامات متقابل گسترده‌ای را برای مهار آنچه تلاش‌های جذب آنلاین توسط عوامل ایرانی می‌خوانند، اتخاذ کرده‌اند. این هشدارها شامل مقابله با جاسوسی ایران از طریق استخدام افراد است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sat, 18 Jul 2026 13:09:16 +0000",
+      "time": "۱۶:۳۹ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T10:24:06.881Z"
+    },
+    {
+      "id": "nytimes_44e977560b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
+      "title_fa": "لامین یامال، ستاره فوتبال و فرزند مهاجران آفریقایی، نمادی از تغییر اسپانیا",
+      "lead": "لامین یامال، ستاره ۱۹ ساله فوتبال، در آستانه فینال جام جهانی، در مرکز بحثی ملی قرار گرفته است. او به عنوان فرزند مهاجران آفریقایی، مفهوم اسپانیایی بودن را در جامعه‌ای که هر روز چندفرهنگی‌تر می‌شود، به نمایش می‌گذارد.",
+      "category": "culture",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "pubDate": "Sat, 18 Jul 2026 13:56:40 +0000",
+      "time": "۱۷:۲۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T10:24:06.881Z"
+    },
+    {
+      "id": "nytimes_3cb5ea10e2",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
+      "title_fa": "ایکالویت، شمالی‌ترین شهر کانادا، صاحب اولین خط اتوبوس شد",
+      "lead": "شهر ایکالویت، شمالی‌ترین شهر کانادا و تنها شهر در قطب شمال این کشور، برای اولین بار صاحب خط اتوبوس شد. ژاسینتو مارکز، مهاجری از آنگولا، مسئول راه‌اندازی این سرویس اتوبوس‌رانی در ایکالویت است.",
+      "category": "society",
+      "region": "north america",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 09:01:06 +0000",
+      "time": "۱۲:۳۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T10:24:06.881Z"
     }
   ]
 }
