@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_8f56282646",
@@ -530,6 +530,30 @@
       "pubDate": "Sat, 18 Jul 2026 09:01:06 +0000",
       "time": "۱۲:۳۱ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T10:24:06.881Z"
+    },
+    {
+      "id": "nytimes_78f38d9fdd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
+      "title_fa": "آمریکا پس از حمله ایران که منجر به کشته شدن ۲ سرباز آمریکایی شد، حملاتی را آغاز کرد",
+      "lead": "پس از کشته شدن دو سرباز آمریکایی در اردن در پی یک حمله ایرانی، نیروهای ایالات متحده حملات تلافی‌جویانه را در اوایل روز یکشنبه آغاز کردند. این سربازان اولین نیروهای آمریکایی هستند که از زمان آتش‌بس آوریل در اثر آتش خصمانه جان باخته‌اند.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 11:00:27 +0000",
+      "time": "۱۴:۳۰ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T11:26:43.584Z"
     }
   ]
 }
