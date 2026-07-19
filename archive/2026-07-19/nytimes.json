@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_8f56282646",
@@ -98,6 +98,150 @@
       "pubDate": "Sun, 19 Jul 2026 04:01:05 +0000",
       "time": "۰۷:۳۱ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T04:21:20.276Z"
+    },
+    {
+      "id": "nytimes_87fa4385a7",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
+      "title_fa": "مرگ ۲ سرباز آمریکایی در اردن، تلفات جنگ با ایران را به ۱۶ نفر رساند",
+      "lead": "با کشته شدن دو سرباز آمریکایی در اردن، شمار تلفات نظامیان ایالات متحده در جنگ با ایران به ۱۶ نفر رسید. رئیس‌جمهور ترامپ متعهد شد که انتقام کشته شدن هرگونه پرسنل نظامی آمریکا را بگیرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 22:53:13 +0000",
+      "time": "۰۲:۲۳ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "nytimes_dd0640a353",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Strikes Leave Iranians Isolated and Scared",
+      "title_fa": "حملات آمریکا، ایرانیان را منزوی و ترسانده است",
+      "lead": "مقامات دفتر فرماندار هرمزگان اعلام کردند که حملات هوایی شبانه به استان هرمزگان صورت گرفته است. این حملات به یک تونل و سه پل آسیب رسانده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/middleeast/us-iran-war-strikes-bridges-bandar-abbas.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 16:02:40 +0000",
+      "time": "۱۹:۳۲ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "nytimes_6d7ee861a4",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
+      "title_fa": "ژنرال ارشد اوکراین هدف خشم معترضان قرار گرفت",
+      "lead": "تظاهرکنندگان حامی وزیر دفاع برکنار شده اوکراین، ژنرال اولکساندر سیرسکی، فرماندهی را که با وی در دفتر درگیری داشت، محکوم کردند. این اعتراضات نشان‌دهنده خشم عمومی نسبت به این مقام نظامی است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 19 Jul 2026 07:13:23 +0000",
+      "time": "۱۰:۴۳ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "nytimes_ff30d01c3c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
+      "title_fa": "آتش‌سوزی‌های جنگلی در انتاریو کانادا ادامه دارد و دود آن به شهرهای آمریکا می‌رسد",
+      "lead": "نزدیک به ۲۰۰ آتش‌سوزی همچنان در بخش‌هایی از استان انتاریو کانادا ویرانی به بار می‌آورد. دود ناشی از این آتش‌سوزی‌ها به بخش‌هایی از کانادا و ایالات متحده آمریکا نیز سرایت کرده است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 18:03:18 +0000",
+      "time": "۲۱:۳۳ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "nytimes_5a7fd854cb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
+      "title_fa": "سی‌پک بسیار بریتانیایی: لباس‌های مبدل کم و ترامپ نه چندان",
+      "lead": "لندن میزبان نسخه‌ای آرام‌تر از کنفرانس اقدام سیاسی محافظه‌کاران (CPAC) بود. این کنفرانس در آمریکا به خاطر جشن‌های پرشور و افراطی برای اهداف MAGA شهرت دارد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 16:48:22 +0000",
+      "time": "۲۰:۱۸ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "nytimes_936b7d857e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Your ‘Live’ World Cup Broadcast Is Not Really Live",
+      "title_fa": "پخش زنده جام جهانی شما واقعاً زنده نیست",
+      "lead": "همه مردم گل‌ها را پس از به ثمر رسیدن تماشا می‌کنند و برخی آنها را به طور قابل توجهی سریع‌تر دریافت می‌کنند. این موضوع نشان می‌دهد که پخش \"زنده\" جام جهانی، تأخیری را در بر دارد.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/sports/soccer/world-cup-live-tv-delay.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 15:48:06 +0000",
+      "time": "۱۹:۱۸ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
     }
   ]
 }
