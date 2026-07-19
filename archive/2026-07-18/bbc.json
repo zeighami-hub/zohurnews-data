@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_9fb48f594b",
@@ -482,6 +482,30 @@
       "pubDate": "Fri, 17 Jul 2026 02:37:45 GMT",
       "time": "۰۶:۰۷ - ۲۶ تیر",
       "analyzed_at": "2026-07-18T10:25:54.304Z"
+    },
+    {
+      "id": "bbc_7ff42aa639",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "White House defends Argentina team over Falklands banner",
+      "title_fa": "کاخ سفید از تیم آرژانتین به دلیل بنر مالویناس دفاع کرد",
+      "lead": "این اظهارات می‌تواند به درگیری‌ها بر سر این حادثه دامن بزند، حادثه‌ای که باعث شده داونینگ استریت از درخواست‌ها برای تحقیق فیفا حمایت کند. این موضوع به تنش‌های سیاسی میان کشورها بر سر جزایر فالکلند/مالویناس دامن زده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 17 Jul 2026 22:12:54 GMT",
+      "time": "۰۱:۴۲ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T11:55:03.512Z"
     }
   ]
 }
