@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "independent",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "independent_7e6af13ea9",
@@ -146,6 +146,30 @@
       "pubDate": "Sun, 19 Jul 2026 03:19:38 GMT",
       "time": "۰۶:۴۹ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T03:34:12.707Z"
+    },
+    {
+      "id": "independent_46ab323bf0",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "US strikes Iran's Revolutionary Guard over attack that killed troops in Jordan",
+      "title_fa": "آمریکا در واکنش به حمله منجر به کشته شدن سربازانش در اردن، به سپاه پاسداران ایران حمله هوایی کرد",
+      "lead": "ارتش آمریکا روز یکشنبه اعلام کرد که آخرین دور حملات هوایی خود به ایران را به پایان رسانده است. این حملات سپاه پاسداران شبه‌نظامی ایران را هدف قرار داد که در پی حمله‌ای بود که منجر به کشته شدن سربازان آمریکایی در اردن شد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/news/revolutionary-guard-iran-strait-of-hormuz-united-arab-emirates-middle-east-b3017579.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sun, 19 Jul 2026 04:09:24 GMT",
+      "time": "۰۷:۳۹ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T04:36:01.664Z"
     }
   ]
 }
