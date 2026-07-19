@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "aljazeera_1aaa952726",
@@ -26,6 +26,30 @@
       "pubDate": "Sun, 19 Jul 2026 00:00:00 +0000",
       "time": "۰۳:۳۰ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T00:18:52.305Z"
+    },
+    {
+      "id": "aljazeera_0b4c848a4b",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Netanyahu declares support for Argentina ahead of World Cup final",
+      "title_fa": "نتانیاهو حمایت خود را از آرژانتین پیش از فینال جام جهانی اعلام کرد",
+      "lead": "سفیر آرژانتین در اسرائیل، پیش از فینال جام جهانی، یک لباس فوتبال به بنیامین نتانیاهو اهدا کرده است. نتانیاهو در این دیدار حمایت خود را از تیم آرژانتین اعلام کرد.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 00:33:31 +0000",
+      "time": "۰۴:۰۳ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T00:48:47.678Z"
     }
   ]
 }
