@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "independent",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "independent_7e6af13ea9",
@@ -26,6 +26,30 @@
       "pubDate": "Sat, 18 Jul 2026 23:57:54 GMT",
       "time": "۰۳:۲۷ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T00:03:39.830Z"
+    },
+    {
+      "id": "independent_94244e180d",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Argentina head coach Felipe Contepomi accuses England of ‘lack of respect’",
+      "title_fa": "سرمربی آرژانتین، فلیپه کونته‌پومی، انگلیس را به «بی‌احترامی» متهم کرد",
+      "lead": "آرژانتین از یک «ترای» محروم شد که در صورت تبدیل شدن، می‌توانست در وقت اضافه نتیجه مسابقه را مساوی کند.",
+      "category": "sport",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/sport/rugby/rugby-union/england-argentina-steve-borthwick-rugby-b3017558.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 23:59:41 GMT",
+      "time": "۰۳:۲۹ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T00:18:52.305Z"
     }
   ]
 }
