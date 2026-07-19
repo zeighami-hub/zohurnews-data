@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "bbc",
-  "total": 16,
+  "total": 20,
   "articles": [
     {
       "id": "bbc_487c9543ea",
@@ -386,6 +386,102 @@
       "pubDate": "Fri, 17 Jul 2026 22:14:12 GMT",
       "time": "۰۱:۴۴ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T09:26:31.566Z"
+    },
+    {
+      "id": "bbc_36a7a62ab3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "title_fa": "مقامات می‌گویند کشتی حامل ۱۱۶ مسافر در سواحل گویان غرق شد.",
+      "lead": "مقامات اعلام کرده‌اند که یک کشتی مسافربری حامل ۱۱۶ نفر در سواحل گویان غرق شده است. این کشتی بین جورج‌تاون و بندر کایتوما واژگون شده و تاکنون ۵۳ نفر نجات یافته‌اند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 19 Jul 2026 09:59:41 GMT",
+      "time": "۱۳:۲۹ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T10:14:40.306Z"
+    },
+    {
+      "id": "bbc_6a1bdf34cd",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+      "title_fa": "استارتاپ فضایی اولین موشک تجاری هند را که برای مدار طراحی شده، پرتاب کرد",
+      "lead": "شرکت Skyroot Aerospace، اولین یونیکورن فناوری فضایی هند، روز شنبه موشک Vikram-1 را با موفقیت پرتاب کرد. این اولین موشک تجاری هند است که برای قرار گرفتن در مدار طراحی شده است.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 07:05:19 GMT",
+      "time": "۱۰:۳۵ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T10:14:40.306Z"
+    },
+    {
+      "id": "bbc_eb396f6d13",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+      "title_fa": "فعال هندی در بیستمین روز اعتصاب غذا به زور به بیمارستان منتقل شد",
+      "lead": "آبهیجیت دیپکه، بنیانگذار حزب جانتا، اکنون به جای سونام وانگچوک اعتصاب غذای نامحدودی را آغاز کرده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 05:58:48 GMT",
+      "time": "۰۹:۲۸ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T10:14:40.306Z"
+    },
+    {
+      "id": "bbc_cdbe8bcac6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
+      "title_fa": "یک منتقد جنگ جریمه و دیگری بازداشت شد؛ سرکوب مخالفان در روسیه",
+      "lead": "در روسیه، یک منتقد برجسته جنگ از شرکت در انتخابات پارلمانی منع شده است. همچنین یک وبلاگ‌نویس به نام ایلیا رمِزلو به اتهام فعالیت‌های ضد جنگ در بازداشت به سر می‌برد. این اقدامات در راستای سرکوب فزاینده مخالفت‌ها در این کشور صورت می‌گیرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 17 Jul 2026 20:00:54 GMT",
+      "time": "۲۳:۳۰ - ۲۶ تیر",
+      "analyzed_at": "2026-07-19T10:14:40.306Z"
     }
   ]
 }
