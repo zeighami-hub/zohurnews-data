@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "bbc",
-  "total": 2,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_487c9543ea",
@@ -50,6 +50,78 @@
       "pubDate": "Fri, 17 Jul 2026 22:12:54 GMT",
       "time": "۰۱:۴۲ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T00:18:52.305Z"
+    },
+    {
+      "id": "bbc_74ad62f844",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Tate brothers arrested in US after more charges laid against them in UK",
+      "title_fa": "برادران تیت پس از اتهامات جدید در بریتانیا، در آمریکا دستگیر شدند",
+      "lead": "برادران تیت پس از طرح اتهامات جدید علیه آنها در بریتانیا، در ایالات متحده دستگیر شدند. اتهامات جدید شامل تجاوز جنسی و قاچاق انسان می‌شود که روز شنبه اعلام شد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 19 Jul 2026 00:57:18 GMT",
+      "time": "۰۴:۲۷ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T01:18:55.964Z"
+    },
+    {
+      "id": "bbc_c9b78553c8",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Private jets flock to Montana - but locals can't afford the trailer park",
+      "title_fa": "جت‌های شخصی به مونتانا سرازیر شده‌اند، اما ساکنان محلی توانایی خرید پارک تریلر را ندارند",
+      "lead": "اجاره‌بها در بوزمن، مونتانا، به شدت افزایش یافته است. این وضعیت در حالی است که ثروتمندان از شهرهای دیگر برای تجربه غرب آمریکا به این شهر می‌آیند.",
+      "category": "society",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 18 Jul 2026 23:44:04 GMT",
+      "time": "۰۳:۱۴ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T01:18:55.964Z"
+    },
+    {
+      "id": "bbc_b5678e8dd3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
+      "title_fa": "کنترل، تهدید، جراحی‌های تغییر شکل‌دهنده: زندگی من در «فرقه» جفری اپستاین",
+      "lead": "«آنیا» در گزارشی نادر به بی‌بی‌سی از چگونگی فریب و سوءاستفاده جفری اپستاین، سرمایه‌دار مجرم جنسی، از «دستیارانش» روایت می‌کند. این گزارش به جزئیات کنترل، تهدیدها و جراحی‌های تغییر شکل‌دهنده می‌پردازد.",
+      "category": "society",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 05:10:44 GMT",
+      "time": "۰۸:۴۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T01:18:55.964Z"
     }
   ]
 }
