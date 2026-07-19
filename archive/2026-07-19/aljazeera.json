@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "aljazeera",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "aljazeera_c652d78de8",
@@ -362,6 +362,30 @@
       "pubDate": "Sun, 19 Jul 2026 04:32:28 +0000",
       "time": "۰۸:۰۲ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T05:06:34.746Z"
+    },
+    {
+      "id": "aljazeera_acd62fc07a",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US bombs Iran for eighth-straight night",
+      "title_fa": "آمریکا برای هشتمین شب متوالی ایران را بمباران کرد",
+      "lead": "ایالات متحده موج جدیدی از حملات را علیه ایران آغاز کرده است. این حملات پس از کشته شدن دو سرباز آمریکایی در پی حملات ایران در اردن صورت می‌گیرد.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 19 Jul 2026 05:08:20 +0000",
+      "time": "۰۸:۳۸ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T05:37:32.124Z"
     }
   ]
 }
