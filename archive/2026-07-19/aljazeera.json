@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "aljazeera",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "aljazeera_c652d78de8",
@@ -194,6 +194,30 @@
       "pubDate": "Sun, 19 Jul 2026 01:57:39 +0000",
       "time": "۰۵:۲۷ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T02:49:41.461Z"
+    },
+    {
+      "id": "aljazeera_fa7942f6dd",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Palestinian teenage footballer dies after Israeli settler attack",
+      "title_fa": "فوتبالیست نوجوان فلسطینی پس از حمله شهرک‌نشینان اسرائیلی درگذشت",
+      "lead": "فادی الناسان، فوتبالیست نوجوان فلسطینی، یک هفته پس از آنکه توسط نیروهای اسرائیلی مورد اصابت گلوله قرار گرفته بود، درگذشت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/palestinian-teenage-footballer-dies-after-israeli-settler-attack?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 02:57:31 +0000",
+      "time": "۰۶:۲۷ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T03:34:12.707Z"
     }
   ]
 }
