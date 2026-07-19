@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "rt",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "rt_3c986c0206",
@@ -74,6 +74,30 @@
       "pubDate": "Sun, 19 Jul 2026 02:40:19 +0000",
       "time": "۰۶:۱۰ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T02:49:41.461Z"
+    },
+    {
+      "id": "rt_ca0598ab89",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Two US service members killed in Iranian retaliatory strikes – Pentagon",
+      "title_fa": "پنتاگون: دو نظامی آمریکایی در حملات تلافی‌جویانه ایران کشته شدند",
+      "lead": "پنتاگون گزارش داد که دو نظامی آمریکایی در حملات موشکی و پهپادی تلافی‌جویانه ایران به تأسیسات نظامی در اردن کشته شده‌اند. این حملات به دنبال تنش‌های اخیر در منطقه صورت گرفته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/643205-two-us-service-members-killed-iranian-retaliatory-strikes-pentagon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 17:52:53 +0000",
+      "time": "۲۱:۲۲ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
     }
   ]
 }
