@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "bbc",
-  "total": 12,
+  "total": 16,
   "articles": [
     {
       "id": "bbc_487c9543ea",
@@ -290,6 +290,102 @@
       "pubDate": "Sat, 18 Jul 2026 15:23:31 GMT",
       "time": "۱۸:۵۳ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "bbc_bdd5343423",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Russia launches major ballistic missile attack on Kyiv",
+      "title_fa": "روسیه حمله موشکی بالستیک گسترده‌ای را به کی‌یف آغاز کرد",
+      "lead": "بر اثر یکی از \"گسترده‌ترین حملات بالستیک\" روسیه به پایتخت اوکراین، کی‌یف، یک نفر کشته شده است. رئیس‌جمهور زلنسکی این حمله را بسیار شدید توصیف کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 08:37:48 GMT",
+      "time": "۱۲:۰۷ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T09:26:31.566Z"
+    },
+    {
+      "id": "bbc_2e8967853a",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "He made history in Congress - then the Supreme Court changed its mind",
+      "title_fa": "او در کنگره تاریخ‌ساز شد - سپس دیوان عالی نظر خود را تغییر داد",
+      "lead": "این خبر در مورد فردی است که در کنگره تاریخ‌ساز شد، اما پس از آن دیوان عالی کشور نظر خود را تغییر داد. ساکنان محلی ابراز نگرانی می‌کنند که اگر شوماری فیگورس کرسی خود را از دست بدهد، بودجه فدرال آنها نیز ممکن است با او ناپدید شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn949jvjxplo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sat, 18 Jul 2026 01:35:33 GMT",
+      "time": "۰۵:۰۵ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T09:26:31.566Z"
+    },
+    {
+      "id": "bbc_832046ad31",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "What this desert city can teach the world about tackling heat deaths",
+      "title_fa": "این شهر بیابانی چه چیزی می‌تواند به جهان درباره مقابله با مرگ‌ومیر ناشی از گرما بیاموزد؟",
+      "lead": "شهرستان ماریکوپا در آریزونا یکی از گرم‌ترین مناطق است، اما توانسته تعداد مرگ‌ومیرهای مرتبط با گرما را کاهش دهد. این خبر بررسی می‌کند که اقدامات این شهر بیابانی چه درس‌هایی برای دیگر نقاط جهان در مواجهه با گرمای شدید دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 23:56:08 GMT",
+      "time": "۰۳:۲۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T09:26:31.566Z"
+    },
+    {
+      "id": "bbc_5f7126d64a",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
+      "title_fa": "قرار بود کیم جونگ اون تنها بت آن‌ها باشد - سپس کره‌شمالی‌ها کی‌پاپ را کشف کردند",
+      "lead": "پناهندگان به بی‌بی‌سی می‌گویند که با وجود محدودیت‌های شدید، کی‌پاپ توانسته راه خود را به دیکتاتوری خفقان‌آور کره‌شمالی باز کند. این خبر به تاثیرات فرهنگی کی‌پاپ بر جامعه کره‌شمالی می‌پردازد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Fri, 17 Jul 2026 22:14:12 GMT",
+      "time": "۰۱:۴۴ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T09:26:31.566Z"
     }
   ]
 }
