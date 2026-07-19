@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "guardian",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "guardian_1da552a525",
@@ -146,6 +146,30 @@
       "pubDate": "Sun, 19 Jul 2026 04:00:16 GMT",
       "time": "۰۷:۳۰ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T04:21:20.276Z"
+    },
+    {
+      "id": "guardian_a53020d830",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Victoria announces new social media ‘demasking’ powers for accounts accused of vilification",
+      "title_fa": "ویکتوریا قدرت‌های جدید «افشای هویت» در شبکه‌های اجتماعی را برای حساب‌های متهم به توهین اعلام کرد",
+      "lead": "قوانین جدید به Vcat این قدرت را می‌دهد تا پلتفرم‌های اجتماعی و هوش مصنوعی را مجبور کند کاربران ناشناس را شناسایی کنند. نخست‌وزیر ویکتوریا می‌گوید این اقدام از کودکان محافظت خواهد کرد.",
+      "category": "technology",
+      "region": "Australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 5,
+        "neutral": 80,
+        "negative": 15
+      },
+      "pubDate": "Sun, 19 Jul 2026 06:11:03 GMT",
+      "time": "۰۹:۴۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T06:38:42.196Z"
     }
   ]
 }
