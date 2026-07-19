@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_487c9543ea",
@@ -482,6 +482,30 @@
       "pubDate": "Fri, 17 Jul 2026 20:00:54 GMT",
       "time": "۲۳:۳۰ - ۲۶ تیر",
       "analyzed_at": "2026-07-19T10:14:40.306Z"
+    },
+    {
+      "id": "bbc_98ad1850ad",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Laos says it can't determine cause of tourist deaths linked to methanol",
+      "title_fa": "لائوس می‌گوید نمی‌تواند علت مرگ گردشگران مرتبط با متانول را مشخص کند",
+      "lead": "مقامات لائوس اعلام کرده‌اند که هیچ مدرکی دال بر مسمومیت در مرگ‌های سال ۲۰۲۴ ندارند. این ناتوانی به دلیل عدم انجام کالبدشکافی‌ها است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 18 Jul 2026 11:10:20 GMT",
+      "time": "۱۴:۴۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T10:53:33.518Z"
     }
   ]
 }
