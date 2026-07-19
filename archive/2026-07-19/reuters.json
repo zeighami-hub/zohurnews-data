@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "reuters",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "reuters_1e23f75edd",
@@ -48,6 +48,30 @@
         "negative": 90
       },
       "analyzed_at": "2026-07-19T01:48:41.464Z"
+    },
+    {
+      "id": "reuters_39550b300b",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless'",
+      "title_fa": "رهبر عالی ایران می‌گوید نقض‌های آمریکا نشان می‌دهد امضای ترامپ «بی‌ارزش» است",
+      "lead": "رهبر عالی ایران اظهار داشت که نقض تعهدات توسط آمریکا نشان می‌دهد که امضای ترامپ «بی‌ارزش» است. این اظهارات در واکنش به نقض‌های متعدد از سوی ایالات متحده بیان شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzdnRWcydkxHbFRjbEdiRnZnMUFwclQ1N3ZwZTVHbWRKMTFNb21ldHhfNDRBaFF1VmRoRHpUTFJlREVhc0MwZUExOUlxcWlvejU0X256Q2J4MzE0QTVaWG42WGpMS0NVcWNzOXJqX1RQRjh1czFncm1DM2ZfWm9xT0pkSWxLeDZ2ZU1mOE9KQy1JMGFyMlRCamNBSjVWNExTUkRTNXVvX0w1YWREaXJCMmNVUXVZR2oxVlBLd0lWdnB1WFUt?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 23:35:18 GMT",
+      "time": "۰۳:۰۵ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
     }
   ]
 }
