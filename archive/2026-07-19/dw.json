@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "dw",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "dw_2beb458056",
@@ -26,6 +26,30 @@
       "pubDate": "Sun, 19 Jul 2026 00:14:00 GMT",
       "time": "۰۳:۴۴ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T00:18:52.305Z"
+    },
+    {
+      "id": "dw_15e8565013",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "US authorities arrest Andrew and Tristan Tate in Miami",
+      "title_fa": "مقامات آمریکایی اندرو و تریستان تیت را در میامی دستگیر کردند",
+      "lead": "بر اساس گزارش رسانه‌ها، اندرو و تریستان تیت توسط مارشال‌های آمریکایی در میامی دستگیر شده‌اند. بریتانیا درخواست استرداد آن‌ها را مطرح کرده است.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/us-authorities-arrest-andrew-and-tristan-tate-in-miami/a-78022447?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 00:14:00 GMT",
+      "time": "۰۳:۴۴ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T00:48:47.678Z"
     }
   ]
 }
