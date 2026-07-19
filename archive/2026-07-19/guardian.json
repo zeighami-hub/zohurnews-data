@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "guardian",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "guardian_1da552a525",
@@ -170,6 +170,30 @@
       "pubDate": "Sun, 19 Jul 2026 06:11:03 GMT",
       "time": "۰۹:۴۱ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T06:38:42.196Z"
+    },
+    {
+      "id": "guardian_3957f9640a",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+      "title_fa": "هشدارهای کیفیت هوا در سراسر آمریکا به دلیل ادامه گسترش دود آتش‌سوزی‌ها پابرجا است",
+      "lead": "هشدارهای مربوط به شرایط خطرناک کیفیت هوا در روز شنبه در بخش‌های وسیعی از ایالات متحده آمریکا همچنان پابرجا خواهد بود. این وضعیت در پی ادامه گسترش دود ناشی از آتش‌سوزی‌های جنگلی در سراسر کشور رخ داده است.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 14:13:36 GMT",
+      "time": "۱۷:۴۳ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:39:46.428Z"
     }
   ]
 }
