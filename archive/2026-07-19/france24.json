@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "france24",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "france24_870667f630",
@@ -218,6 +218,54 @@
       "pubDate": "Sun, 19 Jul 2026 05:09:41 GMT",
       "time": "۰۸:۳۹ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T05:20:32.987Z"
+    },
+    {
+      "id": "france24_fc53b61b39",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "World Cup 2026: Do supporters prefer Lamine Yamal or Lionel Messi?",
+      "title_fa": "جام جهانی ۲۰۲۶: آیا هواداران لامین یامال را به لیونل مسی ترجیح می‌دهند؟",
+      "lead": "تنها چند ساعت مانده به آغاز فینال جام جهانی بین اسپانیا و آرژانتین، خبرنگاران به خیابان‌های نیویورک رفتند. آنها از هواداران پرسیدند که از بین لامین یامال و لیونل مسی، کدام بازیکن را ترجیح می‌دهند.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/world-cup-2026-do-supporters-prefer-lamine-yamal-or-lionel-messi",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 05:35:25 GMT",
+      "time": "۰۹:۰۵ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T06:09:28.175Z"
+    },
+    {
+      "id": "france24_201451f275",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Russia launches deadly strikes on Kyiv after attack on Moscow warehouses",
+      "title_fa": "حملات مرگبار روسیه به کی‌یف پس از حمله به انبارهای مسکو",
+      "lead": "روسیه روز یکشنبه پس از حمله پهپادی اوکراین به انبارهای تجارت الکترونیکی در نزدیکی مسکو، حملاتی را به کی‌یف انجام داد. این حملات یک کشته و چندین زخمی بر جای گذاشت.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/europe/20260719-russia-launches-deadly-strikes-on-kyiv-after-attack-on-moscow-warehouses",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 10,
+        "negative": 80
+      },
+      "pubDate": "Sun, 19 Jul 2026 01:51:16 GMT",
+      "time": "۰۵:۲۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T06:09:28.175Z"
     }
   ]
 }
