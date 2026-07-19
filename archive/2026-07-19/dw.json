@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "dw",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "dw_2beb458056",
@@ -194,6 +194,30 @@
       "pubDate": "Sat, 18 Jul 2026 11:38:00 GMT",
       "time": "۱۵:۰۸ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T03:05:31.806Z"
+    },
+    {
+      "id": "dw_373d9406f2",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Russian ballistic missiles rock Kyiv",
+      "title_fa": "موشک‌های بالستیک روسیه، کی‌یف را هدف قرار دادند",
+      "lead": "پس از آخرین حمله موشکی روسیه، آتش‌سوزی‌هایی در سراسر پایتخت اوکراین رخ داد. در کی‌یف چندین نفر زخمی شده‌اند و نیروهای امدادی در صحنه حضور دارند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.dw.com/en/russian-ballistic-missiles-rock-kyiv/a-78022851?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 03:40:00 GMT",
+      "time": "۰۷:۱۰ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T03:49:06.543Z"
     }
   ]
 }
