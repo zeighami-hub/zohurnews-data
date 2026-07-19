@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "france24",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "france24_870667f630",
@@ -194,6 +194,30 @@
       "pubDate": "Sun, 19 Jul 2026 04:44:47 GMT",
       "time": "۰۸:۱۴ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T04:50:19.596Z"
+    },
+    {
+      "id": "france24_a78a2d56f7",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Middle East live: US strikes target Revolutionary Guard to 'punish' Iran for killed troops",
+      "title_fa": "خاورمیانه زنده: حملات آمریکا سپاه پاسداران را برای «مجازات» ایران به دلیل کشته شدن سربازان هدف قرار داد",
+      "lead": "فرماندهی مرکزی آمریکا اعلام کرد که واشنگتن هشتمین موج متوالی حملات خود را در شب گذشته در ایران آغاز کرده است. این حملات در تلافی کشته شدن دو سرباز آمریکایی در یک پایگاه هوایی در اردن، سپاه پاسداران ایران را هدف قرار داده است.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260719-middle-east-live-us-targets-iran-s-revolutionary-guard-in-retaliation-for-killed-troops",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 05:09:41 GMT",
+      "time": "۰۸:۳۹ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T05:20:32.987Z"
     }
   ]
 }
