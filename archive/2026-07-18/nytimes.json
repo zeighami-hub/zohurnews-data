@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "nytimes",
-  "total": 33,
+  "total": 35,
   "articles": [
     {
       "id": "nytimes_6dac868066",
@@ -794,6 +794,54 @@
       "pubDate": "Sat, 18 Jul 2026 15:48:06 +0000",
       "time": "۱۹:۱۸ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T19:46:37.107Z"
+    },
+    {
+      "id": "nytimes_0c307a2e90",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
+      "title_fa": "چرا اردن به کانون جدیدی در جنگ آمریکا و ایران تبدیل می‌شود؟",
+      "lead": "مقامات آمریکایی اعلام کردند که چهار حمله مرتبط با ایران در پنج روز، نیروهای آمریکایی در اردن را هدف قرار داده است. یکی از این حملات که روز جمعه رخ داد، به کشته شدن دو سرباز و مفقود شدن یک نیروی نظامی دیگر منجر شد.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 20:31:00 +0000",
+      "time": "۰۰:۰۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-18T20:52:17.277Z"
+    },
+    {
+      "id": "nytimes_57bd49c54e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Canada Wildfires: What to Know",
+      "title_fa": "آتش‌سوزی‌های جنگلی کانادا: آنچه باید بدانید",
+      "lead": "طی هفته گذشته، صدها آتش‌سوزی جنگلی در کانادا و ایالات متحده بخش‌های وسیعی از آمریکای شمالی را در دود غلیظ پوشانده است. این رویداد پیامدهای گسترده‌ای به دنبال داشته است.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 20:16:59 +0000",
+      "time": "۲۳:۴۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T20:43:51.730Z"
     }
   ]
 }
