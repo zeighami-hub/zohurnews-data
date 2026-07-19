@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "guardian",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "guardian_1da552a525",
@@ -194,6 +194,54 @@
       "pubDate": "Sat, 18 Jul 2026 14:13:36 GMT",
       "time": "۱۷:۴۳ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T08:39:46.428Z"
+    },
+    {
+      "id": "guardian_430a2cc1a7",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
+      "title_fa": "هشدار سیلاب ناگهانی در شمال شرق آمریکا همزمان با دود آتش‌سوزی‌های کانادا",
+      "lead": "کیفیت نامطلوب هوا ناشی از آتش‌سوزی‌های کانادا همچنان شهر نیویورک را درگیر کرده است. چندین محله در شمال شرق آمریکا روز شنبه با طوفان‌های رعد و برق و هشدارهای سیلاب ناگهانی مواجه شدند.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 19:11:13 GMT",
+      "time": "۲۲:۴۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T10:14:40.306Z"
+    },
+    {
+      "id": "guardian_9e2ea96b48",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "title_fa": "«ما در حال حفظ یک سنت هستیم»: چگونه پوسترهای فیلم جنجالی غنا به هنر کلکسیونی تبدیل شدند",
+      "lead": "این آثار نقاشی شده با دست اغلب به فیلم‌هایی که به تصویر می‌کشند، به شدت بی‌وفا هستند. این بازتفسیرها گاهی اوقات به تهدید، توهین و حتی حملات فیزیکی از سوی بینندگانی که احساس فریب‌خوردگی می‌کردند، منجر می‌شد.",
+      "category": "culture",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 04:00:47 GMT",
+      "time": "۰۷:۳۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T10:14:40.306Z"
     }
   ]
 }
