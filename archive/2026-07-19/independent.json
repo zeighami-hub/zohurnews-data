@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "independent",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "independent_7e6af13ea9",
@@ -170,6 +170,54 @@
       "pubDate": "Sun, 19 Jul 2026 04:09:24 GMT",
       "time": "۰۷:۳۹ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T04:36:01.664Z"
+    },
+    {
+      "id": "independent_92f227ddc8",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "1 killed, 8 injured in an overnight Russian attack on Kyiv",
+      "title_fa": "یک کشته و ۸ زخمی در حمله شبانه روسیه به کی‌یف",
+      "lead": "مقامات گزارش داده‌اند که در حمله روسیه به کی‌یف، پایتخت اوکراین، یک نفر کشته و هشت نفر دیگر زخمی شده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.independent.co.uk/news/ukraine-donald-trump-b3017581.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 19 Jul 2026 04:41:30 GMT",
+      "time": "۰۸:۱۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T04:50:19.596Z"
+    },
+    {
+      "id": "independent_5db38dfcd0",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Rescuers in China search the rubble for survivors of landslide that killed 8 and left 34 missing",
+      "title_fa": "جستجوی نجات‌گران در چین برای یافتن بازماندگان رانش زمین با ۸ کشته و ۳۴ ناپدید",
+      "lead": "تیم‌های نجات در حال استفاده از بیل مکانیکی برای جستجوی آوارها به منظور یافتن بازماندگان رانش زمین هستند. این حادثه در شهر چونگ‌کینگ در جنوب غربی چین رخ داده و تاکنون ۸ کشته و ۳۴ ناپدید بر جای گذاشته است.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.independent.co.uk/news/chongqing-china-chinese-cctv-hubei-b3017580.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 19 Jul 2026 04:36:36 GMT",
+      "time": "۰۸:۰۶ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T04:50:19.596Z"
     }
   ]
 }
