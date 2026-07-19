@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "bbc",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "bbc_487c9543ea",
@@ -170,6 +170,30 @@
       "pubDate": "Sun, 19 Jul 2026 01:47:59 GMT",
       "time": "۰۵:۱۷ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T02:03:49.444Z"
+    },
+    {
+      "id": "bbc_93557554b6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "title_fa": "حملات اوکراین به انبارهای خرده‌فروشی آنلاین روسیه تلفات جانی برجای گذاشت",
+      "lead": "انبارهای خرده‌فروشی آنلاین روسیه در پی حملات اوکراین هدف قرار گرفته و منجر به تلفات جانی شده‌اند. پهپادها تأسیسات وایلدبریز را در نزدیکی مسکو و در تامبوف هدف قرار دادند که رهبر اوکراین آنها را «تأسیسات لجستیکی مهم» برای تأمین «قطعات تحریم‌شده» خواند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 13:06:25 GMT",
+      "time": "۱۶:۳۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T03:05:31.806Z"
     }
   ]
 }
