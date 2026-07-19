@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 27,
   "articles": [
     {
       "id": "nytimes_6dac868066",
@@ -578,6 +578,78 @@
       "pubDate": "Fri, 17 Jul 2026 09:56:14 +0000",
       "time": "۱۳:۲۶ - ۲۶ تیر",
       "analyzed_at": "2026-07-18T11:55:03.512Z"
+    },
+    {
+      "id": "nytimes_8f56282646",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Kuwait accuses Iran of targeting civilian sites after attacks spark fires.",
+      "title_fa": "کویت ایران را به هدف قرار دادن اماکن غیرنظامی پس از حملات متهم کرد",
+      "lead": "کویت، ایران را متهم کرده است که پس از حملاتی که باعث آتش‌سوزی شده‌اند، اماکن غیرنظامی این کشور را هدف قرار داده است. این اتهامات در بحبوحه تنش‌های فزاینده در منطقه مطرح شده‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/kuwait-power-water-facilities-attacks",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 14:16:12 +0000",
+      "time": "۱۷:۴۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T14:28:45.035Z"
+    },
+    {
+      "id": "nytimes_e5036ee61b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Surrogacy Scandal Upends German Politics",
+      "title_fa": "رسوایی فرزندآوری از طریق رحم اجاره‌ای سیاست آلمان را دستخوش تغییر کرد",
+      "lead": "ینس اشپان، یکی از رهبران ارشد حزب صدراعظم فریدریش مرتز، از سمت خود استعفا داد. او پس از اعلام اینکه از طریق رحم اجاره‌ای صاحب فرزند شده، که در آلمان غیرقانونی است، این اقدام را انجام داد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/europe/jens-spahn-surrogacy-germany.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 14:07:52 +0000",
+      "time": "۱۷:۳۷ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T14:28:45.035Z"
+    },
+    {
+      "id": "nytimes_090df8470b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Most Forest Fires in Canada Are Simply Impossible to Put Out",
+      "title_fa": "خاموش کردن بیشتر آتش‌سوزی‌های جنگلی در کانادا به سادگی غیرممکن است",
+      "lead": "نیمی از آتش‌سوزی‌های جنگلی کانادا در مناطق دورافتاده‌ای رخ می‌دهند که دسترسی جاده‌ای ندارند. این آتش‌سوزی‌ها که مقابله با آنها غیرممکن است، اغلب به حال خود رها می‌شوند تا بسوزند.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/canada/wildfires-canada-fire-fighting.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 12:31:34 +0000",
+      "time": "۱۶:۰۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T14:28:45.035Z"
     }
   ]
 }
