@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "guardian",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "guardian_d28fe04dcf",
@@ -554,6 +554,54 @@
       "pubDate": "Sat, 18 Jul 2026 14:13:36 GMT",
       "time": "۱۷:۴۳ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T19:46:37.107Z"
+    },
+    {
+      "id": "guardian_1d94edcd61",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "ANU accused of ‘hysterical’ response to students using AI to cheat as unis scramble to ‘secure’ assessments",
+      "title_fa": "اتهام 'واکنش هیستریک' به دانشگاه ملی استرالیا در مورد استفاده دانشجویان از هوش مصنوعی برای تقلب، در حالی که دانشگاه‌ها برای 'امن کردن' ارزیابی‌ها تلاش می‌کنند",
+      "lead": "دانشگاه ملی استرالیا به واکنش 'هیستریک' در برابر استفاده دانشجویان از هوش مصنوعی برای تقلب متهم شده است. کارشناسان هشدار می‌دهند که اگر دقت آموزشی بازگردانده نشود، استرالیا ممکن است قابلیت‌های فکری خود را به خارج از کشور 'صادر' کند.",
+      "category": "education",
+      "region": "asia-pacific",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sat, 18 Jul 2026 20:00:09 GMT",
+      "time": "۲۳:۳۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T20:43:51.730Z"
+    },
+    {
+      "id": "guardian_430a2cc1a7",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
+      "title_fa": "هشدارهای سیل ناگهانی در شمال شرق آمریکا همزمان با دود آتش‌سوزی‌های کانادا",
+      "lead": "شمال شرق آمریکا با هشدارهای سیل ناگهانی مواجه شده است، در حالی که دود ناشی از آتش‌سوزی‌های جنگلی کانادا این منطقه را فرا گرفته است. شهر نیویورک همچنان با کیفیت هوای نامطلوب ناشی از دود دست و پنجه نرم می‌کند.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sat, 18 Jul 2026 19:11:13 GMT",
+      "time": "۲۲:۴۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T20:43:51.730Z"
     }
   ]
 }
