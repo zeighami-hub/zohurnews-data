@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "mehrnews",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "mehrnews_56850161ea",
@@ -242,6 +242,52 @@
       "pubDate": "Sun, 19 Jul 2026 04:47:58 GMT",
       "time": "۰۸:۱۷ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T05:06:34.746Z"
+    },
+    {
+      "id": "mehrnews_ac135aec90",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran Army launches fresh attack on US targets in Kuwait",
+      "title_fa": "ارتش ایران حملات جدیدی علیه اهداف آمریکا در کویت آغاز کرد",
+      "lead": "ارتش ایران اعلام کرد که پهپادهای این کشور یک انبار مهمات و پناهگاه‌های تجهیزات و پرسنل آمریکا را در کویت هدف قرار داده‌اند. این اقدام در قالب دور جدید حملات به اهداف آمریکایی انجام شده است.",
+      "category": "military",
+      "region": "Middle East",
+      "sourceUrl": "https://en.mehrnews.com/news/246330/Iran-Army-launches-fresh-attack-on-US-targets-in-Kuwait",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 06:01:46 GMT",
+      "time": "۰۹:۳۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T06:09:28.175Z"
+    },
+    {
+      "id": "mehrnews_12",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Leader hails Iraqis for attending Ayt. Khamenei funeral rites",
+      "title_fa": "رهبر از عراقی‌ها برای حضور در مراسم تشییع آیت‌الله خامنه‌ای تجلیل کرد",
+      "lead": "آیت‌الله سید مجتبی خامنه‌ای، رهبر انقلاب اسلامی، از ملت عراق به دلیل حضور گسترده‌شان در مراسم تشییع «رهبر شهید»، آیت‌الله سید علی خامنه‌ای، که در این کشور عربی برگزار شد، قدردانی کرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246329/Iran-Army-launches-fresh-attack-on-US-targets-in-Kuwait",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-19T06:09:28.175Z"
     }
   ]
 }
