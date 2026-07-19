@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "dw",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "dw_7c39c0cfe5",
@@ -74,6 +74,78 @@
       "pubDate": "Sun, 19 Jul 2026 03:40:00 GMT",
       "time": "۰۷:۱۰ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T07:23:49.685Z"
+    },
+    {
+      "id": "dw_7af8647d1f",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Norway: Huge fire destroys 100 homes, sparks evacuations",
+      "title_fa": "نروژ: آتش‌سوزی گسترده ۱۰۰ خانه را ویران کرد و منجر به تخلیه شد",
+      "lead": "آتش‌سوزی بزرگی در شهر درامن، واقع در جنوب نروژ، ۱۰۰ خانه را تخریب و منجر به تخلیه ساکنان شد. آتش‌نشانان از مناطق دیگر نروژ برای مقابله با این حریق به منطقه اعزام شدند.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/norway-huge-fire-destroys-100-homes-sparks-evacuations/a-78019089?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 19:25:00 GMT",
+      "time": "۲۲:۵۵ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "dw_d9af877c6e",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Israel: How real is threat of gender segregation on street?",
+      "title_fa": "اسرائیل: تهدید جداسازی جنسیتی در خیابان‌ها چقدر واقعی است؟",
+      "lead": "یک شهر اسرائیلی با جمعیت زیاد یهودیان فوق‌ارتدوکس به دنبال جداسازی مردان و زنان در خیابان‌های خاصی است. سیاستمداران اسرائیلی نیز به قانون‌گذاری برای اجازه جداسازی جنسیتی در دوره‌های دانشگاهی رأی داده‌اند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.dw.com/en/israel-how-real-is-threat-of-gender-segregation-on-street/a-78020879?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 18:45:00 GMT",
+      "time": "۲۲:۱۵ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "dw_50b8d7ec81",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Ukraine drones target Russian warehouses and oil sites",
+      "title_fa": "پهپادهای اوکراینی انبارهای و تأسیسات نفتی روسیه را هدف قرار دادند",
+      "lead": "پهپادهای اوکراینی به انبارها، یک انبار نفت و سایر اهداف در سراسر روسیه حمله کرده‌اند که منجر به کشته شدن ۹ نفر و زخمی شدن بیش از ۸۰ نفر شده است. کی‌یف اعلام کرد که این حملات تأمین‌کنندگان عملیات جاری مسکو در اوکراین را هدف قرار داده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.dw.com/en/ukraine-drones-target-russian-warehouses-and-oil-sites/a-78018446?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 16:37:00 GMT",
+      "time": "۲۰:۰۷ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
     }
   ]
 }
