@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "mehrnews",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_56850161ea",
@@ -218,6 +218,30 @@
       "pubDate": "Sun, 19 Jul 2026 04:32:02 GMT",
       "time": "۰۸:۰۲ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T04:50:19.596Z"
+    },
+    {
+      "id": "mehrnews_c4b8c8a458",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran Army attacks US logistics hub, airbase in Kuwait",
+      "title_fa": "ارتش ایران به مرکز لجستیک و پایگاه هوایی آمریکا در کویت حمله کرد",
+      "lead": "ارتش ایران اعلام کرد که پهپادهای انتحاری آن، یک انبار مهمات در کمپ العذیری و رادار پاتریوت و رادار هوایی در پایگاه هوایی علی السالم کویت را هدف قرار داده‌اند. این حملات در روز یکشنبه انجام شده است.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://en.mehrnews.com/news/246328/Iran-Army-attacks-US-logistics-hub-airbase-in-Kuwait",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 04:47:58 GMT",
+      "time": "۰۸:۱۷ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T05:06:34.746Z"
     }
   ]
 }
