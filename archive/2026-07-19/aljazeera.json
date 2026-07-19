@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "aljazeera",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "aljazeera_c652d78de8",
@@ -674,6 +674,54 @@
       "pubDate": "Sun, 19 Jul 2026 09:08:55 +0000",
       "time": "۱۲:۳۸ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T10:14:40.306Z"
+    },
+    {
+      "id": "aljazeera_9154704ecb",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Gaza cheers for Spain as World Cup final anticipation mounts",
+      "title_fa": "غزه با نزدیک شدن به فینال جام جهانی اسپانیا را تشویق می‌کند",
+      "lead": "هواداران فوتبال در غزه با اشاره به همبستگی اسپانیا با فلسطینیان، حمایت خود را از این تیم در دیدار با آرژانتین ابراز کردند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 10:09:25 +0000",
+      "time": "۱۳:۳۹ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T10:39:05.083Z"
+    },
+    {
+      "id": "aljazeera_8904950bd1",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Du Plessis makes winning return to UFC with dominant decision over Usman",
+      "title_fa": "دو پلیسی با پیروزی قاطع در برابر عثمان بازگشتی موفق به UFC داشت",
+      "lead": "این مبارز آفریقای جنوبی از ژانویه ۲۰۲۴ تا اوت ۲۰۲۵ کمربند میان وزن را در اختیار داشت و سپس آن را به چیماف واگذار کرد.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/19/dricus-du-plessis-mma-ufc-unanimous-decision-kamaru-usman?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 09:46:35 +0000",
+      "time": "۱۳:۱۶ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T10:39:05.083Z"
     }
   ]
 }
