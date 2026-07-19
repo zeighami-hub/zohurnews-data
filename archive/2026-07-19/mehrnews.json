@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "mehrnews",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "mehrnews_56850161ea",
@@ -600,6 +600,54 @@
       "pubDate": "Sat, 18 Jul 2026 16:01:26 GMT",
       "time": "۱۹:۳۱ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "mehrnews_65c0b73e2d",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US forces warned not to waste a single second before fleeing",
+      "title_fa": "به نیروهای آمریکایی هشدار داده شد که قبل از فرار، حتی یک ثانیه را هم هدر ندهند",
+      "lead": "رئیس کمیسیون امنیت ملی و سیاست خارجی مجلس ایران هشدار داد که اگر سربازان آمریکایی منظور رهبر معظم انقلاب را از \"درس‌های فراموش‌نشدنی\" درک می‌کردند، قبل از فرار حتی یک ثانیه را نیز هدر نمی‌دادند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246338/US-forces-warned-not-to-waste-a-single-second-before-fleeing",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 20,
+        "negative": 60
+      },
+      "pubDate": "Sun, 19 Jul 2026 08:31:12 GMT",
+      "time": "۱۲:۰۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T08:39:46.428Z"
+    },
+    {
+      "id": "mehrnews_449c4bed3d",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iranian robotics teams excel at RoboCup 2026 in South Korea",
+      "title_fa": "درخشش تیم‌های رباتیک ایران در مسابقات RoboCup 2026 کره جنوبی",
+      "lead": "تیم‌های رباتیک ایران در مسابقات جهانی RoboCup 2026 عملکرد درخشانی از خود نشان دادند. این تیم‌ها چندین جایزه از جمله بهترین ارائه فنی را کسب کردند و در چندین لیگ به جمع چهار تیم برتر جهان راه یافتند.",
+      "category": "science",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246337/Iranian-robotics-teams-excel-at-RoboCup-2026-in-South-Korea",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 08:23:43 GMT",
+      "time": "۱۱:۵۳ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T08:39:46.428Z"
     }
   ]
 }
