@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_8f56282646",
@@ -242,6 +242,78 @@
       "pubDate": "Sat, 18 Jul 2026 15:48:06 +0000",
       "time": "۱۹:۱۸ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "nytimes_ea4689b5ae",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+      "title_fa": "پیشنهادی برای مناقشه تنگه هرمز: پیمانی مشترک میان کشورهای حوزه خلیج فارس",
+      "lead": "یک گروه تحقیقاتی مستقر در لندن پیشنهادی برای تشکیل ائتلافی از کشورهای حوزه خلیج فارس ارائه کرده است. این ائتلاف کنترل تنگه هرمز را به اشتراک خواهد گذاشت و از یک پیمان منسوخ شده اروپایی در مورد زغال‌سنگ و فولاد الگوبرداری شده است.",
+      "category": "politics",
+      "region": "middle-east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 08:37:18 +0000",
+      "time": "۱۲:۰۷ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T09:26:31.566Z"
+    },
+    {
+      "id": "nytimes_14cebe556c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Argentines, Already ‘Losing Their Minds,’ Brace for World Cup Final",
+      "title_fa": "آرژانتینی‌ها، در حالی که «ذهن خود را از دست داده‌اند»، برای فینال جام جهانی آماده می‌شوند",
+      "lead": "پیروزی در مسابقه قهرمانی برای آرژانتین غایت شادی خواهد بود. این کشور پس از پیروزی مقابل انگلیس و یک ماه تب و هیجان، اکنون در حالت سرور و لطف به سر می‌برد.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/americas/argentines-already-losing-their-minds-brace-for-world-cup-final.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 09:01:42 +0000",
+      "time": "۱۲:۳۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T09:26:31.566Z"
+    },
+    {
+      "id": "nytimes_d493fea94f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The U.S. Braced For the World Cup. It Fell in Love Instead.",
+      "title_fa": "آمریکا برای جام جهانی آماده شد، اما در عوض عاشق آن شد",
+      "lead": "در میان اضطراب در مورد چگونگی استقبال ایالات متحده از جهان، شهرهایی مانند لارنس، کانزاس و بوستون درهای خود را گشودند. پیوندهای ایجاد شده هنوز در خیابان‌ها قابل مشاهده است.",
+      "category": "sports",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/europe/us-world-cup-trump-boston-kansas.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 09:01:05 +0000",
+      "time": "۱۲:۳۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T09:26:31.566Z"
     }
   ]
 }
