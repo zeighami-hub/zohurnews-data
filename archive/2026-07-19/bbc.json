@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "bbc_487c9543ea",
@@ -506,6 +506,30 @@
       "pubDate": "Sat, 18 Jul 2026 11:10:20 GMT",
       "time": "۱۴:۴۰ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T10:53:33.518Z"
+    },
+    {
+      "id": "bbc_670d25959f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "title_fa": "ترامپ کانادا را به تعرفه‌های جدید به دلیل آتش‌سوزی‌هایی که هوای «آلوده» به شهرهای آمریکا می‌فرستند، تهدید کرد",
+      "lead": "دونالد ترامپ کانادا را به اعمال تعرفه‌های جدید تهدید کرده است. این تهدید به دلیل آتش‌سوزی‌هایی است که هوای «آلوده» را به شهرهای ایالات متحده می‌فرستند. مارک کارنی، رهبر کانادا، تأکید کرده است که هر دو کشور مسئولیت یکسانی در مبارزه با تغییرات اقلیمی دارند.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 17:29:50 GMT",
+      "time": "۲۰:۵۹ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T11:26:43.584Z"
     }
   ]
 }
