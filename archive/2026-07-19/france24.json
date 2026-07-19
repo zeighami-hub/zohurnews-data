@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "france24",
-  "total": 12,
+  "total": 19,
   "articles": [
     {
       "id": "france24_870667f630",
@@ -290,6 +290,174 @@
       "pubDate": "Sun, 19 Jul 2026 01:33:11 GMT",
       "time": "۰۵:۰۳ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T06:53:12.146Z"
+    },
+    {
+      "id": "france24_3e2050fdd5",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Gulf council blasts \"war crimes\" by Iran",
+      "title_fa": "شورای همکاری خلیج فارس «جنایات جنگی» ایران را محکوم کرد",
+      "lead": "شورای همکاری خلیج فارس «جنایات جنگی» ایران را محکوم کرده است. این اظهارات در حالی صورت می‌گیرد که ایالات متحده و ایران در حال تبادل حملات در بحبوحه تشدید تنش‌ها بر سر کنترل تنگه هرمز هستند. فرماندهی مرکزی آمریکا هفتمین شب متوالی حملات خود را علیه زیرساخت‌های نظامی و توانایی‌های دریایی ادامه داد.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://www.france24.com/en/gulf-council-blasts-war-crimes-by-iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 16:23:09 GMT",
+      "time": "۱۹:۵۳ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "france24_cdde1bcd7c",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Power, desalination plants hit in Kuwait",
+      "title_fa": "حملاتی به نیروگاه‌های برق و آب‌شیرین‌کن در کویت",
+      "lead": "نیروگاه‌های برق و آب‌شیرین‌کن در کویت مورد حمله قرار گرفتند. این حملات در حالی رخ می‌دهد که ایالات متحده و ایران در بحبوحه تشدید تنش‌ها بر سر کنترل تنگه هرمز، تبادل حملات را ادامه داده‌اند. فرماندهی مرکزی آمریکا هفتمین شب متوالی حملات خود را انجام داد که زیرساخت‌های نظامی و قابلیت‌های دریایی را هدف قرار داد.",
+      "category": "infrastructure",
+      "region": "kuwait",
+      "sourceUrl": "https://www.france24.com/en/power-desalination-plants-hit-in-kuwait",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 16:21:51 GMT",
+      "time": "۱۹:۵۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "france24_8911a07be0",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Trump claims US World Cup a success, despite controversies, ahead of final",
+      "title_fa": "ترامپ: جام جهانی آمریکا با وجود حواشی موفقیت‌آمیز بود",
+      "lead": "دونالد ترامپ روز جمعه اعلام کرد که آمریکا پس از میزبانی جام جهانی ۲۰۲۶ به همراه مکزیک و کانادا به یک «کشور فوتبال» تبدیل شده است. او این رویداد را «گردآورنده جهان» خواند، هرچند این تورنمنت حواشی مختلفی از جمله سیاست‌های سخت‌گیرانه مهاجرتی آمریکا را نیز به همراه داشت.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/americas/20260719-trump-claims-us-world-cup-a-success-despite-controversies-ahead-of-final",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 08:16:29 GMT",
+      "time": "۱۱:۴۶ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "france24_6e5ccc789f",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "2026 World Cup: France fall to England after wild ten-goal thriller",
+      "title_fa": "جام جهانی ۲۰۲۶: فرانسه در یک بازی پرگل مقابل انگلیس شکست خورد",
+      "lead": "فرانسه روز شنبه در میامی یک تجربه پرهیجان را پشت سر گذاشت و در نهایت در بازی پلی‌آف رده‌بندی جام جهانی ۲۰۲۶ با نتیجه ۶-۴ مقابل انگلیس شکست خورد. خروس‌ها پس از عقب افتادن ۴-۰ در نیمه اول، بازگشتی خارق‌العاده را با درخشش کیلیان امباپه به نمایش گذاشتند.",
+      "category": "culture",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/sports/20260719-2026-world-cup-france-fall-to-england-after-wild-ten-goal-thriller",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 07:58:48 GMT",
+      "time": "۱۱:۲۸ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "france24_c84c9c1dd8",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "What's at stake for the EU's carbon market blueprint",
+      "title_fa": "چه چیزی در طرح بازار کربن اتحادیه اروپا در معرض خطر است؟",
+      "lead": "کمیسیون اروپا تأیید کرده است که به صنایع اتحادیه اروپا اجازه خواهد داد تا انتشار گازهای CO₂ گرم‌کننده سیاره را تا دهه ۲۰۴۰ ادامه دهند. این تصمیم در مورد آینده طرح بازار کربن اتحادیه اروپا مطرح شده است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/spotlight/20260718-what-s-at-stake-for-the-eu-s-carbon-market-blueprint",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 17:23:10 GMT",
+      "time": "۲۰:۵۳ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "france24_a9cfc0bad8",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Pogacar wins Tour de France 14th stage to extend overall lead",
+      "title_fa": "پوگاچار مرحله ۱۴ تور دو فرانس را برد و برتری کلی خود را افزایش داد",
+      "lead": "تادی پوگاچار، پدیده دوچرخه‌سواری اسلوونی، با یک حمله دیرهنگام و ویرانگر در روز شنبه، مرحله ۱۴ کوهستانی تور دو فرانس را از آن خود کرد. او با این پیروزی، برتری خود را نسبت به یوناس وینگگارد افزایش داد.",
+      "category": "sports",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/sport/20260718-pogacar-wins-tour-de-france-14th-stage-to-extend-overall-lead",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 15:53:09 GMT",
+      "time": "۱۹:۲۳ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
+    },
+    {
+      "id": "france24_b219483d4f",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "French MPs approve assisted-dying law",
+      "title_fa": "نمایندگان مجلس فرانسه قانون کمک به خودکشی را تصویب کردند",
+      "lead": "نمایندگان مجلس فرانسه روز چهارشنبه لایحه‌ای را تصویب کردند که حق قانونی کمک به خودکشی را برای بزرگسالان مبتلا به بیماری‌های لاعلاج ایجاد می‌کند. این موضوع که توسط رئیس‌جمهور امانوئل ماکرون حمایت شده بود، از نظر سیاسی بسیار بحث‌برانگیز بوده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/a-week-in-france/20260718-french-mps-approve-assisted-dying-law",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 15:38:07 GMT",
+      "time": "۱۹:۰۸ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T08:24:36.227Z"
     }
   ]
 }
