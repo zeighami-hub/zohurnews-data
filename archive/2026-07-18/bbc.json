@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_9fb48f594b",
@@ -506,6 +506,54 @@
       "pubDate": "Fri, 17 Jul 2026 22:12:54 GMT",
       "time": "۰۱:۴۲ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T11:55:03.512Z"
+    },
+    {
+      "id": "bbc_93557554b6",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "title_fa": "انبارهای خرده‌فروشی آنلاین روسیه هدف حملات مرگبار اوکراین قرار گرفتند",
+      "lead": "انبارهای شرکت Wildberries در نزدیکی مسکو و تامبوف هدف پهپادهای اوکراینی قرار گرفتند. رهبر اوکراین این اهداف را \"مراکز لجستیکی مهم\" برای تامین \"قطعات تحریم‌شده\" توصیف کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sat, 18 Jul 2026 13:06:25 GMT",
+      "time": "۱۶:۳۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T14:28:45.035Z"
+    },
+    {
+      "id": "bbc_832046ad31",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "What this desert city can teach the world about tackling heat deaths",
+      "title_fa": "این شهر بیابانی چه چیزی می‌تواند به جهان درباره مقابله با مرگ‌ومیر ناشی از گرما بیاموزد؟",
+      "lead": "شهرستان ماریکوپا در آریزونا یکی از گرم‌ترین نقاط است، اما توانسته تعداد مرگ‌ومیرهای مرتبط با گرما را کاهش دهد. این مورد می‌تواند درسی برای سایر نقاط جهان در مورد مقابله با اثرات گرمایش باشد.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 23:56:08 GMT",
+      "time": "۰۳:۲۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T14:28:45.035Z"
     }
   ]
 }
