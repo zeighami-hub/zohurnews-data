@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "dw",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "dw_7c39c0cfe5",
@@ -50,6 +50,30 @@
       "pubDate": "Sat, 18 Jul 2026 17:28:00 GMT",
       "time": "۲۰:۵۸ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T07:08:27.933Z"
+    },
+    {
+      "id": "dw_383f27bbaf",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Russia's largest ballistic assault of war rocks Kyiv",
+      "title_fa": "بزرگترین حمله بالستیک روسیه در جنگ، کی‌یف را لرزاند",
+      "lead": "پس از آخرین حمله موشکی روسیه به کی‌یف، آتش‌سوزی‌های گسترده‌ای در سراسر پایتخت اوکراین رخ داد. در این حمله، بیشترین تعداد موشک‌های بالستیک استفاده شده در طول جنگ به کار گرفته شد و چندین نفر در کی‌یف زخمی شدند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 03:40:00 GMT",
+      "time": "۰۷:۱۰ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T07:23:49.685Z"
     }
   ]
 }
