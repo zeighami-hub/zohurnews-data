@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "mehrnews",
-  "total": 4,
+  "total": 7,
   "articles": [
     {
       "id": "mehrnews_56850161ea",
@@ -98,6 +98,78 @@
       "pubDate": "Sat, 18 Jul 2026 12:13:23 GMT",
       "time": "۱۵:۴۳ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T03:05:31.806Z"
+    },
+    {
+      "id": "mehrnews_bad4da5c2f",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US actions reminiscent of terrorist groups' behavior",
+      "title_fa": "اقدامات آمریکا یادآور رفتار گروه‌های تروریستی است",
+      "lead": "سخنگوی وزارت امور خارجه ایران، اسماعیل بقایی، اظهار داشت که اقدامات وحشیانه آمریکا یادآور رفتار گروه‌های تروریستی است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246325/US-actions-reminiscent-of-terrorist-groups-behavior",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 19 Jul 2026 04:14:31 GMT",
+      "time": "۰۷:۴۴ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T04:21:20.276Z"
+    },
+    {
+      "id": "mehrnews_526ffdd6a3",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran, Iraq FMs discuss regional developments",
+      "title_fa": "وزرای خارجه ایران و عراق تحولات منطقه را بررسی کردند",
+      "lead": "وزیر امور خارجه، عباس عراقچی، و همتای عراقی وی، فواد حسین، بر لزوم تداوم رایزنی‌ها و هماهنگی‌های دوجانبه تاکید کردند. این گفتگوها با هدف کمک به حفظ صلح و امنیت منطقه‌ای صورت گرفت.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246324/Iran-Iraq-FMs-discuss-regional-developments",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 04:07:04 GMT",
+      "time": "۰۷:۳۷ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T04:21:20.276Z"
+    },
+    {
+      "id": "mehrnews_47dcd567d0",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iranian general vows devastating response to US savagery",
+      "title_fa": "ژنرال ایرانی وعده پاسخ ویرانگر به اقدامات وحشیانه آمریکا را داد",
+      "lead": "یک فرمانده ارشد نظامی ایران به آمریکا هشدار داد که هرگونه \"تجاوز، قلدری یا وحشی‌گری\" با \"پاسخ قاطع و ویرانگر\" روبرو خواهد شد. وی تاکید کرد که این اقدامات هزینه‌های سنگین‌تری را در پی خواهد داشت.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246323/Iranian-general-vows-devastating-response-to-US-savagery",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 19 Jul 2026 03:53:25 GMT",
+      "time": "۰۷:۲۳ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T04:21:20.276Z"
     }
   ]
 }
