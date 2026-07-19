@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "foreignpolicy",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "foreignpolicy_d752f4262a",
@@ -26,6 +26,30 @@
       "pubDate": "Thu, 16 Jul 2026 13:00:42 +0000",
       "time": "۱۶:۳۰ - ۲۵ تیر",
       "analyzed_at": "2026-07-19T00:18:52.305Z"
+    },
+    {
+      "id": "foreignpolicy_2313f9a8e0",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Zelensky’s Cabinet Reshuffle Sparks Public Outcry in Ukraine",
+      "title_fa": "ترمیم کابینه زلنسکی اعتراض عمومی را در اوکراین برانگیخت",
+      "lead": "ترمیم کابینه زلنسکی در اوکراین به اعتراض عمومی منجر شده است. میخائیلو فدوروف، وزیر دفاع، به دلیل توسعه پهپادها محبوبیت داشت، اما این محبوبیت برای حفظ او در سمتش کافی نبود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/16/ukraine-zelensky-cabinet-reshuffle-protests-fedorov-russia-war-drones/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 16 Jul 2026 20:51:49 +0000",
+      "time": "۰۰:۲۱ - ۲۶ تیر",
+      "analyzed_at": "2026-07-19T03:05:31.806Z"
     }
   ]
 }
