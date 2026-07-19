@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_6dac868066",
@@ -530,6 +530,54 @@
       "pubDate": "Sat, 18 Jul 2026 11:16:31 +0000",
       "time": "۱۴:۴۶ - ۲۷ تیر",
       "analyzed_at": "2026-07-18T11:23:56.249Z"
+    },
+    {
+      "id": "nytimes_e9dcc375f3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The 20-Somethings Running Ukraine’s War Machine",
+      "title_fa": "جوانان بیست و چند ساله که ماشین جنگی اوکراین را اداره می‌کنند",
+      "lead": "نسل جدیدی برای تسریع ارسال تسلیحات به جبهه، کاغذبازی‌ها را حذف کرده‌اند. اما گارد قدیمی با این رویکرد مخالفت کرد و اکنون وزیر دفاع جوان اوکراین از سمت خود برکنار شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Fri, 17 Jul 2026 20:57:50 +0000",
+      "time": "۰۰:۲۷ - ۲۷ تیر",
+      "analyzed_at": "2026-07-18T11:55:03.512Z"
+    },
+    {
+      "id": "nytimes_195eb813eb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
+      "title_fa": "پکن ادعای ترامپ مبنی بر دخالت را رد می‌کند، اما از درگیری اجتناب می‌ورزد",
+      "lead": "مقامات چینی اتهام دخالت در انتخابات را بی‌اساس خواندند. در همین حال، تحلیلگران می‌گویند پکن در تلاش است تا یک تنش‌زدایی شکننده را حفظ کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 17 Jul 2026 09:56:14 +0000",
+      "time": "۱۳:۲۶ - ۲۶ تیر",
+      "analyzed_at": "2026-07-18T11:55:03.512Z"
     }
   ]
 }
