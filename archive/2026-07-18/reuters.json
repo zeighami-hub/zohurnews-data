@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
   "agencyId": "reuters",
-  "total": 41,
+  "total": 42,
   "articles": [
     {
       "id": "reuters_5e275f233f",
@@ -936,6 +936,28 @@
       "pubDate": "Fri, 17 Jul 2026 13:30:13 GMT",
       "time": "۱۷:۰۰ - ۲۶ تیر",
       "analyzed_at": "2026-07-18T20:43:51.730Z"
+    },
+    {
+      "id": "reuters_11",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
+      "title_fa": "آمریکا اعلام کرد که دو پرسنل نظامی‌اش در حمله ایران در اردن کشته شدند",
+      "lead": "به گزارش رویترز، ایالات متحده اعلام کرده است که دو پرسنل نظامی این کشور در حمله‌ای که آن را منتسب به ایران می‌داند، در اردن کشته شده‌اند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEowcHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-18T22:04:01.766Z"
     }
   ]
 }
