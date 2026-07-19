@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "independent",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "independent_7e6af13ea9",
@@ -242,6 +242,30 @@
       "pubDate": "Sun, 19 Jul 2026 05:00:00 GMT",
       "time": "۰۸:۳۰ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T05:06:34.746Z"
+    },
+    {
+      "id": "independent_b407791603",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Nigerian children pay the price for the Iran war as malnutrition and poverty surge",
+      "title_fa": "کودکان نیجریه‌ای بهای جنگ ایران را می‌پردازند؛ افزایش سوءتغذیه و فقر",
+      "lead": "کارکنان بهداشتی در شمال نیجریه گزارش می‌دهند که شمار بیشتری از کودکان دچار سوءتغذیه شده‌اند. آنها پیامدهای جنگ در خاورمیانه را عامل این وضعیت می‌دانند.",
+      "category": "humanitarian",
+      "region": "nigeria",
+      "sourceUrl": "https://www.independent.co.uk/news/iran-unicef-children-donald-trump-middle-east-b3017584.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 19 Jul 2026 05:14:00 GMT",
+      "time": "۰۸:۴۴ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T05:20:32.987Z"
     }
   ]
 }
