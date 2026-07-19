@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "bbc_487c9543ea",
@@ -194,6 +194,30 @@
       "pubDate": "Sat, 18 Jul 2026 13:06:25 GMT",
       "time": "۱۶:۳۶ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T03:05:31.806Z"
+    },
+    {
+      "id": "bbc_11496eba1f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
+      "title_fa": "آمریکا و ایران پس از کشته شدن دو آمریکایی در حمله اردن، حملاتی را مبادله کردند",
+      "lead": "نیروهای آمریکایی برای هشتمین شب متوالی اهداف ایرانی را مورد حمله قرار دادند. این حملات پس از کشته شدن دو آمریکایی در حمله اردن صورت می‌گیرد؛ در همین حال، ایران نیز اعلام کرده که به سمت نیروهای آمریکایی در کویت پهپاد شلیک کرده است.",
+      "category": "military",
+      "region": "middle-east",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 19 Jul 2026 05:10:57 GMT",
+      "time": "۰۸:۴۰ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T05:20:32.987Z"
     }
   ]
 }
