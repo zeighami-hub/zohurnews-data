@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "reuters",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "reuters_4",
@@ -24,6 +24,30 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-20T01:33:39.323Z"
+    },
+    {
+      "id": "reuters_aa51ea09bd",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US launches Iran strikes for ninth day as another American confirmed killed - Reuters",
+      "title_fa": "حملات آمریکا علیه ایران برای نهمین روز متوالی و تایید کشته شدن یک آمریکایی دیگر",
+      "lead": "آمریکا برای نهمین روز متوالی حملاتی را علیه ایران آغاز کرده است. این حملات در حالی صورت می‌گیرد که کشته شدن یک شهروند آمریکایی دیگر نیز تایید شده است.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 20 Jul 2026 01:49:00 GMT",
+      "time": "۰۵:۱۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T03:04:59.990Z"
     }
   ]
 }
