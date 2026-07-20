@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -170,6 +170,30 @@
       "pubDate": "Mon, 20 Jul 2026 04:39:12 +0000",
       "time": "۰۸:۰۹ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T04:52:05.946Z"
+    },
+    {
+      "id": "nytimes_e5036ee61b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Uproar Over Surrogate Baby Prompts German Official’s Sudden Resignation",
+      "title_fa": "جنجال بر سر فرزندآوری با رحم اجاره‌ای، باعث استعفای ناگهانی مقام آلمانی شد",
+      "lead": "ینس اسپان، یکی از رهبران ارشد حزب صدراعظم فریدریش مرز، پس از اعلام اینکه فرزندش را از طریق مادر جایگزین به دنیا آورده، از سمت خود استعفا داد؛ این عمل در آلمان غیرقانونی است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/europe/jens-spahn-surrogacy-germany.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 15:30:32 +0000",
+      "time": "۱۹:۰۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-20T05:22:47.705Z"
     }
   ]
 }
