@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "reuters",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "reuters_4",
@@ -410,6 +410,50 @@
       "pubDate": "Mon, 20 Jul 2026 01:40:00 GMT",
       "time": "۰۵:۱۰ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T10:53:39.345Z"
+    },
+    {
+      "id": "reuters_13",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Ryanair profits slump as Iran war dampens fares, hikes fuel costs - Reuters",
+      "title_fa": "کاهش سود رایان‌ایر به دلیل جنگ ایران؛ افت قیمت بلیط و افزایش هزینه‌های سوخت",
+      "lead": "سود شرکت هواپیمایی رایان‌ایر به دلیل تاثیر جنگ ایران بر قیمت بلیط‌ها و افزایش هزینه‌های سوخت کاهش یافته است. این وضعیت بازار هوایی منطقه را تحت تأثیر قرار داده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2ZFNEtHOEljcTJIRU92dnl3amtEbTR2WERmcHNOYi1RbW9scFh3MzU5Q0NiU0xQZEJDSy11ZVpVNlFESm9DdWkyY29YeFVYSnVoY1JyZG8wTF9zRkFkTGc0ZnFEWG1rSGJWUVV3ZzZQNmJJd2tvdGRBclRKdi0xQ2pudnBwbkNWM1I0X0llRF9iRk81MXppcGpPYzRWckhIcERkN3RqX0xHUGxKQmMtWFhTTVJOZmJUbVFH?oc=5",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-20T11:39:46.253Z"
+    },
+    {
+      "id": "reuters_10",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US pump prices cross $4 again on renewed fighting in the Middle East - Reuters",
+      "title_fa": "قیمت سوخت در آمریکا به دلیل درگیری‌های دوباره در خاورمیانه دوباره از ۴ دلار گذشت",
+      "lead": "قیمت بنزین در ایالات متحده بار دیگر به دلیل از سرگیری درگیری‌ها در خاورمیانه از مرز ۴ دلار عبور کرد. این افزایش قیمت‌ها نشان‌دهنده تاثیر تنش‌های منطقه‌ای بر بازارهای جهانی انرژی است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXhIclJnQVdaRk83S1liRGJRNEVxbGEwR1RUSEZoN1BsLUV2X3hvelVGNGtESkZNbFoybUhaQmYyRmlzWTNZdzhQVVNrdEhoU2NDdjBNOGpaU0ZsSU51cGtOV0laN280T3Z0T1NtTjdWeUV5UGN1RTQ0TDBLcXNET3lZOVljX1RPUDBGanZkQjY3cDFra01jbk9WeVBsX0RvQWhHbEEtZ1ZqNGtVckE?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-07-20T11:39:46.253Z"
     }
   ]
 }
