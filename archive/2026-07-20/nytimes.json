@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -146,6 +146,30 @@
       "pubDate": "Mon, 20 Jul 2026 04:01:05 +0000",
       "time": "۰۷:۳۱ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T04:40:49.917Z"
+    },
+    {
+      "id": "nytimes_8ad91c1516",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "India’s CJP Party Leads Protest March to Parliament After Exam Leaks",
+      "title_fa": "حزب CJP هند پس از افشای امتحانات، راهپیمایی اعتراضی به سوی پارلمان را رهبری می‌کند",
+      "lead": "حزب سوسک جنتا (CJP) در هند، راهپیمایی اعتراضی به سوی پارلمان در دهلی نو را پس از افشای امتحانات رهبری می‌کند. این اعتراضات از زمان بازداشت سونام وانگچوک، فعال برجسته‌ای که اعتصاب غذا کرده بود، گسترش یافته است.",
+      "category": "politics",
+      "region": "india",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/asia/india-protest-cjp-cockroach-jantar-mantar.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 20 Jul 2026 04:39:12 +0000",
+      "time": "۰۸:۰۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T04:52:05.946Z"
     }
   ]
 }
