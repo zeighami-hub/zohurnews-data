@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "reuters",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "reuters_4",
@@ -116,6 +116,28 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-20T03:19:49.718Z"
+    },
+    {
+      "id": "reuters_7",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Brent oil tops $90 as US, Iran expand strikes in the Middle East - Reuters",
+      "title_fa": "قیمت نفت برنت به بالای ۹۰ دلار رسید همزمان با تشدید حملات آمریکا و ایران در خاورمیانه",
+      "lead": "قیمت نفت برنت به بالای ۹۰ دلار در هر بشکه رسید. این افزایش در بحبوحه تشدید حملات نظامی آمریکا و ایران در منطقه خاورمیانه رخ می‌دهد.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva201cmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 90,
+        "negative": 10
+      },
+      "analyzed_at": "2026-07-20T04:05:03.442Z"
     }
   ]
 }
