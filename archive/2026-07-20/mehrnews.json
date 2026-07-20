@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "mehrnews",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "mehrnews_7a38109cb7",
@@ -674,6 +674,54 @@
       "pubDate": "Mon, 20 Jul 2026 08:05:34 GMT",
       "time": "۱۱:۳۵ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T08:22:25.116Z"
+    },
+    {
+      "id": "mehrnews_0edb0bc136",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Pezeshkian felicitates Spain on winning 2026 World Cup final",
+      "title_fa": "پزشکیان قهرمانی اسپانیا در فینال جام جهانی ۲۰۲۶ را تبریک گفت",
+      "lead": "مسعود پزشکیان، رئیس‌جمهور ایران، قهرمانی اسپانیا در جام جهانی ۲۰۲۶ فیفا را تبریک گفته است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246370/Pezeshkian-congratulates-Spain-on-winning-World-Cup-final",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 09:12:26 GMT",
+      "time": "۱۲:۴۲ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T09:43:39.325Z"
+    },
+    {
+      "id": "mehrnews_e0f4908c24",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran MP warns US over killing of civilians in south",
+      "title_fa": "نماینده مجلس ایران به آمریکا در مورد کشتار غیرنظامیان در جنوب هشدار داد",
+      "lead": "یک نماینده ارشد مجلس ایران روز دوشنبه به ایالات متحده هشدار داد که نیروهای مسلح ایران «خون ریخته‌شده بی‌گناهان را نادیده نخواهند گرفت». وی تاکید کرد که ایران انتقام کشتار غیرنظامیان در حملات اخیر آمریکا به جنوب ایران را خواهد گرفت.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246369/Iran-MP-warns-US-over-killing-of-civilians-in-south",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 20 Jul 2026 09:02:50 GMT",
+      "time": "۱۲:۳۲ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T09:43:39.325Z"
     }
   ]
 }
