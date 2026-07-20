@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "rt",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "rt_3c986c0206",
@@ -578,6 +578,30 @@
       "pubDate": "Sun, 19 Jul 2026 16:23:06 +0000",
       "time": "۱۹:۵۳ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T16:55:29.146Z"
+    },
+    {
+      "id": "rt_03bfe4e3d2",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Hitler lookalike summoned to appear in German court – media",
+      "title_fa": "احضار بدل هیتلر به دادگاه آلمان – رسانه‌ها",
+      "lead": "استفان وایکامپ، بدل هلندی هیتلر، پس از تمجید علنی از رهبر نازی‌ها، به حضور در دادگاه آلمان فراخوانده شده است. این خبر را نشریه بیلد گزارش کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643237-hitler-lookalike-summoned-german-court/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 19 Jul 2026 17:29:30 +0000",
+      "time": "۲۰:۵۹ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T18:28:51.211Z"
     }
   ]
 }
