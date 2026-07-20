@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -194,6 +194,30 @@
       "pubDate": "Sat, 18 Jul 2026 15:30:32 +0000",
       "time": "۱۹:۰۰ - ۲۷ تیر",
       "analyzed_at": "2026-07-20T05:22:47.705Z"
+    },
+    {
+      "id": "nytimes_9580319711",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
+      "title_fa": "روبیو می‌گوید که ایالات متحده همچنان برای دیپلماسی با ایران آمادگی دارد",
+      "lead": "مارکو روبیو، وزیر امور خارجه، اعلام کرد که ایالات متحده همچنان برای دیپلماسی با ایران آماده است. وی افزود که ایران نیز نشانه‌هایی از تمایل به مذاکره با آمریکا بروز داده است، حتی در حالی که دو طرف حملات خود را تشدید کرده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 06:02:46 +0000",
+      "time": "۰۹:۳۲ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T06:23:25.015Z"
     }
   ]
 }
