@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "france24",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "france24_3e5a742aa7",
@@ -242,6 +242,30 @@
       "pubDate": "Mon, 20 Jul 2026 05:13:58 GMT",
       "time": "۰۸:۴۳ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T05:38:38.252Z"
+    },
+    {
+      "id": "france24_d92cc29a8f",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Messi denied dream farewell as Argentina lose World Cup final to Spain",
+      "title_fa": "رویای خداحافظی مسی محقق نشد؛ آرژانتین در فینال جام جهانی مقابل اسپانیا شکست خورد",
+      "lead": "آرژانتین در فینال جام جهانی ۲۰۲۶ با نتیجه ۱-۰ مغلوب اسپانیا شد و بدین ترتیب رویای لیونل مسی برای کسب دو جام پیاپی نقش بر آب شد. این شکست باعث شد مسی نتواند وداع رویایی خود را با فوتبال رقم بزند.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/sport/20260719-messi-denied-dream-farewell-as-argentina-lose-world-cup-final-to-spain",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Sun, 19 Jul 2026 23:07:10 GMT",
+      "time": "۰۲:۳۷ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T06:06:39.506Z"
     }
   ]
 }
