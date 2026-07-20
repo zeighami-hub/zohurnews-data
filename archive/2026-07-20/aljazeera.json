@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "aljazeera",
-  "total": 4,
+  "total": 7,
   "articles": [
     {
       "id": "aljazeera_baf6adaabb",
@@ -98,6 +98,78 @@
       "pubDate": "Mon, 20 Jul 2026 01:48:59 +0000",
       "time": "۰۵:۱۸ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T02:04:08.092Z"
+    },
+    {
+      "id": "aljazeera_b47067a977",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US service member killed during detonation of Iranian drone in Iraq",
+      "title_fa": "کشته شدن یک نظامی آمریکایی در هنگام انهدام پهپاد ایرانی در عراق",
+      "lead": "یک نظامی آمریکایی در شمال عراق و در جریان انهدام کنترل‌شده یک پهپاد ایرانی سرنگون شده کشته شد. این حادثه در حین عملیات انهدام رخ داده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_us-soldier-killed-detonation-of-iranian-drone-iraq-190726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 02:11:53 +0000",
+      "time": "۰۵:۴۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T02:34:24.061Z"
+    },
+    {
+      "id": "aljazeera_16c19a3b6d",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Mbappe takes home second Golden Boot, Spain sweeps World Cup awards",
+      "title_fa": "امباپه دومین کفش طلای خود را برد، اسپانیا جوایز جام جهانی را درو کرد",
+      "lead": "کیلیان امباپه برای دومین بار کفش طلای جام جهانی را به دست آورد. در همین حال، تیم اسپانیا با هدایت فران تورس قهرمان این رقابت‌ها شد و بازیکنانش نیز جوایز متعددی را از آن خود کردند.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/20/mbappe-takes-home-second-golden-boot-spain-sweeps-world-cup-awards?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 02:09:53 +0000",
+      "time": "۰۵:۳۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T02:34:24.061Z"
+    },
+    {
+      "id": "aljazeera_427303277d",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Spain fans hail new generation, as Argentina says goodbye to an icon",
+      "title_fa": "هواداران اسپانیا نسل جدید را می‌ستایند، در حالی که آرژانتین با یک اسطوره خداحافظی می‌کند",
+      "lead": "پس از شکست آرژانتین مقابل اسپانیا در آنچه احتمالا آخرین بازی مسی در جام جهانی بود، جشن و پایکوبی در خیابان‌های نیویورک آغاز شد. هواداران اسپانیا به استقبال نسل جدید تیم خود رفتند، در حالی که آرژانتین با اسطوره خود وداع کرد.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/20/spain-fans-hail-new-generation-as-argentina-says-goodbye-to-an-icon?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Mon, 20 Jul 2026 02:03:48 +0000",
+      "time": "۰۵:۳۳ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T02:34:24.061Z"
     }
   ]
 }
