@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "reuters",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "reuters_4",
@@ -206,6 +206,50 @@
       "pubDate": "Sun, 19 Jul 2026 23:46:00 GMT",
       "time": "۰۳:۱۶ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T06:06:39.506Z"
+    },
+    {
+      "id": "reuters_4",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Fewer vessels travel through Hormuz after US resumes blockade - Reuters",
+      "title_fa": "رویترز: تردد کشتی‌ها در هرمز پس از ازسرگیری محاصره توسط آمریکا کاهش یافت",
+      "lead": "رویترز گزارش داده است که پس از ازسرگیری محاصره توسط ایالات متحده، تعداد کشتی‌های عبوری از تنگه هرمز کاهش یافته است. این اقدام پیامدهای قابل توجهی برای کشتیرانی و تجارت بین‌المللی در منطقه دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0VSSEhJSHhNNVl6b2dXTWNoa0FjeV9KQkZOMUs5aUtvM0Rwc1FPYk9pd3NlSDgxcy1oVDZqWjQ0c1dFb3NXLUdBOTFpWlJwUld6ZXkwN1lENTREaFpVZ0lDWFY5Y0UzVjdGbHVjQVRsc0FIX_ZMSVJfdkVaamtnVnNmZ2lPQm9jV0pCMjdlajFhMmRFVERaLXVvNG1JSi1yYlRxU0NUaGZIUlFhXzJteHhvcTA?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-20T06:55:00.934Z"
+    },
+    {
+      "id": "reuters_10",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Spain beat Argentina to win World Cup - Reuters",
+      "title_fa": "رویترز: اسپانیا با شکست آرژانتین قهرمان جام جهانی شد",
+      "lead": "رویترز گزارش داد که تیم ملی فوتبال اسپانیا با پیروزی مقابل آرژانتین، عنوان قهرمانی جام جهانی را از آن خود کرد. این خبر مربوط به یکی از بزرگترین رویدادهای ورزشی جهان است.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUNxR3JQOUlFcEZneEdwbl9udUdLUm9fOWVhZWlOMDh4SFNVc1JwQ09JZUNVNVlkUnRFbVMzc3VjemNWc0NqSllSU0IteXpLSDN2N2xrU0d3T2taX1hIMEppQmdRY0ZiSzkNGT3lBMGVnZk5LT3E1MFJndkNIUk1Xc1k4WVFwZGhNemZ6Yjk3cw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-20T06:55:00.934Z"
     }
   ]
 }
