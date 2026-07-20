@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "guardian",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "guardian_94b3e7c735",
@@ -170,6 +170,54 @@
       "pubDate": "Mon, 20 Jul 2026 04:43:37 GMT",
       "time": "۰۸:۱۳ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T05:07:07.868Z"
+    },
+    {
+      "id": "guardian_cde3e43bd3",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining",
+      "title_fa": "«این ویرانی تمام‌عیار است»: در دل جنگ آمازون علیه استخراج غیرقانونی طلا",
+      "lead": "گاردین گزارشی میدانی از نبرد نیروهای برزیلی برای ریشه‌کن کردن استخراج غیرقانونی طلا در آمازون ارائه می‌دهد. این فعالیت‌ها مناطق حفاظت‌شده بومی را تخریب کرده و به ویرانی گسترده منجر شده است.",
+      "category": "environment",
+      "region": "Americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 05:00:47 GMT",
+      "time": "۰۸:۳۰ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T05:22:47.705Z"
+    },
+    {
+      "id": "guardian_c148a52616",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Ban on protests outside synagogues and Jewish schools should be considered, Dreyfus tells royal commission",
+      "title_fa": "درایفوس به کمیسیون سلطنتی گفت: ممنوعیت اعتراضات در خارج از کنیسه‌ها و مدارس یهودی باید بررسی شود",
+      "lead": "دادستان کل پیشین استرالیا، پیشنهاد بررسی ممنوعیت اعتراضات در نزدیکی کنیسه‌ها و مدارس یهودی را مطرح کرد. او همچنین از دریافت توهین‌های یهودی‌ستیزانه و برچسب «صهیونیست نسل‌کش» به خود خبر داد.",
+      "category": "politics",
+      "region": "Australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/20/mark-dreyfus-protest-ban-synagogues-jewish-schools-antisemitism-royal-commission-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Mon, 20 Jul 2026 05:00:39 GMT",
+      "time": "۰۸:۳۰ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T05:22:47.705Z"
     }
   ]
 }
