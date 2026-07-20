@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "mehrnews",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "mehrnews_7a38109cb7",
@@ -146,6 +146,30 @@
       "pubDate": "Sun, 19 Jul 2026 12:28:55 GMT",
       "time": "۱۵:۵۸ - ۲۸ تیر",
       "analyzed_at": "2026-07-20T03:19:49.718Z"
+    },
+    {
+      "id": "mehrnews_b9dd6b45d5",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Two tankers explode in unsafe Hormuz route: IRGC",
+      "title_fa": "انفجار دو نفتکش در مسیر ناامن هرمز: سپاه پاسداران",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که دو نفتکش را اواخر یکشنبه پس از تلاش برای ورود و خروج از مسیری ناامن و \"حادثه‌خیز\" در جنوب تنگه هرمز منفجر کرده است. این اقدام به تحریک آمریکا صورت گرفته است.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246352/Two-tankers-explode-in-unsafe-Hormuz-route-IRGC",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 03:39:39 GMT",
+      "time": "۰۷:۰۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T03:49:18.942Z"
     }
   ]
 }
