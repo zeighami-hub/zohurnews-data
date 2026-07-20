@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "guardian",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "guardian_94b3e7c735",
@@ -146,6 +146,30 @@
       "pubDate": "Fri, 17 Jul 2026 09:20:57 GMT",
       "time": "۱۲:۵۰ - ۲۶ تیر",
       "analyzed_at": "2026-07-20T04:40:49.917Z"
+    },
+    {
+      "id": "guardian_f6066e8bcf",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they afford to buy food?",
+      "title_fa": "استرالیا سال گذشته بیش از ۹ میلیون دلار برای هر پناهجو در نائورو هزینه کرد؛ پس چرا آنها نمی‌توانند غذا بخرند؟",
+      "lead": "یک نظرسنجی جدید نشان می‌دهد که استرالیا سال گذشته بیش از ۹ میلیون دلار برای هر پناهجوی نگهداری شده در نائورو هزینه کرده است. با این حال، بسیاری از بیش از ۱۰۰ نفر در انتظار بررسی در این جزیره کوچک اقیانوس آرام برای تامین هزینه‌های خود از وعده‌های غذایی صرف‌نظر می‌کنند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 04:43:37 GMT",
+      "time": "۰۸:۱۳ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T05:07:07.868Z"
     }
   ]
 }
