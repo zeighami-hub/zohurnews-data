@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -530,6 +530,30 @@
       "pubDate": "Sun, 19 Jul 2026 18:11:18 +0000",
       "time": "۲۱:۴۱ - ۲۸ تیر",
       "analyzed_at": "2026-07-20T10:42:24.889Z"
+    },
+    {
+      "id": "nytimes_a6eeae0cbc",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Burnham Set to Become Britain’s First Openly Roman Catholic Prime Minister",
+      "title_fa": "برنهام در آستانه تبدیل شدن به اولین نخست‌وزیر کاتولیک آشکار بریتانیا",
+      "lead": "اندی برنهام قرار است به اولین نخست‌وزیر کاتولیک آشکار بریتانیا تبدیل شود. او درباره کاتولیک بودن خود بیشتر به عنوان بخشی از هویت فرهنگی‌اش سخن گفته، نه یک اعتقاد مذهبی پرشور.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/europe/burnham-openly-roman-catholic-prime-minister.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 10:44:01 +0000",
+      "time": "۱۴:۱۴ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T10:53:39.345Z"
     }
   ]
 }
