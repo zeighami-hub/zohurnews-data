@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "irna",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "irna_cd18b62b5b",
@@ -240,6 +240,28 @@
       "pubDate": "Mon, 20 Jul 2026 01:42:19 GMT",
       "time": "۰۵:۱۲ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T01:48:48.037Z"
+    },
+    {
+      "id": "irna_1",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "انهدام یک فروند پهپاد MQ۹ در اسلام آباد غرب",
+      "title_fa": "انهدام یک فروند پهپاد MQ۹ در اسلام آباد غرب",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که یک فروند پهپاد MQ۹ در آسمان اسلام آباد غرب منهدم شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.irna.ir/news/86213783/%D8%A7%D9%86%D9%87%D8%AF%D8%A7%D9%85-%DB%8C%DA%A9-%D9%81%D8%B1%D9%88%D9%86%D8%AF-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF-MQ%DB%B9-%D8%AF%D8%B1-%D8%A7%D8%B3%D9%84%D8%A7%D8%A8%D8%A7%D8%AF-%D8%BA%D8%B1%D8%A8",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-20T02:04:08.092Z"
     }
   ]
 }
