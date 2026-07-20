@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -338,6 +338,54 @@
       "pubDate": "Sun, 19 Jul 2026 16:50:55 +0000",
       "time": "۲۰:۲۰ - ۲۸ تیر",
       "analyzed_at": "2026-07-20T08:09:36.264Z"
+    },
+    {
+      "id": "nytimes_6b700f6bc1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran shipped billions in oil during the cease-fire.",
+      "title_fa": "ایران میلیاردها دلار نفت را در طول آتش‌بس صادر کرد.",
+      "lead": "ایران در طول دوره آتش‌بس خود با ایالات متحده، میلیاردها دلار نفت صادر کرده است. این اقدام پیامدهای اقتصادی و سیاسی مهمی در پی دارد.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz/iran-shipped-billions-in-oil-during-its-cease-fire-with-the-us",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 06:21:22 +0000",
+      "time": "۰۹:۵۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T09:43:39.325Z"
+    },
+    {
+      "id": "nytimes_3ec46fb0bd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
+      "title_fa": "شتاب جنگ اوکراین به تحریک علاقه به سرمایه‌گذاری پس از جنگ کمک می‌کند",
+      "lead": "در یک کنفرانس مربوط به بازسازی اوکراین، تمرکز از کمک‌های مالی اهدایی به سمت سرمایه‌گذاری خصوصی تغییر یافت. این تغییر نشان‌دهنده افزایش تمایل به مشارکت بخش خصوصی در بازسازی اوکراین پس از جنگ است.",
+      "category": "economy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 08:55:02 +0000",
+      "time": "۱۲:۲۵ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T09:43:39.325Z"
     }
   ]
 }
