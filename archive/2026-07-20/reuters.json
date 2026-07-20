@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "reuters",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "reuters_4",
@@ -272,6 +272,52 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-20T07:09:38.307Z"
+    },
+    {
+      "id": "reuters_4",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Why has the Iran-US ceasefire memorandum frayed? - Reuters",
+      "title_fa": "چرا یادداشت تفاهم آتش‌بس ایران و آمریکا از هم پاشیده است؟",
+      "lead": "این گزارش به بررسی دلایل از هم پاشیدن یادداشت تفاهم آتش‌بس میان ایران و آمریکا می‌پردازد. این موضوع نشان‌دهنده پیچیدگی‌های روابط دوجانبه است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXN1cXVSb3ZQMXNpLTJLQ3F0OGJ4bXUxWmRHZ080XzVVNE9nNzdyeFp3VTIySjRxYzZjTGJ5LWw2SVpJU2U0OWp3ZjBOdlhrVEpaQ18yWUZoM3gtY3VOdFFSTHVPemwxcmJicFJWMlAwNWFnNlJKMlVIU2lmTUNvMi12cjRMZTZRSy5mZlZn?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-07-20T08:55:34.110Z"
+    },
+    {
+      "id": "reuters_649f4e96d1",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil prices extend gains on escalating Middle East hostilities - Reuters",
+      "title_fa": "قیمت نفت با تشدید خصومت‌ها در خاورمیانه افزایش می‌یابد - رویترز",
+      "lead": "قیمت نفت در پی تشدید خصومت‌ها در خاورمیانه، همچنان در حال افزایش است. رویترز گزارش می‌دهد که این موضوع بر بازار جهانی انرژی تأثیر گذاشته است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Mon, 20 Jul 2026 00:16:00 GMT",
+      "time": "۰۳:۴۶ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T08:39:53.596Z"
     }
   ]
 }
