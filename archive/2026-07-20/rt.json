@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "rt",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "rt_b87f8dcf70",
@@ -170,6 +170,54 @@
       "pubDate": "Sun, 19 Jul 2026 01:01:53 +0000",
       "time": "۰۴:۳۱ - ۲۸ تیر",
       "analyzed_at": "2026-07-20T04:40:49.917Z"
+    },
+    {
+      "id": "rt_2b24d85fbe",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Kiev sells victory while eating its own",
+      "title_fa": "کی‌یف در حالی که مشغول نابودی خودی است، پیروزی می‌فروشد",
+      "lead": "برکناری ناگهانی یک چهره برجسته جنگی، دروغ‌ها، رقابت‌ها و هراس پشت روایت پیروزمندانه اوکراین را برملا می‌کند. این رویداد تنش‌های داخلی و چالش‌های واقعیت‌سازی در کی‌یف را نشان می‌دهد.",
+      "category": "military",
+      "region": "Europe",
+      "sourceUrl": "https://www.rt.com/news/643235-ukraine-zelensky-fired-fedorov/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 19 Jul 2026 16:23:06 +0000",
+      "time": "۱۹:۵۳ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T05:22:47.705Z"
+    },
+    {
+      "id": "rt_59e69ec8e9",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Diarrhea-causing parasite outbreak in America traced to lettuce",
+      "title_fa": "شیوع انگل عامل اسهال در آمریکا به کاهو ردیابی شد",
+      "lead": "مقامات بهداشتی ایالات متحده کاهوی خرد شده آیسبرگ که در رستوران‌های تاکو بل سرو می‌شود را به عنوان منبع شیوع سیکلوسپورا شناسایی کرده‌اند.",
+      "category": "health",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643199-us-cyclosporiasis-diarrhea-outbreak-lettuce/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 02:40:19 +0000",
+      "time": "۰۶:۱۰ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T05:22:47.705Z"
     }
   ]
 }
