@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -458,6 +458,78 @@
       "pubDate": "Sat, 18 Jul 2026 18:03:18 +0000",
       "time": "۲۱:۳۳ - ۲۷ تیر",
       "analyzed_at": "2026-07-20T10:14:10.686Z"
+    },
+    {
+      "id": "nytimes_ea4689b5ae",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+      "title_fa": "پیشنهادی برای حل اختلاف تنگه هرمز: پیمانی مشترک میان کشورهای حوزه خلیج فارس",
+      "lead": "یک گروه تحقیقاتی مستقر در لندن، پیشنهادی برای تشکیل ائتلافی از کشورهای حوزه خلیج فارس ارائه داده است. این ائتلاف کنترل مشترک تنگه هرمز را بر عهده خواهد گرفت و با الهام از پیمان زغال‌سنگ و فولاد اروپا مطرح شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 08:37:19 +0000",
+      "time": "۱۲:۰۷ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T10:42:24.889Z"
+    },
+    {
+      "id": "nytimes_2b68d5f5b3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
+      "title_fa": "زلنسکی تحت فشار برای برکناری ژنرال ارشد اوکراین",
+      "lead": "معترضان و بسیاری از سربازان می‌خواهند که رئیس‌جمهور ولودیمیر زلنسکی دیدگاه جنگ پهپادی که توسط وزیر دفاع برکنار شده در هفته گذشته مطرح شد را تأیید کند. زلنسکی برای برکناری ژنرال ارشد اوکراین با فشار روبرو است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Mon, 20 Jul 2026 10:24:12 +0000",
+      "time": "۱۳:۵۴ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T10:42:24.889Z"
+    },
+    {
+      "id": "nytimes_d493fea94f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The U.S. Braced For the World Cup. It Fell in Love Instead.",
+      "title_fa": "آمریکا برای جام جهانی آماده شد، اما به جای آن عاشق فوتبال شد.",
+      "lead": "در میان نگرانی‌ها درباره چگونگی میزبانی آمریکا از جام جهانی، شهرهایی مانند لارنس، کانزاس و بوستون، درهای خود را به روی جهان گشودند. پیوندهای ایجاد شده هنوز در خیابان‌ها قابل مشاهده است.",
+      "category": "sport",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/europe/us-world-cup-trump-boston-kansas.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 18:11:18 +0000",
+      "time": "۲۱:۴۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T10:42:24.889Z"
     }
   ]
 }
