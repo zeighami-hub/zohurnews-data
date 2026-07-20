@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "rt",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "rt_b87f8dcf70",
@@ -314,6 +314,54 @@
       "pubDate": "Sat, 18 Jul 2026 17:52:53 +0000",
       "time": "۲۱:۲۲ - ۲۷ تیر",
       "analyzed_at": "2026-07-20T10:14:10.686Z"
+    },
+    {
+      "id": "rt_b369cadd14",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US planning for wider war with Iran – WaPo",
+      "title_fa": "واشنگتن پست: آمریکا برای جنگی گسترده‌تر با ایران برنامه‌ریزی می‌کند",
+      "lead": "روزنامه واشنگتن پست گزارش داده است که آمریکا با وجود کمبود مهمات، به دنبال جنگی گسترده‌تر با ایران است. این خبر بر اساس اطلاعاتی منتشر شده که نشان می‌دهد ایالات متحده در حال برنامه‌ریزی برای چنین سناریویی است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643252-us-planning-wider-war-iran/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 10:20:33 +0000",
+      "time": "۱۳:۵۰ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T10:42:24.889Z"
+    },
+    {
+      "id": "rt_4d373683ee",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Tate brothers arrested in US",
+      "title_fa": "برادران تیت در آمریکا دستگیر شدند",
+      "lead": "اندرو و تریستان تیت، اینفلوئنسرهای شبکه‌های اجتماعی، در میامی آمریکا دستگیر شده‌اند. این دستگیری در پی درخواست بریتانیا برای استرداد آن‌ها جهت رسیدگی به ۵۹ اتهام صورت گرفته است.",
+      "category": "crime",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643222-tate-brothers-arrested-in-us/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Sun, 19 Jul 2026 08:56:57 +0000",
+      "time": "۱۲:۲۶ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T10:42:24.889Z"
     }
   ]
 }
