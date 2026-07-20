@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "france24",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "france24_3e5a742aa7",
@@ -578,6 +578,54 @@
       "pubDate": "Mon, 20 Jul 2026 09:03:28 GMT",
       "time": "۱۲:۳۳ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T09:43:39.325Z"
+    },
+    {
+      "id": "france24_f70fe5330a",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "US strikes Iran for ninth consecutive day as more ships targeted in Strait of Hormuz",
+      "title_fa": "حملات آمریکا به ایران برای نهمین روز متوالی و هدف قرار گرفتن کشتی‌های بیشتر در تنگه هرمز",
+      "lead": "ایالات متحده برای نهمین روز متوالی حملاتی را در ایران انجام داد که در پی آن تعداد کشته‌شدگان آمریکایی در درگیری‌های اخیر به سه نفر افزایش یافت. در این میان، کشتی‌های بیشتری در تنگه استراتژیک هرمز مورد حمله قرار گرفتند و ایران نیز در پاسخ، دارایی‌های نظامی آمریکا در بحرین را هدف قرار داد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260720-us-strikes-iran-ninth-consecutive-day-more-ships-targeted-strait-of-hormuz-kuwait-bahrain",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 10:26:19 GMT",
+      "time": "۱۳:۵۶ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T10:42:24.889Z"
+    },
+    {
+      "id": "france24_f68532b87d",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Andy Burnham expected to focus on UK's cost-of-living in first speech",
+      "title_fa": "انتظار می‌رود اندی برنهام در اولین سخنرانی خود بر هزینه زندگی در بریتانیا تمرکز کند",
+      "lead": "اندی برنهام، نخست‌وزیر جدید بریتانیا، اعلام کرده است که بر مسئله هزینه زندگی و سایر مسائل داخلی تمرکز خواهد کرد. او جزئیات جهت‌گیری نخست‌وزیری خود را در تاریخ ۲۰ ژوئیه طی اولین سخنرانی‌اش در خیابان داونینگ ۱۰ تشریح خواهد کرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/andy-burnham-expected-to-focus-on-uk-s-cost-of-living-in-first-speech",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Mon, 20 Jul 2026 09:50:35 GMT",
+      "time": "۱۳:۲۰ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T10:42:24.889Z"
     }
   ]
 }
