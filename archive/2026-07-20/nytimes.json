@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -74,6 +74,78 @@
       "pubDate": "Mon, 20 Jul 2026 02:58:22 +0000",
       "time": "۰۶:۲۸ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T03:19:49.718Z"
+    },
+    {
+      "id": "nytimes_e31c76c816",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+      "title_fa": "تهران و واشنگتن در مواجهه با یک «لحظه بیداری» در مورد جنگ",
+      "lead": "تحلیلگران هشدار می‌دهند که حملات آمریکا و ایران به گونه‌ای در حال وقوع است که خطر یک جنگ گسترده‌تر و غیرقابل مهار را به همراه دارد. آنها تأکید می‌کنند که طرفین باید به سرعت به مذاکرات بازگردند تا از این وضعیت جلوگیری شود.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 04:01:06 +0000",
+      "time": "۰۷:۳۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T04:40:49.917Z"
+    },
+    {
+      "id": "nytimes_a9601350a0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Indian Protesters to March on Parliament After Exam Leaks",
+      "title_fa": "معترضان هندی پس از افشای امتحانات به سمت پارلمان راهپیمایی خواهند کرد",
+      "lead": "تظاهرات حزب \"کوکروچ جانتا\" در دهلی نو پس از آن افزایش یافته است که پلیس، سونام وانگچوک، فعال برجسته و در اعتصاب غذا را به زور از محل خارج کرد. این اعتراضات در واکنش به افشای سوالات امتحانی برگزار می‌شود.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/asia/india-protesters-cockroach-party-exam-hunger-strike.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 04:22:41 +0000",
+      "time": "۰۷:۵۲ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T04:40:49.917Z"
+    },
+    {
+      "id": "nytimes_01b96d7f0d",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister",
+      "title_fa": "پنج چالش اصلی پیش روی اندی برنهام پس از نخست‌وزیری",
+      "lead": "اندی برنهام که قرار است دوشنبه وارد ساختمان شماره ۱۰ داونینگ استریت شود، با فهرست بلندبالا و دلهره‌آوری از مسائل مواجه است. در این گزارش به برخی از فوری‌ترین این چالش‌ها پرداخته شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/europe/five-of-the-main-challenges-awaiting-britains-new-prime-minister.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 04:01:05 +0000",
+      "time": "۰۷:۳۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T04:40:49.917Z"
     }
   ]
 }
