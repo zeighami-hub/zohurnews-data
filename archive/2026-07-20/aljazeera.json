@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "aljazeera",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "aljazeera_baf6adaabb",
@@ -74,6 +74,30 @@
       "pubDate": "Sun, 19 Jul 2026 23:49:30 +0000",
       "time": "۰۳:۱۹ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T00:18:50.362Z"
+    },
+    {
+      "id": "aljazeera_0407164d9b",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
+      "title_fa": "بمباران ایران توسط آمریکا برای نهمین شب متوالی با تشدید تنش‌ها در هرمز",
+      "lead": "رسانه‌های ایرانی گزارش داده‌اند که شهرهای شمال دور و جنوب دور ایران، از جمله تبریز و چابهار، مورد انفجار قرار گرفته‌اند. این بمباران‌ها توسط آمریکا برای نهمین شب متوالی در بحبوحه تشدید تنش‌ها در تنگه هرمز انجام شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 01:48:59 +0000",
+      "time": "۰۵:۱۸ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T02:04:08.092Z"
     }
   ]
 }
