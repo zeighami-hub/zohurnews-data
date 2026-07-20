@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "yjc",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "yjc_9e19e58240",
@@ -26,6 +26,54 @@
       "pubDate": "20 Jul 2026 02:27:41 +0330",
       "time": "۰۲:۲۷ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T00:04:05.352Z"
+    },
+    {
+      "id": "yjc_dc95c31204",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "انهدام یک فروند پهپاد MQ۹ در اسلام آباد غرب",
+      "title_fa": "انهدام یک فروند پهپاد MQ۹ در اسلام آباد غرب",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که یک فروند پهپاد MQ۹ در آسمان اسلام آباد غرب منهدم شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9110092/انهدام-یک-فروند-پهپاد-mq۹-در-اسلام-آباد-غرب",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "20 Jul 2026 05:47:06 +0330",
+      "time": "۰۵:۴۷ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T02:34:24.061Z"
+    },
+    {
+      "id": "yjc_60d7ff36ae",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "انفجار دو نفتکش در مسیر ناایمن تنگه هرمز",
+      "title_fa": "انفجار دو نفتکش در مسیر ناایمن تنگه هرمز",
+      "lead": "روابط عمومی سپاه پاسداران انقلاب اعلام کرد که دو فروند نفتکش متخلف که قصد ورود و خروج از مسیر ناایمن و حادثه‌ساز جنوب تنگه هرمز را داشتند، منفجر شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9110091/انفجار-دو-نفتکش-در-مسیر-ناایمن-تنگه-هرمز",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "20 Jul 2026 05:40:41 +0330",
+      "time": "۰۵:۴۰ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T02:18:31.990Z"
     }
   ]
 }
