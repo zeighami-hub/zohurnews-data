@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "guardian",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "guardian_1da552a525",
@@ -408,6 +408,54 @@
         "negative": 30
       },
       "analyzed_at": "2026-07-19T11:26:43.584Z"
+    },
+    {
+      "id": "guardian_913945b0bd",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
+      "title_fa": "استفاده دولت از تصمیم‌گیری خودکار هوش مصنوعی تحت قوانین جدید استرالیا محدود می‌شود",
+      "lead": "استفاده از هوش مصنوعی در تصمیم‌گیری‌های خودکار توسط ادارات و سازمان‌های دولتی، تحت قوانین سختگیرانه جدیدی قرار خواهد گرفت. این بخشی از یک طرح ملی جدید استرالیا است که همراه با تلاش حزب کارگر برای وضع قوانین \"وظیفه مراقبت دیجیتال\" ارائه شده است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 12:00:27 GMT",
+      "time": "۱۵:۳۰ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T14:45:25.284Z"
+    },
+    {
+      "id": "guardian_2f5a15c401",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+      "title_fa": "اوگاندا پس از ترخیص آخرین بیمار ابولا خواستار لغو محدودیت‌های سفر شد",
+      "lead": "اوگاندا پس از ترخیص آخرین بیمار ابولا، روند شمارش معکوس ۴۲ روزه برای اعلام رسمی پایان شیوع این بیماری را آغاز کرده است. این کشور از کشورهای دیگر درخواست کرده است تا محدودیت‌های سفر مرتبط با ابولا را لغو کنند، در حالی که آمار ابتلا در جمهوری دموکراتیک کنگو همچنان در حال افزایش است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "pubDate": "Thu, 16 Jul 2026 11:33:27 GMT",
+      "time": "۱۵:۰۳ - ۲۵ تیر",
+      "analyzed_at": "2026-07-19T14:45:25.284Z"
     }
   ]
 }
