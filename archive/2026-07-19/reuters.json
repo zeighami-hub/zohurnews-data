@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "reuters",
-  "total": 27,
+  "total": 30,
   "articles": [
     {
       "id": "reuters_1e23f75edd",
@@ -628,6 +628,72 @@
       "pubDate": "Tue, 14 Jul 2026 13:18:08 GMT",
       "time": "۱۶:۴۸ - ۲۳ تیر",
       "analyzed_at": "2026-07-19T16:55:29.146Z"
+    },
+    {
+      "id": "reuters_14",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US renews strikes on Iran after at least two military personnel killed by Iranian attack - Reuters",
+      "title_fa": "آمریکا پس از کشته شدن دست‌کم دو نظامی خود در حمله ایران، حملات به ایران را از سر گرفت",
+      "lead": "رویترز گزارش داد که ایالات متحده پس از کشته شدن حداقل دو نفر از پرسنل نظامی خود در حمله ایران، حملات به ایران را از سر گرفته است. این اقدام نشان‌دهنده تشدید تنش‌ها بین دو کشور است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSJMM1MWFrT05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-19T21:07:39.102Z"
+    },
+    {
+      "id": "reuters_9",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "China’s oil fortress will reshape the global order - Reuters",
+      "title_fa": "دژ نفتی چین نظم جهانی را تغییر خواهد داد",
+      "lead": "رویترز گزارش می‌دهد که ایجاد «دژ نفتی» توسط چین، نظم جهانی را دگرگون خواهد کرد. این موضوع پیامدهای عمیقی برای ژئوپلیتیک و بازارهای انرژی جهان خواهد داشت.",
+      "category": "energy",
+      "region": "asia",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlNEU0xzdGZaZ3lmRjRlZEFUaUJ0QnQxdEMxT25VYTdxS180T25XN3NhdlB2Tm50V1lqVzEtaGVOWFRJb3ZqeHd1LUNpZHkzdHpYUmRfZ0Z1YUxoTjBTaDFvSzhpVXYwUjB5dmYtUWExZG9sQnJsbmowY2dHeWlMcDlvX0NQN3pTRExIQkNuMjVrYWs3eDhmbnA2WmJPLU5HcUZMVXVKNFVFa1MyR1ROTTZaRUM?oc=5",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-19T21:07:39.102Z"
+    },
+    {
+      "id": "reuters_13",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US service member killed in northern Iraq, U.S. Central Command says - Reuters",
+      "title_fa": "فرماندهی مرکزی آمریکا: یک نظامی آمریکایی در شمال عراق کشته شد",
+      "lead": "فرماندهی مرکزی ایالات متحده اعلام کرد که یک نظامی آمریکایی در شمال عراق کشته شده است. جزئیات بیشتری در این باره منتشر نشده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWhlMjhBVDQ5MWpFeHNXcUZOcHF4S2NYVzlRRXo4WFhOTmRyWHI1elU3aGRKN21pVzJMTFpvQkIwak9yWnNVbERyNFpuUUhZYTR1SHA3UUJYSlc2MDNDSjhkaXROVFBuelhQbV8xSnlSYTl2Um5VOXNHQ0VqdXRzaEo2djhoRWNuSXNaUm1kS2J5VkhvTC1qMDdkWmdmZlo4c3RVRjZ2WlVPUV9SR08yZktIYkNneHc?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-19T20:57:11.262Z"
     }
   ]
 }
