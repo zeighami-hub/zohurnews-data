@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "aljazeera",
-  "total": 73,
+  "total": 75,
   "articles": [
     {
       "id": "aljazeera_c652d78de8",
@@ -1754,6 +1754,54 @@
       "pubDate": "Sun, 19 Jul 2026 22:24:07 +0000",
       "time": "۰۱:۵۴ - ۲۹ تیر",
       "analyzed_at": "2026-07-19T23:25:22.232Z"
+    },
+    {
+      "id": "aljazeera_62920e3de9",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "A bird’s-eye view as Donald Trump arrives for the World Cup final",
+      "title_fa": "تصویری از نمای هوایی ورود دونالد ترامپ برای فینال جام جهانی",
+      "lead": "دونالد ترامپ با هلیکوپتر مارین وان برای تماشای فینال جام جهانی ۲۰۲۶ فیفا بین اسپانیا و آرژانتین وارد شد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/aje-onl-nf_trump-arrives-in-helicopter-for-the-world-cup-final-190726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 23:11:39 +0000",
+      "time": "۰۲:۴۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-19T23:51:05.242Z"
+    },
+    {
+      "id": "aljazeera_39eec144f9",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup",
+      "title_fa": "هواداران در مادرید پس از پیروزی اسپانیا مقابل آرژانتین و کسب دومین قهرمانی جام جهانی به وجد آمدند",
+      "lead": "هواداران در مادرید پس از اینکه اسپانیا با نتیجه ۱-۰ آرژانتین را در فینال جام جهانی شکست داد، به جشن و پایکوبی پرداختند.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 23:05:40 +0000",
+      "time": "۰۲:۳۵ - ۲۹ تیر",
+      "analyzed_at": "2026-07-19T23:51:05.242Z"
     }
   ]
 }
