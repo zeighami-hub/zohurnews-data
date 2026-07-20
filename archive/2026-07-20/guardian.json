@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "guardian",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "guardian_94b3e7c735",
@@ -266,6 +266,30 @@
       "pubDate": "Sun, 19 Jul 2026 04:00:16 GMT",
       "time": "۰۷:۳۰ - ۲۸ تیر",
       "analyzed_at": "2026-07-20T06:55:00.934Z"
+    },
+    {
+      "id": "guardian_1d37cab03b",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "British YouTuber Yung Filly fronts Australian court over rape allegations",
+      "title_fa": "حضور یوتیوبر بریتانیایی «یانگ فیلی» در دادگاه استرالیا به دلیل اتهامات تجاوز",
+      "lead": "یوتیوبر و موسیقیدان بریتانیایی، «یانگ فیلی»، در دادگاهی در استرالیا به اتهام تجاوز جنسی حاضر شد. او به شش فقره تجاوز به یک زن ۲۰ ساله پس از کنسرتی در پرت متهم است و اتهامات را نپذیرفته است.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/20/yung-filly-australia-court-youtuber-rape-allegations-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 20 Jul 2026 06:46:08 GMT",
+      "time": "۱۰:۱۶ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T07:09:38.307Z"
     }
   ]
 }
