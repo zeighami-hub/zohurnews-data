@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "aljazeera",
-  "total": 34,
+  "total": 35,
   "articles": [
     {
       "id": "aljazeera_baf6adaabb",
@@ -816,6 +816,30 @@
       "pubDate": "Mon, 20 Jul 2026 09:51:25 +0000",
       "time": "۱۳:۲۱ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T10:53:39.345Z"
+    },
+    {
+      "id": "aljazeera_459f5ac8f3",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Occupied West Bank World Cup screening halted for funeral",
+      "title_fa": "پخش جام جهانی در کرانه باختری اشغالی به دلیل مراسم خاکسپاری متوقف شد",
+      "lead": "پخش فینال جام جهانی FIFA در رام‌الله، پس از انتشار خبر کشته شدن دو فلسطینی متوقف شد. این توقف به احترام مراسم خاکسپاری قربانیان صورت گرفت.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/occupied-west-bank-world-cup-screening-halted-for-funeral?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 10:33:16 +0000",
+      "time": "۱۴:۰۳ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T11:08:59.510Z"
     }
   ]
 }
