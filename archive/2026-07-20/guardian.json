@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "guardian",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "guardian_94b3e7c735",
@@ -338,6 +338,54 @@
       "pubDate": "Mon, 20 Jul 2026 08:59:50 GMT",
       "time": "۱۲:۲۹ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T09:43:39.325Z"
+    },
+    {
+      "id": "guardian_d1d5f1a14a",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
+      "title_fa": "عملیات جستجوی گسترده پس از غرق شدن کشتی مسافربری در سواحل گویان",
+      "lead": "یک عملیات جستجو و نجات گسترده پس از غرق شدن یک کشتی مسافربری در سواحل گویان در حال انجام است. مقامات تحقیقات جنایی را آغاز کرده‌اند زیرا فهرست مسافران که بیش از ۱۰۰ نفر را نشان می‌داد، نادرست تشخیص داده شده و تلاش‌های نجات را پیچیده کرده است.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 03:54:52 GMT",
+      "time": "۰۷:۲۴ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T10:14:10.686Z"
+    },
+    {
+      "id": "guardian_3957f9640a",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+      "title_fa": "هشدارهای کیفیت هوا در سراسر ایالات متحده همچنان پابرجاست؛ دود آتش‌سوزی‌های جنگلی کشور را فرا گرفته است",
+      "lead": "هشدارهای مربوط به شرایط خطرناک کیفیت هوا در روز شنبه در سراسر ایالات متحده همچنان پابرجاست، زیرا دود ناشی از آتش‌سوزی‌های جنگلی کشور را فرا گرفته است. باران ممکن است شرایط را در اقیانوس اطلس میانی و شمال شرق کاهش دهد و انتظار می‌رود فینال جام جهانی طبق برنامه برگزار شود.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 14:13:36 GMT",
+      "time": "۱۷:۴۳ - ۲۷ تیر",
+      "analyzed_at": "2026-07-20T10:14:10.686Z"
     }
   ]
 }
