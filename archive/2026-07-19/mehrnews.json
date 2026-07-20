@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "mehrnews",
-  "total": 34,
+  "total": 35,
   "articles": [
     {
       "id": "mehrnews_56850161ea",
@@ -816,6 +816,30 @@
       "pubDate": "Sun, 19 Jul 2026 16:01:24 GMT",
       "time": "۱۹:۳۱ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T16:08:32.394Z"
+    },
+    {
+      "id": "mehrnews_893eb0e8bf",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US kamikaza drone downed in Iran",
+      "title_fa": "سرنگونی پهپاد انتحاری آمریکا در ایران",
+      "lead": "عصر یکشنبه، یک پهپاد لوکاس متعلق به متجاوز آمریکایی توسط سامانه‌های پدافند هوایی نیروی دریایی ایران در جنوب کشور سرنگون شد. این پهپاد از نوع انتحاری گزارش شده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246347/US-kamikaza-drone-downed-in-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Sun, 19 Jul 2026 16:09:29 GMT",
+      "time": "۱۹:۳۹ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T16:55:29.146Z"
     }
   ]
 }
