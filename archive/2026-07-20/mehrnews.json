@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "mehrnews",
-  "total": 12,
+  "total": 15,
   "articles": [
     {
       "id": "mehrnews_7a38109cb7",
@@ -290,6 +290,78 @@
       "pubDate": "Mon, 20 Jul 2026 04:34:38 GMT",
       "time": "۰۸:۰۴ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T04:52:05.946Z"
+    },
+    {
+      "id": "mehrnews_893eb0e8bf",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US kamikaza drone downed in Iran",
+      "title_fa": "پهپاد انتحاری آمریکا در ایران سرنگون شد",
+      "lead": "یک پهپاد انتحاری متعلق به مهاجم آمریکایی بعدازظهر یکشنبه در جنوب کشور توسط سامانه‌های پدافند هوایی نیروی دریایی ایران سرنگون شد. این پهپاد با نام \"لوکاس\" معرفی شده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246347/US-kamikaza-drone-downed-in-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 19 Jul 2026 16:09:29 GMT",
+      "time": "۱۹:۳۹ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T05:22:47.705Z"
+    },
+    {
+      "id": "mehrnews_346227c088",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Fire reported on vessel near Oman coast",
+      "title_fa": "گزارش آتش‌سوزی در یک کشتی نزدیک سواحل عمان",
+      "lead": "سازمان عملیات تجارت دریایی بریتانیا روز دوشنبه اعلام کرد که گزارشی مبنی بر آتش‌سوزی در یک کشتی در نزدیکی سواحل عمان دریافت کرده است.",
+      "category": "disaster",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246358/Fire-reported-on-vessel-near-Oman-coast",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 20 Jul 2026 05:15:16 GMT",
+      "time": "۰۸:۴۵ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T05:22:47.705Z"
+    },
+    {
+      "id": "mehrnews_dde6d79e37",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Rubio confirms US soldier killed in Iraq",
+      "title_fa": "روبیو کشته شدن سرباز آمریکایی در عراق را تایید کرد",
+      "lead": "مارکو روبیو، سناتور آمریکایی، کشته شدن یک عضو ارتش ایالات متحده در عراق را تایید کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246357/Rubio-confirms-US-soldier-killed-in-Iraq",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 20 Jul 2026 05:11:49 GMT",
+      "time": "۰۸:۴۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T05:22:47.705Z"
     }
   ]
 }
