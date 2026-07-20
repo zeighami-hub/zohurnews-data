@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "aljazeera",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "aljazeera_baf6adaabb",
@@ -170,6 +170,54 @@
       "pubDate": "Mon, 20 Jul 2026 02:03:48 +0000",
       "time": "۰۵:۳۳ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T02:34:24.061Z"
+    },
+    {
+      "id": "aljazeera_6d4c6a5787",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Africa Shield: Why securing development is becoming a new security priority",
+      "title_fa": "سپر آفریقا: چرا تامین امنیت توسعه به یک اولویت امنیتی جدید تبدیل می‌شود؟",
+      "lead": "با صنعتی شدن قاره آفریقا، دولت‌ها در تلاشند تا مواد حساس را از دسترس افراد نامناسب دور نگه دارند. تامین امنیت توسعه به یک اولویت جدید امنیتی برای کشورهای این قاره تبدیل شده است.",
+      "category": "politics",
+      "region": "africa",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/20/africa-shield-why-securing-development-is-becoming-a-new-security-priority?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 90,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 02:39:17 +0000",
+      "time": "۰۶:۰۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T03:04:59.990Z"
+    },
+    {
+      "id": "aljazeera_5756b828c6",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Palestinians celebrate Spain’s World Cup victory",
+      "title_fa": "فلسطینی‌ها پیروزی اسپانیا در جام جهانی را جشن گرفتند",
+      "lead": "فلسطینیان ساکن در نوار غزه و کرانه باختری اشغالی، پیروزی تیم ملی اسپانیا در رقابت‌های جام جهانی را جشن گرفتند. این جشن‌ها به طور گسترده‌ای در مناطق مختلف فلسطینی برگزار شد.",
+      "category": "sports",
+      "region": "middle east",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 02:23:45 +0000",
+      "time": "۰۵:۵۳ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T03:04:59.990Z"
     }
   ]
 }
