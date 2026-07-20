@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "aljazeera_baf6adaabb",
@@ -26,6 +26,54 @@
       "pubDate": "Sun, 19 Jul 2026 23:35:06 +0000",
       "time": "۰۳:۰۵ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T00:04:05.352Z"
+    },
+    {
+      "id": "aljazeera_7273d56b73",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran war live: US military carries out another wave of strikes on Iran",
+      "title_fa": "موج جدید حملات نظامی آمریکا علیه ایران",
+      "lead": "ارتش آمریکا نهمین شب متوالی حملات خود را علیه ایران انجام داده است. این توسعه نشان‌دهنده تشدید درگیری جاری بین دو کشور است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 00:00:00 +0000",
+      "time": "۰۳:۳۰ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T00:18:50.362Z"
+    },
+    {
+      "id": "aljazeera_6a109500c7",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
+      "title_fa": "کشته شدن سرباز آمریکایی در عراق حین خنثی‌سازی پهپاد ایرانی",
+      "lead": "یک سرباز آمریکایی در عراق هنگام خنثی‌سازی کنترل شده یک پهپاد ایرانی کشته شد. با کشته شدن این سرباز، تعداد نظامیان آمریکایی کشته شده از زمان آغاز جنگ آمریکا و اسرائیل علیه ایران به ۱۷ نفر رسید.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 23:49:30 +0000",
+      "time": "۰۳:۱۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T00:18:50.362Z"
     }
   ]
 }
