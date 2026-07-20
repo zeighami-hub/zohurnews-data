@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "reuters",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "reuters_4",
@@ -250,6 +250,28 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-20T06:55:00.934Z"
+    },
+    {
+      "id": "reuters_6",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil jumps 3% as US, Iran expand strikes in the Middle East - Reuters",
+      "title_fa": "جهش ۳ درصدی قیمت نفت با گسترش حملات آمریکا و ایران در خاورمیانه",
+      "lead": "قیمت نفت در پی گسترش حملات آمریکا و ایران در خاورمیانه، ۳ درصد جهش یافت. این افزایش قابل توجه در بازار انرژی مشاهده شد.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZ2gDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYjhoa20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-20T07:09:38.307Z"
     }
   ]
 }
