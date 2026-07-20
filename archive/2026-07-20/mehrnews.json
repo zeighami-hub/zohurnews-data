@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "mehrnews",
-  "total": 31,
+  "total": 32,
   "articles": [
     {
       "id": "mehrnews_7a38109cb7",
@@ -746,6 +746,30 @@
       "pubDate": "Mon, 20 Jul 2026 10:36:25 GMT",
       "time": "۱۴:۰۶ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T10:53:39.345Z"
+    },
+    {
+      "id": "mehrnews_ed08746115",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Trump booed during World Cup trophy presentation to Spain",
+      "title_fa": "ترامپ در مراسم اهدای جام جهانی به اسپانیا هو شد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، در جریان مراسم اهدای جام جهانی ۲۰۲۶ فیفا با هو شدید تماشاگران مواجه شد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246372/Trump-booed-during-World-Cup-trophy-presentation-to-Spain",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 11:02:33 GMT",
+      "time": "۱۴:۳۲ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T11:23:45.846Z"
     }
   ]
 }
