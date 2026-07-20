@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "nytimes",
-  "total": 30,
+  "total": 31,
   "articles": [
     {
       "id": "nytimes_8f56282646",
@@ -722,6 +722,30 @@
       "pubDate": "Sun, 19 Jul 2026 16:50:55 +0000",
       "time": "۲۰:۲۰ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T18:28:51.211Z"
+    },
+    {
+      "id": "nytimes_112fdd9f02",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran shipped billions in oil during its cease-fire with the U.S.",
+      "title_fa": "ایران در دوران آتش‌بس خود با آمریکا، میلیاردها دلار نفت صادر کرد",
+      "lead": "ایران در دوره آتش‌بس خود با ایالات متحده، میلیاردها دلار نفت صادر کرده است. این صادرات نفتی در زمانی که روابط دو کشور در حالت تعلیق نظامی قرار داشت، انجام شده است.",
+      "category": "energy",
+      "region": "middle east",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/iran-shipped-billions-in-oil-during-its-cease-fire-with-the-us",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "pubDate": "Sun, 19 Jul 2026 20:08:03 +0000",
+      "time": "۲۳:۳۸ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T20:57:11.262Z"
     }
   ]
 }
