@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "nytimes",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_8f56282646",
@@ -554,6 +554,54 @@
       "pubDate": "Sun, 19 Jul 2026 11:00:27 +0000",
       "time": "۱۴:۳۰ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T11:26:43.584Z"
+    },
+    {
+      "id": "nytimes_c490ca0c42",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Service Members Killed",
+      "title_fa": "تحولات زنده جنگ ایران: آمریکا و ایران پس از کشته شدن نیروهای آمریکایی به جنگ گسترده‌تر نزدیک‌تر می‌شوند",
+      "lead": "ارتش آمریکا اعلام کرد نیروهای ایرانی مسئول حمله به پایگاهی در اردن را هدف قرار داده است. این حمله منجر به کشته شدن دو نیروی خدماتی آمریکایی و مفقود شدن یک نفر دیگر شده بود و اکنون آمریکا و ایران به جنگ گسترده‌تر نزدیک‌تر می‌شوند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 14:25:58 +0000",
+      "time": "۱۷:۵۵ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T14:45:25.284Z"
+    },
+    {
+      "id": "nytimes_57bd49c54e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Canada Wildfires: What to Know",
+      "title_fa": "آتش‌سوزی‌های کانادا: آنچه باید دانست",
+      "lead": "صدها آتش‌سوزی در کانادا و ایالات متحده طی هفته گذشته بخش‌های وسیعی از آمریکای شمالی را با دود غلیظ پوشانده است. این گزارش به بررسی ابعاد و پیامدهای این آتش‌سوزی‌ها می‌پردازد.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 20:16:59 +0000",
+      "time": "۲۳:۴۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T14:45:25.284Z"
     }
   ]
 }
