@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "independent",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "independent_6e838aabba",
@@ -98,6 +98,30 @@
       "pubDate": "Mon, 20 Jul 2026 03:23:54 GMT",
       "time": "۰۶:۵۳ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T03:34:13.511Z"
+    },
+    {
+      "id": "independent_104aeb915d",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Iran launches attacks after latest round of US strikes",
+      "title_fa": "ایران پس از آخرین حملات آمریکا، حملاتی را آغاز می‌کند",
+      "lead": "بحرین صبح دوشنبه آژیرهای هشدار موشکی خود را به صدا درآورده و نسبت به یک حمله تلافی‌جویانه ایران هشدار می‌دهد. این هشدار پس از آن صادر می‌شود که حملات هوایی آمریکا، مواضعی را در جمهوری اسلامی هدف قرار دادند.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.independent.co.uk/news/iran-dubai-united-arab-emirates-bahrain-persian-gulf-b3017885.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Mon, 20 Jul 2026 03:44:22 GMT",
+      "time": "۰۷:۱۴ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T04:05:03.442Z"
     }
   ]
 }
