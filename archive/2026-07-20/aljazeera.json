@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "aljazeera",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "aljazeera_baf6adaabb",
@@ -386,6 +386,30 @@
       "pubDate": "Mon, 20 Jul 2026 04:21:57 +0000",
       "time": "۰۷:۵۱ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T04:52:05.946Z"
+    },
+    {
+      "id": "aljazeera_d0716cd773",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
+      "title_fa": "ترامپ: حملات اخیر به ایران «به افتخار» پرسنل نظامی کشته شده آمریکا انجام شد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، اظهار داشت که حملات اخیر علیه ایران «به افتخار» پرسنل نظامی آمریکایی کشته شده انجام شده‌اند. این اقدام به منزله پاسخ به تلفات نیروهای آمریکایی توصیف شد.",
+      "category": "military",
+      "region": "Middle East",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Mon, 20 Jul 2026 04:52:56 +0000",
+      "time": "۰۸:۲۲ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T05:22:47.705Z"
     }
   ]
 }
