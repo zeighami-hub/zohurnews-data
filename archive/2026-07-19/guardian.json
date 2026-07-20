@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "guardian",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "guardian_1da552a525",
@@ -528,6 +528,30 @@
       "pubDate": "Sat, 18 Jul 2026 10:54:07 GMT",
       "time": "۱۴:۲۴ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T16:00:22.541Z"
+    },
+    {
+      "id": "guardian_49f327d4fa",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Earthquake in Peru leaves at least five dead",
+      "title_fa": "زمین‌لرزه در پرو دست‌کم پنج کشته بر جای گذاشت",
+      "lead": "مقامات اعلام کردند که یک زمین‌لرزه با قدرت ۵.۵ ریشتر منطقه آند پرو را لرزاند و دست‌کم پنج نفر را کشت. در پی این حادثه، بیش از ۲۰ نفر مجروح و ۳۰۰ نفر آواره شده‌اند و ساختمان‌ها در نزدیکی سیکایا فروریختند.",
+      "category": "disaster",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 19 Jul 2026 17:12:47 GMT",
+      "time": "۲۰:۴۲ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T18:28:51.211Z"
     }
   ]
 }
