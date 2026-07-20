@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_967005da84",
@@ -26,6 +26,30 @@
       "pubDate": "Sat, 18 Jul 2026 10:24:00 +0100",
       "time": "۱۲:۵۴ - ۲۷ تیر",
       "analyzed_at": "2026-07-20T04:40:49.917Z"
+    },
+    {
+      "id": "skynews_adf9ec2f2b",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Ebola deaths in DR Congo rise to 930",
+      "title_fa": "تعداد قربانیان ابولا در کنگو به ۹۳۰ نفر افزایش یافت",
+      "lead": "وزارت بهداشت جمهوری دموکراتیک کنگو اعلام کرده است که شمار جان‌باختگان ناشی از شیوع بیماری ابولا در این کشور اکنون به ۹۳۰ نفر رسیده است. این آمار نشان‌دهنده گسترش و شدت شیوع این بیماری در جمهوری دموکراتیک کنگو است.",
+      "category": "health",
+      "region": "africa",
+      "sourceUrl": "https://news.sky.com/story/ebola-deaths-in-dr-congo-rise-to-930-amid-attacks-on-health-workers-13565139",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 08:31:00 +0100",
+      "time": "۱۱:۰۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T09:43:39.325Z"
     }
   ]
 }
