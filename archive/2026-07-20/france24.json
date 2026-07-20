@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "france24",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "france24_3e5a742aa7",
@@ -194,6 +194,54 @@
       "pubDate": "Sun, 19 Jul 2026 15:39:26 GMT",
       "time": "۱۹:۰۹ - ۲۸ تیر",
       "analyzed_at": "2026-07-20T05:22:47.705Z"
+    },
+    {
+      "id": "france24_8fce5f3ed8",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Messi denied dream farewell as abject Argentina lose World Cup final",
+      "title_fa": "مسی از وداع رویایی محروم شد؛ آرژانتینِ ضعیف فینال جام جهانی را باخت",
+      "lead": "لیونل مسی می‌توانست با قهرمانی در جام جهانی، به تمامی بحث‌ها درباره بهترین بازیکن تاریخ پایان دهد. اما او پس از شکست ۱-۰ آرژانتین مقابل اسپانیا در فینال، اشک‌بار وداع رویایی خود را از دست داد.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/live-news/20260719-messi-denied-dream-farewell-as-abject-argentina-lose-world-cup-final",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sun, 19 Jul 2026 23:07:10 GMT",
+      "time": "۰۲:۳۷ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T05:53:34.712Z"
+    },
+    {
+      "id": "france24_53320ad816",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Spain beat Argentina to win World Cup for second time",
+      "title_fa": "اسپانیا آرژانتین را شکست داد و برای دومین بار قهرمان جام جهانی شد",
+      "lead": "اسپانیا با شکست ۱-۰ آرژانتین در وقت اضافه فینال جام جهانی، برای دومین بار در تاریخ خود قهرمان شد. تنها گل این مسابقه توسط فران تورس به ثمر رسید.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/sports/20260720-spain-beat-argentina-to-win-world-cup-for-second-time",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 05:13:58 GMT",
+      "time": "۰۸:۴۳ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T05:38:38.252Z"
     }
   ]
 }
