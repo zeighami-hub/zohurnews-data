@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "mehrnews",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "mehrnews_7a38109cb7",
@@ -242,6 +242,54 @@
       "pubDate": "Mon, 20 Jul 2026 04:27:13 GMT",
       "time": "۰۷:۵۷ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T04:40:49.917Z"
+    },
+    {
+      "id": "mehrnews_aa72de48bf",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "50 martyred, 517 injured in US bombings: Iranian official",
+      "title_fa": "مقام ایرانی: ۵۰ شهید و ۵۱۷ زخمی در بمباران‌های آمریکا",
+      "lead": "حسین کرمانپور، رئیس اداره روابط عمومی وزارت بهداشت ایران، اعلام کرد که بیش از ۵۰ ایرانی در حملات هوایی اخیر آمریکا به شهادت رسیده‌اند. او افزود که ۵۱۷ نفر دیگر نیز در این بمباران‌ها مجروح شده‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246346/50-martyred-517-injured-in-US-bombings-Iranian-official",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 10
+      },
+      "pubDate": "Sun, 19 Jul 2026 16:01:24 GMT",
+      "time": "۱۹:۳۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T04:52:05.946Z"
+    },
+    {
+      "id": "mehrnews_0b59fb21dd",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Explosions reported near UAE’s Ras al-Khaimah",
+      "title_fa": "گزارش انفجارها در نزدیکی راس‌الخیمه امارات",
+      "lead": "بامداد دوشنبه، چهار انفجار پی‌درپی در نزدیکی سواحل راس‌الخیمه در امارات متحده عربی گزارش شد.",
+      "category": "security",
+      "region": "middle-east",
+      "sourceUrl": "https://en.mehrnews.com/news/246356/Explosions-reported-near-UAE-s-Ras-al-Khaimah",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 04:34:38 GMT",
+      "time": "۰۸:۰۴ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T04:52:05.946Z"
     }
   ]
 }
