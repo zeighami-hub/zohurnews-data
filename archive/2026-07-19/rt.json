@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "rt",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "rt_3c986c0206",
@@ -554,6 +554,30 @@
       "pubDate": "Fri, 17 Jul 2026 22:07:13 +0000",
       "time": "۰۱:۳۷ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T16:00:22.541Z"
+    },
+    {
+      "id": "rt_2b24d85fbe",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Kiev sells victory while eating its own",
+      "title_fa": "کی‌یف پیروزی را می‌فروشد در حالی که در حال از بین بردن نیروهای خودی است",
+      "lead": "اخراج ناگهانی یک چهره برجسته جنگی، دروغ‌ها، رقابت‌ها و هراس پشت روایت پیروزمندانه اوکراین را برملا می‌کند. این رویداد نشان‌دهنده چالش‌های داخلی در کی‌یف است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643235-ukraine-zelensky-fired-fedorov/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 19 Jul 2026 16:23:06 +0000",
+      "time": "۱۹:۵۳ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T16:55:29.146Z"
     }
   ]
 }
