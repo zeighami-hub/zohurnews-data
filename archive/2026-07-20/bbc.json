@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "bbc",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "bbc_267873e533",
@@ -26,6 +26,30 @@
       "pubDate": "Sun, 19 Jul 2026 23:18:03 GMT",
       "time": "۰۲:۴۸ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T00:04:05.352Z"
+    },
+    {
+      "id": "bbc_cc14762ea2",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+      "title_fa": "«همه از مرگ می‌ترسند»: تلاش برای استخدام سرباز در اوکراین به خشونت کشیده می‌شود",
+      "lead": "پلیس گزارش می‌دهد که پرخاشگری علیه افسران استخدام سرباز در اوکراین به طور فزاینده‌ای تهدیدآمیز شده است. این وضعیت نشان‌دهنده چالش‌های موجود در جذب نیرو برای ارتش در شرایط جنگی است.",
+      "category": "conflict",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 00:19:12 GMT",
+      "time": "۰۳:۴۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T01:05:18.056Z"
     }
   ]
 }
