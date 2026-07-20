@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "nytimes_8f56282646",
@@ -602,6 +602,54 @@
       "pubDate": "Sat, 18 Jul 2026 20:16:59 +0000",
       "time": "۲۳:۴۶ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T14:45:25.284Z"
+    },
+    {
+      "id": "nytimes_982e93bb3d",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs",
+      "title_fa": "افزایش همکاری با آمریکا، اردن را در تیررس ایران قرار داده است",
+      "lead": "با افزایش نقش اردن در عملیات‌های آمریکا علیه ایران، این کشور در موقعیت حساسی قرار گرفته است. این همکاری‌ها در شرایطی تشدید شده که دیگر متحدان منطقه‌ای، توانایی واشنگتن برای استفاده از پایگاه‌ها و حریم هوایی خود را محدود کرده‌اند.",
+      "category": "politics",
+      "region": "middle_east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sun, 19 Jul 2026 15:17:53 +0000",
+      "time": "۱۸:۴۷ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T16:00:22.541Z"
+    },
+    {
+      "id": "nytimes_45f2e9afdd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Bangladesh, Argentina’s Soccer Team Finds a Huge Fan Base",
+      "title_fa": "در بنگلادش، تیم فوتبال آرژانتین پایگاه هواداری عظیمی پیدا می‌کند",
+      "lead": "بنگلادش هرگز به جام جهانی راه پیدا نکرده است. اما هر چهار سال یک بار، بسیاری از مردم این کشور تیم آرژانتین را به عنوان تیم خودشان می‌پذیرند و به شدت از آن حمایت می‌کنند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/18/world/asia/world-cup-bangladesh-argentina-fans.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 11:16:32 +0000",
+      "time": "۱۴:۴۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T16:00:22.541Z"
     }
   ]
 }
