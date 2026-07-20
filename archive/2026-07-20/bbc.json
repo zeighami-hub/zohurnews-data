@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "bbc",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "bbc_267873e533",
@@ -266,6 +266,30 @@
       "pubDate": "Sun, 19 Jul 2026 08:18:32 GMT",
       "time": "۱۱:۴۸ - ۲۸ تیر",
       "analyzed_at": "2026-07-20T05:22:47.705Z"
+    },
+    {
+      "id": "bbc_11496eba1f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "title_fa": "یک سرباز آمریکایی در حمله ایران در عراق کشته و یک نفر زخمی شد",
+      "lead": "ارتش آمریکا گزارش داد که یک سرباز دیگر این کشور در عراق کشته شده است. این اتفاق یک روز پس از کشته شدن دو سرباز آمریکایی در اردن رخ می‌دهد و به دنبال حمله‌ای که به ایران نسبت داده شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 19:45:12 GMT",
+      "time": "۲۳:۱۵ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T06:55:00.934Z"
     }
   ]
 }
