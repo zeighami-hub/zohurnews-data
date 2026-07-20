@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -218,6 +218,54 @@
       "pubDate": "Mon, 20 Jul 2026 06:02:46 +0000",
       "time": "۰۹:۳۲ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T06:23:25.015Z"
+    },
+    {
+      "id": "nytimes_f4f0c5a626",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister",
+      "title_fa": "پنج چالش اصلی پیش روی اندی برنهام در زمان نخست‌وزیری",
+      "lead": "اندی برنهام که قرار است روز دوشنبه وارد داونینگ استریت شود، با فهرست طولانی و دلهره‌آوری از مسائل مواجه است. در این گزارش به برخی از فوری‌ترین این چالش‌ها پرداخته شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/europe/britain-new-prime-minister-challenges.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 04:01:05 +0000",
+      "time": "۰۷:۳۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T06:55:00.934Z"
+    },
+    {
+      "id": "nytimes_179838859a",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Why Tokyo’s New Shorts Policy is Sparking Debate in Japan",
+      "title_fa": "چرا سیاست جدید توکیو درباره پوشیدن شلوارک در ژاپن بحث‌برانگیز شده است؟",
+      "lead": "دولت توکیو برای اولین بار در تابستان امسال به کارمندان اجازه پوشیدن شلوارک داده است که این موضوع سوالات حساسی را درباره آداب معاشرت و ساق پاهای پرمو برانگیخته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/asia/japan-cool-biz-tokyo-shorts-heat.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 04:01:06 +0000",
+      "time": "۰۷:۳۱ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T06:55:00.934Z"
     }
   ]
 }
