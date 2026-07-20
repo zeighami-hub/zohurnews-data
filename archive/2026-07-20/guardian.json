@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "guardian",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "guardian_94b3e7c735",
@@ -218,6 +218,54 @@
       "pubDate": "Mon, 20 Jul 2026 05:00:39 GMT",
       "time": "۰۸:۳۰ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T05:22:47.705Z"
+    },
+    {
+      "id": "guardian_49f327d4fa",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Earthquake in Peru leaves at least six dead",
+      "title_fa": "زمین‌لرزه در پرو دست‌کم شش کشته بر جای گذاشت",
+      "lead": "مقامات روز یکشنبه اعلام کردند که زمین‌لرزه‌ای به بزرگی ۵.۵ ریشتر منطقه آند پرو را لرزاند که دست‌کم شش کشته بر جای گذاشت. بیش از ۳۰ نفر مجروح و ۳۰۰ نفر پس از فروریختن ساختمان‌ها در نزدیکی سیکایا آواره شده‌اند.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 17:12:47 GMT",
+      "time": "۲۰:۴۲ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T06:55:00.934Z"
+    },
+    {
+      "id": "guardian_a3ee91dee0",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "title_fa": "سائوتومه و پرنسیپ در انتخاباتی پرتنش به پای صندوق‌های رأی می‌رود",
+      "lead": "رأی‌دهندگان در سائوتومه و پرنسیپ روز یکشنبه برای انتخابات ریاست‌جمهوری به پای صندوق‌های رأی می‌روند، در حالی که این یکی از کم‌جمعیت‌ترین کشورهای آفریقایی در تلاش است تا اعتبار دموکراتیک خود را تقویت کند. کارلوس ویلا نوا، رئیس‌جمهور فعلی، امیدوار است حزب سابق خود را شکست دهد و به عنوان نامزد مستقل برای دومین دوره به قدرت برسد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 04:00:16 GMT",
+      "time": "۰۷:۳۰ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T06:55:00.934Z"
     }
   ]
 }
