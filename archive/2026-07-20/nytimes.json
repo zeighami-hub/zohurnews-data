@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -50,6 +50,30 @@
       "pubDate": "Mon, 20 Jul 2026 00:37:49 +0000",
       "time": "۰۴:۰۷ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T01:05:18.056Z"
+    },
+    {
+      "id": "nytimes_c490ca0c42",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands",
+      "title_fa": "به روزرسانی زنده جنگ ایران: یک سرباز آمریکایی دیگر با گسترش جنگ کشته شد",
+      "lead": "پنتاگون اعلام کرد که یک سرباز آمریکایی در شمال عراق در حین خنثی‌سازی یک پهپاد ایرانی کشته شد. همچنین گزارش داد که \"بقایای ناشناس\" در اردن کشف شده است، جایی که یک حمله قبلی منجر به کشته شدن دو سرباز و ناپدید شدن یک نفر دیگر شده بود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 02:58:22 +0000",
+      "time": "۰۶:۲۸ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T03:19:49.718Z"
     }
   ]
 }
