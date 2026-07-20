@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "reuters",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "reuters_4",
@@ -182,6 +182,30 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-20T04:40:49.917Z"
+    },
+    {
+      "id": "reuters_153bc36901",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Dollar drifts as US-Iran conflict intensifies, Brent hits $90 - Reuters",
+      "title_fa": "دلار در پی تشدید درگیری آمریکا و ایران دچار نوسان شد، نفت برنت به ۹۰ دلار رسید",
+      "lead": "در حالی که درگیری میان آمریکا و ایران تشدید می‌شود، ارزش دلار نوساناتی را تجربه کرد. همزمان، قیمت نفت برنت به ۹۰ دلار رسید.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQUF3N3hrQll1dVJIZlhUcFFScG1rdm5iTEFqU28yVVZKOVdDN29mZFpTVjhQWE1qdVo1emx6WEk1Z0drMFNLLXp4X0pLSUtDZ1pWdHlPR0Q3b29TVlFnQXpncklqbDBHc3pDQW9SNXdlOFMzU2xKTXhQNnhMS05KaTlDSDl6Sk9DNXBIMnJsMWlydGpFLTBUbzVZbWt3US1sVWE5Y0docnJfMEtQdElvaQ?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sun, 19 Jul 2026 23:46:00 GMT",
+      "time": "۰۳:۱۶ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T06:06:39.506Z"
     }
   ]
 }
