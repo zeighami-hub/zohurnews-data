@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "reuters",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "reuters_4",
@@ -138,6 +138,50 @@
         "negative": 10
       },
       "analyzed_at": "2026-07-20T04:05:03.442Z"
+    },
+    {
+      "id": "reuters_13",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Gulf bourses retreat as US–Iran hostilities intensify - Reuters",
+      "title_fa": "عقب‌نشینی بورس‌های خلیج فارس با تشدید درگیری‌ها میان آمریکا و ایران",
+      "lead": "گزارش رویترز حاکی است که با تشدید درگیری‌ها میان آمریکا و ایران، بورس‌های کشورهای حاشیه خلیج فارس دچار عقب‌نشینی شده‌اند. این تحولات نشان‌دهنده تأثیرات تنش‌های ژئوپلیتیکی بر بازارهای مالی منطقه است.",
+      "category": "politics",
+      "region": "middle east",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTzIxWFlrMnEyMFZoNHBRTjFybFYyNWtmNktvMlRFaGM0X2RBeWNzZzhycWxlVl9rSTlpdnBGVzY2dlZzWkFGUThqbkZPQADDjO9o09QGkM88jK09GkF123o9Mkk093k09g3N4P988U8oE8U827364?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-20T04:40:49.917Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Trump could get a lesson on Iran from an unlikely source — emus - Reuters",
+      "title_fa": "ترامپ می‌تواند در مورد ایران از منبعی غیرمعمول — شترمرغ‌های استرالیایی — درس بگیرد",
+      "lead": "خبرگزاری رویترز گزارش داده است که دونالد ترامپ ممکن است درباره ایران از منبعی غیرمنتظره، یعنی شترمرغ‌های استرالیایی (emu)، درسی بیاموزد. این مقاله به مقایسه یا ارائه‌ی دیدگاهی جدید از طریق این موجودات می‌پردازد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjdTVU1SRUJFdUZKRS15aVpWZHc2MXNGU1ExNFUtcnY0S3NWbHNNOG83VGQ3c2hwTEdtRnV0Y2FyLTlBWXNuOHhwQ0d0RFZBb2J1VC1aZE95aURNWVNFTVpSdTJKMVlndXBTSVBGeVoxMTFsTDVJZ1lnRU5qdnZiWUluQmJSRElmNDBjblBJcFhtd2VSN1RZSHFMZE40c0o3QTFMQWFvMUFQT215STVuVEc5ZGxQSnJDbnN2Sg?oc=5",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-20T04:40:49.917Z"
     }
   ]
 }
