@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "rt",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "rt_b87f8dcf70",
@@ -266,6 +266,54 @@
       "pubDate": "Sun, 19 Jul 2026 17:29:30 +0000",
       "time": "۲۰:۵۹ - ۲۸ تیر",
       "analyzed_at": "2026-07-20T06:55:00.934Z"
+    },
+    {
+      "id": "rt_d666edf1e8",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Trump resorts to whataboutism after Iranian strike kills US troops",
+      "title_fa": "ترامپ پس از کشته شدن نیروهای آمریکایی در حمله ایران، به مقایسه با وقایع گذشته روی آورد",
+      "lead": "دونالد ترامپ، رئیس جمهور سابق آمریکا، انتقادات دموکرات‌ها درباره جنگ با ایران را رد کرده است. او در پاسخ به این انتقادات، به آمار بالاتر تلفات در جنگ‌های ویتنام و افغانستان اشاره کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643239-trump-iran-war-casualties-democrats-vietnam-afghanistan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 20:58:00 +0000",
+      "time": "۰۰:۲۸ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T10:14:10.686Z"
+    },
+    {
+      "id": "rt_ca0598ab89",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Four US service members killed in Iranian retaliatory strikes – Pentagon",
+      "title_fa": "پنتاگون: چهار نظامی آمریکایی در حملات تلافی‌جویانه ایران کشته شدند",
+      "lead": "پنتاگون اعلام کرد که چهار نظامی آمریکایی در حملات موشکی و پهپادی ایران به تاسیسات نظامی در اردن و عراق کشته شده‌اند. این حملات در واکنش به اقدامات قبلی صورت گرفته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/643205-two-us-service-members-killed-iranian-retaliatory-strikes-pentagon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sat, 18 Jul 2026 17:52:53 +0000",
+      "time": "۲۱:۲۲ - ۲۷ تیر",
+      "analyzed_at": "2026-07-20T10:14:10.686Z"
     }
   ]
 }
