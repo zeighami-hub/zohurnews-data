@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "dw",
-  "total": 21,
+  "total": 24,
   "articles": [
     {
       "id": "dw_7c39c0cfe5",
@@ -506,6 +506,78 @@
       "pubDate": "Sat, 18 Jul 2026 10:12:00 GMT",
       "time": "۱۳:۴۲ - ۲۷ تیر",
       "analyzed_at": "2026-07-19T14:45:25.284Z"
+    },
+    {
+      "id": "dw_cffbc6b89e",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Spain: Emergency crews battle wildfire north of Madrid",
+      "title_fa": "اسپانیا: خدمه اورژانس با آتش‌سوزی جنگلی در شمال مادرید مبارزه می‌کنند",
+      "lead": "در شمال مادرید، پایتخت اسپانیا، خدمه اورژانس در حال مبارزه با یک آتش‌سوزی جنگلی گسترده هستند. بیش از ۲۵ هواپیمای آتش‌نشان برای مهار این آتش که به مدت سه روز در مرکز اسپانیا شعله‌ور است، به کار گرفته شده‌اند.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/spain-emergency-crews-battle-wildfire-north-of-madrid/a-78026297?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sun, 19 Jul 2026 15:27:00 GMT",
+      "time": "۱۸:۵۷ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T16:00:22.541Z"
+    },
+    {
+      "id": "dw_635a48176e",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Andrew Tate, brother arrested in Miami, UK seeks extradition",
+      "title_fa": "اندرو تیت و برادرش در میامی دستگیر شدند، بریتانیا درخواست استرداد آنها را دارد",
+      "lead": "اندرو و تریستان تیت در میامی توسط سرویس مارشال‌های ایالات متحده با حکم مهر و موم شده بازداشت شدند. بریتانیا درخواست استرداد آنها را به اتهاماتی از جمله قاچاق انسان و تجاوز جنسی مطرح کرده است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/andrew-tate-brother-arrested-in-miami-uk-seeks-extradition/a-78022447?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Sun, 19 Jul 2026 00:14:00 GMT",
+      "time": "۰۳:۴۴ - ۲۸ تیر",
+      "analyzed_at": "2026-07-19T16:00:22.541Z"
+    },
+    {
+      "id": "dw_ec4d4b7100",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Germany news: Merz moots Cabinet reshuffle after Spahn exit",
+      "title_fa": "اخبار آلمان: مرز پس از خروج اشپان به تغییرات کابینه اشاره کرد",
+      "lead": "صدراعظم مرز اظهار داشته است که ممکن است از استعفای اجباری یک متحد ارشد به عنوان فرصتی برای ترمیم کابینه خود استفاده کند. همزمان، یک نگهبان امنیتی قطار در درگیری با یک مسافر به شدت مجروح شد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/germany-news-merz-moots-cabinet-reshuffle-after-spahn-exit/live-78016025?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 90,
+        "negative": 10
+      },
+      "pubDate": "Sat, 18 Jul 2026 06:46:00 GMT",
+      "time": "۱۰:۱۶ - ۲۷ تیر",
+      "analyzed_at": "2026-07-19T16:00:22.541Z"
     }
   ]
 }
