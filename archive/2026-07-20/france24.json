@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "france24",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "france24_3e5a742aa7",
@@ -410,6 +410,54 @@
       "pubDate": "Mon, 20 Jul 2026 07:01:11 GMT",
       "time": "۱۰:۳۱ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T07:55:19.392Z"
+    },
+    {
+      "id": "france24_e3e3c77e90",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Ukraine drone attack on Moscow region wounds 10 people",
+      "title_fa": "حمله پهپادی اوکراین به منطقه مسکو ۱۰ نفر را مجروح کرد",
+      "lead": "مقامات روسیه اعلام کردند که یک حمله پهپادی جدید اوکراین به منطقه مسکو در دوشنبه شب، حداقل ۱۰ نفر از جمله یک کودک را مجروح کرده است. رئیس‌جمهور اوکراین، ولودیمیر زلنسکی، اظهار داشت که این حملات یک انبار نفت و تاسیسات لجستیکی را هدف قرار داده بودند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/europe/20260720-ukraine-drone-attack-on-moscow-region-wounds-10-people",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 20 Jul 2026 08:45:10 GMT",
+      "time": "۱۲:۱۵ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T08:55:34.110Z"
+    },
+    {
+      "id": "france24_ffbcafaaf7",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Andy Burnham's promise to deliver tangible improvements to Britons' lives put to the test",
+      "title_fa": "وعده اندی برنهام برای بهبود ملموس زندگی بریتانیایی‌ها به بوته آزمایش گذاشته شد",
+      "lead": "اندی برنهام، شهردار سابق منچستر بزرگ، قرار است دوشنبه این هفته نخست‌وزیر جدید بریتانیا شود. او متعهد شده است که به بهبود استانداردهای زندگی در این کشور کمک کند، اما دستور کار این رهبر حزب کارگر توسط وضعیت مالی کشور مورد آزمایش قرار خواهد گرفت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/business/20260720-andy-burnham-s-promise-to-deliver-tangible-improvements-to-britons-lives-put-to-the-test",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Mon, 20 Jul 2026 08:29:09 GMT",
+      "time": "۱۱:۵۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T08:55:34.110Z"
     }
   ]
 }
