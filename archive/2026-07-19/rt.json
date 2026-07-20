@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "rt",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "rt_3c986c0206",
@@ -602,6 +602,30 @@
       "pubDate": "Sun, 19 Jul 2026 17:29:30 +0000",
       "time": "۲۰:۵۹ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T18:28:51.211Z"
+    },
+    {
+      "id": "rt_d666edf1e8",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Trump resorts to whataboutism after Iranian strike kills two US troops",
+      "title_fa": "ترامپ پس از حمله ایران که دو سرباز آمریکایی را کشت، به تاکتیک \"تو هم همینطور\" متوسل شد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، انتقادات دموکرات‌ها را درباره جنگ با ایران رد کرد. او در پاسخ به این انتقادات، به آمار بالاتر تلفات در جنگ‌های ویتنام و افغانستان اشاره کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643239-trump-iran-war-casualties-democrats-vietnam-afghanistan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sun, 19 Jul 2026 20:58:00 +0000",
+      "time": "۰۰:۲۸ - ۲۹ تیر",
+      "analyzed_at": "2026-07-19T21:07:39.102Z"
     }
   ]
 }
