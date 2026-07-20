@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -26,6 +26,30 @@
       "pubDate": "Sun, 19 Jul 2026 23:47:28 +0000",
       "time": "۰۳:۱۷ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T00:04:05.352Z"
+    },
+    {
+      "id": "nytimes_0287258f00",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Tears in Argentina for Lionel Messi’s ‘Last Tango’",
+      "title_fa": "اشک‌ها در آرژانتین برای «آخرین تانگو» لیونل مسی",
+      "lead": "با وجود آتش‌بازی و بمب‌های دودی، ملت آرژانتین پس از شکست لیونل مسی در آخرین جام جهانی احتمالی‌اش ناامید شد. این شکست برای ستاره فوتبال کشورشان باعث ناراحتی و سرخوردگی هواداران گردید.",
+      "category": "sports",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/americas/messi-argentina-buenos-aires-last-tango.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 00:37:49 +0000",
+      "time": "۰۴:۰۷ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T01:05:18.056Z"
     }
   ]
 }
