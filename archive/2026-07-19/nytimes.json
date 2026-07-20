@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
   "agencyId": "nytimes",
-  "total": 31,
+  "total": 32,
   "articles": [
     {
       "id": "nytimes_8f56282646",
@@ -746,6 +746,30 @@
       "pubDate": "Sun, 19 Jul 2026 20:08:03 +0000",
       "time": "۲۳:۳۸ - ۲۸ تیر",
       "analyzed_at": "2026-07-19T20:57:11.262Z"
+    },
+    {
+      "id": "nytimes_a1e6c1ef9b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Conversation with Zohran Mamdani",
+      "title_fa": "گفت‌وگو با زهران ممدانی",
+      "lead": "شهردار نیویورک در این گفت‌وگو درباره اندی برنهام، نتانیاهو و کارت قرمز جنجالی ایالات متحده صحبت می‌کند.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/zohran-mamdani-interview-world-cup-final.html",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 21:15:04 +0000",
+      "time": "۰۰:۴۵ - ۲۹ تیر",
+      "analyzed_at": "2026-07-19T21:19:29.930Z"
     }
   ]
 }
