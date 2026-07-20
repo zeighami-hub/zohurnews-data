@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -266,6 +266,78 @@
       "pubDate": "Sun, 19 Jul 2026 04:01:06 +0000",
       "time": "۰۷:۳۱ - ۲۸ تیر",
       "analyzed_at": "2026-07-20T06:55:00.934Z"
+    },
+    {
+      "id": "nytimes_f580ef8650",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Israel watches tensely as the U.S.-Iran fighting escalates.",
+      "title_fa": "اسرائیل با نگرانی شاهد تشدید درگیری‌ها میان آمریکا و ایران است.",
+      "lead": "در حالی که درگیری‌ها میان ایالات متحده و ایران تشدید می‌شود، اسرائیل این وضعیت را با نگرانی دنبال می‌کند. این موضوع نشان‌دهنده حساسیت وضعیت در منطقه خاورمیانه است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/israel-watches-tensely-as-the-fighting-between-us-and-iran-escalates",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Mon, 20 Jul 2026 02:42:47 +0000",
+      "time": "۰۶:۱۲ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T08:09:36.264Z"
+    },
+    {
+      "id": "nytimes_d415397b59",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Earthquake in Peru Kills 6 and Displaces Hundreds",
+      "title_fa": "زلزله در پرو ۶ کشته و صدها آواره برجای گذاشت.",
+      "lead": "زلزله‌ای به بزرگی ۵.۵ ریشتر در پرو ۶ کشته و صدها نفر آواره بر جای گذاشت. این زلزله بزرگترین مورد در مرکز این منطقه طی بیش از ۵۰ سال گذشته بوده است.",
+      "category": "disaster",
+      "region": "south_america",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/americas/peru-earthquake.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Sun, 19 Jul 2026 21:09:41 +0000",
+      "time": "۰۰:۳۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T08:09:36.264Z"
+    },
+    {
+      "id": "nytimes_f9efdec354",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The U.S. Is Sending More Warplanes to the Middle East, Officials Say",
+      "title_fa": "مقامات آمریکایی می‌گویند ایالات متحده در حال ارسال هواپیماهای جنگی بیشتری به خاورمیانه است.",
+      "lead": "به گفته مقامات آمریکایی، ایالات متحده در حال ارسال هواپیماهای جنگی بیشتری به منطقه خاورمیانه است. جت‌های F-16 و F-35 از اروپا به سمت این منطقه در حرکت هستند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/middleeast/us-warplanes-mideast-iran.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 16:50:55 +0000",
+      "time": "۲۰:۲۰ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T08:09:36.264Z"
     }
   ]
 }
