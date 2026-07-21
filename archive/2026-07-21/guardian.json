@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "guardian",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "guardian_9e2ea96b48",
@@ -98,6 +98,30 @@
       "pubDate": "Tue, 21 Jul 2026 04:55:37 GMT",
       "time": "۰۸:۲۵ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T05:38:50.663Z"
+    },
+    {
+      "id": "guardian_7d0202af18",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Disturbing parallels’: Holocaust survivors president says exclusion of Jews from public life similar to Nazi Germany",
+      "title_fa": "«شباهت‌های نگران‌کننده»: رئیس بازماندگان هولوکاست، کنار گذاشته شدن یهودیان از زندگی عمومی را شبیه آلمان نازی دانست",
+      "lead": "جورج فاستر، رئیس بازماندگان هولوکاست، در یک کمیسیون سلطنتی در استرالیا اظهار داشت که نهادهای دموکراتیک این کشور اساساً متفاوت هستند. با این حال، او نمی‌تواند شباهت‌های نگران‌کننده‌ای را در فضای اجتماعی فعلی با آلمان نازی، به ویژه در مورد کنار گذاشته شدن یهودیان از زندگی عمومی، نادیده بگیرد.",
+      "category": "society",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/21/holocaust-survivors-australia-exclusion-nazi-germany-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 05:57:55 GMT",
+      "time": "۰۹:۲۷ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T06:09:37.826Z"
     }
   ]
 }
