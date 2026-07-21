@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_2ab915cd19",
@@ -266,6 +266,54 @@
       "pubDate": "Mon, 20 Jul 2026 17:40:40 +0000",
       "time": "۲۱:۱۰ - ۲۹ تیر",
       "analyzed_at": "2026-07-21T08:41:40.865Z"
+    },
+    {
+      "id": "nytimes_20c0d068e8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+      "title_fa": "حوثی‌ها در یمن به ورود به جنگ آمریکا و ایران نزدیک‌تر می‌شوند",
+      "lead": "شبه‌نظامیان حوثی تحت حمایت ایران در یمن، محاصره دریای سرخ علیه عربستان سعودی را اعلام کرده‌اند. این اقدام می‌تواند جبهه جدیدی را در جنگ در حال گسترش در خاورمیانه بگشاید.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 21 Jul 2026 09:05:37 +0000",
+      "time": "۱۲:۳۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T09:59:31.040Z"
+    },
+    {
+      "id": "nytimes_fd4024a83c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Two Young Brothers and Their Search for Venezuela’s Dead",
+      "title_fa": "دو برادر جوان و جستجوی آنها برای یافتن جان‌باختگان ونزوئلا",
+      "lead": "ویندر و دیوی دلفین به مدت ۲۶ روز هر روز برای یافتن اجساد مادر، برادر و مادربزرگشان حفاری کردند. این گزارش به داستان این دو برادر و جستجویشان برای قربانیان می‌پردازد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 21 Jul 2026 09:02:56 +0000",
+      "time": "۱۲:۳۲ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T09:59:31.040Z"
     }
   ]
 }
