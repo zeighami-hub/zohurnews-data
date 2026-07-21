@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 39,
+  "total": 40,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -938,6 +938,30 @@
       "pubDate": "Mon, 20 Jul 2026 21:06:41 +0000",
       "time": "۰۰:۳۶ - ۳۰ تیر",
       "analyzed_at": "2026-07-20T21:23:57.618Z"
+    },
+    {
+      "id": "nytimes_08951220d9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Pope Leo Calls for Nuclear Disarmament in Latest Antiwar Message",
+      "title_fa": "پاپ لئو در جدیدترین پیام ضدجنگ خود خواستار خلع سلاح هسته‌ای شد",
+      "lead": "پاپ لئو در کتاب جدیدی که روز سه‌شنبه منتشر شد، اظهار داشت که رقابت برای کاهش تنش هسته‌ای \"توسط رقابت تسلیحاتی که امروز ترس و وحشت ایجاد می‌کند، پنهان شده است.\" او خواستار خلع سلاح هسته‌ای شد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/europe/pope-leo-nuclear-disarmament-anti-war-message.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 22:00:05 +0000",
+      "time": "۰۱:۳۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-20T22:06:19.281Z"
     }
   ]
 }
