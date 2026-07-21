@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "skynews_eb1113e186",
@@ -122,6 +122,54 @@
       "pubDate": "Tue, 21 Jul 2026 08:00:00 +0100",
       "time": "۱۰:۳۰ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T09:59:31.040Z"
+    },
+    {
+      "id": "skynews_714d4aa87c",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Rare Titanic letter written days before sinking to go on sale",
+      "title_fa": "نامه‌ای نادر از تایتانیک که چند روز قبل از غرق شدن نوشته شده، به حراج گذاشته می‌شود",
+      "lead": "یک نامه نادر از مسافران تایتانیک که چند روز پیش از غرق شدن کشتی نوشته شده بود، قرار است در حراج به فروش برسد. پیش‌بینی می‌شود این نامه تا ۳۵,۰۰۰ پوند ارزش داشته باشد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/rare-titanic-letter-written-days-before-sinking-to-go-on-sale-13565481",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 07:37:00 +0100",
+      "time": "۱۰:۰۷ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T10:28:03.177Z"
+    },
+    {
+      "id": "skynews_607370e6de",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Mexican drug lord sentenced to life in prison",
+      "title_fa": "رئیس مواد مخدر مکزیکی به حبس ابد محکوم شد",
+      "lead": "اسماعیل 'ال مایو' زامبادا، رئیس مواد مخدر مکزیکی که مواد را برای کارتل سینالوآ به آمریکا قاچاق می‌کرد، به حبس ابد محکوم شده است.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/mexican-drug-kingpin-ismael-el-mayo-zambada-sentenced-to-life-in-prison-13565339",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 16:30:00 +0100",
+      "time": "۱۹:۰۰ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T10:28:03.177Z"
     }
   ]
 }
