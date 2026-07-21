@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "dw",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "dw_707710a8ee",
@@ -50,6 +50,54 @@
       "pubDate": "Mon, 20 Jul 2026 11:37:00 GMT",
       "time": "۱۵:۰۷ - ۲۹ تیر",
       "analyzed_at": "2026-07-21T01:05:18.992Z"
+    },
+    {
+      "id": "dw_1f9fd76b5e",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Guyana: Dozens dead after ferry capsizes",
+      "title_fa": "گویان: ده‌ها کشته در پی واژگونی کشتی مسافربری",
+      "lead": "مقامات محلی اعلام کردند که پس از واژگونی یک کشتی مسافربری در روز شنبه، دست‌کم ۲۷ جسد پیدا شده است. نخست‌وزیر این کشور نیز اظهار داشت که ۸۳ نفر همچنان مفقود هستند.",
+      "category": "disaster",
+      "region": "Guyana",
+      "sourceUrl": "https://www.dw.com/en/guyana-dozens-dead-after-ferry-capsizes/a-78031852?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 20 Jul 2026 07:39:00 GMT",
+      "time": "۱۱:۰۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T05:05:29.026Z"
+    },
+    {
+      "id": "dw_c92702ddaf",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "England and Liverpool football legend Kevin Keegan dies aged 75",
+      "title_fa": "کوین کیگان، اسطوره فوتبال انگلیس و لیورپول، در ۷۵ سالگی درگذشت",
+      "lead": "کوین کیگان، مهاجم و مربی سابق انگلیسی و اسطوره فوتبال باشگاه لیورپول و تیم ملی انگلیس، در سن ۷۵ سالگی پس از مبارزه با سرطان درگذشت. او دو بار عنوان بهترین فوتبالیست سال اروپا را با تیم هامبورگ کسب کرده بود.",
+      "category": "sports",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/england-and-liverpool-football-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 20 Jul 2026 16:19:00 GMT",
+      "time": "۱۹:۴۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T04:37:18.084Z"
     }
   ]
 }
