@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "rt",
-  "total": 1,
+  "total": 4,
   "articles": [
     {
       "id": "rt_a7d2994ac6",
@@ -26,6 +26,78 @@
       "pubDate": "Mon, 20 Jul 2026 11:26:28 +0000",
       "time": "۱۴:۵۶ - ۲۹ تیر",
       "analyzed_at": "2026-07-21T00:03:53.445Z"
+    },
+    {
+      "id": "rt_a4fb528d0e",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "FBI chief plans Moscow trip – Politico",
+      "title_fa": "پالیتیکو: رئیس اف‌بی‌آی قصد سفر به مسکو را دارد",
+      "lead": "پالیتیکو روز دوشنبه گزارش داد که کش پاتل، رئیس اف‌بی‌آی، قصد دارد در ماه اکتبر به مسکو سفر کند. این سفر به عنوان یک دیدار مهم در روابط دوجانبه تلقی می‌شود.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643277-fbi-patel-russia-visit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 00:57:59 +0000",
+      "time": "۰۴:۲۷ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T01:05:18.992Z"
+    },
+    {
+      "id": "rt_00cf3cf67d",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "German energy crisis caused by ‘lack of Russian gas’ – Merz",
+      "title_fa": "بحران انرژی آلمان ناشی از «کمبود گاز روسیه» – مرتس",
+      "lead": "صدراعظم فریدریش مرتس اعتراف کرده است که قطع کردن واردات گاز از روسیه، بحران انرژی جاری در آلمان را به وجود آورده است.",
+      "category": "energy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643254-germany-crisis-russian-gas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Mon, 20 Jul 2026 12:09:14 +0000",
+      "time": "۱۵:۳۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T01:05:18.992Z"
+    },
+    {
+      "id": "rt_5552df3ee5",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Trump on stage for World Cup trophy presentation farce (VIDEOS)",
+      "title_fa": "ترامپ در مراسم اهدای جام جهانی فوتبال در یک «نمایش مضحک» حضور یافت (ویدئوها)",
+      "lead": "رئیس‌جمهور آمریکا، دونالد ترامپ، خود را در مراسم اهدای جوایز دخالت داد و شخصاً جام جهانی فیفا را به اسپانیا اهدا کرد.",
+      "category": "sports",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643242-spain-world-cup-trump/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Sun, 19 Jul 2026 23:23:01 +0000",
+      "time": "۰۲:۵۳ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T01:05:18.992Z"
     }
   ]
 }
