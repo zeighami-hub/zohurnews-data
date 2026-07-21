@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "independent",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "independent_b101beeb0b",
@@ -242,6 +242,54 @@
       "pubDate": "Tue, 21 Jul 2026 01:51:54 GMT",
       "time": "۰۵:۲۱ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T02:18:41.996Z"
+    },
+    {
+      "id": "independent_e399784f62",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Iran-US war latest: Trump says Tehran will pay ‘many times over’ for US soldier deaths as Iran targets Kuwait",
+      "title_fa": "تازه‌ترین اخبار از جنگ ایران و آمریکا: ترامپ می‌گوید تهران بابت کشته شدن سربازان آمریکایی 'چندین برابر' تاوان خواهد داد؛ ایران کویت را هدف قرار می‌دهد",
+      "lead": "قیمت نفت پس از آنکه ارتش ایران دو نفتکش را در تنگه هرمز هدف قرار داد، به بالای ۹۰ دلار در هر بشکه رسید.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-strait-hormuz-oil-crisis-b3017902.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 03:45:18 GMT",
+      "time": "۰۷:۱۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T03:49:31.170Z"
+    },
+    {
+      "id": "independent_be572ec099",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Dermatologists issue warning over viral ‘tanmaxxing’ trend",
+      "title_fa": "هشدار متخصصان پوست درباره ترند وایرال «تان‌مکسینگ»",
+      "lead": "«تان‌مکسینگ» که برداشتی از ترند خودبهبودی «لوکس‌مکسینگ» است، به معنای دستیابی به عمیق‌ترین برنزه شدن ممکن به هر وسیله‌ای است.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/life-style/tanmaxxing-what-sun-damage-dermatologists-warning-b3018526.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Tue, 21 Jul 2026 03:45:34 GMT",
+      "time": "۰۷:۱۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T03:49:31.170Z"
     }
   ]
 }
