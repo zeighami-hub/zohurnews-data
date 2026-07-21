@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "mehrnews",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "mehrnews_f56bb9425b",
@@ -98,6 +98,54 @@
       "pubDate": "Tue, 21 Jul 2026 04:00:36 GMT",
       "time": "۰۷:۳۰ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T04:04:13.201Z"
+    },
+    {
+      "id": "mehrnews_04b79332fc",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC strikes US air defence systems in Bahrain",
+      "title_fa": "سپاه پاسداران سامانه‌های پدافند هوایی آمریکا را در بحرین مورد حمله قرار داد",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که نیروهای هوافضای این سازمان روز سه‌شنبه سامانه‌های راداری و پدافند هوایی آمریکا را در سراسر بحرین مورد حمله قرار دادند. این حملات با هدف گشایش راه برای عملیات بزرگتر صورت گرفت.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://en.mehrnews.com/news/246389/IRGC-strikes-US-air-defence-systems-in-Bahrain",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 21 Jul 2026 04:47:59 GMT",
+      "time": "۰۸:۱۷ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T05:05:29.026Z"
+    },
+    {
+      "id": "mehrnews_a7d006ab5c",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran warns nuclear safety at risk after US strike",
+      "title_fa": "ایران نسبت به خطر امنیت هسته‌ای پس از حمله آمریکا هشدار داد",
+      "lead": "نماینده ایران در سازمان ملل متحد خواستار محکومیت صریح حمله موشکی آمریکا به نیروگاه هسته‌ای دارخوین که تحت پادمان آژانس بین‌المللی انرژی اتمی است، از سوی شورای امنیت و دبیرکل شد. ایران هشدار داده است که این حمله ایمنی هسته‌ای را به خطر می‌اندازد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246388/Iran-warns-nuclear-safety-at-risk-after-US-strike",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 21 Jul 2026 04:40:38 GMT",
+      "time": "۰۸:۱۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T04:52:30.129Z"
     }
   ]
 }
