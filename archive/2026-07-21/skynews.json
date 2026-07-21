@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "skynews_eb1113e186",
@@ -50,6 +50,30 @@
       "pubDate": "Tue, 21 Jul 2026 01:45:00 +0100",
       "time": "۰۴:۱۵ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T01:19:07.575Z"
+    },
+    {
+      "id": "skynews_69e3e1f8ca",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Russian warship carries out live-fire weapons exercise 46 miles off UK coast, MoD says",
+      "title_fa": "وزارت دفاع بریتانیا: ناو جنگی روسیه رزمایش آتش واقعی را در ۴۶ مایلی سواحل بریتانیا انجام داد",
+      "lead": "وزارت دفاع بریتانیا اعلام کرد که یک ناو جنگی روسی رزمایش نظامی با شلیک واقعی را در حدود ۴۰ مایل دریایی (۴۶ مایل) از سواحل این کشور انجام داده است. این اقدام نشان‌دهنده فعالیت‌های نظامی روسیه در نزدیکی قلمرو بریتانیا است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/russian-warship-carries-out-live-fire-weapons-exercise-46-miles-off-uk-coast-mod-says-13561289",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 06:10:00 +0100",
+      "time": "۰۸:۴۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T06:53:48.725Z"
     }
   ]
 }
