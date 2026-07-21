@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "bbc",
-  "total": 15,
+  "total": 19,
   "articles": [
     {
       "id": "bbc_20e65dde04",
@@ -362,6 +362,100 @@
       "pubDate": "Mon, 20 Jul 2026 14:02:31 GMT",
       "time": "۱۷:۳۲ - ۲۹ تیر",
       "analyzed_at": "2026-07-21T10:28:03.177Z"
+    },
+    {
+      "id": "bbc_63d3b1cc0c",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "title_fa": "آمریکا حملات جدیدی به ایران انجام داد؛ ترامپ درباره تلافی بابت کشته شدن سربازان هشدار داد",
+      "lead": "ایران اعلام کرد که به دو کشتی در تنگه هرمز و همچنین اهدافی در بحرین و اردن حمله کرده است.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 21 Jul 2026 09:48:20 GMT",
+      "time": "۱۳:۱۸ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T11:29:49.626Z"
+    },
+    {
+      "id": "bbc_725d02902b",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "title_fa": "ارتش لبنان می‌گوید نیروها پس از خروج اسرائیل در 'منطقه آزمایشی' مستقر می‌شوند",
+      "lead": "ارتش لبنان اعلام کرده است که نیروهایش پس از عقب‌نشینی اسرائیل در یک «منطقه آزمایشی» مستقر می‌شوند. یک توافق با میانجیگری آمریکا امکان خروج نیروهای اسرائیلی از بخش کوچکی از لبنان را فراهم می‌کند که در طول درگیری آنها با حزب‌الله اشغال شده بود. این اقدام با هدف اجرای مفاد توافق اخیر صورت می‌گیرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "neutral": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 10:43:48 GMT",
+      "time": "۱۴:۱۳ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T11:29:49.626Z"
+    },
+    {
+      "id": "bbc_64d986ad58",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "title_fa": "ترامپ تعرفه ۵۰ درصدی بر کانادا اعمال کرد و کارنی قول «تشدید» مذاکرات تجاری را داد",
+      "lead": "این عوارض نشانه تشدید بزرگ تنش‌های تجاری بین همسایگان آمریکای شمالی است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Tue, 21 Jul 2026 09:16:21 GMT",
+      "time": "۱۲:۴۶ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T11:29:49.626Z"
+    },
+    {
+      "id": "bbc_087aaefa76",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
+      "title_fa": "جی‌دی ونس پس از تولد چهارمین فرزندش می‌گوید همسرش اوشا و پسرشان «خوشحال و سالم» هستند",
+      "lead": "این زوج روز یکشنبه از تولد چهارمین فرزندشان، الک نیل ونس، استقبال کردند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 11:28:30 GMT",
+      "time": "۱۴:۵۸ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T11:29:49.626Z"
     }
   ]
 }
