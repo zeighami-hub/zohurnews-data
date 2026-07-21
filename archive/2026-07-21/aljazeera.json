@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "aljazeera",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "aljazeera_a2d0729320",
@@ -146,6 +146,30 @@
       "pubDate": "Tue, 21 Jul 2026 01:27:56 +0000",
       "time": "۰۴:۵۷ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T01:49:09.936Z"
+    },
+    {
+      "id": "aljazeera_fc3a4bb6ac",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny",
+      "title_fa": "گویان پس از فاجعه کشتی، ۲۷ جسد را پیدا کرد؛ خدمه تحت بازجویی",
+      "lead": "گویان ۲۷ جسد را پس از فاجعه کشتی پیدا کرده است، در حالی که خدمه کشتی تحت بازجویی قرار گرفته‌اند. مقامات، اعضای خدمه را پس از آزمایش‌های مواد مخدر که نشان‌دهنده تخلفاتی بود، بازداشت کردند. این بدترین فاجعه دریایی گویان در دهه‌های اخیر است.",
+      "category": "disaster",
+      "region": "south_america",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/21/guyana-recovers-27-bodies-after-ferry-disaster-as-crew-comes-under-scrutiny?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 21 Jul 2026 01:47:30 +0000",
+      "time": "۰۵:۱۷ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T02:18:41.996Z"
     }
   ]
 }
