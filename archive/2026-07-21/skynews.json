@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_eb1113e186",
@@ -74,6 +74,54 @@
       "pubDate": "Tue, 21 Jul 2026 06:10:00 +0100",
       "time": "۰۸:۴۰ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T06:53:48.725Z"
+    },
+    {
+      "id": "skynews_4296629155",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Family of six killed in Gaza in Israeli airstrike",
+      "title_fa": "کشته شدن خانواده‌ای شش نفره در غزه در حمله هوایی اسرائیل",
+      "lead": "یک خانواده شش نفره در نوار غزه بر اثر حمله هوایی اسرائیل کشته شدند. این حمله هوایی منجر به کشته شدن تمامی اعضای این خانواده شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/family-of-six-killed-in-gaza-in-israeli-airstrike-13565495",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 08:33:00 +0100",
+      "time": "۱۱:۰۳ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T09:59:31.040Z"
+    },
+    {
+      "id": "skynews_5929a13680",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Anti-police protests in Italy after Moroccan man dies during arrest",
+      "title_fa": "اعتراضات ضد پلیس در ایتالیا پس از مرگ مرد مراکشی حین بازداشت",
+      "lead": "معترضان در ایتالیا پس از مرگ یک مرد مراکشی با پلیس درگیر شده‌اند. این مرد پس از آن درگذشت که افسران پلیس او را روی زمین مهار کرده بودند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/anti-police-protests-erupt-in-bologna-after-moroccan-man-dies-during-arrest-13565485",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 21 Jul 2026 08:00:00 +0100",
+      "time": "۱۰:۳۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T09:59:31.040Z"
     }
   ]
 }
