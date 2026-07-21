@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 4,
   "articles": [
     {
       "id": "aljazeera_a2d0729320",
@@ -26,6 +26,78 @@
       "pubDate": "Mon, 20 Jul 2026 23:41:28 +0000",
       "time": "۰۳:۱۱ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T00:03:53.445Z"
+    },
+    {
+      "id": "aljazeera_b718bc7551",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran war live: US launches 10th night of strikes; Tehran attacks Kuwait",
+      "title_fa": "جنگ ایران زنده: آمریکا برای دهمین شب متوالی حملاتی را آغاز می‌کند؛ تهران به کویت حمله می‌کند",
+      "lead": "با آغاز موج جدید حملات آمریکا، انفجارهایی در بندرعباس، جزیره قشم، چابهار و کنارک ایران گزارش شده است. این حملات در حالی صورت می‌گیرد که آمریکا برای دهمین شب متوالی به ایران حمله کرده و تهران نیز به کویت حمله کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000",
+      "time": "۰۳:۳۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T00:33:46.551Z"
+    },
+    {
+      "id": "aljazeera_454aa601ba",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US attacks Iran for tenth consecutive night",
+      "title_fa": "آمریکا برای دهمین شب متوالی به ایران حمله می‌کند",
+      "lead": "واشنگتن قول انتقام برای تلفات نظامی آمریکا را داده است. در همین حال، ایران نیز ادعای حملاتی به مواضع آمریکا در سراسر منطقه را مطرح کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 21 Jul 2026 00:06:33 +0000",
+      "time": "۰۳:۳۶ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T00:33:46.551Z"
+    },
+    {
+      "id": "aljazeera_63af99cae1",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
+      "title_fa": "ترامپ با استناد به تبعیض، تعرفه ۵۰ درصدی آمریکا را بر برخی کالاهای کانادایی اعمال کرد",
+      "lead": "ترامپ تعرفه‌های ۵۰ درصدی را بر کالاهای کانادایی از جمله شراب، چوب هاکی و سیمان اعمال کرده است. این اقدام نگرانی‌ها را در مورد تشدید تنش‌های تجاری بین دو کشور برانگیخته است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Tue, 21 Jul 2026 00:08:50 +0000",
+      "time": "۰۳:۳۸ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T00:33:46.551Z"
     }
   ]
 }
