@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "skynews",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "skynews_eb1113e186",
@@ -170,6 +170,30 @@
       "pubDate": "Mon, 20 Jul 2026 16:30:00 +0100",
       "time": "۱۹:۰۰ - ۲۹ تیر",
       "analyzed_at": "2026-07-21T10:28:03.177Z"
+    },
+    {
+      "id": "skynews_adf9ec2f2b",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Ebola outbreak fastest growing epidemic on record as deaths rise again",
+      "title_fa": "شیوع ابولا با افزایش دوباره مرگ و میر، سریع‌ترین همه‌گیری در تاریخ است",
+      "lead": "وزارت بهداشت جمهوری دموکراتیک کنگو اعلام کرد که شیوع ابولا در این کشور تاکنون ۹۳۰ قربانی گرفته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/ebola-deaths-in-dr-congo-rise-to-930-amid-attacks-on-health-workers-13565139",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 08:31:00 +0100",
+      "time": "۱۱:۰۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T11:29:49.626Z"
     }
   ]
 }
