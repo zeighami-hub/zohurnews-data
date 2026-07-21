@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "reuters",
-  "total": 39,
+  "total": 41,
   "articles": [
     {
       "id": "reuters_4",
@@ -896,6 +896,50 @@
       "pubDate": "Mon, 20 Jul 2026 15:07:30 GMT",
       "time": "۱۸:۳۷ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T21:03:22.302Z"
+    },
+    {
+      "id": "reuters_11",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil transfer activity in Gulf of Oman slows following ship attacks, data shows - Reuters",
+      "title_fa": "داده‌ها نشان می‌دهد: کند شدن فعالیت انتقال نفت در دریای عمان پس از حملات به کشتی‌ها",
+      "lead": "بر اساس داده‌های جدید، فعالیت‌های انتقال نفت در دریای عمان کاهش یافته است. این کاهش پس از حملات اخیر به کشتی‌ها در این منطقه مشاهده می‌شود.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTjdOQ0VEdWhBRUFmcmNoYWRBcTFINWs0UUxSdFQzNkg4N2Z5WTFGcHYtWmJ3aXlZeFF6VFp6SFJFVFhBU1JrcmpGdTdLWUtWRlhMeDNsdTdKblVwVmYtcWFhdG5TWEpxRFNrRDROS01aOUw4TjZWTXZibUxuMlpydEpIMEoxS19CR1BManItdl9haFg0WWcxODlLSK7Y2xpdmluOUplYkhOeGtkMXo0emhwVWdWanRwOXA4cExNdUk?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-20T21:23:57.618Z"
+    },
+    {
+      "id": "reuters_12",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil settles 1% higher as hopes of renewed US-Iran negotiations offset Houthi threat - Reuters",
+      "title_fa": "قیمت نفت ۱ درصد افزایش یافت؛ امید به مذاکرات جدید آمریکا و ایران تهدید حوثی‌ها را خنثی کرد",
+      "lead": "قیمت نفت با امیدواری به از سرگیری مذاکرات بین آمریکا و ایران، ۱ درصد افزایش یافت. این امیدواری توانست تا حدودی تهدیدات حوثی‌ها را در بازار نفت خنثی کند.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxMbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnWjlBSGFUUU43YlE?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-20T21:23:57.618Z"
     }
   ]
 }
