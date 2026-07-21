@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "france24",
-  "total": 9,
+  "total": 13,
   "articles": [
     {
       "id": "france24_9f68d62340",
@@ -218,6 +218,102 @@
       "pubDate": "Tue, 21 Jul 2026 07:40:25 GMT",
       "time": "۱۱:۱۰ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T07:53:45.142Z"
+    },
+    {
+      "id": "france24_93b160ae35",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Two French diplomats subjected to ‘extremely serious act of intimidation’ in Iran, FM Barrot says",
+      "title_fa": "وزیر خارجه فرانسه: دو دیپلمات فرانسوی در ایران تحت \"اقدام ارعاب‌آمیز بسیار جدی\" قرار گرفتند",
+      "lead": "ژان-نوئل بارو، وزیر امور خارجه فرانسه، روز دوشنبه اعلام کرد که دو مقام سفارت فرانسه یک روز قبل در ایران مورد \"اقدام ارعاب‌آمیز بسیار جدی\" از سوی سرویس‌های امنیتی ایران قرار گرفته‌اند. این دیپلمات‌ها ساعت‌ها بازداشت و بازجویی شده بودند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/france/20260720-two-french-diplomats-subjected-extremely-serious-intimidation-iran-fm-says",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 20 Jul 2026 16:14:22 GMT",
+      "time": "۱۹:۴۴ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T08:41:40.865Z"
+    },
+    {
+      "id": "france24_b34c2ed2de",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Senegal changes course to back ex-leader Macky Sall as UN chief",
+      "title_fa": "سنگال مسیر خود را تغییر داد تا از مکی سال، رهبر سابق، برای ریاست سازمان ملل حمایت کند",
+      "lead": "دولت سنگال روز دوشنبه با تغییر رویکرد، حمایت خود را از نامزدی مکی سال، رئیس‌جمهور سابق این کشور، برای جانشینی آنتونیو گوترش به عنوان دبیرکل سازمان ملل اعلام کرد. دولت پیشتر از حمایت او خودداری کرده بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/africa/20260720-senegal-changes-course-to-back-former-leader-macky-sall-for-un-chief",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 19:39:43 GMT",
+      "time": "۲۳:۰۹ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T08:41:40.865Z"
+    },
+    {
+      "id": "france24_3d4e001c14",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "'Labour thinks it has responsibility to prevent the rise of Reform UK', historian says",
+      "title_fa": "مورخ می‌گوید: «حزب کارگر فکر می‌کند مسئولیت جلوگیری از ظهور حزب اصلاحات بریتانیا را دارد»",
+      "lead": "مارتین فار، مدرس ارشد تاریخ معاصر بریتانیا در دانشگاه نیوکاسل، توضیح می‌دهد که اعضای حزب کارگر و نمایندگان پارلمان آن فکر می‌کنند مسئولیت جلوگیری از به قدرت رسیدن حزب اصلاحات بریتانیا را بر عهده دارند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/labour-thinks-it-has-responsibility-to-prevent-the-rise-of-reform-uk-historian-says",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 18:47:30 GMT",
+      "time": "۲۲:۱۷ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T08:41:40.865Z"
+    },
+    {
+      "id": "france24_a38cb61c6e",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Mary Honeyball praises forward-looking PM 'prepared to inject some optimism' into United Kingdom",
+      "title_fa": "مری هانی‌بال از نخست‌وزیر آینده‌نگر «آماده برای تزریق خوش‌بینی» به بریتانیا تمجید می‌کند",
+      "lead": "مری هانی‌بال، عضو سابق پارلمان اروپا، ارزیابی محتاطانه و خوش‌بینانه‌ای از روی کار آمدن اندی برنهام به عنوان نخست‌وزیر جدید بریتانیا ارائه می‌دهد. او نخست‌وزیر را فردی آینده‌نگر می‌داند که آماده است تا خوش‌بینی را به کشور تزریق کند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/mary-honeyball-praises-forward-looking-pm-prepared-to-inject-some-optimism-into-united-kingdom",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 17:26:28 GMT",
+      "time": "۲۰:۵۶ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T08:41:40.865Z"
     }
   ]
 }
