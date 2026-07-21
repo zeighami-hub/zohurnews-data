@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "mehrnews",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "mehrnews_f56bb9425b",
@@ -530,6 +530,54 @@
       "pubDate": "Tue, 21 Jul 2026 08:29:01 GMT",
       "time": "۱۱:۵۹ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T08:41:40.865Z"
+    },
+    {
+      "id": "mehrnews_2f8524f702",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran calls on IAEA action after US attack on Karun NPP",
+      "title_fa": "ایران پس از حمله آمریکا به نیروگاه هسته‌ای کارون، خواستار اقدام آژانس بین‌المللی انرژی اتمی شد",
+      "lead": "نمایندگی دائم ایران در سازمان ملل و سازمان‌های بین‌المللی در وین از آژانس بین‌المللی انرژی اتمی (IAEA) خواست تا اقدامات لازم را انجام دهد. این درخواست پس از حمله موشکی آمریکا به نیروگاه هسته‌ای کارون مطرح شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246401/Iran-calls-on-IAEA-action-after-US-attack-on-Karun-NPP",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Tue, 21 Jul 2026 08:49:25 GMT",
+      "time": "۱۲:۱۹ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T09:59:31.040Z"
+    },
+    {
+      "id": "mehrnews_9df1142b8e",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Russia expels Italian military attache in retaliatory move",
+      "title_fa": "روسیه وابسته نظامی ایتالیا را در اقدامی تلافی‌جویانه اخراج کرد",
+      "lead": "مسکو وابسته نظامی ایتالیا و دستیار او را در پاسخ به اقدامات رم اخراج کرد. این اقدام در تاریخ 20 جولای انجام شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://en.mehrnews.com/news/246404/Russia-expels-Italian-military-attache-in-retaliatory-move",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 21 Jul 2026 09:31:19 GMT",
+      "time": "۱۳:۰۱ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T09:59:31.040Z"
     }
   ]
 }
