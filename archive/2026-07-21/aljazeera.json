@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "aljazeera",
-  "total": 7,
+  "total": 10,
   "articles": [
     {
       "id": "aljazeera_a2d0729320",
@@ -170,6 +170,78 @@
       "pubDate": "Tue, 21 Jul 2026 01:47:30 +0000",
       "time": "۰۵:۱۷ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T02:18:41.996Z"
+    },
+    {
+      "id": "aljazeera_30ba763dce",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US military releases footage of tenth consecutive night of strikes on Iran",
+      "title_fa": "ارتش آمریکا تصاویر دهمین شب متوالی حملات به ایران را منتشر کرد",
+      "lead": "فرماندهی مرکزی ایالات متحده (سنتکام) تصاویر مربوط به جدیدترین دور حملات نیروهای خود علیه ایران را منتشر کرده است. این حملات برای دهمین شب متوالی صورت گرفته‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 21 Jul 2026 03:15:23 +0000",
+      "time": "۰۶:۴۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T03:34:46.150Z"
+    },
+    {
+      "id": "aljazeera_e38a6bb1dd",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Spain’s World Cup heroes welcomed by millions in Madrid",
+      "title_fa": "استقبال میلیون‌ها نفر در مادرید از قهرمانان جام جهانی اسپانیا",
+      "lead": "میلیون‌ها نفر از مردم مادرید به خیابان‌ها آمدند تا از تیم ملی اسپانیا، ملقب به \"لا روخا\"، استقبال کنند. این جشن به مناسبت بازگشت بازیکنان پس از قهرمانی در جام جهانی برگزار شد و بیش از نیمی از جمعیت شهر در آن حضور داشتند.",
+      "category": "sports",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 03:16:56 +0000",
+      "time": "۰۶:۴۶ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T03:34:46.150Z"
+    },
+    {
+      "id": "aljazeera_56213884eb",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea, and why?",
+      "title_fa": "چه کسی دیپلماسی را در شاخ آفریقا و دریای سرخ هدایت می‌کند و چرا؟",
+      "lead": "مجموعه‌ای از رایزنی‌های دیپلماتیک در قاهره بر اهمیت استراتژیک فزاینده شاخ آفریقا تأکید می‌کند.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 02:52:44 +0000",
+      "time": "۰۶:۲۲ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T03:34:46.150Z"
     }
   ]
 }
