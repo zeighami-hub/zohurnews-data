@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "skynews",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "skynews_967005da84",
@@ -146,6 +146,30 @@
       "pubDate": "Fri, 17 Jul 2026 14:00:00 +0100",
       "time": "۱۶:۳۰ - ۲۶ تیر",
       "analyzed_at": "2026-07-20T21:03:22.302Z"
+    },
+    {
+      "id": "skynews_59a7a04ae4",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Trump slaps more tariffs on Canada over 'discrimination'",
+      "title_fa": "ترامپ تعرفه‌های بیشتری بر کانادا اعمال کرد؛ علت: «تبعیض»",
+      "lead": "دولت ترامپ تعرفه‌های ۵۰ درصدی جدیدی را بر کالاهای بیشتری از کانادا اعمال کرده است. یک مقام رسمی ادعا کرده که این اقدامات در پاسخ به «تبعیض مستمر» این کشور صورت گرفته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/trump-administration-imposes-50-tariffs-on-canadian-goods-over-continued-discrimination-13565443",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 22:32:00 +0100",
+      "time": "۰۱:۰۲ - ۳۰ تیر",
+      "analyzed_at": "2026-07-20T23:48:52.435Z"
     }
   ]
 }
