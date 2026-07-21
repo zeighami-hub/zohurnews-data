@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "mehrnews",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "mehrnews_f56bb9425b",
@@ -338,6 +338,54 @@
       "pubDate": "Tue, 21 Jul 2026 07:18:16 GMT",
       "time": "۱۰:۴۸ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T07:39:12.228Z"
+    },
+    {
+      "id": "mehrnews_cebcd6ff28",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Lebanese troops deploy to south following Israeli pull-out",
+      "title_fa": "استقرار نیروهای لبنانی در جنوب پس از خروج اسرائیل",
+      "lead": "ارتش لبنان اعلام کرد که سربازانش در شهرک زوطر الغربیه در جنوب مستقر شده‌اند. این استقرار به دنبال عقب‌نشینی نیروهای اسرائیلی از این منطقه و در چارچوب توافقی با میانجی‌گری آمریکا صورت گرفته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246399/Lebanese-troops-deploy-to-south-following-Israeli-pull-out",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 08:00:00 GMT",
+      "time": "۱۱:۳۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T08:27:43.162Z"
+    },
+    {
+      "id": "mehrnews_9f80607e1a",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Enemy committed to no principles, rules of human rights: spox",
+      "title_fa": "سخنگو: دشمن به هیچ اصول و قواعد حقوق بشر پایبند نیست",
+      "lead": "سخنگوی شورای نگهبان اظهار داشت که دشمنان نشان داده‌اند به هیچ اصول و قواعد اساسی حقوق بشر پایبند نیستند. این اظهارات در واکنش به تحولات جاری و مواضع بین‌المللی مطرح شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246398/Enemy-committed-to-no-principles-rules-of-human-rights-spox",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 21 Jul 2026 07:55:35 GMT",
+      "time": "۱۱:۲۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T08:27:43.162Z"
     }
   ]
 }
