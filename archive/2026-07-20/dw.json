@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "dw",
-  "total": 38,
+  "total": 39,
   "articles": [
     {
       "id": "dw_5748430ce8",
@@ -914,6 +914,28 @@
       "pubDate": "Mon, 20 Jul 2026 20:46:00 GMT",
       "time": "۰۰:۱۶ - ۳۰ تیر",
       "analyzed_at": "2026-07-20T21:23:57.618Z"
+    },
+    {
+      "id": "dw_1",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "US imposes new 50% tariff on many Canadian goods",
+      "title_fa": "آمریکا تعرفه جدید ۵۰ درصدی بر بسیاری از کالاهای کانادایی وضع کرد",
+      "lead": "این اقدام آخرین تشدید تنش‌های تجاری بین آمریکا و همسایه شمالی آن تحت دولت ترامپ است. تعرفه جدید ۵۰ درصدی بر بسیاری از کالاهای کانادایی اعمال شده است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.dw.com/en/us-imposes-new-50-tariff-on-many-Canadian-goods/a-78042667?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-20T21:34:27.518Z"
     }
   ]
 }
