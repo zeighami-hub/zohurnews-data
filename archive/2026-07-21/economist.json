@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "economist",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "economist_d3549f6266",
@@ -146,6 +146,54 @@
       "pubDate": "Tue, 09 Jun 2026 17:54:12 +0000",
       "time": "۲۱:۲۴ - ۱۹ خرداد",
       "analyzed_at": "2026-07-21T01:05:18.992Z"
+    },
+    {
+      "id": "economist_6b5e5ab57e",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "When China’s open-source AI is a trap",
+      "title_fa": "وقتی هوش مصنوعی منبع‌باز چین یک تله است",
+      "lead": "این مقاله استدلال می‌کند که تلاش آمریکا برای سلطه بر هوش مصنوعی نگران‌کننده است. با این حال، نویسنده هشدار می‌دهد که چین نیز راه‌حل نیست و ممکن است هوش مصنوعی منبع‌باز این کشور یک تله محسوب شود.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Tue, 14 Jul 2026 20:17:29 +0000",
+      "time": "۲۳:۴۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-21T10:28:03.177Z"
+    },
+    {
+      "id": "economist_7e26f05de5",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "The War Room newsletter: When war becomes a political aesthetic",
+      "title_fa": "خبرنامه اتاق جنگ: وقتی جنگ به یک زیبایی‌شناسی سیاسی تبدیل می‌شود",
+      "lead": "شانک جوشی، سردبیر دفاعی اکونومیست، در این مقاله بررسی می‌کند که چرا درگیری‌ها «جاذبه‌ای عجیب» دارند. او به تحلیل این موضوع می‌پردازد که چگونه جنگ می‌تواند به یک زیبایی‌شناسی سیاسی تبدیل شود.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.economist.com/international/2026/06/08/the-war-room-newsletter-when-war-becomes-a-political-aesthetic",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 08 Jun 2026 16:28:40 +0000",
+      "time": "۱۹:۵۸ - ۱۸ خرداد",
+      "analyzed_at": "2026-07-21T10:28:03.177Z"
     }
   ]
 }
