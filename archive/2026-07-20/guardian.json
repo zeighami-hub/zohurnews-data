@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "guardian",
-  "total": 33,
+  "total": 34,
   "articles": [
     {
       "id": "guardian_94b3e7c735",
@@ -794,6 +794,30 @@
       "pubDate": "Mon, 20 Jul 2026 21:30:41 GMT",
       "time": "۰۱:۰۰ - ۳۰ تیر",
       "analyzed_at": "2026-07-20T22:06:19.281Z"
+    },
+    {
+      "id": "guardian_4c701e54ec",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘Front groups and fellow travelers’: state department attacks US left over Cuba",
+      "title_fa": "\"گروه‌های پوششی و همسفران\": وزارت خارجه آمریکا به چپ‌گرایان این کشور بر سر کوبا حمله می‌کند",
+      "lead": "گزارش جدیدی از وزارت خارجه آمریکا دولت هاوانا را محکوم کرده و ادعا می‌کند که \"کارزار خرابکاری\" به بالاترین سطوح دولت آمریکا نفوذ کرده است. این گزارش بخشی از حمله دولت ترامپ به گروه‌های چپ‌گرا تلقی می‌شود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/20/us-state-department-list-leftists-cuba",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 20 Jul 2026 22:50:46 GMT",
+      "time": "۰۲:۲۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-20T23:04:07.124Z"
     }
   ]
 }
