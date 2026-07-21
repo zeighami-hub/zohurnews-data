@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "foreignpolicy",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "foreignpolicy_9a2f9377bc",
@@ -216,6 +216,54 @@
       "pubDate": "Tue, 21 Jul 2026 04:01:17 +0000",
       "time": "۰۷:۳۱ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T04:52:30.129Z"
+    },
+    {
+      "id": "foreignpolicy_4e9a9260f8",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "The Slow Death of the Global Commons",
+      "title_fa": "مرگ تدریجی \"مشاعات جهانی\"",
+      "lead": "این مقاله به مفهوم \"مشاعات جهانی\" و چالش‌های آن می‌پردازد. اشاره شده است که وضعیت تنگه هرمز، نشانه‌ای از مشکلات و وقایع ناگوارتر در آینده خواهد بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/20/trump-hormuz-iran-global-commons-fonops/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 17:51:53 +0000",
+      "time": "۲۱:۲۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T08:41:40.865Z"
+    },
+    {
+      "id": "foreignpolicy_abab682412",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Suwayda’s Struggle",
+      "title_fa": "کشمکش سویدا",
+      "lead": "در منطقه سویدا، دروزی‌های سوریه میان حمایت اسرائیل و حاکمیت دمشق گرفتار شده‌اند. این وضعیت نشان‌دهنده چالش‌های پیچیده سیاسی و هویتی در این منطقه است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/20/suwayda-druze-syria-israel-sharaa-damascus/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 16:51:41 +0000",
+      "time": "۲۰:۲۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T08:41:40.865Z"
     }
   ]
 }
