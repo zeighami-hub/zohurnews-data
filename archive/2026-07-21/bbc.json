@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "bbc",
-  "total": 7,
+  "total": 11,
   "articles": [
     {
       "id": "bbc_20e65dde04",
@@ -170,6 +170,102 @@
       "pubDate": "Tue, 21 Jul 2026 02:16:05 GMT",
       "time": "۰۵:۴۶ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T08:27:43.162Z"
+    },
+    {
+      "id": "bbc_df268b8898",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+      "title_fa": "کاهش سود رایان‌ایر به دلیل جنگ ایران؛ مسافران کاهش یافته و هزینه‌های سوخت افزایش یافته است",
+      "lead": "شرکت هواپیمایی ایرلندی رایان‌ایر اعلام کرد که سود این شرکت به دلیل جنگ در ایران و افزایش قیمت سوخت کاهش یافته است. این وضعیت باعث شده تا تعداد مسافران کمتر شود و قیمت نفت برنت نیز از ۹۰ دلار فراتر رود.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 20 Jul 2026 10:12:36 GMT",
+      "time": "۱۳:۴۲ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T08:41:40.865Z"
+    },
+    {
+      "id": "bbc_446c6b5e11",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+      "title_fa": "حوثی‌های یمن \"تحریم دریایی\" علیه عربستان سعودی را اعلام کردند",
+      "lead": "حوثی‌ها در یمن اعلام کرده‌اند که \"تحریم دریایی\" علیه عربستان سعودی را اعمال خواهند کرد. آنها می‌گویند این تحریم فوراً آغاز می‌شود و پاسخی به محاصره بنادر و فرودگاه‌های یمن توسط عربستان است.",
+      "category": "conflict",
+      "region": "middle_east",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 21:30:19 GMT",
+      "time": "۰۱:۰۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T08:41:40.865Z"
+    },
+    {
+      "id": "bbc_f36ae546a1",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+      "title_fa": "اسماعیل زامبادا، رهبر بدنام کارتل مواد مخدر، به حبس ابد در زندان آمریکا محکوم شد",
+      "lead": "اسماعیل زامبادا، معروف به \"ال مایو\" و یکی از بنیان‌گذاران کارتل سینالوآ، به حبس ابد در زندان ایالات متحده محکوم شد. او پس از اعتراف به ارسال مقادیر زیادی مواد مخدر به آمریکا، همچنین به پرداخت ۱۵ میلیارد دلار جریمه محکوم گردید.",
+      "category": "crime",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Mon, 20 Jul 2026 21:03:24 GMT",
+      "time": "۰۰:۳۳ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T08:41:40.865Z"
+    },
+    {
+      "id": "bbc_29a8e4bd4b",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+      "title_fa": "پلیس هزاران معترض «سوسک» را که به سمت پارلمان هند راهپیمایی می‌کردند، متوقف کرد",
+      "lead": "پلیس هند هزاران معترض را که به سمت پارلمان این کشور راهپیمایی می‌کردند، متوقف کرده است. برخی از معترضان که خواستار اصلاحات آموزشی بودند، اعلام کردند در درگیری با پلیس که راهپیمایی را ممنوع کرده بود، مجروح شده‌اند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 16:26:40 GMT",
+      "time": "۱۹:۵۶ - ۲۹ تیر",
+      "analyzed_at": "2026-07-21T08:41:40.865Z"
     }
   ]
 }
