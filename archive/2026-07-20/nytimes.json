@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 38,
+  "total": 39,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -914,6 +914,30 @@
       "pubDate": "Mon, 20 Jul 2026 13:07:52 +0000",
       "time": "۱۶:۳۷ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T21:03:22.302Z"
+    },
+    {
+      "id": "nytimes_eb2cd98bce",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.K. Prosecutors File Murder Charge in Ann Widdecombe Death",
+      "title_fa": "دادستان‌های بریتانیا در پرونده مرگ آن ویدیکامب اتهام قتل ثبت کردند.",
+      "lead": "یک مرد ۲۸ ساله در ارتباط با مرگ آن ویدیکامب متهم شناخته شده است. خانم ویدیکامب یک چهره راست‌گرا بود که جسدش این ماه در خانه‌اش پیدا شد و اکنون دادستان‌ها اتهام قتل را ثبت کرده‌اند.",
+      "category": "crime",
+      "region": "uk",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/europe/uk-ann-widdecombe-murder.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 20 Jul 2026 21:06:41 +0000",
+      "time": "۰۰:۳۶ - ۳۰ تیر",
+      "analyzed_at": "2026-07-20T21:23:57.618Z"
     }
   ]
 }
