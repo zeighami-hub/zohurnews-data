@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "aljazeera",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "aljazeera_a2d0729320",
@@ -410,6 +410,54 @@
       "pubDate": "Tue, 21 Jul 2026 06:52:38 +0000",
       "time": "۱۰:۲۲ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T07:24:11.393Z"
+    },
+    {
+      "id": "aljazeera_32e808caa4",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Moment terrifying floodwaters sweep through Afghan village",
+      "title_fa": "لحظه هولناک جاری شدن سیل در روستایی در افغانستان",
+      "lead": "ویدئویی لحظه جاری شدن سیلاب‌های هولناک را در روستایی در افغانستان نشان می‌دهد. این سیل ویرانگر منطقه را درنوردیده است.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/21/moment-terrifying-floodwaters-sweep-through-afghan-village?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 07:58:52 +0000",
+      "time": "۱۱:۲۸ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T08:27:43.162Z"
+    },
+    {
+      "id": "aljazeera_255a15b2f7",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Five Palestinians die in fire after Israeli attack in Gaza",
+      "title_fa": "پنج فلسطینی در پی آتش‌سوزی ناشی از حمله اسرائیل در غزه کشته شدند",
+      "lead": "در پی حمله هوایی اسرائیل به یک آپارتمان در شهر غزه، ساختمان دچار آتش‌سوزی شد. این حادثه منجر به کشته شدن پنج نفر گردید.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 07:55:43 +0000",
+      "time": "۱۱:۲۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T08:27:43.162Z"
     }
   ]
 }
