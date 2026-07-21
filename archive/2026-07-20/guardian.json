@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "guardian",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "guardian_94b3e7c735",
@@ -410,6 +410,54 @@
       "pubDate": "Mon, 20 Jul 2026 07:53:35 GMT",
       "time": "۱۱:۲۳ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T10:42:24.889Z"
+    },
+    {
+      "id": "guardian_430a2cc1a7",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
+      "title_fa": "هشدارهای سیل ناگهانی در شمال شرق آمریکا در بحبوحه دود آتش‌سوزی‌های جنگلی کانادا",
+      "lead": "شمال شرق ایالات متحده با هشدارهای سیل ناگهانی در حالی مواجه است که دود ناشی از آتش‌سوزی‌های جنگلی کانادا کیفیت هوا را کاهش داده است. کیفیت پایین هوا از آتش‌سوزی‌های جنگلی همچنان شهر نیویورک را تحت تأثیر قرار داده و چندین محله نیز تحت تأثیر طوفان‌های رعد و برق قرار گرفته‌اند.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 18 Jul 2026 19:11:13 GMT",
+      "time": "۲۲:۴۱ - ۲۷ تیر",
+      "analyzed_at": "2026-07-20T12:48:17.110Z"
+    },
+    {
+      "id": "guardian_9e2ea96b48",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "title_fa": "«ما یک سنت را حفظ می‌کنیم»: چگونه پوسترهای فیلم‌های پرهیجان غنا به هنری قابل جمع‌آوری تبدیل شدند",
+      "lead": "پوسترهای فیلم‌های پرهیجان غنا که با دست نقاشی شده‌اند، به هنری قابل جمع‌آوری تبدیل شده‌اند. این آثار اغلب با فیلم‌هایی که به تصویر می‌کشند بسیار متفاوت هستند و گاهی منجر به تهدید، توهین و حتی حملات فیزیکی از سوی بینندگانی شده‌اند که احساس فریب‌خوردگی می‌کردند.",
+      "category": "culture",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Sat, 18 Jul 2026 04:00:47 GMT",
+      "time": "۰۷:۳۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-20T12:48:17.110Z"
     }
   ]
 }
