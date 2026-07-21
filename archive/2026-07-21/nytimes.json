@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_2ab915cd19",
@@ -458,6 +458,98 @@
       "pubDate": "Mon, 20 Jul 2026 22:04:15 +0000",
       "time": "۰۱:۳۴ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T10:28:03.177Z"
+    },
+    {
+      "id": "nytimes_3f374d053e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s the latest.",
+      "title_fa": "آخرین اخبار.",
+      "lead": "این بخش، آخرین به‌روزرسانی‌ها را درباره رویدادهای مهم جهانی، از جمله تحولات مربوط به ایران، حملات جنگی و رئیس‌جمهور سابق ترامپ ارائه می‌دهد. این پوشش مستمر خبری خلاصه‌ای از اخبار مهم اخیر را در بر می‌گیرد. برای اطلاعات کامل‌تر، خوانندگان به وبلاگ زنده ارجاع داده می‌شوند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/21/world/iran-war-strikes-trump-hormuz/heres-the-latest",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "neutral": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 10:43:11 +0000",
+      "time": "۱۴:۱۳ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T11:29:49.626Z"
+    },
+    {
+      "id": "nytimes_8069a02202",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Lebanese Troops Deploy in Israeli-Held Village Under New Cease-Fire Plan",
+      "title_fa": "نیروهای لبنانی تحت طرح جدید آتش‌بس در روستای تحت کنترل اسرائیل مستقر می‌شوند",
+      "lead": "نیروهای لبنانی به عنوان بخشی از طرح جدید آتش‌بس، در روستایی که پیش‌تر تحت کنترل اسرائیل بود، مستقر شده‌اند. این استقرار پس از عقب‌نشینی ارتش اسرائیل از این روستا تحت توافق با میانجیگری آمریکا صورت می‌گیرد. هدف از این اقدام بازگرداندن کنترل مناطق اشغالی به لبنان پس از ماه‌ها جنگ است، اما حزب‌الله گزارش‌ها حاکی از رد این آتش‌بس را نشان می‌دهد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/middleeast/lebanon-israel-ceasefire-plan.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "neutral": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 10:35:13 +0000",
+      "time": "۱۴:۰۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T11:29:49.626Z"
+    },
+    {
+      "id": "nytimes_06a70945a6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Philippines Says Sailor Was Injured in Skirmish With Chinese Coast Guard",
+      "title_fa": "فیلیپین می‌گوید یک ملوان در درگیری با گارد ساحلی چین زخمی شد",
+      "lead": "چین اعلام کرد که در این حادثه مهاجم نبوده است، حادثه‌ای که جدیدترین تنش بین دو کشور در دریای جنوبی چین محسوب می‌شود.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/asia/philippines-south-china-sea-sailor-injured.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 21 Jul 2026 10:25:33 +0000",
+      "time": "۱۳:۵۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T11:29:49.626Z"
+    },
+    {
+      "id": "nytimes_08951220d9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Pope Leo Calls for Nuclear Disarmament in Latest Antiwar Message",
+      "title_fa": "پاپ لئو در جدیدترین پیام ضدجنگ خود خواستار خلع سلاح هسته‌ای شد",
+      "lead": "لئو در کتاب جدیدی که روز سه‌شنبه منتشر شد، بیان کرد که رقابت برای کاهش تنش هسته‌ای \"توسط رقابت تسلیحاتی که امروز ترس و وحشت ایجاد کرده است، پنهان شده است.\"",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/europe/pope-leo-nuclear-disarmament-anti-war-message.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 22:00:05 +0000",
+      "time": "۰۱:۳۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T11:29:49.626Z"
     }
   ]
 }
