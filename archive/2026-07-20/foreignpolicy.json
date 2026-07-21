@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "foreignpolicy",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "foreignpolicy_2439a7d335",
@@ -362,6 +362,54 @@
       "pubDate": "Fri, 17 Jul 2026 11:27:28 +0000",
       "time": "۱۴:۵۷ - ۲۶ تیر",
       "analyzed_at": "2026-07-20T12:48:17.110Z"
+    },
+    {
+      "id": "foreignpolicy_4e9a9260f8",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "The Slow Death of the Global Commons",
+      "title_fa": "مرگ تدریجی «مشاعات جهانی»",
+      "lead": "تنگه هرمز نشانه‌ای از اتفاقات بدتر در آینده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/20/trump-hormuz-iran-global-commons-fonops/",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 20 Jul 2026 17:51:53 +0000",
+      "time": "۲۱:۲۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T20:02:35.231Z"
+    },
+    {
+      "id": "foreignpolicy_abab682412",
+      "agencyId": "foreignpolicy",
+      "keep": true,
+      "title": "Suwayda’s Struggle",
+      "title_fa": "مبارزه سویدا",
+      "lead": "دروزی‌های سوریه در استان سویدا بین حمایت اسرائیل و حکومت دمشق گرفتار شده‌اند. این وضعیت پیچیده، چالش‌های سیاسی و امنیتی جدیدی را برای آنها ایجاد کرده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/07/20/suwayda-druze-syria-israel-sharaa-damascus/",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Mon, 20 Jul 2026 16:51:41 +0000",
+      "time": "۲۰:۲۱ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T20:02:35.231Z"
     }
   ]
 }
