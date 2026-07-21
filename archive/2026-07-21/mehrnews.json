@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "mehrnews",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "mehrnews_f56bb9425b",
@@ -290,6 +290,54 @@
       "pubDate": "Tue, 21 Jul 2026 06:48:06 GMT",
       "time": "۱۰:۱۸ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T07:10:23.862Z"
+    },
+    {
+      "id": "mehrnews_1b3f554949",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Rights groups file complaint against US govt. on funding cuts",
+      "title_fa": "گروه‌های حقوق بشری از دولت آمریکا به دلیل کاهش بودجه شکایت کردند",
+      "lead": "گروه‌های حقوق مدنی اعلام کردند که روز دوشنبه شکایتی را علیه دولت دونالد ترامپ، رئیس‌جمهور آمریکا، مطرح کرده‌اند. این شکایت مربوط به تلاش دولت برای محدود کردن بودجه فدرال کمک به مراقبت از کودکان و خانواده‌ها است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246397/Rights-groups-file-complaint-against-US-govt-on-funding-cuts",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 21 Jul 2026 07:31:45 GMT",
+      "time": "۱۱:۰۱ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T07:39:12.228Z"
+    },
+    {
+      "id": "mehrnews_47779aaa5b",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "VIDEO: Several Palestinians killed, injured in Israeli raids",
+      "title_fa": "ویدئو: کشته و زخمی شدن چندین فلسطینی در حملات اسرائیل",
+      "lead": "در سه حمله پهپادی اسرائیل به یک ساختمان مسکونی در نزدیکی تقاطع السامر در مرکز شهر غزه، چندین فلسطینی کشته و زخمی شدند. نیروهای اسرائیلی کشتار خود علیه غزه را تشدید کرده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246396/VIDEO-Several-Palestinians-killed-injured-in-Israeli-raids",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 21 Jul 2026 07:18:16 GMT",
+      "time": "۱۰:۴۸ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T07:39:12.228Z"
     }
   ]
 }
