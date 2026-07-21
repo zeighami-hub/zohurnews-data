@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "reuters",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "reuters_058bf11f92",
@@ -118,6 +118,30 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-21T01:05:18.992Z"
+    },
+    {
+      "id": "reuters_9c0b2af5c2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil prices dip as mediation efforts offset US-Iran strikes - Reuters",
+      "title_fa": "کاهش قیمت نفت همزمان با خنثی‌سازی حملات آمریکا و ایران توسط تلاش‌های میانجی‌گرانه",
+      "lead": "قیمت نفت در بازارهای جهانی کاهش یافته است. این کاهش در حالی رخ می‌دهد که تلاش‌های میانجی‌گرانه، اثرات حملات متقابل آمریکا و ایران را خنثی کرده است.",
+      "category": "economics",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE0xMnZLYmlVcE1nLTJzaGpmMW5pWkZyRWY3c3I5YnJtMlZ2OFo4TTlZTnJTTnRlUmpRRnFmcnB3S1U0bmx6N0k0LVp5YUFqX2tJeUZxX3Y1YjJIOTN2YWFSbi14ZzJ4THhoTG9XMi1WenpMd1dwTVhGYnFrWlRZTF9MSG15d2dpUE9uQUlDbmNtY0E4YVNmOU1jdnVudnU4aWhIWjlPRnNMdUU?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 01:04:00 GMT",
+      "time": "۰۴:۳۴ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T02:18:41.996Z"
     }
   ]
 }
