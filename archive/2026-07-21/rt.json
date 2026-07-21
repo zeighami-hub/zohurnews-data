@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "rt",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "rt_a7d2994ac6",
@@ -98,6 +98,30 @@
       "pubDate": "Sun, 19 Jul 2026 23:23:01 +0000",
       "time": "۰۲:۵۳ - ۲۹ تیر",
       "analyzed_at": "2026-07-21T01:05:18.992Z"
+    },
+    {
+      "id": "rt_189cac2ea0",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Houthis declare naval blockade of Saudi Arabia",
+      "title_fa": "حوثی‌ها محاصره دریایی عربستان سعودی را اعلام کردند",
+      "lead": "حوثی‌های یمن محاصره دریایی عربستان سعودی را اعلام کرده‌اند. این اقدام نشان‌دهنده تشدید بزرگی در درگیری‌های خاورمیانه است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/643278-houthis-saudi-naval-blockade/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 21 Jul 2026 03:25:03 +0000",
+      "time": "۰۶:۵۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T03:34:46.150Z"
     }
   ]
 }
