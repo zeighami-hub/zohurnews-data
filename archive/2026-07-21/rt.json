@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "rt",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "rt_a7d2994ac6",
@@ -122,6 +122,30 @@
       "pubDate": "Tue, 21 Jul 2026 03:25:03 +0000",
       "time": "۰۶:۵۵ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T03:34:46.150Z"
+    },
+    {
+      "id": "rt_97eeff1b99",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Murder trial opens for US mother accused of killing her three children",
+      "title_fa": "محاکمه مادر آمریکایی متهم به قتل سه فرزندش آغاز شد",
+      "lead": "محاکمه یک مادر آمریکایی که متهم به قتل سه فرزند خود است، آغاز شده است. دفاعیه او مبنی بر روان‌پریشی پس از زایمان، توجه ملی را به خود جلب کرده است.",
+      "category": "crime",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643267-mother-murder-children-postpartum/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 03:53:14 +0000",
+      "time": "۰۷:۲۳ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T04:04:13.201Z"
     }
   ]
 }
