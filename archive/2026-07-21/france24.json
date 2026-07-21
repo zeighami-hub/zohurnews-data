@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "france24",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "france24_9f68d62340",
@@ -146,6 +146,30 @@
       "pubDate": "Tue, 21 Jul 2026 02:21:14 GMT",
       "time": "۰۵:۵۱ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T06:09:37.826Z"
+    },
+    {
+      "id": "france24_e9233b3b82",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Lebanon's Aoun to meet Trump as pressure builds to disarm Hezbollah",
+      "title_fa": "دیدار عون، رئیس‌جمهور لبنان، با ترامپ در بحبوحه افزایش فشارها برای خلع سلاح حزب‌الله",
+      "lead": "جوزف عون، رئیس‌جمهور لبنان، قرار است روز سه‌شنبه در واشنگتن با دونالد ترامپ، همتای آمریکایی خود، دیدار کند. این دیدار در حالی صورت می‌گیرد که فشارها برای خلع سلاح حزب‌الله افزایش یافته است، که اسرائیل آن را شرط اصلی خروج از جنوب لبنان می‌داند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/live-news/20260721-lebanon-s-aoun-to-meet-trump-as-pressure-builds-to-disarm-hezbollah",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 02:17:14 GMT",
+      "time": "۰۵:۴۷ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T06:53:48.725Z"
     }
   ]
 }
