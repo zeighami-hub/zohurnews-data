@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "independent",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "independent_b101beeb0b",
@@ -50,6 +50,30 @@
       "pubDate": "Tue, 21 Jul 2026 00:15:08 GMT",
       "time": "۰۳:۴۵ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T00:33:46.551Z"
+    },
+    {
+      "id": "independent_ebc4c710c9",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Trump says Burnham ‘has a big job ahead of him’",
+      "title_fa": "ترامپ: برنهام کار بزرگی در پیش دارد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، اظهار داشت که برنهام \"کار بزرگی در پیش دارد.\" این اظهارنظر در مورد یکی از نامزدهای احتمالی نخست‌وزیری بریتانیا صورت گرفته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/trump-burnham-endorsement-prime-minister-b3018498.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 00:35:44 GMT",
+      "time": "۰۴:۰۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T00:48:42.031Z"
     }
   ]
 }
