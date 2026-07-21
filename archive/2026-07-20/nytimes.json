@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "nytimes",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_de6e02fffa",
@@ -554,6 +554,30 @@
       "pubDate": "Mon, 20 Jul 2026 10:44:01 +0000",
       "time": "۱۴:۱۴ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T10:53:39.345Z"
+    },
+    {
+      "id": "nytimes_cb9931d682",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
+      "title_fa": "روسیه در یکی از بزرگترین حملات موشکی جنگ، کی‌یف را درهم کوبید",
+      "lead": "روسیه در یکی از بزرگترین حملات موشکی جنگ، کی‌یف را هدف قرار داد. در همین حال، اوکراین روز شنبه دو انبار در روسیه را هدف قرار داد که دست‌کم هشت کشته و ۶۲ زخمی بر جای گذاشت.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 19 Jul 2026 18:26:41 +0000",
+      "time": "۲۱:۵۶ - ۲۸ تیر",
+      "analyzed_at": "2026-07-20T12:48:17.110Z"
     }
   ]
 }
