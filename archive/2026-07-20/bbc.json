@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "bbc",
-  "total": 34,
+  "total": 35,
   "articles": [
     {
       "id": "bbc_267873e533",
@@ -818,6 +818,30 @@
       "pubDate": "Mon, 20 Jul 2026 12:57:32 GMT",
       "time": "۱۶:۲۷ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T21:03:22.302Z"
+    },
+    {
+      "id": "bbc_63d3b1cc0c",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
+      "title_fa": "آمریکا حملات جدیدی علیه ایران انجام داد؛ ترامپ درباره تلافی مرگ سربازان هشدار داد",
+      "lead": "ایالات متحده اعلام کرده است که این حملات با هدف تضعیف توانایی‌های ایران برای حمله به کشتی‌ها در تنگه هرمز انجام شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 20 Jul 2026 21:09:31 GMT",
+      "time": "۰۰:۳۹ - ۳۰ تیر",
+      "analyzed_at": "2026-07-20T21:23:57.618Z"
     }
   ]
 }
