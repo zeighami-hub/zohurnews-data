@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_2ab915cd19",
@@ -314,6 +314,150 @@
       "pubDate": "Tue, 21 Jul 2026 09:02:56 +0000",
       "time": "۱۲:۳۲ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T09:59:31.040Z"
+    },
+    {
+      "id": "nytimes_dcb73af6eb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "New UK Prime Minister Burnham Promises Hope and Change. The Hurdles Are High.",
+      "title_fa": "نخست‌وزیر جدید بریتانیا، برنهام، وعده امید و تغییر می‌دهد. موانع پیش رو زیاد هستند.",
+      "lead": "اندی برنهام، نخست‌وزیر جدید بریتانیا، سیاست‌هایی را وعده داده است که به شهروندان عادی بریتانیا \"فضای تنفس مالی\" بدهد. مخالفان او از هم‌اکنون در حال انتقاد هستند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/europe/andy-burnham-new-uk-prime-minister-policies.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 10:12:33 +0000",
+      "time": "۱۳:۴۲ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T10:28:03.177Z"
+    },
+    {
+      "id": "nytimes_14cdddb8e9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Family’s Daring Escape From North Korea",
+      "title_fa": "فرار جسورانه یک خانواده از کره شمالی",
+      "lead": "یک خانواده در طول همه‌گیری، زمانی که با کمبود شدید مواد غذایی مواجه بودند و مجبور به تماشای اعدام‌های عمومی مکرر می‌شدند، عزمشان برای آزادی قوی‌تر شد. این خانواده از کره شمالی فرار کرده‌اند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 10,
+        "negative": 60
+      },
+      "pubDate": "Tue, 21 Jul 2026 10:00:10 +0000",
+      "time": "۱۳:۳۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T10:28:03.177Z"
+    },
+    {
+      "id": "nytimes_409fcc03bf",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Flash Floods Kill at Least 23 in Afghanistan",
+      "title_fa": "سیلاب‌های ناگهانی حداقل ۲۳ نفر را در افغانستان کشت",
+      "lead": "پس از سیلاب‌هایی که شهری را در نورستان، ولایتی دورافتاده در شرق کشور، فرا گرفت، ده‌ها نفر همچنان مفقود هستند. این سیلاب‌ها تاکنون حداقل ۲۳ نفر را در افغانستان به کام مرگ کشانده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/asia/afghanistan-floods-deaths-nuristan.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 09:38:14 +0000",
+      "time": "۱۳:۰۸ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T10:28:03.177Z"
+    },
+    {
+      "id": "nytimes_7cbfdbcd7c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "When Protesters Speak, Zelensky Listens, in the Ukrainian Tradition",
+      "title_fa": "وقتی معترضان حرف می‌زنند، زلنسکی گوش می‌دهد، به سنت اوکراینی",
+      "lead": "با توجه به خشم گسترده از برکناری وزیر دفاع، دفتر رئیس‌جمهور اوکراین از آمادگی برای سازش خبر داده است. این امر نشان‌دهنده سنتی است که زلنسکی به اعتراضات گوش می‌دهد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-zelensky-protests.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 09:28:09 +0000",
+      "time": "۱۲:۵۸ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T10:28:03.177Z"
+    },
+    {
+      "id": "nytimes_dfd01cd11d",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Epidemics and Rage",
+      "title_fa": "اپیدمی‌ها و خشم: واکنش‌های خصمانه به کادر درمان",
+      "lead": "جوامع همواره با واکنش‌های خصمانه نسبت به کادر درمان در طول اپیدمی‌ها دست و پنجه نرم کرده‌اند. این پدیده سوالاتی را درباره دلایل پشت این خشم برمی‌انگیزد.",
+      "category": "society",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/epidemics-rage-ebola-first-responders.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 21 Jul 2026 04:55:43 +0000",
+      "time": "۰۸:۲۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T10:28:03.177Z"
+    },
+    {
+      "id": "nytimes_eb2cd98bce",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.K. Prosecutors File Murder Charge in Ann Widdecombe Death",
+      "title_fa": "دادستان‌های بریتانیا پرونده قتل برای مرگ «آن ویدکومب» را تشکیل دادند",
+      "lead": "مردی ۲۸ ساله در ارتباط با مرگ آن ویدکومب، شخصیت راست‌گرای بریتانیایی که جسدش این ماه در خانه‌اش پیدا شد، متهم به قتل شده است. دادستان‌های بریتانیا این اتهام را رسماً ثبت کرده‌اند.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/20/world/europe/uk-ann-widdecombe-murder.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 20 Jul 2026 22:04:15 +0000",
+      "time": "۰۱:۳۴ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T10:28:03.177Z"
     }
   ]
 }
