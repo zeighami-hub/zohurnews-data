@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "aljazeera",
-  "total": 78,
+  "total": 80,
   "articles": [
     {
       "id": "aljazeera_baf6adaabb",
@@ -1870,6 +1870,54 @@
       "pubDate": "Mon, 20 Jul 2026 22:40:31 +0000",
       "time": "۰۲:۱۰ - ۳۰ تیر",
       "analyzed_at": "2026-07-20T23:19:06.659Z"
+    },
+    {
+      "id": "aljazeera_820cfce6d8",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Suspect charged in fatal attack on UK politician Ann Widdecombe",
+      "title_fa": "متهم حمله مرگبار به سیاستمدار بریتانیایی، آن ویدیکامب، تفهیم اتهام شد",
+      "lead": "پلیس اعلام کرده است که مظنونی در ارتباط با حمله مرگبار به آن ویدیکامب، شخصیت حزب اصلاحات بریتانیا، تفهیم اتهام شده است. تحقیقات در مورد انگیزه احتمالی سیاسی این قتل ادامه دارد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/20/suspect-charged-in-fatal-attack-on-uk-politician-ann-widdecombe?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 23:21:12 +0000",
+      "time": "۰۲:۵۱ - ۳۰ تیر",
+      "analyzed_at": "2026-07-20T23:48:52.435Z"
+    },
+    {
+      "id": "aljazeera_d3d13d7dd6",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Argentina, minus Messi, return home after World Cup final heartbreak",
+      "title_fa": "بازگشت تیم آرژانتین بدون مسی پس از شکست در فینال جام جهانی",
+      "lead": "هزاران نفر در انتظار استقبال از تیم ملی آرژانتین هستند که پس از جام جهانی به کشور بازمی‌گردد. این تیم بدون کاپیتان مسی و چند بازیکن دیگر به خانه برمی‌گردد.",
+      "category": "sports",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/20/argentina-minus-messi-return-home-after-world-cup-final-heartbreak?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 20 Jul 2026 23:16:06 +0000",
+      "time": "۰۲:۴۶ - ۳۰ تیر",
+      "analyzed_at": "2026-07-20T23:48:52.435Z"
     }
   ]
 }
