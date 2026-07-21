@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "bbc",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "bbc_20e65dde04",
@@ -146,6 +146,30 @@
       "pubDate": "Sun, 19 Jul 2026 22:16:39 GMT",
       "time": "۰۱:۴۶ - ۲۹ تیر",
       "analyzed_at": "2026-07-21T07:24:11.393Z"
+    },
+    {
+      "id": "bbc_81d31ab845",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "'Anti-ICE' Army veteran set fire outside Manhattan federal building, say officials",
+      "title_fa": "مقامات می‌گویند که یک کهنه‌سرباز ارتش «ضد-ICE» در بیرون ساختمان فدرال منهتن آتش‌سوزی به راه انداخت",
+      "lead": "به گفته اف‌بی‌آی، اندرو آراباکا، ۴۳ ساله، با دو تبر، یک قمه، سه چاقو و مواد آتش‌بازی مسلح بوده است. او در بیرون از ساختمان فدرال در منهتن اقدام به آتش‌افروزی کرد که مقامات آن را به یک کهنه‌سرباز «ضد-ICE» نسبت می‌دهند.",
+      "category": "crime",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 02:16:05 GMT",
+      "time": "۰۵:۴۶ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T08:27:43.162Z"
     }
   ]
 }
