@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_267873e533",
@@ -482,6 +482,78 @@
       "pubDate": "Sat, 18 Jul 2026 23:44:04 GMT",
       "time": "۰۳:۱۴ - ۲۸ تیر",
       "analyzed_at": "2026-07-20T10:42:24.889Z"
+    },
+    {
+      "id": "bbc_20e65dde04",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Utah firefighter and four family members killed in flash flooding",
+      "title_fa": "آتش‌نشان یوتا و چهار عضو خانواده‌اش در سیل ناگهانی جان باختند",
+      "lead": "یک آتش‌نشان اهل یوتا به همراه همسر و سه پسرش در سیلاب ناگهانی جان خود را از دست دادند. تنها یک دختر خانواده که در این سفر حضور نداشت، زنده مانده است.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 20 Jul 2026 12:13:58 GMT",
+      "time": "۱۵:۴۳ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T12:48:17.110Z"
+    },
+    {
+      "id": "bbc_36a7a62ab3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Scores feared dead after passenger ferry capsizes off Guyana",
+      "title_fa": "واژگونی کشتی مسافربری در سواحل گویان؛ بیم مرگ ده‌ها نفر می‌رود",
+      "lead": "یک کشتی مسافربری در سواحل گویان واژگون شد و بیم می‌رود ده‌ها نفر جان باخته باشند. ۶۷ نفر نجات یافته‌اند، اما تخمین زده می‌شود که بیش از ۱۳۰ نفر سرنشین این کشتی بوده‌اند.",
+      "category": "disaster",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 11:37:32 GMT",
+      "time": "۱۵:۰۷ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T12:48:17.110Z"
+    },
+    {
+      "id": "bbc_480dbc199b",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+      "title_fa": "شکیرا، مدونا، جاستین بیبر و بی‌تی‌اس در نمایش پرزرق و برق بین دو نیمه جام جهانی اجرا کردند",
+      "lead": "شکیرا، مدونا، جاستین بیبر و گروه بی‌تی‌اس در نمایش پر زرق و برق بین دو نیمه جام جهانی به اجرای برنامه پرداختند. رابی ویلیامز و جنیفر هادسن نیز در این برنامه اجرا داشتند و افراد مشهوری چون کایلی جنر و تیموتی شالامه در میان تماشاگران بودند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Sun, 19 Jul 2026 22:16:39 GMT",
+      "time": "۰۱:۴۶ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T12:48:17.110Z"
     }
   ]
 }
