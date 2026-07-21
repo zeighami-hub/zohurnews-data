@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "mehrnews",
-  "total": 32,
+  "total": 34,
   "articles": [
     {
       "id": "mehrnews_7a38109cb7",
@@ -770,6 +770,54 @@
       "pubDate": "Mon, 20 Jul 2026 11:02:33 GMT",
       "time": "۱۴:۳۲ - ۲۹ تیر",
       "analyzed_at": "2026-07-20T11:23:45.846Z"
+    },
+    {
+      "id": "mehrnews_f56bb9425b",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran judges US by its actions rather than its rhetoric",
+      "title_fa": "ایران، آمریکا را با اقداماتش قضاوت می‌کند نه با لفاظی‌هایش",
+      "lead": "رئیس مجلس ایران با انتقاد از استقرار تجهیزات نظامی جدید آمریکا در منطقه، در حالی که این کشور مدعی توقف جنگ است، اظهار داشت: تهران واشنگتن را با اقداماتش قضاوت می‌کند نه با لفاظی‌هایش.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246374/Iran-judges-US-by-its-actions-rather-than-its-rhetoric",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Mon, 20 Jul 2026 12:27:03 GMT",
+      "time": "۱۵:۵۷ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T12:48:17.110Z"
+    },
+    {
+      "id": "mehrnews_d34e914899",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Hamas elects Khalil al-Hayya as head of its political bureau",
+      "title_fa": "حماس خلیل الحیه را به عنوان رئیس دفتر سیاسی خود انتخاب کرد",
+      "lead": "حماس روز دوشنبه از انتخاب خلیل الحیه به عنوان رئیس دفتر سیاسی خود خبر داد. این اعلامیه در تاریخ ۲۰ ژوئیه منتشر شد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246373/Hamas-elects-Khalil-al-Hayya-as-head-of-its-political-bureau",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 11:56:02 GMT",
+      "time": "۱۵:۲۶ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T12:48:17.110Z"
     }
   ]
 }
