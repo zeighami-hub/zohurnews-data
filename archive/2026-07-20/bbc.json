@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "bbc",
-  "total": 35,
+  "total": 36,
   "articles": [
     {
       "id": "bbc_267873e533",
@@ -842,6 +842,30 @@
       "pubDate": "Mon, 20 Jul 2026 21:09:31 GMT",
       "time": "۰۰:۳۹ - ۳۰ تیر",
       "analyzed_at": "2026-07-20T21:23:57.618Z"
+    },
+    {
+      "id": "bbc_64d986ad58",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump imposes 50% tariff on Canadian imports",
+      "title_fa": "ترامپ تعرفه ۵۰ درصدی بر واردات کانادا اعمال می‌کند",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، تعرفه ۵۰ درصدی بر واردات از کانادا را اعمال کرده است. این عوارض ظرف ۳۰ روز اجرایی می‌شوند و نشان‌دهنده تشدید قابل توجه تنش‌های تجاری بین این دو همسایه آمریکای شمالی است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 21:51:55 GMT",
+      "time": "۰۱:۲۱ - ۳۰ تیر",
+      "analyzed_at": "2026-07-20T22:06:19.281Z"
     }
   ]
 }
