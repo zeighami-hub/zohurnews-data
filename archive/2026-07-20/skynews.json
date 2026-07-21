@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "skynews_967005da84",
@@ -74,6 +74,78 @@
       "pubDate": "Sat, 18 Jul 2026 15:41:00 +0100",
       "time": "۱۸:۱۱ - ۲۷ تیر",
       "analyzed_at": "2026-07-20T10:14:10.686Z"
+    },
+    {
+      "id": "skynews_607370e6de",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Mexican drug lord sentenced to life in prison",
+      "title_fa": "قاچاقچی مواد مخدر مکزیکی به حبس ابد محکوم شد",
+      "lead": "اسماعیل \"ال مایو\" زامبادا، قاچاقچی مواد مخدر مکزیکی که برای کارتل سینالوآ مواد مخدر به آمریکا قاچاق می‌کرد، به حبس ابد محکوم شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/mexican-drug-kingpin-ismael-el-mayo-zambada-sentenced-to-life-in-prison-13565339",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 16:30:00 +0100",
+      "time": "۱۹:۰۰ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T21:03:22.302Z"
+    },
+    {
+      "id": "skynews_e293d330dc",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "How the World Cup was won - Spain's victory in charts",
+      "title_fa": "چگونه جام جهانی برده شد - پیروزی اسپانیا در نمودارها",
+      "lead": "پس از ۱۰۶ دقیقه، ۲۰ شوت و بیش از ۸۰۰ پاس، فران تورس از اسپانیا سرانجام گل اول فینال جام جهانی را به ثمر رساند. این گزارش جزئیات آماری پیروزی اسپانیا را تحلیل می‌کند.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/how-the-world-cup-was-won-spains-victory-in-charts-13565277",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Mon, 20 Jul 2026 13:46:00 +0100",
+      "time": "۱۶:۱۶ - ۲۹ تیر",
+      "analyzed_at": "2026-07-20T21:03:22.302Z"
+    },
+    {
+      "id": "skynews_cd79be5e74",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Trump blames Canada as US 'invaded by filthy air'",
+      "title_fa": "ترامپ کانادا را متهم می‌کند در حالی که آمریکا توسط «هوای آلوده» «مورد حمله» قرار گرفته است",
+      "lead": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، کانادا را مقصر دود ناشی از آتش‌سوزی‌های جنگلی دانسته است. او مدعی شده که این دود می‌تواند بر فینال جام جهانی تأثیر بگذارد و «هوای آلوده» آمریکا را «مورد حمله» قرار داده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/trump-blames-canada-as-us-invaded-by-filthy-air-from-wildfires-that-could-impact-world-cup-final-13563357",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 17 Jul 2026 14:00:00 +0100",
+      "time": "۱۶:۳۰ - ۲۶ تیر",
+      "analyzed_at": "2026-07-20T21:03:22.302Z"
     }
   ]
 }
