@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_eb1113e186",
@@ -26,6 +26,30 @@
       "pubDate": "Mon, 20 Jul 2026 23:03:00 +0100",
       "time": "۰۱:۳۳ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T00:03:53.445Z"
+    },
+    {
+      "id": "skynews_4a2ff19c59",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "We'll never have elections again, says long-serving president",
+      "title_fa": "رئیس‌جمهور قدیمی نیکاراگوئه: دیگر هرگز انتخابات نخواهیم داشت",
+      "lead": "رئیس‌جمهور نیکاراگوئه که مدت طولانی در قدرت است، اعلام کرده که این کشور دیگر هرگز انتخاباتی برگزار نخواهد کرد. این اظهارات پیامدهای جدی برای آینده دموکراتیک کشور دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/nicaraguan-president-declares-country-will-never-hold-elections-again-13565457",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 21 Jul 2026 01:45:00 +0100",
+      "time": "۰۴:۱۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T01:19:07.575Z"
     }
   ]
 }
