@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "mehrnews",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "mehrnews_f56bb9425b",
@@ -578,6 +578,30 @@
       "pubDate": "Tue, 21 Jul 2026 09:31:19 GMT",
       "time": "۱۳:۰۱ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T09:59:31.040Z"
+    },
+    {
+      "id": "mehrnews_212eb85f2c",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "VIDEO: Devastating flood in Afghanistan kills 20, 80 injured",
+      "title_fa": "ویدئو: سیل ویرانگر در افغانستان ۲۰ کشته و ۸۰ زخمی بر جای گذاشت",
+      "lead": "سیل ویرانگر در نورستان افغانستان، دست‌کم ۲۰ کشته و ۸۰ زخمی بر جای گذاشته و بسیاری دیگر همچنان مفقود هستند.",
+      "category": "disaster",
+      "region": "afghanistan",
+      "sourceUrl": "https://en.mehrnews.com/news/246403/VIDEO-Devastating-flood-in-Afghanistan-kills-20-80-injured",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 21 Jul 2026 09:15:50 GMT",
+      "time": "۱۲:۴۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T10:28:03.177Z"
     }
   ]
 }
