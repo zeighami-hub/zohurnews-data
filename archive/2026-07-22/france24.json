@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "france24",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "france24_41061a91db",
@@ -50,6 +50,28 @@
       "pubDate": "Wed, 22 Jul 2026 01:38:31 GMT",
       "time": "۰۵:۰۸ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T01:48:41.762Z"
+    },
+    {
+      "id": "france24_13",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Fast-moving wildfire forces hundreds of evacuations in southern France",
+      "title_fa": "آتش‌سوزی گسترده در جنوب فرانسه صدها نفر را مجبور به تخلیه کرد",
+      "lead": "یک آتش‌سوزی سریع‌الانتشار در جنوب فرانسه صدها نفر را مجبور به تخلیه کرد. نزدیک به ۱۰۰۰ آتش‌نشان و ده‌ها هواپیما با این آتش‌سوزی که ۱۷۰۰ هکتار را در چند ساعت درنوردیده، مبارزه می‌کنند و مقامات نسبت به گسترش آن هشدار داده‌اند.",
+      "category": "disaster",
+      "region": "france",
+      "sourceUrl": "https://www.france24.com/en/europe/20260722-fast-moving-wildfire-forces-hundreds-of- evacuations-in-southern-france",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-22T02:34:03.890Z"
     }
   ]
 }
