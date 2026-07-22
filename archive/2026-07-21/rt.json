@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "rt",
-  "total": 26,
+  "total": 28,
   "articles": [
     {
       "id": "rt_a7d2994ac6",
@@ -626,6 +626,54 @@
       "pubDate": "Tue, 21 Jul 2026 14:04:01 +0000",
       "time": "۱۷:۳۴ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T20:30:13.280Z"
+    },
+    {
+      "id": "rt_af3a6a7ef7",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Renewed US-Iran strikes: Is a major war looming?",
+      "title_fa": "درگیری‌های جدید آمریکا و ایران: آیا جنگی بزرگ در راه است؟",
+      "lead": "درگیری‌ها میان ایالات متحده و ایران برای هفته‌ها ادامه داشته است، با وجود تلفات فزاینده از هر دو طرف. هیچ یک از طرفین نشانه‌ای از عقب‌نشینی از خود نشان نمی‌دهند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/643312-us-iran-strikes-major-war/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 22:29:02 +0000",
+      "time": "۰۱:۵۹ - ۳۱ تیر",
+      "analyzed_at": "2026-07-21T22:35:37.517Z"
+    },
+    {
+      "id": "rt_549b8511b9",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Trump slaps 50% tariffs on Canada",
+      "title_fa": "ترامپ تعرفه ۵۰ درصدی بر کانادا اعمال کرد.",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، تعرفه‌های ۵۰ درصدی را بر واردات کانادا اعمال کرده است. این اقدام به دلیل آنچه \"رفتار ناعادلانه اتاوا با محصولات آمریکایی\" خوانده شده، صورت گرفته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643285-trump-canada-tariffs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 21 Jul 2026 22:21:37 +0000",
+      "time": "۰۱:۵۱ - ۳۱ تیر",
+      "analyzed_at": "2026-07-21T22:35:37.517Z"
     }
   ]
 }
