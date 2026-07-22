@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "reuters",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "reuters_cec067ffed",
@@ -144,6 +144,30 @@
       "pubDate": "Wed, 22 Jul 2026 00:26:00 GMT",
       "time": "۰۳:۵۶ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T02:34:03.890Z"
+    },
+    {
+      "id": "reuters_f9c89279a9",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US military says its latest strikes on Iran have ended, marking 11th successive night of attacks - Reuters",
+      "title_fa": "ارتش آمریکا: آخرین حملات ما به ایران پایان یافته است؛ یازدهمین شب متوالی حمله",
+      "lead": "ارتش آمریکا اعلام کرد که آخرین حملاتش به ایران پایان یافته است. این حملات یازدهمین شب متوالی از عملیات‌های ارتش آمریکا در منطقه را نشان می‌دهد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjdfcnFmNzMwSTFCYWFYRXZzOGtwSlpwM2ljMXh5QU5LZXFGTnJyUER0UDhyYnl2S2FjS1dPMzZ2S3gyRHBhQk9yV3RWOHRDS3pmYUVLWldkdHhvZWFFM08tWDNreUtrelJETjlRQVdLd09LRlRRNWF4YlB3YzVZT0xrdDJyVHNWN0NKcE4xdjFQVF85dWNGV3pSSHRyS0QtTGRGR1pFUkNjcjg?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 22 Jul 2026 00:57:00 GMT",
+      "time": "۰۴:۲۷ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T04:05:13.670Z"
     }
   ]
 }
