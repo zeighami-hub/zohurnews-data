@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "independent",
-  "total": 11,
+  "total": 14,
   "articles": [
     {
       "id": "independent_77c2982dc9",
@@ -266,6 +266,78 @@
       "pubDate": "Wed, 22 Jul 2026 01:34:17 GMT",
       "time": "۰۵:۰۴ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T01:48:41.762Z"
+    },
+    {
+      "id": "independent_9b78d8148e",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Pentagon identifies third soldier killed in Iranian attack",
+      "title_fa": "پنتاگون سومین سرباز کشته شده در حمله منتسب به ایران را شناسایی کرد",
+      "lead": "پنتاگون هویت سومین سرباز آمریکایی را که در حمله منتسب به ایران کشته شده بود، شناسایی و اعلام کرد. این خبر در پی حملاتی است که پیشتر به پایگاه‌های آمریکا در منطقه صورت گرفته بود.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/soldier-identified-iran-attack-jordan-angel-rampersad-b3019177.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Wed, 22 Jul 2026 01:44:21 GMT",
+      "time": "۰۵:۱۴ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T02:03:43.706Z"
+    },
+    {
+      "id": "independent_b239a9531e",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "5th person dies in Legionnaires' disease outbreak in New York City",
+      "title_fa": "پنجمین نفر در شیوع بیماری لژیونر در نیویورک سیتی جان باخت",
+      "lead": "پنجمین نفر در پی شیوع بیماری لژیونر در شهر نیویورک جان خود را از دست داد. این واقعه نگرانی‌ها را در مورد سلامت عمومی در این شهر افزایش داده است.",
+      "category": "health",
+      "region": "united states",
+      "sourceUrl": "https://www.independent.co.uk/news/new-york-people-harlem-upper-east-side-texas-b3019181.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Wed, 22 Jul 2026 01:47:32 GMT",
+      "time": "۰۵:۱۷ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T02:03:43.706Z"
+    },
+    {
+      "id": "independent_683e59370e",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Inflation set to have cooled in June ahead of household energy squeeze",
+      "title_fa": "تورم در ماه ژوئن پیش از فشار انرژی خانوارها کاهش یافته است",
+      "lead": "پیش‌بینی می‌شود که نرخ تورم در ماه ژوئن کاهش یافته باشد. اغلب اقتصاددانان معتقدند که کاهش شدید قیمت بنزین و دیزل به پایین آوردن نرخ کلی تورم کمک کرده است.",
+      "category": "economy",
+      "region": "united kingdom",
+      "sourceUrl": "https://www.independent.co.uk/news/business/inflation-prime-minister-andy-burnham-iran-middle-east-b3019179.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 01:45:38 GMT",
+      "time": "۰۵:۱۵ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T02:03:43.706Z"
     }
   ]
 }
