@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "aljazeera",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "aljazeera_dfaf23ab2c",
@@ -218,6 +218,54 @@
       "pubDate": "Wed, 22 Jul 2026 03:34:11 +0000",
       "time": "۰۷:۰۴ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T03:49:37.988Z"
+    },
+    {
+      "id": "aljazeera_95d3c50c24",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
+      "title_fa": "فلسطین در هفته‌ای که گذشت: اسرائیل پیش از انتخابات حملات خود را تشدید می‌کند",
+      "lead": "غزه در سوگ فرو رفته است، چرا که خانواده‌ها پس از حملات اسرائیل که ده‌ها کشته، از جمله کودکان و خانواده‌های آواره بر جای گذاشت، دفن می‌شوند. این حملات پیش از انتخابات اسرائیل شدت گرفته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 22 Jul 2026 03:46:11 +0000",
+      "time": "۰۷:۱۶ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T04:05:13.670Z"
+    },
+    {
+      "id": "aljazeera_db8ad1dbe5",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "More than 140 dead, missing on refugee boat stranded off Mauritania",
+      "title_fa": "بیش از ۱۴۰ کشته و ناپدید در قایق پناهجویان سرگردان در سواحل موریتانی",
+      "lead": "یک قایق حامل مهاجران و پناهجویان از آفریقا در سواحل موریتانی سوخت تمام کرده و سرگردان شده است. این حادثه به یک تراژدی منجر شد که در آن ۱۴۳ نفر کشته و ۳۸ نفر نجات یافتند.",
+      "category": "humanitarian",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/22/more-than-140-dead-missing-on-refugee-boat-stranded-off-mauritania?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 22 Jul 2026 03:45:36 +0000",
+      "time": "۰۷:۱۵ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T04:05:13.670Z"
     }
   ]
 }
