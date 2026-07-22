@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "guardian",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "guardian_5863d15e18",
@@ -74,6 +74,30 @@
       "pubDate": "Tue, 21 Jul 2026 02:29:47 GMT",
       "time": "۰۵:۵۹ - ۳۰ تیر",
       "analyzed_at": "2026-07-22T00:05:13.618Z"
+    },
+    {
+      "id": "guardian_0162b53ac4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+      "title_fa": "کانادا جشن مشترک افتتاح پل با آمریکا را در بحبوحه تنش‌های تجاری لغو کرد",
+      "lead": "کانادا جشن مشترک افتتاح پل گُردی هاو با آمریکا را لغو کرده است. این اقدام در پی اعلام تعرفه ۵۰ درصدی بر کالاهای کانادایی توسط رئیس جمهور ترامپ و در بحبوحه تنش‌های تجاری صورت گرفت.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Wed, 22 Jul 2026 00:58:40 GMT",
+      "time": "۰۴:۲۸ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T01:18:44.627Z"
     }
   ]
 }
