@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 8,
   "articles": [
     {
       "id": "skynews_1d21b818cd",
@@ -74,6 +74,126 @@
       "pubDate": "Wed, 22 Jul 2026 07:44:00 +0100",
       "time": "۱۰:۱۴ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T08:59:19.339Z"
+    },
+    {
+      "id": "skynews_8ba0c5a1f1",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "At least 10 dead in India tunnel disaster with 17 feared trapped",
+      "title_fa": "دست‌کم ۱۰ کشته در فاجعه تونل هند با بیم گرفتار شدن ۱۷ نفر",
+      "lead": "دست‌کم ۱۰ نفر در فاجعه‌ای در داخل یک تونل در دست احداث در هند جان باختند. همچنین بیم آن می‌رود که ۱۷ نفر دیگر نیز در این حادثه گرفتار شده باشند.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/at-least-10-dead-in-india-tunnel-disaster-with-17-feared-trapped-13565561",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 11:30:00 +0100",
+      "time": "۱۴:۰۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-22T09:10:23.164Z"
+    },
+    {
+      "id": "skynews_e0da6d0d08",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "'One in 15 million chance' identical quadruplets born in Australia",
+      "title_fa": "تولد چهارقلوهای همسان با احتمال «یک در ۱۵ میلیون» در استرالیا",
+      "lead": "یک زن استرالیایی چهارقلوهای همسان را که به طور طبیعی از یک جنین لقاح یافته بودند، به دنیا آورد. این یک رویداد با احتمال یک در ۱۵ میلیون است.",
+      "category": "human interest",
+      "region": "oceania",
+      "sourceUrl": "https://news.sky.com/story/four-precious-miracles-identical-quadruplets-born-in-australia-in-a-one-in-15-million-chance-13565549",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 11:16:00 +0100",
+      "time": "۱۳:۴۶ - ۳۰ تیر",
+      "analyzed_at": "2026-07-22T09:10:23.164Z"
+    },
+    {
+      "id": "skynews_8ba3ecfa2f",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Parents urged to stop buying e-scooters as 'toys' as Ireland brings in new age limit",
+      "title_fa": "با وضع محدودیت سنی جدید در ایرلند، از والدین خواسته شد از خرید اسکوترهای برقی به عنوان «اسباب‌بازی» خودداری کنند",
+      "lead": "معاون نخست‌وزیر ایرلند از والدین درخواست کرده است که از خرید اسکوترهای برقی به عنوان «اسباب‌بازی» برای فرزندانشان خودداری کنند. این درخواست پیش از اجرایی شدن محدودیت‌های سنی جدید در کشور مطرح شده است.",
+      "category": "lifestyle",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/parents-urged-to-stop-buying-e-scooters-as-toys-as-ireland-brings-in-new-laws-13565537",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 10:51:00 +0100",
+      "time": "۱۳:۲۱ - ۳۰ تیر",
+      "analyzed_at": "2026-07-22T09:10:23.164Z"
+    },
+    {
+      "id": "skynews_69e3e1f8ca",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "New defence secretary hits out at Russia after live-fire exercise 40 miles off UK coast",
+      "title_fa": "وزیر دفاع جدید بریتانیا پس از رزمایش با مهمات جنگی روسیه در ۴۰ مایلی سواحل بریتانیا، به مسکو اعتراض کرد",
+      "lead": "وس استریتینگ، وزیر دفاع جدید بریتانیا، رزمایش نظامی با مهمات جنگی را که توسط یک ناو جنگی روسی در حدود ۴۰ مایل دریایی (۴۶ مایل) از سواحل بریتانیا انجام شد، مورد انتقاد قرار داد. او این اقدام را «نمایشی و غیرمسئولانه» خواند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/russian-warship-carries-out-live-fire-weapons-exercise-46-miles-off-uk-coast-mod-says-13561289",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 06:10:00 +0100",
+      "time": "۰۸:۴۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-22T09:10:23.164Z"
+    },
+    {
+      "id": "skynews_eb1113e186",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Why last two years are worrying for future of Arctic",
+      "title_fa": "چرا دو سال گذشته برای آینده قطب شمال نگران‌کننده است",
+      "lead": "دانشمندان دریافته‌اند که پس از کند شدن روند ذوب یخ در اوایل دهه، یخ دریای زمستانی قطب شمال دوباره با سرعت زیادی در حال کاهش است. این وضعیت نگرانی‌هایی را برای آینده این منطقه ایجاد کرده است.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/why-last-two-years-are-worrying-for-future-of-arctic-13565448",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 23:03:00 +0100",
+      "time": "۰۱:۳۳ - ۳۰ تیر",
+      "analyzed_at": "2026-07-22T09:10:23.164Z"
     }
   ]
 }
