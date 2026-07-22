@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 9,
   "articles": [
     {
       "id": "bbc_63d3b1cc0c",
@@ -74,6 +74,150 @@
       "pubDate": "Tue, 21 Jul 2026 17:33:22 GMT",
       "time": "۲۱:۰۳ - ۳۰ تیر",
       "analyzed_at": "2026-07-22T00:05:13.618Z"
+    },
+    {
+      "id": "bbc_1593d8f34b",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "title_fa": "آمریکا حملات علیه ایران را از سر گرفت؛ ترامپ تهدید به حمله به تأسیسات هسته‌ای زیرزمینی کرد",
+      "lead": "آمریکا حملات خود به ایران را از سر گرفته است. این اقدام پیش از یازدهمین شب متوالی حملات و در حالی صورت گرفت که رئیس‌جمهور آمریکا تهدید به حمله به یک سایت هسته‌ای زیرزمینی ایران کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Wed, 22 Jul 2026 03:05:08 GMT",
+      "time": "۰۶:۳۵ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T04:21:28.556Z"
+    },
+    {
+      "id": "bbc_017fde03ed",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+      "title_fa": "به گفته هگست، جنگ ایران تاکنون ۳۷.۵ میلیارد دلار برای آمریکا هزینه داشته است و پنتاگون میلیاردها دلار بیشتر می‌خواهد",
+      "lead": "به گفته هگست، جنگ با ایران تاکنون ۳۷.۵ میلیارد دلار برای ایالات متحده هزینه داشته است. این اظهارات در حالی مطرح می‌شود که پنتاگون درخواست میلیاردها دلار بودجه بیشتر را دارد و جلسه استماع با اعتراضات و مشاجرات لفظی مختل شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Wed, 22 Jul 2026 02:15:05 GMT",
+      "time": "۰۵:۴۵ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T04:21:28.556Z"
+    },
+    {
+      "id": "bbc_0283a0940c",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "France passes law banning under-15s from social media",
+      "title_fa": "فرانسه قانونی برای منع افراد زیر ۱۵ سال از شبکه‌های اجتماعی تصویب کرد",
+      "lead": "فرانسه قانونی را تصویب کرده که بر اساس آن پلتفرم‌های شبکه‌های اجتماعی از ژانویه موظف به تأیید سن تمام کاربران خواهند بود. این قانون عملاً افراد زیر ۱۵ سال را از دسترسی به شبکه‌های اجتماعی منع می‌کند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 03:50:55 GMT",
+      "time": "۰۷:۲۰ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T04:21:28.556Z"
+    },
+    {
+      "id": "bbc_3e5a045542",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
+      "title_fa": "رستوران‌دار ستاره‌دار میشلن به دلیل استفاده از مورچه در تزئین دسر با خطر زندان روبرو است",
+      "lead": "یک رستوران‌دار ستاره‌دار میشلن در کره جنوبی به دلیل اتهامات مربوط به استفاده از مورچه به عنوان تزئین دسر با خطر زندان روبرو است. مقامات اعلام کرده‌اند که این رستوران طی چهار سال حدود ۴۹,۰۰۰ مورچه را در غذاهای مختلف به کار برده است.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 22 Jul 2026 03:32:56 GMT",
+      "time": "۰۷:۰۲ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T04:21:28.556Z"
+    },
+    {
+      "id": "bbc_1c8076948e",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
+      "title_fa": "تصاویر هولناک در جلسه دادرسی D4vd 'بدترین کابوس' برای خانواده دختر نوجوان است",
+      "lead": "تصاویر هولناک ارائه شده در جلسه دادرسی D4vd به عنوان \"بدترین کابوس\" برای خانواده دختر نوجوان توصیف شده است. دادگاه شنید که خواننده کیف جسد، اره برقی و یک استخر بادی سفارش داده بود که ادعا می‌شود برای از بین بردن جسد نوجوان بوده است.",
+      "category": "crime",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 22 Jul 2026 02:33:11 GMT",
+      "time": "۰۶:۰۳ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T04:21:28.556Z"
+    },
+    {
+      "id": "bbc_45189b3b8a",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+      "title_fa": "توکیو از مردان می‌خواهد در محل کار شلوارک بپوشند، اما برخی زنان آن را 'آزار و اذیت موی پا' می‌دانند",
+      "lead": "دولت کلان‌شهری توکیو کارمندان را تشویق می‌کند تا به جای کت و شلوار سنتی و کراوات، تی‌شرت، کفش ورزشی و شلوارک بپوشند. با این حال، این ابتکار بحث‌برانگیز شده و برخی زنان آن را \"آزار و اذیت موی پا\" توصیف کرده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 22:26:19 GMT",
+      "time": "۰۱:۵۶ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T04:21:28.556Z"
     }
   ]
 }
