@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "aljazeera",
-  "total": 66,
+  "total": 68,
   "articles": [
     {
       "id": "aljazeera_a2d0729320",
@@ -1586,6 +1586,54 @@
       "pubDate": "Tue, 21 Jul 2026 22:53:42 +0000",
       "time": "۰۲:۲۳ - ۳۱ تیر",
       "analyzed_at": "2026-07-21T23:19:14.799Z"
+    },
+    {
+      "id": "aljazeera_39384d8560",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
+      "title_fa": "ارتش لبنان در «مناطق پایلوت» تحت طرح مورد حمایت آمریکا مستقر می‌شود",
+      "lead": "ارتش لبنان استقرار خود را در سه شهر جنوبی آغاز کرده است. این اقدام بخشی از یک توافق چارچوبی با اسرائیل است که از حمایت آمریکا برخوردار است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 22:56:12 +0000",
+      "time": "۰۲:۲۶ - ۳۱ تیر",
+      "analyzed_at": "2026-07-21T23:50:05.415Z"
+    },
+    {
+      "id": "aljazeera_bdab6d3b3e",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
+      "title_fa": "دولت ترامپ به چپ‌گرایان آمریکا حمله می‌کند و مدعی ارتباط آنها با کوبا می‌شود: نکات کلیدی",
+      "lead": "دولت ترامپ به چپ‌گرایان آمریکا حمله کرده و مدعی ارتباط آنها با کوبا شده است. یک گزارش آمریکایی می‌گوید دولت کوبا در هاوانا «بافت همبند» یک «ائتلاف ضدآمریکایی» جهانی است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 21 Jul 2026 22:55:43 +0000",
+      "time": "۰۲:۲۵ - ۳۱ تیر",
+      "analyzed_at": "2026-07-21T23:50:05.415Z"
     }
   ]
 }
