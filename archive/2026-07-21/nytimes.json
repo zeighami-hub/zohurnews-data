@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "nytimes",
-  "total": 34,
+  "total": 36,
   "articles": [
     {
       "id": "nytimes_2ab915cd19",
@@ -814,6 +814,54 @@
       "pubDate": "Tue, 21 Jul 2026 14:24:29 +0000",
       "time": "۱۷:۵۴ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T20:30:13.280Z"
+    },
+    {
+      "id": "nytimes_248cfb5c38",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "What to Know About Iran’s Pickaxe Mountain",
+      "title_fa": "آنچه باید درباره «کوه پیکاکس» ایران بدانیم",
+      "lead": "یک مجتمع زیرزمینی مستحکم در مرکز ایران و در فاصله حدود یک مایلی از تاسیسات غنی‌سازی اورانیوم نطنز قرار دارد. این گزارش اطلاعاتی را در مورد این سایت که با عنوان «کوه پیکاکس» شناخته می‌شود، ارائه می‌دهد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/middleeast/pickaxe-mountain-iran-nuclear.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 20:59:02 +0000",
+      "time": "۰۰:۲۹ - ۳۱ تیر",
+      "analyzed_at": "2026-07-21T21:35:40.755Z"
+    },
+    {
+      "id": "nytimes_ba82d085e3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Wartime Rift in Ukraine",
+      "title_fa": "شکافی در زمان جنگ در اوکراین",
+      "lead": "ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، ژنرال ارشد خود را پس از بالا گرفتن درگیری بین افسران قدیمی و نوآوران جوان، برکنار کرد. این شکاف در دوران جنگ اوکراین، نگرانی‌هایی را در پی داشته است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/ukraine-general-fired-india-protests.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Tue, 21 Jul 2026 21:00:59 +0000",
+      "time": "۰۰:۳۰ - ۳۱ تیر",
+      "analyzed_at": "2026-07-21T21:35:40.755Z"
     }
   ]
 }
