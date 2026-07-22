@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "skynews",
-  "total": 8,
+  "total": 11,
   "articles": [
     {
       "id": "skynews_1d21b818cd",
@@ -194,6 +194,78 @@
       "pubDate": "Mon, 20 Jul 2026 23:03:00 +0100",
       "time": "۰۱:۳۳ - ۳۰ تیر",
       "analyzed_at": "2026-07-22T09:10:23.164Z"
+    },
+    {
+      "id": "skynews_3e8a6ee70a",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Modelling scout linked to Jeffrey Epstein found dead in Paris home",
+      "title_fa": "کشف جسد یک استعدادیاب مدلینگ مرتبط با جفری اپستین در خانه‌اش در پاریس",
+      "lead": "یک استعدادیاب مدلینگ که با جفری اپستین در ارتباط بوده است، در خانه‌اش در پاریس درگذشت. این خبر به پرونده جفری اپستین، که شامل اتهامات قاچاق جنسی است، ارتباط می‌یابد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/modelling-scout-linked-to-jeffrey-epstein-found-dead-in-paris-home-13565917",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Wed, 22 Jul 2026 11:57:00 +0100",
+      "time": "۱۴:۲۷ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T11:14:31.137Z"
+    },
+    {
+      "id": "skynews_414438fc36",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Hitler’s birthplace reopens as police station to deter neo-Nazis",
+      "title_fa": "زادگاه هیتلر به عنوان ایستگاه پلیس برای جلوگیری از نئونازی‌ها بازگشایی شد",
+      "lead": "ساختمانی که آدولف هیتلر در آن متولد شد، به ایستگاه پلیس تبدیل شده است. این اقدام از سوی دولت اتریش با هدف جلوگیری از تبدیل شدن آن به زیارتگاه نئونازی‌ها صورت گرفته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/stripped-of-mystique-hitlers-birthplace-reopens-as-police-station-to-deter-neo-nazi-pilgrims-13565882",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "pubDate": "Wed, 22 Jul 2026 10:06:00 +0100",
+      "time": "۱۲:۳۶ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T11:14:31.137Z"
+    },
+    {
+      "id": "skynews_97f2421ab9",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Rebel Wilson cleared of defaming star of her film on Instagram",
+      "title_fa": "ربل ویلسون از اتهام افترا به ستاره فیلمش در اینستاگرام تبرئه شد",
+      "lead": "ربل ویلسون از اتهام افترا به بازیگر دیگری در شبکه‌های اجتماعی تبرئه شده است.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/rebel-wilson-cleared-of-defaming-the-deb-star-charlotte-macinnes-on-instagram-13565863",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 09:21:00 +0100",
+      "time": "۱۱:۵۱ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T11:14:31.137Z"
     }
   ]
 }
