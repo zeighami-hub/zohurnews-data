@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "aljazeera",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "aljazeera_dfaf23ab2c",
@@ -98,6 +98,30 @@
       "pubDate": "Wed, 22 Jul 2026 01:45:35 +0000",
       "time": "۰۵:۱۵ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T02:19:07.902Z"
+    },
+    {
+      "id": "aljazeera_7f7f63539a",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak",
+      "title_fa": "آمریکا: بیش از ۱۴۰۰ نفر به دلیل شیوع بیماری انگلی سیکلوسپورا مبتلا شده‌اند",
+      "lead": "مقامات آمریکایی اعلام کرده‌اند که بیش از ۱۴۰۰ نفر در پی شیوع بیماری انگلی سیکلوسپورا مبتلا شده‌اند. شواهد اولیه به کاهوی کشت‌شده در مکزیک اشاره دارد، اما وزارت بهداشت مکزیک این ادعا را رد می‌کند.",
+      "category": "politics",
+      "region": "north_america",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/22/us-says-more-than-1400-infected-by-parasitic-cyclospora-illness-outbreak?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 22 Jul 2026 02:01:28 +0000",
+      "time": "۰۵:۳۱ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T02:34:03.890Z"
     }
   ]
 }
