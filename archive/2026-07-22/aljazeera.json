@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "aljazeera_dfaf23ab2c",
@@ -26,6 +26,30 @@
       "pubDate": "Tue, 21 Jul 2026 23:46:00 +0000",
       "time": "۰۳:۱۶ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T00:05:13.618Z"
+    },
+    {
+      "id": "aljazeera_cf460f0a99",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
+      "title_fa": "جنگ ایران به صورت زنده: آمریکا حملات جدیدی را آغاز کرد؛ هگسث می‌گوید جنگ ۳۷.۵ میلیارد دلار هزینه داشته است.",
+      "lead": "دونالد ترامپ تهدید کرده است که یک سایت هسته‌ای مشکوک ایران به نام «کوه پیکاکس» را به شدت بمباران خواهد کرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 22 Jul 2026 00:00:15 +0000",
+      "time": "۰۳:۳۰ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T00:48:34.041Z"
     }
   ]
 }
