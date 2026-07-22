@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "bbc",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_63d3b1cc0c",
@@ -458,6 +458,54 @@
       "pubDate": "Wed, 22 Jul 2026 05:03:42 GMT",
       "time": "۰۸:۳۳ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T08:59:19.339Z"
+    },
+    {
+      "id": "bbc_9f4923b5ed",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "title_fa": "زلنسکی فرمانده ارشد ارتش اوکراین را پس از روزها اعتراض برکنار کرد",
+      "lead": "ولودیمیر زلنسکی، فرمانده ارشد ارتش اوکراین، اولکساندر سیرسکی را برکنار کرد. این تصمیم پس از واکنش‌های شدید به برکناری وزیر دفاع محبوب، میخایلو فدروف، گرفته شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 05:37:43 GMT",
+      "time": "۰۹:۰۷ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T09:10:23.164Z"
+    },
+    {
+      "id": "bbc_c12a062cc2",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Why are thousands protesting for education reform in India?",
+      "title_fa": "چرا هزاران نفر در هند برای اصلاحات آموزشی تظاهرات می‌کنند؟",
+      "lead": "هزاران نفر، که عمدتاً جوان هستند، تلاش کردند تا به سمت پارلمان هند راهپیمایی کنند. آنها خواستار تغییراتی در نحوه اداره سیستم آموزشی این کشور هستند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 10:01:59 GMT",
+      "time": "۱۳:۳۱ - ۳۰ تیر",
+      "analyzed_at": "2026-07-22T09:10:23.164Z"
     }
   ]
 }
