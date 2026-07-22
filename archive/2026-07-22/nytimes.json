@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_06a70945a6",
@@ -74,6 +74,30 @@
       "pubDate": "Wed, 22 Jul 2026 05:02:40 +0000",
       "time": "۰۸:۳۲ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T05:38:14.110Z"
+    },
+    {
+      "id": "nytimes_18875c2364",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Japan Is Startled by Prime Minister’s Grueling Sleep Schedule",
+      "title_fa": "ژاپن از برنامه خواب طاقت‌فرسای نخست‌وزیر شوکه شده است",
+      "lead": "سنائی تاکایچی گفته است که او هر شب تنها «صفر تا سه ساعت» می‌خوابد. این موضوع باعث ایجاد بحثی در کشور درباره تعادل کار و زندگی شده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "pubDate": "Wed, 22 Jul 2026 06:03:37 +0000",
+      "time": "۰۹:۳۳ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T06:23:07.280Z"
     }
   ]
 }
