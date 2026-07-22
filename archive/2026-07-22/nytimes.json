@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "nytimes",
-  "total": 17,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_06a70945a6",
@@ -410,6 +410,102 @@
       "pubDate": "Tue, 21 Jul 2026 16:00:47 +0000",
       "time": "۱۹:۳۰ - ۳۰ تیر",
       "analyzed_at": "2026-07-22T09:10:23.164Z"
+    },
+    {
+      "id": "nytimes_a849a55b14",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran War Live Updates: Rubio Signals No Letup in U.S. Strikes",
+      "title_fa": "به‌روزرسانی زنده جنگ ایران: روبیو از عدم کاهش حملات آمریکا خبر داد",
+      "lead": "سناتور مارکو روبیو، وزیر امور خارجه، اعلام کرد که ایالات متحده به حملات خود علیه ایران ادامه خواهد داد. این حملات تا زمانی که ایران تلاش کند تنگه هرمز را کنترل کند، ادامه خواهند داشت و او معتقد است تهران در مورد دیپلماسی جدی نیست.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Wed, 22 Jul 2026 11:01:18 +0000",
+      "time": "۱۴:۳۱ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T11:14:31.137Z"
+    },
+    {
+      "id": "nytimes_7136c2def8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Firing of Ukraine’s Top General Signals the End of an Era",
+      "title_fa": "برکناری ژنرال ارشد اوکراین نشان‌دهنده پایان یک دوران است",
+      "lead": "ژنرال اولکساندر سیرسکی، که فرماندهی نبردهای حیاتی را بر عهده داشت و بر گسترش جنگ پهپادی علیه روسیه نظارت می‌کرد، برکنار شد. این برکناری نشانه‌ای از پایان یک دوران است، اما بسیاری از اوکراینی‌ها خواستار اقدامات بیشتری هستند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 10:46:16 +0000",
+      "time": "۱۴:۱۶ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T11:14:31.137Z"
+    },
+    {
+      "id": "nytimes_0b7a030e42",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ukraine’s New Military Chief Faces a Monumental Test",
+      "title_fa": "فرمانده نظامی جدید اوکراین با آزمونی بزرگ روبروست",
+      "lead": "سرلشکر میخائیلو دراپاتی، فرمانده نظامی جدید اوکراین، با چالش بزرگی مواجه است. او باید بین حفظ استقلال مورد حمایت اصلاح‌طلبان نظامی و پذیرش نظرات سیاسی در استراتژی میدان نبرد، تعادل برقرار کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 10:33:59 +0000",
+      "time": "۱۴:۰۳ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T11:14:31.137Z"
+    },
+    {
+      "id": "nytimes_06033171a0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Lettuce-Growing Region in Mexico Stomachs the Fallout From the Cyclospora Outbreak",
+      "title_fa": "منطقه‌ای در مکزیک که کاهو می‌کارد، پیامدهای شیوع انگل سیکلوسپورا را تحمل می‌کند",
+      "lead": "یک منطقه تولیدکننده کاهو در مرکز مکزیک، به طور بالقوه با شیوع انگل سیکلوسپورا در ایالات متحده مرتبط شده است. این شیوع هزاران نفر را بیمار کرده و پیامدهای جدی برای این منطقه کشاورزی به همراه داشته است.",
+      "category": "health",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 22 Jul 2026 09:27:01 +0000",
+      "time": "۱۲:۵۷ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T11:14:31.137Z"
     }
   ]
 }
