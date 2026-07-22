@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "bbc",
-  "total": 19,
+  "total": 20,
   "articles": [
     {
       "id": "bbc_20e65dde04",
@@ -456,6 +456,30 @@
       "pubDate": "Mon, 20 Jul 2026 11:28:30 GMT",
       "time": "۱۴:۵۸ - ۲۹ تیر",
       "analyzed_at": "2026-07-21T11:29:49.626Z"
+    },
+    {
+      "id": "bbc_7ccdd96992",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Row escalates in Ukraine over army chief's future",
+      "title_fa": "جدال بر سر آینده فرمانده ارتش اوکراین بالا می‌گیرد",
+      "lead": "جدال بر سر آینده فرمانده ارتش اوکراین شدت گرفته است. معترضان خواستار برکناری اولکساندر سیرسکی و بازگرداندن میخائیلو فدوروف، وزیر دفاع سابق، تا روز جمعه هستند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 18:49:19 GMT",
+      "time": "۲۲:۱۹ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T20:04:29.044Z"
     }
   ]
 }
