@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "bbc",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "bbc_63d3b1cc0c",
@@ -218,6 +218,30 @@
       "pubDate": "Tue, 21 Jul 2026 22:26:19 GMT",
       "time": "۰۱:۵۶ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T04:21:28.556Z"
+    },
+    {
+      "id": "bbc_2223675f7b",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+      "title_fa": "ربل ویلسون در پرونده افترا مطرح شده از سوی بازیگری در فیلم خودش، تبرئه شد",
+      "lead": "ربل ویلسون، بازیگر زن، در پرونده اتهام افترا از سوی شارلوت مک‌اینس، بازیگر استرالیایی جوان، تبرئه شد. حکم تبرئه وی توسط دادگاهی در سیدنی صادر گشت.",
+      "category": "culture",
+      "region": "australia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "pubDate": "Wed, 22 Jul 2026 05:33:04 GMT",
+      "time": "۰۹:۰۳ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T05:52:26.728Z"
     }
   ]
 }
