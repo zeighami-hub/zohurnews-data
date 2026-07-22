@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "dw",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "dw_40300f19bc",
@@ -26,6 +26,30 @@
       "pubDate": "Tue, 21 Jul 2026 23:56:00 GMT",
       "time": "۰۳:۲۶ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T00:05:13.618Z"
+    },
+    {
+      "id": "dw_6f12dbf1c8",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Chile: Several dead, missing in severe rainstorm",
+      "title_fa": "شیلی: چندین کشته و مفقود در پی طوفان شدید",
+      "lead": "رئیس‌جمهور خوزه آنتونیو کاست در مناطق آسیب‌دیده کشور وضعیت اضطراری اعلام کرده است. این طوفان شدید منجر به کشته و مفقود شدن چندین نفر شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.dw.com/en/chile-several-dead-missing-in-severe-rainstorm/a-78061120?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 22 Jul 2026 06:09:00 GMT",
+      "time": "۰۹:۳۹ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T06:23:07.280Z"
     }
   ]
 }
