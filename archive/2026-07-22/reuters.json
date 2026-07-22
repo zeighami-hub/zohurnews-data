@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "reuters",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "reuters_cec067ffed",
@@ -190,6 +190,50 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-22T06:08:11.943Z"
+    },
+    {
+      "id": "reuters_9",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "EXCLUSIVE: Pakistan seeks $10 billion fund from US after mediating Iran talks, source says - Reuters",
+      "title_fa": "اختصاصی: رویترز گزارش داد، پاکستان پس از میانجی‌گری در گفتگوهای ایران، ۱۰ میلیارد دلار کمک از آمریکا می‌خواهد",
+      "lead": "یک منبع به رویترز اطلاع داده است که پاکستان پس از میانجی‌گری در گفتگوهای مربوط به ایران، از ایالات متحده درخواست کمک ۱۰ میلیارد دلاری کرده است. این درخواست مالی به دنبال نقش پاکستان در تسهیل مذاکرات دیپلماتیک مطرح شده است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT190ZlgyOU0tU2VUdFRleldkdkdEZ0JiUEJGVlFiNUFQQ3RPLTdmSi15MTJ5V19tSXZOTWxlQWV3cHBkMU8wU3BxRDFfbVZNMFdpZnNPbmVHd09XZV85YTdCaTFBejFzYXd6WUpkVTI1MUdyLWJDRXNSZVhGWjMwajlEOEQtWlVqVFRyRmlQQ0VkTk1pdzRIbjRjS3RQNjVkMGIxRHJEM21IMFdqUS1jWHJCUDUzY093bjg5ZENvU09PYTVTaGc4?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-22T06:43:37.163Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Rubio says US still willing to negotiate over Iran crisis - Reuters",
+      "title_fa": "روبیو: آمریکا همچنان مایل به مذاکره بر سر بحران ایران است",
+      "lead": "سناتور روبیو اعلام کرد که ایالات متحده همچنان مایل به مذاکره است. این مذاکرات بر سر بحران ایران خواهد بود.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cWxONHRSTEdBY3l6NGhsLTFvUDRHeThEZkgzQzdzeDVSOWk1NzJ3R3dCT1JZWkE0VWoycVhEaG0wdmtWTnFyWElMbklkcFRUMW9qTkdqWGFfVHpDaDgyTnFNWGF4clVQSENtY2x5OS14dDBYX3JjYTdXRkV1SUZlcDU3eTduYXp3VndEMzlWZmpvZjY5S3dhVmdMdk5JVFhvNzNCQmJBRjBRX1daQ2ZB?oc=1",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "analyzed_at": "2026-07-22T06:23:07.280Z"
     }
   ]
 }
