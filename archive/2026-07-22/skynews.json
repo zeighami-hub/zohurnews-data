@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "skynews_1d21b818cd",
@@ -50,6 +50,30 @@
       "pubDate": "Wed, 22 Jul 2026 06:11:00 +0100",
       "time": "۰۸:۴۱ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T05:52:26.728Z"
+    },
+    {
+      "id": "skynews_0be75ed7e6",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Wreck of Pan Am plane found 74 years after ocean crash",
+      "title_fa": "لاشه هواپیمای پان ام پس از ۷۴ سال از سقوط در اقیانوس پیدا شد",
+      "lead": "لاشه هواپیمای پان ام که ۷۴ سال پیش سقوط کرد و منجر به اجباری شدن جلسات ایمنی در پروازها شد، در سواحل پورتوریکو پیدا شده است. این کشف پس از دهه‌ها صورت می‌گیرد.",
+      "category": "science",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/wreck-of-pan-am-plane-found-74-years-after-crash-that-became-rallying-cry-for-aviation-safety-13565848",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Wed, 22 Jul 2026 07:44:00 +0100",
+      "time": "۱۰:۱۴ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T08:59:19.339Z"
     }
   ]
 }
