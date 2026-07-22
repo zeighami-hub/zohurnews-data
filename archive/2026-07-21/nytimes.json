@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "nytimes",
-  "total": 31,
+  "total": 34,
   "articles": [
     {
       "id": "nytimes_2ab915cd19",
@@ -742,6 +742,78 @@
       "pubDate": "Tue, 21 Jul 2026 17:21:51 +0000",
       "time": "۲۰:۵۱ - ۳۰ تیر",
       "analyzed_at": "2026-07-21T20:04:29.044Z"
+    },
+    {
+      "id": "nytimes_2b14df0126",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Zelensky Dismisses Ukraine’s Top General",
+      "title_fa": "زلنسکی ژنرال ارشد اوکراین را برکنار کرد",
+      "lead": "ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، ژنرال ارشد این کشور را برکنار کرد. این اقدام به دنبال موجی از اعتراضات در واکنش به اخراج وزیر دفاع صورت گرفت که با ژنرال بر سر نحوه نبرد اختلاف داشت.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Tue, 21 Jul 2026 19:43:53 +0000",
+      "time": "۲۳:۱۳ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
+    },
+    {
+      "id": "nytimes_e9335f7baf",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "British Politician Ann Widdecombe Was Murdered with a Hammer, Prosecutors Say",
+      "title_fa": "دادستان‌ها می‌گویند: آن وایدکامب، سیاستمدار بریتانیایی، با چکش به قتل رسید",
+      "lead": "دادستان‌ها اعلام کردند که آن وایدکامب، سیاستمدار بریتانیایی، با چکش به قتل رسیده است. طبق فیلم‌های امنیتی، او در حال ناهار خوردن در خانه‌اش بود که مردی وارد شد و در مورد کارت‌های بانکی او پرسید.",
+      "category": "crime",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/europe/ann-widdecombe-death-hammer.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 16:00:47 +0000",
+      "time": "۱۹:۳۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
+    },
+    {
+      "id": "nytimes_f35f20d413",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds",
+      "title_fa": "یک مطالعه نشان می‌دهد که ۱۷۰۰ مرکز درمانی اچ‌آی‌وی پس از کاهش کمک‌های ترامپ تعطیل شدند",
+      "lead": "پژوهش جدید نشان می‌دهد که پس از کاهش کمک‌های دولت ترامپ، ۱۷۰۰ مرکز درمانی اچ‌آی‌وی تعطیل شده‌اند. این اتفاق به ویژه کودکان و جمعیت‌های پرخطر بزرگسال را تحت تأثیر قرار داده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 21 Jul 2026 14:24:29 +0000",
+      "time": "۱۷:۵۴ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
     }
   ]
 }
