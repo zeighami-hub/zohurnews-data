@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "skynews",
-  "total": 8,
+  "total": 12,
   "articles": [
     {
       "id": "skynews_eb1113e186",
@@ -194,6 +194,102 @@
       "pubDate": "Mon, 20 Jul 2026 08:31:00 +0100",
       "time": "۱۱:۰۱ - ۲۹ تیر",
       "analyzed_at": "2026-07-21T11:29:49.626Z"
+    },
+    {
+      "id": "skynews_8ba0c5a1f1",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "At least 10 dead in India tunnel disaster with 17 feared trapped",
+      "title_fa": "دست‌کم ۱۰ کشته در فاجعه تونل در هند با نگرانی از گرفتار شدن ۱۷ نفر دیگر",
+      "lead": "دست‌کم ۱۰ نفر در حادثه‌ای در یک تونل در حال ساخت در هند جان باخته‌اند. نگرانی‌هایی از گرفتار شدن ۱۷ نفر دیگر در این حادثه وجود دارد.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/at-least-10-dead-in-india-tunnel-disaster-with-17-feared-trapped-13565561",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 11:30:00 +0100",
+      "time": "۱۴:۰۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
+    },
+    {
+      "id": "skynews_e0da6d0d08",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "'One in 15 million chance' identical quadruplets born in Australia",
+      "title_fa": "تولد چهارقلوهای همسان با احتمال \"یک در ۱۵ میلیون\" در استرالیا",
+      "lead": "یک زن استرالیایی چهارقلوهای همسان که به طور طبیعی از یک جنین لقاح یافته‌اند، به دنیا آورده است. این رویداد با احتمال یک در ۱۵ میلیون اتفاق می‌افتد.",
+      "category": "social",
+      "region": "oceania",
+      "sourceUrl": "https://news.sky.com/story/four-precious-miracles-identical-quadruplets-born-in-australia-in-a-one-in-15-million-chance-13565549",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 11:16:00 +0100",
+      "time": "۱۳:۴۶ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
+    },
+    {
+      "id": "skynews_8ba3ecfa2f",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Parents urged to stop buying e-scooters as 'toys' as Ireland brings in new age limit",
+      "title_fa": "در پی وضع محدودیت سنی جدید در ایرلند، از والدین خواسته شد تا از خرید اسکوترهای برقی به عنوان \"اسباب‌بازی\" خودداری کنند",
+      "lead": "معاون نخست‌وزیر ایرلند از والدین خواسته است که با توجه به اعمال محدودیت‌های سنی جدید، از خرید اسکوترهای برقی به عنوان \"اسباب‌بازی\" برای فرزندانشان خودداری کنند. این قانون جدید به زودی به اجرا گذاشته می‌شود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/parents-urged-to-stop-buying-e-scooters-as-toys-as-ireland-brings-in-new-laws-13565537",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 21 Jul 2026 10:51:00 +0100",
+      "time": "۱۳:۲۱ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
+    },
+    {
+      "id": "skynews_59a7a04ae4",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Trump slaps more tariffs on Canada over 'discrimination'",
+      "title_fa": "ترامپ تعرفه‌های بیشتری را بر کانادا به دلیل «تبعیض» وضع کرد",
+      "lead": "دولت ترامپ ۵۰ درصد تعرفه بیشتر بر کالاهای کانادایی وضع کرده است. یک مقام ادعا کرده که این اقدامات در پاسخ به «تبعیض مداوم» کانادا صورت گرفته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/trump-administration-imposes-50-tariffs-on-canadian-goods-over-continued-discrimination-13565443",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Mon, 20 Jul 2026 22:32:00 +0100",
+      "time": "۰۱:۰۲ - ۳۰ تیر",
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
     }
   ]
 }
