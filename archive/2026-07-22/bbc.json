@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "bbc",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "bbc_63d3b1cc0c",
@@ -362,6 +362,30 @@
       "pubDate": "Mon, 20 Jul 2026 17:16:20 GMT",
       "time": "۲۰:۴۶ - ۲۹ تیر",
       "analyzed_at": "2026-07-22T07:42:17.263Z"
+    },
+    {
+      "id": "bbc_34f02bfc8e",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+      "title_fa": "دولت مودی در هند با تشدید اعتراضات «سوسک‌ها» تحت فشار فزاینده قرار گرفت",
+      "lead": "دولت مودی در هند با تشدید اعتراضات موسوم به «سوسک‌ها» تحت فشار فزاینده‌ای قرار گرفته است. حزب مخالف کنگره نیز با تظاهرات در مقابل خانه نخست‌وزیر، حمایت خود را از این جنبش تقویت کرد.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Wed, 22 Jul 2026 08:02:04 GMT",
+      "time": "۱۱:۳۲ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T08:26:43.264Z"
     }
   ]
 }
