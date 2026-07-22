@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_06a70945a6",
@@ -506,6 +506,30 @@
       "pubDate": "Wed, 22 Jul 2026 09:27:01 +0000",
       "time": "۱۲:۵۷ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T11:14:31.137Z"
+    },
+    {
+      "id": "nytimes_248cfb5c38",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Threatened to Strike Pickaxe Mountain, a Suspected Iranian Nuclear Site. Here’s What to Know.",
+      "title_fa": "تهدید ترامپ به حمله به کوه پیکاکس، یک سایت هسته‌ای مظنون ایران؛ آنچه باید بدانید",
+      "lead": "ترامپ تهدید کرده است که به کوه پیکاکس، یک سایت هسته‌ای مظنون در ایران، حمله خواهد کرد. این مجتمع زیرزمینی مستحکم، در مرکز ایران، حدود یک مایل با تاسیسات غنی‌سازی اورانیوم نطنز فاصله دارد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/21/world/middleeast/pickaxe-mountain-iran-nuclear.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 21 Jul 2026 20:59:02 +0000",
+      "time": "۰۰:۲۹ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T11:45:19.631Z"
     }
   ]
 }
