@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "reuters",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "reuters_cec067ffed",
@@ -168,6 +168,28 @@
       "pubDate": "Wed, 22 Jul 2026 00:57:00 GMT",
       "time": "۰۴:۲۷ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T04:05:13.670Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Rubio says US still willing to negotiate over Iran crisis  Reuters",
+      "title_fa": "روبیو می‌گوید آمریکا همچنان مایل به مذاکره بر سر بحران ایران است",
+      "lead": "سناتور آمریکایی، مارکو روبیو، اعلام کرده است که ایالات متحده همچنان تمایل دارد تا در مورد بحران ایران مذاکره کند. این اظهارات در بحبوحه تنش‌های جاری بین دو کشور مطرح شده است.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cWxONHRSTEdBY3l6NGhsLTFvUDRHeThEZkgzQzdzeDVSOWk1NzJ3R3dCT1JZWkE0VWoycVhEaG0wdmtWTnFyWElMbklkcFRUMW9qTkdqWGFfVHpDaDgyTnFNWGF4clVQSENtY2x5OS14dDBYX3JjYTdXRkV1SUZlcDU3eTduYXp3VndEMzlWZmpvZjY5S3dhVmdMdk5JVFhvNzNCQmJBRjBRX1daQ2ZB?oc=c",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-22T06:08:11.943Z"
     }
   ]
 }
