@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_06a70945a6",
@@ -50,6 +50,30 @@
       "pubDate": "Wed, 22 Jul 2026 00:00:13 +0000",
       "time": "۰۳:۳۰ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T00:18:41.448Z"
+    },
+    {
+      "id": "nytimes_efdec11a66",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran’s Neighbors Long for a Deal, Any Deal, to End the War",
+      "title_fa": "همسایگان ایران بی‌صبرانه خواهان هرگونه توافقی برای پایان دادن به جنگ هستند",
+      "lead": "صاحبان مشاغل در پاکستان بی‌صبرانه منتظر فرصتی برای مبادله کالا و نفت در مرز طولانی مشترک خود با ایران هستند. آنها خواهان هر توافقی برای پایان دادن به جنگ هستند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/22/world/asia/iran-pakistan-karachi-trade-oil.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Wed, 22 Jul 2026 05:02:40 +0000",
+      "time": "۰۸:۳۲ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T05:38:14.110Z"
     }
   ]
 }
