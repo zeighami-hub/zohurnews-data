@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "skynews",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "skynews_1d21b818cd",
@@ -266,6 +266,30 @@
       "pubDate": "Wed, 22 Jul 2026 09:21:00 +0100",
       "time": "۱۱:۵۱ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T11:14:31.137Z"
+    },
+    {
+      "id": "skynews_4296629155",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Father, mother, their three daughters and son killed in Israeli airstrike in Gaza",
+      "title_fa": "پدر، مادر، سه دختر و پسرشان در حمله هوایی اسرائیل در غزه کشته شدند",
+      "lead": "یک خانواده شش نفره شامل پدر، مادر، سه دختر و پسرشان در نوار غزه در یک حمله هوایی اسرائیل کشته شدند. این حادثه در جریان درگیری‌های جاری منطقه رخ داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/family-of-six-killed-in-gaza-in-israeli-airstrike-13565495",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 08:33:00 +0100",
+      "time": "۱۱:۰۳ - ۳۰ تیر",
+      "analyzed_at": "2026-07-22T11:45:19.631Z"
     }
   ]
 }
