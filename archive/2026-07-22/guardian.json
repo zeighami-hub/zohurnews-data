@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "guardian",
-  "total": 10,
+  "total": 13,
   "articles": [
     {
       "id": "guardian_5863d15e18",
@@ -242,6 +242,78 @@
       "pubDate": "Tue, 21 Jul 2026 15:10:35 GMT",
       "time": "۱۸:۴۰ - ۳۰ تیر",
       "analyzed_at": "2026-07-22T08:59:19.339Z"
+    },
+    {
+      "id": "guardian_4f55f27e52",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts",
+      "title_fa": "ادعاهای آمریکا مبنی بر «تهدید منحصر به فرد» کوبا با واقعیت گرسنگی و خاموشی‌ها در تضاد است",
+      "lead": "گزارش ۱۰۰ صفحه‌ای وزارت خارجه آمریکا آخرین تلاش در کارزار دولت ترامپ برای سرنگونی دولت کوبا است. این گزارش ادعا می‌کند که کوبا در پشت بسیاری از «بزرگترین آشفتگی‌های اخیر در تاریخ سیاسی آمریکا» قرار دارد، اما این ادعاها با واقعیت‌های داخلی کوبا مانند گرسنگی و خاموشی‌ها در تضاد است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/21/us-state-department-report-cuba",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 21 Jul 2026 13:33:35 GMT",
+      "time": "۱۷:۰۳ - ۳۰ تیر",
+      "analyzed_at": "2026-07-22T09:10:23.164Z"
+    },
+    {
+      "id": "guardian_ca3eb54930",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "We received no alert, say leaders of First Nations communities razed by Canadian wildfires",
+      "title_fa": "رهبران جوامع بومی کانادا که توسط آتش‌سوزی‌های جنگلی ویران شدند: هیچ هشداری دریافت نکردیم",
+      "lead": "سران جوامع بومی در انتاریو می‌گویند پس از اینکه به آنها گفته شد هیچ تهدید قریب‌الوقوعی وجود ندارد، مجبور شدند خودشان تخلیه کنند و سپس خانه‌هایشان در آتش سوخت. آتش‌سوزی‌های جنگلی سریع‌الانتشار دو جامعه بومی در کانادا را به طور کامل ویران کرده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 11:45:30 GMT",
+      "time": "۱۵:۱۵ - ۳۰ تیر",
+      "analyzed_at": "2026-07-22T09:10:23.164Z"
+    },
+    {
+      "id": "guardian_9e2ea96b48",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "title_fa": "«ما در حال حفظ یک سنت هستیم»: چگونه پوسترهای فیلم‌های غنایایی بحث‌برانگیز به هنر قابل جمع‌آوری تبدیل شدند",
+      "lead": "آثار نقاشی دستی اغلب با فیلم‌هایی که به تصویر می‌کشند تفاوت زیادی دارند. این بازتفسیرها گاهی اوقات منجر به تهدید، توهین و حتی حملات فیزیکی از سوی تماشاگرانی می‌شد که احساس فریب‌خوردگی می‌کردند.",
+      "category": "culture",
+      "region": "africa",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 04:00:47 GMT",
+      "time": "۰۷:۳۰ - ۲۷ تیر",
+      "analyzed_at": "2026-07-22T09:10:23.164Z"
     }
   ]
 }
