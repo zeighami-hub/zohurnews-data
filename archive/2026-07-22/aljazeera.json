@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "aljazeera",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "aljazeera_dfaf23ab2c",
@@ -50,6 +50,30 @@
       "pubDate": "Wed, 22 Jul 2026 00:00:15 +0000",
       "time": "۰۳:۳۰ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T00:48:34.041Z"
+    },
+    {
+      "id": "aljazeera_7d5f84263c",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Former Biden official can’t see ‘pilot zones’ scheme working in Lebanon",
+      "title_fa": "مقام سابق دولت بایدن: طرح «مناطق آزمایشی» در لبنان موفق نخواهد شد",
+      "lead": "یک مقام سابق دولت بایدن اظهار داشته که طرح «مناطق آزمایشی» در لبنان موفق نخواهد شد. همچنین، گاویتو پیش‌بینی می‌کند که اسرائیل به احتمال زیاد به فشار بر لبنان ادامه خواهد داد و خروج کامل در بحبوحه نگرانی‌های امنیتی بعید به نظر می‌رسد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_gavito-cant-see-pilot-zones-working-in-lebanon-210726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 22 Jul 2026 01:21:29 +0000",
+      "time": "۰۴:۵۱ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T01:33:57.165Z"
     }
   ]
 }
