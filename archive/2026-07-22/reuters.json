@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "reuters",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "reuters_cec067ffed",
@@ -120,6 +120,30 @@
         "negative": 100
       },
       "analyzed_at": "2026-07-22T02:19:07.902Z"
+    },
+    {
+      "id": "reuters_03feac4b07",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil prices rise slightly after US announces new round of strikes on Iran - Reuters",
+      "title_fa": "قیمت نفت پس از اعلام دور جدید حملات آمریکا به ایران اندکی افزایش یافت",
+      "lead": "پس از اعلام دور جدید حملات آمریکا به ایران، قیمت جهانی نفت اندکی افزایش یافته است. این تحولات در بازارهای جهانی انرژی بازتاب یافته است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVktKb0FFdG9HQ0VvZ0dKR2ozZExNVVZ5eU1Wc29kUmhBRHVQclVYNk14WXhfb0MxV2lyaEk2UDJLdGJOdk9sRjE2M3NaNXpmUVBOSTFTLVFHSTV0UnJKTG5fZm95czJacHdDVVU2cE8wd013R1B4M0RHcHF2YURVX3pmbENTbktzRzRfZ0htelRKU1hQNUp4Z3ZFNUV5RkZ1NFE3STNndlFVSVVFT0JHUWVudU1XXzcwQXc?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 22 Jul 2026 00:26:00 GMT",
+      "time": "۰۳:۵۶ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T02:34:03.890Z"
     }
   ]
 }
