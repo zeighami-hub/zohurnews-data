@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "economist",
-  "total": 17,
+  "total": 18,
   "articles": [
     {
       "id": "economist_c081e52b8e",
@@ -410,6 +410,30 @@
       "pubDate": "Tue, 09 Jun 2026 17:54:12 +0000",
       "time": "۲۱:۲۴ - ۱۹ خرداد",
       "analyzed_at": "2026-07-22T09:10:23.164Z"
+    },
+    {
+      "id": "economist_02f48f7d9b",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "America’s submarine dominance is under threat",
+      "title_fa": "برتری زیردریایی‌های آمریکا در خطر است",
+      "lead": "برتری زیردریایی‌های آمریکا در حال حاضر با تهدید مواجه است. تحقیرهای نیروی دریایی چین به نگرانی تبدیل شده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.economist.com/international/2026/05/07/americas-submarine-dominance-is-under-threat",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Thu, 07 May 2026 13:08:12 +0000",
+      "time": "۱۶:۳۸ - ۱۷ اردیبهشت",
+      "analyzed_at": "2026-07-22T11:14:31.137Z"
     }
   ]
 }
