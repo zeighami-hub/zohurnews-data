@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_1d21b818cd",
@@ -26,6 +26,30 @@
       "pubDate": "Wed, 22 Jul 2026 01:16:00 +0100",
       "time": "۰۳:۴۶ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T00:33:39.129Z"
+    },
+    {
+      "id": "skynews_5e92de0bdc",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Burnham's 'cost of living government' | Zelenskyy sacks head of armed forces",
+      "title_fa": "دولت «هزینه زندگی» برنهام | زلنسکی فرمانده کل نیروهای مسلح را برکنار کرد",
+      "lead": "این خبر به موضوع «دولت هزینه زندگی» برنهام می‌پردازد. همچنین، بر اساس گزارش‌های جدید، زلنسکی فرمانده کل نیروهای مسلح را از سمت خود برکنار کرده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/burnhams-cost-of-living-government-zelenskyy-sacks-head-of-armed-forces-13565839",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "pubDate": "Wed, 22 Jul 2026 06:11:00 +0100",
+      "time": "۰۸:۴۱ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T05:52:26.728Z"
     }
   ]
 }
