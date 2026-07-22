@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "bbc_63d3b1cc0c",
@@ -506,6 +506,30 @@
       "pubDate": "Tue, 21 Jul 2026 10:01:59 GMT",
       "time": "۱۳:۳۱ - ۳۰ تیر",
       "analyzed_at": "2026-07-22T09:10:23.164Z"
+    },
+    {
+      "id": "bbc_1a416fd5b8",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+      "title_fa": "پیشاهنگ مدلینگ مرتبط با اپستین در حومه پاریس مرده پیدا شد",
+      "lead": "دانیل سیاد، پیشاهنگ مدلینگ که نامش هزاران بار در پرونده‌های اپستین ظاهر شده بود، در حومه پاریس مرده پیدا شد. او پیش از این هرگونه اطلاع از تهدید جفری اپستین را انکار کرده بود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 22 Jul 2026 10:40:14 GMT",
+      "time": "۱۴:۱۰ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T11:14:31.137Z"
     }
   ]
 }
