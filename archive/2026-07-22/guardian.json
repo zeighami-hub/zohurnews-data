@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "guardian",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "guardian_5863d15e18",
@@ -218,6 +218,30 @@
       "pubDate": "Wed, 22 Jul 2026 05:54:00 GMT",
       "time": "۰۹:۲۴ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T06:23:07.280Z"
+    },
+    {
+      "id": "guardian_ab97b7cc2a",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Spanish hotel chain ceases operations in Cuba under pressure from Washington",
+      "title_fa": "زنجیره هتل‌های اسپانیایی تحت فشار واشنگتن فعالیت خود را در کوبا متوقف می‌کند",
+      "lead": "گروه هتل‌داری Meliá اسپانیا اعلام کرده است که فعالیت‌های خود را در کوبا متوقف خواهد کرد. این تصمیم به دلیل فشار فزاینده واشنگتن و دشواری‌های عمده در انجام کسب‌وکار در این جزیره تحت تحریم‌های دونالد ترامپ است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 21 Jul 2026 15:10:35 GMT",
+      "time": "۱۸:۴۰ - ۳۰ تیر",
+      "analyzed_at": "2026-07-22T08:59:19.339Z"
     }
   ]
 }
