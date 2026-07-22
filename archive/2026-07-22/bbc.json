@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "bbc",
-  "total": 16,
+  "total": 19,
   "articles": [
     {
       "id": "bbc_63d3b1cc0c",
@@ -386,6 +386,78 @@
       "pubDate": "Wed, 22 Jul 2026 08:02:04 GMT",
       "time": "۱۱:۳۲ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T08:26:43.264Z"
+    },
+    {
+      "id": "bbc_fc21585de3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
+      "title_fa": "ایستگاه پلیس در زادگاه هیتلر با هدف از بین بردن ارتباط این مکان با نازی‌ها افتتاح شد",
+      "lead": "ایستگاه پلیسی در خانه‌ای که هیتلر در آن متولد شد، افتتاح شده است تا ارتباط این مکان را با ایدئولوژی نازی از بین ببرد. افتتاح این ایستگاه پس از سال‌ها بحث و جدل درباره سرنوشت این مسافرخانه قرن هفدهمی، که دیکتاتور نازی در آن به دنیا آمده بود، صورت می‌گیرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 08:38:21 GMT",
+      "time": "۱۲:۰۸ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T08:59:19.339Z"
+    },
+    {
+      "id": "bbc_e549ad0b8c",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Tunnel collapse in India kills 12 workers",
+      "title_fa": "ریزش تونل در هند ۱۲ کارگر را کشت",
+      "lead": "عملیات نجات ادامه دارد، اما شرایط خطرناک تلاش‌ها برای رسیدن به افرادی که هنوز در داخل تونل هستند را مختل کرده است. در این حادثه ۱۲ کارگر جان خود را از دست داده‌اند.",
+      "category": "disaster",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c80nv79204eo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 22 Jul 2026 05:38:22 GMT",
+      "time": "۰۹:۰۸ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T08:59:19.339Z"
+    },
+    {
+      "id": "bbc_1787d8bf44",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Beluga whales relocated from closed Canadian marine park arrive in US",
+      "title_fa": "نهنگ‌های بلوگا از پارک دریایی بسته شده کانادا به آمریکا منتقل شدند",
+      "lead": "شش نهنگ بلوگا پس از انتقال از یک پارک دریایی کانادایی که دیگر قادر به نگهداری از آنها نبود، وارد آمریکا شده‌اند. این انتقال با هدف فراهم آوردن شرایط بهتر برای حیوانات انجام شد.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 05:03:42 GMT",
+      "time": "۰۸:۳۳ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T08:59:19.339Z"
     }
   ]
 }
