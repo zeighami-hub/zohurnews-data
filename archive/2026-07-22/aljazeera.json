@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "aljazeera",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "aljazeera_dfaf23ab2c",
@@ -314,6 +314,54 @@
       "pubDate": "Wed, 22 Jul 2026 04:47:35 +0000",
       "time": "۰۸:۱۷ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T05:08:33.857Z"
+    },
+    {
+      "id": "aljazeera_67ba0c5753",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US expands strikes on 11th straight night of attacks",
+      "title_fa": "آمریکا حملات خود را در یازدهمین شب متوالی گسترش داد",
+      "lead": "یازدهمین شب متوالی حملات نظامی آمریکا به مناطقی از ایران گسترش یافت که پیش از این هدف قرار نگرفته بودند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 22 Jul 2026 05:05:25 +0000",
+      "time": "۰۸:۳۵ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T05:38:14.110Z"
+    },
+    {
+      "id": "aljazeera_ef2f83785e",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
+      "title_fa": "هگسث در مورد ایران «شکست‌خورده» خوانده شد و هزینه ۳۷ میلیارد دلاری جنگ را فاش کرد",
+      "lead": "پیت هگسث، وزیر دفاع آمریکا، پس از اینکه توسط سناتور میشیگان رهبری شکست‌خورده نامیده شد، درگیر یک بحث داغ گردید. او در این جریان هزینه ۳۷ میلیارد دلاری جنگ را فاش کرد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Wed, 22 Jul 2026 05:02:51 +0000",
+      "time": "۰۸:۳۲ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T05:38:14.110Z"
     }
   ]
 }
