@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
   "agencyId": "economist",
-  "total": 14,
+  "total": 21,
   "articles": [
     {
       "id": "economist_d3549f6266",
@@ -338,6 +338,172 @@
       "pubDate": "Thu, 07 May 2026 13:08:12 +0000",
       "time": "۱۶:۳۸ - ۱۷ اردیبهشت",
       "analyzed_at": "2026-07-21T11:29:49.626Z"
+    },
+    {
+      "id": "economist_6fdb9c0579",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "NATO ponders how to defend Eastern Europe as America pulls back",
+      "title_fa": "ناتو در حالی که آمریکا عقب‌نشینی می‌کند، در مورد نحوه دفاع از اروپای شرقی تأمل می‌کند",
+      "lead": "تانک‌های آلمانی در حال بازگشت به منطقه‌ای هستند که زمانی آن را ویران کردند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.economist.com/international/2026/07/02/nato-ponders-how-to-defend-eastern-europe-as-america-pulls-back",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 02 Jul 2026 14:22:37 +0000",
+      "time": "۱۷:۵۲ - ۱۱ تیر",
+      "analyzed_at": "2026-07-21T20:37:33.507Z"
+    },
+    {
+      "id": "economist_ef407cc49b",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "Can Spain’s teamwork overcome Lionel Messi’s genius?",
+      "title_fa": "آیا کار تیمی اسپانیا می‌تواند بر نبوغ لیونل مسی غلبه کند؟",
+      "lead": "این مقاله به بررسی این موضوع می‌پردازد که آیا کار تیمی اسپانیا توانایی غلبه بر نبوغ فردی لیونل مسی را دارد یا خیر. تیم‌های فینالیست جام جهانی دارای تفاوت‌های آشکاری در سبک بازی هستند.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.economist.com/international/2026/07/18/can-spains-teamwork-overcome-lionel-messis-genius",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Sat, 18 Jul 2026 13:53:36 +0000",
+      "time": "۱۷:۲۳ - ۲۷ تیر",
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
+    },
+    {
+      "id": "economist_3fe0f4cbb4",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "Sovereign AI, independent of America and China, is a pipe dream",
+      "title_fa": "هوش مصنوعی مستقل، جدا از آمریکا و چین، یک رؤیای دست‌نیافتنی است",
+      "lead": "این مقاله بیان می‌کند که توسعه هوش مصنوعی مستقل از آمریکا و چین، یک رؤیای دست‌نیافتنی است. با این حال، دستیابی به درجه‌ای از محافظت در برابر اجبار همچنان امکان‌پذیر باقی می‌ماند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.economist.com/international/2026/07/16/sovereign-ai-independent-of-america-and-china-is-a-pipe-dream",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 16 Jul 2026 09:39:03 +0000",
+      "time": "۱۳:۰۹ - ۲۵ تیر",
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
+    },
+    {
+      "id": "economist_376199c627",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "Child suspects are being prosecuted at younger ages",
+      "title_fa": "مظنونین کودک در سنین پایین‌تر تحت پیگرد قانونی قرار می‌گیرند",
+      "lead": "برخی دولت‌ها در حال کاهش سن مسئولیت کیفری هستند. این اقدام به این معنی است که مظنونین کودک در سنین پایین‌تری تحت پیگرد قانونی قرار می‌گیرند و ممکن است نتایج معکوسی داشته باشد.",
+      "category": "social",
+      "region": "global",
+      "sourceUrl": "https://www.economist.com/international/2026/07/09/child-suspects-are-being-prosecuted-at-younger-ages",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 09 Jul 2026 13:03:07 +0000",
+      "time": "۱۶:۳۳ - ۱۸ تیر",
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
+    },
+    {
+      "id": "economist_25cf022700",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "If ludicrous Trump flattery can save NATO, bring it on",
+      "title_fa": "اگر چاپلوسی مضحک ترامپ می‌تواند ناتو را نجات دهد، پس چه بهتر",
+      "lead": "این مقاله بحث می‌کند که اگر چاپلوسی \"مضحک\" از سوی ترامپ بتواند ناتو را نجات دهد، این کار باید انجام شود. مارک روته، رئیس ناتو، در این راستا تلاش می‌کند، با وجود اینکه ممکن است اقداماتش آزاردهنده باشد، اما هدفش ارزشمند است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.economist.com/international/2026/07/06/if-ludicrous-trump-flattery-can-save-nato-bring-it-on",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 06 Jul 2026 21:37:52 +0000",
+      "time": "۰۱:۰۷ - ۱۶ تیر",
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
+    },
+    {
+      "id": "economist_11",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "NATO ponders how to defend Eastern Europe as America pulls back",
+      "title_fa": "ناتو در حال بررسی چگونگی دفاع از اروپای شرقی با عقب‌نشینی آمریکا است",
+      "lead": "ناتو در حال بررسی راهکارهایی برای دفاع از اروپای شرقی است، در حالی که آمریکا در حال عقب‌نشینی از منطقه است. تانک‌های آلمانی در حال بازگشت به منطقه‌ای هستند که زمانی آن را ویران کرده بودند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.economist.com/international/2026/07/02/nato-pondered-how-to-defend-eastern-europe-as-america-pulls-back",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
+    },
+    {
+      "id": "economist_efc048ce24",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "Allies learn how to bully America",
+      "title_fa": "متفقین یاد می‌گیرند چگونه آمریکا را تحت فشار قرار دهند",
+      "lead": "این مقاله بررسی می‌کند که چگونه متحدان آمریکا در حال یادگیری روش‌هایی برای تحت فشار قرار دادن این کشور هستند. به عنوان مثال، آیا تایوان می‌تواند از صنعت تولید تراشه خود برای فشار بر دونالد ترامپ استفاده کند؟",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.economist.com/international/2026/06/30/allies-learn-how-to-bully-america",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Tue, 30 Jun 2026 20:31:29 +0000",
+      "time": "۰۰:۰۱ - ۱۰ تیر",
+      "analyzed_at": "2026-07-21T20:30:13.280Z"
     }
   ]
 }
