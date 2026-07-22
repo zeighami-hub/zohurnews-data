@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "rt",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "rt_e573c19839",
@@ -50,6 +50,30 @@
       "pubDate": "Tue, 21 Jul 2026 10:23:01 +0000",
       "time": "۱۳:۵۳ - ۳۰ تیر",
       "analyzed_at": "2026-07-22T00:05:13.618Z"
+    },
+    {
+      "id": "rt_c7ea862fcd",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Senate Democrats grill Hegseth as he seeks more funding for Iran war (VIDEOS)",
+      "title_fa": "دموکرات‌های سنا در پی درخواست هگسث برای بودجه بیشتر جنگ با ایران، او را بازخواست کردند.",
+      "lead": "دموکرات‌های سنا، پیت هگسث، وزیر دفاع آمریکا را به گمراه کردن افکار عمومی متهم کردند. این اتهام پس از آن مطرح شد که وی به دنبال بودجه بیشتری برای جنگ علیه ایران بود.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/643315-hegseth-grilled-senate-iran/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Wed, 22 Jul 2026 00:33:13 +0000",
+      "time": "۰۴:۰۳ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T00:48:34.041Z"
     }
   ]
 }
