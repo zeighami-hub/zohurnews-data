@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "bbc",
-  "total": 6,
+  "total": 10,
   "articles": [
     {
       "id": "bbc_1a416fd5b8",
@@ -146,6 +146,102 @@
       "pubDate": "Thu, 23 Jul 2026 08:56:36 GMT",
       "time": "۱۲:۲۶ - ۱ مرداد",
       "analyzed_at": "2026-07-23T09:22:44.863Z"
+    },
+    {
+      "id": "bbc_d3ebd3fde7",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
+      "title_fa": "آمریکا قرارداد هسته‌ای مهمی را با عربستان سعودی امضا کرد",
+      "lead": "وزارت انرژی آمریکا اعلام کرد که توافق همکاری «صلح‌آمیز» هسته‌ای با عربستان سعودی، «دسترسی عالی» شرکت‌های آمریکایی به برنامه انرژی هسته‌ای این کشور را فراهم خواهد کرد. این قرارداد گامی مهم در همکاری‌های منطقه‌ای و جهانی محسوب می‌شود.",
+      "category": "energy",
+      "region": "middle_east",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 09:17:50 GMT",
+      "time": "۱۲:۴۷ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T10:12:22.291Z"
+    },
+    {
+      "id": "bbc_09ccff448c",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Fire kills 10 members of same family in Peru, police say",
+      "title_fa": "پلیس پرو اعلام کرد: آتش‌سوزی ۱۰ عضو یک خانواده را کشت",
+      "lead": "مقامات در حال بررسی علت آتش‌سوزی در لیما هستند. رسانه‌های محلی گزارش می‌دهند که ممکن است این حادثه ناشی از آتش‌سوزی عمدی بوده باشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 22 Jul 2026 20:56:26 GMT",
+      "time": "۰۰:۲۶ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T10:12:22.291Z"
+    },
+    {
+      "id": "bbc_72792aabb9",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Police formally investigate woman after Brit stabbed to death in French village",
+      "title_fa": "پلیس رسماً در مورد زنی پس از کشته شدن یک تبعه بریتانیا با چاقو در روستایی فرانسوی تحقیق می‌کند",
+      "lead": "کارن کارتر با زخم‌های چاقو در روستای دوردوین، جایی که بیش از یک دهه در آن زندگی می‌کرد، پیدا شد. پلیس تحقیقات رسمی خود را در این خصوص آغاز کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Wed, 22 Jul 2026 19:03:08 GMT",
+      "time": "۲۲:۳۳ - ۳۱ تیر",
+      "analyzed_at": "2026-07-23T10:12:22.291Z"
+    },
+    {
+      "id": "bbc_e244b95755",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+      "title_fa": "مامدانی از قول خود برای دستگیری نتانیاهو به دلیل فقدان اختیارات عقب‌نشینی کرد",
+      "lead": "شهردار نیویورک به جای عمل به قول خود، از مقامات آمریکایی خواست تا بر اساس حکم بازداشت دادگاه کیفری بین‌المللی علیه نخست‌وزیر اسرائیل اقدام کنند. او فقدان اختیارات را دلیل این عقب‌نشینی عنوان کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Wed, 22 Jul 2026 17:54:57 GMT",
+      "time": "۲۱:۲۴ - ۳۱ تیر",
+      "analyzed_at": "2026-07-23T10:12:22.291Z"
     }
   ]
 }
