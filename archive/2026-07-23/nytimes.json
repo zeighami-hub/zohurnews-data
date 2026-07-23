@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "nytimes_a849a55b14",
@@ -146,6 +146,54 @@
       "pubDate": "Thu, 23 Jul 2026 00:54:46 +0000",
       "time": "۰۴:۲۴ - ۱ مرداد",
       "analyzed_at": "2026-07-23T01:03:33.416Z"
+    },
+    {
+      "id": "nytimes_3fc2eaf72e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Military Presence in Jordan Makes It Iranian Target",
+      "title_fa": "حضور نظامی آمریکا در اردن، این کشور را به هدف ایران تبدیل می‌کند",
+      "lead": "اردن با تکیه شدید بر کمک و حمایت آمریکا، بعید است حضور نظامی آمریکا در خاک خود را محدود کند. این در حالی است که حملات هوایی ایران در منطقه رو به افزایش است.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 23 Jul 2026 04:01:16 +0000",
+      "time": "۰۷:۳۱ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T04:19:32.593Z"
+    },
+    {
+      "id": "nytimes_1d25dd4223",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Japan’s Leader Invokes Her Hero, Shinzo Abe, to Drive Nationalist Agenda",
+      "title_fa": "رهبر ژاپن از شینزو آبه، قهرمان خود، برای پیشبرد برنامه ملی‌گرایانه استفاده می‌کند",
+      "lead": "نخست‌وزیر سانائه تاکایچی در تلاش برای تغییر شکل دفاع و اقتصاد ژاپن، از ارتباطات خود با آقای آبه، رهبر کشته شده ژاپن، بهره می‌برد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/asia/japan-sanae-takaichi-shinzo-abe.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 04:01:09 +0000",
+      "time": "۰۷:۳۱ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T04:19:32.593Z"
     }
   ]
 }
