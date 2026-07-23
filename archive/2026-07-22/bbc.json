@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "bbc",
-  "total": 32,
+  "total": 34,
   "articles": [
     {
       "id": "bbc_63d3b1cc0c",
@@ -770,6 +770,54 @@
       "pubDate": "Wed, 22 Jul 2026 14:14:16 GMT",
       "time": "۱۷:۴۴ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T22:01:34.180Z"
+    },
+    {
+      "id": "bbc_31fa6e7ffa",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
+      "title_fa": "یک سال پس از سقوط مرگبار جت در مدرسه‌ای در بنگلادش، خانواده‌ها خواهان پاسخگویی هستند",
+      "lead": "این هفته یک سال از سقوط یک جت نظامی بر روی مدرسه‌ای در داکا می‌گذرد. در این حادثه ۳۶ نفر که بیشتر آنها کودک بودند، کشته شدند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 22 Jul 2026 22:04:07 GMT",
+      "time": "۰۱:۳۴ - ۱ مرداد",
+      "analyzed_at": "2026-07-22T22:34:46.076Z"
+    },
+    {
+      "id": "bbc_703347cd7b",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+      "title_fa": "سانسورچیان راهشان را بستند؛ حامیان حیوانات در چین مبارزه با آزار را به خارج از فضای آنلاین و مرزها می‌کشانند",
+      "lead": "کشته شدن یک سگ و توله‌هایش در گوانگ‌دونگ خشم گسترده‌ای را در داخل و خارج از کشور برانگیخته است. این اتفاق باعث شده دوستداران حیوانات مبارزه خود را به صورت آفلاین و در خارج از کشور دنبال کنند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 22 Jul 2026 22:03:43 GMT",
+      "time": "۰۱:۳۳ - ۱ مرداد",
+      "analyzed_at": "2026-07-22T22:34:46.076Z"
     }
   ]
 }
