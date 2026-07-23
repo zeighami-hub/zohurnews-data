@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "reuters",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "reuters_6f4191d5e4",
@@ -26,6 +26,50 @@
       "pubDate": "Mon, 20 Jul 2026 10:52:00 GMT",
       "time": "۱۴:۲۲ - ۲۹ تیر",
       "analyzed_at": "2026-07-23T00:04:38.646Z"
+    },
+    {
+      "id": "reuters_2",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US House passes $1 trillion defense bill despite Iran, Israel concerns - Reuters",
+      "title_fa": "مجلس نمایندگان آمریکا با وجود نگرانی‌ها درباره ایران و اسرائیل، لایحه دفاعی یک تریلیون دلاری را تصویب کرد",
+      "lead": "مجلس نمایندگان آمریکا لایحه دفاعی ۱ تریلیون دلاری را به تصویب رساند. این لایحه با وجود نگرانی‌ها در خصوص ایران و اسرائیل تصویب شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXN5SFByNFBWb1hOU2l0QzNvTkU0QzFtZlEzRk1VRE43QzZmNlV1V2FiVk9qQXZ0MzlseNqMUNVSGFVVk80eVFyWHVYcjVPWEZyanlvZWE0NU5FdmxoSzBraFdIcVNmM24wYkJXTmdITHZ6dE5GdFBMR2h3ZEhGLTlWbldBLWZKZ19xOVpLM3YtaGl1RnhObE5oTnJtQ3NhYTdMTGtjMV9kbWpmWU1LblZtbjRadkJVTkc2QnNHeXpURGY0azZ5eVcyaw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-23T02:03:33.535Z"
+    },
+    {
+      "id": "reuters_6",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil prices rise to six-week high as US-Iran tensions escalate - Reuters",
+      "title_fa": "قیمت نفت با تشدید تنش‌ها بین آمریکا و ایران به بالاترین سطح شش هفته اخیر رسید",
+      "lead": "قیمت‌های نفت با تشدید تنش‌ها میان ایالات متحده و ایران به بالاترین سطح خود در شش هفته اخیر افزایش یافته است. این افزایش نشان‌دهنده تاثیر مسائل ژئوپلیتیکی بر بازارهای جهانی انرژی است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9ZkZzVU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001PDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-23T01:48:53.213Z"
     }
   ]
 }
