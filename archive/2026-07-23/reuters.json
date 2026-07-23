@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "reuters",
-  "total": 26,
+  "total": 27,
   "articles": [
     {
       "id": "reuters_6f4191d5e4",
@@ -596,6 +596,28 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-23T10:44:13.754Z"
+    },
+    {
+      "id": "reuters_6",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil settles up more than 3% to six-week high as Mideast conflict threatens oil transit routes - Reuters",
+      "title_fa": "قیمت نفت با افزایش بیش از ۳ درصدی به بالاترین سطح شش هفته اخیر رسید؛ در حالی که درگیری خاورمیانه مسیرهای ترانزیتی نفت را تهدید می‌کند.",
+      "lead": "قیمت نفت با افزایش بیش از ۳ درصدی به بالاترین سطح خود در شش هفته اخیر رسید. این افزایش به دلیل تهدید درگیری در خاورمیانه برای مسیرهای ترانزیتی نفت صورت گرفته است.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVktKb0FFdG9HQ0VvZ0dKR2ozZExNVVZ5eU1Wc29kUmhBRHVQclVYNk14WXhfb0MxV2lyaEk2UDJLdGJOdk9sRjE2M3NaNXpmUVBOSTFTLVFHSTV0UnJKTG5fZm95czJacHdDVVU2cE8wd013R1B4M0RHcHF2YURVX3pmbENTbktzRzRfZ0htelRKU1hQNUp4Z3ZFNUV5RkZ1NFE3STNndlFVSVVFT0JHUWVudU1X%0D%0AMzcwQXc?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-23T11:29:05.918Z"
     }
   ]
 }
