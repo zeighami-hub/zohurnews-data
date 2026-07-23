@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "france24",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "france24_e3d7fc5ff4",
@@ -122,6 +122,54 @@
       "pubDate": "Thu, 23 Jul 2026 05:59:07 GMT",
       "time": "۰۹:۲۹ - ۱ مرداد",
       "analyzed_at": "2026-07-23T06:06:57.279Z"
+    },
+    {
+      "id": "france24_4465068fa0",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "🔴 War in Ukraine: EU agrees 21st round of sanctions on Russia",
+      "title_fa": "جنگ در اوکراین: اتحادیه اروپا بیست و یکمین دور تحریم‌ها علیه روسیه را تصویب کرد",
+      "lead": "اتحادیه اروپا بر سر بیست و یکمین دور تحریم‌ها علیه روسیه به توافق رسید. این اقدام در بحبوحه جنگ اوکراین صورت می‌گیرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/europe/20260723-eu-ambassadors-agree-21st-sanctions-package-against-russia",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Thu, 23 Jul 2026 07:34:44 GMT",
+      "time": "۱۱:۰۴ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T07:52:18.767Z"
+    },
+    {
+      "id": "france24_a50c24067f",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Modi vows 'stringent punishment' for exam fraud fuelling India's youth-led 'Cockroach' protests",
+      "title_fa": "مودی قول «مجازات سخت‌گیرانه» برای تقلب در امتحانات را داد که اعتراضات جوانان هند موسوم به «سوسک» را شعله‌ور کرده است",
+      "lead": "نارندرا مودی، نخست‌وزیر هند، روز پنجشنبه متعهد شد که مسببان رسوایی تقلب در برگه‌های امتحانی را مجازات کند. این رسوایی به اعتراضات گسترده دانشجویی دامن زده است، که یک روز پس از تظاهرات هزاران نفر به رهبری «کوکروچ جانتا» در شبکه‌های اجتماعی، صورت گرفت.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.france24.com/en/asia-pacific/20260723-modi-vows-stringent-punishment-for-exam-fraud-fuelling-india-s-youth-led-cockroach-protests",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Thu, 23 Jul 2026 05:59:07 GMT",
+      "time": "۰۹:۲۹ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T07:52:18.767Z"
     }
   ]
 }
