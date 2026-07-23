@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_a849a55b14",
@@ -122,6 +122,30 @@
       "pubDate": "Thu, 23 Jul 2026 00:12:45 +0000",
       "time": "۰۳:۴۲ - ۱ مرداد",
       "analyzed_at": "2026-07-23T00:19:30.446Z"
+    },
+    {
+      "id": "nytimes_a6e1d7adc0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Debate Over Ancient Iranian Jewelry Worn by Zendaya to ‘Odyssey’ Event",
+      "title_fa": "بحث و جدل بر سر جواهرات باستانی ایرانی که زندایا در رویداد «اودیسه» به تن داشت",
+      "lead": "بازیگر زندایا در رویدادی مربوط به «اودیسه» گوشواره‌هایی به تن داشت. یک گالری لندنی اعلام کرده است که این گوشواره‌ها از یک اثر باستانی ساخته شده‌اند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/22/style/zendaya-odyssey-earrings-jewelry.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 00:54:46 +0000",
+      "time": "۰۴:۲۴ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T01:03:33.416Z"
     }
   ]
 }
