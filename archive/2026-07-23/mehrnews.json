@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "mehrnews",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "mehrnews_e2efa482b7",
@@ -74,6 +74,30 @@
       "pubDate": "Wed, 22 Jul 2026 09:53:25 GMT",
       "time": "۱۳:۲۳ - ۳۱ تیر",
       "analyzed_at": "2026-07-23T00:04:38.646Z"
+    },
+    {
+      "id": "mehrnews_fd6a2d95dc",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC warns US as tanker burns in unsafe Hormuz route",
+      "title_fa": "سپاه پاسداران در پی آتش‌سوزی تانکر در تنگه ناامن هرمز به آمریکا هشدار داد",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که یک تانکر پس از تلاش برای عبور از تنگه مین‌گذاری شده هرمز آتش گرفت، در حالی که دو کشتی دیگر عقب‌نشینی کردند. سپاه هشدار داد که این آبراه کاملاً مسدود و تحت کنترل ایران است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246447/IRGC-warns-US-as-tanker-burns-in-unsafe-Hormuz-route",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 23 Jul 2026 05:42:16 GMT",
+      "time": "۰۹:۱۲ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T05:50:38.197Z"
     }
   ]
 }
