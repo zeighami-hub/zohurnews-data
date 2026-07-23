@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "aljazeera",
-  "total": 63,
+  "total": 65,
   "articles": [
     {
       "id": "aljazeera_dfaf23ab2c",
@@ -1508,6 +1508,54 @@
       "pubDate": "Wed, 22 Jul 2026 22:11:14 +0000",
       "time": "۰۱:۴۱ - ۱ مرداد",
       "analyzed_at": "2026-07-22T22:34:46.076Z"
+    },
+    {
+      "id": "aljazeera_a9ca66705e",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Austrian home where Hitler was born reopened as police station",
+      "title_fa": "خانه محل تولد هیتلر در اتریش به عنوان پاسگاه پلیس بازگشایی شد",
+      "lead": "خانه محل تولد آدولف هیتلر در اتریش، پس از بازسازی به عنوان پاسگاه پلیس بازگشایی شده است. این اقدام با هدف جلوگیری از تبدیل شدن این مکان به محل تجمع نئونازی‌ها و افراط‌گرایان راست‌گرا صورت گرفته است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 22:30:44 +0000",
+      "time": "۰۲:۰۰ - ۱ مرداد",
+      "analyzed_at": "2026-07-22T22:49:12.192Z"
+    },
+    {
+      "id": "aljazeera_20d7ab15a6",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
+      "title_fa": "حوثی‌های یمن مسئولیت حمله به دو نفتکش سعودی را بر عهده گرفتند",
+      "lead": "حوثی‌های یمن اعلام کردند مسئولیت حمله به دو نفتکش سعودی را بر عهده می‌گیرند. این حملات چند روز پس از آن صورت می‌گیرد که حوثی‌ها از اعمال ممنوعیت دریایی بر کشتی‌های سعودی خبر داده بودند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Wed, 22 Jul 2026 22:26:14 +0000",
+      "time": "۰۱:۵۶ - ۱ مرداد",
+      "analyzed_at": "2026-07-22T22:49:12.192Z"
     }
   ]
 }
