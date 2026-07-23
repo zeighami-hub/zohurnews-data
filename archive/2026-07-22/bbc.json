@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "bbc",
-  "total": 35,
+  "total": 37,
   "articles": [
     {
       "id": "bbc_63d3b1cc0c",
@@ -842,6 +842,54 @@
       "pubDate": "Wed, 22 Jul 2026 22:13:24 GMT",
       "time": "۰۱:۴۳ - ۱ مرداد",
       "analyzed_at": "2026-07-22T22:49:12.192Z"
+    },
+    {
+      "id": "bbc_9d61293427",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
+      "title_fa": "حتی شترها نیز نمی‌توانند تاب بیاورند: «کشتی‌های صحرا» در آفریقا تحت تاثیر افزایش دما قرار گرفته‌اند",
+      "lead": "گله‌داران و کارشناسان به بی‌بی‌سی گفتند که شترهای آفریقا به دلیل گرمای شدید در حال آسیب دیدن هستند. این وضعیت به عنوان یکی از پیامدهای افزایش دما در قاره آفریقا مطرح شده است.",
+      "category": "environment",
+      "region": "africa",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 22 Jul 2026 23:22:53 GMT",
+      "time": "۰۲:۵۲ - ۱ مرداد",
+      "analyzed_at": "2026-07-22T23:34:55.849Z"
+    },
+    {
+      "id": "bbc_cc8463dda3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "title_fa": "کسب‌وکارهای روسیه تحت فشار حملات اوکراین به وایلدبریز قرار گرفته‌اند",
+      "lead": "پهپادهای اوکراینی طی چند روز اخیر به چندین انبار خرده‌فروشی متعلق به وایلدبریز، بزرگترین خرده‌فروش آنلاین روسیه، حمله کرده‌اند. این حملات باعث شده است که کسب‌وکارهای روسیه تحت فشار قرار گیرند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 22 Jul 2026 23:06:08 GMT",
+      "time": "۰۲:۳۶ - ۱ مرداد",
+      "analyzed_at": "2026-07-22T23:34:55.849Z"
     }
   ]
 }
