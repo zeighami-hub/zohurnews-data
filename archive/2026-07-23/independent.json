@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "independent",
-  "total": 21,
+  "total": 24,
   "articles": [
     {
       "id": "independent_a887d5d190",
@@ -506,6 +506,78 @@
       "pubDate": "Thu, 23 Jul 2026 02:23:45 GMT",
       "time": "۰۵:۵۳ - ۱ مرداد",
       "analyzed_at": "2026-07-23T02:33:35.025Z"
+    },
+    {
+      "id": "independent_fcb3add8d6",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Iran-backed Houthis strike Saudi oil tankers amid escalating conflict",
+      "title_fa": "حوثی‌های تحت حمایت ایران در بحبوحه تشدید درگیری‌ها، به تانکرهای نفتی عربستان سعودی حمله کردند",
+      "lead": "حوثی‌های تحت حمایت ایران گزارش داده‌اند که به تانکرهای نفتی عربستان سعودی حمله کرده‌اند. این حملات در بحبوحه تشدید درگیری‌ها در منطقه صورت گرفته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/iran-war-saudi-tankers-houthi-rebels-b3019922.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 23 Jul 2026 02:49:43 GMT",
+      "time": "۰۶:۱۹ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T03:04:35.445Z"
+    },
+    {
+      "id": "independent_be5eb36e60",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "What coffee and energy drinks are really doing to your heart",
+      "title_fa": "قهوه و نوشیدنی‌های انرژی‌زا واقعاً چه تأثیری بر قلب شما دارند؟",
+      "lead": "نوشیدنی‌های انرژی‌زا و شات‌های انرژی می‌توانند سه تا چهار برابر بیشتر از قهوه معمولی کافئین داشته باشند. متخصصان پزشکی در حال بررسی تأثیرات این نوشیدنی‌ها بر سلامت قلب هستند.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/home-news/coffee-energy-drinks-redbull-caffeine-heart-health-b3019924.html",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Thu, 23 Jul 2026 02:55:36 GMT",
+      "time": "۰۶:۲۵ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T03:04:35.445Z"
+    },
+    {
+      "id": "independent_910f09c31b",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Doctors share what air conditioning does to your body and health",
+      "title_fa": "پزشکان درباره تأثیرات تهویه مطبوع بر بدن و سلامتی می‌گویند",
+      "lead": "پزشکان توضیح می‌دهند که تهویه مطبوع چه تأثیراتی بر بدن و سلامت انسان دارد. در حالی که تهویه مطبوع مزایای زیادی دارد، معایب قابل توجهی نیز برای سلامتی به همراه دارد که باید مورد توجه قرار گیرد.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/life-style/health-and-families/air-conditioner-heatwave-uk-weather-health-b3019923.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Thu, 23 Jul 2026 02:53:05 GMT",
+      "time": "۰۶:۲۳ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T03:04:35.445Z"
     }
   ]
 }
