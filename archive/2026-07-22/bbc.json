@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "bbc",
-  "total": 34,
+  "total": 35,
   "articles": [
     {
       "id": "bbc_63d3b1cc0c",
@@ -818,6 +818,30 @@
       "pubDate": "Wed, 22 Jul 2026 22:03:43 GMT",
       "time": "۰۱:۳۳ - ۱ مرداد",
       "analyzed_at": "2026-07-22T22:34:46.076Z"
+    },
+    {
+      "id": "bbc_bfd982e52f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Indian police cracked down on 'cockroach' protesters. They went home and made memes about it",
+      "title_fa": "پلیس هند معترضان \"سوسک\" را سرکوب کرد؛ آنها به خانه رفتند و در مورد آن میم ساختند",
+      "lead": "پلیس هند اقدام به سرکوب معترضانی کرده که به آنها \"سوسک\" لقب داده شده بود. این معترضان پس از بازگشت به خانه، برای مستندسازی ترس، درک خشونت و مقابله با آن، درباره این وقایع میم ساختند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ek3l9gp7go?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Wed, 22 Jul 2026 22:13:24 GMT",
+      "time": "۰۱:۴۳ - ۱ مرداد",
+      "analyzed_at": "2026-07-22T22:49:12.192Z"
     }
   ]
 }
