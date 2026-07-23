@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "aljazeera",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "aljazeera_083c0b3633",
@@ -410,6 +410,54 @@
       "pubDate": "Thu, 23 Jul 2026 05:25:25 +0000",
       "time": "۰۸:۵۵ - ۱ مرداد",
       "analyzed_at": "2026-07-23T06:06:57.279Z"
+    },
+    {
+      "id": "aljazeera_656ffc9f4d",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
+      "title_fa": "بین امید و ترس: واکنش یمنی‌ها به محاصره عربستان سعودی توسط حوثی‌ها",
+      "lead": "یمنی‌ها از این موضوع نگران هستند که محاصره دریایی عربستان سعودی توسط حوثی‌ها، جنگ را دوباره شعله‌ور کند. آنها همچنین بیم دارند که این اقدام کمبودها را تشدید کرده و وضعیت گرسنگی را بدتر سازد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 23 Jul 2026 06:08:47 +0000",
+      "time": "۰۹:۳۸ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T06:37:07.696Z"
+    },
+    {
+      "id": "aljazeera_4755f395d3",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Thousands forced to evacuate as wildfires sweep across southern France",
+      "title_fa": "هزاران نفر در پی گسترش آتش‌سوزی‌های گسترده در جنوب فرانسه مجبور به تخلیه شدند",
+      "lead": "هزاران نفر در مناطق جنوبی فرانسه در حال تخلیه هستند، در حالی که آتش‌نشانان با آتش‌سوزی‌های عظیم جنگلی مبارزه می‌کنند.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/23/aje-onl-nf_france-battles-massive-wildfires-amid-extreme-heat-230726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 23 Jul 2026 05:36:59 +0000",
+      "time": "۰۹:۰۶ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T06:22:03.969Z"
     }
   ]
 }
