@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "france24",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "france24_e3d7fc5ff4",
@@ -26,6 +26,30 @@
       "pubDate": "Thu, 23 Jul 2026 00:23:42 GMT",
       "time": "۰۳:۵۳ - ۱ مرداد",
       "analyzed_at": "2026-07-23T00:33:40.863Z"
+    },
+    {
+      "id": "france24_04a51ecfa2",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Middle East live: Houthi rebels claim attacks on Saudi tankers in the Red Sea",
+      "title_fa": "حوثی‌ها مسئولیت حمله به نفتکش‌های سعودی در دریای سرخ را بر عهده گرفتند",
+      "lead": "شبه‌نظامیان حوثی تحت حمایت ایران روز چهارشنبه مسئولیت حمله به دو نفتکش سعودی در دریای سرخ را بر عهده گرفتند. این حملات در حالی صورت گرفت که ایالات متحده به حملات خود علیه ایران ادامه می‌داد و سپاه پاسداران نیز توقف عملیات را اعلام کرده بود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260723-middle-east-live-houthi-rebels-claim-attacks-on-saudi-tankers-in-the-red-sea",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 23 Jul 2026 02:22:41 GMT",
+      "time": "۰۵:۵۲ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T02:33:35.025Z"
     }
   ]
 }
