@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "isna",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "isna_0fa97abb6c",
@@ -166,6 +166,50 @@
         "negative": 100
       },
       "analyzed_at": "2026-07-23T00:48:54.411Z"
+    },
+    {
+      "id": "isna_0",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "حمله موشکی به اطراف پایانه مسافربری در مرز شلمچه",
+      "title_fa": "حمله موشکی به اطراف پایانه مسافربری در مرز شلمچه",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که دقایقی پیش اطراف پایانه مسافربری در مرز شلمچه مورد حمله قرار گرفته است. این نهاد افزود که این حمله توسط \"موشک‌های دشمن تروریستی آمریکا\" صورت گرفته است.",
+      "category": "politics",
+      "region": "Iran",
+      "sourceUrl": "https://www.isna.ir/news/1405050100014/%D8%AD%D9%85%D9%84%D9%87-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B7%D8%B1%D8%A7%D9%81-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%D9%87-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D8%A8%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D8%B4%D9%84%D9%85%DA%A9%DB%8C",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-07-23T01:18:38.523Z"
+    },
+    {
+      "id": "isna_0",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "حمله موشکی به اطراف پایانه مسافربری در مرز شلمچه",
+      "title_fa": "حمله موشکی به اطراف پایانه مسافربری در مرز شلمچه",
+      "lead": "سپاه پاسداران اعلام کرد که دقایقی پیش اطراف پایانه مسافربری در مرز شلمچه مورد هجوم موشک‌های \"دشمن تروریستی آمریکا\" قرار گرفته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.isna.ir/news/1405050100014/%D8%AD%D9%85%D9%84%D9%87-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B7%D8%B1%D8%A7%D9%81-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%D9%87-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D8%A8%D9%88%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B1%D8%B2-%D8%B4%D9%84%D9%85%DA%86%D9%87",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-23T01:03:33.416Z"
     }
   ]
 }
