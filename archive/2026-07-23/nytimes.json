@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_a849a55b14",
@@ -530,6 +530,54 @@
       "pubDate": "Wed, 22 Jul 2026 20:46:47 +0000",
       "time": "۰۰:۱۶ - ۱ مرداد",
       "analyzed_at": "2026-07-23T10:12:22.291Z"
+    },
+    {
+      "id": "nytimes_c62e422217",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
+      "title_fa": "تصاویر چه چیزی را درباره خسارات اخیر به پایگاه‌های نظامی آمریکا در خاورمیانه نشان می‌دهند؟",
+      "lead": "تصاویر ویدئویی و ماهواره‌ای جزئیات جدیدی از حملات ایران به اهداف آمریکایی را فاش کرده‌اند. این خسارات در جریان تشدید اخیر درگیری‌ها در خاورمیانه رخ داده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 23 Jul 2026 01:37:39 +0000",
+      "time": "۰۵:۰۷ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T11:29:05.918Z"
+    },
+    {
+      "id": "nytimes_4812254fe3",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s the latest.",
+      "title_fa": "آخرین اخبار.",
+      "lead": "این خبر در زمینه جنگ، حملات، نفت و موضوعات مربوط به ایران و ترامپ است. این یک به‌روزرسانی زنده از رویدادها است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump/heres-the-latest",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 09:55:32 +0000",
+      "time": "۱۳:۲۵ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T11:29:05.918Z"
     }
   ]
 }
