@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "guardian",
-  "total": 9,
+  "total": 17,
   "articles": [
     {
       "id": "guardian_12a538d6a4",
@@ -218,6 +218,198 @@
       "pubDate": "Thu, 23 Jul 2026 08:08:23 GMT",
       "time": "۱۱:۳۸ - ۱ مرداد",
       "analyzed_at": "2026-07-23T08:40:20.240Z"
+    },
+    {
+      "id": "guardian_5863d15e18",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Trump announces new tariffs on generic drugs to take effect in 2028 – as it happened",
+      "title_fa": "ترامپ تعرفه‌های جدیدی را بر داروهای ژنریک اعلام کرد که در سال ۲۰۲۸ اجرایی می‌شوند",
+      "lead": "دونالد ترامپ تعرفه‌های جدیدی را بر داروهای ژنریک اعلام کرده است که قرار است در سال ۲۰۲۸ به اجرا درآیند. همزمان، قیمت بنزین در ایالات متحده از سرگیری درگیری با ایران در این ماه همچنان رو به افزایش بوده است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 01:57:35 GMT",
+      "time": "۰۵:۲۷ - ۳۱ تیر",
+      "analyzed_at": "2026-07-23T10:44:13.754Z"
+    },
+    {
+      "id": "guardian_0162b53ac4",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+      "title_fa": "کانادا جشن افتتاح مشترک پل با آمریکا را در بحبوحه تنش‌های تجاری لغو کرد",
+      "lead": "کانادا جشن برنامه‌ریزی شده برای افتتاح مشترک پل بین‌المللی گودی هاو با ایالات متحده را لغو کرده است. این اقدام در پی تنش‌های تجاری و تهدید ترامپ مبنی بر اعمال تعرفه ۵۰ درصدی صورت می‌گیرد و نشان‌دهنده وخامت روابط است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Wed, 22 Jul 2026 16:35:02 GMT",
+      "time": "۲۰:۰۵ - ۳۱ تیر",
+      "analyzed_at": "2026-07-23T10:44:13.754Z"
+    },
+    {
+      "id": "guardian_2fc0ba73e0",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Nicaragua’s congress announces ‘work plan’ to suspend elections",
+      "title_fa": "کنگره نیکاراگوئه «برنامه کاری» برای تعلیق انتخابات اعلام کرد",
+      "lead": "کنگره نیکاراگوئه که تحت کنترل دانیل اورتگا، رئیس‌جمهور این کشور است، «برنامه کاری» برای اجرای تعلیق انتخابات اعلام کرده است. وزیر امور خارجه آمریکا از جامعه بین‌المللی خواست تا علیه رژیم اقتدارگرای اورتگا «متحد شوند».",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 22 Jul 2026 13:33:35 GMT",
+      "time": "۱۷:۰۳ - ۳۱ تیر",
+      "analyzed_at": "2026-07-23T10:44:13.754Z"
+    },
+    {
+      "id": "guardian_effe72ca30",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
+      "title_fa": "دانشمندان کشف کردند: نهنگ‌های اسپرم در نزدیکی قایق‌ها صدای «مصوت» خود را تغییر می‌دهند",
+      "lead": "محققان در سواحل جزیره دومینیکا در کارائیب دریافتند که نهنگ‌های اسپرم زمانی که ترافیک دریایی نزدیک است، الگوهای کلیک قابل شنیدن خود را تغییر می‌دهند. این تغییرات شامل تفاوت‌هایی در صداهای «مصوت» آن‌ها می‌شود.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 13:00:15 GMT",
+      "time": "۱۶:۳۰ - ۳۱ تیر",
+      "analyzed_at": "2026-07-23T10:44:13.754Z"
+    },
+    {
+      "id": "guardian_be1620b310",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
+      "title_fa": "زن بریتانیایی در هنگ‌کنگ به جرم باج‌خواهی پس از متهم کردن بانکدار به تجاوز زندانی شد",
+      "lead": "ایزابل رز، ۲۶ ساله، به دلیل باج‌خواهی و منحرف کردن مسیر عدالت عمومی به ۶ سال زندان محکوم شد. وی در هنگ‌کنگ پس از اتهام تجاوز به یک مرد بریتانیایی، به این جرایم محکوم شده است.",
+      "category": "justice",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 22 Jul 2026 12:28:15 GMT",
+      "time": "۱۵:۵۸ - ۳۱ تیر",
+      "analyzed_at": "2026-07-23T10:44:13.754Z"
+    },
+    {
+      "id": "guardian_57c44d75e0",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Japan records its first ‘cruelly hot day’ as cities swelter in 40-degree heat",
+      "title_fa": "ژاپن اولین «روز به شدت گرم» خود را ثبت کرد؛ شهرهای این کشور در گرمای ۴۰ درجه‌ای به سر می‌برند",
+      "lead": "ژاپن به طور رسمی اولین «روز به شدت گرم» خود را ثبت کرد، در حالی که شهرهای این کشور در گرمای ۴۰ درجه سلسیوس به سر می‌برند. ژاپن در ماه آوریل اصطلاح جدید «کوکوشوبی» را برای روزهای با دمای بالای ۴۰ درجه سانتی‌گراد ابداع کرده بود.",
+      "category": "environment",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/22/japan-heat-kokushobi-cruelly-hot-40c-weather",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Wed, 22 Jul 2026 03:48:04 GMT",
+      "time": "۰۷:۱۸ - ۳۱ تیر",
+      "analyzed_at": "2026-07-23T10:44:13.754Z"
+    },
+    {
+      "id": "guardian_5e9106d43a",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
+      "title_fa": "یک کارمند بهداشتی پس از کار در DRC برای اِبولا در بیمارستانی در لندن تحت نظارت قرار گرفت.",
+      "lead": "یک امدادگر پس از قرار گرفتن در معرض ویروس ابولا، در بیمارستانی تخصصی در لندن تحت نظارت قرار دارد. این فرد مقیم بریتانیا از جمهوری دموکراتیک کنگو، جایی که شیوع این بیماری وجود دارد، تخلیه شده بود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 21 Jul 2026 22:39:00 GMT",
+      "time": "۰۲:۰۹ - ۳۱ تیر",
+      "analyzed_at": "2026-07-23T10:44:13.754Z"
+    },
+    {
+      "id": "guardian_6a68dc1c02",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Trump defends 50% tariffs on Canada, saying ‘they need us to survive’",
+      "title_fa": "ترامپ از تعرفه‌های ۵۰ درصدی علیه کانادا دفاع کرد و گفت: «آنها برای بقا به ما نیاز دارند.»",
+      "lead": "دونالد ترامپ از تعرفه‌های جدید ۵۰ درصدی خود بر بیشتر کالاهای کانادایی دفاع کرد. او ادعا کرد که کانادا برای بقا به آمریکا نیاز دارد؛ در حالی که مارک کارنی می‌گوید کانادا در برابر این تهدیدات متحد است و رهبران برای گفتگو پیش از اجرای تعرفه‌ها توافق کرده‌اند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/21/trump-defends-tariff-canada",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 21 Jul 2026 19:36:51 GMT",
+      "time": "۲۳:۰۶ - ۳۰ تیر",
+      "analyzed_at": "2026-07-23T10:44:13.754Z"
     }
   ]
 }
