@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "reuters",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "reuters_6f4191d5e4",
@@ -70,6 +70,30 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-23T01:48:53.213Z"
+    },
+    {
+      "id": "reuters_e18ede96a8",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Yemen's Houthis declare naval blockade against Saudi Arabia - Reuters",
+      "title_fa": "حوثی‌های یمن محاصره دریایی علیه عربستان سعودی اعلام کردند",
+      "lead": "حوثی‌های یمن اعلام کرده‌اند که محاصره دریایی علیه عربستان سعودی برقرار خواهند کرد. این خبر توسط رویترز گزارش شده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Mon, 20 Jul 2026 20:56:13 GMT",
+      "time": "۰۰:۲۶ - ۳۰ تیر",
+      "analyzed_at": "2026-07-23T03:49:05.087Z"
     }
   ]
 }
