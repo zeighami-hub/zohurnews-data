@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "bbc",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "bbc_1a416fd5b8",
@@ -122,6 +122,30 @@
       "pubDate": "Thu, 23 Jul 2026 06:37:23 GMT",
       "time": "۱۰:۰۷ - ۱ مرداد",
       "analyzed_at": "2026-07-23T08:07:28.406Z"
+    },
+    {
+      "id": "bbc_c0b096ac1c",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Around 12,000 people evacuated in France fires",
+      "title_fa": "حدود ۱۲,۰۰۰ نفر در آتش‌سوزی‌های فرانسه تخلیه شدند",
+      "lead": "در پی آتش‌سوزی‌های جنگلی جاری در سراسر اروپا، یک آتش‌نشان دیگر جان خود را از دست داد و این سومین آتش‌نشان کشته شده در قاره است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 23 Jul 2026 08:56:36 GMT",
+      "time": "۱۲:۲۶ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T09:22:44.863Z"
     }
   ]
 }
