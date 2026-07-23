@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_a849a55b14",
@@ -266,6 +266,30 @@
       "pubDate": "Thu, 23 Jul 2026 09:02:22 +0000",
       "time": "۱۲:۳۲ - ۱ مرداد",
       "analyzed_at": "2026-07-23T09:22:44.863Z"
+    },
+    {
+      "id": "nytimes_11b86c1e12",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan",
+      "title_fa": "جاسوس روسی که ناگهان مورد توجه قرار گرفت، از ژاپن گریخت",
+      "lead": "یک افسر اطلاعات نظامی روسی پس از اینکه نشریه تایمز گزارش داد او از دفتر هواپیمایی ایرفلوت در توکیو برای جاسوسی استفاده می‌کرده، از ژاپن فرار کرد. این حادثه پس از افشای هویت او به وقوع پیوست.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 09:15:41 +0000",
+      "time": "۱۲:۴۵ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T09:55:49.947Z"
     }
   ]
 }
