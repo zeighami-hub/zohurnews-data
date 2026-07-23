@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_a849a55b14",
@@ -242,6 +242,30 @@
       "pubDate": "Thu, 23 Jul 2026 09:00:18 +0000",
       "time": "۱۲:۳۰ - ۱ مرداد",
       "analyzed_at": "2026-07-23T09:08:31.769Z"
+    },
+    {
+      "id": "nytimes_b76fa77c70",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Should Travelers Give Up on Summer in Western Europe Because of the Heat?",
+      "title_fa": "آیا مسافران باید به دلیل گرما از تابستان در اروپای غربی چشم‌پوشی کنند؟",
+      "lead": "یک گزینه محبوب برای تعطیلات ممکن است به دلیل افزایش دما در معرض خطر باشد. حتی کسانی که به برنامه‌های تابستانی خود پایبند هستند، موافقند که تهویه مطبوع بیشتر کمک‌کننده خواهد بود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/travel/europe-summer-heat.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 23 Jul 2026 09:02:22 +0000",
+      "time": "۱۲:۳۲ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T09:22:44.863Z"
     }
   ]
 }
