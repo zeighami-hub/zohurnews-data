@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "skynews",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "skynews_1d21b818cd",
@@ -290,6 +290,54 @@
       "pubDate": "Tue, 21 Jul 2026 08:33:00 +0100",
       "time": "۱۱:۰۳ - ۳۰ تیر",
       "analyzed_at": "2026-07-22T11:45:19.631Z"
+    },
+    {
+      "id": "skynews_08c7a4c491",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "US signs nuclear deal with Saudi Arabia",
+      "title_fa": "آمریکا توافق هسته‌ای با عربستان سعودی را امضا کرد",
+      "lead": "ایالات متحده و عربستان سعودی به یک توافق همکاری هسته‌ای دست یافته‌اند. این توافق به منظور تقویت روابط و همکاری در زمینه انرژی هسته‌ای غیرنظامی امضا شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/us-signs-nuclear-deal-with-saudi-arabia-13565968",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Wed, 22 Jul 2026 14:24:00 +0100",
+      "time": "۱۶:۵۴ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T21:34:10.390Z"
+    },
+    {
+      "id": "skynews_cd386f7097",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "'No role' for White House in extradition to UK of Tate brothers, says top US diplomat",
+      "title_fa": "دیپلمات ارشد آمریکایی: «نقشی» برای کاخ سفید در استرداد برادران تیت به بریتانیا وجود ندارد",
+      "lead": "مارکو روبیو، وزیر امور خارجه آمریکا، اعلام کرد که کاخ سفید «هیچ نقشی» در استرداد اندرو و تریستان تیت به بریتانیا برای مواجهه با اتهامات تجاوز و قاچاق جنسی ندارد. این موضوع به مقامات مربوطه سپرده شده است.",
+      "category": "diplomacy",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/no-role-for-white-house-in-extradition-to-uk-of-tate-brothers-says-us-secretary-of-state-marco-rubio-13566089",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 18:56:00 +0100",
+      "time": "۲۱:۲۶ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T21:34:10.390Z"
     }
   ]
 }
