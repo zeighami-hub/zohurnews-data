@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "aljazeera",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "aljazeera_083c0b3633",
@@ -50,6 +50,30 @@
       "pubDate": "Thu, 23 Jul 2026 00:25:49 +0000",
       "time": "۰۳:۵۵ - ۱ مرداد",
       "analyzed_at": "2026-07-23T00:48:54.411Z"
+    },
+    {
+      "id": "aljazeera_359920f922",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
+      "title_fa": "مجلس نمایندگان آمریکا لایحه نظامی ۱.۱۵ تریلیون دلاری را تصویب کرد؛ گسترش همکاری با اسرائیل",
+      "lead": "مجلس نمایندگان آمریکا لایحه نظامی ۱.۱۵ تریلیون دلاری را که شامل گسترش همکاری با اسرائیل است، تصویب کرد. این لایحه که قرار است جنگ علیه ایران و چند اولویت دولت ترامپ را تامین مالی کند، عمدتاً با رأی حزبی به تصویب رسید و اکنون با عدم قطعیت در سنا مواجه است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 23 Jul 2026 00:29:52 +0000",
+      "time": "۰۳:۵۹ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T01:18:38.523Z"
     }
   ]
 }
