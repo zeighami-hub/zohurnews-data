@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "bbc_1a416fd5b8",
@@ -74,6 +74,30 @@
       "pubDate": "Thu, 23 Jul 2026 03:16:51 GMT",
       "time": "۰۶:۴۶ - ۱ مرداد",
       "analyzed_at": "2026-07-23T03:34:44.528Z"
+    },
+    {
+      "id": "bbc_3af5f66029",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Google burning through cash with spiralling AI costs",
+      "title_fa": "گوگل با افزایش سرسام‌آور هزینه‌های هوش مصنوعی، در حال سوزاندن پول نقد است",
+      "lead": "این شرکت اوایل سال جاری اعلام کرد که انتظار دارد تا ۱۹۰ میلیارد دلار برای سرمایه‌گذاری در هوش مصنوعی هزینه کند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 23:02:32 GMT",
+      "time": "۰۲:۳۲ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T04:19:32.593Z"
     }
   ]
 }
