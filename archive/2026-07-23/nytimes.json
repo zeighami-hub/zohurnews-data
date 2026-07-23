@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "nytimes",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_a849a55b14",
@@ -194,6 +194,54 @@
       "pubDate": "Thu, 23 Jul 2026 04:01:09 +0000",
       "time": "۰۷:۳۱ - ۱ مرداد",
       "analyzed_at": "2026-07-23T04:19:32.593Z"
+    },
+    {
+      "id": "nytimes_90777eda43",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo",
+      "title_fa": "«همه ما اینجا از ابولا خواهیم مرد»: ویروس ابولا اردوگاه‌های شلوغ در کنگو را تهدید می‌کند",
+      "lead": "یک میلیون نفر به دلیل خشونت در کانون شیوع بیماری آواره شده‌اند. آنها در شرایط خطرناکی زندگی می‌کنند و با کمبود شدید آب آشامیدنی پاک با این ویروس مبارزه می‌کنند.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/africa/ebola-camps-congo-water-aid.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 23 Jul 2026 09:00:47 +0000",
+      "time": "۱۲:۳۰ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T09:08:31.769Z"
+    },
+    {
+      "id": "nytimes_ae3893d682",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Why I Sought Out a Taliban Commander I Had Fought",
+      "title_fa": "چرا به دنبال فرمانده طالبانی که با او جنگیده بودم، گشتم",
+      "lead": "این فرد ابتدا به عنوان تفنگدار دریایی و سپس به عنوان روزنامه‌نگار، سال‌ها با افغانستان ارتباط داشته است. او برای یافتن پاسخ و شاید آرامش، یک بار دیگر بازگشت تا با یک دشمن سابق خود گفتگو کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 90,
+        "negative": 10
+      },
+      "pubDate": "Thu, 23 Jul 2026 09:00:18 +0000",
+      "time": "۱۲:۳۰ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T09:08:31.769Z"
     }
   ]
 }
