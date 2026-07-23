@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "mehrnews",
-  "total": 33,
+  "total": 34,
   "articles": [
     {
       "id": "mehrnews_e69786600e",
@@ -794,6 +794,30 @@
       "pubDate": "Wed, 22 Jul 2026 12:01:53 GMT",
       "time": "۱۵:۳۱ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T21:34:10.390Z"
+    },
+    {
+      "id": "mehrnews_d2c41b1ad5",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US evacuates Al Udeid Air Base in Qatar following Iran strike",
+      "title_fa": "آمریکا پایگاه هوایی العدید در قطر را پس از حمله ایران تخلیه کرد",
+      "lead": "گزارش‌ها حاکی از آن است که ایالات متحده پایگاه هوایی العدید در قطر را به طور کامل تخلیه کرده است. این اقدام، طبق منابع منتشر شده، پس از حملات اخیر ایران به این تأسیسات صورت گرفته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246445/US-evacuates-Al-Udeid-Air-Base-in-Qatar-following-Iran-strike",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Wed, 22 Jul 2026 22:16:49 GMT",
+      "time": "۰۱:۴۶ - ۱ مرداد",
+      "analyzed_at": "2026-07-22T22:20:08.336Z"
     }
   ]
 }
