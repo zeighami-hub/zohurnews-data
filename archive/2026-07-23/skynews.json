@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "skynews",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "skynews_3e8a6ee70a",
@@ -218,6 +218,30 @@
       "pubDate": "Tue, 21 Jul 2026 20:53:00 +0100",
       "time": "۲۳:۲۳ - ۳۰ تیر",
       "analyzed_at": "2026-07-23T10:44:13.754Z"
+    },
+    {
+      "id": "skynews_eaa238411c",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "More than 1,000 people killed in Ebola outbreak",
+      "title_fa": "بیش از ۱۰۰۰ نفر در شیوع ابولا جان باختند",
+      "lead": "مقامات بهداشتی اعلام کردند که بیش از ۱۰۰۰ نفر در شیوع ابولا در جمهوری دموکراتیک کنگو جان خود را از دست داده‌اند. این یک بحران جدی بهداشت عمومی در منطقه است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/ebola-more-than-1000-people-killed-in-dr-congo-outbreak-13566201",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 23 Jul 2026 09:27:00 +0100",
+      "time": "۱۱:۵۷ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T11:29:05.918Z"
     }
   ]
 }
