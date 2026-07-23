@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "nytimes",
-  "total": 36,
+  "total": 38,
   "articles": [
     {
       "id": "nytimes_06a70945a6",
@@ -866,6 +866,54 @@
       "pubDate": "Wed, 22 Jul 2026 18:13:17 +0000",
       "time": "۲۱:۴۳ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T21:34:10.390Z"
+    },
+    {
+      "id": "nytimes_70d8cadfa1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Troops, Seriously Wounded in Recent Strikes, Were Flown to Germany for Help",
+      "title_fa": "سربازان آمریکایی که در حملات اخیر به شدت زخمی شده بودند، برای درمان به آلمان منتقل شدند",
+      "lead": "سربازان آمریکایی که در حملات اخیر به شدت زخمی شده بودند، برای دریافت کمک پزشکی به آلمان منتقل شدند. این افراد جزو حدود ۱۰۰ نیروی آمریکایی هستند که به گفته وزارت دفاع، از اوایل جولای در حملات منتسب به ایران زخمی شده‌اند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/22/world/middleeast/american-troops-seriously-wounded-in-recent-strikes-were-flown-to-germany-for-help.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 22 Jul 2026 21:59:01 +0000",
+      "time": "۰۱:۲۹ - ۱ مرداد",
+      "analyzed_at": "2026-07-22T22:05:29.313Z"
+    },
+    {
+      "id": "nytimes_d25eba78cb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
+      "title_fa": "برنامه‌ریزی روبی و دیپلمات چینی برای نشست ترامپ و شی در واشنگتن",
+      "lead": "وزیر امور خارجه، مارکو روبی، بخش عمده‌ای از ملاقات خود با وزیر امور خارجه چین را به بحث درباره اجلاس سران اختصاص داد. با این حال، او ادعاهای رئیس‌جمهور ترامپ مبنی بر دخالت چین در انتخابات را مطرح نکرد.",
+      "category": "diplomacy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Wed, 22 Jul 2026 16:23:07 +0000",
+      "time": "۱۹:۵۳ - ۳۱ تیر",
+      "analyzed_at": "2026-07-22T22:01:34.180Z"
     }
   ]
 }
