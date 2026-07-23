@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "reuters",
-  "total": 30,
+  "total": 31,
   "articles": [
     {
       "id": "reuters_cec067ffed",
@@ -686,6 +686,28 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-22T22:01:34.180Z"
+    },
+    {
+      "id": "reuters_7",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Oil prices rise to five-week high on US-Iran attacks, Houthi blockade threat - Reuters",
+      "title_fa": "قیمت نفت در پی حملات آمریکا-ایران و تهدید به محاصره حوثی‌ها به بالاترین حد پنج هفته اخیر رسید",
+      "lead": "قیمت جهانی نفت در پی حملات میان آمریکا و ایران و تهدید حوثی‌ها به محاصره، به بالاترین سطح خود در پنج هفته اخیر رسید.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE0xMnZLYmlVcE1nLTJzaGpmMW5pWkZyRWY3c3I5YnJtMlZ2OFo4TTlZTnJTTnRlUmpRRnFmcnB3S1U0bmx6N0k0LVp5YUFqX2tJeUZxX3Y1YjJIOTN2YWFSbi14ZzJ4THhoTG9XMi1WenpMd1dwTVhGYnFrWlRZTF9MSG15d2dpUE9uQUlDbmNtY0E4YVNmOU1jdnVudnU4aWhIWjlPRnNMdUU?oc=1",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-07-22T22:49:12.192Z"
     }
   ]
 }
