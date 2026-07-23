@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "bbc",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "bbc_1a416fd5b8",
@@ -26,6 +26,30 @@
       "pubDate": "Wed, 22 Jul 2026 18:21:55 GMT",
       "time": "۲۱:۵۱ - ۳۱ تیر",
       "analyzed_at": "2026-07-23T00:04:38.646Z"
+    },
+    {
+      "id": "bbc_6e156e26e5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+      "title_fa": "بخش «قدرتمند» لبنیات کانادا در تیررس تجاری ترامپ قرار گرفت",
+      "lead": "سیستم مدیریت عرضه لبنیات کانادا پس از آن که رئیس جمهور آمریکا آن را به عنوان یکی از سه عامل اصلی توجیه کننده تعرفه‌های جدید معرفی کرد، مورد توجه قرار گرفته است. این مسئله می‌تواند منجر به اعمال تعرفه‌های تجاری جدید علیه کانادا شود.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 23 Jul 2026 00:15:12 GMT",
+      "time": "۰۳:۴۵ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T00:19:30.446Z"
     }
   ]
 }
