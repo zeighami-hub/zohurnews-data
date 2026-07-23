@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_1a416fd5b8",
@@ -98,6 +98,30 @@
       "pubDate": "Wed, 22 Jul 2026 23:02:32 GMT",
       "time": "۰۲:۳۲ - ۱ مرداد",
       "analyzed_at": "2026-07-23T04:19:32.593Z"
+    },
+    {
+      "id": "bbc_1c8d8af083",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+      "title_fa": "«من هنوز زنده‌ام»: فعال هندی در بیست‌وششمین روز اعتصاب غذا ۱۱ کیلوگرم وزن کم کرد",
+      "lead": "سونام وانگچوک، فعال هندی که ۲۶ روز است در اعتصاب غذا به سر می‌برد، ۱۱ کیلوگرم وزن از دست داده است. او ستاره اصلی اعتراضات در دهلی بوده است که با شعار «من هنوز زنده‌ام» ادامه دارد.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 23 Jul 2026 06:37:23 GMT",
+      "time": "۱۰:۰۷ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T08:07:28.406Z"
     }
   ]
 }
