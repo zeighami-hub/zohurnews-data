@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "independent",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "independent_a887d5d190",
@@ -74,6 +74,54 @@
       "pubDate": "Wed, 22 Jul 2026 23:49:23 GMT",
       "time": "۰۳:۱۹ - ۱ مرداد",
       "analyzed_at": "2026-07-23T00:04:38.646Z"
+    },
+    {
+      "id": "independent_d2c50a9604",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Military chaplains fear retaliation over ideological differences with Hegseth",
+      "title_fa": "روحانیون نظامی از تلافی‌جویی به دلیل اختلافات عقیدتی با هگست فیر می‌کنند",
+      "lead": "این خبر به نگرانی روحانیون نظامی در خصوص تلافی‌جویی احتمالی اشاره دارد. این نگرانی ناشی از اختلافات عقیدتی آن‌ها با هگست است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/pete-hegseth-militry-chaplain-beliefs-b3019899.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 15,
+        "negative": 85
+      },
+      "pubDate": "Thu, 23 Jul 2026 00:14:51 GMT",
+      "time": "۰۳:۴۴ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T00:19:30.446Z"
+    },
+    {
+      "id": "independent_02d8892f48",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "French model scout under investigation over Epstein links found dead",
+      "title_fa": "مدل‌یاب فرانسوی تحت بازجویی به دلیل ارتباط با اپستین مرده پیدا شد",
+      "lead": "دانیل سیاد، مدل‌یاب ۶۹ ساله فرانسوی که به دلیل ارتباط با اپستین تحت تحقیقات بود، مرده پیدا شد. او منتظر بازجویی در مورد اتهامات حمایت از اپستین برای قاچاق زنان بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/news/world/europe/epstein-french-model-scout-daniel-siad-b3019455.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 5,
+        "negative": 95
+      },
+      "pubDate": "Wed, 22 Jul 2026 11:20:14 GMT",
+      "time": "۱۴:۵۰ - ۳۱ تیر",
+      "analyzed_at": "2026-07-23T00:19:30.446Z"
     }
   ]
 }
