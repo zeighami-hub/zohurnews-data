@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "guardian",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "guardian_12a538d6a4",
@@ -146,6 +146,54 @@
       "pubDate": "Thu, 23 Jul 2026 05:47:48 GMT",
       "time": "۰۹:۱۷ - ۱ مرداد",
       "analyzed_at": "2026-07-23T06:22:03.969Z"
+    },
+    {
+      "id": "guardian_f380d0d51f",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Personal and banking details among customer data stolen in Origin Energy hack",
+      "title_fa": "جزئیات شخصی و بانکی مشتریان در حمله سایبری به Origin Energy به سرقت رفت",
+      "lead": "هکرها به نام‌ها، آدرس‌ها، تاریخ‌های تولد، شماره تلفن‌ها و برخی جزئیات حساب بانکی مشتریان استرالیایی دسترسی پیدا کردند. شرکت Origin Energy تأیید کرده که اطلاعات شخصی و بانکی مشتریانش در این حمله هک شده است.",
+      "category": "economy",
+      "region": "oceania",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/23/personal-and-banking-details-among-customer-data-stolen-in-origin-energy-hack",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 23 Jul 2026 07:18:17 GMT",
+      "time": "۱۰:۴۸ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T07:38:18.431Z"
+    },
+    {
+      "id": "guardian_da56f0906b",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Politician’s claim Earth’s magnetic poles could flip if NT doesn’t use more groundwater criticised by experts",
+      "title_fa": "ادعای سیاستمدار درباره احتمال تغییر قطب‌های مغناطیسی زمین در صورت عدم استفاده بیشتر از آب زیرزمینی در قلمرو شمالی، مورد انتقاد کارشناسان قرار گرفت",
+      "lead": "رابین کیهیل، وزیر تجارت و بازرگانی قلمرو شمالی، ادعاهای نادرست علمی را مطرح کرده است. او این ادعاها را در حین تلاش برای تبدیل این قلمرو به «پایتخت مراکز داده جهان» بیان کرد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/23/australia-politician-claims-northern-territory-water-could-flip-earths-magnetic-poles",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 23 Jul 2026 07:10:18 GMT",
+      "time": "۱۰:۴۰ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T07:38:18.431Z"
     }
   ]
 }
