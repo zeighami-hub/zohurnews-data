@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "reuters",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "reuters_6f4191d5e4",
@@ -116,6 +116,30 @@
         "negative": 0
       },
       "analyzed_at": "2026-07-23T04:50:42.252Z"
+    },
+    {
+      "id": "reuters_0592c5f4e4",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "US-Iran tensions underpin dollar as yen nears 40-year low - Reuters",
+      "title_fa": "تنش‌های آمریکا و ایران دلار را تقویت کرد؛ ین به پایین‌ترین حد ۴۰ ساله نزدیک شد",
+      "lead": "بر اساس گزارش رویترز، تنش‌ها میان آمریکا و ایران به تقویت دلار کمک کرده است. در همین حال، ارزش ین ژاپن به پایین‌ترین سطح خود در ۴۰ سال اخیر نزدیک شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmxmYW0zRFBGQlpfRDY2bXdwMk1FNzJQVDVOZXhHMTY3QlAzeG5DRDRqeHRNQk1ELWpLTEtSSGpkVjJrcHVzb3RNQmxHc3d2b1JEMGJ1TEN1bDJKVGFzcFl0d0FjbUNBRTRRMDJVM3BST2htNmwtRExMNGo2RTlSREhGZXZYa0ZneWUzY0s4RXVlTWxmLXI0cEJBSW1UbVJrWjBPNw?oc=5",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 00:50:00 GMT",
+      "time": "۰۴:۲۰ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T05:37:20.580Z"
     }
   ]
 }
