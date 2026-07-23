@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "france24",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "france24_e3d7fc5ff4",
@@ -194,6 +194,54 @@
       "pubDate": "Thu, 23 Jul 2026 08:49:53 GMT",
       "time": "۱۲:۱۹ - ۱ مرداد",
       "analyzed_at": "2026-07-23T09:08:31.769Z"
+    },
+    {
+      "id": "france24_6118ec7113",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "US and Saudi Arabia reach a multi-billion dollar civilian nuclear deal",
+      "title_fa": "آمریکا و عربستان سعودی به توافق چند میلیارد دلاری هسته‌ای غیرنظامی دست یافتند",
+      "lead": "ایالات متحده اعلام کرد که با عربستان سعودی به توافق همکاری هسته‌ای غیرنظامی دست یافته است. کریس رایت، وزیر انرژی آمریکا، این پیمان و یک توافق‌نامه پادمانی دوجانبه جداگانه را همراه با شاهزاده عبدالعزیز بن سلمان، وزیر انرژی عربستان، امضا کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/us-and-saudi-arabia-reach-a-multi-billion-dollar-civilian-nuclear-deal",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 09:04:14 GMT",
+      "time": "۱۲:۳۴ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T09:22:44.863Z"
+    },
+    {
+      "id": "france24_8d67a93de1",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Replay: Marco Rubio addresses Middle East and Ukraine conflicts",
+      "title_fa": "بازپخش: مارکو روبیو به درگیری‌های خاورمیانه و اوکراین می‌پردازد",
+      "lead": "این ویدئو به سخنرانی مارکو روبیو، وزیر امور خارجه آمریکا، می‌پردازد که در آن به درگیری‌های خاورمیانه و اوکراین اشاره می‌کند. این سخنرانی در پایان نشست آسه آن در مانیل انجام شده است.",
+      "category": "diplomacy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/replay-marco-rubio-addresses-middle-east-and-ukraine-conflicts",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 08:59:45 GMT",
+      "time": "۱۲:۲۹ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T09:22:44.863Z"
     }
   ]
 }
