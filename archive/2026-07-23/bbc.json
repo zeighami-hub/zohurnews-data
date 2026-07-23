@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "bbc",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "bbc_1a416fd5b8",
@@ -386,6 +386,54 @@
       "pubDate": "Wed, 22 Jul 2026 08:02:04 GMT",
       "time": "۱۱:۳۲ - ۳۱ تیر",
       "analyzed_at": "2026-07-23T10:44:13.754Z"
+    },
+    {
+      "id": "bbc_703347cd7b",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+      "title_fa": "فعالان حقوق حیوانات در چین که توسط سانسورگران مسدود شده‌اند، مبارزه با سوءاستفاده را به خارج از اینترنت و خارج از کشور می‌برند.",
+      "lead": "کشته شدن یک سگ و توله‌هایش در گوانگدونگ خشم گسترده‌ای را در داخل و خارج از کشور برانگیخته است. این رویداد باعث شده است که فعالان حقوق حیوانات چینی مبارزه خود را به روش‌های جدیدی ادامه دهند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 05:46:09 GMT",
+      "time": "۰۹:۱۶ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T11:29:05.918Z"
+    },
+    {
+      "id": "bbc_31fa6e7ffa",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
+      "title_fa": "یک سال پس از سقوط مرگبار جت در مدرسه بنگلادش، خانواده‌ها خواهان پاسخگویی هستند",
+      "lead": "این هفته یک سال از زمانی می‌گذرد که یک جت نظامی با مدرسه‌ای در داکا برخورد کرد و ۳۶ نفر که بیشتر آنها کودک بودند، کشته شدند. خانواده‌های قربانیان همچنان به دنبال پاسخگویی در مورد این حادثه هستند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Wed, 22 Jul 2026 22:04:07 GMT",
+      "time": "۰۱:۳۴ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T11:29:05.918Z"
     }
   ]
 }
