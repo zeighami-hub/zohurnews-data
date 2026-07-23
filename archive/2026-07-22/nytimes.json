@@ -1,7 +1,7 @@
 {
   "date": "2026-07-22",
   "agencyId": "nytimes",
-  "total": 38,
+  "total": 40,
   "articles": [
     {
       "id": "nytimes_06a70945a6",
@@ -914,6 +914,54 @@
       "pubDate": "Wed, 22 Jul 2026 16:23:07 +0000",
       "time": "۱۹:۵۳ - ۳۱ تیر",
       "analyzed_at": "2026-07-22T22:01:34.180Z"
+    },
+    {
+      "id": "nytimes_c62e422217",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
+      "title_fa": "تصاویر چه جزئیاتی از خسارات اخیر به سایت‌های نظامی آمریکا در خاورمیانه نشان می‌دهند؟",
+      "lead": "تصاویر ماهواره‌ای و ویدئوهای منتشر شده، جزئیات جدیدی را درباره حملات ایران به اهداف آمریکایی فاش می‌کنند. این خسارات در جریان تشدید اخیر درگیری‌ها رخ داده است.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 22 Jul 2026 22:10:27 +0000",
+      "time": "۰۱:۴۰ - ۱ مرداد",
+      "analyzed_at": "2026-07-22T22:20:08.336Z"
+    },
+    {
+      "id": "nytimes_a9034ef508",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "U.S. Troops, Seriously Wounded in Recent Strikes, Were Flown to Germany for Help",
+      "title_fa": "سربازان آمریکایی به شدت زخمی شده در حملات اخیر، برای درمان به آلمان منتقل شدند",
+      "lead": "سربازان آمریکایی که در حملات اخیر به شدت مجروح شده بودند، برای کمک به آلمان منتقل شدند. این نظامیان در میان حدود ۱۰۰ نیروی آمریکایی هستند که به گفته وزارت دفاع، از اوایل ماه جولای در حملات ایران آسیب دیده‌اند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/22/world/middleeast/us-troops-iran-germany.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 22 Jul 2026 21:59:02 +0000",
+      "time": "۰۱:۲۹ - ۱ مرداد",
+      "analyzed_at": "2026-07-22T22:20:08.336Z"
     }
   ]
 }
