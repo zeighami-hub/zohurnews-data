@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_6786fe919e",
@@ -26,6 +26,78 @@
       "pubDate": "Thu, 23 Jul 2026 23:46:34 +0000",
       "time": "۰۳:۱۶ - ۲ مرداد",
       "analyzed_at": "2026-07-24T00:20:38.774Z"
+    },
+    {
+      "id": "nytimes_8bf55b9fe8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Strikes Against Saudi Tankers in the Red Sea Send Oil Past $100 a Barrel",
+      "title_fa": "حملات علیه تانکرهای سعودی در دریای سرخ قیمت نفت را از ۱۰۰ دلار در هر بشکه فراتر برد",
+      "lead": "پس از اینکه متحد ایران یعنی حوثی‌ها اعلام کردند دو کشتی با پرچم عربستان سعودی را هدف قرار داده‌اند، قیمت نفت از ۱۰۰ دلار در هر بشکه فراتر رفت. رئیس‌جمهور ترامپ نیز پس از این رویداد، حوثی‌ها را به حمله تهدید کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/middleeast/red-sea-strikes-oil-houthis.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 20:05:27 +0000",
+      "time": "۲۳:۳۵ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T09:08:51.312Z"
+    },
+    {
+      "id": "nytimes_9363ca45a9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope",
+      "title_fa": "فرانسه در مواجهه با گرما و آتش‌سوزی، برای یادگیری نحوه مقابله به اسپانیا روی می‌آورد",
+      "lead": "یک هیئت دولتی فرانسوی برای یادگیری نحوه مقابله اسپانیا با دوره‌های طولانی هوای گرم، به این کشور همسایه جنوبی سفر خواهد کرد. این اقدام در پی مواجهه فرانسه با موج گرما و آتش‌سوزی‌های جنگلی صورت می‌گیرد.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:43:46 +0000",
+      "time": "۱۲:۱۳ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T09:08:51.312Z"
+    },
+    {
+      "id": "nytimes_83aed67293",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Modi Caught Off Guard as India’s Economic Failings Inflame Young People",
+      "title_fa": "مودی با اوج گرفتن نارضایتی جوانان از ناکامی‌های اقتصادی هند غافلگیر شد",
+      "lead": "نخست‌وزیر نارندرا مودی در حالی که مشغول حل مشکلات دیگر بود، جنبش دانشجویی به طور ناگهانی گسترش یافت. هیچ راه‌حل آسانی برای مشکلات اساسی پشت این جنبش وجود ندارد.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/asia/india-modi-protests-economy-cockroach-party.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 24 Jul 2026 04:52:34 +0000",
+      "time": "۰۸:۲۲ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T09:08:51.312Z"
     }
   ]
 }
