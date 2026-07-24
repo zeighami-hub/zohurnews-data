@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "guardian",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "guardian_808ccbf687",
@@ -98,6 +98,30 @@
       "pubDate": "Fri, 24 Jul 2026 00:39:50 GMT",
       "time": "۰۴:۰۹ - ۲ مرداد",
       "analyzed_at": "2026-07-24T01:03:43.647Z"
+    },
+    {
+      "id": "guardian_022d65550a",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Isla Bell death: man previously accused of killing Melbourne teen loses bid to have final charge dropped",
+      "title_fa": "پرونده مرگ ایزلا بل: متهم پیشین قتل نوجوان ملبورنی در تلاش برای حذف آخرین اتهام شکست خورد",
+      "lead": "ماراد گانیف ۵۵ ساله، در تلاش برای لغو دائمی اتهام باقی‌مانده \"اخلال در مسیر عدالت\" شکست خورد. او پیش از این متهم به قتل ایزلا بل، زن ۱۹ ساله ملبورنی، شده بود.",
+      "category": "crime",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/24/isla-bell-death-melbourne-ntwnfb",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 24 Jul 2026 03:20:07 GMT",
+      "time": "۰۶:۵۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T03:48:58.716Z"
     }
   ]
 }
