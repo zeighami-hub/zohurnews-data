@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "economist",
-  "total": 9,
+  "total": 12,
   "articles": [
     {
       "id": "economist_ef407cc49b",
@@ -218,6 +218,78 @@
       "pubDate": "Wed, 10 Jun 2026 19:07:01 +0000",
       "time": "۲۲:۳۷ - ۲۰ خرداد",
       "analyzed_at": "2026-07-24T00:20:38.774Z"
+    },
+    {
+      "id": "economist_71f7ee5d58",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "The geopolitics of air-conditioning",
+      "title_fa": "ژئوپلیتیک تهویه مطبوع",
+      "lead": "موج‌های گرمای مداوم در سراسر جهان دسترسی به تهویه مطبوع را به یک مشکل سیاسی مهم تبدیل کرده است. این مسئله نابرابری‌ها و چالش‌های مرتبط با مصرف انرژی و تغییرات اقلیمی را برجسته می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.economist.com/international/2026/07/23/the-geopolitics-of-air-conditioning",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 13:00:35 +0000",
+      "time": "۱۶:۳۰ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T10:24:57.634Z"
+    },
+    {
+      "id": "economist_6b5e5ab57e",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "When China’s open-source AI is a trap",
+      "title_fa": "هوش مصنوعی متن‌باز چین، یک تله است",
+      "lead": "مقاله اشاره می‌کند که تلاش آمریکا برای تسلط بر هوش مصنوعی نگران‌کننده است. اما چین نیز راه‌حل این مشکل نیست و هوش مصنوعی متن‌باز این کشور می‌تواند یک تله باشد.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 14 Jul 2026 20:17:29 +0000",
+      "time": "۲۳:۴۷ - ۲۳ تیر",
+      "analyzed_at": "2026-07-24T10:24:57.634Z"
+    },
+    {
+      "id": "economist_7e26f05de5",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "The War Room newsletter: When war becomes a political aesthetic",
+      "title_fa": "خبرنامه «اتاق جنگ»: وقتی جنگ به یک زیبایی‌شناسی سیاسی تبدیل می‌شود",
+      "lead": "شاشانک جوشی، دبیر دفاعی اکونومیست، به بررسی این موضوع می‌پردازد که چرا درگیری و جنگ جذابیت عجیبی پیدا کرده است. این تحلیل به ماهیت جنگ به عنوان یک پدیده سیاسی و بصری می‌پردازد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.economist.com/international/2026/06/08/the-war-room-newsletter-when-war-becomes-a-political-aesthetic",
+      "newsValues": {
+        "timeliness": "low",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Mon, 08 Jun 2026 16:28:40 +0000",
+      "time": "۱۹:۵۸ - ۱۸ خرداد",
+      "analyzed_at": "2026-07-24T10:24:57.634Z"
     }
   ]
 }
