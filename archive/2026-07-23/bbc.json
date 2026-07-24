@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "bbc",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "bbc_1a416fd5b8",
@@ -434,6 +434,54 @@
       "pubDate": "Wed, 22 Jul 2026 22:04:07 GMT",
       "time": "۰۱:۳۴ - ۱ مرداد",
       "analyzed_at": "2026-07-23T11:29:05.918Z"
+    },
+    {
+      "id": "bbc_66b01e776e",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+      "title_fa": "توافق هسته‌ای ترامپ با سعودی‌ها، خواسته‌های دیرینه آمریکا را کنار می‌گذارد",
+      "lead": "گزارش‌ها حاکی از آن است که توافق هسته‌ای ترامپ با عربستان سعودی، خواسته‌های طولانی‌مدت آمریکا را نادیده گرفته است. رؤسای جمهور پیشین آمریکا همواره اصرار داشتند که عربستان سعودی در ازای دریافت فناوری هسته‌ای، روابط خود را با اسرائیل عادی کند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 11:13:13 GMT",
+      "time": "۱۴:۴۳ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T11:54:08.386Z"
+    },
+    {
+      "id": "bbc_bfd982e52f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Indian police cracked down on 'cockroach' protesters. They went home and made memes about it\nFor 'cockroach' protesters, reels and memes became a way of documenting fear, making sense of violence and refusing to let it have the last word.",
+      "title_fa": "پلیس هند با معترضان «سوسک‌» برخورد کرد؛ آنها به خانه رفتند و میم ساختند",
+      "lead": "پلیس هند با معترضانی که «سوسک‌» نامیده می‌شوند، برخورد کرد. این معترضان پس از آن، برای مستندسازی ترس، درک خشونت و مقابله با آن، از ریلز و میم استفاده کردند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ek3l9gp7go?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Wed, 22 Jul 2026 22:13:24 GMT",
+      "time": "۰۱:۴۳ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T11:54:08.386Z"
     }
   ]
 }
