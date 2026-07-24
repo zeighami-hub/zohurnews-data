@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "france24",
-  "total": 26,
+  "total": 28,
   "articles": [
     {
       "id": "france24_0c4f02cf77",
@@ -626,6 +626,54 @@
       "pubDate": "Fri, 24 Jul 2026 10:42:31 GMT",
       "time": "۱۴:۱۲ - ۲ مرداد",
       "analyzed_at": "2026-07-24T10:54:06.426Z"
+    },
+    {
+      "id": "france24_81d93fdea5",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Meloni's Italy: Fortress Europe?",
+      "title_fa": "ایتالیای ملونی: قلعه اروپا؟",
+      "lead": "مهاجرت محور اصلی کمپین انتخاباتی موفق جورجیا ملونی در سال ۲۰۲۲ بود که رویکرد سخت‌تر در برابر مهاجرت غیرقانونی او را به قدرت رساند. این گزارش بررسی می‌کند که دولت او از آن زمان تاکنون چه دستاوردهایی داشته است، از جمله یکی از سیاست‌های اصلی آن.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/fact-or-fake/20260724-meloni-s-italy-fortress-europe",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 10:54:38 GMT",
+      "time": "۱۴:۲۴ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T11:07:14.118Z"
+    },
+    {
+      "id": "france24_de071f883b",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "#France: Over 40,000 people evacuated due to #wildfires in the #southwest",
+      "title_fa": "فرانسه: بیش از ۴۰,۰۰۰ نفر به دلیل آتش‌سوزی‌های جنگلی در جنوب غرب این کشور تخلیه شدند",
+      "lead": "بیش از ۴۰,۰۰۰ نفر از شبه‌جزیره توریستی Cap Ferret در حال تخلیه هستند، زیرا آتش‌سوزی‌های جنگلی در سراسر جنوب غرب فرانسه گسترش یافته‌اند. تاکنون بیش از ۱۰,۰۰۰ هکتار از اراضی سوخته است.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/video/20260724-france-over-40-000-people-evacuated-due-to-wildfires-in-the-southwest",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 10:49:47 GMT",
+      "time": "۱۴:۱۹ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T11:07:14.118Z"
     }
   ]
 }
