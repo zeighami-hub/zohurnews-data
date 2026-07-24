@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "aljazeera",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "aljazeera_3f43dfc692",
@@ -338,6 +338,54 @@
       "pubDate": "Fri, 24 Jul 2026 03:08:49 +0000",
       "time": "۰۶:۳۸ - ۲ مرداد",
       "analyzed_at": "2026-07-24T03:34:05.262Z"
+    },
+    {
+      "id": "aljazeera_0959cdbbf9",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal",
+      "title_fa": "اسرائیل با وجود توافق آتش‌بس، حملاتی را در سراسر جنوب لبنان انجام داد",
+      "lead": "نیروهای اسرائیلی با وجود توافق آتش‌بس، حملاتی را در سراسر جنوب لبنان انجام داده‌اند. این حملات در حالی صورت می‌گیرد که مذاکرات جاری با مقامات لبنانی برای اجرای چارچوب صلح بین دو کشور ادامه دارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/24/israel-carries-out-blasts-across-south-lebanon-despite-ceasefire-deal?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 04:39:50 +0000",
+      "time": "۰۸:۰۹ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T05:04:42.659Z"
+    },
+    {
+      "id": "aljazeera_b56af373a7",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Albanian police use water cannon on protesters over Kushner-linked resort",
+      "title_fa": "پلیس آلبانی برای متفرق کردن معترضان به طرح مرتبط با کوشنر از آب‌پاش استفاده کرد",
+      "lead": "پلیس آلبانی در خارج از پارلمان این کشور، از آب‌پاش و اسپری فلفل برای مقابله با معترضانی استفاده کرد که در اعتراض به یک طرح تفریحی مرتبط با جرد کوشنر درگیر شده بودند. این درگیری‌ها در پی اعتراضات به این پروژه رخ داده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/24/albanian-police-use-water-cannon-on-protesters-over-kushner-linked-resort?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 04:32:51 +0000",
+      "time": "۰۸:۰۲ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T05:04:42.659Z"
     }
   ]
 }
