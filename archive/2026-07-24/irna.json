@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "irna",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "irna_49dc8f2402",
@@ -382,6 +382,54 @@
       "pubDate": "Fri, 24 Jul 2026 03:00:11 GMT",
       "time": "۰۶:۳۰ - ۲ مرداد",
       "analyzed_at": "2026-07-24T03:04:17.625Z"
+    },
+    {
+      "id": "irna_16bc673234",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "انفجارهای شدید در اردن",
+      "title_fa": "انفجارهای شدید در اردن",
+      "lead": "منابع خبری گزارش داده‌اند که انفجارهای شدیدی پایگاه‌های آمریکا در اردن را لرزانده است. این خبر از تهران توسط خبرگزاری ایرنا منتشر شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.irna.ir/news/86217789/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%B4%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A7%D8%B1%D8%AF%D9%86",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 03:11:09 GMT",
+      "time": "۰۶:۴۱ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T03:19:09.680Z"
+    },
+    {
+      "id": "irna_7259e9b1a5",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "برداشت گندم در ایلام به ایستگاه پایانی نزدیک شد",
+      "title_fa": "برداشت گندم در ایلام به ایستگاه پایانی نزدیک شد",
+      "lead": "برداشت گندم در استان ایلام در حال نزدیک شدن به مراحل پایانی است. تاکنون ۲۴۵ هزار تن محصول گندم از کشاورزان این استان خریداری شده است.",
+      "category": "economy",
+      "region": "Iran",
+      "sourceUrl": "https://www.irna.ir/news/86216136/%D8%A8%D8%B1%D8%AF%D8%A7%D8%B4%D8%AA-%DA%AF%D9%86%D8%AF%D9%85-%D8%AF%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D8%B4%D8%AF",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 03:09:20 GMT",
+      "time": "۰۶:۳۹ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T03:19:09.680Z"
     }
   ]
 }
