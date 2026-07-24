@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_6786fe919e",
@@ -458,6 +458,78 @@
       "pubDate": "Fri, 24 Jul 2026 10:45:05 +0000",
       "time": "۱۴:۱۵ - ۲ مرداد",
       "analyzed_at": "2026-07-24T11:07:14.118Z"
+    },
+    {
+      "id": "nytimes_cd00facbd1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "5 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
+      "title_fa": "مقامات می‌گویند در تیراندازی کرانه باختری ۵ نفر کشته شدند؛ یکی از مرگبارترین حوادث در ماه‌های اخیر",
+      "lead": "مقامات اعلام کردند که در این حادثه چهار فلسطینی و یک اسرائیلی کشته شدند. جزئیات وقایع همچنان نامشخص است و مقامات گزارش‌های متفاوتی ارائه می‌دهند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/24/world/middleeast/west-bank-shooting-tell-israelis-palestinians.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 11:02:08 +0000",
+      "time": "۱۴:۳۲ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T11:39:36.465Z"
+    },
+    {
+      "id": "nytimes_eaf132a472",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It Wants to Go Nuclear.",
+      "title_fa": "عربستان سعودی غنی از نفت، کمبود انرژی ندارد. در اینجا توضیح می‌دهیم که چرا این کشور به دنبال انرژی هسته‌ای است.",
+      "lead": "مخالفان هشدار می‌دهند که توافق آمریکا و عربستان می‌تواند گامی به سوی ساخت بمب اتمی توسط این پادشاهی باشد. با این حال، دلایل دیگری نیز برای متنوع‌سازی ترکیب انرژی بزرگترین صادرکننده نفت جهان وجود دارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Thu, 23 Jul 2026 15:57:43 +0000",
+      "time": "۱۹:۲۷ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T11:39:36.465Z"
+    },
+    {
+      "id": "nytimes_847b2bcf25",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
+      "title_fa": "هدف جدید حملات دوربرد اوکراین: نسخه روسی آمازون",
+      "lead": "کی‌یف با حمله به انبارهای تجاری، جنگ هوایی خود را تشدید می‌کند. این اقدامات برای نزدیک‌تر کردن درگیری به خانه‌های شهروندان عادی روسیه انجام می‌شود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 23 Jul 2026 13:05:19 +0000",
+      "time": "۱۶:۳۵ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T11:39:36.465Z"
     }
   ]
 }
