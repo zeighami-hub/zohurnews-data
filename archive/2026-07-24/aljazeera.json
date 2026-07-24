@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "aljazeera",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "aljazeera_3f43dfc692",
@@ -552,6 +552,30 @@
       "pubDate": "Fri, 24 Jul 2026 07:08:21 +0000",
       "time": "۱۰:۳۸ - ۲ مرداد",
       "analyzed_at": "2026-07-24T07:52:10.419Z"
+    },
+    {
+      "id": "aljazeera_dc4dee9c56",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
+      "title_fa": "حمله آمریکا به ایران در حالی که حوثی‌ها به کشتی‌های چینی اجازه عبور می‌دهند: آخرین تحولات چیست؟",
+      "lead": "تعداد عبور نفتکش‌ها از تنگه هرمز در روز پنجشنبه به پایین‌ترین سطح خود در دو ماه اخیر کاهش یافت. این کاهش در گذر نفتکش‌ها در یکی از مهم‌ترین آبراه‌های جهان رخ داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Fri, 24 Jul 2026 07:59:01 +0000",
+      "time": "۱۱:۲۹ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:22:56.896Z"
     }
   ]
 }
