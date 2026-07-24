@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "mehrnews",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "mehrnews_1afdda5225",
@@ -218,6 +218,54 @@
       "pubDate": "Fri, 24 Jul 2026 06:20:21 GMT",
       "time": "۰۹:۵۰ - ۲ مرداد",
       "analyzed_at": "2026-07-24T06:36:50.812Z"
+    },
+    {
+      "id": "mehrnews_d12cc43293",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran reserves rights to retaliate against any aggressive acts",
+      "title_fa": "ایران حق تلافی اقدامات تجاوزکارانه را برای خود محفوظ می‌دارد",
+      "lead": "وزیر امور خارجه ایران در نشست شورای وزیران خارجه سازمان همکاری شانگهای اعلام کرد که کشورش حق تلافی هرگونه اقدام تجاوزکارانه را برای خود محفوظ می‌دارد.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246478/Iran-reserves-rights-to-retaliate-against-any-acts-of-aggress",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Fri, 24 Jul 2026 06:44:14 GMT",
+      "time": "۱۰:۱۴ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T06:52:55.196Z"
+    },
+    {
+      "id": "mehrnews_a8cbd6ec8e",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "4 Israelis wounded near Havat Gilad settlement, SW Nablus",
+      "title_fa": "زخمی شدن ۴ اسرائیلی در نزدیکی شهرک حفات گیلاد، جنوب غربی نابلس.",
+      "lead": "چهار اسرائیلی صبح جمعه در نزدیکی شهرک حفات گیلاد، واقع در جنوب غربی نابلس، زخمی شدند. این حادثه در تاریخ ۲۴ جولای رخ داده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246477/4-Israelis-wounded-near-Havat-Gilad-settlement-SW-Nablus",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 06:32:22 GMT",
+      "time": "۱۰:۰۲ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T06:52:55.196Z"
     }
   ]
 }
