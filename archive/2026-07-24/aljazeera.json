@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "aljazeera",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "aljazeera_3f43dfc692",
@@ -170,6 +170,30 @@
       "pubDate": "Fri, 24 Jul 2026 01:08:08 +0000",
       "time": "۰۴:۳۸ - ۲ مرداد",
       "analyzed_at": "2026-07-24T01:33:42.007Z"
+    },
+    {
+      "id": "aljazeera_2e4e532e2f",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Mike Waltz pressed over Al Jazeera video during congressional hearing",
+      "title_fa": "مایک والتز در جلسه استماع کنگره بر سر ویدیوی الجزیره تحت فشار قرار گرفت",
+      "lead": "تد لیو در جلسه استماع کنگره، سفیر سازمان ملل، مایک والتز را پس از پخش ویدیوی الجزیره از حملات ایران در اردن به چالش کشید. این بحث در حالی صورت گرفت که والتز مورد سؤال قرار گرفته بود.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_mike-waltz-pressed-over-al-jazeera-video-congress-230726?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 01:24:41 +0000",
+      "time": "۰۴:۵۴ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T01:49:01.499Z"
     }
   ]
 }
