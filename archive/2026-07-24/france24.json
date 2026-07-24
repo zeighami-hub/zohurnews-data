@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "france24",
-  "total": 21,
+  "total": 24,
   "articles": [
     {
       "id": "france24_0c4f02cf77",
@@ -506,6 +506,78 @@
       "pubDate": "Fri, 24 Jul 2026 09:31:43 GMT",
       "time": "۱۳:۰۱ - ۲ مرداد",
       "analyzed_at": "2026-07-24T10:09:51.094Z"
+    },
+    {
+      "id": "france24_e70934ea42",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "France: Why is the Southwest so vulnerable to wildfires?",
+      "title_fa": "فرانسه: چرا جنوب غرب این کشور در برابر آتش‌سوزی‌های جنگلی آسیب‌پذیر است؟",
+      "lead": "منطقه ژیروند در اطراف بوردو، چهار سال پس از یک آتش‌سوزی ویرانگر، بار دیگر با آتش‌سوزی‌های بزرگ جنگلی دست و پنجه نرم می‌کند. مجموعه‌ای از عوامل خطر بالا، از جمله جنگل‌های وسیع کاج دریایی و خشکسالی مداوم، در این آسیب‌پذیری نقش دارند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/france-why-is-the-southwest-so-vulnerable-to-wildfires",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 24 Jul 2026 10:26:57 GMT",
+      "time": "۱۳:۵۶ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T10:38:58.764Z"
+    },
+    {
+      "id": "france24_5b8aa3a2f5",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Wildfires hound Tunisia, Algeria and Morocco",
+      "title_fa": "آتش‌سوزی‌های جنگلی تونس، الجزایر و مراکش را گرفتار کرده است",
+      "lead": "آتش‌سوزی‌های جنگلی مرگبار بیش از یک هفته است که الجزایر، مراکش و تونس را درگیر کرده‌اند. موج گرمای مداوم، شرایط خشک و بادهای شدید باعث گسترش شعله‌ها شده و تلاش‌های آتش‌نشانان را با مشکل مواجه ساخته است.",
+      "category": "environment",
+      "region": "africa",
+      "sourceUrl": "https://www.france24.com/en/wildfires-hound-tunisia-algeria-and-morocco",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 10:14:35 GMT",
+      "time": "۱۳:۴۴ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T10:38:58.764Z"
+    },
+    {
+      "id": "france24_8c2bfad944",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Gaza faces ongoing food crisis despite ceasefire",
+      "title_fa": "غزه با وجود آتش‌بس، با بحران غذایی مداوم روبروست",
+      "lead": "با گذشت بیش از نه ماه از آتش‌بس میان اسرائیل و حماس، بر اساس گزارش جدید سازمان ملل متحد، دو سوم جمعیت غزه همچنان با ناامنی غذایی در سطح بحرانی مواجه هستند. این گزارش هشدار می‌دهد که دستاوردهای اخیر ممکن است به سرعت از بین بروند.",
+      "category": "humanitarian",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/gaza-faces-ongoing-food-crisis-despite-ceasefire",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 10:12:05 GMT",
+      "time": "۱۳:۴۲ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T10:38:58.764Z"
     }
   ]
 }
