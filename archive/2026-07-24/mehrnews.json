@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "mehrnews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "mehrnews_1afdda5225",
@@ -74,6 +74,54 @@
       "pubDate": "Thu, 23 Jul 2026 10:38:01 GMT",
       "time": "۱۴:۰۸ - ۱ مرداد",
       "analyzed_at": "2026-07-24T00:20:38.774Z"
+    },
+    {
+      "id": "mehrnews_9849602f1e",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "America's adventure in the Persian Gulf",
+      "title_fa": "ماجراجویی آمریکا در خلیج فارس",
+      "lead": "با توجه به تشدید تنش‌ها توسط ایالات متحده در منطقه، دولت آمریکا با نقض تمام قوانین بین‌المللی و منشور سازمان ملل، به دامن زدن به گسترش جنگ در منطقه خلیج فارس می‌پردازد.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://en.mehrnews.com/news/246439/America-s-adventure-in-the-Persian-Gulf",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 05:23:06 GMT",
+      "time": "۰۸:۵۳ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T05:52:38.447Z"
+    },
+    {
+      "id": "mehrnews_d460f769fd",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Araghchi arrives in Kyrgyzstan for SCO ministerial meeting",
+      "title_fa": "عراقچی برای نشست وزرای خارجه شانگهای وارد قرقیزستان شد",
+      "lead": "سید عباس عراقچی، وزیر امور خارجه ایران، اواخر روز پنجشنبه برای شرکت در نشست شورای وزیران امور خارجه کشورهای عضو سازمان همکاری شانگهای وارد قرقیزستان شد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246472/Araghchi-arrives-in-Kyrgyzstan-for-SCO-ministerial-meeting",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 05:33:11 GMT",
+      "time": "۰۹:۰۳ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T05:52:38.447Z"
     }
   ]
 }
