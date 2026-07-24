@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "aljazeera",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "aljazeera_3f43dfc692",
@@ -50,6 +50,54 @@
       "pubDate": "Thu, 23 Jul 2026 23:53:13 +0000",
       "time": "۰۳:۲۳ - ۲ مرداد",
       "analyzed_at": "2026-07-24T00:20:38.774Z"
+    },
+    {
+      "id": "aljazeera_9232a248dc",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran war live: Trump weighs ‘massive attack’ on Iran",
+      "title_fa": "جنگ ایران؛ ترامپ حمله «بسیار گسترده» به ایران را بررسی می‌کند",
+      "lead": "ترامپ اعلام کرده است که در حال بررسی یک «حمله گسترده» است. این در حالی است که عراقچی، مقام ایرانی، می‌گوید «تجاوز بی‌فکرانه» کمکی به توافق نخواهد کرد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "time": "۰۳:۳۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T00:33:46.380Z"
+    },
+    {
+      "id": "aljazeera_2b108e041b",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
+      "title_fa": "فرستاده سازمان ملل در یمن از حملات حوثی‌ها در دریای سرخ «ابراز نگرانی» کرد و خواستار گفتگو شد",
+      "lead": "هانس گروندبرگ هشدار می‌دهد که ادامه رویارویی، خطر «تشدید رنج مردم یمن» را در پی دارد و خواستار مذاکره برای حل این بحران شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 24 Jul 2026 00:03:25 +0000",
+      "time": "۰۳:۳۳ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T00:33:46.380Z"
     }
   ]
 }
