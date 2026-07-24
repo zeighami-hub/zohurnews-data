@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "mehrnews",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "mehrnews_1afdda5225",
@@ -266,6 +266,54 @@
       "pubDate": "Fri, 24 Jul 2026 06:32:22 GMT",
       "time": "۱۰:۰۲ - ۲ مرداد",
       "analyzed_at": "2026-07-24T06:52:55.196Z"
+    },
+    {
+      "id": "mehrnews_3c74162000",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran’s Army strikes US bases in Bahrain, Jordan with drones",
+      "title_fa": "ارتش ایران پایگاه‌های آمریکا در بحرین و اردن را با پهپاد هدف قرار داد",
+      "lead": "ارتش ایران در اقدامی تلافی‌جویانه، پایگاه‌های نظامی آمریکا در بحرین و اردن را با حملات پهپادی هدف قرار داد. این حملات تأسیسات ذخیره‌سازی سوخت، انبارهای تجهیزات، آشیانه‌های هواپیما و مناطق اسکان نیروها را مورد اصابت قرار دادند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246480/Iran-s-Army-strikes-US-airbases-in-Bahrain-Jordan-with-drone",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 24 Jul 2026 07:12:20 GMT",
+      "time": "۱۰:۴۲ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T07:22:54.176Z"
+    },
+    {
+      "id": "mehrnews_e2dbe0671d",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Afghanistan joins SputnikPro",
+      "title_fa": "افغانستان به اسپوتنیک‌‌پرو پیوست",
+      "lead": "در تاریخ ۲۳ ژوئیه، اولین جلسه پروژه آموزشی بین‌المللی اسپوتنیک‌‌پرو در کابل برگزار شد. افغانستان به این پروژه آموزشی بین‌المللی پیوسته است.",
+      "category": "international_relations",
+      "region": "asia",
+      "sourceUrl": "https://en.mehrnews.com/news/246479/Afghanistan-joins-SputnikPro",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 06:59:58 GMT",
+      "time": "۱۰:۲۹ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T07:05:49.660Z"
     }
   ]
 }
