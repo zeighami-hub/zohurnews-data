@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "skynews_eaa238411c",
@@ -122,6 +122,54 @@
       "pubDate": "Thu, 23 Jul 2026 06:11:00 +0100",
       "time": "۰۸:۴۱ - ۱ مرداد",
       "analyzed_at": "2026-07-24T09:37:49.122Z"
+    },
+    {
+      "id": "skynews_ca71255366",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "25 dead in India tunnel disaster as more bodies recovered",
+      "title_fa": "۲۵ کشته در فاجعه تونل در هند؛ اجساد بیشتری پیدا شد",
+      "lead": "اجساد ۱۳ کارگر باقیمانده که در تونل فروریخته نیروگاه برق آبی در هند گرفتار شده بودند، پیدا شد. با این کشف، تعداد کل قربانیان این فاجعه به ۲۵ نفر افزایش یافته است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/25-dead-in-india-tunnel-disaster-as-more-bodies-recovered-13566322",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 23 Jul 2026 14:16:00 +0100",
+      "time": "۱۶:۴۶ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T10:24:57.634Z"
+    },
+    {
+      "id": "skynews_93079bf5b3",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "More than 15,000 people evacuated from homes as wildfire spreads in France",
+      "title_fa": "بیش از ۱۵ هزار نفر در پی گسترش آتش‌سوزی جنگلی در فرانسه از خانه‌های خود تخلیه شدند",
+      "lead": "در پی گسترش آتش‌سوزی جنگلی در نزدیکی شهر توریستی لژ کاپ فرت در جنوب غربی فرانسه، حدود ۲۰ هزار نفر از شهرها و اقامتگاه‌های تفریحی تخلیه شدند. این آتش‌سوزی منجر به جابجایی گسترده ساکنان و گردشگران شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/more-than-15000-people-evacuated-as-wildfire-spreads-in-france-13566261",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 23 Jul 2026 11:36:00 +0100",
+      "time": "۱۴:۰۶ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T10:24:57.634Z"
     }
   ]
 }
