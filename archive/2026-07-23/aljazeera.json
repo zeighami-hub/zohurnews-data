@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "aljazeera",
-  "total": 31,
+  "total": 33,
   "articles": [
     {
       "id": "aljazeera_083c0b3633",
@@ -746,6 +746,54 @@
       "pubDate": "Thu, 23 Jul 2026 10:51:36 +0000",
       "time": "۱۴:۲۱ - ۱ مرداد",
       "analyzed_at": "2026-07-23T11:29:05.918Z"
+    },
+    {
+      "id": "aljazeera_32dc4c9333",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Rubio says US policy on Iran is ‘a head for an eye’",
+      "title_fa": "روبیو: سیاست آمریکا در قبال ایران «یک سر در برابر یک چشم» است",
+      "lead": "سناتور مارکو روبیو اظهار داشت که سیاست ایالات متحده در قبال ایران به مثابه «یک سر در برابر یک چشم» است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rubio-says-us-policy-on-iran-is-a-head-for-an?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 11:12:18 +0000",
+      "time": "۱۴:۴۲ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T11:54:08.386Z"
+    },
+    {
+      "id": "aljazeera_4993951656",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Right-wing Israeli groups storm Al-Aqsa as Palestinians barred from worship\nIsraeli police barred Palestinians from entering Al-Aqsa Mosque as more than 2,300 right-wing Israelis entered.",
+      "title_fa": "گروه‌های راست‌گرای اسرائیلی به مسجدالاقصی یورش بردند؛ فلسطینی‌ها از عبادت منع شدند",
+      "lead": "پلیس اسرائیل فلسطینی‌ها را از ورود به مسجدالاقصی منع کرد، در حالی که بیش از ۲۳۰۰ اسرائیلی راست‌گرا وارد این مکان مقدس شدند. این اقدام به تنش‌ها در منطقه افزوده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/23/right-wing-israeli-groups-storm-al-aqsa-as-palestinians-barred-from-worship?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 23 Jul 2026 11:08:23 +0000",
+      "time": "۱۴:۳۸ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T11:54:08.386Z"
     }
   ]
 }
