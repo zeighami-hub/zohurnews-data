@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "dw",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "dw_2400d30075",
@@ -26,6 +26,30 @@
       "pubDate": "Fri, 24 Jul 2026 00:11:00 GMT",
       "time": "۰۳:۴۱ - ۲ مرداد",
       "analyzed_at": "2026-07-24T00:20:38.774Z"
+    },
+    {
+      "id": "dw_4a064b1929",
+      "agencyId": "dw",
+      "keep": true,
+      "title": "Czechia: Army helicopter crashes, killing at least one",
+      "title_fa": "جمهوری چک: سقوط هلیکوپتر ارتش دست‌کم یک کشته بر جای گذاشت",
+      "lead": "ارتش جمهوری چک اعلام کرد که یک هلیکوپتر نظامی این کشور حامل پنج سرباز در شرق جمهوری چک سقوط کرده است. در پی این حادثه، دست‌کم یک نفر کشته شده است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.dw.com/en/czechia-army-helicopter-crashes-killing-at-least-one/a-78083870?maca=en-rss-en-all-1573-xml-mrss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 23 Jul 2026 11:30:00 GMT",
+      "time": "۱۵:۰۰ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T00:33:46.380Z"
     }
   ]
 }
