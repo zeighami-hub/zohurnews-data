@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_9f3e028c6a",
@@ -74,6 +74,54 @@
       "pubDate": "Thu, 23 Jul 2026 05:46:09 GMT",
       "time": "۰۹:۱۶ - ۱ مرداد",
       "analyzed_at": "2026-07-24T00:20:38.774Z"
+    },
+    {
+      "id": "bbc_63d90e6d26",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
+      "title_fa": "غول فناوری به پرداخت ۶۴۴ میلیون دلار به همسر سابق خود در توافق طلاق محکوم شد",
+      "lead": "یک غول فناوری به پرداخت ۶۴۴ میلیون دلار به همسر سابق خود در جریان توافق طلاق محکوم شده است. این طلاق، که شامل رئیس یکی از بزرگترین شرکت‌های کره جنوبی است، توجه ملت را به خود جلب کرده است.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:30:58 GMT",
+      "time": "۱۲:۰۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:52:15.315Z"
+    },
+    {
+      "id": "bbc_3aa13dce46",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+      "title_fa": "فرانسه دستور تخلیه یک منطقه توریستی را صادر کرد؛ صدها نفر با قایق از آتش‌سوزی‌های جنگلی فرار می‌کنند",
+      "lead": "آتش‌سوزی برای چندین روز در منطقه ادامه داشته است. مقامات اکنون دستور تخلیه کامل شبه‌جزیره کاپ فره را صادر کرده‌اند.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 07:59:28 GMT",
+      "time": "۱۱:۲۹ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
     }
   ]
 }
