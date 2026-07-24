@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "skynews_eaa238411c",
@@ -74,6 +74,30 @@
       "pubDate": "Fri, 24 Jul 2026 01:52:00 +0100",
       "time": "۰۴:۲۲ - ۲ مرداد",
       "analyzed_at": "2026-07-24T03:19:09.680Z"
+    },
+    {
+      "id": "skynews_1b6e4763a1",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Knife came 'a millimetre from my brain': Salman Rushdie testifies at attacker's terrorism trial",
+      "title_fa": "سلمان رشدی در دادگاه تروریسم مهاجم خود شهادت داد: چاقو یک میلی‌متر با مغزم فاصله داشت",
+      "lead": "سر سلمان رشدی در دادگاه تروریسم مردی که برای قتل او تلاش کرده بود، شهادت داد. او در این شهادت خود بیان کرد که چاقو \"یک میلی‌متر\" با مغز او فاصله داشته است.",
+      "category": "law_crime",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/knife-came-a-millimetre-from-my-brain-salman-rushdie-testifies-at-attackers-terrorism-trial-13566501",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 03:09:00 +0100",
+      "time": "۰۵:۳۹ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T04:04:03.084Z"
     }
   ]
 }
