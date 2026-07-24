@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "aljazeera",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "aljazeera_3f43dfc692",
@@ -504,6 +504,30 @@
       "pubDate": "Fri, 24 Jul 2026 06:01:39 +0000",
       "time": "۰۹:۳۱ - ۲ مرداد",
       "analyzed_at": "2026-07-24T06:36:50.812Z"
+    },
+    {
+      "id": "aljazeera_a8733f347c",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
+      "title_fa": "تهران تهدید ترامپ برای استفاده از دارایی‌های بلوکه شده ایران را \"تحریک‌آمیز\" خواند",
+      "lead": "تهران تهدید دونالد ترامپ مبنی بر استفاده از دارایی‌های بلوکه شده ایران را \"تحریک‌آمیز\" توصیف کرد. رئیس‌جمهور ترامپ گفته است که خسارات از پول‌های ایران که \"در اختیار آمریکا است و کنترل آن را دارد\" پرداخت خواهد شد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 24 Jul 2026 06:48:07 +0000",
+      "time": "۱۰:۱۸ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T07:05:49.660Z"
     }
   ]
 }
