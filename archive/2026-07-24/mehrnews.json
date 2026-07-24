@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "mehrnews",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "mehrnews_1afdda5225",
@@ -338,6 +338,54 @@
       "pubDate": "Fri, 24 Jul 2026 07:30:27 GMT",
       "time": "۱۱:۰۰ - ۲ مرداد",
       "analyzed_at": "2026-07-24T07:38:37.299Z"
+    },
+    {
+      "id": "mehrnews_0f0f7e7b51",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Russia reaffirms opposition to US-Israeli attack against Iran",
+      "title_fa": "روسیه مخالفت خود را با حمله آمریکا و اسرائیل علیه ایران تاکید کرد",
+      "lead": "آندری رودنکو، معاون وزیر خارجه روسیه، اظهار داشت که مسکو از ابتدا تجاوز غیرقانونی آمریکا و اسرائیل علیه ایران را محکوم کرده است. وی این اقدام را تجاوز غیرقانونی علیه کشوری دانست که به تعهدات بین‌المللی خود پایبند بوده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246482/Russia-reaffirms-opposition-to-US-Israeli-attack-against-Iran",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 07:51:37 GMT",
+      "time": "۱۱:۲۱ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:06:49.300Z"
+    },
+    {
+      "id": "mehrnews_309b81f1a0",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "SCO ministers ink 25 coop. documents in Kyrgyzstan",
+      "title_fa": "وزرای شانگهای ۲۵ سند همکاری در قرقیزستان امضا کردند",
+      "lead": "وزرای خارجه کشورهای عضو سازمان همکاری شانگهای (SCO) در پایان نشست خود در چولپان‌آتا، قرقیزستان، ۲۵ سند همکاری را امضا کردند. این اسناد در چارچوب ۹ تصمیم به امضا رسیدند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246483/SCO-ministers-ink-25-coop-documents-in-Kyrgyzstan",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 07:58:56 GMT",
+      "time": "۱۱:۲۸ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:06:49.300Z"
     }
   ]
 }
