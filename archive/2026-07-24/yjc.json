@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "yjc",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "yjc_2c1653685e",
@@ -72,6 +72,28 @@
         "negative": 100
       },
       "analyzed_at": "2026-07-24T02:03:55.422Z"
+    },
+    {
+      "id": "yjc_7",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "صدای انفجار در برخی از مناطق کشور",
+      "title_fa": "صدای انفجار در برخی از مناطق کشور",
+      "lead": "از ابتدایی‌ترین ساعات بامداد امروز، صدای انفجار در برخی از شهرهای کشور گزارش شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9111619/%D8%B5%D8%AF%D8%A7%DB%8C-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%A7%D8%B2-%D9%85%D9%86%D8%A7%D9%88%D8%A7%DB%8C%D9%86",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-24T02:18:55.920Z"
     }
   ]
 }
