@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "aljazeera",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "aljazeera_3f43dfc692",
@@ -266,6 +266,30 @@
       "pubDate": "Fri, 24 Jul 2026 02:13:06 +0000",
       "time": "۰۵:۴۳ - ۲ مرداد",
       "analyzed_at": "2026-07-24T02:34:19.109Z"
+    },
+    {
+      "id": "aljazeera_00a4412cbb",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "US launches 13th night of strikes as Iran warns of escalation in the Gulf",
+      "title_fa": "آمریکا سیزدهمین شب متوالی حملات را آغاز کرد؛ ایران نسبت به تشدید تنش در خلیج فارس هشدار داد",
+      "lead": "توحید اسدی از تهران گزارش می‌دهد که آمریکا برای سیزدهمین شب متوالی حملاتی را آغاز کرده است. این اقدام در حالی صورت می‌گیرد که ایران نسبت به تشدید تنش در خلیج فارس هشدار داده است.",
+      "category": "military",
+      "region": "middle east",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-launches-13th-night-of-strikes-as-iran-warns-of-escalation-in-the-gulf?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 02:25:41 +0000",
+      "time": "۰۵:۵۵ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T03:04:17.625Z"
     }
   ]
 }
