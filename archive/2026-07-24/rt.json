@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "rt",
-  "total": 8,
+  "total": 12,
   "articles": [
     {
       "id": "rt_59ee8be5a4",
@@ -192,6 +192,102 @@
         "negative": 80
       },
       "analyzed_at": "2026-07-24T09:08:51.312Z"
+    },
+    {
+      "id": "rt_cfa400772b",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "The West wants a new order, but has no plan for one",
+      "title_fa": "غرب به دنبال نظمی جدید است، اما برنامه‌ای برای آن ندارد",
+      "lead": "این مقاله استدلال می‌کند که غرب به دنبال ایجاد نظم جهانی جدیدی است. در حالی که کنوانسیون مونترو تحت فشار قرار گرفته و تنگه هرمز بی‌ثبات‌تر می‌شود، قدرت نظامی به تنهایی قادر به حفظ نظم نیست.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643337-west-wants-new-order/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 17:23:22 +0000",
+      "time": "۲۰:۵۳ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T09:23:13.900Z"
+    },
+    {
+      "id": "rt_9beb75ed17",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Turkish sailor killed amid fresh Ukrainian strikes on shipping (VIDEO)",
+      "title_fa": "در پی حملات جدید اوکراین به کشتی‌ها، ملوان ترکیه‌ای کشته شد",
+      "lead": "یک ملوان ترکیه‌ای در حمله پهپادی به کشتی حامل زغال سنگ در نزدیکی نووروسیسک کشته شد. اوکراین از حملات به ۱۳ کشتی در دریای آزوف و دریای سیاه خبر داده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643392-turkish-sailor-ukraine-drone-strikes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 23 Jul 2026 16:00:06 +0000",
+      "time": "۱۹:۳۰ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T09:23:13.900Z"
+    },
+    {
+      "id": "rt_10cf35f34b",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "EU caves in on new Russia sanctions – media",
+      "title_fa": "رسانه‌ها: اتحادیه اروپا در مورد تحریم‌های جدید روسیه عقب‌نشینی کرد",
+      "lead": "رسانه‌ها گزارش می‌دهند که اتحادیه اروپا پس از فشار یونان، در چارچوب تحریم‌های جدید به شرکت‌ها اجازه داده است تا گاز طبیعی مایع روسیه را به کشورهای ثالث منتقل کنند. این تصمیم نشان‌دهنده عقب‌نشینی اتحادیه در موضع‌گیری خود است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643373-eu-greece-russia-sanctions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 12:00:13 +0000",
+      "time": "۱۵:۳۰ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T09:23:13.900Z"
+    },
+    {
+      "id": "rt_0d16356f92",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Another oil artery under threat? The Houthis are testing Riyadh",
+      "title_fa": "آیا یکی دیگر از شریان‌های نفتی در خطر است؟ حوثی‌ها ریاض را آزمایش می‌کنند",
+      "lead": "هشدارهای رادیویی در دریای سرخ ممکن است هنوز در حد یک بلوف باشند. با این حال، شهرهای یانبو و خط لوله شرق-غرب اکنون در میانه یک بن‌بست خطرناک جدید قرار گرفته‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/643391-houthis-saudi-oill-artery/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 23 Jul 2026 19:42:27 +0000",
+      "time": "۲۳:۱۲ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T09:23:13.900Z"
     }
   ]
 }
