@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "nytimes",
-  "total": 31,
+  "total": 36,
   "articles": [
     {
       "id": "nytimes_a849a55b14",
@@ -746,6 +746,126 @@
       "pubDate": "Thu, 23 Jul 2026 17:59:45 +0000",
       "time": "۲۱:۲۹ - ۱ مرداد",
       "analyzed_at": "2026-07-23T20:48:15.682Z"
+    },
+    {
+      "id": "nytimes_f2e0b6a106",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Senators Ask Hegseth to Fully Account for U.S. Troops Killed or Wounded in Iran",
+      "title_fa": "سناتورها از هگست برای ارائه گزارش کامل تلفات نیروهای آمریکایی در ایران درخواست شفافیت کردند",
+      "lead": "۱۲ سناتور دموکرات در کمیته نیروهای مسلح اعلام کردند که وزارت دفاع، گزارش «به موقع و جامع» از تلفات نیروها در طول جنگ ارائه نکرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/middleeast/iran-war-us-troops-hegseth-casualties.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 21:16:09 +0000",
+      "time": "۰۰:۴۶ - ۲ مرداد",
+      "analyzed_at": "2026-07-23T21:43:09.158Z"
+    },
+    {
+      "id": "nytimes_a234cf15e8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "What to Know About Iran and the Houthis",
+      "title_fa": "آنچه باید درباره ایران و حوثی‌ها بدانیم",
+      "lead": "گروه شبه‌نظامی یمنی با حمله به کشتی‌ها و اعلام محاصره یک آبراه استراتژیک، جبهه جدیدی در درگیری بین حامی خود، ایران، و ایالات متحده گشود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/middleeast/what-to-know-iran-houthis.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 23 Jul 2026 20:47:05 +0000",
+      "time": "۰۰:۱۷ - ۲ مرداد",
+      "analyzed_at": "2026-07-23T21:43:09.158Z"
+    },
+    {
+      "id": "nytimes_581ea5d8d6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Defining Image of India’s Gen Z Protests",
+      "title_fa": "تصویر برجسته از اعتراضات نسل Z در هند",
+      "lead": "جنبش اعتراضی جدیدی در سراسر هند در حال گسترش است. ویدئویی از زنی که جلوی یک ون پلیس را می‌گیرد، به نمادی از عزم جوانان رهبر این جنبش تبدیل شده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/asia/rhiya-ahir-mumbai-india-student-protests-genz.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Thu, 23 Jul 2026 21:01:45 +0000",
+      "time": "۰۰:۳۱ - ۲ مرداد",
+      "analyzed_at": "2026-07-23T21:43:09.158Z"
+    },
+    {
+      "id": "nytimes_d93697667e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump, His Money, and the World",
+      "title_fa": "ترامپ، ثروت او و جهان",
+      "lead": "افزایش ثروت دونالد ترامپ در دوران ریاست جمهوری می‌تواند بر تلاش‌های جهانی مبارزه با فساد تأثیرگذار باشد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/trump-foreign-deals-wealth-saudi.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 23 Jul 2026 20:55:57 +0000",
+      "time": "۰۰:۲۵ - ۲ مرداد",
+      "analyzed_at": "2026-07-23T21:43:09.158Z"
+    },
+    {
+      "id": "nytimes_a419221f44",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them",
+      "title_fa": "عقب‌نشینی سرگیجه‌آور زلنسکی، جدیدترین چرخش در ریاست‌جمهوری اوست",
+      "lead": "رئیس‌جمهور ولودیمیر زلنسکی، پیش از این نیز از تصمیمات نامحبوب عقب‌نشینی کرده بود. با این حال، تصمیم اخیر او درباره رهبری و استراتژی نظامی می‌تواند موقعیت وی را تضعیف کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 23 Jul 2026 15:45:00 +0000",
+      "time": "۱۹:۱۵ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T21:43:09.158Z"
     }
   ]
 }
