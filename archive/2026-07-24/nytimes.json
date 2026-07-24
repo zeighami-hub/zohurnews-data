@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_6786fe919e",
@@ -98,6 +98,174 @@
       "pubDate": "Fri, 24 Jul 2026 04:52:34 +0000",
       "time": "۰۸:۲۲ - ۲ مرداد",
       "analyzed_at": "2026-07-24T09:08:51.312Z"
+    },
+    {
+      "id": "nytimes_43399a7944",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
+      "title_fa": "«در جهنم گرفتاریم»: ایرانیان می‌گویند زندگی‌شان ماه‌هاست که به دلیل جنگ متوقف شده است",
+      "lead": "بسیاری از ایرانیان از چرخه‌های خشونت و بحران اقتصادی آسیب دیده‌اند و از کار و آینده خود ناامید شده‌اند. این وضعیت در حالی است که ایالات متحده بار دیگر به ایران حمله می‌کند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 09:04:59 +0000",
+      "time": "۱۲:۳۴ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T09:23:13.900Z"
+    },
+    {
+      "id": "nytimes_f06d3f4889",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
+      "title_fa": "برای کره جنوبی، توافق هسته‌ای آمریکا و عربستان سعودی یک استاندارد دوگانه را برملا می‌کند",
+      "lead": "رئیس‌جمهور ترامپ عربستان سعودی را در مسیر غنی‌سازی اورانیوم در خاک خود قرار داده است. این در حالی است که کره جنوبی سال‌هاست چنین درخواستی را مطرح می‌کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 14:24:40 +0000",
+      "time": "۱۷:۵۴ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T09:23:13.900Z"
+    },
+    {
+      "id": "nytimes_ef11b5a01e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s the latest.",
+      "title_fa": "آخرین خبرها",
+      "lead": "این یک به‌روزرسانی زنده از رویدادهای جاری است. اخبار مربوط به جنگ ایران، حملات آمریکا و سیاست‌های ترامپ و نفت در این بخش ارائه می‌شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil/heres-the-latest",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 09:06:53 +0000",
+      "time": "۱۲:۳۶ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T09:23:13.900Z"
+    },
+    {
+      "id": "nytimes_35e8877393",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
+      "title_fa": "همزمان با افتتاح پل بین‌المللی گوردون هاو در کانادا، به آمریکایی‌ها گفته شد در خانه بمانند",
+      "lead": "پس از تأخیری که به دستور پرزیدنت ترامپ و اعمال تعرفه‌های جدید علیه کانادا ایجاد شد، پل بین ویندزور، انتاریو و دیترویت روز جمعه به شکلی «کم‌فروغ» افتتاح می‌شود. این افتتاحیه با دستورالعمل‌هایی برای آمریکایی‌ها همراه است که در خانه بمانند.",
+      "category": "society",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Fri, 24 Jul 2026 09:05:17 +0000",
+      "time": "۱۲:۳۵ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T09:23:13.900Z"
+    },
+    {
+      "id": "nytimes_2ab8857aae",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Venezuela’s Earthquakes Show Wealth Divide, Even in Death",
+      "title_fa": "زلزله‌های ونزوئلا شکاف طبقاتی را حتی در مرگ نیز نشان می‌دهند",
+      "lead": "زلزله‌های ونزوئلا نشان‌دهنده نابرابری‌های عمیق اقتصادی در این کشور هستند که حتی بر نیروی یکسان‌کننده مرگ نیز غلبه کرده و مردگان را از هم متمایز ساخته است. نابرابری‌های ریشه‌دار آمریکای لاتین بر این رویداد فائق آمده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/24/world/americas/venezuela-earthquake-dead-costs-la-guaira.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 24 Jul 2026 09:02:18 +0000",
+      "time": "۱۲:۳۲ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T09:23:13.900Z"
+    },
+    {
+      "id": "nytimes_3a3765fdee",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "On Instagram, Travelers Are Taking Risky Cross-Continental Journeys. What Could Go Wrong?",
+      "title_fa": "در اینستاگرام، مسافران به سفرهای پرخطر بین قاره‌ای می‌روند. چه چیزی ممکن است اشتباه پیش برود؟",
+      "lead": "حساب‌های کاربری مربوط به سفرهای پرخطر بین قاره‌ای در شبکه‌های اجتماعی رو به افزایش است. کارشناسان امنیتی نگرانی‌های جدی در این زمینه ابراز کرده‌اند. این روند سوالاتی را درباره خطرات احتمالی و عواقب ناخواسته این سفرها مطرح می‌کند.",
+      "category": "society",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/07/24/travel/risky-trips-instagram-tiktok-social-media.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Fri, 24 Jul 2026 09:00:28 +0000",
+      "time": "۱۲:۳۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T09:23:13.900Z"
+    },
+    {
+      "id": "nytimes_2c41068101",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Kyrgyzstan, Girls Compete at Kok-Boru, a Game Like Polo",
+      "title_fa": "در قرقیزستان، دختران در کوک‌بورو، بازی مشابه چوگان، رقابت می‌کنند",
+      "lead": "در قرقیزستان، برخی دختران نوجوان جسارت به خرج داده و در ورزش خطرناک «کوک‌بورو» که شبیه به چوگان است، به رقابت پرداختند. این موضوع نشان‌دهنده شکستن سنت‌ها توسط اولین تیم چوگان دختران است، اگرچه آنها همچنان از لاشه بز در بازی استفاده می‌کنند.",
+      "category": "society",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/24/world/europe/first-girls-polo-team-breaks-with-tradition-but-keeps-the-goat-carcass.html",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "low",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 09:00:26 +0000",
+      "time": "۱۲:۳۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T09:23:13.900Z"
     }
   ]
 }
