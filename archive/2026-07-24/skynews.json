@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "skynews_eaa238411c",
@@ -50,6 +50,30 @@
       "pubDate": "Fri, 24 Jul 2026 00:44:00 +0100",
       "time": "۰۳:۱۴ - ۲ مرداد",
       "analyzed_at": "2026-07-24T02:34:19.109Z"
+    },
+    {
+      "id": "skynews_4e0fce60df",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Is the 'no wars' president about to start another one?",
+      "title_fa": "آیا رئیس‌جمهوری \"بدون جنگ\" در آستانه آغاز جنگ دیگری است؟",
+      "lead": "این گزارش به این سوال می‌پردازد که آیا رئیس‌جمهوری که به عدم آغاز جنگ معروف بوده، ممکن است جنگ دیگری را آغاز کند. این موضوع گمانه‌زنی‌ها را در مورد سیاست خارجی و تصمیمات آتی او برانگیخته است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/is-the-no-wars-president-about-to-start-another-one-13566499",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 24 Jul 2026 01:52:00 +0100",
+      "time": "۰۴:۲۲ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T03:19:09.680Z"
     }
   ]
 }
