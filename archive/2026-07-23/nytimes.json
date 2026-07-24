@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "nytimes",
-  "total": 36,
+  "total": 37,
   "articles": [
     {
       "id": "nytimes_a849a55b14",
@@ -866,6 +866,30 @@
       "pubDate": "Thu, 23 Jul 2026 15:45:00 +0000",
       "time": "۱۹:۱۵ - ۱ مرداد",
       "analyzed_at": "2026-07-23T21:43:09.158Z"
+    },
+    {
+      "id": "nytimes_d4b2dd33fd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran Rejects U.S. Cease-Fire Deal Presented by Iraqi Leader",
+      "title_fa": "ایران طرح آتش‌بس آمریکا ارائه شده توسط رهبر عراق را رد کرد",
+      "lead": "ایران طرح آتش‌بس پیشنهادی آمریکا که توسط رهبر عراق ارائه شده بود را رد کرده است. جزئیات این پیشنهاد فوراً مشخص نبود، اما مقامات ایرانی اعلام کردند که این تنها پیشنهاد موجود بود.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/middleeast/iran-iraq-cease-fire-proposal.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 23:39:27 +0000",
+      "time": "۰۳:۰۹ - ۲ مرداد",
+      "analyzed_at": "2026-07-23T23:49:41.415Z"
     }
   ]
 }
