@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "rt",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "rt_59ee8be5a4",
@@ -74,6 +74,30 @@
       "pubDate": "Fri, 24 Jul 2026 01:24:12 +0000",
       "time": "۰۴:۵۴ - ۲ مرداد",
       "analyzed_at": "2026-07-24T01:33:42.007Z"
+    },
+    {
+      "id": "rt_c7dba9796a",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Heavy explosions as US pounds Iranian city (VIDEOS)",
+      "title_fa": "انفجارهای شدید همزمان با حمله آمریکا به شهر اهواز ایران",
+      "lead": "ایالات متحده حملات جدیدی علیه ایران انجام داده است. گزارش‌ها حاکی از انفجارهای شدید در شهر اهواز، واقع در جنوب غربی ایران، است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/643407-us-strikes-iran-ahvaz/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 02:20:36 +0000",
+      "time": "۰۵:۵۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T02:34:19.109Z"
     }
   ]
 }
