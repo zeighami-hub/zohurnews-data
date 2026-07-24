@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "guardian",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "guardian_808ccbf687",
@@ -170,6 +170,30 @@
       "pubDate": "Fri, 24 Jul 2026 04:36:34 GMT",
       "time": "۰۸:۰۶ - ۲ مرداد",
       "analyzed_at": "2026-07-24T05:04:42.659Z"
+    },
+    {
+      "id": "guardian_e680738a18",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Australian regulator TGA warns of ‘rare but severe’ eye disorder linked to GLP-1 drugs like Ozempic",
+      "title_fa": "سازمان تنظیم مقررات استرالیا درباره اختلال چشمی «نادر اما شدید» مرتبط با داروهای GLP-1 مانند اوزمپیک هشدار داد",
+      "lead": "سازمان تنظیم مقررات درمانی استرالیا (TGA) نسبت به اختلال چشمی «نادر اما شدید» مرتبط با داروهای GLP-1 از جمله اوزمپیک هشدار داده است. این سازمان اعلام کرد که اطلاعات محصولات برخی داروهای دیابت و کاهش وزن با هشدار در مورد اختلال NAION به‌روزرسانی شده است.",
+      "category": "health",
+      "region": "australia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/24/tga-warning-gpl1-eye-disorder-drugs-ozempic-wegovy-mounjaro",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Fri, 24 Jul 2026 06:39:09 GMT",
+      "time": "۱۰:۰۹ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T07:05:49.660Z"
     }
   ]
 }
