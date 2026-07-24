@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "aljazeera",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "aljazeera_3f43dfc692",
@@ -242,6 +242,30 @@
       "pubDate": "Fri, 24 Jul 2026 02:06:15 +0000",
       "time": "۰۵:۳۶ - ۲ مرداد",
       "analyzed_at": "2026-07-24T02:18:55.920Z"
+    },
+    {
+      "id": "aljazeera_efa5ce2a89",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "‘There’s no salary’: DRC health workers tell of hardship as Ebola spreads",
+      "title_fa": "کارکنان بهداشت در کنگو از سختی‌های خود می‌گویند؛ شیوع ابولا و عدم پرداخت حقوق",
+      "lead": "کارکنان بهداشت در جمهوری دموکراتیک کنگو در بحبوحه شیوع ابولا با مشکلات زیادی دست و پنجه نرم می‌کنند. این مشکلات شامل خطر عفونت، حملات گروه‌های خشمگین و عدم پرداخت حقوق می‌شود.",
+      "category": "health",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/features/2026/7/24/theres-no-salary-drc-health-workers-tell-of-hardship-as-ebola-spreads?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 02:13:06 +0000",
+      "time": "۰۵:۴۳ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T02:34:19.109Z"
     }
   ]
 }
