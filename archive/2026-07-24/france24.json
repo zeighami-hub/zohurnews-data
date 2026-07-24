@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "france24",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "france24_0c4f02cf77",
@@ -146,6 +146,30 @@
       "pubDate": "Fri, 24 Jul 2026 06:04:36 GMT",
       "time": "۰۹:۳۴ - ۲ مرداد",
       "analyzed_at": "2026-07-24T06:21:01.434Z"
+    },
+    {
+      "id": "france24_cc82708f91",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Live: Thousands forced to flee as deadly wildfires rage in parts of France, Italy and Spain",
+      "title_fa": "هزاران نفر در پی آتش‌سوزی‌های مرگبار در فرانسه، ایتالیا و اسپانیا مجبور به فرار شدند",
+      "lead": "هزاران نفر در پی آتش‌سوزی‌های مرگبار که روز جمعه در بخش‌هایی از فرانسه، اسپانیا و ایتالیا گسترش یافت، مجبور به ترک خانه‌های خود شدند. صدها آتش‌نشان با حمایت هواپیماهای آب‌پاش در حال مبارزه با این آتش‌سوزی‌ها هستند که با دماهای سوزان و بادهای شدید شعله‌ور شده‌اند.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/europe/20260724-thousands-forced-to-flee-as-deadly-wildfires-rage-in-parts-of-france-italy-and-spain",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 07:35:12 GMT",
+      "time": "۱۱:۰۵ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T07:52:10.419Z"
     }
   ]
 }
