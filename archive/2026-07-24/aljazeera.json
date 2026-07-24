@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "aljazeera",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "aljazeera_3f43dfc692",
@@ -146,6 +146,30 @@
       "pubDate": "Fri, 24 Jul 2026 00:29:08 +0000",
       "time": "۰۳:۵۹ - ۲ مرداد",
       "analyzed_at": "2026-07-24T01:03:43.647Z"
+    },
+    {
+      "id": "aljazeera_221bc1f49e",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Trump imposes new double-digit tariffs on dozens of countries",
+      "title_fa": "ترامپ تعرفه‌های دو رقمی جدیدی را بر ده‌ها کشور اعمال کرد",
+      "lead": "با نزدیک شدن به انقضای عوارض ۱۰ درصدی موجود، ترامپ تعرفه‌های جدیدی را بر ۶۰ کشور تحت بند کار اجباری وضع کرد. این اقدام بر روابط تجاری بین‌المللی تأثیرگذار خواهد بود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/24/trump-imposes-new-double-digit-tariffs-on-dozens-of-countries?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 24 Jul 2026 01:08:08 +0000",
+      "time": "۰۴:۳۸ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T01:33:42.007Z"
     }
   ]
 }
