@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_1a416fd5b8",
@@ -482,6 +482,78 @@
       "pubDate": "Wed, 22 Jul 2026 22:13:24 GMT",
       "time": "۰۱:۴۳ - ۱ مرداد",
       "analyzed_at": "2026-07-23T11:54:08.386Z"
+    },
+    {
+      "id": "bbc_c8cae83a6f",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "title_fa": "ترامپ می‌گوید سعودی‌ها باید اسرائیل را برای توافق هسته‌ای به رسمیت بشناسند",
+      "lead": "رئیس‌جمهور آمریکا می‌گوید توافق تاریخی برای کمک به سعودی‌ها در توسعه انرژی هسته‌ای، به پیوستن آنها به پیمان ابراهیم بستگی دارد. این شرط جدید می‌تواند بر اجرای توافق تأثیر بگذارد.",
+      "category": "energy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "pubDate": "Thu, 23 Jul 2026 17:58:02 GMT",
+      "time": "۲۱:۲۸ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T20:48:15.682Z"
+    },
+    {
+      "id": "bbc_a517abe91e",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "title_fa": "حملات حوثی‌ها نگرانی‌ها را از گسترش درگیری در خاورمیانه و آسیب بیشتر به اقتصاد جهانی افزایش می‌دهد",
+      "lead": "گروه تحت حمایت ایران در یمن تهدید کرده است که کشتی‌های سعودی را در یک مسیر حیاتی کشتیرانی هدف قرار خواهد داد. این حملات نگرانی‌ها را در مورد گسترش درگیری در خاورمیانه و آسیب بیشتر به اقتصاد جهانی افزایش می‌دهد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 23 Jul 2026 17:06:08 GMT",
+      "time": "۲۰:۳۶ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T20:48:15.682Z"
+    },
+    {
+      "id": "bbc_de4c131070",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ukraine's ousted defence minister insists on being reinstated",
+      "title_fa": "وزیر دفاع برکنار شده اوکراین بر بازگشت به سمت خود اصرار دارد",
+      "lead": "میخائیلو فدروف پیشنهاد رئیس‌جمهور زلنسکی برای پذیرش پستی جایگزین را رد می‌کند. این نشان‌دهنده ادامه کشمکش اراده‌ها در اوکراین است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 17:37:59 GMT",
+      "time": "۲۱:۰۷ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T20:48:15.682Z"
     }
   ]
 }
