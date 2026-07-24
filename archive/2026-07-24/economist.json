@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "economist",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "economist_ef407cc49b",
@@ -290,6 +290,30 @@
       "pubDate": "Mon, 08 Jun 2026 16:28:40 +0000",
       "time": "۱۹:۵۸ - ۱۸ خرداد",
       "analyzed_at": "2026-07-24T10:24:57.634Z"
+    },
+    {
+      "id": "economist_4ad0c45fb2",
+      "agencyId": "economist",
+      "keep": true,
+      "title": "The Iran war is consuming the Trump presidency",
+      "title_fa": "جنگ ایران در حال فروپاشی ریاست جمهوری ترامپ است",
+      "lead": "تحلیلی بیان می‌کند که جنگ ایران در حال بلعیدن ریاست جمهوری دونالد ترامپ است. در این راستا، باراک اوباما در مورد پرهیز از \"کارهای احمقانه\" حق داشت، حتی اگر ترامپ نخواهد این را بشنود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.economist.com/international/2026/07/21/the-iran-war-is-consuming-the-trump-presidency",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Tue, 21 Jul 2026 20:42:32 +0000",
+      "time": "۰۰:۱۲ - ۳۱ تیر",
+      "analyzed_at": "2026-07-24T11:39:36.465Z"
     }
   ]
 }
