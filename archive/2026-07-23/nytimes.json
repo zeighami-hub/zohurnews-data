@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 31,
   "articles": [
     {
       "id": "nytimes_a849a55b14",
@@ -578,6 +578,174 @@
       "pubDate": "Thu, 23 Jul 2026 09:55:32 +0000",
       "time": "۱۳:۲۵ - ۱ مرداد",
       "analyzed_at": "2026-07-23T11:29:05.918Z"
+    },
+    {
+      "id": "nytimes_67990a9592",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran War Live Updates: Red Sea Turmoil Pushes Oil Past $100 a Barrel",
+      "title_fa": "به‌روزرسانی زنده جنگ ایران: ناآرامی در دریای سرخ قیمت نفت را از ۱۰۰ دلار در هر بشکه فراتر برد",
+      "lead": "پس از آنکه متحدان حوثی ایران در یمن مسئولیت حمله به دو نفتکش سعودی را بر عهده گرفتند، قیمت نفت برنت افزایش یافت. مجلس نمایندگان برای دومین بار برای محدود کردن اختیارات جنگی پرزیدنت ترامپ رای گیری کرد و چهار جمهوری‌خواه به دموکرات‌ها پیوستند تا رئیس‌جمهور را توبیخ کنند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Thu, 23 Jul 2026 20:29:11 +0000",
+      "time": "۲۳:۵۹ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T20:48:15.682Z"
+    },
+    {
+      "id": "nytimes_8bf55b9fe8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Strikes Against Saudi Tankers in the Red Sea Send Oil Past $100 a Barrel",
+      "title_fa": "حملات علیه نفتکش‌های سعودی در دریای سرخ قیمت نفت را از ۱۰۰ دلار در هر بشکه فراتر برد",
+      "lead": "پس از آنکه متحد ایران، حوثی‌ها، اعلام کردند دو کشتی با پرچم عربستان سعودی را هدف قرار داده‌اند، پرزیدنت ترامپ تهدید به حمله به شبه‌نظامیان حوثی کرد. این حملات باعث افزایش قیمت نفت به بیش از ۱۰۰ دلار در هر بشکه شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/middleeast/red-sea-strikes-oil-houthis.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Thu, 23 Jul 2026 20:05:27 +0000",
+      "time": "۲۳:۳۵ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T20:48:15.682Z"
+    },
+    {
+      "id": "nytimes_f2d7fbfe55",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Throws a Potential Wrench in the Saudi Nuclear Deal He Just Inked",
+      "title_fa": "ترامپ در توافق هسته‌ای عربستان که به تازگی امضا کرده، مانع ایجاد می‌کند",
+      "lead": "عربستان سعودی مدت‌هاست که شرط عادی‌سازی روابط با اسرائیل را مسیری به سوی تشکیل کشور فلسطین اعلام کرده است. این چشم‌انداز توسط دولت فعلی اسرائیل رد شده و پرزیدنت ترامپ نیز با اظهارات خود، توافق هسته‌ای را دچار چالش کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/middleeast/trump-saudi-arabia-palestinian-state.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Thu, 23 Jul 2026 19:43:17 +0000",
+      "time": "۲۳:۱۳ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T20:48:15.682Z"
+    },
+    {
+      "id": "nytimes_f06d3f4889",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard President Trump has put Saudi Arabia on the path to enriching uranium on its own soil, a demand South Korea has been making for years.",
+      "title_fa": "توافق هسته‌ای آمریکا و عربستان سعودی، استاندارد دوگانه را برای کره جنوبی آشکار می‌سازد",
+      "lead": "رئیس‌جمهور ترامپ عربستان سعودی را در مسیر غنی‌سازی اورانیوم در خاک خود قرار داده است. این در حالی است که کره جنوبی سال‌هاست چنین درخواستی را مطرح کرده و این موضوع استاندارد دوگانه را آشکار می‌کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 14:24:39 +0000",
+      "time": "۱۷:۵۴ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T20:48:15.682Z"
+    },
+    {
+      "id": "nytimes_c42ada23ec",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Chaos Breaks Out at Border Crossings With Iraq",
+      "title_fa": "هرج و مرج در گذرگاه‌های مرزی با عراق آغاز شد",
+      "lead": "ویدئوهای تأیید شده توسط نیویورک تایمز نشان می‌دهند که گذرگاه‌های مرزی در جنوب عراق به جدیدترین هدف در درگیری‌های خاورمیانه تبدیل شده‌اند. این وضعیت به تشدید تنش‌ها در منطقه اشاره دارد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/middleeast/iraq-border-crossings-struck.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Thu, 23 Jul 2026 20:09:29 +0000",
+      "time": "۲۳:۳۹ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T20:48:15.682Z"
+    },
+    {
+      "id": "nytimes_fbc38a0e59",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The Tate Brothers Are Losing Right-Wing Allies After Their Arrest",
+      "title_fa": "برادران تیت پس از دستگیری، متحدان راست‌گرای خود را از دست می‌دهند",
+      "lead": "پس از دستگیری اندرو و تریستان تیت، رهبران برجسته به اصطلاح «مانوسفر» در میامی، بسیاری از متحدان سابق آن‌ها در جناح راست آمریکا حمایت خود را پس گرفتند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/us/tate-brothers-trump-tucker-carlson.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Thu, 23 Jul 2026 19:40:01 +0000",
+      "time": "۲۳:۱۰ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T20:48:15.682Z"
+    },
+    {
+      "id": "nytimes_83aed67293",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Modi Caught Off Guard as India’s Economic Failings Inflame Young People",
+      "title_fa": "مودی با شکست‌های اقتصادی هند که جوانان را خشمگین کرده، غافلگیر شد",
+      "lead": "نارندرا مودی، نخست‌وزیر هند، در حالی که مشغول حل مشکلات دیگر بود، ناگهان با جنبش دانشجویی که به دلیل شکست‌های اقتصادی به وجود آمده بود، مواجه شد. این مشکلات راه‌حل‌های آسانی ندارند.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/23/world/asia/india-modi-protests-economy-cockroach-party.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 17:59:45 +0000",
+      "time": "۲۱:۲۹ - ۱ مرداد",
+      "analyzed_at": "2026-07-23T20:48:15.682Z"
     }
   ]
 }
