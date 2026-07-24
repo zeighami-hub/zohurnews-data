@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "mehrnews",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "mehrnews_1afdda5225",
@@ -386,6 +386,54 @@
       "pubDate": "Fri, 24 Jul 2026 07:58:56 GMT",
       "time": "۱۱:۲۸ - ۲ مرداد",
       "analyzed_at": "2026-07-24T08:06:49.300Z"
+    },
+    {
+      "id": "mehrnews_b8d9446124",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iranian Army hits US airbases in Kuwait, Qatar with drones",
+      "title_fa": "ارتش ایران پایگاه‌های آمریکا در کویت و قطر را با پهپاد هدف قرار داد",
+      "lead": "ارتش ایران اعلام کرد که در بیست و پنجمین مرحله از عملیات صاعقه، مواضع نظامی آمریکا در کویت و قطر را با پهپادهای انتحاری آرش هدف قرار داده است. این اقدام در پاسخ به «اقدامات خصمانه دشمن» صورت گرفته است.",
+      "category": "military",
+      "region": "middle_east",
+      "sourceUrl": "https://en.mehrnews.com/news/246485/Iranian-Army-Force-hits-US-airbases-in-Kuwait-Qatar",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:40:17 GMT",
+      "time": "۱۲:۱۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:52:15.315Z"
+    },
+    {
+      "id": "mehrnews_0ba2c4a4c9",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Tehran, Baghdad emphasize enhancing judicial coop.",
+      "title_fa": "تهران و بغداد بر گسترش همکاری قضایی تاکید کردند",
+      "lead": "نخست‌وزیر عراق و رئیس قوه قضائیه ایران بر لزوم گسترش و تقویت همکاری‌ها در زمینه قضایی تاکید کردند. این مقام‌ها در دیداری دوجانبه، اهمیت توسعه همکاری‌های حقوقی و قضایی بین دو کشور را مورد بحث قرار دادند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246484/Tehran-Baghdad-emphasize-enhancing-judicial-coop",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:28:29 GMT",
+      "time": "۱۱:۵۸ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
     }
   ]
 }
