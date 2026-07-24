@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "mehrnews",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "mehrnews_1afdda5225",
@@ -602,6 +602,30 @@
       "pubDate": "Fri, 24 Jul 2026 09:42:17 GMT",
       "time": "۱۳:۱۲ - ۲ مرداد",
       "analyzed_at": "2026-07-24T10:09:51.094Z"
+    },
+    {
+      "id": "mehrnews_da4297a388",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "IRGC warns citizens of regional countries hosting US troops",
+      "title_fa": "سپاه پاسداران به شهروندان کشورهای منطقه میزبان نیروهای آمریکایی هشدار داد",
+      "lead": "سپاه پاسداران انقلاب اسلامی به شهروندان کشورهای منطقه‌ای که میزبان نیروهای آمریکایی هستند، هشدار جدی صادر کرده است. این هشدار بر اساس تحولات اخیر در منطقه صادر شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://en.mehrnews.com/news/246490/IRGC-warns-citizens-of-regional-countries-hosting-US-troops",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 10:04:57 GMT",
+      "time": "۱۳:۳۴ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T10:24:57.634Z"
     }
   ]
 }
