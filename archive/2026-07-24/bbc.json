@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "bbc",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "bbc_9f3e028c6a",
@@ -170,6 +170,30 @@
       "pubDate": "Thu, 23 Jul 2026 17:58:02 GMT",
       "time": "۲۱:۲۸ - ۱ مرداد",
       "analyzed_at": "2026-07-24T09:23:13.900Z"
+    },
+    {
+      "id": "bbc_fafea0acd9",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "title_fa": "آمریکا و ایران در خلیج فارس به تبادل حملات بیشتر می‌پردازند و نگرانی‌ها از تشدید تنش افزایش می‌یابد",
+      "lead": "آمریکا و ایران در خلیج فارس به تبادل حملات بیشتری پرداخته‌اند که نگرانی‌ها از تشدید تنش را افزایش می‌دهد. این رویداد در حالی رخ می‌دهد که ایران طرح آمریکا برای استفاده از دارایی‌های مسدود شده خود جهت پرداخت غرامت جنگی را محکوم کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 24 Jul 2026 09:20:07 GMT",
+      "time": "۱۲:۵۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T10:09:51.094Z"
     }
   ]
 }
