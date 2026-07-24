@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "france24",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "france24_0c4f02cf77",
@@ -266,6 +266,54 @@
       "pubDate": "Fri, 24 Jul 2026 08:27:19 GMT",
       "time": "۱۱:۵۷ - ۲ مرداد",
       "analyzed_at": "2026-07-24T08:52:15.315Z"
+    },
+    {
+      "id": "france24_9e64736e92",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Trump stuns Saudis by pinning nuclear deal to Israel ties",
+      "title_fa": "ترامپ با گره زدن توافق هسته‌ای به روابط با اسرائیل، سعودی‌ها را شوکه کرد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که توافق هسته‌ای با عربستان سعودی به شرط به رسمیت شناختن اسرائیل توسط این پادشاهی بستگی دارد. این سخنان تنها یک روز پس از امضای توافق، آن را با ابهام مواجه کرد، در حالی که ریاض مدت‌هاست در برابر پیوستن به توافقات ابراهیم مقاومت می‌کند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 18:24:08 GMT",
+      "time": "۲۱:۵۴ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T09:08:51.312Z"
+    },
+    {
+      "id": "france24_60a6301a62",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Virginia Governor Abigail Spanberger in Paris: 'There's no single blueprint for Democratic Party'",
+      "title_fa": "فرماندار ویرجینیا، ابیگیل اسپانبرگر در پاریس: «هیچ طرح واحدی برای حزب دموکرات وجود ندارد»",
+      "lead": "ابیگیل اسپانبرگر، اولین فرماندار زن ویرجینیا و ستاره نوظهور میانه‌روهای حزب دموکرات، در مصاحبه‌ای گسترده اظهار داشت که هیچ طرح واحدی برای این حزب وجود ندارد. او این سخنان را در جریان حضور خود در پاریس بیان کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/spotlight/20260723-virginia-governor-abigail-spanberger-in-paris-there-s-no-single-blueprint-for-democratic-party",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 19:07:05 GMT",
+      "time": "۲۲:۳۷ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T09:08:51.312Z"
     }
   ]
 }
