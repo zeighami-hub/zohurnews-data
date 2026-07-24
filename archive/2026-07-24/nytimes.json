@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_6786fe919e",
@@ -266,6 +266,30 @@
       "pubDate": "Fri, 24 Jul 2026 09:00:26 +0000",
       "time": "۱۲:۳۰ - ۲ مرداد",
       "analyzed_at": "2026-07-24T09:23:13.900Z"
+    },
+    {
+      "id": "nytimes_b4016a5fe8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Phones in Hand, India’s Young Protesters Blast Through Modi’s Media Control",
+      "title_fa": "جوانان معترض هند با تلفن‌هایشان کنترل رسانه‌ای مودی را در هم می‌شکنند",
+      "lead": "تصویر دقیق و محافظت شده نخست‌وزیر نارندرا مودی توسط جنبش اعتراضی به رهبری نسل Z در هند، در حال تضعیف شدن است. این جنبش با استفاده از ویدئوها و میم‌ها، روایت دیجیتالی را به دست گرفته و از طریق تلفن‌های همراه به اطلاع‌رسانی می‌پردازند. این موضوع نشان‌دهنده چالش جدیدی برای کنترل رسانه‌ای دولت است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/24/world/asia/india-cockroach-party-cjp-protest-memes.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "pubDate": "Fri, 24 Jul 2026 09:49:20 +0000",
+      "time": "۱۳:۱۹ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T10:09:51.094Z"
     }
   ]
 }
