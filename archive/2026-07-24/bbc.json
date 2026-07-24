@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "bbc",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "bbc_9f3e028c6a",
@@ -122,6 +122,30 @@
       "pubDate": "Fri, 24 Jul 2026 07:59:28 GMT",
       "time": "۱۱:۲۹ - ۲ مرداد",
       "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "bbc_de4c131070",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Ukraine's ousted defence minister insists on being reinstated",
+      "title_fa": "وزیر دفاع برکنار شده اوکراین بر بازگشت به سمت خود اصرار دارد",
+      "lead": "میخایلو فدوروف پیشنهاد رئیس‌جمهور زلنسکی برای پذیرش یک پست جایگزین را رد می‌کند. این کشمکش قدرت در حالی ادامه دارد که او بر بازگرداندن خود به سمت وزیر دفاع اصرار می‌ورزد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "pubDate": "Thu, 23 Jul 2026 17:37:59 GMT",
+      "time": "۲۱:۰۷ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T09:08:51.312Z"
     }
   ]
 }
