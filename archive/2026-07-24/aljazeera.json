@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "aljazeera",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "aljazeera_3f43dfc692",
@@ -290,6 +290,54 @@
       "pubDate": "Fri, 24 Jul 2026 02:25:41 +0000",
       "time": "۰۵:۵۵ - ۲ مرداد",
       "analyzed_at": "2026-07-24T03:04:17.625Z"
+    },
+    {
+      "id": "aljazeera_e723bb53d7",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade",
+      "title_fa": "در پی افزایش قیمت نفت، کارشناسان برای درک وضعیت محاصره حوثی‌ها، نفتکش‌های دریای سرخ را زیر نظر دارند",
+      "lead": "در حالی که قیمت نفت در حال افزایش است، کارشناسان برای روشن شدن وضعیت محاصره حوثی‌ها، نفتکش‌های دریای سرخ را رصد می‌کنند. تحلیلگران می‌گویند حملات حوثی‌ها در حال حاضر بیشتر تعیین‌کننده این است که چه کسی نفت خام عربستان را جابجا می‌کند، نه اینکه آیا اصلاً جابجا می‌شود یا خیر.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "pubDate": "Fri, 24 Jul 2026 03:34:10 +0000",
+      "time": "۰۷:۰۴ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T04:04:03.084Z"
+    },
+    {
+      "id": "aljazeera_81e42d9bc4",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "What are the Abraham Accords?",
+      "title_fa": "پیمان ابراهیم چیست؟",
+      "lead": "رئیس جمهور آمریکا، دونالد ترامپ، ظاهراً از توافق هسته‌ای با عربستان سعودی عقب‌نشینی کرده است. این خبر در راستای پرسش از ماهیت پیمان ابراهیم مطرح شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/24/what-are-the-abraham-accords-3?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 03:08:49 +0000",
+      "time": "۰۶:۳۸ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T03:34:05.262Z"
     }
   ]
 }
