@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "france24",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "france24_0c4f02cf77",
@@ -50,6 +50,54 @@
       "pubDate": "Fri, 24 Jul 2026 01:18:05 GMT",
       "time": "۰۴:۴۸ - ۲ مرداد",
       "analyzed_at": "2026-07-24T01:33:42.007Z"
+    },
+    {
+      "id": "france24_0139d0990d",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Middle East live: US launches new strikes on Iran as oil prices skyrocket",
+      "title_fa": "خاورمیانه در حال حاضر: آمریکا حملات جدیدی علیه ایران انجام داد؛ قیمت نفت سر به فلک کشید",
+      "lead": "ایالات متحده روز جمعه حملات جدیدی را در ایران آغاز کرد، در حالی که شورشیان حوثی تحت حمایت ایران جبهه دومی را در این درگیری گشودند. آن‌ها به تانکرهای سعودی در دریای سرخ حمله کرده و باعث افزایش شدید قیمت نفت شدند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260724-middle-east-live-us-launches-new-strikes-on-iran-as-oil-prices-skyrocket",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 02:37:17 GMT",
+      "time": "۰۶:۰۷ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T02:48:59.387Z"
+    },
+    {
+      "id": "france24_c318b94093",
+      "agencyId": "france24",
+      "keep": true,
+      "title": "Spain declares state of emergency and France seeks EU help as wildfires rage",
+      "title_fa": "اسپانیا وضعیت اضطراری اعلام کرد و فرانسه برای مقابله با آتش‌سوزی‌های گسترده از اتحادیه اروپا کمک خواست",
+      "lead": "آتش‌سوزی‌های گسترده ناشی از گرمای شدید و بادهای قوی روز جمعه سراسر اروپای غربی را فرا گرفت. این حوادث منجر به تخلیه هزاران نفر در فرانسه شد و اسپانیا در منطقه مادرید وضعیت اضطراری اعلام کرد. پاریس نیز خواستار کمک اضطراری از اتحادیه اروپا شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/europe/20260724-spain-declares-state-of-emergency-and-france-seeks-eu-help-as-wildfires-rage",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 02:33:06 GMT",
+      "time": "۰۶:۰۳ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T02:48:59.387Z"
     }
   ]
 }
