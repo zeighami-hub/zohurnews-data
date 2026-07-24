@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_eaa238411c",
@@ -26,6 +26,30 @@
       "pubDate": "Thu, 23 Jul 2026 09:27:00 +0100",
       "time": "۱۱:۵۷ - ۱ مرداد",
       "analyzed_at": "2026-07-24T00:20:38.774Z"
+    },
+    {
+      "id": "skynews_30e4f38cd3",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "US imposes new tariffs on 60 countries",
+      "title_fa": "آمریکا تعرفه‌های جدیدی را بر ۶۰ کشور اعمال کرد",
+      "lead": "دولت ترامپ تعرفه‌های جدیدی را حداقل ۱۰ درصدی بر واردات از ۶۰ کشور اعمال کرده است. این اقدام به دلیل ادعاهایی مبنی بر عدم جلوگیری این کشورها از کار اجباری صورت گرفته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/us-imposes-new-tariffs-on-dozens-of-trade-partners-over-forced-labour-imports-13566498",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Fri, 24 Jul 2026 00:44:00 +0100",
+      "time": "۰۳:۱۴ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T02:34:19.109Z"
     }
   ]
 }
