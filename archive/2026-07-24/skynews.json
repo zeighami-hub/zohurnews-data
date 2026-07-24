@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "skynews",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_eaa238411c",
@@ -98,6 +98,30 @@
       "pubDate": "Fri, 24 Jul 2026 03:09:00 +0100",
       "time": "۰۵:۳۹ - ۲ مرداد",
       "analyzed_at": "2026-07-24T04:04:03.084Z"
+    },
+    {
+      "id": "skynews_577ad0966c",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Former Liverpool manager Jurgen Klopp confirmed as new Germany head coach",
+      "title_fa": "یورگن کلوپ، سرمربی سابق لیورپول، به عنوان سرمربی جدید تیم ملی آلمان معرفی شد",
+      "lead": "یورگن کلوپ، سرمربی سابق لیورپول، به عنوان سرمربی جدید تیم ملی فوتبال مردان آلمان تأیید و معرفی شد.",
+      "category": "sports",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/former-liverpool-manager-jurgen-klopp-confirmed-as-new-germany-head-coach-13565913",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Thu, 23 Jul 2026 06:11:00 +0100",
+      "time": "۰۸:۴۱ - ۱ مرداد",
+      "analyzed_at": "2026-07-24T09:37:49.122Z"
     }
   ]
 }
