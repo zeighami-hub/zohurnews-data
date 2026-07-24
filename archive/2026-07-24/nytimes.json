@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_6786fe919e",
@@ -434,6 +434,30 @@
       "pubDate": "Thu, 23 Jul 2026 13:26:28 +0000",
       "time": "۱۶:۵۶ - ۱ مرداد",
       "analyzed_at": "2026-07-24T10:24:57.634Z"
+    },
+    {
+      "id": "nytimes_db0942312d",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "With Hopes High for New H.I.V. Prevention Pill, Merck Takes Steps to Ensure Access",
+      "title_fa": "با امیدهای فراوان برای قرص جدید پیشگیری از اچ‌آی‌وی، مریک اقداماتی برای تضمین دسترسی انجام می‌دهد",
+      "lead": "شرکت‌های تولیدکننده دارو در آفریقا و هند نسخه‌های ژنریک قرص پیشگیری از اچ‌آی‌وی را تولید خواهند کرد که هزینه آن سالانه برای هر نفر تنها ۵ دلار خواهد بود. با این حال، دسترسی به این دارو و سایر محصولات جدید در بسیاری از مناطق آمریکای لاتین هنوز نامشخص است.",
+      "category": "health",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/07/24/us/politics/merck-hiv-pill.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 10:45:05 +0000",
+      "time": "۱۴:۱۵ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T11:07:14.118Z"
     }
   ]
 }
