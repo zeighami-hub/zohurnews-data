@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24T08:22:56.902Z",
-  "total": 1213,
-  "new_this_cycle": 43,
+  "generated_at": "2026-07-24T08:36:52.448Z",
+  "total": 1251,
+  "new_this_cycle": 38,
   "agencies": [
     {
       "id": "aljazeera",
@@ -100,6 +100,908 @@
     }
   ],
   "articles": [
+    {
+      "id": "khabaronline_d9c78c9894",
+      "agencyId": "khabaronline",
+      "keep": true,
+      "title": "آیا عمان تمام حقوق خود را در تنگه هرمز به ایران واگذار کرده‌است؟ / بررسی ادعای وجود سندی در وزارت خارجه؛ ذاکر اصفهانی: هرگز چنین ادعایی نکرده‌ام",
+      "title_fa": "آیا عمان تمام حقوق خود را در تنگه هرمز به ایران واگذار کرده‌است؟ بررسی ادعای وجود سندی در وزارت خارجه؛ ذاکر اصفهانی: هرگز چنین ادعایی نکرده‌ام",
+      "lead": "در روزهای گذشته متنی منتسب به یک استاد علوم سیاسی دانشگاه تهران در شبکه‌های اجتماعی دست به دست می‌شد که ادعا می‌کرد عمان تمامی حقوق خود در تنگه هرمز را به ایران واگذار کرده است. بررسی‌های خبرآنلاین نشان می‌دهد این ادعا کاملا کذب است و فرد مذکور نیز آن را تکذیب کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.khabaronline.ir/news/2250749/%D8%A2%DB%8C%D8%A7-%D8%B9%D9%85%D8%A7%D9%86-%D8%AA%D9%85%D8%A7%D9%85-%D8%AD%D9%82%D9%88%D9%82-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D8%AF%D8%B1-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88%D8%A7%DA%AF%D8%B0%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:25:50 GMT",
+      "time": "۱۱:۵۵ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "irna_da9e97c461",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "واترپلو جوانان آسیا؛ پنجمی ایران با برد مقابل ازبکستان",
+      "title_fa": "واترپلو جوانان آسیا؛ پنجمی ایران با برد مقابل ازبکستان",
+      "lead": "تیم واترپلو جوانان ایران در آخرین دیدار دوازدهمین دوره مسابقات قهرمانی رده‌های سنی ورزش‌های آبی آسیا، با پیروزی برابر ازبکستان به کار خود پایان داد. این تیم با کسب این برد، عنوان پنجم این رقابت‌ها را به دست آورد.",
+      "category": "sports",
+      "region": "asia",
+      "sourceUrl": "https://www.irna.ir/news/86217930/%D9%88%D8%A7%D8%AA%D8%B1%D9%BE%D9%84%D9%88-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D8%A2%D8%B3%DB%8C%D8%A7-%D9%BE%D9%86%D8%AC%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A8%D8%B1%D8%AF-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%D8%B2%D8%A8%DA%A9%D8%B3%D8%AA%D8%A7%D9%86",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:31:13 GMT",
+      "time": "۱۲:۰۱ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "irna_92690bfd9c",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "پایان خود درمانی در جاجرم؛ عبور از آزادی مراجعات به نظم هزینه‌ها",
+      "title_fa": "پایان خود درمانی در جاجرم؛ عبور از آزادی مراجعات به نظم هزینه‌ها",
+      "lead": "پیاده‌سازی نظام ارجاع در جاجرم خراسان شمالی، مسیر دسترسی به خدمات تخصصی را از مراجعه آزاد به ارجاع پزشک خانواده تغییر داده است. این شهرستان با ثبت چهار هزار ویزیت و موفقیت ۸۰ درصدی در نوبت‌دهی، در حال عبور از مدل سنتی مراجعه به پزشک است.",
+      "category": "health",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86217912/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AE%D9%88%D8%AF-%D8%AF%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%AC%D8%A7%D8%AC%D8%B1%D9%85-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A7%D8%AA-%D8%A8%D9%87-%D9%86%D8%B8%D9%85-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D9%87%D8%A7",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:31:08 GMT",
+      "time": "۱۲:۰۱ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "mashregh_b25ad168f0",
+      "agencyId": "mashregh",
+      "keep": true,
+      "title": "فیلم/ پرواز پهپاد انتحاری ایران در آسمان اقلیم کردستان عراق",
+      "title_fa": "فیلم/ پرواز پهپاد انتحاری ایران در آسمان اقلیم کردستان عراق",
+      "lead": "تصاویری از پرواز پهپاد انتحاری ایران در آسمان اقلیم کردستان عراق منتشر شد. این گزارش، پرواز این نوع پهپاد را بر فراز منطقه مذکور نشان می‌دهد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1827994/%D9%81%DB%8C%D9%84%D9%85-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF-%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%A7%D9%82%D9%84%DB%8C%D9%85-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%B9%D8%B1%D8%A7%D9%82",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 90,
+        "negative": 10
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:30:00 GMT",
+      "time": "۱۲:۰۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "mehrnews_0ba2c4a4c9",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Tehran, Baghdad emphasize enhancing judicial coop.",
+      "title_fa": "تهران و بغداد بر گسترش همکاری قضایی تاکید کردند",
+      "lead": "نخست‌وزیر عراق و رئیس قوه قضائیه ایران بر لزوم گسترش و تقویت همکاری‌ها در زمینه قضایی تاکید کردند. این مقام‌ها در دیداری دوجانبه، اهمیت توسعه همکاری‌های حقوقی و قضایی بین دو کشور را مورد بحث قرار دادند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246484/Tehran-Baghdad-emphasize-enhancing-judicial-coop",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:28:29 GMT",
+      "time": "۱۱:۵۸ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "irna_6",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "زاغه مهمات و محل استقرار نیروهای تروریست آمریکا در پایگاه علی السالم متلاشی شد",
+      "title_fa": "زاغه مهمات و محل استقرار نیروهای تروریست آمریکا در پایگاه علی السالم متلاشی شد",
+      "lead": "سپاه پاسداران انقلاب اسلامی اعلام کرد که یک زاغه مهمات بسیار بزرگ و سوله‌های محل استقرار نیروها در پایگاه علی السالم متلاشی شده است. سپاه همچنین تاکید کرد که رسانه‌های آمریکایی واقعیت‌های این جنگ، تلفات بالای ارتش آمریکا و خسارات سنگین آن را پنهان می‌کنند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.irna.ir/news/86217928/%D8%B2%D8%A7%D8%BA%D9%87-%D9%85%D9%87%D9%85%D8%A7%D8%AA-%D9%88-%D9%85%D8%AD%D9%84-%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%81%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%B9%D9%84%DB%8C",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "irna_9f10349e02",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "فصل تازه همکاری‌های فرهنگی تهران–سئول در آستانه ثبت‌جهانی الموت",
+      "title_fa": "فصل تازه همکاری‌های فرهنگی تهران–سئول در آستانه ثبت‌جهانی الموت",
+      "lead": "وزیر میراث‌فرهنگی ایران در دیدار با وزیر فرهنگ کره‌جنوبی بر ظرفیت‌های بالای دو کشور در حوزه‌های تمدن، فرهنگ و اقتصاد خلاق تاکید کرد. او خواستار تدوین نقشه‌راه همکاری‌های مشترک در حوزه‌های میراث‌فرهنگی، گردشگری و صنایع‌دستی شد.",
+      "category": "culture",
+      "region": "asia",
+      "sourceUrl": "https://www.irna.ir/news/86217901/%D9%81%D8%B5%D9%84-%D8%AA%D8%A7%D8%B2%D9%87-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B3%D8%A6%D9%88%D9%84-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%AB%D8%A8%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%84%D9%85%D9%88%D8%AA",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:16:20 GMT",
+      "time": "۱۱:۴۶ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "irna_7dbcc30017",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "دیدار عراقچی با وزیر خارجه بلاروس؛ بررسی برنامه همکاری مشترک تا سال ۲۰۳۰",
+      "title_fa": "دیدار عراقچی با وزیر خارجه بلاروس؛ بررسی برنامه همکاری مشترک تا سال ۲۰۳۰",
+      "lead": "وزیران امور خارجه ایران و بلاروس در حاشیه نشست شورای وزیران خارجه سازمان همکاری شانگهای دیدار کردند. آن‌ها ضمن بررسی روند رو به گسترش روابط، بر تسریع در اجرای اسناد همکاری و توسعه مناسبات سیاسی، اقتصادی و تجاری تاکید کردند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.irna.ir/news/86217913/%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A7%D9%82%DA%86%DB%8C-%D8%A8%D8%A7-%D9%88%D8%B2%DB%8C%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%A8%D9%84%D8%A7%D8%B1%D9%88%D8%B3-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:08:13 GMT",
+      "time": "۱۱:۳۸ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "yjc_39b00cb159",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "حمله دشمن آمریکایی به نطقه ای در زیباکنار شهرستان رشت",
+      "title_fa": "حمله دشمن آمریکایی به نقطه‌ای در زیباکنار شهرستان رشت",
+      "lead": "معاون سیاسی، امنیتی و اجتماعی استانداری گیلان از حمله موشکی دشمن آمریکایی به مقر نیروی دریایی سپاه پاسداران در زیباکنار خبر داد. این حمله به مقر حضرت سیدالشهدا (ع) نیروی دریایی سپاه در منطقه زیباکنار شهرستان رشت انجام شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9111649/حمله-دشمن-آمریکایی-به-نطقه-ای-در-زیباکنار-شهرستان-رشت",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "24 Jul 2026 11:25:31 +0330",
+      "time": "۱۱:۲۵ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "isna_10",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "موج دیگری از حملات پهپادی ارتش به پایگاه‌های آمریکا در کویت",
+      "title_fa": "موج دیگری از حملات پهپادی ارتش به پایگاه‌های آمریکا در کویت",
+      "lead": "پهپادهای انهدامی ارتش جمهوری اسلامی ایران در بیست و پنجمین مرحله از عملیات صاعقه، پایگاه‌های الدوحه، العدیری و عریفجان آمریکا در کویت را هدف قرار دادند. این حملات موج دیگری از عملیات پهپادی علیه پایگاه‌های آمریکایی در منطقه است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.isna.ir/news/1405050200591/%D9%85%D9%88%D8%AC-%D8%AF%DB%8C%DA%AF%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D9%81%D9%87%D9%BE%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%A8%D9%87-%D9%81%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%DA%A9%D9%88%DB%8C%D8%AA",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "irna_527a052f97",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "بازگشت حامد بهداد با سریال «اعتراف می‌کنم» به شبکه نمایش خانگی",
+      "title_fa": "بازگشت حامد بهداد با سریال «اعتراف می‌کنم» به شبکه نمایش خانگی",
+      "lead": "سریال «اعتراف می‌کنم» با حضور بازیگران متعدد، از ۱۲ مرداد ماه از پلتفرم فیلم‌نت پخش خواهد شد. این مجموعه در هر قسمت به یک پرونده جنایی می‌پردازد و حامد بهداد نیز یکی از بازیگران مهمان آن است.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.irna.ir/news/86217926/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%AD%D8%A7%D9%85%D8%AF-%D8%A8%D9%87%D8%AF%D8%A7%D8%AF-%D8%A8%D8%A7-%D8%B3%D8%B1%DB%8C%D8%A7%D9%84-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81-%D9%85%DB%8C-%DA%A9%D9%86%D9%85-%D8%A8%D9%87-%D8%B4%D8%A8%DA%A9%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:30:55 GMT",
+      "time": "۱۲:۰۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "mashregh_b65993a311",
+      "agencyId": "mashregh",
+      "keep": true,
+      "title": "رژیم صهیونیستی دشمن شماره یک همه کشورهای اسلامی است/ همکاری ایران و عراق می‌تواند بسیاری از مسائل منطقه را حل کند",
+      "title_fa": "رئیس مجلس: رژیم صهیونیستی دشمن شماره یک همه کشورهای اسلامی است؛ همکاری ایران و عراق می‌تواند بسیاری از مسائل منطقه را حل کند",
+      "lead": "رئیس مجلس با بیان اینکه رژیم صهیونیستی دشمن همه کشورهای اسلامی است، تاکید کرد که همکاری ایران و عراق در جهت حفظ وحدت کشورهای اسلامی در مقابل این رژیم موثر خواهد بود. وی افزود این همکاری می‌تواند بسیاری از مسائل منطقه را حل کند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1827998/%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%AF%D8%B4%D9%85%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DB%8C%DA%A9-%D9%87%D9%85%D9%87-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%A7%D8%B3%D8%AA-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 20,
+        "neutral": 20,
+        "negative": 60
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:27:00 GMT",
+      "time": "۱۱:۵۷ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "khabaronline_14",
+      "agencyId": "khabaronline",
+      "keep": true,
+      "title": "هشدار پلیس درباره افزایش تصادفات فوتی در پایتخت",
+      "title_fa": "هشدار پلیس درباره افزایش تصادفات فوتی در پایتخت",
+      "lead": "رئیس پلیس راهور تهران بزرگ درباره افزایش تصادفات فوتی در پایتخت هشدار داد. این هشدار در پی بالا رفتن آمار حوادث منجر به فوت در سطح شهر تهران مطرح شده است.",
+      "category": "society",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2250738/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%81%D9%84%DB%8C%D8%B3-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D8%B5%D8%A7%D8%AF%D9%81%D8%A7%D8%AA-%D9%81%D9%88%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%81%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "mashregh_0",
+      "agencyId": "mashregh",
+      "keep": true,
+      "title": "تحریم‌های جدید اتحادیه اروپا علیه روسیه/ وعده مسکو به پاسخ متناسب",
+      "title_fa": "تحریم‌های جدید اتحادیه اروپا علیه روسیه؛ وعده مسکو به پاسخ متناسب",
+      "lead": "شورای اتحادیه اروپا بیست و یکمین بسته تحریمی خود را علیه روسیه تصویب کرد. این بسته محدودیت‌های مالی بزرگی را علیه روسیه در بر دارد و مسکو وعده داده است که پاسخی متناسب به آن خواهد داد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1827987/%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%88%D8%B9%D8%AF%D9%87-%D9%85%D8%B3%DA%A9%D9%88-%D8%A8%D9%87-%D9%BE%D8%A7%D8%B3%D8%AE-%D9%85%D8%AA%D9%86%D8%A7%B3%D8%A8",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "isna_d721ce3c50",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "سپاه: زاغه مهمات و سوله‌های محل استقرار نفرات در پایگاه علی السالم، به طورکامل متلاشی شدند",
+      "title_fa": "سپاه: زاغه مهمات و سوله‌های استقرار نفرات در پایگاه علی السالم کاملاً متلاشی شدند",
+      "lead": "روابط عمومی سپاه پاسداران انقلاب اسلامی اعلام کرد که زاغه مهمات بسیار مهم و سوله‌های محل استقرار نفرات در پایگاه علی السالم به طور کامل متلاشی شده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.isna.ir/news/1405050200585/%D8%B3%D9%BE%D8%A7%D9%87-%D8%B2%D8%A7%D8%BA%D9%87-%D9%85%D9%87%D9%85%D8%A7%D8%AA-%D9%88-%D8%B3%D9%88%D9%84%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%D8%AD%D9%84-%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%86%D9%81%D8%B1%D8%A7%D8%AA-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%B9%D9%84%DB%8C-%D8%A7%D9%84%D8%B3%D8%A7%D9%84%D9%85",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:24:10 GMT",
+      "time": "۱۱:۵۴ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "yjc_ec63802b25",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "سپاه: زاغه مهمات پایگاه آمریکا در علی السالم متلاشی شد",
+      "title_fa": "سپاه: زاغه مهمات پایگاه آمریکا در علی السالم متلاشی شد",
+      "lead": "روابط عمومی سپاه اعلام کرد که رزمندگان اسلام در پاسخ به \"جنایات شیطان بزرگ\"، یک زاغه مهمات را در پایگاه آمریکایی علی السالم هدف قرار دادند. این زاغه با انفجارهای پی در پی به طور کامل متلاشی شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9111689/سپاه-زاغه-مهمات-پایگاه-آمریکا-در-علی-السالم-متلاشی-شد",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "24 Jul 2026 11:51:06 +0330",
+      "time": "۱۱:۵۱ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "yjc_5d29001482",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "حملات پهپادی ارتش به پایگاه‌های آمریکا در کویت/ محل استقرار نظامیان تروریست هدف قرار گرفت",
+      "title_fa": "حملات پهپادی ارتش به پایگاه‌های آمریکا در کویت؛ محل استقرار نظامیان هدف قرار گرفت",
+      "lead": "پهپادهای انهدامی ارتش جمهوری اسلامی ایران در بیست و پنجمین مرحله از عملیات صاعقه، انبارهای تجهیزاتی ارتش آمریکا و محل استقرار نظامیان آمریکایی را در اردوگاه العدیری کویت هدف قرار دادند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9111686/حملات-پهپادی-ارتش-به-پایگاه‌های-آمریکا-در-کویت-محل-استقرار-نظامیان-تروریست-هدف-قرار-گرفت",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "24 Jul 2026 11:46:40 +0330",
+      "time": "۱۱:۴۶ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "isna_d37828236a",
+      "agencyId": "isna",
+      "keep": true,
+      "title": "پیش‌بینی بیش از ۱۰۰ اتوبوس برای جابه‌جایی زائران اربعین در زنجان",
+      "title_fa": "پیش‌بینی بیش از ۱۰۰ اتوبوس برای جابه‌جایی زائران اربعین در زنجان",
+      "lead": "مدیرکل راهداری و حمل‌ونقل جاده‌ای استان زنجان از پیش‌بینی ۱۰۰ تا ۱۲۰ دستگاه اتوبوس برای انتقال زائران اربعین به مرزهای مهران و خسروی خبر داد. پیش‌فروش بلیت نیز همزمان با آغاز طرح اربعین از ۲۷ تیرماه به صورت حضوری و اینترنتی آغاز شده است.",
+      "category": "society",
+      "region": "iran",
+      "sourceUrl": "https://www.isna.ir/news/1405050200566/%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B0%DB%B0-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D8%A7%D8%A8%D9%87-%D8%AC%D8%A7%DB%8C%DB%8C-%D8%B2%D8%A7%D8%A6%D8%B1%D8%A7%D9%86-%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86-%D8%AF%D8%B1-%D8%B2%D9%86%D8%AC%D8%A7%D9%86-%D9%BE%DB%8C%D8%B4-%D8%A8%DB%8C%D9%86%DB%8C",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 07:57:30 GMT",
+      "time": "۱۱:۲۷ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "yjc_4eb4281fba",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "ایران هیچ خصومتی با همسایگانش ندارد/ آمریکا راهی جز عقب نشینی ندارد",
+      "title_fa": "رئیس قوه قضائیه: ایران هیچ خصومتی با همسایگانش ندارد؛ آمریکا راهی جز عقب‌نشینی ندارد",
+      "lead": "رئیس قوه قضائیه اظهار داشت که ایران هیچ خصومتی با همسایگان خود ندارد و یاور آنهاست.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9111677/ایران-هیچ-خصومتی-با-همسایگانش-ندارد-آمریکا-راهی-جز-عقب-نشینی-ندارد",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "pubDate": "24 Jul 2026 11:23:04 +0330",
+      "time": "۱۱:۲۳ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "yjc_69d3504dc9",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "تشکیل ۵۹ پرونده قضائی برای مدیران شرکت‌های تراستی",
+      "title_fa": "تشکیل ۵۹ پرونده قضائی برای مدیران شرکت‌های تراستی",
+      "lead": "دادستان عمومی و انقلاب تهران از اقدامات گسترده قوه قضائیه در خصوص شرکت‌های تراستی متخلف خبر داد. وی افزود که تاکنون ۵۹ پرونده قضائی برای مدیران این شرکت‌ها تشکیل شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9111668/تشکیل-۵۹-پرونده-قضائی-برای-مدیران-شرکت‌های-تراستی",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "24 Jul 2026 10:46:17 +0330",
+      "time": "۱۰:۴۶ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "khabaronline_05a65e0e41",
+      "agencyId": "khabaronline",
+      "keep": true,
+      "title": "اسامی ژل‌های غیر مجاز پاک‌کننده صورت منتشر شد",
+      "title_fa": "اسامی ژل‌های پاک‌کننده صورت غیرمجاز منتشر شد",
+      "lead": "روابط عمومی سازمان غذا و دارو اسامی تعدادی از ژل‌های پاک‌کننده و شوینده صورت غیرمجاز را که بدون مجوزهای قانونی در بازار عرضه شده‌اند، اعلام کرد.",
+      "category": "health",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2250740/%D8%A7%D8%B3%D8%A7%D9%85%DB%8C-%DA%98%D9%84-%D9%87%D8%A7%DB%8C-%D8%BA%DB%8C%D8%B1-%D9%85%D8%AC%D8%A7%D8%B2-%D9%BE%D8%A7%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:31:00 GMT",
+      "time": "۱۲:۰۱ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "khabaronline_45a61a3ac9",
+      "agencyId": "khabaronline",
+      "keep": true,
+      "title": "کمر صادرات نفت عربستان شکست/ میزان صادرات نفت عربستان اعلام شد",
+      "title_fa": "کمر صادرات نفت عربستان شکست؛ میزان صادرات نفت این کشور اعلام شد",
+      "lead": "آمارهای منتشر شده نشان می‌دهد که صادرات نفت عربستان به کمترین میزان در ۲۴ سال اخیر کاهش یافته است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.khabaronline.ir/news/2250661/%DA%A9%D9%85%D8%B1-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%86%D9%81%D8%AA-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%85%DB%8C%D8%B2%D8%A7%D9%86-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%86%D9%81%D8%AA-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:30:00 GMT",
+      "time": "۱۲:۰۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "yjc_14",
+      "agencyId": "yjc",
+      "keep": true,
+      "title": "وزرای امور خارجه هشت کشور از جمله ترکیه، حملات گسترده به مسجدالاقصی را محکوم کردند",
+      "title_fa": "وزرای امور خارجه هشت کشور، از جمله ترکیه، حملات به مسجدالاقصی را محکوم کردند",
+      "lead": "وزرای امور خارجه هشت کشور، از جمله ترکیه، حملات گسترده شهرکنشینان اسرائیلی به مسجدالاقصی را به شدت محکوم کردند. آنها این اقدامات را تحریک‌آمیز و نقض غیرقابل‌پذیرش قوانین بین‌المللی توصیف کردند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.yjc.ir/fa/news/9111673/%D9%88%D8%B2%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%88%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D9%87%D8%B4%D8%AA-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A7%D8%B2-%D8%AC%D9%85%D9%84%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%DA%AF%D8%B3%D8%AA%D8%B1%D8%AF%D9%87-%D8%A8%D9%87-%D9%85%D8%B3%D8%AC%D8%AF%D8%A7%D9%84%D8%A7%D9%82%D8%B5%DB%8C-%D8%B1%D8%A7-%D9%85%D8%AD%DA%A9%D9%88%D9%85-%DA%A9%D8%B1%D8%AF%D9%86%D8%AF",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "khabaronline_e2c60ef1cf",
+      "agencyId": "khabaronline",
+      "keep": true,
+      "title": "طاهری و ایری در آستانه سرخ‌پوش‌ شدن",
+      "title_fa": "طاهری و ایری در آستانه سرخ‌پوش شدن",
+      "lead": "باشگاه پرسپولیس در حال نهایی کردن انتقال دو بازیکن جوان از نساجی به این تیم است.",
+      "category": "sports",
+      "region": "iran",
+      "sourceUrl": "https://www.khabaronline.ir/news/2250733/%D8%B7%D8%A7%D9%87%D8%B1%DB%8C-%D9%88-%D8%A7%DB%8C%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B3%D8%AA%D8%A7%D9%86%D9%87-%D8%B3%D8%B1%D8%AE-%D9%BE%D9%88%D8%B4-%D8%B4%D8%AF%D9%86",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:20:20 GMT",
+      "time": "۱۱:۵۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "mashregh_f9e108eebf",
+      "agencyId": "mashregh",
+      "keep": true,
+      "title": "اعلام بازنشستگی اوتامندی از تیم ملی آرژانتین",
+      "title_fa": "اعلام بازنشستگی اوتامندی از تیم ملی آرژانتین",
+      "lead": "نیکولاس اوتامندی، مدافع کهنه‌کار تیم ملی فوتبال آرژانتین، به دوران حرفه‌ای خود در رده ملی پایان داد.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1827984/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A8%D8%A7%D8%B2%D9%86%D8%B4%D8%B3%D8%AA%DA%AF%DB%8C-%D8%A7%D9%88%D8%AA%D8%A7%D9%85%D9%86%D8%AF%DB%8C-%D8%A7%D8%B2-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:20:00 GMT",
+      "time": "۱۱:۵۰ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "mashregh_91e76e4727",
+      "agencyId": "mashregh",
+      "keep": true,
+      "title": "نگرانی آمریکا از کاهش ذخایر موشکی و سلاح‌های هدایت‌شونده در خاورمیانه",
+      "title_fa": "نگرانی آمریکا از کاهش ذخایر موشکی و سلاح‌های هدایت‌شونده در خاورمیانه",
+      "lead": "مقام‌های نظامی آمریکا اذعان کرده‌اند که سرعت استفاده از موشک‌های رهگیری و سلاح‌های هدایت‌شونده در خاورمیانه، دولت این کشور را نگران کرده است. این مسئله به ویژه در زمان دولت ترامپ مطرح شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.mashreghnews.ir/news/1827986/%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%DA%A9%D8%A7%D9%87%D8%B4-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%D9%88-%D8%B3%D9%84%D8%A7%D8%AD-%D9%87%D8%A7%DB%8C-%D9%87%D8%AF%D8%A7%DB%8C%D8%AA-%D8%B4%D9%88%D9%86%D8%AF%D9%87-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D9%87",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:15:00 GMT",
+      "time": "۱۱:۴۵ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "reuters_419eae1187",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "In India, Iran war forces Diet Coke to roll out a bigger can, heftier price tag - Reuters",
+      "title_fa": "جنگ ایران و تأثیر آن بر بازار کوکاکولا رژیمی در هند: قوطی بزرگ‌تر با قیمت گران‌تر",
+      "lead": "در هند، جنگ ایران شرکت کوکاکولا رژیمی را مجبور کرده است تا قوطی‌های بزرگ‌تر با برچسب قیمتی گران‌تر عرضه کند. این تغییرات در بازار هند، ناشی از تأثیرات جنگ ایران بر اقتصاد و زنجیره تأمین است.",
+      "category": "economy",
+      "region": "india",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaE1wYlpuSThBV1hnZUNHVy1GTDZLaUliaVozZi1qcXBMNXJFQ3drMW43dmNQdXBlSlVMTVZHMU1Ec1ZLUUw4MzFDMkFoWElhVU9HN253WW9KLVVRS1g1bGNqSDF2WkdOdzRLNG96NFQteG5MbjNqeTlWZ2VGdHlWNzNjbWVKaXItdGszUmR5bXpCTVpQYW5UZ2dhYmdTN2ZEQldBMFFURDd1WmJVVFBWYU5yRFZxbzJ5?oc=5",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 07:13:01 GMT",
+      "time": "۱۰:۴۳ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "independent_42717102a2",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Ariana Grande’s London shows to feature strict bag policy",
+      "title_fa": "سیاست سخت‌گیرانه حمل کیف در کنسرت‌های آریانا گرانده در لندن",
+      "lead": "آریانا گرانده، ستاره پاپ آمریکایی، ۱۰ کنسرت در O2 آرنا لندن برگزار می‌کند. برگزارکنندگان این کنسرت‌ها سیاست سخت‌گیرانه‌ای را برای حمل کیف اعمال خواهند کرد، همزمان با آماده‌سازی برای انتشار آلبوم جدید او با نام «Petal».",
+      "category": "entertainment",
+      "region": "uk",
+      "sourceUrl": "https://www.independent.co.uk/arts-entertainment/music/news/ariana-grande-o2-arena-bag-rules-setlist-b3020780.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:27:26 GMT",
+      "time": "۱۱:۵۷ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "independent_a1c9f33358",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "UK defence spending ‘not enough to protect the country’, BAE boss warns",
+      "title_fa": "هشدار مدیرعامل BAE: هزینه‌های دفاعی بریتانیا برای محافظت از کشور کافی نیست",
+      "lead": "چارلز وودبرن، مدیرعامل BAE Systems، هشدار داد که هزینه‌های دفاعی بریتانیا برای محافظت از کشور کافی نیست. او وضعیت کنونی را \"تهدیدآمیزترین زمان\" توصیف کرد که تا به حال دیده است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/politics/charles-woodburn-uk-defence-bae-systems-b3020799.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:27:03 GMT",
+      "time": "۱۱:۵۷ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "independent_2442ee3b0e",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Yellowstone star makes Dutton Ranch admission after Taylor Sheridan exit",
+      "title_fa": "ستاره سریال «یلواستون» پس از خروج تیلور شریدان درباره «داتون رنچ» اعتراف کرد",
+      "lead": "یک بازیگر سریال «یلواستون» درباره چالش‌های راه‌اندازی اسپین‌آف پس از خروج کوین کاستنر از این فرنچایز سخن گفت. او اشاره کرد که این کار \"قطعا یک چالش\" بوده است.",
+      "category": "entertainment",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/arts-entertainment/tv/news/yellowstone-dutton-ranch-season-2-cole-hauser-b3020746.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:26:19 GMT",
+      "time": "۱۱:۵۶ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "independent_177feb796b",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Britain ‘in a better place today than we were yesterday’ despite fresh Trump tariffs, minister insists",
+      "title_fa": "وزیر بریتانیایی: با وجود تعرفه‌های جدید ترامپ، بریتانیا امروز وضعیت بهتری دارد",
+      "lead": "یک وزیر بریتانیایی اصرار دارد که بریتانیا امروز در وضعیت بهتری نسبت به دیروز قرار دارد، این در حالی است که تعرفه‌های جدید ترامپ اعلام شده‌اند. این تعرفه‌های تازه تنها ساعاتی پیش از انقضای عوارض موقت ۱۰ درصدی به اجرا درآمده‌اند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/politics/donald-trump-tariffs-uk-andy-burnham-b3020759.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:25:49 GMT",
+      "time": "۱۱:۵۵ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "independent_b938d790e8",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Australian World Cup star allegedly tests positive for cocaine after speeding",
+      "title_fa": "ستاره تیم ملی استرالیا پس از سرعت غیرمجاز، ظاهراً به کوکائین مثبت شد",
+      "lead": "کریستین ولپاتو، ستاره تیم ملی استرالیا در جام جهانی، ظاهراً پس از دو بار توقف به دلیل رانندگی با سرعت غیرمجاز در سیدنی، آزمایش کوکائینش مثبت شده است. این اتفاق در همان شبی رخ داده که او برای سرعت زیاد متوقف شد.",
+      "category": "sports",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/sport/football/cristian-volpato-cocaine-speeding-australia-world-cup-b3020792.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:23:55 GMT",
+      "time": "۱۱:۵۳ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "independent_9c0f4bdb64",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "When to see the best UK solar eclipse in almost 27 years",
+      "title_fa": "زمان تماشای بهترین کسوف بریتانیا در نزدیک به ۲۷ سال گذشته",
+      "lead": "در بریتانیا، رویداد کسوفی که قرار است رخ دهد، بهترین کسوف در نزدیک به ۲۷ سال گذشته خواهد بود. این خبر اطلاعاتی درباره زمان و نحوه مشاهده این پدیده طبیعی برای علاقه‌مندان ارائه می‌دهد.",
+      "category": "science",
+      "region": "europe",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/lifestyle/solar-eclipse-uk-where-when-b3020788.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 100,
+        "neutral": 0,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:22:28 GMT",
+      "time": "۱۱:۵۲ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "independent_fae7533293",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "The European tourist destinations most affected by heatwaves",
+      "title_fa": "مقاصد گردشگری اروپایی که بیشترین تأثیر را از امواج گرما پذیرفته‌اند",
+      "lead": "این گزارش به بررسی مقاصد گردشگری اروپایی می‌پردازد که بیشترین تأثیر را از امواج گرما پذیرفته‌اند. کشورهایی مانند اسپانیا، فرانسه، پرتغال، ایتالیا و یونان با مواردی چون آتش‌سوزی‌های جنگلی و دمای بالا مواجه بوده‌اند.",
+      "category": "environment",
+      "region": "europe",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/spain-heatwave-france-wildfires-portugal-italy-greece-b3020793.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "medium",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:22:25 GMT",
+      "time": "۱۱:۵۲ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "independent_b086b131dc",
+      "agencyId": "independent",
+      "keep": true,
+      "title": "Witnesses describe moment hero civilian helped two children during Essex beach tragedy",
+      "title_fa": "شهادت شاهدان: لحظه کمک شهروند قهرمان به دو کودک در فاجعه ساحل اسکس",
+      "lead": "شاهدان عینی لحظه قهرمانانه یک شهروند را توصیف کردند که در جریان فاجعه ساحل اسکس به دو کودک کمک کرد. این گردشگر روزانه سه بار به آب زد تا کودکان را به مکانی امن برساند.",
+      "category": "social issues",
+      "region": "uk",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/home-news/essex-west-mersea-beach-shally-rahman-samiha-b3020735.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "low",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:22:20 GMT",
+      "time": "۱۱:۵۲ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "guardian_a1cfb41721",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "Weather tracker: more than 900 wildfires rage across Canada",
+      "title_fa": "ردیاب آب و هوا: بیش از ۹۰۰ آتش‌سوزی گسترده در کانادا",
+      "lead": "بیش از ۹۰۰ آتش‌سوزی گسترده در سراسر کانادا شعله‌ور است که بخش‌هایی از مناطق شمال غرب و انتاریو از کنترل خارج شده‌اند. این در حالی است که آرژانتین نیز گرمای بی‌سابقه‌ای در شب را تجربه می‌کند.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 100
+      },
+      "pubDate": "Fri, 24 Jul 2026 08:11:31 GMT",
+      "time": "۱۱:۴۱ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "bbc_3aa13dce46",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+      "title_fa": "فرانسه دستور تخلیه یک منطقه توریستی را صادر کرد؛ صدها نفر با قایق از آتش‌سوزی‌های جنگلی فرار می‌کنند",
+      "lead": "آتش‌سوزی برای چندین روز در منطقه ادامه داشته است. مقامات اکنون دستور تخلیه کامل شبه‌جزیره کاپ فره را صادر کرده‌اند.",
+      "category": "disaster",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 07:59:28 GMT",
+      "time": "۱۱:۲۹ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
+    {
+      "id": "aljazeera_cb3e0ea036",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job",
+      "title_fa": "آنچلوتی، اسطوره رئال مادرید، در رقابت با گواردیولا، ستاره بارسلونا، برای مربیگری ایتالیا",
+      "lead": "پپ گواردیولا، سرمربی سابق منچسترسیتی و بارسلونا، تنها گزینه آشکار برای پست مربیگری ایتالیا نیست. کارلو آنچلوتی نیز برای این سمت مورد توجه قرار گرفته است.",
+      "category": "sports",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss",
+      "newsValues": {
+        "timeliness": "medium",
+        "impact": "medium",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "pubDate": "Fri, 24 Jul 2026 07:58:18 +0000",
+      "time": "۱۱:۲۸ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T08:36:52.443Z"
+    },
     {
       "id": "irna_883ced87bc",
       "agencyId": "irna",
@@ -28801,48 +29703,6 @@
   ],
   "rejected": [
     {
-      "sourceUrl": "https://www.isna.ir/news/1405050100156/%D9%86%D8%A7%D8%B5%D8%B1%D8%A7%D9%84%D8%AF%DB%8C%D9%86-%D8%B4%D8%A7%D9%87-%D8%B5%D8%A7%D8%AD%D8%A8%D9%82%D8%B1%D8%A7%D9%86%DB%8C%D9%87-%D8%B1%D8%A7-%D8%B3%D8%A7%D8%AE%D8%AA-%DA%86%D9%88%D9%86-%DA%A9%D8%A7%D8%AE-%D9%85%D8%AD%D9%85%D8%AF%DB%8C%D9%87-%D8%B1%D8%A7-%D8%A8%D8%AF%D8%B4%DA%AF%D9%88%D9%86-%D9%85%DB%8C-%D8%AF%D8%A7%D9%86%D8%B3%D8%AA",
-      "title": "ناصرالدین‌شاه صاحبقرانیه را ساخت چون کاخ محمدیه را بدشگون می‌دانست",
-      "agencyId": "isna",
-      "rejected_at": "2026-07-23T08:22:40.866Z"
-    },
-    {
-      "sourceUrl": "https://www.asriran.com/fa/news/1179495/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%85%D8%B1%D9%88%D8%B1%DA%AF%D8%B1-%D9%88%D8%A8-%D8%AC%D9%87%D8%A7%D9%86-%DA%86%D9%87-%D8%A8%D9%88%D8%AF-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%DB%8C-%DA%A9%D9%87-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%B1%D8%A7-%D9%85%D8%AA%D8%AD%D9%88%D9%84-%DA%A9%D8%B1%D8%AF",
-      "title": "اولین مرورگر وب جهان چه بود؟ داستان نرم افزاری که اینترنت را متحول کرد",
-      "agencyId": "asriran",
-      "rejected_at": "2026-07-23T08:22:40.866Z"
-    },
-    {
-      "sourceUrl": "https://www.khabaronline.ir/news/2250033/%D8%AF%D8%B1-%DA%AF%D8%B1%D9%85%D8%A7%DB%8C-%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%DA%86%D8%A7%DB%8C-%D8%A8%D8%AE%D9%88%D8%B1%DB%8C%D9%85-%DB%8C%D8%A7-%D9%86%D9%87-%D9%BE%D8%A7%D8%B3%D8%AE-%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D8%A7%D9%86-%D8%A8%D9%87-%DB%8C%DA%A9-%D8%A8%D8%A7%D9%88%D8%B1-%D9%82%D8%AF%DB%8C%D9%85%DB%8C",
-      "title": "در گرمای تابستان چای بخوریم یا نه؟ پاسخ متخصصان به یک باور قدیمی",
-      "agencyId": "khabaronline",
-      "rejected_at": "2026-07-23T08:22:40.866Z"
-    },
-    {
-      "sourceUrl": "https://www.independent.co.uk/travel/news-and-advice/flying-effects-cabin-pressure-ear-popping-ankle-swelling-b3020031.html",
-      "title": "From ear popping to ankle swelling: What flying really does to the body – and how to manage the effects",
-      "agencyId": "independent",
-      "rejected_at": "2026-07-23T08:22:40.866Z"
-    },
-    {
-      "sourceUrl": "https://www.independent.co.uk/extras/indybest/food-drink/best-supermarket-sourdough-loaves-b3020046.html",
-      "title": "8 best supermarket sourdough loaves, taste-tested by a food editor",
-      "agencyId": "independent",
-      "rejected_at": "2026-07-23T08:22:40.866Z"
-    },
-    {
-      "sourceUrl": "https://www.independent.co.uk/arts-entertainment/films/news/tom-holland-dancing-fred-astaire-biopic-rehearsal-b3019989.html",
-      "title": "Tom Holland sets himself huge challenge for Fred Astaire biopic: ‘I have so much work to do’",
-      "agencyId": "independent",
-      "rejected_at": "2026-07-23T08:22:40.866Z"
-    },
-    {
-      "sourceUrl": "https://www.independent.co.uk/travel/news-and-advice/best-value-summer-holidays-europe-2026-b3020041.html",
-      "title": "The cheapest family holidays in Europe this summer, according to experts",
-      "agencyId": "independent",
-      "rejected_at": "2026-07-23T08:22:40.866Z"
-    },
-    {
       "sourceUrl": "https://www.irna.ir/news/86216836/%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AC%D8%A7%D9%85-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%B1%D8%A7-%D8%A8%DA%AF%DB%8C%D8%B1%D8%AF-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A2%D8%B3%DB%8C%D8%A7",
       "title": "رشیدی: استقلال باید جام قهرمانی را بگیرد/ فوتبال ایران از آسیا عقب افتاده است",
       "agencyId": "irna",
@@ -30335,6 +31195,60 @@
       "title": "How to stop lifestyle inflation: 6 habits to adopt after a pay rise",
       "agencyId": "independent",
       "rejected_at": "2026-07-24T08:22:56.901Z"
+    },
+    {
+      "sourceUrl": "https://www.irna.ir/news/86217703/%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%DB%8C%D8%A7%D8%A8%DB%8C-%DA%A9%D9%88%D9%86%DA%AF-%D9%81%D9%88-%D8%AF%D8%B1-%D9%87%D9%85%D9%87-%D8%B1%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%B3%D9%86%DB%8C-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+      "title": "استعدادیابی کونگ‌فو در همه رده‌های سنی کردستان انجام می‌شود",
+      "agencyId": "irna",
+      "rejected_at": "2026-07-24T08:36:52.448Z"
+    },
+    {
+      "sourceUrl": "https://www.isna.ir/news/1405050200586/%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D8%B1%D9%81%D8%B9-%D9%85%D8%B4%DA%A9%D9%84-%DA%A9%D9%85-%D8%A2%D8%A8%DB%8C-%D8%AF%D8%B1-%D9%81%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%DB%B3-%D9%88-%DB%B4-%D8%B9%D8%A7%D9%84%DB%8C%D8%B4%D9%87%D8%B1-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%B4%D8%AF",
+      "title": "عملیات رفع مشکل کم‌آبی در فازهای ۳ و ۴ عالیشهر آغاز شد",
+      "agencyId": "isna",
+      "rejected_at": "2026-07-24T08:36:52.448Z"
+    },
+    {
+      "sourceUrl": "https://www.irna.ir/news/86217903/%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D9%87%D9%88%D8%A7%DB%8C-%DA%86%D9%87%D8%A7%D8%B1%D9%85%D8%AD%D8%A7%D9%84-%D9%88-%D8%A8%D8%AE%D8%AA%DB%8C%D8%A7%D8%B1%DB%8C-%D9%86%D8%A7%D8%B3%D8%A7%D9%84%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%AF%D8%B1%D9%88%D9%87-%D9%87%D8%A7%DB%8C-%D8%AD%D8%B3%D8%A7%D8%B3-%D8%A7%D8%B3%D8%AA",
+      "title": "کیفیت هوای چهارمحال‌ و بختیاری ناسالم برای گروه‌های حساس است",
+      "agencyId": "irna",
+      "rejected_at": "2026-07-24T08:36:52.448Z"
+    },
+    {
+      "sourceUrl": "https://www.isna.ir/news/1405050200583/%D8%A2%D8%BA%D8%A7%D8%B2-%D9%81%D8%B1%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D8%B3%D9%88%D9%85%DB%8C%D9%86-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D8%A7%DB%8C-%D8%AD%D8%B1%DB%8C%D9%85-%D8%B1%D8%B3%D8%A7%D9%84%D8%AA-%D8%B7%D9%86%DB%8C%D9%86-%D8%AF%D8%B1-%D8%A7%DB%8C%D9%84%D8%A7%D9%85",
+      "title": "آغاز فراخوان سومین رویداد رسانه‌ای «حریم رسالت» (طنین) در ایلام",
+      "agencyId": "isna",
+      "rejected_at": "2026-07-24T08:36:52.448Z"
+    },
+    {
+      "sourceUrl": "https://www.khabaronline.ir/news/2250713/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D8%B1%D9%81%D8%AA%D8%A7%D8%B1-%D8%B9%D8%AC%DB%8C%D8%A8-%D9%86%D9%87%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D9%82%D8%A7%D8%AA%D9%84-%D8%B4%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D8%A8%D8%A7-%D8%B6%D8%B1%D8%A8%D9%87-%D8%B4%D8%AF%DB%8C%D8%AF-%D9%85%D8%AA%D9%84%D8%A7%D8%B4%DB%8C",
+      "title": "ببینید | رفتار عجیب نهنگ‌های قاتل؛ شکارهایی که با ضربه شدید متلاشی می‌شوند",
+      "agencyId": "khabaronline",
+      "rejected_at": "2026-07-24T08:36:52.448Z"
+    },
+    {
+      "sourceUrl": "https://www.khabaronline.ir/news/2250648/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%AD%D8%B3%DB%8C%D9%86-%D8%A8%D8%AF%D8%B1%D9%84%D9%88-%D8%B3%D8%B1%D9%BE%D8%B1%D8%B3%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%DA%AF%D8%B1%D9%88%D9%87-%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D9%81%D8%AA%D8%AD-%D8%B4%D8%AF",
+      "title": "عبدالحسین بدرلو سرپرست جدید گروه مستند روایت فتح شد",
+      "agencyId": "khabaronline",
+      "rejected_at": "2026-07-24T08:36:52.448Z"
+    },
+    {
+      "sourceUrl": "https://www.isna.ir/news/1405050200588/%D8%AE%D9%86%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%AF%D8%B1%D8%AF%D9%85%D9%86%D8%AF%D8%A7%D9%86%D9%87-%D9%88-%D8%AF%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D8%AE%D9%86%D8%AF%D9%87-%D8%AF%D8%A7%D8%B1",
+      "title": "خنده‌های دردمندانه و دردهای خنده‌دار",
+      "agencyId": "isna",
+      "rejected_at": "2026-07-24T08:36:52.448Z"
+    },
+    {
+      "sourceUrl": "https://www.independent.co.uk/health-and-fitness/justin-medeiros-workout-crossfit-games-b3020787.html",
+      "title": "I tried a CrossFit Games champ’s three-move workout – it left me struggling to climb the stairs",
+      "agencyId": "independent",
+      "rejected_at": "2026-07-24T08:36:52.448Z"
+    },
+    {
+      "sourceUrl": "https://www.independent.co.uk/extras/indybest/house-garden/household-appliances/fan-vs-portable-air-conditioner-b3020789.html",
+      "title": "Fans vs air conditioners: Which appliance to choose to beat the heat",
+      "agencyId": "independent",
+      "rejected_at": "2026-07-24T08:36:52.448Z"
     }
   ]
 }
