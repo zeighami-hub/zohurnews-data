@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_6786fe919e",
@@ -530,6 +530,54 @@
       "pubDate": "Thu, 23 Jul 2026 13:05:19 +0000",
       "time": "۱۶:۳۵ - ۱ مرداد",
       "analyzed_at": "2026-07-24T11:39:36.465Z"
+    },
+    {
+      "id": "nytimes_9d7591b2ff",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Bangladesh’s President Resigns Amid Uncertainty Over Ex-Leader’s Plans",
+      "title_fa": "رئیس‌جمهور بنگلادش در بحبوحه عدم اطمینان درباره برنامه‌های رهبر سابق استعفا داد",
+      "lead": "محمد شهاب‌الدین، رئیس‌جمهور بنگلادش، در بحبوحه گمانه‌زنی‌ها درباره بازگشت احتمالی شیخ حسینه، متحد سابق خود که از سمت نخست‌وزیری برکنار شده و به هند گریخته بود، استعفا داد.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/24/world/asia/bangladesh-president-resigns.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": false
+      },
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Fri, 24 Jul 2026 11:54:09 +0000",
+      "time": "۱۵:۲۴ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T12:11:49.802Z"
+    },
+    {
+      "id": "nytimes_1b0fa76a57",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Russia and Ukraine Trade Blows With Missiles and Drones",
+      "title_fa": "روسیه و اوکراین با موشک و پهپاد به تبادل حمله پرداختند",
+      "lead": "حملات اوکراین انبارهایی را در روسیه به آتش کشید و بمباران‌های روسیه پایتخت اوکراین را لرزاند، در حالی که دو کشور کارزار هوایی مرگبار خود را تشدید کردند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html",
+      "newsValues": {
+        "timeliness": "high",
+        "impact": "high",
+        "conflict": true
+      },
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 24 Jul 2026 11:36:33 +0000",
+      "time": "۱۵:۰۶ - ۲ مرداد",
+      "analyzed_at": "2026-07-24T12:11:49.802Z"
     }
   ]
 }
