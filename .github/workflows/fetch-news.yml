@@ -1,10 +1,9 @@
 name: Fetch and Analyze News
 
+# این workflow دیگر schedule داخلی گیت‌هاب ندارد (چون در بار زیاد می‌تواند تأخیر بخورد).
+# هر ۱۵ دقیقه توسط یک cron job رایگان و خارجی در cron-job.org، از طریق فراخوانی
+# workflow_dispatch API (با یک GitHub Fine-grained token با دسترسی Actions: Read and write) صدا زده می‌شود.
 on:
-  # فعلاً به‌عنوان پشتیبان نگه داشته می‌شود؛ طبق مستندات گیت‌هاب ممکن است در بار زیاد تأخیر بخورد.
-  # در مرحله ۴ یک تریگر خارجی (cron-job.org) اضافه می‌شود که workflow_dispatch را دقیق صدا می‌زند.
-  schedule:
-    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 # اجازه‌ی نوشتن در همین ریپو لازم است چون آرشیو و کش‌سازی اینجا کامیت می‌شوند
