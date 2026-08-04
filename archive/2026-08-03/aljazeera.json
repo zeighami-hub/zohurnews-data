@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "agencyId": "aljazeera",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "aljazeera_ed5364d41e",
@@ -62,6 +62,26 @@
       "time": "۰۳:۳۰ - ۱۲ مرداد",
       "iranScore": 2,
       "analyzed_at": "2026-08-03T00:16:09.509Z"
+    },
+    {
+      "id": "aljazeera_faf1c96e66",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
+      "title_fa": "حمله انتحاری در دره سوات پاکستان دست‌کم ۱۴ کشته برجای گذاشت",
+      "lead": "تصاویر ویدئویی حاکی از آن است که قربانیان یک انفجار انتحاری در شمال غربی پاکستان پس از وقوع حمله به بیمارستانی منتقل شده‌اند. در این حادثه دست‌کم ۱۴ نفر کشته شدند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 03 Aug 2026 00:18:50 +0000",
+      "time": "۰۳:۴۸ - ۱۲ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-03T01:01:24.198Z"
     }
   ]
 }
