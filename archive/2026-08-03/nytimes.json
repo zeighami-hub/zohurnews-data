@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_b8bc9bf577",
@@ -222,6 +222,46 @@
       "time": "۱۸:۵۰ - ۱۲ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-03T15:32:24.591Z"
+    },
+    {
+      "id": "nytimes_ff4165e2a1",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "title_fa": "ترامپ می‌گوید با ادعای پیشرفت در توافق، حملات به ایران را لغو کرده است",
+      "lead": "رئیس‌جمهور آمریکا بار دیگر تهدید به تشدید جنگ با ایران کرده بود اما ناگهان عقب‌نشینی کرد. عربستان سعودی اعلام کرد که رهبر این کشور از ترامپ خواسته است حملات را از سر نگیرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "pubDate": "Mon, 03 Aug 2026 07:03:22 +0000",
+      "time": "۱۰:۳۳ - ۱۲ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-03T16:17:37.772Z"
+    },
+    {
+      "id": "nytimes_78941c76fc",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
+      "title_fa": "رهبران راست افراطی در سئوتا از اسپانیا خواستند مهاجران را اخراج کند",
+      "lead": "سیاستمداران و فعالان راست افراطی به این قلمرو اسپانیا در ساحل شمالی آفریقا سرازیر شده‌اند و تنها چند روز پس از ورود هزاران مهاجر به این منطقه، تنش‌ها را افزایش داده‌اند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "pubDate": "Sun, 02 Aug 2026 21:49:48 +0000",
+      "time": "۰۱:۱۹ - ۱۲ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-03T16:17:37.772Z"
     }
   ]
 }
