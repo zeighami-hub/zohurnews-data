@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "nytimes_b8bc9bf577",
@@ -142,6 +142,26 @@
       "time": "۱۵:۱۳ - ۱۲ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-03T11:47:33.296Z"
+    },
+    {
+      "id": "nytimes_7b3bcf8b9d",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Canada’s WestJet Reaches Deal With Union to End Strike by Flight Attendants",
+      "title_fa": "شرکت هواپیمایی وست‌جت کانادا برای پایان دادن به اعتصاب مهمانداران با اتحادیه به توافق رسید",
+      "lead": "یک توافق اولیه در ساعات اولیه صبح دوشنبه حاصل شد، یک روز پس از آن که ۴۴۰۰ مهماندار هواپیما دست به اعتصاب زدند و لغو صدها پرواز را رقم زدند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/world/canada/westjet-strike-update-flight-attendants-canada.html",
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "pubDate": "Mon, 03 Aug 2026 12:13:25 +0000",
+      "time": "۱۵:۴۳ - ۱۲ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-03T12:33:06.517Z"
     }
   ]
 }
