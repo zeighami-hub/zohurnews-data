@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "agencyId": "bbc",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "bbc_442d6699b4",
@@ -242,6 +242,26 @@
       "time": "۱۳:۲۶ - ۱۲ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-03T10:32:48.252Z"
+    },
+    {
+      "id": "bbc_8a01c1c2e5",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Sudan army drone strike on court session kills 35, rights group says",
+      "title_fa": "گروه حقوق بشری می‌گوید حمله پهپادی ارتش سودان به یک جلسه دادگاه ۳۵ کشته برجای گذاشت",
+      "lead": "ارتش هنوز درباره ادعاهای مربوط به کشته شدن غیرنظامیان در این حمله به یک روستای تحت کنترل نیروهای شبه‌نظامی اظهارنظری نکرده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 03 Aug 2026 10:29:24 GMT",
+      "time": "۱۳:۵۹ - ۱۲ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-03T10:48:25.724Z"
     }
   ]
 }
