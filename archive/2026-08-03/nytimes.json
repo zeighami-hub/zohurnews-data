@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_b8bc9bf577",
@@ -182,6 +182,26 @@
       "time": "۱۶:۳۲ - ۱۲ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-03T13:20:38.248Z"
+    },
+    {
+      "id": "nytimes_34a30292ca",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Russian Strike Destroyed Millions of H.I.V. Prevention Supplies in Ukraine",
+      "title_fa": "حمله روسیه میلیون‌ها قلم تجهیزات پیشگیری از ایدز را در اوکراین نابود کرد",
+      "lead": "یک حمله روسیه باعث از بین رفتن میلیون‌ها تجهیزات پیشگیری از اچ‌آی‌وی در اوکراین شد. اگرچه داروها آسیبی ندیده‌اند، اما سازمان‌های امدادی نگران افزایش موارد جدید ابتلا در سال آینده هستند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/health/ukraine-war-hiv-aids.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 03 Aug 2026 14:24:48 +0000",
+      "time": "۱۷:۵۴ - ۱۲ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-03T14:32:31.805Z"
     }
   ]
 }
