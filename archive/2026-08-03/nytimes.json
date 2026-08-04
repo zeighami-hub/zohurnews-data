@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_b8bc9bf577",
@@ -262,6 +262,46 @@
       "time": "۰۱:۱۹ - ۱۲ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-03T16:17:37.772Z"
+    },
+    {
+      "id": "nytimes_2a58145a0c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+      "title_fa": "لا گویرا پس از زمین‌لرزه‌های مرگبار ونزوئلا غیرقابل شناخت شده است",
+      "lead": "بیش از یک ماه پس از وقوع زمین‌لرزه‌ها، منطقه ساحلی لا گویرا که زمانی دروازه اصلی ونزوئلا محسوب می‌شد، کاملاً تغییر چهره داده و غیرقابل شناسایی است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 02 Aug 2026 11:05:56 +0000",
+      "time": "۱۴:۳۵ - ۱۱ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-03T16:32:51.028Z"
+    },
+    {
+      "id": "nytimes_35f5d569ad",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Cowboys Fringants Bassist Is Named Quebec’s Chief Scientist",
+      "title_fa": "نوازنده گیتار بیس گروه «کوبویز فرینگنتس» به عنوان دانشمند ارشد کبک منصوب شد",
+      "lead": "ژروم دوپرا، یکی از اعضای گروه محبوب فولک راک «کوبویز فرینگنتس» در کبک، به عنوان دانشمند ارشد این استان منصوب شده است و به شکل‌دهی آینده زیست‌محیطی آن کمک خواهد کرد.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html",
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Sun, 02 Aug 2026 09:00:17 +0000",
+      "time": "۱۲:۳۰ - ۱۱ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-03T16:32:51.028Z"
     }
   ]
 }
