@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_b8bc9bf577",
@@ -322,6 +322,26 @@
       "time": "۲۱:۵۵ - ۱۱ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-03T18:47:04.625Z"
+    },
+    {
+      "id": "nytimes_42c3bc637c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Russian Opposition Politician Flees to France",
+      "title_fa": "سیاستمدار اپوزیسیون روسیه به فرانسه گریخت",
+      "lead": "بوریس ب. نادژدین، ۶۳ ساله، در ویدیویی در مقابل برج ایفل ظاهر شد و گفت که او «زنده و آزاد است، اما متاسفانه هنوز در روسیه نیست.»",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/world/europe/russian-politician-exile-france.html",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Mon, 03 Aug 2026 20:18:10 +0000",
+      "time": "۲۳:۴۸ - ۱۲ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-03T20:32:04.283Z"
     }
   ]
 }
