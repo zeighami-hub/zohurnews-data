@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_b8bc9bf577",
@@ -62,6 +62,26 @@
       "time": "۱۲:۲۰ - ۱۲ مرداد",
       "iranScore": 2,
       "analyzed_at": "2026-08-03T09:03:14.142Z"
+    },
+    {
+      "id": "nytimes_deb5b5b7bc",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "After Trump Pardon, Former Honduras President Hernández Faces Charges in His Home Country",
+      "title_fa": "پس از عفو ترامپ، خوان اورلاندو هرناندز، رئیس‌جمهور سابق هندوراس، در کشور خود با اتهاماتی روبرو است",
+      "lead": "خوان اورلاندو هرناندز، رئیس‌جمهور سابق هندوراس، پس از عفو غافلگیرکننده ترامپ که حکم قاچاق مواد مخدر او را در ایالات متحده لغو کرد، اکنون در کشور خود با اتهامات تقلب و پولشویی مواجه است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Mon, 03 Aug 2026 09:00:46 +0000",
+      "time": "۱۲:۳۰ - ۱۲ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-03T09:18:09.319Z"
     }
   ]
 }
