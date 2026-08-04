@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_b8bc9bf577",
@@ -302,6 +302,26 @@
       "time": "۱۲:۳۰ - ۱۱ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-03T16:32:51.028Z"
+    },
+    {
+      "id": "nytimes_1ba2065db6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Pakistan Police Station Bombing Kills at Least 14",
+      "title_fa": "انفجار انتحاری در یک پاسگاه پلیس در پاکستان دستکم ۱۴ کشته برجا گذاشت",
+      "lead": "مقام‌ها اعلام کردند که یک حمله انتحاری در دره سوات دستکم ۱۴ کشته برجا گذاشته است. تحریک طالبان پاکستان مسئولیت این حمله را بر عهده گرفت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Sun, 02 Aug 2026 18:25:12 +0000",
+      "time": "۲۱:۵۵ - ۱۱ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-03T18:47:04.625Z"
     }
   ]
 }
