@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "agencyId": "skynews",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "skynews_49543ebff4",
@@ -162,6 +162,26 @@
       "time": "۲۳:۲۰ - ۱۲ مرداد",
       "iranScore": 1,
       "analyzed_at": "2026-08-03T20:32:04.283Z"
+    },
+    {
+      "id": "skynews_4a1512e9f0",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Deadly suicide bombing targeting anti-militant rally in Pakistan",
+      "title_fa": "حمله انتحاری مرگبار با هدف قرار دادن تجمع ضد شبه‌نظامیان در پاکستان",
+      "lead": "به گفته مقامات، دستکم ۱۴ نفر در یک حمله انتحاری که معترضان را در یک تجمع ضد شبه‌نظامیان در شمال غربی پاکستان هدف قرار داد، کشته شده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/deadly-suicide-bombing-targeting-anti-militant-protesters-in-pakistan-13569275",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 02 Aug 2026 21:29:00 +0100",
+      "time": "۲۳:۵۹ - ۱۱ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-03T22:01:35.772Z"
     }
   ]
 }
