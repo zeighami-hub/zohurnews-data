@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "nytimes_48903b6d27",
@@ -22,6 +22,26 @@
       "time": "۰۴:۰۵ - ۱۳ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-04T00:46:02.945Z"
+    },
+    {
+      "id": "nytimes_511b084ccb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Drone Explodes on Russian Beach, Killing 7, Officials Say",
+      "title_fa": "به گفته مقامات، انفجار پهپاد در ساحلی در روسیه ۷ کشته برجای گذاشت",
+      "lead": "انفجار یک پهپاد در یک منطقه تفریحی و شلوغ در روسیه به کشته شدن ۷ نفر منجر شد. مقام‌ها هنوز اعلام نکرده‌اند که هدف این پهپاد چه بوده و چرا در این منطقه سقوط کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/world/europe/drone-russian-beach-explosion.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 04 Aug 2026 01:55:27 +0000",
+      "time": "۰۵:۲۵ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T02:01:26.108Z"
     }
   ]
 }
