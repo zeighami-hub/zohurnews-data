@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_48903b6d27",
@@ -42,6 +42,106 @@
       "time": "۰۵:۲۵ - ۱۳ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-04T02:01:26.108Z"
+    },
+    {
+      "id": "nytimes_cc80d0d9b5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
+      "title_fa": "نیوزیلند مسابقات سگ‌های تازی را متوقف کرد و اکنون باید پیامدهای آن را مدیریت کند",
+      "lead": "همزمان با برگزاری آخرین مسابقه سگ‌های تازی در نیوزیلند، دولت متعهد شده است که برای سگ‌ها سرپناه پیدا کند و از افرادی که معیشت آن‌ها به این مسابقات وابسته بود، حمایت نماید.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "pubDate": "Tue, 04 Aug 2026 04:01:25 +0000",
+      "time": "۰۷:۳۱ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T04:16:45.139Z"
+    },
+    {
+      "id": "nytimes_8145f41ed7",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises",
+      "title_fa": "هفته‌های نخست نخست‌وزیری اندی برنهام در بریتانیا: تیک‌تاک‌ها، پادکست‌ها و وعده‌ها",
+      "lead": "اقدام اندی برنهام در استفاده از شبکه‌های اجتماعی به نظر می‌رسد با استقبال برخی رأی‌دهندگان مواجه شده است، اما او با تصمیمات سختی درباره نحوه تأمین مالی وعده‌هایش روبه‌رو است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html",
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "pubDate": "Tue, 04 Aug 2026 04:01:18 +0000",
+      "time": "۰۷:۳۱ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T04:16:45.139Z"
+    },
+    {
+      "id": "nytimes_56d2181b6f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "How the Mohegan Tribe Lost a Billion-Dollar Casino in South Korea",
+      "title_fa": "چگونه قبیله موهِگان یک کازینوی چند میلیارد دلاری را در کره جنوبی از دست داد",
+      "lead": "مجتمع تفریحی اینسپایر در کره جنوبی که قرار بود جایگزینی برای ماکائو باشد، به عنوان پروژه‌ای تحول‌آفرین برای این قبیله بومی آمریکا برنامه‌ریزی شده بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/04/world/asia/mohegan-south-korea-casino-bain.html",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "pubDate": "Tue, 04 Aug 2026 04:01:10 +0000",
+      "time": "۰۷:۳۱ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T04:16:45.139Z"
+    },
+    {
+      "id": "nytimes_a31fa70835",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Pakistan’s Kashmir Problem",
+      "title_fa": "مسئله کشمیر پاکستان",
+      "lead": "موجی از اعتراضات، جدی‌ترین چالش سال‌های اخیر را در برابر حاکمیت اسلام‌آباد در این منطقه ایجاد کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/04/world/asia/pakistan-kashmir-jaac-rawalkot-protests.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 04 Aug 2026 04:00:13 +0000",
+      "time": "۰۷:۳۰ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T04:16:45.139Z"
+    },
+    {
+      "id": "nytimes_069378d27f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "JPMorgan Again Entangled in a FIFA Fiasco",
+      "title_fa": "جی‌پیمورگان بار دیگر درگیر افتضاح فیفا شد",
+      "lead": "پس از وعده بانک وال‌استریت برای یادگیری از نقش خود در «سوپر لیگ» شکست‌خورده که خشم هواداران را برانگیخت، این بانک در آخرین بحران فیفا نیز دخالت دارد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 04 Aug 2026 04:00:07 +0000",
+      "time": "۰۷:۳۰ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T04:16:45.139Z"
     }
   ]
 }
