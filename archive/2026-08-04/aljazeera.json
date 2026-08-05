@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "aljazeera",
-  "total": 37,
+  "total": 39,
   "articles": [
     {
       "id": "aljazeera_1a4d665ca2",
@@ -731,6 +731,46 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-04T14:05:12.759Z"
+    },
+    {
+      "id": "aljazeera_cc6925ee6e",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Spanish PM Sanchez faces criticism as EU meets over Ceuta crossings",
+      "title_fa": "نخست‌وزیر اسپانیا در پی تشکیل جلسه اتحادیه اروپا درباره گذرگاه‌های سبته با انتقاد مواجه شد",
+      "lead": "اکثر مهاجران انکلاب شمال آفریقا را ترک کرده و به مراکش بازگشته‌اند، در حالی که نخست‌وزیر اسپانیا همزمان با نشست اتحادیه اروپا درباره این گذرگاه‌ها تحت فشار و انتقاد قرار دارد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/4/spanish-pm-sanchez-faces-criticism-as-eu-meets-over-ceuta-crossings?traffic_source=rss",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Tue, 04 Aug 2026 13:52:45 +0000",
+      "time": "۱۷:۲۲ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T14:17:10.774Z"
+    },
+    {
+      "id": "aljazeera_deaeb6854d",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Hamas negotiator says deal to disarm was necessary to ‘save Gaza’",
+      "title_fa": "مذاکره‌کننده حماس: توافق برای خلع سلاح جهت «نجات غزه» ضروری بود",
+      "lead": "یک مذاکره‌کننده حماس اعلام کرد که دستیابی به توافق برای خلع سلاح به منظور نجات دادن غزه یک ضرورت بوده است.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/4/hamas-negotiator-says-deal-to-disarm-was-necessary-to-save?traffic_source=rss",
+      "sentiment": {
+        "positive": 15,
+        "neutral": 60,
+        "negative": 25
+      },
+      "pubDate": "Tue, 04 Aug 2026 13:34:43 +0000",
+      "time": "۱۷:۰۴ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T14:17:10.774Z"
     }
   ]
 }
