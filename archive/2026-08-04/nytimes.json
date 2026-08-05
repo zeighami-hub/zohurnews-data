@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_48903b6d27",
@@ -202,6 +202,46 @@
       "time": "۱۶:۰۹ - ۱۲ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-04T09:03:54.004Z"
+    },
+    {
+      "id": "nytimes_1c220eaacd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand",
+      "title_fa": "برای ایران، عقب‌نشینی ترامپ درباره تنش‌ها نشان می‌دهد چه کسی دست برتر را دارد",
+      "lead": "به گفته کارشناسان، تهران با گسترش عرصه درگیری در منطقه، هشداری درباره خطرات گسترش جنگ صادر کرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "pubDate": "Mon, 03 Aug 2026 08:50:11 +0000",
+      "time": "۱۲:۲۰ - ۱۲ مرداد",
+      "iranScore": 2,
+      "analyzed_at": "2026-08-04T09:18:55.363Z"
+    },
+    {
+      "id": "nytimes_e529dcf789",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Airport chaos, delays as E.U. debuts biometric border system",
+      "title_fa": "آشفتگی و تاخیر در فرودگاه‌ها همزمان با راه‌اندازی سیستم مرزی بیومتریک اتحادیه اروپا",
+      "lead": "سیستم بیومتریک جدید برای شهروندان غیرعضو اتحادیه اروپا باعث تاخیرهای طولانی و نارضایتی مسافران در فرودگاه‌ها شده است. مقام‌ها می‌گویند این روند اولیه بهبود خواهد یافت و امنیت را افزایش می‌دهد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Tue, 04 Aug 2026 09:00:32 +0000",
+      "time": "۱۲:۳۰ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T09:18:55.363Z"
     }
   ]
 }
