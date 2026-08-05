@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "mehrnews",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "mehrnews_e962df4637",
@@ -242,6 +242,46 @@
       "time": "۱۴:۴۰ - ۱۳ مرداد",
       "iranScore": 3,
       "analyzed_at": "2026-08-04T11:19:38.361Z"
+    },
+    {
+      "id": "mehrnews_b0508df53b",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "VIDEO: Arbaeen marked at Imam Reza (AS) holy shrine",
+      "title_fa": "ویدیو: بزرگداشت اربعین در حرم مطهر امام رضا (ع)",
+      "lead": "زائرانی از سراسر ایران برای بزرگداشت اربعین به حرم مطهر امام رضا (ع) در مشهد مشرف شدند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246756/VIDEO-Arbaeen-marked-at-Imam-Reza-AS-holy-shrine",
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Tue, 04 Aug 2026 11:37:43 GMT",
+      "time": "۱۵:۰۷ - ۱۳ مرداد",
+      "iranScore": 5,
+      "analyzed_at": "2026-08-04T11:47:16.486Z"
+    },
+    {
+      "id": "mehrnews_47efea3d9f",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Yemen attacks Saudi Arabia's airport in Najran",
+      "title_fa": "یمن فرودگاه نجران در عربستان سعودی را هدف حمله قرار داد",
+      "lead": "نیروهای مسلح یمن اعلام کردند که در تلافی نقض حریم هوایی یمن توسط عربستان، فرودگاه نجران را با یک پهپاد هدف قرار داده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246755/Yemen-attacks-Saudi-Arabia-s-airport-in-Najran",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 04 Aug 2026 11:34:09 GMT",
+      "time": "۱۵:۰۴ - ۱۳ مرداد",
+      "iranScore": 3,
+      "analyzed_at": "2026-08-04T11:47:16.486Z"
     }
   ]
 }
