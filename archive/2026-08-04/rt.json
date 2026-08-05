@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "rt",
-  "total": 29,
+  "total": 31,
   "articles": [
     {
       "id": "rt_6",
@@ -561,6 +561,43 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-04T21:16:20.252Z"
+    },
+    {
+      "id": "rt_10",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US used up ‘virtually all’ tactical ballistic missiles in attack on Iran – Reuters",
+      "title_fa": "رویترز: آمریکا «تقریباً تمام» موشک‌های بالستیک تاکتیکی خود را در حمله به ایران مصرف کرد",
+      "lead": "بر اساس گزارش رویترز، ایالات متحده تقریبا تمام ذخایر موشک‌های تاکتیکی زمین به زمین خود را در جریان حمله به ایران هزینه کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/643860-us-missile-stock-depleted/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-04T21:31:35.264Z"
+    },
+    {
+      "id": "rt_538bb04f07",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "EU sets new Russian gas record despite ban plans – data",
+      "title_fa": "بر اساس داده‌ها، اتحادیه اروپا علیرغم برنامه‌های ممنوعیت، رکورد جدیدی در واردات گاز از روسیه ثبت کرد",
+      "lead": "بر اساس داده‌های بلومبرگ، واردات رکوردشکن گاز طبیعی مایع (LNG) روسیه به اتحادیه اروپا همچنان ادامه دارد. این روند با وجود برنامه‌ریزی این بلوک برای حذف تدریجی سوخت روسیه رخ داده است.",
+      "category": "energy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643857-eu-russian-lng-imports/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "pubDate": "Tue, 04 Aug 2026 20:49:51 +0000",
+      "time": "۰۰:۱۹ - ۱۴ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T21:31:35.264Z"
     }
   ]
 }
