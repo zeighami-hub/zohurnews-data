@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "nytimes_48903b6d27",
@@ -142,6 +142,46 @@
       "time": "۰۷:۳۰ - ۱۳ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-04T04:16:45.139Z"
+    },
+    {
+      "id": "nytimes_b8bc9bf577",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
+      "title_fa": "بحران مهاجرت در سبته؛ بازتاب‌دهنده ناامیدی جوانان مراکشی نسبت به آینده",
+      "lead": "مهاجران مراکشی از ناامیدی خود نسبت به آینده اقتصادی‌شان سخن گفته و دلایل عبور خود از مرز اسپانیا را تشریح کردند. این بحران مهاجرتی ابعاد جدیدی از مشکلات جوانان در منطقه را آشکار ساخته است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 03 Aug 2026 09:05:12 +0000",
+      "time": "۱۲:۳۵ - ۱۲ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T04:31:37.828Z"
+    },
+    {
+      "id": "nytimes_93fd3630b0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As France’s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
+      "title_fa": "همزمان با موج گرما در فرانسه، ماموران پست به یاری سالمندان می‌شتابند",
+      "lead": "برای کمک به جلوگیری از مرگ‌ومیر ناشی از گرما، دولت فرانسه از ماموران پست خواسته است که به سالمندان سر بزنند و وضعیت آن‌ها را بررسی کنند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html",
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "pubDate": "Mon, 03 Aug 2026 04:01:09 +0000",
+      "time": "۰۷:۳۱ - ۱۲ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T04:31:37.828Z"
     }
   ]
 }
