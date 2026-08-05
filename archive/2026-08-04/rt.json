@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "rt",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "rt_6",
@@ -410,6 +410,23 @@
       "time": "۱۸:۲۹ - ۱۲ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-04T15:17:30.130Z"
+    },
+    {
+      "id": "rt_6",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Laura Loomer is fighting a losing war against reality itself",
+      "title_fa": "لورا لومر در حال جنگی شکست‌خورده علیه خودِ واقعیت است",
+      "lead": "حملات این چهره سیاسی به چندقطبی‌گرایی، تغییرات ساختاری در قدرت جهانی را با توطئه اشتباه گرفته و مفهوم قصد خصمانه را با تحولات واقعی خلط می‌کند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643834-laura-loomer-war-reality/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-04T18:02:24.130Z"
     }
   ]
 }
