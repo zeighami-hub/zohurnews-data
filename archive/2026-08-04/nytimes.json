@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_48903b6d27",
@@ -282,6 +282,46 @@
       "time": "۱۳:۱۲ - ۱۳ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-04T10:02:47.826Z"
+    },
+    {
+      "id": "nytimes_7e937b8dda",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
+      "title_fa": "ایران پس از ادعای ترامپ درباره پیشرفت در تنگه هرمز، اعلام کرد هیچ مذاکره‌ای با آمریکا جریان ندارد",
+      "lead": "رئیس‌جمهور ترامپ هنگام لغو یک حمله تهدیدآمیز علیه ایران به پیشرفت در مذاکرات اشاره کرد، اما ایران اعلام کرد که در حال حاضر هیچ مذاکره‌ای با ایالات متحده وجود ندارد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Mon, 03 Aug 2026 20:06:28 +0000",
+      "time": "۲۳:۳۶ - ۱۲ مرداد",
+      "iranScore": 2,
+      "analyzed_at": "2026-08-04T11:19:38.361Z"
+    },
+    {
+      "id": "nytimes_b2066d5fc6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
+      "title_fa": "سنگاپور گروه موسیقی «مسیو اتک» را به دلیل نمایش پرچم فلسطین ممنوع کرد",
+      "lead": "دولت سنگاپور گروه موسیقی بریتانیایی «مسیو اتک» را به دلیل نمایش پرچم فلسطین در این کشور ممنوع کرد. این گروه تحت سیاستی مرتبط با همزیستی نژادی مجازات شد که مدت‌هاست به دلیل سرکوب آزادی بیان در این دولت‌شهر مورد انتقاد قرار دارد.",
+      "category": "military",
+      "region": 50,
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "pubDate": "Mon, 03 Aug 2026 20:53:29 +0000",
+      "time": "۰۰:۲۳ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T11:19:38.361Z"
     }
   ]
 }
