@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "aljazeera",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "aljazeera_1a4d665ca2",
@@ -274,6 +274,46 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-04T08:50:45.831Z"
+    },
+    {
+      "id": "aljazeera_b5dd885bba",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "UEFA confirm legal letter served to FIFA after Infantino World Cup plan",
+      "title_fa": "یوفا ارسال نامه حقوقی به فیفا را پس از طرح جام جهانی اینفانتینو تایید کرد",
+      "lead": "یوفا به الجزیره تایید کرد که پس از طرح ناموفق فروش جام جهانی به رهبری جیانی اینفانتینو، یک نامه هشدار و حفظ حقوق به فیفا ارسال شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "pubDate": "Tue, 04 Aug 2026 08:37:44 +0000",
+      "time": "۱۲:۰۷ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T09:03:54.004Z"
+    },
+    {
+      "id": "aljazeera_8d408d2bfc",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+      "title_fa": "فلسطین در هفته: اسرائیل ده‌ها نفر را در غزه پس از توافق خلع سلاح حماس کشت",
+      "lead": "حملات هوایی و زمینی اسرائیل به غزه در روزهای پس از توافق با میانجیگری ایالات متحده که به عنوان یک «پیشرفت» توصیف شده بود، تشدید شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Tue, 04 Aug 2026 06:00:10 +0000",
+      "time": "۰۹:۳۰ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T09:03:54.004Z"
     }
   ]
 }
