@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "rt",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "rt_6",
@@ -333,6 +333,43 @@
       "time": "۱۶:۴۴ - ۱۲ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-04T13:47:53.646Z"
+    },
+    {
+      "id": "rt_5",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "UK police hacked by cybercriminals – Times",
+      "title_fa": "هک شدن پلیس بریتانیا توسط مجرمان سایبری به گزارش تایمز",
+      "lead": "بر اساس گزارش روزنامه تایمز، مجرمان سایبری موفق شدند به یک پایگاه داده کلیدی مجری قانون بریتانیا دسترسی پیدا کنند.",
+      "category": "technology",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/643836-uk-police-leak-hackers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-04T14:05:12.759Z"
+    },
+    {
+      "id": "rt_646132fe9d",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US and Israel likely behind Ceuta crisis – Martin Jay to RT (VIDEO)",
+      "title_fa": "مارتین جی در گفتگو با راشا تودی: آمریکا و اسرائیل احتمالاً پشت بحران سبته هستند",
+      "lead": "مارتین جی در مصاحبه با شبکه راشا تودی اظهار داشت که ایالات متحده و اسرائیل ممکن است از بحران سبته برای کمک به مراکش جهت به چالش کشیدن کنترل اسپانیا بر تنگه جبل‌الطارق استفاده کنند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/643830-ceuta-crisis-us-israel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Tue, 04 Aug 2026 13:32:47 +0000",
+      "time": "۱۷:۰۲ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T14:05:12.759Z"
     }
   ]
 }
