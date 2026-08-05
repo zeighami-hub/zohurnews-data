@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_48903b6d27",
@@ -442,6 +442,26 @@
       "time": "۱۴:۳۵ - ۱۱ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-04T17:03:09.386Z"
+    },
+    {
+      "id": "nytimes_dd5d46370a",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Mexico Declares War on Stinky Seaweed",
+      "title_fa": "مکزیک علیه جلبک‌های دریایی بدبو اعلام جنگ کرد",
+      "lead": "تغییرات اقلیمی به رشد توده‌ای غول‌پیکر از جلبک‌های دریایی بدبو دامن زده که به سواحل مکزیک آمده‌اند و این کشور اکنون در حال مبارزه با آن است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/04/climate/mexico-declares-war-sargassum-seaweed.html",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "pubDate": "Tue, 04 Aug 2026 19:08:09 +0000",
+      "time": "۲۲:۳۸ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T19:17:18.336Z"
     }
   ]
 }
