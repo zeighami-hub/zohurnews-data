@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_48903b6d27",
@@ -182,6 +182,26 @@
       "time": "۰۷:۳۱ - ۱۲ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-04T04:31:37.828Z"
+    },
+    {
+      "id": "nytimes_2fdf3c177a",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "2 Killed as Firefighting Helicopters Collide in Greece",
+      "title_fa": "برخورد دو فروند هلیکوپتر اطفای حریق در یونان دو کشته برجا گذاشت",
+      "lead": "این بالگردها در حال مبارزه با یک آتش‌سوزی جنگلی در شمال غربی آتن با یکدیگر برخورد کردند، در حالی که یونان طی هفته گذشته با بیش از ۲۰۰ آتش‌سوزی جنگیده بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/world/europe/greece-fire-helicopter-crash-firefighters.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 03 Aug 2026 12:39:46 +0000",
+      "time": "۱۶:۰۹ - ۱۲ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-04T09:03:54.004Z"
     }
   ]
 }
