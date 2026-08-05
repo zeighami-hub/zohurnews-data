@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "rt",
-  "total": 27,
+  "total": 29,
   "articles": [
     {
       "id": "rt_6",
@@ -527,6 +527,40 @@
       "time": "۲۲:۰۷ - ۱۲ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-04T19:17:18.336Z"
+    },
+    {
+      "id": "rt_1",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "EU sets new Russian gas record despite ban plans – data",
+      "title_fa": "بر اساس داده‌ها، اتحادیه اروپا علیرغم برنامه‌های ممنوعیت، رکورد جدیدی در واردات گاز از روسیه ثبت کرد",
+      "lead": "بر اساس داده‌های بلومبرگ، واردات گاز طبیعی مایع (LNG) روسیه به اتحادیه اروپا علیرغم برنامه‌های این بلوک برای کنار گذاشتن آن، همچنان به جریان خود ادامه داده و رکورد جدیدی را ثبت کرده است.",
+      "category": "energy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643857-eu-russian-lng-imports/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-04T21:16:20.252Z"
+    },
+    {
+      "id": "rt_2",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Ukrainian man stabs local woman in Poland",
+      "title_fa": "یک مرد اوکراینی در لهستان به یک زن محلی حمله کرد و او را با چربی مجروح ساخت",
+      "lead": "یک تبعه اوکراینی در لهستان پس از وارد کردن جراحات وخیم به یک زن لهستانی در پی یک حادثه چاقوکشی با شرایط نامشخص، بازداشت شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643816-ukrainian-stabs-polish-woman/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-04T21:16:20.252Z"
     }
   ]
 }
