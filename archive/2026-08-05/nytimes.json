@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_d552a1be09",
@@ -282,6 +282,46 @@
       "time": "۱۷:۳۶ - ۱۳ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-05T09:47:34.628Z"
+    },
+    {
+      "id": "nytimes_5fb9693e00",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Two Cities With a Tangled History",
+      "title_fa": "دو شهر با تاریخچه‌ای درهم‌تنیده",
+      "lead": "شهرهای سبتا در اسپانیا و فنیدق در مراکش تنها یک مایل از یکدیگر فاصله دارند، اما از طریق پیوندهای خانوادگی و تجاری به هم گره خورده‌اند. بحران مرزی اخیر، جدیدترین فصل از داستان روابط آن‌ها به شمار می‌رود.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/05/world/europe/ceuta-spain-fnideq-morocco-migration.html",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "pubDate": "Wed, 05 Aug 2026 10:09:52 +0000",
+      "time": "۱۳:۳۹ - ۱۴ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T10:21:38.085Z"
+    },
+    {
+      "id": "nytimes_73fb05173d",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "A New Lethal Front in Ukraine: Its Beloved Gas Stations",
+      "title_fa": "جبهه مرگبار جدید در اوکراین: جایگاه‌های سوخت محبوب این کشور",
+      "lead": "حملات پهپادی روسیه صدها جایگاه سوخت را در اوکراین هدف قرار داده است. این حملات ظاهراً در واکنش و تلافی حملات اوکراین به پالایشگاه‌های نفت روسیه صورت گرفته است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 04 Aug 2026 14:33:18 +0000",
+      "time": "۱۸:۰۳ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T10:21:38.085Z"
     }
   ]
 }
