@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "rt",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "rt_0bb51e8aac",
@@ -59,6 +59,46 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-05T00:46:21.159Z"
+    },
+    {
+      "id": "rt_8a0c7bd5b4",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Turkish cargo ship hit in suspected Ukrainian attack near Russian port (VIDEOS)",
+      "title_fa": "کشتی باری ترکیه در پی حمله مشکوک اوکراینی در نزدیکی بندر روسیه هدف اصابت قرار گرفت",
+      "lead": "یک فروند کشتی باری ترکیه در نزدیکی یکی از بندرهای دریای سیاه روسیه در پی حمله مشکوک پهپادهای اوکراینی هدف اصابت قرار گرفت.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643820-turkish-ships-hit-drones/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 04 Aug 2026 00:12:26 +0000",
+      "time": "۰۳:۴۲ - ۱۳ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-05T01:01:41.436Z"
+    },
+    {
+      "id": "rt_f4c7099e0d",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Armed man detained at Trump golf course ahead of presidential visit",
+      "title_fa": "مرد مسلح در زمین گلف ترامپ پیش از سفر ریاست جمهوری بازداشت شد",
+      "lead": "به گفته پلیس، یک مرد مسلح پیش از بازدید رئیس جمهور آمریکا در زمین گلف دونالد ترامپ در کالیفرنیا بازداشت شد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643863-armed-man-detained-trump-golf/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Wed, 05 Aug 2026 00:59:48 +0000",
+      "time": "۰۴:۲۹ - ۱۴ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T01:01:41.436Z"
     }
   ]
 }
