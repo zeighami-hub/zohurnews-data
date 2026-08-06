@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "aljazeera_1e8bdf1b1e",
@@ -22,6 +22,26 @@
       "time": "۰۳:۱۱ - ۱۴ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-05T00:01:21.798Z"
+    },
+    {
+      "id": "aljazeera_d4b978671f",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+      "title_fa": "پوشش زنده جنگ ایران: مذاکرات تهران و عمان درباره هرمز «مثبت» ارزیابی شد؛ یک کشتی در دریای سرخ هدف قرار گرفت",
+      "lead": "ایران اعلام کرد که مذاکرات با عمان به صورت «مثبت» در جریان است، در حالی که مقامات آمریکایی از احتمال دستیابی به یک توافق در آینده نزدیک خبر می‌دهند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Wed, 05 Aug 2026 00:00:00 +0000",
+      "time": "۰۳:۳۰ - ۱۴ مرداد",
+      "iranScore": 3,
+      "analyzed_at": "2026-08-05T00:31:11.944Z"
     }
   ]
 }
