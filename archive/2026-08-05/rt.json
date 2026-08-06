@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "rt",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "rt_0bb51e8aac",
@@ -116,6 +116,26 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-05T03:31:35.081Z"
+    },
+    {
+      "id": "rt_043571b608",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Apple briefly removes Telegram from App Store over child abuse material",
+      "title_fa": "حذف موقت تلگرام از اپ‌استور توسط اپل به دلیل محتوای سوءاستفاده از کودکان",
+      "lead": "پیام‌رسان محبوب تلگرام به طور موقت از اپ‌استور اپل در سراسر جهان حذف شد و سپس دوباره بازگردانده شد. این اقدام به دلیل وجود محتوای مرتبط با سوءاستفاده از کودکان صورت گرفته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643821-telegram-removed-app-store/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Tue, 04 Aug 2026 01:53:14 +0000",
+      "time": "۰۵:۲۳ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T03:46:52.463Z"
     }
   ]
 }
