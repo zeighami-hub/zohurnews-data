@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "agencyId": "rt",
-  "total": 34,
+  "total": 36,
   "articles": [
     {
       "id": "rt_6",
@@ -658,6 +658,40 @@
       "time": "۰۱:۵۳ - ۱۴ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-04T22:31:12.051Z"
+    },
+    {
+      "id": "rt_6",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Iran called off Ukraine strikes after Kiev apologized – Khamenei adviser",
+      "title_fa": "به گفته مشاور مجتبی خامنه‌ای، ایران حملات به اوکراین را متوقف کرد",
+      "lead": "یک مشاور ارشد اعلام کرد که ایران پس از عذرخواهی کی‌یف به دلیل حمله به یک کشتی تجاری ایرانی، برنامه‌ریزی برای حملات به اوکراین را لغو کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643819-iran-called-off-ukraine-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-04T23:46:11.157Z"
+    },
+    {
+      "id": "rt_7",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US Senator Warnock blocks fast-tracking of ‘hellish’ Russia sanctions bill",
+      "title_fa": "سناتور آمریکایی مانع از بررسی فوری لایحه تحریم‌های شدید علیه روسیه شد",
+      "lead": "سناتور رافائل وارنوک از ایالات متحده تلاش‌ها برای سرعت بخشیدن به تصویب لایحه تحریم‌های سخت‌گیرانه جدید علیه روسیه را مسدود کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643862-warnock-block-fast-sanctions-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-04T23:46:11.157Z"
     }
   ]
 }
