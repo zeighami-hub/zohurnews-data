@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "reuters",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "reuters_c7df060f6e",
@@ -599,6 +599,46 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-05T17:02:19.390Z"
+    },
+    {
+      "id": "reuters_cc6bce7ce8",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
+      "title_fa": "اختصاصی: تهدید ایران به حمله به کشورهای حوزه خلیج فارس در صورت حملات جدید آمریکا",
+      "lead": "خبرگزاری رویترز گزارش داد که ایران تهدید کرده است اگر ایالات متحده دست به حملات جدیدی بزند، منافع و کشورهای حوزه خلیج فارس را هدف قرار خواهد داد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Wed, 05 Aug 2026 19:11:49 GMT",
+      "time": "۲۲:۴۱ - ۱۴ مرداد",
+      "iranScore": 2,
+      "analyzed_at": "2026-08-05T20:01:50.949Z"
+    },
+    {
+      "id": "reuters_4db858efa9",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Trump says Iran faces 'decapitation' if it doesn't strike deal - Reuters",
+      "title_fa": "ترامپ: ایران در صورت عدم توافق با «برخورد قاطع» روبه‌رو خواهد شد",
+      "lead": "دونالد ترامپ اعلام کرد که اگر ایران به توافق نرسد، با پیامدهای شدیدی مواجه خواهد شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Mon, 03 Aug 2026 19:49:01 GMT",
+      "time": "۲۳:۱۹ - ۱۲ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-05T20:01:50.949Z"
     }
   ]
 }
