@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "rt",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "rt_0bb51e8aac",
@@ -42,6 +42,23 @@
       "time": "۰۲:۵۶ - ۱۴ مرداد",
       "iranScore": 1,
       "analyzed_at": "2026-08-05T00:01:21.798Z"
+    },
+    {
+      "id": "rt_11",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Turkish cargo ship hit in suspected Ukrainian attack near Russian port (VIDEOS)",
+      "title_fa": "اصابت به یک کشتی باری ترکیه‌ای در پی حمله مشکوک اوکراینی در نزدیکی یک بندر روسی",
+      "lead": "یک فروند کشتی باری ترکیه‌ای در نزدیکی یکی از بندرهای روسیه در دریای سیاه، هدف اصابت پهپادهایی که گفته می‌شود متعلق به اوکراین است، قرار گرفت.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/643820-turkish-ships-hit-drones/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-05T00:46:21.159Z"
     }
   ]
 }
