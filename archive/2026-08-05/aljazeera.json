@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "aljazeera",
-  "total": 30,
+  "total": 35,
   "articles": [
     {
       "id": "aljazeera_1e8bdf1b1e",
@@ -596,6 +596,103 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-05T09:17:42.722Z"
+    },
+    {
+      "id": "aljazeera_9cf09bf662",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
+      "title_fa": "ترامپ پیشرفت در مذاکرات را ستود اما در صورت عدم حصول توافق، به ایران درباره «ضربه سخت» هشدار داد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که پیشرفت‌هایی در خصوص ایران حاصل شده است، اما در صورت عدم دستیابی به توافق، به ایران هشدار ضربه سنگین داد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 30,
+        "negative": 40
+      },
+      "pubDate": "Wed, 05 Aug 2026 09:05:46 +0000",
+      "time": "۱۲:۳۵ - ۱۴ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-05T09:32:45.842Z"
+    },
+    {
+      "id": "aljazeera_a39728d924",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
+      "title_fa": "حملات روسیه ۱۷ کشته برجای گذاشت و از کمبود رهگیرهای موشکی اوکراین سوءاستفاده کرد",
+      "lead": "ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، اعلام کرد که نیروهای روسیه در جریان این حمله از ۲۹ موشک و ۱۱۵ پهپاد استفاده کرده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 05 Aug 2026 09:16:39 +0000",
+      "time": "۱۲:۴۶ - ۱۴ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T09:32:45.842Z"
+    },
+    {
+      "id": "aljazeera_2d534ae301",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Toppled Bangladesh leader Sheikh Hasina to speak today: What we can expect",
+      "title_fa": "سخنرانی امروز شیخ حسینه، رهبر برکنارشده بنگلادش: آنچه باید انتظار داشته باشیم",
+      "lead": "نخست‌وزیر سابق بنگلادش با وجود روبه‌رو بودن با حکم اعدام، احتمالاً بازگشت خود از تبعید در هند را اعلام خواهد کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/5/toppled-bangladesh-leader-sheikh-hasina-to-speak-today-what-we-can-expect?traffic_source=rss",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Wed, 05 Aug 2026 09:16:06 +0000",
+      "time": "۱۲:۴۶ - ۱۴ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T09:32:45.842Z"
+    },
+    {
+      "id": "aljazeera_5",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Michigan, Missouri, Washington primary elections: Key takeaways",
+      "title_fa": "انتخابات مقدماتی میشیگان، میزوری و واشنگتن: نکات کلیدی",
+      "lead": "انتخابات مقدماتی اخیر در ایالات متحده شکاف میان جناح مترقی و میانه‌روی حزب دمکرات را بر سر حمایت آمریکا از اسرائیل آشکار کرده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-election-key-takeaways?traffic_source=rss",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-05T09:32:45.842Z"
+    },
+    {
+      "id": "aljazeera_0bae917b85",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "FIFA’s Infantino set for crunch meeting after World Cup selloff crisis",
+      "title_fa": "اینفانتینو، رئیس فیفا، پس از بحران فروش بلیت‌های جام جهانی در آستانه نشستی سرنوشت‌ساز قرار دارد",
+      "lead": "جانی اینفانتینو پیش از نشست‌های روز چهارشنبه فیفا و پس از شکست در فروش بلیت‌های جام جهانی، تحت فشار فزاینده‌ای قرار دارد.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/8/5/fifas-infantino-set-for-crunch-meeting-after-world-cup-selloff-crisis?traffic_source=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Wed, 05 Aug 2026 08:35:13 +0000",
+      "time": "۱۲:۰۵ - ۱۴ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T09:32:45.842Z"
     }
   ]
 }
