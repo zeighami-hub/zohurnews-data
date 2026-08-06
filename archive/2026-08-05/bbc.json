@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "bbc",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "bbc_01191ee095",
@@ -302,6 +302,46 @@
       "time": "۱۴:۳۰ - ۱۴ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-05T11:17:17.506Z"
+    },
+    {
+      "id": "bbc_db4365e201",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Record heatwave in South Korea as temperatures soar to 42.5C",
+      "title_fa": "موج گرمای بی‌سابقه در کره جنوبی با افزایش دمای هوا به ۴۲.۵ درجه سانتیگراد",
+      "lead": "کره جنوبی گرم‌ترین روز خود از زمان آغاز ثبت رکوردها را تجربه می‌کند. این موج گرما دستکم ۱۹ کشته بر جای گذاشته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c935ng9n2klo?at_medium=RSS&at_campaign=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 05 Aug 2026 11:30:39 GMT",
+      "time": "۱۵:۰۰ - ۱۴ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T11:48:33.192Z"
+    },
+    {
+      "id": "bbc_7b707f1b68",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Pakistan restricts international media reporting",
+      "title_fa": "پاکستان گزارشگری رسانه‌های بین‌المللی را محدود کرد",
+      "lead": "بر اساس قوانین جدید، تمامی افرادی که برای رسانه‌های خارجی کار می‌کنند، از جمله شهروندان پاکستانی، برای تهیه گزارش در خارج از سه شهر بزرگ این کشور به کسب اجازه نیاز خواهند داشت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Wed, 05 Aug 2026 11:19:42 GMT",
+      "time": "۱۴:۴۹ - ۱۴ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T11:48:33.192Z"
     }
   ]
 }
