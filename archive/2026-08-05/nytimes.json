@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_d552a1be09",
@@ -357,6 +357,26 @@
       "time": "۱۵:۳۲ - ۱۴ مرداد",
       "iranScore": 1,
       "analyzed_at": "2026-08-05T12:33:02.695Z"
+    },
+    {
+      "id": "nytimes_a3ab4aa25b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Pope Leo Will Visit Peru, Where He Lived for Years, in November",
+      "title_fa": "پاپ لئو در ماه نوامبر به پرو، جایی که سال‌ها در آن زندگی کرده بود، سفر خواهد کرد",
+      "lead": "این سفر که شامل پرو، اوروگوئه و آرژانتین خواهد بود، نوعی بازگشت به خانه برای این پاپ آمریکایی به شمار می‌رود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/05/world/americas/pope-leo-peru-uruguay-argentina.html",
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Wed, 05 Aug 2026 12:50:30 +0000",
+      "time": "۱۶:۲۰ - ۱۴ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T13:03:49.262Z"
     }
   ]
 }
