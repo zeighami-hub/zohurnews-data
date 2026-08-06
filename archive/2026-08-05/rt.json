@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "rt",
-  "total": 31,
+  "total": 32,
   "articles": [
     {
       "id": "rt_0bb51e8aac",
@@ -610,6 +610,23 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-05T21:16:35.995Z"
+    },
+    {
+      "id": "rt_13",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "America’s murder crisis not as hopeless as many believe",
+      "title_fa": "بحران قتل در آمریکا به وخامت آنچه تصور می‌شود نیست",
+      "lead": "داده‌های جدید نشان می‌دهد که آمار قتل در آمریکا رو به کاهش است و در مناطق خاصی تمرکز دارد. این امر نشان می‌دهد وضعیت کلی امنیت نسبت به آنچه تیترهای نگران‌کننده رسانه‌ها القا می‌کنند، کمتر تیره و تار است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643879-us-gun-murder-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-05T22:01:40.332Z"
     }
   ]
 }
