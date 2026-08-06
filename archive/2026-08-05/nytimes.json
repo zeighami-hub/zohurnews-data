@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_d552a1be09",
@@ -102,6 +102,46 @@
       "time": "۰۷:۳۰ - ۱۴ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-05T04:17:06.241Z"
+    },
+    {
+      "id": "nytimes_b8bc9bf577",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
+      "title_fa": "بحران مهاجرت سبتة؛ بازتاب‌دهنده ناامیدی جوانان مراکشی",
+      "lead": "مهاجران مراکشی با توصیف ناامیدی خود نسبت به آینده اقتصادی‌شان، دلایل تصمیم خود برای عبور از مرز اسپانیا را تشریح کردند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 03 Aug 2026 09:05:12 +0000",
+      "time": "۱۲:۳۵ - ۱۲ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T04:47:11.479Z"
+    },
+    {
+      "id": "nytimes_93fd3630b0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As France’s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
+      "title_fa": "همزمان با گرمای شدید هوا و مشکلات سالمندان در فرانسه، ماموران پست به کمک می‌آیند",
+      "lead": "برای کمک به پیشگیری از مرگ‌ومیر ناشی از گرمازدگی، دولت فرانسه از کارکنان اداره پست خواسته است که به سالمندان سر بزنند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html",
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Mon, 03 Aug 2026 04:01:09 +0000",
+      "time": "۰۷:۳۱ - ۱۲ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T04:47:11.479Z"
     }
   ]
 }
