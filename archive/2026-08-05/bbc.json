@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "bbc_01191ee095",
@@ -162,6 +162,46 @@
       "time": "۱۱:۵۹ - ۱۴ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-05T08:47:41.652Z"
+    },
+    {
+      "id": "bbc_1e3c7b54b7",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+      "title_fa": "یک سرباز در جریان تیراندازی مرگبار در کریمه تحت اشغال روسیه، چهار نفر را کشت",
+      "lead": "فرماندار منصوب مسکو در این منطقه اعلام کرد که فرد ضارب پس از تیراندازی به سوی هم‌خدمتی‌های خود و غیرنظامیان بازداشت شده است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Tue, 04 Aug 2026 09:23:06 GMT",
+      "time": "۱۲:۵۳ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T10:02:51.665Z"
+    },
+    {
+      "id": "bbc_be08eb1ee8",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "What will happen when a SpaceX rocket collides with the Moon?",
+      "title_fa": "وقتی یک موشک اسپیس‌اکس با ماه برخورد کند چه اتفاقی می‌افتد؟",
+      "lead": "ماهواره طبیعی زمین طی میلیون‌ها سال ضربات بی‌شماری را تحمل کرده است و ستاره‌شناسان معتقدند این برخورد می‌تواند یک حادثه مفید باشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "pubDate": "Tue, 04 Aug 2026 09:13:37 GMT",
+      "time": "۱۲:۴۳ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T10:02:51.665Z"
     }
   ]
 }
