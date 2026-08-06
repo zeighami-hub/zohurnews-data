@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "agencyId": "aljazeera",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "aljazeera_1e8bdf1b1e",
@@ -42,6 +42,26 @@
       "time": "۰۳:۳۰ - ۱۴ مرداد",
       "iranScore": 3,
       "analyzed_at": "2026-08-05T00:31:11.944Z"
+    },
+    {
+      "id": "aljazeera_e1ddef0822",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Ukrainian man chased by exploding drone recounts his terror",
+      "title_fa": "مرد اوکراینی تعقیب‌شده توسط پهپاد انفجاری، وحشت خود را روایت کرد",
+      "lead": "یک مرد اوکراینی لحظات ترسناکی را که یک پهپاد مشکوک روسی او را تعقیب کرده و منفجر شده است، بازگو کرد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Wed, 05 Aug 2026 00:56:23 +0000",
+      "time": "۰۴:۲۶ - ۱۴ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-05T01:31:18.167Z"
     }
   ]
 }
