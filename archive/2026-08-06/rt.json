@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "agencyId": "rt",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "rt_7",
@@ -59,6 +59,23 @@
       "time": "۰۲:۵۶ - ۱۴ مرداد",
       "iranScore": 1,
       "analyzed_at": "2026-08-06T00:31:14.900Z"
+    },
+    {
+      "id": "rt_10",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Armed man detained at golf course ahead of Trump visit",
+      "title_fa": "یک مرد مسلح در زمین گلف پیش از سفر ترامپ بازداشت شد",
+      "lead": "پلیس اعلام کرد یک مرد مسلح پیش از سفر رئیس‌جمهور آمریکا به زمین گلف دونالد ترامپ در کالیفرنیا، بازداشت شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643863-armed-man-detained-trump-golf/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-06T01:31:19.741Z"
     }
   ]
 }
