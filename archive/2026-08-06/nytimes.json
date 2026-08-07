@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_8936879da3",
@@ -62,6 +62,46 @@
       "time": "۰۷:۳۱ - ۱۵ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-06T04:16:37.070Z"
+    },
+    {
+      "id": "nytimes_343a367a30",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
+      "title_fa": "تلاش غیرسیگاری‌های چین برای پاکسازی هوا، یک رویارویی در هر زمان",
+      "lead": "اختلافات میان افراد سیگاری و غیرسیگاری در چین رو به افزایش است، چرا که نسل جوان دیگر حاضر نیست دود سیگار دیگران را در سکوت تحمل کند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Wed, 05 Aug 2026 04:00:05 +0000",
+      "time": "۰۷:۳۰ - ۱۴ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-06T04:47:01.684Z"
+    },
+    {
+      "id": "nytimes_a31fa70835",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Pakistan’s Kashmir Problem",
+      "title_fa": "چالش کشمیر برای پاکستان",
+      "lead": "موجی از اعتراضات در کشمیر، قابل‌توجه‌ترین چالش سال‌های اخیر در برابر اقتدار دولت اسلام‌آباد در این منطقه را رقم زده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/04/world/asia/pakistan-kashmir-jaac-rawalkot-protests.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Tue, 04 Aug 2026 04:00:13 +0000",
+      "time": "۰۷:۳۰ - ۱۳ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-06T04:47:01.684Z"
     }
   ]
 }
