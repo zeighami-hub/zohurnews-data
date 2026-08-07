@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "agencyId": "rt",
-  "total": 35,
+  "total": 36,
   "articles": [
     {
       "id": "rt_7",
@@ -663,6 +663,23 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-06T22:32:11.706Z"
+    },
+    {
+      "id": "rt_6",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "What’s in Tucker Carlson’s ‘Save America’ manifesto?",
+      "title_fa": "بیانیه «آمریکا را نجات دهید» تاکر کارلسون شامل چه مواردی است؟",
+      "lead": "تاکر کارلسون پس از جدایی از دونالد ترامپ و وعده خود برای کمک به ایجاد یک حزب سوم، مانیفست سیاسی جدیدی را منتشر کرده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643960-tucker-carlson-political-manifesto/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-06T23:16:40.058Z"
     }
   ]
 }
