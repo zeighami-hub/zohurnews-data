@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_8936879da3",
@@ -22,6 +22,46 @@
       "time": "۰۶:۲۳ - ۱۵ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-06T03:01:56.902Z"
+    },
+    {
+      "id": "nytimes_36240666e5",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Europe’s Control of Its Fate Is Tested by Iran and Ukraine Wars, Wildfires and Migration",
+      "title_fa": "کنترل اروپا بر سرنوشت خود با جنگ‌های ایران و اوکراین، آتش‌سوزی‌های جنگلی و مهاجرت به چالش کشیده شده است",
+      "lead": "یک تابستان خشن نشان داده است که چگونه کشورهای بریتانیا، فرانسه، اسپانیا و سایر کشورهای اروپایی تحت فشار نیروهایی قرار دارند که تا حد زیادی خارج از کنترل آن‌هاست.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 06 Aug 2026 04:01:07 +0000",
+      "time": "۰۷:۳۱ - ۱۵ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-06T04:16:37.070Z"
+    },
+    {
+      "id": "nytimes_dec70a96fd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Country Music Festival Lights Up Nairobi",
+      "title_fa": "جشنواره موسیقی کانتری در نایروبی برگزار شد",
+      "lead": "طرفداران در کنیا گردهم آمدند تا ژانر موسیقی‌ای را جشن بگیرند که در جای دیگری متولد شده، اما تعداد بیشتری از آفریقایی‌ها در حال قدردانی از آن هستند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/06/world/africa/country-music-nairobi-kenya-cowboys.html",
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "pubDate": "Thu, 06 Aug 2026 04:01:11 +0000",
+      "time": "۰۷:۳۱ - ۱۵ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-06T04:16:37.070Z"
     }
   ]
 }
