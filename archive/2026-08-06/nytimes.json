@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_8936879da3",
@@ -362,6 +362,106 @@
       "time": "۱۶:۳۵ - ۱۵ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-06T13:17:03.549Z"
+    },
+    {
+      "id": "nytimes_1089cd8359",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Houthi Attacks on Yemeni Military Threaten to Reignite Civil War",
+      "title_fa": "حملات حوثی‌ها به ارتش یمن خطر از سرگیری جنگ داخلی را افزایش داد",
+      "lead": "این شبه‌نظامیان تحت حمایت ایران اعلام کردند که نیروهای مسلح را در دو استان غنی از منابع هدف قرار داده‌اند؛ اقدامی که تشدید خشونت‌ها در یمن و آتش‌بس شکننده این کشور را تهدید می‌کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 06 Aug 2026 19:01:49 +0000",
+      "time": "۲۲:۳۱ - ۱۵ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-06T19:19:13.022Z"
+    },
+    {
+      "id": "nytimes_7e8fa56ce0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Birds Are Dying. Clues Point to El Niño.",
+      "title_fa": "مرگ‌ومیر پرندگان؛ نشانه‌ها به پدیده ال‌نینو اشاره دارند",
+      "lead": "تلف شدن گسترده پرندگان دریایی باعث شده برخی کارشناسان پدیده آب‌وهوایی ال‌نینو را عامل اصلی این اتفاق بدانند. این گزارش همچنین به بررسی مسائل مرتبط با مراکز داده، آلودگی و سایر اخبار تغییرات اقلیمی می‌پردازد.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Thu, 06 Aug 2026 18:40:56 +0000",
+      "time": "۲۲:۱۰ - ۱۵ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-06T19:19:13.022Z"
+    },
+    {
+      "id": "nytimes_0be3d99b27",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "French Streamers Convicted in Case Related to Kick Livestream Death",
+      "title_fa": "استریمرهای فرانسوی در پرونده مرتبط با مرگ در پخش زنده پلتفرم کیک محکوم شدند",
+      "lead": "دو مرد از کاربران پلتفرم استریم کیک، در دادگاه مربوط به پرونده‌ای مرتبط با مرگ در جریان پخش زنده محکوم شدند. دادگاه برای این افراد احکام حبس تعلیقی و جریمه نقدی صادر کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 06 Aug 2026 18:36:12 +0000",
+      "time": "۲۲:۰۶ - ۱۵ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-06T19:19:13.022Z"
+    },
+    {
+      "id": "nytimes_fba54341ed",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Capybaras Were the Newest Lobbyists in This Brazilian Legislature",
+      "title_fa": "برگچه‌دم‌ها تبدیل به جدیدترین لابی‌گران در این مجمع قانون‌گذاری برزیل شدند",
+      "lead": "در ماتو گروسو برزیل، برگچه‌دم‌ها وارد ساختمان قانون‌گذاری شدند، اما در جریان این ورود رفتاری آرام و مسالمت‌آمیز داشتند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/06/world/americas/capybara-brazil-legislature.html",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "pubDate": "Thu, 06 Aug 2026 17:56:02 +0000",
+      "time": "۲۱:۲۶ - ۱۵ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-06T19:19:13.022Z"
+    },
+    {
+      "id": "nytimes_9d9f396ccd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Israeli Settler Charged in Death of Activist Awdah Hathaleen",
+      "title_fa": "یک شهرک‌نشین اسرائیلی به اتهام قتل «عوده هذالین»، فعال فلسطینی، تفهیم اتهام شد",
+      "lead": "این کیفرخواست یکی از موارد نادر است که در آن مقامات اسرائیلی علیه یک فرد اسرائیلی به جرم قتل یک فلسطینی اعلام جرم کرده‌اند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/06/world/middleeast/israel-settler-manslaughter-palestinian-activist.html",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Thu, 06 Aug 2026 16:59:25 +0000",
+      "time": "۲۰:۲۹ - ۱۵ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-06T19:19:13.022Z"
     }
   ]
 }
