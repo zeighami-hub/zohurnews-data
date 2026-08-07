@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "agencyId": "rt",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "rt_7",
@@ -475,6 +475,43 @@
       "time": "۱۸:۴۶ - ۱۵ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-06T15:34:41.353Z"
+    },
+    {
+      "id": "rt_10",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Rand Paul’s committee holds Fauci in contempt",
+      "title_fa": "کمیته تحت رهبری رند پل، آنتونی فائوچی را به تحقیر کنگره متهم کرد",
+      "lead": "یک کمیته سنای ایالات متحده دکتر آنتونی فائوچی را به دلیل امتناع از شهادت دادن درباره منشأ کووید-۱۹ مقصر و مستحق اتهام تحقیر کنگره دانست.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643956-fauci-held-contempt-congress/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-06T19:19:13.022Z"
+    },
+    {
+      "id": "rt_210ade4fde",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Christians are under siege in Jerusalem",
+      "title_fa": "مسیحیان در اورشلیم تحت محاصره هستند",
+      "lead": "راهبه‌ها، کشیشان و نمازگزاران از افزایش آزار و اذیت، پرتاب سنگ و ترس در اورشلیم همزمان با اوج‌گیری حوادث ضد مسیحی خبر می‌دهند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643950-jerusalem-christians-under-siege/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 06 Aug 2026 18:07:11 +0000",
+      "time": "۲۱:۳۷ - ۱۵ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-06T19:19:13.022Z"
     }
   ]
 }
