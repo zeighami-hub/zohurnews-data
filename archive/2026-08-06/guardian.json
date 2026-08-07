@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "agencyId": "guardian",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "guardian_3f35291f45",
@@ -22,6 +22,26 @@
       "time": "۰۴:۲۹ - ۱۳ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-06T01:46:09.911Z"
+    },
+    {
+      "id": "guardian_9502bfa72a",
+      "agencyId": "guardian",
+      "keep": true,
+      "title": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
+      "title_fa": "ایالات متحده ویزای سفیر برزیل را در پی تشدید تنش دیپلماتیک لغو کرد",
+      "lead": "این اقدام در واکنش به خودداری دولت لولا از تأیید نامزد ترامپ برای سمت سفارت در برازیلیا صورت گرفته است و تنش دیپلماتیک بین دو کشور را به شدت افزایش می‌دهد.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Wed, 05 Aug 2026 01:41:07 GMT",
+      "time": "۰۵:۱۱ - ۱۴ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-06T02:31:26.404Z"
     }
   ]
 }
