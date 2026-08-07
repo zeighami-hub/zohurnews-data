@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "agencyId": "rt",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "rt_7",
@@ -110,6 +110,46 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-06T02:16:11.005Z"
+    },
+    {
+      "id": "rt_e7847f05b0",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "OpenAI forced to pay $3.2 million for shutting out US workers",
+      "title_fa": "مجبور شدن اوپن‌آای به پرداخت ۳.۲ میلیون دلار به دلیل کنار گذاشتن کارگران آمریکایی",
+      "lead": "شرکت اوپن‌آای موافقت کرده است که ۳.۲ میلیون دلار برای حل و فصل اتهامات مربوط به تبعیض علیه کارگران آمریکایی و به نفع متقاضیان خارجی پرداخت کند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643886-openai-foreign-workers-fine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "pubDate": "Thu, 06 Aug 2026 01:39:46 +0000",
+      "time": "۰۵:۰۹ - ۱۵ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-06T02:31:26.404Z"
+    },
+    {
+      "id": "rt_7f13dd3e56",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Israel carries out heaviest bombardment of Lebanon since June truce (VIDEOS)",
+      "title_fa": "اسرائیل سنگین‌ترین بمباران لبنان از زمان آتش‌بس ژوئن را انجام داد",
+      "lead": "اسرائیل پس از متهم کردن حزب‌الله به نقض آتش‌بس ماه ژوئن، حملات خود را به جنوب لبنان از سر گرفته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/643917-israel-bombs-lebanon-tyre/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Thu, 06 Aug 2026 01:17:21 +0000",
+      "time": "۰۴:۴۷ - ۱۵ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-06T02:31:26.404Z"
     }
   ]
 }
