@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "agencyId": "rt",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "rt_7",
@@ -244,6 +244,23 @@
       "time": "۲۳:۰۷ - ۱۴ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-06T05:47:00.286Z"
+    },
+    {
+      "id": "rt_1",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Water systems across US hit by suspected cyberattacks – ABC News",
+      "title_fa": "سیستم‌های آب‌رسانی در سراسر ایالات متحده هدف حملات سایبری احتمالی قرار گرفتند",
+      "lead": "بر اساس گزارش ای‌بی‌سی نیوز، هکرها تأسیسات آب و فاضلاب را در حداقل دوازده ایالت ایالات متحده هدف قرار داده‌اند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643920-us-water-cyberattack-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-06T07:32:13.628Z"
     }
   ]
 }
