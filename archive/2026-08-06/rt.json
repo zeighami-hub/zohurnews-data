@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "agencyId": "rt",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "rt_7",
@@ -76,6 +76,40 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-06T01:31:19.741Z"
+    },
+    {
+      "id": "rt_9",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "OpenAI forced to pay $3.2 million for shutting out US workers",
+      "title_fa": "شرکت OpenAI به پرداخت ۳.۲ میلیون دلار جریمه به دلیل کنار گذاشتن کارگران آمریکایی محکوم شد",
+      "lead": "شرکت OpenAI توافق کرده است برای حل‌وفصل ادعاهای مربوط به تبعیض علیه کارگران آمریکایی و ترجیح دادن متقاضیان خارجی، مبلغ ۳.۲ میلیون دلار پرداخت کند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643886-openai-foreign-workers-fine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-06T02:16:11.005Z"
+    },
+    {
+      "id": "rt_10",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Israel carries out heaviest bombardment of Lebanon since June truce (VIDEOS)",
+      "title_fa": "اسرائیل سنگین‌ترین بمباران لبنان از زمان آتش‌بس ماه ژوئن را انجام داد",
+      "lead": "رژیم صهیونیستی پس از متهم کردن حزب‌الله به نقض آتش‌بس ماه ژوئن، حملات خود به جنوب لبنان را از سر گرفت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/643917-israel-bombs-lebanon-tyre/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-06T02:16:11.005Z"
     }
   ]
 }
