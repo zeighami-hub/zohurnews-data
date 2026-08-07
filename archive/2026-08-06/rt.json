@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "agencyId": "rt",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "rt_7",
@@ -207,6 +207,23 @@
       "time": "۰۸:۱۹ - ۱۵ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-06T05:02:23.044Z"
+    },
+    {
+      "id": "rt_5",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Why Israel keeps striking Gaza despite US-brokered ceasefire",
+      "title_fa": "چرا اسرائیل علی‌رغم آتش‌بس میانجی‌گری‌شده توسط آمریکا همچنان به حملات خود به غزه ادامه می‌دهد",
+      "lead": "اسرائیل علی‌رغم نقشه راه آتش‌بس با پشتیبانی ایالات متحده، به عملیات‌های نظامی خود در غزه ادامه داده و خروج ارتش اسرائیل را رد کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/643885-israel-strikes-gaza-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-06T05:32:42.745Z"
     }
   ]
 }
