@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_8936879da3",
@@ -482,6 +482,26 @@
       "time": "۲۳:۴۹ - ۱۶ مرداد",
       "iranScore": 1,
       "analyzed_at": "2026-08-07T20:32:05.816Z"
+    },
+    {
+      "id": "nytimes_3e56b1e96f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks",
+      "title_fa": "پس از آنکه ترامپ کانادایی‌ها را «عصبانی/بدجنس» خواند، مارک کارنی گفت این واژه توصیف‌گر مذاکرات تجاری است",
+      "lead": "نخست‌وزیر کانادا توصیف ترامپ از کانادا را به شوخی برگزار کرد، اما اشاره کرد که مذاکرات تجاری میان دو کشور تنش‌آلود است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Thu, 06 Aug 2026 22:45:54 +0000",
+      "time": "۰۲:۱۵ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-07T23:16:19.195Z"
     }
   ]
 }
