@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_8936879da3",
@@ -302,6 +302,26 @@
       "time": "۱۶:۱۷ - ۱۵ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-07T10:32:19.986Z"
+    },
+    {
+      "id": "nytimes_da7efa02f6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "title_fa": "عربستان سعودی، ترکیه و پاکستان پیمان دفاعی مشترک امضا کردند",
+      "lead": "این توافق‌نامه حمله به هر یک از این سه کشور را به منزله حمله به همه آن‌ها تلقی می‌کند. عربستان سعودی اخیراً با حملات پهپادی و موشکی مواجه شده که آن‌ها را به متحدان ایران در یمن و عراق نسبت داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "pubDate": "Fri, 07 Aug 2026 11:40:45 +0000",
+      "time": "۱۵:۱۰ - ۱۶ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-07T11:48:03.780Z"
     }
   ]
 }
