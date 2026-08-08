@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "agencyId": "mehrnews",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "mehrnews_99766c5daa",
@@ -79,6 +79,46 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-07T06:32:15.819Z"
+    },
+    {
+      "id": "mehrnews_f225c0c58e",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran’s industry min. meets with Pakistani PM in Islamabad",
+      "title_fa": "دیدار وزیر صنعت ایران با نخست‌وزیر پاکستان در اسلام‌آباد",
+      "lead": "محمد اتابک، وزیر صنعت، معدن و تجارت ایران، پس از پایان دهمین نشست کمیته مشترک تجاری ایران و پاکستان، با شهباز شریف، نخست‌وزیر پاکستان در اسلام‌آباد دیدار و گفتگو کرد.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246794/Iran-s-industry-min-meets-with-Pakistani-PM-in-Islamabad",
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Thu, 06 Aug 2026 06:07:39 GMT",
+      "time": "۰۹:۳۷ - ۱۵ مرداد",
+      "iranScore": 4,
+      "analyzed_at": "2026-08-07T06:47:09.602Z"
+    },
+    {
+      "id": "mehrnews_f79579739d",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Trump grows increasingly disappointed over Iran's retaliation",
+      "title_fa": "افزایش نارضایتی ترامپ از پاسخ‌های متقابل ایران",
+      "lead": "رئیس‌جمهور ایالات متحده از شکست مداوم ماشین جنگی این کشور در برابر پاسخ‌های متقابل ایران ابراز ناامیدی کرده و پیت هگست، وزیر جنگ آمریکا را به دلیل کمبود مهمات کلیدی بازخواست کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246793/Trump-grows-increasingly-frustrated-over-Iran-retaliation",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Thu, 06 Aug 2026 05:50:16 GMT",
+      "time": "۰۹:۲۰ - ۱۵ مرداد",
+      "iranScore": 4,
+      "analyzed_at": "2026-08-07T06:47:09.602Z"
     }
   ]
 }
