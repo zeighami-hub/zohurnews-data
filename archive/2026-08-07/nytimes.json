@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_8936879da3",
@@ -382,6 +382,26 @@
       "time": "۱۹:۲۳ - ۱۶ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-07T16:02:17.974Z"
+    },
+    {
+      "id": "nytimes_93a47f31c8",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "‘I Was So Wrong’: Iranians Say Trump’s Promises Never Came True",
+      "title_fa": "«من بسیار اشتباه می‌کردم»: ایرانیان می‌گویند وعده‌های ترامپ هرگز محقق نشد",
+      "lead": "همزمان با تلاش رئیس‌جمهور ترامپ برای خارج کردن ایالات متحده از جنگ با ایران، وعده‌های او به معترضان در این کشور برآورده نشده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 07 Aug 2026 16:06:37 +0000",
+      "time": "۱۹:۳۶ - ۱۶ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-07T16:16:37.613Z"
     }
   ]
 }
