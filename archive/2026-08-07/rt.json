@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "agencyId": "rt",
-  "total": 29,
+  "total": 30,
   "articles": [
     {
       "id": "rt_4",
@@ -561,6 +561,23 @@
       "time": "۲۲:۰۸ - ۱۶ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-07T18:46:51.793Z"
+    },
+    {
+      "id": "rt_2",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US Senate passes Lindsey Graham’s Russia sanctions bill",
+      "title_fa": "سنای آمریکا لایحه تحریم‌های روسیه را تصویب کرد",
+      "lead": "سنای ایالات متحده با آرایی قاطع لایحه تحریم‌های ضد روسی ارائه شده را تصویب کرد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/644003-lindsey-graham-sanctions-bill-senate/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-07T19:33:45.127Z"
     }
   ]
 }
