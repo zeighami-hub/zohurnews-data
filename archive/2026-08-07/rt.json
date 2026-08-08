@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "agencyId": "rt",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "rt_4",
@@ -293,6 +293,23 @@
       "time": "۱۲:۳۴ - ۱۶ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-07T09:47:18.874Z"
+    },
+    {
+      "id": "rt_1",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Enough with ‘theater diplomacy’ – Iran’s top negotiator to Trump",
+      "title_fa": "پایان دیپلماسی نمایشی؛ هشدار مقام ارشد مذاکره‌کننده ایران به ترامپ",
+      "lead": "محمدباقر قالیباف، مذاکره‌کننده ارشد ایران، اعلام کرد که دونالد ترامپ، رئیس‌جمهور آمریکا، هیچ دستاوردی از «دیپلماسی نمایشی» به دست نخواهد آورد.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643981-iran-us-trump-ghalibaf/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-07T10:32:19.986Z"
     }
   ]
 }
