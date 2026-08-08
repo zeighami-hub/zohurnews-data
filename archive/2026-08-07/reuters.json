@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "agencyId": "reuters",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "reuters_5",
@@ -19,6 +19,26 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-07T02:31:32.788Z"
+    },
+    {
+      "id": "reuters_e34e855ca5",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns - Reuters",
+      "title_fa": "کاهش سهام پیش از انتشار آمارهای اشتغال آمریکا؛ افزایش قیمت نفت به دلیل نگرانی‌ها پیرامون ایران",
+      "lead": "بازارهای سهام پیش از انتشار داده‌های اشتغال ایالات متحده در روز جمعه با افت مواجه شدند، در حالی که قیمت نفت تحت تأثیر نگرانی‌های مرتبط با ایران افزایش یافت.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 30,
+        "negative": 40
+      },
+      "pubDate": "Thu, 06 Aug 2026 22:15:43 GMT",
+      "time": "۰۱:۴۵ - ۱۶ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-07T02:46:21.925Z"
     }
   ]
 }
