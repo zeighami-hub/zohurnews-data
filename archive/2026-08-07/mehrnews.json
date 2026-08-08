@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "agencyId": "mehrnews",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "mehrnews_99766c5daa",
@@ -62,6 +62,23 @@
       "time": "۰۹:۲۹ - ۱۶ مرداد",
       "iranScore": 4,
       "analyzed_at": "2026-08-07T06:02:01.726Z"
+    },
+    {
+      "id": "mehrnews_3",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Trump grows increasingly disappointed over Iran's retaliation",
+      "title_fa": "ناامیدی روزافزون ترامپ از پاسخ ایران",
+      "lead": "رئیس‌جمهور آمریکا از ناکامی مداوم ماشین جنگی این کشور در برابر پاسخ متقابل ایران به‌شدت ناامید شده است. وی همچنین در پی کمبود مهمات کلیدی، با وزیر جنگ آمریکا درگیر شده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246793/Trump-grows-increasingly-disappointed-over-Iran-retaliation",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-07T06:32:15.819Z"
     }
   ]
 }
