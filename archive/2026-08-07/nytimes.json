@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_8936879da3",
@@ -142,6 +142,66 @@
       "time": "۰۹:۴۵ - ۱۶ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-07T06:17:04.051Z"
+    },
+    {
+      "id": "nytimes_6cf07d299f",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "The state of Iran’s three key nuclear sites",
+      "title_fa": "وضعیت سه تاسیسات هسته‌ای کلیدی ایران",
+      "lead": "مقامات و کارشناسان اظهار داشتند که درگیری‌ها ممکن است روند برنامه هسته‌ای ایران را کند کرده باشد، اما آن را متوقف نکرده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Fri, 07 Aug 2026 09:02:36 +0000",
+      "time": "۱۲:۳۲ - ۱۶ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-07T09:16:58.142Z"
+    },
+    {
+      "id": "nytimes_8daf474129",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+      "title_fa": "دولت ترامپ شراکت نظامی با کلمبیا برای مقابله با قاچاقچیان مواد مخدر را تسریع کرد",
+      "lead": "رئیس‌جمهور جدید کلمبیا که از حمایت ترامپ برخوردار است، روز جمعه کار خود را آغاز می‌کند و برنامه‌های گسترده برای هدف قرار دادن قاچاقچیان با کمک ایالات متحده از پیش آغاز شده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "pubDate": "Fri, 07 Aug 2026 09:02:00 +0000",
+      "time": "۱۲:۳۲ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-07T09:16:58.142Z"
+    },
+    {
+      "id": "nytimes_1f4e95cc6e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
+      "title_fa": "فعالان توقیف‌شده در مسیر غزه از بدرفتاری در بازداشتگاه‌های اسرائیل می‌گویند",
+      "lead": "بیش از ۲۰ نفری که تلاش می‌کردند محاصره غزه را بشکنند، در مصاحبه‌هایی از ضرب‌وجرح، شوک الکتریکی و سایر موارد بدرفتاری پس از بازداشت خبر دادند، در حالی که اسرائیل این اتهامات را رد کرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Fri, 07 Aug 2026 09:00:14 +0000",
+      "time": "۱۲:۳۰ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-07T09:16:58.142Z"
     }
   ]
 }
