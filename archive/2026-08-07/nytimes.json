@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_8936879da3",
@@ -242,6 +242,46 @@
       "time": "۰۰:۰۶ - ۱۶ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-07T10:02:22.245Z"
+    },
+    {
+      "id": "nytimes_4f694df2bd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica",
+      "title_fa": "تقابل امدادگران با شرایط آب‌وهوایی شدید در مأموریت تخلیه پزشکی در قطب جنوب",
+      "lead": "یک خدمه پرواز استرالیایی برای نجات یک تبعه ایالات متحده با دمای زیر صفر، تغییرات شرایط جوی و تاریکی تقریباً مداوم در قطب جنوب مبارزه کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "pubDate": "Fri, 07 Aug 2026 10:04:01 +0000",
+      "time": "۱۳:۳۴ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-07T10:17:23.878Z"
+    },
+    {
+      "id": "nytimes_c72c2dc9bb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Hospital Video Captures Chaos as Earthquake Strikes Mid-Surgery",
+      "title_fa": "ویدئوی بیمارستان هرج‌ومرج ناشی از وقوع زمین‌لرزه در حین عمل جراحی را به تصویر کشید",
+      "lead": "تصاویر ویدئویی نشان می‌دهد که پزشکان در ژاپن برای محافظت از بیمار در برابر لرزش شدید زمین به میز جراحی چسبیده‌اند. این عمل جراحی با موفقیت به پایان رسید.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html",
+      "sentiment": {
+        "positive": 50,
+        "neutral": 20,
+        "negative": 30
+      },
+      "pubDate": "Fri, 07 Aug 2026 10:02:54 +0000",
+      "time": "۱۳:۳۲ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-07T10:17:23.878Z"
     }
   ]
 }
