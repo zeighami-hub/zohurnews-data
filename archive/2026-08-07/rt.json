@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "agencyId": "rt",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "rt_4",
@@ -256,6 +256,23 @@
       "time": "۱۲:۰۸ - ۱۶ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-07T08:47:18.482Z"
+    },
+    {
+      "id": "rt_14",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Trump renews push to curb birthright citizenship",
+      "title_fa": "ترامپ تلاش‌ها برای محدود کردن حق شهروندی ناشی از تولد را از سر گرفت",
+      "lead": "دونالد ترامپ، رئیس‌جمهور ایالات متحده، دستورات اجرایی جدیدی را امضا کرده است که محدودیت‌های تازه‌ای را بر اعطای شهروندی بر اساس محل تولد اعمال می‌کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643978-trump-birthright-citizenship-limitation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-07T09:32:20.896Z"
     }
   ]
 }
