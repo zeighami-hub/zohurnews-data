@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "agencyId": "rt",
-  "total": 21,
+  "total": 24,
   "articles": [
     {
       "id": "rt_4",
@@ -407,6 +407,60 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-07T13:19:08.218Z"
+    },
+    {
+      "id": "rt_d95b9f9257",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "German arms giant reports booming sales",
+      "title_fa": "غول تسلیحاتی آلمان از رشد چشمگیر فروش خود خبر داد",
+      "lead": "شرکت راین‌میتال همزمان با ادامه حمایت‌های برلین از اوکراین و افزایش هزینه‌های نظامی، شاهد جهش نزدیک به ۷۰ درصدی درآمدهای خود بوده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/business/643992-rheinmetal-sales-profits-military-spending/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Fri, 07 Aug 2026 15:50:29 +0000",
+      "time": "۱۹:۲۰ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-07T16:02:17.974Z"
+    },
+    {
+      "id": "rt_5",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Trump helicopter nearly collides with passenger jet – FAA",
+      "title_fa": "اداره هوانوردی فدرال آمریکا: بالگرد ترامپ به طور مشکوکی با یک هواپیمای مسافربری نزدیک به تصادف شد",
+      "lead": "بر اساس اعلام اداره هوانوردی فدرال آمریکا، بالگرد «مارین وان» حامل دونالد ترامپ در آسمان واشنگتن دی‌سی فاصله نزدیکی با یک فروند هواپیمای مسافربری شرکت انووای ایر داشته است. این حادثه خطوط هوایی و مسائل امنیتی را مورد توجه قرار داده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/643934-faa-trump-helicopter-passenger-airplane/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-07T16:02:17.974Z"
+    },
+    {
+      "id": "rt_6",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Bangladesh blasts India over ex-PM’s media address",
+      "title_fa": "بنگلادش به دلیل سخنرانی رسانه‌ای نخست‌وزیر سابق به شدت از هند انتقاد کرد",
+      "lead": "دولت بنگلادش هند را به دلیل اجازه دادن به شیخ حسینه، نخست‌وزیر سابق، برای ایراد سخنرانی مجازی محکوم کرد و آن را برای روابط دوجانبه مضر دانست.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/india/643948-bangladesh-blasts-india-hasina/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-07T16:02:17.974Z"
     }
   ]
 }
