@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_40d5f13e21",
@@ -502,6 +502,26 @@
       "time": "۱۳:۲۸ - ۱۷ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-08T19:16:53.021Z"
+    },
+    {
+      "id": "nytimes_d295b8e524",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Houthis Claim Attack on Yemeni Military Camp",
+      "title_fa": "ادعای حوثی‌ها درباره حمله به یک اردوگاه نظامی در یمن",
+      "lead": "افزایش تنش‌های اخیر میان گروه حوثی تحت حمایت ایران و دولت یمن، نگرانی‌هایی را ایجاد کرده است که آتش‌بس برقرار شده از سال ۲۰۲۲ در آستانه فروپاشی باشد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 07 Aug 2026 20:44:46 +0000",
+      "time": "۰۰:۱۴ - ۱۷ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-08T21:01:59.467Z"
     }
   ]
 }
