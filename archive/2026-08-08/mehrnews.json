@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "mehrnews",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "mehrnews_a5263bd899",
@@ -119,6 +119,46 @@
       "time": "۰۸:۵۶ - ۱۶ مرداد",
       "iranScore": 3,
       "analyzed_at": "2026-08-08T05:47:13.671Z"
+    },
+    {
+      "id": "mehrnews_d6367abaa1",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Trump admits to serious ammunition shortages in US army",
+      "title_fa": "ترامپ به کمبود جدی مهمات در ارتش آمریکا اذعان کرد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، ضمن اذعان به کمبود جدی مهمات در ارتش این کشور، اعتراف کرده است که درگیری‌های جاری قرار است به زودی پایان یابد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246807/Trump-admits-to-serious-ammunition-shortages-in-US-army",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "pubDate": "Fri, 07 Aug 2026 05:59:46 GMT",
+      "time": "۰۹:۲۹ - ۱۶ مرداد",
+      "iranScore": 4,
+      "analyzed_at": "2026-08-08T06:17:35.961Z"
+    },
+    {
+      "id": "mehrnews_513a83f8bf",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Tehran seeks dialogue while refusing pressure",
+      "title_fa": "تهران خواهان گفتگو است اما فشار را نمی‌پذیرد",
+      "lead": "رئیس‌جمهور ایران مسعود پزشکیان رویکرد دیپلماتیک تهران در قبال ایالات متحده و اروپا را دفاع کرد و گفت ایران آماده گفتگو است اما حاکمیت و توانمندی‌های دفاعی خود را به خطر نخواهد انداخت.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://en.mehrnews.com/news/246820/Tehran-seeks-dialogue-while-refusing-pressure",
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "pubDate": "Sat, 08 Aug 2026 05:32:00 GMT",
+      "time": "۰۹:۰۲ - ۱۷ مرداد",
+      "iranScore": 5,
+      "analyzed_at": "2026-08-08T06:02:51.735Z"
     }
   ]
 }
