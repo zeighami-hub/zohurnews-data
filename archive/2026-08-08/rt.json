@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "rt",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "rt_9",
@@ -71,6 +71,46 @@
       "region": "americas",
       "sourceUrl": "https://www.rt.com/news/644007-pentagon-revokes-air-force-chief/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "analyzed_at": "2026-08-08T03:16:25.911Z"
+    },
+    {
+      "id": "rt_b9d17f8b1d",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "‘Suicide cluster’ hits US military hackers – Bloomberg",
+      "title_fa": "«خوشه خودکشی» هکرهای نظامی ایالات متحده را هدف قرار داد - بلومبرگ",
+      "lead": "فرماندهی سایبری ایالات متحده پس از وقوع پنج مرگ در طول یک ماه، در حال تحقیق درباره یک «خوشه خودکشی» است. هکرهای نظامی در این میان با فشارهای ناشی از جنگ با ایران و هوش مصنوعی مواجه هستند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/643991-suicide-cluster-us-cyber-command/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 08 Aug 2026 03:21:31 +0000",
+      "time": "۰۶:۵۱ - ۱۷ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-08T03:31:29.616Z"
+    },
+    {
+      "id": "rt_eabc91d1a8",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Pentagon accuses ex-Air Force chief of leaking state secrets",
+      "title_fa": "پنتاگون رئیس سابق نیروی هوایی را به افشای اسرار دولتی متهم کرد",
+      "lead": "پنتاگون فرانک کندال، رئیس پیشین نیروی هوایی را به افشای اطلاعات طبقه بندی شده درباره هواپیمای ریاست جمهوری دونالد ترامپ متهم کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/644007-pentagon-revokes-air-force-chief/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 08 Aug 2026 03:03:47 +0000",
+      "time": "۰۶:۳۳ - ۱۷ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-08T03:31:29.616Z"
     }
   ]
 }
