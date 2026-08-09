@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "rt",
-  "total": 34,
+  "total": 36,
   "articles": [
     {
       "id": "rt_9",
@@ -641,6 +641,40 @@
       "time": "۰۰:۳۳ - ۱۷ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-08T22:01:24.898Z"
+    },
+    {
+      "id": "rt_7",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Ivy Plus school accused of racial discrimination – DOJ",
+      "title_fa": "متهم شدن یک دانشگاه برتر آمریکا به تبعیض نژادی از سوی وزارت دادگستری",
+      "lead": "وزارت دادگستری ایالات متحده، دانشکده حقوق دانشگاه دوک را به اعمال شیوه‌های پذیرش که علیه متقاضیان سفیدپوست و آسیایی تبعیض قائل می‌شود، متهم کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643985-duke-law-discrimination-doj/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-08T23:46:05.342Z"
+    },
+    {
+      "id": "rt_8",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Spain fires back at Italy over entry checks",
+      "title_fa": "واکنش متقابل اسپانیا به ایتالیا بر سر کنترل‌های مرزی ورودی",
+      "lead": "مادرید در پاسخ به تشدید کنترل‌های رم پس از ورود غیرقانونی ۷۲ هزار نفر از مراکش به اسپانیا، اقدامات متقابلی را به اجرا گذاشت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/644005-spain-threatens-italy-migrants/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-08T23:46:05.342Z"
     }
   ]
 }
