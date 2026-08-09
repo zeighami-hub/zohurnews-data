@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_40d5f13e21",
@@ -322,6 +322,46 @@
       "time": "۱۳:۳۴ - ۱۶ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-08T10:32:44.234Z"
+    },
+    {
+      "id": "nytimes_1ada5888b9",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
+      "title_fa": "موج گرمای ایتالیا پیش از خورشیدگرفتگی به اروپای غربی سرایت می‌کند",
+      "lead": "هشدارهای قرمز دمای بالا تا روز شنبه برای بخش‌های زیادی از جنوب و غرب ایتالیا کماکان برقرار بود.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/08/weather/europe-heat-wave-italy-uk-france-spain.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "pubDate": "Sat, 08 Aug 2026 09:02:19 +0000",
+      "time": "۱۲:۳۲ - ۱۷ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-08T11:02:40.265Z"
+    },
+    {
+      "id": "nytimes_e484851da0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As Thailand Gets Known for Mass Shootings, Fresh Pledges to Fix Gun Laws",
+      "title_fa": "همزمان با شهرت یافتن تایلند به خاطر تیراندازی‌های جمعی، وعده‌های تازه‌ای برای اصلاح قوانین حمل سلاح داده شد",
+      "lead": "حمله مرگبار در یک دبیرستان در تایلند که روز جمعه رخ داد، آخرین مورد از خشونت‌های مسلحانه در کشوری است که طی سال‌های اخیر با چندین حمله مرگبار دست به گریبان بوده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html",
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "pubDate": "Sat, 08 Aug 2026 10:31:10 +0000",
+      "time": "۱۴:۰۱ - ۱۷ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-08T10:47:12.474Z"
     }
   ]
 }
