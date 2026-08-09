@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_40d5f13e21",
@@ -262,6 +262,26 @@
       "time": "۱۲:۳۲ - ۱۷ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-08T10:06:31.019Z"
+    },
+    {
+      "id": "nytimes_846c2845f0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Signs of Economic Recovery While Greater Uncertainty Looms",
+      "title_fa": "نشانه‌های بهبود اقتصادی در سایه ابهاماتی بزرگ‌تر",
+      "lead": "آمار مربوط به اشتغال و تجارت که این هفته منتشر شد نشان می‌دهد کانادا در حال بهبود از تنش‌های تجاری است، اما ممکن است دور دیگری از تعرفه‌ها در ماه جاری میلادی از راه برسد.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/08/world/canada/canada-economy-tariffs-carney-trump.html",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "pubDate": "Sat, 08 Aug 2026 10:00:07 +0000",
+      "time": "۱۳:۳۰ - ۱۷ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-08T10:17:50.261Z"
     }
   ]
 }
