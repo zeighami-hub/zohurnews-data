@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "mehrnews",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "mehrnews_a5263bd899",
@@ -62,6 +62,63 @@
       "time": "۰۸:۳۵ - ۱۷ مرداد",
       "iranScore": 3,
       "analyzed_at": "2026-08-08T05:17:38.654Z"
+    },
+    {
+      "id": "mehrnews_1",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Tehran seeks dialogue while refusing pressure",
+      "title_fa": "تهران خواهان گفتگو است اما فشار را نمی‌پذیرد",
+      "lead": "مسعود پزشکیان، رئیس‌جمهور ایران، از رویکرد دیپلماتیک تهران در قبال ایالات متحده و اروپا دفاع کرد و گفت ایران آماده گفتگو است اما حاکمیت و توانمندی‌های دفاعی خود را به خطر نمی‌اندازد.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://en.mehrnews.com/news/246820/Tehran-seek-dialogue-while-refusing-pressure",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-08T05:47:13.671Z"
+    },
+    {
+      "id": "mehrnews_99766c5daa",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "Iran not to allow opening of second corridor in Hormuz",
+      "title_fa": "ایران اجازه گشایش کریدور دوم در هرمز را نخواهد داد",
+      "lead": "سرتیپ پاسدار محسن رضایی، مشاور عالی رهبر انقلاب اسلامی، اعلام کرد که ایران اجازه ایجاد مسیر جایگزین یا کریدور دوم را در تنگه راهبردی هرمز نخواهد داد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246805/Iran-not-to-allow-opening-of-second-corridor-in-Hormuz",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "pubDate": "Fri, 07 Aug 2026 05:17:50 GMT",
+      "time": "۰۸:۴۷ - ۱۶ مرداد",
+      "iranScore": 5,
+      "analyzed_at": "2026-08-08T05:47:13.671Z"
+    },
+    {
+      "id": "mehrnews_2508058b61",
+      "agencyId": "mehrnews",
+      "keep": true,
+      "title": "US strategy of bullying and broken promises has failed",
+      "title_fa": "راهبرد زورگویی و عهده‌شکنی آمریکا با شکست مواجه شده است",
+      "lead": "رئیس مجلس شورای اسلامی اظهار داشت که استراتژی تهدید، وعده‌های شکسته شده و روایت‌های ساختگی ایالات متحده شکست خورده است و تهران وارد نمایش‌های بیشتر نخواهد شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246806/US-strategy-of-bullying-and-broken-promises-has-failed",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Fri, 07 Aug 2026 05:26:35 GMT",
+      "time": "۰۸:۵۶ - ۱۶ مرداد",
+      "iranScore": 3,
+      "analyzed_at": "2026-08-08T05:47:13.671Z"
     }
   ]
 }
