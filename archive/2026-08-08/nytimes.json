@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_40d5f13e21",
@@ -282,6 +282,46 @@
       "time": "۱۳:۳۰ - ۱۷ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-08T10:17:50.261Z"
+    },
+    {
+      "id": "nytimes_c72c2dc9bb",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Video Captures Chaos as Earthquake Strikes Japan Hospital Mid-Surgery",
+      "title_fa": "ویدیو لحظه آشوب ناشی از وقوع زمین‌لرزه در بیمارستانی در ژاپن حین عمل جراحی را ثبت کرد",
+      "lead": "تصاویر ویدئویی پزشکان را در ژاپن نشان می‌دهد که برای محافظت از بیمار در برابر زمین‌لرزه شدید، به میز عمل چنگ زده‌اند. این عمل جراحی با موفقیت به پایان رسید.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "pubDate": "Fri, 07 Aug 2026 15:31:06 +0000",
+      "time": "۱۹:۰۱ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-08T10:32:44.234Z"
+    },
+    {
+      "id": "nytimes_4f694df2bd",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica",
+      "title_fa": "تلاش امدادگران در شرایط آب و هوایی وخیم طی ماموریت تخلیه پزشکی در قطب جنوب",
+      "lead": "یک خدمه پرواز استرالیایی در جریان عملیات نجات یک تبعه ایالات متحده، با دمای زیر صفر، شرایط متغیر آب و هوایی و تاریکی تقریبا مداوم دست و پنجه نرم کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "pubDate": "Fri, 07 Aug 2026 10:04:01 +0000",
+      "time": "۱۳:۳۴ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-08T10:32:44.234Z"
     }
   ]
 }
