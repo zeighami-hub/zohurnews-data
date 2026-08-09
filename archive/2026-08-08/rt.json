@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "rt",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "rt_9",
@@ -473,6 +473,40 @@
       "time": "۱۶:۳۳ - ۱۷ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-08T18:32:02.042Z"
+    },
+    {
+      "id": "rt_5",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Iranian lawmaker blasts Saudi-led defense pact with Pakistan and Türkiye",
+      "title_fa": "انتقاد شدید نماینده مجلس ایران از پیمان دفاعی به رهبری عربستان با پاکستان و ترکیه",
+      "lead": "عربستان سعودی، پاکستان و ترکیه (عضو ناتو) در میان تشدید درگیری‌ها در سراسر خاورمیانه یک پیمان دفاع متقابل امضا کرده‌اند که با واکنش یک قانون‌گذار ایرانی مواجه شد.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/644000-saudi-pakistan-turkiye-pact/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-08T19:16:53.021Z"
+    },
+    {
+      "id": "rt_11",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Musk’s DOGE savings claims unverifiable – government watchdog",
+      "title_fa": "سازمان نظارت دولتی: ادعاهای ایلان ماسک درباره پس‌اندازهای وزارت کارایی دولت قابل راستی‌آزمایی نیست",
+      "lead": "یک نهاد نظارتی دولتی در ایالات متحده اعلام کرده است که ادعاهای وزارت کارایی دولت (DOGE) درباره صرفه‌جویی میلیاردها دلاری در بودجه فدرال قابل استناد و اثبات نیست.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643999-musks-doge-savings-claims-unverifiable/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-08T19:16:53.021Z"
     }
   ]
 }
