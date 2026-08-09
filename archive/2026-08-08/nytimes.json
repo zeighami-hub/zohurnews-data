@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_40d5f13e21",
@@ -202,6 +202,46 @@
       "time": "۱۷:۱۷ - ۱۶ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-08T06:32:30.250Z"
+    },
+    {
+      "id": "nytimes_8daf474129",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
+      "title_fa": "دولت ترامپ شراکت نظامی با کلمبیا را برای هدف قرار دادن قاچاقچیان مواد مخدر سرعت می‌بخشد",
+      "lead": "رئیس‌جمهور جدید کلمبیا که مورد حمایت دونالد ترامپ است، روز جمعه کار خود را آغاز می‌کند. برنامه‌های گسترده‌ای با کمک ایالات متحده برای هدف قرار دادن قاچاقچیان مواد مخدر در جریان است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "pubDate": "Fri, 07 Aug 2026 16:13:49 +0000",
+      "time": "۱۹:۴۳ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-08T09:32:54.814Z"
+    },
+    {
+      "id": "nytimes_1f4e95cc6e",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
+      "title_fa": "فعالان توقیف‌شده در مسیر غزه از بدرفتاری در بازداشتگاه‌های اسرائیل خبر دادند",
+      "lead": "بیش از ۲۰ نفر که تلاش داشتند محاصره اسرائیل را بشکنند، در مصاحبه‌هایی از ضرب و شتم، شوک الکتریکی و سایر موارد بدرفتاری پس از دستگیری سخن گفتند. اسرائیل این اتهامات را رد کرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Fri, 07 Aug 2026 09:00:14 +0000",
+      "time": "۱۲:۳۰ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-08T09:32:54.814Z"
     }
   ]
 }
