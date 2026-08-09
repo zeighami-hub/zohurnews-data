@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "nytimes_40d5f13e21",
@@ -142,6 +142,46 @@
       "time": "۰۷:۳۱ - ۱۷ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-08T04:16:51.101Z"
+    },
+    {
+      "id": "nytimes_bc2fd575cc",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "How Japan Reduced Deaths From a Major Quake",
+      "title_fa": "چگونه ژاپن تلفات ناشی از یک زلزله بزرگ را کاهش داد",
+      "lead": "پس از زمین‌لرزه‌های مرگبار یک دهه پیش، شهر کوماموتو ساختمان‌های مقاوم در برابر زلزله ساخت و به آموزش نیروهای محلی در زمینه جستجو و نجات پرداخت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "pubDate": "Fri, 07 Aug 2026 12:54:36 +0000",
+      "time": "۱۶:۲۴ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-08T04:47:18.494Z"
+    },
+    {
+      "id": "nytimes_c2b2de6533",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Foreigners Behaving Badly in Vietnam Challenge Its Communist Justice System",
+      "title_fa": "رفتار هنجارشکنی گردشگران خارجی در ویتنام، سیستم قضایی این کشور را به چالش کشید",
+      "lead": "ویتنام با افزایش چشمگیر بازدیدکنندگان مواجه شده است و در حالی که تلاش می‌کند اقتصاد خود را از طریق گردشگری تقویت کند، این روند سیستم کیفری شوروی‌مآبانه این کشور را به چالش کشیده است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/asia/vietnam-tourism-foreigners-crime-law.html",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "pubDate": "Fri, 07 Aug 2026 10:54:13 +0000",
+      "time": "۱۴:۲۴ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-08T04:47:18.494Z"
     }
   ]
 }
