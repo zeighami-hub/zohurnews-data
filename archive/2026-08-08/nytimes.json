@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_40d5f13e21",
@@ -242,6 +242,26 @@
       "time": "۱۲:۳۰ - ۱۶ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-08T09:32:54.814Z"
+    },
+    {
+      "id": "nytimes_3f86f354a0",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
+      "title_fa": "پیش از وقوع خورشیدگرفتگی، موج گرمای ایتالیا به اروپای غربی گسترش می‌یابد",
+      "lead": "هشدارهای قرمز دمای بالا تا روز شنبه برای بخش‌های زیادی از جنوب و غرب ایتالیا کماکان به قوت خود باقی ماندند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/08/weather/heat-in-italy-will-spread-to-western-europe.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Sat, 08 Aug 2026 09:02:19 +0000",
+      "time": "۱۲:۳۲ - ۱۷ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-08T10:06:31.019Z"
     }
   ]
 }
