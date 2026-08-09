@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "reuters",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "reuters_5e2e46fe65",
@@ -154,6 +154,26 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-08T12:17:34.648Z"
+    },
+    {
+      "id": "reuters_22da4d53aa",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Brent climbs $1 on uncertainty over end to Iran war - Reuters",
+      "title_fa": "افزایش ۱ دلاری قیمت نفت برنت به دلیل بلاتکلیفی درباره پایان جنگ ایران",
+      "lead": "قیمت نفت برنت به دلیل ابهامات پیرامون پایان درگیری‌ها پیرامون ایران حدود ۱ دلار افزایش یافت.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "pubDate": "Fri, 07 Aug 2026 00:47:00 GMT",
+      "time": "۰۴:۱۷ - ۱۶ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-08T12:32:34.513Z"
     }
   ]
 }
