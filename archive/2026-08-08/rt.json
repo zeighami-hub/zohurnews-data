@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "rt",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "rt_9",
@@ -248,6 +248,40 @@
       "time": "۱۴:۱۴ - ۱۶ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-08T11:17:23.076Z"
+    },
+    {
+      "id": "rt_5",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "WATCH as powerful typhoon slams Japan",
+      "title_fa": "تصاویری از برخورد توفان سهمگین به ژاپن",
+      "lead": "به دنبال حرکت توفان دلفین به سمت چین، شش نفر زخمی شدند و بیش از ۵۰ هزار ساختمان در مناطق کاگوشیما و اوکیناوای ژاپن دچار قطعی برق شدند.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.rt.com/news/644015-japan-powerful-typhoon-dolphin-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-08T14:02:46.053Z"
+    },
+    {
+      "id": "rt_6",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Scientists create viruses with AI",
+      "title_fa": "دانشمندان با استفاده از هوش مصنوعی ویروس تولید کردند",
+      "lead": "محققان آمریکایی برای نخستین بار از هوش مصنوعی برای طراحی و ساخت ویروس‌های کاربردی که در طبیعت وجود ندارند، استفاده کردند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643995-us-scientists-ai-virus/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-08T14:02:46.053Z"
     }
   ]
 }
