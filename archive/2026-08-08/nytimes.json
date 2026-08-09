@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_40d5f13e21",
@@ -182,6 +182,26 @@
       "time": "۱۴:۲۴ - ۱۶ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-08T04:47:18.494Z"
+    },
+    {
+      "id": "nytimes_6fa277d95b",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say",
+      "title_fa": "به گفته مقامات تایلند، پسربچه‌ای پدربزرگ و مادربزرگ و سپس پنج معلم را کشت",
+      "lead": "به گفته مقامات تایلند، یک دانش‌آموز پیش از تیراندازی در دبیرستان خود و خودکشی، پدربزرگ و مادربزرگش را به قتل رساند و این رویداد دوباره بحث درباره قوانین سلاح را زنده کرد.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Fri, 07 Aug 2026 13:47:17 +0000",
+      "time": "۱۷:۱۷ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-08T06:32:30.250Z"
     }
   ]
 }
