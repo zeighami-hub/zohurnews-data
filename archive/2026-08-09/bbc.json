@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
   "agencyId": "bbc",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "bbc_086f912c17",
@@ -202,6 +202,46 @@
       "time": "۱۹:۲۶ - ۱۷ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-09T11:02:51.886Z"
+    },
+    {
+      "id": "bbc_d89f1e56f3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "title_fa": "اسرائیل طرح ۱۵ ماده‌ای ترامپ برای غزه را رد کرد",
+      "lead": "نخست‌وزیر اسرائیل اعلام کرد که ارتش این کشور تا زمان خلع سلاح «واقعی» حماس، از غزه عقب‌نشینی نخواهد کرد و تل‌آویو طرح ۱۵ ماده‌ای دونالد ترامپ را رد کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "pubDate": "Sun, 09 Aug 2026 11:58:22 GMT",
+      "time": "۱۵:۲۸ - ۱۸ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-09T12:05:20.660Z"
+    },
+    {
+      "id": "bbc_bbc4da856a",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "title_fa": "ع عربستان سعودی، ترکیه و پاکستان پیمان دفاعی امضا کردند",
+      "lead": "پاکستان اعلام کرد که در پی درگیری‌ها در خاورمیانه، حمله به هر یک از این سه کشور به منزله حمله به همه آن‌ها خواهد بود.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "pubDate": "Fri, 07 Aug 2026 17:42:54 GMT",
+      "time": "۲۱:۱۲ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-09T12:05:20.660Z"
     }
   ]
 }
