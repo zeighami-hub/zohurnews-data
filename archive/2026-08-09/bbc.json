@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
   "agencyId": "bbc",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "bbc_086f912c17",
@@ -442,6 +442,46 @@
       "time": "۲۱:۳۳ - ۱۸ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-09T19:02:06.525Z"
+    },
+    {
+      "id": "bbc_0d8d4335f9",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "title_fa": "به گفته عمان مذاکرات هرمز مثبت بوده، در حالی که ایران هشدار داد توافق به معنای باز شدن تنگه نخواهد بود",
+      "lead": "هر دو طرف به پیشرفت در مذاکرات برای توافق بر سر یک مسیر کشتیرانی جدید از طریق تنگه هرمز اشاره کرده‌اند، اما حصول یک توافق قطعی همچنان نامشخص است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "pubDate": "Sat, 08 Aug 2026 19:18:57 GMT",
+      "time": "۲۲:۴۸ - ۱۷ مرداد",
+      "iranScore": 2,
+      "analyzed_at": "2026-08-09T20:02:01.344Z"
+    },
+    {
+      "id": "bbc_36279d996e",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+      "title_fa": "ارتش نیجریه از نجات امن ۳۳ فرد ربوده شده توسط مردان مسلح خبر داد",
+      "lead": "این افراد روز شنبه در حین سفر از ایالت زامفارا در شمال غربی این کشور ربوده شده بودند که توسط ارتش نجات یافتند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "pubDate": "Sun, 09 Aug 2026 19:57:28 GMT",
+      "time": "۲۳:۲۷ - ۱۸ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-09T20:02:01.344Z"
     }
   ]
 }
