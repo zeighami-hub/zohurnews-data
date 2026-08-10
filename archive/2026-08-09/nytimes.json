@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_40d5f13e21",
@@ -397,6 +397,46 @@
       "time": "۱۸:۳۸ - ۱۸ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-09T18:17:04.367Z"
+    },
+    {
+      "id": "nytimes_ee2b2de709",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
+      "title_fa": "انتخاب محسن رضایی به عنوان مقام ارشد امنیتی در ایران",
+      "lead": "انتصاب محسن رضایی به سمت دبیر شورای عالی امنیت ملی نشان می‌دهد که چهره‌های قدیمی در ساختار قدرت ایران در حال تقویت جایگاه خود هستند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Sun, 09 Aug 2026 18:18:22 +0000",
+      "time": "۲۱:۴۸ - ۱۸ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-09T18:31:56.917Z"
+    },
+    {
+      "id": "nytimes_2ac2c9e371",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
+      "title_fa": "آس‌سوزی جنگلی در بریتیش کلمبیا تخلیه ۱۸ هزار نفر را به همراه داشت",
+      "lead": "آتش‌سوزی بالد رنج بیش از ۲۵ هزار جریب را در بریتیش کلمبیا سوزانده و مقامات اعلام کردند که آتش در مقطعی طی حدود یک ساعت بیش از ۲۰۰۰ جریب پیشروی کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sun, 09 Aug 2026 15:10:49 +0000",
+      "time": "۱۸:۴۰ - ۱۸ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-09T18:31:56.917Z"
     }
   ]
 }
