@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "nytimes_40d5f13e21",
@@ -117,6 +117,46 @@
       "time": "۰۷:۳۱ - ۱۷ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-09T04:32:36.480Z"
+    },
+    {
+      "id": "nytimes_20f9c72912",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "As the Climate Warms, Beavers are Coming for Canada’s Arctic",
+      "title_fa": "با گرم شدن اقلیم، سگ‌های آبی به سوی قطب شمال کانادا سرازیر شده‌اند",
+      "lead": "نماد ملی پشمالوی کانادا با تاثیرپذیری از گرمایش زمین در حال استعمار مناطق جدیدی است. آن‌ها در این روند از شکارچیان اینوئیت دوری کرده و چشم‌انداز محیط پیرامون خود را تغییر می‌دهند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/09/world/canada/arctic-beavers-canada-climate-umiujaq-quebec.html",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Sun, 09 Aug 2026 09:00:42 +0000",
+      "time": "۱۲:۳۰ - ۱۸ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-09T09:17:42.585Z"
+    },
+    {
+      "id": "nytimes_bb8477d80a",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Inside the War on Hezbollah’s Finances",
+      "title_fa": "نگاهی به درون جنگ علیه منابع مالی حزب‌الله",
+      "lead": "اسرائیل و ایالات متحده آمریکا علاوه بر هدف قرار دادن تسلیحات این گروه شبه‌نظامی لبنان، به طور جدی به دنبال مسدودسازی و قطع شریان‌های مالی آن هستند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html",
+      "sentiment": {
+        "positive": 5,
+        "neutral": 40,
+        "negative": 55
+      },
+      "pubDate": "Sun, 09 Aug 2026 09:00:15 +0000",
+      "time": "۱۲:۳۰ - ۱۸ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-09T09:17:42.585Z"
     }
   ]
 }
