@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
   "agencyId": "rt",
-  "total": 5,
+  "total": 8,
   "articles": [
     {
       "id": "rt_aa808f6c85",
@@ -93,6 +93,63 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-09T02:01:18.736Z"
+    },
+    {
+      "id": "rt_2",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Ukrainian drone explodes near critical gas pipeline in Bulgaria – Sofia",
+      "title_fa": "انفجار پهپاد اوکراینی در نزدیکی خط لوله حیاتی گاز در بلغارستان",
+      "lead": "به گفته وزارت دفاع بلغارستان، یک پهپاد متعلق به اوکراین در نزدیکی یک خط لوله حیاتی گاز در این کشور منفجر شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/644021-ukrainian-drone-expires-in-bulgaria/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-09T02:16:04.531Z"
+    },
+    {
+      "id": "rt_9be08c1dc2",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US judge brands Meta ‘public nuisance’ akin to air pollution",
+      "title_fa": "قاضی آمریکایی شرکت متا را به دلیل آسیب به کودکان «مایه دردسر عمومی» نامید",
+      "lead": "یک قاضی در نیومکزیکو شرکت متا را به دلیل آسیب به کودکان به عنوان «مایه دردسر عمومی» مشابه آلودگی هوا اعلام کرد و این شرکت را به پرداخت ۵۶۷ میلیون دلار جریمه و ایجاد تغییرات گسترده در پلتفرم محکوم نمود.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/643989-us-meta-public-nuisance-fine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Sat, 08 Aug 2026 00:49:53 +0000",
+      "time": "۰۴:۱۹ - ۱۷ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-09T02:16:04.531Z"
+    },
+    {
+      "id": "rt_a7f46a5811",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Musk blocks Ukraine from using Starlink for deep strikes in Russia – Atlantic",
+      "title_fa": "مایکل ماسک استفاده اوکراین از استارلینک برای حملات عمقی در روسیه را مسدود کرد",
+      "lead": "بر اساس گزارش نشریه آتلانتیک، ایلان ماسک به اوکراین اجازه استفاده از اینترنت استارلینک برای انجام حملات عمقی در داخل خاک روسیه را نداده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/644006-musk-ukraine-starlink-drones/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sat, 08 Aug 2026 00:33:52 +0000",
+      "time": "۰۴:۰۳ - ۱۷ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-09T02:16:04.531Z"
     }
   ]
 }
