@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
   "agencyId": "rt",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "rt_aa808f6c85",
@@ -464,6 +464,40 @@
       "time": "۱۷:۴۹ - ۱۸ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-09T14:34:34.145Z"
+    },
+    {
+      "id": "rt_11",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Tucker for president? MAGA rebels declare independence from Israel",
+      "title_fa": "تاکر برای ریاست‌جمهوری؟ شورشیان مگا استقلال خود را از اسرائیل اعلام کردند",
+      "lead": "شکاف فزاینده در جناح راست آمریکا پایگاه قدیمی ترامپ را به سمت مخالفت آشکار سوق داده است، به طوری که مسئله اسرائیل در مرکز این انشعاب قرار دارد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/644017-maga-rebels-tucker-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-09T15:47:25.363Z"
+    },
+    {
+      "id": "rt_13",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US seeks next leader of Cuba – NYT",
+      "title_fa": "نیویورک تایمز: ایالات متحده به دنبال رهبر آینده کوبا است",
+      "lead": "به نوشته نیویورک تایمز به نقل از مقام‌های آمریکایی، ایالات متحده به دنبال تکرار سناریوی ونزوئلا در کوباست، اما با چالش سخت‌تری روبه‌روست.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/644011-us-hunts-cuba-leader-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-09T15:47:25.363Z"
     }
   ]
 }
