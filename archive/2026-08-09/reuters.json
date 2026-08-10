@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
   "agencyId": "reuters",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "reuters_5e2e46fe65",
@@ -122,6 +122,43 @@
       "time": "۱۴:۱۱ - ۱۷ مرداد",
       "iranScore": 2,
       "analyzed_at": "2026-08-09T12:05:20.660Z"
+    },
+    {
+      "id": "reuters_0",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Brent climbs $1 on uncertainty over end to Iran war - Reuters",
+      "title_fa": "افزایش ۱ دلاری قیمت نفت برنت به دلیل عدم قطعیت درباره پایان جنگ با ایران",
+      "lead": "به دنبال ابهامات موجود درباره پایان درگیری‌ها و جنگ مرتبط با ایران، قیمت نفت برنت حدود یک دلار افزایش یافت. این نوسان بازتابی از نگرانی بازارها درباره ثبات عرضه در منطقه است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzOXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-09T12:47:23.045Z"
+    },
+    {
+      "id": "reuters_d3c0cbdbb9",
+      "agencyId": "reuters",
+      "keep": true,
+      "title": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
+      "title_fa": "عربستان سعودی، ترکیه و پاکستان همزمان با افزایش تنش‌ها در خاورمیانه تعهد دفاع متقابل دادند",
+      "lead": "در پی تشدید ناآرامی‌ها و بحران در منطقه خاورمیانه، کشورهای عربستان سعودی، ترکیه و پاکستان توافق‌نامه‌ای برای همکاری و دفاع متقابل به امضا رساندند. این ائتلاف جدید با هدف تقویت امنیت منطقه‌ای شکل گرفته است.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "pubDate": "Fri, 07 Aug 2026 07:33:00 GMT",
+      "time": "۱۱:۰۳ - ۱۶ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-09T12:47:23.045Z"
     }
   ]
 }
