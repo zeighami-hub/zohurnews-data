@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_40d5f13e21",
@@ -317,6 +317,46 @@
       "time": "۱۵:۳۱ - ۱۸ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-09T12:17:52.021Z"
+    },
+    {
+      "id": "nytimes_e1ebd54d7c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
+      "title_fa": "ایران با حفظ مواضع خود در تنگه هرمز، بر بازگشت به تفاهم‌نامه ماه ژوئن تأکید می‌کند",
+      "lead": "تنگه هرمز به عنوان بهترین اهرم فشار ایران برای وادار کردن واشنگتن به آزادسازی دارایی‌های مسدودشده، لغو تحریم‌های اقتصادی و پایان دادن به محاصره دریایی مطرح است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "pubDate": "Sun, 09 Aug 2026 14:44:02 +0000",
+      "time": "۱۸:۱۴ - ۱۸ مرداد",
+      "iranScore": 3,
+      "analyzed_at": "2026-08-09T14:47:31.862Z"
+    },
+    {
+      "id": "nytimes_1f96ef7af7",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Syria Agrees to Reorganized Russian Military Presence",
+      "title_fa": "سوریه با سازماندهی مجدد حضور نظامی روسیه موافقت کرد",
+      "lead": "پس از بیش از یک سال و نیم مذاکره، سوریه و روسیه بر سر پارامترهای جدید حضور نظامی مسکو در سوریه به توافق رسیدند. دولت سوریه اعلام کرد که این توافق راه را برای فاز جدیدی در مناسبات دو کشور هموار می‌کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Sun, 09 Aug 2026 14:21:08 +0000",
+      "time": "۱۷:۵۱ - ۱۸ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-09T14:34:34.145Z"
     }
   ]
 }
