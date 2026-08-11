@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "aljazeera",
-  "total": 60,
+  "total": 62,
   "articles": [
     {
       "id": "aljazeera_dab4b1896d",
@@ -1199,6 +1199,46 @@
       "time": "۲۰:۱۸ - ۱۹ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-10T17:17:18.909Z"
+    },
+    {
+      "id": "aljazeera_05b911134a",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Iran’s president says Khamenei is in ‘perfect health’",
+      "title_fa": "رئیس‌جمهور ایران می‌گوید خامنه‌ای در «سلامت کامل» است",
+      "lead": "مسعود پزشکیان، رئیس‌جمهور ایران، اعلام کرد که آیت‌الله مجتبی خامنه‌ای پیام «وحشت و انسجام» داشته و در سلامت کامل به سر می‌برد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss",
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "pubDate": "Mon, 10 Aug 2026 17:05:01 +0000",
+      "time": "۲۰:۳۵ - ۱۹ مرداد",
+      "iranScore": 3,
+      "analyzed_at": "2026-08-10T17:32:19.038Z"
+    },
+    {
+      "id": "aljazeera_a57e0ce476",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 47 dead",
+      "title_fa": "پوشش زنده زمین‌لرزه کلمبیا: زلزله ۷.۴ ریشتری در نزدیکی بوگوتا؛ دست‌کم ۴۷ کشته",
+      "lead": "زمین‌لرزه‌ای به بزرگی ۷.۴ ریشتر در نزدیکی بوگوتا پایتخت کلمبیا رخ داد. مقام‌های رسمی اعلام کردند که دست‌کم ۴۷ نفر در این حادثه جان خود را از دست داده‌اند و برخی همچنان زیر آوار گرفتار هستند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/8/10/colombia-earthquake-live-magnitude-7-4-quake-strikes-near-bogota-47-dead?traffic_source=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 10 Aug 2026 17:00:41 +0000",
+      "time": "۲۰:۳۰ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-10T17:32:19.038Z"
     }
   ]
 }
