@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "irna",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "irna_25d0fff692",
@@ -164,6 +164,40 @@
       "time": "۰۵:۳۱ - ۱۹ مرداد",
       "iranScore": 3,
       "analyzed_at": "2026-08-10T03:01:35.662Z"
+    },
+    {
+      "id": "irna_1",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "حمله توپخانه‌ای اسرائیل به جنوب لبنان",
+      "title_fa": "حمله توپخانه‌ای اسرائیل به جنوب لبنان",
+      "lead": "رژیم صهیونیستی تپه علی الطاهر در شهرستان النبطیه واقع در جنوب لبنان را هدف حملات توپخانه‌ای خود قرار داد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.irna.ir/news/86231889/%D8%AD%D9%85%D9%84%D9%87-%D8%AA%D9%88%D9%BE%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D9%87-%D8%AC%D9%86%D9%88%D8%A8-%D9%84%D8%_v",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-10T03:16:15.869Z"
+    },
+    {
+      "id": "irna_3",
+      "agencyId": "irna",
+      "keep": true,
+      "title": "ارتش دولت مستعفی یمن: حمله حوثی‌ها به المخا ۷ کشته و ۳۰ زخمی برجا گذاشت",
+      "title_fa": "حمله به المخا ۷ کشته و ۳۰ زخمی برجا گذاشت",
+      "lead": "نیروهای مسلح وابسته به ارتش دولت مستعفی یمن اعلام کردند که شهر و بندر المخا هدف حمله موشکی و پهپادی نیروهای انصارالله قرار گرفته است که بر اثر آن ۷ تن کشته و ۳۰ نفر دیگر زخمی شدند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.irna.ir/news/86231887/%D8%A7%D8%B1%D8%AA%D8%B4-%D9%85%D8%B3%D8%AA%D8%B9%D9%81%DB%8C-%DB%8C%D9%85%D9%86-%D8%AD%D9%85%D9%84%D9%87-%D8%AD%D9%88%D8%AB%DB%8C-%D9%87%D8%A7-%D8%A8%D8%_v",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-10T03:16:15.869Z"
     }
   ]
 }
