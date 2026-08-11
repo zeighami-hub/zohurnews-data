@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "skynews_97a8f4a72a",
@@ -102,6 +102,26 @@
       "time": "۱۷:۰۰ - ۱۹ تیر",
       "iranScore": 0,
       "analyzed_at": "2026-08-10T11:17:37.504Z"
+    },
+    {
+      "id": "skynews_baa8bec5f5",
+      "agencyId": "skynews",
+      "keep": true,
+      "title": "Hundreds of flights cancelled as Typhoon Dolphin hits China",
+      "title_fa": "لغو صدها پرواز همزمان با ورود طوفان دلفین به چین",
+      "lead": "باران‌های سیل‌آسا و طوفان‌های ناشی از فعالیت طوفان دلفین، چندین استان در شرق چین را زیر آب برده است. این شرایط نامساعد جوی منجر به لغو صدها پرواز در منطقه شده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/hundreds-of-flights-cancelled-as-typhoon-dolphin-hits-china-13571598",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 10 Aug 2026 11:17:00 +0100",
+      "time": "۱۳:۴۷ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-10T11:47:40.017Z"
     }
   ]
 }
