@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "rt",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "rt_f4a235fb70",
@@ -159,6 +159,23 @@
       "time": "۰۹:۴۷ - ۱۸ مرداد",
       "iranScore": 1,
       "analyzed_at": "2026-08-10T07:02:44.689Z"
+    },
+    {
+      "id": "rt_4",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "France detains hundreds over suspected wildfire offenses",
+      "title_fa": "فرانسه صدها نفر را به اوا اتهام دست داشتن در آتش‌سوزی‌های جنگلی بازداشت کرد",
+      "lead": "مقام‌های فرانسوی ۴۲۰ نفر از جمله ۱۶۶ فرد زیر سن قانونی را به ظن ایجاد آتش‌سوزی‌های عمدی و بی‌احتیاطی جدی بازداشت کرده‌اند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/644049-420-arrested-devastating-fires-france/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-10T07:17:45.939Z"
     }
   ]
 }
