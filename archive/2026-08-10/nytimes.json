@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_5aee594084",
@@ -223,6 +223,26 @@
       "time": "۱۲:۳۰ - ۱۸ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-10T09:32:54.467Z"
+    },
+    {
+      "id": "nytimes_849e2bf268",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Ukrainian Drone Attack Kills 13 Deep Inside Russia",
+      "title_fa": "حمله پهپادی اوکراین به عمق خاک روسیه ۱۳ کشته برجای گذاشت",
+      "lead": "یک حمله به مرکز صنعتی در تاتارستان یکی از مرگبارترین حملات به خاک روسیه از زمان آغاز جنگ را رقم زد. این حمله پهپادی اوکراین ۱۳ کشته برجای گذاشت.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 10 Aug 2026 09:26:22 +0000",
+      "time": "۱۲:۵۶ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-10T10:17:31.871Z"
     }
   ]
 }
