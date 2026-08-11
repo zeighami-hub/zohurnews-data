@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_5aee594084",
@@ -443,6 +443,26 @@
       "time": "۱۹:۱۰ - ۱۹ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-10T15:49:58.208Z"
+    },
+    {
+      "id": "nytimes_ee2b2de709",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post",
+      "title_fa": "ایران محسن رضایی، فرمانده دیرینه سپاه پاسداران، را به سمت ارشد امنیتی منصوب کرد",
+      "lead": "انتصاب محسن رضایی، یک فرمانده نظامی قدیمی، به یک پست ارشد امنیتی نشان می‌دهد که ساختار قدرت در این کشور در حال تحکیم است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html",
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "pubDate": "Mon, 10 Aug 2026 11:37:22 +0000",
+      "time": "۱۵:۰۷ - ۱۹ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-10T18:46:58.213Z"
     }
   ]
 }
