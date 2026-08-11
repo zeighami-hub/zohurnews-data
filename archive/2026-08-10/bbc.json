@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_f1dc61f75b",
@@ -402,6 +402,26 @@
       "time": "۰۴:۴۰ - ۱۸ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-10T12:47:31.637Z"
+    },
+    {
+      "id": "bbc_0370e2b14b",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Strong earthquake causes significant damage and injuries in Colombia",
+      "title_fa": "زمین‌لرزه شدید در کلمبیا خسارات قابل توجهی و تلفاتی برجا گذاشت",
+      "lead": "این زمین‌لرزه با بزرگی ۷.۴ ریشتر مرکزی در نزدیکی ساحل اقیانوس آرام داشت، اما احساس شدن آن در شهرهای با فاصله صدها کیلومتر گزارش شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 10 Aug 2026 14:20:38 GMT",
+      "time": "۱۷:۵۰ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-10T14:32:50.731Z"
     }
   ]
 }
