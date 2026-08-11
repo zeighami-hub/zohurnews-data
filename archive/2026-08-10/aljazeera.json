@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "aljazeera",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "aljazeera_dab4b1896d",
@@ -339,6 +339,46 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-10T07:32:58.528Z"
+    },
+    {
+      "id": "aljazeera_eac9be68f1",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
+      "title_fa": "یک شرکت امنیت سایبری اعلام کرد هکرهای کره شمالی از هوش مصنوعی برای حملات استفاده می‌کنند",
+      "lead": "به گفته یک شرکت امنیت سایبری اهل کره جنوبی، گروه هکری کیمسوکی در حملات فیشینگ هدفمند خود از اسناد تولید شده با هوش مصنوعی بهره می‌برد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 10 Aug 2026 07:59:04 +0000",
+      "time": "۱۱:۲۹ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-10T08:17:49.327Z"
+    },
+    {
+      "id": "aljazeera_012dfd5a5e",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
+      "title_fa": "نیروهای اسرائیلی یک نفر را در غزه کشتند و یک جسد دیگر از زیر آوار بیرون کشیده شد",
+      "lead": "وزارت بهداشت غزه اعلام کرد بیمارستان‌ها اجساد دو فلسطینی را دریافت کرده‌اند، در حالی که نتانیاهو طرح ترامپ برای پایان دادن به جنگ را رد می‌کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 15,
+        "negative": 85
+      },
+      "pubDate": "Mon, 10 Aug 2026 07:43:01 +0000",
+      "time": "۱۱:۱۳ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-10T08:17:49.327Z"
     }
   ]
 }
