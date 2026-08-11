@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_5aee594084",
@@ -403,6 +403,46 @@
       "time": "۱۸:۵۵ - ۱۹ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-10T15:36:19.919Z"
+    },
+    {
+      "id": "nytimes_07e0ab936c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia",
+      "title_fa": "پوشش زنده: زمین‌لرزه قدرتمند ۷.۴ ریشتری کلمبیا را لرزاند",
+      "lead": "زمین‌لرزه قدرتمندی چندین شهر بزرگ از جمله بوگوتا، کالی و مدلین را لرزاند. دستکم ۲۰ نفر در شهر پریرا در فاصله حدود ۳۵ مایلی کانون زنده جان باخته‌اند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "pubDate": "Mon, 10 Aug 2026 15:44:24 +0000",
+      "time": "۱۹:۱۴ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-10T15:49:58.208Z"
+    },
+    {
+      "id": "nytimes_5800d3e059",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal",
+      "title_fa": "نتانیاهو روی طناب حوادث توافق خلع سلاح غزه ترامپ راه می‌رود",
+      "lead": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در ماه‌های منتهی به یک انتخابات دشوار، تلاش می‌کند خواسته‌های گاه متناقض پایگاه راست‌گرای خود و دونالد ترامپ را برآورده کند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "pubDate": "Mon, 10 Aug 2026 15:40:38 +0000",
+      "time": "۱۹:۱۰ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-10T15:49:58.208Z"
     }
   ]
 }
