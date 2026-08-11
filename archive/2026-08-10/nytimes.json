@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_5aee594084",
@@ -323,6 +323,66 @@
       "time": "۱۸:۰۱ - ۱۹ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-10T14:47:40.896Z"
+    },
+    {
+      "id": "nytimes_e1ebd54d7c",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
+      "title_fa": "ایران با پافشاری بر تنگه هرمز، بازگشت به تفاهم‌نامه ماه ژوئن را پیگیری می‌کند",
+      "lead": "تنگه هرمز به عنوان ابزار اهرم فشار ایران برای وادار کردن واشنگتن به آزادسازی دارایی‌های مسدودشده، لغو تحریم‌های اقتصادی و پایان دادن به محاصره دریایی مطرح است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "pubDate": "Sun, 09 Aug 2026 17:58:22 +0000",
+      "time": "۲۱:۲۸ - ۱۸ مرداد",
+      "iranScore": 3,
+      "analyzed_at": "2026-08-10T15:03:57.586Z"
+    },
+    {
+      "id": "nytimes_d041e03d31",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Here’s the latest.",
+      "title_fa": "آخرین اخبار و تحولات",
+      "lead": "یک زمین‌لرزه با بزرگی ۷.۴ بخش غربی کشور را لرزاند و شهرهایی مانند بوگوتا، کالی و مدلین را تحت تاثیر قرار داد. این زمین‌لرزه چند هفته پس از زلزله‌های مشابه در بخش‌هایی از ونزوئلای همسایه رخ داد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali/colombia-earthquake",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 10 Aug 2026 14:57:04 +0000",
+      "time": "۱۸:۲۷ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-10T15:03:57.586Z"
+    },
+    {
+      "id": "nytimes_1f96ef7af7",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Syria Agrees to Reorganized Russian Military Presence",
+      "title_fa": "سوریه با سازماندهی مجدد حضور نظامی روسیه موافقت کرد",
+      "lead": "پس از بیش از یک سال و نیم مذاکره، سوریه و روسیه بر سر پارامترهای جدید حضور نظامی روسیه در سوریه به توافق رسیدند. سوریه اعلام کرد که این توافق راه را برای فاز جدیدی در روابط دوجانبه هموار می‌کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/09/world/middleeast/syria-reorganized-russian-military-presence.html",
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "pubDate": "Sun, 09 Aug 2026 15:57:54 +0000",
+      "time": "۱۹:۲۷ - ۱۸ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-10T15:03:57.586Z"
     }
   ]
 }
