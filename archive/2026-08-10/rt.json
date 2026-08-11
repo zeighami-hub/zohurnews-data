@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "rt",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "rt_f4a235fb70",
@@ -539,6 +539,40 @@
       "time": "۱۹:۳۷ - ۱۸ مرداد",
       "iranScore": 1,
       "analyzed_at": "2026-08-10T17:17:18.909Z"
+    },
+    {
+      "id": "rt_7",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US military pressure forcing Hormuz closure – Iran",
+      "title_fa": "فشار نظامی ایالات متحده عامل بسته شدن تنگه هرمز است - ایران",
+      "lead": "تهران اعلام کرده است که دیپلماسی به تنهایی نمی‌تواند تنگه هرمز را بازگشایی کند و پافشاری می‌کند که واشنگتن باید ابتدا محاصره بنادر ایران را پایان دهد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/644068-iran-us-hormuz-diplomacy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-10T17:32:19.038Z"
+    },
+    {
+      "id": "rt_7",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "German reporter’s ‘kill more Russians’ question is ‘glorification of war’ – ex-lawmaker (VIDEO)",
+      "title_fa": "نماینده پیشین پارلمان آلمان: پرسش خبرنگار آلمانی درباره «کشتن روس‌های بیشتر» تجلیل از جنگ است",
+      "lead": "مارتین دولسر، نماینده پیشین پارلمان هامبورگ، در مصاحبه با آرتی اعلام کرد از این که یک خبرنگار آلمانی پرسیده چگونه اروپا می‌تواند به کی‌یف کمک کند تا «روس‌های بیشتری بکشد»، احساس شرمندگی می‌کند و این اقدام را ستایش جنگ خواند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/644074-german-reporter-kill-more-russians-glorification-war-ex-mp/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-10T17:32:19.038Z"
     }
   ]
 }
