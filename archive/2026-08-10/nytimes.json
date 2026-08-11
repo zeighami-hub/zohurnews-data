@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "nytimes_5aee594084",
@@ -143,6 +143,26 @@
       "time": "۱۰:۱۶ - ۱۹ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-10T07:02:44.689Z"
+    },
+    {
+      "id": "nytimes_71fdcdaad6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Southern Iran Bears Brunt of U.S. Bombing",
+      "title_fa": "بخش‌های جنوبی ایران هدف اصلی بمباران‌های ایالات متحده قرار گرفتند",
+      "lead": "در حالی که درگیری‌ها در بخش‌های زیادی از ایران کاهش یافته، حملات هوایی تقریباً مداوم ایالات متحده در جزیره قشم و دیگر نقاط جنوبی زندگی و معیشت مردم را دگرگون کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 10 Aug 2026 09:02:27 +0000",
+      "time": "۱۲:۳۲ - ۱۹ مرداد",
+      "iranScore": 1,
+      "analyzed_at": "2026-08-10T09:17:53.001Z"
     }
   ]
 }
