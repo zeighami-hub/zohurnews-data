@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "rt",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "rt_f4a235fb70",
@@ -465,6 +465,40 @@
       "time": "۱۹:۳۷ - ۱۸ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-10T16:47:19.901Z"
+    },
+    {
+      "id": "rt_8",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Trump ‘flailing around’ over unwinnable Iran war – John Mearsheimer (VIDEO)",
+      "title_fa": "جان مرشایمر: دونالد ترامپ درگیر یک جنگ غیرقابل پیروزی با ایران است و سرگردان عمل می‌کند",
+      "lead": "پروفسور جان مرشایمر می‌گوید دونالد ترامپ می‌داند که ایالات متحده نمی‌تواند در یک جنگ طولانی‌مدت با ایران پیروز شود، چرا که این درگیری به‌سرعت ذخایر تسلیحاتی را کاهش می‌دهد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/644069-trump-unwinnable-war-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-10T17:03:46.831Z"
+    },
+    {
+      "id": "rt_9",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Pentagon pushes arms makers to boost output as Iran war drains stocks – WaPo",
+      "title_fa": "پنتاگون سازندگان تسلیحات را برای افزایش تولید تحت فشار قرار داد",
+      "lead": "به گزارش واشنگتن‌پست، پنتاگون از سازندگان تسلیحات آمریکایی می‌خواهد تولید جنگ‌افزار را سرعت ببخشند، زیرا جنگ با ایران ذخایر روبه‌کاهش مهمات این کشور را خالی کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/644036-pentagon-arms-makers-boost-output/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-10T17:03:46.831Z"
     }
   ]
 }
