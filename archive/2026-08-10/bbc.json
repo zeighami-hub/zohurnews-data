@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "agencyId": "bbc",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "bbc_f1dc61f75b",
@@ -222,6 +222,26 @@
       "time": "۱۳:۰۳ - ۱۹ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-10T10:33:02.721Z"
+    },
+    {
+      "id": "bbc_d89f1e56f3",
+      "agencyId": "bbc",
+      "keep": true,
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "title_fa": "نتانیاهو: اسرائیل طرح ۱۵ ماده‌ای ترامپ برای غزه را رد کرد",
+      "lead": "نخست‌وزیر اسرائیل اعلام کرد که ارتش این کشور تا زمان خلع سلاح «واقعی» حماس، از غزه عقب‌نشینی نخواهد کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sun, 09 Aug 2026 21:25:04 GMT",
+      "time": "۰۰:۵۵ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-10T12:32:42.219Z"
     }
   ]
 }
