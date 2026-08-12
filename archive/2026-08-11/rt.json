@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
   "agencyId": "rt",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "rt_10",
@@ -19,6 +19,46 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-11T00:16:20.049Z"
+    },
+    {
+      "id": "rt_7973aa05ae",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "US and Israel agree to remove nuclear material from secret Syrian site – Axios",
+      "title_fa": "توافق آمریکا و اسرائیل برای خارج کردن مواد هسته‌ای از یک سایت مخفی در سوریه",
+      "lead": "گزارش‌ها حاکی از آن است که ایالات متحده و اسرائیل با دمشق برای خارج کردن مواد هسته‌ای از یک سایت مخفی در سوریه به توافق رسیده‌اند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/644090-us-israel-syria-nuclear-site/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "pubDate": "Tue, 11 Aug 2026 00:09:24 +0000",
+      "time": "۰۳:۳۹ - ۲۰ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-11T00:31:21.697Z"
+    },
+    {
+      "id": "rt_f4a235fb70",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Houthis unleash missile barrage on Saudi-backed troops (VIDEOS)",
+      "title_fa": "حملات موشکی و پهپادی حوثی‌ها به نیروهای تحت حمایت عربستان",
+      "lead": "شورشیان حوثی موشک‌های بالستیک و پهپادهایی را به سمت نیروهای تحت حمایت عربستان در شهر بندری المخا در یمن شلیک کردند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/644046-yemen-strikes-saudi-mokha/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "pubDate": "Sun, 09 Aug 2026 23:52:15 +0000",
+      "time": "۰۳:۲۲ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-11T00:31:21.697Z"
     }
   ]
 }
