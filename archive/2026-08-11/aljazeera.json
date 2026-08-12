@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
   "agencyId": "aljazeera",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "aljazeera_53c1a63480",
@@ -222,6 +222,23 @@
       "time": "۰۸:۰۴ - ۲۰ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-11T05:02:32.957Z"
+    },
+    {
+      "id": "aljazeera_6",
+      "agencyId": "aljazeera",
+      "keep": true,
+      "title": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
+      "title_fa": "وقوع آتش‌سوزی مهیب در پالایشگاه الزویه لیبی پس از حمله پهپادی",
+      "lead": "بهبالا گرفتن تنش‌ها، آتش‌سوزی بزرگی در پالایشگاه الزویه لیبی رخ داده است. شرکت ملی نفت لیبی هشدار داد که در صورت تداوم حملات پهپادی، ممکن است فعالیت بزرگ‌ترین پالایشگاه در حال فعالیت کشور متوقف شود.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/11/huge-fire-break-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-11T05:17:45.433Z"
     }
   ]
 }
