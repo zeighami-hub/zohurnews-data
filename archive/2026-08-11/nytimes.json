@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_7f8221122d",
@@ -62,6 +62,26 @@
       "time": "۰۷:۳۱ - ۱۹ مرداد",
       "iranScore": 0,
       "analyzed_at": "2026-08-11T04:47:02.371Z"
+    },
+    {
+      "id": "nytimes_0c8a8cdac6",
+      "agencyId": "nytimes",
+      "keep": true,
+      "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
+      "title_fa": "توفان دلفین با ورود به چین موجی از تخلیه گسترده مناطق را رقم زد",
+      "lead": "این توفان که شامگاه یکشنبه به خشکی رسید، قوی‌ترین توفانی است که امسال چین را درنوردیده و همچنین موجب سیل‌گرفتگی در بخش‌هایی از فیلیپین شده است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "pubDate": "Mon, 10 Aug 2026 15:59:01 +0000",
+      "time": "۱۹:۲۹ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-11T07:17:35.994Z"
     }
   ]
 }
