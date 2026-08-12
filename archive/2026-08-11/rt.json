@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
   "agencyId": "rt",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "rt_10",
@@ -116,6 +116,46 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-11T05:17:45.433Z"
+    },
+    {
+      "id": "rt_568226944e",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "New Khamenei footage will debunk health rumors – Iranian commander",
+      "title_fa": "انتشار تصاویر جدید از رهبر ایران برای رد شایعات سلامتی توسط یک فرمانده ایرانی",
+      "lead": "یک فرمانده شبه‌نظامی ایران در میان شایعات پیرامون سلامتی و محل حضور مجتبی خامنه‌ای، وعده انتشار تصاویر جدیدی از او را داده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/644050-iran-vows-new-khamenei-video/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "pubDate": "Mon, 10 Aug 2026 04:49:54 +0000",
+      "time": "۰۸:۱۹ - ۱۹ مرداد",
+      "iranScore": 2,
+      "analyzed_at": "2026-08-11T05:32:57.105Z"
+    },
+    {
+      "id": "rt_81225ec8d4",
+      "agencyId": "rt",
+      "keep": true,
+      "title": "Joe Biden’s ‘very debilitating’ cancer has spread – Hunter",
+      "title_fa": "هانتر بایدن: سرطان «بسیار ناتوان‌کننده» جو بایدن گسترش یافته است",
+      "lead": "هانتر بایدن، پسر رئیس‌جمهور سابق ایالات متحده، اعلام کرد که سرطان جو بایدن به استخوان‌هایش سرایت کرده است. به گفته او، وضعیت بیماری پدرش بسیار ناتوان‌کننده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/644048-biden-cancer-update-condition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "pubDate": "Mon, 10 Aug 2026 04:03:10 +0000",
+      "time": "۰۷:۳۳ - ۱۹ مرداد",
+      "iranScore": 0,
+      "analyzed_at": "2026-08-11T05:32:57.105Z"
     }
   ]
 }
