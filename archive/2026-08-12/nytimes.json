@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "agencyId": "nytimes",
-  "total": 38,
+  "total": 40,
   "articles": [
     {
       "id": "nytimes_aa28f983fc",
@@ -724,6 +724,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-12T18:31:24.590Z"
+    },
+    {
+      "id": "nytimes_578f4a8539",
+      "agencyId": "nytimes",
+      "title": "A Special U.S. Navy Squadron Photographed the Last Total Solar Eclipse in Spain in 1905",
+      "title_fa": "عکاسی یک اسکادران ویژه نیروی دریایی آمریکا از آخرین خورشیدگرفتگی کامل در اسپانیا در سال ۱۹۰۵",
+      "lead": "سه ناو جنگی آمریکایی برای ثبت تصاویر تاج خورشید با یک دوربین با کیفیت بالا به والنسیا اعزام شدند. هزینه این تجهیزات در ارزش امروز معادل بیش از ۳۴ هزار دلار است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/total-solar-eclipse-spain-1905-us-navy",
+      "pubDate": "Wed, 12 Aug 2026 19:08:08 +0000",
+      "time": "۲۲:۳۸ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-12T19:16:11.412Z"
+    },
+    {
+      "id": "nytimes_a4c68ca7ea",
+      "agencyId": "nytimes",
+      "title": "As Europe Faces Heat Waves and Wildfires, Travelers Are Forced to Adapt",
+      "title_fa": "مواجهه اروپا با موج گرما و آتش‌سوزی جنگل‌ها؛ گردشگران ناچار به سازگاری هستند",
+      "lead": "افزایش شدید دمای هوا، آتش‌سوزی‌های گسترده در جنگل‌ها و خشک شدن رودخانه‌ها صنعت گردشگری در سراسر قاره اروپا را دگرگون کرده است. این گزارش به نحوه واکنش و سازگاری مسافران با این شرایط می‌پردازد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html",
+      "pubDate": "Wed, 12 Aug 2026 18:46:04 +0000",
+      "time": "۲۲:۱۶ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-12T19:01:46.773Z"
     }
   ]
 }
