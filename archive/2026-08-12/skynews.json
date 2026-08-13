@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "agencyId": "skynews",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "skynews_bc17e36731",
@@ -173,6 +173,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-12T08:01:45.358Z"
+    },
+    {
+      "id": "skynews_ad123db307",
+      "agencyId": "skynews",
+      "title": "At least 37 dead after ferry capsizes in Zimbabwean lake",
+      "title_fa": "بر اثر واژگونی یک فرابر در دریاچه‌ای در زیمبابوه، دستکم ۳۷ نفر جان خود را از دست دادند",
+      "lead": "مقامات اعلام کردند که شمار جان‌باختگان حادثه واژگونی یک فرابر روی دریاچه‌ای بزرگ در زیمبابوه به ۳۷ نفر افزایش یافته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/at-least-37-dead-after-ferry-capsizes-in-zimbabwes-lake-kariba-13572036",
+      "pubDate": "Tue, 11 Aug 2026 17:58:00 +0100",
+      "time": "۲۰:۲۸ - ۲۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-08-12T11:31:25.697Z"
+    },
+    {
+      "id": "skynews_90f6c9738a",
+      "agencyId": "skynews",
+      "title": "North Korea launches missile amid declaration it must possess capability to counter strikes that would make enemy 'survival impossible'",
+      "title_fa": "آزمایش موشکی کره شمالی همزمان با اعلام ضرورت داشتن توانایی مقابله با حملات برای از بین بردن «امکان بقای دشمن»",
+      "lead": "به گزارش رسانه‌ها، کره شمالی اعلام کرده است که باید توانایی مقابله با هرگونه اقدام احتمالی دشمن را از طریق حملات متقابل داشته باشد؛ به گونه‌ای که «بقا و بازیابی» دشمن غیرممکن شود. این اظهارات همزمان با پرتاب موشکی جدید این کشور مطرح شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/north-korea-launches-missile-amid-declaration-it-must-possess-capability-to-counter-strikes-that-would-make-enemy-survival-impossible-13572179",
+      "pubDate": "Wed, 12 Aug 2026 09:42:00 +0100",
+      "time": "۱۲:۱۲ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-12T11:16:27.811Z"
     }
   ]
 }
