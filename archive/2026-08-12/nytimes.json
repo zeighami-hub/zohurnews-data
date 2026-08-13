@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 28,
   "articles": [
     {
       "id": "nytimes_aa28f983fc",
@@ -496,6 +496,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-12T11:46:26.318Z"
+    },
+    {
+      "id": "nytimes_94a2046257",
+      "agencyId": "nytimes",
+      "title": "Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough",
+      "title_fa": "اروپایی‌ها در آستانه پنجمین موج گرمای ۲۰۲۶، دیگر تاب‌آوری ندارند",
+      "lead": "با پیش‌بینی افزایش دما تا ۴۳ درجه سانتی‌گراد (۱۰۹ فارنهایت) در هفته جاری، شهروندان و گردشگران در اروپا می‌گویند که تابستان در این قاره جذابیت خود را از دست داده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html",
+      "pubDate": "Wed, 12 Aug 2026 11:55:38 +0000",
+      "time": "۱۵:۲۵ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-12T12:01:39.860Z"
+    },
+    {
+      "id": "nytimes_c253ae78ec",
+      "agencyId": "nytimes",
+      "title": "Live Updates: In Europe, the Total Solar Eclipse Is Only Hours Away",
+      "title_fa": "پوشش زنده: کسوف کامل در اروپا تنها چند ساعت فاصله دارد",
+      "lead": "از ایسلند تا اسپانیا، مردم به مناطق مختلفی سفر کرده‌اند تا شاهد لحظه‌ای باشند که ماه به‌طور کامل خورشید را مسدود می‌کند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
+      "pubDate": "Wed, 12 Aug 2026 11:52:58 +0000",
+      "time": "۱۵:۲۲ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-12T12:01:39.860Z"
     }
   ]
 }
