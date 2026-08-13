@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "agencyId": "aljazeera",
-  "total": 47,
+  "total": 52,
   "articles": [
     {
       "id": "aljazeera_dfaacdb7b6",
@@ -896,6 +896,101 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-12T15:31:17.617Z"
+    },
+    {
+      "id": "aljazeera_6ac74f38aa",
+      "agencyId": "aljazeera",
+      "title": "Iran remains defiant as it vows to fight US until demands met",
+      "title_fa": "ایران بر موضع خود پافشاری کرده و متعهد به مبارزه با آمریکا تا زمان تحقق خواسته‌ها است",
+      "lead": "مشاوران سپاه پاسداران اعلام کردند ایران موشک‌ها و پهپادهای بیشتری نسبت به آنچه استفاده کرده جایگزین نموده و به کاهش ذخایر تسلیحاتی آمریکا اشاره کردند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss",
+      "pubDate": "Wed, 12 Aug 2026 15:29:20 +0000",
+      "time": "۱۸:۵۹ - ۲۱ مرداد",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-12T16:01:38.676Z"
+    },
+    {
+      "id": "aljazeera_f8fbce51fc",
+      "agencyId": "aljazeera",
+      "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+      "title_fa": "آیا اقتصاد روسیه با وجود درآمد بادآورده جنگ ایران در حال فروپاشی است؟",
+      "lead": "افزایش کسری بودجه و حملات اوکراین اقتصاد روسیه را به چالش کشیده است، حتی در شرایطی که جنگ در خاورمیانه درآمدهای نفتی این کشور را افزایش داده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+      "pubDate": "Wed, 12 Aug 2026 15:36:33 +0000",
+      "time": "۱۹:۰۶ - ۲۱ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-12T16:01:38.676Z"
+    },
+    {
+      "id": "aljazeera_9e4d694b93",
+      "agencyId": "aljazeera",
+      "title": "Europe prepares for first total solar eclipse in 27 years",
+      "title_fa": "اروپا برای نخستین خورشیدگرفتگی کامل در ۲۷ سال گذشته آماده می‌شود",
+      "lead": "قاره اروپا خود را برای رویداد نادر نخستین خورشیدگرفتگی کامل طی ۲۷ سال اخیر آماده می‌کند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss",
+      "pubDate": "Wed, 12 Aug 2026 15:40:24 +0000",
+      "time": "۱۹:۱۰ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-12T16:01:38.676Z"
+    },
+    {
+      "id": "aljazeera_8e7850d89e",
+      "agencyId": "aljazeera",
+      "title": "Colombia declares three days of mourning after deadly earthquake",
+      "title_fa": "کلمبیا پس از زمین‌لرزه مرگبار سه روز عزای عمومی اعلام کرد",
+      "lead": "در پی وقوع زمین‌لرزه ۷.۴ ریشتری و جان باختن صدها نفر، نیروهای امدادی به تلاش برای یافتن بازماندگان ادامه می‌دهند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss",
+      "pubDate": "Wed, 12 Aug 2026 15:39:37 +0000",
+      "time": "۱۹:۰۹ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-12T16:01:38.676Z"
+    },
+    {
+      "id": "aljazeera_874a52a6d8",
+      "agencyId": "aljazeera",
+      "title": "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
+      "title_fa": "مدیرکل سازمان جهانی بهداشت: تلاش‌های ترامپ برای واکسن برخلاف «دهه‌ها شواهد» است",
+      "lead": "رئیس سازمان جهانی بهداشت اظهار داشت که تلاش‌های دولت ترامپ در زمینه واکسن با دهه‌ها شواهد علمی در تضاد است. وزیر بهداشت ایالات متحده نیز سال‌هاست با وجود عدم وجود شواهد پزشکی، ادعا می‌کند که واکسن MMR باعث اوتیسم می‌شود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss",
+      "pubDate": "Wed, 12 Aug 2026 15:30:18 +0000",
+      "time": "۱۹:۰۰ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 50,
+        "negative": 45
+      },
+      "analyzed_at": "2026-08-12T16:01:38.676Z"
     }
   ]
 }
