@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_ca1fe670c0",
@@ -211,6 +211,63 @@
         "negative": 90
       },
       "analyzed_at": "2026-08-13T09:16:18.315Z"
+    },
+    {
+      "id": "nytimes_75f2ee417f",
+      "agencyId": "nytimes",
+      "title": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
+      "title_fa": "یادآوری ژو رونگجی، نخست‌وزیری که صریح صحبت می‌کرد، در چین",
+      "lead": "آیین‌های بزرگداشت نخست‌وزیر پیشین چین، سبک پرانرژی و تلاش‌های او برای ادغام چین در تجارت جهانی را در تضاد با فضای بسته دوران شی جین‌پینگ یادآوری کردند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
+      "pubDate": "Thu, 13 Aug 2026 09:40:32 +0000",
+      "time": "۱۳:۱۰ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-13T09:46:22.664Z"
+    },
+    {
+      "id": "nytimes_dd6731f168",
+      "agencyId": "nytimes",
+      "title": "Trump Tariffs Force Some Canadian Companies to Move South of the Border",
+      "title_fa": "تعرفه‌های ترامپ برخی شرکت‌های کانادایی را مجبور به نقل مکان به جنوب مرز کرد",
+      "lead": "اگر دونالد ترامپ، رئیس‌جمهور آمریکا، اواخر همین ماه تعرفه‌های ۵۰ درصدی را بر طیف وسیعی از محصولات کانادایی اعمال کند، برخی شرکت‌ها ممکن است تنها با انتقال فعالیت‌های خود به ایالات متحده نجات پیدا کنند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html",
+      "pubDate": "Wed, 12 Aug 2026 12:43:24 +0000",
+      "time": "۱۶:۱۳ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-13T09:46:22.664Z"
+    },
+    {
+      "id": "nytimes_ad980b11ae",
+      "agencyId": "nytimes",
+      "title": "Ecuadorean Fishing Boats Hit by Mystery Attackers",
+      "title_fa": "قایق‌های ماهیگیری اکوادوری هدف حمله مهاجمان ناشناس قرار گرفتند",
+      "lead": "خدمه قایق‌های ماهیگیری اکوادوری در آب‌های اقیانوس آرام توسط یک گروه مرموز مجهز به پهپادها هدف قرار گرفته‌اند. به نظر می‌رسد برخی از ملوانان جان خود را از دست داده‌اند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html",
+      "pubDate": "Wed, 12 Aug 2026 09:02:30 +0000",
+      "time": "۱۲:۳۲ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-13T09:46:22.664Z"
     }
   ]
 }
