@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_a180881fc7",
@@ -59,6 +59,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-13T02:46:12.071Z"
+    },
+    {
+      "id": "bbc_35d4af9572",
+      "agencyId": "bbc",
+      "title": "Twitch users can now block Amazon from using their content to train AI",
+      "title_fa": "کاربران توییچ اکنون می‌توانند مانع استفاده آمازون از محتوای آن‌ها برای آموزش هوش مصنوعی شوند",
+      "lead": "پلتفرم استریم توییچ به کاربران خود اجازه داد تا مانع استفاده از محتوای کانال‌هایشان برای آموزش هوش مصنوعی شوند. این تصمیم پس از انتقادات گسترده کاربران اتخاذ شده است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 02:46:04 GMT",
+      "time": "۰۶:۱۶ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-13T03:46:09.105Z"
+    },
+    {
+      "id": "bbc_e9648b1c6e",
+      "agencyId": "bbc",
+      "title": "Australian army whistleblower released on parole after more than two years in jail",
+      "title_fa": "افشاگر ارتش استرالیا پس از بیش از دو سال زندان به صورت مشروط آزاد شد",
+      "lead": "دیوید مک‌براید پس از اعتراف به گناه خود در زمینه افشای اسرار نظامی مربوط به افغانستان زندانی شده بود. او اکنون پس از گذشت بیش از دو سال حبس، به صورت آزادی مشروط آزاد شد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 02:23:39 GMT",
+      "time": "۰۵:۵۳ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-13T03:46:09.105Z"
     }
   ]
 }
