@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 28,
   "articles": [
     {
       "id": "nytimes_ca1fe670c0",
@@ -496,6 +496,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-13T16:46:16.662Z"
+    },
+    {
+      "id": "nytimes_c79486a8e1",
+      "agencyId": "nytimes",
+      "title": "Israeli Settlers Resume West Bank Siege After Eviction",
+      "title_fa": "شهرک‌نشینان اسرائیلی پس از تخلیه، محاصره کرانه باختری را از سر گرفتند",
+      "lead": "ناتوانی ارتش در دور نگه داشتن افراط‌گرایان از دو خانواده فلسطینی گرفتار در خانه‌هایشان در کرانه باختری، هرج‌ومرج حاکم بر این سرزمین اشغالی را آشکار کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
+      "pubDate": "Thu, 13 Aug 2026 19:38:40 +0000",
+      "time": "۲۳:۰۸ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-13T19:46:25.118Z"
+    },
+    {
+      "id": "nytimes_6f89e81d9c",
+      "agencyId": "nytimes",
+      "title": "Early-Onset El Niño",
+      "title_fa": "پدیدار شدن زودهنگام ال نینو",
+      "lead": "این عامل اختلال در آب و هوای جهانی به نظر می‌رسد خسارت‌هایی به بار می‌آورد و اوج آن ممکن است ماه‌ها فاصله داشته باشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html",
+      "pubDate": "Thu, 13 Aug 2026 19:28:24 +0000",
+      "time": "۲۲:۵۸ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-13T19:46:25.118Z"
     }
   ]
 }
