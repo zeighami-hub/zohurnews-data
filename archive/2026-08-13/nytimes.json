@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_ca1fe670c0",
@@ -363,6 +363,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-13T12:46:23.145Z"
+    },
+    {
+      "id": "nytimes_704a721c5e",
+      "agencyId": "nytimes",
+      "title": "Who Are the Houthis, Iran-Backed Militia Entering Mideast War?",
+      "title_fa": "حوثی‌های حامی ایران چه کسانی هستند که وارد جنگ خاورمیانه می‌شوند؟",
+      "lead": "در میان جنگ مداوم در خاورمیانه، شبه‌نظامیان حوثی تحت حمایت ایران به نظر می‌رسد آماده از سرگیری درگیری خود با دولت یمنِ تحت حمایت عربستان هستند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/article/houthi-yemen-militia-iran.html",
+      "pubDate": "Thu, 13 Aug 2026 09:19:44 +0000",
+      "time": "۱۲:۴۹ - ۲۲ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-13T14:01:31.829Z"
+    },
+    {
+      "id": "nytimes_f6071ef8b7",
+      "agencyId": "nytimes",
+      "title": "Former Catholic Bishop Is Convicted of Sexual Abuse, Australian News Outlets Say",
+      "title_fa": "اسقف سابق کاتولیک به اتهام آزار جنسی محکوم شد",
+      "lead": "رسانه‌های استرالیایی گزارش دادند که دادگاهی کریستوفر آلن سوندرز، اسقف سابق بروم را به جرم آزار جنسی دو مرد گناهکار شناخته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/13/world/australia/bishop-christopher-saunders-abuse.html",
+      "pubDate": "Thu, 13 Aug 2026 13:57:10 +0000",
+      "time": "۱۷:۲۷ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-13T14:01:31.829Z"
     }
   ]
 }
