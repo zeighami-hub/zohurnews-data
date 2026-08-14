@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "skynews_cbbe293c19",
@@ -21,6 +21,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-13T02:16:11.400Z"
+    },
+    {
+      "id": "skynews_5a17801db5",
+      "agencyId": "skynews",
+      "title": "Trump explains secret plane switch over possible threat",
+      "title_fa": "ترامپ توضیحاتی درباره تغییر مخفیانه هواپیما به دلیل تهدید احتمالی ارائه داد",
+      "lead": "دونالد ترامپ گزارش‌های رسانه‌های آمریکایی را تایید کرد که بر اساس آن، به دلیل تهدیدی از سوی ایران، با استفاده از یک کانتینر پذیرایی به طور مخفیانه از ترکیه خارج شده و هواپیمای خود را تغییر داده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/donald-trump-secretly-left-nato-summit-on-military-plane-over-iran-threat-13571831",
+      "pubDate": "Tue, 11 Aug 2026 07:04:00 +0100",
+      "time": "۰۹:۳۴ - ۲۰ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-13T08:02:14.363Z"
+    },
+    {
+      "id": "skynews_bc17e36731",
+      "agencyId": "skynews",
+      "title": "Putin sends Trump a gift - and will hope for something in return",
+      "title_fa": "پوتین هدیه‌ای برای ترامپ می‌فرستد و امیدوار است چیزی در ازای آن دریافت کند",
+      "lead": "هنگامی که روسیه یک شهروند آمریکایی را از زندان آزاد می‌کند، ایالات متحده معمولاً در ازای آن فردی را تحویل می‌دهد و این بار نیز انتظارات مشابهی وجود دارد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/putin-sends-trump-a-gift-and-will-hope-for-something-in-return-13572093",
+      "pubDate": "Tue, 11 Aug 2026 22:42:00 +0100",
+      "time": "۰۱:۱۲ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-13T08:02:14.363Z"
     }
   ]
 }
