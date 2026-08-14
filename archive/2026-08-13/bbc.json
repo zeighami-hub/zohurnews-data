@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "agencyId": "bbc",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "bbc_a180881fc7",
@@ -116,6 +116,24 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-13T04:16:20.451Z"
+    },
+    {
+      "id": "bbc_fb5e0e6b16",
+      "agencyId": "bbc",
+      "title": "Japan protests Putin visit to disputed islands",
+      "title_fa": "اعتراض ژاپن به سفر پوتین به جزایر مورد مناقشه",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 04:50:16 GMT",
+      "time": "۰۸:۲۰ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-13T05:01:41.515Z"
     }
   ]
 }
