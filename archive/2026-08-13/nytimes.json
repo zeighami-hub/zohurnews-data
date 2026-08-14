@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_ca1fe670c0",
@@ -192,6 +192,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-13T07:47:04.778Z"
+    },
+    {
+      "id": "nytimes_8105a4c1a6",
+      "agencyId": "nytimes",
+      "title": "A Patient’s Final Breath in a Congolese Ebola Ward",
+      "title_fa": "آخرین نفس یک بیمار در بخش ابولای کنگو",
+      "lead": "فاصله بین زندگی و مرگ در یک کلینیک پزشکی در رومپارا، مرکز اپیدمی ویروس ابولا در جمهوری دموکراتیک کنگو، بسیار ناچیز است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html",
+      "pubDate": "Thu, 13 Aug 2026 09:02:03 +0000",
+      "time": "۱۲:۳۲ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-08-13T09:16:18.315Z"
     }
   ]
 }
