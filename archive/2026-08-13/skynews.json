@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_cbbe293c19",
@@ -59,6 +59,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-13T08:02:14.363Z"
+    },
+    {
+      "id": "skynews_90f6c9738a",
+      "agencyId": "skynews",
+      "title": "North Korea launches missile amid declaration it must possess capability to counter strikes that would make enemy 'survival impossible'",
+      "title_fa": "آزمایش موشکی کره شمالی همزمان با تأکید بر لزوم برخورداری از توانایی مقابله با حملات برای از بین بردن امکان بقای دشمن",
+      "lead": "بر اساس گزارش‌ها، کره شمالی اعلام کرده است که باید توانایی پاسخگویی به هرگونه اقدام احتمالی دشمن را با حملات متقابل داشته باشد، به گونه‌ای که «بقا و بازیافت آن‌ها غیرممکن شود».",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/north-korea-launches-missile-amid-declaration-it-must-possess-capability-to-counter-strikes-that-would-make-enemy-survival-impossible-13572179",
+      "pubDate": "Wed, 12 Aug 2026 09:42:00 +0100",
+      "time": "۱۲:۱۲ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-13T11:46:16.161Z"
+    },
+    {
+      "id": "skynews_ad123db307",
+      "agencyId": "skynews",
+      "title": "At least 44 dead after ferry capsizes in Zimbabwean lake",
+      "title_fa": "افزایش شمار جان‌باختگان واژگونی قایق در دریاچه‌ای در زیمبابوه به دست کم ۴۴ نفر",
+      "lead": "مقامات اعلام کردند که تعداد جان‌باختگان حادثه واژگونی یک کشتی در دریاچه‌ای در زیمبابوه بار دیگر افزایش یافته و به ۴۴ نفر رسیده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/at-least-37-dead-after-ferry-capsizes-in-zimbabwes-lake-kariba-13572036",
+      "pubDate": "Tue, 11 Aug 2026 17:58:00 +0100",
+      "time": "۲۰:۲۸ - ۲۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-13T11:46:16.161Z"
     }
   ]
 }
