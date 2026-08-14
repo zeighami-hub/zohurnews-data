@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "agencyId": "independent",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "independent_39e9d173c6",
@@ -532,6 +532,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-13T06:01:34.248Z"
+    },
+    {
+      "id": "independent_e7e1c6c60a",
+      "agencyId": "independent",
+      "title": "UK economy grew by 0.4% in second quarter as Iran war prompts slowdown",
+      "title_fa": "رشد ۰.۴ درصدی اقتصاد بریتانیا در سه ماهه دوم همزمان با کندی ناشی از جنگ ایران",
+      "lead": "بر اساس اعلام اداره آمار ملی بریتانیا، اقتصاد این کشور بین ماه‌های آوریل و ژوئن ۰.۴ درصد رشد داشته است. این در حالی است که تنش‌ها و جنگ مرتبط با ایران موجب کندی روند رشد اقتصادی شده است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/politics/economy-growth-iran-war-ons-labour-burnham-b3032284.html",
+      "pubDate": "Thu, 13 Aug 2026 06:13:00 GMT",
+      "time": "۰۹:۴۳ - ۲۲ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-13T06:16:23.129Z"
+    },
+    {
+      "id": "independent_f0990dede5",
+      "agencyId": "independent",
+      "title": "Japan strongly protests Putin’s first visit to disputed islands",
+      "title_fa": "اعتراض شدید ژاپن به نخستین سفر پوتین به جزایر مورد مناقشه",
+      "lead": "ولادیمیر پوتین به جزیره ایتوروپ که در روسیه اتوروف نامیده می‌شود سفر کرد. توکیو این جزایر را به عنوان قلمرو خود می‌داند و به شدت به این سفر اعتراض کرد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.independent.co.uk/news/world/europe/putin-iturup-etorofu-visit-japan-b3032277.html",
+      "pubDate": "Thu, 13 Aug 2026 06:12:43 GMT",
+      "time": "۰۹:۴۲ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-13T06:16:23.129Z"
     }
   ]
 }
