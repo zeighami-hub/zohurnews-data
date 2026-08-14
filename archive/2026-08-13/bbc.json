@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "agencyId": "bbc",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "bbc_a180881fc7",
@@ -286,6 +286,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-13T11:01:43.998Z"
+    },
+    {
+      "id": "bbc_7fc14694c3",
+      "agencyId": "bbc",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "title_fa": "شهرک‌نشینان اسرائیلی خانواده‌های فلسطینی را در روستایی در کرانه باختری محاصره کردند",
+      "lead": "گزارش‌ها حاکی از آن است که نیروهای امنیتی اسرائیل عقب‌نشینی کرده‌اند و حدود دوازده شهرک‌نشین در محل حضور دارند. این دو خانواده فلسطینی از روز یکشنبه در محاصره به سر می‌برند.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 16:14:08 GMT",
+      "time": "۱۹:۴۴ - ۲۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-13T13:01:36.985Z"
+    },
+    {
+      "id": "bbc_39a15cb021",
+      "agencyId": "bbc",
+      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "title_fa": "نجات زنی از زیر آوار ۳۶ ساعت پس از زلزله در کلمبیا",
+      "lead": "نیروهای امدادی پس از یک عملیات ۱۰ ساعته موفق شدند این زن ۳۲ ساله را از زیر تخته‌های بتنی بیرون بکشند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 22:41:46 GMT",
+      "time": "۰۲:۱۱ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-13T12:46:23.145Z"
     }
   ]
 }
