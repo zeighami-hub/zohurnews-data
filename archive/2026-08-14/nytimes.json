@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_6b375f1439",
@@ -40,6 +40,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-14T04:16:07.954Z"
+    },
+    {
+      "id": "nytimes_1c96d44d0b",
+      "agencyId": "nytimes",
+      "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+      "title_fa": "محاصره بندرهای اصلی اوکراین توسط روسیه و تهدید عرضه جهانی غلات",
+      "lead": "حملات مرگبار بخشی از نبرد دریایی طولانی‌مدت با اوکراین است و مشابه درگیری‌ها بر سر سایر مسیرهای کلیدی کشتیرانی در جهان به شمار می‌رود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html",
+      "pubDate": "Thu, 13 Aug 2026 10:22:18 +0000",
+      "time": "۱۳:۵۲ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-14T04:46:18.657Z"
     }
   ]
 }
