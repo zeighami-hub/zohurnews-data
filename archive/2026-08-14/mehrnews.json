@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
   "agencyId": "mehrnews",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "mehrnews_3e48765b4b",
@@ -230,6 +230,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-14T08:31:32.522Z"
+    },
+    {
+      "id": "mehrnews_12da5e3394",
+      "agencyId": "mehrnews",
+      "title": "Iran rejects US claims of sending arms to Yemen by flights",
+      "title_fa": "ایران ادعاهای آمریکا درباره ارسال تسلیحات به یمن از طریق پروازها را رد کرد",
+      "lead": "نماینده دائم ایران در سازمان ملل متحد ادعاهای بی‌اساس آمریکا مبنی بر بی‌ثبات‌سازی یمن یا استفاده از پروازهای تجاری به صنعا برای انتقال تجهیزات و پرسنل نظامی را رد کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246950/Iran-rejects-US-claims-of-sending-arms-to-Yemen-by-flights",
+      "pubDate": "Fri, 14 Aug 2026 09:36:05 GMT",
+      "time": "۱۳:۰۶ - ۲۳ مرداد",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-14T09:46:25.032Z"
+    },
+    {
+      "id": "mehrnews_6b4595c4c4",
+      "agencyId": "mehrnews",
+      "title": "Oil tanker targeted near Strait of Hormuz",
+      "title_fa": "هدف قرار گرفتن یک نفتکش در نزدیکی تنگه هرمز",
+      "lead": "سازمان عملیات تجارت دریایی بریتانیا (UKMTO) روز جمعه اعلام کرد که گزارشی درباره یک حادثه امنیتی برای یک نفتکش در سواحل عمان دریافت کرده است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246949/Oil-tanker-targeted-near-Strait-of-Hormuz",
+      "pubDate": "Fri, 14 Aug 2026 09:22:25 GMT",
+      "time": "۱۲:۵۲ - ۲۳ مرداد",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-14T09:31:43.467Z"
     }
   ]
 }
