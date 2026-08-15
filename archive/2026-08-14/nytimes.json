@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_6b375f1439",
@@ -173,6 +173,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-14T09:16:32.082Z"
+    },
+    {
+      "id": "nytimes_730d2ac033",
+      "agencyId": "nytimes",
+      "title": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan",
+      "title_fa": "بارش‌های بی‌سابقه در ژاپن؛ هشت کشته و سرگردانی هزاران نفر",
+      "lead": "معادل سه ماه بارندگی تنها در مدت ۱۲ ساعت در منطقه‌ای در شرق توکیو بارید که منجر به جاری شدن سیل مرگبار و خسارات گسترده شد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html",
+      "pubDate": "Fri, 14 Aug 2026 09:39:01 +0000",
+      "time": "۱۳:۰۹ - ۲۳ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-08-14T09:46:25.032Z"
+    },
+    {
+      "id": "nytimes_8105a4c1a6",
+      "agencyId": "nytimes",
+      "title": "A Patient’s Final Breath in a Congolese Ebola Ward",
+      "title_fa": "آخرین نفس یک بیمار در بخش ابولا در کنگو",
+      "lead": "فاصله بین زندگی و مرگ در یک کلینیک پزشکی در رمپارا، مرکز اپیدمی که جمهوری دموکراتیک کنگو را درگیر کرده، بسیار ناچیز است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html",
+      "pubDate": "Thu, 13 Aug 2026 13:32:15 +0000",
+      "time": "۱۷:۰۲ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-14T09:31:43.467Z"
     }
   ]
 }
