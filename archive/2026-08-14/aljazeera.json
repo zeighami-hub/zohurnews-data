@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
   "agencyId": "aljazeera",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "aljazeera_d1d0d5321e",
@@ -40,6 +40,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-14T00:16:05.330Z"
+    },
+    {
+      "id": "aljazeera_6e988ad0f8",
+      "agencyId": "aljazeera",
+      "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
+      "title_fa": "امارات ایران را به حمله به دو شناور ادنوک در تنگه هرمز متهم کرد",
+      "lead": "امارات متحده عربی ایران را به انجام حملاتی علیه دو شناور شرکت ادنوک در تنگه هرمز متهم کرد. در این حمله هیچ تلفاتی گزارش نشده و امارات آن را «دزدی دریایی» و تهدیدی علیه امنیت انرژی جهان توصیف کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss",
+      "pubDate": "Fri, 14 Aug 2026 00:33:48 +0000",
+      "time": "۰۴:۰۳ - ۲۳ مرداد",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-14T01:01:16.740Z"
+    },
+    {
+      "id": "aljazeera_19b97698eb",
+      "agencyId": "aljazeera",
+      "title": "Israel’s Katz hails settlers for ‘holding onto’ Palestinian land",
+      "title_fa": "اسرائیل کاتز از شهرک‌نشینان به خاطر «نگه‌داشتن» زمین‌های فلسطینی تمجید کرد",
+      "lead": "اسرائیل کاتز، وزیر دفاع اسرائیل، از شهرک‌نشینان تندروی گروه «جوانان تپه» به دلیل نگه‌داشتن زمین‌های فلسطینی تمجید کرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss",
+      "pubDate": "Fri, 14 Aug 2026 00:39:26 +0000",
+      "time": "۰۴:۰۹ - ۲۳ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-14T01:01:16.740Z"
     }
   ]
 }
