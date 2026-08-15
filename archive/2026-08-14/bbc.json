@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
   "agencyId": "bbc",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "bbc_de6a8aaac3",
@@ -21,6 +21,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-14T03:01:20.737Z"
+    },
+    {
+      "id": "bbc_1eeb261bdc",
+      "agencyId": "bbc",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "title_fa": "آمریکا: ده‌ها کشور به دور زدن تعرفه‌های ترامپ توسط چین کمک کردند",
+      "lead": "یک گزارش جدید از سوی ایالات متحده نشان می‌دهد که چین کالا از طریق کشورهایی با تعرفه‌های پایین‌تر منتقل کرده تا از تعرفه‌های بالاتر فرار کند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 14 Aug 2026 03:09:48 GMT",
+      "time": "۰۶:۳۹ - ۲۳ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-14T03:31:16.474Z"
+    },
+    {
+      "id": "bbc_1c70a243da",
+      "agencyId": "bbc",
+      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+      "title_fa": "یافته‌های جدید مأموریت خورشیدی هند، ابهام از اسرار دیرینه خورشید برداشت",
+      "lead": "چرا تاج خورشیدی میلیون‌ها درجه از سطح آن داغ‌تر است؟ یافته‌های جدید مأموریت خورشیدی هند تلاش می‌کند تا به این پرسش‌ها و چگونگی حفظ این دمای بالا پاسخ دهد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 14 Aug 2026 02:13:27 GMT",
+      "time": "۰۵:۴۳ - ۲۳ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-14T03:31:16.474Z"
     }
   ]
 }
