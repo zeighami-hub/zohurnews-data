@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
   "agencyId": "bbc",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "bbc_de6a8aaac3",
@@ -97,6 +97,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-14T05:31:26.500Z"
+    },
+    {
+      "id": "bbc_94b22131a7",
+      "agencyId": "bbc",
+      "title": "'Unprecedented' rains in Japan kill four people",
+      "title_fa": "باران‌های «بی‌سابقه» در ژاپن چهار کشته برجای گذاشت",
+      "lead": "این طوفان برق بیش از ۲۰ هزار خانوار را قطع کرد و ۷ هزار نفر را در فرودگاه ناریتا در توکیو سرگردان گذاشت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 14 Aug 2026 04:54:13 GMT",
+      "time": "۰۸:۲۴ - ۲۳ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-14T05:46:18.081Z"
+    },
+    {
+      "id": "bbc_743b1d41d7",
+      "agencyId": "bbc",
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "title_fa": "برنده جایزه صلح نوبل به بی‌بی‌سی گفت: پوتین دیگر نمی‌تواند ادعای پیروزی در اوکراین داشته باشد",
+      "lead": "دیمیتری موراتف در مصاحبه اختصاصی با استیو روزنبرگ از بی‌بی‌سی می‌گوید رهبر کرملین در حالی که جنگ وارد سال پنجم خود شده است، تنها می‌تواند «اوکراین را نابود کند، نه اینکه آن را فتح کند».",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 04:55:58 GMT",
+      "time": "۰۸:۲۵ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-14T05:46:18.081Z"
     }
   ]
 }
