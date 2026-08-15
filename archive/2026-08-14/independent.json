@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
   "agencyId": "independent",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "independent_47719ae401",
@@ -59,6 +59,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-14T00:46:15.180Z"
+    },
+    {
+      "id": "independent_8254cc3812",
+      "agencyId": "independent",
+      "title": "Fox News airs fake quote from an Iranian general",
+      "title_fa": "فاکس نیوز نقل‌قول جعلی از یک ژنرال ایرانی پخش کرد",
+      "lead": "نقل‌قول ساختگی منتسوب به سردار احمد وحیدی، فرمانده کل سپاه پاسداران، حاکی از آن بود که اگر ایالات متحده و اسرائیل برنامه هسته‌ای خود را خلع سلاح کنند، ایران نیز چنین خواهد کرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/fox-news-fake-quote-ahmad-vahidi-iran-war-b3032889.html",
+      "pubDate": "Fri, 14 Aug 2026 01:01:24 GMT",
+      "time": "۰۴:۳۱ - ۲۳ مرداد",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-14T01:15:59.366Z"
+    },
+    {
+      "id": "independent_22226378ca",
+      "agencyId": "independent",
+      "title": "North Korea threatens to exercise self-defense as it slams US-South Korea military drills",
+      "title_fa": "کره شمالی با انتقاد از رزمایش‌های مشترک آمریکا و کره جنوبی، تهدید به اقدام برای دفاع از خود کرد",
+      "lead": "کره شمالی در بیانیه‌ای رزمایش‌های نظامی آتی ایالات متحده و کره جنوبی را تمرین جنگی و تحریک‌آمیزتر از سال گذشته توصیف کرد و تهدید به اعمال حق دفاع از خود نمود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.independent.co.uk/news/north-korea-south-korea-seoul-kim-jong-un-donald-trump-b3032898.html",
+      "pubDate": "Fri, 14 Aug 2026 01:00:32 GMT",
+      "time": "۰۴:۳۰ - ۲۳ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-14T01:15:59.366Z"
     }
   ]
 }
