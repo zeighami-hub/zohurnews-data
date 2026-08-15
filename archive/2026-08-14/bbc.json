@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
   "agencyId": "bbc",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "bbc_de6a8aaac3",
@@ -192,6 +192,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-14T08:46:22.502Z"
+    },
+    {
+      "id": "bbc_4f721e2a06",
+      "agencyId": "bbc",
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "title_fa": "دستور به فلسطینیان برای ترک خانه‌های خود در روستایی که شهرک‌نشینان اسرائیلی خانه‌ها را به محاصره درآوردند",
+      "lead": "شهردار قصره می‌گوید نیروهای اسرائیلی به خانواده‌ها دستور داده‌اند خانه‌های خود را ترک کنند و از برخی خانه‌ها به عنوان پادگان استفاده می‌کنند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 20:12:17 GMT",
+      "time": "۲۳:۴۲ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-14T09:01:34.109Z"
+    },
+    {
+      "id": "bbc_498a587520",
+      "agencyId": "bbc",
+      "title": "Who could replace White House Press Secretary Karoline Leavitt?",
+      "title_fa": "چه کسی ممکن است جایگزین کارولین لیویت، سخنگوی مطبوعاتی کاخ سفید شود؟",
+      "lead": "این شغل مستلزم مدیریت یک رابطه پیچیده با رسانه‌ها و همچنین پاسخگویی به انتظارات بالای دونالد ترامپ است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 14:56:19 GMT",
+      "time": "۱۸:۲۶ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-14T09:01:34.109Z"
     }
   ]
 }
