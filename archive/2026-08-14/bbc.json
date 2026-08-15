@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
   "agencyId": "bbc",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "bbc_de6a8aaac3",
@@ -249,6 +249,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-14T10:31:58.672Z"
+    },
+    {
+      "id": "bbc_ef9d844881",
+      "agencyId": "bbc",
+      "title": "Vote counting suspended in Zambia over alleged attacks on polling staff",
+      "title_fa": "تعلیق شمارش آرا در زامبیا به دنبال حملات ادعایی به کارکنان شعب اخذ رای",
+      "lead": "کمیسیون انتخابات اعلام کرد که خشونت‌ها «منجر به سرقت برگه‌های رای نشانه‌گذاری شده» شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 14 Aug 2026 11:04:04 GMT",
+      "time": "۱۴:۳۴ - ۲۳ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-14T11:31:35.046Z"
+    },
+    {
+      "id": "bbc_585f1f878c",
+      "agencyId": "bbc",
+      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "title_fa": "مسابقه آواز یوروویژن ۲۰۲۷ در بورگاس بلغارستان برگزار خواهد شد",
+      "lead": "منطقه واقع در دریای سیاه پس از پیروزی دارا، خواننده بلغاری، در مسابقه امسال برای میزبانی این رویداد انتخاب شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 11:10:31 GMT",
+      "time": "۱۴:۴۰ - ۲۲ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-14T11:31:35.046Z"
     }
   ]
 }
