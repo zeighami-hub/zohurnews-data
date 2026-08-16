@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "agencyId": "guardian",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "guardian_2f631d9fa7",
@@ -173,6 +173,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-15T10:16:27.879Z"
+    },
+    {
+      "id": "guardian_8abcce5c99",
+      "agencyId": "guardian",
+      "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
+      "title_fa": "فرودگاه کره جنوبی در پی جنگ ایران به پررفت‌وآمدترین فرودگاه جهان برای ترافیک بین‌المللی تبدیل شد",
+      "lead": "فرودگاه اینچئون کره جنوبی در نیمه نخست سال ۲۰۲۶ با ثبت ۳۸.۳۹ میلیون مسافر بین‌المللی، به شلوغ‌ترین فرودگاه جهان تبدیل شد که بخشی از این امر ناشی از انحراف پروازها از قطب‌های خاورمیانه است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
+      "pubDate": "Thu, 13 Aug 2026 09:45:56 GMT",
+      "time": "۱۳:۱۵ - ۲۲ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-15T11:01:48.882Z"
     }
   ]
 }
