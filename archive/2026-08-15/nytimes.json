@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_24f31109c2",
@@ -284,6 +284,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-15T13:01:39.628Z"
+    },
+    {
+      "id": "nytimes_90870ffdc8",
+      "agencyId": "nytimes",
+      "title": "Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe",
+      "title_fa": "مرگ‌ومیر ناشی از گرما در یک کشور «سرد»، هشداری برای دیگر نقاط اروپا است",
+      "lead": "موج گرمای ماه ژوئن در بلژیک و کشورهای همجوار، عدم آمادگی مرگبار این مناطق را آشکار کرد. با وقوع موج گرمای جدید در اروپا، این مسئله به یک خطر جدی تبدیل شده است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/world/europe/belgium-heat-wave-deaths.html",
+      "pubDate": "Sat, 15 Aug 2026 11:03:26 +0000",
+      "time": "۱۴:۳۳ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-15T14:16:31.481Z"
+    },
+    {
+      "id": "nytimes_a9f5a24ec9",
+      "agencyId": "nytimes",
+      "title": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
+      "title_fa": "اروپا با بیم از ترامپ، به دنبال ایفای نقش در مذاکرات احتمالی روسیه و اوکراین است",
+      "lead": "دیپلمات‌های فرانسوی، آلمانی و بریتانیایی در حال کار بر روی قالبی برای مذاکرات آینده هستند، حتی اگر روسیه علاقه چندانی نشان نداده باشد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/world/europe/europe-russia-ukraine-talks.html",
+      "pubDate": "Sat, 15 Aug 2026 04:01:09 +0000",
+      "time": "۰۷:۳۱ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-15T14:16:31.481Z"
     }
   ]
 }
