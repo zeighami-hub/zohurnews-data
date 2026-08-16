@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "agencyId": "mehrnews",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "mehrnews_5d31d51879",
@@ -211,6 +211,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-15T07:01:38.241Z"
+    },
+    {
+      "id": "mehrnews_1de5a76770",
+      "agencyId": "mehrnews",
+      "title": "Magnitude 5.0 earthquake strikes near Granada, Spain",
+      "title_fa": "زمین‌لرزه ۵ ریشتری در نزدیکی گرانادا در اسپانیا",
+      "lead": "بر اساس اعلام مؤسسه ملی جغرافیایی اسپانیا، زمین‌لرزه‌ای به بزرگی ۵.۰ ریشتر در نزدیکی شهر گرانادا در منطقه خودمختار اندلس به وقوع پیوست.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246973/Magnitude-5-0-earthquake-strikes-near-Granada-Spain",
+      "pubDate": "Sat, 15 Aug 2026 07:50:24 GMT",
+      "time": "۱۱:۲۰ - ۲۴ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-15T08:01:51.613Z"
+    },
+    {
+      "id": "mehrnews_694d4bed49",
+      "agencyId": "mehrnews",
+      "title": "Iran warns Trump against adventurism in Strait of Hormuz",
+      "title_fa": "هشدار ایران به ترامپ درباره ماجراجویی در تنگه هرمز",
+      "lead": "رئیس قوه قضاییه ایران اعلام کرد که تنگه هرمز بخش جدایی‌ناپذیری از آب‌های سرزمینی ایران است و به ترامپ گفت آنچه ناوهای چند میلیارد دلاری نتوانستند به دست آورند، با توییت به دست نخواهد آمد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246972/Iran-warns-Trump-against-adventurism-in-Strait-of-Hormuz",
+      "pubDate": "Sat, 15 Aug 2026 07:43:41 GMT",
+      "time": "۱۱:۱۳ - ۲۴ مرداد",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-15T07:46:36.654Z"
     }
   ]
 }
