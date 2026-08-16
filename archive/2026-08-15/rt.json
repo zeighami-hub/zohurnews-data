@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "agencyId": "rt",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "rt_bbb7301518",
@@ -59,6 +59,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-15T08:46:34.743Z"
+    },
+    {
+      "id": "rt_512d7451c8",
+      "agencyId": "rt",
+      "title": "Israel shocked by pace of Iran’s military recovery – media",
+      "title_fa": "شوک اسرائیل از سرعت بازسازی نظامی ایران",
+      "lead": "به گزارش جروزالم پست، مقامات دفاعی اسرائیل از سرعت بالای بازیابی توانمندی‌های نظامی ایران شگفت‌زده شده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/644236-iran-israel-ballistic-missile/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Fri, 14 Aug 2026 08:34:50 +0000",
+      "time": "۱۲:۰۴ - ۲۳ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-15T09:16:42.455Z"
+    },
+    {
+      "id": "rt_3bd2b077fe",
+      "agencyId": "rt",
+      "title": "Ukraine-linked ammo plant blows up in Italy (VIDEOS)",
+      "title_fa": "انفجار کارخانه مهمات‌سازی مرتبط با اوکراین در ایتالیا",
+      "lead": "وقوع یک انفجار به کارخانه‌ای در نزدیکی کولفرو در ایتالیا خسارت وارد کرد. این کارخانه متعلق به KNDS، یک شرکت سازنده تسلیحات فرانسوی-آلمانی و تأمین‌کننده اوکراین است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/644237-colleferro-ammo-plant-explosion/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Fri, 14 Aug 2026 08:59:50 +0000",
+      "time": "۱۲:۲۹ - ۲۳ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-15T09:16:42.455Z"
     }
   ]
 }
