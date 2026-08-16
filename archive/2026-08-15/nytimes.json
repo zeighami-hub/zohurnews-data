@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_24f31109c2",
@@ -94,6 +94,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-15T05:46:18.696Z"
+    },
+    {
+      "id": "nytimes_fa1e0266ba",
+      "agencyId": "nytimes",
+      "title": "At Least 20 Dead as 7.7-Magnitude Earthquake Rocks Indonesia",
+      "title_fa": "دستکم ۲۰ کشته بر اثر وقوع زمین‌لرزه ۷.۷ ریشتری در اندونزی",
+      "lead": "به گفته یک مقام مسئول، زمین‌لرزه ۷.۷ ریشتری یکی از قوی‌ترین زمین‌لرزه‌هایی بوده است که این منطقه طی دهه‌های اخیر تجربه کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
+      "pubDate": "Sat, 15 Aug 2026 06:13:01 +0000",
+      "time": "۰۹:۴۳ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-08-15T06:16:46.326Z"
     }
   ]
 }
