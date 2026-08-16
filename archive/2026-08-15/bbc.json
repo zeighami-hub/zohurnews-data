@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_1eeb261bdc",
@@ -381,6 +381,25 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-15T11:01:48.882Z"
+    },
+    {
+      "id": "bbc_3604244757",
+      "agencyId": "bbc",
+      "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+      "title_fa": "نخست‌وزیر لبنان: ۷ نفر در حمله اسرائیل به جنوب این کشور کشته شدند",
+      "lead": "به گزارش رسانه‌های دولتی، در میان کشته‌شدگان حمله به منطقه انصار سه کودک و دو زن دیده می‌شوند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 11:24:24 GMT",
+      "time": "۱۴:۵۴ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-08-15T11:31:40.656Z"
     }
   ]
 }
