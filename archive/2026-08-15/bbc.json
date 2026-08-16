@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "agencyId": "bbc",
-  "total": 32,
+  "total": 35,
   "articles": [
     {
       "id": "bbc_1eeb261bdc",
@@ -609,6 +609,63 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-15T19:46:20.063Z"
+    },
+    {
+      "id": "bbc_c4ec57921d",
+      "agencyId": "bbc",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "title_fa": "قطر بازداشت سه خلبان ایرانی پس از سرنگونی جنگنده‌ها را تکذیب کرد",
+      "lead": "ایران ادعا می‌کند که سه خلبان ایرانی از زمان سرنگونی دو جنگنده توسط قطر در آغاز جنگ آمریکا و ایران در بازداشت به سر می‌برند. با این حال، قطر این موضوع را تکذیب کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 21:03:57 GMT",
+      "time": "۰۰:۳۳ - ۲۵ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-15T21:16:12.056Z"
+    },
+    {
+      "id": "bbc_b1933921c0",
+      "agencyId": "bbc",
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "title_fa": "آمادگی هاوایی برای احتمال نخستین برخورد مستقیم طوفان در ۳۴ سال گذشته",
+      "lead": "در بدترین سناریوی ممکن، طوفان رده اول لالا ممکن است تا ۲۵ اینچ (۶۳ سانتی‌متر) بارندگی در جزیره بزرگ (Big Island) به همراه داشته باشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 20:28:30 GMT",
+      "time": "۲۳:۵۸ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-15T21:16:12.056Z"
+    },
+    {
+      "id": "bbc_48213508a5",
+      "agencyId": "bbc",
+      "title": "Why is Australia's mushroom killer back in court this week?",
+      "title_fa": "دلیل بازگشت قاتل زنجیره‌ای قارچ استرالیا به دادگاه در این هفته چیست؟",
+      "lead": "کتی واتسون از بی‌بی‌سی توضیح می‌دهد که چرا ارین پترسون، متهم به سه فقره قتل، این هفته برای تلاش جهت لغو محکومیت خود دوباره به دادگاه بازگشته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 18:02:30 GMT",
+      "time": "۲۱:۳۲ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-15T21:16:12.056Z"
     }
   ]
 }
