@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "agencyId": "nytimes",
-  "total": 17,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_24f31109c2",
@@ -322,6 +322,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-15T14:16:31.481Z"
+    },
+    {
+      "id": "nytimes_be7d09a8c1",
+      "agencyId": "nytimes",
+      "title": "Iran Says Qatar Captured Three of Its Pilots Early in War With U.S.",
+      "title_fa": "ایران می‌گوید قطر سه خلبان این کشور را در آغاز جنگ با آمریکا بازداشت کرده است",
+      "lead": "ایران اعلام کرد که این خلبانان از زمان سرنگونی جنگنده‌هایشان در دوم مارس در بازداشت به سر می‌برند و دولت قطر هنوز در این باره اظهارنظری نکرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+      "pubDate": "Sat, 15 Aug 2026 14:52:47 +0000",
+      "time": "۱۸:۲۲ - ۲۴ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-15T15:02:06.098Z"
     }
   ]
 }
