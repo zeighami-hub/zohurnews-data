@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "agencyId": "skynews",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "skynews_db3eaaacfb",
@@ -133,6 +133,44 @@
         "negative": 90
       },
       "analyzed_at": "2026-08-15T08:32:07.568Z"
+    },
+    {
+      "id": "skynews_ba625c0a43",
+      "agencyId": "skynews",
+      "title": "Israeli airstrikes in Lebanon kill nine people including three children",
+      "title_fa": "حملات هوایی اسرائیل در لبنان ۹ کشته از جمله سه کودک برجای گذاشت",
+      "lead": "حملات هوایی اسرائیل به دو روستا در جنوب لبنان منجر به کشته شدن ۹ نفر از جمله سه کودک شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/israeli-airstrikes-in-lebanon-kill-nine-people-including-three-children-13573242",
+      "pubDate": "Sat, 15 Aug 2026 11:19:00 +0100",
+      "time": "۱۳:۴۹ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-08-15T11:31:40.656Z"
+    },
+    {
+      "id": "skynews_6020d0e62e",
+      "agencyId": "skynews",
+      "title": "Hundreds of flights cancelled due to ash from Mount Etna eruption",
+      "title_fa": "لغو صدها پرواز به دلیل خاکستر ناشی از فوران کوه اتنا",
+      "lead": "انتشار خاکستر ناشی از فوران کوه اتنا طی هفته گذشته منجر به لغو صدها پرواز شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/ash-from-mount-etna-eruption-leads-to-hundreds-of-flight-cancellations-in-sicily-13572860",
+      "pubDate": "Fri, 14 Aug 2026 09:33:00 +0100",
+      "time": "۱۲:۰۳ - ۲۳ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-15T11:16:45.649Z"
     }
   ]
 }
