@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_24f31109c2",
@@ -208,6 +208,44 @@
         "negative": 65
       },
       "analyzed_at": "2026-08-15T09:16:42.455Z"
+    },
+    {
+      "id": "nytimes_acc673ff00",
+      "agencyId": "nytimes",
+      "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+      "title_fa": "کمپین روسیه برای تضعیف حکومت طرفدار غرب در مولداوی",
+      "lead": "مسکو در مولداوی اقدام به پرداخت پول به کشیشان ارتدوکس، اجرای طرح خرید آرا و برپایی اردوگاه‌های آموزشی در زمینه دخالت در انتخابات کرد؛ اقداماتی که همگی با هدف تضعیف دولت متمایل به غرب انجام شد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+      "pubDate": "Sat, 15 Aug 2026 09:03:53 +0000",
+      "time": "۱۲:۳۳ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 25,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-15T09:31:40.178Z"
+    },
+    {
+      "id": "nytimes_b38af62d11",
+      "agencyId": "nytimes",
+      "title": "After Notre-Dame Fire, France Restored the Cathedral — but Not These Windows",
+      "title_fa": "پس از آتش‌سوزی نوتردام، فرانسه کلیسای جامع را بازسازی کرد اما این پنجره‌ها را تغییر داد",
+      "lead": "فرانسه بخش عمده‌ای از بخش‌های سوخته کلیسای جامع نوتردام در سال ۲۰۱۹ را با وفاداری به طرح اولیه بازسازی کرده است. با این حال، بر اساس تصمیمی بحث‌برانگیز، شش پنجره بلند این بنا به‌زودی با طراحی جدیدی جایگزین خواهند شد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/14/world/europe/notre-dame-windows-glass-tabouret.html",
+      "pubDate": "Fri, 14 Aug 2026 09:02:13 +0000",
+      "time": "۱۲:۳۲ - ۲۳ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-15T09:31:40.178Z"
     }
   ]
 }
