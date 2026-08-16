@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_db3eaaacfb",
@@ -40,6 +40,61 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-15T03:01:19.965Z"
+    },
+    {
+      "id": "skynews_e51df2f353",
+      "agencyId": "skynews",
+      "title": "Trump dismisses concerns about conditions on US aircraft carrier",
+      "title_fa": "ترامپ نگرانی‌ها درباره شرایط ناو هواپیمابر آمریکایی را کم‌اهمیت خواند",
+      "lead": "دونالد ترامپ تأثیر شرایط بر ملوانان آمریکایی که نزدیک به ۹ ماه در دریا بر روی ناو یواس‌اس ابراهیم لینکلن حضور داشته‌اند را کم‌رنگ جلوه داد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/donald-trump-dismisses-concerns-about-conditions-on-us-aircraft-carrier-13573196",
+      "pubDate": "Sat, 15 Aug 2026 02:05:00 +0100",
+      "time": "۰۴:۳۵ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-15T04:31:32.775Z"
+    },
+    {
+      "id": "skynews_809996d2aa",
+      "agencyId": "skynews",
+      "title": "Potential disaster averted after jets share identical flight number",
+      "title_fa": "جلوگیری از یک فاجعه بالقوه پس از پرواز دو هواپیما با شماره پرواز یکسان",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/potential-disaster-averted-after-jets-share-identical-flight-number-13573194",
+      "pubDate": "Sat, 15 Aug 2026 00:43:00 +0100",
+      "time": "۰۳:۱۳ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-15T04:16:40.626Z"
+    },
+    {
+      "id": "skynews_7c8e01610f",
+      "agencyId": "skynews",
+      "title": "Revealed: What caused man to be partially sucked out of plane",
+      "title_fa": "افشای دلیل مکیده شدن نسبی یک مرد به بیرون از هواپیما",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/revealedwhat-caused-man-to-be-partially-sucked-out-of-ryanair-plane-13572791",
+      "pubDate": "Fri, 14 Aug 2026 01:25:00 +0100",
+      "time": "۰۳:۵۵ - ۲۳ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-15T04:16:40.626Z"
     }
   ]
 }
