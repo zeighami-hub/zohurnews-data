@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "aljazeera_e985de4625",
@@ -21,6 +21,44 @@
         "negative": 85
       },
       "analyzed_at": "2026-08-16T00:31:10.211Z"
+    },
+    {
+      "id": "aljazeera_8aa93ff7ac",
+      "agencyId": "aljazeera",
+      "title": "Army drops roses on Syrian crowds in a far cry from war",
+      "title_fa": "ارتش سوریه گل رز بر سر جمعیت در دمشق ریخت",
+      "lead": "بالگردهای ارتش سوریه در جریان جشنواره تابستانی سوریه در ارگ دمشق، روی جمعیتی که در محل حضور داشتند گل رز ریختند که فضایی متفاوت با جنگ را به نمایش گذاشت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
+      "pubDate": "Sun, 16 Aug 2026 00:50:12 +0000",
+      "time": "۰۴:۲۰ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-16T01:01:19.421Z"
+    },
+    {
+      "id": "aljazeera_005d85a4a1",
+      "agencyId": "aljazeera",
+      "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+      "title_fa": "رهبر حماس برای گفتگوهای غزه پیش از سفر کوشنر عازم قاهره شد",
+      "lead": "خلیل الحیه، از رهبران ارشد حماس، در میان تنش‌های جاری در غزه برای دیدار با حسن رشاد، رئیس اطلاعات مصر، به قاهره می‌رود.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
+      "pubDate": "Sun, 16 Aug 2026 00:44:59 +0000",
+      "time": "۰۴:۱۴ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-16T01:01:19.421Z"
     }
   ]
 }
