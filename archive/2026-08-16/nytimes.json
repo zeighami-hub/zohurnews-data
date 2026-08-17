@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_110751765e",
@@ -192,6 +192,82 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-16T09:17:28.305Z"
+    },
+    {
+      "id": "nytimes_ee8d8e4b87",
+      "agencyId": "nytimes",
+      "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+      "title_fa": "همزمان با فشار چین برای گسترش نفوذ در آسیا، ترامپ بر ایران تمرکز کرده است",
+      "lead": "متحدان آسیایی ایالات متحده شروع به تردید کرده‌اند که آیا این کشور می‌تواند یا می‌خواهد از آن‌ها در یک جنگ دفاع کند.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+      "pubDate": "Sun, 16 Aug 2026 06:53:38 +0000",
+      "time": "۱۰:۲۳ - ۲۵ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-16T09:31:57.133Z"
+    },
+    {
+      "id": "nytimes_836f716006",
+      "agencyId": "nytimes",
+      "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
+      "title_fa": "برنامه یوتیوب ایرانی که پرسش‌های معدودی را مطرح می‌کند",
+      "lead": "برنامه مناظره آنلاین محبوب «آزاد» به موضوعاتی پرداخته که مرزهای سیستم اقتدارگرای ایران را به چالش می‌کشد و برخی تعجب می‌کنند که چگونه این برنامه همچنان به پخش خود ادامه می‌دهد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
+      "pubDate": "Sat, 15 Aug 2026 09:30:14 +0000",
+      "time": "۱۳:۰۰ - ۲۴ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-16T09:31:57.133Z"
+    },
+    {
+      "id": "nytimes_06c05b577d",
+      "agencyId": "nytimes",
+      "title": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
+      "title_fa": "چگونه سیکلوسپورا سیستم ایمنی مواد غذایی ایالات متحده را دور زد و هزاران نفر را بیمار کرد",
+      "lead": "دولت ترامپ سال گذشته قانونی را به تاخیر انداخت که می‌توانست تلاش‌ها برای ردیابی منبع آلودگی را سرعت بخشد. منتقدان متهم می‌کنند که نظارت بر ایمنی مواد غذایی به طور کلی فرسایش یافته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
+      "pubDate": "Sat, 15 Aug 2026 19:38:20 +0000",
+      "time": "۲۳:۰۸ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-16T09:31:57.133Z"
+    },
+    {
+      "id": "nytimes_ad75d7ddfe",
+      "agencyId": "nytimes",
+      "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+      "title_fa": "طومار کانادایی برای اخراج پیت هوکسترا، سفیر ایالات متحده، اوج می‌گیرد",
+      "lead": "آقای هوکسترا در میان پایین‌ترین سطح تاریخی روابط، پیام‌رسان وفادار دونالد ترامپ در کانادا بوده است. بیش از ۱۷۰ هزار کانادایی خواستار رفتن او هستند.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
+      "pubDate": "Sat, 15 Aug 2026 18:15:49 +0000",
+      "time": "۲۱:۴۵ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-16T09:31:57.133Z"
     }
   ]
 }
