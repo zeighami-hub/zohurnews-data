@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "mehrnews",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "mehrnews_913174b463",
@@ -135,6 +135,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-16T08:16:38.056Z"
+    },
+    {
+      "id": "mehrnews_c0c4619e1e",
+      "agencyId": "mehrnews",
+      "title": "Should Iran negotiate with U.S. again?",
+      "title_fa": "آیا ایران باید دوباره با آمریکا مذاکره کند؟",
+      "lead": "شکست تفاهم‌نامه پیشین، ضرورت بررسی دوباره مذاکرات ایران و ایالات متحده را به آزمایش گذاشته است. این در حالی است که پرسش‌ها درباره توانایی دور جدیدی از گفت‌وگوها برای غلبه بر بی‌اعتمادی عمیق رو به افزایش است.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/246996/Should-Iran-negotiate-with-U-S-again",
+      "pubDate": "Sun, 16 Aug 2026 08:31:00 GMT",
+      "time": "۱۲:۰۱ - ۲۵ مرداد",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-16T08:31:41.458Z"
+    },
+    {
+      "id": "mehrnews_9034c8fa06",
+      "agencyId": "mehrnews",
+      "title": "One killed, four injured in a shooting in Kentucky Concert",
+      "title_fa": "یک کشته و چهار زخمی در تیراندازی کنسرت کنتاکی",
+      "lead": "در جریان تیراندازی در یک کنسرت فضای باز در شهر لکزینگتون در ایالت کنتاکی آمریکا، یک نفر کشته و چهار تن دیگر از جمله دو کودک زخمی شدند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/246998/One-killed-four-injured-in-a-shooting-in-Kentucky-Concert",
+      "pubDate": "Sun, 16 Aug 2026 08:16:25 GMT",
+      "time": "۱۱:۴۶ - ۲۵ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 15,
+        "negative": 85
+      },
+      "analyzed_at": "2026-08-16T08:31:41.458Z"
     }
   ]
 }
