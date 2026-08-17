@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "nytimes_be7d09a8c1",
@@ -21,6 +21,25 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-16T15:32:37.376Z"
+    },
+    {
+      "id": "nytimes_91c08eb84c",
+      "agencyId": "nytimes",
+      "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
+      "title_fa": "شهروند سوری محکوم در اتریش به اتهام جرایم جنگ داخلی در سوریه بازداشت شد",
+      "lead": "مصعب ابورکبه، رئیس پیشین پلیس، پس از اعتراض به حکم حبس هشت ساله خود به اتهام جرایم ارتکاب‌یافته در جنگ داخلی سوریه، اتریش را ترک کرد و در سوریه بازداشت شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
+      "pubDate": "Sat, 15 Aug 2026 15:28:28 +0000",
+      "time": "۱۸:۵۸ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-16T16:16:15.702Z"
     }
   ]
 }
