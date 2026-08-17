@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_110751765e",
@@ -306,6 +306,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-16T10:31:49.245Z"
+    },
+    {
+      "id": "nytimes_ec173a0fdb",
+      "agencyId": "nytimes",
+      "title": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
+      "title_fa": "حملات اسرائیل به لبنان ۱۱ کشته برجا گذاشت، مقامات بهداشتی اعلام کردند",
+      "lead": "وزارت بهداشت لبنان اعلام کرد که کودکان نیز در میان کشته‌شدگان هستند. دفتر نخست‌وزیری اسرائیل گفت که حزب‌الله ابتدا حمله کرده و سه سرباز اسرائیلی را زخمی کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
+      "pubDate": "Sat, 15 Aug 2026 16:09:55 +0000",
+      "time": "۱۹:۳۹ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 25,
+        "negative": 75
+      },
+      "analyzed_at": "2026-08-16T11:46:28.916Z"
     }
   ]
 }
