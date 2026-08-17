@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "mehrnews",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "mehrnews_913174b463",
@@ -21,6 +21,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-16T05:31:32.515Z"
+    },
+    {
+      "id": "mehrnews_84bfb1eaa3",
+      "agencyId": "mehrnews",
+      "title": "Massive drone attack taregts Russian capital",
+      "title_fa": "حمله پهپادی گسترده به پایتخت روسیه",
+      "lead": "بر اساس اعلام سرگئی سوبیانین، شهردار مسکو، در پی یک حمله پهپادی در نزدیکی بزرگراه حلقه مسکو (MKAD)، سه نفر زخمی شدند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://en.mehrnews.com/news/246992/Massive-drone-attack-taregts-Russian-capital",
+      "pubDate": "Sun, 16 Aug 2026 05:42:46 GMT",
+      "time": "۰۹:۱۲ - ۲۵ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-16T05:46:28.790Z"
+    },
+    {
+      "id": "mehrnews_5a65b8c80e",
+      "agencyId": "mehrnews",
+      "title": "Hamas delegation due in Cairo for talks on Gaza ceasefire",
+      "title_fa": "اعزام هیئت حماس به قاهره برای گفتگو درباره آتش‌بس غزه",
+      "lead": "خلیل الحیا، رئیس دفتر سیاسی حماس، برای گفتگو درباره توافق آتش‌بس در غزه به پایتخت مصر، قاهره، سفر می‌کند.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/246991/Hamas-delegation-due-in-Cairo-for-talks-on-Gaza-ceasefire",
+      "pubDate": "Sun, 16 Aug 2026 05:37:31 GMT",
+      "time": "۰۹:۰۷ - ۲۵ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-16T05:46:28.790Z"
     }
   ]
 }
