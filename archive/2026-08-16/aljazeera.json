@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "aljazeera",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "aljazeera_e985de4625",
@@ -192,6 +192,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-16T05:01:47.412Z"
+    },
+    {
+      "id": "aljazeera_e4d4f85c95",
+      "agencyId": "aljazeera",
+      "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
+      "title_fa": "زمین‌لرزه ۷.۷ ریشتری در اندونزی دستکم ۵۱ کشته و هزاران آواره برجای گذاشت",
+      "lead": "زمین‌لرزه شدید ۷.۷ ریشتری در اندونزی باعث آسیب دیدن بیش از ۱۳۰۰ خانه و آوارگی ۵۰۰۰ نفر شد و یکی از مرگبارترین زلزله‌های سال‌های اخیر این کشور را رقم زد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
+      "pubDate": "Sun, 16 Aug 2026 05:14:00 +0000",
+      "time": "۰۸:۴۴ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-08-16T05:16:40.425Z"
+    },
+    {
+      "id": "aljazeera_d4222fbdfa",
+      "agencyId": "aljazeera",
+      "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
+      "title_fa": "حملات روسیه یک زن اوکراینی را کشت و جنگنده ناتو یک پهپاد را بر فراز رومانی سرنگون کرد",
+      "lead": "در پی حملات روسیه یک زن اوکراینی کشته شد و هم‌زمان وزارت دفاع رومانی از سرنگونی یک پهپاد بر فراز حریم هوایی خود خبر داد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+      "pubDate": "Sun, 16 Aug 2026 04:54:33 +0000",
+      "time": "۰۸:۲۴ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-16T05:16:40.425Z"
     }
   ]
 }
