@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "bbc",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "bbc_02200b66ba",
@@ -306,6 +306,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-16T20:01:34.271Z"
+    },
+    {
+      "id": "bbc_0af7cc5988",
+      "agencyId": "bbc",
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "title_fa": "دیدار فرستاده ترامپ با رهبر حماس برای پیشبرد طرح صلح غزه",
+      "lead": "این دیدار نادر یک هفته پس از آن انجام شد که اسرائیل طرح صلح دونالد ترامپ برای غزه را رد کرده بود. جرد کوشنر با رهبر حماس ملاقات کرد تا طرح صلح را به جلو ببرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 19:58:14 GMT",
+      "time": "۲۳:۲۸ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-16T20:16:20.838Z"
+    },
+    {
+      "id": "bbc_72fe293da0",
+      "agencyId": "bbc",
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "title_fa": "لیختن‌اشتاین قانون جانشینی را برای اجازه دادن به زنان جهت رسیدن به سلطنت تغییر داد",
+      "lead": "این بیانیه در روز ملی این کشور اروپایی مرکزی که تنها ۴۴ هزار نفر جمعیت دارد، اعلام شد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT",
+      "time": "۲۳:۱۱ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-16T20:16:20.838Z"
     }
   ]
 }
