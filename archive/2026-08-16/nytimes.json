@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "nytimes",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_110751765e",
@@ -325,6 +325,44 @@
         "negative": 75
       },
       "analyzed_at": "2026-08-16T11:46:28.916Z"
+    },
+    {
+      "id": "nytimes_6bf49f5ae3",
+      "agencyId": "nytimes",
+      "title": "Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily",
+      "title_fa": "سرقت هنری: چهار تابلوی نقاشی اثر آنتونلو دا مسینا از سیسیل دزدیده شد",
+      "lead": "چهار اثر نقاشی متعلق به آنتونلو دا مسینا، همزمان با برگزاری یک جشن مذهبی در شهر مسینا در سیسیل به سرقت رفتند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html",
+      "pubDate": "Sun, 16 Aug 2026 14:40:05 +0000",
+      "time": "۱۸:۱۰ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-16T15:01:42.037Z"
+    },
+    {
+      "id": "nytimes_a9f5a24ec9",
+      "agencyId": "nytimes",
+      "title": "Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks",
+      "title_fa": "نگران از بازگشت ترامپ؛ اروپا به دنبال نقش‌آفرینی در مذاکرات آتی روسیه و اوکراین",
+      "lead": "دیپلمات‌های فرانسوی، آلمانی و بریتانیایی در حال تلاش برای طراحی چارچوبی جهت مذاکرات آینده هستند، این در حالی است که روسیه تاکنون تمایل چندانی به این موضوع نشان نداده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/world/europe/europe-russia-ukraine-talks.html",
+      "pubDate": "Sat, 15 Aug 2026 04:01:09 +0000",
+      "time": "۰۷:۳۱ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-16T14:46:20.629Z"
     }
   ]
 }
