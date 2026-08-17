@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_110751765e",
@@ -97,6 +97,101 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-16T08:31:41.458Z"
+    },
+    {
+      "id": "nytimes_795d835e03",
+      "agencyId": "nytimes",
+      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "title_fa": "با تبدیل جنگ ایران به نبرد اقتصادی، استراتژی جدید آمریکا روش‌های قدیمی را تداعی می‌کند",
+      "lead": "ایالات متحده و ایران در آستانه رد شدن از مهلتی هستند که برای مذاکره درباره شرایط صلح و برنامه هسته‌ای ایران تعیین کرده بودند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "pubDate": "Sun, 16 Aug 2026 09:02:18 +0000",
+      "time": "۱۲:۳۲ - ۲۵ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 45,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-16T09:17:28.305Z"
+    },
+    {
+      "id": "nytimes_2a34b89af4",
+      "agencyId": "nytimes",
+      "title": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+      "title_fa": "چگونه یک کارمند بانک اوکراینی با خطر حبس ابد در زندان روسیه مواجه شد",
+      "lead": "آرتم مۆردید، مادر و نامزدش به تروریسم متهم شده‌اند. آن‌ها می‌گویند هیچ کار خلاف قانون نکرده‌اند.",
+      "category": "economy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+      "pubDate": "Sun, 16 Aug 2026 09:01:44 +0000",
+      "time": "۱۲:۳۱ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-16T09:17:28.305Z"
+    },
+    {
+      "id": "nytimes_d67b7fae6c",
+      "agencyId": "nytimes",
+      "title": "A Shooting at the U.S. Consulate in Toronto Exposes a Neighborhood’s Guns-for-Hire Network",
+      "title_fa": "تیراندازی در کنسولگری آمریکا در تورنتو، شبکه آدم‌کشان مزدور در یک محله را آشکار کرد",
+      "lead": "تیراندازی در کنسولگری ایالات متحده، محله‌ای با گذشته‌ای پرماجرا را به مرکز یک پدیده نوظهور جنایی تبدیل کرده است: جوانان مزدور به عنوان کارگران اقتصاد زیرزمینی.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html",
+      "pubDate": "Sun, 16 Aug 2026 09:00:13 +0000",
+      "time": "۱۲:۳۰ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-16T09:17:28.305Z"
+    },
+    {
+      "id": "nytimes_895d18b909",
+      "agencyId": "nytimes",
+      "title": "Trump’s Other Hold on the Americas: The Visa",
+      "title_fa": "اهرم دیگر ترامپ در قاره آمریکا: روادید",
+      "lead": "دولت ترامپ به عنوان بخشی از رویکرد توسعه‌طلبانه خود نسبت به نیمکره غربی، تلاش می‌کند تا تسلط خود را بار دیگر اعمال کند؛ این بار از طریق صدور روادید ایالات متحده.",
+      "category": "culture",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
+      "pubDate": "Sun, 16 Aug 2026 09:00:11 +0000",
+      "time": "۱۲:۳۰ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-16T09:17:28.305Z"
+    },
+    {
+      "id": "nytimes_f48eea7054",
+      "agencyId": "nytimes",
+      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "title_fa": "مرگ یک استاد دانشگاه، پرسش‌های دشواری را درباره نژاد و استخدام پیش روی کمبریج گذاشت",
+      "lead": "جیسون آردا، جوان‌ترین استاد سیاه‌پوست این دانشگاه، روز جمعه جان‌باخته پیدا شد. این موسسه آموزشی مجموعه‌ای از هشدارها درباره سرگذشت و کار او را نادیده گرفته بود.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+      "pubDate": "Sat, 15 Aug 2026 17:31:40 +0000",
+      "time": "۲۱:۰۱ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-16T09:17:28.305Z"
     }
   ]
 }
