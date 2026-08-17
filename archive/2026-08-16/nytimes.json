@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_110751765e",
@@ -268,6 +268,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-16T09:31:57.133Z"
+    },
+    {
+      "id": "nytimes_5346a05d3f",
+      "agencyId": "nytimes",
+      "title": "Quit Lit",
+      "title_fa": "ادبیات رها کردن کتاب",
+      "lead": "دلایل خوبی برای کنار گذاشتن کتاب‌هایی که از خواندنشان لذت نمی‌بریم وجود دارد، اما کاهش تمرکز ما ممکن است باعث شود خیلی زود از خواندن دست بکشیم.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/briefing/quit-lit.html",
+      "pubDate": "Sat, 15 Aug 2026 10:08:58 +0000",
+      "time": "۱۳:۳۸ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-16T10:31:49.245Z"
+    },
+    {
+      "id": "nytimes_f18ccc3a28",
+      "agencyId": "nytimes",
+      "title": "Summer Camps Strive to Stay Part of Canadian Life, Despite Hurdles",
+      "title_fa": "اردوهای تابستانی کانادا با وجود موانع برای حفظ جایگاه خود در زندگی تلاش می‌کنند",
+      "lead": "اردوهای شبانه‌روزی که مدت‌هاست سنتی برای بسیاری از کودکان و نوجوانان در سراسر کشور به شمار می‌روند، با فشارهای تورم و تغییر روند فرزندپروری، با موانع مالی و فرهنگی روبه‌رو هستند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/world/canada/sleepaway-summer-camp-children-ontario-canada.html",
+      "pubDate": "Sat, 15 Aug 2026 10:00:07 +0000",
+      "time": "۱۳:۳۰ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-16T10:31:49.245Z"
     }
   ]
 }
