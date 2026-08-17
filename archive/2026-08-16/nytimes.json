@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_be7d09a8c1",
@@ -59,6 +59,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-16T19:46:14.499Z"
+    },
+    {
+      "id": "nytimes_563c32c8ac",
+      "agencyId": "nytimes",
+      "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
+      "title_fa": "کشف ۱۰ میلیون دلار طلا در زیر یک آبجوسازی سابق در بلژیک",
+      "lead": "مته یک کارگر ساختمانی در جریان پروژه بازسازی در شرق فلاندرس به طلا برخورد کرد و جستجو برای یافتن مالکان این ثروت پنهان را آغاز نمود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
+      "pubDate": "Sat, 15 Aug 2026 21:07:17 +0000",
+      "time": "۰۰:۳۷ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-16T20:16:20.838Z"
     }
   ]
 }
