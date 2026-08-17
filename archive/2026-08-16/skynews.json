@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_e51df2f353",
@@ -59,6 +59,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-16T04:46:33.157Z"
+    },
+    {
+      "id": "skynews_5a4dcaeec9",
+      "agencyId": "skynews",
+      "title": "Trump accuses BBC of 'harassing' him over $10bn lawsuit",
+      "title_fa": "ترامپ بی‌بی‌سی را به «آزار و اذیت» خود در ارتباط با دعوی حقوقی ۱۰ میلیارد دلاری متهم کرد",
+      "lead": "بی‌بی‌سی تلاش کرده است تا اعضای خانواده دونالد ترامپ را برای دفاع از خود در برابر دعوی حقوقی افترا که توسط رئیس‌جمهور ایالات متحده مطرح شده، احضار کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/bbc-trying-to-subpoena-donald-trumps-family-members-over-10bn-panorama-lawsuit-13573212",
+      "pubDate": "Sat, 15 Aug 2026 08:08:00 +0100",
+      "time": "۱۰:۳۸ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 60,
+        "negative": 35
+      },
+      "analyzed_at": "2026-08-16T08:16:38.056Z"
+    },
+    {
+      "id": "skynews_dfa5ab73df",
+      "agencyId": "skynews",
+      "title": "'Fury' over death of teen British cyclist during Portugal race",
+      "title_fa": "«خشم» از مرگ دوچرخه‌سوار نوجوان بریتانیایی در مسابقات پرتغال",
+      "lead": "اتحادیه دوچرخه‌سواران اعلام کرد که پس از مرگ فینلی تارلینگ، رکابزن بریتانیایی، در جریان مسابقات دورتا پرتغال، سرشار از خشم است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/finlay-tarling-fury-over-death-of-teen-british-cyclist-during-portugal-race-13573615",
+      "pubDate": "Sun, 16 Aug 2026 07:39:00 +0100",
+      "time": "۱۰:۰۹ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-16T08:01:53.372Z"
     }
   ]
 }
