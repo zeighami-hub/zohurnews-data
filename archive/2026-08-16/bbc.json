@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "agencyId": "bbc",
-  "total": 9,
+  "total": 12,
   "articles": [
     {
       "id": "bbc_02200b66ba",
@@ -173,6 +173,63 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-16T10:16:39.998Z"
+    },
+    {
+      "id": "bbc_1431f3e670",
+      "agencyId": "bbc",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "title_fa": "پرده‌برداری از بلندترین مجسمه مریم مقدس در اروپا در منطقه روستایی لهستان",
+      "lead": "این تندیس بتنی ۵۵.۶ متری از نظر ارتفاع بالاتر از مجسمه مسیح منجی در ریو دو ژانیرو قرار دارد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 11:35:25 GMT",
+      "time": "۱۵:۰۵ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-16T11:46:28.916Z"
+    },
+    {
+      "id": "bbc_3604244757",
+      "agencyId": "bbc",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "title_fa": "به گفته مقامات، یازده نفر در حملات اسرائیل به جنوب لبنان کشته شدند",
+      "lead": "ارتش اسرائیل اعلام کرد که در پاسخ به اقدامات قبلی علیه سربازان خود، «زیرساخت‌های تروریستی حزب‌الله» را هدف قرار داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT",
+      "time": "۲۳:۵۱ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-16T11:46:28.916Z"
+    },
+    {
+      "id": "bbc_a76dabc4f9",
+      "agencyId": "bbc",
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "title_fa": "سرگردانی یک خانواده به مدت ۱۶ ساعت در دریا پس از واژگونی جت اسکی در تایلند",
+      "lead": "یک پدر و دو پسر خردسالش پیش از نجات در سواحل جزیره سامویی، یک شب را روی آب سرگردان بودند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 13:41:09 GMT",
+      "time": "۱۷:۱۱ - ۲۴ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-16T11:31:44.670Z"
     }
   ]
 }
