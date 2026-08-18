@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "agencyId": "mehrnews",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "mehrnews_8eaa37ae20",
@@ -78,6 +78,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-17T05:46:30.494Z"
+    },
+    {
+      "id": "mehrnews_8f8469e8e0",
+      "agencyId": "mehrnews",
+      "title": "Media now part of operational warfare: IRGC Spox.",
+      "title_fa": "سخنگوی سپاه: رسانه‌ها اکنون بخشی از جنگ عملیاتی هستند",
+      "lead": "سخنگوی سپاه پاسداران انقلاب اسلامی اعلام کرد که جنگ اخیر با یک قدرت بزرگ نظامی تنها به میدان نبرد محدود نبوده و رسانه‌ها و نبرد روایت‌ها یکی از مهم‌ترین عرصه‌های آن را تشکیل داده‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247025/Media-now-part-of-operational-warfare-IRGC-Spox",
+      "pubDate": "Mon, 17 Aug 2026 06:12:26 GMT",
+      "time": "۰۹:۴۲ - ۲۶ مرداد",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-17T06:16:45.632Z"
+    },
+    {
+      "id": "mehrnews_a6b00dbb66",
+      "agencyId": "mehrnews",
+      "title": "Shipping traffic in Hormuz slows to a near halt",
+      "title_fa": "کاهش شدید تردد کشتی‌ها در تنگه هرمز",
+      "lead": "کشتی‌رانی از طریق تنگه هرمز در طول آخر هفته کاهش یافت و در روز یکشنبه هیچ کشتی‌ای از این آبراه عبور نکرد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247024/Shipping-traffic-in-Hormuz-slows-to-a-near-halt",
+      "pubDate": "Mon, 17 Aug 2026 05:50:10 GMT",
+      "time": "۰۹:۲۰ - ۲۶ مرداد",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-17T06:01:51.981Z"
     }
   ]
 }
