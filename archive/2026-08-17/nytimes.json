@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_f8947ef500",
@@ -192,6 +192,82 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-17T09:16:39.658Z"
+    },
+    {
+      "id": "nytimes_795d835e03",
+      "agencyId": "nytimes",
+      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "title_fa": "با تبدیل جنگ ایران به نبرد اقتصادی، استراتژی جدید آمریکا رویکردهای گذشته را تداعی می‌کند",
+      "lead": "ایالات متحده و ایران در آستانه عبور از مهلت تعیین‌شده خود برای دستیابی به توافق صلح و تعیین تکلیف برنامه هسته‌ای ایران قرار دارند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "pubDate": "Sun, 16 Aug 2026 17:39:39 +0000",
+      "time": "۲۱:۰۹ - ۲۵ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-17T09:46:41.494Z"
+    },
+    {
+      "id": "nytimes_d67b7fae6c",
+      "agencyId": "nytimes",
+      "title": "A Shooting at the U.S. Consulate in Toronto Exposes a Neighborhood’s Guns-for-Hire Network",
+      "title_fa": "تیراندازی در کنسولگری ایالات متحده در تورنتو، شبکه آدم‌کشان اجاره‌ای محله را آشکار کرد",
+      "lead": "وقوع تیراندازی در کنسولگری آمریکا در تورنتو، محله‌ای با پیشینه پرمشکل را به کانون یک پدیده نوظهور جنایی یعنی جوانان آدم‌کش به عنوان کارگران خدماتی در اقتصاد زیرزمینی تبدیل کرده است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html",
+      "pubDate": "Sun, 16 Aug 2026 12:50:05 +0000",
+      "time": "۱۶:۲۰ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-17T09:46:41.494Z"
+    },
+    {
+      "id": "nytimes_2a34b89af4",
+      "agencyId": "nytimes",
+      "title": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+      "title_fa": "چگونه یک کارمند بانک اوکراینی با مجازات حبس ابد در زندان روسیه روبرو شد",
+      "lead": "آرتم مۆردید، مادر و نامزدش به اتهامات مرتبط با تروریسم متهم شده‌اند، در حالی که آن‌ها بر بی‌گناهی خود پافشاری می‌کنند.",
+      "category": "economy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+      "pubDate": "Sun, 16 Aug 2026 09:01:44 +0000",
+      "time": "۱۲:۳۱ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-17T09:46:41.494Z"
+    },
+    {
+      "id": "nytimes_895d18b909",
+      "agencyId": "nytimes",
+      "title": "Trump’s Other Hold on the Americas: The Visa",
+      "title_fa": "اهرم دیگر ترامپ در قاره آمریکا: روادید",
+      "lead": "دولت ترامپ به عنوان بخشی از رویکرد توسعه‌طلبانه خود در قاره آمریکا، تلاش می‌کند تا تسلط خود را بازپس گیرد و ابزار روادید ایالات متحده یکی از ابزارهای این سیاست است.",
+      "category": "culture",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
+      "pubDate": "Sun, 16 Aug 2026 09:00:11 +0000",
+      "time": "۱۲:۳۰ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-17T09:46:41.494Z"
     }
   ]
 }
