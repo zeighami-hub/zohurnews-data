@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_f8947ef500",
@@ -97,6 +97,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-17T04:31:38.731Z"
+    },
+    {
+      "id": "nytimes_3db3381ab6",
+      "agencyId": "nytimes",
+      "title": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
+      "title_fa": "سیگنال رهبر ایران برای حفظ کشور در وضعیت جنگی",
+      "lead": "انتصاب وفاداران تندرو به مشاغل کلیدی توسط آیت‌الله مجتبی خامنه‌ای نشان می‌دهد که او آماده است کشور را در وضعیت جنگی نگه دارد و مخالفان داخلی را سرکوب کند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
+      "pubDate": "Mon, 17 Aug 2026 08:29:54 +0000",
+      "time": "۱۱:۵۹ - ۲۶ مرداد",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-17T08:46:44.203Z"
+    },
+    {
+      "id": "nytimes_6624594943",
+      "agencyId": "nytimes",
+      "title": "Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City",
+      "title_fa": "شیوع وبا بیش از ۹۰ نفر را در بزرگ‌ترین شهر میانمار بیمار کرد",
+      "lead": "جنگ داخلی و حکومت نظامی سیستم مراقبت‌های بهداشتی میانمار را تضعیف کرده است، در حالی که بارندگی‌های شدید موسمی خطر ابتلا به بیماری‌های ناشی از آب آلوده را افزایش داده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html",
+      "pubDate": "Sun, 16 Aug 2026 08:44:46 +0000",
+      "time": "۱۲:۱۴ - ۲۵ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-17T08:46:44.203Z"
     }
   ]
 }
