@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "agencyId": "reuters",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "reuters_6264e055a5",
@@ -40,6 +40,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-17T01:31:20.177Z"
+    },
+    {
+      "id": "reuters_08f9d4de67",
+      "agencyId": "reuters",
+      "title": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening - Reuters",
+      "title_fa": "امارات می‌گوید ایران به شناور ادنوک در هرمز حمله کرده است و خواستار بازگشایی آبراه شد",
+      "lead": "امارات متحده عربی اعلام کرد که ایران به یک شناور متعلق به شرکت ادنوک در تنگه هرمز حمله کرده است و خواستار بازگشایی این آبراه شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 22:01:00 GMT",
+      "time": "۰۱:۳۱ - ۲۴ مرداد",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-17T02:01:22.467Z"
     }
   ]
 }
