@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_f8947ef500",
@@ -306,6 +306,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-17T12:46:30.854Z"
+    },
+    {
+      "id": "nytimes_b5791370ec",
+      "agencyId": "nytimes",
+      "title": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates",
+      "title_fa": "ادعای حوثی‌ها درباره حمله به یک کشتی سعودی همزمان با تشدید تنش‌ها در دریای سرخ",
+      "lead": "گروه مسلح حوثی در یمن اعلام کرد که موشک‌هایی را در نزدیکی مسیر حیاتی تجارت دریایی شلیک کرده است. این رویداد در حالی رخ می‌دهد که درگیری‌ها در دریای سرخ هیچ نشانی از فروکش کردن نشان نمی‌دهد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html",
+      "pubDate": "Mon, 17 Aug 2026 15:16:11 +0000",
+      "time": "۱۸:۴۶ - ۲۶ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-17T15:32:09.225Z"
+    },
+    {
+      "id": "nytimes_6bf49f5ae3",
+      "agencyId": "nytimes",
+      "title": "Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily",
+      "title_fa": "سرقت هنری: چهار تابلوی نقاشی آنتونلو دا مسینا از سیسیل ربوده شد",
+      "lead": "این آثار هنری اثر آنتونلو دا مسینا، هم‌زمان با برگزاری یک جشن مذهبی در شهر مسینا در سیسیل به سرقت رفتند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html",
+      "pubDate": "Mon, 17 Aug 2026 07:31:37 +0000",
+      "time": "۱۱:۰۱ - ۲۶ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-17T15:32:09.225Z"
     }
   ]
 }
