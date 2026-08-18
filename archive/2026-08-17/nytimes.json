@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_f8947ef500",
@@ -344,6 +344,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-17T15:32:09.225Z"
+    },
+    {
+      "id": "nytimes_8ef3bb7025",
+      "agencyId": "nytimes",
+      "title": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
+      "title_fa": "دستور ترامپ به پنتاگون برای کاهش رزمایش‌های نظامی با کره جنوبی",
+      "lead": "رئیس‌جمهور آمریکا در پیامی در فضای مجازی از کره جنوبی به دلیل عدم کمک به خلع سلاح اتمی ایران انتقاد کرد. وی همچنین در این پیام از کره شمالی و رهبر آن تمجید نمود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
+      "pubDate": "Mon, 17 Aug 2026 06:16:21 +0000",
+      "time": "۰۹:۴۶ - ۲۶ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-17T16:46:19.316Z"
     }
   ]
 }
