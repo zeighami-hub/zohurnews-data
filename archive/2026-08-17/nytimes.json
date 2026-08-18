@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_f8947ef500",
@@ -401,6 +401,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-17T20:01:44.130Z"
+    },
+    {
+      "id": "nytimes_170c03cb69",
+      "agencyId": "nytimes",
+      "title": "After the Earthquakes",
+      "title_fa": "پس از زمین‌لرزه‌ها؛ مقایسه واکنش ونزوئلا و ژاپن",
+      "lead": "ونزوئلا و ژاپن هر دو تابستان امسال زمین‌لرزه‌های بزرگی را تجربه کردند، اما واکنش‌های آن‌ها به این حوادث تفاوت‌های چشمگیری داشت که فراتر از مسائل مالی بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/17/world/earthquake-response-japan-venezuela.html",
+      "pubDate": "Mon, 17 Aug 2026 20:58:34 +0000",
+      "time": "۰۰:۲۸ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-17T21:16:24.301Z"
+    },
+    {
+      "id": "nytimes_da91963821",
+      "agencyId": "nytimes",
+      "title": "No Way Out",
+      "title_fa": "راه خروجی نیست؛ بازداشتگاه‌های برون‌مرزی ایالات متحده",
+      "lead": "ایالات متحده مجموعه‌ای از بازداشتگاه‌های برون‌مرزی را ایجاد کرده است که در آن افراد اخراج شده اغلب بدون طرح اتهام مشخص، به صورت نامحدود در بازداشت می‌مانند.",
+      "category": "technology",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/16/world/deportations-eswatini-italy-heist.html",
+      "pubDate": "Mon, 17 Aug 2026 04:57:16 +0000",
+      "time": "۰۸:۲۷ - ۲۶ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-17T21:16:24.301Z"
     }
   ]
 }
