@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "agencyId": "bbc",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "bbc_14dbf26d81",
@@ -268,6 +268,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-17T14:03:44.431Z"
+    },
+    {
+      "id": "bbc_63fa360167",
+      "agencyId": "bbc",
+      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "title_fa": "ترامپ عمان را در صورت «ایجاد مانع» بر سر مسئله ایران به بمباران تهدید کرد",
+      "lead": "رئیس‌جمهور آمریکا همچنین به فاکس نیوز گفت که این کشور یک کانال ارتباطی مستقیم با سپاه پاسداران انقلاب اسلامی دارد؛ موضوعی که رد شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 14:59:02 GMT",
+      "time": "۱۸:۲۹ - ۲۶ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-17T15:03:57.608Z"
+    },
+    {
+      "id": "bbc_775c95eb5a",
+      "agencyId": "bbc",
+      "title": "US hiker dies after being struck by lightning on Mount Etna",
+      "title_fa": "کوهنورد آمریکایی بر اثر اصابت صاعقه روی کوه اتنا جان باخت",
+      "lead": "به گزارش رسانه‌های محلی، این فرد ۳۰ ساله هنگامی که روی آتشفشان فعال اتنا حضور داشت، با شکل‌گیری یک توامان طوفانی دچار صاعقه‌زدگی شد و جان باخت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 12:23:26 GMT",
+      "time": "۱۵:۵۳ - ۲۶ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-17T15:03:57.608Z"
     }
   ]
 }
