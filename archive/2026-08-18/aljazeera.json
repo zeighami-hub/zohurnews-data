@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "agencyId": "aljazeera",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "aljazeera_6dd86c252d",
@@ -59,6 +59,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-18T02:01:20.308Z"
+    },
+    {
+      "id": "aljazeera_c945bb04c9",
+      "agencyId": "aljazeera",
+      "title": "Trump says talking to North Korea’s Kim makes the south safer",
+      "title_fa": "ترامپ می‌گوید گفتگو با کیم جونگ اون، امنیت کره جنوبی را بیشتر می‌کند",
+      "lead": "دونالد ترامپ، رئیس‌جمهور وقت آمریکا، فاش کرد که رهبر کره شمالی پاسخ «بسیار مثبتی» داده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
+      "pubDate": "Tue, 18 Aug 2026 01:58:11 +0000",
+      "time": "۰۵:۲۸ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-18T02:16:18.041Z"
+    },
+    {
+      "id": "aljazeera_89e1c4abd7",
+      "agencyId": "aljazeera",
+      "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
+      "title_fa": "آتش‌سوزی بزرگ در انبار سوخت در نزدیکی سلیمانیه عراق",
+      "lead": "در پی وقوع آتش‌سوزی در انبار سوخت در نزدیکی این شهر کردنشین در شمال عراق، دست‌کم ۲۰ نفر زخمی شده و ده‌ها تانکر سوخت در آتش سوختند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss",
+      "pubDate": "Tue, 18 Aug 2026 01:54:01 +0000",
+      "time": "۰۵:۲۴ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-18T02:16:18.041Z"
     }
   ]
 }
