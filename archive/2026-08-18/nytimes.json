@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_769eb6a12f",
@@ -59,6 +59,63 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-18T04:16:23.985Z"
+    },
+    {
+      "id": "nytimes_f8947ef500",
+      "agencyId": "nytimes",
+      "title": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
+      "title_fa": "آمریکا و ایران از مهلت تعیین‌شده برای توافق جامع جهت پایان دادن به جنگ عبور کردند",
+      "lead": "رئیس‌جمهور ترامپ اعلام کرده بود که توافق آتش‌بس حاصل‌شده در ماه ژوئن به محدود شدن برنامه هسته‌ای ایران و پایان دادن به درگیری‌ها منجر خواهد شد، اما به نظر می‌رسد مواضع دو کشور همچنان فاصله زیادی با یکدیگر دارد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
+      "pubDate": "Mon, 17 Aug 2026 14:04:29 +0000",
+      "time": "۱۷:۳۴ - ۲۶ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-18T04:46:21.999Z"
+    },
+    {
+      "id": "nytimes_f01207505a",
+      "agencyId": "nytimes",
+      "title": "‘Posh George,’ the Convicted Fraudster in Nigel Farage’s Inner Circle",
+      "title_fa": "«جورج شیک‌وپیک»، کلاهبردار محکوم در حلقه نزدیکان نایجل فاراژ",
+      "lead": "بررسی‌ها پیرامون هدایا و حمایت‌های ارائه شده توسط جورج کاترل به نایجل فاراژ، رهبر حزب «رفرم بریتانیا»، حتی پس از پیروزی او در انتخابات میان‌دوره‌ای هفته گذشته در کلاکتون ادامه خواهد داشت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/17/world/europe/posh-george-nigel-farage-reform.html",
+      "pubDate": "Mon, 17 Aug 2026 21:22:13 +0000",
+      "time": "۰۰:۵۲ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-18T04:46:21.999Z"
+    },
+    {
+      "id": "nytimes_b197ca71ee",
+      "agencyId": "nytimes",
+      "title": "China Wants Its Data to Power the World’s A.I.",
+      "title_fa": "چین می‌خواهد داده‌هایش به هوش مصنوعی جهان قدرت ببخشد",
+      "lead": "چین فراتر از مدل‌های هوش مصنوعی، به دنبال صادر کردن داده‌های خود برای تأثیرگذاری بر چت‌بات‌های جهان است که این امر نگرانی‌هایی را درباره گسترش روایت‌های پکن همزمان با این فناوری برانگیخته است.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+      "pubDate": "Mon, 17 Aug 2026 11:10:29 +0000",
+      "time": "۱۴:۴۰ - ۲۶ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-18T04:46:21.999Z"
     }
   ]
 }
