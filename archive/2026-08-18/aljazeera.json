@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "agencyId": "aljazeera",
-  "total": 40,
+  "total": 42,
   "articles": [
     {
       "id": "aljazeera_6dd86c252d",
@@ -762,6 +762,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-18T12:02:07.218Z"
+    },
+    {
+      "id": "aljazeera_00c26dcf07",
+      "agencyId": "aljazeera",
+      "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
+      "title_fa": "قطر ادعاهای «کذب» ایران درباره خلبانان مفقود را رد کرد",
+      "lead": "ماجد الانصاری اعلام کرد که هواپیماهای ایرانی «حاکمیت قطر را نقض کرده‌اند» و مطابق با قانون با آنها برخورد شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
+      "pubDate": "Tue, 18 Aug 2026 12:39:43 +0000",
+      "time": "۱۶:۰۹ - ۲۷ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-18T12:46:24.650Z"
+    },
+    {
+      "id": "aljazeera_4b98e7d2d5",
+      "agencyId": "aljazeera",
+      "title": "Myanmar: The Architecture of Statelessness",
+      "title_fa": "میانمار: ساختار بی‌وطنی",
+      "lead": "چگونه میانمار روهینگیا را از حق شهروندی محروم کرد که این امر به اخراج جمعی و پرونده نسل‌کشی در دادگاه بین‌المللی دادگستری منجر شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/18/myanmar-the-architecture-of-statelessness?traffic_source=rss",
+      "pubDate": "Tue, 18 Aug 2026 12:25:40 +0000",
+      "time": "۱۵:۵۵ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-18T12:46:24.650Z"
     }
   ]
 }
