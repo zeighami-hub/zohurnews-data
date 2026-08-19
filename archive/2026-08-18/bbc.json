@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_12fa0fcaf5",
@@ -59,6 +59,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-18T01:46:02.860Z"
+    },
+    {
+      "id": "bbc_14dbf26d81",
+      "agencyId": "bbc",
+      "title": "Ferrari's first ever electric car sold for record $40m",
+      "title_fa": "فروش نخستین خودروی تمام الکتریکی فراری با قیمت رکوردشکن ۴۰ میلیون دلار",
+      "lead": "عرضه مدل «لوسه» فراری موجی از واکنش‌های منفی منتقدان را به همراه داشت که معتقد بودند این خودرو از سبک طراحی متمایز و سنتی این برند فاصله گرفته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 02:22:04 GMT",
+      "time": "۰۵:۵۲ - ۲۶ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-18T02:31:16.175Z"
+    },
+    {
+      "id": "bbc_560fed668a",
+      "agencyId": "bbc",
+      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "title_fa": "محاکمه پرونده قتل توپاک: شاهد می‌گوید شب تیراندازی به این رپر «همه جا به هم ریخت»",
+      "lead": "یک مامور پلیس شهادت داد که توپاک شکور پس از اصابت چندین گلوله از همکاری با پلیس خودداری کرده و به یک مامور گفته است که خودمان موضوع را حل می‌کنیم.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 02:06:04 GMT",
+      "time": "۰۵:۳۶ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-18T02:16:18.041Z"
     }
   ]
 }
