@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "mehrnews_b219c6b70d",
@@ -40,6 +40,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-18T04:16:23.985Z"
+    },
+    {
+      "id": "mehrnews_7d3c5de3c9",
+      "agencyId": "mehrnews",
+      "title": "Israeli artillery and air attacks hit southern Lebanese towns",
+      "title_fa": "حملات توپخانه‌ای و هوایی اسرائیل به شهرهای جنوب لبنان",
+      "lead": "رژیم اسرائیل با وجود برقراری آتش‌بس، دور تازه‌ای از حملات را علیه مناطق مختلف در جنوب لبنان انجام داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247056/Israeli-artillery-and-air-attacks-hit-southern-Lebanese-towns",
+      "pubDate": "Tue, 18 Aug 2026 04:52:52 GMT",
+      "time": "۰۸:۲۲ - ۲۷ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-18T05:01:39.977Z"
+    },
+    {
+      "id": "mehrnews_dc0fc778c2",
+      "agencyId": "mehrnews",
+      "title": "Four air strikes hit military airport in Syria’s Idlib",
+      "title_fa": "چهار حمله هوایی به فرودگاه نظامی در ادلب سوریه",
+      "lead": "چهار حمله هوایی فرودگاه نظامی ابوالظهور را در شمال سوریه هدف قرار داد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247055/Four-air-strikes-hit-military-airport-in-Syria-s-Idlib",
+      "pubDate": "Tue, 18 Aug 2026 04:48:22 GMT",
+      "time": "۰۸:۱۸ - ۲۷ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-18T05:01:39.977Z"
     }
   ]
 }
