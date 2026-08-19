@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_769eb6a12f",
@@ -116,6 +116,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-18T04:46:21.999Z"
+    },
+    {
+      "id": "nytimes_f2711f14f3",
+      "agencyId": "nytimes",
+      "title": "1 Dead After Student Livestreams School Shooting in the Philippines",
+      "title_fa": "یک کشته در پی تیراندازی زنده یک دانش‌آموز در فیلیپین",
+      "lead": "شهردار زامبوانگا سیتی اعلام کرد که یک دانش‌آموز پسر پس از کشتن همکلاسی خود در یک دبیرستان متوسطه اول، با شلیک گلوله به زندگی خود پایان داد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/asia/philippines-school-shooting-zamboanga-city.html",
+      "pubDate": "Tue, 18 Aug 2026 04:56:57 +0000",
+      "time": "۰۸:۲۶ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-18T05:01:39.977Z"
     }
   ]
 }
