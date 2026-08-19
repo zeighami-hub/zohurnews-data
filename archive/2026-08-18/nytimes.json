@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_769eb6a12f",
@@ -21,6 +21,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-18T02:31:16.175Z"
+    },
+    {
+      "id": "nytimes_0c6574bde1",
+      "agencyId": "nytimes",
+      "title": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
+      "title_fa": "منطقه چوکو در کلمبیا پس از وقوع زلزله با سختی‌های بیشتری روبروست",
+      "lead": "به گفته فرماندار منطقه چوکو که بیشتر ساکنان آن را آفریقایی-کلمبیایی‌ها و بومیان تشکیل می‌دهند، پس از زلزله هفته گذشته، درد، گرسنگی و بی‌سرپناهی در انتظار بازماندگان است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
+      "pubDate": "Tue, 18 Aug 2026 04:01:17 +0000",
+      "time": "۰۷:۳۱ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-18T04:16:23.985Z"
+    },
+    {
+      "id": "nytimes_ed4738027f",
+      "agencyId": "nytimes",
+      "title": "It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs",
+      "title_fa": "زمان بحرانی دوباره برای کانادا جهت جلوگیری از تعرفه‌های جدید ایالات متحده",
+      "lead": "کانادا به دنبال توافقی است تا پیش از مهلت تعیین شده در نیمه‌شب سه‌شنبه، از آسیب‌های اقتصادی بیشتر از سوی دولت ترامپ جلوگیری کند، اما این توافق با چه بهایی به دست خواهد آمد؟",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+      "pubDate": "Tue, 18 Aug 2026 04:01:06 +0000",
+      "time": "۰۷:۳۱ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-18T04:16:23.985Z"
     }
   ]
 }
