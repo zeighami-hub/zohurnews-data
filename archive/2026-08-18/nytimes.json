@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_769eb6a12f",
@@ -211,6 +211,63 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-18T09:16:33.713Z"
+    },
+    {
+      "id": "nytimes_e2b2fa485c",
+      "agencyId": "nytimes",
+      "title": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
+      "title_fa": "چگونه محاصره مالی اسرائیل اقتصاد کرانه باختری را خفه می‌کند",
+      "lead": "تشدید محدودیت‌ها تمامی ابعاد تبادلات تجاری در کرانه باختری را تحت تأثیر قرار داده و نگرانی‌هایی را درباره توانایی تشکیلات خودگردان فلسطین برای حفظ حلالیت مالی ایجاد کرده است.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
+      "pubDate": "Tue, 18 Aug 2026 09:37:18 +0000",
+      "time": "۱۳:۰۷ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-18T09:46:37.808Z"
+    },
+    {
+      "id": "nytimes_ac39a7e6d8",
+      "agencyId": "nytimes",
+      "title": "How Ukraine’s Satellites Help Drive Its War Drones",
+      "title_fa": "چگونه ماهواره‌های اوکراین به هدایت پهپادهای جنگی این کشور کمک می‌کنند",
+      "lead": "تیم‌های پهپادی اوکراین به ابزار قدرتمند جدیدی دست یافته‌اند که اطلاعاتی نزدیک به زمان واقعی درباره جابجایی‌ها و موقعیت‌های نیروها فراهم می‌کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/17/world/europe/from-the-sky-to-the-battlefield.html",
+      "pubDate": "Mon, 17 Aug 2026 20:38:44 +0000",
+      "time": "۰۰:۰۸ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-18T09:46:37.808Z"
+    },
+    {
+      "id": "nytimes_8e51886540",
+      "agencyId": "nytimes",
+      "title": "Trump’s Overture to North Korea Strains Alliance With the South",
+      "title_fa": "رویکرد ترامپ در قبال کره شمالی و تنش‌زایی در اتحاد با کره جنوبی",
+      "lead": "رئیس‌جمهور ترامپ خواستار کاهش رزمایش‌های نظامی با کره جنوبی شده و آن‌ها را در قبال کره شمالی خصمانه دانسته است. با این حال، کره شمالی تحت رهبری کیم جونگ اون رویکردی فزاینده خصمانه نسبت به جنوب اتخاذ کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
+      "pubDate": "Mon, 17 Aug 2026 10:57:48 +0000",
+      "time": "۱۴:۲۷ - ۲۶ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-18T09:46:37.808Z"
     }
   ]
 }
