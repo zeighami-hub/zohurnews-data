@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_769eb6a12f",
@@ -135,6 +135,82 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-18T05:01:39.977Z"
+    },
+    {
+      "id": "nytimes_3db3381ab6",
+      "agencyId": "nytimes",
+      "title": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
+      "title_fa": "سیگنال‌های رهبر جدید ایران برای حفظ وضعیت جنگی در کشور",
+      "lead": "انتصاب وفاداران تندرو به سمت‌های کلیدی توسط آیت‌الله مجتبی خامنه‌ای نشان می‌دهد که او آمادگی دارد کشور را در وضعیت جنگی نگه دارد و مخالفت‌های داخلی را سرکوب کند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
+      "pubDate": "Mon, 17 Aug 2026 09:42:01 +0000",
+      "time": "۱۳:۱۲ - ۲۶ مرداد",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-18T09:16:33.713Z"
+    },
+    {
+      "id": "nytimes_ae5996a543",
+      "agencyId": "nytimes",
+      "title": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
+      "title_fa": "در مراسم خاکسپاری ژو رونگجی،خارجی‌های پیشین چین بر زمان حال سایه افکنده است",
+      "lead": "پکن می‌خواهد چینِ امروز را به گونه‌ای به تصویر بکشد که ادامه دهنده دوران رشد ژو رونگجی است، اما برای بسیاری از چینی‌ها، خوش‌بینی آن زمان کمرنگ شده است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
+      "pubDate": "Tue, 18 Aug 2026 09:11:52 +0000",
+      "time": "۱۲:۴۱ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-18T09:16:33.713Z"
+    },
+    {
+      "id": "nytimes_23b3c5d710",
+      "agencyId": "nytimes",
+      "title": "Childhood Friends, Adopted From India, Discover They’re Sisters",
+      "title_fa": "دوستان دوران کودکی که از هند به فرزندخواندگی پذیرفته شده بودند، فهمیدند خواهر هستند",
+      "lead": "مینا گلتینک و مینال تیِسن توسط خانواده‌هایی در هلند از هند به فرزندخواندگی پذیرفته شدند و در فاصله کمتر از ۱۰۰ مایلی یکدیگر بزرگ شدند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/europe/friends-adopted-sisters-india-netherlands.html",
+      "pubDate": "Tue, 18 Aug 2026 09:02:21 +0000",
+      "time": "۱۲:۳۲ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 25,
+        "negative": 5
+      },
+      "analyzed_at": "2026-08-18T09:16:33.713Z"
+    },
+    {
+      "id": "nytimes_e4aa3d6532",
+      "agencyId": "nytimes",
+      "title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+      "title_fa": "تلاش‌های یک مادر برای نجات پسرش از اوکراین تحت اشغال روسیه",
+      "lead": "آن‌ها پس از سه سال جدایی، بیماری و محرومیت، تلاشی پرخطر را برای به دست آوردن دوباره وحدت انجام دادند؛ نمونه‌ای از رنجی که هزاران خانواده جداافتاده در جنگ شرق اوکراین متحمل شده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
+      "pubDate": "Tue, 18 Aug 2026 09:00:11 +0000",
+      "time": "۱۲:۳۰ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-18T09:16:33.713Z"
     }
   ]
 }
