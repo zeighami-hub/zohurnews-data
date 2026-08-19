@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "agencyId": "dw",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "dw_62db4540ec",
@@ -154,6 +154,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-18T07:46:53.738Z"
+    },
+    {
+      "id": "dw_5d99634d6a",
+      "agencyId": "dw",
+      "title": "UAE economy: On the brink or bouncing back?",
+      "title_fa": "اقتصاد امارات: در آستانه سقوط یا در حال بازگشت؟",
+      "lead": "اقتصاد امارات از یک سو به دلیل جنگ ایران و خروج ساکنان و لغو سفر گردشگران آسیب دیده است، اما از سوی دیگر مقامات این کشور بر ادامه روند بهبود تاکید دارند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/uae-economy-on-the-brink-or-bouncing-back/a-78402980?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 17 Aug 2026 17:46:00 GMT",
+      "time": "۲۱:۱۶ - ۲۶ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-18T08:03:03.744Z"
+    },
+    {
+      "id": "dw_6baad36a69",
+      "agencyId": "dw",
+      "title": "India's testing agency in focus after more exams canceled",
+      "title_fa": "تمرکز روی آژانس آزمون‌گیری هند پس از لغو آزمون‌های بیشتر",
+      "lead": "چند ماه پس از لغو آزمون ورودی پزشکی، آژانس آزمون‌گیری هند سه آزمون دیگر را نیز لغو کرد که این امر خشم رهبران اپوزیسیون را برانگیخت. همچنین در ایالت بیهار، چندین نفر بر اثر ازدحام جمعیت در یک معبد جان باختند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.dw.com/en/india-s-testing-agency-in-focus-after-more-exams-canceled/live-78391139?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 17 Aug 2026 07:19:00 GMT",
+      "time": "۱۰:۴۹ - ۲۶ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-18T08:03:03.744Z"
     }
   ]
 }
