@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -192,6 +192,101 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-19T09:31:57.996Z"
+    },
+    {
+      "id": "nytimes_f9a348ed11",
+      "agencyId": "nytimes",
+      "title": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
+      "title_fa": "وزیر دفاع سابق اوکراین خواستار برگزاری انتخابات شد و جدایی خود از زلنسکی را تثبیت کرد",
+      "lead": "میخایلو فدوروف، رهبر جوان و محبوبی که ماه گذشته برکنار شد، گفت نباید به روسیه اجازه داد زمان برگزاری انتخابات بعدی اوکراین را تعیین کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html",
+      "pubDate": "Wed, 19 Aug 2026 09:36:26 +0000",
+      "time": "۱۳:۰۶ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-19T09:46:36.755Z"
+    },
+    {
+      "id": "nytimes_f855263100",
+      "agencyId": "nytimes",
+      "title": "Kyiv’s Dormition Cathedral is Revived after Russian Drone Strike",
+      "title_fa": "کلیسای جامع دورمیسیون کی‌یف پس از حمله پهپادی روسیه احیا شد",
+      "lead": "داوطلبان و کشیش‌ها برای تمیز کردن کلیسای جامع دورمیسیون در کی‌یف که همچنان بوی دود ناشی از آتش‌سوزی گسترده می‌داد، جهت برگزاری مراسم سالگرد گرد هم آمدند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
+      "pubDate": "Wed, 19 Aug 2026 09:29:36 +0000",
+      "time": "۱۲:۵۹ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-19T09:46:36.755Z"
+    },
+    {
+      "id": "nytimes_4ae9677f57",
+      "agencyId": "nytimes",
+      "title": "Chinese Comic Investigated After Singing a Riff of a Patriotic Song",
+      "title_fa": "یک کمدین چینی پس از خواندن قطعه‌ای از یک ترانه میهن‌پرستانه تحت بازجویی قرار گرفت",
+      "lead": "گو دگانگ، یکی از شناخته‌شده‌ترین کمدین‌های چین، به مقامات گزارش شد؛ چرا که حوزه هنر همچنان کانون تمرکز برخوردهای ایدئولوژیک است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/19/us/guo-degang-china-comic-investigated.html",
+      "pubDate": "Wed, 19 Aug 2026 09:15:58 +0000",
+      "time": "۱۲:۴۵ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-19T09:46:36.755Z"
+    },
+    {
+      "id": "nytimes_23b3c5d710",
+      "agencyId": "nytimes",
+      "title": "Childhood Friends, Adopted From India, Discover They’re Sisters",
+      "title_fa": "دو دوست دوران کودکی که از هند به فرزندخواندگی پذیرفته شده بودند، فهمیدند خواهر هستند",
+      "lead": "مینا گلتینک و مینال تیِسن از هند توسط خانواده‌هایی در هلند به فرزندخواندگی پذیرفته شدند و در فاصله کمتر از ۱۰۰ مایلی یکدیگر بزرگ شدند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/europe/friends-adopted-sisters-india-netherlands.html",
+      "pubDate": "Tue, 18 Aug 2026 14:48:00 +0000",
+      "time": "۱۸:۱۸ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-19T09:46:36.755Z"
+    },
+    {
+      "id": "nytimes_f2711f14f3",
+      "agencyId": "nytimes",
+      "title": "1 Dead After Student Livestreams School Shooting in the Philippines",
+      "title_fa": "یک کشته پس از تیراندازی زنده یک دانش‌آموز در مدرسه‌ای در فیلیپین",
+      "lead": "شهردار شهر زامبوانگا اعلام کرد که این پسر دانش‌آموز در یک مدرسه راهنمایی، یک هم‌مدرسه‌ای را با شلیک گلوله کشت و سپس با شلیک به خود به زندگی‌اش پایان داد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/asia/philippines-school-shooting-zamboanga-city.html",
+      "pubDate": "Tue, 18 Aug 2026 09:01:59 +0000",
+      "time": "۱۲:۳۱ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-08-19T09:46:36.755Z"
     }
   ]
 }
