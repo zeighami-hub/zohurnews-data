@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "agencyId": "bbc",
-  "total": 19,
+  "total": 20,
   "articles": [
     {
       "id": "bbc_7e23cc7f21",
@@ -363,6 +363,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-19T09:02:05.662Z"
+    },
+    {
+      "id": "bbc_5094de6443",
+      "agencyId": "bbc",
+      "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
+      "title_fa": "ایالات متحده ۱۷ ایرانی را به اتهام کمپین «گسترده» سرقت سایبری متهم کرد",
+      "lead": "به اعلام وزارت دادگستری ایالات متحده، بسیاری از حملات سایبری ادعا شده به نمایندگی از دولت ایران انجام شده‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 09:48:16 GMT",
+      "time": "۱۳:۱۸ - ۲۸ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-19T10:02:01.836Z"
     }
   ]
 }
