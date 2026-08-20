@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -135,6 +135,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-19T09:17:14.956Z"
+    },
+    {
+      "id": "nytimes_3db3381ab6",
+      "agencyId": "nytimes",
+      "title": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
+      "title_fa": "سیگنال رهبر ایران برای حفظ وضعیت جنگی در کشور",
+      "lead": "انتصاب چهره‌های تندرو و وفادار به پست‌های کلیدی توسط آیت‌الله مجتبی خامنه‌ای نشان می‌دهد که وی آماده است کشور را در وضعیت جنگی نگه دارد و مخالفان داخلی را سرکوب کند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
+      "pubDate": "Mon, 17 Aug 2026 09:42:01 +0000",
+      "time": "۱۳:۱۲ - ۲۶ مرداد",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-19T09:31:57.996Z"
+    },
+    {
+      "id": "nytimes_e4aa3d6532",
+      "agencyId": "nytimes",
+      "title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+      "title_fa": "تلاش یک مادر برای نجات پسرش از اوکراین تحت اشغال روسیه",
+      "lead": "آنها پس از سه سال جدایی، بیماری و محرومیت دست به تلاشی پرخطر برای پیوستن دوباره به یکدیگر زدند؛ رنجی که هزاران خانواده از هم گسیخته بر اثر جنگ در شرق اوکراین متحمل شده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
+      "pubDate": "Tue, 18 Aug 2026 20:55:38 +0000",
+      "time": "۰۰:۲۵ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-19T09:31:57.996Z"
+    },
+    {
+      "id": "nytimes_ae5996a543",
+      "agencyId": "nytimes",
+      "title": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
+      "title_fa": "در مراسم تشییع جنازه ژو رونگجی، نخست‌وزیر سابق، سایه گذشته چین بر حال آن سنگینی می‌کند",
+      "lead": "پکن می‌خواهد چین امروز را ادامه‌دهنده دوران رشد ژو رونگجی به تصویر بکشد، اما برای بسیاری از چینی‌ها، خوش‌بینی آن دوران اکنون رنگ باخته است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
+      "pubDate": "Tue, 18 Aug 2026 16:12:57 +0000",
+      "time": "۱۹:۴۲ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-19T09:31:57.996Z"
     }
   ]
 }
