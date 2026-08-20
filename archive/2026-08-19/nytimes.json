@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -40,6 +40,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-19T04:16:11.191Z"
+    },
+    {
+      "id": "nytimes_ed4738027f",
+      "agencyId": "nytimes",
+      "title": "Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs",
+      "title_fa": "گفتگوی دوباره کارنی و ترامپ در آستانه مهلت تعیین شده برای تعرفه‌های جدید آمریکا",
+      "lead": "کانادا به دنبال دستیابی به توافقی است تا پیش از مهلت تعیین‌شده در نیمه‌شب سه‌شنبه، از آسیب‌های اقتصادی بیشتر از سوی دولت ترامپ جلوگیری کند، اما این توافق با چه بهایی حاصل خواهد شد؟",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+      "pubDate": "Tue, 18 Aug 2026 23:19:12 +0000",
+      "time": "۰۲:۴۹ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 15,
+        "neutral": 60,
+        "negative": 25
+      },
+      "analyzed_at": "2026-08-19T04:46:27.956Z"
+    },
+    {
+      "id": "nytimes_0c6574bde1",
+      "agencyId": "nytimes",
+      "title": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
+      "title_fa": "استان چوکو در کلمبیا پس از وقوع زمین‌لرزه با سختی‌های بیشتری روبروست",
+      "lead": "به گفته فرماندار چوکو، در این منطقه دورافتاده، «درد، گرسنگی و بی‌سرپناهی در انتظار» بازماندته‌های زمین‌لرزه هفته گذشته است. شکیرا برای جلب توجه عمومی به این وضعیت از منطقه بازدید کرد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
+      "pubDate": "Tue, 18 Aug 2026 16:32:08 +0000",
+      "time": "۲۰:۰۲ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 35,
+        "negative": 55
+      },
+      "analyzed_at": "2026-08-19T04:46:27.956Z"
     }
   ]
 }
