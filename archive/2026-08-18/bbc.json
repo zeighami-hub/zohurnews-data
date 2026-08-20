@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "agencyId": "bbc",
-  "total": 31,
+  "total": 33,
   "articles": [
     {
       "id": "bbc_12fa0fcaf5",
@@ -591,6 +591,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-18T23:31:12.143Z"
+    },
+    {
+      "id": "bbc_6dabd09016",
+      "agencyId": "bbc",
+      "title": "The Indian activist jailed after taking on a luxury hotel plan",
+      "title_fa": "فعال هندی پس از مخالفت با طرح هتل لوکس زندانی شد",
+      "lead": "بازداشت یک فعال اجتماعی، توجهات را به سمت نبرد بزرگتری بر سر زمین و توسعه در اطراف پارک ملی معروف کازیرانگا جلب کرده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 22:18:50 GMT",
+      "time": "۰۱:۴۸ - ۲۸ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-18T23:46:09.998Z"
+    },
+    {
+      "id": "bbc_f0f00b20ab",
+      "agencyId": "bbc",
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "title_fa": "فرانک بیرد، درام‌زن گروه ZZ Top در سن ۷۷ سالگی درگذشت",
+      "lead": "بر اساس بیانیه‌ای که در وب‌سایت این گروه بلوز راک منتشر شد، او روز دوشنبه در مرکز نگهداری بیماران بدحال درگذشته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 22:25:46 GMT",
+      "time": "۰۱:۵۵ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-18T23:46:09.998Z"
     }
   ]
 }
