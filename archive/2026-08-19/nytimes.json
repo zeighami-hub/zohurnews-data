@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -458,6 +458,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-19T18:16:31.203Z"
+    },
+    {
+      "id": "nytimes_3f6d230d1b",
+      "agencyId": "nytimes",
+      "title": "More Than 100 Dead in Central African Republic Gold Mine Collapse",
+      "title_fa": "بیش از ۱۰۰ کشته در ریزش معدن طلا در جمهوری آفریقای مرکزی",
+      "lead": "بخش معدن‌کاری مقیاس کوچک طلا در این کشور طی سال‌های اخیر رونق گرفته که به وقوع حوادث مرگبار متعددی منجر شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/19/world/africa/central-african-republic-gold-mine-collapse.html",
+      "pubDate": "Wed, 19 Aug 2026 20:03:59 +0000",
+      "time": "۲۳:۳۳ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-08-19T20:16:28.348Z"
+    },
+    {
+      "id": "nytimes_7cea944ba2",
+      "agencyId": "nytimes",
+      "title": "A Rescue Mission in Remote Colombia",
+      "title_fa": "یک ماموریت امدادرسانی در مناطق دورافتاده کلمبیا",
+      "lead": "فدریکو ریوس، عکاس ما، برای مستندسازی تلاش‌های نجات ناشی از زلزله در جوامع دورافتاده، با پروازهای امدادی به منطقه چوکو همراه شد. این گزارش تصویری به بررسی وضعیت آسیب‌دیدگان و روند کمک‌رسانی در این منطقه می‌پردازد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html",
+      "pubDate": "Tue, 18 Aug 2026 22:06:32 +0000",
+      "time": "۰۱:۳۶ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 25,
+        "neutral": 60,
+        "negative": 15
+      },
+      "analyzed_at": "2026-08-19T20:16:28.348Z"
     }
   ]
 }
