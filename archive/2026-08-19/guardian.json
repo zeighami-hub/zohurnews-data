@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "agencyId": "guardian",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "guardian_3b16dbe0f5",
@@ -40,6 +40,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-19T01:16:15.758Z"
+    },
+    {
+      "id": "guardian_7bad9f3e0c",
+      "agencyId": "guardian",
+      "title": "South Korea city deluged by almost a metre of rain, triggering deadly landslide",
+      "title_fa": "بارش نزدیک به یک متر باران در شهر جنوبی کره جنوبی و وقوع رانش زمین مرگبار",
+      "lead": "بارش‌های سیل‌آسا در مناطق جنوبی کره جنوبی دست‌کم یک کشته بر جای گذاشته و رانش زمین موجب تخریب یک ساختمان مسکونی در شهر جئوجه شده است. این بارش‌ها همچنین قطعی برق و تخلیه گسترده مناطق مسکونی را به دنبال داشته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
+      "pubDate": "Tue, 18 Aug 2026 00:37:42 GMT",
+      "time": "۰۴:۰۷ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-19T01:31:16.833Z"
+    },
+    {
+      "id": "guardian_0cdc9f91d4",
+      "agencyId": "guardian",
+      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+      "title_fa": "شیوع ابولا در جمهوری دموکراتیک کنگو؛ مرگبارترین مورد در تاریخ این کشور",
+      "lead": "بر اساس آمارهای رسمی، دست‌کم ۲۳۲۵ نفر بر اثر ویروس ابولا در جمهوری دموکراتیک کنگو جان خود را از دست داده‌اند. این شیوع در مسیر تبدیل شدن به بزرگ‌ترین و مرگبارترین مورد در تاریخ این کشور قرار دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+      "pubDate": "Mon, 17 Aug 2026 14:07:31 GMT",
+      "time": "۱۷:۳۷ - ۲۶ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-19T01:31:16.833Z"
     }
   ]
 }
