@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -382,6 +382,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-19T13:47:16.595Z"
+    },
+    {
+      "id": "nytimes_5e7b8d461a",
+      "agencyId": "nytimes",
+      "title": "Send Us Your Questions About the Iran War",
+      "title_fa": "پرسش‌های خود را درباره جنگ ایران برای ما ارسال کنید",
+      "lead": "خبرنگاران نیویورک تایمز که جنگ، دیپلماسی، انرژی و خاورمیانه را پوشش می‌دهند، با نزدیک شدن به ششمین ماه درگیری، در بخش «از یک خبرنگار بپرسید» شرکت می‌کنند. مخاطبان می‌توانند سوالات خود را مطرح کنند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/19/world/iran-war-reader-questions.html",
+      "pubDate": "Wed, 19 Aug 2026 14:47:37 +0000",
+      "time": "۱۸:۱۷ - ۲۸ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-19T15:02:30.154Z"
     }
   ]
 }
