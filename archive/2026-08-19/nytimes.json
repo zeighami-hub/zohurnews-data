@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -401,6 +401,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-19T15:02:30.154Z"
+    },
+    {
+      "id": "nytimes_63b09f2f29",
+      "agencyId": "nytimes",
+      "title": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
+      "title_fa": "حمله اسرائیل به یک پایگاه هوایی در سوریه، خشم ایالات متحده را برانگیخت",
+      "lead": "این حمله تازه‌ترین مورد از مجموعه مداخلات نظامی اسرائیل در سوریه طی دو سال گذشته بود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
+      "pubDate": "Tue, 18 Aug 2026 21:16:38 +0000",
+      "time": "۰۰:۴۶ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-19T16:46:31.842Z"
     }
   ]
 }
