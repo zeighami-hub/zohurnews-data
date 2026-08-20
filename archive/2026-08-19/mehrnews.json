@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "agencyId": "mehrnews",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "mehrnews_0242a5c1e7",
@@ -116,6 +116,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-19T05:16:29.961Z"
+    },
+    {
+      "id": "mehrnews_f1e3afce35",
+      "agencyId": "mehrnews",
+      "title": "Strait of Hormuz transit slows again on Tuesday",
+      "title_fa": "کندی دوباره تردد دریایی در تنگه هرمز در روز سه‌شنبه",
+      "lead": "داده‌های مقدماتی کشتیرانی نشان می‌دهد که تردد کشتی‌ها از طریق تنگه هرمز در روز سه‌شنبه با کندی مواجه شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247086/Strait-of-Hormuz-transit-slows-again-on-Tuesday",
+      "pubDate": "Wed, 19 Aug 2026 05:36:36 GMT",
+      "time": "۰۹:۰۶ - ۲۸ مرداد",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-19T05:46:40.797Z"
+    },
+    {
+      "id": "mehrnews_b72a735764",
+      "agencyId": "mehrnews",
+      "title": "UN calls for end to Israeli air strikes on Syria",
+      "title_fa": "سازمان ملل خواستار توقف حملات هوایی اسرائیل به سوریه شد",
+      "lead": "سخنگوی دبیرکل سازمان ملل متحد حملات هوایی رژیم صهیونیستی به فرودگاه نظامی ابو‌الضهور در سوریه را محکوم کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247087/UN-calls-for-end-to-Israeli-air-strikes-on-Syria",
+      "pubDate": "Wed, 19 Aug 2026 05:40:58 GMT",
+      "time": "۰۹:۱۰ - ۲۸ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-19T05:46:40.797Z"
     }
   ]
 }
