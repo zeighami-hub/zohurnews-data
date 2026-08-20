@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "bbc_7e23cc7f21",
@@ -382,6 +382,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-19T10:02:01.836Z"
+    },
+    {
+      "id": "bbc_da4a30159a",
+      "agencyId": "bbc",
+      "title": "Apparent human remains found in US reservoir as water levels hit record low",
+      "title_fa": "کشف بقایای ظاهراً انسانی در یک مخزن آب در ایالات متحده همزمان با کاهش بی‌سابقه سطح آب",
+      "lead": "به گفته یک شاهد عینی، بقایای اسکلتی کشف شده در دریاچه مید شامل چیزی است که به نظر می‌رسد فک انسان به همراه دندان باشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 10:10:09 GMT",
+      "time": "۱۳:۴۰ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-19T10:31:58.620Z"
+    },
+    {
+      "id": "bbc_df06335c47",
+      "agencyId": "bbc",
+      "title": "Why has Russia threatened the UK and what happens next?",
+      "title_fa": "چرا روسیه بریتانیا را تهدید کرده است و چه اتفاقی در راه است؟",
+      "lead": "اندی برنهام، نخست‌وزیر بریتانیا، اعلام کرده است که لندن همچنان به «حمایت ۱۰۰ درصدی از اوکراین» ادامه خواهد داد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 21:45:17 GMT",
+      "time": "۰۱:۱۵ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-19T10:31:58.620Z"
     }
   ]
 }
