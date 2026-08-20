@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -116,6 +116,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-19T08:16:36.797Z"
+    },
+    {
+      "id": "nytimes_24e09fb596",
+      "agencyId": "nytimes",
+      "title": "How the Iran War Made Africa’s Richest Man Even Richer",
+      "title_fa": "چگونه جنگ ایران ثروتمندترین مرد آفریقا را ثروتمندتر کرد",
+      "lead": "با کاهش منابع سوخت در جهان، آفریقایی‌ها برای تأمین سوخت خود به ثروتمندترین مرد این قاره رو آورده‌اند. با این حال، او تنها کسی نیست که با این چهره اقتصادی در تماس است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html",
+      "pubDate": "Wed, 19 Aug 2026 09:00:49 +0000",
+      "time": "۱۲:۳۰ - ۲۸ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-19T09:17:14.956Z"
     }
   ]
 }
