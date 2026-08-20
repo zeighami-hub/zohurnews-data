@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -306,6 +306,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-19T10:17:01.936Z"
+    },
+    {
+      "id": "nytimes_c22f3fba4e",
+      "agencyId": "nytimes",
+      "title": "U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles",
+      "title_fa": "امارات روابط تجاری با ایران را متوقف کرد و مدعی شد هدف حمله موشکی قرار گرفته است",
+      "lead": "امارات متحده عربی که مدت‌ها مرکز تجاری مهمی برای ایران بوده و به گفته تحلیلگران در دور زدن تحریم‌های بین‌المللی نقش داشته، روابط تجاری خود را متوقف کرده است. این کشور همچنین مدعی شد که هدف حملات موشکی قرار گرفته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+      "pubDate": "Wed, 19 Aug 2026 10:39:49 +0000",
+      "time": "۱۴:۰۹ - ۲۸ مرداد",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-19T10:46:45.415Z"
     }
   ]
 }
