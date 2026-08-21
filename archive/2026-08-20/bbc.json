@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_58575e9562",
@@ -59,6 +59,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-20T02:31:23.468Z"
+    },
+    {
+      "id": "bbc_47294d0958",
+      "agencyId": "bbc",
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "title_fa": "پیدا شدن جسد نوجوان مفقود شده در جنگل‌های استرالیا پس از هشت روز جستجو",
+      "lead": "لی هوپر که پس از عدم بازگشت از یک پیاده‌روی در پارک ملی سیدنی از تاریخ ۱۲ اوت گزارش مفقودی1 او ثبت شده بود، جان‌باخته پیدا شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 03:16:22 GMT",
+      "time": "۰۶:۴۶ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-20T03:31:11.222Z"
+    },
+    {
+      "id": "bbc_8c9b13e5ae",
+      "agencyId": "bbc",
+      "title": "Former Liberian vice president charged in drug-trafficking probe",
+      "title_fa": "معاون سابق رئیس‌جمهور لیبریا در پرونده قاچاق مواد مخدر متهم شد",
+      "lead": "جول هوارد تیلور با اتهسامات مربوط به تسهیل غیرقانونی، واردات و فروش مواد مخدر و همچنین پولشویی مواجه است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 03:09:24 GMT",
+      "time": "۰۶:۳۹ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-20T03:16:11.261Z"
     }
   ]
 }
