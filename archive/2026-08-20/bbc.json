@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "bbc",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "bbc_58575e9562",
@@ -268,6 +268,44 @@
         "negative": 90
       },
       "analyzed_at": "2026-08-20T12:16:21.772Z"
+    },
+    {
+      "id": "bbc_6280d9d02c",
+      "agencyId": "bbc",
+      "title": "Assad officer extradited to Syria on war crimes charges for first time",
+      "title_fa": "استرداد یک افسر دولت اسد به سوریه به اتهام جنایات جنگی برای نخستین بار",
+      "lead": "لبنان ژنرال پیشین عادل عیسی را تحویل داد و سوریه پیگرد اعضای تحت تعقیب رژیم سابق را تشدید کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 12:38:35 GMT",
+      "time": "۱۶:۰۸ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-20T12:46:54.977Z"
+    },
+    {
+      "id": "bbc_b65b22294d",
+      "agencyId": "bbc",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "title_fa": "اسرائیل تیراندازی نظامیان به خودروی حامل هند رجب را تایید کرد و تحقیقات کیفری گشود",
+      "lead": "این دختر پنج‌ساله فلسطینی ابتدا از حمله جان سالم به در برد و درخواست کمک کرد، اما پیکر او بعدها به همراه شش تن از بستگانش پیدا شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 04:17:53 GMT",
+      "time": "۰۷:۴۷ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-20T12:46:54.977Z"
     }
   ]
 }
