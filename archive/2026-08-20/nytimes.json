@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -97,6 +97,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-20T07:16:36.027Z"
+    },
+    {
+      "id": "nytimes_a3a4659293",
+      "agencyId": "nytimes",
+      "title": "Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai",
+      "title_fa": "چرا توقف بین راهی پروازهای طولانی شما ممکن است به جای دبی، در سئول باشد",
+      "lead": "جنگ ایران ترافیک ترانزیتی در فرودگاه‌های خاورمیانه را به شدت کاهش داده و فرصت‌هایی را برای مراکز هوانوردی در آسیا و فراتر از آن ایجاد کرده است؛ حداقل برای现在.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html",
+      "pubDate": "Thu, 20 Aug 2026 08:45:16 +0000",
+      "time": "۱۲:۱۵ - ۲۹ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-20T09:01:51.392Z"
+    },
+    {
+      "id": "nytimes_cfffa64942",
+      "agencyId": "nytimes",
+      "title": "Trump, With Limited Options in Iran, Tries Economic Pressure — Again",
+      "title_fa": "ترامپ با گزینه‌های محدود در قبال ایران، بار دیگر فشار اقتصادی را امتحان می‌کند",
+      "lead": "تحلیلگران می‌گویند ایران دهه‌ها تحریم را پشت سر گذاشته و در صورت اعمال تحریم‌های بیشتر، به جای تسلیم شدن احتمالاً دست به تنش‌زایی خواهد زد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
+      "pubDate": "Wed, 19 Aug 2026 12:37:33 +0000",
+      "time": "۱۶:۰۷ - ۲۸ مرداد",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-20T08:46:28.544Z"
     }
   ]
 }
