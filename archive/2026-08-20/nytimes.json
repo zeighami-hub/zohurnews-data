@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -477,6 +477,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-20T17:46:21.645Z"
+    },
+    {
+      "id": "nytimes_25032238bc",
+      "agencyId": "nytimes",
+      "title": "Imran Khan Wins Fight to be Moved From Prison to Hospital",
+      "title_fa": "عمران خان در پرونده انتقال از زندان به بیمارستان پیروز شد",
+      "lead": "نخست‌وزیر پیشین پاکستان که به اتهامات فساد مالی محکوم شده بود، پس از پیگیری‌های حقوقی طولانی موفق شد در دادگاه برای انتقال از زندان به بیمارستان جهت دریافت درمان‌های پزشکی رأی بیاورد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/asia/imran-khan-hospital-pakistan.html",
+      "pubDate": "Thu, 20 Aug 2026 20:40:24 +0000",
+      "time": "۰۰:۱۰ - ۳۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-20T20:46:24.449Z"
+    },
+    {
+      "id": "nytimes_cc3f03efc3",
+      "agencyId": "nytimes",
+      "title": "Songs for Lizard Season",
+      "title_fa": "آهنگ‌هایی برای فصل مارمولک",
+      "lead": "همکاران ما در خبرنامه Amplifier پیشنهادهای موسیقی برای روزهای پایانی آفتاب‌گیر تابستان دارند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/music-songs-ukraine-royals.html",
+      "pubDate": "Thu, 20 Aug 2026 20:37:59 +0000",
+      "time": "۰۰:۰۷ - ۳۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-20T20:46:24.449Z"
     }
   ]
 }
