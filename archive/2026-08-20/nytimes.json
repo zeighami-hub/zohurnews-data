@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -287,6 +287,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-20T10:31:54.817Z"
+    },
+    {
+      "id": "nytimes_c22f3fba4e",
+      "agencyId": "nytimes",
+      "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
+      "title_fa": "امارات متحده عربی از توقف تجارت با ایران در پی تلاش‌های ترامپ برای انزوای تهران خبر داد",
+      "lead": "امارات مدت‌هاست که به عنوان یک مرکز تجاری عمده برای ایران عمل کرده و تحلیلگران می‌گویند این کشور کلید تلاش‌های ایران برای دور زدن تحریم‌های بین‌المللی بوده است، اتهامی که مقامات اماراتی آن را رد می‌کنند.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+      "pubDate": "Thu, 20 Aug 2026 04:46:27 +0000",
+      "time": "۰۸:۱۶ - ۲۹ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-20T11:16:46.205Z"
+    },
+    {
+      "id": "nytimes_9a92d1383b",
+      "agencyId": "nytimes",
+      "title": "A Prince at 26: Once-Secret Son of Belgian Royal Gains Legal Recognition",
+      "title_fa": "یک شاهزاده در ۲۶ سالگی: پسر زمانی مخفی شاهزاده بلژیکی به رسمیت قانونی رسید",
+      "lead": "کلمان وان‌دکرخو از پرنس کلمان بلژیک پیش از ازدواج او به دنیا آمد. او اکنون خودش یک شاهزاده محسوب می‌شود، هرچند انتظار نمی‌رود وظایف سلطنتی داشته باشد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/europe/prince-laurent-belgium-clement-son.html",
+      "pubDate": "Thu, 20 Aug 2026 10:44:33 +0000",
+      "time": "۱۴:۱۴ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-20T11:16:46.205Z"
     }
   ]
 }
