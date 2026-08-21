@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "nytimes",
-  "total": 28,
+  "total": 31,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -534,6 +534,63 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-20T21:31:18.065Z"
+    },
+    {
+      "id": "nytimes_d440f3b0bf",
+      "agencyId": "nytimes",
+      "title": "2 Hijackings in 4 Days: Somali Piracy Surges",
+      "title_fa": "دو مورد ربایش در چهار روز: اوج‌گیری دوباره دزدی دریایی سومالی",
+      "lead": "کارشناسان ابراز نگرانی می‌کنند که درگیری در ایران و سایر پویایی‌های منطقه‌ای زمینه‌ساز بازگشت دزدان دریایی سومالی شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/africa/2-hijackings-in-4-days-somali-piracy-surges.html",
+      "pubDate": "Thu, 20 Aug 2026 21:58:24 +0000",
+      "time": "۰۱:۲۸ - ۳۰ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-20T22:01:25.203Z"
+    },
+    {
+      "id": "nytimes_415f7743a6",
+      "agencyId": "nytimes",
+      "title": "The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran",
+      "title_fa": "پیام نهفته در تهدیدهای ترامپ به «جنگ اقتصادی» علیه ایران",
+      "lead": "تهدیدهای دونالد ترامپ به یک «روز D اقتصادی»، پیامی آشکار به ایران ارسال می‌کند که او تمایلی به بازگشت به جنگ ندارد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html",
+      "pubDate": "Thu, 20 Aug 2026 21:45:49 +0000",
+      "time": "۰۱:۱۵ - ۳۰ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-20T22:01:25.203Z"
+    },
+    {
+      "id": "nytimes_be4998c7ba",
+      "agencyId": "nytimes",
+      "title": "Cameroon’s Aging President Returns From Months-Long Stay Abroad",
+      "title_fa": "بازگشت رئیس‌جمهور سالخورده کامرون پس از ماه‌ها اقامت در خارج از کشور",
+      "lead": "پل بییا، ۹۳ ساله، از اوایل ژوئن در سوئیس به سر می‌برد و غیبت طولانی‌مدت او پرسش‌هایی را درباره وضعیت سلامتی و برنامه‌های جانشینی‌اش برانگيخته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/africa/cameroon-president-returns-from-long-stay-abroad.html",
+      "pubDate": "Thu, 20 Aug 2026 21:52:03 +0000",
+      "time": "۰۱:۲۲ - ۳۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-20T22:01:25.203Z"
     }
   ]
 }
