@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -211,6 +211,44 @@
         "negative": 5
       },
       "analyzed_at": "2026-08-20T09:16:33.519Z"
+    },
+    {
+      "id": "nytimes_e843bf7ee2",
+      "agencyId": "nytimes",
+      "title": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Falter",
+      "title_fa": "موشک‌های روسی حداقل ۱۳ نفر را در کی‌یف کشتند و پدافند هوایی دچار تضعیف شد",
+      "lead": "مسکو با بهره‌برداری از کاهش ذخایر موشک‌های رهگیر اوکراین، حملات خود را تشدید کرده که این امر به افزایش تلفات غیرنظامیان منجر شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+      "pubDate": "Thu, 20 Aug 2026 09:29:28 +0000",
+      "time": "۱۲:۵۹ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-20T09:31:40.564Z"
+    },
+    {
+      "id": "nytimes_9879b7322a",
+      "agencyId": "nytimes",
+      "title": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
+      "title_fa": "قفسه‌های خالی خواربار فروشی، سختی جدید جنگی برای اوکراینی‌ها",
+      "lead": "پس از سال‌ها بمباران نیروگاه‌ها و شهرها، جنگ هوایی روسیه انبار سوپرمارکت‌ها در اوکراین را هدف قرار داده و مشکلات جدیدی ایجاد کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html",
+      "pubDate": "Thu, 20 Aug 2026 09:28:09 +0000",
+      "time": "۱۲:۵۸ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-20T09:31:40.564Z"
     }
   ]
 }
