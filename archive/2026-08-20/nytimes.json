@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -458,6 +458,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-20T17:31:31.502Z"
+    },
+    {
+      "id": "nytimes_a3deb1ccbe",
+      "agencyId": "nytimes",
+      "title": "Academic Who Publicized Plagiarism Allegations Against Jason Arday Is Suspended",
+      "title_fa": "استاد دانشگاه افشاگر ادعاهای سرقت علمی علیه جیسون آردا، تعلیق شد",
+      "lead": "دانشگاه گنت در بلژیک اعلام کرد که ناتان کوفناس، استاد این دانشگاه، را تا زمان تکمیل تحقیقات به حالت تعلیق درآورده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/europe/arday-cofnas-suspended.html",
+      "pubDate": "Thu, 20 Aug 2026 17:37:00 +0000",
+      "time": "۲۱:۰۷ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-20T17:46:21.645Z"
     }
   ]
 }
