@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "skynews",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "skynews_6aea316848",
@@ -97,6 +97,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-20T09:46:28.829Z"
+    },
+    {
+      "id": "skynews_81b24d1efb",
+      "agencyId": "skynews",
+      "title": "Tanker boarded by armed people off Yemen",
+      "title_fa": "یک نفتکش در سواحل یمن توسط افراد مسلح توقیف شد",
+      "lead": "شش فرد مسلح به یک فروند نفتکش در سواحل یمن وارد شده و آن را تصرف کردند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/tanker-boarded-by-six-armed-people-off-yemen-13574987",
+      "pubDate": "Thu, 20 Aug 2026 11:54:00 +0100",
+      "time": "۱۴:۲۴ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-20T11:16:46.205Z"
+    },
+    {
+      "id": "skynews_c131ad23de",
+      "agencyId": "skynews",
+      "title": "Bodies of hikers missing for 30 years found after glacier melts",
+      "title_fa": "پیکر کوهنوردان مفقودشده پس از ۳۰ سال با ذوب شدن یخچال طبیعی پیدا شد",
+      "lead": "پیکر دو کوهنورد بلژیکی که بیش از سه دهه پیش در آلپ سوییس مفقود شده بودند، در یک یخچال طبیعی در حال ذوب پیدا شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/bodies-of-belgian-hikers-missing-in-alps-since-1992-found-after-swiss-glacier-melts-13574951",
+      "pubDate": "Thu, 20 Aug 2026 10:18:00 +0100",
+      "time": "۱۲:۴۸ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-20T11:16:46.205Z"
     }
   ]
 }
