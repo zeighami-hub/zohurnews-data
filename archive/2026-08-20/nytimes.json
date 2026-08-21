@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -344,6 +344,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-20T13:16:36.647Z"
+    },
+    {
+      "id": "nytimes_6c44aa641c",
+      "agencyId": "nytimes",
+      "title": "Trump Threat Puts Focus on Iran’s Trading Partners",
+      "title_fa": "تهدید ترامپ، شرکای تجاری ایران را در کانون توجه قرار داد",
+      "lead": "دونالد ترامپ به نظر می‌رسد پیشنهاد کرده است که ایالات متحده بر کشورهایی که با ایران تجارت می‌کنند مجازات‌های اقتصادی اعمال کند، هرچند که او اقدامات دقیق خود را مشخص نکرد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html",
+      "pubDate": "Thu, 20 Aug 2026 14:11:39 +0000",
+      "time": "۱۷:۴۱ - ۲۹ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-20T14:16:43.682Z"
+    },
+    {
+      "id": "nytimes_6a3dc92a7a",
+      "agencyId": "nytimes",
+      "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+      "title_fa": "اسرائیل تحقیقات کیفری درباره کشتن هند رجب و امدادگران پزشکی غزه را آغاز کرد",
+      "lead": "دو پرونده برجسته که مایه محکومیت بین‌المللی رفتار این کشور در غزه شده بود، به پلیس نظامی ارجاع شد. چنین تحقیقاتی به ندرت به محکومیت منجر شده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+      "pubDate": "Wed, 19 Aug 2026 20:18:49 +0000",
+      "time": "۲۳:۴۸ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-20T14:16:43.682Z"
     }
   ]
 }
