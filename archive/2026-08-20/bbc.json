@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "bbc",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "bbc_58575e9562",
@@ -135,6 +135,44 @@
         "negative": 85
       },
       "analyzed_at": "2026-08-20T05:01:33.354Z"
+    },
+    {
+      "id": "bbc_c7e07c9d9e",
+      "agencyId": "bbc",
+      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "title_fa": "بنیان‌گذار غول ملکی ورشکسته چین، اورگرند، به حبس ابد محکوم شد",
+      "lead": "صدور حکم حبس ابد برای هوی کا یان، نقطه عطف مهمی در پیآمدهای فروپاشی شرکت اورگرند به شمار می‌رود که بخش مسکن چین را به شدت تحت تأثیر قرار داده بود.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 05:07:00 GMT",
+      "time": "۰۸:۳۷ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-20T05:16:24.645Z"
+    },
+    {
+      "id": "bbc_02ffc42f90",
+      "agencyId": "bbc",
+      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "title_fa": "سربازان اوکراینی‌تبار اسیر به بی‌بی‌سی می‌گویند چرا برای روسیه جنگیده‌اند",
+      "lead": "مردان اوکراینی‌تبار که برای روسیه جنگیده و با اتهام خیانت مواجه هستند، در یک اردوگاه اسرای جنگی در غرب اوکراین بیان کردند که معتقد بودند از سرزمین مادری خود دفاع می‌کنند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 05:01:24 GMT",
+      "time": "۰۸:۳۱ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-20T05:16:24.645Z"
     }
   ]
 }
