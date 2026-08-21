@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -135,6 +135,82 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-20T08:46:28.544Z"
+    },
+    {
+      "id": "nytimes_3863328acc",
+      "agencyId": "nytimes",
+      "title": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "title_fa": "در حالی که ایران و آمریکا در بن‌بستی ناآرام قرار دارند، چه کسی کوتاه خواهد آمد؟",
+      "lead": "برای هفته‌ها هیچ پیشرفت دیپلماتیک و همچنین هیچ درگیری تمام‌عیاری رخ نداده است، زیرا به نظر می‌رسد هر دو طرف معتقدند می‌توانند بیشتر از طرف مقابل مقاومت کنند.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
+      "pubDate": "Thu, 20 Aug 2026 09:04:06 +0000",
+      "time": "۱۲:۳۴ - ۲۹ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-20T09:16:33.519Z"
+    },
+    {
+      "id": "nytimes_86c8c1aff9",
+      "agencyId": "nytimes",
+      "title": "Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
+      "title_fa": "کارشناسان: دستور ترامپ برای کاهش رزمایش‌های نظامی با کره جنوبی خطراتی به همراه دارد",
+      "lead": "تصمیم دونالد ترامپ برای محدود کردن رزمایش‌های نظامی در حالی اتخاذ شد که متحدان درباره تعهد ایالات متحده به اتحادهای دیرینه ابراز تردید می‌کنند. کارشناسان نسبت به پیامدهای این تصمیم هشدار داده‌اند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
+      "pubDate": "Thu, 20 Aug 2026 09:04:19 +0000",
+      "time": "۱۲:۳۴ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 45,
+        "negative": 45
+      },
+      "analyzed_at": "2026-08-20T09:16:33.519Z"
+    },
+    {
+      "id": "nytimes_f38116267d",
+      "agencyId": "nytimes",
+      "title": "The A.I.-Robotics Job Only a Human Can Do",
+      "title_fa": "شغل هوش مصنوعی و رباتیکی که فقط انسان‌ها می‌توانند انجام دهند",
+      "lead": "در هند، برخی افراد دوربین‌هایی را به بدن خود می‌بندند تا داده‌هایی درباره نحوه حرکت انسان‌ها جمع‌آوری کرده و به آموزش هوش مصنوعی کمک کنند. این کار نشان‌دهنده نیاز به حضور انسانی در توسعه فناوری است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html",
+      "pubDate": "Thu, 20 Aug 2026 09:03:41 +0000",
+      "time": "۱۲:۳۳ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-20T09:16:33.519Z"
+    },
+    {
+      "id": "nytimes_77de5bf011",
+      "agencyId": "nytimes",
+      "title": "The Indian City Where AI Is Creating Jobs for Humans",
+      "title_fa": "شهری در هند که هوش مصنوعی در آن برای انسان‌ها شغل ایجاد می‌کند",
+      "lead": "در حوزه رو به رشد برچسب‌گذاری داده‌ها، کارگران در یک شهر کوچک در جنوب هند به آموزش هوش مصنوعی می‌پردازند تا عملکرد آن را در انجام وظایف سنتی انسان‌ها بهبود بخشند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+      "pubDate": "Thu, 20 Aug 2026 09:02:44 +0000",
+      "time": "۱۲:۳۲ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 35,
+        "negative": 5
+      },
+      "analyzed_at": "2026-08-20T09:16:33.519Z"
     }
   ]
 }
