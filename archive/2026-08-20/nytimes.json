@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_1ef7053655",
@@ -78,6 +78,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-20T04:31:24.731Z"
+    },
+    {
+      "id": "nytimes_80679796bc",
+      "agencyId": "nytimes",
+      "title": "China Sentences Evergrande Founder to Life in Prison",
+      "title_fa": "چین بنیان‌گذار اورگراند را به حبس ابد محکوم کرد",
+      "lead": "مجازات هویی کا یان نقطه پایانی بر سقوط امپراتوری املاک و مستغلات او است که فروپاشی آن بحرانی طولانی‌مدت را در اقتصاد چین به راه انداخت.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+      "pubDate": "Thu, 20 Aug 2026 06:39:52 +0000",
+      "time": "۱۰:۰۹ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-20T07:16:36.027Z"
     }
   ]
 }
