@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_686aec482a",
@@ -21,6 +21,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-21T04:16:12.839Z"
+    },
+    {
+      "id": "nytimes_e6f2a3889a",
+      "agencyId": "nytimes",
+      "title": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
+      "title_fa": "داستان ضعیف، گرافیک ضعیف‌تر: سینماروهای چینی به سوی یک فیلم کم‌هزینه هجوم بردند",
+      "lead": "فیلم «گاو در راه است» با جلوه‌های بصری پیکسلی خود به دلیل اصالتش در عصر هوش مصنوعی مورد تقدیر قرار گرفته و در حال تبدیل شدن به یک اثر کالت کلاسیک برای نسل Z است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html",
+      "pubDate": "Thu, 20 Aug 2026 17:14:01 +0000",
+      "time": "۲۰:۴۴ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-21T04:31:26.685Z"
+    },
+    {
+      "id": "nytimes_4d475fff4f",
+      "agencyId": "nytimes",
+      "title": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
+      "title_fa": "تنفر از ماچا و در عین حال عشق به زندگی، او را در ۸۹ سالگی به ستاره تیک‌تاک تبدیل کرد",
+      "lead": "ورنر کالسینسکی به یک چهره محبوب در رسانه‌های اجتماعی در میان جوانان آلمانی تبدیل شده است و مسیر خود را از یک همسر داغدیده به مهمانی روی یک قایق تفریحی طی کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html",
+      "pubDate": "Thu, 20 Aug 2026 04:01:09 +0000",
+      "time": "۰۷:۳۱ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-21T04:31:26.685Z"
     }
   ]
 }
