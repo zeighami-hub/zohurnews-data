@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
   "agencyId": "bbc",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "bbc_88e6381f98",
@@ -135,6 +135,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-21T02:31:21.926Z"
+    },
+    {
+      "id": "bbc_56c72a867d",
+      "agencyId": "bbc",
+      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "title_fa": "حبس یک گردشگر سوئیسی در بالی به جرم توهین به روز مقدس سکوت",
+      "lead": "یک گردشگر ۲۶ ساله به دلیل انتشار مطلبی حاوی الفاظ رکیک درباره تعطیلات مقدس و روز سکوت، خشم عمومی را برانگیخت و به زندان محکوم شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 02:33:27 GMT",
+      "time": "۰۶:۰۳ - ۳۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-21T02:46:15.970Z"
+    },
+    {
+      "id": "bbc_825d42a8d2",
+      "agencyId": "bbc",
+      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "title_fa": "محکومیت فعالان تیان‌آنمن هنگ‌کنگ در دادگاه امنیت ملی",
+      "lead": "سه فعال به اتهام تحریک دیگران به براندازی قدرت دولتی تحت قانون تحمیلی چین مجرم شناخته شدند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 02:22:17 GMT",
+      "time": "۰۵:۵۲ - ۳۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-21T02:46:15.970Z"
     }
   ]
 }
