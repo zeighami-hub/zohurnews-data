@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_686aec482a",
@@ -211,6 +211,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-21T09:16:57.326Z"
+    },
+    {
+      "id": "nytimes_3863328acc",
+      "agencyId": "nytimes",
+      "title": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+      "title_fa": "در حالی که ایران و آمریکا در یک بن‌بست ناپایدار به سر می‌برند، چه کسی کوتاه می‌آید؟",
+      "lead": "طند هفته‌هاست که هیچ پیشرفت دیپلماتیک و در عین حال هیچ درگیری تمام‌عیاری رخ نداده است، زیرا هر یک از طرفین معتقد است که می‌تواند بیشتر از طرف مقابل مقاومت کند.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
+      "pubDate": "Thu, 20 Aug 2026 17:14:54 +0000",
+      "time": "۲۰:۴۴ - ۲۹ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-21T09:31:40.554Z"
+    },
+    {
+      "id": "nytimes_77de5bf011",
+      "agencyId": "nytimes",
+      "title": "The Indian City Where AI Is Creating Jobs for Humans",
+      "title_fa": "شهری در هند که هوش مصنوعی در آن برای انسان‌ها شغل ایجاد می‌کند",
+      "lead": "در حوزه به سرعت در حال رشد برچسب‌گذاری داده‌ها، کارگران یک شهر کوچک در جنوب هند به هوش مصنوعی آموزش می‌دهند تا عملکرد خود را در انجام کارهای سنتی انسان‌ها بهبود بخشد.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+      "pubDate": "Thu, 20 Aug 2026 12:03:58 +0000",
+      "time": "۱۵:۳۳ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-21T09:31:40.554Z"
     }
   ]
 }
