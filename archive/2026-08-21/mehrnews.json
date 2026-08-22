@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
   "agencyId": "mehrnews",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "mehrnews_d7e23c0514",
@@ -116,6 +116,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-21T07:31:41.565Z"
+    },
+    {
+      "id": "mehrnews_ebbcd652be",
+      "agencyId": "mehrnews",
+      "title": "Iran to use more destructive weapons if a new war starts",
+      "title_fa": "ایران در صورت آغاز جنگ جدید از تسلیحات مخرب‌تری استفاده خواهد کرد",
+      "lead": "سخنگوی سپاه پاسداران انقلاب اسلامی با هشدار به مقامات آمریکایی در خصوص هرگونه ماجراجویی علیه ایران اعلام کرد که در صورت وقوع جنگ جدید، کشور از سلاح‌های مخرب‌تری استفاده خواهد کرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247117/Iran-to-use-more-destructive-weapons-if-a-new-war-starts",
+      "pubDate": "Thu, 20 Aug 2026 07:27:42 GMT",
+      "time": "۱۰:۵۷ - ۲۹ مرداد",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-21T08:01:43.717Z"
+    },
+    {
+      "id": "mehrnews_251a080af6",
+      "agencyId": "mehrnews",
+      "title": "Israeli artillery shells southern Lebanese town",
+      "title_fa": "توپخانه رژیم صهیونیستی مناطقی را در جنوب لبنان گلوله‌باران کرد",
+      "lead": "منابع خبری گزارش دادند که حملات توپخانه‌ای رژیم صهیونیستی صبح جمعه برخی مناطق واقع در جنوب لبنان را هدف قرار داده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247131/Israeli-artillery-shells-southern-Lebanese-town",
+      "pubDate": "Fri, 21 Aug 2026 07:53:10 GMT",
+      "time": "۱۱:۲۳ - ۳۰ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-21T08:01:43.717Z"
     }
   ]
 }
