@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_686aec482a",
@@ -306,6 +306,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-21T11:01:42.589Z"
+    },
+    {
+      "id": "nytimes_ef6b0fdb78",
+      "agencyId": "nytimes",
+      "title": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
+      "title_fa": "چرا چین معتقد است می‌تواند در برابر تهدیدات اقتصادی ترامپ درباره ایران مقاومت کند؟",
+      "lead": "تحلیلگران چینی می‌گویند پکن می‌تواند عرضه مواد معدنی حیاتی آمریکا را تحت فشار قرار دهد و ذخایر نفتی کافی برای تحمل از دست رفتن نفت خام ایران را دارد.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html",
+      "pubDate": "Fri, 21 Aug 2026 13:44:41 +0000",
+      "time": "۱۷:۱۴ - ۳۰ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-21T14:02:29.667Z"
+    },
+    {
+      "id": "nytimes_d531f1b501",
+      "agencyId": "nytimes",
+      "title": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
+      "title_fa": "یک نوجوان فلسطینی پس از ورود شهرک‌نشینان اسرائیلی به روستایی در کرانه باختری کشته شد",
+      "lead": "مقام‌های فلسطینی و اسرائیلی روایت‌های متفاوتی از این واقعه ارائه دادند؛ رویدادی که در میان افزایش خشونت شهرک‌نشینان در سراسر سرزمین اشغالی کرانه باختری رخ داده است.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
+      "pubDate": "Fri, 21 Aug 2026 13:57:02 +0000",
+      "time": "۱۷:۲۷ - ۳۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-21T14:02:29.667Z"
     }
   ]
 }
