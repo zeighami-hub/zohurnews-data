@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
   "agencyId": "bbc",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "bbc_88e6381f98",
@@ -173,6 +173,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-21T02:46:15.970Z"
+    },
+    {
+      "id": "bbc_0ccb2260ad",
+      "agencyId": "bbc",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "title_fa": "اداره هواشناسی بریتانیا: الگوی ال‌نینو به «قوی‌ترین حالت در تاریخ ثبت‌شده» تبدیل می‌شود",
+      "lead": "دانشمندان می‌گویند الگوی رو به رشد آب‌وهوایی ال‌نینو یک «رویداد بی‌سابقه» است و به این معناست که سال ۲۰۲۷ احتمالاً گرم‌ترین سال ثبت‌شده در جهان خواهد بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 00:33:21 GMT",
+      "time": "۰۴:۰۳ - ۳۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-21T03:01:25.572Z"
+    },
+    {
+      "id": "bbc_6a9857b291",
+      "agencyId": "bbc",
+      "title": "Why the US economy is ringing alarm bells",
+      "title_fa": "چرا اقتصاد ایالات متحده زنگ‌های خطر را به صدا درآورده است؟",
+      "lead": "ایالات متحده این هفته به یک نقطه عطف جدید در زمینه بدهی رسید، اما چه میزان باید نگران بزرگ‌ترین اقتصاد جهان باشیم؟",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 23:15:15 GMT",
+      "time": "۰۲:۴۵ - ۳۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-21T03:01:25.572Z"
     }
   ]
 }
