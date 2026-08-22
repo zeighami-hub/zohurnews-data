@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
   "agencyId": "mehrnews",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "mehrnews_d7e23c0514",
@@ -211,6 +211,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-21T08:46:27.554Z"
+    },
+    {
+      "id": "mehrnews_97bb061158",
+      "agencyId": "mehrnews",
+      "title": "Iran's response to new threats to be devastating",
+      "title_fa": "پاسخ ایران به تهدیدهای جدید ویرانگر خواهد بود",
+      "lead": "رئیس ستاد کل نیروهای مسلح ایران اعلام کرد که هرگونه خطای محاسباتی و تهدید جدید از سوی دشمنان با پاسخی انقلابی، کوبنده و پشیمان‌کننده مواجه خواهد شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247133/Iran-s-response-to-new-threats-to-be-devastating",
+      "pubDate": "Fri, 21 Aug 2026 09:33:46 GMT",
+      "time": "۱۳:۰۳ - ۳۰ مرداد",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-21T09:46:27.642Z"
+    },
+    {
+      "id": "mehrnews_7e2f9f31c6",
+      "agencyId": "mehrnews",
+      "title": "Qalibaf calls for trade in national currencies",
+      "title_fa": "قالیباف خواستار تجارت با ارزهای ملی شد",
+      "lead": "رئیس مجلس شورای اسلامی ایران اعلام کرد که ایران و عراق نیازمند یک نقشه راه دقیق اقتصادی و تجاری هستند و خواستار تسویه معاملات دوجانبه با ارزهای ملی برای به چالش کشیدن تسلط دلار آمریکا شد.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247132/Qalibaf-calls-for-trade-in-national-currencies",
+      "pubDate": "Fri, 21 Aug 2026 09:17:21 GMT",
+      "time": "۱۲:۴۷ - ۳۰ مرداد",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-21T09:31:40.554Z"
     }
   ]
 }
