@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_686aec482a",
@@ -249,6 +249,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-21T09:31:40.554Z"
+    },
+    {
+      "id": "nytimes_e843bf7ee2",
+      "agencyId": "nytimes",
+      "title": "Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself",
+      "title_fa": "حمله موشکی گسترده نشان‌دهنده تردید روسیه نسبت به توانایی دفاعی اوکراین است",
+      "lead": "مسکو با استفاده از ذخایر رو به اتمام موشک‌های ضدحدّ اوکراین، حملات خود را تشدید کرده و تلفات غیرنظامیان را افزایش داده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+      "pubDate": "Thu, 20 Aug 2026 14:20:37 +0000",
+      "time": "۱۷:۵۰ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-21T10:01:44.518Z"
     }
   ]
 }
