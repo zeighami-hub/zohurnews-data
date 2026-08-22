@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
   "agencyId": "bbc",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "bbc_88e6381f98",
@@ -97,6 +97,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-21T00:01:42.105Z"
+    },
+    {
+      "id": "bbc_7e947ed419",
+      "agencyId": "bbc",
+      "title": "US sanctions more Cuban companies and officials",
+      "title_fa": "ایالات متحده شرکت‌ها و مقام‌های بیشتری از کوبا را تحریم کرد",
+      "lead": "مارکو روبیو اعلام کرد که یک مؤسسه بین‌المللی سوسیالیستی و وزارت ساخت‌وساز کوبا مشمول تازه‌ترین تحریم‌های ایالات متحده شده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 02:06:28 GMT",
+      "time": "۰۵:۳۶ - ۳۰ مرداد",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-21T02:31:21.926Z"
+    },
+    {
+      "id": "bbc_0cd6bd7525",
+      "agencyId": "bbc",
+      "title": "Giant whales move into Greenland waters as ice disappears",
+      "title_fa": "مهاجرت نهنگ‌های غول‌پیکر به آب‌های گرینلند با ذوب شدن یخ‌ها",
+      "lead": "ذوب شدن یخ‌های دریا در اثر تغییرات اقلیمی، این منطقه را برای حضور نهنگ‌های غول‌پیکر جهت تغذیه گسترده باز کرده است.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 02:05:20 GMT",
+      "time": "۰۵:۳۵ - ۲۹ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-21T02:31:21.926Z"
     }
   ]
 }
