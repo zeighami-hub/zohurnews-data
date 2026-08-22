@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
   "agencyId": "aljazeera",
-  "total": 61,
+  "total": 63,
   "articles": [
     {
       "id": "aljazeera_946b345725",
@@ -1161,6 +1161,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-21T17:16:19.071Z"
+    },
+    {
+      "id": "aljazeera_90c262f2ec",
+      "agencyId": "aljazeera",
+      "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+      "title_fa": "چرا ایران جنوب شرق «استراتژیک» اروپا را تهدید می‌کند؟",
+      "lead": "تهران بلغارستان، میزبان یک پایگاه هوایی ایالات متحده را تهدید کرده است، اما میزان اعتبار این تهدید چقدر است؟",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+      "pubDate": "Fri, 21 Aug 2026 17:29:17 +0000",
+      "time": "۲۰:۵۹ - ۳۰ مرداد",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-21T17:46:19.493Z"
+    },
+    {
+      "id": "aljazeera_216da3db16",
+      "agencyId": "aljazeera",
+      "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
+      "title_fa": "ارتش و شهرک‌نشینان اسرائیلی دو فلسطینی را در رویدادهای جداگانه در کرانه باختری کشتند",
+      "lead": "شهرک‌نشینان اسرائیلی یک نوجوان ۱۷ ساله به نام کریم سند شلالده را به ضرب گلوله به قتل رساندند و نیروهای اسرائیلی نیز یک مرد ۵۸ ساله به نام فتحی خازم را کشتند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
+      "pubDate": "Fri, 21 Aug 2026 17:17:55 +0000",
+      "time": "۲۰:۴۷ - ۳۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 15,
+        "negative": 85
+      },
+      "analyzed_at": "2026-08-21T17:46:19.493Z"
     }
   ]
 }
