@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "agencyId": "mehrnews",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "mehrnews_cfecbca1e2",
@@ -287,6 +287,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-22T07:02:16.683Z"
+    },
+    {
+      "id": "mehrnews_5bbbb93ff5",
+      "agencyId": "mehrnews",
+      "title": "Israeli warplanes launch two raids on Lebanon",
+      "title_fa": "جنگنده‌های اسرائیلی دو حمله به لبنان انجام دادند",
+      "lead": "جنگنده‌های رژیم صهیونیستی دو حمله هوایی به ارتفاعات علی طاهر در حومه شمالی شهر نبطیه الفوقا انجام دادند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247148/Israeli-warplanes-launch-two-raids-on-Lebanon",
+      "pubDate": "Sat, 22 Aug 2026 07:20:19 GMT",
+      "time": "۱۰:۵۰ - ۳۱ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-22T07:32:00.698Z"
+    },
+    {
+      "id": "mehrnews_5e5ade3ed2",
+      "agencyId": "mehrnews",
+      "title": "“Eid of renewing allegiance” marked at Tehran Vali-e Asr Sq.",
+      "title_fa": "برگزاری «عید بیعت» در میدان ولیعصر (عج) تهران",
+      "lead": "در آستانه آغاز امامت امام زمان (عج)، اجتماع مردمی «عید بیعت» روز جمعه با حضور اقشار مختلف مردم در میدان ولیعصر (عج) تهران برگزار شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/photo/247147/Eid-of-renewing-allegiance-marked-at-Tehran-Vali-e-Asr-Sq",
+      "pubDate": "Sat, 22 Aug 2026 07:16:46 GMT",
+      "time": "۱۰:۴۶ - ۳۱ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-22T07:32:00.698Z"
     }
   ]
 }
