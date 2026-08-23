@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_d1faed2c3c",
@@ -59,6 +59,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-22T04:01:32.450Z"
+    },
+    {
+      "id": "nytimes_3ab0d67efc",
+      "agencyId": "nytimes",
+      "title": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms",
+      "title_fa": "ادامه مذاکرات تعرفه‌ای کانادا و آمریکا همزمان با نزدیک شدن به مهلت نیمه‌شب ترامپ",
+      "lead": "مذاکره‌کنندگان کانادایی برای نهایی کردن توافقی جهت جلوگیری از اعمال تعرفه‌های جدید و بهبود شرایط تعرفه‌های موجود در واشنگتن حضور داشتند، اما مارک کارنی در داخل کشور با چالش مواجه است.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-talks.html",
+      "pubDate": "Sat, 22 Aug 2026 00:06:18 +0000",
+      "time": "۰۳:۳۶ - ۳۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-22T04:31:23.010Z"
+    },
+    {
+      "id": "nytimes_686aec482a",
+      "agencyId": "nytimes",
+      "title": "Orban’s Office, Thrown Open, Is Not the Den Hungarians Expected",
+      "title_fa": "دفتر اوربان که درهای آن باز شده، آن‌گونه که مجارستانی‌ها انتظار داشتند نیست",
+      "lead": "دولت جدید پیتر مگیار امیدوار بود که از این مجموعه مشرف به رودخانه دانوب به عنوان مدرکی دال بر تجمل‌گرایی یک فرد اقتدارگرا استفاده کند، اما این فضا با انتظارات فاصله داشت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/21/world/europe/orbans-office-thrown-open-is-not-the-den-hungarians-expected.html",
+      "pubDate": "Fri, 21 Aug 2026 04:01:10 +0000",
+      "time": "۰۷:۳۱ - ۳۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-22T04:31:23.010Z"
     }
   ]
 }
