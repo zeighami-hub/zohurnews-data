@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "mehrnews_cfecbca1e2",
@@ -40,6 +40,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-22T03:46:15.034Z"
+    },
+    {
+      "id": "mehrnews_cbd4afaccd",
+      "agencyId": "mehrnews",
+      "title": "Pezeshkian congratulates Bangladesh’s newly elected president",
+      "title_fa": "پزشکیان انتخاب رئیس‌جمهور جدید بنگلادش را تبریک گفت",
+      "lead": "رئیس‌جمهور ایران در پیامی انتخاب میرزا فخرالاسلام عالمگیر را به عنوان بیست و سومین رئیس‌جمهور بنگلادش تبریک گفت. وی در این پیام بر آمادگی ایران برای تعمیق روابط دیرینه میان دو کشور تأکید کرد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247140/Pezeshkian-congratulates-Bangladesh-s-newly-elected-president",
+      "pubDate": "Sat, 22 Aug 2026 04:01:15 GMT",
+      "time": "۰۷:۳۱ - ۳۱ مرداد",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-22T04:16:18.910Z"
+    },
+    {
+      "id": "mehrnews_9344c5e9d4",
+      "agencyId": "mehrnews",
+      "title": "Tehran strongly slams US economic warfare against Iran",
+      "title_fa": "تهران به شدت جنگ اقتصادی ایالات متحده علیه ایران را محکوم کرد",
+      "lead": "سخنگوی وزارت امور خارجه ایران تحریم‌های جدید آمریکا علیه کشور را به شدت محکوم کرد و گفت این تحریم‌های ثانویه هیچ پایه و اساسی در حقوق بین‌الملل ندارند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247139/Tehran-strongly-slams-US-economic-warfare-against-Iran",
+      "pubDate": "Sat, 22 Aug 2026 03:53:48 GMT",
+      "time": "۰۷:۲۳ - ۳۱ مرداد",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-22T04:01:32.450Z"
     }
   ]
 }
