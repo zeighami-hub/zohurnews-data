@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "agencyId": "mehrnews",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "mehrnews_cfecbca1e2",
@@ -344,6 +344,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-22T07:47:45.602Z"
+    },
+    {
+      "id": "mehrnews_ce6b326f54",
+      "agencyId": "mehrnews",
+      "title": "Iran’s defense industry turned sanctions into opportunities",
+      "title_fa": "صنعت دفاعی ایران تحریم‌ها را به فرصت تبدیل کرد",
+      "lead": "فرمانده نیروی دریایی ارتش جمهوری اسلامی ایران اعلام کرد که صنعت دفاعی کشور توانسته است تهدیدهای ناشی از تحریم‌های اعمال‌شده را به فرصت تبدیل کند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247150/Iran-s-defense-industry-turned-sanctions-into-opportunities",
+      "pubDate": "Sat, 22 Aug 2026 08:00:47 GMT",
+      "time": "۱۱:۳۰ - ۳۱ مرداد",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-22T08:16:33.112Z"
+    },
+    {
+      "id": "mehrnews_251a080af6",
+      "agencyId": "mehrnews",
+      "title": "Israeli artillery shells southern Lebanese town",
+      "title_fa": "گلوله‌باران توپخانه‌ای رژیم صهیونیستی علیه شهرکی در جنوب لبنان",
+      "lead": "گلوله‌باران توپخانه‌ای ارتش رژیم صهیونیستی صبح روز جمعه برخی مناطق در جنوب لبنان را هدف قرار داد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247131/Israeli-artillery-shells-southern-Lebanese-town",
+      "pubDate": "Fri, 21 Aug 2026 07:53:10 GMT",
+      "time": "۱۱:۲۳ - ۳۰ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-22T08:16:33.112Z"
     }
   ]
 }
