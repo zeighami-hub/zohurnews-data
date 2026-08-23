@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "agencyId": "mehrnews",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "mehrnews_cfecbca1e2",
@@ -192,6 +192,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-22T06:16:42.951Z"
+    },
+    {
+      "id": "mehrnews_58dad2cd53",
+      "agencyId": "mehrnews",
+      "title": "Armed group failed to cross Iran border: Police",
+      "title_fa": "ناکامی یک گروه مسلح در عبور از مرز ایران توسط پلیس",
+      "lead": "سخنگوی پلیس، سرتیپ پاسدار سعید منتظرالمهدی، اعلام کرد که مرزبانان ایرانی در نزدیکی سراوان مانع از نفوذ یک گروه مسلح به داخل کشور شدند و طی این درگیری یکی از اعضای این گروه کشته شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247145/Armed-group-failed-to-cross-Iran-border-Police",
+      "pubDate": "Sat, 22 Aug 2026 06:21:28 GMT",
+      "time": "۰۹:۵۱ - ۳۱ مرداد",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-22T06:31:50.559Z"
+    },
+    {
+      "id": "mehrnews_69890f87de",
+      "agencyId": "mehrnews",
+      "title": "Iran to rebuild defence industry based on war lessons",
+      "title_fa": "ایران صنعت دفاعی خود را بر اساس درس‌های جنگ بازسازی می‌کند",
+      "lead": "وزارت دفاع ایران اعلام کرد که این وزارتخانه صنعت دفاعی کشور را بر اساس درس‌های آموخته‌شده از جنگ‌های اخیر به طور مداوم مدرن‌سازی و بازسازی خواهد کرد و درگیری‌ها را به عنوان میدان یادگیری در نظر می‌گیرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247128/Iran-to-rebuild-defence-industry-based-on-war-lessons",
+      "pubDate": "Fri, 21 Aug 2026 06:08:13 GMT",
+      "time": "۰۹:۳۸ - ۳۰ مرداد",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-22T06:31:50.559Z"
     }
   ]
 }
