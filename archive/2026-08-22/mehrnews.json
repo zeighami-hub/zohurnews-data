@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "agencyId": "mehrnews",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "mehrnews_cfecbca1e2",
@@ -97,6 +97,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-22T04:31:23.010Z"
+    },
+    {
+      "id": "mehrnews_eba7c7e6f1",
+      "agencyId": "mehrnews",
+      "title": "Georgia refuses to join EU sanctions against Iran",
+      "title_fa": "گرجستان از پیوستن به تحریم‌های اتحادیه اروپا علیه ایران خودداری کرد",
+      "lead": "گرجستان از پیوستن به آخرین دور تحریم‌های اعمال شده از سوی اتحادیه اروپا علیه ایران امتناع ورزید.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://en.mehrnews.com/news/247143/Georgia-refuses-to-join-EU-sanctions-against-Iran",
+      "pubDate": "Sat, 22 Aug 2026 05:13:51 GMT",
+      "time": "۰۸:۴۳ - ۳۱ مرداد",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-22T05:16:33.676Z"
+    },
+    {
+      "id": "mehrnews_6f0221d003",
+      "agencyId": "mehrnews",
+      "title": "Iran's arms self-reliance changed enemy calculus",
+      "title_fa": "فرمانده ارتش: خوداتکایی تسلیحاتی ایران محاسبات دشمن را تغییر داد",
+      "lead": "فرمانده ارتش اعلام کرد که ارتباط میان قدرت رزمی نیروهای مسلح و صنعت دفاعی کشور موجب شد دشمنان محاسبات خود را تغییر داده و در نهایت تن به توافق سیاسی بدهند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247142/Iran-s-arms-self-reliance-changed-enemy-calculus",
+      "pubDate": "Sat, 22 Aug 2026 05:02:03 GMT",
+      "time": "۰۸:۳۲ - ۳۱ مرداد",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-22T05:16:33.676Z"
     }
   ]
 }
