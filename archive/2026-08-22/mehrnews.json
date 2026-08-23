@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "agencyId": "mehrnews",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_cfecbca1e2",
@@ -154,6 +154,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-22T05:46:21.499Z"
+    },
+    {
+      "id": "mehrnews_5135bd0406",
+      "agencyId": "mehrnews",
+      "title": "Iran's defence equipment production doubled in a year",
+      "title_fa": "تولید تجهیزات دفاعی ایران در طول یک سال دو برابر شد",
+      "lead": "سخنگوی وزارت دفاع ایران اعلام کرد که تولید تسلیحات و تجهیزات دفاعی در طول سال گذشته دو برابر شده و این کشور اکنون برنامه‌ریزی برای افزایش سه‌برابری آن را در دستور کار دارد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247144/Iran-defence-output-doubled-in-a-year-Ministry-Spox",
+      "pubDate": "Sat, 22 Aug 2026 06:00:11 GMT",
+      "time": "۰۹:۳۰ - ۳۱ مرداد",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-22T06:16:42.951Z"
+    },
+    {
+      "id": "mehrnews_d7e23c0514",
+      "agencyId": "mehrnews",
+      "title": "Israeli regime strikes south Lebanon despite ceasefire",
+      "title_fa": "حملات رژیم صهیونیستی به جنوب لبنان علیرغم توافق آتش‌بس",
+      "lead": "جنگنده‌های رژیم صهیونیستی ارتفاعات علی الطاهر، منطقه الدبشه و دوحه کفار رومان در جنوب لبنان را هدف قرار دادند که در ادامه نقض مکرر توافق چارچوب میانجی‌گری شده توسط آمریکا است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247127/Israeli-regime-strikes-south-Lebanon-despite-ceasefire",
+      "pubDate": "Fri, 21 Aug 2026 05:36:14 GMT",
+      "time": "۰۹:۰۶ - ۳۰ مرداد",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-22T06:16:42.951Z"
     }
   ]
 }
