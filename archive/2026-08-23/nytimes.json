@@ -1,7 +1,7 @@
 {
   "date": "2026-08-23",
   "agencyId": "nytimes",
-  "total": 8,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_3e7ade2449",
@@ -154,6 +154,82 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-23T09:16:33.058Z"
+    },
+    {
+      "id": "nytimes_61c0ae168b",
+      "agencyId": "nytimes",
+      "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+      "title_fa": "ایستادگی کارنی در برابر ترامپ در جنگ تجاری ایالات متحده و کانادا",
+      "lead": "نخست‌وزیر کانادا از توافق تجاری بدی که تصور می‌کرد با ایالات متحده داشت، کنار کشید. بسیاری از کانادایی‌ها از او حمایت می‌کنند، اما این اقدام پرهزینه خواهد بود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+      "pubDate": "Sun, 23 Aug 2026 07:15:52 +0000",
+      "time": "۱۰:۴۵ - ۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-23T09:46:40.678Z"
+    },
+    {
+      "id": "nytimes_304581f26a",
+      "agencyId": "nytimes",
+      "title": "How Two British Historians Made a Smash Hit Podcast",
+      "title_fa": "چگونه دو تاریخ‌دان بریتانیایی یک پادکست بسیار پرمخاطب ساختند",
+      "lead": "آن‌ها به بررسی موضوعات متنوعی از جمله سقوط آزتک‌ها، انقلاب فرانسه، ترور آبراهام لینکلن و بزرگ‌ترین میمون‌های تاریخ پرداختند و بقیه ماجرا تاریخ‌سازی شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
+      "pubDate": "Sat, 22 Aug 2026 21:03:54 +0000",
+      "time": "۰۰:۳۳ - ۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-23T09:46:40.678Z"
+    },
+    {
+      "id": "nytimes_5a4484e1b4",
+      "agencyId": "nytimes",
+      "title": "How a Trump Envoy Uses Vodka and Dirty Jokes to Conduct U.S. Diplomacy",
+      "title_fa": "چگونه یک فرستاده ترامپ از ودکا و لطیفه‌های نامناسب برای پیشبرد دیپلماسی ایالات متحده استفاده می‌کند",
+      "lead": "این دیپلمات، جان کویل، می‌گوید رویکرد شخصی‌سازی‌شده‌اش نتیجه می‌دهد و با سبک رئیس‌جمهور مطابقت دارد. منتقدان استدلال می‌کنند که او امتیاز زیادی به یک رهبر مستبد واگذار می‌کند.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/22/world/europe/belarus-john-coale-lukashenko-trump.html",
+      "pubDate": "Sat, 22 Aug 2026 14:38:44 +0000",
+      "time": "۱۸:۰۸ - ۳۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-23T09:46:40.678Z"
+    },
+    {
+      "id": "nytimes_212f5d27e7",
+      "agencyId": "nytimes",
+      "title": "Lebanon’s Efforts to Tame Hezbollah Stall Amid Israel War",
+      "title_fa": "تلاش‌های لبنان برای مهار حزب‌الله در سایه جنگ با اسرائیل متوقف شد",
+      "lead": "رئیس‌جمهور جوزف عون با رأی اعتماد و مطالبه مردمی برای اعمال مجدد کنترل بر کشور روی کار آمد، پس از آنکه گروه شبه‌نظامی لبنان را دوباره به جنگ با اسرائیل کشاند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
+      "pubDate": "Sat, 22 Aug 2026 09:02:01 +0000",
+      "time": "۱۲:۳۲ - ۳۱ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-23T09:46:40.678Z"
     }
   ]
 }
