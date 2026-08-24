@@ -1,7 +1,7 @@
 {
   "date": "2026-08-23",
   "agencyId": "france24",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "france24_e7f6fb391f",
@@ -59,6 +59,63 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-23T08:16:34.106Z"
+    },
+    {
+      "id": "france24_e22f6bb545",
+      "agencyId": "france24",
+      "title": "Iran escalates threats as US pushes economic isolation",
+      "title_fa": "تشدید تهدیدهای ایران همزمان با فشار ایالات متحده برای انزوای اقتصادی",
+      "lead": "تنش‌ها میان ایران و ایالات متحده رو به افزایش است؛ در حالی که واشنگتن خواستار انزوای اقتصاد ایران شده، تهران تهدید کرده است کشورهایی را که به تحریم‌های آمریکا بپیوندند به عنوان دشمن تلقی خواهد کرد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/iran-escalates-threats-as-us-pushes-economic-isolation",
+      "pubDate": "Sun, 23 Aug 2026 09:02:14 GMT",
+      "time": "۱۲:۳۲ - ۱ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-23T09:16:33.058Z"
+    },
+    {
+      "id": "france24_2a6a07fde3",
+      "agencyId": "france24",
+      "title": "South Korea tests Arctic route with a first container shipped to Europe",
+      "title_fa": "کره جنوبی برای نخستین بار مسیر قطبی را با ارسال کانتینر به اروپا آزمایش کرد",
+      "lead": "کره جنوبی برای اجتناب از بحران و مسدود شدن ترافیک در خاورمیانه، نخستین کشتی کانتینری خود را از مسیر قطبی به سمت اروپا ارسال کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/south-korea-tests-arctic-route-with-a-first-container-shipped-to-europe",
+      "pubDate": "Sun, 23 Aug 2026 09:03:56 GMT",
+      "time": "۱۲:۳۳ - ۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-23T09:16:33.058Z"
+    },
+    {
+      "id": "france24_9ce0514ae1",
+      "agencyId": "france24",
+      "title": "US-Canada trade dispute escalates after Carney announces retaliatory tariffs",
+      "title_fa": "تشدید تنش تجاری میان آمریکا و کانادا پس از اعلام تعرفه‌های متقابل توسط کارنی",
+      "lead": "پس از شکست مذاکرات تجاری میان کانادا و آمریکا، مارک کارنی، نخست‌وزیر کانادا، اعمال تعرفه‌های متقابل بر کالاها و خدمات ایالات متحده را اعلام کرد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-tariffs",
+      "pubDate": "Sun, 23 Aug 2026 09:02:22 GMT",
+      "time": "۱۲:۳۲ - ۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-23T09:16:33.058Z"
     }
   ]
 }
