@@ -1,7 +1,7 @@
 {
   "date": "2026-08-23",
   "agencyId": "guardian",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "guardian_1cb122e634",
@@ -192,6 +192,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-23T09:01:58.096Z"
+    },
+    {
+      "id": "guardian_740b0449a9",
+      "agencyId": "guardian",
+      "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
+      "title_fa": "غریبه در سرزمین خود: مکزیکی‌های دیپورت شده از آمریکای ترامپ در «لیتل لس‌آنجلس» پناه می‌گیرند",
+      "lead": "با وجود مشاغل فراوان و حمایت‌های اجتماعی، یکی از محله‌های مکزیکو سیتی به پناهگاهی برای کسانی تبدیل شده که بیشتر عمر خود را در ایالات متحده زیسته‌اند. این افراد پس از دیپورت شدن اکنون در این منطقه ساکن شده‌اند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees",
+      "pubDate": "Fri, 21 Aug 2026 10:00:31 GMT",
+      "time": "۱۳:۳۰ - ۳۰ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-23T11:16:28.538Z"
+    },
+    {
+      "id": "guardian_dd8a93f8bb",
+      "agencyId": "guardian",
+      "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
+      "title_fa": "اخراج فعال سیاسی از آمریکا پس از انتقاد از یک سیاستمدار کلمبیایی همسو با ترامپ",
+      "lead": "بتو کورال، فعال شناخته‌شده ساکن ایالات متحده، با در دست داشتن بنرهایی در فلوریدا به کلمبیایی‌ها هشدار داد به آبِلاردو دِ لا اسپریلا رأی ندهند. این اقدام در هفته منتهی به انتخابات ریاست‌جمهوری کلمبیا انجام شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
+      "pubDate": "Wed, 19 Aug 2026 09:00:12 GMT",
+      "time": "۱۲:۳۰ - ۲۸ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-23T11:16:28.538Z"
     }
   ]
 }
