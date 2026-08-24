@@ -1,7 +1,7 @@
 {
   "date": "2026-08-23",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 8,
   "articles": [
     {
       "id": "nytimes_3e7ade2449",
@@ -97,6 +97,63 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-23T06:01:47.941Z"
+    },
+    {
+      "id": "nytimes_ece9b21e9f",
+      "agencyId": "nytimes",
+      "title": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+      "title_fa": "رهبران راست‌گرای آمریکای لاتین با تقلید از ترامپ به حمایت از متحدان خود می‌پردازند",
+      "lead": "نسل جدیدی از رهبران راست‌گرای آمریکای لاتین با ابراز حمایت و حمله به رقبای خود، به‌طور آشکار در انتخابات کشورهای یکدیگر دخالت و از متحدانشان پشتیبانی می‌کنند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+      "pubDate": "Sun, 23 Aug 2026 09:01:52 +0000",
+      "time": "۱۲:۳۱ - ۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-23T09:16:33.058Z"
+    },
+    {
+      "id": "nytimes_a50f5ffdab",
+      "agencyId": "nytimes",
+      "title": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
+      "title_fa": "سبد غذایی جهان زیر ضرب جنگ، آب‌وهوا و اختلافات تجاری",
+      "lead": "محصولات نامناسب کشاورزی و حملات به مسیرهای تجاری تهدیدی برای افزایش قیمت مواد غذایی به شمار می‌روند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html",
+      "pubDate": "Sun, 23 Aug 2026 09:01:49 +0000",
+      "time": "۱۲:۳۱ - ۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-23T09:16:33.058Z"
+    },
+    {
+      "id": "nytimes_9ef3b495f2",
+      "agencyId": "nytimes",
+      "title": "Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.",
+      "title_fa": "کسی در اینترنت خود را به جای کولیان فرناندز جا زده بود. او می‌گوید همسرش بوده است.",
+      "lead": "کولیان فرناندز، بازیگر آلمانی، دست به کار شد تا بفهمد چه کسی در فضای مجازی خود را به جای او جا زده و مطالب صریح جنسی برای مردان می‌فرستد. پاسخ او جرقه‌ای برای یک جنبش فمینیستی شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html",
+      "pubDate": "Sun, 23 Aug 2026 09:00:33 +0000",
+      "time": "۱۲:۳۰ - ۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-23T09:16:33.058Z"
     }
   ]
 }
