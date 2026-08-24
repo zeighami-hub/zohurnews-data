@@ -1,7 +1,7 @@
 {
   "date": "2026-08-23",
   "agencyId": "independent",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "independent_8eac09561c",
@@ -344,6 +344,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-23T07:02:12.211Z"
+    },
+    {
+      "id": "independent_a0e17b5df4",
+      "agencyId": "independent",
+      "title": "Iranian hackers force UK power plant offline for days",
+      "title_fa": "هکر‌های ایرانی نیروگاه برق بریتانیا را برای روز‌ها از کار انداختند",
+      "lead": "گزارش‌ها حاکی از آن است که هکرهای ایرانی یک نیروگاه برق در بریتانیا را هدف حمله سایبری قرار داده و آن را برای چند روز از مدار خارج کرده‌اند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/iranian-hackers-shut-down-uk-power-plant-b3037681.html",
+      "pubDate": "Sun, 23 Aug 2026 07:09:49 GMT",
+      "time": "۱۰:۳۹ - ۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-23T07:19:22.879Z"
+    },
+    {
+      "id": "independent_ea7b5e5685",
+      "agencyId": "independent",
+      "title": "Iranian hackers carry out unprecedented attack on UK’s power network",
+      "title_fa": "حمله بی‌سابقه هکرهای ایرانی به شبکه برق بریتانیا",
+      "lead": "هکرهای ایرانی در اقدامی بی‌سابقه به شبکه برق بریتانیا حمله کردند که در نتیجه آن، یک ژنراتور مجبور شد به مدت چهار روز فعالیت خود را متوقف کند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/home-news/iran-hackers-shut-down-uk-power-plant-b3037680.html",
+      "pubDate": "Sun, 23 Aug 2026 07:06:27 GMT",
+      "time": "۱۰:۳۶ - ۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-23T07:19:22.879Z"
     }
   ]
 }
