@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_f64d4fad6e",
@@ -211,6 +211,63 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-24T09:16:52.698Z"
+    },
+    {
+      "id": "nytimes_479e13e73c",
+      "agencyId": "nytimes",
+      "title": "U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands",
+      "title_fa": "تفنگداران دریایی آمریکا رزمایش با کره جنوبی را به دلیل تقاضاهای جنگ ایران لغو کردند",
+      "lead": "کره جنوبی اعلام کرد تصمیم برای لغو این رویداد مهم در ماه ژوئن اتخاذ شده است. رئیس‌جمهور ترامپ نیز اوایل ماه جاری میلادی یک رزمایش نظامی مشترک دیگر را کوتاه کرده بود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html",
+      "pubDate": "Mon, 24 Aug 2026 09:19:46 +0000",
+      "time": "۱۲:۴۹ - ۲ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-24T09:31:55.007Z"
+    },
+    {
+      "id": "nytimes_a50f5ffdab",
+      "agencyId": "nytimes",
+      "title": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
+      "title_fa": "سبدهای نان جهان زیر ضرب جنگ، آب و هوا و اختلافات تجاری قرار دارند",
+      "lead": "برداشت‌های ضعیف محصولات کشاورزی و حملات به مسیرهای تجاری تهدیدی برای افزایش قیمت مواد غذایی محسوب می‌شوند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html",
+      "pubDate": "Sun, 23 Aug 2026 18:02:13 +0000",
+      "time": "۲۱:۳۲ - ۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-24T09:31:55.007Z"
+    },
+    {
+      "id": "nytimes_ece9b21e9f",
+      "agencyId": "nytimes",
+      "title": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+      "title_fa": "رهبران آمریکای لاتین با تقلید از ترامپ، به تقویت متحدان خود در آن سوی مرزها می‌پردازند",
+      "lead": "نسل جدیدی از رهبران راست‌گرا با تشویق، تأیید و توهین به رقبا و «ووکیسم»، آشکارا وارد انتخابات کشورهای یکدیگر می‌شوند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+      "pubDate": "Sun, 23 Aug 2026 09:01:52 +0000",
+      "time": "۱۲:۳۱ - ۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-24T09:31:55.007Z"
     }
   ]
 }
