@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "aljazeera",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "aljazeera_2c0510c1b3",
@@ -135,6 +135,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-24T03:01:56.310Z"
+    },
+    {
+      "id": "aljazeera_f41f2444f1",
+      "agencyId": "aljazeera",
+      "title": "‘We know this movie’: Iran mocks latest US sanctions",
+      "title_fa": "«این فیلم را دیده‌ایم»: ایران تحریم‌های جدید آمریکا را به سخره گرفت",
+      "lead": "عباس عراقچی گفت تحریم‌های جدید ایالات متحده که احتمالاً دوشنبه رونمایی می‌شوند، مانند تماشای «همان فیلم در حال تکرار» است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
+      "pubDate": "Mon, 24 Aug 2026 04:02:14 +0000",
+      "time": "۰۷:۳۲ - ۲ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 65,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-24T04:31:37.181Z"
+    },
+    {
+      "id": "aljazeera_2b0093efe8",
+      "agencyId": "aljazeera",
+      "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+      "title_fa": "مذاکرات سوریه و اسرائیل با میانجیگری آمریکا در اردن",
+      "lead": "وزیر امور خارجه سوریه با مقامات اسرائیل در اردن دیدار کرد تا تنش‌ها پس از حمله اسرائیل در نزدیکی مرز ترکیه کاهش یابد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
+      "pubDate": "Mon, 24 Aug 2026 03:56:59 +0000",
+      "time": "۰۷:۲۶ - ۲ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-24T04:16:23.446Z"
     }
   ]
 }
