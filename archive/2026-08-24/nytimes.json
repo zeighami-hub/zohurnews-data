@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "nytimes",
-  "total": 27,
+  "total": 28,
   "articles": [
     {
       "id": "nytimes_f64d4fad6e",
@@ -515,6 +515,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-24T20:46:14.476Z"
+    },
+    {
+      "id": "nytimes_cdbb003cd3",
+      "agencyId": "nytimes",
+      "title": "A New Effort to Punish Iran",
+      "title_fa": "تلاش جدید برای مجازات ایران",
+      "lead": "دولت ترامپ اعلام کرده است که با تحت فشار قرار دادن شرکای تجاری ایران، تلاش خواهد کرد این کشور را از اقتصاد جهانی منزوی کند.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html",
+      "pubDate": "Mon, 24 Aug 2026 20:48:29 +0000",
+      "time": "۰۰:۱۸ - ۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-24T21:01:43.777Z"
     }
   ]
 }
