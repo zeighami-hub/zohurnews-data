@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "bbc",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "bbc_e1f2489231",
@@ -21,6 +21,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-24T00:31:16.361Z"
+    },
+    {
+      "id": "bbc_031689ac3e",
+      "agencyId": "bbc",
+      "title": "Australian shark attack victim grateful for 'second chance at life'",
+      "title_fa": "قربانی حمله کوسه در استرالیا سپاسگزار «فرصت دوباره برای زندگی» است",
+      "lead": "لیا استوارت در ماه ژوئن مورد حمله یک کوسه قرار گرفت و از ناحیه دست و پا دچار جراحت‌ها و گزیدگی‌های متعددی شد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 00:34:59 GMT",
+      "time": "۰۴:۰۴ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-24T02:16:08.017Z"
+    },
+    {
+      "id": "bbc_86f3399307",
+      "agencyId": "bbc",
+      "title": "Girl, 17, killed in Swedish sword attack, police say",
+      "title_fa": "به گفته پلیس، یک دختر ۱۷ ساله در حمله با شمشیر در سوئد کشته شد",
+      "lead": "در پی این حمله دو پسر ۱۲ و ۱۷ ساله نیز زخمی شدند و یک مظنون ۱۸ ساله بازداشت شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 01:34:15 GMT",
+      "time": "۰۵:۰۴ - ۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-24T02:16:08.017Z"
     }
   ]
 }
