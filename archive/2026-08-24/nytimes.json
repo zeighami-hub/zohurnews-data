@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_f64d4fad6e",
@@ -401,6 +401,25 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-24T12:04:04.353Z"
+    },
+    {
+      "id": "nytimes_ef06ef0b32",
+      "agencyId": "nytimes",
+      "title": "Iran Warns Gulf States Not to Join Trump’s Economic War",
+      "title_fa": "هشدار ایران به کشورهای حوزه خلیج فارس درباره عدم مشارکت در جنگ اقتصادی ترامپ",
+      "lead": "محسن رضایی، مشاور امنیت ملی ایران، متعهد شد که مانع از خروج حتی یک قطره نفت از منطقه شود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
+      "pubDate": "Sun, 23 Aug 2026 17:00:10 +0000",
+      "time": "۲۰:۳۰ - ۱ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-24T13:16:53.601Z"
     }
   ]
 }
