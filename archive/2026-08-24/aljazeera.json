@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "aljazeera",
-  "total": 57,
+  "total": 59,
   "articles": [
     {
       "id": "aljazeera_2c0510c1b3",
@@ -1085,6 +1085,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-24T17:16:29.212Z"
+    },
+    {
+      "id": "aljazeera_982afe66c7",
+      "agencyId": "aljazeera",
+      "title": "Trump administration announces global economic war on Iran",
+      "title_fa": "دولت ترامپ جنگ اقتصادی جهانی علیه ایران را اعلام کرد",
+      "lead": "این یک خبر فوری است که در آن اعلام شد دولت ترامپ جنگ اقتصادی جهانی را علیه ایران آغاز کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
+      "pubDate": "Mon, 24 Aug 2026 17:10:37 +0000",
+      "time": "۲۰:۴۰ - ۲ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-24T17:31:49.847Z"
+    },
+    {
+      "id": "aljazeera_5629fa5a05",
+      "agencyId": "aljazeera",
+      "title": "Japanese delegation seeks to soothe strained ties with China",
+      "title_fa": "هیئت ژاپنی برای ترمیم روابط تیره با چین تلاش می‌کند",
+      "lead": "یک هیئت پارلمانی متشکل از نمایندگان مختلف برای تلاش در راستای کاهش تنش‌ها و بهبود مناسبات با چین وارد پکن شدند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss",
+      "pubDate": "Mon, 24 Aug 2026 17:16:10 +0000",
+      "time": "۲۰:۴۶ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-24T17:31:49.847Z"
     }
   ]
 }
