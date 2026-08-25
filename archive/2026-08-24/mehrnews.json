@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "mehrnews",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "mehrnews_ede1bca617",
@@ -192,6 +192,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-24T08:02:15.851Z"
+    },
+    {
+      "id": "mehrnews_143cd3163a",
+      "agencyId": "mehrnews",
+      "title": "Iran warns to fine, seize violating ships",
+      "title_fa": "هشدار ایران درباره جریمه و توقیف کشتی‌های متخلف",
+      "lead": "مرجع مدیریت آبراه خلیج فارس در ایران اعلام کرد شناورهایی که با کشتی‌های ناقض قوانین ترانزیت ایران در تنگه هرمز همکاری کنند، خود در فهرست متخلفان قرار خواهند گرفت.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247196/Iran-warns-to-fine-seize-violating-ships",
+      "pubDate": "Mon, 24 Aug 2026 08:10:00 GMT",
+      "time": "۱۱:۴۰ - ۲ شهریور",
+      "iranScore": 7,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-24T08:17:38.674Z"
+    },
+    {
+      "id": "mehrnews_953ba29cce",
+      "agencyId": "mehrnews",
+      "title": "Iran not let end of war be based on aggressor’s conditions",
+      "title_fa": "ایران اجازه نمی‌دهد پایان جنگ بر اساس شرایط متجاوز تعیین شود",
+      "lead": "اسماعیل بقایی، سخنگوی وزارت امور خارجه، با انتقاد از سیاست‌های آمریکا علیه ایران تأکید کرد که کشور هرگز اجازه نخواهد داد پایان جنگ بر اساس شروط و شرایط طرف متجاوز تعیین شود.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247195/Iran-not-let-end-of-war-be-based-on-aggressor-s-conditions",
+      "pubDate": "Mon, 24 Aug 2026 08:01:26 GMT",
+      "time": "۱۱:۳۱ - ۲ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-24T08:17:38.674Z"
     }
   ]
 }
