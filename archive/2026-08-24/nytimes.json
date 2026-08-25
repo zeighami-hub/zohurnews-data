@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 27,
   "articles": [
     {
       "id": "nytimes_f64d4fad6e",
@@ -496,6 +496,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-24T19:31:32.495Z"
+    },
+    {
+      "id": "nytimes_c9de2e666a",
+      "agencyId": "nytimes",
+      "title": "The Price of Bread",
+      "title_fa": "بهای نان؛ جنگ، شوک‌های اقلیمی و اختلافات تجاری سیستم غذایی جهان را تهدید می‌کنند",
+      "lead": "جنگ، بحران‌های آب‌وهوایی و مناقشات تجاری به مناطق عمده تولید غلات در جهان ضربه زده و سیستم غذایی جهانی را وارد شرایط خطرناکی کرده‌اند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html",
+      "pubDate": "Mon, 24 Aug 2026 05:53:02 +0000",
+      "time": "۰۹:۲۳ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-24T20:46:14.476Z"
     }
   ]
 }
