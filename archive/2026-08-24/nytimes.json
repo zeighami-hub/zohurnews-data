@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_f64d4fad6e",
@@ -420,6 +420,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-24T13:16:53.601Z"
+    },
+    {
+      "id": "nytimes_bbc800af0f",
+      "agencyId": "nytimes",
+      "title": "Iran Pledges to Defy Trump’s Economic Sanctions",
+      "title_fa": "ایران بر سرسختی در برابر تحریم‌های اقتصادی ترامپ تأکید کرد",
+      "lead": "تحلیلگران می‌گویند تهران ممکن است پس از تلاش‌ها برای تحت فشار گذاشتن اقتصادش، مناقشه را به صورت نظامی تشدید کند. یک مقام ایرانی متعهد شد که «حتی یک قطره نفت» از خلیج فارس خارج نخواهد شد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
+      "pubDate": "Mon, 24 Aug 2026 14:04:10 +0000",
+      "time": "۱۷:۳۴ - ۲ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-24T14:17:39.704Z"
     }
   ]
 }
