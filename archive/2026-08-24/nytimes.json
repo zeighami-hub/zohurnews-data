@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_f64d4fad6e",
@@ -97,6 +97,120 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-24T09:04:25.602Z"
+    },
+    {
+      "id": "nytimes_141f27e98a",
+      "agencyId": "nytimes",
+      "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+      "title_fa": "سفر نخست‌وزیر جدید بریتانیا به اوکراین همزمان با تشدید هشدارهای مسکو",
+      "lead": "نخست‌وزیر بریتانیا در نخستین سفر خارجی خود پس از آغاز به کار، بر حمایت از کی‌یف تأکید کرد، در حالی که مسکو نسبت به عواقب این اقدام هشدار داده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+      "pubDate": "Mon, 24 Aug 2026 09:08:25 +0000",
+      "time": "۱۲:۳۸ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-24T09:16:52.698Z"
+    },
+    {
+      "id": "nytimes_52f5b283de",
+      "agencyId": "nytimes",
+      "title": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+      "title_fa": "به گفته مقامات اوکراینی، برخی از پهپادهای هوش مصنوعی روسیه با میکروکامپیوترهای انویدیا کار می‌کنند",
+      "lead": "این غول فناوری می‌گوید این دستگاه‌ها را در روسیه نمی‌فروشد، اما آن‌ها به‌طور گسترده در بازارهای فروش مجدد موجود هستند. هنگامی که از این طریق خریداری می‌شوند، ردیابی آن‌ها عملاً غیرممکن است.",
+      "category": "economy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
+      "pubDate": "Mon, 24 Aug 2026 09:02:44 +0000",
+      "time": "۱۲:۳۲ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-24T09:16:52.698Z"
+    },
+    {
+      "id": "nytimes_163285c7fb",
+      "agencyId": "nytimes",
+      "title": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
+      "title_fa": "آیا «تگزاس آرژانتین» می‌تواند اقتصاد این کشور را نجات دهد؟",
+      "lead": "هزاران آرژانتینی به منطقه‌ای دورافتاده در پاتاگونیا هجوم می‌آورند و تنها با کوله‌پشتی، چادر و این امید که خود و کشورشان بتوانند سرنوشت‌شان را تغییر دهند، به دنبال کار هستند.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html",
+      "pubDate": "Mon, 24 Aug 2026 09:02:25 +0000",
+      "time": "۱۲:۳۲ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-24T09:16:52.698Z"
+    },
+    {
+      "id": "nytimes_2735745628",
+      "agencyId": "nytimes",
+      "title": "Iceland’s Murder Rate Is Off the Charts — in Its Books, at Least",
+      "title_fa": "آمار قتل در ایسلند بسیار بالا است؛ دست‌کم در کتاب‌های این کشور",
+      "lead": "این کشور نوردیک تقریباً هیچ قتل واقعی ندارد، با این حال داستان‌های جنایی ژانر ادبی مورد علاقه آن است. این بدان معناست که نویسندگان با چالشی روبه‌رو هستند: اینکه قتل را باورپذیر جلوه دهند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/books/iceland-crime-fiction.html",
+      "pubDate": "Mon, 24 Aug 2026 09:02:16 +0000",
+      "time": "۱۲:۳۲ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-24T09:16:52.698Z"
+    },
+    {
+      "id": "nytimes_9bb31c92f8",
+      "agencyId": "nytimes",
+      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+      "title_fa": "یک پهپاد سه اوکراینی را کشت؛ این پهپاد کاملاً توسط هوش مصنوعی هدایت می‌شد",
+      "lead": "حمله آنچه مقامات اوکراینی آن را یک پهپاد روسی مجهز به تراشه انویدیا توصیف کردند، نویدبخش آینده‌ای دیستوپیایی از تسلیحات رها شده از کنترل انسان است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/europe/drones-autonomous-ai-kill.html",
+      "pubDate": "Mon, 24 Aug 2026 09:00:32 +0000",
+      "time": "۱۲:۳۰ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-24T09:16:52.698Z"
+    },
+    {
+      "id": "nytimes_364cde9348",
+      "agencyId": "nytimes",
+      "title": "How Argentina’s Oil Boom Is Changing Patagonia",
+      "title_fa": "چگونه رونق نفتی آرژانتین در حال تغییر دادن پاتاگونیا است",
+      "lead": "اما بوبولا، خبرنگار ما، به شمال غربی پاتاگونیا سفر می‌کند؛ کانون رونق نفتی که آرژانتین امیدوار است اقتصادش را متحول کند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/video/world/americas/100000010986029/how-argentinas-oil-boom-is-changing-patagonia.html",
+      "pubDate": "Mon, 24 Aug 2026 09:00:01 +0000",
+      "time": "۱۲:۳۰ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-24T09:16:52.698Z"
     }
   ]
 }
