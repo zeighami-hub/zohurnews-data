@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "mehrnews",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "mehrnews_ede1bca617",
@@ -135,6 +135,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-24T06:16:51.822Z"
+    },
+    {
+      "id": "mehrnews_0cf6d61073",
+      "agencyId": "mehrnews",
+      "title": "Iran seizes, sells US oil cargo for EB patients",
+      "title_fa": "ایران محموله نفتی آمریکا را توقیف و برای بیماران پروانه‌ای فروخت",
+      "lead": "یک محموله نفتی متعلق به ایالات متحده آمریکا توقیف شد و فرآورده‌های آن به فروش رسید. عواید حاصل از این اقدام برای کمک به بیماران مبتلا به اپیدرمولیز بولوزا (EB) در ایران اختصاص یافت.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247192/Iran-seizes-sells-US-oil-cargo-for-EB-patients",
+      "pubDate": "Mon, 24 Aug 2026 07:28:00 GMT",
+      "time": "۱۰:۵۸ - ۲ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-24T07:32:01.100Z"
+    },
+    {
+      "id": "mehrnews_623752743e",
+      "agencyId": "mehrnews",
+      "title": "Casualties reported in Israeli attacks on Khan Younis",
+      "title_fa": "گزارش تلفات در حملات اسرائیل به خان یونس",
+      "lead": "منابع پزشکی در بیمارستان الکمال اعلام کردند که یک مرد بر اثر جراحات وارده ناشی از حمله روز یکشنبه اسرائیل به خان یونس در جنوب غزه جان خود را از دست داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247193/Casualties-reported-in-Israeli-attacks-on-Khan-Younis",
+      "pubDate": "Mon, 24 Aug 2026 07:25:48 GMT",
+      "time": "۱۰:۵۵ - ۲ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-24T07:32:01.100Z"
     }
   ]
 }
