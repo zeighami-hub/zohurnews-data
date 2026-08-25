@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_f64d4fad6e",
@@ -287,6 +287,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-24T09:46:52.693Z"
+    },
+    {
+      "id": "nytimes_36ca0a63c0",
+      "agencyId": "nytimes",
+      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+      "title_fa": "یک پهپاد سه اوکراینی را کشت؛ این حمله کاملاً توسط هوش مصنوعی هدایت می‌شد",
+      "lead": "حمله توسط آنچه مقامات اوکراینی یک پهپاد روسی مجهز به تراشه انویدیا توصیف کردند، آینده‌ای دیستوپیایی از تسلیحات رها شده از کنترل انسان را نوید می‌دهد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+      "pubDate": "Mon, 24 Aug 2026 09:29:32 +0000",
+      "time": "۱۲:۵۹ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-24T10:03:17.798Z"
+    },
+    {
+      "id": "nytimes_304581f26a",
+      "agencyId": "nytimes",
+      "title": "How Two British Historians Made a Smash Hit Podcast",
+      "title_fa": "چگونه دو تاریخ‌دان بریتانیایی یک پادکست بسیار پرمخاطب ساختند",
+      "lead": "آن‌ها به بررسی موضوعات متنوعی از جمله سقوط آزتک‌ها، انقلاب فرانسه، ترور آبراهام لینکلن و بزرگترین میمون‌های تاریخ پرداختند و بقیه ماجرا تاریخ‌ساز شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
+      "pubDate": "Sat, 22 Aug 2026 21:03:54 +0000",
+      "time": "۰۰:۳۳ - ۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-24T10:03:17.798Z"
     }
   ]
 }
