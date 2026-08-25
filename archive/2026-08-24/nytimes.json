@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_f64d4fad6e",
@@ -78,6 +78,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-24T06:16:51.822Z"
+    },
+    {
+      "id": "nytimes_bd43b5c756",
+      "agencyId": "nytimes",
+      "title": "Where Iran’s Young People Gather, the Government Sees Threats to Its Authority",
+      "title_fa": "محل تجمع جوانان ایرانی؛ جایی که دولت آن را تهدیدی برای اقتدار خود می‌داند",
+      "lead": "در هفته‌های اخیر پلیس ده‌ها کافه را به دلیل عدم رعایت حجاب اجباری پلمب کرده است. کارشناسان این اقدام را بخشی از تلاش حکومت برای کنترل فضای عمومی می‌دانند.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
+      "pubDate": "Mon, 24 Aug 2026 08:47:21 +0000",
+      "time": "۱۲:۱۷ - ۲ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-24T09:04:25.602Z"
     }
   ]
 }
