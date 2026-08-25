@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
   "agencyId": "rt",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "rt_907e07c5d4",
@@ -325,6 +325,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-24T18:31:37.814Z"
+    },
+    {
+      "id": "rt_5642b2d406",
+      "agencyId": "rt",
+      "title": "US unveils ‘economic onslaught’ against Iran",
+      "title_fa": "آمریکا «حمله اقتصادی» جدیدی را علیه ایران رونمایی کرد",
+      "lead": "اسکات بسنت، وزیر خزانه‌داری آمریکا، از «عملیات طرد اقتصادی» با هدف مجازات هر کشوری که با ایران تجارت کند، پرده برداشت.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/644604-bessent-economic-sanctions-iran/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Mon, 24 Aug 2026 18:48:59 +0000",
+      "time": "۲۲:۱۸ - ۲ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-24T19:01:56.824Z"
+    },
+    {
+      "id": "rt_e72b214c67",
+      "agencyId": "rt",
+      "title": "How close are Russia and the UK to war?",
+      "title_fa": "روسیه و بریتانیا تا چه اندازه به جنگ نزدیک شده‌اند؟",
+      "lead": "روسیه سفیر خود را از لندن فراخواند؛ این تصمیم پس از آن اتخاذ شد که مسکو به این نتیجه رسید بریتانیا «رویارویی» را انتخاب کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/644601-russia-uk-ambassador-war/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Mon, 24 Aug 2026 18:50:21 +0000",
+      "time": "۲۲:۲۰ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-24T19:01:56.824Z"
     }
   ]
 }
