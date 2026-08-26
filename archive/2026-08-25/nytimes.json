@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_d33ee28068",
@@ -135,6 +135,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-25T08:16:50.121Z"
+    },
+    {
+      "id": "nytimes_7487a193a9",
+      "agencyId": "nytimes",
+      "title": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
+      "title_fa": "نوکیش مسیحی فراری از ایران که توسط دولت ترامپ دیپورت شده بود، خانه جدیدی پیدا کرد",
+      "lead": "آرتمیس قاسم‌زاده که از آزار و اذیت مذهبی گریخته بود، تحت سیاست‌های سرکوب مهاجرتی ترامپ به پاناما دیپورت شد. اکنون کانادا به او پناهندگی داده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/25/world/middleeast/christian-convert-who-fled-iran-and-was-ousted-from-us-finds-a-new-home.html",
+      "pubDate": "Tue, 25 Aug 2026 09:02:25 +0000",
+      "time": "۱۲:۳۲ - ۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-25T09:20:02.860Z"
+    },
+    {
+      "id": "nytimes_bd43b5c756",
+      "agencyId": "nytimes",
+      "title": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops",
+      "title_fa": "سرکوب یکی از معدود تفریحات لوکس جوانان در ایران: کافی‌شاپ‌ها",
+      "lead": "در هفته‌های اخیر پلیس ده‌ها کافه را پلمب کرده است که اغلب دلیل آن عدم رعایت قوانین حجاب اجباری عنوان شده است. کارشناسان می‌گویند این اقدام بخشی از تلاش برای کنترل فضای عمومی است.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
+      "pubDate": "Mon, 24 Aug 2026 11:49:33 +0000",
+      "time": "۱۵:۱۹ - ۲ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-25T09:20:02.860Z"
+    },
+    {
+      "id": "nytimes_ffb85a9641",
+      "agencyId": "nytimes",
+      "title": "What Happened to the Coveted Western Tanks Sent to Ukraine?",
+      "title_fa": "سرنوشت تانک‌های ارزشمند غربی ارسالی به اوکراین چه شد؟",
+      "lead": "اوکراین برای دریافت این تسلیحات گران‌قیمت پافشاری کرد و سرانجام آن‌ها را به دست آورد، اما پهپادها عملاً آن‌ها را غیرقابل استفاده کرده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/25/world/europe/ukraine-russia-tanks.html",
+      "pubDate": "Tue, 25 Aug 2026 09:01:55 +0000",
+      "time": "۱۲:۳۱ - ۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-25T09:20:02.860Z"
     }
   ]
 }
