@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_d33ee28068",
@@ -382,6 +382,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-25T11:32:10.415Z"
+    },
+    {
+      "id": "nytimes_2a1b68e7bd",
+      "agencyId": "nytimes",
+      "title": "Tornado Rips Through Towns in Southern France",
+      "title_fa": "گردباد شهرهایی را در جنوب فرانسه درنوردید",
+      "lead": "یک گردباد غیرمعمول قدرتمند ده‌ها خانه را تخریب کرد و برق حدود ۲۸۰۰ خانوار را قطع نمود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html",
+      "pubDate": "Tue, 25 Aug 2026 12:16:02 +0000",
+      "time": "۱۵:۴۶ - ۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-25T12:32:49.882Z"
     }
   ]
 }
