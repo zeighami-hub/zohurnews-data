@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_d33ee28068",
@@ -192,6 +192,63 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-25T09:20:02.860Z"
+    },
+    {
+      "id": "nytimes_141f27e98a",
+      "agencyId": "nytimes",
+      "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+      "title_fa": "نخست‌وزیر بریتانیا در میان هشدارهای فزاینده روسیه وارد اوکراین شد",
+      "lead": "نخست‌وزیر بریتانیا در نخستین سفر خارجی خود پس از تصدی سمتش، با وجود هشدارهای جدید درباره پیامدهای احتمالی، بر حمایت از کی‌یف تأکید کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+      "pubDate": "Mon, 24 Aug 2026 22:16:57 +0000",
+      "time": "۰۱:۴۶ - ۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-25T09:32:01.269Z"
+    },
+    {
+      "id": "nytimes_163285c7fb",
+      "agencyId": "nytimes",
+      "title": "Can ‘Argentina’s Texas’ Save the Country’s Economy?",
+      "title_fa": "آیا «تگزاس آرژانتین» می‌تواند اقتصاد این کشور را نجات دهد؟",
+      "lead": "هزاران آرژانتینی با در دست داشتن کوله‌پشتی و چادر به منطقه‌ای دورافتاده در پاتاگونیا سرازیر می‌شوند تا با امید به بهبود وضعیت خود و کشورشان، به دنبال کار بگردند.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html",
+      "pubDate": "Mon, 24 Aug 2026 18:38:37 +0000",
+      "time": "۲۲:۰۸ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-25T09:32:01.269Z"
+    },
+    {
+      "id": "nytimes_52f5b283de",
+      "agencyId": "nytimes",
+      "title": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+      "title_fa": "به گفته مقام‌های اوکراینی، برخی از پهپادهای هوش مصنوعی روسیه از ریزکامپیوترهای انویدیا قدرت می‌گیرند",
+      "lead": "این غول فناوری اعلام کرده که این دستگاه‌ها را در روسیه به فروش نمی‌رساند، اما این محصولات در بازارهای واسطه‌ای به وفور یافت می‌شوند و در صورت خرید از این طریق، ردیابی آن‌ها عملاً غیرممکن است.",
+      "category": "economy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
+      "pubDate": "Mon, 24 Aug 2026 11:19:29 +0000",
+      "time": "۱۴:۴۹ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-25T09:32:01.269Z"
     }
   ]
 }
