@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_d33ee28068",
@@ -268,6 +268,63 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-25T09:46:55.466Z"
+    },
+    {
+      "id": "nytimes_f9ab4c6a1b",
+      "agencyId": "nytimes",
+      "title": "U.S. Campaign on Iran’s Economy May Still Risk Regional Military Escalation",
+      "title_fa": "کمپین ایالات متحده علیه اقتصاد ایران ممکن است همچنان خطر تنش نظامی منطقه‌ای را به دنبال داشته باشد",
+      "lead": "کارشناسان هشدار می‌دهند که کمپینی با هدف اجتناب از تنش نظامی ممکن است برعکس باعث تحریک آن شود، زیرا رهبران ایران متعهد به تلافی در سراسر خلیج فارس شده‌اند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
+      "pubDate": "Tue, 25 Aug 2026 09:46:41 +0000",
+      "time": "۱۳:۱۶ - ۳ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-25T10:02:06.348Z"
+    },
+    {
+      "id": "nytimes_79e5a66d44",
+      "agencyId": "nytimes",
+      "title": "Trump Administration to Return Diplomats to Middle East Embassies",
+      "title_fa": "دولت ترامپ دیپلمات‌ها را به سفارتخانه‌های خاورمیانه بازمی‌گرداند",
+      "lead": "یک سند داخلی نشان می‌دهد که افسران خارج از کشور که تخلیه شده بودند ممکن است از همین هفته به پست‌های خود بازگردند، که نشان می‌دهد واشنگتن انتظار از سرگیری درگیری تمام‌عیار با ایران را ندارد.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/25/world/middleeast/us-diplomats-middle-east-embassies.html",
+      "pubDate": "Tue, 25 Aug 2026 09:32:55 +0000",
+      "time": "۱۳:۰۲ - ۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-25T10:02:06.348Z"
+    },
+    {
+      "id": "nytimes_c22dc1e4cc",
+      "agencyId": "nytimes",
+      "title": "Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions",
+      "title_fa": "سوریه و اسرائیل با میانجی‌گری آمریکا برای کاهش تنش‌ها مذاکره کردند",
+      "lead": "این گفتگوها که توسط خبرگزاری دولتی سوریه گزارش شد، چند روز پس از حمله اسرائیل به یک پایگاه هوایی در شمال غرب سوریه و به عنوان بخشی از مداخلات نظامی این رژیم انجام گرفت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html",
+      "pubDate": "Mon, 24 Aug 2026 16:41:33 +0000",
+      "time": "۲۰:۱۱ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-25T10:02:06.348Z"
     }
   ]
 }
