@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "agencyId": "bbc",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_0b890c5c6d",
@@ -363,6 +363,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-25T10:48:04.248Z"
+    },
+    {
+      "id": "bbc_1394814e62",
+      "agencyId": "bbc",
+      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "title_fa": "هشدار چین درباره صیانت از منافع خود پس از گسترش تحریم‌های آمریکا علیه ایران",
+      "lead": "ایالات متحده کشورهایی را که به تجارت با تهران ادامه دهند تهدید به انزوا کرده است، در حالی که ایران بخش عمده‌ای از نفت خود را به پکن می‌فروشد و چین نسبت به این اقدامات واکنش نشان داده است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 10:56:03 GMT",
+      "time": "۱۴:۲۶ - ۳ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-25T11:17:21.644Z"
+    },
+    {
+      "id": "bbc_1b8c580b40",
+      "agencyId": "bbc",
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "title_fa": "دومین خرده‌فروشی آنلاین بزرگ روسیه هدف حملات اوکراین قرار گرفت",
+      "lead": "شرکت «اوزون» اعلام کرد که انبارهای این شرکت در جنوب روسیه، از جمله در داغستان و کراسنودار، در جریان حملات شبانه هدف اصابت قرار گرفته‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 10:40:22 GMT",
+      "time": "۱۴:۱۰ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-25T11:17:21.644Z"
     }
   ]
 }
