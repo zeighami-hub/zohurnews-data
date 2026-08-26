@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "agencyId": "guardian",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "guardian_75d1143412",
@@ -40,6 +40,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-25T01:31:32.484Z"
+    },
+    {
+      "id": "guardian_6bf2902d45",
+      "agencyId": "guardian",
+      "title": "Woodside scraps long-term emissions and clean energy targets despite windfall oil profits caused by Iran war",
+      "title_fa": "شرکت وودساید با وجود سودهای کلان نفتی ناشی از جنگ ایران، اهداف بلندمدت انتشار گازهای گلخانه‌ای و انرژی پاک را کنار گذاشت",
+      "lead": "بزرگترین شرکت نفت و گاز استرالیا در دوره گزارش‌دهی شش‌ماهه خود از افزایش ۲۷ درصدی سود فروش به ۱.۶۷ میلیارد دلار خبر داد، با این حال اهداف بلندمدت مربوط به انرژی پاک و کاهش انتشار گازهای گلخانه‌ای را کنار گذاشت.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
+      "pubDate": "Tue, 25 Aug 2026 03:29:38 GMT",
+      "time": "۰۶:۵۹ - ۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-25T03:31:42.278Z"
+    },
+    {
+      "id": "guardian_ae54f0b51b",
+      "agencyId": "guardian",
+      "title": "Scots college students charged with sexual assault of teen girl appear in court",
+      "title_fa": "دانش‌آموزان یک کالج اسکاتلندی به اتهام تجاوز جنسی به دختر نوجوان در دادگاه حاضر شدند",
+      "lead": "سه پسر نوجوان دانش‌آموز یک مدرسه خصوصی در سیدنی که متهم به تجاوز جنسی به دختری ۱۴ ساله در کوچه‌ای در حومه شرقی سیدنی هستند، با قرار وثیقه در دادگاه حاضر شدند و هنوز دفاعیه‌ای ارائه نکرده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/sydney-scots-college-boys-charged-sexual-assault-appear-in-court-ntwnfb",
+      "pubDate": "Tue, 25 Aug 2026 03:25:58 GMT",
+      "time": "۰۶:۵۵ - ۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-25T03:31:42.278Z"
     }
   ]
 }
