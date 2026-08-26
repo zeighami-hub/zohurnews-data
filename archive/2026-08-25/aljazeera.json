@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "agencyId": "aljazeera",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "aljazeera_845c69272a",
@@ -439,6 +439,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-25T08:31:45.530Z"
+    },
+    {
+      "id": "aljazeera_850dfa9376",
+      "agencyId": "aljazeera",
+      "title": "Pakistan says significant progress made in talks on Iran-US war",
+      "title_fa": "پاکستان از پیشرفت چشمگیر در گفتگوها پیرامون جنگ ایران و آمریکا خبر داد",
+      "lead": "پاکستان اعلام کرد در جریان گفتگوها طی یک ماموریت دیپلماتیک یک‌روزه به تهران توسط فرمانده ارتش و وزیر کشور پاکستان، پیشرفت قابل توجهی حاصل شده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
+      "pubDate": "Tue, 25 Aug 2026 08:32:52 +0000",
+      "time": "۱۲:۰۲ - ۳ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-25T09:05:41.264Z"
+    },
+    {
+      "id": "aljazeera_b88cb36391",
+      "agencyId": "aljazeera",
+      "title": "Rohingya refugees protest, nine years after exodus to Bangladesh",
+      "title_fa": "اعتراض پناهجویان روهینگیا نه سال پس از کوچ اجباری به بنگلادش",
+      "lead": "پناهجویان روهینگیا با برگزاری تجمع‌های اعتراضی، نهمین سالگرد خروج خود و پناه بردن به بنگلادش را گرامی داشتند و خواستار احقاق حقوق خود شدند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
+      "pubDate": "Tue, 25 Aug 2026 08:24:13 +0000",
+      "time": "۱۱:۵۴ - ۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-25T09:05:41.264Z"
     }
   ]
 }
