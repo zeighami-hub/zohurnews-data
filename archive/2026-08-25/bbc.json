@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "agencyId": "bbc",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "bbc_0b890c5c6d",
@@ -116,6 +116,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-25T03:01:32.496Z"
+    },
+    {
+      "id": "bbc_98e43ca0ba",
+      "agencyId": "bbc",
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "title_fa": "نخست‌وزیر بریتانیا بر حمایت از اوکراین علیرغم تهدیدهای روسیه تأکید کرد",
+      "lead": "این موضع‌گیری پس از آن صورت گرفت که مسکو درباره پیامدهای استفاده ادعایی اوکراین از پهپادهای بریتانیایی هشدار داد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 01:48:24 GMT",
+      "time": "۰۵:۱۸ - ۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-25T03:46:15.815Z"
+    },
+    {
+      "id": "bbc_3cc8f27616",
+      "agencyId": "bbc",
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "title_fa": "فراخوان نزدیک به سه میلیون خودرو تسلا در چین به دلیل دستگیره‌های پنهان در",
+      "lead": "علاوه بر تسلا، برندهای دیگری از جمله خودروسازان چینی مانند اکس‌پنگ، شیائومی و جیلی نیز تحت تأثیر این فراخوان قرار گرفته‌اند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 23:53:32 GMT",
+      "time": "۰۳:۲۳ - ۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-25T03:46:15.815Z"
     }
   ]
 }
