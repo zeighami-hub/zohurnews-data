@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "agencyId": "france24",
-  "total": 43,
+  "total": 45,
   "articles": [
     {
       "id": "france24_ba91fc6339",
@@ -819,6 +819,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-25T21:01:44.229Z"
+    },
+    {
+      "id": "france24_40108aa756",
+      "agencyId": "france24",
+      "title": "Oil prices fall for second day as US shifts from Iran strikes to sanctions",
+      "title_fa": "کاهش قیمت نفت برای دومین روز همزمان با تغییر رویکرد آمریکا از حملات به ایران به سمت تحریم‌ها",
+      "lead": "قیمت نفت روز سه‌شنبه برای دومین روز متوالی کاهش یافت؛ زیرا معامله‌گران با توجه به رویکرد واشنگتن در اعمال تحریم‌های اقتصادی گسترده‌تر، خطر حملات نظامی مجدد ایالات متحده به ایران را کمتر دیدند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/economy/20260825-oil-prices-fall-us-iran-strikes-sanctions",
+      "pubDate": "Tue, 25 Aug 2026 21:57:55 GMT",
+      "time": "۰۱:۲۷ - ۴ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-25T22:01:23.654Z"
+    },
+    {
+      "id": "france24_630ea201db",
+      "agencyId": "france24",
+      "title": "US-led Gaza peace board warns Hamas over kites after Israeli threat",
+      "title_fa": "هیئت صلح غزه به رهبری آمریکا پس از تهدید اسرائیل، به حماس درباره بادبادک‌ها هشدار داد",
+      "lead": "هیئت ناظر بر طرح صلح غزه روز سه‌شنبه به حماس هشدار داد فعالیت‌های نظامی از جمله فرستادن بادبادک را متوقف کند. یک مقام هیئت صلح گفت اسرائیل نیز باید به آتش‌بس احترام بگذارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat",
+      "pubDate": "Tue, 25 Aug 2026 21:49:37 GMT",
+      "time": "۰۱:۱۹ - ۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-25T22:01:23.654Z"
     }
   ]
 }
