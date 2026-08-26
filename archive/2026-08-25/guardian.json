@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
   "agencyId": "guardian",
-  "total": 27,
+  "total": 29,
   "articles": [
     {
       "id": "guardian_75d1143412",
@@ -515,6 +515,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-25T18:01:49.700Z"
+    },
+    {
+      "id": "guardian_81d33a6e0d",
+      "agencyId": "guardian",
+      "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
+      "title_fa": "تایوان ۹ نفر را به اتهام قاچاق سرورهای پیشرفته هوش مصنوعی به چین متهم کرد",
+      "lead": "در میان متهمان دو کارمند از شرکت سوپرمایکرو و یک نفر از انویدیا حضور دارند که این امر ابعاد جدیدی به رقابت هوش مصنوعی میان آمریکا و چین می‌بخشد.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
+      "pubDate": "Tue, 25 Aug 2026 19:02:42 GMT",
+      "time": "۲۲:۳۲ - ۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-25T19:31:38.919Z"
+    },
+    {
+      "id": "guardian_26a63a39b3",
+      "agencyId": "guardian",
+      "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
+      "title_fa": "ترامپ تعرفه جدید ۵۰ درصدی بر خودروها و فولاد کانادا اعمال کرد",
+      "lead": "این اقدام نشان‌دهنده تازه‌ترین افت در روابط تجاری میان دو کشور همسایه با پیوندهای قوی اقتصادی است.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
+      "pubDate": "Mon, 24 Aug 2026 18:55:43 GMT",
+      "time": "۲۲:۲۵ - ۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-25T19:31:38.919Z"
     }
   ]
 }
