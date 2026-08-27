@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_e48279f79f",
@@ -40,6 +40,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-26T04:16:25.594Z"
+    },
+    {
+      "id": "nytimes_3a0a5be054",
+      "agencyId": "nytimes",
+      "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+      "title_fa": "چگونه مذاکرات تعرفه‌ای ایالات متحده و کانادا به یک جنگ تجاری تمام‌عیار تبدیل شد",
+      "lead": "روایت‌های دقیق از ساعات پایانی مذاکرات نشان می‌دهد که در حالی که ایالات متحده به کانادا پیشنهاد داد که این بهترین توافق در میان تمامی کشورهاست، آنچه کانادا باید در ازای آن واگذار می‌کرد، غیرقابل تصور به نظر می‌رسید.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+      "pubDate": "Tue, 25 Aug 2026 20:42:58 +0000",
+      "time": "۰۰:۱۲ - ۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 50,
+        "negative": 45
+      },
+      "analyzed_at": "2026-08-26T04:31:42.188Z"
+    },
+    {
+      "id": "nytimes_80c6b6c2e9",
+      "agencyId": "nytimes",
+      "title": "What We Know About Australia’s Bird Flu, Which Has Crossed Over to Mammals",
+      "title_fa": "آنچه درباره آنفلوآنزای مرغی استرالیا که به پستانداران سرایت کرده، می‌دانیم",
+      "lead": "استرالیا نخستین مورد ابتلا به ویروس H5N1 را در ماه ژوئن در میان پرندگان مهاجر دریایی تایید کرد. از آن زمان تاکنون، این ویروس به سرعت گسترش یافته و واکنش‌های دولتی را تحت فشار قرار داده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html",
+      "pubDate": "Tue, 25 Aug 2026 20:35:25 +0000",
+      "time": "۰۰:۰۵ - ۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 45,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-26T04:31:42.188Z"
     }
   ]
 }
