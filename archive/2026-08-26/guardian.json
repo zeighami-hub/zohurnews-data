@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
   "agencyId": "guardian",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "guardian_31beaaca8e",
@@ -59,6 +59,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-26T01:46:10.625Z"
+    },
+    {
+      "id": "guardian_c3190a6283",
+      "agencyId": "guardian",
+      "title": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
+      "title_fa": "طوفان ناررا: سیل کم‌سابقه خانه‌ها را زیر آب برد و موجب تخلیه گسترده در چین شد",
+      "lead": "بارش‌های سنگین ناشی از طوفان ناررا باعث آبگرفتگی گسترده و زیر آب رفتن منازل و همچنین تخلیه اضطراری جمعیت در مناطق جنوبی چین شد. همزمان با حرکت این طوفان، پیش‌بینی می‌شود مناطق دیگری از ویتنام و جنوب چین شاهد بارندگی باشند و سامانه طوفانی دیگری به نام ساودل نیز به سمت ژاپن و تایوان در حرکت است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
+      "pubDate": "Wed, 26 Aug 2026 01:46:25 GMT",
+      "time": "۰۵:۱۶ - ۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-26T02:16:08.917Z"
+    },
+    {
+      "id": "guardian_60117ef682",
+      "agencyId": "guardian",
+      "title": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers",
+      "title_fa": "ژاپن ۱۸۰۰ نفر را برای کشیدن یک قلعه ۳۶۰ تنی با طناب و غلتک به کار گرفت",
+      "lead": "پس از انجام تعمیرات روی قلعه هیروساکی در استان آئوموری، مقامات از یک تکنیک سنتی برای جابجایی این سازه به مسافت بیش از دو متر با کمک حدود ۱۸۰۰ نفر استفاده کردند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes",
+      "pubDate": "Tue, 25 Aug 2026 01:10:44 GMT",
+      "time": "۰۴:۴۰ - ۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-26T02:01:38.877Z"
     }
   ]
 }
