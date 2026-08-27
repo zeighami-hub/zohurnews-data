@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_e48279f79f",
@@ -211,6 +211,63 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-26T09:46:47.150Z"
+    },
+    {
+      "id": "nytimes_f9ab4c6a1b",
+      "agencyId": "nytimes",
+      "title": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
+      "title_fa": "هشدار کارشناسان درباره پیامدهای فشار اقتصادی آمریکا بر ایران",
+      "lead": "کارشناسان هشدار می‌دهند که کمپین فشار اقتصادی با هدف پرهیز از تنش نظامی ممکن است نتیجه عکس داده و رهبران ایران را به تلافی در منطقه خلیج فارس وادار کند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html",
+      "pubDate": "Tue, 25 Aug 2026 18:28:40 +0000",
+      "time": "۲۱:۵۸ - ۳ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-26T10:33:18.519Z"
+    },
+    {
+      "id": "nytimes_79e5a66d44",
+      "agencyId": "nytimes",
+      "title": "Trump Administration to Return Diplomats to Middle East Embassies",
+      "title_fa": "بازگشت دیپلمات‌های آمریکایی به سفارتخانه‌های خاورمیانه",
+      "lead": "بر اساس یک سند داخلی، دیپلمات‌های خارج‌شده آمریکایی ممکن است به زودی به محل ماموریت خود بازگردند که نشان‌دهنده عدم پیش‌بینی درگیری تمام‌عیار با ایران است.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/25/world/middleeast/us-diplomats-middle-east-embassies.html",
+      "pubDate": "Tue, 25 Aug 2026 09:32:55 +0000",
+      "time": "۱۳:۰۲ - ۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-26T10:33:18.519Z"
+    },
+    {
+      "id": "nytimes_b6df67aa34",
+      "agencyId": "nytimes",
+      "title": "Kurdish-Led Militia in Syria Disbands in Boost for U.S.-Backed Government",
+      "title_fa": "شبه‌نظامیان تحت رهبری کردها در سوریه منحل شدند؛ تقویتی برای دولت تحت حمایت آمریکا",
+      "lead": "نیروهای دموکراتیک سوریه (سدف)، به عنوان یک گروه مسلح تحت رهبری کردها، برای ادغام در ارتش این کشور توافق کردند که نشان‌دهنده تضعیف نقش مستقل آن‌هاست.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/26/world/middleeast/kurdish-militia-syria-disbands.html",
+      "pubDate": "Wed, 26 Aug 2026 10:20:11 +0000",
+      "time": "۱۳:۵۰ - ۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-26T10:33:18.519Z"
     }
   ]
 }
