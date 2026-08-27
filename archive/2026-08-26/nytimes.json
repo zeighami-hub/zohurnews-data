@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_e48279f79f",
@@ -173,6 +173,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-26T09:17:12.698Z"
+    },
+    {
+      "id": "nytimes_129af7c701",
+      "agencyId": "nytimes",
+      "title": "Eight Dead, Others Missing as Floods Sweep Away Villages in Nepal",
+      "title_fa": "هشت کشته و مفقودی در پی جاری شدن سیل در روستاهای نپال",
+      "lead": "دیواری از آب در امتداد یک دره رودخانه‌ای هیمالیایی که میان نپال و منطقه تبت چین مشترک است، جریان یافت و خساراتی برجای گذاشت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/26/world/asia/nepal-floods-tibet-missing.html",
+      "pubDate": "Wed, 26 Aug 2026 09:36:29 +0000",
+      "time": "۱۳:۰۶ - ۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-26T09:46:47.150Z"
+    },
+    {
+      "id": "nytimes_ffb85a9641",
+      "agencyId": "nytimes",
+      "title": "What Happened to the Coveted Western Tanks Sent to Ukraine?",
+      "title_fa": "چه بر سر تانک‌های مطلوب غربی ارسالی به اوکراین آمد؟",
+      "lead": "اوکراین خواستار این تسلیحات گران‌قیمت شد و در نهایت آن‌ها را دریافت کرد، اما پهپادها آن‌ها را تقریباً غیرقابل استفاده کرده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/25/world/europe/ukraine-russia-tanks.html",
+      "pubDate": "Tue, 25 Aug 2026 09:01:55 +0000",
+      "time": "۱۲:۳۱ - ۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-26T09:46:47.150Z"
     }
   ]
 }
