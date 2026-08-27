@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
   "agencyId": "bbc",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "bbc_dd33bd6fb5",
@@ -477,6 +477,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-26T11:47:39.888Z"
+    },
+    {
+      "id": "bbc_f06ec8cb31",
+      "agencyId": "bbc",
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "title_fa": "به گفته شاهدان، در بیمارستان پاکستان که آتش‌سوزی جان ۱۴ نوزاد را گرفت، در بخش قفل بوده است",
+      "lead": "یک مقام بیمارستانی به بی‌بی‌سی گفت که درِ بخش نوزادان قفل نبوده، بلکه برای حفاظت از نوزادان توسط نگهبانان کنترل می‌شده است. این حادثه مرگبار در پی وقوع آتش‌سوزی در بیمارستان رخ داده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 11:55:05 GMT",
+      "time": "۱۵:۲۵ - ۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-26T12:16:38.842Z"
+    },
+    {
+      "id": "bbc_4514586d7b",
+      "agencyId": "bbc",
+      "title": "At least 14 babies die in Pakistan hospital fire",
+      "title_fa": "دستکم ۱۴ نوزاد در آتش‌سوزی بیمارستانی در پاکستان جان باختند",
+      "lead": "این آتش‌سوزی در یک دستگاه تهویه مطبوع در بخش مادر و کودک یکی از بیمارستان‌های اصلی اسلام‌آباد رخ داد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 10:42:00 GMT",
+      "time": "۱۴:۱۲ - ۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-26T12:08:30.927Z"
     }
   ]
 }
