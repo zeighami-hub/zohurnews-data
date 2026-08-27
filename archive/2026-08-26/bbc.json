@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
   "agencyId": "bbc",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "bbc_dd33bd6fb5",
@@ -40,6 +40,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-26T01:01:26.107Z"
+    },
+    {
+      "id": "bbc_0f18337e41",
+      "agencyId": "bbc",
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
+      "title_fa": "مرگ یک گردشگر فرانسوی در دره مرگ پس از گیر کردن خودرو در گل‌ولای",
+      "lead": "جسد یک مرد ۶۸ ساله در میان شوره زارهای کالیفرنیا و در دمای ۴۶.۶ درجه سانتی‌گراد پیدا شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 02:08:57 GMT",
+      "time": "۰۵:۳۸ - ۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-26T03:31:18.745Z"
     }
   ]
 }
