@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 28,
   "articles": [
     {
       "id": "nytimes_e48279f79f",
@@ -496,6 +496,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-26T19:31:42.457Z"
+    },
+    {
+      "id": "nytimes_8b7dd9d722",
+      "agencyId": "nytimes",
+      "title": "Why China Loves A.I.",
+      "title_fa": "چرا چین عاشق هوش مصنوعی است؟",
+      "lead": "مردم در چین نسبت به فناوری هوش مصنوعی بسیار خوش‌بین‌تر از آمریکایی‌ها هستند. این گزارش به بررسی دلایل این تفاوت نگاه می‌پردازد.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/26/world/china-ai-nepal-tibet-flood.html",
+      "pubDate": "Wed, 26 Aug 2026 20:55:48 +0000",
+      "time": "۰۰:۲۵ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-26T21:01:35.122Z"
+    },
+    {
+      "id": "nytimes_21e2c177b9",
+      "agencyId": "nytimes",
+      "title": "A Movement to Restrict Social Media for Children Has Taken Hold Globally",
+      "title_fa": "جریانی برای محدود کردن شبکه‌های اجتماعی برای کودکان در سراسر جهان فراگیر شده است",
+      "lead": "دولت‌ها در سراسر جهان مجموعه‌ای از ممنوعیت‌ها یا محدودیت‌ها را برای استفاده نوجوانان از پلتفرم‌های اجتماعی اعتیادآور به تصویب رسانده یا پیشنهاد کرده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/26/world/americas/children-social-media-restrictions-global-movement-meta.html",
+      "pubDate": "Wed, 26 Aug 2026 20:48:36 +0000",
+      "time": "۰۰:۱۸ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-26T21:01:35.122Z"
     }
   ]
 }
