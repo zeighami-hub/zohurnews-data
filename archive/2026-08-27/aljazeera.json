@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "agencyId": "aljazeera",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "aljazeera_678ff4535a",
@@ -230,6 +230,44 @@
         "negative": 35
       },
       "analyzed_at": "2026-08-27T02:46:18.155Z"
+    },
+    {
+      "id": "aljazeera_00521a61a4",
+      "agencyId": "aljazeera",
+      "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+      "title_fa": "نخست‌وزیر قطر برای تلاش جهت احیای مذاکرات آمریکا و ایران به تهران می‌رود",
+      "lead": "سفر شیخ محمد به تهران در حالی انجام می‌شود که جنگ آمریکا و اسرائیل علیه ایران به ماه ششم خود نزدیک شده و تاکنون هیچ پیشرفت دیپلماتیکی حاصل نشده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
+      "pubDate": "Thu, 27 Aug 2026 02:54:04 +0000",
+      "time": "۰۶:۲۴ - ۵ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-27T03:16:33.995Z"
+    },
+    {
+      "id": "aljazeera_4828e7c1ec",
+      "agencyId": "aljazeera",
+      "title": "Palestinians mourn ‘Camel of Hardship’ artist Sliman Mansour",
+      "title_fa": "فلسطینی‌ها با «شتر سختی‌ها» وداع کردند؛ مراسم تشییع سلیمان منصور",
+      "lead": "شهروندان فلسطینی در مراسم تشییع جنازه عمومی در کرانه باختری اشغالی، با سلیمان منصور، هنرمند برجسته، وداع کردند.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/27/palestinians-mourn-camel-of-hardship-artist-sliman-mansour?traffic_source=rss",
+      "pubDate": "Thu, 27 Aug 2026 02:42:05 +0000",
+      "time": "۰۶:۱۲ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-27T03:01:26.000Z"
     }
   ]
 }
