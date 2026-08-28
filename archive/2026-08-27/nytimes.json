@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "nytimes_6128825f14",
@@ -135,6 +135,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-27T04:46:21.716Z"
+    },
+    {
+      "id": "nytimes_8514cde28b",
+      "agencyId": "nytimes",
+      "title": "‘A Huge Paradox’: Nepal Region Hit by Flood Known for Development and Disasters",
+      "title_fa": "«یک پارادوکس بزرگ»: منطقه آسیب‌دیده از سیل در نپال که به خاطر توسعه و حوادث شناخته می‌شود",
+      "lead": "این منطقه شاهد رونق اقتصادی بوده است، حتی در حالی که بلایای طبیعی بارها به آن ضربه زده‌اند؛ از جمله سیل اخیر روز چهارشنبه که بیش از ۱۶۰ کشته برجای گذاشت.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods/a-huge-paradox-nepal-region-hit-by-flood-known-for-development-and-disasters",
+      "pubDate": "Thu, 27 Aug 2026 07:11:50 +0000",
+      "time": "۱۰:۴۱ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-27T07:16:33.114Z"
+    },
+    {
+      "id": "nytimes_0d2e05eb48",
+      "agencyId": "nytimes",
+      "title": "14 Newborns Die in Hospital Fire in Pakistan’s Capital",
+      "title_fa": "مرگ ۱۴ نوزاد در آتش‌سوزی بیمارستانی در پایتخت پاکستان",
+      "lead": "این آتش‌سوزی در بزرگترین بیمارستان اسلام‌آباد رخ داد و به یک مسئله سیاسی تبدیل شد. حامیان اپوزیسیون هنگام بازدید یک مقام رسمی از صحنه، شعار «کشتن فرزندان ما را متوقف کنید» سر دادند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/26/world/asia/pakistan-islamabad-hospital-fire.html",
+      "pubDate": "Wed, 26 Aug 2026 18:30:44 +0000",
+      "time": "۲۲:۰۰ - ۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 25,
+        "negative": 75
+      },
+      "analyzed_at": "2026-08-27T07:16:33.114Z"
     }
   ]
 }
