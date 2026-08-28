@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_6128825f14",
@@ -97,6 +97,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-27T04:16:18.387Z"
+    },
+    {
+      "id": "nytimes_e48279f79f",
+      "agencyId": "nytimes",
+      "title": "What to Know About Bank Melli, Singled Out in U.S. Call for Economic War",
+      "title_fa": "نکاتی درباره بانک ملی؛ هدف تحریم‌ها در درخواست آمریکا برای جنگ اقتصادی",
+      "lead": "بانک ملی، بزرگ‌ترین وام‌دهنده ایران، هم‌اکنون با تحریم‌هایی مواجه است که فعالیت‌های بین‌المللی آن را به شدت محدود می‌کند و وزیر خزانه‌داری اعلام کرد تمامی شعب خارجی آن باید بسته شوند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/26/world/europe/iran-melli-bank-us-sanctions.html",
+      "pubDate": "Wed, 26 Aug 2026 13:02:45 +0000",
+      "time": "۱۶:۳۲ - ۴ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-27T04:46:21.716Z"
+    },
+    {
+      "id": "nytimes_cb5fc8ca3d",
+      "agencyId": "nytimes",
+      "title": "Confronting South Korea’s Violent Past and Its Echoes Today",
+      "title_fa": "رویارویی با گذشته خشن کره جنوبی و بازتاب‌های آن در زمان حال",
+      "lead": "موزه ملی دمکراسی کره که سال گذشته افتتاح شد، دوره‌ای از سرکوب وحشیانه را مستند می‌کند. با این حال، آن تاریخ تاریک بار دیگر به شیوه‌های نگران‌کننده‌ای سر برآورده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/26/world/asia/korea-democracy-tankday-starbucks.html",
+      "pubDate": "Wed, 26 Aug 2026 11:05:44 +0000",
+      "time": "۱۴:۳۵ - ۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-27T04:46:21.716Z"
     }
   ]
 }
