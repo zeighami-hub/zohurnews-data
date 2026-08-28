@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "agencyId": "bbc",
-  "total": 29,
+  "total": 31,
   "articles": [
     {
       "id": "bbc_ea77f5a5a3",
@@ -553,6 +553,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-27T18:31:41.927Z"
+    },
+    {
+      "id": "bbc_455e5c8719",
+      "agencyId": "bbc",
+      "title": "Trump signs order to rename Lake Ontario to Lake America",
+      "title_fa": "ترامپ دستوری برای تغییر نام دریاچه انتاریو به دریاچه آمریکا امضا کرد",
+      "lead": "دستور ترامپ پس از آن صادر شد که مذاکرات تجاری میان ایالات متحده و کانادا در اواخر هفته گذشته با شکست مواجه شد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 27 Aug 2026 20:11:40 GMT",
+      "time": "۲۳:۴۱ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-27T20:46:17.881Z"
+    },
+    {
+      "id": "bbc_9e8e39db61",
+      "agencyId": "bbc",
+      "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
+      "title_fa": "هیئت منصفه در حال بررسی پرونده لیندسی کلنسی، زن آمریکایی متهم به قتل فرزندانش",
+      "lead": "دادستان‌ها استدلال کردند که کلنسی تصمیمی حساب‌شده برای قتل فرزندان خود گرفته است. در مقابل، وکلای مدافع استدلال کردند که او از روان‌پریشی پس از زایمان رنج می‌برده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 27 Aug 2026 17:46:21 GMT",
+      "time": "۲۱:۱۶ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-27T20:31:50.667Z"
     }
   ]
 }
