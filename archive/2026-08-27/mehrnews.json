@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "agencyId": "mehrnews",
-  "total": 8,
+  "total": 11,
   "articles": [
     {
       "id": "mehrnews_420d4a5518",
@@ -154,6 +154,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-27T08:46:42.340Z"
+    },
+    {
+      "id": "mehrnews_6ee81ac2c5",
+      "agencyId": "mehrnews",
+      "title": "US exertion of economic pressure on Iran doomed to failure",
+      "title_fa": "شکست تلاش‌های آمریکا برای اعمال فشار اقتصادی بر ایران",
+      "lead": "رئیس‌جمهور مسعود پزشکیان اعلام کرد که فشارهای اقتصادی آمریکا علیه جمهوری اسلامی ایران، مانند جنگ‌های قبلی محکوم به شکست است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247255/US-exertion-of-economic-pressure-on-Iran-doomed-to-failure",
+      "pubDate": "Wed, 26 Aug 2026 09:09:14 GMT",
+      "time": "۱۲:۳۹ - ۴ شهریور",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-27T09:46:34.560Z"
+    },
+    {
+      "id": "mehrnews_5e5dd6849a",
+      "agencyId": "mehrnews",
+      "title": "Trump profiting from Iran war via energy holdings",
+      "title_fa": "سود بردن ترامپ از جنگ با ایران از طریق سهام انرژی",
+      "lead": "سناتور آمریکایی کریس ون هولن اظهار داشته است که دونالد ترامپ شخصاً از جنگ با ایران سود می‌برد.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://en.mehrnews.com/news/247256/Trump-profiting-from-Iran-war-via-energy-holdings",
+      "pubDate": "Wed, 26 Aug 2026 09:07:08 GMT",
+      "time": "۱۲:۳۷ - ۴ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-27T09:46:34.560Z"
+    },
+    {
+      "id": "mehrnews_81701e18cc",
+      "agencyId": "mehrnews",
+      "title": "Qatar condemns Israeli minister’s ‘illegal entry’ into Syria",
+      "title_fa": "قطر ورود غیرقانونی وزیر صهیونیست به سوریه را محکوم کرد",
+      "lead": "قطر ورود غیرقانونی اسرائیل کاتز، وزیر جنگ اسرائیل، به جنوب سوریه را محکوم کرده و آن را نقض حاکمیت و تمامیت ارضی سوریه دانست.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247254/Qatar-condemns-Israeli-minister-s-illegal-entry-into-Syria",
+      "pubDate": "Wed, 26 Aug 2026 09:03:03 GMT",
+      "time": "۱۲:۳۳ - ۴ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-27T09:46:34.560Z"
     }
   ]
 }
