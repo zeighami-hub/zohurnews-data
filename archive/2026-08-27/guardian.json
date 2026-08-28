@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "agencyId": "guardian",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "guardian_002695681a",
@@ -97,6 +97,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-27T02:01:27.801Z"
+    },
+    {
+      "id": "guardian_c3190a6283",
+      "agencyId": "guardian",
+      "title": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
+      "title_fa": "تایفون ناررا: سیل بی‌سابقه خانه‌ها را زیر آب برد و موجب تخلیه گسترده در چین شد",
+      "lead": "بارندگی شدید ناشی از تایفون ناررا باعث زیر آب رفتن خانه‌ها و تخلیه اجباری جمعیت زیادی در جنوب چین شده است. در همین حال، انتظار می‌رود باران‌های سنگین بخش‌هایی از ویتنام و جنوب چین را فرا گیرد و سامانه طوفانی دیگری به نام سودل نیز به سمت ژاپن و تایوان در حرکت است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
+      "pubDate": "Wed, 26 Aug 2026 01:46:25 GMT",
+      "time": "۰۵:۱۶ - ۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-27T02:31:15.949Z"
+    },
+    {
+      "id": "guardian_c5f86be8fa",
+      "agencyId": "guardian",
+      "title": "Nepal floods: Children as young as 11 among Australian tour group missing after flash flooding",
+      "title_fa": "سیل در نپال: کودکان ۱۱ ساله نیز در میان گروه گردشگران استرالیایی مفقود شده پس از سیل ناگهانی هستند",
+      "lead": "یک اپراتور تور در نپال ابراز نگرانی کرده است که ۱۵ شهروند استرالیایی که در یک تور پیاده‌روی در نزدیکی مرز چین شرکت داشتند، پس از وقوع سیل ویرانگر جان خود را از دست داده باشند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods",
+      "pubDate": "Thu, 27 Aug 2026 01:58:23 GMT",
+      "time": "۰۵:۲۸ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 15,
+        "negative": 85
+      },
+      "analyzed_at": "2026-08-27T02:16:25.507Z"
     }
   ]
 }
