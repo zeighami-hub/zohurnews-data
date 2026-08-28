@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_6128825f14",
@@ -287,6 +287,120 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-27T09:01:59.329Z"
+    },
+    {
+      "id": "nytimes_3f9bd1ff44",
+      "agencyId": "nytimes",
+      "title": "Saudi Arabia Appears to Be Preparing for a New War With the Houthis",
+      "title_fa": "عربستان سعودی به نظر می‌رسد برای جنگ جدیدی با حوثی‌ها آماده می‌شود",
+      "lead": "تحلیلگران می‌گویند هفته‌ها حملات حوثی‌ها به اهداف سعودی، عربستان و شبه‌نظامیان تحت حمایت ایران را به آستانه درگیری همه‌جانبه رسانده است. این وضعیت می‌تواند جبهه جدیدی را در جنگ ایران باز کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/27/world/middleeast/saudi-arabia-yemen-houthis-war.html",
+      "pubDate": "Thu, 27 Aug 2026 09:01:06 +0000",
+      "time": "۱۲:۳۱ - ۵ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-27T09:16:39.718Z"
+    },
+    {
+      "id": "nytimes_101332b980",
+      "agencyId": "nytimes",
+      "title": "Russian Sanctions Are Fueling a Canadian Car Theft Epidemic",
+      "title_fa": "تحریم‌های روسیه بحران سرقت خودرو در کانادا را دامن می‌زند",
+      "lead": "روسیه بزرگ‌ترین مقصد خودروهای مسروقه کانادا است و قاچاقچیان در حال پاسخگویی به تقاضای یک بازار سیاه رو به رشد هستند.",
+      "category": "economy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/27/world/canada/canada-car-theft-russia-sanctions.html",
+      "pubDate": "Thu, 27 Aug 2026 09:00:38 +0000",
+      "time": "۱۲:۳۰ - ۵ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-27T09:16:39.718Z"
+    },
+    {
+      "id": "nytimes_bdf8589a82",
+      "agencyId": "nytimes",
+      "title": "Rescuers in Nepal Face Devastated Roads and Tough Terrain After Deadly Flood",
+      "title_fa": "امدادگران در نپال پس از سیل مرگبار با جاده‌های ویران و زمین‌های سخت روبه‌رو هستند",
+      "lead": "سیل مرگبار هیمالیا به جاده‌ها و ده‌ها پل آسیب رساند. گروه‌های امدادی اعلام کردند که این ویرانی‌ها مانع جستجوی بازماندگان و ارسال کمک‌ها شده است.",
+      "category": "society",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/27/world/asia/nepal-china-flash-flood-rescue-roads-bridges.html",
+      "pubDate": "Thu, 27 Aug 2026 09:09:41 +0000",
+      "time": "۱۲:۳۹ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-27T09:16:39.718Z"
+    },
+    {
+      "id": "nytimes_a30a498224",
+      "agencyId": "nytimes",
+      "title": "Why Some in Canada Want Out of the F-35 Deal With the U.S.",
+      "title_fa": "چرا برخی در کانادا خواهان خروج از قرارداد خرید جنگنده‌های F-35 با آمریکا هستند؟",
+      "lead": "یک سال پس از بررسی دولتی خرید تا ۸۸ فروند جنگنده F-35، یک مقام ارشد استانی اعلام کرد که خرید جنگنده‌های آمریکایی با توجه به تعرفه‌های اخیر رئیس‌جمهور ترامپ منطقی نیست.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/27/world/canada/trade-war-canada-us-f35-carney-trump.html",
+      "pubDate": "Thu, 27 Aug 2026 09:03:48 +0000",
+      "time": "۱۲:۳۳ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-27T09:16:39.718Z"
+    },
+    {
+      "id": "nytimes_a3f996885a",
+      "agencyId": "nytimes",
+      "title": "Democratic Socialists Are the Toast of the Party in Uruguay",
+      "title_fa": "سوسیالیست‌های دموکرات مورد توجه حزب در اروگوئه هستند",
+      "lead": "موفقیت نامزدهای مترقی در ایالات متحده الهام‌بخش چپ‌گرایان خارج از کشور است که تحت فشار دولت ترامپ و متحدانش دست و پنجه نرم می‌کنند. این روند نشان‌دهنده تاثیرپذیری جریان‌های سیاسی چپ در سطح بین‌المللی است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/27/world/americas/latin-america-democratic-socialists.html",
+      "pubDate": "Thu, 27 Aug 2026 09:03:45 +0000",
+      "time": "۱۲:۳۳ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-27T09:16:39.718Z"
+    },
+    {
+      "id": "nytimes_1add94ef6f",
+      "agencyId": "nytimes",
+      "title": "Scenes From a Destroyed Barbershop in Lebanon",
+      "title_fa": "تصاویری از یک آرایشگاه ویران‌شده در لبنان",
+      "lead": "خبرنگار ما، عبدی لطیف داهر، از آرایشگاهی در لبنان بازدید می‌کند که در جریان حمله هوایی اسرائیل در درگیری میان اسرائیل و حزب‌الله تخریب شده است. این بازدید ابعادی از خسارات وارده به مناطق مسکونی را به تصویر می‌کشد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/video/world/middleeast/100000011005726/scenes-from-a-destroyed-barbershop-in-lebanon.html",
+      "pubDate": "Thu, 27 Aug 2026 09:00:01 +0000",
+      "time": "۱۲:۳۰ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-27T09:16:39.718Z"
     }
   ]
 }
