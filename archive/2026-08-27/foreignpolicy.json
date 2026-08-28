@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "agencyId": "foreignpolicy",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "foreignpolicy_bbd1178f04",
@@ -78,6 +78,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-27T11:01:59.995Z"
+    },
+    {
+      "id": "foreignpolicy_844b26deea",
+      "agencyId": "foreignpolicy",
+      "title": "Trump’s Missile Math Problem",
+      "title_fa": "مسئله محاسباتی موشک‌های ترامپ",
+      "lead": "گزارشی درباره نحوه کاهش ذخایر مهمات کلیدی توسط کاخ سفید در جریان جنگ با ایران بررسی شده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/08/27/tom-karako-united-states-munitions-missile-stockpiles-iran-war-military-defense-patriot-weapons/",
+      "pubDate": "Thu, 27 Aug 2026 11:40:58 +0000",
+      "time": "۱۵:۱۰ - ۵ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-27T11:46:24.227Z"
+    },
+    {
+      "id": "foreignpolicy_72b93954ad",
+      "agencyId": "foreignpolicy",
+      "title": "Turkey’s Rise Is Israel’s New Problem",
+      "title_fa": "صعود ترکیه، مشکل جدید اسرائیل",
+      "lead": "جدیدترین رقیب‌های خاورمیانه در منطقه شام، دو متحد کلیدی واشنگتن در آنجا هستند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/08/27/turkeys-rise-is-israels-new-problem/",
+      "pubDate": "Thu, 27 Aug 2026 11:33:23 +0000",
+      "time": "۱۵:۰۳ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-27T11:46:24.227Z"
     }
   ]
 }
