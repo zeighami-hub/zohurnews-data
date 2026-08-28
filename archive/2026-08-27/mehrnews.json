@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "agencyId": "mehrnews",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "mehrnews_420d4a5518",
@@ -211,6 +211,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-27T09:46:34.560Z"
+    },
+    {
+      "id": "mehrnews_89b1356ecb",
+      "agencyId": "mehrnews",
+      "title": "Iran’s strikes caused billions in damage to US intel. sites",
+      "title_fa": "حملات ایران خسارت‌های میلیاردی به تأسیسات اطلاعاتی آمریکا وارد کرد",
+      "lead": "حملات موشکی و پهپادی ایران خسارت‌های بی‌سابقه‌ای را به تأسیسات اطلاعاتی و تجهیزات نظارتی ایالات متحده در سراسر خاورمیانه وارد کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247257/Iran-s-strikes-caused-billions-in-damage-to-US-intel-sites",
+      "pubDate": "Wed, 26 Aug 2026 10:14:42 GMT",
+      "time": "۱۳:۴۴ - ۴ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-27T10:46:27.394Z"
+    },
+    {
+      "id": "mehrnews_1d792c6cf8",
+      "agencyId": "mehrnews",
+      "title": "VIDEO: Israeli forces shoot Palestinian children in Gaza",
+      "title_fa": "ویدیو: تیراندازی نیروهای اسرائیلی به کودکان فلسطینی در غزه",
+      "lead": "ن نیروهای نظامی اسرائیل به سوی کودکان فلسطینی که در بیت‌لاهیا در غزه برای خانواده‌های خود آب تهیه می‌کردند، آتش گودند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247274/VIDEO-Israeli-forces-shoot-Palestinian-children-in-Gaza",
+      "pubDate": "Thu, 27 Aug 2026 10:30:07 GMT",
+      "time": "۱۴:۰۰ - ۵ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-27T10:46:27.394Z"
     }
   ]
 }
