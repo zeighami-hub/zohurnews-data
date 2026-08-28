@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
   "agencyId": "nytimes",
-  "total": 28,
+  "total": 29,
   "articles": [
     {
       "id": "nytimes_6128825f14",
@@ -534,6 +534,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-27T11:16:45.782Z"
+    },
+    {
+      "id": "nytimes_37dfd2ddc2",
+      "agencyId": "nytimes",
+      "title": "Qatari Prime Minister Travels to Tehran as Iran War Nears Six-Month Mark",
+      "title_fa": "سفر نخست‌وزیر قطر به تهران در آستانه ششمین ماه جنگ ایران",
+      "lead": "شیخ محمد بن عبدالرحمن آل ثانی به عنوان میانجی کلیدی در این مناقشه به تهران سفر کرده است، در حالی که کشورش پیش‌تر تهران را مقصر صدها حمله موشکی و پهپادی دانسته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/27/world/middleeast/qatar-visit-iran.html",
+      "pubDate": "Thu, 27 Aug 2026 11:38:41 +0000",
+      "time": "۱۵:۰۸ - ۵ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-27T11:46:24.227Z"
     }
   ]
 }
