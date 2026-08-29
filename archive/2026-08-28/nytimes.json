@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_404db60a72",
@@ -59,6 +59,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-28T07:16:35.948Z"
+    },
+    {
+      "id": "nytimes_02d83b06fe",
+      "agencyId": "nytimes",
+      "title": "Live Updates: New Nepal Flood Warning Complicates Desperate Himalayan Search",
+      "title_fa": "هشدار جدید درباره سیل در نپال جست‌وجوهای نفس‌گیر در همالیا را پیچیده‌تر کرد",
+      "lead": "نیروهای امدادی در حال تلاش برای یافتن بازماندگان سیلابی هستند که دره های مرز چین و نپال را درنوردیده است و پلیس نپال روز جمعه نسبت به خطر جدید وقوع سیل هشدار داد.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
+      "pubDate": "Fri, 28 Aug 2026 07:35:17 +0000",
+      "time": "۱۱:۰۵ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-28T07:46:37.317Z"
+    },
+    {
+      "id": "nytimes_33f42abd52",
+      "agencyId": "nytimes",
+      "title": "Prince William Is Still Silent About His Brother, Harry. Can That Last?",
+      "title_fa": "شاهزاده ویلیام همچنان درباره برادرش هری سکوت کرده است. آیا این وضعیت می‌تواند ادامه پیدا کند؟",
+      "lead": "سال‌ها جدایی از راه دور بین شاهزاده ویلیام و برادر کوچکترش، اکنون با بازگشت هری به بریتانیا مورد آزمایش قرار خواهد گرفت.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/27/world/europe/prince-william-harry-uk.html",
+      "pubDate": "Thu, 27 Aug 2026 15:25:50 +0000",
+      "time": "۱۸:۵۵ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-28T07:46:37.317Z"
     }
   ]
 }
