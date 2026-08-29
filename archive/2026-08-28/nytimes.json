@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "nytimes_404db60a72",
@@ -477,6 +477,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-28T15:31:40.415Z"
+    },
+    {
+      "id": "nytimes_bbd632b1ec",
+      "agencyId": "nytimes",
+      "title": "King Oyo of Uganda’s Tooro Kingdom Dies at 34",
+      "title_fa": "پادشاه اویو از پادشاهی توروی اوگاندا در ۳۴ سالگی درگذشت",
+      "lead": "نخست‌وزیر پادشاهی تورو در غرب اوگاندا اعلام کرد که پادشاه اویو نییمبا کابانبا ایگورو روکیدی چهارم در وضعیت «بحرانی» بوده و درگذشته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/28/world/africa/uganda-king-oyo-dead.html",
+      "pubDate": "Fri, 28 Aug 2026 16:45:58 +0000",
+      "time": "۲۰:۱۵ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-28T17:01:46.622Z"
+    },
+    {
+      "id": "nytimes_2d30682e63",
+      "agencyId": "nytimes",
+      "title": "Greenlandic Women Will Finally Get Money for Forced Contraception",
+      "title_fa": "زنان گرینلندی سرانجام غرامت پیشگیری اجباری از بارداری را دریافت خواهند کرد",
+      "lead": "دانمارک برای دهه‌ها در تلاشی برای کنترل جمعیت جزیره گرینلند، اقدام به کارگذاری ابزار داخل رحمی (IUD) در بدن زنان کرده بود. روز پنجشنبه، دولت لایحه مربوط به پرداخت غرامت به این زنان را به تصویب رساند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/27/world/europe/denmark-greenland-forced-contraception-compensation.html",
+      "pubDate": "Thu, 27 Aug 2026 16:39:47 +0000",
+      "time": "۲۰:۰۹ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-28T17:01:46.622Z"
     }
   ]
 }
