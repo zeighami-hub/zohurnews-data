@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "agencyId": "bbc",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "bbc_a82f3037b8",
@@ -116,6 +116,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-28T07:46:37.317Z"
+    },
+    {
+      "id": "bbc_1215480e0e",
+      "agencyId": "bbc",
+      "title": "Nepal army rescues survivors from hydropower tunnel",
+      "title_fa": "ارتش نپال بازماندگان را از یک تونل برق‌آبی نجات داد",
+      "lead": "دبیرخانه نخست‌وزیری نپال تصاویری را منتشر کرد که پرسنل ارتش را در حال نجات افراد از داخل یک تونل برق‌آبی نشان می‌دهد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cddv0rldqqlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 08:33:14 GMT",
+      "time": "۱۲:۰۳ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-28T08:46:32.718Z"
+    },
+    {
+      "id": "bbc_e2dad2962e",
+      "agencyId": "bbc",
+      "title": "Key moments in trial of Lindsay Clancy, the mother accused of murdering her three children",
+      "title_fa": "لحظات کلیدی در دادگاه لیندسی کلنسی، مادری که متهم به قتل سه فرزندش است",
+      "lead": "هیئت منصفه در دادگاه مادری از ایالت ماساچوست که متهم به قتل سه فرزند خردسال خود است، در حال بررسی پرونده و تصمیم‌گیری است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 27 Aug 2026 18:13:52 GMT",
+      "time": "۲۱:۴۳ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-28T08:46:32.718Z"
     }
   ]
 }
