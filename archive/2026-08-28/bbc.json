@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "bbc_a82f3037b8",
@@ -59,6 +59,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-28T05:31:33.357Z"
+    },
+    {
+      "id": "bbc_0ac87fcc66",
+      "agencyId": "bbc",
+      "title": "'High risk' of lake bursting and causing second flood, warns China",
+      "title_fa": "هشدار چین درباره «خطر بالای» طغیان دریاچه و وقوع سیل دوم",
+      "lead": "چین اعلام کرد دریاچه‌ای که پس از رانش زمین اخیر در نزدیکی مرز نپال و تبت شکل گرفته، ممکن است در روزهای آینده طغیان کند.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 05:50:59 GMT",
+      "time": "۰۹:۲۰ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-28T06:01:45.740Z"
     }
   ]
 }
