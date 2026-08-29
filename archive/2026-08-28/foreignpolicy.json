@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "agencyId": "foreignpolicy",
-  "total": 11,
+  "total": 14,
   "articles": [
     {
       "id": "foreignpolicy_c75fa9bf08",
@@ -211,6 +211,63 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-28T16:16:23.136Z"
+    },
+    {
+      "id": "foreignpolicy_3044091c5b",
+      "agencyId": "foreignpolicy",
+      "title": "What in the World?",
+      "title_fa": "در جهان چه می‌گذرد؟",
+      "lead": "رویدادهای هفته منتهی به ۲۲ اوت را محک بزنید: اعزام یک هیئت نظارت سازمان ملل به کنگو، رونمایی آمریکا از یک طرح اقتصادی علیه ایران و هشدار پوتین.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://foreignpolicy.com/2026/08/28/news-quiz-congo-bessent-iran-economic-pressure-putin-russia-ukraine-war/",
+      "pubDate": "Fri, 28 Aug 2026 17:23:47 +0000",
+      "time": "۲۰:۵۳ - ۶ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-28T17:46:36.729Z"
+    },
+    {
+      "id": "foreignpolicy_c0dbf2b680",
+      "agencyId": "foreignpolicy",
+      "title": "Don’t Freak Out Over the Pentagon’s Europe Plans",
+      "title_fa": "نباید درباره برنامه‌های پنتاگون برای اروپا نگران بود",
+      "lead": "کنگره، کشورهای اروپایی و شخص ترامپ در مسیر ایجاد تغییرات بزرگ در برنامه‌های پنتاگون برای اروپا مانع‌تراشی می‌کنند. بنابراین نیازی به نگرانی افراطی در این زمینه وجود ندارد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://foreignpolicy.com/2026/08/27/us-europe-defense-posture-review-troops-elbridge-colby-hegseth-nato/",
+      "pubDate": "Thu, 27 Aug 2026 17:00:02 +0000",
+      "time": "۲۰:۳۰ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-28T17:46:36.729Z"
+    },
+    {
+      "id": "foreignpolicy_5d732eeadc",
+      "agencyId": "foreignpolicy",
+      "title": "Trump Keeps Stabbing Japan in the Back",
+      "title_fa": "ترامپ همچنان به ژاپن از پشت خنجر می‌زند",
+      "lead": "توکیو هیچ سناریو یا راهبردی برای مواجهه با چنین متحدی که تا این حد غیرقابل اعتماد است، در اختیار ندارد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/08/27/trump-japan-takaichi-alliance/",
+      "pubDate": "Thu, 27 Aug 2026 16:50:13 +0000",
+      "time": "۲۰:۲۰ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-28T17:46:36.729Z"
     }
   ]
 }
