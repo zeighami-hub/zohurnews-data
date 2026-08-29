@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "aljazeera_c0af99635f",
@@ -21,6 +21,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-28T00:01:25.757Z"
+    },
+    {
+      "id": "aljazeera_fd357deb01",
+      "agencyId": "aljazeera",
+      "title": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
+      "title_fa": "پوشش زنده جنگ ایران: تهران در حال آماده‌سازی شرایط برای باز کردن تنگه هرمز است",
+      "lead": "ایران اعلام کرد که در پی درخواست‌های میانجی‌گران، در حال آماده‌سازی و تدوین شرایط برای باز کردن تنگه هرمز است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss",
+      "pubDate": "Fri, 28 Aug 2026 00:00:00 +0000",
+      "time": "۰۳:۳۰ - ۶ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-28T00:16:11.513Z"
+    },
+    {
+      "id": "aljazeera_89bd17619f",
+      "agencyId": "aljazeera",
+      "title": "US charges 81 in Puerto Rico gang case, as Trump cartel crackdown continues",
+      "title_fa": "ایالات متحده در جریان تداوم سرکوب کارتل‌ها توسط ترامپ، ۸۱ نفر را در پرونده یک باند در پورتوریکو متهم کرد",
+      "lead": "این بازداشت‌ها بخشی از ابتکار عمل یک کارگروه فدرال است که باندهای جنایتکار و سازمان‌های فراملی را هدف قرار می‌دهد.",
+      "category": "culture",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/27/us-charges-81-in-puerto-rico-gang-case-as-trump-cartel-crackdown-continues?traffic_source=rss",
+      "pubDate": "Thu, 27 Aug 2026 23:58:26 +0000",
+      "time": "۰۳:۲۸ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-28T00:16:11.513Z"
     }
   ]
 }
