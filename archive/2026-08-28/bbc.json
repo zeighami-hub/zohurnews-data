@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "agencyId": "bbc",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "bbc_a82f3037b8",
@@ -325,6 +325,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-28T11:46:50.634Z"
+    },
+    {
+      "id": "bbc_eadffc4fae",
+      "agencyId": "bbc",
+      "title": "Who is Norway's new King Haakon VIII?",
+      "title_fa": "پادشاه هاکون هشتم، پادشاه جدید نوژ، کیست؟",
+      "lead": "هاکون در زمانی پرآشوب برای سلطنت نروژ به مقام پادشاهی می‌رسد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 10:37:21 GMT",
+      "time": "۱۴:۰۷ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-28T12:02:03.996Z"
+    },
+    {
+      "id": "bbc_d36063daac",
+      "agencyId": "bbc",
+      "title": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
+      "title_fa": "مردی که به یک راهبه در اورشلیم حمله کرده بود با استدلال سلامت روان تبرئه شد",
+      "lead": "دادگاهی در اورشلیم اعلام کرد که ضارب یهودی در هنگام حمله به راهبه دچار حمله روانی بوده است؛ رویدادی که پیش‌تر موجب خشم عمومی شده بود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 27 Aug 2026 11:23:28 GMT",
+      "time": "۱۴:۵۳ - ۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-28T12:02:03.996Z"
     }
   ]
 }
