@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "agencyId": "bbc",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "bbc_a82f3037b8",
@@ -420,6 +420,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-28T14:06:41.701Z"
+    },
+    {
+      "id": "bbc_09368585c0",
+      "agencyId": "bbc",
+      "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+      "title_fa": "بی‌بی‌سی یک هفته از خشونت شهرک‌نشینان اسرائیلی در کرانه باختری اشغالی را رصد کرد",
+      "lead": "لوسی ویلیامسون، خبرنگار بی‌بی‌سی، گزارشی از حملات شهرک‌نشینان به فلسطینیان ارائه می‌دهد که تنها طی هفته گذشته مشاهده شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 14:06:13 GMT",
+      "time": "۱۷:۳۶ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-28T14:31:52.551Z"
+    },
+    {
+      "id": "bbc_a0d0331ce9",
+      "agencyId": "bbc",
+      "title": "Shootings surge as drug gangs torment Brussels",
+      "title_fa": "جهش تیراندازی‌ها همزمان با آزار و اذیت بروکسل توسط باندهای مواد مخدر",
+      "lead": "تنها در سال جاری و با اوج‌گیری جرایم مواد مخدر، بیش از ۶۵ مورد تیراندازی در پایتخت بلژیک رخ داده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 13:41:18 GMT",
+      "time": "۱۷:۱۱ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-28T14:31:52.551Z"
     }
   ]
 }
