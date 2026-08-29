@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "agencyId": "reuters",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "reuters_5152bcc1d0",
@@ -40,6 +40,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-28T02:01:45.882Z"
+    },
+    {
+      "id": "reuters_9257a0898e",
+      "agencyId": "reuters",
+      "title": "Oil on track for weekly loss even as Iran tensions simmer - Reuters",
+      "title_fa": "قیمت نفت علیرغم تنش‌های ایران در مسیر ثبت کاهش هفتگی است",
+      "lead": "با وجود بالا گرفتن تنش‌ها پیرامون ایران، قیمت نفت در مسیر ثبت کاهش هفتگی قرار دارد.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5",
+      "pubDate": "Fri, 28 Aug 2026 01:16:00 GMT",
+      "time": "۰۴:۴۶ - ۶ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-28T03:01:21.795Z"
+    },
+    {
+      "id": "reuters_01f277c945",
+      "agencyId": "reuters",
+      "title": "Qatar steps in to mediate as Trump says US not talking to Iran - Reuters",
+      "title_fa": "میانجیگری قطر همزمان با اظهارات ترامپ درباره عدم مذاکراتی با ایران",
+      "lead": "در پی اظهارات دونالد ترامپ مبنی بر اینکه ایالات متحده در حال حاضر با ایران گفت‌وگو نمی‌کند، دولت قطر وارد عمل شده و نقش میانجی را بر عهده گرفته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWtVN3R2dUFBREVJWjhxV1pXUEs4WUx1Ry1ReVRLQzZhS0ZBaEl1NlZ3T2cxcTdEU1Q1RnZqTC1aNWlUVjRpc3VpdTRtaTdub2RiQW5BamhkMGM2VUZjWlV4YnpkM0Q1ZS1YcVBwR2cxNlVXWjlCcUhHRDQ3VWtMWEt3Q0N5U2hQTlJETmRSeXFWUWltWktCYVNKLVo1enNRTGc?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 23:15:00 GMT",
+      "time": "۰۲:۴۵ - ۵ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-28T02:46:14.091Z"
     }
   ]
 }
