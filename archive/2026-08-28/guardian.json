@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
   "agencyId": "guardian",
-  "total": 29,
+  "total": 31,
   "articles": [
     {
       "id": "guardian_e627396ed5",
@@ -553,6 +553,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-28T16:46:42.189Z"
+    },
+    {
+      "id": "guardian_18651330b9",
+      "agencyId": "guardian",
+      "title": "USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea",
+      "title_fa": "ناو هواپیمابر یواس‌اس آبراهام لینکلن پس از بیش از ۲۵۰ روز در دریا به تایلند می‌رود",
+      "lead": "نیروی دریایی تایلند اعلام کرد این توقف «روسی» به خدمه اجازه استراحت می‌دهد، این در حالی است که گزارش‌هایی درباره شرایط نامناسب درون ناو منتشر شده است.",
+      "category": "technology",
+      "region": "iran",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/27/uss-abraham-lincoln-thailand-visit",
+      "pubDate": "Fri, 28 Aug 2026 13:15:57 GMT",
+      "time": "۱۶:۴۵ - ۶ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-28T17:01:46.622Z"
+    },
+    {
+      "id": "guardian_85cd400369",
+      "agencyId": "guardian",
+      "title": "Reports that US wants big stake in Venezuelan oil and gas spark anger",
+      "title_fa": "گزارش‌ها درباره تمایل آمریکا برای تصاحب سهم عمده در نفت و گاز ونزوئلا جنجال‌برانگیز شد",
+      "lead": "منتقدان این اقدام را برای به دست آوردن دسترسی بلندمدت به ذخایر عظیم انرژی این کشور، «غارتگرانه» و «غیرقانونی» توصیف کرده‌اند. انتشار خبرهایی مبنی بر اینکه ایالات متحده خود را برای تصاحب سهمی بزرگ در ذخایر انرژی ونزوئلا آماده می‌کند، موجی از اعتراضات را برانگیخته است.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
+      "pubDate": "Fri, 28 Aug 2026 16:30:23 GMT",
+      "time": "۲۰:۰۰ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-28T17:01:46.622Z"
     }
   ]
 }
