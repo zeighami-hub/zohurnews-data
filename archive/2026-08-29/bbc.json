@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
   "agencyId": "bbc",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "bbc_c06ee050ab",
@@ -97,6 +97,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-29T00:46:11.041Z"
+    },
+    {
+      "id": "bbc_76c313ff41",
+      "agencyId": "bbc",
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "title_fa": "اوج‌گیری دزدی دریایی در سومالی در پی تبعات جنگ آمریکا و ایران",
+      "lead": "دو کشتی در هفته گذشته و ظرف چهار روز توقیف شدند که این امر تعداد کشتی‌های مورد حمله قرارگرفته از ماه ژانویه را به حداقل ۱۳ فروند رساند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 01:14:13 GMT",
+      "time": "۰۴:۴۴ - ۷ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-29T01:16:13.636Z"
+    },
+    {
+      "id": "bbc_9ecbee51c6",
+      "agencyId": "bbc",
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "title_fa": "رقابت تنگاتنگ در همه‌پرسی ایسلند درباره ازسرگیری مذاکرات پیوستن به اتحادیه اروپا",
+      "lead": "تحولات ناآرام بین‌المللی برگزاری این همه‌پرسی را جلو انداخته است، اما کمپین‌های انتخاباتی بیشتر بر صنعت حیاتی ماهیگیری ایسلند تمرکز داشته‌اند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 00:56:19 GMT",
+      "time": "۰۴:۲۶ - ۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-29T01:16:13.636Z"
     }
   ]
 }
