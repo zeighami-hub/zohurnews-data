@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_f148703b62",
@@ -192,6 +192,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-29T09:16:48.645Z"
+    },
+    {
+      "id": "nytimes_4a137b0b37",
+      "agencyId": "nytimes",
+      "title": "Fast Forward",
+      "title_fa": "به جلو سریع",
+      "lead": "چگونه می‌توانیم میل خود به امکانات مدرن را با دلتنگی برای سادگی دوران پیش از اینترنت متعادل کنیم؟",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/29/briefing/fast-forward.html",
+      "pubDate": "Sat, 29 Aug 2026 09:22:54 +0000",
+      "time": "۱۲:۵۲ - ۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-29T09:31:45.922Z"
+    },
+    {
+      "id": "nytimes_f8d47469af",
+      "agencyId": "nytimes",
+      "title": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
+      "title_fa": "ویرانی «عظیم» همزمان با ادامه جستجوی ۲۴۰۰ مفقودی سیل در نپال",
+      "lead": "با ورود تلاش‌های امدادی به روز چهارم، ابعاد ویرانی آشکار شد و نویدبخش یک روند بازیابی دشوار برای این کشور آسیب‌پذیر است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+      "pubDate": "Sat, 29 Aug 2026 09:04:16 +0000",
+      "time": "۱۲:۳۴ - ۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-29T09:31:45.922Z"
     }
   ]
 }
