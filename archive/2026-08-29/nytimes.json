@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_f148703b62",
@@ -249,6 +249,82 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-29T09:46:28.935Z"
+    },
+    {
+      "id": "nytimes_e213bbb97c",
+      "agencyId": "nytimes",
+      "title": "Elbows and Chin Up: A Whirlwind Week in the U.S.-Canada Trade War",
+      "title_fa": "هفته‌ای پربار و طوفانی در جنگ تجاری ایالات متحده و کانادا",
+      "lead": "پس از شکست مذاکرات تجاری، مارک کارنی کشور را بسیج کرد، کسب‌وکارهای کانادایی ایستادگی کردند و دونالد ترامپ اقدام به تغییر نام دریاچه انتاریو نمود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-trade-war-tariffs-canada-us.html",
+      "pubDate": "Sat, 29 Aug 2026 10:00:05 +0000",
+      "time": "۱۳:۳۰ - ۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-29T10:16:31.622Z"
+    },
+    {
+      "id": "nytimes_5be3df6091",
+      "agencyId": "nytimes",
+      "title": "Who Is Haakon, Norway’s New King?",
+      "title_fa": "هاکون، پادشاه جدید نروژ کیست؟",
+      "lead": "شاهزاده هاکون، تنها پسر پادشاه هارالد پنجم، پادشاه خواهد شد که نقشی عمدتاً تشریفاتی و نمادین دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/28/world/europe/norway-new-king-haakon.html",
+      "pubDate": "Fri, 28 Aug 2026 19:44:47 +0000",
+      "time": "۲۳:۱۴ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-29T10:16:31.622Z"
+    },
+    {
+      "id": "nytimes_101332b980",
+      "agencyId": "nytimes",
+      "title": "Russian Sanctions Are Fueling a Canadian Car Theft Epidemic",
+      "title_fa": "تحریم‌های روسیه بحران سرقت خودرو در کانادا را دامن زده است",
+      "lead": "روسیه به بزرگ‌ترین مقصد برای خودروهای مسروقه کانادا تبدیل شده است. قاچاقچیان در تلاشند تا تقاضای رو به رشد بازار سیاه در این زمینه را تأمین کنند.",
+      "category": "economy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/27/world/canada/canada-car-theft-russia-sanctions.html",
+      "pubDate": "Thu, 27 Aug 2026 11:38:21 +0000",
+      "time": "۱۵:۰۸ - ۵ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-29T10:01:49.191Z"
+    },
+    {
+      "id": "nytimes_cc1e53f2d1",
+      "agencyId": "nytimes",
+      "title": "Fear Over Malaysia’s Plan to Send Back Rohingya Migrants to Myanmar",
+      "title_fa": "نگرانی از اجرای طرح مالزی برای بازگرداندن پناهجویان روهینجا به میانمار",
+      "lead": "اعلام این خبر موجی از وحشت را در میان جامعه روهینجا ایجاد کرده است. این افراد پیش‌تر از حکومت نظامی، جنگ داخلی و آزار و اذیت‌های مذهبی در کشور خود گریخته بودند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/28/world/asia/rohingya-refugees-malaysia-myanmar.html",
+      "pubDate": "Fri, 28 Aug 2026 09:04:28 +0000",
+      "time": "۱۲:۳۴ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-29T10:01:49.191Z"
     }
   ]
 }
