@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
   "agencyId": "guardian",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "guardian_85050cc0b1",
@@ -306,6 +306,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-29T15:01:50.876Z"
+    },
+    {
+      "id": "guardian_133a7329c1",
+      "agencyId": "guardian",
+      "title": "Tropical Storm Dolly downgraded to ‘open tropical wave’ as it heads to Caribbean",
+      "title_fa": "طوفان دالی در مسیر کارائیب به «موج گرمسیری باز» تقلیل یافت",
+      "lead": "بقایای طوفان گرمسیری دالی که به یک «موج گرمسیری باز» تبدیل شده است، همچنان در حال حرکت در اقیانوس اطلس بوده و می‌تواند باعث بارش‌های سنگین در جزایر لیوارد، جزایر ویرجین، پورتوریکو و هیسپانیولا شود.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/weather/2026/aug/28/tropical-storm-dolly-caribbean",
+      "pubDate": "Fri, 28 Aug 2026 15:23:18 GMT",
+      "time": "۱۸:۵۳ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-29T16:01:49.020Z"
+    },
+    {
+      "id": "guardian_66348c1a98",
+      "agencyId": "guardian",
+      "title": "At least 93,000 ‘in great need’ after Nepal-Tibet flash floods, says Red Cross",
+      "title_fa": "فدراسیون بین‌المللی صلیب سرخ: دستکم ۹۳ هزار نفر پس از سیل‌های ناگهانی در نپال و تبت به کمک‌های اضطراری نیاز دارند",
+      "lead": "فدراسیون بین‌المللی صلیب سرخ اعلام کرد که به دنبال سیل‌های ناگهانی در نپال و تبت، دستکم ۹۳ هزار نفر در وضعیت بحرانی قرار دارند. این نهاد ابراز نگرانی کرد که با رسیدن امدادگران به مناطق دورافتاده، شمار قربانیان که تاکنون نزدیک به ۶۰۰ نفر اعلام شده، افزایش یابد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/28/nepal-tibet-flash-floods-red-cross-rescuers-death-toll",
+      "pubDate": "Fri, 28 Aug 2026 15:55:41 GMT",
+      "time": "۱۹:۲۵ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 25,
+        "negative": 75
+      },
+      "analyzed_at": "2026-08-29T15:46:52.210Z"
     }
   ]
 }
