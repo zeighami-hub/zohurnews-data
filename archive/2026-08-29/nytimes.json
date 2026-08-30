@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
   "agencyId": "nytimes",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_f148703b62",
@@ -325,6 +325,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-29T10:01:49.191Z"
+    },
+    {
+      "id": "nytimes_4d49b6dc33",
+      "agencyId": "nytimes",
+      "title": "Six Months In, Iran Appears Stronger and U.S. Goals Unclear",
+      "title_fa": "پس از شش ماه، ایران قوی‌تر به نظر می‌رسد و اهداف ایالات متحده نامشخص است",
+      "lead": "انتظار نمی‌رود جایگزینی جنگ نظامی با جنگ اقتصادی تشدیدیافته توسط ترامپ، استراتژی ایران را تغییر دهد، در حالی که مردم این کشور را بیشتر به سمت فقر سوق می‌دهد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html",
+      "pubDate": "Fri, 28 Aug 2026 19:43:42 +0000",
+      "time": "۲۳:۱۳ - ۶ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-29T11:22:40.515Z"
+    },
+    {
+      "id": "nytimes_a052bb9e97",
+      "agencyId": "nytimes",
+      "title": "Inside Afghanistan’s Secret Schools for Girls",
+      "title_fa": "درون مدارس مخفی دخترانه در افغانستان",
+      "lead": "طالبان تحصیل میلیون‌ها دختر افغان را ممنوع کرده است و خبرنگاران نیویورک تایمز کلاس‌هایی را بررسی کرده‌اند که در آن دانش‌آموزان، معلمان و والدین با سرپیچی از قوانین به مقاومت ادامه می‌دهند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/28/world/asia/afghanistan-girls-education.html",
+      "pubDate": "Fri, 28 Aug 2026 16:56:53 +0000",
+      "time": "۲۰:۲۶ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-29T11:22:40.515Z"
     }
   ]
 }
