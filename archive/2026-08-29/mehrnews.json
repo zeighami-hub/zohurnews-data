@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
   "agencyId": "mehrnews",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "mehrnews_90cf23eaed",
@@ -344,6 +344,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-29T09:16:48.645Z"
+    },
+    {
+      "id": "mehrnews_5ff46dff1d",
+      "agencyId": "mehrnews",
+      "title": "Naval blcokade must be lifted before Iran agreement with Oman",
+      "title_fa": "باید محاصره دریایی پیش از توافق ایران با عمان برداشته شود",
+      "lead": "یک قانونگذار ارشد ایرانی تأکید کرده است که ایران تا پیش از لغو محاصره دریایی توسط ایالات متحده، تنگه هرمز را در چارچوب توافق با عمان بازگشایی نخواهد کرد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247285/Lifting-naval-blcokade-needed-for-Iran-to-reopen-Hormuz",
+      "pubDate": "Fri, 28 Aug 2026 09:30:13 GMT",
+      "time": "۱۳:۰۰ - ۶ شهریور",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-29T10:16:31.622Z"
+    },
+    {
+      "id": "mehrnews_9d50131c31",
+      "agencyId": "mehrnews",
+      "title": "At least six Palestinians killed in Israeli attacks on Gaza",
+      "title_fa": "دستکم شش فلسطینی در حملات اسرائیل به غزه کشته شدند",
+      "lead": "در جریان حملات روز گذشته اسرائیل به نوار غزه، دستکم شش فلسطینی جان خود را از دست دادند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247304/At-least-six-Palestinians-killed-in-Israeli-attacks-on-Gaza",
+      "pubDate": "Sat, 29 Aug 2026 09:56:30 GMT",
+      "time": "۱۳:۲۶ - ۷ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-29T10:01:49.191Z"
     }
   ]
 }
