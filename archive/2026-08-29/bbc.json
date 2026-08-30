@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
   "agencyId": "bbc",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "bbc_c06ee050ab",
@@ -439,6 +439,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-29T20:20:21.722Z"
+    },
+    {
+      "id": "bbc_2db6d9654a",
+      "agencyId": "bbc",
+      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+      "title_fa": "برنامه آمریکا برای قطع کمک‌های نظامی به یک متحد کلیدی در خاورمیانه",
+      "lead": "منابع به بی‌بی‌سی گفته‌اند که ایالات متحده قصد دارد کمک‌های نظامی به یکی از متحدان کلیدی خود در خاورمیانه را متوقف کند. کردستان عراق ابراز نگرانی کرده است که این تصمیم دولت ترامپ، منطقه را در برابر حملات بیشتر از سوی ایران آسیب‌پذیرتر کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 19:45:39 GMT",
+      "time": "۲۳:۱۵ - ۶ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-29T21:46:25.569Z"
     }
   ]
 }
