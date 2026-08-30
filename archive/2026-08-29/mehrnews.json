@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
   "agencyId": "mehrnews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "mehrnews_90cf23eaed",
@@ -59,6 +59,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-29T05:02:16.169Z"
+    },
+    {
+      "id": "mehrnews_58d8b5c213",
+      "agencyId": "mehrnews",
+      "title": "Government pledges full support for Leader's path",
+      "title_fa": "تعهد دولت به حمایت کامل از مسیر رهبری",
+      "lead": "کابینه رئیس‌جمهور پزشکیان اعلام کرد که تمام تصمیمات عمده سیاسی، اقتصادی، اجتماعی و فرهنگی را به یک «پیوست همگرایی ملی» مجهز خواهد کرد که بازتاب هشدار رهبر انقلاب علیه دودستگی اجتماعی است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247296/Government-pledges-full-support-for-Leader-s-path",
+      "pubDate": "Sat, 29 Aug 2026 05:41:06 GMT",
+      "time": "۰۹:۱۱ - ۷ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-29T05:46:30.641Z"
+    },
+    {
+      "id": "mehrnews_f0f43896ac",
+      "agencyId": "mehrnews",
+      "title": "US weapons drain from Iran conflict sparks worries",
+      "title_fa": "نگرانی از کاهش تسلیحات آمریکا به دلیل درگیری با ایران",
+      "lead": "یک رسانه آمریکایی گزارش داده است که کاهش شدید ذخایر مهمات آمریکا ناشی از جنگ علیه ایران، نگرانی‌های عمیقی را درباره توانایی ایالات متحده در بازدارندگی تهدیدها ایجاد کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/247295/US-weapons-drain-from-Iran-conflict-sparks-worries",
+      "pubDate": "Sat, 29 Aug 2026 05:35:21 GMT",
+      "time": "۰۹:۰۵ - ۷ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-29T05:46:30.641Z"
     }
   ]
 }
