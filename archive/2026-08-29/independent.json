@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
   "agencyId": "independent",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "independent_9c58e46ab1",
@@ -40,6 +40,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-29T00:01:38.822Z"
+    },
+    {
+      "id": "independent_c9ad177fe5",
+      "agencyId": "independent",
+      "title": "Trump announces massive oil deal with Venezuela as gas prices surge",
+      "title_fa": "ترامپ از توافق نفتی بزرگ با ونزوئلا همزمان با افزایش قیمت بنزین خبر داد",
+      "lead": "این توافق کنترل ۶۵ میلیارد بشکه از نفت ونزوئلا را به ایالات متحده واگذار می‌کند. این خبر در پی افزایش قیمت بنزین اعلام شده است.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/trump-venezuela-oil-deal-gas-prices-b3041350.html",
+      "pubDate": "Sat, 29 Aug 2026 00:29:07 GMT",
+      "time": "۰۳:۵۹ - ۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-29T00:31:18.021Z"
+    },
+    {
+      "id": "independent_984a590dd9",
+      "agencyId": "independent",
+      "title": "Stephen Miller puts anti-immigration information in front of Natalie Harp so it gets to Trump: report",
+      "title_fa": "استفن میلر اطلاعات ضد مهاجرت را در برابر ناتالی هارپ قرار می‌دهد تا به دست ترامپ برسد",
+      "lead": "بر اساس گزارش‌ها، ناتالی هارپ به خاطر شیوه‌ای که در چاپ اطلاعات دارد، ملقب به «پرینتر انسانی» شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/trump-miller-natalie-harp-information-b3041346.html",
+      "pubDate": "Sat, 29 Aug 2026 00:02:57 GMT",
+      "time": "۰۳:۳۲ - ۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-29T00:16:11.645Z"
     }
   ]
 }
