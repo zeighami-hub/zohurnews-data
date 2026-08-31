@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_f148703b62",
@@ -401,6 +401,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-30T14:31:53.786Z"
+    },
+    {
+      "id": "nytimes_1f18027256",
+      "agencyId": "nytimes",
+      "title": "U.A.E. To Review Banque Misr, Targeted by Iran Sanctions",
+      "title_fa": "امارات متحده عربی بانک «بنک مصر» را که هدف تحریم‌های ایران قرار گرفته، بررسی می‌کند",
+      "lead": "وزارت خزانه‌داری آمریکا شعب بانک «بنک مصر» در امارات متحده عربی را به کمک به ایران متهم کرد و بانک مرکزی امارات وعده داد که این موضوع را بررسی کند.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/world/middleeast/uae-banque-misr-treasury-iran.html",
+      "pubDate": "Sun, 30 Aug 2026 14:49:15 +0000",
+      "time": "۱۸:۱۹ - ۸ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-30T15:01:56.801Z"
     }
   ]
 }
