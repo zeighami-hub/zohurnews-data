@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "mehrnews",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "mehrnews_889969567b",
@@ -268,6 +268,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-30T09:31:57.900Z"
+    },
+    {
+      "id": "mehrnews_50e920360a",
+      "agencyId": "mehrnews",
+      "title": "‘Massive’ explosion in southern Lebanon after Israeli bombing",
+      "title_fa": "انفجار «سنگین» در جنوب لبنان پس از بمباران اسرائیل",
+      "lead": "رژیم صهیونیستی با وجود برقراری آتش‌بس، دست به یک انفجار در جنوب لبنان زد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247319/Massive-explosion-in-southern-Lebanon-after-Israeli-bombing",
+      "pubDate": "Sun, 30 Aug 2026 10:36:52 GMT",
+      "time": "۱۴:۰۶ - ۸ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-30T10:46:39.257Z"
+    },
+    {
+      "id": "mehrnews_9d50131c31",
+      "agencyId": "mehrnews",
+      "title": "At least six Palestinians killed in Israeli attacks on Gaza",
+      "title_fa": "دستکم شش فلسطینی در حملات اسرائیل به غزه کشته شدند",
+      "lead": "در جریان حملات روز گذشته اسرائیل به غزه، دستکم شش فلسطینی جان خود را از دست دادند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247304/At-least-six-Palestinians-killed-in-Israeli-attacks-on-Gaza",
+      "pubDate": "Sat, 29 Aug 2026 09:56:30 GMT",
+      "time": "۱۳:۲۶ - ۷ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-30T10:33:05.542Z"
     }
   ]
 }
