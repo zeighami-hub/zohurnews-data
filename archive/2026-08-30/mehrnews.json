@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "mehrnews",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "mehrnews_889969567b",
@@ -230,6 +230,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-30T09:03:11.439Z"
+    },
+    {
+      "id": "mehrnews_ba4eaeaeda",
+      "agencyId": "mehrnews",
+      "title": "Hezbollah chief says unity revived Palestine cause",
+      "title_fa": "رئیس حزب‌الله: وحدت، آرمان فلسطین را احیا کرد",
+      "lead": "دبیرکل حزب‌الله لبنان اعلام کرد که امام خامنه‌ای آرمان فلسطین را از طریق وحدت عملی احیا کرده است و شکست‌های اسرائیل در سه جنگ نتیجه پایداری مردمی بوده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247318/Hezbollah-chief-says-unity-revived-Palestine-cause",
+      "pubDate": "Sun, 30 Aug 2026 09:17:01 GMT",
+      "time": "۱۲:۴۷ - ۸ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-30T09:31:57.900Z"
+    },
+    {
+      "id": "mehrnews_193fd773ee",
+      "agencyId": "mehrnews",
+      "title": "How Trump’s illusion of short war against Iran collapsed",
+      "title_fa": "چگونه توهم جنگ کوتاه علیه ایران برای ترامپ شکست خورد",
+      "lead": "جنگی که قرار بود پیروزی سریع و قاطع برای ایالات متحده باشد، اکنون به یکی از پرهزینه‌ترین چالش‌های دولت ترامپ تبدیل شده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/247303/How-Trump-s-illusion-of-short-war-against-Iran-collapsed",
+      "pubDate": "Sat, 29 Aug 2026 09:06:58 GMT",
+      "time": "۱۲:۳۶ - ۷ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-30T09:31:57.900Z"
     }
   ]
 }
