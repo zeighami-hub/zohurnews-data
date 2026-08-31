@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "france24",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "france24_f73f753868",
@@ -572,6 +572,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-30T20:32:01.412Z"
+    },
+    {
+      "id": "france24_69dc2eb86d",
+      "agencyId": "france24",
+      "title": "Middle East Live: US strikes Iran for first time in a month",
+      "title_fa": "پوشش زنده خاورمیانه: ایالات متحده برای نخستین بار در یک ماه اخیر به ایران حمله کرد",
+      "lead": "ایالات متحده روز یکشنبه اعلام کرد که حملات هوایی علیه پرتابگرهای موشک ایران در جزیره‌ای کوچک در تنگه هرمز انجام داده است. این نخستین حمله آمریکا به ایران از اواخر ماه ژوئیه به شمار می‌رود.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month",
+      "pubDate": "Sun, 30 Aug 2026 23:02:17 GMT",
+      "time": "۰۲:۳۲ - ۹ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-30T23:16:11.696Z"
+    },
+    {
+      "id": "france24_5569018ffd",
+      "agencyId": "france24",
+      "title": "US Treasury bars certain journalists from G20 meeting in North Carolina",
+      "title_fa": "خزانه‌داری آمریکا روزنامه‌نگاران خاصی را از نشست گروه ۲۰ در کارولینای شمالی محروم کرد",
+      "lead": "وزارت خزانه‌داری ایالات متحده از اعطای اعتبارنامه به خبرنگاران نیویورک تایمز، وال استریت ژورنال و بلومبرگ برای نشست مالی گروه ۲۰ در کارولینای شمالی خودداری کرد. این اقدام تازه‌ترین محدودیت اعمال شده بر دسترسی رسانه‌ها در دوران ریاست جمهوری دونالد ترامپ به شمار می‌رود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/americas/20260830-us-treasury-journalists-from-g20",
+      "pubDate": "Sun, 30 Aug 2026 22:48:02 GMT",
+      "time": "۰۲:۱۸ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-30T23:01:31.405Z"
     }
   ]
 }
