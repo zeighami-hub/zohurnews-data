@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_f148703b62",
@@ -344,6 +344,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-30T12:31:25.898Z"
+    },
+    {
+      "id": "nytimes_dbdf5f8e52",
+      "agencyId": "nytimes",
+      "title": "Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order",
+      "title_fa": "تغییر نام دریاچه انتاریو به دریاچه آمریکا در گوگل مپ پس از دستور اجرایی ترامپ",
+      "lead": "به دنبال دستور اجرایی هفته گذشته رئیس‌جمهور ترامپ، کاربران در ایالات متحده این برچسب جدید را در نقشه گوگل مشاهده خواهند کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html",
+      "pubDate": "Sun, 30 Aug 2026 13:18:45 +0000",
+      "time": "۱۶:۴۸ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-30T13:31:46.416Z"
+    },
+    {
+      "id": "nytimes_085b9418cc",
+      "agencyId": "nytimes",
+      "title": "See Nepali Rescue Workers Testing Aid Delivery by Drone",
+      "title_fa": "آزمایش تحویل کمک‌ها با پهپاد توسط امدادگران نپالی",
+      "lead": "برخی از بازماندگان سیل و رانش زمین مرگبار به غذا دسترسی ندارند و مقامات و داوطلبان در حال آزمایش نحوه کمک‌رسانی پهپادها به مناطق بحران‌زدا هستند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-aid-drone.html",
+      "pubDate": "Sun, 30 Aug 2026 13:12:34 +0000",
+      "time": "۱۶:۴۲ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-30T13:31:46.416Z"
     }
   ]
 }
