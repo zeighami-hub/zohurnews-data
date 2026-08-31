@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_f148703b62",
@@ -40,6 +40,63 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-30T03:01:29.528Z"
+    },
+    {
+      "id": "nytimes_fbf10c53ca",
+      "agencyId": "nytimes",
+      "title": "In Scotland, Luxury Hotel Gleneagles Offers a Posh Summer Camp for Grown-Ups",
+      "title_fa": "هتل لوکس گلنیگلز در اسکاتلند کمپ تابستانی مجللی برای بزرگسالان برگزار می‌کند",
+      "lead": "ترکیبی از ماجراجویی‌های سرسبز در روز و شام‌های ظریف در شب، هتل لوکس گلنیگلز در خارج از ادینبورگ را به مکانی وسوسه‌انگیز تبدیل کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/travel/scotland-summer-resort-gleneagles.html",
+      "pubDate": "Sun, 30 Aug 2026 04:01:27 +0000",
+      "time": "۰۷:۳۱ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 85,
+        "neutral": 15,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-30T04:16:17.634Z"
+    },
+    {
+      "id": "nytimes_8749a3dd50",
+      "agencyId": "nytimes",
+      "title": "Expedia Faces Off With Cuban Families Over Land Seized Decades Ago",
+      "title_fa": "نبرد حقوقی اکسپدیا با خانواده‌های کوبایی بر سر زمین‌های مصادره شده در دهه‌های گذشته",
+      "lead": "یک دادگاه فدرال محاکمه‌ای را بر اساس ادعاهای مطرح شده علیه شرکت مسافرتی اکسپدیا آغاز کرده است. ده‌ها پرونده حقوقی مشابه از زمان باز شدن این مسیر توسط رئیس‌جمهور سابق ترامپ ثبت شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/world/americas/cuba-expedia-lawsuit.html",
+      "pubDate": "Sun, 30 Aug 2026 04:01:20 +0000",
+      "time": "۰۷:۳۱ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-30T04:16:17.634Z"
+    },
+    {
+      "id": "nytimes_14f7867703",
+      "agencyId": "nytimes",
+      "title": "The 10 p.m. Dinner Is a Spanish Tradition. Are People Giving It Up?",
+      "title_fa": "شام ساعت ۱۰ شب یک سنت اسپانیایی است؛ آیا مردم آن را کنار می‌گذارند؟",
+      "lead": "برخی نشانه‌ها حاکی از آن است که اسپانیایی‌ها در حال تغییر زمان شام خوردن خود به ساعات اولیه‌تر شب هستند. کارشناسان می‌گویند این روند می‌تواند به سلامت جامعه کمک کند، اما همه آماده ترک این سنت نیستند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/world/europe/spain-late-dinner-time.html",
+      "pubDate": "Sun, 30 Aug 2026 04:01:11 +0000",
+      "time": "۰۷:۳۱ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-30T04:16:17.634Z"
     }
   ]
 }
