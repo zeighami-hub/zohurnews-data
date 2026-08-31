@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_9ec0f62611",
@@ -401,6 +401,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-30T19:46:18.239Z"
+    },
+    {
+      "id": "bbc_7e87f8ff7b",
+      "agencyId": "bbc",
+      "title": "British woman killed in stabbing at German railway station",
+      "title_fa": "کشته شدن یک زن بریتانیایی در حادثه چاقوکشی در ایستگاه قطار آلمان",
+      "lead": "یک مرد ۲۷ ساله آلمانی بلافاصله پس از این رویداد در روزنهایم واقع در ایالت بایرن دستگیر شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 16:11:46 GMT",
+      "time": "۱۹:۴۱ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-30T20:32:01.412Z"
+    },
+    {
+      "id": "bbc_352344a676",
+      "agencyId": "bbc",
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "title_fa": "رئیس‌جمهور پیشین اکوادور به اتهام فساد مالی زندانی شد",
+      "lead": "لنین مورنو دریافت رشوه از یک شرکت چینی برای به دست آوردن قرارداد ساخت یک نیروگاه برق آبی را رد می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 19:44:54 GMT",
+      "time": "۲۳:۱۴ - ۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-30T20:32:01.412Z"
     }
   ]
 }
