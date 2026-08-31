@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "bbc",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "bbc_9ec0f62611",
@@ -439,6 +439,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-30T20:32:01.412Z"
+    },
+    {
+      "id": "bbc_6c241bee5f",
+      "agencyId": "bbc",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "title_fa": "حملات ایالات متحده به لانچرهای ایران در جزیره لارک در جریان نخستین حمله طی هفته‌های اخیر",
+      "lead": "ایران اعلام کرد که این حمله تعدادی غیرنظامی را کشته است و این نخستین حمله شناخته شده آمریکا به ایران از اواخر ماه ژوئیه محسوب می‌شود.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 21:15:42 GMT",
+      "time": "۰۰:۴۵ - ۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-30T21:31:23.938Z"
     }
   ]
 }
