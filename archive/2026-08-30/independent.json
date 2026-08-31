@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "independent",
-  "total": 146,
+  "total": 148,
   "articles": [
     {
       "id": "independent_f6334b124d",
@@ -2776,6 +2776,44 @@
         "negative": 90
       },
       "analyzed_at": "2026-08-30T21:16:13.207Z"
+    },
+    {
+      "id": "independent_cfda43ca8f",
+      "agencyId": "independent",
+      "title": "US military attacks Iranian rocket launchers in the Strait of Hormuz",
+      "title_fa": "ارتش ایالات متحده لانچرهای موشکی ایران را در تنگه هرمز هدف قرار داد",
+      "lead": "ارتش ایالات متحده اعلام کرد که حملاتی را علیه لانچرهای موشکی ایران در تنگه هرمز انجام داده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/us-iran-attack-rocket-strait-of-hormuz-b3041895.html",
+      "pubDate": "Sun, 30 Aug 2026 21:18:58 GMT",
+      "time": "۰۰:۴۸ - ۹ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-30T21:31:23.938Z"
+    },
+    {
+      "id": "independent_0e91cb819f",
+      "agencyId": "independent",
+      "title": "Burnham makes major pledge to scrap indefinite jail terms",
+      "title_fa": "برنهام وعده مهمی برای لغو احکام زندان نامحدود داد",
+      "lead": "اندی برنهام تعهد چشمگیری برای پایان دادن به احکام زندان با مدت نامحدود ارائه کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.independent.co.uk/bulletin/news/burnham-indefinite-jail-term-ipp-scrap-b3041900.html",
+      "pubDate": "Sun, 30 Aug 2026 21:30:18 GMT",
+      "time": "۰۱:۰۰ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-30T21:31:23.938Z"
     }
   ]
 }
