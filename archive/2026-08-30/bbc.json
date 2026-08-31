@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "bbc",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "bbc_9ec0f62611",
@@ -268,6 +268,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-08-30T15:01:56.801Z"
+    },
+    {
+      "id": "bbc_76c313ff41",
+      "agencyId": "bbc",
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "title_fa": "افزایش دزدی دریایی در سومالی همزمان با پیامدهای جنگ آمریکا و ایران",
+      "lead": "هفته گذشته دو کشتی دیگر ربوده شدند و تعداد حملات ثبت شده از ماه ژانویه به دستکم ۱۳ مورد رسید.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 01:14:13 GMT",
+      "time": "۰۴:۴۴ - ۷ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-30T16:46:17.107Z"
+    },
+    {
+      "id": "bbc_92addc1370",
+      "agencyId": "bbc",
+      "title": "Russia says it helped to repel Niger attempted coup",
+      "title_fa": "روسیه از دفع تلاش برای کودتا در نیجر خبر داد",
+      "lead": "به گفته مقامات، سربازان تلاش داشتند صبح شنبه به یک پایگاه نظامی کلیدی حمله کنند که این توطئه خنثی شد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 16:33:17 GMT",
+      "time": "۲۰:۰۳ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-08-30T16:46:17.107Z"
     }
   ]
 }
