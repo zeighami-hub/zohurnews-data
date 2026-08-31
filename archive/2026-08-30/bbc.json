@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "bbc",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "bbc_9ec0f62611",
@@ -173,6 +173,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-30T08:02:52.928Z"
+    },
+    {
+      "id": "bbc_83534bc972",
+      "agencyId": "bbc",
+      "title": "Zambian opposition leader charged with treason",
+      "title_fa": "رهبر اپوزیسیون زامبیا به اتهام خیانت بزرگ متهم شد",
+      "lead": "موندوبیل پیش‌تر در یک ساختمان سازمان ملل در پایتخت زامبیا پناه گرفته و مخفی شده بود. او اکنون با اتهام خیانت مواجه شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 09:08:23 GMT",
+      "time": "۱۲:۳۸ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-30T09:17:34.509Z"
+    },
+    {
+      "id": "bbc_0690f603ef",
+      "agencyId": "bbc",
+      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
+      "title_fa": "موسسه بهداشت هلند در پی قرص‌های اکستازی به شکل ترامپ «هشدار قرمز» صادر کرد",
+      "lead": "موسسه بهداشت هلند اعلام کرد که این مواد مخدر اثر تأخیری دارند که «خطر اوردوز را افزایش می‌دهد».",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 08:48:34 GMT",
+      "time": "۱۲:۱۸ - ۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-30T09:17:34.509Z"
     }
   ]
 }
