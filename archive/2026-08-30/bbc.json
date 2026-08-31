@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "bbc",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "bbc_9ec0f62611",
@@ -344,6 +344,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-30T18:01:37.967Z"
+    },
+    {
+      "id": "bbc_1c62773445",
+      "agencyId": "bbc",
+      "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
+      "title_fa": "ناسا تلسکوپ فضایی جدیدی با قابلیت دید ۱۰۰ برابر بیشتر از هابل را پرتاب کرد",
+      "lead": "تلسکوپ آژانس فضایی ایالات متحده ماموریت چند ساله خود را برای ایجاد نقشه جدیدی از جهان و کسب اطلاعات بیشتر درباره انرژی تاریک و ماده تاریک آغاز می‌کند.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 18:53:53 GMT",
+      "time": "۲۲:۲۳ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-30T19:01:33.078Z"
+    },
+    {
+      "id": "bbc_0edcd1ca83",
+      "agencyId": "bbc",
+      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
+      "title_fa": "سرقت گردنبند ۶۰۰ الماسه از موزه وین در روز روشن",
+      "lead": "پلیس در جستجوی دو مظنون است که اعتقاد بر این است با خرید بلیت نمایشگاه توانسته‌اند به جواهرات دسترسی پیدا کنند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 17:29:16 GMT",
+      "time": "۲۰:۵۹ - ۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-30T18:46:27.215Z"
     }
   ]
 }
