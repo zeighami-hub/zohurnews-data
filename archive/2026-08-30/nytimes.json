@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_f148703b62",
@@ -192,6 +192,82 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-30T06:46:32.519Z"
+    },
+    {
+      "id": "nytimes_8542fa17ad",
+      "agencyId": "nytimes",
+      "title": "Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply",
+      "title_fa": "صف‌های طولانی بنزین در ایران نشان‌دهنده فشار جنگ و تحریم‌های آمریکا بر تامین سوخت است",
+      "lead": "دولت در تلاش است تا کمبود سوخت را جبران کند و نگران است که افزایش قیمت بنزین موجب ناآرامی شود. این وضعیت ناشی از فشارهای جنگ و محدودیت‌های اعمال شده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html",
+      "pubDate": "Sun, 30 Aug 2026 09:07:17 +0000",
+      "time": "۱۲:۳۷ - ۸ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-30T09:17:34.509Z"
+    },
+    {
+      "id": "nytimes_8549538c87",
+      "agencyId": "nytimes",
+      "title": "Pilgrims to Flood-Stricken Nepal Sought the Divine at Sacred Mountain",
+      "title_fa": "زائران نپال سیل‌زده به دنبال معنویت در کوه مقدس بودند",
+      "lead": "برای بسیاری از افراد، سفر پیاده‌روی به کوه کایلاش در مرز نپال و تبت یک سفر مادام‌العمر برای یافتن بیداری معنوی است که با وجود شرایط دشوار انجام شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html",
+      "pubDate": "Sun, 30 Aug 2026 09:02:05 +0000",
+      "time": "۱۲:۳۲ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-30T09:17:34.509Z"
+    },
+    {
+      "id": "nytimes_c915b09fa4",
+      "agencyId": "nytimes",
+      "title": "Deportees Sent to Liberia Recount Harrowing Details of U.S. Expulsion and Treatment by ICE",
+      "title_fa": "اخراج‌شدگان به لیبریا جزئیات تکان‌دهنده اخراج از آمریکا و بدرفتاری اداره مهاجرت را روایت کردند",
+      "lead": "ده فرد اخراج‌شده گفتند که رفتار خشونت‌آمیز یا توهین‌آمیزی را از سوی ماموران اداره مهاجرت آمریکا تجربه کرده یا شاهد بوده‌اند. آنها ماه‌ها در بازداشتگاه به سر بردند تا اینکه به کشورهایی فرستاده شدند که هیچ پیوندی با آنها نداشتند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html",
+      "pubDate": "Sun, 30 Aug 2026 09:01:57 +0000",
+      "time": "۱۲:۳۱ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-30T09:17:34.509Z"
+    },
+    {
+      "id": "nytimes_a0d796c4fe",
+      "agencyId": "nytimes",
+      "title": "Far Right Is Poised to Win in a German State, but Fight Over Power Won’t End There",
+      "title_fa": "جناح راست افراطی در آستانه پیروزی در یک ایالت آلمان است، اما مبارزه بر سر قدرت ادامه دارد",
+      "lead": "رهبران ایالتی و فدرال تلاش می‌کنند از به اشتراک گذاشتن اطلاعات امنیتی حساس با حزب «جایگزین برای آلمان» در صورت پیروزی در انتخابات ایالتی هفته آینده جلوگیری کنند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/world/europe/germany-afd-saxony-anhalt.html",
+      "pubDate": "Sun, 30 Aug 2026 09:00:16 +0000",
+      "time": "۱۲:۳۰ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-08-30T09:17:34.509Z"
     }
   ]
 }
