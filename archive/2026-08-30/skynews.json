@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "skynews",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "skynews_27f26c12b0",
@@ -135,6 +135,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-30T09:17:34.509Z"
+    },
+    {
+      "id": "skynews_f4f0ce93bd",
+      "agencyId": "skynews",
+      "title": "British woman dies after stabbing at train station in Germany",
+      "title_fa": "مرگ زن ۳۱ ساله بریتانیایی بر اثر چاقوخوردگی در ایستگاه قطار آلمان",
+      "lead": "پلیس آلمان اعلام کرد که یک زن ۳۱ ساله بریتانیایی پس از مورد حمله قرار گرفتن با سلاح سرد در یک ایستگاه قطار در این کشور جان خود را از دست داده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/british-woman-dies-after-stabbing-at-train-station-in-germany-13578974",
+      "pubDate": "Sun, 30 Aug 2026 10:47:00 +0100",
+      "time": "۱۳:۱۷ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-30T10:01:37.585Z"
+    },
+    {
+      "id": "skynews_d205aed40b",
+      "agencyId": "skynews",
+      "title": "Two missing after fishing boat sinks in Channel",
+      "title_fa": "غرق شدن یک قایق ماهیگیری در کانال مانش و مفقود شدن دو نفر",
+      "lead": "به دنبال غرق شدن یک قایق ماهیگیری با ثبت فرانسه در کانال مانش، سه نفر نجات یافته و دو نفر دیگر مفقود شده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/two-missing-after-fishing-vessel-sinks-in-channel-13578966",
+      "pubDate": "Sun, 30 Aug 2026 10:22:00 +0100",
+      "time": "۱۲:۵۲ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-30T09:47:13.348Z"
     }
   ]
 }
