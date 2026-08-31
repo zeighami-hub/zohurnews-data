@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
   "agencyId": "bbc",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "bbc_9ec0f62611",
@@ -21,6 +21,44 @@
         "negative": 15
       },
       "analyzed_at": "2026-08-30T00:31:18.143Z"
+    },
+    {
+      "id": "bbc_c06ee050ab",
+      "agencyId": "bbc",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "title_fa": "ترامپ از توافق «تاریخی» برای کنترل ۶۵ میلیارد بشکه نفت ونزوئلا توسط ایالات متحده استقبال کرد",
+      "lead": "رئیس‌جمهور موقت ونزوئلا می‌گوید این توافق غیرمعمول به احیای اقتصاد کشورش کمک خواهد کرد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 22:40:51 GMT",
+      "time": "۰۲:۱۰ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-30T00:46:14.592Z"
+    },
+    {
+      "id": "bbc_ace14ab027",
+      "agencyId": "bbc",
+      "title": "Canada poaches dozens of top US researchers for its universities",
+      "title_fa": "کانادا ده ها پژوهشگر برتر آمریکایی را برای دانشگاه های خود جذب کرد",
+      "lead": "پژوهشگران حوزه‌هایی مانند اقلیم و پزشکی با بودجه‌های جدید پژوهشی به حضور در دانشگاه‌های شمال ترغیب می‌شوند.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 23:47:38 GMT",
+      "time": "۰۳:۱۷ - ۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-30T00:46:14.592Z"
     }
   ]
 }
