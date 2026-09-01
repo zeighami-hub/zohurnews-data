@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "agencyId": "bbc",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "bbc_c06ee050ab",
@@ -173,6 +173,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-08-31T09:31:56.080Z"
+    },
+    {
+      "id": "bbc_2a87053c52",
+      "agencyId": "bbc",
+      "title": "How the US-Canada trade war is being felt on both sides of the border",
+      "title_fa": "بازتاب جنگ تجاری ایالات متحده و کانادا در دو سوی مرز",
+      "lead": "جنگ تجاری میان ایالات متحده و کانادا در هر دو طرف مرز احساس می‌شود و تأثیرات خود را برجای گذاشته است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 00:05:22 GMT",
+      "time": "۰۳:۳۵ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-31T09:46:44.707Z"
+    },
+    {
+      "id": "bbc_83534bc972",
+      "agencyId": "bbc",
+      "title": "Zambian opposition leader charged with treason",
+      "title_fa": "رهبر اپوزیسیون زامبیا به اتهام خیانت بزرگ متهم شد",
+      "lead": "مندوبیله پیش‌تر در یک ساختمان متعلق به سازمان ملل متحد در پایتخت زامبیا پناه گرفته بود. اکنون او با اتهام خیانت مواجه شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 17:06:15 GMT",
+      "time": "۲۰:۳۶ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-31T09:46:44.707Z"
     }
   ]
 }
