@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "agencyId": "aljazeera",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "aljazeera_50cc732a45",
@@ -173,6 +173,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-08-31T03:01:31.321Z"
+    },
+    {
+      "id": "aljazeera_7f79f9048c",
+      "agencyId": "aljazeera",
+      "title": "Iran targets Jordan after first US attack in a month",
+      "title_fa": "ایالات متحده حملات جدیدی علیه ایران انجام داد و ایران پاسخ داد",
+      "lead": "ایالات متحده نخستین حملات خود علیه ایران را پس از یک ماه انجام داد و مناطقی را در جزیره لارک هدف قرار داد. در مقابل، ایران نیز به پایگاه‌هایی حمله کرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
+      "pubDate": "Mon, 31 Aug 2026 03:06:56 +0000",
+      "time": "۰۶:۳۶ - ۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-31T03:31:23.351Z"
+    },
+    {
+      "id": "aljazeera_c44136aa79",
+      "agencyId": "aljazeera",
+      "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
+      "title_fa": "گزارش‌ها از کشته شدن دو فلسطینی در یورش نیروهای اسرائیلی به نابلس",
+      "lead": "تصاویر منتشر شده حضور خودروها و نیروهای نظامی اسرائیل را در مناطق مختلف شهر نابلس در کرانه باختری اشغالی نشان می‌دهد و گزارش‌ها حاکی از کشته شدن دو فلسطینی است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+      "pubDate": "Mon, 31 Aug 2026 03:08:35 +0000",
+      "time": "۰۶:۳۸ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-31T03:31:23.351Z"
     }
   ]
 }
