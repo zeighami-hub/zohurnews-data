@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_769c449c63",
@@ -382,6 +382,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-31T12:46:36.930Z"
+    },
+    {
+      "id": "nytimes_611d065c8f",
+      "agencyId": "nytimes",
+      "title": "A Principal Saved 900 Children Before His School Was Washed Away in Nepal",
+      "title_fa": "نجات ۹۰۰ کودک توسط یک مدیر مدرسه پیش از تخریب آن در نپال بر اثر سیل",
+      "lead": "راجندرا داوادی کمتر از ۱۵ دقیقه فرصت داشت تا به هشدار نزدیک شدن سیلاب واکنش نشان دهد. طرح تخلیه سریع او جان صدها نفر را نجات داد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-teacher.html",
+      "pubDate": "Mon, 31 Aug 2026 13:20:45 +0000",
+      "time": "۱۶:۵۰ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-31T13:32:08.015Z"
+    },
+    {
+      "id": "nytimes_44e399b809",
+      "agencyId": "nytimes",
+      "title": "Man Arrested in Switzerland After Deadly Shooting at Rave",
+      "title_fa": "دستگیری یک مرد در سوئیس پس از تیراندازی مرگبار در یک مهمانی شبانه",
+      "lead": "به گفته پلیس، مظنون که یک شهروند ۴۳ ساله سوئیسی است، روز دوشنبه اوایل صبح در بازداشت پلیس قرار گرفت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/europe/switzerland-shooting-rave-suspect-arrest.html",
+      "pubDate": "Mon, 31 Aug 2026 13:12:42 +0000",
+      "time": "۱۶:۴۲ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-31T13:32:08.015Z"
     }
   ]
 }
