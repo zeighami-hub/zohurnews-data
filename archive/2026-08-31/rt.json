@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "agencyId": "rt",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "rt_571bd56b70",
@@ -40,6 +40,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-08-31T01:46:15.784Z"
+    },
+    {
+      "id": "rt_2ed8d78d9e",
+      "agencyId": "rt",
+      "title": "Israel pounds southern Lebanon as Iran vows to stand by Beirut",
+      "title_fa": "حملات اسرائیل به جنوب لبنان همزمان با تعهد ایران به حمایت از بیروت",
+      "lead": "اسرائیل حملات خود را در سراسر جنوب لبنان ادامه داده است، در حالی که ایران همزمان با بن‌بست در مذاکرات، حمایت خود را از این کشور ابراز کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/644812-israel-bombs-lebanon-iran/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Sun, 30 Aug 2026 02:43:58 +0000",
+      "time": "۰۶:۱۳ - ۸ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-31T03:01:31.321Z"
+    },
+    {
+      "id": "rt_e96d43d148",
+      "agencyId": "rt",
+      "title": "One dead, 15 feared missing after Grand Canyon flash flood (VIDEOS)",
+      "title_fa": "یک کشته و ۱۵ مفقودی احتمالی در پی سیل ناگهانی در گرند کانیون",
+      "lead": "جریان سیلاب قدرتمند و ناگهانی در گرند کانیون باعث شد که ده‌ها نفر از کوهنوردان با بالگرد تخلیه شوند و به مسیرها و پل‌ها خسارت جدی وارد شود.",
+      "category": "society",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/644859-grand-canyon-flood-missing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Mon, 31 Aug 2026 02:37:52 +0000",
+      "time": "۰۶:۰۷ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-08-31T02:46:29.103Z"
     }
   ]
 }
