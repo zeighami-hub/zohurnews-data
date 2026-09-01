@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_769c449c63",
@@ -173,6 +173,63 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-31T09:17:10.020Z"
+    },
+    {
+      "id": "nytimes_8542fa17ad",
+      "agencyId": "nytimes",
+      "title": "Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply",
+      "title_fa": "صف‌های طولانی بنزین در ایران نشان‌دهنده فشار جنگ و تحریم‌های آمریکا بر عرضه سوخت است",
+      "lead": "دولت در تلاش برای تأمین کسری سوخت خود است و نگرانی‌هایی وجود دارد که افزایش قیمت بنزین ممکن است موجب ناآرامی شود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html",
+      "pubDate": "Sun, 30 Aug 2026 10:12:07 +0000",
+      "time": "۱۳:۴۲ - ۸ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-08-31T09:46:44.707Z"
+    },
+    {
+      "id": "nytimes_8549538c87",
+      "agencyId": "nytimes",
+      "title": "Before Nepal’s Floods, Hindu Pilgrims Sought the Divine at Mount Kailash",
+      "title_fa": "پیش از وقوع سیل در نپال، زائران هندو به دنبال بندگی در کوه کایلاش بودند",
+      "lead": "برای بسیاری، سفر به کوه کایلاش در مرز نپال و تبت سفری بی‌نظیر برای دستیابی به بیداری معنوی به شمار می‌رود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html",
+      "pubDate": "Sun, 30 Aug 2026 09:02:06 +0000",
+      "time": "۱۲:۳۲ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-31T09:46:44.707Z"
+    },
+    {
+      "id": "nytimes_a0d796c4fe",
+      "agencyId": "nytimes",
+      "title": "Far Right Is Poised to Win in a German State, but Fight Over Power Won’t End There",
+      "title_fa": "احتمال پیروزی راست افراطی در یک ایالت آلمان، اما مبارزه برای قدرت فراتر از آن ادامه دارد",
+      "lead": "رهبران ایالتی و فدرال در تلاشند تا از به اشتراک گذاشتن اطلاعات محرمانه حساس با حزب «آلترناتیو برای آلمان» در صورت تصاحب قدرت در انتخابات ایالتی هفته آینده جلوگیری کنند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/08/30/world/europe/germany-afd-saxony-anhalt.html",
+      "pubDate": "Sun, 30 Aug 2026 09:00:17 +0000",
+      "time": "۱۲:۳۰ - ۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-31T09:46:44.707Z"
     }
   ]
 }
