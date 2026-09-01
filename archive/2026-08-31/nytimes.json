@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_769c449c63",
@@ -306,6 +306,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-31T11:31:44.243Z"
+    },
+    {
+      "id": "nytimes_60cb107f91",
+      "agencyId": "nytimes",
+      "title": "Why Larak Island Is Strategically Important for Iran",
+      "title_fa": "چرا جزیره لارک برای ایران اهمیت راهبردی دارد؟",
+      "lead": "این جزیره حدود ۳۰ مایلی مربعی به عنوان پایگاهی برای ارتش ایران جهت پیشبرد کنترل خود بر کشتیرانی در تنگه هرمز عمل می‌کند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/middleeast/larak-island-iran-us-strikes.html",
+      "pubDate": "Mon, 31 Aug 2026 11:38:03 +0000",
+      "time": "۱۵:۰۸ - ۹ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-31T11:47:11.835Z"
+    },
+    {
+      "id": "nytimes_1320b62108",
+      "agencyId": "nytimes",
+      "title": "Wartime Presidents of Russia and Iran Rally With Chinese and Indian Leaders",
+      "title_fa": "روسای جمهور زمان جنگ روسیه و ایران در کنار رهبران چین و هند",
+      "lead": "نشست دو روزه ۱۰ کشور سازمان همکاری شانگهای در قرقیزستان نشان‌دهنده محدودیت‌های جنگ اقتصادی ایالات متحده است. در این نشست، رهبران کشورهای مختلف گرد هم آمدند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+      "pubDate": "Mon, 31 Aug 2026 11:31:35 +0000",
+      "time": "۱۵:۰۱ - ۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-08-31T11:47:11.835Z"
     }
   ]
 }
