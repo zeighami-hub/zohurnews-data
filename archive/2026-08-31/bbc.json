@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "agencyId": "bbc",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "bbc_c06ee050ab",
@@ -534,6 +534,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-08-31T20:46:22.209Z"
+    },
+    {
+      "id": "bbc_6c241bee5f",
+      "agencyId": "bbc",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "title_fa": "تبادل حملات میان آمریکا و ایران برای نخستین بار پس از هفته‌ها",
+      "lead": "حمله به جزیره لارک در تنگه هرمز که نخستین حمله شناخته شده ایالات متحده از اواخر ماه ژوئیه تاکنون محسوب می‌شود، دو کشته و دو زخمی بر جای گذاشت.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 13:47:30 GMT",
+      "time": "۱۷:۱۷ - ۹ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-31T21:46:20.547Z"
+    },
+    {
+      "id": "bbc_fd5964551b",
+      "agencyId": "bbc",
+      "title": "Festival honouring Dolly Parton set for Nashville and London",
+      "title_fa": "جشنواره‌ای در بزرگداشت دالی پارتن در نشویل و لندن برگزار می‌شود",
+      "lead": "بنیاد دالی پارتن اعلام کرد که جشنواره «دالی‌فست» دقیقاً مطابق میل این هنرمند، جایگزین یک یادبود عمومی سنتی خواهد شد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 18:58:35 GMT",
+      "time": "۲۲:۲۸ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-08-31T21:46:20.547Z"
     }
   ]
 }
