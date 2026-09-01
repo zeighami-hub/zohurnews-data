@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_769c449c63",
@@ -230,6 +230,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-08-31T09:46:44.707Z"
+    },
+    {
+      "id": "nytimes_97a05c708a",
+      "agencyId": "nytimes",
+      "title": "U.S. and Iran Exchange Strikes Overnight After Monthlong Calm",
+      "title_fa": "تبادل حملات شبانه میان آمریکا و ایران پس از یک ماه آرامش",
+      "lead": "حملات جدید میان ایالات متحده و ایران تازه‌ترین نشانه از این امر است که جنگ آغاز شده از شش ماه پیش، به پایان خود نزدیک نیست.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html",
+      "pubDate": "Mon, 31 Aug 2026 10:16:54 +0000",
+      "time": "۱۳:۴۶ - ۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-31T10:31:56.749Z"
+    },
+    {
+      "id": "nytimes_62f5b4f928",
+      "agencyId": "nytimes",
+      "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
+      "title_fa": "پهپادهای بی‌وقفه روسیه؛ فاز خطرناک جدید جنگ در کی‌یف",
+      "lead": "حملات هوایی تقریباً مداوم، که تغییر رویه‌ای نسبت به حملات عمدتاً شبانه سال‌های گذشته محسوب می‌شود، ساکنان را خسته و نگران کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
+      "pubDate": "Mon, 31 Aug 2026 10:14:04 +0000",
+      "time": "۱۳:۴۴ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-31T10:31:56.749Z"
     }
   ]
 }
