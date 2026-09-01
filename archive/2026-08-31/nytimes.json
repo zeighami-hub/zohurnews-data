@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 9,
   "articles": [
     {
       "id": "nytimes_769c449c63",
@@ -78,6 +78,101 @@
         "negative": 70
       },
       "analyzed_at": "2026-08-31T07:01:59.219Z"
+    },
+    {
+      "id": "nytimes_a0ad8057c6",
+      "agencyId": "nytimes",
+      "title": "South Korea’s Unification Church Leader Gets 2 Years in Prison for Corruption",
+      "title_fa": "رهبر کلیسای وحدت کره جنوبی به اتهام فساد مالی به دو سال زندان محکوم شد",
+      "lead": "هان هاک-جا، بیوه و جانشین بنیان‌گذار این کلیسای محافظه‌کار، به دلیل مراودات مالی مرتبط با رئیس‌جمهور و بانوی اول سابق که آن‌ها نیز در زندان به سر می‌برند، مجرم شناخته شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/asia/south-korea-unification-church-leader-prison.html",
+      "pubDate": "Mon, 31 Aug 2026 09:26:48 +0000",
+      "time": "۱۲:۵۶ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-31T09:31:56.080Z"
+    },
+    {
+      "id": "nytimes_3c586b02b6",
+      "agencyId": "nytimes",
+      "title": "For Nepal’s Young Leader, Flood Recovery Will Be a Herculean Task",
+      "title_fa": "برای رهبر جوان نپال، بازسازی پس از سیل وظیفه‌ای دشوار خواهد بود",
+      "lead": "نخست‌وزیر ۳۶ ساله نپال که با موج خشم جوانان نسبت به فساد و سوءمدیریت به قدرت رسید، اکنون با دولت نوپای خود با آزمونی بزرگ روبه‌رو است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-balen-shah-gen-z.html",
+      "pubDate": "Mon, 31 Aug 2026 09:26:03 +0000",
+      "time": "۱۲:۵۶ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-08-31T09:31:56.080Z"
+    },
+    {
+      "id": "nytimes_d980999647",
+      "agencyId": "nytimes",
+      "title": "China Prepared for One Kind of Himalayan Flood. Then a Different Disaster Struck.",
+      "title_fa": "چین برای یک نوع سیل هیمالیایی آماده بود، اما فاجعه‌ای دیگر رخ داد",
+      "lead": "پس از سیل یچالی سال گذشته، مقامات چینی استحکامات دفاعی را در گذرگاه مرزی با نپال تقویت کردند، اما «زنجیره‌ای از حوادث» در هفته گذشته آن‌ها را غافلگیر کرد.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/asia/china-nepal-tibet-flood-himalayas-risk.html",
+      "pubDate": "Mon, 31 Aug 2026 09:18:18 +0000",
+      "time": "۱۲:۴۸ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 40,
+        "negative": 55
+      },
+      "analyzed_at": "2026-08-31T09:31:56.080Z"
+    },
+    {
+      "id": "nytimes_378470c521",
+      "agencyId": "nytimes",
+      "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy",
+      "title_fa": "نشست مقامات مالی گروه ۲۰ در آمریکا همزمان با تأثیر جنگ ایران بر اقتصاد جهانی",
+      "lead": "پیش‌بینی می‌شود که این نشست بر شوک اقتصادی ناشی از جنگ در ایران تمرکز کند؛ جنگی که باعث افزایش قیمت جهانی نفت شده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html",
+      "pubDate": "Mon, 31 Aug 2026 09:09:44 +0000",
+      "time": "۱۲:۳۹ - ۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-08-31T09:17:10.020Z"
+    },
+    {
+      "id": "nytimes_4cd8ee0cee",
+      "agencyId": "nytimes",
+      "title": "These Generals Fought for Israel. Now They See ‘Jewish Terrorism’ as the Threat.",
+      "title_fa": "این ژنرال‌ها برای اسرائیل جنگیدند. اکنون آن‌ها «تروریسم یهودی» را تهدید می‌دانند.",
+      "lead": "شمار رو به رشدی از ژنرال‌های سابق، مقامات اطلاعاتی و نخست‌وزیران اسرائیل، شهرک‌نشینان کرانه باختری را به ارتکاب پاکسازی قومی با حمایت دولت متهم می‌کنند. یکی از آن‌ها گفت: «وقتی جامعه‌ای این‌گونه رفتار می‌کند، آن جامعه محکوم به فناست.»",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/middleeast/west-bank-israel.html",
+      "pubDate": "Mon, 31 Aug 2026 09:00:40 +0000",
+      "time": "۱۲:۳۰ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-08-31T09:17:10.020Z"
     }
   ]
 }
