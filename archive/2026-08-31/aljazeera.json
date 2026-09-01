@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "agencyId": "aljazeera",
-  "total": 50,
+  "total": 52,
   "articles": [
     {
       "id": "aljazeera_50cc732a45",
@@ -952,6 +952,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-08-31T15:31:56.040Z"
+    },
+    {
+      "id": "aljazeera_0924773045",
+      "agencyId": "aljazeera",
+      "title": "Trump says Iran is ‘dead’, vows to respond after renewed clashes",
+      "title_fa": "ترامپ می‌گوید ایران «مرده» است و پس از درگیری‌های جدید وعده پاسخ داد",
+      "lead": "رئیس‌جمهور ایالات متحده آمریکا متعهد شد که به ایران ضربه بزند و خواستار محاکمه رهبران این کشور به دلیل کشتن معترضان شد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss",
+      "pubDate": "Mon, 31 Aug 2026 15:11:15 +0000",
+      "time": "۱۸:۴۱ - ۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-31T15:46:48.157Z"
+    },
+    {
+      "id": "aljazeera_2ffb4d17e3",
+      "agencyId": "aljazeera",
+      "title": "Israeli strikes kill at least five Palestinians in Gaza City",
+      "title_fa": "حملات اسرائیل دستکم پنج فلسطینی را در شهر غزه به کشتن داد",
+      "lead": "دستکم پنج فلسطینی در پی دو حمله اسرائیل در شهر غزه جان خود را از دست دادند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
+      "pubDate": "Mon, 31 Aug 2026 15:20:18 +0000",
+      "time": "۱۸:۵۰ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-31T15:46:48.157Z"
     }
   ]
 }
