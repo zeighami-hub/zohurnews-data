@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
   "agencyId": "mehrnews",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "mehrnews_caa42f92d5",
@@ -249,6 +249,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-08-31T07:16:45.042Z"
+    },
+    {
+      "id": "mehrnews_34cc30f40e",
+      "agencyId": "mehrnews",
+      "title": "Oil prices continue to rise after US attack on Iran’s Larak",
+      "title_fa": "ادامه روند صعودی قیمت نفت پس از حمله آمریکا به جزیره لارک ایران",
+      "lead": "پس از حمله ایالات متحده به جزیره لارک ایران در تنگه هرمز، بهای معاملات نفت بیش از دو و نیم درصد افزایش یافت.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247336/Oil-prices-continue-to-rise-after-US-attack-on-Iran-s-Larak",
+      "pubDate": "Mon, 31 Aug 2026 07:40:33 GMT",
+      "time": "۱۱:۱۰ - ۹ شهریور",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 40,
+        "negative": 55
+      },
+      "analyzed_at": "2026-08-31T07:46:44.688Z"
+    },
+    {
+      "id": "mehrnews_828361f5de",
+      "agencyId": "mehrnews",
+      "title": "Death toll from deadly Nepal floods rises to over 5,000",
+      "title_fa": "افزایش شمار قربانیان سیل مرگبار در نپال به بیش از ۵۰۰۰ نفر",
+      "lead": "وزارت کشور نپال اعلام کرد که تعداد قربانیان سیل‌های مرگبار در این کشور از مرز ۵۰۰۰ نفر فراتر رفته است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247335/Death-toll-from-deadly-Nepal-floods-rises-to-over-5-000",
+      "pubDate": "Mon, 31 Aug 2026 07:31:12 GMT",
+      "time": "۱۱:۰۱ - ۹ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-08-31T07:46:44.688Z"
     }
   ]
 }
