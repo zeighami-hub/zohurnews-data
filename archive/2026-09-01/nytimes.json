@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_1928ddb54a",
@@ -211,6 +211,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-01T10:46:52.451Z"
+    },
+    {
+      "id": "nytimes_9a191148bc",
+      "agencyId": "nytimes",
+      "title": "Global Bond Sell-Off Puts Investors on Edge",
+      "title_fa": "فروش گسترده اوراق قرضه جهانی سرمایه‌گذاران را در وضعیت ناآرام قرار داد",
+      "lead": "هزینه‌های استقراض دولتی در سراسر جهان به بالاترین سطح در چند دهه اخیر رسیده است که نشان‌دهنده نگرانی‌ها درباره سطوح بدهی، کسری بودجه و تورم است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
+      "pubDate": "Tue, 01 Sep 2026 10:55:15 +0000",
+      "time": "۱۴:۲۵ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-01T11:02:12.609Z"
+    },
+    {
+      "id": "nytimes_62f5b4f928",
+      "agencyId": "nytimes",
+      "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv",
+      "title_fa": "پهپادهای بی‌وقفه روسیه فاز خطرناک جدیدی از جنگ را در کی‌یف رقم زدند",
+      "lead": "حملات هوایی تقریباً مداوم، که تغییر در مقایسه با حملات عمدتاً شبانه سال‌های گذشته محسوب می‌شود، ساکنان را خسته و نگران کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/europe/ukraine-kyiv-drones-russia-sirens.html",
+      "pubDate": "Mon, 31 Aug 2026 15:42:20 +0000",
+      "time": "۱۹:۱۲ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-01T11:02:12.609Z"
     }
   ]
 }
