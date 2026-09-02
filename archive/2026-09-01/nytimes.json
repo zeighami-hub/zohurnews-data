@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_1928ddb54a",
@@ -59,6 +59,82 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-01T09:02:15.020Z"
+    },
+    {
+      "id": "nytimes_02f59967b3",
+      "agencyId": "nytimes",
+      "title": "U.S. Sanctions on Iran Cut Off Students from Tests Needed for Study Abroad",
+      "title_fa": "تحریم‌های آمریکا دسترسی دانشجویان ایرانی به آزمون‌های بین‌المللی را قطع کرد",
+      "lead": "تازه‌ترین اقدامات تحریمی آمریکا منجر به لغو آزمون‌های مهارت زبان انگلیسی و تحصیلات تکمیلی شده است. این وضعیت بسیاری از دانشجویان ایرانی مشتاق برای برقراری ارتباط با جهان را در انزوا قرار داده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
+      "pubDate": "Tue, 01 Sep 2026 09:03:01 +0000",
+      "time": "۱۲:۳۳ - ۱۰ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-01T09:16:51.185Z"
+    },
+    {
+      "id": "nytimes_c51bf2ab9b",
+      "agencyId": "nytimes",
+      "title": "Juan Tamariz, Master Magician of Misdirection and Joy, Dies at 83",
+      "title_fa": "خوان تاماریز، استاد شعبده‌بازی و هنر انحراف افکار، در سن ۸۳ سالگی درگذشت",
+      "lead": "او نه تنها یک شعبده‌باز برجسته، بلکه فیلسوف این هنر بود که می‌خواست در شگفتی مخاطبان از رویدادهای غیرقابل توصیف شریک شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/europe/juan-tamariz-dead.html",
+      "pubDate": "Tue, 01 Sep 2026 09:01:08 +0000",
+      "time": "۱۲:۳۱ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-01T09:16:51.185Z"
+    },
+    {
+      "id": "nytimes_ecd158f66c",
+      "agencyId": "nytimes",
+      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
+      "title_fa": "آیا می‌توان از ویرانه‌های باستانی در برابر آتش‌سوزی‌های جنگلی محافظت کرد؟ تلاش یونان در این زمینه",
+      "lead": "با افزایش آتش‌سوزی‌ها در سراسر اروپا، یونان دست به اقداماتی برای مقاوم‌سازی محوطه‌های باستانی در برابر آتش زده است؛ رویکردی که خطر آسیب به چشم‌انداز اطراف را به همراه دارد.",
+      "category": "economy",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
+      "pubDate": "Tue, 01 Sep 2026 09:00:32 +0000",
+      "time": "۱۲:۳۰ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-01T09:16:51.185Z"
+    },
+    {
+      "id": "nytimes_a53a79641f",
+      "agencyId": "nytimes",
+      "title": "A Factory in Rural Ireland Is at the Center of a Dispute Over Russia",
+      "title_fa": "یک کارخانه در مناطق روستایی ایرلند در کانون مناقشه بر سر روسیه قرار دارد",
+      "lead": "بر اساس یک تحقیقات، آلومینای فرآوری‌شده در یک پالایشگاه در کانتی لییمریک ممکن است ماشین جنگی روسیه را در اوکراین تغذیه کند. با این حال، توافق اندکی درباره نحوه اقدام در این زمینه وجود دارد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html",
+      "pubDate": "Tue, 01 Sep 2026 09:00:29 +0000",
+      "time": "۱۲:۳۰ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-01T09:16:51.185Z"
     }
   ]
 }
