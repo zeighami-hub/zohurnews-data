@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_0d5b88e4b0",
@@ -401,6 +401,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-01T15:47:01.360Z"
+    },
+    {
+      "id": "bbc_5955e5955c",
+      "agencyId": "bbc",
+      "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
+      "title_fa": "رئیس مبارزه با فساد نیجریه: «من ۴۰ نفر از مامورانم را به جرم فساد اخراج کرده‌ام»",
+      "lead": "رئیس کمیسیون جرایم اقتصادی و مالی نیجریه (EFCC) می‌گوید بیش از پنج نفر از مقام‌های اخراج‌شده در حال حاضر با پیگرد قانونی روبرو هستند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 15:57:18 GMT",
+      "time": "۱۹:۲۷ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-01T16:17:11.045Z"
+    },
+    {
+      "id": "bbc_eaece63e89",
+      "agencyId": "bbc",
+      "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
+      "title_fa": "ونس نامزد سنای میشیگان را در یک تجمع انتخاباتی «شیطان» خواند",
+      "lead": "رقابت انتخاباتی برای کرسی سنا در میشیگان میان نامزدها با حملات لفظی شدید و توهین متقابل بالا گرفته است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 15:51:40 GMT",
+      "time": "۱۹:۲۱ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-01T16:02:23.647Z"
     }
   ]
 }
