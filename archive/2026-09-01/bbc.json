@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "bbc",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "bbc_0d5b88e4b0",
@@ -249,6 +249,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-01T11:02:12.609Z"
+    },
+    {
+      "id": "bbc_2b780c1f04",
+      "agencyId": "bbc",
+      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "title_fa": "حمله روسیه به کارگران راه آهن در جریان حملات مرگبار جدید به کی‌یف",
+      "lead": "مقامات اوکراینی اعلام کردند که در جریان حملات جدید به پایتخت و مناطق پیرامونی آن، ۲۰ نفر از جمله دو کودک زخمی شده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 10:30:55 GMT",
+      "time": "۱۴:۰۰ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-01T11:16:55.652Z"
     }
   ]
 }
