@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "skynews",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "skynews_ce663fdfe6",
@@ -192,6 +192,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-01T15:47:01.360Z"
+    },
+    {
+      "id": "skynews_be59a6597c",
+      "agencyId": "skynews",
+      "title": "Attempted drone attack at Leipzig airport blamed on Russia",
+      "title_fa": "مسئولیت حمله پهپادی نافرجام به فرودگاه لایپزیگ متوجه روسیه شد",
+      "lead": "آلمان اعلام کرد که حمله پهپادی نافرجام ماه گذشته با استفاده از یک پهپاد حاوی مواد منفجره در فرودگاه لایپزیگ، از سوی روسیه برنامه‌ریزی شده بود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/attempted-drone-attack-at-leipzig-airport-blamed-on-russia-german-government-says-13579937",
+      "pubDate": "Tue, 01 Sep 2026 16:49:00 +0100",
+      "time": "۱۹:۱۹ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-01T16:02:23.647Z"
     }
   ]
 }
