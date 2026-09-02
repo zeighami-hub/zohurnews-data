@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "aljazeera",
-  "total": 40,
+  "total": 42,
   "articles": [
     {
       "id": "aljazeera_8ba4831e14",
@@ -762,6 +762,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-01T13:01:55.422Z"
+    },
+    {
+      "id": "aljazeera_f814d0a575",
+      "agencyId": "aljazeera",
+      "title": "Iran urges US to honour commitments under MoU",
+      "title_fa": "ایران خواستار پایبندی آمریکا به تعهدات خود تحت تفاهم‌نامه شد",
+      "lead": "تهران از واشنگتن خواست تا به مفاد تفاهم‌نامه احترام بگذارد؛ این درخواست پس از حملاتی مطرح شد که تنش‌ها را در تنگه هرمز به شدت افزایش داد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss",
+      "pubDate": "Tue, 01 Sep 2026 13:01:22 +0000",
+      "time": "۱۶:۳۱ - ۱۰ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-01T13:16:55.116Z"
+    },
+    {
+      "id": "aljazeera_4f9b1ca0ab",
+      "agencyId": "aljazeera",
+      "title": "Qatar planning to host Formula One, MotoGP despite Middle East conflict",
+      "title_fa": "برنامه‌ریزی قطر برای میزبانی فرمول یک و موتو جی‌پی با وجود درگیری در خاورمیانه",
+      "lead": "بر اساس اعلام برگزارکنندگان محلی، مسابقات جایزه بزرگ فرمول یک قطر و موتو جی‌پی که برای ماه نوامبر برنامه‌ریزی شده‌اند، طبق پیش‌بینی‌ها برگزار خواهند شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/9/1/qatar-planning-to-host-formula-one-motogp-despite-middle-east-conflict?traffic_source=rss",
+      "pubDate": "Tue, 01 Sep 2026 13:03:10 +0000",
+      "time": "۱۶:۳۳ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 45,
+        "neutral": 45,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-01T13:16:55.116Z"
     }
   ]
 }
