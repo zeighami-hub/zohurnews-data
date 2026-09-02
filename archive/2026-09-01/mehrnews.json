@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "mehrnews",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "mehrnews_0f4ebda21b",
@@ -249,6 +249,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-01T08:46:53.817Z"
+    },
+    {
+      "id": "mehrnews_c9354ddd19",
+      "agencyId": "mehrnews",
+      "title": "29th edition of ELECOMP Exhibition opened in Tehran",
+      "title_fa": "افتتاح بیست و نهمین نمایشگاه الکامپ در تهران",
+      "lead": "بیست و نهمین نمایشگاه بین‌المللی الکترونیک، کامپیوتر و تجارت الکترونیک (الکامپ) روز دوشنبه در محل دائمی نمایشگاه‌های بین‌المللی تهران با حضور وزیر ارتباطات و فناوری اطلاعات افتتاح شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/photo/247369/29th-edition-of-ELECOMP-Exhibition-opened-in-Tehran",
+      "pubDate": "Tue, 01 Sep 2026 09:15:34 GMT",
+      "time": "۱۲:۴۵ - ۱۰ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-01T09:32:00.606Z"
+    },
+    {
+      "id": "mehrnews_8bdf303995",
+      "agencyId": "mehrnews",
+      "title": "Israeli forces martyr 5 Palestinians, injured dozens in Gaza",
+      "title_fa": "نیروهای اسرائیلی ۵ فلسطینی را در غزه شهید و ده‌ها تن را زخمی کردند",
+      "lead": "بر اثر حملات ارتش اسرائیل به مناطق مختلف نوار غزه از جمله تیراندازی، حملات توپخانه‌ای و تخریب منازل، پنج فلسطینی شهید و چندین نفر دیگر زخمی شدند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247368/Israeli-forces-martyr-5-Palestinians-injured-dozens-in-Gaza",
+      "pubDate": "Tue, 01 Sep 2026 09:01:01 GMT",
+      "time": "۱۲:۳۱ - ۱۰ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-01T09:16:51.185Z"
     }
   ]
 }
