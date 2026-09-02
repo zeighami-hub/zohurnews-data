@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_1928ddb54a",
@@ -135,6 +135,63 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-01T09:16:51.185Z"
+    },
+    {
+      "id": "nytimes_26abb9b66b",
+      "agencyId": "nytimes",
+      "title": "U.S.S. Abraham Lincoln to Dock in Thailand on Wednesday, Pattaya Mayor Says",
+      "title_fa": "ناو هواپیمابر یواس‌اس آبراهام لینکلن روز چهارشنبه در تایلند پهلو می‌گیرد",
+      "lead": "ناو هواپیمابر یواس‌اس آبراهام لینکلن که به نمادی از فشارهای جنگ بر ارتش آمریکا تبدیل شده بود، اکنون برای استراحت خدمه خود در تایلند پهلو می‌گیرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/asia/uss-lincoln-pattaya-thailand.html",
+      "pubDate": "Tue, 01 Sep 2026 09:42:45 +0000",
+      "time": "۱۳:۱۲ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-01T09:46:53.338Z"
+    },
+    {
+      "id": "nytimes_3c586b02b6",
+      "agencyId": "nytimes",
+      "title": "For Nepal’s Young Leader, Flood Recovery Will Be a Herculean Task",
+      "title_fa": "برای رهبر جوان نپال، بازسازی پس از سیل وظیفه‌ای بسیار دشوار خواهد بود",
+      "lead": "نخست‌وزیر ۳۶ ساله نپال امسال با استفاده از موج خشم جوانان نسبت به فساد و سوءمدیریت به قدرت رسید. دولت نوپای او اکنون با آزمونی بزرگ مواجه است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-balen-shah-gen-z.html",
+      "pubDate": "Mon, 31 Aug 2026 18:44:21 +0000",
+      "time": "۲۲:۱۴ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 15,
+        "neutral": 55,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-01T09:46:53.338Z"
+    },
+    {
+      "id": "nytimes_4cd8ee0cee",
+      "agencyId": "nytimes",
+      "title": "These Generals Fought for Israel. Now They See ‘Jewish Terrorism’ as the Threat.",
+      "title_fa": "این ژنرال‌ها برای اسرائیل جنگیدند؛ اکنون «تروریسم یهودی» را تهدید می‌دانند",
+      "lead": "شمار رو به رشدی از ژنرال‌های سابق، مقامات اطلاعاتی و نخست‌وزیران اسرائیل، شهرک‌نشینان در کرانه باختری را به ارتکاب پاکسازی قومی با حمایت دولت متهم می‌کنند. یکی از آن‌ها اظهار داشت که وقتی جامعه‌ای چنین رفتاری پیشه کند، محکوم به فناست.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/middleeast/west-bank-israel.html",
+      "pubDate": "Mon, 31 Aug 2026 09:00:40 +0000",
+      "time": "۱۲:۳۰ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-01T09:46:53.338Z"
     }
   ]
 }
