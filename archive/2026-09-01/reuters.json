@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "reuters",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "reuters_a00e37a38e",
@@ -116,6 +116,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-01T04:16:42.947Z"
+    },
+    {
+      "id": "reuters_b3604e5f7a",
+      "agencyId": "reuters",
+      "title": "Yields rise, oil jumps; US and Iran resume military attacks - Reuters",
+      "title_fa": "افزایش سود اوراق قرضه و جهش قیمت نفت همزمان با از سرگیری حملات نظامی ایالات متحده و ایران",
+      "lead": "به دنبال از سرگیری حملات نظامی میان ایالات متحده و ایران، بازدهی اوراق قرضه افزایش یافت و قیمت نفت با جهش مواجه شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 00:38:00 GMT",
+      "time": "۰۴:۰۸ - ۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-01T05:47:24.751Z"
     }
   ]
 }
