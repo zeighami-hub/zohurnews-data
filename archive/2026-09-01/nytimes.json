@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_1928ddb54a",
@@ -306,6 +306,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-01T14:16:51.953Z"
+    },
+    {
+      "id": "nytimes_e3cee91633",
+      "agencyId": "nytimes",
+      "title": "Tractors Clog Copenhagen as Farmers Protest Fertilizer Restrictions",
+      "title_fa": "اعتراض کشاورزان دانمارکی با تراکتورها در کوپنهاگ علیه محدودیت‌های کود شیمیایی",
+      "lead": "دانمارک برای محافظت از آب‌های خود در برابر نیترات بیش از حد، پیشنهاد اعمال محدودیت‌های سختگیرانه بر استفاده از کودهای شیمیایی را داده است. این اقدام با اعتراض شدید کشاورزان و تجمع تراکتورها در کوپنهاگ مواجه شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/europe/denmark-farmers-protest-fertilizer.html",
+      "pubDate": "Tue, 01 Sep 2026 15:22:45 +0000",
+      "time": "۱۸:۵۲ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 35,
+        "negative": 55
+      },
+      "analyzed_at": "2026-09-01T15:32:23.020Z"
+    },
+    {
+      "id": "nytimes_5509a4cd0a",
+      "agencyId": "nytimes",
+      "title": "How to Help Nepal Flood Victims",
+      "title_fa": "چگونه به قربانیان سیل نپال کمک کنیم",
+      "lead": "بیش از ۱۰۰۰ نفر در پی رانش زمین و سیل در هیمالیا جان خود را از دست داده و هزاران نفر دیگر مفقود شده‌اند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-tibet-aid-relief-how-donate.html",
+      "pubDate": "Tue, 01 Sep 2026 15:07:57 +0000",
+      "time": "۱۸:۳۷ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-01T15:17:54.023Z"
     }
   ]
 }
