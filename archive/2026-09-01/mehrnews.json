@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "mehrnews",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "mehrnews_0f4ebda21b",
@@ -572,6 +572,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-01T18:16:27.802Z"
+    },
+    {
+      "id": "mehrnews_f373c7e137",
+      "agencyId": "mehrnews",
+      "title": "Iran launches retaliatory strikes after latests US airstrikes",
+      "title_fa": "حمله متقابل ایران پس از تازه‌ترین حملات هوایی آمریکا",
+      "lead": "رسانه‌های محلی در ایران گزارش دادند که نیروهای مسلح ایران پاسخ به تجاوزات اخیر آمریکا در استان‌های جنوبی و جنوب شرقی را آغاز کرده‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247387/Iran-launches-retaliatory-strikes-after-latests-US-airstrikes",
+      "pubDate": "Tue, 01 Sep 2026 18:58:11 GMT",
+      "time": "۲۲:۲۸ - ۱۰ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-01T19:02:07.658Z"
+    },
+    {
+      "id": "mehrnews_08bf9e6faf",
+      "agencyId": "mehrnews",
+      "title": "Iran vows 'crushing' retaliation after latest US attacks",
+      "title_fa": "هشدار ایران درباره پاسخ کوبنده پس از حملات جدید آمریکا",
+      "lead": "فرماندهی ارشد نظامی ایران اعلام کرد که در پاسخ به موج جدید حملات هوایی آمریکا به مواضعی در استان‌های جنوبی، ضرباتی کوبنده به ایالات متحده وارد خواهد کرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/247386/Iran-vows-crushing-retaliation-after-latest-US-attacks",
+      "pubDate": "Tue, 01 Sep 2026 18:51:31 GMT",
+      "time": "۲۲:۲۱ - ۱۰ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 20,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-01T19:02:07.658Z"
     }
   ]
 }
