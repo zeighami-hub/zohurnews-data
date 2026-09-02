@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_1928ddb54a",
@@ -477,6 +477,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-01T20:31:33.770Z"
+    },
+    {
+      "id": "nytimes_c7ca6b52c5",
+      "agencyId": "nytimes",
+      "title": "Talking With Giorgia Meloni",
+      "title_fa": "گفت‌وگو با جورجا ملونی",
+      "lead": "رهبر راست‌گرای افراطی ایتالیا در یک مصاحبه نشان می‌دهد که چگونه عمل‌گرایی در حال تغییر شکل دادن به دیدگاه او برای اروپا است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/giorgia-meloni-interview-bonds-iran.html",
+      "pubDate": "Tue, 01 Sep 2026 20:50:22 +0000",
+      "time": "۰۰:۲۰ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-01T21:01:38.456Z"
     }
   ]
 }
