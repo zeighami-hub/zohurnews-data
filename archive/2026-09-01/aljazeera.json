@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "aljazeera",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "aljazeera_8ba4831e14",
@@ -211,6 +211,25 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-01T05:47:24.751Z"
+    },
+    {
+      "id": "aljazeera_e1db88ccc7",
+      "agencyId": "aljazeera",
+      "title": "Oil prices climb as US, Iranian attacks stoke fears of escalation",
+      "title_fa": "افزایش قیمت نفت در پی تشدید نگرانی‌ها از تنش‌های آمریکا و ایران",
+      "lead": "پس از رسیدن قیمت نفت برنت به ۹۴.۴۰ دلار در اواخر اوت، این شاخص نفتی در پی نگرانی‌های ناشی از حملات میان ایالات متحده و ایران در محدوده معاملاتی ۸۶ تا ۹۱ دلار نوسان کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss",
+      "pubDate": "Tue, 01 Sep 2026 06:07:39 +0000",
+      "time": "۰۹:۳۷ - ۱۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-01T06:31:58.786Z"
     }
   ]
 }
