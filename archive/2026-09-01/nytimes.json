@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "nytimes_1928ddb54a",
@@ -21,6 +21,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-01T02:01:26.128Z"
+    },
+    {
+      "id": "nytimes_2a914649a3",
+      "agencyId": "nytimes",
+      "title": "The Ritual of Coffin Making in a City Hit by Ebola",
+      "title_fa": "آیین ساخت تابوت در شهری درگیر با ابولا",
+      "lead": "در حالی که چند سازنده تابوت در بونیا اعلام کردند که در حال ارائه خدمات عمومی هستند، ویروس ابولا آن‌ها را در کانون بحث‌های مربوط به خاکسپاری‌های ایمن قرار داده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html",
+      "pubDate": "Tue, 01 Sep 2026 04:01:12 +0000",
+      "time": "۰۷:۳۱ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-01T04:16:42.947Z"
     }
   ]
 }
