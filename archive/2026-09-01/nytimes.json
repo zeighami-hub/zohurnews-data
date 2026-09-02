@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 27,
   "articles": [
     {
       "id": "nytimes_1928ddb54a",
@@ -496,6 +496,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-01T21:01:38.456Z"
+    },
+    {
+      "id": "nytimes_75084eb720",
+      "agencyId": "nytimes",
+      "title": "Some Allies Are Pushing Back on Trump’s Economic Approach",
+      "title_fa": "مخالفت برخی متحدان با رویکرد اقتصادی ترامپ",
+      "lead": "در نشستی که قرار بود سیاست‌های اقتصادی رئیس‌جمهور ترامپ را به عنوان الگویی برای جهان به نمایش بگذارد، اروپایی‌ها از تعرفه‌ها و جنگ با ایران ابراز نارضایتی کردند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html",
+      "pubDate": "Tue, 01 Sep 2026 22:45:56 +0000",
+      "time": "۰۲:۱۵ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-01T23:01:59.834Z"
     }
   ]
 }
