@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_1928ddb54a",
@@ -268,6 +268,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-01T12:46:36.580Z"
+    },
+    {
+      "id": "nytimes_33c9d58cba",
+      "agencyId": "nytimes",
+      "title": "‘The Nest of Snakes’: Warring Cartels Target Women in Mexico",
+      "title_fa": "«لانه مارها»: کارتل‌های در حال جنگ زنان را در مکزیک هدف قرار می‌دهند",
+      "lead": "یک جنگ دو ساله میان جناح‌های رقیب کارتل سینالوа باعث افزایش چشمگیر قتل‌ها and ناپدید شدن زنان در این کشور شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/08/31/world/americas/warring-cartels-target-women-in-mexico.html",
+      "pubDate": "Mon, 31 Aug 2026 22:12:27 +0000",
+      "time": "۰۱:۴۲ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-01T14:32:12.678Z"
+    },
+    {
+      "id": "nytimes_ad9538fdaf",
+      "agencyId": "nytimes",
+      "title": "Israeli Operation in Gaza Kills 4, Palestinian Officials Say",
+      "title_fa": "به گفته مقام‌های فلسطینی، عملیات اسرائیل در غزه ۴ کشته بر جای گذاشت",
+      "lead": "وزیر دفاع اسرائیل اعلام کرد که این عملیات منجر به دستگیری یکی از اعضای ارشد حماس شده است. حماس نیز گفت که اسرائیل نیروهای مخفی خود را به شهر غزه اعزام کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/middleeast/israel-gaza-hamas-leader.html",
+      "pubDate": "Tue, 01 Sep 2026 14:05:25 +0000",
+      "time": "۱۷:۳۵ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-01T14:16:51.953Z"
     }
   ]
 }
