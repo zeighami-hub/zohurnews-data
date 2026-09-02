@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "bbc_0d5b88e4b0",
@@ -78,6 +78,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-01T03:16:14.405Z"
+    },
+    {
+      "id": "bbc_7c5ccb27c1",
+      "agencyId": "bbc",
+      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "title_fa": "«من هرگز به افغانستان نرفته‌ام»: شش میلیون اخراج‌شده مجبورند تحت حاکمیت طالبان از نو شروع کنند",
+      "lead": "تا ماه اوت، شمار افرادی که امسال مجبور به بازگشت از پاکستان و ایران شده‌اند به یک میلیون نفر دیگر رسید. این افراد اخراج‌شده باید زندگی خود را تحت حاکمیت طالبان از نو آغاز کنند.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 05:00:34 GMT",
+      "time": "۰۸:۳۰ - ۱۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-01T05:47:24.751Z"
+    },
+    {
+      "id": "bbc_6177da4085",
+      "agencyId": "bbc",
+      "title": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
+      "title_fa": "شبکه رو به رشد نظارت هوش مصنوعی شرکت «فلاک» با موج فزاینده‌ای از مخالفت‌ها در آمریکا مواجه است",
+      "lead": "بخش راستی‌آزمایی بی‌بی‌سی به بررسی گسترش شبکه دوربین‌های هوشمند شرکت فلاک در ایالات متحده و واکنش‌های منفی فزاینده نسبت به آن می‌پردازد. این فناوری نظارتی نگرانی‌هایی را درباره حریم خصوصی ایجاد کرده است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 05:11:23 GMT",
+      "time": "۰۸:۴۱ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-01T05:47:24.751Z"
     }
   ]
 }
