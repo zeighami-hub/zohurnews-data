@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "bbc",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "bbc_0d5b88e4b0",
@@ -211,6 +211,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-01T07:47:00.605Z"
+    },
+    {
+      "id": "bbc_b009e8216d",
+      "agencyId": "bbc",
+      "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
+      "title_fa": "به گفته پزشکان، آتشباری اسرائیل سه نفر را در جریان یک یورش ادعایی در شهر غزه کشت",
+      "lead": "گزارش‌های محلی تأییدنشده حاکی از آن است که ارتش اسرائیل پس از کشف یورش یک شبه‌نظامی حامی اسرائیل، حملات هوایی و توپخانه‌ای انجام داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 10:40:55 GMT",
+      "time": "۱۴:۱۰ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-01T11:02:12.609Z"
+    },
+    {
+      "id": "bbc_b09077a9a8",
+      "agencyId": "bbc",
+      "title": "Teen girl charged with murder over recording of San Diego mosque attack",
+      "title_fa": "یک دختر نوجوان به جرم فیلمبرداری از حمله به مسجد سن دیگو متهم شد",
+      "lead": "دادستان‌ها می‌گویند این نوجوان ۱۷ ساله اهل کارولینای شمالی همچنین مانیفست دو مهاجم نوجوان را در جریان حمله ۱۸ مه منتشر کرده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 10:26:50 GMT",
+      "time": "۱۳:۵۶ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-01T11:02:12.609Z"
     }
   ]
 }
