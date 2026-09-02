@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_1928ddb54a",
@@ -40,6 +40,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-01T04:16:42.947Z"
+    },
+    {
+      "id": "nytimes_6468671ece",
+      "agencyId": "nytimes",
+      "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+      "title_fa": "چین یا آمریکا؟ دو نشست، نمایشی رقابتی از قدرت جهانی را ارائه دادند.",
+      "lead": "در حالی که شی جین پینگ با رهبران روسیه و ایران گرد هم آمد، اروپا دولت ترامپ را در گروه ۲۰ به چالش کشید و تصویری دوپاره از جهانی در حال تغییر را به نمایش گذاشت.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+      "pubDate": "Tue, 01 Sep 2026 08:51:03 +0000",
+      "time": "۱۲:۲۱ - ۱۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-01T09:02:15.020Z"
     }
   ]
 }
