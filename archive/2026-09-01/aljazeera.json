@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "aljazeera",
-  "total": 16,
+  "total": 19,
   "articles": [
     {
       "id": "aljazeera_8ba4831e14",
@@ -306,6 +306,63 @@
         "negative": 33
       },
       "analyzed_at": "2026-09-01T07:02:11.589Z"
+    },
+    {
+      "id": "aljazeera_5198c1d23c",
+      "agencyId": "aljazeera",
+      "title": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
+      "title_fa": "اقدام دوولینگو و تحریم‌های آمریکا؛ ابهامات ایرانیان درباره تحریم‌های جدید آموزشی",
+      "lead": "بسیاری از ایرانیان داخل کشور احساس می‌کنند که حضور آن‌ها در جامعه بین‌المللی به‌طور ناعوانه‌ای نادیده گرفته و حذف می‌شود. این نگرانی‌ها پس از اعمال تحریم‌های جدید مرتبط با آموزش مطرح شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education?traffic_source=rss",
+      "pubDate": "Tue, 01 Sep 2026 07:25:54 +0000",
+      "time": "۱۰:۵۵ - ۱۰ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-01T07:47:00.605Z"
+    },
+    {
+      "id": "aljazeera_8bff46e5cd",
+      "agencyId": "aljazeera",
+      "title": "White House unveils more details of Trump’s Venezuela oil deal",
+      "title_fa": "جزئیات جدید کاخ سفید درباره توافق نفتی ترامپ با ونزوئلا",
+      "lead": "رئیس‌جمهور موقت ونزوئلا حقوق بهره‌برداری ۱۰۰ ساله از بیش از ۱۷ میدان نفتی را به یک شرکت جدید آمریکایی واگذار کرد. کاخ سفید جزئیات بیشتری از این توافق نفتی را منتشر کرده است.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss",
+      "pubDate": "Tue, 01 Sep 2026 07:39:52 +0000",
+      "time": "۱۱:۰۹ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-01T07:47:00.605Z"
+    },
+    {
+      "id": "aljazeera_92ebb0940d",
+      "agencyId": "aljazeera",
+      "title": "Palestine weekly: Israel’s rightwing campaigns on anti-Palestinian abuses",
+      "title_fa": "هفته فلسطین: کمپین‌های جناح راست اسرائیل علیه سوءاستفاده‌ها از فلسطینیان",
+      "lead": "وزیران اسرائیلی در آستانه انتخابات فشرده اکتبر و همزمان با گسترش حملات به غزه، لحن تبلیغات انتخاباتی خود را با استفاده از تبلیغات هوش مصنوعی تشدید کردند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss",
+      "pubDate": "Tue, 01 Sep 2026 07:02:25 +0000",
+      "time": "۱۰:۳۲ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-01T07:47:00.605Z"
     }
   ]
 }
