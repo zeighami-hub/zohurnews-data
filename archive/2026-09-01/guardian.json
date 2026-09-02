@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "guardian",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "guardian_4c3bb435d9",
@@ -40,6 +40,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-01T00:31:20.439Z"
+    },
+    {
+      "id": "guardian_85050cc0b1",
+      "agencyId": "guardian",
+      "title": "Trump announces new US oil agreement with Venezuela",
+      "title_fa": "ترامپ از توافق نفتی جدید آمریکا با ونزوئلا خبر داد",
+      "lead": "رئیس‌جمهور آمریکا اعلام کرد که ایالات متحده کنترل «اکثریت» ۶۵ میلیارد بشکه ذخایر نفت اثبات‌شده ونزوئلا را تحت توافق جدیدی با دلسی رودریگز، رئیس‌جمهور موقت این کشور، در اختیار خواهد داشت.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+      "pubDate": "Fri, 28 Aug 2026 23:34:36 GMT",
+      "time": "۰۳:۰۴ - ۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-01T01:31:33.031Z"
     }
   ]
 }
