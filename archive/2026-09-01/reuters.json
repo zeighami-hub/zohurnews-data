@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "reuters",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "reuters_a00e37a38e",
@@ -439,6 +439,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-01T15:02:06.656Z"
+    },
+    {
+      "id": "reuters_bdd6565284",
+      "agencyId": "reuters",
+      "title": "US military says it is striking targets in Iran - Reuters",
+      "title_fa": "ارتش ایالات متحده اعلام کرد در حال حمله به اهدافی در ایران است",
+      "lead": "ارتش ایالات متحده آمریکا اعلام کرد که در حال انجام حملاتی علیه اهدافی در داخل ایران است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmJWQVBFSWFYU0JWUGhaTDYzZEFhZmlaYXZHM21lT2dwc0tEQ0VHbU94UVVsdFE5bkFhSzVVME9XeEluek9Va1NVMVlra2M4RkRJLXZCSUFtLVdlcHdDR21ybkgycHRweGJpVVJaMHdnZXZWQmpmV2J0bExPS2Rmd1Bvb3A0bHdZMVQ2VUhWRlU5ZE40OWpvREY2TFBGZTFVWTBXSnlhdTBHcUl3ZFFMZkFqZUw5Zlk?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 16:50:44 GMT",
+      "time": "۲۰:۲۰ - ۱۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-01T17:17:15.747Z"
+    },
+    {
+      "id": "reuters_567af3d5b6",
+      "agencyId": "reuters",
+      "title": "Trump was sending message to Iran with Kharg Island post, says Vance - Reuters",
+      "title_fa": "ونس: ترامپ با انتشار پست جزیره خارک پیامی به ایران می‌فرستاد",
+      "lead": "به گفته ونس، دونالد ترامپ با انتشار مطلبی درباره جزیره خارک در فضای مجازی، پیامی را به ایران ارسال می‌کرده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeElJSjJGWk5EandMUHVfb3J5dmhzdzh2eVNWQjdZYnFPaGFzMmNLX2N1c21TQzFtb0tfeTRhTlBJMnlUVThxR1FqNXg2Q0pTanRSMnVlY0s5RDNqcHhqVVE3YjVrTnlTWGVXd3hERnc0N0lsdmJLcEM2Yk5EUnBKSnI4UUZKeDkwY2ZFVm1aRFJYRG8yR3hRV0RzZFhucUNzdnNjcTJGN3lPdVdPQXVwYmVOUHdzS01zRVE?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 15:46:18 GMT",
+      "time": "۱۹:۱۶ - ۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-01T17:03:04.512Z"
     }
   ]
 }
