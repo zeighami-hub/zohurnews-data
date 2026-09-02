@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "reuters",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "reuters_a00e37a38e",
@@ -40,6 +40,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-01T00:16:48.076Z"
+    },
+    {
+      "id": "reuters_6d18b0e8cb",
+      "agencyId": "reuters",
+      "title": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran - Reuters",
+      "title_fa": "بست انتظار تحریم‌های ثانویه جدید آمریکا علیه ایران را به صورت هفتگی دارد",
+      "lead": "رویترز گزارش داد که اسکات بست انتظار دارد تحریم‌های ثانویه جدید ایالات متحده به صورت هفتگی اعمال شود و هدف آن افزایش فشار بر ایران است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJLRHJBSlpLeHYxNEtndmNRX19YTG9GWENmSEdTZXRTbnZnUFJITUtYcV83YnlPWmlpbC00WnZic3FMYVowRlA4Zzk5V2NKc2ZSSkxtUXl6N1A2MmdQbTI3cWhqbWxfMXVNekZQWFYwY2hPcENiOXR1N1JjRU4ydTRGTWZoV0U2Ul9KdmVZZ1pBQzVFTnR1MUl5YXRpTV9DWXE1bEtOc0FkVTRpNkFHOV9XZ2JOUGJ2eUQ0WFFqRDdLdlZlWWdQdlpjSHY?oc=5",
+      "pubDate": "Sun, 30 Aug 2026 23:52:00 GMT",
+      "time": "۰۳:۲۲ - ۹ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-01T01:31:33.031Z"
     }
   ]
 }
