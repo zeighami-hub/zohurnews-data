@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "guardian",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "guardian_4c3bb435d9",
@@ -287,6 +287,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-01T08:46:53.817Z"
+    },
+    {
+      "id": "guardian_da25d2e583",
+      "agencyId": "guardian",
+      "title": "Thai resort prepares to host USS Abraham Lincoln sailors after more than 270 days at sea",
+      "title_fa": "آمادگی شهر توریستی تایلند برای میزبانی از ملوانان ناو یواس‌اس آبراهام لینکلن پس از بیش از ۲۷۰ روز در دریا",
+      "lead": "امنیت در پاتایا پیش از ورود هزاران ملوان و تفنگدار دریایی که ماموریتشان به دلیل جنگ آمریکا در ایران تمدید شده بود، تشدید شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/01/thailand-pattaya-uss-abraham-lincoln-sailors-marines",
+      "pubDate": "Tue, 01 Sep 2026 08:30:51 GMT",
+      "time": "۱۲:۰۰ - ۱۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-01T09:02:15.020Z"
+    },
+    {
+      "id": "guardian_1c89f6c46f",
+      "agencyId": "guardian",
+      "title": "Sydney records warmest winter on record as Melbourne equals previous hottest temperatures",
+      "title_fa": "سیدنی گرم‌ترین زمستان تاریخ خود را ثبت کرد و ملبورن با بالاترین دماهای قبلی برابری کرد",
+      "lead": "ایالت‌های نیو ساوت ولز، ویکتوریا و تاسمانی گرم‌ترین زمستان‌های تاریخ خود را تجربه کردند و اداره هواشناسی اعلام کرد که انتظار می‌رود دماهای فراتر از میانگین همچنان ادامه داشته باشد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/01/sydney-records-warmest-winter-on-record-as-melbourne-equals-previous-hottest-temperatures",
+      "pubDate": "Tue, 01 Sep 2026 08:41:13 GMT",
+      "time": "۱۲:۱۱ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-01T09:02:15.020Z"
     }
   ]
 }
