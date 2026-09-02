@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "skynews_ce663fdfe6",
@@ -40,6 +40,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-01T05:47:24.751Z"
+    },
+    {
+      "id": "skynews_6e3a127b1e",
+      "agencyId": "skynews",
+      "title": "Grand Canyon flash floods leave one dead and 15 missing",
+      "title_fa": "سیل ناگهانی در گرند کانیون؛ یک کشته و ۱۵ مفقودی برجا گذاشت",
+      "lead": "وقوع یک سیل ناگهانی بزرگ در گرند کانیون منجر به کشته شدن یک نفر و مفقود یا نامعلوم شدن حدود ۱۵ نفر دیگر شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/grand-canyon-flash-floods-leave-one-dead-and-15-missing-13579329",
+      "pubDate": "Mon, 31 Aug 2026 06:34:00 +0100",
+      "time": "۰۹:۰۴ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-01T06:31:58.786Z"
     }
   ]
 }
