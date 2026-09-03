@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_34e3101cc0",
@@ -116,6 +116,120 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-02T06:16:44.515Z"
+    },
+    {
+      "id": "nytimes_7ae0a33d08",
+      "agencyId": "nytimes",
+      "title": "Netanyahu’s Israel Is Looking for a Fight in Every Direction",
+      "title_fa": "اسرائیلِ نتانیاهو به دنبال تنش‌افزایی در همه سو است",
+      "lead": "نخست‌وزیر اسرائیل که با یک رقابت انتخاباتی دشوار روبه‌روست، ممکن است برای جلب حمایت رأی‌دهندگان و حفظ مقام خود به یک بحران امنیتی نیاز داشته باشد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/middleeast/netanyahu-israel-election.html",
+      "pubDate": "Wed, 02 Sep 2026 09:15:04 +0000",
+      "time": "۱۲:۴۵ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-02T09:16:48.366Z"
+    },
+    {
+      "id": "nytimes_fac3111739",
+      "agencyId": "nytimes",
+      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
+      "title_fa": "حملات در دریای سیاه عرضه جهانی غلات را تهدید به فلج کردن می‌کند",
+      "lead": "حملات به بنادر و کشتی‌ها توسط روسیه و اوکراین، کشاورزان را در آستانه ورشکستگی قرار داده و ممکن است شوک غذایی دیگری در جهان ایجاد کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
+      "pubDate": "Wed, 02 Sep 2026 09:05:50 +0000",
+      "time": "۱۲:۳۵ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-02T09:16:48.366Z"
+    },
+    {
+      "id": "nytimes_b534d49e46",
+      "agencyId": "nytimes",
+      "title": "Do Active Shooter Drills Help? Two Asian Nations Grapple With Gun Violence.",
+      "title_fa": "آیا تمرینات مقابله با تیرانداز فعال کمکی می‌کند؟ دو کشور آسیایی با خشونت تسلیحاتی دست‌وپنجه نرم می‌کنند",
+      "lead": "پس از تیراندازی‌های مدارس، تایلند و فیلیپین رویکردهای متفاوتی نسبت به این تمرینات اتخاذ کرده‌اند که در ایالات متحده امری رایج است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/asia/thailand-philippines-active-shooter-drills.html",
+      "pubDate": "Wed, 02 Sep 2026 09:03:54 +0000",
+      "time": "۱۲:۳۳ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-02T09:16:48.366Z"
+    },
+    {
+      "id": "nytimes_d5394de5ec",
+      "agencyId": "nytimes",
+      "title": "After the Earthquake, They Used A.I. to Mobilize Aid",
+      "title_fa": "پس از زلزله، آن‌ها از هوش مصنوعی برای بسیج کمک‌ها استفاده کردند",
+      "lead": "همزمان با تلاش داوطلبان برای رساندن آذوقه به زلزله‌زدگان در کلمبیا، چند نیروی فناورانه برنامه‌ای را برای نقشه‌برداری و سازماندهی تلاش‌های گسترده امدادرسانی ساختند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/americas/colombia-earthquake-ai-aid-app.html",
+      "pubDate": "Wed, 02 Sep 2026 09:02:29 +0000",
+      "time": "۱۲:۳۲ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-02T09:16:48.366Z"
+    },
+    {
+      "id": "nytimes_755c643e92",
+      "agencyId": "nytimes",
+      "title": "Inside the Fight Against a Flesh-Eating Fly in Mexico",
+      "title_fa": "درون مبارزه با مگس گوشت‌خوار در مکزیک",
+      "lead": "برای نخستین بار در یک سال گذشته، مرز ایالات متحده و مکزیک به دنبال شیوع مگس گوشت‌خوار در منطقه، تا حدی به روی واردات دام بازگشایی شد و نبرد با این مگس در اعماق مکزیک تازه آغاز شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/americas/screwworm-facility-mexico.html",
+      "pubDate": "Wed, 02 Sep 2026 09:01:07 +0000",
+      "time": "۱۲:۳۱ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-02T09:16:48.366Z"
+    },
+    {
+      "id": "nytimes_4464d4e583",
+      "agencyId": "nytimes",
+      "title": "Critically Endangered Parrots Enjoy Baby Boom After Mating Frenzy",
+      "title_fa": "افزایش چشمگیر جمعیت طوطیان در خطر انقراض در نیوزیلند",
+      "lead": "محافظان محیط زیست اعلام کردند که با افزایش زاد و ولد، تعداد طوطیان کاکاپو در نیوزیلند به ۳۲۵ قطعه رسیده که بزرگترین جمعیت این گونه طوطی بزرگ و بدون پرواز در دهه‌های اخیر محسوب می‌شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/australia/kakapo-parrot-new-zealand.html",
+      "pubDate": "Wed, 02 Sep 2026 08:57:04 +0000",
+      "time": "۱۲:۲۷ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-02T09:02:08.253Z"
     }
   ]
 }
