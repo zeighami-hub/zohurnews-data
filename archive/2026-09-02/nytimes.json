@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_34e3101cc0",
@@ -97,6 +97,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-02T06:01:59.019Z"
+    },
+    {
+      "id": "nytimes_0e2fdda88f",
+      "agencyId": "nytimes",
+      "title": "U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break",
+      "title_fa": "پهپادهای آمریکایی و پهپاد آبرامز لینکلن در تایلند پهلو گرفت و به خدمه خسته استراحت داد",
+      "lead": "هزاران ملوان و تفنگدار دریایی بر روی ناو یواس‌اس آبراهام لینکلن خدمت می‌کنند که به دلیل استقرار دشوار در جنگ در ایران مورد توجه قرار گرفته بود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html",
+      "pubDate": "Wed, 02 Sep 2026 06:01:40 +0000",
+      "time": "۰۹:۳۱ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-02T06:16:44.515Z"
     }
   ]
 }
