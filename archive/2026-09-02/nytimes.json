@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_34e3101cc0",
@@ -382,6 +382,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-02T10:47:05.387Z"
+    },
+    {
+      "id": "nytimes_ebecba5f0e",
+      "agencyId": "nytimes",
+      "title": "In Egypt, Xi Challenges America’s Influence in the Middle East",
+      "title_fa": "شی جین پینگ در مصر نفوذ آمریکا در خاورمیانه را به چالش کشید",
+      "lead": "رهبر چین به دنبال تقویت روابط با یکی از شرکای امنیتی قدیمی ایالات متحده است و تلاش می‌کند نقش بزرگ‌تری برای پکن در منطقه‌ای که درگیر جنگ است، ایفا کند.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/asia/china-egypt-xi-jinping-el-sisi.html",
+      "pubDate": "Wed, 02 Sep 2026 10:43:44 +0000",
+      "time": "۱۴:۱۳ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-02T11:02:04.792Z"
+    },
+    {
+      "id": "nytimes_6389cd6f62",
+      "agencyId": "nytimes",
+      "title": "China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal",
+      "title_fa": "چین برای کنترل روایت سیلاب در تبت دست به سانسور و مجازات می‌زند؛ رویکردی در تضاد با نپال",
+      "lead": "در حالی که خبرنگاران می‌توانند به طور آزادانه گزارش‌های مربوط به اندوه و خشم مردم در نپال را پوشش دهند، رسانه‌های رسمی چین تصویری پاکسازی‌شده از پیامدهای فاجعه در تبت ارائه داده‌اند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html",
+      "pubDate": "Tue, 01 Sep 2026 21:10:03 +0000",
+      "time": "۰۰:۴۰ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-02T11:02:04.792Z"
     }
   ]
 }
