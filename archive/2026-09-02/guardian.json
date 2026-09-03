@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "guardian",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "guardian_0cd0aeb146",
@@ -21,6 +21,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-02T03:46:23.736Z"
+    },
+    {
+      "id": "guardian_ab704af959",
+      "agencyId": "guardian",
+      "title": "USS Abraham Lincoln arrives at Thai port after gruelling 270 days at sea",
+      "title_fa": "ناو هواپیمابر یواس‌اس آبراهام لینکلن پس از ۲۷۰ روز دریانوردی به بندر تایلند رسید",
+      "lead": "ناو هواپیمابر یواس‌اس آبراهام لینکلن پس از ماه‌ها دریانوردی طولانی و گزارش‌های متعدد درباره شرایط نامناسب زندگی و سلامت روان خدمه، وارد یک بندر تایلندی شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/02/uss-abraham-lincoln-arrives-thailand-after-270-days-at-sea",
+      "pubDate": "Wed, 02 Sep 2026 03:59:56 GMT",
+      "time": "۰۷:۲۹ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-02T04:16:36.727Z"
+    },
+    {
+      "id": "guardian_0f6cf0019d",
+      "agencyId": "guardian",
+      "title": "Global heating will hit at least 1.8C, UN warns, and there are ‘no good outcomes’",
+      "title_fa": "سازمان ملل هشدار داد گرمایش جهانی به حداقل ۱.۸ درجه سانتی‌گراد می‌رسد و «هیچ پیامد خوبی» وجود ندارد",
+      "lead": "بر اساس خوش‌بینانه‌ترین سناریوها نیز گرمایش جهانی به حداقل ۱.۸ درجه سانتی‌گراد خواهد رسید که فراتر از هدف توافق پاریس یعنی ۱.۵ درجه است. این وضعیت می‌تواند به سلامت انسان، منابع آب، طبیعت، شهرها و اقتصاد آسیب شدید برساند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/sep/02/global-heating-warming-1-8c-best-case-scenario-un-united-nations-environment-programme-report",
+      "pubDate": "Wed, 02 Sep 2026 04:00:22 GMT",
+      "time": "۰۷:۳۰ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-02T04:16:36.727Z"
     }
   ]
 }
