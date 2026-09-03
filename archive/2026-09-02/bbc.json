@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "bbc",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "bbc_9961635c0b",
@@ -306,6 +306,25 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-02T06:16:44.515Z"
+    },
+    {
+      "id": "bbc_0331cc2e05",
+      "agencyId": "bbc",
+      "title": "Bus crash on Egypt's Red Sea coast kills 16",
+      "title_fa": "تصادف اتوبوس در ساحل دریای سرخ در مصر ۱۶ کشته برجای گذاشت",
+      "lead": "به گفته مقام‌های رسمی، ۲۸ نفر دیگر نیز در این حادثه که در استان سینای جنوبی رخ داده، زخمی شده‌اند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 06:38:04 GMT",
+      "time": "۱۰:۰۸ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-02T06:46:57.621Z"
     }
   ]
 }
