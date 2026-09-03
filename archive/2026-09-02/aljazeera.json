@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "aljazeera",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "aljazeera_61f62c0fd9",
@@ -382,6 +382,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-02T06:31:48.673Z"
+    },
+    {
+      "id": "aljazeera_b2e006e05d",
+      "agencyId": "aljazeera",
+      "title": "‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war",
+      "title_fa": "«زندگی عادی داشتیم»: ماهیگیر زن ایرانی نااطمینانی جنگ را روایت می‌کند",
+      "lead": "یک ماهیگیر زن ایرانی توضیح می‌دهد که چگونه زندگی آرام کنار دریای او با شروع بمباران‌ها توسط آمریکا و اسرائیل از هم پاشید.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/9/2/we-had-an-ordinary-life-iran-fisherwoman-navigates-uncertainty-of-war?traffic_source=rss",
+      "pubDate": "Wed, 02 Sep 2026 06:26:18 +0000",
+      "time": "۰۹:۵۶ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-02T06:46:57.621Z"
+    },
+    {
+      "id": "aljazeera_5c3956c5bf",
+      "agencyId": "aljazeera",
+      "title": "Tyson Fury confirms Anthony Joshua fight at NYC’s Madison Square Garden",
+      "title_fa": "تایسون فیوری برگزاری مسابقه با آنتونیا جاشوا در مدیسون اسکوئر گاردن نیویورک را تایید کرد",
+      "lead": "هنوز تاریخ دقیقی برای این مبارزه تمام‌بریتانیایی در سنگین‌وزن بوکس تعیین نشده، اما انتظار می‌رود در ماه نوامبر برگزار شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/9/2/tyson-fury-confirms-anthony-joshua-fight-at-nycs-madison-square-garden?traffic_source=rss",
+      "pubDate": "Wed, 02 Sep 2026 06:26:25 +0000",
+      "time": "۰۹:۵۶ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-02T06:46:57.621Z"
     }
   ]
 }
