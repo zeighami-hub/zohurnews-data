@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "foreignpolicy",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "foreignpolicy_53703e46a8",
@@ -135,6 +135,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-02T14:06:17.161Z"
+    },
+    {
+      "id": "foreignpolicy_1b737f5bf5",
+      "agencyId": "foreignpolicy",
+      "title": "Jordan Sees Bigger Threat From Israel Than Iran",
+      "title_fa": "اردن خطر اسرائیل را بزرگ‌تر از ایران می‌داند",
+      "lead": "برای امیان، احتمال الحاق کرانه باختری توسط اسرائیل به عنوان یک خطر وجودی و بزرگ‌تر تلقی می‌شود.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/08/31/jordan-israel-iran-west-bank-annexation-refugees-gaza/",
+      "pubDate": "Mon, 31 Aug 2026 13:48:41 +0000",
+      "time": "۱۷:۱۸ - ۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-02T14:47:22.574Z"
+    },
+    {
+      "id": "foreignpolicy_5d4a55cbaa",
+      "agencyId": "foreignpolicy",
+      "title": "It’s Time to Rein in Trump’s ‘Wars on Terror’",
+      "title_fa": "زمان مهار «جنگ علیه ترور» ترامپ فرا رسیده است",
+      "lead": "کنگره ایالات متحده باید برای مقابله با سوءاستفاده‌های جدید و قدیمی قوه مجریه اقدام کند. این مقاله بر لزوم نظارت بیشتر بر اختیارات اجرایی رئیس‌جمهور تأکید دارد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://foreignpolicy.com/2026/08/31/trump-terror-congress-drone-strikes-drugs-international-law/",
+      "pubDate": "Mon, 31 Aug 2026 13:25:41 +0000",
+      "time": "۱۶:۵۵ - ۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 15,
+        "neutral": 55,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-02T14:47:22.574Z"
     }
   ]
 }
