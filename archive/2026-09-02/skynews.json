@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "skynews",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "skynews_f013d71e86",
@@ -116,6 +116,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-02T16:17:13.473Z"
+    },
+    {
+      "id": "skynews_be59a6597c",
+      "agencyId": "skynews",
+      "title": "Attempted drone attack at German airport blamed on Russia",
+      "title_fa": "مسئولیت حمله پهپادی نافرجام در فرودگاه آلمان متوجه روسیه شد",
+      "lead": "آلمان روسیه را به دلیل تلاش برای حمله با استفاده از یک پهپاد حامل مواد منفجره در فرودگاه لایپزیگ در ماه گذشته مقصر دانست.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/attempted-drone-attack-at-leipzig-airport-blamed-on-russia-german-government-says-13579937",
+      "pubDate": "Tue, 01 Sep 2026 16:49:00 +0100",
+      "time": "۱۹:۱۹ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-02T16:32:15.876Z"
     }
   ]
 }
