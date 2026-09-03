@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "aljazeera",
-  "total": 43,
+  "total": 45,
   "articles": [
     {
       "id": "aljazeera_61f62c0fd9",
@@ -819,6 +819,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-02T12:16:49.243Z"
+    },
+    {
+      "id": "aljazeera_cf5fe8b3ce",
+      "agencyId": "aljazeera",
+      "title": "What is Iran’s Castle Breaker missile, used against US bases?",
+      "title_fa": "موشک «قلب‌شکن» ایران که علیه پایگاه‌های آمریکایی استفاده شد، چیست؟",
+      "lead": "موشک میان‌برد خیبرشکن ایران نقش مهمی در تشدید تنش‌های ایالات متحده و اسرائیل ایفا می‌کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss",
+      "pubDate": "Wed, 02 Sep 2026 12:38:39 +0000",
+      "time": "۱۶:۰۸ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-02T12:47:04.913Z"
+    },
+    {
+      "id": "aljazeera_f0f7b5916a",
+      "agencyId": "aljazeera",
+      "title": "Palestinian landowners confront bulldozers using their hands",
+      "title_fa": "زمین‌داران فلسطینی با دست خالی به مقابله با بولدوزرها پرداختند",
+      "lead": "زمین‌داران فلسطینی با دست‌های خالی خود در برابر بولدوزرها ایستادگی و مقابله کردند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/2/palestinian-landowners-confront-bulldozers-using-their-hands?traffic_source=rss",
+      "pubDate": "Wed, 02 Sep 2026 12:14:45 +0000",
+      "time": "۱۵:۴۴ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-02T12:47:04.913Z"
     }
   ]
 }
