@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "bbc",
-  "total": 30,
+  "total": 31,
   "articles": [
     {
       "id": "bbc_9961635c0b",
@@ -572,6 +572,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-02T17:47:03.367Z"
+    },
+    {
+      "id": "bbc_2d0f8e5fce",
+      "agencyId": "bbc",
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "title_fa": "ایران می‌گوید حمله آمریکا چهار نفر را در یک مراسم عروسی کشته و آن را جنایت جنگی خواند",
+      "lead": "رسانه‌های ایرانی گزارش دادند که در پی اصابت ترکش به یک خانه، دو کودک نیز در میان کشته‌شدگان هستند و پس از آن ایران اهدافی را در خاورمیانه هدف حملات موشکی و پهپادی قرار داد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 15:33:19 GMT",
+      "time": "۱۹:۰۳ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-02T19:46:42.930Z"
     }
   ]
 }
