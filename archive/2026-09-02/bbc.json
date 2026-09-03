@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "bbc",
-  "total": 13,
+  "total": 16,
   "articles": [
     {
       "id": "bbc_9961635c0b",
@@ -249,6 +249,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-02T05:46:46.767Z"
+    },
+    {
+      "id": "bbc_7c5ccb27c1",
+      "agencyId": "bbc",
+      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "title_fa": "«هرگز به افغانستان نرفته‌ام»: شش میلیون نفر اخراجی مجبور به شروعی دوباره تحت حاکمیت طالبان شدند",
+      "lead": "تا ماه اوت، تعداد افرادی که امسال از پاکستان و ایران مجبور به بازگشت شدند به یک میلیون نفر دیگر رسید.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 05:00:34 GMT",
+      "time": "۰۸:۳۰ - ۱۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-02T06:16:44.515Z"
+    },
+    {
+      "id": "bbc_7cd516ed83",
+      "agencyId": "bbc",
+      "title": "South Korea jails disabled care home head for sexually assaulting residents",
+      "title_fa": "کره جنوبی مدیر یک خانه سالمندان معلولان را به جرم آزار جنسی ساکنان به زندان محکوم کرد",
+      "lead": "این مرد که نام خانوادگی‌اش کیم اعلام شده، به جرم آزار سه تن از ساکنان این مرکز در نزدیکی سئول به ۱۵ سال زندان محکوم شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 05:56:44 GMT",
+      "time": "۰۹:۲۶ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-02T06:16:44.515Z"
+    },
+    {
+      "id": "bbc_6177da4085",
+      "agencyId": "bbc",
+      "title": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
+      "title_fa": "شبکه نظارت هوش مصنوعی رو به رشد «فلاک» با واکنش‌های شدیدی در ایالات متحده مواجه است",
+      "lead": "بخش راستی‌آزمایی بی‌بی‌سی به بررسی شبکه رو به گسترش دوربین‌های فلاک در ایالات متحده و موج انتقادات علیه آن می‌پردازد.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 05:11:23 GMT",
+      "time": "۰۸:۴۱ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-02T06:16:44.515Z"
     }
   ]
 }
