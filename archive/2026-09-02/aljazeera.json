@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "aljazeera",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "aljazeera_61f62c0fd9",
@@ -97,6 +97,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-02T01:46:12.479Z"
+    },
+    {
+      "id": "aljazeera_ec5e2af8de",
+      "agencyId": "aljazeera",
+      "title": "Iran says US bombed a wedding party in Sirik, killing five",
+      "title_fa": "ایران می‌گوید ایالات متحده یک مراسم عروسی را در سیریک بمباران کرد که به کشته شدن پنج نفر انجامید",
+      "lead": "مقام‌ها اعلام کردند که در این حمله به شهر کوهک، دست کم ۶۳ نفر دیگر از جمله زنان و کودکان زخمی شده‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
+      "pubDate": "Wed, 02 Sep 2026 01:34:55 +0000",
+      "time": "۰۵:۰۴ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-02T02:01:40.476Z"
+    },
+    {
+      "id": "aljazeera_8a6ab05002",
+      "agencyId": "aljazeera",
+      "title": "What to know about Germany’s drone attack accusations against Russia",
+      "title_fa": "آنچه باید درباره اتهامات حمله پهپادی آلمان علیه روسیه بدانید",
+      "lead": "سازمان اطلاعات آلمان به این نتیجه رسیده است که یک فروند پهپاد انباشته از مواد منفجره با روسیه مرتبط بوده است. مقامات این کشور وعده واکنش و پیامدهایی را داده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia?traffic_source=rss",
+      "pubDate": "Wed, 02 Sep 2026 01:40:01 +0000",
+      "time": "۰۵:۱۰ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-02T02:01:40.476Z"
     }
   ]
 }
