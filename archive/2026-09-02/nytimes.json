@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_34e3101cc0",
@@ -458,6 +458,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-02T13:02:24.859Z"
+    },
+    {
+      "id": "nytimes_7d38ba571f",
+      "agencyId": "nytimes",
+      "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
+      "title_fa": "بازگشت ترامپ به رویکرد آشنا با بالا گرفتن دوباره درگیری با ایران",
+      "lead": "رئیس‌جمهور ترامپ روز سه‌شنبه از ایرانیان خواست تا «قیام کنند و بجنگند»، چرا که ایالات متحده به نظر می‌رسد پس از شش ماه درگیری، بیش از پیش در باتلاق فرو رفته است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
+      "pubDate": "Wed, 02 Sep 2026 14:00:47 +0000",
+      "time": "۱۷:۳۰ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-02T14:16:45.333Z"
     }
   ]
 }
