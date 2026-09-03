@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "aljazeera",
-  "total": 9,
+  "total": 12,
   "articles": [
     {
       "id": "aljazeera_61f62c0fd9",
@@ -173,6 +173,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-02T03:01:35.708Z"
+    },
+    {
+      "id": "aljazeera_cffac30fbf",
+      "agencyId": "aljazeera",
+      "title": "US strikes on Iran kill child at wedding ceremony",
+      "title_fa": "حملات آمریکا به ایران یک کودک را در مراسم عروسی به کشتن داد",
+      "lead": "پس از اصابت حملات آمریکا به یک مراسم عروسی در نزدیکی سیریک در ایران، ده‌ها نفر زخمی و دست کم پنج نفر کشته شدند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
+      "pubDate": "Wed, 02 Sep 2026 03:27:26 +0000",
+      "time": "۰۶:۵۷ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-02T03:46:23.736Z"
+    },
+    {
+      "id": "aljazeera_233e475875",
+      "agencyId": "aljazeera",
+      "title": "‘Really terrified’: Milo Yiannopoulos speaks out after deportation from US",
+      "title_fa": "«واقعاً وحشت‌زده بودم»؛ اظهارات مایلو یانپولوس پس از اخراج از آمریکا",
+      "lead": "این مفسر بریتانیایی راست افراطی پس از بازداشت توسط مقامات مهاجرتی ایالات متحده، در مصاحبه‌ای با پیرس مورگان شرکت کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss",
+      "pubDate": "Wed, 02 Sep 2026 03:32:23 +0000",
+      "time": "۰۷:۰۲ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-02T03:46:23.736Z"
+    },
+    {
+      "id": "aljazeera_40a35dcc1c",
+      "agencyId": "aljazeera",
+      "title": "Apple changes name of Lake Ontario to ‘Lake America’ in maps app",
+      "title_fa": "اپل نام «دریاچه انتاریو» را در اپلیکیشن نقشه خود به «دریاچه آمریکا» تغییر داد",
+      "lead": "این تغییر نشان‌دهنده دومین غول فناوری مستقر در ایالات متحده است که از دستور جنجالی رئیس‌جمهور دونالد ترامپ پیروی می‌کند.",
+      "category": "technology",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss",
+      "pubDate": "Wed, 02 Sep 2026 03:22:41 +0000",
+      "time": "۰۶:۵۲ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-02T03:46:23.736Z"
     }
   ]
 }
