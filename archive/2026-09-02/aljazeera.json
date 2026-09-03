@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "aljazeera",
-  "total": 41,
+  "total": 43,
   "articles": [
     {
       "id": "aljazeera_61f62c0fd9",
@@ -781,6 +781,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-02T11:02:04.792Z"
+    },
+    {
+      "id": "aljazeera_42c61ac02c",
+      "agencyId": "aljazeera",
+      "title": "The US is gobbling up Venezuelan oil, but will it lower fuel prices?",
+      "title_fa": "آیا واردات نفت ونزوئلا توسط ایالات متحده باعث کاهش قیمت سوخت خواهد شد؟",
+      "lead": "تحلیلگران می‌گویند استخراج و پالایش نفت خام ونزوئلا دشوار است و احتمالاً نمی‌تواند جایگزین نفت مسدود شده در تنگه هرمز شود.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices?traffic_source=rss",
+      "pubDate": "Wed, 02 Sep 2026 11:43:31 +0000",
+      "time": "۱۵:۱۳ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-02T12:16:49.243Z"
+    },
+    {
+      "id": "aljazeera_c96737ab74",
+      "agencyId": "aljazeera",
+      "title": "Killing at Sea",
+      "title_fa": "کشتار در دریا",
+      "lead": "این گزارش به بررسی سه خانواده، دو بمب‌گذاری و یک جنگ پنهان می‌پردازد و زندگی‌های پشت جان‌باختگان عملیات «نیزه جنوبی» را آشکار می‌کند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/fault-lines/2026/9/2/killing-at-sea?traffic_source=rss",
+      "pubDate": "Wed, 02 Sep 2026 12:00:00 +0000",
+      "time": "۱۵:۳۰ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-02T12:16:49.243Z"
     }
   ]
 }
