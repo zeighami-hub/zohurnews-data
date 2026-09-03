@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_34e3101cc0",
@@ -344,6 +344,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-02T10:02:35.237Z"
+    },
+    {
+      "id": "nytimes_05526c9afd",
+      "agencyId": "nytimes",
+      "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
+      "title_fa": "آمریکا و ایران پس از یک شب حملات شدید، خسارت‌ها را ارزیابی می‌کنند",
+      "lead": "ارتش آمریکا اعلام کرد که حملات این کشور پاسخ به حملات اخیر به نیروها و ناوگان دریایی آمریکا بوده است. در مقابل، مقامات ایرانی اعلام کردند که یک مراسم عروسی هدف قرار گرفته و غیرنظامیان کشته شده‌اند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html",
+      "pubDate": "Wed, 02 Sep 2026 10:43:08 +0000",
+      "time": "۱۴:۱۳ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-02T10:47:05.387Z"
+    },
+    {
+      "id": "nytimes_70262914eb",
+      "agencyId": "nytimes",
+      "title": "Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says",
+      "title_fa": "دیدبان هسته‌ای سازمان ملل: وضعیت برنامه هسته‌ای ایران نامشخص است",
+      "lead": "همزمان با ادامه درگیری‌ها، گزارشی داخلی از آژانس بین‌المللی انرژی اتمی نشان می‌دهد که امتناع ایران از اعطای دسترسی به بازرسان خود، یک نگرانی فوری است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html",
+      "pubDate": "Wed, 02 Sep 2026 10:32:45 +0000",
+      "time": "۱۴:۰۲ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-02T10:47:05.387Z"
     }
   ]
 }
