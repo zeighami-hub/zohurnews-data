@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "bbc",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "bbc_9961635c0b",
@@ -477,6 +477,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-02T13:17:44.235Z"
+    },
+    {
+      "id": "bbc_dd69f8d6b2",
+      "agencyId": "bbc",
+      "title": "What we know about reported strike on Iran wedding celebrations",
+      "title_fa": "آنچه درباره حمله گزارش‌شده به مراسم عروسی در ایران می‌دانیم",
+      "lead": "بخش راست‌آزمایی بی‌بی‌سی ویدیوهایی را بررسی کرده است که پیامدهای یک حمله به ساختمانی در جنوب ایران را نشان می‌دهند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 10:33:47 GMT",
+      "time": "۱۴:۰۳ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-02T16:32:15.876Z"
+    },
+    {
+      "id": "bbc_007479b027",
+      "agencyId": "bbc",
+      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+      "title_fa": "متهم شدن یک زن به ارعاب هیئت منصفه در دادگاه لیندسی کلنسی",
+      "lead": "داون لایت متهم است که از اعضای هیئت منصفه در بیرون دادگاه پلیموث عکس گرفته است؛ اقدامی که توسط دادگاه ممنوع اعلام شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 16:18:55 GMT",
+      "time": "۱۹:۴۸ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-02T16:32:15.876Z"
     }
   ]
 }
