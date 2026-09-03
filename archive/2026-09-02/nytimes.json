@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_34e3101cc0",
@@ -249,6 +249,82 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-02T09:32:14.710Z"
+    },
+    {
+      "id": "nytimes_02f59967b3",
+      "agencyId": "nytimes",
+      "title": "U.S. Sanctions on Iran Cut Off Students From Tests Needed for Study Abroad",
+      "title_fa": "تحریم‌های آمریکا علیه ایران دانشجویان را از آزمون‌های لازم برای تحصیل در خارج محروم کرد",
+      "lead": "اقدامات جدید ایالات متحده موجب لغو آزمون‌های مهارت زبان انگلیسی و تحصیلات تکمیلی شده است. این وضعیت بسیاری از ایرانیان مشتاق برای برقراری ارتباط با جهان را منزوی کرده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
+      "pubDate": "Tue, 01 Sep 2026 15:04:17 +0000",
+      "time": "۱۸:۳۴ - ۱۰ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-02T09:47:22.368Z"
+    },
+    {
+      "id": "nytimes_60438d43fd",
+      "agencyId": "nytimes",
+      "title": "Bus Crash in Egypt Kills at Least 16",
+      "title_fa": "تصادف اتوبوس در مصر دست‌کم ۱۶ کشته برجای گذاشت",
+      "lead": "به گفته مقام‌ها، این وسیله نقلیه در منطقه‌ای از شبه‌جزیره سینا که در میان گردشگران محبوب است، واژگون شد. ۲۸ نفر دیگر نیز در این حادثه مجروح شدند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/africa/bus-crash-egypt-sinai.html",
+      "pubDate": "Wed, 02 Sep 2026 09:32:47 +0000",
+      "time": "۱۳:۰۲ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-02T09:47:22.368Z"
+    },
+    {
+      "id": "nytimes_ecd158f66c",
+      "agencyId": "nytimes",
+      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
+      "title_fa": "آیا می‌توان از آثار باستانی در برابر آتش‌سوزی‌های جنگلی محافظت کرد؟ یونان در حال تلاش است",
+      "lead": "همزمان با افزایش آتش‌سوزی‌ها در سراسر اروپا، این کشور برای محافظت از میراث فرهنگی خود دست به مصالحه زده و سایت‌ها را در برابر آتش مقاوم می‌کند، حتی اگر این کار به چشم‌انداز اطراف آسیب بزند.",
+      "category": "economy",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
+      "pubDate": "Tue, 01 Sep 2026 10:59:16 +0000",
+      "time": "۱۴:۲۹ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-02T09:47:22.368Z"
+    },
+    {
+      "id": "nytimes_a53a79641f",
+      "agencyId": "nytimes",
+      "title": "A Factory in Rural Ireland Is at the Center of a Dispute Over Russia",
+      "title_fa": "یک کارخانه در مناطق روستایی ایرلند در کانون مناقشه پیرامون روسیه قرار دارد",
+      "lead": "یک تحقیق نشان داد که آلومینای فرآوری‌شده در یک پالایشگاه در شهرستان لیمریک ممکن است به تامین مالی جنگ روسیه در اوکراین کمک کند. توافق کمی درباره نحوه برخورد با این موضوع وجود دارد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/europe/ireland-alumina-aughinish-plant-russia.html",
+      "pubDate": "Tue, 01 Sep 2026 09:00:29 +0000",
+      "time": "۱۲:۳۰ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-02T09:47:22.368Z"
     }
   ]
 }
