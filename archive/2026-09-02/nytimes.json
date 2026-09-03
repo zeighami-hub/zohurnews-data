@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "nytimes",
-  "total": 28,
+  "total": 29,
   "articles": [
     {
       "id": "nytimes_34e3101cc0",
@@ -534,6 +534,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-02T20:46:31.782Z"
+    },
+    {
+      "id": "nytimes_76ef4c2733",
+      "agencyId": "nytimes",
+      "title": "In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy",
+      "title_fa": "در یک شهر کوچک ایرانی، حمله ایالات متحده یک عروسی را به فاجعه تبدیل کرد",
+      "lead": "بر اساس تحلیل بصری نیویورک تایمز و نظر یک کارشناس تسلیحاتی، بمبی که به یک منطقه مسکونی اصابت کرده آمریکایی بوده است. به گفته مقامات ایرانی، این حمله پنج کشته و ۶۷ مجروح بر جای گذاشته است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html",
+      "pubDate": "Wed, 02 Sep 2026 23:38:27 +0000",
+      "time": "۰۳:۰۸ - ۱۲ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-02T23:46:17.114Z"
     }
   ]
 }
