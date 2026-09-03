@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
   "agencyId": "bbc",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "bbc_9961635c0b",
@@ -534,6 +534,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-02T17:17:15.949Z"
+    },
+    {
+      "id": "bbc_b23220bf5e",
+      "agencyId": "bbc",
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "title_fa": "عربستان: حمله ایران به نفتکش سعودی دو ملوان فیلیپینی را به کشتن داد",
+      "lead": "پادشاهی عربستان سعودی هدف قرار گرفتن نفتکش سیدر را که بنا بر گزارش‌ها روز دوشنبه در تنگه هرمز مورد اصابت پرتابه‌های ناشناس قرار گرفت، محکوم کرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 17:33:45 GMT",
+      "time": "۲۱:۰۳ - ۱۱ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-02T17:47:03.367Z"
+    },
+    {
+      "id": "bbc_09e7d0dec0",
+      "agencyId": "bbc",
+      "title": "Pistol in a lake gives hope for French cold case",
+      "title_fa": "پیدا شدن یک تپانچه در دریاچه، امیدی برای یک پرونده قدیمی در فرانسه ایجاد کرد",
+      "lead": "سعد الحلی به همراه همسر و مادرزنش در سپتامبر ۲۰۱۲ در جریان تعطیلات در شرق فرانسه به قتل رسیدند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 16:33:29 GMT",
+      "time": "۲۰:۰۳ - ۱۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-02T17:47:03.367Z"
     }
   ]
 }
