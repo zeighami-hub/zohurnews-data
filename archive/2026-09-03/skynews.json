@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "skynews",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "skynews_f013d71e86",
@@ -173,6 +173,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-03T17:47:06.475Z"
+    },
+    {
+      "id": "skynews_1295d0fb76",
+      "agencyId": "skynews",
+      "title": "British woman, 34, stabbed to death in hotel corridor in Portugal",
+      "title_fa": "یک زن ۳۴ ساله بریتانیایی در راهروی هتلی در پرتغال با چاقو به قتل رسید",
+      "lead": "یک زن ۳۴ ساله اهل بریتانیا در راهروی یک هتل در کشور پرتغال با ضربات چاقو به قتل رسیده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/british-woman-34-stabbed-to-death-in-hotel-corridor-in-portugal-13580496",
+      "pubDate": "Wed, 02 Sep 2026 18:55:00 +0100",
+      "time": "۲۱:۲۵ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-03T19:31:38.247Z"
+    },
+    {
+      "id": "skynews_1ba110d543",
+      "agencyId": "skynews",
+      "title": "Discovery of explosive devices at substation leads to sabotage probe",
+      "title_fa": "کشف تجهیزات انفجاری در یک پست برق و آغاز تحقیقات درباره خرابکاری",
+      "lead": "مقامات اعلام کردند که دو حادثه با هدف قرار دادن سیستم‌های توزیع برق در آلمان، به عنوان اقدامات احتمالی خرابکارانه در دست بررسی است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/germany-probes-possible-acts-of-sabotage-after-explosives-found-at-substation-13580446",
+      "pubDate": "Wed, 02 Sep 2026 17:15:00 +0100",
+      "time": "۱۹:۴۵ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-03T19:17:11.796Z"
     }
   ]
 }
