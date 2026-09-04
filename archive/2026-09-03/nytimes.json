@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_288a48372e",
@@ -78,6 +78,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-03T06:32:03.726Z"
+    },
+    {
+      "id": "nytimes_29781d471d",
+      "agencyId": "nytimes",
+      "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+      "title_fa": "سازمان ملل: جهان به هدف اقلیمی ۱.۵ درجه‌ای خود نخواهد رسید",
+      "lead": "یک گزارش جدید هشدار می‌دهد که حذف کربن به همراه کاهش انتشار گازهای گلخانه‌ای، تنها راه باقی‌مانده برای جلوگیری از سطح فاجعه‌بار گرمایش زمین است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+      "pubDate": "Wed, 02 Sep 2026 17:44:25 +0000",
+      "time": "۲۱:۱۴ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-03T07:16:41.757Z"
+    },
+    {
+      "id": "nytimes_5d8ce9d399",
+      "agencyId": "nytimes",
+      "title": "Honduran Court Clears Ex-President Juan Orlando Hernández",
+      "title_fa": "دادگاه هندوراس رئیس‌جمهور پیشین، خوان اورلاندو هرناندز، را تبرئه کرد",
+      "lead": "تصمیم رئیس‌جمهور ترامپ در ماه دسامبر باعث آزادی خوان اورلاندو هرناندز شد و روز سه‌شنبه نیز یک دادگاه اتهامات پول‌شویی و کلاهبرداری را علیه او رد کرد که عملاً او را به یک فرد آزاد تبدیل کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/01/world/americas/honduran-court-clears-former-president-pardoned-by-trump.html",
+      "pubDate": "Wed, 02 Sep 2026 01:40:39 +0000",
+      "time": "۰۵:۱۰ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-03T07:16:41.757Z"
     }
   ]
 }
