@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "skynews_f013d71e86",
@@ -40,6 +40,25 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-03T06:16:45.370Z"
+    },
+    {
+      "id": "skynews_d22e1e32cd",
+      "agencyId": "skynews",
+      "title": "22 people killed in bus crash in Egypt",
+      "title_fa": "کشته شدن ۲۲ نفر در سانحه تصادف اتوبوس در مصر",
+      "lead": "به گفته مقام‌های رسمی، بر اثر تصادف یک دستگاه اتوبوس در منطقه جنوب سینا در مصر، دست‌کم ۲۲ نفر جان خود را از دست دادند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/egypt-bus-crash-21-people-killed-in-area-popular-with-tourists-13580237",
+      "pubDate": "Wed, 02 Sep 2026 06:56:00 +0100",
+      "time": "۰۹:۲۶ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-03T09:32:35.822Z"
     }
   ]
 }
