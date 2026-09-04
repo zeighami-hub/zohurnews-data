@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "bbc",
-  "total": 32,
+  "total": 33,
   "articles": [
     {
       "id": "bbc_c36e2d9f27",
@@ -610,6 +610,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-03T21:01:43.663Z"
+    },
+    {
+      "id": "bbc_1b191213f8",
+      "agencyId": "bbc",
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "title_fa": "آمریکا در حال بررسی اصابت موشک به یک مراسم عروسی در ایران است؛ به گفته ونس",
+      "lead": "جمعیت هلال احمر ایران اعلام کرد که ترکش‌های ناشی از اصابت یک موشک به مراسم عروسی در روز سه‌شنبه، موجب کشته شدن چهار نفر شده است. مقام‌های آمریکایی در حال بررسی این حادثه هستند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 22:19:59 GMT",
+      "time": "۰۱:۴۹ - ۱۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-03T23:31:22.838Z"
     }
   ]
 }
