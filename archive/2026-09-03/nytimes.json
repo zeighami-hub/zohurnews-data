@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_288a48372e",
@@ -401,6 +401,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-03T12:46:47.651Z"
+    },
+    {
+      "id": "nytimes_04d3879cfc",
+      "agencyId": "nytimes",
+      "title": "Israeli Military Kills Two Palestinians in Nighttime Village Raid",
+      "title_fa": "ارتش اسرائیل دو فلسطینی را در یورش شبانه به روستا کشت",
+      "lead": "المغیر در کرانه باختری اشغالی به کانون افزایش خشونت شهرک‌نشینان تبدیل شده است و آخرین رویداد مرگبار با مناقشه‌ای بر سر دام آغاز شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/world/middleeast/west-bank-israel-palestinians-shooting.html",
+      "pubDate": "Thu, 03 Sep 2026 14:05:11 +0000",
+      "time": "۱۷:۳۵ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-03T14:17:07.147Z"
     }
   ]
 }
