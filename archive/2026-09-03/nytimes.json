@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_288a48372e",
@@ -211,6 +211,63 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-03T09:17:20.439Z"
+    },
+    {
+      "id": "nytimes_755c643e92",
+      "agencyId": "nytimes",
+      "title": "Inside the Fight Against a Flesh-Eating Fly in Mexico",
+      "title_fa": "مبارزه با مگس گوشت‌خوار در مکزیک",
+      "lead": "براین نخستین بار در یک سال گذشته، بخشی از مرز ایالات متحده و مکزیک به روی واردات دام پس از شیوع مگس گوشت‌خوار بازگشایی شد، در حالی که مبارزه با این حشره در اعماق مکزیک همچنان ادامه دارد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/americas/screwworm-facility-mexico.html",
+      "pubDate": "Thu, 03 Sep 2026 01:14:05 +0000",
+      "time": "۰۴:۴۴ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-03T09:32:35.822Z"
+    },
+    {
+      "id": "nytimes_7ae0a33d08",
+      "agencyId": "nytimes",
+      "title": "Netanyahu’s Israel Is Looking for a Fight in Every Direction",
+      "title_fa": "اسرائیلِ تحت رهبری نتانیاهو به دنبال تنش‌زایی در هر جهتی است",
+      "lead": "نخست‌وزیر اسرائیل که با رقابتی دشوار برای انتخاب مجدد روبروست، ممکن است برای متحد کردن رأی‌دهندگان و حفظ مقام خود به یک بحران امنیتی نیاز داشته باشد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/middleeast/netanyahu-israel-election.html",
+      "pubDate": "Wed, 02 Sep 2026 13:03:56 +0000",
+      "time": "۱۶:۳۳ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-03T09:32:35.822Z"
+    },
+    {
+      "id": "nytimes_fac3111739",
+      "agencyId": "nytimes",
+      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
+      "title_fa": "حملات در دریای سیاه عرضه جهانی غلات را تهدید به فلج کردن می‌کند",
+      "lead": "حملات روسیه و اوکراین به بنادر و کشتی‌ها، کشاورزان را در آستانه ورشکستگی قرار داده و می‌تواند شوک جهانی دیگری در بازار مواد غذایی ایجاد کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
+      "pubDate": "Wed, 02 Sep 2026 09:05:50 +0000",
+      "time": "۱۲:۳۵ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-03T09:32:35.822Z"
     }
   ]
 }
