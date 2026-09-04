@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_288a48372e",
@@ -420,6 +420,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-03T14:17:07.147Z"
+    },
+    {
+      "id": "nytimes_719ee3d2ee",
+      "agencyId": "nytimes",
+      "title": "In Nepal and Tibet, Pollution on Glaciers Could Fuel More Flood Disasters",
+      "title_fa": "در نپال و تبت، آلودگی روی یخچال‌های طبیعی می‌تواند فجایع سیل بیشتری را رقم بزند",
+      "lead": "یخچال‌های طبیعی این منطقه که با دوده ناشی از خودروها و کارخانه‌ها تیره شده‌اند، گرمای بیشتری را جذب کرده و با نرخ‌های خطرناکی در حال ذوب شدن هستند.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/climate/pollution-soot-glaciers-melting-himalayas.html",
+      "pubDate": "Wed, 02 Sep 2026 17:24:14 +0000",
+      "time": "۲۰:۵۴ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-03T14:48:08.155Z"
+    },
+    {
+      "id": "nytimes_7d38ba571f",
+      "agencyId": "nytimes",
+      "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
+      "title_fa": "بازگشت ترامپ به راهبردهای آشنا همزمان با بالا گرفتن دوباره جنگ با ایران",
+      "lead": "با وجود ادعاهای رئیس‌جمهور ترامپ درباره تسلط نظامی، به نظر می‌رسد ایالات متحده پس از شش ماه درگیری همچنان در مسائل مربوط به ایران درگیر مانده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
+      "pubDate": "Wed, 02 Sep 2026 19:56:53 +0000",
+      "time": "۲۳:۲۶ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-03T14:32:50.962Z"
     }
   ]
 }
