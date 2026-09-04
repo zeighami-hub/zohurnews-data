@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "economist",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "economist_89231b7a21",
@@ -40,6 +40,44 @@
         "negative": 33
       },
       "analyzed_at": "2026-09-03T14:17:07.147Z"
+    },
+    {
+      "id": "economist_4ad0c45fb2",
+      "agencyId": "economist",
+      "title": "The Iran war is consuming the Trump presidency",
+      "title_fa": "جنگ ایران در حال فرو بلعیدن دوران ریاست جمهوری ترامپ است",
+      "lead": "دونالد ترامپ ممکن است از شنیدن آن بیزار باشد، اما باراک اوباما در مورد پرهیز از اقدامات «احمقانه» حق داشت.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.economist.com/international/2026/07/21/the-iran-war-is-consuming-the-trump-presidency",
+      "pubDate": "Tue, 21 Jul 2026 20:42:32 +0000",
+      "time": "۰۰:۱۲ - ۳۱ تیر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-03T16:46:25.344Z"
+    },
+    {
+      "id": "economist_2b4251b3c9",
+      "agencyId": "economist",
+      "title": "What happens when interceptor missiles run out",
+      "title_fa": "وقتی موشک‌های رهگیر تمام می‌شوند چه اتفاقی می‌افتد",
+      "lead": "کمبود روزافزون موشک‌های رهگیر باعث ایجاد نگرانی در اوکراین و سایر نقاط جهان شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.economist.com/international/2026/08/18/what-happens-when-interceptor-missiles-run-out",
+      "pubDate": "Tue, 18 Aug 2026 19:20:34 +0000",
+      "time": "۲۲:۵۰ - ۲۷ مرداد",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-03T16:46:25.344Z"
     }
   ]
 }
