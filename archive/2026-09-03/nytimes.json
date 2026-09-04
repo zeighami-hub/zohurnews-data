@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 29,
   "articles": [
     {
       "id": "nytimes_288a48372e",
@@ -458,6 +458,101 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-03T14:32:50.962Z"
+    },
+    {
+      "id": "nytimes_bab45c815f",
+      "agencyId": "nytimes",
+      "title": "Through the Hands of Strangers, Missing Iranian Artists Put on a Show in L.A.",
+      "title_fa": "هنرمندان گمنام ایرانی با دست افراد غریبه در لس‌آنجلس نمایشگاه برگزار کردند",
+      "lead": "این هنرمندان که توسط جنگ ایزوله شده‌اند، در نمایشگاهی در گالری «بریک» شرکت کرده و با هنرمندان محلی جفت شدند که آثار آن‌ها را تفسیر و اجرا کردند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/arts/design/iranian-artists-los-angeles-the-brick.html",
+      "pubDate": "Thu, 03 Sep 2026 15:41:12 +0000",
+      "time": "۱۹:۱۱ - ۱۲ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-03T15:46:53.423Z"
+    },
+    {
+      "id": "nytimes_b1d1872101",
+      "agencyId": "nytimes",
+      "title": "Spain’s Leader Questions Morocco Border Control During Ceuta Migrant Surge",
+      "title_fa": "رهبر اسپانیا کنترل مرزی مراکش را در جریان هجوم مهاجران به سبته زیر سوال برد",
+      "lead": "پدرو سانچز، نخست‌وزیر اسپانیا، گفت که نقش مقامات مراکشی در لحظات کلیدی باید «شفاف‌سازی» شود. با این حال، او هرگونه این موضوع که آنها این بحران را برنامه‌ریزی کرده‌اند، رد کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/world/europe/spain-morocco-ceuta-sanchez.html",
+      "pubDate": "Thu, 03 Sep 2026 15:34:49 +0000",
+      "time": "۱۹:۰۴ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-03T15:46:53.423Z"
+    },
+    {
+      "id": "nytimes_df2d01ad59",
+      "agencyId": "nytimes",
+      "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
+      "title_fa": "درگیری مسلحانه واحدهای اطلاعاتی رقیب اوکراین در کیف",
+      "lead": "ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، تیراندازی در خیابان‌های پایتخت این کشور را «رویدادی کاملاً شرم‌آور» توصیف کرد و دستور انجام تحقیقات را صادر نمود.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/world/europe/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
+      "pubDate": "Thu, 03 Sep 2026 14:41:56 +0000",
+      "time": "۱۸:۱۱ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-03T15:46:53.423Z"
+    },
+    {
+      "id": "nytimes_ed63f6dcc6",
+      "agencyId": "nytimes",
+      "title": "Why Sinister ‘Cat in the Hat’ Videos Are Prompting Police Warnings",
+      "title_fa": "چرا ویدیوهای ترسناک «گربه کلاه به سر» باعث هشدار پلیس شده است؟",
+      "lead": "تصاویر دانه‌دانه و تهدیدآمیز از این شخصیت دکتر سوس که به نظر می‌رسد با هوش مصنوعی ساخته شده باشند، دانش‌آموزان را ترسانده و تحقیقاتی را در چندین کشور به راه انداخته است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/us/cat-in-the-hat-ai-social-media-trend.html",
+      "pubDate": "Thu, 03 Sep 2026 14:52:22 +0000",
+      "time": "۱۸:۲۲ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-03T15:03:41.049Z"
+    },
+    {
+      "id": "nytimes_a7e507adf7",
+      "agencyId": "nytimes",
+      "title": "Rival Ukrainian Intelligence Units Open Fire Against Each Other in Kyiv",
+      "title_fa": "درگیری مسلحانه میان واحدهای اطلاعاتی رقیب اوکراین در کی‌یف",
+      "lead": "ولودیمیر زلنسکی این تیراندازی در خیابان‌های پایتخت اوکراین را «رویدادی کاملاً شرم‌آور» توصیف کرد و دستور انجام تحقیقات را صادر نمود.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/todayspaper/rival-ukrainian-intelligence-units-open-fire-against-each-other-in-kyiv.html",
+      "pubDate": "Thu, 03 Sep 2026 14:41:56 +0000",
+      "time": "۱۸:۱۱ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-03T15:03:41.049Z"
     }
   ]
 }
