@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "aljazeera",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "aljazeera_ffecca1bb4",
@@ -97,6 +97,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-03T01:46:12.181Z"
+    },
+    {
+      "id": "aljazeera_cbe7b9bc3c",
+      "agencyId": "aljazeera",
+      "title": "Trump threatens more strikes as death toll in Iran rises to 18",
+      "title_fa": "ترامپ با افزایش تلفات در ایران به دلیل حملات تهدید به ادامه ضربات کرد",
+      "lead": "دونالد ترامپ اعلام کرد که ایالات متحده می‌تواند هر زمان که بخواهد به ایران ضربه بزند، در حالی که تهران حملات مرگبار از جمله به یک مراسم عروسی را جنایت جنگی می‌داند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
+      "pubDate": "Thu, 03 Sep 2026 01:45:32 +0000",
+      "time": "۰۵:۱۵ - ۱۲ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-03T02:16:08.032Z"
+    },
+    {
+      "id": "aljazeera_ef2cd2a315",
+      "agencyId": "aljazeera",
+      "title": "Exclusive access as the search for Nepal’s tunnel workers intensifies",
+      "title_fa": "دسترسی انحصاری به عملیات جستجوی کارگران تونل در نپال در حال شدت گرفتن است",
+      "lead": "جسیکا واشنگتن، خبرنگار الجزیره، دسترسی انحصاری به امدادگران در منطقه راسوا در نپال پیدا کرده است که مشغول حفاری و انفجار برای نجات کارگران هستند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/3/exclusive-access-as-the-search-for-nepals-tunnel-workers-intensifies?traffic_source=rss",
+      "pubDate": "Thu, 03 Sep 2026 01:53:40 +0000",
+      "time": "۰۵:۲۳ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-03T02:16:08.032Z"
     }
   ]
 }
