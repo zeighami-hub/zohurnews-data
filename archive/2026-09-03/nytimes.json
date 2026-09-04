@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_288a48372e",
@@ -116,6 +116,101 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-03T07:16:41.757Z"
+    },
+    {
+      "id": "nytimes_0f92f8773f",
+      "agencyId": "nytimes",
+      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
+      "title_fa": "مارپیچ رو به افزایش و پایان‌ناپذیر تنش میان روسیه و اوکراین",
+      "lead": "دو طرف از موشک‌ها و پهپادها برای وادار کردن یکدیگر به تسلیم استفاده می‌کنند که رنج بی‌پایان انسانی را به همراه دارد. با این حال، هیچ نشانه‌ای از تضعیف ارزمش هیچ‌یک از دو کشور دیده نمی‌شود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
+      "pubDate": "Thu, 03 Sep 2026 09:08:39 +0000",
+      "time": "۱۲:۳۸ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-03T09:17:20.439Z"
+    },
+    {
+      "id": "nytimes_04702bbbdf",
+      "agencyId": "nytimes",
+      "title": "Lake Ontario Is One of Many Bodies of Water Caught in a Naming Fight",
+      "title_fa": "دریاچه انتاریو یکی از چندین آبراه گرفتار در مناقشه نام‌گذاری",
+      "lead": "تلاش رئیس‌جمهور ترامپ برای نامیدن این دریاچه به نام «دریاچه آمریکا» در دنیایی پر از نام‌های جغرافیایی مورد مناقشه برجسته است که اغلب نشان‌دهنده اختلافات عمیق سیاسی یا سرزمینی هستند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html",
+      "pubDate": "Thu, 03 Sep 2026 09:04:02 +0000",
+      "time": "۱۲:۳۴ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-03T09:17:20.439Z"
+    },
+    {
+      "id": "nytimes_225aaf5143",
+      "agencyId": "nytimes",
+      "title": "Many Italians Long Resisted Air-Conditioning. Then Europe Got Hotter.",
+      "title_fa": "مقاومت طولانی‌مدت ایتالیایی‌ها در برابر تهویه مطبوع؛ و سپس گرم‌تر شدن اروپا",
+      "lead": "در بحبوحه دماهای رکوردشکن در قاره اروپا، خانوارها و کسب‌وکارها در ایتالیا به طور فزاینده‌ای در حال نصب واحدهای خنک‌کننده هستند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/world/europe/italy-air-conditioning-heat.html",
+      "pubDate": "Thu, 03 Sep 2026 09:03:12 +0000",
+      "time": "۱۲:۳۳ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-03T09:17:20.439Z"
+    },
+    {
+      "id": "nytimes_d9d2f98d07",
+      "agencyId": "nytimes",
+      "title": "How Do You Run for Office in a Gang War?",
+      "title_fa": "چگونه در جریان یک جنگ خیابانی برای انتخابات نامزد شوید؟",
+      "lead": "مقامات انتخاباتی هائیتی انتخابات را برای ۱۳ دسامبر تعیین کرده‌اند، اما بسیاری از کارشناسان می‌گویند خشونت شدید احتمالاً باعث به تعویق افتادن مجدد آن خواهد شد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html",
+      "pubDate": "Thu, 03 Sep 2026 09:02:35 +0000",
+      "time": "۱۲:۳۲ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-03T09:17:20.439Z"
+    },
+    {
+      "id": "nytimes_52301afeca",
+      "agencyId": "nytimes",
+      "title": "The New Jet-Powered Drones That Are Breeding Anxiety in Ukraine",
+      "title_fa": "پهپادهای جدید مجهز به موتور جت که نگرانی‌ها را در اوکراین افزایش داده‌اند",
+      "lead": "این پهپادهای روسی نسبت به مدل‌های ملخی که روسیه در طول جنگ استفاده کرده است، مخرب‌تر، سریع‌تر و هدف قرار دادن آن‌ها دشوارتر است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/world/europe/ukraine-russia-jet-powered-drones.html",
+      "pubDate": "Thu, 03 Sep 2026 09:00:30 +0000",
+      "time": "۱۲:۳۰ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-03T09:17:20.439Z"
     }
   ]
 }
