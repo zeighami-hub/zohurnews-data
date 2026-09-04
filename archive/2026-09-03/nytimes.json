@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_288a48372e",
@@ -363,6 +363,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-03T12:02:41.150Z"
+    },
+    {
+      "id": "nytimes_1cf7a2e601",
+      "agencyId": "nytimes",
+      "title": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
+      "title_fa": "تحریم جشنواره هنر برتر از سوی چین به دلیل نمایشگاه تایوان",
+      "lead": "چین اعلام کرد که در پی نمایش نادرست تایوان به عنوان یک کشور مستقل در دوسالانه گوانگجو در کره جنوبی، این رویداد را تحریم کرده است. پکن تایوان را بخشی از خاک خود می‌داند.",
+      "category": "culture",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html",
+      "pubDate": "Thu, 03 Sep 2026 12:57:18 +0000",
+      "time": "۱۶:۲۷ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-03T13:01:59.946Z"
+    },
+    {
+      "id": "nytimes_d0b9888766",
+      "agencyId": "nytimes",
+      "title": "The ‘Miracle House’ That Survived Nepal’s Floods",
+      "title_fa": "«خانه معجزه‌آسا» که از سیل‌های نپال جان سالم به در برد",
+      "lead": "مردم برای عکاسی به سراغ این خانه سبز رنگ می‌آیند که خانواده پیاکورل را در جریان تخریب مناطق اطراف توسط سیلاب‌های خروشان، در امنیت نگه داشته بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html",
+      "pubDate": "Wed, 02 Sep 2026 17:55:12 +0000",
+      "time": "۲۱:۲۵ - ۱۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-03T12:46:47.651Z"
     }
   ]
 }
