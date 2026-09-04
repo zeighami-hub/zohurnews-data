@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "mehrnews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "mehrnews_b139b0445f",
@@ -59,6 +59,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-03T06:46:40.825Z"
+    },
+    {
+      "id": "mehrnews_9cc6c6e978",
+      "agencyId": "mehrnews",
+      "title": "Iran's PGSA updates list of violating vessels",
+      "title_fa": "به‌روزرسانی فهرست شناورهای متخلف توسط سازمان امور تنگه خلیج فارس ایران",
+      "lead": "سازمان امور تنگه خلیج فارس ایران در پیامی در شبکه اجتماعی اعلام کرد که فهرست شناورهای متخلف در وب‌سایت این سازمان به‌روزرسانی شده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247421/PGSA-updates-list-of-violating-vessels",
+      "pubDate": "Thu, 03 Sep 2026 07:10:32 GMT",
+      "time": "۱۰:۴۰ - ۱۲ شهریور",
+      "iranScore": 6,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-03T07:16:41.757Z"
+    },
+    {
+      "id": "mehrnews_2eeab420ce",
+      "agencyId": "mehrnews",
+      "title": "Tehran criticizes UNICEF silence over crimes against children",
+      "title_fa": "تهران سکوت یونیسف در برابر جنایات علیه کودکان را نقد کرد",
+      "lead": "نماینده ایران در سازمان ملل در نشست هیئت اجرایی یونیسف، سکوت این سازمان بین‌المللی را در قبال جنایات آمریکا و اسرائیل علیه کودکان ایرانی محکوم کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247420/Tehran-criticizes-UNICEF-silence-over-crimes-against-children",
+      "pubDate": "Thu, 03 Sep 2026 07:01:00 GMT",
+      "time": "۱۰:۳۱ - ۱۲ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-03T07:16:41.757Z"
     }
   ]
 }
