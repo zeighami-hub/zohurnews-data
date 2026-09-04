@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
   "agencyId": "france24",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "france24_01257408c6",
@@ -40,6 +40,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-03T01:31:22.096Z"
+    },
+    {
+      "id": "france24_ebb4ec56f0",
+      "agencyId": "france24",
+      "title": "Mideast live: Kuwait army says intercepting missile, drone attack from Iran",
+      "title_fa": "ارتش کویت از رهگیری حمله موشکی و پهپادی از سوی ایران خبر داد",
+      "lead": "ارتش کویت اعلام کرد که در حال رهگیری یک حمله موشکی و پهپادی از سمت ایران است، همزمان با اینکه تهران متحدان ایالات متحده را در خاورمیانه هدف قرار داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260903-mideast-live-kuwait-army-says-intercepting-missile-drone-attack-from-iran",
+      "pubDate": "Thu, 03 Sep 2026 03:08:01 GMT",
+      "time": "۰۶:۳۸ - ۱۲ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-03T03:16:16.827Z"
     }
   ]
 }
