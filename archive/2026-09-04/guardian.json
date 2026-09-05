@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "agencyId": "guardian",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "guardian_252fcd8bae",
@@ -78,6 +78,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-04T05:02:02.928Z"
+    },
+    {
+      "id": "guardian_d9ac02025f",
+      "agencyId": "guardian",
+      "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+      "title_fa": "خاویر میلئی: «بادهای تغییر» از ادعای آرژانتین درباره جزایر فالکلند حمایت می‌کنند",
+      "lead": "رئیس‌جمهور آرژانتین با استناد به اظهارات دونالد ترامپ درباره حاکمیت بریتانیا، تهدید کرد که تحریم‌ها علیه منافع نفتی بریتانیا را سرعت می‌بخشد.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
+      "pubDate": "Fri, 04 Sep 2026 05:03:33 GMT",
+      "time": "۰۸:۳۳ - ۱۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-04T05:16:57.382Z"
+    },
+    {
+      "id": "guardian_8d8d804754",
+      "agencyId": "guardian",
+      "title": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case",
+      "title_fa": "جاش وانگ، فعال دمکراسی‌خواه هنگ‌کنگی، در دومین پرونده امنیت ملی گناهکار شناخته شد",
+      "lead": "جاش وانگ ۲۹ ساله متهم است که از قدرت‌های خارجی خواسته علیه چین تحریم‌ها و اقدامات خصمانه اعمال کنند و او در این پرونده اعتراف به گناه کرد.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
+      "pubDate": "Wed, 02 Sep 2026 04:57:27 GMT",
+      "time": "۰۸:۲۷ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-04T05:16:57.382Z"
     }
   ]
 }
