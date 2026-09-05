@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "agencyId": "reuters",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "reuters_f87b3dbc9c",
@@ -78,6 +78,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-04T03:16:46.857Z"
+    },
+    {
+      "id": "reuters_adbf88c8f8",
+      "agencyId": "reuters",
+      "title": "US military says it completed latest wave of strikes on Iran - Reuters",
+      "title_fa": "ارتش ایالات متحده از تکمیل موج جدید حملات به ایران خبر داد",
+      "lead": "ارتش ایالات متحده اعلام کرد که آخرین موج حملات خود علیه اهدافی در ایران را به اتمام رسانده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekNsWEt4cEh2RVhBNk5nQXJSczQ2QjJlU2hONHpGLXRBSVg1bi1wdWljNXZOd0lvS0toX0ZiZmpaNUVpaG9QbmMtTHBkdzRBUXZMVjU0al9iQUFVQWRvZzFTek5MOGhyME9Ea3Y4a0ZiUVNOUXR1VDRZQi1Td09pT1ZpanoxQ1BKVVp2NWc5WlZPT3hVSDJ2aWZZMExHU1J4aUhKSjFEZ3JWdmo3?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 01:56:00 GMT",
+      "time": "۰۵:۲۶ - ۱۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-04T04:01:34.854Z"
     }
   ]
 }
