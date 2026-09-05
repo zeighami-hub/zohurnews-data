@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "agencyId": "skynews",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_902a3eeebe",
@@ -78,6 +78,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-04T13:19:12.146Z"
+    },
+    {
+      "id": "skynews_153d58f17a",
+      "agencyId": "skynews",
+      "title": "About 80 dead in migrant boat tragedy",
+      "title_fa": "حدود ۸۰ کشته در فاجعه قایق مهاجران",
+      "lead": "به گفته سازمان امداد دریایی اسپانیا، پس از دچار مشکل شدن یک قایق حامل مهاجران در نزدیکی سواحل گرن کاناریا، مرگ حدود ۸۰ نفر تأیید شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/about-80-confirmed-dead-after-migrant-boat-gets-into-difficulty-off-gran-canaria-13580794",
+      "pubDate": "Thu, 03 Sep 2026 12:01:00 +0100",
+      "time": "۱۴:۳۱ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-04T13:49:29.050Z"
     }
   ]
 }
