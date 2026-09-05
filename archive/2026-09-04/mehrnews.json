@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "mehrnews_b139b0445f",
@@ -40,6 +40,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-04T06:16:25.549Z"
+    },
+    {
+      "id": "mehrnews_7385db876a",
+      "agencyId": "mehrnews",
+      "title": "Reuters analysis confirms US directly hit wedding in Iran",
+      "title_fa": "تحلیل رویترز اصابت مستقیم آمریکا به مراسم عروسی در ایران را تایید کرد",
+      "lead": "تحلیل خبرگزاری رویترز از ویدئوها و تصاویر صحنه حمله هوایی آمریکا به یک مراسم عروسی در ایران حاکی از آن است که انفجار احتمالاً ناشی از اصابت مستقیم یک مهمات آمریکایی بوده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/247427/Reuters-analysis-confirms-US-directly-hit-wedding-in-Iran",
+      "pubDate": "Fri, 04 Sep 2026 06:21:08 GMT",
+      "time": "۰۹:۵۱ - ۱۳ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-04T06:31:39.949Z"
+    },
+    {
+      "id": "mehrnews_709f2fd3df",
+      "agencyId": "mehrnews",
+      "title": "Reducing UN mission to prevent war btw superpowers misleading",
+      "title_fa": "تقلیل ماموریت سازمان ملل برای جلوگیری از جنگ بین ابرقدرت‌ها گمراه‌کننده است",
+      "lead": "سخنگوی وزارت امور خارجه ایران با اشاره به اظهارات دبیرکل سازمان ملل درباره عملکرد این نهاد در جلوگیری از جنگ، تقلیل ماموریت سازمان ملل به جلوگیری از جنگ میان ابرقدرت‌ها را رویکردی گمراه‌کننده و خطرناک دانست.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247418/Reducing-UN-mission-to-prevent-war-btw-superpowers-misleading",
+      "pubDate": "Thu, 03 Sep 2026 05:58:38 GMT",
+      "time": "۰۹:۲۸ - ۱۲ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-04T06:31:39.949Z"
     }
   ]
 }
