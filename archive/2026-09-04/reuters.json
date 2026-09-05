@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "agencyId": "reuters",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "reuters_f87b3dbc9c",
@@ -21,6 +21,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-04T02:16:13.148Z"
+    },
+    {
+      "id": "reuters_3d03f4c31b",
+      "agencyId": "reuters",
+      "title": "Oil set for steepest weekly gain since mid-July over intensifying US-Iran tensions - Reuters",
+      "title_fa": "ثبت بیشترین افزایش هفتگی قیمت نفت از اواسط ماه ژوئیه به دلیل تشدید تنش‌های آمریکا و ایران",
+      "lead": "قیمت نفت در پی تشدید تنش‌ها میان ایالات متحده و ایران، در مسیر ثبت بیشترین رشد هفتگی خود از اواسط ماه ژوئیه قرار گرفت.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 01:28:00 GMT",
+      "time": "۰۴:۵۸ - ۱۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-04T03:01:36.344Z"
+    },
+    {
+      "id": "reuters_8b317ccebb",
+      "agencyId": "reuters",
+      "title": "Oil prices hit fresh 6-week highs on renewed Middle East tensions - Reuters",
+      "title_fa": "قیمت نفت به دنبال تنش‌های تازه در خاورمیانه به بالاترین میزان در ۶ هفته اخیر رسید",
+      "lead": "به دنبال اوج‌گیری دوباره تنش‌ها در منطقه خاورمیانه، بهای معاملات نفت خام رکوردهای جدیدی را در ۶ هفته اخیر به ثبت رساند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5vakhhby03N0RCUHNMTU1jY1F4OGdsMmt2cThTLW5hU0VNM181YUVwYW1wSlJsbGoweDQtd3ROSTFfMDhUSGpWMHI5WG9qeTByTGJpVTRZaER0dGlwZ1BULXVRUzlPemRSOC1ranltaDQ0QjJ4OWMwWTRrNjJ6eDdkaExIMjFiVDJlbUxZcTU2Sk1DRE1uNTR5SkdPM0VJanktVUI1RkNpcXoxRkxBN1lkUDRnUQ?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 00:46:00 GMT",
+      "time": "۰۴:۱۶ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-04T03:01:36.344Z"
     }
   ]
 }
