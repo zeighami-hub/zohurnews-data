@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "nytimes_76ef4c2733",
@@ -21,6 +21,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-04T00:01:30.332Z"
+    },
+    {
+      "id": "nytimes_bdbf114d8f",
+      "agencyId": "nytimes",
+      "title": "Israel Says It Cleared Tunnels to Strategic Hezbollah Fortress in Lebanon",
+      "title_fa": "اسرائیل می‌گوید تونل‌های منتهی به دژ استراتژیک حزب‌الله در لبنان را پاکسازی کرده است",
+      "lead": "این عملیات که از ماه ژوئن آغاز شده و همچنان ادامه دارد، همزمان با بالا گرفتن دوباره درگیری‌ها میان ایالات متحده و ایران انجام شد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html",
+      "pubDate": "Fri, 04 Sep 2026 01:42:01 +0000",
+      "time": "۰۵:۱۲ - ۱۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-04T02:01:36.047Z"
     }
   ]
 }
