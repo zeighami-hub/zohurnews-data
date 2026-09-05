@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "agencyId": "bbc",
-  "total": 10,
+  "total": 15,
   "articles": [
     {
       "id": "bbc_4431aba831",
@@ -192,6 +192,101 @@
         "negative": 65
       },
       "analyzed_at": "2026-09-04T10:02:28.725Z"
+    },
+    {
+      "id": "bbc_bcdfd5c590",
+      "agencyId": "bbc",
+      "title": "US diesel prices hit an all-time-high",
+      "title_fa": "قیمت گازوئیل در ایالات متحده به بالاترین حد خود رسید",
+      "lead": "به دنبال آغاز درگیری‌ها با ایران در اواخر ماه فوریه و همگام با جهش قیمت عمده‌فروشی نفت، بهای سوخت به شدت افزایش یافته است.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 09:59:50 GMT",
+      "time": "۱۳:۲۹ - ۱۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-04T10:16:47.258Z"
+    },
+    {
+      "id": "bbc_6013d6eb01",
+      "agencyId": "bbc",
+      "title": "Kenya's chai lovers are not happy as the nation's cows run dry",
+      "title_fa": "با خشک شدن دام‌های کشور، چای‌نوشان کنیایی ناراضی هستند",
+      "lead": "قفسه فروشگاه‌ها خالی می‌شود، فروشندگان سهمیه‌بندی می‌کنند و قیمت‌ها در حال افزایش است.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 00:28:56 GMT",
+      "time": "۰۳:۵۸ - ۱۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-04T10:16:47.258Z"
+    },
+    {
+      "id": "bbc_5f5dae8df1",
+      "agencyId": "bbc",
+      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
+      "title_fa": "بازماندگان کشتار شارپویل مبارزه حقوقی برای اجرای عدالت را در آفریقای جنوبی آغاز کردند",
+      "lead": "حداقل ۶۹ نفر در سال ۱۹۶۰ به ضرب گلوله کشته شدند، اما هیچ‌کس تحت پیگرد قانونی قرار نگرفته و قربانیان خواستار دریافت غرامت هستند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 11:49:50 GMT",
+      "time": "۱۵:۱۹ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-04T10:16:47.258Z"
+    },
+    {
+      "id": "bbc_96b03c786a",
+      "agencyId": "bbc",
+      "title": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
+      "title_fa": "«جمعیت فریاد زد که ما تناسلی را دزدیده‌ایم»؛ انتشار شایعات مرگبار در شبکه‌های اجتماعی",
+      "lead": "یافته‌های بی‌بی‌سی پس از جمع‌آوری داده‌ها از شش کشور آفریقایی نشان می‌دهد که بیش از ۸۰ نفر در خشونت‌های اوباش کشته شده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 00:58:50 GMT",
+      "time": "۰۴:۲۸ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-04T10:16:47.258Z"
+    },
+    {
+      "id": "bbc_8b966c5a62",
+      "agencyId": "bbc",
+      "title": "Why Nepal floods should worry India",
+      "title_fa": "چرا سیل‌های نپال باید مایه نگرانی هند باشد؟",
+      "lead": "این فاجعه به عنوان یک هشدار در زمانی مطرح می‌شود که تغییرات اقلیمی خطرات مشترک هیمالیا را افزایش می‌دهد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 00:58:44 GMT",
+      "time": "۰۴:۲۸ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-04T10:16:47.258Z"
     }
   ]
 }
