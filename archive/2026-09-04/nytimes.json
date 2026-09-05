@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_76ef4c2733",
@@ -458,6 +458,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-04T16:39:15.997Z"
+    },
+    {
+      "id": "nytimes_d954ee2da2",
+      "agencyId": "nytimes",
+      "title": "Russian Drone Strikes Office of Ukraine’s Intelligence Chief",
+      "title_fa": "حمله پهپادی روسیه به دفتر رئیس اطلاعات اوکراین",
+      "lead": "این حمله همزمان با برنامه‌ریزی سفر قریب‌الوقوع استیو ویتکاف و جرد کوشنر، فرستادگان آمریکایی، به کی‌یف و مسکو انجام شد. دفتر رئیس اطلاعات اوکراین هدف اصابت پهپاد روسی قرار گرفت.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html",
+      "pubDate": "Fri, 04 Sep 2026 15:41:24 +0000",
+      "time": "۱۹:۱۱ - ۱۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-09-04T16:50:41.855Z"
+    },
+    {
+      "id": "nytimes_b721c8e488",
+      "agencyId": "nytimes",
+      "title": "U.A.E. Pardons Egyptian Dissident Sentenced to 10 Years in Prison",
+      "title_fa": "امارات متحده عربی یک مخالف مصری محکوم به ۱۰ سال زندان را عفو کرد",
+      "lead": "عبدالرحمن القرضاوی پس از انتقاد از دولت امارات از لبنان به این کشور مسترد شده بود. این پرونده که در یک متحد نزدیک ایالات متحده جریان داشت، مایه نگرانی کارشناسان حقوق بشر شده بود.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/04/world/middleeast/lebanon-uae-pardon-egypt-dissident.html",
+      "pubDate": "Fri, 04 Sep 2026 14:14:29 +0000",
+      "time": "۱۷:۴۴ - ۱۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-04T16:50:41.855Z"
     }
   ]
 }
