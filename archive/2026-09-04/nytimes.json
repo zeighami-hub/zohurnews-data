@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_76ef4c2733",
@@ -249,6 +249,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-04T09:17:04.217Z"
+    },
+    {
+      "id": "nytimes_d9d2f98d07",
+      "agencyId": "nytimes",
+      "title": "How Do You Run for Office in a Gang War?",
+      "title_fa": "چگونه در میان جنگ باندهای گانگستری برای انتخابات نامزد شوید؟",
+      "lead": "مقامات انتخاباتی هائیتی تاریخ برگزاری انتخابات را برای ۱۳ دسامبر تعیین کرده‌اند، اما بسیاری از کارشناسان معتقدند خشونت شدید احتمالاً بار دیگر باعث به تعویق افتادن آن خواهد شد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html",
+      "pubDate": "Fri, 04 Sep 2026 01:37:33 +0000",
+      "time": "۰۵:۰۷ - ۱۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-04T09:46:44.415Z"
+    },
+    {
+      "id": "nytimes_0f92f8773f",
+      "agencyId": "nytimes",
+      "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
+      "title_fa": "مارپیچ رو به تشدید درگیری‌ها میان روسیه و اوکراین بدون هیچ چشم‌اندازی برای پایان",
+      "lead": "هر دو طرف با استفاده از موشک‌ها و پهپادها تلاش می‌کنند یکدیگر را وادار به تسلیم کنند که این امر رنج انسانی بی‌پایانی را به همراه داشته است. با این حال، هیچ نشانه‌ای مبنی بر تضعیف اراده هیچ‌یک از دو کشور دیده نمی‌شود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
+      "pubDate": "Thu, 03 Sep 2026 11:35:45 +0000",
+      "time": "۱۵:۰۵ - ۱۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-04T09:46:44.415Z"
     }
   ]
 }
