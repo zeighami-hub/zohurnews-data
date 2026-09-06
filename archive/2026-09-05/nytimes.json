@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_6707faf7e1",
@@ -211,6 +211,63 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-05T09:33:28.774Z"
+    },
+    {
+      "id": "nytimes_00eee67c2d",
+      "agencyId": "nytimes",
+      "title": "Trump Envoys Arrive in Moscow for Talks on Ukraine War",
+      "title_fa": "فرستاده‌های ترامپ برای گفتگو درباره جنگ اوکراین وارد مسکو شدند",
+      "lead": "استیو ویتکاف، فرستاده ویژه رئیس‌جمهور ترامپ، و جرد کوشنر، داماد او، قصد دارند در تلاش برای احیای مذاکرات صلح بین روسیه و اوکراین، به کی‌یف نیز سفر کنند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+      "pubDate": "Sat, 05 Sep 2026 10:05:20 +0000",
+      "time": "۱۳:۳۵ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-05T10:16:35.040Z"
+    },
+    {
+      "id": "nytimes_9735a78223",
+      "agencyId": "nytimes",
+      "title": "Chinese Worker Rescued From Tunnel in Nepal 10 Days After Floods",
+      "title_fa": "نجات یک کارگر چینی از تونلی در نپال ۱۰ روز پس از وقوع سیل",
+      "lead": "این نجات غیرمنتظره یک روز پس از آن صورت گرفت که دو کارگر دیگر از یک تونل مدفون‌شده بیرون کشیده شدند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
+      "pubDate": "Sat, 05 Sep 2026 10:02:08 +0000",
+      "time": "۱۳:۳۲ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-05T10:16:35.040Z"
+    },
+    {
+      "id": "nytimes_84b9bc36ee",
+      "agencyId": "nytimes",
+      "title": "Following Stolen Cars From Canada to Russia",
+      "title_fa": "ردگیری خودروهای مسروقه از کانادا تا روسیه",
+      "lead": "دو روزنامه‌نگار تحقیقی روزنامه نیویورک تایمز توانستند کشف کنند که بسیاری از خودروهای لوکسی که به سفارش خریداران در کانادا به سرقت می‌روند، در نهایت به کجا فرستاده می‌شوند و انگیزه پشت آن چیست.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/canada/stolen-cars-canada-russia-trade-war-tariffs.html",
+      "pubDate": "Sat, 05 Sep 2026 10:00:12 +0000",
+      "time": "۱۳:۳۰ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 15,
+        "neutral": 75,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-05T10:16:35.040Z"
     }
   ]
 }
