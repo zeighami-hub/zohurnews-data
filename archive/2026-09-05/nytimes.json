@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 8,
   "articles": [
     {
       "id": "nytimes_6707faf7e1",
@@ -40,6 +40,120 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-05T09:01:55.809Z"
+    },
+    {
+      "id": "nytimes_fa82f78ceb",
+      "agencyId": "nytimes",
+      "title": "The Fall of James Orr, the Man Called Farage’s Brain",
+      "title_fa": "تعلیق جیمز اور از حزب ریفرم بریتانیا",
+      "lead": "جیمز اور، چهره نزدیک به پیتر تیه‌ل و جی‌دی ونس، پس از انتشار تصاویری که او را در حال هماهنگی کمک‌های مالی از فردی با هویت ساختگی به عنوان اهداکننده خارجی نشان می‌داد، از حزب ریفرم بریتانیا تعلیق شد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/europe/reform-uk-james-orr-expose.html",
+      "pubDate": "Sat, 05 Sep 2026 09:11:14 +0000",
+      "time": "۱۲:۴۱ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-05T09:17:04.569Z"
+    },
+    {
+      "id": "nytimes_0efdefd11f",
+      "agencyId": "nytimes",
+      "title": "After Months at War, Brief Solace in a Party Town Far From Home",
+      "title_fa": "توقف کوتاه‌مدت در تایلند؛ آرامشی موقت برای نظامیان آمریکایی دور از خانه",
+      "lead": "توقف در تایلند استراحتی خوشایند برای هزاران نظامی مستقر در ناو هواپیمابر یواس‌اس ابراهیم لینکلن پس از یک ماموریت طاقت‌فرسا بود، هرچند که این توقف تمام خستگی آن‌ها را برطرف نکرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/asia/uss-abraham-lincoln-thailand-pattaya.html",
+      "pubDate": "Sat, 05 Sep 2026 09:04:04 +0000",
+      "time": "۱۲:۳۴ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-05T09:17:04.569Z"
+    },
+    {
+      "id": "nytimes_e07bdf6446",
+      "agencyId": "nytimes",
+      "title": "Secret Dossier Adds to Evidence of Chemical Weapons in Sudan",
+      "title_fa": "پرونده محرمانه شواهد استفاده از سلاح‌های شیمیایی در سودان را افزایش می‌دهد",
+      "lead": "این اسناد اتهاماتی را تقویت می‌کند که ارتش سودان برای کسب برتری در جنگ داخلی ویرانگر این کشور، بمب‌های سمی تولید و استفاده کرده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/africa/sudan-chemical-weapons-war.html",
+      "pubDate": "Sat, 05 Sep 2026 09:02:51 +0000",
+      "time": "۱۲:۳۲ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-05T09:17:04.569Z"
+    },
+    {
+      "id": "nytimes_dcfed450d9",
+      "agencyId": "nytimes",
+      "title": "Flee, Hide or Sit Tight? Russians Are on Edge Over Rumors of a Draft.",
+      "title_fa": "فرار، پنهان شدن یا صبر کردن؟ روس‌ها بر سر شایعات سربازی اجباری نگران هستند",
+      "lead": "کرملین آماده‌سازی برای بسیج عمومی را تکذیب کرده است، اما برخی از مردان در سن خدمت نظامی هیچ ریسکی نمی‌کنند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
+      "pubDate": "Sat, 05 Sep 2026 09:02:35 +0000",
+      "time": "۱۲:۳۲ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 45,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-05T09:17:04.569Z"
+    },
+    {
+      "id": "nytimes_6fbbe6fbc1",
+      "agencyId": "nytimes",
+      "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+      "title_fa": "کنیایی‌ها با نوشتن مقالات دانشگاهی امرار معاش می‌کردند. سپس هوش مصنوعی فرا رسید.",
+      "lead": "هزاران کنیایی از طریق نوشتن مقاله برای دانشجویان خارج از کشور امرار معاش می‌کردند. با آمدن هوش مصنوعی، این کار از بین رفته است که هشدار برای کارهای آنلاین موقتی محسوب می‌شود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+      "pubDate": "Sat, 05 Sep 2026 09:02:13 +0000",
+      "time": "۱۲:۳۲ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-05T09:17:04.569Z"
+    },
+    {
+      "id": "nytimes_a3fd4231b2",
+      "agencyId": "nytimes",
+      "title": "A Glitz-Free Place Named for Trump? Welcome to the Golan Heights.",
+      "title_fa": "مکانی بدون تجملات به نام ترامپ؟ به بلندی‌های جولان خوش آمدید.",
+      "lead": "این روستای ساده از خانه‌های پیش‌ساخته هیچ‌کدام از زیبایی‌شناسی‌های طلاکاری شده ترامپ را ندارد و اسرائیلی‌های ساکن آن از اینکه به عنوان معیاری برای دیدگاه متغیر کشورشان نسبت به رئیس‌جمهور دیده شوند، خسته شده‌اند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/middleeast/israel-golan-trump-heights.html",
+      "pubDate": "Sat, 05 Sep 2026 09:00:23 +0000",
+      "time": "۱۲:۳۰ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-05T09:17:04.569Z"
     }
   ]
 }
