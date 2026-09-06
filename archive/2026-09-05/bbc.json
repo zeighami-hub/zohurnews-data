@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "agencyId": "bbc",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "bbc_ad711b3bc4",
@@ -40,6 +40,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-05T01:31:20.385Z"
+    },
+    {
+      "id": "bbc_8a07186afe",
+      "agencyId": "bbc",
+      "title": "Tate brothers charged with further trafficking and sex crimes in Romania",
+      "title_fa": "اتهامات جدید قاچاق و جرایم جنسی علیه برادران تیت در رومانی",
+      "lead": "اندرو و تریستان تیت در حال حاضر در زندانی در میامی به سر می‌برند و با استرداد به بریتانیا به دلیل اتهامات جداگانه مبارزه می‌کنند. آن‌ها تمام اتهامات مطرح‌شده را رد کرده‌اند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 02:29:21 GMT",
+      "time": "۰۵:۵۹ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-05T02:46:11.974Z"
+    },
+    {
+      "id": "bbc_bff3ecf43b",
+      "agencyId": "bbc",
+      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+      "title_fa": "« انتظار داریم پسرانمان کشته شوند»، سخنان پدر نوجوان کشته شده در کرانه باختری به بی‌بی‌سی",
+      "lead": "عمر النعسان و خلیل ابوعالیا، نوجوانان فلسطینی، پس از ورود شهرک‌نشینان و سربازان اسرائیلی به روستایی در کرانه باختری اشغالی به ضرب گلوله کشته شدند.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 12:39:05 GMT",
+      "time": "۱۶:۰۹ - ۱۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-05T02:46:11.974Z"
     }
   ]
 }
