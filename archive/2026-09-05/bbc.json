@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "agencyId": "bbc",
-  "total": 18,
+  "total": 19,
   "articles": [
     {
       "id": "bbc_ad711b3bc4",
@@ -344,6 +344,25 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-05T13:46:32.223Z"
+    },
+    {
+      "id": "bbc_2e633eccf7",
+      "agencyId": "bbc",
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "title_fa": "ایالات متحده پس از اعلام هدف قرار گرفتن ناوهای جنگی خود، به سه تانکر نفتکش ایرانی حمله کرد",
+      "lead": "ستاد فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد که این حملات پس از آن صورت گرفت که ایران به سمت دو فروند از ناوهای جنگی نیروی دریایی این کشور موشک‌های بالستیک شلیک کرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 14:40:53 GMT",
+      "time": "۱۸:۱۰ - ۱۴ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-05T14:46:32.611Z"
     }
   ]
 }
