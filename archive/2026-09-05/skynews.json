@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_c69464c98c",
@@ -21,6 +21,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-05T03:46:29.678Z"
+    },
+    {
+      "id": "skynews_726a1d3c75",
+      "agencyId": "skynews",
+      "title": "Boy dies after car hit by train",
+      "title_fa": "مرگ یک پسربچه پس از تصادف خودرو با قطار",
+      "lead": "یک پسربچه ۱۲ ساله پس از اینکه خودروی حامل او با یک قطار در شهرستان مایو در ایرلند تصادف کرد، جان خود را از دست داد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/boy-dies-after-car-hit-by-train-on-level-crossing-in-co-mayo-13581117",
+      "pubDate": "Fri, 04 Sep 2026 08:36:00 +0100",
+      "time": "۱۱:۰۶ - ۱۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-05T08:02:03.798Z"
     }
   ]
 }
