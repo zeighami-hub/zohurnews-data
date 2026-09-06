@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "agencyId": "economist",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "economist_89231b7a21",
@@ -40,6 +40,25 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-05T15:16:31.680Z"
+    },
+    {
+      "id": "economist_4ad0c45fb2",
+      "agencyId": "economist",
+      "title": "The Iran war is consuming the Trump presidency",
+      "title_fa": "جنگ ایران، ریاست جمهوری ترامپ را تحت تأثیر قرار داده است",
+      "lead": "دونالد ترامپ ممکن است از شنیدن آن بیزار باشد، اما باراک اوباما درباره اجتناب از اقدامات احمقانه حق داشت.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.economist.com/international/2026/07/21/the-iran-war-is-consuming-the-trump-presidency",
+      "pubDate": "Tue, 21 Jul 2026 20:42:32 +0000",
+      "time": "۰۰:۱۲ - ۳۱ تیر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 50,
+        "negative": 45
+      },
+      "analyzed_at": "2026-09-05T17:31:29.820Z"
     }
   ]
 }
