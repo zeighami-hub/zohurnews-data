@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "agencyId": "skynews",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "skynews_c69464c98c",
@@ -154,6 +154,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-05T21:16:14.850Z"
+    },
+    {
+      "id": "skynews_ffea8e8991",
+      "agencyId": "skynews",
+      "title": "Trump avoids backing UK over Falklands, saying Britain 'not there to help' in Iran",
+      "title_fa": "ترامپ از حمایت از بریتانیا در خصوص جزایر فالکلند خودداری کرد و گفت بریتانیا در قضیه ایران «برای کمک آنجا نبود»",
+      "lead": "دونالد ترامپ از تعهد به کمک به بریتانیا در یک درگیری بالقوه بر سر جزایر فالکلند خودداری کرد و گفت که این کشور در جنگ ایران «برای کمک به او آنجا نبوده است».",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/trump-avoids-backing-uk-over-falklands-saying-britain-not-there-to-help-in-iran-13581044",
+      "pubDate": "Thu, 03 Sep 2026 21:35:00 +0100",
+      "time": "۰۰:۰۵ - ۱۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-05T23:01:22.342Z"
+    },
+    {
+      "id": "skynews_cfec22e204",
+      "agencyId": "skynews",
+      "title": "Three hurricanes in Pacific show the power of El Nino",
+      "title_fa": "سه طوفان در اقیانوس آرام قدرت پدیده ال نینو را نشان می‌دهند",
+      "lead": "سه طوفان همزمان در اقیانوس آرام سطحی از فعالیت‌های تشدید شده را نشان می‌دهند که با پدیده آب و هوایی ال نینو همخوانی دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/three-hurricanes-in-pacific-show-the-power-of-el-nino-13581570",
+      "pubDate": "Fri, 04 Sep 2026 22:29:00 +0100",
+      "time": "۰۰:۵۹ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-05T23:01:22.342Z"
     }
   ]
 }
