@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "agencyId": "bbc",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "bbc_ad711b3bc4",
@@ -306,6 +306,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-05T12:01:53.618Z"
+    },
+    {
+      "id": "bbc_7151d43e48",
+      "agencyId": "bbc",
+      "title": "What different world maps get right - and what they get wrong",
+      "title_fa": "نقشه‌های مختلف جهان چه چیزی را درست و چه چیزی را نادرست نشان می‌دهند",
+      "lead": "همزمان با پذیرش نقشه جدید جهانی از سوی سازمان ملل برای بازتاب اندازه واقعی قاره آفریقا، این گزارش نگاهی دقیق‌تر به نقاط قوت و ضعف نقشه‌های مختلف جهان می‌اندازد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 13:46:02 GMT",
+      "time": "۱۷:۱۶ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-05T14:01:37.299Z"
+    },
+    {
+      "id": "bbc_cd94bb03bc",
+      "agencyId": "bbc",
+      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "title_fa": "پیکر جوان‌ترین پادشاه سنتی جهان در میان مناقشات جانشینی به اوگاندا بازگشت",
+      "lead": "پادشاه اویو هفته گذشته در سن ۳۴ سالگی پس از درمان نوعی سرطان تهاجمی در ایالات متحده درگذشت. پیکر او در میان اختلافات پیرامون جانشینی به کشورش بازگردانده شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 13:00:44 GMT",
+      "time": "۱۶:۳۰ - ۱۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-05T13:46:32.223Z"
     }
   ]
 }
