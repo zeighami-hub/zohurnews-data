@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_6707faf7e1",
@@ -306,6 +306,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-05T11:01:53.026Z"
+    },
+    {
+      "id": "nytimes_7d2c6ae22e",
+      "agencyId": "nytimes",
+      "title": "Iran’s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg",
+      "title_fa": "رسانه‌های دولتی ایران: موشک‌های آمریکایی به یک نفتکش ایرانی در نزدیکی خارگ اصابت کردند",
+      "lead": "ارتش ایالات متحده حمله به نفتکش را تایید نکرده است. این گزارش‌ها پس از سلسله حملات تلافی‌جویانه آمریکا در پاسخ به حملات ایران به کشتی‌ها و نیروهای آمریکایی منتشر شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
+      "pubDate": "Sat, 05 Sep 2026 11:39:55 +0000",
+      "time": "۱۵:۰۹ - ۱۴ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-05T11:46:27.505Z"
     }
   ]
 }
