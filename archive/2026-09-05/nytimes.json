@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_6707faf7e1",
@@ -382,6 +382,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-05T20:16:29.971Z"
+    },
+    {
+      "id": "nytimes_7ecb4be706",
+      "agencyId": "nytimes",
+      "title": "Netanyahu Posts A.I. Video Pairing Mamdani With Iranian Ruler",
+      "title_fa": "نتانیاهو ویدیوی هوش مصنوعی از ممدانی و رهبر ایران منتشر کرد",
+      "lead": "این ویدیو صحنه‌های ساختگی از شهردار زوهران ممدانی را نشان می‌دهد که با آیت‌الله مجتبی خامنه‌ای و دیگران به مناسبت احتمال شکست نتانیاهو در انتخابات جشن می‌گیرد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/09/04/world/middleeast/netanyahu-ai-video-mamdani.html",
+      "pubDate": "Fri, 04 Sep 2026 20:34:35 +0000",
+      "time": "۰۰:۰۴ - ۱۴ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-05T21:16:14.850Z"
     }
   ]
 }
