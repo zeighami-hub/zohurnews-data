@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "mehrnews_1c84909aa3",
@@ -40,6 +40,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-05T04:01:29.821Z"
+    },
+    {
+      "id": "mehrnews_22227e675d",
+      "agencyId": "mehrnews",
+      "title": "Diesel price hit a record high in US amid Iran war",
+      "title_fa": "رکوردشکنی قیمت گازوئیل در آمریکا در پی تنش‌ها",
+      "lead": "قیمت گازوئیل در ایالات متحده آمریکا همزمان با پیامدهای تنش‌ها به بالاترین حد خود رسید. پیش‌بینی می‌شود قیمت سایر کالاها از جمله پوشاک، لوازم آرایشی و مبلمان که با کامیون‌های دیزلی جابه‌جا می‌شوند نیز افزایش یابد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247440/Diesel-price-hit-a-record-high-in-US-amid-Iran-war",
+      "pubDate": "Sat, 05 Sep 2026 05:11:16 GMT",
+      "time": "۰۸:۴۱ - ۱۴ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-05T05:16:29.114Z"
+    },
+    {
+      "id": "mehrnews_a6704838bc",
+      "agencyId": "mehrnews",
+      "title": "Iran warns US citizens against debt recruitment",
+      "title_fa": "هشدار ایران به شهروندان آمریکایی درباره جذب نیرو به دلیل بدهی",
+      "lead": "سخنگوی وزارت امور خارجه ایران از شهروندان آمریکایی خواست پیشنهاد اسرائیل برای جذب دانشجویان بدهکار آمریکایی جهت جنگیدن در یک جنگ غیرقانونی علیه ایران را رد کنند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247439/Iran-warns-US-citizens-against-debt-recruitment",
+      "pubDate": "Sat, 05 Sep 2026 04:57:00 GMT",
+      "time": "۰۸:۲۷ - ۱۴ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-05T05:02:14.834Z"
     }
   ]
 }
