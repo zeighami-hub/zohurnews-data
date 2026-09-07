@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "mehrnews_6b90adbefc",
@@ -40,6 +40,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-06T03:46:19.766Z"
+    },
+    {
+      "id": "mehrnews_6d4bcffb01",
+      "agencyId": "mehrnews",
+      "title": "IRGC hits US aircraft carrier, destroyer with missiles",
+      "title_fa": "سپاه پاسداران ناو هواپیمابر و ناو شکن آمریکایی را با موشک هدف قرار داد",
+      "lead": "سپاه پاسداران انقلاب اسلامی ایران اعلام کرد که روز یکشنبه یک فروند ناو هواپیمابر و یک ناو شکن آمریکایی را با چندین موشک بالستیک هدف قرار داده است. به گفته سپاه، این شناورها پس از متحمل شدن خسارت مجبور به فرار از منطقه درگیری شدند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/247471/IRGC-hits-US-carrier-destroyer-with-missiles",
+      "pubDate": "Sun, 06 Sep 2026 04:03:54 GMT",
+      "time": "۰۷:۳۳ - ۱۵ شهریور",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-06T04:16:31.064Z"
+    },
+    {
+      "id": "mehrnews_032b61f1b1",
+      "agencyId": "mehrnews",
+      "title": "At least 7 Palestinians injured in Israeli attacks on Gaza",
+      "title_fa": "دست کم ۷ فلسطینی در حملات اسرائیل به غزه زخمی شدند",
+      "lead": "حملات نظامیان اسرائیلی به غزه دست کم هفت فلسطینی از جمله دو کودک را زخمی کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247472/At-least-7-Palestinians-injured-in-Israeli-attacks-on-Gaza",
+      "pubDate": "Sun, 06 Sep 2026 04:13:39 GMT",
+      "time": "۰۷:۴۳ - ۱۵ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-06T04:16:31.064Z"
     }
   ]
 }
