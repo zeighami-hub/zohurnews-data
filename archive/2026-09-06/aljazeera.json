@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "agencyId": "aljazeera",
-  "total": 43,
+  "total": 45,
   "articles": [
     {
       "id": "aljazeera_01dc74ce88",
@@ -819,6 +819,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-06T17:01:40.329Z"
+    },
+    {
+      "id": "aljazeera_e4a737efee",
+      "agencyId": "aljazeera",
+      "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
+      "title_fa": "مقام دولت ترامپ: ممکن است توافق هسته‌ای با ایران شکل نگیرد",
+      "lead": "اظهارات کریس راایت، وزیر انرژی ایالات متحده، می‌تواند نشان‌دهنده این باشد که امیدهای آمریکا برای دستیابی به یک توافق هسته‌ای با ایران در حال رنگ باختن است.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
+      "pubDate": "Sun, 06 Sep 2026 16:59:04 +0000",
+      "time": "۲۰:۲۹ - ۱۵ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-06T17:31:57.101Z"
+    },
+    {
+      "id": "aljazeera_d13e960941",
+      "agencyId": "aljazeera",
+      "title": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
+      "title_fa": "مقاومت کشاورزان فلسطینی در برابر خرابکاری شهرک‌نشینان برای نجات محصولات و دام‌ها در الخلیل",
+      "lead": "کشاورزان کرانه باختری برای محافظت از اراضی خود در برابر حملات روزمره شهرک‌نشینان، سرقت دام‌ها و محدودیت‌های نظامی مقاومت می‌کنند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
+      "pubDate": "Sun, 06 Sep 2026 17:03:20 +0000",
+      "time": "۲۰:۳۳ - ۱۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-06T17:31:57.101Z"
     }
   ]
 }
