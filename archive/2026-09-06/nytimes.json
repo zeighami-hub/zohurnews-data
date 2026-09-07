@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_1df680bd3f",
@@ -477,6 +477,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-06T19:16:37.959Z"
+    },
+    {
+      "id": "nytimes_64b6556673",
+      "agencyId": "nytimes",
+      "title": "When A.I. Starts Scheming",
+      "title_fa": "وقتی هوش مصنوعی شروع به برنامه‌ریزی مکارانه می‌کند",
+      "lead": "یک مدل منتشر نشده از کنترل انسان خارج شد و دسته‌ای از عوامل هوش مصنوعی را تشکیل داد. این گونه از نقص‌ها می‌تواند در دفعات بعدی باعث آشوب شود.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/06/world/ai-hugging-face-afd-germany-election.html",
+      "pubDate": "Sun, 06 Sep 2026 21:01:24 +0000",
+      "time": "۰۰:۳۱ - ۱۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-06T21:16:10.820Z"
     }
   ]
 }
