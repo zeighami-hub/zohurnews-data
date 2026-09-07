@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_1df680bd3f",
@@ -268,6 +268,101 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-06T09:46:46.079Z"
+    },
+    {
+      "id": "nytimes_14f57fb637",
+      "agencyId": "nytimes",
+      "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
+      "title_fa": "وضعیت مذاکرات صلح اوکراین در آستانه دور جدید",
+      "lead": "همزمان با نزدیک شدن به دور جدیدی از مذاکرات، کارزار مرگباری از حملات هوایی روسیه و اوکراین از زمان متوقف شدن آخرین دور مذاکرات با میانجی‌گری ایالات متحده در ماه فوریه تشدید شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html",
+      "pubDate": "Sat, 05 Sep 2026 12:47:42 +0000",
+      "time": "۱۶:۱۷ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 40,
+        "negative": 55
+      },
+      "analyzed_at": "2026-09-06T10:46:45.185Z"
+    },
+    {
+      "id": "nytimes_9735a78223",
+      "agencyId": "nytimes",
+      "title": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
+      "title_fa": "سیل در نپال خانه‌ای را مدفون کرد؛ زنی که در درون آن بود زنده ماند",
+      "lead": "عملیات نجات از یک خانه به طور عمده مدفون شده، امید تازه‌ای به شهری داد که از سیل در نپال ویران شده است. اوایل روز شنبه نیز بازمانده دیگری از یک تونل بیرون کشیده شده بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html",
+      "pubDate": "Sun, 06 Sep 2026 06:27:16 +0000",
+      "time": "۰۹:۵۷ - ۱۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-06T10:33:41.680Z"
+    },
+    {
+      "id": "nytimes_00eee67c2d",
+      "agencyId": "nytimes",
+      "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
+      "title_fa": "پوتین در مسکو با ویتکوف و کوشنر برای گفتگو درباره جنگ اوکراین دیدار کرد",
+      "lead": "ولادیمیر پوتین، رئیس‌جمهور روسیه، پیش از دیدار با جرد کوشنر داماد دونالد ترامپ و استیو ویتکوف، تاجر و فرستادگان رئیس‌جمهور آمریکا، دستور توقف موقت حملات به کی‌یف، پایتخت اوکراین را صادر کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+      "pubDate": "Sun, 06 Sep 2026 02:49:50 +0000",
+      "time": "۰۶:۱۹ - ۱۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-06T10:33:41.680Z"
+    },
+    {
+      "id": "nytimes_84b9bc36ee",
+      "agencyId": "nytimes",
+      "title": "Following Stolen Cars From Canada to Russia",
+      "title_fa": "ردگیری خودروهای مسروقه از کانادا تا روسیه",
+      "lead": "دو روزنامه‌نگار تحقیقی نیویورک تایمز بررسی کردند که بسیاری از خودروهای لوکسی که به سفارش در کانادا به سرقت رفته‌اند، در واقع به کجا می‌روند و دلیل آن چیست.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/canada/stolen-cars-canada-russia-trade-war-tariffs.html",
+      "pubDate": "Sat, 05 Sep 2026 10:00:12 +0000",
+      "time": "۱۳:۳۰ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-06T10:33:41.680Z"
+    },
+    {
+      "id": "nytimes_f7c3b06212",
+      "agencyId": "nytimes",
+      "title": "Scenic Route",
+      "title_fa": "مسیر خوش‌منظره",
+      "lead": "انتشارات جدید این فصل نقشه راه فرهنگی به ما ارائه می‌دهند، اما پاداش‌دهنده‌ترین مطالعه، گوش دادن و تماشا کردن از مسیرهای فرعی به دست می‌آید.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/briefing/scenic-route.html",
+      "pubDate": "Sat, 05 Sep 2026 09:56:32 +0000",
+      "time": "۱۳:۲۶ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-06T10:33:41.680Z"
     }
   ]
 }
