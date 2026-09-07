@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "agencyId": "bbc",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_c991608dfe",
@@ -363,6 +363,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-06T21:01:28.779Z"
+    },
+    {
+      "id": "bbc_03ae948411",
+      "agencyId": "bbc",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "title_fa": "محکومیت ۱۲ نفر از جمله یک مجری تلویزیون به اعدام در پرونده مواد مخدر مصر",
+      "lead": "سارا خلیفه که بیشتر به خاطر اجرای برنامه تلویزیونی «مأموریت غیرممکن» با موضوع جرائم شناخته می‌شود، در میان محکومان این پرونده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 08:05:22 GMT",
+      "time": "۱۱:۳۵ - ۱۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-06T22:01:31.675Z"
+    },
+    {
+      "id": "bbc_0527f11b1e",
+      "agencyId": "bbc",
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "title_fa": "شاهزاده ویلیام در مراسم تدفین پادشاه هارالد در نروژ شرکت می‌کند",
+      "lead": "شاهزاده ولز هفته آینده در اسلو به نمایندگی از پادشاه در مراسم خاکسپاری هارالد پنجم حضور خواهد یافت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 21:00:02 GMT",
+      "time": "۰۰:۳۰ - ۱۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-06T22:01:31.675Z"
     }
   ]
 }
