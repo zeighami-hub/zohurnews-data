@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "agencyId": "aljazeera",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "aljazeera_01dc74ce88",
@@ -306,6 +306,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-06T08:16:38.411Z"
+    },
+    {
+      "id": "aljazeera_f8da7d3081",
+      "agencyId": "aljazeera",
+      "title": "Israeli air attacks on Lebanon kill at least four",
+      "title_fa": "حملات هوایی اسرائیل به لبنان دست‌کم چهار کشته برجای گذاشت",
+      "lead": "شهرهای لبنان در مناطق نبطیه و مرجعیون آخر هفته‌ای پر از حملات هوایی، آتش توپخانه و پهپادی را پشت سر گذاشتند. این حملات کشته شدن دست‌کم چهار نفر را در پی داشت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
+      "pubDate": "Sun, 06 Sep 2026 09:15:20 +0000",
+      "time": "۱۲:۴۵ - ۱۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-06T09:32:38.508Z"
+    },
+    {
+      "id": "aljazeera_991af0bd0c",
+      "agencyId": "aljazeera",
+      "title": "Israel bombards several towns in southern Lebanon",
+      "title_fa": "اسرائیل چندین شهر در جنوب لبنان را بمباران کرد",
+      "lead": "ارتش اسرائیل چندین روستا را در جنوب لبنان در نقض توافق آتش‌بس منعقد شده در ماه ژوئن منفجر و تخریب کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
+      "pubDate": "Sun, 06 Sep 2026 08:44:03 +0000",
+      "time": "۱۲:۱۴ - ۱۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-06T09:16:50.320Z"
     }
   ]
 }
