@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "agencyId": "mehrnews",
-  "total": 15,
+  "total": 18,
   "articles": [
     {
       "id": "mehrnews_6b90adbefc",
@@ -287,6 +287,63 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-06T08:01:55.359Z"
+    },
+    {
+      "id": "mehrnews_a8a7aea9f0",
+      "agencyId": "mehrnews",
+      "title": "OIC denounces US strike on Iranian tanker in Persian Gulf",
+      "title_fa": "محکومیت حمله آمریکا به نفتکش ایرانی در خلیج فارس توسط سازمان همکاری اسلامی",
+      "lead": "نمایندگی ایران در سازمان همکاری اسلامی حمله آمریکا به یک نفتکش ایرانی را به شدت محکوم کرد و آن را یک اقدام بزدلانه خواند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247487/OIC-denounces-US-strike-on-Iranian-tanker-in-Persian-Gulf",
+      "pubDate": "Sun, 06 Sep 2026 09:13:47 GMT",
+      "time": "۱۲:۴۳ - ۱۵ شهریور",
+      "iranScore": 6,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-06T09:16:50.320Z"
+    },
+    {
+      "id": "mehrnews_c2a2bc6429",
+      "agencyId": "mehrnews",
+      "title": "US aircraft carriers within Iran's reach",
+      "title_fa": "ناوهای هواپیمابر آمریکا در تیررس ایران",
+      "lead": "یک تحلیل رسانه‌ای می‌گوید حمله موشکی بالستیک ایران به ناو و ناوشکن آمریکایی فراتر از یک رویداد میدانی است و معادله بازدارندگی منطقه‌ای را تغییر می‌دهد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/247486/US-aircraft-carriers-within-Iran-s-reach",
+      "pubDate": "Sun, 06 Sep 2026 09:09:15 GMT",
+      "time": "۱۲:۳۹ - ۱۵ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-06T09:16:50.320Z"
+    },
+    {
+      "id": "mehrnews_145bb1f9d5",
+      "agencyId": "mehrnews",
+      "title": "US attacks against Iranian oil vessels ‘act of desperation’",
+      "title_fa": "حملات آمریکا علیه شناورهای نفتی ایران «اقدامی از سر استیصال» است",
+      "lead": "نیک موترن، نویسنده و پژوهشگر، حملات آمریکا علیه نفتکش‌های ایرانی را نشانه استیصال و ناامیدی در سیاست‌های این کشور علیه ملت ایران دانست.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247485/US-attacks-against-Iranian-oil-vessels-act-of-desperation",
+      "pubDate": "Sun, 06 Sep 2026 08:50:24 GMT",
+      "time": "۱۲:۲۰ - ۱۵ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-06T09:16:50.320Z"
     }
   ]
 }
