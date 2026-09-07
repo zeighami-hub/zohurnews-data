@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_1df680bd3f",
@@ -363,6 +363,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-06T10:33:41.680Z"
+    },
+    {
+      "id": "nytimes_7d2c6ae22e",
+      "agencyId": "nytimes",
+      "title": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
+      "title_fa": "ارتش ایالات متحده سه تانکر نفتکش «شبکه سایه» ایران را هدف قرار داد",
+      "lead": "ارتش ایالات متحده اعلام کرد پس از شلیک موشک از سوی ایران به سمت دو ناو جنگی، دست به اقدام متقابل زده است. این حملات چند روز پس از شدیدترین تبادل آتش میان دو طرف در هفته‌های اخیر انجام شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html",
+      "pubDate": "Sat, 05 Sep 2026 23:47:38 +0000",
+      "time": "۰۳:۱۷ - ۱۵ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-06T12:01:56.579Z"
     }
   ]
 }
