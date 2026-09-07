@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "agencyId": "bbc",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "bbc_c991608dfe",
@@ -249,6 +249,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-06T14:16:36.445Z"
+    },
+    {
+      "id": "bbc_2e633eccf7",
+      "agencyId": "bbc",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "title_fa": "آمریکا and ایران حملات متقابل به کشتی‌ها را در پی بالا گرفتن تنش‌ها انجام دادند",
+      "lead": "ایالات متحده اعلام کرد که سه فروند نفتکش ایرانی را مورد اصابت قرار داده است، در حالی که ایران نیز از هدف قرار دادن سه کشتی مرتبط با آمریکا خبر داد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 22:44:07 GMT",
+      "time": "۰۲:۱۴ - ۱۵ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-06T15:16:25.990Z"
     }
   ]
 }
