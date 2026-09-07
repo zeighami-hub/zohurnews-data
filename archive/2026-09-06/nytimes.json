@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_1df680bd3f",
@@ -382,6 +382,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-06T12:01:56.579Z"
+    },
+    {
+      "id": "nytimes_e582e6d7e8",
+      "agencyId": "nytimes",
+      "title": "Live Updates: Germany’s Far Right Eyes Breakthrough in Regional Election",
+      "title_fa": "پوشش زنده: حزب راست افراطی آلمان به دنبال دستیابی به موفقیت در انتخابات ایالتی است",
+      "lead": "پیروزی حزب «آلترناتیو برای آلمان» در رای‌گیری ایالت شرقی زاکسن-آنهالت، یک حزب راست افراطی را برای نخستین بار از زمان جنگ جهانی دوم به قدرت می‌رساند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
+      "pubDate": "Sun, 06 Sep 2026 15:11:14 +0000",
+      "time": "۱۸:۴۱ - ۱۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-06T15:16:25.990Z"
+    },
+    {
+      "id": "nytimes_70b8333aa1",
+      "agencyId": "nytimes",
+      "title": "Crucial state election will have national implications.",
+      "title_fa": "انتخابات سرنوشت‌ساز ایالتی دارای پیامدهای ملی خواهد بود",
+      "lead": "یک انتخابات ایالتی مهم و سرنوشت‌ساز پیامدهای سراسری و ملی به دنبال خواهد داشت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/09/06/world/germany-election/polls-are-set-to-close-in-crucial-election",
+      "pubDate": "Sun, 06 Sep 2026 15:11:12 +0000",
+      "time": "۱۸:۴۱ - ۱۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-06T15:16:25.990Z"
     }
   ]
 }
