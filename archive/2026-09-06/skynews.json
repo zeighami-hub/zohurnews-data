@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "agencyId": "skynews",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "skynews_f4aa23f3cc",
@@ -21,6 +21,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-06T02:01:44.147Z"
+    },
+    {
+      "id": "skynews_c69464c98c",
+      "agencyId": "skynews",
+      "title": "Explosion kills at least two at military base in Bolivia with 14 missing",
+      "title_fa": "انفجار در یک پایگاه نظامی در بولیوی دست‌کم دو کشته و ۱۴ مفقود برجای گذاشت",
+      "lead": "مقام‌های بولیوی اعلام کردند بر اثر انفجار در یک پادگان نظامی در این کشور، دست‌کم دو نفر کشته و ۱۴ تن دیگر مفقود شده‌اند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/explosion-kills-at-least-10-at-bolivian-military-base-13581596",
+      "pubDate": "Sat, 05 Sep 2026 03:21:00 +0100",
+      "time": "۰۵:۵۱ - ۱۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-06T04:16:31.064Z"
     }
   ]
 }
