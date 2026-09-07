@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
   "agencyId": "bbc",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "bbc_c991608dfe",
@@ -287,6 +287,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-06T16:31:44.103Z"
+    },
+    {
+      "id": "bbc_553dec82c0",
+      "agencyId": "bbc",
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "title_fa": "هشدار ایران درباره پاسخ سریع‌تر، سنگین‌تر و دردناک‌تر به حملات ایالات متحده",
+      "lead": "این اظهارات یک روز پس از آن مطرح شد که واشنگتن اعلام کرد در واکنش به حملات تهران به ناوهای جنگی آمریکا در منطقه، تانکرهای نفت ایران را هدف قرار داده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 17:00:56 GMT",
+      "time": "۲۰:۳۰ - ۱۵ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-06T17:31:57.101Z"
+    },
+    {
+      "id": "bbc_08dc6be1c5",
+      "agencyId": "bbc",
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "title_fa": "حمله پهپادی روسیه به مقر امنیت اوکراین به گفته زلنسکی",
+      "lead": "بر اساس اظهارات ولودیمیر زلنسکی، این پهپاد بدون هشدار قبلی در قلب پایتخت اوکراین به هدف اصابت کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 16:02:32 GMT",
+      "time": "۱۹:۳۲ - ۱۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-06T17:31:57.101Z"
     }
   ]
 }
