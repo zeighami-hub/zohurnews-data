@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "bbc_6d5809f88b",
@@ -78,6 +78,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-07T00:16:12.227Z"
+    },
+    {
+      "id": "bbc_27ef146c75",
+      "agencyId": "bbc",
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "title_fa": "سقوط هواپیمای باربری در فرودگاه میامی پنج کشته برجای گذاشت",
+      "lead": "به گفته مقامات رسمی، بر اثر انحراف یک فروند هواپیمای باربری بوئینگ ۷۶۷-۳۰۰ از باند فرودگاه و آتش گرفتن آن در میامی، پنج نفر کشته و پنج نفر دیگر به‌شدت مجروح شدند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 00:57:38 GMT",
+      "time": "۰۴:۲۷ - ۱۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-07T01:01:47.755Z"
+    },
+    {
+      "id": "bbc_cf5b82825e",
+      "agencyId": "bbc",
+      "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
+      "title_fa": "سردرگمی خانواده‌ها پس از اخراج مراقبان هائیتی‌تبار در آمریکا",
+      "lead": "مهاجران هائیتی‌تبار بخش بزرگی از نیروی کار خدمات مراقبت در منزل را که در حال حاضر تحت فشار زیادی قرار دارد، تشکیل می‌دهند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 00:17:05 GMT",
+      "time": "۰۳:۴۷ - ۱۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-07T01:01:47.755Z"
     }
   ]
 }
