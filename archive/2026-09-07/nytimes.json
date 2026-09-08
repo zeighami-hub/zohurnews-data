@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_1df680bd3f",
@@ -287,6 +287,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-07T10:32:15.945Z"
+    },
+    {
+      "id": "nytimes_bae99748cb",
+      "agencyId": "nytimes",
+      "title": "Building Housing Students Collapses in New Delhi, Killing at Least 7",
+      "title_fa": "ریزش یک ساختمان مسکونی دانشجویی در دهلی نو منجر به کشته شدن دستکم ۷ نفر شد",
+      "lead": "نیروهای امدادی در حال تلاش برای یافتن افراد گرفتار در آوار این ساختمان هستند که روز یکشنبه فرو ریخت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/07/world/asia/india-delhi-building-collapse-satya-niketan.html",
+      "pubDate": "Mon, 07 Sep 2026 10:42:50 +0000",
+      "time": "۱۴:۱۲ - ۱۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-07T11:02:35.605Z"
+    },
+    {
+      "id": "nytimes_4709c9caf3",
+      "agencyId": "nytimes",
+      "title": "They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.",
+      "title_fa": "آنها با «قطار صلح» به اوکراین رفتند. توقف‌های بیشتر در راه است.",
+      "lead": "دولت ترامپ روند صلح را به قدری منجمد کرده بود که سفر به کی‌یف تنها یک گام اولیه بود و هرگونه مذاکره جدید همزمان با تشدید درگیری‌ها انجام خواهد شد.",
+      "category": "diplomacy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html",
+      "pubDate": "Mon, 07 Sep 2026 10:41:00 +0000",
+      "time": "۱۴:۱۱ - ۱۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-07T11:02:35.605Z"
     }
   ]
 }
