@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
   "agencyId": "mehrnews",
-  "total": 4,
+  "total": 7,
   "articles": [
     {
       "id": "mehrnews_40a84a2e3f",
@@ -78,6 +78,63 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-07T04:46:34.739Z"
+    },
+    {
+      "id": "mehrnews_e3346a8131",
+      "agencyId": "mehrnews",
+      "title": "At least 45 US MQ-9 drones destroyed during Iran war",
+      "title_fa": "دستکم ۴۵ فروند پهپاد MQ-9 آمریکا در جریان جنگ با ایران منهدم شد",
+      "lead": "به گزارش رسانه‌های اسرائیلی به نقل از منابع آمریکایی، ارتش ایالات متحده دستکم ۴۵ فروند پهپاد ام‌کیو-۹ ریپر خود را در جریان جنگ با ایران از دست داده است که رقمی معادل حدود یک چهارم ناوگان پیش از جنگ این کشور محسوب می‌شود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247507/At-least-45-US-MQ-9-drones-destroyed-during-Iran-war",
+      "pubDate": "Mon, 07 Sep 2026 05:53:19 GMT",
+      "time": "۰۹:۲۳ - ۱۶ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-07T06:02:13.300Z"
+    },
+    {
+      "id": "mehrnews_2e85f79916",
+      "agencyId": "mehrnews",
+      "title": "Israeli drone hits vehicle in southern Lebanon",
+      "title_fa": "حمله پهپادی اسرائیل به خودرویی در جنوب لبنان",
+      "lead": "رسانه‌های لبنانی گزارش دادند که نیروهای ارتش اسرائیل یک دستگاه خودرو را در شهرک «کفررمان» واقع در جنوب لبنان هدف حمله پهپادی قرار داده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247505/Israeli-drone-hits-vehicle-in-southern-Lebanon",
+      "pubDate": "Mon, 07 Sep 2026 05:15:04 GMT",
+      "time": "۰۸:۴۵ - ۱۶ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-07T06:02:13.300Z"
+    },
+    {
+      "id": "mehrnews_6dc6240c28",
+      "agencyId": "mehrnews",
+      "title": "VIDEO: Amazon cargo plane overturns runway at MIA",
+      "title_fa": "واژگونی هواپیمای باری آمازون در باند فرودگاه میامی",
+      "lead": "بر اثر خروج یک فروند هواپیمای باری آمازون از باند در فرودگاه بین‌المللی میامی، پنج نفر کشته و چندین نفر دیگر زخمی شدند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247506/VIDEO-Amazon-cargo-plane-overturns-runway-at-MIA",
+      "pubDate": "Mon, 07 Sep 2026 05:43:30 GMT",
+      "time": "۰۹:۱۳ - ۱۶ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-07T05:48:48.250Z"
     }
   ]
 }
