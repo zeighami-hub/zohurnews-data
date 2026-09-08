@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_1df680bd3f",
@@ -249,6 +249,44 @@
         "negative": 78
       },
       "analyzed_at": "2026-09-07T09:48:13.104Z"
+    },
+    {
+      "id": "nytimes_47e59f602d",
+      "agencyId": "nytimes",
+      "title": "Israeli Strikes in Lebanon Kill 9 as Bombardment Intensifies",
+      "title_fa": "حملات اسرائیل در لبنان ۹ کشته برجای گذاشت همزمان با تشدید بمباران‌ها",
+      "lead": "اسرائیل پس از تصرف یک پشته راهبردی در هفته گذشته، حملات خود علیه حزب‌الله را تشدید کرده است؛ موضوعی که نگرانی‌ها درباره طولانی شدن اشغال اراضی لبنان را افزایش داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
+      "pubDate": "Mon, 07 Sep 2026 10:30:45 +0000",
+      "time": "۱۴:۰۰ - ۱۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 15,
+        "negative": 85
+      },
+      "analyzed_at": "2026-09-07T10:32:15.945Z"
+    },
+    {
+      "id": "nytimes_d847257979",
+      "agencyId": "nytimes",
+      "title": "After Victory in German State, Far Right Needs Help to Take Power",
+      "title_fa": "پس از پیروزی در یک ایالت آلمان، حزب راست افراطی برای کسب قدرت به کمک نیاز دارد",
+      "lead": "حزب آلترناتیو برای آلمان (AfD) مسیر ساده‌ای برای حکومت بر زاکسن-آنهالت ندارد، اما یک حزب کوچک پوپولیست می‌تواند راه را برای آن هموار کند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
+      "pubDate": "Mon, 07 Sep 2026 10:10:35 +0000",
+      "time": "۱۳:۴۰ - ۱۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-07T10:32:15.945Z"
     }
   ]
 }
