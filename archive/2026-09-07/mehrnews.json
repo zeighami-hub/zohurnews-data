@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
   "agencyId": "mehrnews",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "mehrnews_40a84a2e3f",
@@ -268,6 +268,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-07T07:06:03.165Z"
+    },
+    {
+      "id": "mehrnews_deb84fd6bf",
+      "agencyId": "mehrnews",
+      "title": "Attacking a wedding: War or crime?",
+      "title_fa": "حمله به مراسم عروسی: جنگ یا جنایت؟",
+      "lead": "حمله ارتش آمریکا در تاریخ ۱۰ سپتامبر ۲۰۱۹ به یک مراسم عروسی در روستای کوهستک در نزدیکی جزیره سیریک، نمونه آشکاری از جنایت جنگی است. مقامات ایالات متحده باید به دلیل ارتکاب این جنایت محاکمه شوند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247516/Attacking-a-wedding-war-or-crime",
+      "pubDate": "Mon, 07 Sep 2026 07:26:47 GMT",
+      "time": "۱۰:۵۶ - ۱۶ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-07T07:31:58.737Z"
+    },
+    {
+      "id": "mehrnews_9557ae3a2c",
+      "agencyId": "mehrnews",
+      "title": "Trump touts renaming New Mexico, claims ‘Moon is Ours’",
+      "title_fa": "ترامپ خواستار تغییر نام نیومکزیکو شد و ادعا کرد «ماه از آنِ ماست»",
+      "lead": "دونالد ترامپ تصاویری تولید شده با هوش مصنوعی و میم‌هایی را در شبکه اجتماعی خود منتشر کرد که در یکی از آن‌ها پیشنهاد تغییر نام ایالت نیومکزیکو به «آمریکای جدید» و در دیگری ادعای تعلق ماه به آمریکا مطرح شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/247515/Trump-touts-renaming-New-Mexico-claims-Moon-is-Ours",
+      "pubDate": "Mon, 07 Sep 2026 07:20:19 GMT",
+      "time": "۱۰:۵۰ - ۱۶ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-07T07:31:58.737Z"
     }
   ]
 }
