@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_1df680bd3f",
@@ -192,6 +192,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-07T09:33:29.289Z"
+    },
+    {
+      "id": "nytimes_6fa9f1714d",
+      "agencyId": "nytimes",
+      "title": "U.S. Envoys Witkoff and Kushner Arrive in Kyiv After Talks With Putin",
+      "title_fa": "فرستاده‌های ایالات متحده، ویتکوف و کوشنر، پس از گفتگو با پوتین وارد کی‌یف شدند",
+      "lead": "استیو ویتکوف و جرد کوشنر یک روز پس از انجام مذاکرات با ولادیمیر پوتین در مسکو، روز یکشنبه در کی‌یف با ولودیمیر زلنسکی دیدار و گفتگو کردند.",
+      "category": "diplomacy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
+      "pubDate": "Sun, 06 Sep 2026 22:18:56 +0000",
+      "time": "۰۱:۴۸ - ۱۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 15,
+        "neutral": 75,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-07T09:48:13.104Z"
+    },
+    {
+      "id": "nytimes_80ff09aeba",
+      "agencyId": "nytimes",
+      "title": "What Secret Audits Tell Us About How Ukraine’s Military Is Spending Its Money",
+      "title_fa": "بررسی ممیزی‌های محرمانه درباره نحوه هزینه‌کرد بودجه نظامی اوکراین",
+      "lead": "اسناد منتشر شده ابعاد پنهانی از روند قراردادهای تسلیحاتی و نحوه تخصیص بودجه نظامی در اوکراین را آشکار می‌کنند. این مدارک به عنوان گزارشی دقیق از وضعیت فرآیندهای خرید تسلیحاتی عمل می‌کنند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-military-audits-spending-weapons.html",
+      "pubDate": "Sun, 06 Sep 2026 09:02:23 +0000",
+      "time": "۱۲:۳۲ - ۱۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 70,
+        "negative": 25
+      },
+      "analyzed_at": "2026-09-07T09:48:13.104Z"
+    },
+    {
+      "id": "nytimes_3e0bd7832c",
+      "agencyId": "nytimes",
+      "title": "In Ukraine, Fraud and Waste Are Rewarded With More Weapons Contracts",
+      "title_fa": "در اوکراین، تقلب و هدررفت منابع با دریافت قراردادهای تسلیحاتی بیشتر پاداش داده می‌شود",
+      "lead": "ممیزی‌های محرمانه نظامی نشان می‌دهند که سیستم تدارکات نظامی اوکراین با سوءمدیریت مواجه است. تنها در سال ۲۰۲۴، اوکراین ۱.۲ میلیارد دلار را به دلیل تقلب و هدررفت منابع از دست داده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html",
+      "pubDate": "Sun, 06 Sep 2026 09:00:10 +0000",
+      "time": "۱۲:۳۰ - ۱۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 2,
+        "neutral": 20,
+        "negative": 78
+      },
+      "analyzed_at": "2026-09-07T09:48:13.104Z"
     }
   ]
 }
