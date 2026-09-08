@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
   "agencyId": "mehrnews",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "mehrnews_40a84a2e3f",
@@ -420,6 +420,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-07T10:48:19.486Z"
+    },
+    {
+      "id": "mehrnews_23b424e7a3",
+      "agencyId": "mehrnews",
+      "title": "27 Iranian airports damaged during US-Israeli aggression",
+      "title_fa": "آسیب دیدن ۲۷ فرودگاه ایرانی در جریان تجاوز آمریکا و اسرائیل",
+      "lead": "شرکت فرودگاه‌ها و ناوبری هوایی ایران اعلام کرد که در جریان آخرین دور از تجاوزات به کشور، ۲۷ فرودگاه در سراسر ایران دچار خسارت شده‌اند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247525/27-Iranian-airports-damaged-during-US-Israeli-aggression",
+      "pubDate": "Mon, 07 Sep 2026 12:14:52 GMT",
+      "time": "۱۵:۴۴ - ۱۶ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-07T12:16:41.414Z"
+    },
+    {
+      "id": "mehrnews_b9b3147809",
+      "agencyId": "mehrnews",
+      "title": "US energy firms, facilities in region similarly exposed",
+      "title_fa": "شرکت‌ها و تأسیسات انرژی ایالات متحده در منطقه نیز در معرض خطر مشابهی هستند",
+      "lead": "رئیس مجلس شورای اسلامی به ایالات متحده هشدار داد که هرگونه حمله به دارایی‌های نفت و گاز ایران با پاسخ متقابل مواجه خواهد شد و تأکید کرد که شرکت‌ها و تأسیسات انرژی آمریکا در منطقه نیز به همین ترتیب در معرض خطر قرار دارند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247524/US-energy-firms-facilities-in-region-similarly-exposed",
+      "pubDate": "Mon, 07 Sep 2026 12:06:36 GMT",
+      "time": "۱۵:۳۶ - ۱۶ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-07T12:16:41.414Z"
     }
   ]
 }
