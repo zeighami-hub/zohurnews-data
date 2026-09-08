@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_1df680bd3f",
@@ -363,6 +363,25 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-07T13:16:40.881Z"
+    },
+    {
+      "id": "nytimes_70b8333aa1",
+      "agencyId": "nytimes",
+      "title": "Here’s the latest.",
+      "title_fa": "این هم آخرین اخبار.",
+      "lead": "آخرین اخبار و تحولات روز ارائه شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/09/06/world/germany-election/polls-are-set-to-close-in-crucial-election",
+      "pubDate": "Sun, 06 Sep 2026 21:06:03 +0000",
+      "time": "۰۰:۳۶ - ۱۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-07T15:31:47.443Z"
     }
   ]
 }
