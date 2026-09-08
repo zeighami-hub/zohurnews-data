@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
   "agencyId": "independent",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "independent_10a2b4ad79",
@@ -59,6 +59,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-07T01:31:19.723Z"
+    },
+    {
+      "id": "independent_5d849f6c80",
+      "agencyId": "independent",
+      "title": "Trump approval rating drops to record low in new poll",
+      "title_fa": "کاهش محبوبیت ترامپ به پایین‌ترین حد رکورد در نظرسنجی جدید",
+      "lead": "بدبینی نسبت به اقتصاد ایالات متحده و تأثیر جنگ در ایران، ارقام مربوط به کاهش محبوبیت ترامپ را به پایین‌ترین حد رکورد رسانده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/trump-approval-rating-new-poll-iran-war-economy-b3045676.html",
+      "pubDate": "Mon, 07 Sep 2026 03:19:20 GMT",
+      "time": "۰۶:۴۹ - ۱۶ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 45,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-07T03:31:28.407Z"
+    },
+    {
+      "id": "independent_8b519c11b3",
+      "agencyId": "independent",
+      "title": "Trump pretends that longtime critic Robert De Niro now supports him with AI slop image",
+      "title_fa": "تلاش ترامپ برای وانمود کردن حمایت رابرت دنیرو با استفاده از تصویر هوش مصنوعی",
+      "lead": "بازیگر فیلم‌های رفقای خوب و گاو خشمگین پیش‌تر ترامپ را با توهین‌هایی توصیف کرده بود، اما اکنون تصویری منتسب به حمایت او با استفاده از هوش مصنوعی مطرح شده است.",
+      "category": "technology",
+      "region": "americas",
+      "sourceUrl": "https://www.independent.co.uk/news/world/americas/us-politics/trump-robert-de-niro-post-ai-truth-social-b3045675.html",
+      "pubDate": "Mon, 07 Sep 2026 03:17:08 GMT",
+      "time": "۰۶:۴۷ - ۱۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-07T03:31:28.407Z"
     }
   ]
 }
