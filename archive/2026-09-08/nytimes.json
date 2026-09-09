@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_96c37aec00",
@@ -192,6 +192,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-08T09:46:45.074Z"
+    },
+    {
+      "id": "nytimes_ab12b66fc2",
+      "agencyId": "nytimes",
+      "title": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens",
+      "title_fa": "عربستان سعودی پس از حملات حوثی‌ها که ده‌ها زخمی برجای گذاشت، وعده تلافی داد",
+      "lead": "تشدید اخیر تنش‌ها تهدید می‌کند که عربستان سعودی و شبه‌نظامیان حوثی تحت حمایت ایران را دوباره وارد یک جنگ تمام‌عیار کند. این حملات ده‌ها زخمی برجای گذاشته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
+      "pubDate": "Tue, 08 Sep 2026 09:12:39 +0000",
+      "time": "۱۲:۴۲ - ۱۷ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-08T10:16:45.914Z"
+    },
+    {
+      "id": "nytimes_e7bd69c7f3",
+      "agencyId": "nytimes",
+      "title": "A Far-Right Win Puts New Pressure on Germany’s Leader",
+      "title_fa": "پیروزی راست افراطی فشار جدیدی بر رهبر آلمان وارد می‌کند",
+      "lead": "صدر اعظم فریدریش مرتس در جریان شکست فاجعه‌بار حزب محافظه‌کارش در برابر راست افراطی در یک انتخابات ایالتی، یک عامل بازدارنده بود. او متعهد به ارتباط بهتر شده است، اما تغییری در سیاست‌ها ایجاد نخواهد کرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html",
+      "pubDate": "Tue, 08 Sep 2026 09:49:42 +0000",
+      "time": "۱۳:۱۹ - ۱۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-08T10:03:57.505Z"
+    },
+    {
+      "id": "nytimes_a67927ccab",
+      "agencyId": "nytimes",
+      "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
+      "title_fa": "تکواندوی مجازی برخورد فیزیکی را از یک ورزش رزمی حذف می‌کند",
+      "lead": "نسخه بدون تماس این هنر رزمی کره‌ای در بازی‌های آسیایی امسال آغاز به کار می‌کند، در حالی که منتقدان آن را یک بازی ویدئویی جلوه‌داده شده می‌دانند.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
+      "pubDate": "Tue, 08 Sep 2026 02:44:03 +0000",
+      "time": "۰۶:۱۴ - ۱۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-08T10:03:57.505Z"
     }
   ]
 }
