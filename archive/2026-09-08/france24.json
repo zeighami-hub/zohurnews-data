@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
   "agencyId": "france24",
-  "total": 44,
+  "total": 46,
   "articles": [
     {
       "id": "france24_cbc31a8a16",
@@ -838,6 +838,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-08T16:02:00.852Z"
+    },
+    {
+      "id": "france24_092c230f98",
+      "agencyId": "france24",
+      "title": "US war on Iran: 'Incompetent administration when it comes to negotiations and prosecuting war'",
+      "title_fa": "جنگ آمریکا علیه ایران: دولتی ناکارآمد در زمینه مذاکرات و پیشبرد جنگ",
+      "lead": "کارشناسان مسائل سیاسی جنگ در خلیج فارس را بن‌بستی فرساینده توصیف می‌کنند که در آن نه واشنگتن و نه تهران راه خروج پایدار سیاسی نیافته‌اند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/us-war-on-iran-incompetent-administration-when-it-comes-to-negotiations-and-prosecuting-war",
+      "pubDate": "Tue, 08 Sep 2026 16:16:16 GMT",
+      "time": "۱۹:۴۶ - ۱۷ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-08T16:31:46.529Z"
+    },
+    {
+      "id": "france24_a5d5cc416c",
+      "agencyId": "france24",
+      "title": "'US Midterm elections tend to be referendums on the unpopularity of the president'",
+      "title_fa": "انتخابات میان‌دوره‌ای آمریکا معمولاً همه‌پرسی درباره عدم محبوبیت رئیس‌جمهور است",
+      "lead": "میشل سوارز، استاد علوم سیاسی دانشگاه جورج‌تاون، انتخابات مقدماتی نیوهمپشایر را هم به عنوان یک رقابت مهم در سنا و هم به عنوان نشانه قوی از فضای سیاسی ملی پیش از انتخابات ارزیابی می‌کند.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/us-midterm-elections-tend-to-be-referendums-on-the-unpopularity-of-the-president",
+      "pubDate": "Tue, 08 Sep 2026 16:25:34 GMT",
+      "time": "۱۹:۵۵ - ۱۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-08T16:31:46.529Z"
     }
   ]
 }
