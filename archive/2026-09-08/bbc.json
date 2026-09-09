@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
   "agencyId": "bbc",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "bbc_4560c27bf4",
@@ -192,6 +192,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-08T06:46:45.401Z"
+    },
+    {
+      "id": "bbc_94ca85c50c",
+      "agencyId": "bbc",
+      "title": "Israeli strikes in southern Lebanese village kill 12",
+      "title_fa": "حملات اسرائیل به روستایی در جنوب لبنان ۱۲ کشته برجای گذاشت",
+      "lead": "مقامات لبنانی اعلام کردند که تشدید اخیر حملات اسرائیل آتش‌بس میانجی‌گری‌شده توسط ایالات متحده برای پایان دادن به درگیری‌ها میان اسرائیل و حزب‌الله را به خطر انداخته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 13:39:23 GMT",
+      "time": "۱۷:۰۹ - ۱۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-08T07:47:52.329Z"
     }
   ]
 }
