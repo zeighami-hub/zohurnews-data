@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
   "agencyId": "bbc",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "bbc_4560c27bf4",
@@ -477,6 +477,26 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-08T16:31:46.529Z"
+    },
+    {
+      "id": "bbc_e4947f0e10",
+      "agencyId": "bbc",
+      "title": "British widow faces deportation from Sweden after 22 years",
+      "title_fa": "مواجهه یک زن بیوه بریتانیایی با خطر اخراج از سوئد پس از ۲۲ سال",
+      "lead": "یک زن ۷۸ ساله بریتانیایی به دلیل عدم تکمیل به موقع درخواست اقامت مربوط به برگزیت، با خطر اخراج از سوئد مواجه شده است. این پرونده توجه رسانه‌ها را به خود جلب کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 16:23:01 GMT",
+      "time": "۱۹:۵۳ - ۱۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "prompt": "",
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-08T16:46:34.534Z"
     }
   ]
 }
