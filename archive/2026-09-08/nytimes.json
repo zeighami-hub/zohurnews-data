@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 28,
   "articles": [
     {
       "id": "nytimes_96c37aec00",
@@ -496,6 +496,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-08T19:16:44.689Z"
+    },
+    {
+      "id": "nytimes_7666801ac5",
+      "agencyId": "nytimes",
+      "title": "Impunity in the West Bank",
+      "title_fa": "مصونیت از مجازات در کرانه باختری",
+      "lead": "فرماندهان سابق ارتش اسرائیل هشدار می‌دهند که خشونت شهرک‌نشینان در کرانه باختری ارزش‌های دموکراتیک اسرائیل را از درون نابود می‌کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/08/world/israel-west-bank-canada-us-trade.html",
+      "pubDate": "Tue, 08 Sep 2026 20:52:55 +0000",
+      "time": "۰۰:۲۲ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-08T21:01:47.175Z"
+    },
+    {
+      "id": "nytimes_cd3a8c1cbe",
+      "agencyId": "nytimes",
+      "title": "Containing Germany’s Far Right",
+      "title_fa": "مهار راست افراطی آلمان",
+      "lead": "پیروزی حزب «جایگزین برای آلمان» (AfD) در یک انتخابات ایالتی، مقامات این کشور را ناچار به بازنگری در استراتژی دوران پس از جنگ برای محافظت از دموکراسی کرده است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/07/world/germany-election-afd-indonesia-microplastics.html",
+      "pubDate": "Tue, 08 Sep 2026 15:21:52 +0000",
+      "time": "۱۸:۵۱ - ۱۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-08T21:01:47.175Z"
     }
   ]
 }
