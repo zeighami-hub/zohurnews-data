@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
   "agencyId": "aljazeera",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "aljazeera_d20e35df77",
@@ -78,6 +78,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-08T01:31:18.294Z"
+    },
+    {
+      "id": "aljazeera_64631cf0e4",
+      "agencyId": "aljazeera",
+      "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
+      "title_fa": "هشدار آژانس اتمی درباره دسترسی هسته‌ای ایران همزمان با فشار قدرت‌های غربی برای ارجاع پرونده به سازمان ملل",
+      "lead": "دیده‌بان هسته‌ای سازمان ملل از ایران خواست همکاری کند، در حالی که قدرت‌های غربی برای ارجاع پرونده هسته‌ای ایران به شورای امنیت فشار می‌آورند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
+      "pubDate": "Tue, 08 Sep 2026 01:50:37 +0000",
+      "time": "۰۵:۲۰ - ۱۷ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-08T02:16:16.867Z"
+    },
+    {
+      "id": "aljazeera_c9cf3f2e21",
+      "agencyId": "aljazeera",
+      "title": "EU pledges more than $200m to Greenland amid Trump threats",
+      "title_fa": "اتحادیه اروپا در پی تهدیدهای ترامپ، بیش از ۲۰۰ میلیون دلار به گرینلند اختصاص داد",
+      "lead": "بروکسل پیشنهاد کرده است که کمک‌های مستقیم اتحادیه اروپا به گرینلند در بودجه بعدی این بلوک، همزمان با آغاز رزمایش‌های نظامی، دو برابر شود.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/8/eu-pledges-more-than-200m-to-greenland-amid-trump-threats?traffic_source=rss",
+      "pubDate": "Tue, 08 Sep 2026 01:52:45 +0000",
+      "time": "۰۵:۲۲ - ۱۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-08T02:16:16.867Z"
     }
   ]
 }
