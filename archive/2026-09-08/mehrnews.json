@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
   "agencyId": "mehrnews",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "mehrnews_cff9bc27b4",
@@ -116,6 +116,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-08T05:16:38.163Z"
+    },
+    {
+      "id": "mehrnews_115d2f0312",
+      "agencyId": "mehrnews",
+      "title": "12th Iran-Nevesht Stationery Exhibition opens in Tehran",
+      "title_fa": "افتتاح دوازدهمین نمایشگاه لوازم‌التحریر «ایران‌نوشت» در تهران",
+      "lead": "دوازدهمین دوره نمایشگاه لوازم‌التحریر «ایران‌نوشت» با تمرکز بر شهدای دفاع مقدس در مصلای امام خمینی (ره) تهران افتتاح شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/photo/247543/12th-Iran-Nevesht-Stationery-Exhibition-opens-in-Tehran",
+      "pubDate": "Tue, 08 Sep 2026 05:41:40 GMT",
+      "time": "۰۹:۱۱ - ۱۷ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-08T05:46:58.984Z"
+    },
+    {
+      "id": "mehrnews_ffa503606c",
+      "agencyId": "mehrnews",
+      "title": "Israeli forces shell valleys in southern Lebanon overnight",
+      "title_fa": "حملات توپخانه‌ای ارتش اسرائیل به دره‌های جنوب لبنان در طول شب",
+      "lead": "رژیم صهیونیستی بامداد سه‌شنبه دور جدیدی از حملات خود را علیه مناطقی در لبنان انجام داد و دره‌های جنوب این کشور را هدف گلوله‌باران قرار داد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247542/Israeli-forces-shell-valleys-in-southern-Lebanon-overnight",
+      "pubDate": "Tue, 08 Sep 2026 05:36:06 GMT",
+      "time": "۰۹:۰۶ - ۱۷ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-08T05:46:58.984Z"
     }
   ]
 }
