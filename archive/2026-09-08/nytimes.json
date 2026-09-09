@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "nytimes_96c37aec00",
@@ -21,6 +21,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-08T04:16:27.792Z"
+    },
+    {
+      "id": "nytimes_ed5b4f1c34",
+      "agencyId": "nytimes",
+      "title": "Houthi Strikes on Southern Saudi Arabia Injure Dozens, Saudi Officials Say",
+      "title_fa": "به گفته مقامات سعودی، حملات حوثی‌ها به جنوب عربستان سعودی ده‌ها زخمی برجای گذاشت",
+      "lead": "خبرگزاری تحت کنترل حوثی‌ها در یمن اعلام کرد که این شبه‌نظامیان بیانیه‌ای درباره یک عملیات نظامی «گسترده» در عربستان سعودی صادر خواهند کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-energy-attack.html",
+      "pubDate": "Tue, 08 Sep 2026 06:59:54 +0000",
+      "time": "۱۰:۲۹ - ۱۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-08T07:17:32.864Z"
     }
   ]
 }
