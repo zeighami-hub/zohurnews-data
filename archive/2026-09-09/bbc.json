@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_12ba57dbef",
@@ -78,6 +78,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-09T03:31:34.205Z"
+    },
+    {
+      "id": "bbc_3c5aa29fc1",
+      "agencyId": "bbc",
+      "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+      "title_fa": "حملات ایالات متحده به تانکرهای نفت ایران در پی هدف قرار گرفتن پایگاه آمریکایی در اردن",
+      "lead": "به دنبال تشدید حملات متقابل میان ایالات متحده و ایران، قیمت نفت به مرز ۱۰۰ دلار در هر بشکه نزدیک‌تر شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 04:26:38 GMT",
+      "time": "۰۷:۵۶ - ۱۸ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-09T05:46:32.873Z"
     }
   ]
 }
