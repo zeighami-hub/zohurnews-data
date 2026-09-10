@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "agencyId": "aljazeera",
-  "total": 39,
+  "total": 42,
   "articles": [
     {
       "id": "aljazeera_2a87c2bd4a",
@@ -743,6 +743,63 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-09T10:16:54.596Z"
+    },
+    {
+      "id": "aljazeera_31131b6a5a",
+      "agencyId": "aljazeera",
+      "title": "The war in the Gulf will have to end in compromise",
+      "title_fa": "جنگ در خلیج فارس باید با سازش پایان یابد",
+      "lead": "ایران تسلیم نشده و اهداف اولیه جنگ هم‌چنان محقق نشده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/opinions/2026/9/9/the-war-in-the-gulf-will-have-to-end-in-compromise?traffic_source=rss",
+      "pubDate": "Wed, 09 Sep 2026 10:09:04 +0000",
+      "time": "۱۳:۳۹ - ۱۸ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-09T10:31:52.395Z"
+    },
+    {
+      "id": "aljazeera_9acb6de7b5",
+      "agencyId": "aljazeera",
+      "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
+      "title_fa": "اسرائیل از بریتانیا خواست کنسولگری خود در شرق اورشلیم را ظرف ۳۰ روز ببندد",
+      "lead": "این تصمیم پس از آن اعلام شد که بریتانیا تحریم‌هایی را علیه شهرک‌های غیرقانونی اعمال کرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss",
+      "pubDate": "Wed, 09 Sep 2026 10:09:06 +0000",
+      "time": "۱۳:۳۹ - ۱۸ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-09T10:31:52.395Z"
+    },
+    {
+      "id": "aljazeera_b18d1e9526",
+      "agencyId": "aljazeera",
+      "title": "Turkish jets perform dramatic flyover above Egypt’s pyramids",
+      "title_fa": "پرواز نمایشی جنگنده‌های ترکیه بر فراز اهرام مصر",
+      "lead": "تیم آکروباتیک نیروی هوایی ترکیه پرواز نمایشی تماشایی خود را بر فراز اهرام جیزه در مصر انجام دادند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/9/turkish-jets-perform-dramatic-flyover-above-egypts-pyramids?traffic_source=rss",
+      "pubDate": "Wed, 09 Sep 2026 09:56:42 +0000",
+      "time": "۱۳:۲۶ - ۱۸ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-09T10:31:52.395Z"
     }
   ]
 }
