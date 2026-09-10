@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_00eb350d1a",
@@ -268,6 +268,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-09T09:17:33.903Z"
+    },
+    {
+      "id": "nytimes_3d0a79bf10",
+      "agencyId": "nytimes",
+      "title": "Singapore’s Prime Minister Gets a Big Raise",
+      "title_fa": "افزایش قابل توجه حقوق نخست‌وزیر سنگاپور",
+      "lead": "لارنس ونگ، نخست‌وزیر سنگاپور، در راستای سیاست دیرینه پرداخت حقوق‌های بالا به مقامات دولتی برای جذب نیروهای ماهر و جلوگیری از فساد، مشمول افزایش حقوق چشمگیری شد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/09/world/asia/singapore-minister-salary.html",
+      "pubDate": "Wed, 09 Sep 2026 10:42:20 +0000",
+      "time": "۱۴:۱۲ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-09T10:46:39.811Z"
+    },
+    {
+      "id": "nytimes_ab12b66fc2",
+      "agencyId": "nytimes",
+      "title": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
+      "title_fa": "عربستان سعودی و حوثی‌های یمن در آستانه بازگشت به جنگ",
+      "lead": "مقامات سعودی اعلام کردند که ده‌ها نفر در حملات شبه‌نظامیان حوثی وابسته به ایران زخمی شده‌اند و متعهد شدند که پاسخ خواهند داد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
+      "pubDate": "Tue, 08 Sep 2026 16:35:08 +0000",
+      "time": "۲۰:۰۵ - ۱۷ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-09T10:31:52.395Z"
     }
   ]
 }
