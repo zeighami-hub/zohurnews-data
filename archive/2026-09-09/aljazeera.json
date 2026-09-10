@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "agencyId": "aljazeera",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "aljazeera_2a87c2bd4a",
@@ -173,6 +173,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-09T01:46:54.606Z"
+    },
+    {
+      "id": "aljazeera_954e7c7a47",
+      "agencyId": "aljazeera",
+      "title": "Yemen’s Saudi-backed forces strike Houthis on western coast",
+      "title_fa": "نیروهای تحت حمایت عربستان در یمن به حوثی‌ها در سواحل غربی حمله کردند",
+      "lead": "نیروهای دولتی یمن با حمایت عربستان سعودی در حال شدت بخشیدن به حملات متقابل خود علیه حوثی‌ها هستند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/9/yemens-saudi-backed-forces-strike-houthis-on-western-coast?traffic_source=rss",
+      "pubDate": "Wed, 09 Sep 2026 02:06:02 +0000",
+      "time": "۰۵:۳۶ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-09T02:16:17.810Z"
+    },
+    {
+      "id": "aljazeera_35fdcd725b",
+      "agencyId": "aljazeera",
+      "title": "‘Energiser’ or ‘circus’: US voters weigh in on Trump’s midterm convention",
+      "title_fa": "«انرژی‌بخش» یا «سیرک»: رای‌دهندگان آمریکایی درباره گردهمایی میان‌دوره‌ای ترامپ نظر می‌دهند",
+      "lead": "این رویداد غیرمتعارف، اهمیت ایالت تگزاس را که مدت‌هاست دژ جمهوری‌خواهان محسوب می‌شود، در انتخابات میان‌دوره‌ای ماه نوامبر برجسته می‌کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/9/energiser-or-circus-us-voters-weigh-in-on-trumps-midterm-convention?traffic_source=rss",
+      "pubDate": "Wed, 09 Sep 2026 01:50:35 +0000",
+      "time": "۰۵:۲۰ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-09T02:16:17.810Z"
     }
   ]
 }
