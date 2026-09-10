@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_00eb350d1a",
@@ -97,6 +97,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-09T05:31:50.912Z"
+    },
+    {
+      "id": "nytimes_f96c445cf7",
+      "agencyId": "nytimes",
+      "title": "Travelers Face More Delays After Major Disruption at British Airports",
+      "title_fa": "مسافران پس از اختلال عمده در فرودگاه‌های بریتانیا با تأخیرهای بیشتری مواجه هستند",
+      "lead": "یک مشکل در کنترل ترافیک هوایی روز سه‌شنبه باعث لغو بیش از ۱۰۰۰ پرواز شد و خطوط هوایی هشدار دادند که پیامدهای آن ممکن است ادامه داشته باشد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/09/world/europe/uk-air-traffic-control-flight-delays-london.html",
+      "pubDate": "Wed, 09 Sep 2026 07:02:17 +0000",
+      "time": "۱۰:۳۲ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-09T07:17:03.063Z"
     }
   ]
 }
