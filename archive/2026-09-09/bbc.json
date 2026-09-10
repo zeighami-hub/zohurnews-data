@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "agencyId": "bbc",
-  "total": 24,
+  "total": 25,
   "articles": [
     {
       "id": "bbc_12ba57dbef",
@@ -458,6 +458,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-09T17:16:33.289Z"
+    },
+    {
+      "id": "bbc_232b8ab898",
+      "agencyId": "bbc",
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "title_fa": "ارجاع پرونده ایران به شورای امنیت سازمان ملل متحد به دلیل عدم پایبندی به تعهدات هسته‌ای",
+      "lead": "تهران این قطعنامه را محکوم کرد و ایالات متحده آمریکا و اسرائیل را به دلیل حملات به تأسیسات هسته‌ای و مختل کردن بازرسی‌ها مقصر دانست.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 20:22:51 GMT",
+      "time": "۲۳:۵۲ - ۱۸ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-09T20:31:28.513Z"
     }
   ]
 }
