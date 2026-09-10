@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_00eb350d1a",
@@ -21,6 +21,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-09T00:31:25.890Z"
+    },
+    {
+      "id": "nytimes_c60e62a541",
+      "agencyId": "nytimes",
+      "title": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+      "title_fa": "سیگنال‌های ایران برای آمادگی جهت تشدید جنگ با آمریکا در سایه افزایش فشارهای اقتصادی",
+      "lead": "تحلیلگران می‌گویند دولت ایران در مواجهه با تهدیدات فزاینده اقتصادی و نگرانی از از دست رفتن تسلط خود بر تنگه هرمز، رویکرد تهاجمی‌تری اتخاذ کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
+      "pubDate": "Wed, 09 Sep 2026 04:01:06 +0000",
+      "time": "۰۷:۳۱ - ۱۸ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-09T04:16:43.751Z"
+    },
+    {
+      "id": "nytimes_b0d0d39d2e",
+      "agencyId": "nytimes",
+      "title": "The Theme Park at the Heart of France’s Culture War",
+      "title_fa": "پارک موضوعی در کانون جنگ فرهنگی فرانسه",
+      "lead": "پارک «پو دو فو» یکی از پربازدیدترین پارک‌های موضوعی فرانسه است. بنیان‌گذار آن می‌گوید این پارک روایتی اساسی به فرانسوی‌ها می‌دهد، اما منتقدان آن را به ترویج تبلیغات راست افراطی متهم می‌کنند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/09/world/europe/theme-park-france-right-culture-war.html",
+      "pubDate": "Wed, 09 Sep 2026 04:01:24 +0000",
+      "time": "۰۷:۳۱ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-09T04:16:43.751Z"
     }
   ]
 }
