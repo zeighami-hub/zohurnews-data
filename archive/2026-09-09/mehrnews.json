@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "agencyId": "mehrnews",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "mehrnews_39725fe25e",
@@ -325,6 +325,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-09T05:31:50.912Z"
+    },
+    {
+      "id": "mehrnews_89c006588f",
+      "agencyId": "mehrnews",
+      "title": "Israeli forces arrest six Palestinians in West Bank",
+      "title_fa": "نیروهای اسرائیلی شش فلسطینی را در کرانه باختری بازداشت کردند",
+      "lead": "ارتش اسرائیل طی یورش به کرانه باختری، شش نفر از شهروندان فلسطینی را بازداشت کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247590/Israeli-forces-arrest-six-Palestinians-in-West-Bank",
+      "pubDate": "Wed, 09 Sep 2026 06:24:43 GMT",
+      "time": "۰۹:۵۴ - ۱۸ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-09T06:31:49.916Z"
+    },
+    {
+      "id": "mehrnews_e3c1e37af0",
+      "agencyId": "mehrnews",
+      "title": "VIDEO: New LEGO depicting US Navy capture by Iran Armed Force",
+      "title_fa": "ویدیو: انیمیشن جدید لگو از به دام انداختن زیردریایی آمریکایی توسط نیروهای مسلح ایران",
+      "lead": "انیمیشن جدیدی با استفاده از آجرهای لگو منتشر شده است که سناریوی توقیف پیشرفته‌ترین زیردریایی بدون سرنشین نیروی دریایی آمریکا در نزدیکی تنگه هرمز توسط نیروهای مسلح ایران را به تصویر می‌کشد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247589/VIDEO-New-LEGO-depicting-US-Navy-capture-by-Iran-Armed-Force",
+      "pubDate": "Wed, 09 Sep 2026 06:13:42 GMT",
+      "time": "۰۹:۴۳ - ۱۸ شهریور",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-09T06:16:41.993Z"
     }
   ]
 }
