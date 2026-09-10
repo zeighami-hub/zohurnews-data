@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "agencyId": "aljazeera",
-  "total": 94,
+  "total": 96,
   "articles": [
     {
       "id": "aljazeera_2a87c2bd4a",
@@ -1788,6 +1788,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-09T20:16:44.064Z"
+    },
+    {
+      "id": "aljazeera_dc38a9f92b",
+      "agencyId": "aljazeera",
+      "title": "IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’",
+      "title_fa": "شورای حکام آژانس اتمی ایران را به دلیل عدم پایبندی به توافقات هسته‌ای به شورای امنیت سازمان ملل ارجاع داد",
+      "lead": "این اقدام تشدیدکننده نمادین از سوی ایالات متحده، آلمان، فرانسه و بریتانیا آغاز شده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss",
+      "pubDate": "Wed, 09 Sep 2026 20:23:34 +0000",
+      "time": "۲۳:۵۳ - ۱۸ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-09T20:46:25.860Z"
+    },
+    {
+      "id": "aljazeera_f860d0627b",
+      "agencyId": "aljazeera",
+      "title": "Burnham defends UK ban on Israeli settlement trade",
+      "title_fa": "برنهام از ممنوعیت بریتانیا بر تجارت با شهرک‌های اسرائیلی دفاع کرد",
+      "lead": "اندی برنهام، نخست‌وزیر بریتانیا، از ممنوعیت تجارت با شهرک‌های اسرائیلی در کرانه باختری اشغالی دفاع کرد.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/9/burnham-defends-uk-ban-on-israeli-settlement-trade?traffic_source=rss",
+      "pubDate": "Wed, 09 Sep 2026 20:32:24 +0000",
+      "time": "۰۰:۰۲ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-09T20:46:25.860Z"
     }
   ]
 }
