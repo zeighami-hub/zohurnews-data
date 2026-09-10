@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_00eb350d1a",
@@ -420,6 +420,44 @@
         "negative": 45
       },
       "analyzed_at": "2026-09-09T18:01:56.263Z"
+    },
+    {
+      "id": "nytimes_523242c051",
+      "agencyId": "nytimes",
+      "title": "14 Killed in Weapons Depot Blast in Northwest Syria",
+      "title_fa": "۱۴ کشته در اثر انفجار انبار تسلیحات در شمال غرب سوریه",
+      "lead": "مقام‌های محلی اعلام کردند که ۱۴ نفر در اثر انفجار یک انبار تسلیحات در شمال غرب سوریه کشته شده‌اند. مقامات هنوز علت این انفجار را مشخص نکرده‌اند و سال‌ها جنگ داخلی مقادیر زیادی تسلیحات و مهمات را در این کشور بر جای گذاشته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/09/world/middleeast/syria-weapons-depot-blast.html",
+      "pubDate": "Wed, 09 Sep 2026 18:24:17 +0000",
+      "time": "۲۱:۵۴ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-09T18:46:30.298Z"
+    },
+    {
+      "id": "nytimes_abb652783c",
+      "agencyId": "nytimes",
+      "title": "14 Killed in Weapons Depot Blast in Northwest Syria",
+      "title_fa": "انفجار در انبار مهمات در شمال غربی سوریه ۱۴ کشته برجای گذاشت",
+      "lead": "مقام‌های محلی اعلام کردند که هنوز علت انفجار در یک انبار مهمات در شمال غربی سوریه مشخص نشده است. سال‌ها جنگ داخلی مقادیر زیادی مهمات و تسلیحات در این کشور برجا گذاشته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/09/world/middleeast/14-killed-in-weapons-depot-blast-in-northwest-syria.html",
+      "pubDate": "Wed, 09 Sep 2026 18:24:17 +0000",
+      "time": "۲۱:۵۴ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-09T18:31:46.787Z"
     }
   ]
 }
