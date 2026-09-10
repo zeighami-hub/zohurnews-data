@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
   "agencyId": "aljazeera",
-  "total": 8,
+  "total": 9,
   "articles": [
     {
       "id": "aljazeera_2a87c2bd4a",
@@ -154,6 +154,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-09T00:46:18.857Z"
+    },
+    {
+      "id": "aljazeera_29e94c17b6",
+      "agencyId": "aljazeera",
+      "title": "Jordanian air defences intercept Iranian missile barrage",
+      "title_fa": "پدافند هوایی اردن رگبار موشکی ایران را رهگیری کرد",
+      "lead": "شاهِدان عینی لحظه رهگیری رگباری از موشک‌های بالستیک ایران توسط سامانه‌های پدافند هوایی اردن را به تصویر کشیده‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss",
+      "pubDate": "Wed, 09 Sep 2026 01:08:15 +0000",
+      "time": "۰۴:۳۸ - ۱۸ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-09T01:46:54.606Z"
     }
   ]
 }
