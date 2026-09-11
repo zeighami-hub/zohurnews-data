@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "nytimes",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_e1257fa646",
@@ -319,6 +319,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-10T09:46:52.950Z"
+    },
+    {
+      "id": "nytimes_63082ae8ba",
+      "agencyId": "nytimes",
+      "title": "Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say",
+      "title_fa": "به گفته مقامات، حوثی‌های یمن بندر راهبردی المخا در دریای سرخ را تصرف کردند",
+      "lead": "شبه‌نظامیان حوثی مورد حمایت ایران نیروهای دولتی یمن را در المخا شکست دادند و این گروه را در موقعیت بهتری برای حمله به کشتی‌ها در یک آبراه حیاتی برای تجارت جهانی قرار دادند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
+      "pubDate": "Thu, 10 Sep 2026 10:31:22 +0000",
+      "time": "۱۴:۰۱ - ۱۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-10T10:46:43.366Z"
+    },
+    {
+      "id": "nytimes_46deeff62c",
+      "agencyId": "nytimes",
+      "title": "Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says",
+      "title_fa": "به گفته مقامات مولداوی، ورود پهپاد روسی پرواز زلنسکی به اسلو را به تأخیر انداخت",
+      "lead": "مقامات اعلام کردند که بسته شدن حریم هوایی، سفر رهبر اوکراین میان مولداوی و نروژ را با تأخیر مواجه کرده است. آنها ادعای نخست‌وزیر نروژ مبنی بر اینکه یک پهپاد «تقریباً با هواپیما برخورد کرده» را تأیید نکردند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html",
+      "pubDate": "Thu, 10 Sep 2026 10:31:55 +0000",
+      "time": "۱۴:۰۱ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-10T10:46:43.366Z"
     }
   ]
 }
