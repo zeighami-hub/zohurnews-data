@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "foreignpolicy",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "foreignpolicy_20ba9ec46f",
@@ -116,6 +116,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-10T07:31:45.999Z"
+    },
+    {
+      "id": "foreignpolicy_b393fd5d2b",
+      "agencyId": "foreignpolicy",
+      "title": "Iran’s Regional Strategy Is Never Coming Back",
+      "title_fa": "استراتژی منطقه‌ای ایران دیگر بازنخواهد گشت",
+      "lead": "استراتژی امنیتی بلندمدت ایران نتوانسته است از جنگ فعلی جان سالم به در ببرد و شرایط تغییر کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://foreignpolicy.com/2026/09/08/irans-proxy-strategy-hezbollah-lebanon-iraq/",
+      "pubDate": "Tue, 08 Sep 2026 08:53:09 +0000",
+      "time": "۱۲:۲۳ - ۱۷ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-10T09:46:52.950Z"
+    },
+    {
+      "id": "foreignpolicy_a751e33c9d",
+      "agencyId": "foreignpolicy",
+      "title": "German Democracy, as We Knew It, Is Over",
+      "title_fa": "دموکراسی آلمانی، آن‌طور که می‌شناختیم، به پایان رسیده است",
+      "lead": "پیروزی یک حزب راست افراطی در انتخابات ایالتی، پایان سیستم سیاسی پس از جنگ این کشور را رقم می‌زند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/09/09/germany-afd-democracy-election-merz-cdu/",
+      "pubDate": "Wed, 09 Sep 2026 08:37:47 +0000",
+      "time": "۱۲:۰۷ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-10T09:46:52.950Z"
     }
   ]
 }
