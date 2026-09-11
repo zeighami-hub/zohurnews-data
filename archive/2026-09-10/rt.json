@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "rt",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "rt_acf79c9b50",
@@ -439,6 +439,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-10T20:16:30.862Z"
+    },
+    {
+      "id": "rt_549670f535",
+      "agencyId": "rt",
+      "title": "Netanyahu threatens Iran from occupied Syrian mountain (VIDEO)",
+      "title_fa": "نتانیاهو ایران را از کوهستان اشغالی سوریه تهدید کرد",
+      "lead": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در جریان بازدید از نیروهای ارتش در کوه هرمون مدعی شد که اسرائیل به شکست دادن ایران «بسیار نزدیک» است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.rt.com/news/645365-netanyahu-hermon-iran-defeat/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Wed, 09 Sep 2026 22:09:24 +0000",
+      "time": "۰۱:۳۹ - ۱۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-10T22:31:20.916Z"
+    },
+    {
+      "id": "rt_4aea1f7fd4",
+      "agencyId": "rt",
+      "title": "Putin arrives in India for BRICS summit (VIDEO)",
+      "title_fa": "پوتین برای شرکت در نشست سران بریکس وارد هند شد",
+      "lead": "رئیس‌جمهور روسیه در جریان سفری سه‌روزه به هند، علاوه بر شرکت در نشست بریکس، با نارندا مودی، نخست‌وزیر این کشور دیدار و گفتگو خواهد کرد و از نمایشگاه صنعتی اینوپروم بازدید می‌کند.",
+      "category": "diplomacy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/645413-putin-india-modi-brics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Thu, 10 Sep 2026 22:17:53 +0000",
+      "time": "۰۱:۴۷ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-10T22:31:20.916Z"
     }
   ]
 }
