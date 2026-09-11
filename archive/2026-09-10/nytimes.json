@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_e1257fa646",
@@ -59,6 +59,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-10T02:31:37.757Z"
+    },
+    {
+      "id": "nytimes_a14af68069",
+      "agencyId": "nytimes",
+      "title": "At Least 5 Dead, More Than 80 Missing After Ferry Fire in the Philippines",
+      "title_fa": "دستکم ۵ کشته و بیش از ۸۰ مفقودی در پی آتش‌سوزی یک کشتی مسافربری در فیلیپین",
+      "lead": "کشتی «جون استر» که از مانیلا عازم مقصد گردشگری کورون بود، پس از بروز آتش‌سوزی در عرشه دچار حادثه شد. در این حادثه دستکم ۵ نفر جان خود را از دست دادند و بیش از ۸۰ تن مفقود شدند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html",
+      "pubDate": "Thu, 10 Sep 2026 03:59:34 +0000",
+      "time": "۰۷:۲۹ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-10T04:16:20.608Z"
     }
   ]
 }
