@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_e1257fa646",
@@ -357,6 +357,25 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-10T10:46:43.366Z"
+    },
+    {
+      "id": "nytimes_bf35e0dc73",
+      "agencyId": "nytimes",
+      "title": "Cargo Ship Fire in Eastern China Kills 25",
+      "title_fa": "آتش‌سوزی در یک کشتی باری در شرق چین ۲۵ کشته بر جای گذاشت",
+      "lead": "به گفته رسانه‌های دولتی، این کشتی در زمان وقوع آتش‌سوزی برای تعمیرات در بندر کینگ‌دائو پهلو گرفته بود و علت حادثه هنوز نامشخص است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/world/asia/china-cargo-ship-fire-qingdao.html",
+      "pubDate": "Thu, 10 Sep 2026 13:22:11 +0000",
+      "time": "۱۶:۵۲ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-10T13:31:56.703Z"
     }
   ]
 }
