@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "rt",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "rt_acf79c9b50",
@@ -40,6 +40,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-10T00:31:29.033Z"
+    },
+    {
+      "id": "rt_1e737a2581",
+      "agencyId": "rt",
+      "title": "WATCH LIVE: Trump addresses Republican convention",
+      "title_fa": "پخش زنده: سخنرانی ترامپ در کنوانسیون جمهوری‌خواهان",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، پیش از انتخابات سرنوشت‌ساز ماه نوامبر، در نخستین کنوانسیون میان‌دوره‌ای حزب جمهوری‌خواه در دالاس سخنرانی می‌کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/645368-trump-republican-convention-speech/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Thu, 10 Sep 2026 01:10:31 +0000",
+      "time": "۰۴:۴۰ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-10T01:16:15.202Z"
+    },
+    {
+      "id": "rt_17dcfb0155",
+      "agencyId": "rt",
+      "title": "OpenAI math breakthrough sparks controversy",
+      "title_fa": "پیشرفت هوش مصنوعی OpenAI در ریاضیات جنجال‌برانگیز شد",
+      "lead": "شرکت OpenAI متهم شده است که برای بزرگنمایی فناوری خود و افزایش ارزش سهامش، دستاوردهای هوش مصنوعی در حل معادلات ناویه-استوکس را بیش از اندازه واقعی جلوه داده است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/645362-openai-math-breakthrough-backlash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Thu, 10 Sep 2026 01:07:30 +0000",
+      "time": "۰۴:۳۷ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-10T01:16:15.202Z"
     }
   ]
 }
