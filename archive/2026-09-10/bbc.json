@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_12ba57dbef",
@@ -78,6 +78,25 @@
         "negative": 90
       },
       "analyzed_at": "2026-09-10T04:31:32.988Z"
+    },
+    {
+      "id": "bbc_30514cc5ea",
+      "agencyId": "bbc",
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "title_fa": "ترامپ: جنگ ایران تا پس از انتخابات سرنوشت‌ساز نوامبر پایان نمی‌یابد",
+      "lead": "رئیس‌جمهور آمریکا همچنین اعلام کرد که قیمت نفت تا پس از رقابت‌های نوامبر کاهش نخواهد یافت و مدعی شد که ایران به دنبال تأثیرگذاری بر انتخابات است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 04:21:00 GMT",
+      "time": "۰۷:۵۱ - ۱۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-10T05:01:43.374Z"
     }
   ]
 }
