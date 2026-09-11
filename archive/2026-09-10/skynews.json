@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "skynews",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "skynews_d2adf563cb",
@@ -40,6 +40,24 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-10T09:02:09.005Z"
+    },
+    {
+      "id": "skynews_a75f80a47f",
+      "agencyId": "skynews",
+      "title": "Oil rises above $100 a barrel as Middle East conflict escalates - use our tracker to see impact on prices",
+      "title_fa": "با بالا گرفتن درگیری‌ها در خاورمیانه، قیمت نفت از مرز ۱۰۰ دلار در هر بشکه فراتر رفت",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/oil-rises-above-100-a-barrel-as-middle-east-conflict-escalates-use-our-tracker-to-see-impact-on-prices-13583070",
+      "pubDate": "Wed, 09 Sep 2026 08:30:00 +0100",
+      "time": "۱۱:۰۰ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-10T09:17:05.636Z"
     }
   ]
 }
