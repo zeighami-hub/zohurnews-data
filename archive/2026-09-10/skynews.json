@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "skynews",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "skynews_d2adf563cb",
@@ -134,6 +134,44 @@
         "negative": 55
       },
       "analyzed_at": "2026-09-10T13:17:01.176Z"
+    },
+    {
+      "id": "skynews_b6613fdffc",
+      "agencyId": "skynews",
+      "title": "What is MAGA land really like? Inside Trump's Texan convention",
+      "title_fa": "سرزمین مگا واقعاً چگونه است؟ نگاهی به درون کنفرانس ترامپ در تگزاس",
+      "lead": "این گزارش به بررسی جو و شرایط حاکم بر کنفرانس دونالد ترامپ در ایالت تگزاس و فضای حامیان او موسوم به سرزمین مگا می‌پردازد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/insidetrumps-texanconvention-13583928",
+      "pubDate": "Thu, 10 Sep 2026 11:22:00 +0100",
+      "time": "۱۳:۵۲ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-10T19:01:49.246Z"
+    },
+    {
+      "id": "skynews_eea158d520",
+      "agencyId": "skynews",
+      "title": "Container ship arrives in UK after landmark voyage from China via the Arctic",
+      "title_fa": "یک فروند کشتی کانتینربر پس از سفری تاریخی از چین از مسیر قطب شمال وارد بریتانیا شد",
+      "lead": "یک کشتی کانتینربر پس از سفری تاریخی از چین و عبور از قطب شمال وارد بریتانیا شد. این سفر بخشی از برنامه‌ریزی‌ها برای استفاده بیشتر شناورها از این مسیر به عنوان جایگزینی کوتاه‌تر و به‌طور بالقوه امن‌تر نسبت به کانال سوئز است.",
+      "category": "culture",
+      "region": "asia",
+      "sourceUrl": "https://news.sky.com/story/container-ship-arrives-in-uk-after-landmark-voyage-from-china-via-the-arctic-13583631",
+      "pubDate": "Wed, 09 Sep 2026 16:00:00 +0100",
+      "time": "۱۸:۳۰ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-10T19:01:49.246Z"
     }
   ]
 }
