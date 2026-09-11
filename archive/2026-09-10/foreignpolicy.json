@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "foreignpolicy",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "foreignpolicy_20ba9ec46f",
@@ -458,6 +458,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-10T22:01:37.839Z"
+    },
+    {
+      "id": "foreignpolicy_f5625826af",
+      "agencyId": "foreignpolicy",
+      "title": "Iran Launches Massive Attack on Global Shipping",
+      "title_fa": "ایران حمله گسترده‌ای را به کشتیرانی جهانی آغاز کرد",
+      "lead": "این حملات تنگه هرمز را در پی صعود شدید قیمت جهانی نفت تحت فشار فزاینده‌ای قرار می‌دهد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://foreignpolicy.com/2026/09/09/iran-strikes-shipping-strait-hormuz-jordan-us-oil-prices/",
+      "pubDate": "Wed, 09 Sep 2026 21:19:26 +0000",
+      "time": "۰۰:۴۹ - ۱۹ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-10T23:01:44.254Z"
+    },
+    {
+      "id": "foreignpolicy_c59c9d1d95",
+      "agencyId": "foreignpolicy",
+      "title": "Why Is China’s Officer Corps So Sprawling?",
+      "title_fa": "چرا بدنه افسران چین تا این حد گسترده است؟",
+      "lead": "بررسی ساختار نظامی چین نشان می‌دهد که همه ژنرال‌های ارتش آزادیبخش خلق فرماندهی نیروها را بر عهده ندارند و دلایل مختلفی برای گستردگی بدنه افسران این کشور وجود دارد.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://foreignpolicy.com/2026/09/08/china-pla-officer-corps-military-ccp/",
+      "pubDate": "Tue, 08 Sep 2026 21:50:07 +0000",
+      "time": "۰۱:۲۰ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-10T23:01:44.254Z"
     }
   ]
 }
