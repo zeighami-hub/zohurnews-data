@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "bbc",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "bbc_12ba57dbef",
@@ -40,6 +40,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-10T00:46:25.859Z"
+    },
+    {
+      "id": "bbc_1de738b3c4",
+      "agencyId": "bbc",
+      "title": "Hong Kong's first leader after British handover dies",
+      "title_fa": "نخستین رهبر هنگ‌کنگ پس از واگذاری به بریتانیا درگذشت",
+      "lead": "دوران زمامداری تانگ چی-هوا، نخستین رهبر هنگ‌کنگ پس از تحویل این شهر از سوی بریتانیا به چین، با بحران‌ها و اعتراضات متعددی همراه بود.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 04:24:30 GMT",
+      "time": "۰۷:۵۴ - ۱۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-10T04:01:41.168Z"
     }
   ]
 }
