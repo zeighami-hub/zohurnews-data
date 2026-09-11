@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "bbc",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "bbc_12ba57dbef",
@@ -116,6 +116,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-10T05:31:33.041Z"
+    },
+    {
+      "id": "bbc_3c5aa29fc1",
+      "agencyId": "bbc",
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "title_fa": "قیمت نفت پس از حملات آمریکا و حوثی‌ها برای نخستین بار از ماه ژوئیه به ۱۰۰ دلار رسید",
+      "lead": "نفت برنت، شاخص جهانی قیمت‌ها، پس از حمله روز سه‌شنبه ایالات متحده به پنج نفتکش ایرانی، افزایش یافت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 16:46:53 GMT",
+      "time": "۲۰:۱۶ - ۱۸ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-10T06:01:51.489Z"
     }
   ]
 }
