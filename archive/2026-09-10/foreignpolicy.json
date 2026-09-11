@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "foreignpolicy",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "foreignpolicy_20ba9ec46f",
@@ -249,6 +249,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-10T14:32:12.097Z"
+    },
+    {
+      "id": "foreignpolicy_df4644171b",
+      "agencyId": "foreignpolicy",
+      "title": "How Could Iran Happen? An Autopsy.",
+      "title_fa": "چگونه ایران اتفاق افتاد؟ کالبدشکافی یک رویداد",
+      "lead": "جنگ رئیس‌جمهور علیه دولت پنهان مستقیماً به افتضاح او در خاورمیانه منجر شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://foreignpolicy.com/2026/09/09/trump-iran-deep-state-purges-intelligence-bureaucracy/",
+      "pubDate": "Wed, 09 Sep 2026 14:19:47 +0000",
+      "time": "۱۷:۴۹ - ۱۸ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-10T15:17:04.117Z"
+    },
+    {
+      "id": "foreignpolicy_1f528d446c",
+      "agencyId": "foreignpolicy",
+      "title": "South Korea Should Help Defend Ukraine’s Skies",
+      "title_fa": "کره جنوبی باید به دفاع از آسمان اوکراین کمک کند",
+      "lead": "سئول می‌تواند ثابت کند که شریکی واقعی برای اروپا است و نه صرفاً یک بازیگر فرصت‌طلب.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://foreignpolicy.com/2026/09/08/russia-ukraine-war-south-korea-air-defense-interceptors/",
+      "pubDate": "Tue, 08 Sep 2026 13:15:03 +0000",
+      "time": "۱۶:۴۵ - ۱۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-10T15:04:31.866Z"
     }
   ]
 }
