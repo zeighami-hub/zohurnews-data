@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_e1257fa646",
@@ -116,6 +116,152 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-10T04:46:28.458Z"
+    },
+    {
+      "id": "nytimes_8386dfc112",
+      "agencyId": "nytimes",
+      "title": "Why Yemen Is Back on the Brink of War",
+      "title_fa": "چرا یمن دوباره در آستانه جنگ قرار گرفته است؟",
+      "lead": "شبه‌نظامیان حوثی، دولت یمن، ایران و عربستان سعودی هر یک دلایلی برای تشدید درگیری‌ها در این کشور دارند که یمن را بار دیگر به لبه پرتگاه جنگ کشانده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/world/middleeast/yemen-houthis-saudis-war.html",
+      "pubDate": "Thu, 10 Sep 2026 09:08:43 +0000",
+      "time": "۱۲:۳۸ - ۱۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-10T09:17:05.636Z"
+    },
+    {
+      "id": "nytimes_4146e01900",
+      "agencyId": "nytimes",
+      "title": "The ‘Forever War’ in Afghanistan: 25 Years in Pictures",
+      "title_fa": "«جنگ بی‌پایان» در افغانستان: ۲۵ سال در قاب تصویر",
+      "lead": "این گزارش تصویری نگاهی دارد به ربع قرن درگیری و جنگ مستمر در افغانستان از طریق مجموعه‌ای از عکس‌ها و روایات مستند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/world/asia/afghanistan-war-photojournalism.html",
+      "pubDate": "Thu, 10 Sep 2026 09:12:12 +0000",
+      "time": "۱۲:۴۲ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-10T09:17:05.636Z"
+    },
+    {
+      "id": "nytimes_6530743cfd",
+      "agencyId": "nytimes",
+      "title": "Carney, at a Cabinet Retreat, Considers Further Trade Strikes Against the U.S.",
+      "title_fa": "کارنی در نشست هیئت دولت، بررسی حملات تجاری بیشتر علیه ایالات متحده را در دستور کار قرار داد",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/world/canada/carney-trump-canada-us-trade-war-tariffs.html",
+      "pubDate": "Thu, 10 Sep 2026 09:04:54 +0000",
+      "time": "۱۲:۳۴ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-10T09:17:05.636Z"
+    },
+    {
+      "id": "nytimes_d48bc674c1",
+      "agencyId": "nytimes",
+      "title": "Kenneth Feinberg Recalls Running the 9/11 Compensation Fund",
+      "title_fa": "کنت فاینبرگ از دوران مدیریت صندوق غرامت حوادث ۱۱ سپتامبر یاد می‌کند",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/world/kenneth-feinberg-sept-11-compensation.html",
+      "pubDate": "Thu, 10 Sep 2026 09:04:18 +0000",
+      "time": "۱۲:۳۴ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-10T09:17:05.636Z"
+    },
+    {
+      "id": "nytimes_11e8667c49",
+      "agencyId": "nytimes",
+      "title": "After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie",
+      "title_fa": "پس از یک فقدان دشوار، نیجریه برای چیماماندا نگوزی آدیشی به منبع رنج تبدیل شده است",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html",
+      "pubDate": "Thu, 10 Sep 2026 09:03:16 +0000",
+      "time": "۱۲:۳۳ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-10T09:17:05.636Z"
+    },
+    {
+      "id": "nytimes_04a3125d5f",
+      "agencyId": "nytimes",
+      "title": "25 Years After 9/11, Al Qaeda Still Has a Home in Afghanistan",
+      "title_fa": "بیست و پنج سال پس از ۱۱ سپتامبر، القاعده همچنان در افغانستان پایگاه دارد",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/world/asia/25-years-after-9-11-al-qaeda-still-has-a-home-in-afghanistan.html",
+      "pubDate": "Thu, 10 Sep 2026 09:02:44 +0000",
+      "time": "۱۲:۳۲ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-10T09:17:05.636Z"
+    },
+    {
+      "id": "nytimes_b8ffe8f18b",
+      "agencyId": "nytimes",
+      "title": "Where to See the World’s Bayeux Tapestry Replicas",
+      "title_fa": "کجا می‌توان کپی‌های پرده نگار بایو در جهان را دید",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/arts/design/bayeux-tapestry-replicas.html",
+      "pubDate": "Thu, 10 Sep 2026 09:02:42 +0000",
+      "time": "۱۲:۳۲ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-10T09:17:05.636Z"
+    },
+    {
+      "id": "nytimes_f08f035088",
+      "agencyId": "nytimes",
+      "title": "Gander Welcomed Americans in 2001. Now, U.S.-Canada Tensions Hit Home",
+      "title_fa": "گندر در سال ۲۰۰۱ از آمریکایی‌ها استقبال کرد؛ اکنون تنش‌های ایالات متحده و کانادا نمود داخلی پیدا کرده است",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/world/canada/9-11-gander-newfoundland-canada-us.html",
+      "pubDate": "Thu, 10 Sep 2026 09:00:41 +0000",
+      "time": "۱۲:۳۰ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-10T09:17:05.636Z"
     }
   ]
 }
