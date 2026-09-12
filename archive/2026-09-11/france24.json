@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
   "agencyId": "france24",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "france24_2c6355f610",
@@ -59,6 +59,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-11T03:31:27.796Z"
+    },
+    {
+      "id": "france24_23489fc584",
+      "agencyId": "france24",
+      "title": "Middle East live: Trump says he has no regrets about launching Iran war",
+      "title_fa": "خاورمیانه زنده: ترامپ می‌گوید از راه اندازی جنگ با ایران پشیمان نیست",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه با فاکس نیوز اعلام کرد که هیچ پشیمانی از آغاز جنگ ایالات متحده و اسرائیل علیه ایران ندارد و اگر فرصتی دوباره داشت، دقیقاً همان کار را تکرار می‌کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260911-middle-east-live-trump-says-he-has-no-regrets-about-launching-war-on-iran",
+      "pubDate": "Fri, 11 Sep 2026 04:52:21 GMT",
+      "time": "۰۸:۲۲ - ۲۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-11T05:46:47.121Z"
+    },
+    {
+      "id": "france24_204dca0c8e",
+      "agencyId": "france24",
+      "title": "Hong Kong court sentences Tiananmen vigil activists to between 5 and 7 years in jail",
+      "title_fa": "دادگاه هنگ کنگ فعالان مراسم یادبود میدان تیان‌آنمن را به ۵ تا ۷ سال زندان محکوم کرد",
+      "lead": "سه فعال که مراسم یادبود سالانه برای قربانیان سرکوب میدان تیان‌آنمن برگزار کرده بودند، روز جمعه به دلیل فراخوان برای «پایان دادن به دیکتاتوری تک‌حزبی» به حبس‌های بین پنج تا هفت سال محکوم شدند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail",
+      "pubDate": "Fri, 11 Sep 2026 01:49:17 GMT",
+      "time": "۰۵:۱۹ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-11T05:46:47.121Z"
     }
   ]
 }
