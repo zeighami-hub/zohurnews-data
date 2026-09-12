@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
   "agencyId": "aljazeera",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "aljazeera_3f703be9fe",
@@ -173,6 +173,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-11T02:31:33.874Z"
+    },
+    {
+      "id": "aljazeera_347744f1e5",
+      "agencyId": "aljazeera",
+      "title": "Young republicans break with Trump over Iran war",
+      "title_fa": "شکاف میان جمهوری‌خواهان جوان و ترامپ بر سر جنگ با ایران",
+      "lead": "در نشست میان‌دوره‌ای کمیته ملی جمهوری‌خواه (RNC)، یک شکاف نسلی آشکار میان جمهوری‌خواهان جوان‌تر و مسن‌تر در حال شکل‌گیری است. این اختلاف‌نظر به‌ویژه در خصوص رویکردها نسبت به جنگ با ایران بروز یافته است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
+      "pubDate": "Fri, 11 Sep 2026 02:45:52 +0000",
+      "time": "۰۶:۱۵ - ۲۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-11T03:16:18.451Z"
+    },
+    {
+      "id": "aljazeera_774a34112f",
+      "agencyId": "aljazeera",
+      "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+      "title_fa": "ورود پوتین به هند برای شرکت در نشست بریکس در سایه جنگ‌های ایران و اوکراین",
+      "lead": "رهبران روسیه و ایران قرار است در جریان نشست سران بریکس در هند، با مودی نخست‌وزیر این کشور دیدار و گفتگو کنند. این نشست تحت‌تأثیر جنگ‌ها در خاورمیانه و اوکراین قرار دارد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
+      "pubDate": "Fri, 11 Sep 2026 02:40:19 +0000",
+      "time": "۰۶:۱۰ - ۲۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 15,
+        "neutral": 65,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-11T03:16:18.451Z"
     }
   ]
 }
