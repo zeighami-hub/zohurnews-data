@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
   "agencyId": "bbc",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "bbc_30514cc5ea",
@@ -477,6 +477,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-11T16:31:46.400Z"
+    },
+    {
+      "id": "bbc_4735558be3",
+      "agencyId": "bbc",
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "title_fa": "ادعای حوثی‌ها درباره پیشروی بزرگ در یمن و تشدید تسلط بر مسیر کشتیرانی دریای سرخ",
+      "lead": "حوثی‌های تحت حمایت ایران همچنین گزارش شده است که کنترل جزیره استراتژیک پریم در مسیر اصلی کشتیرانی را به دست گرفته‌اند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 16:58:34 GMT",
+      "time": "۲۰:۲۸ - ۲۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 50,
+        "negative": 45
+      },
+      "analyzed_at": "2026-09-11T17:32:06.563Z"
+    },
+    {
+      "id": "bbc_c0eabebf99",
+      "agencyId": "bbc",
+      "title": "More than 20 children killed in DR Congo school fire",
+      "title_fa": "بیش از ۲۰ کودک در آتش‌سوزی مدرسه در جمهوری دموکراتیک کنگو جان باختند",
+      "lead": "مقامات می‌گویند هنگام فرار از آتش‌سوزی که دو مدرسه را در شهر بوکاوو در شرق تحت کنترل شورشیان فرا گرفته بود، ازدحام و زیر دست‌وپا ماندن رخ داده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 19:16:24 GMT",
+      "time": "۲۲:۴۶ - ۱۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-11T17:32:06.563Z"
     }
   ]
 }
