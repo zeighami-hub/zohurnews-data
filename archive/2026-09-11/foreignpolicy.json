@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
   "agencyId": "foreignpolicy",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "foreignpolicy_b241dc19ec",
@@ -401,6 +401,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-11T20:17:32.577Z"
+    },
+    {
+      "id": "foreignpolicy_08c748e066",
+      "agencyId": "foreignpolicy",
+      "title": "The Bab el-Mandeb Problem",
+      "title_fa": "مسئله باب المندب",
+      "lead": "کنترل حوثی‌ها بر یک بندر در دریای سرخ، تهران را به ادعای تسلط بر یکی دیگر از آبراه‌های حیاتی جهان نزدیک‌تر می‌کند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://foreignpolicy.com/2026/09/10/houthis-yemen-mokha-port-red-sea-bab-el-mandeb-iran-saudi-arabia-strait-hormuz/",
+      "pubDate": "Thu, 10 Sep 2026 20:04:01 +0000",
+      "time": "۲۳:۳۴ - ۱۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-11T21:16:25.058Z"
+    },
+    {
+      "id": "foreignpolicy_e34b99ef31",
+      "agencyId": "foreignpolicy",
+      "title": "Why AfD Appeals to So Many Germans",
+      "title_fa": "چرا حزب آلترناتیو برای آلمان (AfD) برای بسیاری از آلمانی‌ها جذاب است؟",
+      "lead": "این حزب راست افراطی اخیراً پیروزی چشمگیری در یک انتخابات منطقه‌ای به دست آورده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://foreignpolicy.com/2026/09/11/afd-germany-saxony-anhalt-election-far-right/",
+      "pubDate": "Fri, 11 Sep 2026 20:30:05 +0000",
+      "time": "۰۰:۰۰ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-11T21:16:25.058Z"
     }
   ]
 }
