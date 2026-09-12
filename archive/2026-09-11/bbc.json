@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
   "agencyId": "bbc",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_30514cc5ea",
@@ -420,6 +420,25 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-11T10:47:36.961Z"
+    },
+    {
+      "id": "bbc_def4619a06",
+      "agencyId": "bbc",
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "title_fa": "دستگیری یک راهب بودایی در پرونده رسوایی اختلاس ۳ میلیون دلاری",
+      "lead": "پلیس تایلند همچنین یک زن همدست را که با این راهبِ متعهد به تجرد در حال رابطه جنسی فیلمبرداری شده بود، دستگیر کرد.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 10:50:04 GMT",
+      "time": "۱۴:۲۰ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-11T11:16:57.004Z"
     }
   ]
 }
