@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_d2adf563cb",
@@ -59,6 +59,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-11T09:46:38.362Z"
+    },
+    {
+      "id": "skynews_8f174820ed",
+      "agencyId": "skynews",
+      "title": "At least 20 people killed after fire breaks out on cargo ship in Chinese port",
+      "title_fa": "دستکم ۲۰ نفر پس از وقوع آتش‌سوزی در یک کشتی باری در بندری در چین کشته شدند",
+      "lead": "به گزارش رسانه‌های دولتی، دستکم ۲۰ نفر در پی آتش گرفتن یک کشتی باری که در بندری در چین پهلو گرفته بود، جان باختند و پنج نفر دیگر مفقود هستند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/at-least-20-people-killed-after-fire-breaks-out-on-cargo-ship-in-china-port-13583942",
+      "pubDate": "Thu, 10 Sep 2026 11:58:00 +0100",
+      "time": "۱۴:۲۸ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 15,
+        "negative": 85
+      },
+      "analyzed_at": "2026-09-11T11:31:49.329Z"
+    },
+    {
+      "id": "skynews_69a949f8dc",
+      "agencyId": "skynews",
+      "title": "Iceland set to open store in Falklands and become first UK high street retailer on islands",
+      "title_fa": "فروشگاه ایسلند در جزایر فالکلند افتتاح می شود و اولین خرده فروش خیابانی بریتانیا در این جزایر خواهد بود",
+      "lead": "شرکت ایسلند تایید کرده است که یک شعبه در جزایر فالکلند افتتاح خواهد کرد و بدین ترتیب به اولین برند خیابانی بریتانیا تبدیل می شود که در آنجا فعالیت می کند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/iceland-set-to-open-store-in-falklands-and-become-first-uk-high-street-retailer-on-islands-13583914",
+      "pubDate": "Thu, 10 Sep 2026 11:08:00 +0100",
+      "time": "۱۳:۳۸ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-11T11:16:57.004Z"
     }
   ]
 }
