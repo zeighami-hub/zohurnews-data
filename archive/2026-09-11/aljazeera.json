@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
   "agencyId": "aljazeera",
-  "total": 42,
+  "total": 44,
   "articles": [
     {
       "id": "aljazeera_3f703be9fe",
@@ -800,6 +800,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-11T12:03:27.642Z"
+    },
+    {
+      "id": "aljazeera_64edf60ef4",
+      "agencyId": "aljazeera",
+      "title": "Myanmar airport closed following reported drone attack",
+      "title_fa": "تعطیلی فرودگاه میانمار پس از گزارش حمله پهپادی",
+      "lead": "دولت نظامی میانمار این حمله را به شورشیان طرفدار دموکراسی نسبت داد که از زمان کودتای سال ۲۰۲۱ با آن‌ها در جنگ است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/11/myanmar-airport-closed-following-reported-drone-attack?traffic_source=rss",
+      "pubDate": "Fri, 11 Sep 2026 12:22:12 +0000",
+      "time": "۱۵:۵۲ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-11T12:32:29.916Z"
+    },
+    {
+      "id": "aljazeera_370f3af012",
+      "agencyId": "aljazeera",
+      "title": "‘A historic day’: Spain moves closer to citizenship for Western Saharans",
+      "title_fa": "«یک روز تاریخی»: اسپانیا به اعطای شهروندی به ساکنان صحرای غربی نزدیک‌تر شد",
+      "lead": "پارلمان اسپانیا در بحبوحه تنش در روابط با مراکش پس از گذرگاه سبته، از اعطای شهروندی به صحراوی‌ها حمایت کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/11/a-historic-day-spain-moves-closer-to-citizenship-for-western-saharans?traffic_source=rss",
+      "pubDate": "Fri, 11 Sep 2026 12:09:50 +0000",
+      "time": "۱۵:۳۹ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-11T12:32:29.916Z"
     }
   ]
 }
