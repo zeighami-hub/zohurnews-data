@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_ebaa37a016",
@@ -173,6 +173,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-11T09:16:42.445Z"
+    },
+    {
+      "id": "nytimes_8386dfc112",
+      "agencyId": "nytimes",
+      "title": "Why Yemen Is Back on the Brink of War",
+      "title_fa": "چرا یمن دوباره در آستانه جنگ قرار گرفته است؟",
+      "lead": "به‌طور هم‌زمان شبه‌نظامیان حوثی، دولت یمن، ایران و عربستان سعودی هر یک دلایلی برای تشدید درگیری‌ها دارند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/world/middleeast/yemen-houthis-saudis-war.html",
+      "pubDate": "Thu, 10 Sep 2026 16:12:07 +0000",
+      "time": "۱۹:۴۲ - ۱۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-11T09:46:38.362Z"
+    },
+    {
+      "id": "nytimes_4146e01900",
+      "agencyId": "nytimes",
+      "title": "The ‘Forever War’ in Afghanistan: 25 Years in Pictures",
+      "title_fa": "«جنگ بی‌پایان» در افغانستان: ۲۵ سال در قالب تصاویر",
+      "lead": "نیویورک تایمز از هفته‌های نخست پس از حملات ۱۱ سپتامبر تا خروج آشفته ایالات متحده و بازگشت طالبان، یک ربع قرن درگیری و زندگی روزمره در افغانستان را مستند کرده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/world/asia/afghanistan-war-photojournalism.html",
+      "pubDate": "Thu, 10 Sep 2026 11:52:52 +0000",
+      "time": "۱۵:۲۲ - ۱۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-11T09:46:38.362Z"
     }
   ]
 }
