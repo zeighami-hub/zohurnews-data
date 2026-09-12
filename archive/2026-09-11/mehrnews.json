@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
   "agencyId": "mehrnews",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "mehrnews_0cd590cac0",
@@ -135,6 +135,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-11T06:17:00.345Z"
+    },
+    {
+      "id": "mehrnews_eb3f23618a",
+      "agencyId": "mehrnews",
+      "title": "UN meeting on Iran nuclear file abuse of process",
+      "title_fa": "نشست سازمان ملل درباره پرونده هسته‌ای ایران؛ سوءاستفاده از روند قانونی",
+      "lead": "نماینده ایران در سازمان ملل متحد به شورای امنیت اعلام کرد که اتهامات جدید علیه برنامه هسته‌ای صلح‌آمیز ایران ماهیت سیاسی دارد تا فنی. وی همچنین یادآور شد که قطعنامه ۲۲۳۱ در ۱۸ اکتبر ۲۰۲۵ منقضی شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/247642/UN-meeting-on-Iran-nuclear-file-abuse-of-process",
+      "pubDate": "Fri, 11 Sep 2026 06:29:15 GMT",
+      "time": "۰۹:۵۹ - ۲۰ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-11T06:32:13.378Z"
+    },
+    {
+      "id": "mehrnews_e0e3115178",
+      "agencyId": "mehrnews",
+      "title": "Iran Foreign Ministry reacts to developments in Yemen",
+      "title_fa": "واکنش وزارت خارجه ایران به تحولات یمن",
+      "lead": "وزارت امور خارجه ایران در بیانیه‌ای پیرامون یمن بر احترام به استقلال، حاکمیت ملی و تمامیت ارضی این کشور تأکید کرد. این وزارتخانه همچنین خواستار پایان دادن به محاصره غیرقانونی و غیرانسان‌دوستانه یمن شد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247641/Iran-Foreign-Ministry-reacts-to-developments-in-Yemen",
+      "pubDate": "Fri, 11 Sep 2026 06:16:38 GMT",
+      "time": "۰۹:۴۶ - ۲۰ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-11T06:32:13.378Z"
     }
   ]
 }
