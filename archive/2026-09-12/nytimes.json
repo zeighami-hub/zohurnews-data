@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_114e22d76d",
@@ -249,6 +249,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-12T09:16:48.932Z"
+    },
+    {
+      "id": "nytimes_14346c528d",
+      "agencyId": "nytimes",
+      "title": "Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen’s War",
+      "title_fa": "چرا موخا، بندر تاریخی شکل‌دهنده تجارت قهوه، جایزه‌ای در جنگ یمن است؟",
+      "lead": "موقعیت استراتژیک در دریای سرخ به این شهر قرن‌ها تسلط تجاری بخشیده و آن را به هدفی مطلوب در جنگ‌های امروزی خاورمیانه تبدیل کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/middleeast/mokha-yemen-houthis-mocha-coffee.html",
+      "pubDate": "Sat, 12 Sep 2026 10:09:22 +0000",
+      "time": "۱۳:۳۹ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-12T10:16:38.844Z"
+    },
+    {
+      "id": "nytimes_23f8818f99",
+      "agencyId": "nytimes",
+      "title": "Why Carney Isn’t Rushing Back to the Negotiating Table",
+      "title_fa": "چرا کارنی برای بازگشت به میز مذاکره عجله‌ای ندارد؟",
+      "lead": "کانادایی‌ها از موضع سرسختانه او در تجارت با ایالات متحده حمایت می‌کنند. یک کارشناس می‌گوید این حمایت انگیزه‌ای برای او باقی نمی‌گذارد که به این زودی‌ها مذاکرات را از سر بگیرد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/canada/us-canada-trade-war-carney-trump.html",
+      "pubDate": "Sat, 12 Sep 2026 10:00:09 +0000",
+      "time": "۱۳:۳۰ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-12T10:16:38.844Z"
     }
   ]
 }
