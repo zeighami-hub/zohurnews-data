@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_114e22d76d",
@@ -382,6 +382,63 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-12T13:31:45.301Z"
+    },
+    {
+      "id": "nytimes_22d7a55e7e",
+      "agencyId": "nytimes",
+      "title": "Police Uncover Scheme Using Fake Horse Passports to Traffic Animals",
+      "title_fa": "پلیس شبکه جعل گذرنامه اسب را برای قاچاق حیوانات کشف کرد",
+      "lead": "نیروهای پلیس در بلژیک، فرانسه، ایرلند و هلند اعلام کردند که به یک شبکه کلاهبرداری مشکوک هستند که اقدام به جعل هویت و کپی‌برداری از ریزتراشه‌های صدها اسب کرده است.",
+      "category": "technology",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/11/world/europe/horses-trafficked-europe-fake-passports.html",
+      "pubDate": "Fri, 11 Sep 2026 18:35:40 +0000",
+      "time": "۲۲:۰۵ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-12T15:46:31.763Z"
+    },
+    {
+      "id": "nytimes_3dd0b86a8d",
+      "agencyId": "nytimes",
+      "title": "Iran Finds Escalation Is a Fruitful Path to Leverage in War With U.S.",
+      "title_fa": "ایران تشدید تنش را مسیری مؤثر برای اهرم فشار در جنگ با آمریکا می‌داند",
+      "lead": "ایران و متحدانش هم‌اکنون بر دو مسیر کلیدی حمل‌ونقل نفت تسلط دارند و تهران زمینه را برای یک پیروزی دیپلماتیک فراهم می‌کند که می‌تواند جایگاه این کشور را ارتقا دهد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
+      "pubDate": "Sat, 12 Sep 2026 15:23:03 +0000",
+      "time": "۱۸:۵۳ - ۲۱ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-12T15:31:48.404Z"
+    },
+    {
+      "id": "nytimes_f3fc86b117",
+      "agencyId": "nytimes",
+      "title": "U.S. allies in Europe recall trans-Atlantic bonds after the 9/11 attacks.",
+      "title_fa": "متحدان ایالات متحده در اروپا پیوندهای ترانس‌آتلانتیک را پس از حملات ۱۱ سپتامبر یادآوری می‌کنند",
+      "lead": "در حالی که اروپا با دوران عقب‌نشینی آمریکا دست‌وپنجه نرم می‌کند، این کشورها روابط گذشته را مرور می‌کنند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/live/2026/09/11/nyregion/9-11-anniversary-25th/europe-us-allies-sept-11",
+      "pubDate": "Fri, 11 Sep 2026 16:00:50 +0000",
+      "time": "۱۹:۳۰ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-12T15:31:48.404Z"
     }
   ]
 }
