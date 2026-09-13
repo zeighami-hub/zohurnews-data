@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_114e22d76d",
@@ -116,6 +116,139 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-12T07:47:02.346Z"
+    },
+    {
+      "id": "nytimes_af1af43423",
+      "agencyId": "nytimes",
+      "title": "Inside an Ancient Lebanese City Engulfed by War",
+      "title_fa": "روایتی از یک شهر باستانی لبنان که در آتش جنگ گرفتار شده است",
+      "lead": "شهر صور در لبنان که یکی از قدیمی‌ترین کلان‌شهرهای جهان به شمار می‌رود، بر اثر جنگ آسیب‌های زیادی دیده و با زخم‌های عمیقی روبه‌روست.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/11/world/middleeast/tyre-engulfed-war-lebanon.html",
+      "pubDate": "Sat, 12 Sep 2026 07:18:28 +0000",
+      "time": "۱۰:۴۸ - ۲۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-12T09:31:56.342Z"
+    },
+    {
+      "id": "nytimes_70da5ca965",
+      "agencyId": "nytimes",
+      "title": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
+      "title_fa": "نگرانی ساکنان ایزیوم از نابودی مجدد با نزدیک شدن نیروهای روسی",
+      "lead": "شهر ایزیوم اوکراین همچنان آثار اشغال روسیه از چهار سال پیش را به همراه دارد و با پیشروی نیروهای مسکو، ساکنان این شهر خود را برای سناریوهای احتمالی آماده می‌کنند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
+      "pubDate": "Fri, 11 Sep 2026 18:08:17 +0000",
+      "time": "۲۱:۳۸ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-12T09:31:56.342Z"
+    },
+    {
+      "id": "nytimes_f90b451aaa",
+      "agencyId": "nytimes",
+      "title": "For China, a Mock A.I. Attack on WeChat Signals a Dangerous New Era",
+      "title_fa": "آزمایش حمله سایبری هوش مصنوعی به وی‌چت و زنگ خطری جدید برای چین",
+      "lead": "شبیه‌سازی یک سلاح سایبری قدرتمند علیه پلتفرم وی‌چت، آسیب‌پذیری‌های سایبری چین را آشکار کرده و ضرورت گفت‌وگوهای امنیتی هوش مصنوعی میان پکن و واشنگتن را دوچندان ساخته است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/11/world/asia/china-ai-attack-wechat.html",
+      "pubDate": "Fri, 11 Sep 2026 15:13:57 +0000",
+      "time": "۱۸:۴۳ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-12T09:31:56.342Z"
+    },
+    {
+      "id": "nytimes_4c51993e70",
+      "agencyId": "nytimes",
+      "title": "Dopamine Sites Sell Nothing, and People Cannot Get Enough",
+      "title_fa": "سایت‌های دوپامین چیزی نمی‌فروشند و مردم نمی‌توانند از آن‌ها سیر شوند",
+      "lead": "فضای دیجیتالی که لذت‌هایی مانند خرید و سفارش غذا را شبیه‌سازی می‌کنند، در سراسر جهان فراگیر شده‌اند. متخصصان رفتار انسانی می‌گویند دلایل واقعی برای جذابیت آن‌ها وجود دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/11/world/asia/dopamine-sites-popularity.html",
+      "pubDate": "Fri, 11 Sep 2026 09:02:23 +0000",
+      "time": "۱۲:۳۲ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-12T09:31:56.342Z"
+    },
+    {
+      "id": "nytimes_7c6c0f5b6b",
+      "agencyId": "nytimes",
+      "title": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
+      "title_fa": "«با لباس‌هایی که به تن داشتیم فرار کردیم»: یمنی‌ها در پی درگیری‌های جدید آواره شدند",
+      "lead": "گسترش درگیری‌ها میان دولت مورد حمایت عربستان و حوثی‌های مورد حمایت ایران، یمن را که سال‌ها با گرسنگی و بیماری دست‌وپنجه نرم می‌کند، در آستانه بحران شدیدتری قرار داده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
+      "pubDate": "Sat, 12 Sep 2026 09:03:00 +0000",
+      "time": "۱۲:۳۳ - ۲۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-12T09:16:48.932Z"
+    },
+    {
+      "id": "nytimes_7a5f484c0b",
+      "agencyId": "nytimes",
+      "title": "Tyla and Other Stars Cancel Concerts Amid Anti-Immigrant Backlash",
+      "title_fa": "تیلا و سایر ستاره‌ها در پی واکنش‌های ضد مهاجرتی کنسرت‌های خود را لغو کردند",
+      "lead": "همزمان با اوج‌گیری احساسات ضد مهاجرتی و خشونت‌های خودسرانه در قاره اروپا، برخی هواداران در خارج از کشور اقدام به پس زدن هنرمندان اهل آفریقای جنوبی کرده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/africa/tyla-south-africa-concert-nigeria-immigration.html",
+      "pubDate": "Sat, 12 Sep 2026 09:02:53 +0000",
+      "time": "۱۲:۳۲ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-12T09:16:48.932Z"
+    },
+    {
+      "id": "nytimes_e646bf9cd8",
+      "agencyId": "nytimes",
+      "title": "Visa Issue Threatens U.S.-Brazil Cooperation on Crime",
+      "title_fa": "چالش روادید، همکاری ایالات متحده و برزیل در زمینه مبارزه با جرم و جنایت را تهدید می‌کند",
+      "lead": "مقام‌ها می‌گویند دولت ترامپ مانع برخی از تلاش‌های برزیل برای گسترش همکاری‌ها در زمینه مبارزه با جرایم فراملی شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html",
+      "pubDate": "Sat, 12 Sep 2026 09:02:03 +0000",
+      "time": "۱۲:۳۲ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-12T09:16:48.932Z"
     }
   ]
 }
