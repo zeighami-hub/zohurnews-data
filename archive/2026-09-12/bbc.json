@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "agencyId": "bbc",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "bbc_ad6765708f",
@@ -268,6 +268,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-12T09:16:48.932Z"
+    },
+    {
+      "id": "bbc_e29ca5b2f8",
+      "agencyId": "bbc",
+      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "title_fa": "«مثل یک سگ رهاشده به جان ما افتاده‌اند» - ترس از سرکوب تاجران خارجی در کنیا",
+      "lead": "مقامات برای مهار پیامدهای این اقدام با مشکل مواجه شده‌اند و مهاجران ترسان در حال فرار از کشور هستند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT",
+      "time": "۱۳:۳۰ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-12T10:16:38.844Z"
+    },
+    {
+      "id": "bbc_585cd1ba46",
+      "agencyId": "bbc",
+      "title": "Watch: Americans remember what they were doing on 9/11",
+      "title_fa": "تماشا کنید: آمریکایی‌ها به یاد می‌آورند در روز ۱۱ سپتامبر چه می‌کردند",
+      "lead": "بی‌بی‌سی از مردم در واشنگتن می‌پرسد که در آن روز چه می‌کردند و واقعه ۱۱ سپتامبر ۲۰۰۱ چگونه کشور را تغییر داد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 02:48:43 GMT",
+      "time": "۰۶:۱۸ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-12T10:16:38.844Z"
     }
   ]
 }
