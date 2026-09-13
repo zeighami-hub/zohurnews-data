@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "agencyId": "bbc",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "bbc_ad6765708f",
@@ -344,6 +344,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-12T15:02:09.108Z"
+    },
+    {
+      "id": "bbc_12635b5026",
+      "agencyId": "bbc",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "title_fa": "داریو آمودی، رئیس آنتروپیک، خواستار کند شدن روند توسعه هوش مصنوعی شد",
+      "lead": "درخواست آمودی در میان نگرانی‌های رو به رشد مطرح شده است مبادا مدل‌های هوش مصنوعی توانایی وارد کردن آسیب‌های جدی در سراسر جهان را پیدا کنند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 15:37:39 GMT",
+      "time": "۱۹:۰۷ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-12T15:46:31.763Z"
+    },
+    {
+      "id": "bbc_1bd088b6c3",
+      "agencyId": "bbc",
+      "title": "Teen boy rescued after days adrift in Alaskan waters",
+      "title_fa": "نجات یک نوجوان پس از روزها سرگردانی در آب‌های آلاسکا",
+      "lead": "این نوجوان ۱۵ ساله در حالی نجات یافت که دو سرنشین دیگر قایق ماهیگیری واژگون شده، یعنی برادر و پسرعمویش، جان خود را از دست دادند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 15:03:14 GMT",
+      "time": "۱۸:۳۳ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 20,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-12T15:31:48.404Z"
     }
   ]
 }
