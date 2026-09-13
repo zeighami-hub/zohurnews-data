@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "agencyId": "bbc",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "bbc_ad6765708f",
@@ -21,6 +21,25 @@
         "negative": 90
       },
       "analyzed_at": "2026-09-12T03:16:27.484Z"
+    },
+    {
+      "id": "bbc_a8f66da5a9",
+      "agencyId": "bbc",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "title_fa": "عربستان سعودی پس از حمله پهپادی از مبدأ عراق، خط لوله کلیدی نفت را بست",
+      "lead": "عراق یک فرمانده نظامی را برکنار کرده و تحقیقات درباره این حمله که از منطقه‌ای در مرز با ایران انجام شده را آغاز کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 04:43:10 GMT",
+      "time": "۰۸:۱۳ - ۲۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-12T05:16:53.534Z"
     }
   ]
 }
