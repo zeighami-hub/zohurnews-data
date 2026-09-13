@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_114e22d76d",
@@ -306,6 +306,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-12T12:31:38.364Z"
+    },
+    {
+      "id": "nytimes_d0a60bf07c",
+      "agencyId": "nytimes",
+      "title": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
+      "title_fa": "اسرائیل یک پایگاه زیرزمینی حزب‌الله را در جنوب لبنان منهدم کرد",
+      "lead": "ارتش اسرائیل مجتمع زیرزمینی حزب‌الله را که در زیر پشته راهبردی علی الطاهر در جنوب لبنان قرار داشت، تخریب کرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
+      "pubDate": "Fri, 11 Sep 2026 18:45:57 +0000",
+      "time": "۲۲:۱۵ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-12T13:02:02.604Z"
     }
   ]
 }
