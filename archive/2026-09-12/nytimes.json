@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_114e22d76d",
@@ -59,6 +59,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-12T04:16:29.875Z"
+    },
+    {
+      "id": "nytimes_ebaa37a016",
+      "agencyId": "nytimes",
+      "title": "Why Emerging Powers Keep Joining BRICS, Even When They Disagree",
+      "title_fa": "چرا قدرت‌های نوظهور با وجود اختلاف نظر همچنان به پیوستن به بریکس ادامه می‌دهند؟",
+      "lead": "رهبران چین، روسیه، هند، ایران و دیگر کشورهای عضو گروه بریکس در حالی این آخر هفته در دهلی نو گردهم می‌آیند که جنگ‌ها و افزایش شدید قیمت انرژی میان آن‌ها اختلاف ایجاد کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html",
+      "pubDate": "Sat, 12 Sep 2026 00:04:29 +0000",
+      "time": "۰۳:۳۴ - ۲۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-12T04:31:37.956Z"
+    },
+    {
+      "id": "nytimes_81d799c13d",
+      "agencyId": "nytimes",
+      "title": "At BRICS Summit, China and India Vie for Influence",
+      "title_fa": "رقابت چین و هند برای کسب نفوذ در نشست سران بریکس",
+      "lead": "چین گروه بریکس را ابزاری برای به چالش کشیدن قدرت آمریکا می‌داند، در حالی که هند می‌خواهد این گروه به اندازه‌ای فراگیر بماند که از انتخاب میان طرف‌های مختلف اجتناب شود.",
+      "category": "diplomacy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html",
+      "pubDate": "Fri, 11 Sep 2026 11:48:03 +0000",
+      "time": "۱۵:۱۸ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-12T04:31:37.956Z"
     }
   ]
 }
