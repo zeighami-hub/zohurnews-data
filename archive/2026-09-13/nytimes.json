@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_215ff6680e",
@@ -382,6 +382,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-13T16:01:55.465Z"
+    },
+    {
+      "id": "nytimes_7065586b2b",
+      "agencyId": "nytimes",
+      "title": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
+      "title_fa": "خط لوله حیاتی نفت عربستان مورد حمله قرار گرفت",
+      "lead": "مقامات سعودی اعلام کردند که یک حمله پهپادی از سوی عراق باعث بسته شدن خط لوله شرق به غرب این کشور شده و مسیر جایگزین کلیدی برای دور زدن محاصره خلیج فارس توسط ایران را تهدید کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
+      "pubDate": "Sat, 12 Sep 2026 18:02:41 +0000",
+      "time": "۲۱:۳۲ - ۲۱ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-13T17:16:36.199Z"
     }
   ]
 }
