@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_215ff6680e",
@@ -249,6 +249,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-13T09:46:46.068Z"
+    },
+    {
+      "id": "nytimes_14346c528d",
+      "agencyId": "nytimes",
+      "title": "Why Mokha, Historic Port That Shaped the Coffee Trade, Is a Prize in Yemen’s War",
+      "title_fa": "چرا موخا، بندر تاریخی شکل‌دهنده تجارت قهوه، به غنیمتی در جنگ یمن تبدیل شده است؟",
+      "lead": "موقعیت استراتژیک شهر موخا در دریای سرخ طی قرن‌ها تسلط تجاری را برای آن به ارمغان آورده بود و همین امر آن را به یک هدف مطلوب در درگیری‌های امروزی خاورمیانه تبدیل کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/middleeast/mokha-yemen-houthis-mocha-coffee.html",
+      "pubDate": "Sat, 12 Sep 2026 12:47:51 +0000",
+      "time": "۱۶:۱۷ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-13T10:31:42.646Z"
+    },
+    {
+      "id": "nytimes_23f8818f99",
+      "agencyId": "nytimes",
+      "title": "Why Carney Isn’t Rushing Back to the Negotiating Table",
+      "title_fa": "چرا کارنی عجله‌ای برای بازگشت به میز مذاکره ندارد؟",
+      "lead": "کانادایی‌ها از موضع سرسختانه او در قبال تجارت با ایالات متحده حمایت می‌کنند. یک کارشناس معتقد است که این پشتیبانی انگیزه‌ای برای او باقی نمی‌گذارد تا به این زودی‌ها مذاکرات را از سر بگیرد.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/canada/us-canada-trade-war-carney-trump.html",
+      "pubDate": "Sat, 12 Sep 2026 10:00:09 +0000",
+      "time": "۱۳:۳۰ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-13T10:31:42.646Z"
     }
   ]
 }
