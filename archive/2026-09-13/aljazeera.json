@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "agencyId": "aljazeera",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "aljazeera_06aa7abcf3",
@@ -97,6 +97,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-13T01:01:34.813Z"
+    },
+    {
+      "id": "aljazeera_2f5a2eb2a0",
+      "agencyId": "aljazeera",
+      "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+      "title_fa": "پزشکیان: ما با عربستان سعودی در جنگ نیستیم",
+      "lead": "مسعود پزشکیان، رئیس‌جمهور ایران، اعلام کرد که تهران در جنگ با عربستان سعودی نیست.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss",
+      "pubDate": "Sun, 13 Sep 2026 01:32:56 +0000",
+      "time": "۰۵:۰۲ - ۲۲ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-13T02:01:30.275Z"
+    },
+    {
+      "id": "aljazeera_d207f5093c",
+      "agencyId": "aljazeera",
+      "title": "Why Spain’s new Sahrawi citizenship law matters to Morocco",
+      "title_fa": "چرا قانون جدید شهروندی صحراوی اسپانیا برای مراکش اهمیت دارد",
+      "lead": "لایحه جدید شهروندی برای مردم صحرا، یکی از نقاط حساس در روابط مادرید و ربات را تحت‌تأثیر قرار می‌دهد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco?traffic_source=rss",
+      "pubDate": "Sun, 13 Sep 2026 01:41:10 +0000",
+      "time": "۰۵:۱۱ - ۲۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-13T02:01:30.275Z"
     }
   ]
 }
