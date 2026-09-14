@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_215ff6680e",
@@ -135,6 +135,63 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-13T04:46:46.088Z"
+    },
+    {
+      "id": "nytimes_6b53f86e08",
+      "agencyId": "nytimes",
+      "title": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump",
+      "title_fa": "چگونه تندروهای ایران توافق صلح با ترامپ را منفجر کردند",
+      "lead": "به گفته افراد مطلع در درون نظام، مخالفان توافق را با یک اقدام پنهانی برای حمله به کشتی‌ها در تنگه هرمز از مسیر خارج کردند. رئیس‌جمهور وقت ایران پس از باخبر شدن از این موضوع به شدت خشمگین شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
+      "pubDate": "Sun, 13 Sep 2026 09:02:53 +0000",
+      "time": "۱۲:۳۲ - ۲۲ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-13T09:32:30.782Z"
+    },
+    {
+      "id": "nytimes_c2c1d04361",
+      "agencyId": "nytimes",
+      "title": "Trump’s Canadian Tariffs Tear at Bond Between Twins Towns in Ontario and Michigan",
+      "title_fa": "تعرفه های ترامپ پیوندهای میان شهرهای دوقلو در اونتاریو و میشیگان را متزلزل کرد",
+      "lead": "تعرفه ۵۰ درصدی ایالات متحده بر فولاد کانادا، یک کارخانه بزرگ در اونتاریو را فلج کرده، موجب اخراج گسترده کارکنان شده و ارتباط یک قرنی زندگی مرزی با میشیگان را گسسته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/13/world/canada/trump-tariffs-ontario-michigan-algoma-steel.html",
+      "pubDate": "Sun, 13 Sep 2026 09:02:31 +0000",
+      "time": "۱۲:۳۲ - ۲۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-13T09:32:30.782Z"
+    },
+    {
+      "id": "nytimes_fe7f60e359",
+      "agencyId": "nytimes",
+      "title": "How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up",
+      "title_fa": "چگونه تلاش یک مرد برای یافتن استخوان‌های تفنگدار افسانه‌ای او را به زندان انداخت",
+      "lead": "یک حفاری باستان‌شناسی مخفیانه در داخل یک کلیسای هلندی منجر به ماجرایی شایسته داستان‌های الکساندر دوما شد. آیا «ویم دیکمن» واقعاً استخوان‌های چهارمین تفنگدار را پیدا کرده است؟ ممکن است هرگز پاسخ این سوال را نفهمیم.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/13/world/europe/wim-dijkman-musketeer-bones-dartagnan.html",
+      "pubDate": "Sun, 13 Sep 2026 09:00:23 +0000",
+      "time": "۱۲:۳۰ - ۲۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-13T09:32:30.782Z"
     }
   ]
 }
