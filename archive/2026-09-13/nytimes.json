@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_215ff6680e",
@@ -287,6 +287,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-13T10:31:42.646Z"
+    },
+    {
+      "id": "nytimes_91bdeaacfa",
+      "agencyId": "nytimes",
+      "title": "Iran Will Meet With Gulf Arab States as Mideast Conflict Widens",
+      "title_fa": "دیدار ایران با کشورهای عربی حوزه خلیج فارس همزمان با گسترش درگیری‌ها در خاورمیانه",
+      "lead": "مقام‌ها اعلام کردند که گفت‌وگوها قرار است فردا برگزار شود. دیپلماسی برای پایان دادن به جنگ با ایالات متحده متوقف شده و نیروهای هم‌پیمان ایران در یمن پیشروی کرده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+      "pubDate": "Sun, 13 Sep 2026 11:52:17 +0000",
+      "time": "۱۵:۲۲ - ۲۲ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-13T12:01:56.064Z"
     }
   ]
 }
