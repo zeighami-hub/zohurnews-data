@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "agencyId": "skynews",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_52f651fea2",
@@ -78,6 +78,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-13T07:02:30.791Z"
+    },
+    {
+      "id": "skynews_7f7c06585e",
+      "agencyId": "skynews",
+      "title": "Israel strike on Hezbollah tunnel triggers earthquake-like tremor",
+      "title_fa": "حمله اسرائیل به تونل حزب‌الله زمین‌لرزه‌ای شبیه به زلزله ایجاد کرد",
+      "lead": "اسرائیل شبکه‌ای از تونل‌های حزب‌الله را در جنوب لبنان منهدم کرد که این اقدام لرزشی با بزرگی ۴.۱ در مقیاس ریشتر را در منطقه به همراه داشت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/41-magnitude-tremor-recorded-after-israel-destroys-hezbollah-tunnel-network-in-southern-lebanon-13584236",
+      "pubDate": "Fri, 11 Sep 2026 07:40:00 +0100",
+      "time": "۱۰:۱۰ - ۲۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-13T09:46:46.068Z"
     }
   ]
 }
