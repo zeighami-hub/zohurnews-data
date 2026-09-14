@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "agencyId": "aljazeera",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "aljazeera_06aa7abcf3",
@@ -382,6 +382,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-13T10:31:42.646Z"
+    },
+    {
+      "id": "aljazeera_59da26313e",
+      "agencyId": "aljazeera",
+      "title": "Israeli attack on Gaza kills two Palestinians",
+      "title_fa": "حمله اسرائیل به غزه دو فلسطینی را به کشتن داد",
+      "lead": "حملات هوایی اسرائیل به غزه با وجود آتش‌بس میانجی‌گری‌شده توسط ایالات متحده همچنان ادامه دارد. در این حملات دو فلسطینی جان باختند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+      "pubDate": "Sun, 13 Sep 2026 10:22:01 +0000",
+      "time": "۱۳:۵۲ - ۲۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-13T10:47:13.732Z"
     }
   ]
 }
