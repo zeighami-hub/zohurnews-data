@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_215ff6680e",
@@ -192,6 +192,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-13T09:32:30.782Z"
+    },
+    {
+      "id": "nytimes_7c6c0f5b6b",
+      "agencyId": "nytimes",
+      "title": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
+      "title_fa": "«با لباس‌هایی که به تن داشتیم فرار کردیم»: یمنی‌ها از درگیری‌های جدید می‌گریزند",
+      "lead": "گرسنگی و بیماری سال‌هاست یمن را آزار داده است و اکنون درگیری میان دولت مورد حمایت عربستان و حوثی‌های مورد حمایت ایران این کشور را به آستانه بحران کشانده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
+      "pubDate": "Sat, 12 Sep 2026 22:28:44 +0000",
+      "time": "۰۱:۵۸ - ۲۲ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 15,
+        "negative": 85
+      },
+      "analyzed_at": "2026-09-13T09:46:46.068Z"
+    },
+    {
+      "id": "nytimes_e646bf9cd8",
+      "agencyId": "nytimes",
+      "title": "Visa Issue Threatens U.S.-Brazil Cooperation on Crime",
+      "title_fa": "اختلاف بر سر روزا همکاری ایالات متحده و برزیل در زمینه مبارزه با جرم و جنایت را تهدید می‌کند",
+      "lead": "مقامات اعلام کردند که دولت ترامپ مانع برخی از تلاش‌های برزیل برای گسترش همکاری‌ها در زمینه مبارزه با جرایم فراملی شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html",
+      "pubDate": "Sun, 13 Sep 2026 02:32:07 +0000",
+      "time": "۰۶:۰۲ - ۲۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-13T09:46:46.068Z"
+    },
+    {
+      "id": "nytimes_7a5f484c0b",
+      "agencyId": "nytimes",
+      "title": "Tyla and Other Stars Cancel Concerts Amid Anti-Immigrant Backlash",
+      "title_fa": "تیلا و دیگر ستارگان در پی واکنش‌های ضد مهاجرتی کنسرت‌های خود را لغو کردند",
+      "lead": "با اوج‌گیری احساسات ضد مهاجرتی و خشونت‌های خودسرانه در سراسر قاره آفریقا، برخی هواداران در خارج از کشور در حال تحریم هنرمندان اهل آفریقای جنوبی هستند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/africa/tyla-south-africa-concert-nigeria-immigration.html",
+      "pubDate": "Sat, 12 Sep 2026 09:14:39 +0000",
+      "time": "۱۲:۴۴ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-13T09:46:46.068Z"
     }
   ]
 }
