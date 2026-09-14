@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_215ff6680e",
@@ -59,6 +59,63 @@
         "negative": 90
       },
       "analyzed_at": "2026-09-13T04:16:55.988Z"
+    },
+    {
+      "id": "nytimes_114e22d76d",
+      "agencyId": "nytimes",
+      "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
+      "title_fa": "همزمان با افزایش قیمت نفت، سران بریکس امتیازی دارند که آمریکا ندارد: حضور ایران بر سر میز مذاکره",
+      "lead": "گروه بریکس که ایران نیز عضو آن است، بر سر جنگ اخیر دچار اختلاف نظر شده و خواستار «خویشتن‌داری حداکثری» در خاورمیانه بدون مقصر دانستن کشور خاصی شده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
+      "pubDate": "Sun, 13 Sep 2026 02:46:53 +0000",
+      "time": "۰۶:۱۶ - ۲۲ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-13T04:31:59.280Z"
+    },
+    {
+      "id": "nytimes_46ff842a50",
+      "agencyId": "nytimes",
+      "title": "In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise",
+      "title_fa": "در دونبگ، سفر ترامپ برای مسابقات گلف آزاد ایرلند با اعتراضات و تمجیدها مواجه شد",
+      "lead": "همزمان با سفر رئیس‌جمهور آمریکا به هتل خود در دونبگ برای مسابقات آزاد ایرلند، ساکنان محلی هم از مزایای اقتصادی این تفرجگاه قدردانی کردند و هم مخالفت خود را با سیاست‌های او ابراز نمودند.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html",
+      "pubDate": "Sat, 12 Sep 2026 14:33:39 +0000",
+      "time": "۱۸:۰۳ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-13T04:31:59.280Z"
+    },
+    {
+      "id": "nytimes_56de991f88",
+      "agencyId": "nytimes",
+      "title": "The Doctor Pressuring African Leaders to Own the Ebola Response",
+      "title_fa": "پزشکی که رهبران آفریقا را برای به دست گرفتن مدیریت مبارزه با ابولا تحت فشار می‌گذارد",
+      "lead": "آژانس‌های بین‌المللی و اهداکنندگان خارجی مدت‌هاست که کمپین‌های مقابله با بیماری‌هایی مانند ابولا را هدایت کرده‌اند، اما دکتر ژان کاسیا، رئیس مرکز کنترل و پیشگیری از بیماری‌های آفریقا، به دنبال تغییر این روند است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/12/world/africa/jean-kaseya-africa-cdc.html",
+      "pubDate": "Sat, 12 Sep 2026 10:46:29 +0000",
+      "time": "۱۴:۱۶ - ۲۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-13T04:31:59.280Z"
     }
   ]
 }
