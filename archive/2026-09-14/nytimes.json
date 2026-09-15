@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_fe22a6420a",
@@ -249,6 +249,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-14T09:31:58.521Z"
+    },
+    {
+      "id": "nytimes_6b53f86e08",
+      "agencyId": "nytimes",
+      "title": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump",
+      "title_fa": "چگونه تندروهای ایران توافق هسته‌ای با ترامپ را منفجر کردند",
+      "lead": "منابع داخلی رژیم می‌گویند مخالفان با تلاش‌های پنهانی برای حمله به کشتی‌ها در تنگه هرمز، توافق را از مسیر خارج کردند. رئیس‌جمهور وقت ایران پس از اطلاع از این موضوع به شدت عصبانی شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html",
+      "pubDate": "Sun, 13 Sep 2026 14:38:44 +0000",
+      "time": "۱۸:۰۸ - ۲۲ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-14T10:02:17.045Z"
+    },
+    {
+      "id": "nytimes_c2c1d04361",
+      "agencyId": "nytimes",
+      "title": "Trump’s Canadian Tariffs Tear at Bond Between Twins Towns in Ontario and Michigan",
+      "title_fa": "تعرفه‌های ترامپ بر کالاهای کانادایی، پیوند میان شهرهای دوقلو در انتاریو و میشیگان را از هم گسست",
+      "lead": "اعمال تعرفه ۵۰ درصدی ایالات متحده بر فولاد کانادا، یک کارخانه بزرگ در انتاریو را فلج کرده، باعث اخراج گسترده کارکنان شده و یک قرن زندگی مرزی مشترک با میشیگان را دچار اختلال کرده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/13/world/canada/trump-tariffs-ontario-michigan-algoma-steel.html",
+      "pubDate": "Sun, 13 Sep 2026 09:02:31 +0000",
+      "time": "۱۲:۳۲ - ۲۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-14T10:02:17.045Z"
     }
   ]
 }
