@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "agencyId": "bbc",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_5f1f7b1559",
@@ -363,6 +363,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-14T15:16:48.825Z"
+    },
+    {
+      "id": "bbc_2814b24911",
+      "agencyId": "bbc",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "title_fa": "ترامپ در پایان سفر دو روزه گفت تمام تعرفه‌های ویسکی ایرلندی را حذف خواهد کرد",
+      "lead": "ویسکی تقطیر شده در جمهوری ایرلند مشمول تعرفه استاندارد ۱۵ درصدی اعمال شده بر کالاهای اتحادیه اروپا در هنگام ورود به ایالات متحده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 19:34:36 GMT",
+      "time": "۲۳:۰۴ - ۲۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-14T16:02:02.520Z"
+    },
+    {
+      "id": "bbc_25a9103be6",
+      "agencyId": "bbc",
+      "title": "US congressman swims to safety after his plane is forced to land on a lake",
+      "title_fa": "شنای یک عضو کنگره ایالات متحده به سمت امنیت پس از فرود اضطراری هواپیمایش در یک دریاچه",
+      "lead": "هواپیمای کوچک حامل تام تیفانی، نماینده کنگره، دچار نقص فنی شد که خلبان را مجبور به فرود اضطراری در دریاچه‌ای در ویسکانسین کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 15:30:43 GMT",
+      "time": "۱۹:۰۰ - ۲۲ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-14T16:02:02.520Z"
     }
   ]
 }
