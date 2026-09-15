@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_fe22a6420a",
@@ -287,6 +287,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-14T10:02:17.045Z"
+    },
+    {
+      "id": "nytimes_44c5dcffea",
+      "agencyId": "nytimes",
+      "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+      "title_fa": "هشدار مقام ارشد جاسوسی چین: هوش مصنوعی تهدیدی برای حاکمیت حزب است",
+      "lead": "در حالی که پکن از ایالات متحده می‌خواهد خطرات هوش مصنوعی را بزرگ‌نمایی نکند، رئیس جاسوسی چین این فناوری را به عنوان تهدیدی برای امنیت حزب کمونیست توصیف می‌کند.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
+      "pubDate": "Mon, 14 Sep 2026 11:14:20 +0000",
+      "time": "۱۴:۴۴ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-14T11:31:58.576Z"
+    },
+    {
+      "id": "nytimes_e86c3a66e8",
+      "agencyId": "nytimes",
+      "title": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Being Rebuffed by Trump",
+      "title_fa": "عربستان سعودی پس از پاسخ رد ترامپ با «بدترین سناریو» مواجه است",
+      "lead": "به گفته تحلیلگران، عربستان سعودی پس از حملات ایران و ناتوانی در جلب حمایت نظامی بیشتر از سوی ایالات متحده، در وضعیت شوک استراتژیک به سر می‌برد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html",
+      "pubDate": "Mon, 14 Sep 2026 11:05:06 +0000",
+      "time": "۱۴:۳۵ - ۲۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-14T11:17:19.559Z"
     }
   ]
 }
