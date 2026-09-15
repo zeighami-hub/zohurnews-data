@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_fe22a6420a",
@@ -401,6 +401,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-14T12:31:54.987Z"
+    },
+    {
+      "id": "nytimes_8daef79767",
+      "agencyId": "nytimes",
+      "title": "Saudi Leader Meets U.S. General as Widening Conflict Threatens Oil Markets",
+      "title_fa": "دیدار رهبر عربستان با ژنرال آمریکایی در پی تهدید بازارهای نفت توسط درگیری‌های رو به گسترش",
+      "lead": "ولیعهد عربستان سعودی، محمد بن سلمان، هفته گذشته پس از حمله گسترده نیروهای حوثی یمن مورد حمایت ایران، از ایالات متحده درخواست کمک نظامی بیشتر کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html",
+      "pubDate": "Mon, 14 Sep 2026 14:07:51 +0000",
+      "time": "۱۷:۳۷ - ۲۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-14T14:17:00.595Z"
+    },
+    {
+      "id": "nytimes_0365cce7d7",
+      "agencyId": "nytimes",
+      "title": "Okinawa Elects a Conservative Amid Fears About China and the Economy",
+      "title_fa": "انتخاب یک چهره محافظه‌کار در اوکیناوا در میان نگرانی‌ها درباره چین و اقتصاد",
+      "lead": "گنتا کوجا به عنوان فرماندار بعدی مجمع‌الجزایر ژاپن انتخاب شد که پیروزی برای نخست‌وزیر جنگ‌طلب این کشور در راستای سرعت بخشیدن به تقویت نظامی محسوب می‌شود.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/13/world/asia/japapn-okinawa-election-governor-conservative-china-economy.html",
+      "pubDate": "Mon, 14 Sep 2026 01:39:55 +0000",
+      "time": "۰۵:۰۹ - ۲۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-14T14:17:00.595Z"
     }
   ]
 }
