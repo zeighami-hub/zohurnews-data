@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_fe22a6420a",
@@ -344,6 +344,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-14T12:03:32.031Z"
+    },
+    {
+      "id": "nytimes_91bdeaacfa",
+      "agencyId": "nytimes",
+      "title": "Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls",
+      "title_fa": "دیدار میان ایران و کشورهای عربی به تعویق افتاد؛ دیپلماسی خاورمیانه متوقف شد",
+      "lead": "مذاکرات میان ایالات متحده و ایران هفته‌ها پیش به بن‌بست رسید و کشورهای عربی را در تلاش برای مدیریت روابط خود با تهران در سایه حملات جاری تنها گذاشت.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+      "pubDate": "Mon, 14 Sep 2026 10:50:26 +0000",
+      "time": "۱۴:۲۰ - ۲۳ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 45,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-14T12:17:02.758Z"
+    },
+    {
+      "id": "nytimes_778a78755f",
+      "agencyId": "nytimes",
+      "title": "Russian Strike on Train Station Near Poland Seen as Warning to Kyiv’s Allies",
+      "title_fa": "حمله روسیه به ایستگاه قطار در نزدیکی لهستان، هشدار به متحدان کی‌یف تلقی شد",
+      "lead": "به گفته مقام‌ها، حمله به شبکه راه‌آهن اوکراین که این کشور را به غرب متصل می‌کند، ضربه‌ای کنایه‌آمیز به اروپا بود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
+      "pubDate": "Mon, 14 Sep 2026 12:05:42 +0000",
+      "time": "۱۵:۳۵ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 40,
+        "negative": 55
+      },
+      "analyzed_at": "2026-09-14T12:17:02.758Z"
     }
   ]
 }
