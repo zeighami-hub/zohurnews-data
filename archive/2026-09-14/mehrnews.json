@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "agencyId": "mehrnews",
-  "total": 4,
+  "total": 7,
   "articles": [
     {
       "id": "mehrnews_5f7c35abde",
@@ -78,6 +78,63 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-14T04:31:43.461Z"
+    },
+    {
+      "id": "mehrnews_af5104ca43",
+      "agencyId": "mehrnews",
+      "title": "Strait of Hormuz vessel transits fall to single digits",
+      "title_fa": "کاهش تردد شناورها در تنگه هرمز به کمتر از ۱۰ فروند",
+      "lead": "داده‌های مقدماتی ردیابی کشتی‌ها نشان می‌دهد که تردد شناورها از طریق تنگه هرمز در طول آخر هفته به تک‌رقمی کاهش یافته است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247723/Strait-of-Hormuz-vessel-transits-fall-to-single-digits",
+      "pubDate": "Mon, 14 Sep 2026 04:35:02 GMT",
+      "time": "۰۸:۰۵ - ۲۳ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-14T04:46:35.193Z"
+    },
+    {
+      "id": "mehrnews_2399893a78",
+      "agencyId": "mehrnews",
+      "title": "Yemeni source says Saudi air defence hit its own mosque",
+      "title_fa": "منبع یمنی: پدافند هوایی سعودی به مسجد خود اصابت کرد",
+      "lead": "یک منبع نظامی یمنی اعلام کرد که یک موشک پدافند هوایی عربستان سعودی به مسجدی در این کشور اصابت کرده است. این منبع ادعاهای رسانه‌ای مبنی بر اصابت موشک یمنی به این مسجد را رد کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247724/Yemeni-source-says-Saudi-air-defence-hit-its-own-mosque",
+      "pubDate": "Mon, 14 Sep 2026 04:41:03 GMT",
+      "time": "۰۸:۱۱ - ۲۳ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-14T04:46:35.193Z"
+    },
+    {
+      "id": "mehrnews_17badca08c",
+      "agencyId": "mehrnews",
+      "title": "Oil prices climb above $107 a barrel",
+      "title_fa": "افزایش قیمت نفت به بالای ۱۰۷ دلار در هر بشکه",
+      "lead": "قیمت نفت روز دوشنبه بیش از ۳ درصد افزایش یافت و معاملات آتی نفت برنت با ۳.۲۱ دلار یا ۳.۱ درصد افزایش، به ۱۰۷.۸۲ دلار در هر بشکه رسید.",
+      "category": "economy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247722/Oil-prices-climb-above-107-a-barrel",
+      "pubDate": "Mon, 14 Sep 2026 04:31:40 GMT",
+      "time": "۰۸:۰۱ - ۲۳ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-14T04:46:35.193Z"
     }
   ]
 }
