@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "agencyId": "mehrnews",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_5f7c35abde",
@@ -154,6 +154,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-14T05:01:58.141Z"
+    },
+    {
+      "id": "mehrnews_fdbdc60277",
+      "agencyId": "mehrnews",
+      "title": "Iran far more powerful than was in previous wars",
+      "title_fa": "ایران بسیار قدرتمندتر از جنگ‌های قبلی است",
+      "lead": "سرپرست وزارت دفاع ایران اعلام کرد که اگر جنگ دیگری شکل بگیرد، ایران بسیار قدرتمندتر و از نظر فناورانه پیشرفته‌تر از جنگ‌های قبلی عمل خواهد کرد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247726/Iran-far-more-powerful-than-was-in-previous-wars",
+      "pubDate": "Mon, 14 Sep 2026 05:05:54 GMT",
+      "time": "۰۸:۳۵ - ۲۳ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-14T05:16:45.463Z"
+    },
+    {
+      "id": "mehrnews_0c21c93808",
+      "agencyId": "mehrnews",
+      "title": "Yemeni Armed Forces conduct fresh attacks on Saudi targets",
+      "title_fa": "نیروهای مسلح یمن حملات جدیدی را علیه اهداف سعودی انجام دادند",
+      "lead": "نیروهای مسلح وابسته به جنبش مقاومت انصارالله یمن در جریان آزادسازی سواحل غربی، حملات تلافی‌جویانه جدیدی را علیه اهداف سعودی انجام دادند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247727/Yemeni-Armed-Forces-conduct-fresh-attacks-on-Saudi-targets",
+      "pubDate": "Mon, 14 Sep 2026 05:13:14 GMT",
+      "time": "۰۸:۴۳ - ۲۳ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-14T05:16:45.463Z"
     }
   ]
 }
