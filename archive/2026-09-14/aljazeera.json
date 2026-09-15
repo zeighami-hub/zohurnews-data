@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "agencyId": "aljazeera",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "aljazeera_6ed3451a28",
@@ -97,6 +97,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-14T00:46:26.411Z"
+    },
+    {
+      "id": "aljazeera_27a81a9920",
+      "agencyId": "aljazeera",
+      "title": "Protests erupt across Syria over sharp fuel price hikes",
+      "title_fa": "اعتراضات در سراسر سوریه در پی افزایش شدید قیمت سوخت شکل گرفت",
+      "lead": "پس از اقدام دولت سوریه در افزایش قیمت سوخت، اعتراضاتی در نقاط مختلف این کشور به وقوع پیوست.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy?traffic_source=rss",
+      "pubDate": "Mon, 14 Sep 2026 01:08:01 +0000",
+      "time": "۰۴:۳۸ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-14T01:46:22.319Z"
+    },
+    {
+      "id": "aljazeera_f7fe9008b6",
+      "agencyId": "aljazeera",
+      "title": "Heavy rain falls over the Kaaba in Mecca",
+      "title_fa": "بارش باران شدید بر فراز خانه کعبه در مکه",
+      "lead": "بارش باران شدید و طوفان رعد و برق مکه را فراگرفت و مناظر چشمگیری را در حالی که زائران در مسجدالحرام مشغول عبادت بودند، ایجاد کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/14/aje-onl-nf_heavy-rain-falls-over-the-kaaba-in-mecca-130926?traffic_source=rss",
+      "pubDate": "Mon, 14 Sep 2026 01:02:45 +0000",
+      "time": "۰۴:۳۲ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-14T01:46:22.319Z"
     }
   ]
 }
