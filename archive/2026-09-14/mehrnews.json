@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "agencyId": "mehrnews",
-  "total": 1,
+  "total": 4,
   "articles": [
     {
       "id": "mehrnews_5f7c35abde",
@@ -21,6 +21,63 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-14T04:01:35.923Z"
+    },
+    {
+      "id": "mehrnews_58c2bf858c",
+      "agencyId": "mehrnews",
+      "title": "Regional meeting on Iran-Oman Hormuz agreement postponed",
+      "title_fa": "تعویق نشست منطقه‌ای توافق هرمز ایران و عمان",
+      "lead": "نشست منطقه‌ای وزرای خارجه خلیج فارس درباره تنگه هرمز به درخواست برخی کشورهای منطقه و با تصمیم مشترک عمان و ایران به تعویق افتاد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247720/Regional-meeting-on-Iran-Oman-Hormuz-agreement-postponed",
+      "pubDate": "Mon, 14 Sep 2026 04:21:34 GMT",
+      "time": "۰۷:۵۱ - ۲۳ شهریور",
+      "iranScore": 7,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-14T04:31:43.461Z"
+    },
+    {
+      "id": "mehrnews_ad7d9cc196",
+      "agencyId": "mehrnews",
+      "title": "Power explosions rock southern Saudi Arabia",
+      "title_fa": "انفجارهای مهیب در جنوب عربستان سعودی",
+      "lead": "انفجارهایی در شهرهای أبها و خمیس مشیط واقع در جنوب عربستان سعودی شنیده شد. به دنبال این رویداد، سیستم‌های هشدار به طور مکرر فعال شدند و رسانه‌ها از ایجاد شرایط اضطراری در منطقه جنوب خبر دادند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247721/Power-explosions-rock-southern-Saudi-Arabia",
+      "pubDate": "Mon, 14 Sep 2026 04:25:19 GMT",
+      "time": "۰۷:۵۵ - ۲۳ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-14T04:31:43.461Z"
+    },
+    {
+      "id": "mehrnews_df5e5c9765",
+      "agencyId": "mehrnews",
+      "title": "Missiles target separatist positions in Iraq's Kurdistan",
+      "title_fa": "هدف قرار گرفتن مواضع جدایی‌طلبان در اقلیم کردستان عراق با موشک",
+      "lead": "مواضع گروه‌های جدایی‌طلب در منطقه سلیمانیه واقع در اقلیم کردستان عراق هدف حمله موشکی قرار گرفت. جزئیات بیشتری درباره این حمله و خسارات احتمالی آن اعلام نشده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247719/Missiles-target-separatist-positions-in-Iraq-s-Kurdistan",
+      "pubDate": "Mon, 14 Sep 2026 04:15:21 GMT",
+      "time": "۰۷:۴۵ - ۲۳ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-14T04:31:43.461Z"
     }
   ]
 }
