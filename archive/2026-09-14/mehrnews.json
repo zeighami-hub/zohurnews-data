@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
   "agencyId": "mehrnews",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "mehrnews_5f7c35abde",
@@ -211,6 +211,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-14T05:31:48.116Z"
+    },
+    {
+      "id": "mehrnews_3448ef3880",
+      "agencyId": "mehrnews",
+      "title": "VIDEO: Satellite images show damage to Saudi oil pipeline",
+      "title_fa": "تصاویر ماهواره‌ای از خسارت به خط لوله نفت عربستان",
+      "lead": "تصاویر ماهواره‌ای نشان می‌دهد که خط لوله نفت شرق به غرب عربستان سعودی در پی حملات یمنی‌ها دچار خسارات گسترده‌ای شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247730/VIDEO-Satellite-images-show-damage-to-Saudi-oil-pipeline",
+      "pubDate": "Mon, 14 Sep 2026 06:00:21 GMT",
+      "time": "۰۹:۳۰ - ۲۳ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-14T06:02:14.733Z"
+    },
+    {
+      "id": "mehrnews_bc8f249a0e",
+      "agencyId": "mehrnews",
+      "title": "US president’s envoy admits to Israeli isolation in world",
+      "title_fa": "اذعان فرستاده رئیس‌جمهور آمریکا به انزوای اسرائیل در جهان",
+      "lead": "فرستاده دونالد ترامپ، رئیس‌جمهور آمریکا، در اظهاراتی انزوای رژیم اسرائیل در صحنه بین‌المللی را مورد تأیید قرار داد. این اعتراف نشان‌دهنده چالش‌های دیپلماتیک این رژیم در عرصه جهانی است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247729/US-president-s-envoy-admits-to-Israeli-isolation-in-world",
+      "pubDate": "Mon, 14 Sep 2026 05:46:48 GMT",
+      "time": "۰۹:۱۶ - ۲۳ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-14T06:02:14.733Z"
     }
   ]
 }
