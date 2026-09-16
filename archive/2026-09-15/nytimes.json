@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "agencyId": "nytimes",
-  "total": 8,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_15deb5ccd2",
@@ -154,6 +154,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-15T09:16:51.519Z"
+    },
+    {
+      "id": "nytimes_9b8a31706b",
+      "agencyId": "nytimes",
+      "title": "She Bashed the Government on a Private Call. Then She Was Detained for Months",
+      "title_fa": "انتقاد از دولت در تماس خصوصی؛ بازداشت یک زن به مدت چندین ماه",
+      "lead": "پس از متهم شدن اعضای یک اقلیت قومی به توطئه‌ ترور بر اساس یک تماس تلفنی خصوصی، تنش‌های نژادی و سیاسی در ترینیداد و توباگو بالا گرفته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/americas/trinidad-assassination-plot-arrests.html",
+      "pubDate": "Mon, 14 Sep 2026 20:04:21 +0000",
+      "time": "۲۳:۳۴ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-15T09:32:11.517Z"
+    },
+    {
+      "id": "nytimes_df1a69e1d8",
+      "agencyId": "nytimes",
+      "title": "A.I. Queries From Abroad Raise Fears of a Biological Weapons Race",
+      "title_fa": "پرسش‌های هوش مصنوعی از خارج کشور نگرانی‌ها درباره مسابقه تسلیحاتی بیولوژیک را افزایش داد",
+      "lead": "به گفته کارشناسان، چت‌بات‌های امروزی احتمالاً به افراد تنها برای ابداع یک پاتوژن کشنده کمک نمی‌کنند. با این حال، مدل‌های جدیدتر آموزش‌دیده در حوزه زیست‌شناسی ممکن است به حفاظت‌های قوی‌تری نیاز داشته باشند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html",
+      "pubDate": "Mon, 14 Sep 2026 19:36:43 +0000",
+      "time": "۲۳:۰۶ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-15T09:32:11.517Z"
+    },
+    {
+      "id": "nytimes_6bd776dffe",
+      "agencyId": "nytimes",
+      "title": "Landmark Vote Held in Restive Muslim Autonomous Region in the Philippines",
+      "title_fa": "برگزاری رأی‌گیری سرنوشت‌ساز در منطقه خودمختار مسلمان‌نشین در فیلیپین",
+      "lead": "به گفته مقام‌ها، این انتخابات در منطقه‌ای که مدت‌ها به خاطر جدایی‌طلبان خشن شناخته شده بود، با تیراندازی و کشته شدن سه نفر همراه شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/asia/muslim-mindanao-philippines-election.html",
+      "pubDate": "Mon, 14 Sep 2026 10:03:27 +0000",
+      "time": "۱۳:۳۳ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-15T09:32:11.517Z"
     }
   ]
 }
