@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "agencyId": "bbc",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "bbc_5f1f7b1559",
@@ -325,6 +325,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-15T12:16:46.067Z"
+    },
+    {
+      "id": "bbc_0899f277c8",
+      "agencyId": "bbc",
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "title_fa": "به گفته عمان، پس از حمله به یک نفتکش در تنگه هرمز دو ملوان مفقود شدند",
+      "lead": "ایران می‌گوید نفتکش ال‌گایا پس از برخورد با مین دچار آتش‌سوزی شده، اما ایالات متحده اعلام کرد که این نفتکش ابتدا توسط موشک و سپس یک پهپاد مورد اصابت قرار گرفته است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 13:05:36 GMT",
+      "time": "۱۶:۳۵ - ۲۴ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-15T13:31:43.479Z"
+    },
+    {
+      "id": "bbc_58d75ad178",
+      "agencyId": "bbc",
+      "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
+      "title_fa": "وزیر خارجه پیشین کلمبیا به اتهام دستور بازجویی از پرستار با دستگاه دروغ‌سنج متهم شد",
+      "lead": "لائورا سارابیا متهم است که پس از مفقود شدن پول نقد از آپارتمانش، به پلیس دستور داده است تا پرستار بچه او را بازجویی کند.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 12:59:21 GMT",
+      "time": "۱۶:۲۹ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-15T13:31:43.479Z"
     }
   ]
 }
