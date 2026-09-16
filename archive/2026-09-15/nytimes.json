@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_15deb5ccd2",
@@ -344,6 +344,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-15T12:46:39.337Z"
+    },
+    {
+      "id": "nytimes_8a07b1c5b1",
+      "agencyId": "nytimes",
+      "title": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
+      "title_fa": "بنیاد گیتس یک میلیارد دلار برای مقابله با نابرابری ناشی از هوش مصنوعی اختصاص داد",
+      "lead": "بیل گیتس، رئیس بنیاد گیتس، نسبت به خطرات هوش مصنوعی هشدار داده است. این مبلغ در پروژه‌های هوش مصنوعی برای کاهش نابرابری‌های اجتماعی سرمایه‌گذاری خواهد شد.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html",
+      "pubDate": "Tue, 15 Sep 2026 13:07:37 +0000",
+      "time": "۱۶:۳۷ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-15T13:16:34.504Z"
+    },
+    {
+      "id": "nytimes_3faae960e5",
+      "agencyId": "nytimes",
+      "title": "France Mocked U.S. for Human Rights Vote, Then Quietly Apologized",
+      "title_fa": "فرانسه به خاطر رأی حقوق بشری ایالات متحده را مسخره کرد و سپس بی‌سرصدا عذرخواهی نمود",
+      "lead": "پس از آنکه دولت ترامپ مانع از انتصاب سفیر جدیدی در واشنگتن شد، این کشور به دلیل انتشار مطلبی در حساب رسمی یک مقام فرانسوی در شبکه‌های اجتماعی ابراز تاسف کرد.",
+      "category": "diplomacy",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html",
+      "pubDate": "Mon, 14 Sep 2026 15:25:26 +0000",
+      "time": "۱۸:۵۵ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-15T13:06:23.934Z"
     }
   ]
 }
