@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_15deb5ccd2",
@@ -420,6 +420,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-15T13:47:10.612Z"
+    },
+    {
+      "id": "nytimes_288597067a",
+      "agencyId": "nytimes",
+      "title": "Yemen’s Houthis Show Growing Sophistication and Self-Reliance in Weaponry",
+      "title_fa": "افزایش پیچیدگی و خوداتکایی حوثی‌های یمن در حوزه تسلیحاتی",
+      "lead": "حوثی‌های یمن به‌طور فزاینده‌ای از هوش مصنوعی و سایر ابزارها برای تولید تسلیحات پیشرفته استفاده می‌کنند که وابستگی آن‌ها به ایران را کاهش می‌دهد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-houthis-weapons.html",
+      "pubDate": "Tue, 15 Sep 2026 14:03:20 +0000",
+      "time": "۱۷:۳۳ - ۲۴ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-15T14:17:13.735Z"
     }
   ]
 }
