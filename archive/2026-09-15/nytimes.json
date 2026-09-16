@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "nytimes_15deb5ccd2",
@@ -382,6 +382,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-15T13:06:23.934Z"
+    },
+    {
+      "id": "nytimes_18fc18d8b5",
+      "agencyId": "nytimes",
+      "title": "Ukraine and Russia Deny Trump’s Claims of an Energy Truce",
+      "title_fa": "اوکراین و روسیه ادعاهای ترامپ درباره آتش‌بس انرژی را رد کردند",
+      "lead": "کرملین اعلام کرد که توافق در این زمینه «ایده بسیار خوبی» خواهد بود، اما برخلاف پیشنهاد رئیس‌جمهور ترامپ، چنین توافقی تأثیر چندانی بر بازارهای سوخت نخواهد داشت.",
+      "category": "economy",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/15/world/europe/trump-energy-truce-ukraine-russia.html",
+      "pubDate": "Tue, 15 Sep 2026 13:43:20 +0000",
+      "time": "۱۷:۱۳ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-15T14:01:52.487Z"
+    },
+    {
+      "id": "nytimes_f5466869a1",
+      "agencyId": "nytimes",
+      "title": "Latest Energy Crisis Leaves Governments With Few Good Options",
+      "title_fa": "آخرین بحران انرژی دولت‌ها را با گزینه‌های محدودی روبرو کرده است",
+      "lead": "از اندونزی گرفته تا گواتمالا و سوریه، کمبودها و افزایش قیمت‌ها موجب بروز اعتراضات و قطعی برق شده است.",
+      "category": "energy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html",
+      "pubDate": "Tue, 15 Sep 2026 13:40:12 +0000",
+      "time": "۱۷:۱۰ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-15T13:47:10.612Z"
     }
   ]
 }
