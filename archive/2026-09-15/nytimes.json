@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_15deb5ccd2",
@@ -59,6 +59,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-15T05:46:45.715Z"
+    },
+    {
+      "id": "nytimes_e7ea1d6c5c",
+      "agencyId": "nytimes",
+      "title": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
+      "title_fa": "کشورهای عربی حوزه خلیج فارس به دنبال گزینه‌های جدید پس از ناکامی پایگاه‌های آمریکایی در بازدارندگی ایران",
+      "lead": "حضور نظامی آمریکا نتوانسته است این کشورها را از تلافی‌جویی‌ها در جریان جنگ با ایران مصون نگه دارد و اکنون آنها امیدوارند گفتگوهای مستقیم با ایران راهگشا باشد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
+      "pubDate": "Tue, 15 Sep 2026 08:57:21 +0000",
+      "time": "۱۲:۲۷ - ۲۴ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-15T09:01:57.348Z"
+    },
+    {
+      "id": "nytimes_f9e3b84bb4",
+      "agencyId": "nytimes",
+      "title": "Why Scandals Don’t Bring Down Politicians Anymore",
+      "title_fa": "چرا رسوایی‌ها دیگر سیاستمداران را سرنگون نمی‌کنند؟",
+      "lead": "این موضوع فراتر از بی‌شرمی صرف است و ابعاد دیگری دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/scandal-shame-politics-polarization.html",
+      "pubDate": "Mon, 14 Sep 2026 13:18:36 +0000",
+      "time": "۱۶:۴۸ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-15T09:01:57.348Z"
     }
   ]
 }
