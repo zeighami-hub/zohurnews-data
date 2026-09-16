@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_15deb5ccd2",
@@ -40,6 +40,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-15T04:16:38.093Z"
+    },
+    {
+      "id": "nytimes_40c25d18f7",
+      "agencyId": "nytimes",
+      "title": "More Than 120 Are Unaccounted For After Ferry Sinks in Indonesia",
+      "title_fa": "بیش از ۱۲۰ مفقود پس از غرق شدن یک فرری در اندونزی",
+      "lead": "به گفته مقامات، به دنبال غرق شدن این شناور در روز یکشنبه در دریای جاوه، دستکم شش نفر جان خود را از دست دادند و بیش از ۱۰۰ نفر نجات یافتند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/asia/indonesia-ferry-rescue-borneo.html",
+      "pubDate": "Mon, 14 Sep 2026 09:07:42 +0000",
+      "time": "۱۲:۳۷ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-15T05:46:45.715Z"
     }
   ]
 }
