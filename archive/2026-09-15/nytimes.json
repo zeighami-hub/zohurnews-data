@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_15deb5ccd2",
@@ -458,6 +458,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-15T14:31:56.125Z"
+    },
+    {
+      "id": "nytimes_be4867ce76",
+      "agencyId": "nytimes",
+      "title": "Syrians Protest as Surge in Fuel Prices Adds to Cost-of-Living Crisis",
+      "title_fa": "اعتراض سوری‌ها به افزایش قیمت سوخت و تشدید بحران هزینه‌های زندگی",
+      "lead": "تصمیم دولت برای افزایش تا ۴۰ درصدی قیمت سوخت، موجی از تظاهرات و اعتراضات را در سراسر این کشور به همراه داشته است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/middleeast/syrians-protest-fuel-price-rises.html",
+      "pubDate": "Mon, 14 Sep 2026 20:42:07 +0000",
+      "time": "۰۰:۱۲ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-15T18:16:32.126Z"
+    },
+    {
+      "id": "nytimes_e663111654",
+      "agencyId": "nytimes",
+      "title": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+      "title_fa": "فیلم اسرائیلی «نِزا» درباره کشتارها در غزه با واکنش‌های شدیدی روبه‌رو شد",
+      "lead": "فیلم «نِزا» به بررسی کشتار فلسطینیان توسط نیروهای اسرائیلی در غزه می‌پردازد. وزیر فرهنگ اسرائیل پیشنهاد کرده است که تابعیت کارگردانان این فیلم لغو شود.",
+      "category": "culture",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+      "pubDate": "Mon, 14 Sep 2026 18:07:07 +0000",
+      "time": "۲۱:۳۷ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 40,
+        "negative": 55
+      },
+      "analyzed_at": "2026-09-15T18:16:32.126Z"
     }
   ]
 }
