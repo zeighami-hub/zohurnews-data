@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "agencyId": "aljazeera",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "aljazeera_cd093b508f",
@@ -135,6 +135,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-15T03:01:38.190Z"
+    },
+    {
+      "id": "aljazeera_ac37865982",
+      "agencyId": "aljazeera",
+      "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
+      "title_fa": "ترامپ در تماس با مدیرعامل انویدیا، سخنرانی او را قطع کرد و ترس از هوش مصنوعی را «یک شوخی فریب‌آمیز» خواند",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا، طی یک تماس تلفنی غیرمنتظره با مدیرعامل انویدیا، یک رویداد زنده را قطع کرد تا درباره ترس‌های مربوط به هوش مصنوعی گفتگو کند.",
+      "category": "technology",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss",
+      "pubDate": "Tue, 15 Sep 2026 03:28:42 +0000",
+      "time": "۰۶:۵۸ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-15T04:01:44.210Z"
+    },
+    {
+      "id": "aljazeera_6576932484",
+      "agencyId": "aljazeera",
+      "title": "US Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
+      "title_fa": "دیوان عالی ایالات متحده محدودیت‌های رای‌گیری پستی ترامپ را رد کرد",
+      "lead": "دیوان عالی ایالات متحده درخواست ترامپ برای تشدید قوانین رای‌گیری پستی در آستانه انتخابات سرنوشت‌ساز میان‌دوره را رد کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss",
+      "pubDate": "Tue, 15 Sep 2026 03:21:23 +0000",
+      "time": "۰۶:۵۱ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-15T04:01:44.210Z"
     }
   ]
 }
