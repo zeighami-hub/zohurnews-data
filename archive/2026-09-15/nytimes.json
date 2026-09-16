@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_15deb5ccd2",
@@ -249,6 +249,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-15T11:32:14.706Z"
+    },
+    {
+      "id": "nytimes_e86c3a66e8",
+      "agencyId": "nytimes",
+      "title": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Iran’s Attacks and Trump’s Rebuffs",
+      "title_fa": "عربستان سعودی پس از حملات ایران و دست رد ترامپ با «بدترین سناریو» روبه‌رو است",
+      "lead": "تحلیلگران می‌گویند پادشاهی سعودی پس از قرار گرفتن در معرض حملات یک ایران جرات‌یافته و ناکامی در جلب حمایت نظامی بیشتر از سوی ایالات متحده، در شوک استراتژیک به سر می‌برد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html",
+      "pubDate": "Mon, 14 Sep 2026 14:46:17 +0000",
+      "time": "۱۸:۱۶ - ۲۳ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-15T11:46:40.713Z"
+    },
+    {
+      "id": "nytimes_44c5dcffea",
+      "agencyId": "nytimes",
+      "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+      "title_fa": "هشدار مقام ارشد اطلاعاتی چین درباره تهدید هوش مصنوعی برای حکومت حزب",
+      "lead": "در حالی که پکن از ایالات متحده می‌خواهد خطرات هوش مصنوعی را بزرگ‌نمایی نکند، رئیس دستگاه جاسوسی این کشور این فناوری را به عنوان تهدیدی برای امنیت حزب کمونیست توصیف می‌کند.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
+      "pubDate": "Mon, 14 Sep 2026 17:38:15 +0000",
+      "time": "۲۱:۰۸ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-15T11:46:40.713Z"
     }
   ]
 }
