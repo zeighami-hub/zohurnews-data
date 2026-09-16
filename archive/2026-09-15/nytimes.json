@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "agencyId": "nytimes",
-  "total": 17,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_15deb5ccd2",
@@ -325,6 +325,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-15T12:16:46.067Z"
+    },
+    {
+      "id": "nytimes_778a78755f",
+      "agencyId": "nytimes",
+      "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
+      "title_fa": "حمله روسیه به ایستگاه قطار در نزدیکی مرز اوکراین و لهستان؛ هشدار به متحدان کی‌یف",
+      "lead": "به گفته مقام‌ها، حمله به شبکه خطوط ریلی اوکراین که این کشور را به غرب متصل می‌کند، پیامی هشدارآمیز به اروپا بوده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
+      "pubDate": "Mon, 14 Sep 2026 16:34:20 +0000",
+      "time": "۲۰:۰۴ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-15T12:46:39.337Z"
     }
   ]
 }
