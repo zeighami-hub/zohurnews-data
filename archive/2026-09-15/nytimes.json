@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_15deb5ccd2",
@@ -287,6 +287,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-15T11:46:40.713Z"
+    },
+    {
+      "id": "nytimes_1d16e3632f",
+      "agencyId": "nytimes",
+      "title": "Modi Served World Leaders a Meatless Meal, and His Critics Pounced",
+      "title_fa": "سرو غذای گیاهی توسط مودی برای رهبران جهان با انتقاد مواجه شد",
+      "lead": "سیاستمداران اپوزیسیون گفتند که شام گیاه‌خواری سرو شده در یک نشست دیپلماتیک، میراث آشپزی هند را به نادرستی نشان داده است، اما یکی از وزرای دولت نارندرا مودی این انتقاد را رد کرد.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/14/world/asia/india-brics-vegetarian-dinner.html",
+      "pubDate": "Mon, 14 Sep 2026 11:53:13 +0000",
+      "time": "۱۵:۲۳ - ۲۳ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-15T12:31:43.201Z"
+    },
+    {
+      "id": "nytimes_208f32d669",
+      "agencyId": "nytimes",
+      "title": "Houthis Report Deadly Saudi Airstrikes as Kingdom Issues Mass Alerts",
+      "title_fa": "گزارش حوثی‌ها از حملات مرگبار هوایی عربستان همزمان با هشدار گسترده پادشاهی",
+      "lead": "دو طرف یکدیگر را به حملات متهم کردند و در حالی که درگیری‌ها در یمن همچنان شدید است، این تنش فزاینده تهدیدی برای بی‌ثباتی بیشتر در خاورمیانه به شمار می‌رود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-saudi-arabia-houthis-attacks.html",
+      "pubDate": "Tue, 15 Sep 2026 12:10:01 +0000",
+      "time": "۱۵:۴۰ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-15T12:16:46.067Z"
     }
   ]
 }
