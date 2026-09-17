@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_9938449b0c",
@@ -78,6 +78,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-16T04:46:32.993Z"
+    },
+    {
+      "id": "nytimes_f279d81128",
+      "agencyId": "nytimes",
+      "title": "Houthis Say They Downed a Saudi Fighter Jet and Deny Targeting Mecca",
+      "title_fa": "حوثی‌ها از سرنگونی یک جنگنده سعودی خبر داده و هدف قرار دادن مکه را رد کردند",
+      "lead": "شبه‌نظامیان حوثی در یمن این ادعا را چند ساعت پس از آن مطرح کردند که ائتلاف نظامی به رهبری عربستان سعودی آن‌ها را به شلیک یک پهپاد در نزدیکی شهر مقدس مسلمانان متهم کرده بود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
+      "pubDate": "Wed, 16 Sep 2026 08:25:55 +0000",
+      "time": "۱۱:۵۵ - ۲۵ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-16T08:32:10.851Z"
     }
   ]
 }
