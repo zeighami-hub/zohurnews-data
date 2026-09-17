@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
   "agencyId": "bbc",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "bbc_33ca0cf59f",
@@ -477,6 +477,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-16T16:46:52.068Z"
+    },
+    {
+      "id": "bbc_c0f9e1e627",
+      "agencyId": "bbc",
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "title_fa": "تصاویر از خسارت‌های گسترده در تأسیسات ایالات متحده در پی حملات ایران حکایت دارند",
+      "lead": "تصاویری که توسط شریک بی‌بی‌سی، یعنی شبکه سی‌بی‌اس نیوز به دست آمده، نشان‌دهنده یک هواپیمای آسیب‌دیده نیروی هوایی و ساختمان‌های ویران‌شده در میان تأسیسات ایالات متحده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 16:33:56 GMT",
+      "time": "۲۰:۰۳ - ۲۵ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-16T18:16:28.746Z"
+    },
+    {
+      "id": "bbc_956b842935",
+      "agencyId": "bbc",
+      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+      "title_fa": "کارکنان پست اوکراین خط حیاتی امدادرسانی را زیر آتش روسیه حفظ می‌کنند",
+      "lead": "سرویس پست دولتی اوکراین وظیفه دارد مستمری‌ها، داروها و نامه‌ها را به افرادی برساند که تنها چند مایل با خط مقدم فاصله دارند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 05:01:46 GMT",
+      "time": "۰۸:۳۱ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-16T18:16:28.746Z"
     }
   ]
 }
