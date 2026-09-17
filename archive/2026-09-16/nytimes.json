@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
   "agencyId": "nytimes",
-  "total": 26,
+  "total": 28,
   "articles": [
     {
       "id": "nytimes_9938449b0c",
@@ -496,6 +496,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-16T18:46:28.096Z"
+    },
+    {
+      "id": "nytimes_4d9b09a5b5",
+      "agencyId": "nytimes",
+      "title": "Why Israel Wants More One-Ton Bombs From the U.S.",
+      "title_fa": "چرا اسرائیل خواهان بمب‌های یک تنی بیشتری از ایالات متحده است؟",
+      "lead": "دولت ترامپ برنامه‌ریزی کرده است تا ۶۰,۰۰۰ تسلیحات قدرتمند را تحویل دهد، این در حالی است که مخالفت‌ها در واشنگتن با فروش تسلیحات به اسرائیل رو به افزایش است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html",
+      "pubDate": "Wed, 16 Sep 2026 20:54:26 +0000",
+      "time": "۰۰:۲۴ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-16T21:01:34.805Z"
+    },
+    {
+      "id": "nytimes_ec43d22365",
+      "agencyId": "nytimes",
+      "title": "The Canaduropean Union?",
+      "title_fa": "اتحادیه کاناتورپ؟",
+      "lead": "با سرد شدن روابط با ایالات متحده، کانادا و اروپا به یکدیگر نزدیک‌تر می‌شوند. با این حال، تعریف یک شراکت جدید می‌تواند دشوار باشد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/16/world/canada-eu-ed-sheeran-iran.html",
+      "pubDate": "Wed, 16 Sep 2026 20:52:07 +0000",
+      "time": "۰۰:۲۲ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-16T21:01:34.805Z"
     }
   ]
 }
