@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_33ca0cf59f",
@@ -401,6 +401,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-16T15:01:58.476Z"
+    },
+    {
+      "id": "bbc_531569b057",
+      "agencyId": "bbc",
+      "title": "What weapon could the US have put into space?",
+      "title_fa": "ایالات متحده چه سلاحی را ممکن است در فضا مستقر کرده باشد؟",
+      "lead": "اعلامیه ایالات متحده به حوزه در حال توسعه‌ای از جنگ‌های مدرن در مدار زمین اشاره دارد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 14:23:14 GMT",
+      "time": "۱۷:۵۳ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-16T15:16:43.292Z"
+    },
+    {
+      "id": "bbc_79c80a507e",
+      "agencyId": "bbc",
+      "title": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
+      "title_fa": "تصویر ماهواره‌ای خسارت عمده‌ای را که باعث تعطیلی خط لوله حیاتی نفت عربستان شد، آشکار کرد",
+      "lead": "کارشناسان به بی‌بی‌سی ورify گفتند که تعطیلی این خط لوله می‌تواند عرضه نفت را تا ۳.۶ میلیون بشکه در روز کاهش دهد.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 14:21:14 GMT",
+      "time": "۱۷:۵۱ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-16T15:16:43.292Z"
     }
   ]
 }
