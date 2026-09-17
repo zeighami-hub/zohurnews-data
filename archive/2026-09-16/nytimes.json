@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_9938449b0c",
@@ -40,6 +40,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-16T04:16:23.682Z"
+    },
+    {
+      "id": "nytimes_15deb5ccd2",
+      "agencyId": "nytimes",
+      "title": "An Heir to a Thai Beer Empire Accused His Brother of Sexual Abuse. Then He Took on His Family.",
+      "title_fa": "وارث امپراتوری آبجوسازی تایلند برادرش را به آزار جنسی متهم کرد و در برابر خانواده ایستاد",
+      "lead": "سیراث اسکات، یکی از وارثان امپراتوری آبجوسازی سینگای تایلند، گفت‌وگوی عمومی کم‌سابقه‌ای را درباره موضوعی که تابو محسوب می‌شود، آغاز کرد.",
+      "category": "technology",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/09/15/world/asia/thai-singha-beer-family-abuse-accusations.html",
+      "pubDate": "Tue, 15 Sep 2026 04:01:11 +0000",
+      "time": "۰۷:۳۱ - ۲۴ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-16T04:46:32.993Z"
+    },
+    {
+      "id": "nytimes_cb35245446",
+      "agencyId": "nytimes",
+      "title": "Lucy Letby Murder Inquiry Says Some Babies’ Deaths Were Avoidable",
+      "title_fa": "تحقیقات درباره قتل‌های لوسی لتبی حاکی از قابل اجتناب بودن مرگ برخی نوزادان است",
+      "lead": "در حالی که پرسش‌های مهمی درباره شواهد محکومیت یک پرستار بریتانیایی به قتل هفت نوزاد باقی مانده است، گزارشی بر اساس فرض گناهکاری او روز سه‌شنبه منتشر شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/15/world/europe/lucy-letby-murder-inquiry.html",
+      "pubDate": "Tue, 15 Sep 2026 15:33:56 +0000",
+      "time": "۱۹:۰۳ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-16T04:46:32.993Z"
     }
   ]
 }
