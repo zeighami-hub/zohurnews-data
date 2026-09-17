@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
   "agencyId": "bbc",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "bbc_33ca0cf59f",
@@ -192,6 +192,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-16T09:02:49.212Z"
+    },
+    {
+      "id": "bbc_98cf8e790c",
+      "agencyId": "bbc",
+      "title": "EU chief opens door for Canada to become 'associate member'",
+      "title_fa": "اتحادیه اروپا راه را برای عضویت مرتبط کانادا باز کرد",
+      "lead": "کانادا به دنبال برقراری روابط نزدیک‌تر با اتحادیه اروپا پس از تنش در مناسبات با ایالات متحده و دونالد ترامپ است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 09:34:50 GMT",
+      "time": "۱۳:۰۴ - ۲۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-16T09:46:44.475Z"
+    },
+    {
+      "id": "bbc_d6ceac9690",
+      "agencyId": "bbc",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "title_fa": "ظن به خرابکاری باعث اختلال عمده در خطوط ریلی هلند شد",
+      "lead": "به دنبال پیدا شدن اجسامی روی ریل‌های قطار در چندین مکان مختلف، حرکت قطارها در روز سه‌شنبه لغو شده یا با تاخیر مواجه شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 16:55:04 GMT",
+      "time": "۲۰:۲۵ - ۲۴ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-16T09:46:44.475Z"
     }
   ]
 }
