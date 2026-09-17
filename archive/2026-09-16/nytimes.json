@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
   "agencyId": "nytimes",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_9938449b0c",
@@ -325,6 +325,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-16T10:46:40.997Z"
+    },
+    {
+      "id": "nytimes_3c28ce9cfe",
+      "agencyId": "nytimes",
+      "title": "At Least 16 Dead in Gaza After Building Collapse, Officials Say",
+      "title_fa": "به گفته مقامات، پس از ریزش یک ساختمان در غزه دست‌کم ۱۶ نفر جان باختند",
+      "lead": "به گفته سرویس امداد محلی، این ساختمان پیش‌تر بر اثر حملات اسرائیل آسیب دیده بود. ریزش آن شرایط وخیم زندگی ساکنان در میان ویرانه‌های این باریکه را برجسته کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+      "pubDate": "Wed, 16 Sep 2026 11:39:53 +0000",
+      "time": "۱۵:۰۹ - ۲۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-16T11:46:32.534Z"
+    },
+    {
+      "id": "nytimes_3993707f9a",
+      "agencyId": "nytimes",
+      "title": "Kosovo’s Former Leader Is Sentenced to 25 Years in War Crimes Case",
+      "title_fa": "رهبر سابق کوزوو در پرونده جنایات جنگی به ۲۵ سال زندان محکوم شد",
+      "lead": "یک دادگاه در لاهه هاشم تاچی را که در دهه ۱۹۹۰ رهبری مبارزه برای استقلال کوزوو را بر عهده داشت، به اتهام بازداشت خودسرانه، شکنجه و قتل مسئول شناخت.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/16/world/europe/kosovo-thaci-war-crimes-hague-serbia.html",
+      "pubDate": "Wed, 16 Sep 2026 11:29:58 +0000",
+      "time": "۱۴:۵۹ - ۲۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-16T11:46:32.534Z"
     }
   ]
 }
