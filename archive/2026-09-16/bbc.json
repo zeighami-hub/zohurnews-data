@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
   "agencyId": "bbc",
-  "total": 7,
+  "total": 8,
   "articles": [
     {
       "id": "bbc_33ca0cf59f",
@@ -135,6 +135,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-16T07:02:02.478Z"
+    },
+    {
+      "id": "bbc_775eaf120d",
+      "agencyId": "bbc",
+      "title": "At least 12 killed after war-damaged Gaza building collapses",
+      "title_fa": "دستکم ۱۲ کشته پس از ریزش یک ساختمان آسیب‌دیده از جنگ در غزه",
+      "lead": "ده‌ها نفر در زیر آوار این ساختمان در شهر غزه مفقود شده‌اند؛ جایی که گزارش شده ۱۰ خانواده در آن سکونت داشتند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 07:58:22 GMT",
+      "time": "۱۱:۲۸ - ۲۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-16T08:01:57.596Z"
     }
   ]
 }
