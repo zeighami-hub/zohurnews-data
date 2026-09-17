@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
   "agencyId": "france24",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "france24_cd178752ef",
@@ -211,6 +211,26 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-16T09:16:43.800Z"
+    },
+    {
+      "id": "france24_a1df8be93e",
+      "agencyId": "france24",
+      "title": "Trump set to sell 40,000 one-ton bombs to Israel",
+      "title_fa": "برنامه ترامپ برای فروش ۴۰ هزار بمب یک تنی به اسرائیل",
+      "lead": "بر اساس گزارش واشنگتن پست، دولت دونالد ترامپ در نظر دارد تسلیحاتی به ارزش ۲.۸ میلیارد دلار شامل بمب‌های سنگین به اسرائیل بفروشد. این در حالی است که اداره مهاجرت و گمرک آمریکا نیز با پیامدهای استخدام‌های گسترده خود دست به گریبان است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "http://www.france24.com/en/tv-shows/press-review/20260916-trump-set-to-sell-40-000-one-ton-bombs-to-israel",
+      "pubDate": "Wed, 16 Sep 2026 09:33:12 GMT",
+      "time": "۱۳:۰۳ - ۲۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "prompt": "",
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-16T09:46:44.475Z"
     }
   ]
 }
