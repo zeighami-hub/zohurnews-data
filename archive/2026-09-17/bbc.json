@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "bbc_e8d3add3da",
@@ -382,6 +382,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-17T15:46:39.956Z"
+    },
+    {
+      "id": "bbc_b475cc1f6d",
+      "agencyId": "bbc",
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "title_fa": "کارشناسان سازمان ملل: زمینه برای باور به ارتکاب جنایات جنگی توسط آمریکا در حملات به ایران وجود دارد",
+      "lead": "ایالات متحده تاکنون حملات مرگبار ماه فوریه به یک مدرسه ابتدایی در میناب و یک مجموعه ورزشی در لامرد را تأیید نکرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 15:07:47 GMT",
+      "time": "۱۸:۳۷ - ۲۶ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-17T17:46:32.067Z"
+    },
+    {
+      "id": "bbc_b25ba93030",
+      "agencyId": "bbc",
+      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "title_fa": "همسر پژوهشگر آمریکایی زندانی در چین از ترامپ خواست بازداشت او را در دیدار با شی مطرح کند",
+      "lead": "سیلویا زین جزو خانواده‌های افراد زندانی در چین است که از ترامپ درخواست کمک کرده‌اند تا در دیدار هفته آینده با رهبر چین این موضوع را مطرح کند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 17:08:00 GMT",
+      "time": "۲۰:۳۸ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-17T17:46:32.067Z"
     }
   ]
 }
