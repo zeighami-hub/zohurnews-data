@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "agencyId": "aljazeera",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "aljazeera_51da5eba5b",
@@ -78,6 +78,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-17T00:16:24.646Z"
+    },
+    {
+      "id": "aljazeera_2c522c9ea9",
+      "agencyId": "aljazeera",
+      "title": "US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’",
+      "title_fa": "سنتکام به الجزیره گفت: محاصره هرمز «بسیار مؤثر» است",
+      "lead": "سخنگوی فرماندهی مرکزی ایالات متحده (سنتکام) به شبکه الجزیره گفته است که محاصره تنگه هرمز توسط این نیروها «بسیار مؤثر» بوده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss",
+      "pubDate": "Thu, 17 Sep 2026 00:32:54 +0000",
+      "time": "۰۴:۰۲ - ۲۶ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-17T01:01:33.288Z"
+    },
+    {
+      "id": "aljazeera_9cc678182b",
+      "agencyId": "aljazeera",
+      "title": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
+      "title_fa": "ترامپ: تبدیل شدن کانادا به «عضو وابسته» اتحادیه اروپا می‌تواند «اقدامی خصمانه» باشد",
+      "lead": "رئیس‌جمهور ایالات متحده ضمن تهدید به اعمال تعرفه‌های سنگین اعلام کرد که در پی این وضعیت پیشنهادی، ممکن است آمریکا برخی از روابط تجاری خود با اروپا را کاهش دهد.",
+      "category": "economy",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss",
+      "pubDate": "Thu, 17 Sep 2026 00:30:23 +0000",
+      "time": "۰۴:۰۰ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-17T01:01:33.288Z"
     }
   ]
 }
