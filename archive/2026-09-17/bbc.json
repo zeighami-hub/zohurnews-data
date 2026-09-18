@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "agencyId": "bbc",
-  "total": 7,
+  "total": 10,
   "articles": [
     {
       "id": "bbc_e8d3add3da",
@@ -135,6 +135,63 @@
         "negative": 90
       },
       "analyzed_at": "2026-09-17T08:17:10.482Z"
+    },
+    {
+      "id": "bbc_d15ae9fc16",
+      "agencyId": "bbc",
+      "title": "EU announces plan to restrict social media access for children",
+      "title_fa": "اتحادیه اروپا طرحی را برای محدود کردن دسترسی کودکان به شبکه‌های اجتماعی اعلام کرد",
+      "lead": "بر اساس این طرح‌ها، تنها کودکان بالای ۱۵ سال قادر خواهند بود حساب‌های کاربری خود را در شبکه‌های اجتماعی ایجاد کنند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 08:25:26 GMT",
+      "time": "۱۱:۵۵ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-17T08:31:47.366Z"
+    },
+    {
+      "id": "bbc_1f9107c6ba",
+      "agencyId": "bbc",
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "title_fa": "مایکروسافت هشدار داد: هوش مصنوعی کنترل‌نشده می‌تواند به ایجاد «گونه‌های سیلیکونی» رقیب انسان منجر شود",
+      "lead": "مصطفی سلیمان می‌گوید او معتقد است شرکت رقیب هوش مصنوعی یعنی «انتروپیک» عملاً به مدل «کلود» می‌آموزد که ممکن است هوشیار باشد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT",
+      "time": "۱۱:۵۲ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 45,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-17T08:31:47.366Z"
+    },
+    {
+      "id": "bbc_f401639262",
+      "agencyId": "bbc",
+      "title": "Abducted South African journalist found dead with gunshot wounds",
+      "title_fa": "روزنامه‌نگار ربوده‌شده اهل آفریقای جنوبی با آثار گلوله جان‌باخته پیدا شد",
+      "lead": "جسد اوون ندلوو، گوینده باسابقه، چند ساعت پس از آن پیدا شد که مردان مسلح او را در نزدیکی ژوهانسبورگ ربودند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 06:46:31 GMT",
+      "time": "۱۰:۱۶ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-17T08:31:47.366Z"
     }
   ]
 }
