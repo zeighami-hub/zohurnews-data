@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "agencyId": "skynews",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "skynews_10273bc0c5",
@@ -211,6 +211,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-17T13:46:38.065Z"
+    },
+    {
+      "id": "skynews_95c3ad4d3d",
+      "agencyId": "skynews",
+      "title": "Ireland to boycott Eurovision for second year in a row",
+      "title_fa": "ایران برای دومین سال متوالی یوروویژن را تحریم می‌کند",
+      "lead": "شبکه پخش‌کننده آرتی‌ای اعلام کرد که ایرلند در اعتراض به شرکت اسرائیل، برای دومین سال متوالی مسابقات آواز یوروویژن را تحریم خواهد کرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/eurovision-ireland-to-boycott-song-contest-for-second-year-in-a-row-13588992",
+      "pubDate": "Thu, 17 Sep 2026 13:50:00 +0100",
+      "time": "۱۶:۲۰ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-17T14:16:35.190Z"
+    },
+    {
+      "id": "skynews_48603dd405",
+      "agencyId": "skynews",
+      "title": "EU to ban social media for under-13s and limit access for older children",
+      "title_fa": "اتحادیه اروپا دسترسی کاربران زیر ۱۳ سال به شبکه‌های اجتماعی را ممنوع می‌کند",
+      "lead": "اتحادیه اروپا در راستای محافظت از جوانان در برابر آسیب‌های آنلاین در پلتفرم‌هایی مانند فیسبوک، اینستاگرام و تیک‌تاک، استفاده از شبکه‌های اجتماعی را برای افراد زیر ۱۳ سال ممنوع کرده و دسترسی کودکان بزرگ‌تر را محدود می‌سازد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://news.sky.com/story/eu-to-ban-social-media-for-under-13s-and-limit-access-for-older-children-13588887",
+      "pubDate": "Thu, 17 Sep 2026 10:13:00 +0100",
+      "time": "۱۲:۴۳ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-17T14:16:35.190Z"
     }
   ]
 }
