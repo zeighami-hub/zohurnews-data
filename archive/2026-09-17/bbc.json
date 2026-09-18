@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "agencyId": "bbc",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "bbc_e8d3add3da",
@@ -211,6 +211,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-17T09:01:50.986Z"
+    },
+    {
+      "id": "bbc_553a4eeaa5",
+      "agencyId": "bbc",
+      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+      "title_fa": "رودی با ۵۰۰ تمساح به عنوان محل برگزاری روئینگ المپیک انتخاب شد",
+      "lead": "رودی که زیستگاه حدود ۵۰۰ تمساح آب شور است، مجوز میزبانی مسابقات روئینگ و قایقرانی المپیک و پارالمپیک در بازی‌های بریزبن ۲۰۳۲ را دریافت کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 09:03:28 GMT",
+      "time": "۱۲:۳۳ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-17T09:31:48.950Z"
+    },
+    {
+      "id": "bbc_b4c670c56a",
+      "agencyId": "bbc",
+      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "title_fa": "عربستان سعودی از سرنگونی یک پهپاد حوثی در جنوب مکه خبر داد",
+      "lead": "حوثی‌ها پس از آنکه ائتلاف به رهبری عربستان در یمن آن‌ها را به یک «اقدام شرم‌آور» متهم کرد، هدف قرار دادن شهر مقدس اسلامی را رد کردند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 08:36:17 GMT",
+      "time": "۱۲:۰۶ - ۲۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-17T09:31:48.950Z"
     }
   ]
 }
