@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_2d56640184",
@@ -211,6 +211,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-17T11:02:05.009Z"
+    },
+    {
+      "id": "nytimes_3c28ce9cfe",
+      "agencyId": "nytimes",
+      "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
+      "title_fa": "به گفته مقامات، حداقل ۲۱ نفر در پی ریزش یک ساختمان در غزه جان باختند",
+      "lead": "ارتش اسرائیل در بیانیه‌ای اعلام کرد که «به ساختمان ضربه نزده است»، اما مشخص نکرد که آیا حملات به اهداف مجاور ممکن است باعث این آسیب شده باشد یا خیر.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+      "pubDate": "Wed, 16 Sep 2026 20:13:21 +0000",
+      "time": "۲۳:۴۳ - ۲۵ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-17T12:16:39.725Z"
     }
   ]
 }
