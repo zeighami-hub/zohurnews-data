@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "agencyId": "bbc",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_e8d3add3da",
@@ -420,6 +420,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-17T17:46:32.067Z"
+    },
+    {
+      "id": "bbc_c0f9e1e627",
+      "agencyId": "bbc",
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "title_fa": "تصاویر خسارت‌های گسترده در تأسیسات ایالات متحده در پی حملات ایران را نشان می‌دهند",
+      "lead": "یک هواپیمای ساقط‌شده نیروی هوایی و ساختمان‌های تخریب‌شده از جمله تصاویری هستند که توسط شبکه CBS News، شریک رسانه‌ای بی‌بی‌سی، به دست آمده‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 18:36:16 GMT",
+      "time": "۲۲:۰۶ - ۲۵ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-17T18:31:41.631Z"
     }
   ]
 }
