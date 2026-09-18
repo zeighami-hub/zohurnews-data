@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "nytimes_2d56640184",
@@ -135,6 +135,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-17T09:01:50.986Z"
+    },
+    {
+      "id": "nytimes_fe77ec0db0",
+      "agencyId": "nytimes",
+      "title": "Carney Calls for E.U.-Canada Pact Amid ‘Ferocious Storm’",
+      "title_fa": "درخواست کارنی برای پیمان اتحادیه اروپا و کانادا در میان «طوفان سهمگین»",
+      "lead": "مارک کارنی، نخست‌وزیر کانادا، در سخنرانی خود در پارلمان اروپا گفت که این ائتلاف به تضمین حاکمیت و استقلال کشورش کمک خواهد کرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/17/world/europe/canada-carney-eu.html",
+      "pubDate": "Thu, 17 Sep 2026 09:46:40 +0000",
+      "time": "۱۳:۱۶ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-17T10:01:52.812Z"
+    },
+    {
+      "id": "nytimes_0b53698d30",
+      "agencyId": "nytimes",
+      "title": "How Sept. 11 Paved the Way to Mideast Power for Iran",
+      "title_fa": "چگونه ۱۱ سپتامبر مسیر دسترسی ایران به قدرت در خاورمیانه را هموار کرد",
+      "lead": "تهاجم نظامی آمریکا به عراق در سال ۲۰۰۳ میلادی زمینه را برای تسلط تهران بر همسایه خود فراهم کرد و تمایل این کشور را برای گسترش نفوذ در سراسر خاورمیانه افزایش داد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html",
+      "pubDate": "Wed, 16 Sep 2026 12:49:05 +0000",
+      "time": "۱۶:۱۹ - ۲۵ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-17T09:46:42.615Z"
     }
   ]
 }
