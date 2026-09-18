@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "agencyId": "mehrnews",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "mehrnews_b2cf681226",
@@ -230,6 +230,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-17T15:02:30.274Z"
+    },
+    {
+      "id": "mehrnews_94faed6b23",
+      "agencyId": "mehrnews",
+      "title": "Saudi Arabia's \"Wing Loong 2\" drone shot down over Yemen",
+      "title_fa": "سرنگونی یک فروند پهپاد «وینگ لونگ ۲» عربستان سعودی در یمن",
+      "lead": "ارتش یمن اعلام کرد که یک فروند پهپاد وینگ لونگ ۲ متعلق به ارتش متجاوز عربستان سعودی را سرنگون کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247822/Saudi-Arabia-s-Wing-Loong-2-drone-shot-down-over-Yemen",
+      "pubDate": "Wed, 16 Sep 2026 16:03:13 GMT",
+      "time": "۱۹:۳۳ - ۲۵ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 30,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-17T16:31:36.610Z"
+    },
+    {
+      "id": "mehrnews_0f96e3b4f3",
+      "agencyId": "mehrnews",
+      "title": "VIDEO: Yemenis release footage of downed F-15 aircraft",
+      "title_fa": "ویدیو: یمنی‌ها تصاویری از سرنگونی یک فروند جنگنده اف-۱۵ منتشر کردند",
+      "lead": "نیروهای نظامی یمن تصاویری ویدئویی از شلیک به سمت یک فروند جنگنده اف-۱۵ سعودی و لاشه آن پس از سرنگونی را منتشر کردند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247821/VIDEO-Yemenis-release-footage-of-downed-F-15-aircraft",
+      "pubDate": "Wed, 16 Sep 2026 15:50:21 GMT",
+      "time": "۱۹:۲۰ - ۲۵ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-17T16:16:47.415Z"
     }
   ]
 }
