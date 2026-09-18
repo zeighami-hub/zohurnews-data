@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_2d56640184",
@@ -363,6 +363,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-17T17:32:02.186Z"
+    },
+    {
+      "id": "nytimes_b6f8344d32",
+      "agencyId": "nytimes",
+      "title": "Major Iranian Airline Suspends Several Flights Abroad, Adding to Isolation",
+      "title_fa": "یک شرکت هواپیمایی بزرگ ایرانی چندین پرواز خارجی خود را به حالت تعلیق درآورد",
+      "lead": "شرکت هواپیمایی ماهان اعلام کرد که پروازهای خود به کشورهای همسایه را متوقف می‌کند. این تصمیم کمی بیش از یک هفته پس از اعمال تحریم‌های گسترده ایالات متحده علیه صنعت هوانوردی ایران اتخاذ شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html",
+      "pubDate": "Thu, 17 Sep 2026 18:08:39 +0000",
+      "time": "۲۱:۳۸ - ۲۶ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-17T18:16:34.113Z"
+    },
+    {
+      "id": "nytimes_7cb28c30f1",
+      "agencyId": "nytimes",
+      "title": "Russia and China Veto U.S. Bid to Renew U.N. Monitoring of Iran Nuclear Program",
+      "title_fa": "روسیه و چین قطعنامه آمریکا برای تمدید نظارت سازمان ملل بر برنامه هسته‌ای ایران را وتو کردند",
+      "lead": "این اختلاف نظر، فاصله میان قدرت‌های جهانی بر سر کمپین فشار ایالات متحده علیه ایران را بیش از پیش برجسته کرد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/17/world/middleeast/un-iran-resolution-russia-china-veto.html",
+      "pubDate": "Thu, 17 Sep 2026 18:13:11 +0000",
+      "time": "۲۱:۴۳ - ۲۶ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-17T18:16:34.113Z"
     }
   ]
 }
