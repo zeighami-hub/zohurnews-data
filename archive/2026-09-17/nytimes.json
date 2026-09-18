@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_2d56640184",
@@ -230,6 +230,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-17T12:16:39.725Z"
+    },
+    {
+      "id": "nytimes_ed38750102",
+      "agencyId": "nytimes",
+      "title": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
+      "title_fa": "در پیامی به ترامپ، پکن میزبان یک دیپلمات ایرانی پیش از نشست ایالات متحده و چین شد",
+      "lead": "چین ضمن به نمایش گذاشتن نفوذ خود بر تهران، بار دیگر خواستار پایان دادن به درگیری‌ها در خاورمیانه شد.",
+      "category": "diplomacy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html",
+      "pubDate": "Wed, 16 Sep 2026 14:15:35 +0000",
+      "time": "۱۷:۴۵ - ۲۵ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-17T12:46:46.324Z"
     }
   ]
 }
