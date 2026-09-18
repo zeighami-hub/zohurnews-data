@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "mehrnews_b2cf681226",
@@ -40,6 +40,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-17T06:16:32.173Z"
+    },
+    {
+      "id": "mehrnews_8d08466909",
+      "agencyId": "mehrnews",
+      "title": "Claims of destroying Iran's military power sheer lie",
+      "title_fa": "ادعای نابودی قدرت نظامی ایران دروغ محض است",
+      "lead": "سخنگوی ارتش ایران ادعای دونالد ترامپ، رئیس‌جمهور آمریکا، مبنی بر نابودی قدرت نظامی ایران را رد کرد و آن را دروغ خواند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/247832/Claims-of-destroying-Iran-s-military-power-sheer-lie",
+      "pubDate": "Thu, 17 Sep 2026 07:00:11 GMT",
+      "time": "۱۰:۳۰ - ۲۶ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-17T07:03:01.473Z"
+    },
+    {
+      "id": "mehrnews_b55087553c",
+      "agencyId": "mehrnews",
+      "title": "UN chief calls for ‘immediate’ Gaza ceasefire",
+      "title_fa": "دبیرکل سازمان ملل خواستار آتش‌بس «فوری» در غزه شد",
+      "lead": "آنشتونیو گوترش، دبیرکل سازمان ملل متحد، خواستار برقراری آتش‌بس فوری در غزه و پایان دادن به الحاق تدریجی کرانه باختری اشغالی شد.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247831/UN-chief-calls-for-immediate-Gaza-ceasefire",
+      "pubDate": "Thu, 17 Sep 2026 06:51:21 GMT",
+      "time": "۱۰:۲۱ - ۲۶ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-17T07:03:01.473Z"
     }
   ]
 }
