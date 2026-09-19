@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "agencyId": "nytimes",
-  "total": 17,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_8dcc345f10",
@@ -325,6 +325,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-18T14:31:57.017Z"
+    },
+    {
+      "id": "nytimes_8c7b8794d7",
+      "agencyId": "nytimes",
+      "title": "U.S. Approves Visas for Iran’s U.N. Delegation",
+      "title_fa": "آمریکا روادید هیئت ایرانی برای سازمان ملل را صادر کرد",
+      "lead": "بر اساس اعلام وزارت خارجه آمریکا، مقام‌های ایرانی برای حضور در مجمع عمومی سازمان ملل در نیویورک روادید دریافت کرده‌اند اما مشمول محدودیت‌هایی خواهند بود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/18/world/americas/iran-visas-us-general-assembly.html",
+      "pubDate": "Fri, 18 Sep 2026 14:50:32 +0000",
+      "time": "۱۸:۲۰ - ۲۷ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-18T15:02:06.277Z"
     }
   ]
 }
