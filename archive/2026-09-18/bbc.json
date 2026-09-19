@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "agencyId": "bbc",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "bbc_e8d3add3da",
@@ -211,6 +211,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-18T07:46:33.638Z"
+    },
+    {
+      "id": "bbc_36b07ab18e",
+      "agencyId": "bbc",
+      "title": "At least one dead and multiple injured in Philippines school shooting",
+      "title_fa": "دست‌کم یک کشته و چندین زخمی در تیراندازی یک مدرسه در فیلیپین",
+      "lead": "در پی تیراندازی در منطقه بانگا واقع در استان میندانائو، دست‌کم یک نفر جان خود را از دست داده و چندین تن دیگر زخمی شده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 08:28:27 GMT",
+      "time": "۱۱:۵۸ - ۲۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-18T08:46:36.223Z"
+    },
+    {
+      "id": "bbc_38acbec9af",
+      "agencyId": "bbc",
+      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "title_fa": "چرا طرح ایالات متحده برای فروش جنگنده‌های اف-۳۵ به عربستان سعودی جنجال‌برانگیز است",
+      "lead": "عربستان سعودی سال‌هاست که برای خرید اف-۳۵، پیشرفته‌ترین جنگنده جهان، با ایالات متحده لابی کرده است و این موضوع بحث‌برانگیز شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 01:31:43 GMT",
+      "time": "۰۵:۰۱ - ۲۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 15,
+        "neutral": 55,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-18T08:46:36.223Z"
     }
   ]
 }
