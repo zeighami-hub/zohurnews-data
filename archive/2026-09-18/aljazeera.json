@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "aljazeera_e646fc7c83",
@@ -21,6 +21,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-18T00:01:38.322Z"
+    },
+    {
+      "id": "aljazeera_e920190b4e",
+      "agencyId": "aljazeera",
+      "title": "Iran expels Swedish diplomat in retaliatory move",
+      "title_fa": "ایران یک دیپلمات سوئدی را در اقدامی متقابل اخراج کرد",
+      "lead": "تهران به یک مقام رسمی سوئد ۴۸ ساعت مهلت داد تا خاک ایران را ترک کند. ایران می‌گوید استکهلم در برابر فشارهای خارجی سر تعظیم فرود می‌آورد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
+      "pubDate": "Fri, 18 Sep 2026 00:09:32 +0000",
+      "time": "۰۳:۳۹ - ۲۷ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-18T00:46:15.872Z"
+    },
+    {
+      "id": "aljazeera_2620f2eac5",
+      "agencyId": "aljazeera",
+      "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
+      "title_fa": "تحولات جنگ ایران؛ ترامپ در حال بررسی «تصمیم بزرگ» درباره ایران، یک نفتکش در هرمز هدف قرار گرفت",
+      "lead": "دونالد ترامپ اعلام کرد که با «تصمیم بزرگی» درباره نابودی دشمنان ایرانی خود روبه‌رو است و افزود که «هر اتفاقی ممکن است رخ دهد».",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
+      "pubDate": "Fri, 18 Sep 2026 00:00:00 +0000",
+      "time": "۰۳:۳۰ - ۲۷ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-18T00:31:25.029Z"
     }
   ]
 }
