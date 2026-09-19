@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_8dcc345f10",
@@ -268,6 +268,63 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-18T13:31:50.555Z"
+    },
+    {
+      "id": "nytimes_ed9fdf2283",
+      "agencyId": "nytimes",
+      "title": "37 Miners in Nigeria Die in Police Custody, Sparking Protests",
+      "title_fa": "مرگ ۳۷ معدنچی در نیجریه در بازداشت پلیس؛ وقوع اعتراضات",
+      "lead": "یک بازمانده به نیویورک تایمز گفت که ده‌ها نفر بدون تهویه مناسب، غذا یا آب در یک سلول نگهداری می‌شدند. این واقعه مرگبار به وقوع اعتراضاتی انجامیده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
+      "pubDate": "Fri, 18 Sep 2026 14:40:41 +0000",
+      "time": "۱۸:۱۰ - ۲۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-18T14:46:42.943Z"
+    },
+    {
+      "id": "nytimes_7f5d3ecd71",
+      "agencyId": "nytimes",
+      "title": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
+      "title_fa": "پروژه E1 چیست؛ طرح شهرک‌سازی جنجالی اسرائیل در کرانه باختری؟",
+      "lead": "دولت راست‌گرای اسرائیل در حال آغاز مناقصه برای هزاران واحد مسکونی در بخشی از کرانه باختری است، اقدامی که تلاش‌ها برای تشکیل کشور فلسطین را خنثی خواهد کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html",
+      "pubDate": "Thu, 17 Sep 2026 14:14:58 +0000",
+      "time": "۱۷:۴۴ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 50,
+        "negative": 45
+      },
+      "analyzed_at": "2026-09-18T14:46:42.943Z"
+    },
+    {
+      "id": "nytimes_ca6fface68",
+      "agencyId": "nytimes",
+      "title": "Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns",
+      "title_fa": "ایران و چین نخستین کمپین‌های نفوذ هوش مصنوعی مستقل را ایجاد کردند",
+      "lead": "این کشورها به همراه شرکت‌های اسرائیلی، مدل‌های متن‌باز هوش مصنوعی چینی و عوامل هوش مصنوعی را برای این کمپین‌ها ترکیب کردند که نشان‌دهنده دستکاری‌های آنلاین آینده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html",
+      "pubDate": "Fri, 18 Sep 2026 14:20:10 +0000",
+      "time": "۱۷:۵۰ - ۲۷ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 65,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-18T14:31:57.017Z"
     }
   ]
 }
