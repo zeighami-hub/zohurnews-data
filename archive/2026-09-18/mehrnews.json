@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "agencyId": "mehrnews",
-  "total": 5,
+  "total": 8,
   "articles": [
     {
       "id": "mehrnews_6f79d66a5f",
@@ -97,6 +97,63 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-18T07:16:35.320Z"
+    },
+    {
+      "id": "mehrnews_bd2a80c894",
+      "agencyId": "mehrnews",
+      "title": "FM summons German envoy over Berlin’s anti-Iran positions",
+      "title_fa": "احضار کاردار آلمان به وزارت امور خارجه در پی مواضع ضد ایرانی برلین",
+      "lead": "وزارت امور خارجه ایران سفیر آلمان در تهران را در اعتراض به مواضع مقامات ارشد آلمانی علیه ایران و اقدامات مداخله‌جویانه سفارت این کشور احضار کرد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247845/FM-summons-German-envoy-over-Berlin-s-anti-Iran-positions",
+      "pubDate": "Fri, 18 Sep 2026 07:25:41 GMT",
+      "time": "۱۰:۵۵ - ۲۷ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-18T07:31:39.848Z"
+    },
+    {
+      "id": "mehrnews_8d08466909",
+      "agencyId": "mehrnews",
+      "title": "Claims of destroying Iran's military power sheer lie",
+      "title_fa": "ادعای نابودی قدرت نظامی ایران دروغ محض است",
+      "lead": "سخنگوی ارتش ایران ادعای دونالد ترامپ، رئیس‌جمهور آمریکا، مبنی بر نابودی قدرت نظامی ایران را رد و آن را نادرست خواند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/247832/Claims-of-destroying-Iran-s-military-power-sheer-lie",
+      "pubDate": "Thu, 17 Sep 2026 07:00:11 GMT",
+      "time": "۱۰:۳۰ - ۲۶ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-18T07:31:39.848Z"
+    },
+    {
+      "id": "mehrnews_b55087553c",
+      "agencyId": "mehrnews",
+      "title": "UN chief calls for ‘immediate’ Gaza ceasefire",
+      "title_fa": "دبیرکل سازمان ملل خواستار آتش‌بس فوری در غزه شد",
+      "lead": "آنطونیو گوترش، دبیرکل سازمان ملل متحد، خواستار برقراری آتش‌بس فوری در غزه و پایان دادن به الحاق تدریجی اراضی کرانه باختری شد.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247831/UN-chief-calls-for-immediate-Gaza-ceasefire",
+      "pubDate": "Thu, 17 Sep 2026 06:51:21 GMT",
+      "time": "۱۰:۲۱ - ۲۶ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-18T07:31:39.848Z"
     }
   ]
 }
