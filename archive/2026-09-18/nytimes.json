@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_8dcc345f10",
@@ -401,6 +401,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-18T18:32:12.101Z"
+    },
+    {
+      "id": "nytimes_e3b5f1fc74",
+      "agencyId": "nytimes",
+      "title": "U.S. Strike on Iranian School May Have Been War Crime, U.N. Report Says",
+      "title_fa": "گزارش سازمان ملل: حمله ایالات متحده به مدرسه ایرانی ممکن است جنایت جنگی باشد",
+      "lead": "محققان اعلام کردند اشتباهاتی که منجر به کشته شدن بیش از یک صد کودک شد، «فراتر از سهل‌انگاری» بوده است. آنها همچنین به یک حمله جداگانه در همان روز اشاره کردند که بنا بر گزارش‌ها ۲۲ غیرنظامی را به کشتن داد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html",
+      "pubDate": "Thu, 17 Sep 2026 20:14:36 +0000",
+      "time": "۲۳:۴۴ - ۲۶ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-18T19:16:21.268Z"
+    },
+    {
+      "id": "nytimes_e8f6e7ec9e",
+      "agencyId": "nytimes",
+      "title": "Eugenia Apostol, Whose Journalism Helped Topple a Dictator, Dies at 100",
+      "title_fa": "اوژنی آپوستول، روزنامه‌نگاری که در سرنگونی یک دیکتاتور نقش داشت، در سن ۱۰۰ سالگی درگذشت",
+      "lead": "او یک ناشر در فیلیپین بود که از مجله زنان خود به عنوان تریبونی برای انتشار اخبار سیاسی استفاده کرد و نقشی کلیدی در به زیر کشیدن فردیناند مارکوس از قدرت داشت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/18/world/asia/eugenia-apostol-dead.html",
+      "pubDate": "Fri, 18 Sep 2026 19:13:31 +0000",
+      "time": "۲۲:۴۳ - ۲۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-18T19:16:21.268Z"
     }
   ]
 }
