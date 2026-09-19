@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "agencyId": "bbc",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "bbc_e8d3add3da",
@@ -306,6 +306,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-18T10:16:38.231Z"
+    },
+    {
+      "id": "bbc_0cf32426ff",
+      "agencyId": "bbc",
+      "title": "At least 16 killed in attack on mosque in Pakistan",
+      "title_fa": "دستکم ۱۶ کشته در حمله به مسجدی در پاکستان",
+      "lead": "یک مقام ارشد پلیس به بی‌بی‌سی گفت که یک خودروی حامل مواد منفجره در جریان نماز جمعه به داخل یک ساختمان مسجد برخورد کرده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 10:13:02 GMT",
+      "time": "۱۳:۴۳ - ۲۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-18T10:31:39.475Z"
     }
   ]
 }
