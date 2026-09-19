@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "agencyId": "mehrnews",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_6f79d66a5f",
@@ -154,6 +154,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-18T07:31:39.848Z"
+    },
+    {
+      "id": "mehrnews_202c1e1138",
+      "agencyId": "mehrnews",
+      "title": "Tehran orders Swedish diplomat to leave Iran within 48 hours",
+      "title_fa": "تهران دیپلمات سوئدی را ظرف ۴۸ ساعت از ایران اخراج کرد",
+      "lead": "ایران اتهامات سوئد علیه جمهوری اسلامی را رد کرده و به یک دیپلمات سوئدی در تهران دستور داده است تا ظرف ۴۸ ساعت خاک ایران را ترک کند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247847/Tehran-orders-Swedish-diplomat-to-leave-Iran-within-48-hours",
+      "pubDate": "Fri, 18 Sep 2026 07:39:39 GMT",
+      "time": "۱۱:۰۹ - ۲۷ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-18T07:46:33.638Z"
+    },
+    {
+      "id": "mehrnews_a703981b50",
+      "agencyId": "mehrnews",
+      "title": "Araghchi says talks with Chinese partners \"successful\"",
+      "title_fa": "عراقچی رایزنی با شرکای چینی را «موفقیت‌آمیز» خواند",
+      "lead": "سید عباس عراقچی، وزیر امور خارجه ایران، پس از دیدار و گفتگو با وانگ یی، همام چینی خود، اعلام کرد که رایزنی با مقامات چین موفقیت‌آمیز بوده است. وی این دیدارها را برای روابط راهبردی دو کشور سازنده توصیف کرد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247833/Araghchi-says-talks-with-Chinese-partners-successful",
+      "pubDate": "Thu, 17 Sep 2026 07:13:00 GMT",
+      "time": "۱۰:۴۳ - ۲۶ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-18T07:46:33.638Z"
     }
   ]
 }
