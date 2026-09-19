@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "agencyId": "nytimes",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_8dcc345f10",
@@ -439,6 +439,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-18T19:16:21.268Z"
+    },
+    {
+      "id": "nytimes_d23acdf9c1",
+      "agencyId": "nytimes",
+      "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
+      "title_fa": "تشدید جنگ یمن با پیشروی شبه‌نظامیان حوثی به سمت مأرب",
+      "lead": "درگیری‌ها میان نیروهای حوثی مورد حمایت ایران و نیروهای دولتی مورد حمایت عربستان سعودی در نزدیکی استان نفت‌خیز مأرب گزارش شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
+      "pubDate": "Thu, 17 Sep 2026 22:44:04 +0000",
+      "time": "۰۲:۱۴ - ۲۷ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-18T20:02:11.068Z"
     }
   ]
 }
