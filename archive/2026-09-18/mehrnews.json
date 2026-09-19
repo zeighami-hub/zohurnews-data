@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "agencyId": "mehrnews",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "mehrnews_6f79d66a5f",
@@ -21,6 +21,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-18T06:01:47.625Z"
+    },
+    {
+      "id": "mehrnews_35266bf580",
+      "agencyId": "mehrnews",
+      "title": "Tanker hit attempting illegal transit through Hormuz Strait",
+      "title_fa": "هدف قرار گرفتن یک فروند نفتکش حین تلاش برای تردد غیرقانونی در تنگه هرمز",
+      "lead": "نیروی دریایی سپاه پاسداران انقلاب اسلامی اعلام کرد که یک فروند نفتکش با پرچم توگو هنگام تلاش برای تردد غیرقانونی در تنگه هرمز مورد اصابت قرار گرفت.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247843/Tanker-hit-attempting-illegal-transit-through-Hormuz-Strait",
+      "pubDate": "Fri, 18 Sep 2026 06:11:46 GMT",
+      "time": "۰۹:۴۱ - ۲۷ شهریور",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-18T06:16:27.993Z"
+    },
+    {
+      "id": "mehrnews_b2cf681226",
+      "agencyId": "mehrnews",
+      "title": "Araghchi, Munir discuss regional developments",
+      "title_fa": "گفتگوی تلفنی وزیر خارجه ایران و فرمانده ارتش پاکستان درباره تحولات منطقه‌ای",
+      "lead": "عباس عراقچی، وزیر امور خارجه ایران، در گفتگو با فیلدمشعل عاصم منیر، فرمانده ارتش پاکستان، پیرامون آخرین تحولات منطقه‌ای به تبادل نظر پرداخت.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247829/Araghchi-Munir-discuss-regional-developments",
+      "pubDate": "Thu, 17 Sep 2026 05:43:30 GMT",
+      "time": "۰۹:۱۳ - ۲۶ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-18T06:16:27.993Z"
     }
   ]
 }
