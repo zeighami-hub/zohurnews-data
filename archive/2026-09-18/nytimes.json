@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_8dcc345f10",
@@ -59,6 +59,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-18T05:01:39.660Z"
+    },
+    {
+      "id": "nytimes_c79f57acee",
+      "agencyId": "nytimes",
+      "title": "The Hidden Human Cost of Kim Jong-un’s New Power",
+      "title_fa": "هزینه انسانی پنهان قدرت جدید کیم جونگ اون",
+      "lead": "اهرم مالی و دیپلماتیک رهبر کره شمالی بر پایه استثمار ظالمانه شهروندان این کشور، از معدنچیان زغال‌سنگ گرفته تا دیپلمات‌ها، در داخل و خارج از کشور بنا شده است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/17/world/asia/north-korea-exploitation-kim.html",
+      "pubDate": "Thu, 17 Sep 2026 04:11:08 +0000",
+      "time": "۰۷:۴۱ - ۲۶ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-18T07:31:39.848Z"
     }
   ]
 }
