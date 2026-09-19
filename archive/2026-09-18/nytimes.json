@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_8dcc345f10",
@@ -40,6 +40,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-18T04:16:19.087Z"
+    },
+    {
+      "id": "nytimes_deb883c6b1",
+      "agencyId": "nytimes",
+      "title": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
+      "title_fa": "رهبر کره جنوبی درخواست ترامپ برای اعزام نیرو به ایران را رد کرد",
+      "lead": "اظهارات لی جائه میونگ، رئیس‌جمهور کره جنوبی، پس از آن مطرح شد که دونالد ترامپ مکرراً خواستار همکاری و کمک این کشور هم‌پیمان دیرینه ایالات متحده شده بود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
+      "pubDate": "Fri, 18 Sep 2026 04:58:13 +0000",
+      "time": "۰۸:۲۸ - ۲۷ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-18T05:01:39.660Z"
     }
   ]
 }
