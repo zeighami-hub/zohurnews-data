@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "aljazeera_d77dff744d",
@@ -21,6 +21,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-19T00:16:12.392Z"
+    },
+    {
+      "id": "aljazeera_5355a742dd",
+      "agencyId": "aljazeera",
+      "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+      "title_fa": "اخبار زنده جنگ ایران: ترامپ تحریم‌ها علیه ایران و حامیان حوثی در صنعا را تمدید کرد",
+      "lead": "هزاران نفر در صنعا در حمایت از حوثی‌ها به خیابان‌ها آمدند و هم‌زمان ترامپ تحریم‌ها علیه ایران را تمدید کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
+      "pubDate": "Sat, 19 Sep 2026 00:00:26 +0000",
+      "time": "۰۳:۳۰ - ۲۸ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-19T00:31:22.381Z"
+    },
+    {
+      "id": "aljazeera_68e7b1f9f4",
+      "agencyId": "aljazeera",
+      "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+      "title_fa": "حمله هوایی اسرائیل به یک موتورسیکلت در شهر غزه جان یک فلسطینی را گرفت و یک کودک را زخمی کرد",
+      "lead": "حملات جداگانه‌ای اردوگاه‌های آوارگان در مرکز غزه را هدف قرار داد و مقام مسئول هشدار دادند که بخش بهداشت غزه با فروپاشی کامل روبه‌رو است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+      "pubDate": "Sat, 19 Sep 2026 00:02:03 +0000",
+      "time": "۰۳:۳۲ - ۲۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 25,
+        "negative": 75
+      },
+      "analyzed_at": "2026-09-19T00:31:22.381Z"
     }
   ]
 }
