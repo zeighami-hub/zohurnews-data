@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_c3351581c2",
@@ -78,6 +78,25 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-19T07:02:00.457Z"
+    },
+    {
+      "id": "bbc_36b07ab18e",
+      "agencyId": "bbc",
+      "title": "Three dead and eight injured in Philippines school shooting",
+      "title_fa": "سه کشته و هشت زخمی در تیراندازی در یک مدرسه در فیلیپین",
+      "lead": "فرد مهاجم نیز در میان کشته‌شدگان است؛ این حادثه سومین تیراندازی در مدارس این کشور از ماه ژوئن تاکنون به شمار می‌رود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 11:01:46 GMT",
+      "time": "۱۴:۳۱ - ۲۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-19T09:02:08.059Z"
     }
   ]
 }
