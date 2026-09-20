@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
   "agencyId": "guardian",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "guardian_4908ecd1ad",
@@ -21,6 +21,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-19T04:31:52.972Z"
+    },
+    {
+      "id": "guardian_3768b3ff05",
+      "agencyId": "guardian",
+      "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+      "title_fa": "کره جنوبی در پی فشار ترامپ، نظامی به جنگ با ایران اعزام نمی‌کند",
+      "lead": "سئول گمانه‌زنی‌ها درباره اعزام نیرو به تنگه هرمز را رد کرد و رئیس‌جمهور کره جنوبی اعلام نمود که هیچ‌گونه اعزام نظامی که به درگیری یا ورود به جنگ منجر شود، انجام نخواهد شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
+      "pubDate": "Fri, 18 Sep 2026 05:54:29 GMT",
+      "time": "۰۹:۲۴ - ۲۷ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-19T06:16:50.447Z"
+    },
+    {
+      "id": "guardian_50563bb482",
+      "agencyId": "guardian",
+      "title": "‘We have something that will kill Elliott’: Icac questions former Labor councillor over message",
+      "title_fa": "سوال کمیسیون مستقل ضدفساد از عضو پیشین حزب کارگر درباره پیام جنجالی",
+      "lead": "شارنگان ماهسوالان، عضو پیشین شورای حزب کارگر، دریافت پیامی درباره یک وزیر اهل نیوساوت ولز را رد کرد و گفت این پیام ارتباطی با فعالیت‌های او برای یک توسعه‌دهنده فراری املاک نداشته است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/18/icac-labor-sharangan-maheswaran-david-elliot-message-jean-nassif-ntwnfb",
+      "pubDate": "Fri, 18 Sep 2026 08:33:00 GMT",
+      "time": "۱۲:۰۳ - ۲۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-19T06:16:50.447Z"
     }
   ]
 }
