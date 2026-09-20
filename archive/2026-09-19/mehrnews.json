@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
   "agencyId": "mehrnews",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "mehrnews_c938dd4a16",
@@ -97,6 +97,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-19T06:16:50.447Z"
+    },
+    {
+      "id": "mehrnews_35266bf580",
+      "agencyId": "mehrnews",
+      "title": "Tanker hit attempting illegal transit through Hormuz Strait",
+      "title_fa": "هدف قرار گرفتن یک تانکر در تلاش برای عبور غیرقانونی از تنگه هرمز",
+      "lead": "نیروی دریایی سپاه پاسداران انقلاب اسلامی اعلام کرد یک فروند تانکر نفت‌کش با پرچم توگو هنگام تلاش برای عبور غیرقانونی از تنگه هرمز مورد اصابت قرار گرفت.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247843/Tanker-hit-attempting-illegal-transit-through-Hormuz-Strait",
+      "pubDate": "Fri, 18 Sep 2026 06:11:46 GMT",
+      "time": "۰۹:۴۱ - ۲۷ شهریور",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-19T06:31:48.155Z"
+    },
+    {
+      "id": "mehrnews_c0ec90c7eb",
+      "agencyId": "mehrnews",
+      "title": "Doezens injured in Israeli strikes on motorcycle in Gaza",
+      "title_fa": "ده‌ها زخمی در حملات اسرائیل به یک موتورسیکلت در غزه",
+      "lead": "در پی بمباران یک موتورسیکلت در شهر غزه توسط نیروهای اسرائیلی، یک فلسطینی کشته و چندین نفر دیگر از جمله یک کودک با وضعیت وخیم زخمی شدند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247864/Doezens-injured-in-Israeli-strikes-on-motorcycle-in-Gaza",
+      "pubDate": "Sat, 19 Sep 2026 06:21:14 GMT",
+      "time": "۰۹:۵۱ - ۲۸ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-19T06:31:48.155Z"
     }
   ]
 }
