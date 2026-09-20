@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
   "agencyId": "mehrnews",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "mehrnews_c938dd4a16",
@@ -211,6 +211,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-19T08:01:58.756Z"
+    },
+    {
+      "id": "mehrnews_ab6d7d90e5",
+      "agencyId": "mehrnews",
+      "title": "Iran can push America out of West Asia: Report",
+      "title_fa": "ایران می‌تواند آمریکا را از غرب آسیا بیرون کند",
+      "lead": "نشریه دیلی تلگراف به قدرت ایران در برابر ایالات متحده و بی‌اثربودن پایگاه‌های ایالات متحده در منطقه غرب آسیا اذعان کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/247868/Iran-can-push-America-out-of-West-Asia-Report",
+      "pubDate": "Sat, 19 Sep 2026 08:15:52 GMT",
+      "time": "۱۱:۴۵ - ۲۸ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 30,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-19T08:31:47.937Z"
+    },
+    {
+      "id": "mehrnews_ba2afaa4a5",
+      "agencyId": "mehrnews",
+      "title": "VIDEO: Woman nabbed in Amsterdam for shouting Free Palestine",
+      "title_fa": "بازداشت یک زن در آمستردام به جرم سر دادن شعار «فلسطین را آزاد کنید»",
+      "lead": "پلیس آمستردام زنی را پس از سر دادن شعار «فلسطین را آزاد کنید» در جریان یک تجمع بازداشت کرد و تصاویر ویدئویی لحظه بازداشت وی توسط ماموران را نشان می‌دهد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247869/VIDEO-Woman-nabbed-in-Amsterdam-for-shouting-Free-Palestine",
+      "pubDate": "Sat, 19 Sep 2026 08:25:06 GMT",
+      "time": "۱۱:۵۵ - ۲۸ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-19T08:31:47.937Z"
     }
   ]
 }
