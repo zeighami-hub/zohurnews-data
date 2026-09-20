@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
   "agencyId": "aljazeera",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "aljazeera_d77dff744d",
@@ -78,6 +78,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-19T01:16:14.861Z"
+    },
+    {
+      "id": "aljazeera_4c7d448d2d",
+      "agencyId": "aljazeera",
+      "title": "Iranian women defy law and run Tehran race without hijab",
+      "title_fa": "زنان ایرانی قانون حجاب را زیر پا گذاشته و بدون حجاب در مسابقه تهران شرکت کردند",
+      "lead": "صدها زن ایرانی در مسابقه دو ۱۰ کیلومتر در تهران قانون حجاب را زیر پا گذاشته و بدون حجاب شرکت کردند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
+      "pubDate": "Sat, 19 Sep 2026 01:45:36 +0000",
+      "time": "۰۵:۱۵ - ۲۸ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-19T02:01:29.969Z"
+    },
+    {
+      "id": "aljazeera_99729b9e6c",
+      "agencyId": "aljazeera",
+      "title": "Google’s Gemini AI hacks 3 companies in security test, then stops",
+      "title_fa": "هوش مصنوعی جمینای گوگل در یک آزمایش امنیتی ۳ شرکت را هک کرد و سپس متوقف شد",
+      "lead": "گوگل از نخستین مورد نفوذ جمینای پس از حوادث مشابه توسط متا، انتروپیک و اوپن‌ای‌آی خبر داد.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops?traffic_source=rss",
+      "pubDate": "Sat, 19 Sep 2026 01:38:02 +0000",
+      "time": "۰۵:۰۸ - ۲۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-19T02:01:29.969Z"
     }
   ]
 }
