@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_8f36b737d3",
@@ -287,6 +287,25 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-20T13:17:44.946Z"
+    },
+    {
+      "id": "nytimes_48fcc780d1",
+      "agencyId": "nytimes",
+      "title": "In Significant Escalation, Houthis Attack Saudi Capital",
+      "title_fa": "در تشدید چشمگیر تنش‌ها، حوثی‌ها به پایتخت عربستان حمله کردند",
+      "lead": "حوثی‌های یمن اعلام کردند که موجی از موشک‌ها و پهپادها را به سمت ریاض و تأسیسات نفتی عربستان سعودی شلیک کرده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
+      "pubDate": "Sun, 20 Sep 2026 06:38:20 +0000",
+      "time": "۱۰:۰۸ - ۲۹ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-20T14:03:22.116Z"
     }
   ]
 }
