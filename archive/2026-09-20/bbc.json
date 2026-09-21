@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_82808083ca",
@@ -78,6 +78,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-20T00:46:17.642Z"
+    },
+    {
+      "id": "bbc_c3351581c2",
+      "agencyId": "bbc",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "title_fa": "هوش مصنوعی جمینای گوگل در یک تست امنیتی سه شرکت را هک کرد",
+      "lead": "یک مقام گوگل به بی‌بی‌سی گفت که این مدل هوش مصنوعی به اینترنت دسترسی پیدا کرده و اطلاعات ورود به سه وب‌سایت را حدس زده است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 19 Sep 2026 13:39:32 GMT",
+      "time": "۱۷:۰۹ - ۲۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-20T05:01:49.161Z"
     }
   ]
 }
