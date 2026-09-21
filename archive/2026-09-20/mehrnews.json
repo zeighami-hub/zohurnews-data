@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "mehrnews",
-  "total": 7,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_8dd8f4d526",
@@ -135,6 +135,63 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-20T05:47:33.471Z"
+    },
+    {
+      "id": "mehrnews_c169aa1215",
+      "agencyId": "mehrnews",
+      "title": "Senior Iran MP terms US treasury sec.’s claims baseless lies",
+      "title_fa": "واکنش مقام ارشد مجلس به ادعاهای وزیر خزانه‌داری آمریکا",
+      "lead": "رئیس کمیسیون امنیت ملی و سیاست خارجی مجلس شورای اسلامی ادعاهای وزیر خزانه‌داری آمریکا مبنی بر صف‌های طولانی ایرانیان برای بنزین را «دروغ‌های بی‌اساس» خوانdı.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247897/Senior-Iran-MP-terms-US-treasury-sec-s-claims-baseless-lies",
+      "pubDate": "Sun, 20 Sep 2026 06:20:45 GMT",
+      "time": "۰۹:۵۰ - ۲۹ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-20T06:31:50.807Z"
+    },
+    {
+      "id": "mehrnews_a034e023a4",
+      "agencyId": "mehrnews",
+      "title": "'Diplomacy, power’ not in conflict with each other: Iran FM",
+      "title_fa": "دیپلماسی و قدرت در تقابل با یکدیگر نیستند: وزیر خارجه ایران",
+      "lead": "سید عباس عراقچی، وزیر امور خارجه ایران، اظهار داشت که دیپلماسی و قدرت نه تنها در تقابل با یکدیگر نیستند، بلکه در یک جهت حرکت می‌کنند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247895/Diplomacy-power-not-in-conflict-with-each-other-Iran-FM",
+      "pubDate": "Sun, 20 Sep 2026 05:59:01 GMT",
+      "time": "۰۹:۲۹ - ۲۹ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-20T06:17:21.301Z"
+    },
+    {
+      "id": "mehrnews_0f53f209a9",
+      "agencyId": "mehrnews",
+      "title": "Two Palestinians wounded in attack by Israeli settlers",
+      "title_fa": "دو فلسطینی در حمله شهرک‌نشینان اسرائیلی زخمی شدند",
+      "lead": "منابع خبری اعلام کردند که دو فلسطینی روز یکشنبه در جریان حمله شهرک‌نشینان اسرائیلی در کرانه باختری مجروح شدند. این حمله صبح امروز به وقوع پیفته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247896/Two-Palestinians-wounded-in-attack-by-Israeli-settlers",
+      "pubDate": "Sun, 20 Sep 2026 06:06:38 GMT",
+      "time": "۰۹:۳۶ - ۲۹ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-20T06:17:21.301Z"
     }
   ]
 }
