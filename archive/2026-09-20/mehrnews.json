@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "mehrnews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "mehrnews_8dd8f4d526",
@@ -59,6 +59,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-20T04:16:32.472Z"
+    },
+    {
+      "id": "mehrnews_1337ff4dcf",
+      "agencyId": "mehrnews",
+      "title": "China reiterates opposition to US sanctions on Iran, Russia",
+      "title_fa": "چین مخالفت خود را با تحریم‌های آمریکا علیه ایران و روسیه تکرار کرد",
+      "lead": "چین مخالفت خود را با تحریم‌های یکجانبه و بدون مجوز سازمان ملل متحد که از سوی ایالات متحده آمریکا علیه ایران و روسیه اعمال شده است، اعلام کرد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://en.mehrnews.com/news/247891/China-reiterates-opposition-to-US-sanctions-on-Iran-Russia",
+      "pubDate": "Sun, 20 Sep 2026 05:09:27 GMT",
+      "time": "۰۸:۳۹ - ۲۹ شهریور",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-20T05:16:45.738Z"
+    },
+    {
+      "id": "mehrnews_4e3b1c2452",
+      "agencyId": "mehrnews",
+      "title": "US hits another boat in Caribbean, four dead",
+      "title_fa": "حمله ایالات متحده به یک قایق دیگر در دریای کارائیب با چهار کشته",
+      "lead": "ارتش ایالات متحده در عملیاتی که ادعا کرد با هدف مبارزه با قاچاقچیان مواد مخدر انجام شده، به یک قایق دیگر در دریای کارائیب حمله کرد که دست کم چهار کشته برجای گذاشت.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/247892/US-hits-another-boat-in-Caribbean-four-dead",
+      "pubDate": "Sun, 20 Sep 2026 05:06:52 GMT",
+      "time": "۰۸:۳۶ - ۲۹ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-20T05:16:45.738Z"
     }
   ]
 }
