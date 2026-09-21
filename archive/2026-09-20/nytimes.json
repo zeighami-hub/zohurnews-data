@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "nytimes",
-  "total": 22,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_8f36b737d3",
@@ -420,6 +420,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-20T21:31:32.642Z"
+    },
+    {
+      "id": "nytimes_ecf8d4b59a",
+      "agencyId": "nytimes",
+      "title": "Israeli President Pardons Ex-Soldier Over Killing of Incapacitated Palestinian",
+      "title_fa": "رئیس‌جمهور اسرائیل سرباز پیشین را به دلیل کشتن یک فلسطینی ناتوان عفو کرد",
+      "lead": "در سال ۲۰۱۶، ایلور آزاریا یک مهاجم فلسطینی زخمی‌شده را به قتل رساند که این اقدام بحث‌های عمومی گسترده‌ای را در داخل و خارج از اسرائیل پیرامون اقدامات نظامی این کشور برانگیخت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/19/world/middleeast/israel-pardon-azaria.html",
+      "pubDate": "Sun, 20 Sep 2026 02:45:46 +0000",
+      "time": "۰۶:۱۵ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-20T22:01:36.552Z"
     }
   ]
 }
