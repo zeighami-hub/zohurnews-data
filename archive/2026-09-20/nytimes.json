@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_8f36b737d3",
@@ -192,6 +192,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-20T09:46:44.457Z"
+    },
+    {
+      "id": "nytimes_a1cf15f578",
+      "agencyId": "nytimes",
+      "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+      "title_fa": "حمله صدها پهپاد به مسکو در آخرین روز انتخابات روسیه",
+      "lead": "اوکراین اعلام کرد که در این حملات، از جمله به مناطق دیگر روسیه، از یک موشک بالستیک جدید استفاده کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+      "pubDate": "Sun, 20 Sep 2026 09:44:55 +0000",
+      "time": "۱۳:۱۴ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-20T10:01:59.864Z"
     }
   ]
 }
