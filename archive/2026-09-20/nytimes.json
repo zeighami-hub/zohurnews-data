@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_8f36b737d3",
@@ -59,6 +59,63 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-20T04:16:32.472Z"
+    },
+    {
+      "id": "nytimes_2519158727",
+      "agencyId": "nytimes",
+      "title": "Russia Barred Their Party, but These Antiwar Voices Are Still Standing",
+      "title_fa": "حزب لیبرال یابلوکو با وجود ممنوعیت، در انتخابات روسیه نامزد معرفی کرد",
+      "lead": "حزب ضدجنگ و لیبرال یابلوکو ۹۸ نامزد در انتخابات این آخر هفته روسیه معرفی کرده است که این رویداد برای روس‌های مخالف جنگ که نمی‌توانند نظرات خود را آشکارا بیان کنند، موفقیتی کوچک به شمار می‌آید.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html",
+      "pubDate": "Sun, 20 Sep 2026 09:02:04 +0000",
+      "time": "۱۲:۳۲ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-20T09:16:42.596Z"
+    },
+    {
+      "id": "nytimes_b8516ae277",
+      "agencyId": "nytimes",
+      "title": "Israeli Tourist Trap ‘Herod’s Pool’ Is Draining Palestinians’ Land Dry",
+      "title_fa": "بهره‌برداری از یک تفرجگاه اسرائیلی در کرانه باختری و خشک شدن اراضی فلسطینیان",
+      "lead": "قانون‌گذاران اسرائیلی بازدید از یک مخزن باستانی آب در کرانه باختری را ترویج کرده‌اند که تابستان امسال با آب منحرف‌شده از مزارع متعلق به فلسطینیان دوباره پر شده است.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/20/world/middleeast/west-bank-pool-palestinians-israelis-water.html",
+      "pubDate": "Sun, 20 Sep 2026 09:00:50 +0000",
+      "time": "۱۲:۳۰ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-20T09:16:42.596Z"
+    },
+    {
+      "id": "nytimes_68c05d40bc",
+      "agencyId": "nytimes",
+      "title": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
+      "title_fa": "سرنوشت نامعلوم یک نیروگاه هسته‌ای استفاده‌نشده در فیلیپین",
+      "lead": "دولت فیلیپین در حال بررسی گزینه‌های انرژی هسته‌ای برای مقابله با شوک‌های جهانی انرژی است و یکی از پیشنهادها، راه‌اندازی نیروگاهی در باتاآن است که ۴۰ سال متوقف مانده بود.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/20/world/asia/philippines-bataan-nuclear-power-plant.html",
+      "pubDate": "Sun, 20 Sep 2026 09:00:33 +0000",
+      "time": "۱۲:۳۰ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-20T09:16:42.596Z"
     }
   ]
 }
