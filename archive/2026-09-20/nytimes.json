@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_8f36b737d3",
@@ -116,6 +116,82 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-20T09:16:42.596Z"
+    },
+    {
+      "id": "nytimes_e680759838",
+      "agencyId": "nytimes",
+      "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
+      "title_fa": "روسیه هشدار داد قانون جدید تحریم‌های آمریکا به تلاش‌های صلح ترامپ آسیب می‌زند",
+      "lead": "رئیس‌جمهور آمریکا لایحه تحریم‌های جدید را که به نام سناتور لیندسی گراهام نامگذاری شده است، در کاخ سفید امضا کرد. با این حال، وی اختیارات گسترده‌ای برای لغو الزامات آن دارد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html",
+      "pubDate": "Sat, 19 Sep 2026 18:35:14 +0000",
+      "time": "۲۲:۰۵ - ۲۸ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-20T09:46:44.457Z"
+    },
+    {
+      "id": "nytimes_7794f614b9",
+      "agencyId": "nytimes",
+      "title": "A Small Country’s Huge Windfall from the War in Iran",
+      "title_fa": "سود کلان یک کشور کوچک از جنگ در ایران",
+      "lead": "کشور نفت‌خیز گویان از رشد اقتصادی بسیار سریعی برخوردار است. با این حال، این رونق اقتصادی تنش‌ها را بر سر فساد، نابرابری و تیرگی روابط با ونزوئلا تشدید کرده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html",
+      "pubDate": "Sat, 19 Sep 2026 13:47:42 +0000",
+      "time": "۱۷:۱۷ - ۲۸ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-20T09:46:44.457Z"
+    },
+    {
+      "id": "nytimes_1bfe01bc1d",
+      "agencyId": "nytimes",
+      "title": "Millionaire Activist James Chambers Seeks Asylum in Spain",
+      "title_fa": "جیمز چمبرز، فعال میلیونر، به دنبال پناهندگی در اسپانیا است",
+      "lead": "جیمز چمبرز که در مادرید به دنبال درخواست استرداد از سوی ایالات متحده زندانی است و وکیلش می‌گوید این پرونده به فعالیت‌های طرفدار فلسطین گره خورده است، در صورت بازگردانده شدن از آزار و اذیت بیم دارد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/19/world/europe/spain-chambers-asylum-us-extradition.html",
+      "pubDate": "Sat, 19 Sep 2026 09:03:12 +0000",
+      "time": "۱۲:۳۳ - ۲۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-20T09:46:44.457Z"
+    },
+    {
+      "id": "nytimes_1625369dc5",
+      "agencyId": "nytimes",
+      "title": "The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire?",
+      "title_fa": "کرملین کهنه‌سربازان زیادی را در فهرست نامزدها قرار داده است. آیا این اقدام می‌تواند نتیجه معکوس داشته باشد؟",
+      "lead": "ولادیمیر پوتین، رئیس‌جمهور روسیه، کهنه‌سربازان را «نخبه جدید» خوانده است، اما انتخاب آن‌ها به عنوان نامزد خطری به همراه دارد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/19/world/europe/russia-kremlin-election-veterans.html",
+      "pubDate": "Sat, 19 Sep 2026 09:02:22 +0000",
+      "time": "۱۲:۳۲ - ۲۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-20T09:46:44.457Z"
     }
   ]
 }
