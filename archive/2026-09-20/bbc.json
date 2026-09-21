@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "bbc",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "bbc_82808083ca",
@@ -135,6 +135,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-20T06:02:05.953Z"
+    },
+    {
+      "id": "bbc_ef3cbda4fa",
+      "agencyId": "bbc",
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "title_fa": "آغاز انتخابات آلمان که ممکن است سرنوشت صدراعظم مرتس را رقم بزند",
+      "lead": "صدراعظم آلمان با فشار شدید سیاسی روبرو است و در صورت ضعیف عمل کردن حزب متبوعش در انتخابات یکشنبه، این فشارها افزایش خواهد یافت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 20 Sep 2026 07:57:32 GMT",
+      "time": "۱۱:۲۷ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-20T08:16:48.558Z"
+    },
+    {
+      "id": "bbc_025df4834f",
+      "agencyId": "bbc",
+      "title": "Analysis: Trump escalates media fight after week of setbacks",
+      "title_fa": "تحلیل: تشدید تنش دونالد ترامپ با رسانه‌ها پس از یک هفته ناکامی",
+      "lead": "دونالد ترامپ در پی یک هفته پر از ناکامی، درگیری خود با رسانه‌های خبری را با لحن تندتری دنبال کرده است. آنتونی زورچر، تحلیلگر بی‌بی‌سی، به بررسی ابعاد این تنش فزاینده می‌پردازد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 19 Sep 2026 17:23:37 GMT",
+      "time": "۲۰:۵۳ - ۲۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 45,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-20T08:16:48.558Z"
     }
   ]
 }
