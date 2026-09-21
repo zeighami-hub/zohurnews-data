@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "rt",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "rt_18cbe69fad",
@@ -78,6 +78,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-20T01:31:24.617Z"
+    },
+    {
+      "id": "rt_58710a32db",
+      "agencyId": "rt",
+      "title": "CENTCOM puts price tag on Iran war",
+      "title_fa": "سنتکام هزینه جنگ با ایران را اعلام کرد",
+      "lead": "شبکه آرتی گزارش داد که جنگ ایالات متحده با ایران تاکنون ۴۳.۶ میلیارد دلار هزینه داشته است که بیشتر این مبلغ صرف جایگزینی مهمات مصرف‌شده شده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/645970-centcom-iran-war-cost/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Sat, 19 Sep 2026 01:43:59 +0000",
+      "time": "۰۵:۱۳ - ۲۸ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-20T02:16:20.001Z"
+    },
+    {
+      "id": "rt_e204509687",
+      "agencyId": "rt",
+      "title": "Germany should profit from Ukraine aid – Merz ally",
+      "title_fa": "موضع متحد مرکل درباره سود بردن آلمان از کمک به اوکراین",
+      "lead": "مارکوس سودر، نخست‌وزیر ایالت بایرن، اعلام کرد کمک‌های آلمان به اوکراین باید صرف خرید تسلیحات آلمانی شود و دسترسی به مواد معدنی کمیاب این کشور را فراهم کند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/645965-germany-profit-ukraine-aid-soeder/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Sat, 19 Sep 2026 01:18:25 +0000",
+      "time": "۰۴:۴۸ - ۲۸ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-20T02:16:20.001Z"
     }
   ]
 }
