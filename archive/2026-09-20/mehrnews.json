@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "mehrnews",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "mehrnews_8dd8f4d526",
@@ -21,6 +21,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-20T03:46:29.372Z"
+    },
+    {
+      "id": "mehrnews_e2508c69ae",
+      "agencyId": "mehrnews",
+      "title": "Mayor reports damage at Moscow oil refinery",
+      "title_fa": "شهردار مسکو از بروز خسارت در پالایشگاه نفت مسکو خبر داد",
+      "lead": "سرگئی سوبیانین، شهردار مسکو، اعلام کرد که در پی حمله پهپادی جاری به پایتخت روسیه، تأسیساتی در محوطه پالایشگاه نفت مسکو دچار آسیب شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://en.mehrnews.com/news/247890/Mayor-reports-damage-at-Moscow-oil-refinery",
+      "pubDate": "Sun, 20 Sep 2026 04:22:19 GMT",
+      "time": "۰۷:۵۲ - ۲۹ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-20T04:31:40.575Z"
+    },
+    {
+      "id": "mehrnews_72869e642c",
+      "agencyId": "mehrnews",
+      "title": "Iran raises military preparedness to highest level",
+      "title_fa": "ایران آمادگی نظامی خود را به بالاترین سطح رساند",
+      "lead": "یک مقام ایرانی اعلام کرد که ایران برنامه‌های واکنشی خود را در حوزه‌های هوایی، زمینی و دریایی آماده کرده است تا امکان پاسخگویی سنگین و غافلگیرکننده به نیروها و منافع نظامی ایالات متحده و اسرائیل فراهم شود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247889/Iran-raises-military-preparedness-to-highest-level",
+      "pubDate": "Sun, 20 Sep 2026 03:47:01 GMT",
+      "time": "۰۷:۱۷ - ۲۹ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-20T04:16:32.472Z"
     }
   ]
 }
