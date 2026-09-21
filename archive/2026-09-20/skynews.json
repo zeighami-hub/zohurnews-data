@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "skynews",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "skynews_3579d792ec",
@@ -135,6 +135,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-20T11:46:50.577Z"
+    },
+    {
+      "id": "skynews_3fe1a71ca8",
+      "agencyId": "skynews",
+      "title": "Iran issues warning after 'learning US plans to resume action' following Strait of Hormuz update",
+      "title_fa": "هشدار ایران پس از اطلاع از برنامه‌های آمریکا برای از سرگیری اقدامات نظامی",
+      "lead": "ایران پس از اطلاع از برنامه‌ریزی ایالات متحده برای از سرگیری اقدامات نظامی هشدار صادر کرد و همزمان تأکید کرد که تنگه هرمز تا زمان برآورده شدن شرایط این کشور بسته خواهد ماند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.sky.com/story/iran-issues-warning-after-learning-us-plans-to-resume-action-and-insists-strait-of-hormuz-will-remain-closed-for-now-13590068",
+      "pubDate": "Sun, 20 Sep 2026 13:59:00 +0100",
+      "time": "۱۶:۲۹ - ۲۹ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-20T14:46:37.229Z"
+    },
+    {
+      "id": "skynews_cd24d8c224",
+      "agencyId": "skynews",
+      "title": "Ten lions found dead in suspected poisoning in Tanzania wildlife reserve",
+      "title_fa": "پیدا شدن لاشه ده شیر در یک ذخیره‌گاه حیات وحش در تانزانیا بر اثر مسمومیت احتمالی",
+      "lead": "سازمان مدیریت منطقه حفاظت‌شده نگورونگورو در تانزانیا اعلام کرد که لاشه ده شیر در این ذخیره‌گاه پیدا شده و یافته‌های اولیه نشان می‌دهد که احتمالاً مسموم شده‌اند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/ten-lions-found-dead-in-suspected-poisoning-in-tanzania-wildlife-reserve-13590102",
+      "pubDate": "Sun, 20 Sep 2026 14:47:00 +0100",
+      "time": "۱۷:۱۷ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-20T14:46:37.229Z"
     }
   ]
 }
