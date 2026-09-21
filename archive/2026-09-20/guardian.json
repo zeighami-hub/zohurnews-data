@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
   "agencyId": "guardian",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "guardian_a790f78020",
@@ -59,6 +59,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-20T05:01:49.161Z"
+    },
+    {
+      "id": "guardian_3768b3ff05",
+      "agencyId": "guardian",
+      "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+      "title_fa": "کره جنوبی با وجود فشارهای ترامپ نیروی نظامی به جنگ با ایران نمی‌فرستد",
+      "lead": "سئول گمانه‌زنی‌ها درباره اعزام نیرو به تنگه هرمز را رد کرد و رئیس‌جمهور کره جنوبی اعلام نمود که هیچ‌گونه اعزام نظامی که به ورود به جنگ منجر شود، انجام نخواهد شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
+      "pubDate": "Fri, 18 Sep 2026 05:54:29 GMT",
+      "time": "۰۹:۲۴ - ۲۷ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-20T06:31:50.807Z"
+    },
+    {
+      "id": "guardian_ff814897f8",
+      "agencyId": "guardian",
+      "title": "Why China is pushing back on US warnings over rapid AI development",
+      "title_fa": "چرا چین در برابر هشدارهای آمریکا درباره توسعه سریع هوش مصنوعی مقاومت می‌کند؟",
+      "lead": "پکن بر این باور است که درخواست‌های آمریکا برای کند کردن روند توسعه هوش مصنوعی با هدف حفظ برتری این کشور مطرح می‌شود. چین در حال دنبال کردن تعادل متفاوتی میان ایمنی و سرعت پیشرفت در این حوزه است.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+      "pubDate": "Sun, 20 Sep 2026 06:00:09 GMT",
+      "time": "۰۹:۳۰ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-20T06:17:21.301Z"
     }
   ]
 }
