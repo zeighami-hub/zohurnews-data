@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_dee8833d34",
@@ -268,6 +268,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-21T09:46:58.040Z"
+    },
+    {
+      "id": "nytimes_6595f2b826",
+      "agencyId": "nytimes",
+      "title": "Why a Law to Help Prisoners Became a New Sectarian Flashpoint in Lebanon",
+      "title_fa": "چرا یک قانون برای کمک به زندانیان به شکاف فرقه‌ای تازه‌ای در لبنان تبدیل شد؟",
+      "lead": "یک طرح عفو قرار بود از ازدحام زندان‌ها و فشار بر دستگاه قضایی بکاهد، اما در عوض شکاف‌های عمیق سیاسی و طایفه‌ای کشور را برجسته کرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/21/world/middleeast/lebanon-amnesty-law-aoun.html",
+      "pubDate": "Mon, 21 Sep 2026 08:45:56 +0000",
+      "time": "۱۲:۱۵ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-21T10:31:53.608Z"
+    },
+    {
+      "id": "nytimes_a1cf15f578",
+      "agencyId": "nytimes",
+      "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+      "title_fa": "صدها پهپاد در روز پایانی انتخابات روسیه مسکو را هدف قرار دادند",
+      "lead": "اوکراین اعلام کرد که در این حملات، که بخش‌های دیگری از روسیه را نیز هدف قرار داد، از یک موشک بالستیک تازه توسعه‌یافته استفاده کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+      "pubDate": "Mon, 21 Sep 2026 08:18:36 +0000",
+      "time": "۱۱:۴۸ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 25,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-21T10:16:54.229Z"
     }
   ]
 }
