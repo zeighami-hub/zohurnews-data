@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "economist",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "economist_3cf32bc77f",
@@ -325,6 +325,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-21T20:46:35.176Z"
+    },
+    {
+      "id": "economist_1f67e0a1a8",
+      "agencyId": "economist",
+      "title": "China is not ready for a post-American world",
+      "title_fa": "چین برای دنیای پس از آمریکا آماده نیست",
+      "lead": "اقدام دونالد ترامپ در ایران خیلی زود اتفاق افتاده و چین هنوز آماده نیست تا به طور کامل از آن بهره‌برداری کند.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.economist.com/international/2026/09/15/china-is-not-ready-for-a-post-american-world",
+      "pubDate": "Tue, 15 Sep 2026 20:53:36 +0000",
+      "time": "۰۰:۲۳ - ۲۵ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-21T23:16:18.235Z"
+    },
+    {
+      "id": "economist_c1fd4a1839",
+      "agencyId": "economist",
+      "title": "World leaders are losing their terror of nuclear war",
+      "title_fa": "رهبران جهان ترس خود را از جنگ اتمی از دست می‌دهند",
+      "lead": "پوتین، ترامپ و شی قدرتمندترین آرسنال‌های روی زمین را کنترل می‌کنند. آنها باید خطرات اتمی را جدی‌تر بگیرند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.economist.com/international/2026/09/08/world-leaders-are-losing-their-terror-of-nuclear-war",
+      "pubDate": "Tue, 08 Sep 2026 17:03:16 +0000",
+      "time": "۲۰:۳۳ - ۱۷ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 45,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-21T23:16:18.235Z"
     }
   ]
 }
