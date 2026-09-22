@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "mehrnews_45bbc1c00b",
@@ -40,6 +40,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-21T04:16:28.825Z"
+    },
+    {
+      "id": "mehrnews_f1455de87f",
+      "agencyId": "mehrnews",
+      "title": "Tehran condemns Israeli regime's genocide of Palestinians",
+      "title_fa": "تهران نسل‌کشی فلسطینیان توسط رژیم صهیونیستی را محکوم کرد",
+      "lead": "وزارت امور خارجه ایران در آستانه نشست سالانه مجمع عمومی سازمان ملل متحد از جامعه جهانی خواست برای توقف نسل‌کشی فلسطینیان توسط رژیم صهیونیستی اقدام جدی و قاطع انجام دهد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247931/Tehran-condemns-Israeli-regime-s-genocide-of-Palestinians",
+      "pubDate": "Mon, 21 Sep 2026 04:20:09 GMT",
+      "time": "۰۷:۵۰ - ۳۰ شهریور",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-21T04:31:42.176Z"
+    },
+    {
+      "id": "mehrnews_0e7621ec27",
+      "agencyId": "mehrnews",
+      "title": "Several killed in Pakistan airstrike on Afghanistan",
+      "title_fa": "چند کشته در حمله هوایی پاکستان به افغانستان",
+      "lead": "منابع محلی در افغانستان گزارش دادند که در پی حملات هوایی پاکستان به خاک این کشور، چندین نفر کشته شده‌اند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247932/Several-killed-in-Pakistan-airstrikes-on-Afghanistan",
+      "pubDate": "Mon, 21 Sep 2026 04:25:26 GMT",
+      "time": "۰۷:۵۵ - ۳۰ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-21T04:31:42.176Z"
     }
   ]
 }
