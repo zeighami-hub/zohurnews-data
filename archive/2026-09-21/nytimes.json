@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_dee8833d34",
@@ -192,6 +192,63 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-21T09:16:55.044Z"
+    },
+    {
+      "id": "nytimes_2519158727",
+      "agencyId": "nytimes",
+      "title": "They Have Almost No Chance in Russia’s Elections. Why Are They Running?",
+      "title_fa": "چرا حزب لیبرال یابلوکو با وجود شانس بسیار کم در انتخابات روسیه شرکت می‌کند؟",
+      "lead": "حزب لیبرال یابلوکو ۹۸ نامزد را در انتخابات این آخر هفته روسیه معرفی کرده است؛ اقدامی که برای روس‌های مخالف جنگ که نمی‌توانند دیدگاه‌های خود را آشکارا بیان کنند، یک معجزه کوچک محسوب می‌شود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html",
+      "pubDate": "Sun, 20 Sep 2026 21:16:41 +0000",
+      "time": "۰۰:۴۶ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-21T09:32:08.276Z"
+    },
+    {
+      "id": "nytimes_68c05d40bc",
+      "agencyId": "nytimes",
+      "title": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
+      "title_fa": "سرنوشت نامعلوم و جنجالی یک نیروگاه هسته‌ای بدون استفاده در فیلیپین",
+      "lead": "دولت در حال بررسی گزینه‌های انرژی هسته‌ای برای محافظت در برابر شوک‌های جهانی انرژی است. یکی از پیشنهادها، راه‌اندازی مجدد نیروگاهی در باتاآن است که به مدت ۴۰ سال غیرفعال بوده است.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/20/world/asia/philippines-bataan-nuclear-power-plant.html",
+      "pubDate": "Sun, 20 Sep 2026 10:50:59 +0000",
+      "time": "۱۴:۲۰ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-21T09:32:08.276Z"
+    },
+    {
+      "id": "nytimes_b8516ae277",
+      "agencyId": "nytimes",
+      "title": "Israeli Tourist Trap ‘Herod’s Pool’ Is Draining Palestinians’ Land Dry",
+      "title_fa": "خشک شدن زمین‌های فلسطینیان به واسطه جاذبه گردشگری اسرائیلی «استخر هیرودس»",
+      "lead": "قانون‌گذاران اسرائیلی بازدید از یک مخزن باستانی در کرانه باختری را ترویج کرده‌اند که تابستان امسال با آب منحرف شده از مزارع متعلق به فلسطینی‌ها دوباره پر شد.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/20/world/middleeast/west-bank-pool-palestinians-israelis-water.html",
+      "pubDate": "Sun, 20 Sep 2026 09:00:50 +0000",
+      "time": "۱۲:۳۰ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-21T09:32:08.276Z"
     }
   ]
 }
