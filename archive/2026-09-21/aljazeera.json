@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "aljazeera",
-  "total": 20,
+  "total": 23,
   "articles": [
     {
       "id": "aljazeera_f665a4c044",
@@ -382,6 +382,63 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-21T10:02:13.453Z"
+    },
+    {
+      "id": "aljazeera_f97e8e52bf",
+      "agencyId": "aljazeera",
+      "title": "Mystery object spotted hovering over Tehran",
+      "title_fa": "مشاهده شیء مرموز در حال معلق زدن بر فراز تهران",
+      "lead": "تصویربرداری از یک شیء مرموز در حال معلق زدن بر فراز تهران، گمانه‌زنی‌های زیادی را در شبکه‌های اجتماعی برانگیخته است.",
+      "category": "culture",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
+      "pubDate": "Mon, 21 Sep 2026 10:10:14 +0000",
+      "time": "۱۳:۴۰ - ۳۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-21T10:31:53.608Z"
+    },
+    {
+      "id": "aljazeera_b343605a92",
+      "agencyId": "aljazeera",
+      "title": "A simple guide to the Yemen conflict",
+      "title_fa": "راهنمای ساده‌ای درباره درگیری یمن",
+      "lead": "این مقاله نگاهی مختصر به تاریخچه جنگ یمن، از تسلط حوثی‌ها در سال ۲۰۱۴ تا آخرین تنش‌ها دارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
+      "pubDate": "Mon, 21 Sep 2026 10:01:30 +0000",
+      "time": "۱۳:۳۱ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-21T10:16:54.229Z"
+    },
+    {
+      "id": "aljazeera_550f04cb34",
+      "agencyId": "aljazeera",
+      "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
+      "title_fa": "آیا اسرائیلی‌ها اکنون احساس امنیت بیشتری نسبت به ۶ اکتبر ۲۰۲۳ دارند؟",
+      "lead": "با وجود افزایش سطح امنیت، نگرانی‌های عمومی درباره مسائل امنیتی همچنان بر فضای انتخابات سایه افکنده است.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss",
+      "pubDate": "Mon, 21 Sep 2026 09:54:05 +0000",
+      "time": "۱۳:۲۴ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-21T10:16:54.229Z"
     }
   ]
 }
