@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "bbc",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "bbc_311614bab2",
@@ -534,6 +534,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-21T14:08:45.519Z"
+    },
+    {
+      "id": "bbc_4bea4465d1",
+      "agencyId": "bbc",
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "title_fa": "هشدار تخلیه به میلیون‌ها نفر همزمان با وقوع تایوان قدرتمند در ژاپن",
+      "lead": "سازمان هواشناسی ژاپن پیش‌تر نسبت به یک تهدید قریب‌الوقوع جانی هشدار داده بود، اما این هشدار اکنون در بیشتر مناطق کاهش یافته است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 21 Sep 2026 14:06:12 GMT",
+      "time": "۱۷:۳۶ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-21T14:47:14.763Z"
+    },
+    {
+      "id": "bbc_55f1d70db8",
+      "agencyId": "bbc",
+      "title": "Trump says triumphal arch will be military complex with drones and snipers",
+      "title_fa": "ترامپ: طاق پیروزی به یک مجتمع نظامی با پهپاد و تک‌تیرانداز تبدیل خواهد شد",
+      "lead": "دونالد ترامپ اعلام کرد که طرح‌های به‌روزرسانی‌شده طاق پیروزی به درخواست ارتش ایالات متحده و با اهداف امنیت ملی تهیه شده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 20 Sep 2026 16:36:43 GMT",
+      "time": "۲۰:۰۶ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-21T14:47:14.763Z"
     }
   ]
 }
