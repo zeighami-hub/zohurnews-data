@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "nytimes_dee8833d34",
@@ -59,6 +59,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-21T04:16:28.825Z"
+    },
+    {
+      "id": "nytimes_75e646b587",
+      "agencyId": "nytimes",
+      "title": "A Diplomat From Myanmar Refuses to Give Up New York City Post",
+      "title_fa": "امتناع یک دیپلمات میانمار از ترک پست خود در نیویورک",
+      "lead": "کیائو مو تون برای بیش از پنج سال است که از واگذاری سمت خود در سازمان ملل و یک عمارت ماسه‌سنگی در آپر ایست ساید خودداری کرده است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/20/world/asia/myanmar-mission-un-envoy.html",
+      "pubDate": "Sun, 20 Sep 2026 21:29:30 +0000",
+      "time": "۰۰:۵۹ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 80,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-21T04:46:36.995Z"
+    },
+    {
+      "id": "nytimes_978e2e3a8b",
+      "agencyId": "nytimes",
+      "title": "Germany’s Merz Vows to Stay After Another State Election ‘Disaster’",
+      "title_fa": "فریدریش مرس در آلمان پس از «فاجعه» انتخاباتی دیگر بر ادامه کار تأکید کرد",
+      "lead": "صدر اعظم فریدریش مرز روز یکشنبه پس از آنکه حزب میانه‌راست او در انتخابات ایالتی در شرق پس از احزاب راست افراطی و چپ افراطی قرار گرفت، با فشار فزاینده‌ای روبه‌رو شد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/20/world/europe/germany-afd-elections-berlin-mecklenburg.html",
+      "pubDate": "Sun, 20 Sep 2026 20:08:59 +0000",
+      "time": "۲۳:۳۸ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-21T04:46:36.995Z"
     }
   ]
 }
