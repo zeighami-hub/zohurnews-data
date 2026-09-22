@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_dee8833d34",
@@ -344,6 +344,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-21T13:16:42.051Z"
+    },
+    {
+      "id": "nytimes_396c4ceb1c",
+      "agencyId": "nytimes",
+      "title": "Why the Iran-Backed Houthis in Yemen and Saudi Arabia Are Back at War",
+      "title_fa": "چرا حوثی‌های یمنِ حامی ایران و عربستان دوباره وارد جنگ شده‌اند؟",
+      "lead": "این درگیری پس از حملات ایالات متحده و اسرائیل به ایران، جبهه دومی را در خاورمیانه گشوده و به بلاتکلیفی جهانی و آشفتگی در بازارهای انرژی افزوده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html",
+      "pubDate": "Mon, 21 Sep 2026 15:05:38 +0000",
+      "time": "۱۸:۳۵ - ۳۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-21T15:17:13.791Z"
+    },
+    {
+      "id": "nytimes_b809d12e50",
+      "agencyId": "nytimes",
+      "title": "Israeli Shot and Killed in West Bank by Palestinian, Officials Say",
+      "title_fa": "مقام‌های رسمی: یک اسرائیلی در کرانه باختری توسط یک فلسطینی به ضرب گلوله کشته شد",
+      "lead": "مقام‌های اسرائیلی اعلام کردند که یک مظنون بازداشت شده است. این حمله در آستانه یوم کیپور، مقدس‌ترین روز در تقویم یهودیان، رخ داد و خشونت‌ها در این منطقه اخیراً افزایش یافته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/20/world/middleeast/israeli-killed-west-bank-attack.html",
+      "pubDate": "Sun, 20 Sep 2026 14:59:59 +0000",
+      "time": "۱۸:۲۹ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-21T15:17:13.791Z"
     }
   ]
 }
