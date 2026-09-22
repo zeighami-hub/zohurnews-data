@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "mehrnews",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "mehrnews_45bbc1c00b",
@@ -249,6 +249,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-21T06:16:56.300Z"
+    },
+    {
+      "id": "mehrnews_37158046b8",
+      "agencyId": "mehrnews",
+      "title": "Israeli forces set up checkpoint in southern Syria",
+      "title_fa": "نیروهای اسرائیلی در جنوب سوریه ایست بازرسی ایجاد کردند",
+      "lead": "نیروهای نظامی اسرائیل به تقاطع روستای رسم الحلبی در حومه مرکزی قنیطره در جنوب سوریه نفوذ کرده و یک ایست بازرسی موقت دایر کردند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/247943/Israeli-forces-set-up-checkpoint-in-southern-Syria",
+      "pubDate": "Mon, 21 Sep 2026 07:01:39 GMT",
+      "time": "۱۰:۳۱ - ۳۰ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-21T07:16:54.983Z"
+    },
+    {
+      "id": "mehrnews_7f407ab61f",
+      "agencyId": "mehrnews",
+      "title": "VIDEO: Pezeshkian pays tribute to students killed in Minab",
+      "title_fa": "ویدیو: ادای احترام پزشکیان به دانش‌آموزان کشته‌شده در میناب",
+      "lead": "مسعود پزشکیان، رئیس‌جمهور، به ۱۹۸ دانش‌آموز و معلم ایرانی که در حمله آمریکا به مدرسه میناب کشته شدند، ادای احترام کرد. این ویدیو مربوط به این رویداد است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247942/VIDEO-Pezeshkian-pays-tribute-to-students-killed-in-Minab",
+      "pubDate": "Mon, 21 Sep 2026 06:59:10 GMT",
+      "time": "۱۰:۲۹ - ۳۰ شهریور",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-21T07:02:15.130Z"
     }
   ]
 }
