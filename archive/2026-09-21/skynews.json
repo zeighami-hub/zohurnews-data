@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_bea363796c",
@@ -59,6 +59,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-21T05:16:34.835Z"
+    },
+    {
+      "id": "skynews_3d5d097f90",
+      "agencyId": "skynews",
+      "title": "Converse apologises and removes ad after backlash",
+      "title_fa": "شرکت کانورس به خاطر یک تبلیغ عذرخواهی کرد و آن را برداشت",
+      "lead": "برند کفش آمریکایی کانورس به خاطر تبلیغی که به گفته منتقدان تداعی‌گر تصاویر کو کلکس کلان بود، عذرخواهی کرد. این شرکت اعلام کرد که درک می‌کند چرا این تصویر به شدت ناراحت‌کننده بوده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://news.sky.com/story/converse-apologises-and-removes-ad-over-image-critics-said-evoked-racist-imagery-13590324",
+      "pubDate": "Mon, 21 Sep 2026 07:33:00 +0100",
+      "time": "۱۰:۰۳ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-21T08:02:18.332Z"
+    },
+    {
+      "id": "skynews_b007887ba2",
+      "agencyId": "skynews",
+      "title": "Why so many Colombians are fighting for Ukraine",
+      "title_fa": "چرا شمار زیادی از کلمبیایی‌ها برای اوکراین می‌جنگند",
+      "lead": "این گزارش به بررسی دلایل حضور و جنگیدن شمار قابل توجهی از شهروندان کلمبیایی در کنار نیروهای اوکراینی می‌پردازد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://news.sky.com/story/colombian-soldier-on-why-so-many-from-his-country-are-fighting-for-ukraine-13589997",
+      "pubDate": "Sun, 20 Sep 2026 08:35:00 +0100",
+      "time": "۱۱:۰۵ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-21T08:02:18.332Z"
     }
   ]
 }
