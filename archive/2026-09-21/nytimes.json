@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_dee8833d34",
@@ -306,6 +306,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-21T10:16:54.229Z"
+    },
+    {
+      "id": "nytimes_fcb4a3fe48",
+      "agencyId": "nytimes",
+      "title": "Flight Delays Disrupt UK Airports Once Again",
+      "title_fa": "تأخیرهای پروازی بار دیگر فرودگاه‌های بریتانیا را مختل کرد",
+      "lead": "یک مسئله در کنترل ترافیک هوایی که اکنون برطرف شده است، برخی پروازها را در اسکاتلند، انگلستان و ایرلند شمالی دچار اختلال کرد؛ این اتفاق کمتر از دو هفته پس از آن رخ داد که یک مشکل فنی موجب لغو پروازها شده بود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/21/world/europe/uk-flights-airports-air-traffic-control.html",
+      "pubDate": "Mon, 21 Sep 2026 11:13:22 +0000",
+      "time": "۱۴:۴۳ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-21T11:16:45.593Z"
     }
   ]
 }
