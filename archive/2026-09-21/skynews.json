@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "skynews",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "skynews_bea363796c",
@@ -154,6 +154,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-21T14:08:45.519Z"
+    },
+    {
+      "id": "skynews_3fe1a71ca8",
+      "agencyId": "skynews",
+      "title": "Iran issues warning after 'learning US plans to resume action'",
+      "title_fa": "هشدار ایران پس از آگاهی از برنامه‌های آمریکا برای ازسرگیری اقدامات نظامی",
+      "lead": "ایران پس از دریافت گزارش‌هایی مبنی بر برنامه آمریکا برای ازسرگیری اقدامات نظامی، هشدار داد و همچنین تأکید کرد که تنگه هرمز تا زمان برآورده شدن شرایط این کشور بسته خواهد ماند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.sky.com/story/iran-issues-warning-after-learning-us-plans-to-resume-action-and-insists-strait-of-hormuz-will-remain-closed-for-now-13590068",
+      "pubDate": "Sun, 20 Sep 2026 13:59:00 +0100",
+      "time": "۱۶:۲۹ - ۲۹ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-21T15:07:34.666Z"
+    },
+    {
+      "id": "skynews_cd24d8c224",
+      "agencyId": "skynews",
+      "title": "Ten lions found dead in suspected poisoning",
+      "title_fa": "پیدا شدن لاشه ده شیر در پی احتمال مسمومیت در تانزانیا",
+      "lead": "مقامات مدیریت منطقه حفاظت شده نگورونگورو در تانزانیا اعلام کردند که روز جمعه لاشه ده شیر در این منطقه کشف شده است. یافته های اولیه حاکی از آن است که این حیوانات ممکن است مسموم شده باشند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/ten-lions-found-dead-in-suspected-poisoning-in-tanzania-wildlife-reserve-13590102",
+      "pubDate": "Sun, 20 Sep 2026 14:47:00 +0100",
+      "time": "۱۷:۱۷ - ۲۹ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-21T15:07:34.666Z"
     }
   ]
 }
