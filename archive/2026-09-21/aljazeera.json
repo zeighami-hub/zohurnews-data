@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
   "agencyId": "aljazeera",
-  "total": 54,
+  "total": 56,
   "articles": [
     {
       "id": "aljazeera_f665a4c044",
@@ -1028,6 +1028,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-21T19:02:22.368Z"
+    },
+    {
+      "id": "aljazeera_4e44309996",
+      "agencyId": "aljazeera",
+      "title": "Trump’s approval rating hits record low amid Iran war, economy fallout",
+      "title_fa": "محبوبیت ترامپ در میان جنگ با ایران و پیامدهای اقتصادی به پایین‌ترین حد خود رسید",
+      "lead": "در پی تسلط نگرانی‌های مربوط به جنگ و تورم بر نظرسنجی‌ها، حمایت جمهوری‌خواهان از ترامپ از ۸۲ درصد به ۷۳ درصد کاهش یافت.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
+      "pubDate": "Mon, 21 Sep 2026 19:10:52 +0000",
+      "time": "۲۲:۴۰ - ۳۰ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-21T19:46:34.164Z"
+    },
+    {
+      "id": "aljazeera_bb92a80573",
+      "agencyId": "aljazeera",
+      "title": "Protesters blockade Elbit Systems factory over Israel weapons supply",
+      "title_fa": "اعتراض و مسدود کردن کارخانه «ال‌بیت سیستمز» به دلیل تأمین سلاح برای اسرائیل",
+      "lead": "نه معترض با زنجیر کردن خود به پنج نقطه مسدودکننده، دسترسی به کارخانه شرکت ال‌بیت سیستمز در استافوردشر را مسدود کردند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss",
+      "pubDate": "Mon, 21 Sep 2026 19:22:15 +0000",
+      "time": "۲۲:۵۲ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-21T19:46:34.164Z"
     }
   ]
 }
