@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
   "agencyId": "nytimes",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "nytimes_534e05e603",
@@ -572,6 +572,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-22T16:48:53.008Z"
+    },
+    {
+      "id": "nytimes_c1bac713c5",
+      "agencyId": "nytimes",
+      "title": "U.N. Searches for Its Next Leader",
+      "title_fa": "سازمان ملل به دنبال رهبر بعدی خود است",
+      "lead": "آنطونی گوترش در ماه دسامبر پس از دو دوره فعالیت به عنوان دبیرکل از سمت خود کناره‌گیری می‌کند. تاکنون هیچ نامزد پیشتازی برای جانشینی وی ظاهر نشده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/next-un-leader-guterres.html",
+      "pubDate": "Tue, 22 Sep 2026 17:49:17 +0000",
+      "time": "۲۱:۱۹ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 100,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-22T18:04:07.037Z"
+    },
+    {
+      "id": "nytimes_71e33578d6",
+      "agencyId": "nytimes",
+      "title": "A Departing U.N. Chief’s Dire Warning on Climate Change",
+      "title_fa": "هشدار جدی دبیرکل در حال خروج سازمان ملل درباره تغییرات اقلیمی",
+      "lead": "آنطونی گوترش در آستانه پایان دوره ریاست خود بر سازمان ملل متحد، نگاهی به تلاش‌هایش برای متوقف کردن تغییرات اقلیمی دارد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/climate/antonio-guterres-climate-change.html",
+      "pubDate": "Tue, 22 Sep 2026 17:45:34 +0000",
+      "time": "۲۱:۱۵ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-22T18:04:07.037Z"
     }
   ]
 }
