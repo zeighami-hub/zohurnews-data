@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
   "agencyId": "nytimes",
-  "total": 33,
+  "total": 38,
   "articles": [
     {
       "id": "nytimes_534e05e603",
@@ -629,6 +629,101 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-22T19:17:32.269Z"
+    },
+    {
+      "id": "nytimes_f6c8f0a6ef",
+      "agencyId": "nytimes",
+      "title": "Iraq’s Prime Minister Al-Zaidi Vows to Disarm Iran-backed Militias",
+      "title_fa": "نخست‌وزیر عراق، الزیدی، متعهد به خلع سلاح شبه‌نظامیان حامی ایران شد",
+      "lead": "علی الزیدی یک چهره تازه و امیدوار در عرصه سیاسی است که تلاش می‌کند در جایی که رهبران قبلی شکست خوردند، موفق شود. او در یک مصاحبه، برنامه زمانی بلندپروازانه‌ای را ارائه داد که ممکن است تحقق آن دشوار باشد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/21/world/middleeast/iraq-prime-minister-interview-disarm-militias.html",
+      "pubDate": "Tue, 22 Sep 2026 18:17:29 +0000",
+      "time": "۲۱:۴۷ - ۳۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-22T20:16:33.549Z"
+    },
+    {
+      "id": "nytimes_c05d40be9f",
+      "agencyId": "nytimes",
+      "title": "Zelensky Says He Hopes Trump Helps Him to End the War ‘Before Winter’",
+      "title_fa": "زلنسکی ابراز امیدواری کرد که ترامپ به پایان جنگ «پیش از زمستان» کمک کند",
+      "lead": "اظهارات ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، در جریان دیدار با دونالد ترامپ در حالی مطرح شد که تلاش‌ها برای از سرگیری مذاکرات با روسیه به جایی نرسیده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/europe/zelensky-trump-war-russia.html",
+      "pubDate": "Tue, 22 Sep 2026 20:10:43 +0000",
+      "time": "۲۳:۴۰ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-22T20:16:33.549Z"
+    },
+    {
+      "id": "nytimes_b2a0ed66a1",
+      "agencyId": "nytimes",
+      "title": "At U.N., Trump Says He Will Strike a Deal With Iran or ‘Annihilate’ It",
+      "title_fa": "ترامپ در سازمان ملل اعلام کرد با ایران توافق می‌کند یا آن را «نابود» خواهد ساخت",
+      "lead": "رئیس‌جمهور ترامپ در مجمع عمومی سازمان ملل اظهار داشت که می‌تواند ایران را بدون شانس بقا به سمت نابودی هدایت کند؛ سخنانی که تضاد آشکاری با فضای صلح‌آمیز این سازمان داشت.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/americas/trump-annihilate-iran-unga.html",
+      "pubDate": "Tue, 22 Sep 2026 19:59:20 +0000",
+      "time": "۲۳:۲۹ - ۳۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-22T20:01:51.456Z"
+    },
+    {
+      "id": "nytimes_05937f936c",
+      "agencyId": "nytimes",
+      "title": "South Korea’s leader is seeking a new approach to North Korea.",
+      "title_fa": "رهبر کره جنوبی به دنبال رویکردی جدید در قبال کره شمالی است",
+      "lead": "رهبر کره جنوبی درصدد اتخاذ راهبرد و رویکردی تازه در خصوص روابط و مسائل مرتبط با کره شمالی برآمده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/south-koreas-leader-is-seeking-a-new-approach-to-north-korea",
+      "pubDate": "Tue, 22 Sep 2026 19:55:57 +0000",
+      "time": "۲۳:۲۵ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-22T20:01:51.456Z"
+    },
+    {
+      "id": "nytimes_9c77c5efa6",
+      "agencyId": "nytimes",
+      "title": "Ethiopian Rebel Groups Join Forces Against the Government",
+      "title_fa": "گروه‌های شورشی اتیوپی علیه دولت ائتلاف تشکیل دادند",
+      "lead": "نیم دوجین گروه شورشی در اتیوپی با متهم کردن نخست‌وزیر به استبداد، تشکیل یک ائتلاف جدید را در کشوری که از جنگ آسیب دیده است، اعلام کردند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/africa/ethiopia-rebel-alliance.html",
+      "pubDate": "Tue, 22 Sep 2026 19:47:49 +0000",
+      "time": "۲۳:۱۷ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-22T20:01:51.456Z"
     }
   ]
 }
