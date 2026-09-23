@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
   "agencyId": "rt",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "rt_186f0969cf",
@@ -154,6 +154,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-22T08:46:56.719Z"
+    },
+    {
+      "id": "rt_d509950c04",
+      "agencyId": "rt",
+      "title": "Iran shuts down French cultural center over security concerns",
+      "title_fa": "ایران مرکز فرهنگی فرانسه را به دلیل نگرانی‌های امنیتی تعطیل کرد",
+      "lead": "ایران یک مرکز فرهنگی فرانسه در تهران را به دلیل فعالیت‌های غیرقانونی ادعایی تعطیل کرد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/646020-iran-shuts-french-cultural-center/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Mon, 21 Sep 2026 08:25:45 +0000",
+      "time": "۱۱:۵۵ - ۳۰ شهریور",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-22T09:02:05.832Z"
+    },
+    {
+      "id": "rt_f49fc5934c",
+      "agencyId": "rt",
+      "title": "Finland’s Stubb tells European leaders to calm down",
+      "title_fa": "استاب از رهبران اروپا خواست آرامش خود را حفظ کنند",
+      "lead": "الکساندر استاب، رئیس‌جمهور فنلاند، هشدارهای مقامات اروپایی درباره حمله قریب‌الوقوع روسیه به ناتو را رد کرد و خواستار آرامش شد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/646067-eu-stubb-finland-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Tue, 22 Sep 2026 08:48:03 +0000",
+      "time": "۱۲:۱۸ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-22T09:02:05.832Z"
     }
   ]
 }
