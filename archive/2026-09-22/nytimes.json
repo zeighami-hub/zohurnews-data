@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_534e05e603",
@@ -78,6 +78,158 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-22T03:31:30.101Z"
+    },
+    {
+      "id": "nytimes_ef7305b525",
+      "agencyId": "nytimes",
+      "title": "One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms",
+      "title_fa": "یک مسئله‌ای که می‌تواند روابط شکننده ایالات متحده و چین را بر هم بزند: تسلیحات تایوان",
+      "lead": "در حالی که پکن به رئیس‌جمهور ترامپ فشار می‌آورد تا فروش پیشنهادی ۱۴ میلیارد دلاری تسلیحات به این جزیره را متوقف کند، تایوان در تلاش است نشان دهد که امنیت آن در منافع ایالات متحده قرار دارد.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html",
+      "pubDate": "Mon, 21 Sep 2026 16:18:40 +0000",
+      "time": "۱۹:۴۸ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-22T04:31:40.553Z"
+    },
+    {
+      "id": "nytimes_d148ca706d",
+      "agencyId": "nytimes",
+      "title": "‘Way Too Hot’: Britain’s Hospitals Were Not Built for 96-Degree Summers",
+      "title_fa": "«بسیار گرم»: بیمارستان‌های بریتانیا برای تابستان‌های ۳۵ درجه‌ای ساخته نشده بودند",
+      "lead": "بیماران و کارکنان در یکی از بزرگترین بیمارستان‌های کشور در جریان موج گرمای ماه گذشته در شرایط بسیار گرمی به سر بردند. کارشناسان می‌گویند کل کشور باید به فوریت خود را با این شرایط وفق دهد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/21/world/europe/uk-hospitals-heat-waves-climate.html",
+      "pubDate": "Mon, 21 Sep 2026 11:04:16 +0000",
+      "time": "۱۴:۳۴ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 40,
+        "negative": 55
+      },
+      "analyzed_at": "2026-09-22T04:31:40.553Z"
+    },
+    {
+      "id": "nytimes_dee8833d34",
+      "agencyId": "nytimes",
+      "title": "Putin Reignited a Dispute With Japan. This Town Is Stuck in the Middle.",
+      "title_fa": "پوتین مناقشه با ژاپن را دوباره زنده کرد. این شهر در وسط ماجرا گیر افتاده است.",
+      "lead": "شهر ماهیگیری نمورو برای تجارت به روسیه وابسته است، اما در عین حال رهبری مبارزه‌ای را برای پس گرفتن جزایری که توسط مسکو در جنگ جهانی دوم تصرف شده‌اند، بر عهده دارد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/21/world/asia/japan-russia-putin-nemuro.html",
+      "pubDate": "Mon, 21 Sep 2026 08:48:49 +0000",
+      "time": "۱۲:۱۸ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-22T04:31:40.553Z"
+    },
+    {
+      "id": "nytimes_7af3d4b5c7",
+      "agencyId": "nytimes",
+      "title": "Book Review: “Swan Song: Diana, My Sister,” by Charles Spencer",
+      "title_fa": "نقد کتاب: «قو سیاه: دیانا، خواهر من» نوشته چارلز اسپنسر",
+      "lead": "کتاب «قو سیاه»، خاطرات چارلز اسپنسر درباره پرنسس دیانا، سرشار از روایت‌های مرتبط با عشق و انتقام است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/books/review/charles-spencer-swan-song.html",
+      "pubDate": "Tue, 22 Sep 2026 04:02:04 +0000",
+      "time": "۰۷:۳۲ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-22T04:16:37.161Z"
+    },
+    {
+      "id": "nytimes_b1da2000db",
+      "agencyId": "nytimes",
+      "title": "Earl Spencer Book Blasts Diana’s Treatment by UK Royal Family",
+      "title_fa": "کتاب جدید ارل اسپنسر از نحوه برخورد خاندان سلطنتی بریتانیا با پرنسس دیانا انتقاد کرد",
+      "lead": "با گذشت دهه‌ها، خشم ارل اسپنسر نسبت به نحوه رفتار خاندان سلطنتی و به ویژه پادشاه چارلز با پرنسس دیانا کاهش نیافته است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/europe/diana-earl-spencer-book.html",
+      "pubDate": "Tue, 22 Sep 2026 04:01:12 +0000",
+      "time": "۰۷:۳۱ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-22T04:16:37.161Z"
+    },
+    {
+      "id": "nytimes_7cdc2c9ff9",
+      "agencyId": "nytimes",
+      "title": "Takeaways From Charles Spencer’s Memoir, “Swan Song,” About Princess Diana",
+      "title_fa": "نکاتی از کتاب خاطرات چارلز اسپنسر درباره پرنسس دیانا",
+      "lead": "تقریباً ۳۰ سال پس از درگذشت پرنسس دیانا، برادر او کتابی درباره زندگی، ازدواج و رنج‌های او در مواجهه با مطبوعات منتشر کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/books/review/takeaways-charles-spencer-memoir-diana.html",
+      "pubDate": "Tue, 22 Sep 2026 04:01:05 +0000",
+      "time": "۰۷:۳۱ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-22T04:16:37.161Z"
+    },
+    {
+      "id": "nytimes_2139a8f5de",
+      "agencyId": "nytimes",
+      "title": "German Leaders Prepare to Deny Far Right Access to Secret War Plan",
+      "title_fa": "رهبران آلمان برای محروم کردن حزب راست افراطی از دسترسی به طرح جنگی مخفی آماده می‌شوند",
+      "lead": "با نزدیک شدن حزب آلترناتیو برای آلمان به قدرت در یک ایالت، مقامات فدرال در حال برنامه‌ریزی برای محدود کردن دسترسی این گروه به اطلاعات طبقه‌بندی شده هستند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/europe/germany-afd-secrets-restriction.html",
+      "pubDate": "Tue, 22 Sep 2026 04:00:10 +0000",
+      "time": "۰۷:۳۰ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-22T04:16:37.161Z"
+    },
+    {
+      "id": "nytimes_3fc88ed1f3",
+      "agencyId": "nytimes",
+      "title": "Italy’s Prisons Were Overcrowded. Then They Overheated.",
+      "title_fa": "زندان‌های ایتالیا با بحران ازدحام و گرمای شدید مواجه شدند",
+      "lead": "همزمان با افزایش دمای هوا در ایتالیا، زندانیان ناچار به خوابیدن بر روی کف بتنی سلول‌ها شده‌اند و حتی نگهبانان نیز به این شرایط اعتراض کرده‌اند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/europe/italy-prisons-heat-wave-summer-overcrowding.html",
+      "pubDate": "Tue, 22 Sep 2026 04:00:06 +0000",
+      "time": "۰۷:۳۰ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-22T04:16:37.161Z"
     }
   ]
 }
