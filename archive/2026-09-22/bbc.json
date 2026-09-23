@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "bbc_689e58a467",
@@ -59,6 +59,63 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-22T05:32:41.864Z"
+    },
+    {
+      "id": "bbc_623d2c4812",
+      "agencyId": "bbc",
+      "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
+      "title_fa": "به گفته وکیل مدافع، تیراندازی اداره مهاجرت تگزاس باعث اصابت گلوله به پشت راننده ون‌دش ونزوئلایی شد",
+      "lead": "وکیل این راننده تحویل غذا به رسانه‌های آمریکایی گفت که موکلش از بیمارستان به یک بازداشتگاه منتقل شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 05:57:46 GMT",
+      "time": "۰۹:۲۷ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 25,
+        "negative": 75
+      },
+      "analyzed_at": "2026-09-22T07:32:01.855Z"
+    },
+    {
+      "id": "bbc_3adf701346",
+      "agencyId": "bbc",
+      "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+      "title_fa": "استان کانادایی به دلیل تیراندازی در مدرسه تامبلر ریج از OpenAI شکایت کرد",
+      "lead": "بریتیش کلمبیا این شرکت را متهم کرده است که تعاملات نگران‌کننده تیراندازی را با چت‌جی‌پتی به مجریان قانون گزارش نکرده است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 01:44:17 GMT",
+      "time": "۰۵:۱۴ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-22T07:32:01.855Z"
+    },
+    {
+      "id": "bbc_b6bc1127b0",
+      "agencyId": "bbc",
+      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "title_fa": "ایالات متحده و چین پیش از نشست ترامپ و شی، درباره طرح ایمنی هوش مصنوعی گفتگو کردند",
+      "lead": "مقامات ارشد ایالات متحده و چین روز یکشنبه پیش از نشست سران ترامپ و شی در این هفته، گفتگوهایی را در نیویورک برگزار کردند.",
+      "category": "diplomacy",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 21 Sep 2026 05:50:56 GMT",
+      "time": "۰۹:۲۰ - ۳۰ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-22T07:32:01.855Z"
     }
   ]
 }
