@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_534e05e603",
@@ -344,6 +344,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-22T09:46:54.137Z"
+    },
+    {
+      "id": "nytimes_43ccfe878b",
+      "agencyId": "nytimes",
+      "title": "Trump Set to Meet With Persian Gulf Allies as Middle East Wars Widen",
+      "title_fa": "آمادگی ترامپ برای دیدار با متحدان خلیج فارس در پی گسترش جنگ‌های خاورمیانه",
+      "lead": "جنگ ایران و درگیری میان حوثی‌ها و عربستان سعودی در یمن، کشورهای عربی خلیج فارس را ناچار کرده است تا با درگیری‌های رو به رشد مقابله کرده و تضمین‌های امنیتی ایالات متحده را ارزیابی مجدد کنند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/middleeast/trump-persian-gulf-leaders-meeting.html",
+      "pubDate": "Tue, 22 Sep 2026 11:09:48 +0000",
+      "time": "۱۴:۳۹ - ۳۱ شهریور",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-22T11:16:44.799Z"
+    },
+    {
+      "id": "nytimes_cf07d4f0bd",
+      "agencyId": "nytimes",
+      "title": "UK Leader Burnham to Hold First Meeting With Trump at UN General Assembly",
+      "title_fa": "نخست‌وزیر جدید بریتانیا نخستین دیدار خود با ترامپ را در مجمع عمومی سازمان ملل برگزار می‌کند",
+      "lead": "اندی برنهام، نخست‌وزیر بریتانیا، با یکی از حساس‌ترین دیدارهای دوران کاری خود مواجه است و تلاش می‌کند تا در جریان مجمع عمومی سازمان ملل ارتباط مناسبی با دونالد ترامپ برقرار کند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html",
+      "pubDate": "Tue, 22 Sep 2026 11:07:58 +0000",
+      "time": "۱۴:۳۷ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-22T11:16:44.799Z"
     }
   ]
 }
