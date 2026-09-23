@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_534e05e603",
@@ -458,6 +458,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-22T14:19:01.968Z"
+    },
+    {
+      "id": "nytimes_52b33d0da3",
+      "agencyId": "nytimes",
+      "title": "U.N. Leader Uses Final Speech to Issue Stark Warning",
+      "title_fa": "هشدار صریح رهبر سازمان ملل در آخرین سخنرانی",
+      "lead": "آنتونی گوترش، دبیرکل در حال کناره‌گیری، گفت که یک جهان متفق‌القول در رویارویی با جنگ‌ها، نابرابری، تغییرات اقلیمی و ظهور هوش مصنوعی با مشکل مواجه خواهد شد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/un-leader-uses-final-speech-to-issue-stark-warning.html",
+      "pubDate": "Tue, 22 Sep 2026 14:17:35 +0000",
+      "time": "۱۷:۴۷ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 40,
+        "negative": 55
+      },
+      "analyzed_at": "2026-09-22T14:34:24.901Z"
+    },
+    {
+      "id": "nytimes_274fc623b4",
+      "agencyId": "nytimes",
+      "title": "Shooting Near High School in Turkey Injures 11",
+      "title_fa": "تیراندازی در نزدیکی یک دبیرستان در ترکیه ۱۱ مجروح برجا گذاشت",
+      "lead": "این حمله ماه‌ها پس از تیراندازی‌های پیاپی در مدارس این کشور رخ داد، جایی که مربیان نسبت به افزایش خشونت هشدار داده بودند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/europe/turkey-school-shooting-injured.html",
+      "pubDate": "Tue, 22 Sep 2026 14:16:09 +0000",
+      "time": "۱۷:۴۶ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-22T14:34:24.901Z"
     }
   ]
 }
