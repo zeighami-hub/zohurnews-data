@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_534e05e603",
@@ -59,6 +59,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-22T02:16:25.352Z"
+    },
+    {
+      "id": "nytimes_e10eecab79",
+      "agencyId": "nytimes",
+      "title": "Trump’s U.N. Speech Comes at a Time of Tumult",
+      "title_fa": "سخنرانی ترامپ در سازمان ملل در فضایی پر از آشفتگی انجام می‌شود",
+      "lead": "رئیس‌جمهور آمریکا که با چالش جنگ در ایران و تضعیف اتحادها مواجه است، قرار است توافق امنیتی گرینلند را امضا کرده و با رهبران جهان دیدار کند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/21/us/politics/trump-un-speech.html",
+      "pubDate": "Tue, 22 Sep 2026 03:10:19 +0000",
+      "time": "۰۶:۴۰ - ۳۱ شهریور",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-22T03:31:30.101Z"
     }
   ]
 }
