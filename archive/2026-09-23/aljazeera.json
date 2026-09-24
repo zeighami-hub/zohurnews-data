@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "agencyId": "aljazeera",
-  "total": 91,
+  "total": 93,
   "articles": [
     {
       "id": "aljazeera_4071a1c20f",
@@ -1732,6 +1732,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-23T21:01:51.983Z"
+    },
+    {
+      "id": "aljazeera_d78967664a",
+      "agencyId": "aljazeera",
+      "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
+      "title_fa": "تحریم‌های هوانوردی ایالات متحده پروازهای ایران را مختل کرد و مسافران را به مسیرهای زمینی کشاند",
+      "lead": "اختلالات سفر با از دست رفتن دسترسی خطوط هوایی ایران به حریم هوایی تشدید شده و غیرنظامیان را به سمت استفاده از مسیرهای زمینی پرهزینه سوق داده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
+      "pubDate": "Wed, 23 Sep 2026 21:05:36 +0000",
+      "time": "۰۰:۳۵ - ۲ مهر",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-23T21:31:29.116Z"
+    },
+    {
+      "id": "aljazeera_0fed4e3be3",
+      "agencyId": "aljazeera",
+      "title": "FBI says investigating breach of ‘very sensitive’ data by hackers",
+      "title_fa": "اف‌بی‌آی در حال تحقیق درباره هک داده‌های بسیار حساس توسط هکرهاست",
+      "lead": "گروه هکری ShinyHunters ادعا کرده است که به داده‌های جزئی مربوط به هزاران تن از کارمندان اف‌بی‌آی دسترسی پیدا کرده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
+      "pubDate": "Wed, 23 Sep 2026 21:18:22 +0000",
+      "time": "۰۰:۴۸ - ۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-23T21:31:29.116Z"
     }
   ]
 }
