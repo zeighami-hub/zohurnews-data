@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "agencyId": "dw",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "dw_d5af4001c6",
@@ -192,6 +192,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-23T08:32:02.247Z"
+    },
+    {
+      "id": "dw_992eee2c51",
+      "agencyId": "dw",
+      "title": "UNGA: World leaders discuss AI, global conflicts",
+      "title_fa": "مجمع عمومی سازمان ملل: رهبران جهان درباره هوش مصنوعی و درگیری‌های جهانی گفتگو می‌کنند",
+      "lead": "با آغاز دومین روز مجمع عمومی سازمان ملل، توجهات زیادی به سوی جنگ در ایران، هوش مصنوعی و تغییرات اقلیمی معطوف شده است. این نشست موضوعات مهم جهانی را بررسی می‌کند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.dw.com/en/unga-world-leaders-discuss-ai-global-conflicts/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Wed, 23 Sep 2026 08:57:00 GMT",
+      "time": "۱۲:۲۷ - ۱ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-23T09:02:13.027Z"
+    },
+    {
+      "id": "dw_bfeed5e089",
+      "agencyId": "dw",
+      "title": "China's new travel rules unsettle tech giants and talent",
+      "title_fa": "قوانین جدید سفر در چین؛ نگرانی غول‌های فناوری و متخصصان",
+      "lead": "پکن در تلاش است تا مانع از خروج تخصص و سرمایه در صنایع راهبردی شود. کشوری که پیش‌تر به سرقت مالکیت فکری متهم بود، اکنون نگران است که غرب دارایی‌های خودش را تصاحب کند.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.dw.com/en/china-s-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Wed, 23 Sep 2026 08:54:00 GMT",
+      "time": "۱۲:۲۴ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-23T09:02:13.027Z"
     }
   ]
 }
