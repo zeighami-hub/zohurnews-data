@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_689e58a467",
@@ -59,6 +59,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-23T06:31:57.120Z"
+    },
+    {
+      "id": "bbc_790ba0c9ba",
+      "agencyId": "bbc",
+      "title": "Eleven killed in mass shooting at house in South Africa",
+      "title_fa": "کشته شدن ۱۱ نفر در تیراندازی جمعی در یک خانه در آفریقای جنوبی",
+      "lead": "پلیس اعلام کرد که در پی تیراندازی جمعی در یک خانه در آفریقای جنوبی ۱۱ نفر کشته شدند که یکی از قربانیان به احتمال زیاد زنی باردار بوده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 07:02:52 GMT",
+      "time": "۱۰:۳۲ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-23T07:17:44.216Z"
+    },
+    {
+      "id": "bbc_04e0d555f8",
+      "agencyId": "bbc",
+      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+      "title_fa": "دولت ترامپ رسانه‌های ممنوع‌شده را به «دروغ‌گویی» پیش از دادگاه متهم کرد",
+      "lead": "وزارت دادگستری ایالات متحده در پاسخ به شکایت مطرح شده توسط سی‌ان‌ان، پولیتیکو و ام‌اس‌ان‌بی‌سی، علاوه بر ذکر مسائل مربوط به امنیت ملی، این رسانه‌ها را به انتشار «دروغ» متهم کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 06:47:49 GMT",
+      "time": "۱۰:۱۷ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-23T07:17:44.216Z"
     }
   ]
 }
