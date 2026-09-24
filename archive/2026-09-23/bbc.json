@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "bbc_689e58a467",
@@ -382,6 +382,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-23T15:35:46.277Z"
+    },
+    {
+      "id": "bbc_4aaf27e960",
+      "agencyId": "bbc",
+      "title": "Watch: How toxic smog from wildfires is making Indonesians sick",
+      "title_fa": "تماشا کنید: چگونه دود سمی ناشی از آتش‌سوزی‌های جنگلی اندونزیایی‌ها را بیمار می‌کند",
+      "lead": "از ماه اوت تاکنون حدود ۱۷۵ هزار نفر در اندونزی به بیماری‌های تنفسی مبتلا شده‌اند که علت آن دود سمی ناشی از آتش‌سوزی‌های جنگلی است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 15:46:28 GMT",
+      "time": "۱۹:۱۶ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-23T16:03:09.710Z"
+    },
+    {
+      "id": "bbc_479fbb6dcb",
+      "agencyId": "bbc",
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "title_fa": "لهستان یک فروند بالگرد نظامی روسیه را به نقض حریم هوایی خود متهم کرد",
+      "lead": "لهستان اعلام کرد که یک فروند بالگرد نظامی روسیه حریم هوایی این کشور را به مدت ۴۲ ثانیه نقض کرده است. این اقدام، عضو ناتو را وادار ساخت تا جنگنده‌های خود را به پرواز درآورد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 15:37:20 GMT",
+      "time": "۱۹:۰۷ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-23T16:03:09.710Z"
     }
   ]
 }
