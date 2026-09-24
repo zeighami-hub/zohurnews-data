@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "agencyId": "mehrnews",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_756db4d18c",
@@ -154,6 +154,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-23T04:32:24.758Z"
+    },
+    {
+      "id": "mehrnews_3f0ca34777",
+      "agencyId": "mehrnews",
+      "title": "Iran determined to defend its sovereignty: FM Araghchi",
+      "title_fa": "ایران مصمم به دفاع از حاکمیت خود است: وزیر خارجه عراقچی",
+      "lead": "عباس عراقچی، وزیر امور خارجه ایران، در حاشیه هشتاد و یکمین مجمع عمومی سازمان ملل با جیحون بایراموف، همکار آذربایجانی خود دیدار کرد و بر عزم ایران برای دفاع از حاکمیت و منافع ملی خود تأکید نمود.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247998/Iran-determined-to-defend-its-sovereignty-FM-Araghchi",
+      "pubDate": "Wed, 23 Sep 2026 04:39:29 GMT",
+      "time": "۰۸:۰۹ - ۱ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-23T04:47:06.144Z"
+    },
+    {
+      "id": "mehrnews_bc1cc4c77b",
+      "agencyId": "mehrnews",
+      "title": "French FM says political solution only way out in Iran war",
+      "title_fa": "وزیر خارجه فرانسه: راه حل سیاسی تنها راه خروج از جنگ ایران است",
+      "lead": "ژان نوئل بارو، وزیر امور خارجه فرانسه، در دیدار با عباس عراقچی، همتای ایرانی خود، اعلام کرد که راه حل سیاسی تنها گزینه ممکن برای پایان دادن به جنگ کنونی است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/247997/French-FM-says-political-solution-only-way-out-in-Iran-war",
+      "pubDate": "Wed, 23 Sep 2026 04:35:46 GMT",
+      "time": "۰۸:۰۵ - ۱ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-23T04:47:06.144Z"
     }
   ]
 }
