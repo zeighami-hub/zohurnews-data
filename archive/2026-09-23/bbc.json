@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "agencyId": "bbc",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "bbc_689e58a467",
@@ -439,6 +439,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-23T16:20:26.830Z"
+    },
+    {
+      "id": "bbc_ae4ed73e19",
+      "agencyId": "bbc",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "title_fa": "رییس‌جمهور ایران به ترامپ گفت که هرگز «سر تعظیم فرود نخواهد آورد»",
+      "lead": "سخنرانی قاطعانه مسعود پزشکیان در سازمان ملل متحد پس از آن ایراد شد که رییس‌جمهور ایالات متحده تهدید کرد در صورت عدم دستیابی به توافق صلح، ایران را «نابود» خواهد کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 15:58:13 GMT",
+      "time": "۱۹:۲۸ - ۱ مهر",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-23T16:33:58.558Z"
+    },
+    {
+      "id": "bbc_7942bf509e",
+      "agencyId": "bbc",
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "title_fa": "هاروی واینستین به جرم تجاوز جنسی به ۱۵ سال زندان محکوم شد",
+      "lead": "این تهیه‌کننده رسوای هالیوود پیش‌تر به خاطر پرونده‌ای دیگر در ارتباط با تجاوز و آزار جنسی، در حال گذران دوران محکومیت ۲۳ ساله خود است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 16:15:57 GMT",
+      "time": "۱۹:۴۵ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-23T16:33:58.558Z"
     }
   ]
 }
