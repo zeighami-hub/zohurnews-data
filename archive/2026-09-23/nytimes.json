@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "agencyId": "nytimes",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_4516b1a40d",
@@ -325,6 +325,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-23T10:32:06.485Z"
+    },
+    {
+      "id": "nytimes_a28c571919",
+      "agencyId": "nytimes",
+      "title": "U.N. Live Updates: Iran’s President to Address World Leaders After Trump Threat",
+      "title_fa": "آخرین اخبار سازمان ملل: سخنرانی رئیس‌جمهور ایران خطاب به رهبران جهان پس از تهدید ترامپ",
+      "lead": "مسعود پزشکیان نخستین رهبر کشوری است که در حال جنگ با ایالات متحده بوده و برای سخنرانی در مجمع عمومی به نیویورک سفر کرده است. رئیس‌جمهور آمریکا پیش‌تر گفته بود او با انتخاب نابودی جمهوری اسلامی روبه‌روست.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
+      "pubDate": "Wed, 23 Sep 2026 11:06:39 +0000",
+      "time": "۱۴:۳۶ - ۱ مهر",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-23T11:16:49.669Z"
+    },
+    {
+      "id": "nytimes_9d1e1bbffd",
+      "agencyId": "nytimes",
+      "title": "At U.N. Meeting, Syria’s Leader Is Strengthened, but Faces a Difficult Test",
+      "title_fa": "رهبر سوریه در نشست سازمان ملل جایگاه قوی‌تری دارد، اما با آزمونی دشوار روبروست",
+      "lead": "احمد الشرع، رئیس‌جمهور سوریه، از زمان آخرین سخنرانی خود در مجمع عمومی سازمان ملل جایگاه دیپلماتیک خود را ارتقا داده است، اما همچنان با چالش‌های امنیتی و اقتصادی فزاینده داخلی مواجه است.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/23/world/middleeast/syria-un-general-assembly-al-sharaa.html",
+      "pubDate": "Wed, 23 Sep 2026 10:58:43 +0000",
+      "time": "۱۴:۲۸ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-23T11:16:49.669Z"
     }
   ]
 }
