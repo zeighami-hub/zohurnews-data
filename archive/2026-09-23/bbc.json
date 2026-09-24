@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "agencyId": "bbc",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "bbc_689e58a467",
@@ -249,6 +249,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-23T12:04:50.071Z"
+    },
+    {
+      "id": "bbc_3834962abe",
+      "agencyId": "bbc",
+      "title": "Dolly Parton's manager accuses her nephew of threats and intimidation",
+      "title_fa": "مدیر برنامه‌های دالی پارتن برادرزاده او را به تهدید و ارعاب متهم کرد",
+      "lead": "برایان سیور، کسی که خبر درگذشت دالی پارتن را اعلام کرده بود، به تلاش برای اخاذی از اموال او متهم شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 12:22:53 GMT",
+      "time": "۱۵:۵۲ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-23T12:46:47.918Z"
+    },
+    {
+      "id": "bbc_3e025b28d3",
+      "agencyId": "bbc",
+      "title": "OpenAI gives cyber defence tools to Ukraine",
+      "title_fa": "شرکت OpenAI ابزارهای دفاع سایبری را در اختیار اوکراین قرار می‌دهد",
+      "lead": "بر اساس این توافق، اوکراین به مدل پیشرفته GPT 5.6 Sol شرکت OpenAI دسترسی پیدا خواهد کرد؛ مدلی که رقیبی برای مدل‌های Mythos و Fable شرکت انتروپیک محسوب می‌شود.",
+      "category": "technology",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 12:01:37 GMT",
+      "time": "۱۵:۳۱ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-23T12:46:47.918Z"
     }
   ]
 }
