@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_4516b1a40d",
@@ -382,6 +382,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-23T13:33:26.654Z"
+    },
+    {
+      "id": "nytimes_a76e179d60",
+      "agencyId": "nytimes",
+      "title": "Walkouts at the U.N. General Assembly Are Somewhat of a Tradition",
+      "title_fa": "ترک جلسه مجمع عمومی سازمان ملل؛ رویدادی که به یک سنت تبدیل شده است",
+      "lead": "همزمان با سخنرانی مسعود پزشکیان، رئیس‌جمهور ایران، در مجمع عمومی سازمان ملل متحد، تنها دیپلمات آمریکایی حاضر در سالن جلسه را ترک کرد.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/23/world/un-general-assembly-walkout.html",
+      "pubDate": "Wed, 23 Sep 2026 15:26:59 +0000",
+      "time": "۱۸:۵۶ - ۱ مهر",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-23T15:35:46.277Z"
+    },
+    {
+      "id": "nytimes_034ce4a038",
+      "agencyId": "nytimes",
+      "title": "Zelensky Is Expected to Warn Russia’s Aggression Won’t Stop at Ukraine’s Borders",
+      "title_fa": "انتظار می‌رود زلنسکی هشدار دهد که تجاوز روسیه به مرزهای اوکراین محدود نخواهد ماند",
+      "lead": "ولودیمیر زلنسکی تلاش می‌کند تا فوریت بحران کشور خود را به رهبران جهانی که درگیر بحران‌های متناوب جهانی و فشارهای سیاسی داخلی هستند، منتقل کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/23/world/europe/ukraine-russia-zelensky-unga.html",
+      "pubDate": "Wed, 23 Sep 2026 15:26:26 +0000",
+      "time": "۱۸:۵۶ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-23T15:35:46.277Z"
+    },
+    {
+      "id": "nytimes_109c68d2df",
+      "agencyId": "nytimes",
+      "title": "New Study Illuminates Bats’ Murky Origins",
+      "title_fa": "مطالعه جدید ابعاد جدیدی از ریشه‌های مبهم خفاش‌ها را روشن می‌کند",
+      "lead": "بزرگ‌ترین تحلیل از ژنوم‌ها و فسیل‌های خفاش‌ها نشان می‌دهد که نخستین خفاش‌ها حدود ۶۵ میلیون سال پیش در اروپا ظاهر شده‌اند و قابلیت پژواک‌یابی (اکولوکیشن) در مراحل اولیه تکامل یافته است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/23/science/evolution-genetics-bats.html",
+      "pubDate": "Wed, 23 Sep 2026 15:00:14 +0000",
+      "time": "۱۸:۳۰ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-23T15:35:46.277Z"
     }
   ]
 }
