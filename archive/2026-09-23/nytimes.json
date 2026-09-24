@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_4516b1a40d",
@@ -59,6 +59,63 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-23T04:16:27.093Z"
+    },
+    {
+      "id": "nytimes_b1da2000db",
+      "agencyId": "nytimes",
+      "title": "Earl Spencer Book Blasts Diana’s Treatment by UK Royal Family",
+      "title_fa": "کتاب ارل اسپنسر؛ انتقاد شدید از رفتار خاندان سلطنتی بریتانیا با دایانا",
+      "lead": "ارل اسپنسر همچنان پس از گذشت دهه‌ها از نحوه برخورد خاندان ویندزور با پرنسس سابق ولز خشمگین است و در کتاب جدید خود به ویژه انتقادات تندی را متوجه شاه چارلز می‌کند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/europe/diana-earl-spencer-book.html",
+      "pubDate": "Tue, 22 Sep 2026 16:12:39 +0000",
+      "time": "۱۹:۴۲ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-23T04:47:06.144Z"
+    },
+    {
+      "id": "nytimes_2139a8f5de",
+      "agencyId": "nytimes",
+      "title": "German Leaders Prepare to Deny Far Right Access to Secret War Plan",
+      "title_fa": "رهبران آلمان برای محروم کردن جریان راست افراطی از دسترسی به طرح‌های محرمانه جنگی آماده می‌شوند",
+      "lead": "در پی نزدیک شدن حزب «جایگزینی برای آلمان» به قدرت در یکی از ایالت‌های این کشور، مقامات فدرال در حال برنامه‌ریزی برای محدود کردن دسترسی این گروه به اطلاعات طبقه‌بندی‌شده هستند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/europe/germany-afd-secrets-restriction.html",
+      "pubDate": "Tue, 22 Sep 2026 15:21:19 +0000",
+      "time": "۱۸:۵۱ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-23T04:47:06.144Z"
+    },
+    {
+      "id": "nytimes_3fc88ed1f3",
+      "agencyId": "nytimes",
+      "title": "Italy’s Prisons Were Overcrowded. Then They Overheated.",
+      "title_fa": "زندان‌های ایتالیا با بحران ازدحام و سپس گرمای شدید مواجه شدند",
+      "lead": "همزمان با نزدیک شدن دمای هوا در ایتالیا به ۹۰ درجه فارنهایت، زندانیان مجبور به خوابیدن روی کف بتنی سلول‌ها شده‌اند و حتی نگهبانان نیز شکایت کرده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/22/world/europe/italy-prisons-heat-wave-summer-overcrowding.html",
+      "pubDate": "Tue, 22 Sep 2026 04:00:06 +0000",
+      "time": "۰۷:۳۰ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-23T04:47:06.144Z"
     }
   ]
 }
