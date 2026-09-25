@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_a1814ba42a",
@@ -344,6 +344,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-24T13:47:55.071Z"
+    },
+    {
+      "id": "nytimes_39b4b4d473",
+      "agencyId": "nytimes",
+      "title": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
+      "title_fa": "عربستان سعودی از سرنگونی موشک‌های حوثی‌ها خبر داد",
+      "lead": "یک سخنگوی نظامی اعلام کرد که شبه‌نظامیان حوثی وابسته به ایران شش موشک بالستیک به سوی شهرهای عربستان سعودی شلیک کردند. حوثی‌ها هنوز واکنشی به این خبر نشان نداده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html",
+      "pubDate": "Thu, 24 Sep 2026 14:03:13 +0000",
+      "time": "۱۷:۳۳ - ۲ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-24T14:32:51.939Z"
+    },
+    {
+      "id": "nytimes_12c32c9c19",
+      "agencyId": "nytimes",
+      "title": "Far-Right Activist Danny Tommo Arrested After Slashing Dinghy in English Channel",
+      "title_fa": "دستگیری فعال راست افراطی، دنی تومو، پس از پاره کردن قایق بادی در کانال مانش",
+      "lead": "دنیل توماس، فعال راست افراطی، پس از آن که از خود در حال پاره کردن یک قایق بادی حامل پناهجویان در حال سفر به انگلیس فیلم گرفت، توسط پلیس دستگیر شد.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/24/world/europe/danny-tommo-arrested-uk-migrants-far-right.html",
+      "pubDate": "Thu, 24 Sep 2026 14:27:53 +0000",
+      "time": "۱۷:۵۷ - ۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-24T14:32:51.939Z"
+    },
+    {
+      "id": "nytimes_88a319605d",
+      "agencyId": "nytimes",
+      "title": "Police in Poland Arrest Ukrainian Citizen Over Fatal Stabbing",
+      "title_fa": "پلیس لهستان یک شهروند اوکراینی را به اتهام قتل با چاقو دستگیر کرد",
+      "lead": "پلیس لهستان یک شهروند اوکراینی را به ظن دست داشتن در یک حمله مرگبار با چاقو بازداشت کرد. این حادثه در زمانی رخ می‌دهد که دو کشور تلاش می‌کنند روابط تیره خود را بهبود بخشند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/24/world/europe/poland-stabbing-ukrainian-attacker.html",
+      "pubDate": "Thu, 24 Sep 2026 14:13:02 +0000",
+      "time": "۱۷:۴۳ - ۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-24T14:32:51.939Z"
     }
   ]
 }
