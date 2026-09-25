@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_a1814ba42a",
@@ -249,6 +249,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-24T09:16:46.943Z"
+    },
+    {
+      "id": "nytimes_34611db13b",
+      "agencyId": "nytimes",
+      "title": "Trump’s New Favorite Neighbor: Mexico",
+      "title_fa": "همسایه جدید مورد علاقه ترامپ: مکزیک",
+      "lead": "دونالد ترامپ تا حدودی برند سیاسی خود را بر پایه حمله به مکزیک بنا کرده بود، اما اکنون دومین دوره ریاست جمهوری او به عمیق‌تر کردن شراکت‌ها با این کشور بستگی دارد.",
+      "category": "culture",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/23/world/americas/trump-mexico-trade-relations.html",
+      "pubDate": "Wed, 23 Sep 2026 12:17:06 +0000",
+      "time": "۱۵:۴۷ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-24T09:46:49.543Z"
+    },
+    {
+      "id": "nytimes_26c97d3a08",
+      "agencyId": "nytimes",
+      "title": "How China’s Leader Plans to Win the Future With A.I.",
+      "title_fa": "چگونه رهبر چین قصد دارد با هوش مصنوعی آینده را پیروز شود",
+      "lead": "یک دهه پیش، شی جین پینگ پرسید که آیا چین می‌تواند بر هوش مصنوعی مسلط شود یا خیر. تلاش‌های او در حال بازسازی اقتصاد، به چالش کشیدن ایالات متحده و حفظ کنترل بر جامعه است.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/23/world/asia/china-ai-economy-xi-jinping.html",
+      "pubDate": "Wed, 23 Sep 2026 09:00:09 +0000",
+      "time": "۱۲:۳۰ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-24T09:46:49.543Z"
     }
   ]
 }
