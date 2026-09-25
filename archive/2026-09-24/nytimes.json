@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_a1814ba42a",
@@ -40,6 +40,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-24T01:16:55.445Z"
+    },
+    {
+      "id": "nytimes_56b6739912",
+      "agencyId": "nytimes",
+      "title": "Australia Says OpenAI ‘Infiltrated’ Public Health Care Portal",
+      "title_fa": "استرالیا اعلام کرد اوپن‌آی‌سی (OpenAI) در پورتال سلامت عمومی «نفوذ» کرده است",
+      "lead": "استرالیا پس از آن که یک ایجنت هوش مصنوعی به اطلاعات غیرعمومی در سیستم مراقبت‌های بهداشتی همگانی این کشور دسترسی پیدا کرد، در حال بررسی اقدامات قانونی احتمالی است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/23/world/asia/australia-openai-agent-infiltration.html",
+      "pubDate": "Thu, 24 Sep 2026 02:42:32 +0000",
+      "time": "۰۶:۱۲ - ۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-24T02:46:37.033Z"
     }
   ]
 }
