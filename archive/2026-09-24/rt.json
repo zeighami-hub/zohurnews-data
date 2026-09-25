@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
   "agencyId": "rt",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "rt_6d59845cc7",
@@ -287,6 +287,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-24T12:31:57.849Z"
+    },
+    {
+      "id": "rt_e1ca48f8fa",
+      "agencyId": "rt",
+      "title": "US steps up military activity near Iran – media",
+      "title_fa": "افزایش فعالیت نظامی ایالات متحده در نزدیکی ایران به گزارش رسانه‌ها",
+      "lead": "گزارش‌ها حاکی از آن است که هواپیماهای شناسایی آمریکا در پی افزایش تردد نفت‌کش‌ها در تنگه هرمز، در اطراف این آبراه مهم مشاهده شده‌اند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/646198-us-military-activity-iran/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Thu, 24 Sep 2026 13:37:39 +0000",
+      "time": "۱۷:۰۷ - ۲ مهر",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-24T13:47:55.071Z"
+    },
+    {
+      "id": "rt_e1a5a2159c",
+      "agencyId": "rt",
+      "title": "Germany pledges to phase out fossil fuels",
+      "title_fa": "تعهد آلمان به حذف تدریجی سوخت‌های فسیلی",
+      "lead": "دولت آلمان نقشه‌راهی را برای حذف کامل سوخت‌های فسیلی تا سال ۲۰۴۵ ارائه کرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.rt.com/news/646191-germany-pledges-to-phase-out/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Thu, 24 Sep 2026 13:33:22 +0000",
+      "time": "۱۷:۰۳ - ۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-24T13:47:55.071Z"
     }
   ]
 }
