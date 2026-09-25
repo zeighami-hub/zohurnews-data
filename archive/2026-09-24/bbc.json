@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "bbc_54064efdb1",
@@ -59,6 +59,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-24T01:01:42.349Z"
+    },
+    {
+      "id": "bbc_790ba0c9ba",
+      "agencyId": "bbc",
+      "title": "Eleven killed in mass shooting at house in South Africa",
+      "title_fa": "یازده کشته در تیراندازی جمعی در خانه‌ای در آفریقای جنوبی",
+      "lead": "پلیس اعلام کرد که در پی یک تیراندازی جمعی در خانه‌ای در آفریقای جنوبی ۱۱ نفر کشته شدند و یکی از قربانیان زنی باردار بوده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 14:02:55 GMT",
+      "time": "۱۷:۳۲ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-24T07:47:06.741Z"
     }
   ]
 }
