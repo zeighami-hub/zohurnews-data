@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
   "agencyId": "reuters",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "reuters_e01552d24c",
@@ -40,6 +40,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-24T01:46:29.173Z"
+    },
+    {
+      "id": "reuters_d9af19fdf1",
+      "agencyId": "reuters",
+      "title": "Oil prices edge lower as Iran says it is open to diplomacy to end the war - Reuters",
+      "title_fa": "کاهش جزئی قیمت نفت همزمان با اعلام آمادگی ایران برای دیپلماسی جهت پایان دادن به جنگ",
+      "lead": "قیمت نفت پس از آن که ایران اعلام کرد برای پایان دادن به جنگ به روی دیپلماسی باز است، با کاهش همراه شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1FxSEFPZkVpeHV0LS1WTURzc3lOWWM3d0dfTG1mQ0hBWmZiLWhia1FPbnUzdm5yMVhuZE1RenYyOTNqYmFqT2d5MzVtNE1IcHJCNGJ4aXU0US1Tc09OWnJINzRpQkFTWXdsczlhcE50N25wT052OUZhS21QOG9haGV4XzFTZnQ4NzNTWFlVbU1QcDRyZC0yejVxX1dabVZmWHMyMVM0dWE5RGpNWXZNVHBn?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 01:17:00 GMT",
+      "time": "۰۴:۴۷ - ۲ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-24T02:46:37.033Z"
+    },
+    {
+      "id": "reuters_b64ead4519",
+      "agencyId": "reuters",
+      "title": "Oil prices settle lower as crude flows from Middle East improve - Reuters",
+      "title_fa": "کاهش قیمت نفت با بهبود جریان نفت خام از خاورمیانه",
+      "lead": "قیمت‌های نفت پس از بهبودی در جریان عرضه نفت خام از سوی خاورمیانه، با کاهش بسته شدند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzJ5LUNVMlYtZzRwaGc4MDRoSlpkWFJpVkZnUWlIR2dhbHlqc3ltYXpEQTd2SmhDWlhydUFqMkpMQ2FrZkk0NzlUYWwwR0R2SDBKcWMxaklPcV9FNGpvN2tYOExMb1kzMzZFTGJrNHpvY1FvSElhUDBBSDgxakxoUTlJOXVncjJJbXQyZy15bHFkUzViQlhlTHpMeUNpa2lxN0E?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 19:45:46 GMT",
+      "time": "۲۳:۱۵ - ۳۱ شهریور",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-24T02:46:37.033Z"
     }
   ]
 }
