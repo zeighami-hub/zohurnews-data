@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_a1814ba42a",
@@ -401,6 +401,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-24T14:32:51.939Z"
+    },
+    {
+      "id": "nytimes_312e4cff5e",
+      "agencyId": "nytimes",
+      "title": "Forced Eviction of 87-Year-Old Woman Spurs Outrage in Spain",
+      "title_fa": "تخلیه اجباری یک زن ۸۷ ساله خشم عمومی را در اسپانیا برانگیخت",
+      "lead": "در پی تخلیه اجباری این زن مسن در مادرید، تظاهراتی در سراسر اسپانیا برگزار شد و موضوع افزایش اجاره‌بها و مسکن را به صدر مباحث سیاسی کشور آورد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/24/world/europe/spain-eviction-sanchez.html",
+      "pubDate": "Thu, 24 Sep 2026 14:41:25 +0000",
+      "time": "۱۸:۱۱ - ۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-24T14:51:18.012Z"
+    },
+    {
+      "id": "nytimes_3b7059fc54",
+      "agencyId": "nytimes",
+      "title": "Son of Israeli Ambassador to U.S. Critically Hurt in West Bank Attack, Officials Say",
+      "title_fa": "به گفته مقام‌ها، فرزند سفیر اسرائیل در آمریکا در حمله کرانه باختری به شدت زخمی شد",
+      "lead": "ارتش اسرائیل اعلام کرد که نریا لایتر، یک سرباز وظیفه و فرزند سفیر اسرائیل در آمریکا، در پی زیر گرفته شدن با خودرو توسط یک فلسطینی در یک ایست بازرسی در کرانه باختری، دچار جراحات وخیم شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/24/world/middleeast/israel-ambassador-leiter-son-west-bank-attack.html",
+      "pubDate": "Thu, 24 Sep 2026 14:38:47 +0000",
+      "time": "۱۸:۰۸ - ۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-24T14:51:18.012Z"
     }
   ]
 }
