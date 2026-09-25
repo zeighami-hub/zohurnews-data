@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
   "agencyId": "bbc",
-  "total": 26,
+  "total": 28,
   "articles": [
     {
       "id": "bbc_54064efdb1",
@@ -496,6 +496,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-24T19:47:02.377Z"
+    },
+    {
+      "id": "bbc_4f5dc2527b",
+      "agencyId": "bbc",
+      "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+      "title_fa": "نتانیاهو اقدامات نظامی اسرائیل در خاورمیانه را در سخنرانی سازمان ملل توجیه کرد",
+      "lead": "داده‌های نشست مجمع عمومی نشان می‌دهد که ده‌ها تن از نمایندگان در اعتراض به سخنرانی رهبر اسرائیل سالن را ترک کردند و او نیز آنها را «ترسوهای اخلاقی» خواند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 21:21:47 GMT",
+      "time": "۰۰:۵۱ - ۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-24T21:31:32.329Z"
+    },
+    {
+      "id": "bbc_e1cfe5572c",
+      "agencyId": "bbc",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+      "title_fa": "طرح بازیابی ۲.۴۵ میلیارد دلاری غزه توسط هیئت صلح ترامپ رونمایی شد",
+      "lead": "این رقم طی نشست هیئت مدیره این گروه در حاشیه مجمع عمومی سازمان ملل متحد در نیویورک اعلام شد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 10:11:15 GMT",
+      "time": "۱۳:۴۱ - ۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-24T21:31:32.329Z"
     }
   ]
 }
