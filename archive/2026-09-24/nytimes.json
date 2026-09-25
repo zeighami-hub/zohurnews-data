@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_a1814ba42a",
@@ -78,6 +78,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-24T04:01:37.915Z"
+    },
+    {
+      "id": "nytimes_59f9c6e85c",
+      "agencyId": "nytimes",
+      "title": "Inside France’s Push to Stop Migrant Boats to the U.K.",
+      "title_fa": "تلاش‌های فرانسه برای متوقف کردن قایق‌های مهاجران به مقصد بریتانیا",
+      "lead": "هر ساله هزاران مهاجر از طریق دریا بین فرانسه and انگلستان سفر می‌کنند، هرچند که آمار این عبور و مرورها در پی افزایش اقدامات پلیسی کاهش یافته است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/24/world/europe/france-britain-migrant-boats-police.html",
+      "pubDate": "Thu, 24 Sep 2026 04:01:09 +0000",
+      "time": "۰۷:۳۱ - ۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-24T04:16:29.523Z"
+    },
+    {
+      "id": "nytimes_6eca62d044",
+      "agencyId": "nytimes",
+      "title": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
+      "title_fa": "از نپالِ درد کشیده؛ یک رهبر جوان خواستار دریافت غرامت‌های اقلیمی شد",
+      "lead": "بالندرا شاه ۳۶ ساله با عینک آفتابی به عنوان نمادی از قدرت سیاسی نسل زد وارد سازمان ملل می‌شود. با این حال، نگرانی‌ها درباره سبک کاری او در داخل کشور پس از وقوع سیل‌های ویرانگری که هزاران کشته یا مفقود برجا گذاشته، رو به افزایش است.",
+      "category": "environment",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html",
+      "pubDate": "Thu, 24 Sep 2026 04:01:05 +0000",
+      "time": "۰۷:۳۱ - ۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-24T04:16:29.523Z"
     }
   ]
 }
