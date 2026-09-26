@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
   "agencyId": "reuters",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "reuters_7284238fcd",
@@ -40,6 +40,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-25T02:01:44.436Z"
+    },
+    {
+      "id": "reuters_02399429e3",
+      "agencyId": "reuters",
+      "title": "Oil prices fall as markets look to Iran truce, but remain wary of attacks on oil facilities - Reuters",
+      "title_fa": "کاهش قیمت نفت در پی چشم‌انداز آتش‌بس ایران و تداوم نگرانی‌ها از حملات به تأسیسات نفتی",
+      "lead": "قیمت‌های نفت با توجه بازار به مسئله آتش‌بس ایران کاهش یافت، اما فعالان بازار همچنان نسبت به حملات احتمالی به تأسیسات نفتی محتاط هستند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3EzX3oydnQxRk5Ld1BKbk82ek14ZVdyLVpTdldjdEpqeDJfTVZ2Q0F1TnhvaWlhR1p0Z3hScDV0S2Z1UFR5OXhKSWk3NmtqTzd0SkJfa2RLRFpOOUlEcE5mR1d4Z21Td2FCQVZqNHV1eDloQkplT1NHaHhyTDlqOG5DYlFFdnRERThxNU0yX29LcTRyal9pMHQ4ZzNoU0VKZkdHN2hFYjhCZUpZZ3d2am11SDJYYVBiN0JxWVBtczNRYkh1?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 01:11:00 GMT",
+      "time": "۰۴:۴۱ - ۳ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-25T02:31:29.336Z"
+    },
+    {
+      "id": "reuters_0a340ad01b",
+      "agencyId": "reuters",
+      "title": "Britain warns Iran it will not tolerate hostile activity on UK soil, Sky News reports - Reuters",
+      "title_fa": "هشدار بریتانیا به ایران درباره عدم تحمل فعالیت‌های خصمانه در خاک این کشور",
+      "lead": "بر اساس گزارش اسکای نیوز، بریتانیا به ایران هشدار داده است که هیچ‌گونه فعالیت خصمانه در خاک خود را تحمل نخواهد کرد.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmt3OWdYdUxlUXlJa0h6T0lndm5xUDBvRjg0M0plMzcxOThXT2lIaUNSY1NnczJYOEpwa3dYcGZWT2NGc0R3VGNHeVRJb0N5dS16V2FHamQyWkFuRkpSdXNIQk5CUk13dGU3NW1UNF9IdzFHSlFuOHpJRS1KZk1Hal9XNDFHbTlybmwxaUZsZmlINjRGZ29PekZNNFBpMHBabkxMelNBb1NPWk04Y3FYcU83QVR1T0xKTTJXeURIT1pwdDdJYUE?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 23:02:12 GMT",
+      "time": "۰۲:۳۲ - ۳ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-25T02:31:29.336Z"
     }
   ]
 }
