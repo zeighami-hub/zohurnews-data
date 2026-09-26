@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
   "agencyId": "guardian",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "guardian_5714113c1a",
@@ -173,6 +173,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-25T09:02:01.172Z"
+    },
+    {
+      "id": "guardian_45f4407966",
+      "agencyId": "guardian",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "title_fa": "طوفان حاد پولو به سمت منطقه باخا کالیفرنیا در مکزیک در حرکت است",
+      "lead": "طوفان پولو که دومین طوفان شدید ثبت‌شده در این منطقه است و توسط آب‌های به طور استثنایی گرم اقیانوس آرام تغذیه می‌شود، به سمت منطقه باخا کالیفرنیا در مکزیک حرکت می‌کند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "pubDate": "Fri, 25 Sep 2026 10:28:45 GMT",
+      "time": "۱۳:۵۸ - ۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-25T10:46:34.532Z"
+    },
+    {
+      "id": "guardian_ad2f649ca7",
+      "agencyId": "guardian",
+      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+      "title_fa": "یکی از مقام‌های ارشد پلیس آفریقای جنوبی به اتهام تجاوز و آزار بازداشت شد",
+      "lead": "یکی از ارشدترین مقام‌های پلیس آفریقای جنوبی با اتهام تجاوز به یک زن ۱۸ ساله و تلاش برای سوءاستفاده از یک دختر ۱۶ ساله مواجه شده است. این دستگیری در حالی انجام می‌شود که کشور با پرونده‌های قتل زنان و فساد و جرایم ادعایی در نیروی پلیس دست به گریبان است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+      "pubDate": "Wed, 23 Sep 2026 09:38:06 GMT",
+      "time": "۱۳:۰۸ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-25T10:46:34.532Z"
     }
   ]
 }
