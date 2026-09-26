@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "nytimes_87d25498ed",
@@ -21,6 +21,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-25T00:31:35.816Z"
+    },
+    {
+      "id": "nytimes_cdb9c9920f",
+      "agencyId": "nytimes",
+      "title": "France to Send Soldiers to Saudi Arabia to Help Secure Energy Sites",
+      "title_fa": "فرانسه برای کمک به امنیت تأسیسات انرژی به عربستان سرباز اعزام می‌کند",
+      "lead": "حملات شبه‌نظامیان حوثی تحت حمایت ایران در یمن به شهرهای عربستان در دریای سرخ، فشار بر عرضه‌های جهانی نفت را افزایش داده است. در همین راستا، فرانسه قصد دارد برای کمک به ایمن‌سازی تأسیسات انرژی سربازانی به عربستان اعزام کند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html",
+      "pubDate": "Fri, 25 Sep 2026 02:59:35 +0000",
+      "time": "۰۶:۲۹ - ۳ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-25T03:16:17.437Z"
     }
   ]
 }
