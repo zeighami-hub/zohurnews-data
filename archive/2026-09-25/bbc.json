@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
   "agencyId": "bbc",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "bbc_b326916d58",
@@ -249,6 +249,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-25T16:16:41.692Z"
+    },
+    {
+      "id": "bbc_1a339e9568",
+      "agencyId": "bbc",
+      "title": "Supreme Court revives controversial US data system for citizenship checks",
+      "title_fa": "دیوان عالی آمریکا سامانه جنجالی داده‌ها را برای بررسی تابعیت احیا کرد",
+      "lead": "این سامانه از اطلاعات شهروندی و سایر داده‌های حساس برای فیلتر کردن ادعاهای مربوط به رأی‌دهی افراد غیرشهروند استفاده می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 16:35:01 GMT",
+      "time": "۲۰:۰۵ - ۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-25T16:46:37.413Z"
+    },
+    {
+      "id": "bbc_c8b0e4fdad",
+      "agencyId": "bbc",
+      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "title_fa": "ممانعت از ورود رسانه‌های تحریم‌شده توسط ترامپ به شام ​​کاخ سفید علیرغم حکم قاضی",
+      "lead": "خبرنگاران CNN و MS NOW اعلام کردند که با وجود حکم دادگاه مبنی بر بازگرداندن کارت‌های پوشش خبری، از حضور آن‌ها در یک شام حکومتی جلوگیری شده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 01:10:35 GMT",
+      "time": "۰۴:۴۰ - ۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-25T16:46:37.413Z"
     }
   ]
 }
