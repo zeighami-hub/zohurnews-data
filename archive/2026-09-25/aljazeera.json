@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
   "agencyId": "aljazeera",
-  "total": 69,
+  "total": 71,
   "articles": [
     {
       "id": "aljazeera_a9e3e109e5",
@@ -1313,6 +1313,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-25T18:46:52.428Z"
+    },
+    {
+      "id": "aljazeera_49ae507b63",
+      "agencyId": "aljazeera",
+      "title": "Iran threatens widespread disruption as Iraq halts Iran flights",
+      "title_fa": "تهدید ایران به ایجاد اختلال گسترده همزمان با توقف پروازهای ایران به عراق",
+      "lead": "عراق پروازهای ایرانی را در هر چهار فرودگاهی که در آن‌ها فعالیت داشتند، به حالت تعلیق درآورد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss",
+      "pubDate": "Fri, 25 Sep 2026 19:11:03 +0000",
+      "time": "۲۲:۴۱ - ۳ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-25T19:31:44.033Z"
+    },
+    {
+      "id": "aljazeera_2a512ab48b",
+      "agencyId": "aljazeera",
+      "title": "Will Turkiye end its military presence in northern Iraq?",
+      "title_fa": "آیا ترکیه به حضور نظامی خود در شمال عراق پایان می‌دهد؟",
+      "lead": "آنکارا با واگذاری تدریجی یک پایگاه نظامی در منطقه سنجار موافقت کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss",
+      "pubDate": "Fri, 25 Sep 2026 19:06:54 +0000",
+      "time": "۲۲:۳۶ - ۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-25T19:31:44.033Z"
     }
   ]
 }
