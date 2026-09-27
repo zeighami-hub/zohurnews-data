@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "agencyId": "mehrnews",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "mehrnews_1c5c7d128f",
@@ -21,6 +21,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-26T05:01:52.863Z"
+    },
+    {
+      "id": "mehrnews_3553953cc2",
+      "agencyId": "mehrnews",
+      "title": "Iran ‘victim of aggression by US, Israel: FM Araghchi",
+      "title_fa": "ایران قربانی تجاوز آمریکا و اسرائیل است: وزیر خارجه عراقچی",
+      "lead": "وزیر امور خارجه ایران اعلام کرد که تهران علیرغم تعهدات قاطع خود به دیپلماسی و مذاکره، قربانی اقدامات غیرقانونی، تجاوزکارانه و تروریستی ایالات متحده و رژیم اسرائیل شده است.",
+      "category": "diplomacy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248077/Iran-victim-of-aggression-by-US-Israel-FM-Araghchi",
+      "pubDate": "Sat, 26 Sep 2026 05:22:38 GMT",
+      "time": "۰۸:۵۲ - ۴ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-26T05:31:49.741Z"
+    },
+    {
+      "id": "mehrnews_7923e9ae75",
+      "agencyId": "mehrnews",
+      "title": "Iran missiles able to annihilate US multilayered defense sys.",
+      "title_fa": "موشک‌های ایران قادر به نابودی سامانه دفاعی چندلایه آمریکا هستند",
+      "lead": "سخنگوی سپاه پاسداران انقلاب اسلامی تأکید کرد که موشک‌های پیشرفته ایران قادر به نابودی سیستم‌های دفاع هوایی چندلایه ایالات متحده هستند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248076/Iran-missiles-able-to-annihilate-US-multilayered-defense-sys",
+      "pubDate": "Sat, 26 Sep 2026 05:06:18 GMT",
+      "time": "۰۸:۳۶ - ۴ مهر",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-26T05:16:45.805Z"
     }
   ]
 }
