@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "agencyId": "nytimes",
-  "total": 20,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_e632088de4",
@@ -384,6 +384,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-26T20:31:37.826Z"
+    },
+    {
+      "id": "nytimes_eea4943057",
+      "agencyId": "nytimes",
+      "title": "Six Dead After Explosion in Athens Tourist District",
+      "title_fa": "شش کشته در پی انفجار در منطقه توریستی آتن",
+      "lead": "مقام‌های رسمی اعلام کردند که نشتی گاز احتمالاً عامل انفجار در پایتخت یونان بوده است. این حادثه یک ساختمان را تخریب کرد و به بخشی از منطقه توریستی آتن خسارت وارد ساخت.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html",
+      "pubDate": "Sat, 26 Sep 2026 14:58:38 +0000",
+      "time": "۱۸:۲۸ - ۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-26T20:46:28.059Z"
     }
   ]
 }
