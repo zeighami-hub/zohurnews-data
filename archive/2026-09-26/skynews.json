@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "agencyId": "skynews",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "skynews_123912bb28",
@@ -230,6 +230,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-26T14:17:13.347Z"
+    },
+    {
+      "id": "skynews_9ce86ba2c6",
+      "agencyId": "skynews",
+      "title": "At least 41 dead after boat capsizes in DR Congo",
+      "title_fa": "دستکم ۴۱ کشته بر اثر واژگونی قایق در جمهوری دموکراتیک کنگو",
+      "lead": "به گفته مقامات محلی، دستکم ۴۱ نفر پس از واژگونی یک قایق مسافربری در دریاچه تانگانیکا که از تانزانیا به سمت جمهوری دموکراتیک کنگو در حرکت بود، جان خود را از دست دادند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/at-least-41-dead-after-boat-capsizes-in-dr-congo-13591586",
+      "pubDate": "Thu, 24 Sep 2026 21:04:00 +0100",
+      "time": "۲۳:۳۴ - ۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-26T22:01:38.264Z"
+    },
+    {
+      "id": "skynews_daf083cdbf",
+      "agencyId": "skynews",
+      "title": "Iran says it has given US 'concrete' seven-day plan to reopen Strait of Hormuz",
+      "title_fa": "ایران اعلام کرد که طرح هفت‌روزه مشخصی برای بازگشایی تنگه هرمز به آمریکا ارائه کرده است",
+      "lead": "ایران اعلام کرد که یک طرح مشخص و هفت‌روزه را برای بازگشایی تنگه هرمز به ایالات متحده ارائه داده است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://news.sky.com/story/iran-says-it-has-given-us-concrete-seven-day-plan-to-reopen-strait-of-hormuz-13591945",
+      "pubDate": "Fri, 25 Sep 2026 21:36:00 +0100",
+      "time": "۰۰:۰۶ - ۴ مهر",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-26T21:46:27.977Z"
     }
   ]
 }
