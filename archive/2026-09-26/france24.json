@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "agencyId": "france24",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "france24_eccc74d393",
@@ -21,6 +21,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-26T00:16:20.139Z"
+    },
+    {
+      "id": "france24_7a84e1671d",
+      "agencyId": "france24",
+      "title": "🔴 Live: Yemen's president calls on his people to mobilise against Iran-backed Houthis",
+      "title_fa": "رئیس‌جمهور یمن از مردم خواست علیه حوثی‌های تحت حمایت ایران بسیج شوند",
+      "lead": "رئیس‌جمهور یمن طی اظهاراتی از عموم مردم این کشور خواست تا در برابر شبه‌نظامیان حوثی که از حمایت ایران برخوردارند، به پا خیزند و بسیج شوند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260924-live-iran-s-president-says-us-must-choose-whether-to-end-war",
+      "pubDate": "Fri, 25 Sep 2026 17:35:26 GMT",
+      "time": "۲۱:۰۵ - ۳ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-26T02:31:26.752Z"
+    },
+    {
+      "id": "france24_81286dc7fc",
+      "agencyId": "france24",
+      "title": "🔴 Live: Pope Leo arrives at Notre-Dame after greeting crowds on 'popemobile' procession through Paris",
+      "title_fa": "پاپ لئو پس از استقبال جمعی در پاریس وارد کلیسای نوتردام شد",
+      "lead": "پاپ لئو پس از عبور از میان جمعیت و استقبال آن‌ها در قالب یک رژه با خودروی ویژه پاپ در پاریس، وارد کلیسای جامع نوتردام شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/europe/20260925-live-pope-france-first-state-visit-18-years",
+      "pubDate": "Fri, 25 Sep 2026 14:55:33 GMT",
+      "time": "۱۸:۲۵ - ۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-26T02:31:26.752Z"
     }
   ]
 }
