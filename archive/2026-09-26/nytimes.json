@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_e632088de4",
@@ -268,6 +268,46 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-26T15:32:13.996Z"
+    },
+    {
+      "id": "nytimes_0c2be84d23",
+      "agencyId": "nytimes",
+      "title": "Trump Rejects Iranian Proposal for Cease-Fire and Opening of Strait",
+      "title_fa": "ترامپ پیشنهاد ایران برای آتش‌بس و بازگشایی تنگه را رد کرد",
+      "lead": "رئیس‌جمهور آمریکا اعلام کرد که این توافق «قابل قبول» نبوده و درباره اینکه آیا پس از انتخابات میان‌دوره‌ای حملات نظامی را از سر خواهد گرفت یا خیر، ابراز تردید کرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
+      "pubDate": "Sat, 26 Sep 2026 15:54:19 +0000",
+      "time": "۱۹:۲۴ - ۴ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "sentiment": 20,
+        "negative": 70,
+        "neutral": 20
+      },
+      "analyzed_at": "2026-09-26T16:01:47.088Z"
+    },
+    {
+      "id": "nytimes_daa1e5953e",
+      "agencyId": "nytimes",
+      "title": "Netanyahu Said to Have Been Warned by Emirati Leader About Hamas Attack Before Oct. 7",
+      "title_fa": "گفته می‌شود رهبر امارات پیش از ۷ اکتبر به نتانیاهو درباره حمله حماس هشدار داده بود",
+      "lead": "به گفته مقامات اسرائیلی، هشدار رهبر امارات متحده عربی که فاقد جزئیات مشخص درباره ماهیت حمله بود، هرگز به دست روسای تشکیلات امنیتی اسرائیل نرسید.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html",
+      "pubDate": "Fri, 25 Sep 2026 17:15:17 +0000",
+      "time": "۲۰:۴۵ - ۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "sentiment": 15,
+        "negative": 80,
+        "neutral": 15
+      },
+      "analyzed_at": "2026-09-26T16:01:47.088Z"
     }
   ]
 }
