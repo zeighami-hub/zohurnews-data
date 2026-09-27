@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "agencyId": "guardian",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "guardian_5714113c1a",
@@ -97,6 +97,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-26T09:16:48.774Z"
+    },
+    {
+      "id": "guardian_45f4407966",
+      "agencyId": "guardian",
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "title_fa": "طوفان سهمگین پولو به سمت منطقه باخا کالیفرنیا در مکزیک در حرکت است",
+      "lead": "این طوفان که به عنوان دومین طوفان شدید ثبت‌شده در این منطقه با آب‌های به‌طور استثنایی گرم اقیانوس آرام تغذیه می‌شود، به سمت باخا کالیفرنیا در مکزیک یورش می‌برد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "pubDate": "Fri, 25 Sep 2026 10:28:45 GMT",
+      "time": "۱۳:۵۸ - ۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-26T11:02:09.820Z"
+    },
+    {
+      "id": "guardian_ad2f649ca7",
+      "agencyId": "guardian",
+      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+      "title_fa": "یکی از مقام‌های ارشد پلیس آفریقای جنوبی به اتهام تجاوز به یک زن ۱۸ ساله و اغفال دختری ۱۶ ساله متهم شد",
+      "lead": "بازداشت شادراک سیبیا در شرایطی انجام می‌شود که این کشور همچنان با پرونده‌های زن‌کشی و ادعاهای مربوط به فساد و جرایم در پلیس دست‌وپنجه نرم می‌کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+      "pubDate": "Wed, 23 Sep 2026 09:38:06 GMT",
+      "time": "۱۳:۰۸ - ۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-26T11:02:09.820Z"
     }
   ]
 }
