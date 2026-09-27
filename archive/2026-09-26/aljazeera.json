@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "aljazeera_05121032a6",
@@ -21,6 +21,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-26T00:16:20.139Z"
+    },
+    {
+      "id": "aljazeera_ab0748a1b9",
+      "agencyId": "aljazeera",
+      "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+      "title_fa": "طرح ایران به آمریکا برای بازگشایی تنگه هرمز ظرف هفت روز",
+      "lead": "وزیر امور خارجه ایران اعلام کرد که تصمیم‌گیری درباره پذیرش پیشنهاد هفت‌روزه برای بازگشایی تنگه هرمز بر عهده ایالات متحده است.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+      "pubDate": "Sat, 26 Sep 2026 00:00:00 +0000",
+      "time": "۰۳:۳۰ - ۴ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-26T00:31:30.644Z"
+    },
+    {
+      "id": "aljazeera_4e5235959d",
+      "agencyId": "aljazeera",
+      "title": "US court rules against Kalshi, says states can regulate prediction markets",
+      "title_fa": "رأی دادگاه آمریکا علیه کالشی؛ ایالت‌ها می‌توانند بازارهای پیش‌بینی را ضابطه‌مند کنند",
+      "lead": "دادگاه‌های تجدیدنظر ایالات متحده نظرات متفاوتی درباره تنظیم‌گری بازارهای پیش‌بینی ابراز کرده‌اند که این امر راه را برای بررسی دیوان عالی کشور هموار می‌کند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss",
+      "pubDate": "Fri, 25 Sep 2026 23:56:46 +0000",
+      "time": "۰۳:۲۶ - ۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-26T00:31:30.644Z"
     }
   ]
 }
