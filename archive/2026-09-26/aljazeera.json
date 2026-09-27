@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
   "agencyId": "aljazeera",
-  "total": 63,
+  "total": 65,
   "articles": [
     {
       "id": "aljazeera_05121032a6",
@@ -1199,6 +1199,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-26T17:31:45.218Z"
+    },
+    {
+      "id": "aljazeera_c14511f067",
+      "agencyId": "aljazeera",
+      "title": "Iraq seeks US exemption from ban on Iranian flights",
+      "title_fa": "درخواست عراق از آمریکا برای معافیت از ممنوعیت پروازهای ایرانی",
+      "lead": "دولت علی الزیدی خواستار گفتگو برای کاهش تنش‌های منطقه‌ای در سایه تحریم‌های آمریکا علیه خطوط هوایی ایران شد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
+      "pubDate": "Sat, 26 Sep 2026 17:35:11 +0000",
+      "time": "۲۱:۰۵ - ۴ مهر",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-26T18:01:49.753Z"
+    },
+    {
+      "id": "aljazeera_c60d1818e9",
+      "agencyId": "aljazeera",
+      "title": "Trump rejects combining US-China AI efforts",
+      "title_fa": "مخالفت ترامپ با ادغام تلاش‌های هوش مصنوعی میان آمریکا و چین",
+      "lead": "رئیس‌جمهور آمریکا اعلام کرد که نگرانی‌های مطرح‌شده پیرامون هوش مصنوعی تنها «شایعه» است.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
+      "pubDate": "Sat, 26 Sep 2026 17:39:18 +0000",
+      "time": "۲۱:۰۹ - ۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-26T18:01:49.753Z"
     }
   ]
 }
