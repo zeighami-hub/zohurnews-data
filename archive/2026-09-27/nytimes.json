@@ -1,7 +1,7 @@
 {
   "date": "2026-09-27",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_1393d63003",
@@ -78,6 +78,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-27T04:16:34.647Z"
+    },
+    {
+      "id": "nytimes_89eea8278d",
+      "agencyId": "nytimes",
+      "title": "Leo XIV, Trying to Be Everyone’s Pope, Tours Secular France",
+      "title_fa": "پاپ لئو چهاردهم در تلاش برای تبدیل شدن به پاپ همه، از فرانسه سکولار بازدید می‌کند",
+      "lead": "پس از بازدید از آفریقا، سفر چهار روزه پاپ لئو به فرانسه نشان می‌دهد که او چگونه به دنبال جذابیت هم برای کانون‌های اصلی کاتولیک روم و هم برای پایگاه‌های جدید این کلیسا است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html",
+      "pubDate": "Fri, 25 Sep 2026 15:38:35 +0000",
+      "time": "۱۹:۰۸ - ۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-27T04:46:36.442Z"
+    },
+    {
+      "id": "nytimes_ce7d1ae044",
+      "agencyId": "nytimes",
+      "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
+      "title_fa": "شی جین پینگ در نشست سران به دنبال تغییر موضع ترامپ درباره جایگاه آمریکا در آسیا بود",
+      "lead": "رهبر چین در جریان گفتگوهای خود با رئیس‌جمهور آمریکا از ابزارهایی چون تمجید، هشدار و تاریخ دوران جنگ استفاده کرد تا حمایت آمریکا از تایوان and ژاپن را به چالش بکشد.",
+      "category": "military",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
+      "pubDate": "Sat, 26 Sep 2026 21:31:57 +0000",
+      "time": "۰۱:۰۱ - ۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-27T04:31:47.089Z"
     }
   ]
 }
