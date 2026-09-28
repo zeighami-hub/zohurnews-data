@@ -1,7 +1,7 @@
 {
   "date": "2026-09-27",
   "agencyId": "bbc",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "bbc_cce10c63c6",
@@ -211,6 +211,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-27T08:46:50.710Z"
+    },
+    {
+      "id": "bbc_543b2ecd8d",
+      "agencyId": "bbc",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "title_fa": "لولا، رئیس‌جمهور برزیل، قمار آنلاین را در آستانه انتخابات ریاست‌جمهوری ممنوع کرد",
+      "lead": "لولا که در رقابت انتخاباتی تنگاتنگی با فلاویو بولسونارو قرار دارد، صنعت قمار آنلاین را یک «سرطان» توصیف کرد که باید آن را ریشه‌کن کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 26 Sep 2026 15:46:40 GMT",
+      "time": "۱۹:۱۶ - ۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 30,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-27T09:16:53.121Z"
+    },
+    {
+      "id": "bbc_99a9cef205",
+      "agencyId": "bbc",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "title_fa": "«برف ابدی» ارزشمند در این جزیره استوایی در آستانه ناپدید شدن همیشگی",
+      "lead": "تغییرات اقلیمی در حال دگرگون کردن قله‌های برفی پاپوآ است؛ قله‌هایی که دارای ارزش علمی و اهمیت معنوی بالایی هستند.",
+      "category": "environment",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 22:12:48 GMT",
+      "time": "۰۱:۴۲ - ۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-27T09:16:53.121Z"
     }
   ]
 }
