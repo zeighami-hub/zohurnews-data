@@ -1,7 +1,7 @@
 {
   "date": "2026-09-27",
   "agencyId": "nytimes",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_1393d63003",
@@ -154,6 +154,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-27T09:31:58.733Z"
+    },
+    {
+      "id": "nytimes_68f45f5df9",
+      "agencyId": "nytimes",
+      "title": "This Tiny Village Is Picture Perfect, Apart From All the Tourists",
+      "title_fa": "این روستای کوچک کاملاً بی‌نقص است، به جز حضور تمامی گردشگران",
+      "lead": "ساکنان روستای ولکولینِتس در اسلواکی که تعدادشان تنها به ۱۷ نفر می‌رسد، می‌گویند از زمانی که این مکان به عنوان میراث جهانی ثبت شده، هجوم گردشگران کنجکاو آنجا را غیرقابل سکونت کرده است.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/25/world/europe/slovakia-village-tourism.html",
+      "pubDate": "Fri, 25 Sep 2026 17:33:53 +0000",
+      "time": "۲۱:۰۳ - ۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-27T09:46:49.142Z"
+    },
+    {
+      "id": "nytimes_875add3ef2",
+      "agencyId": "nytimes",
+      "title": "Russian Attacks Destroy Millions of Books, the Heart of Ukrainian Culture",
+      "title_fa": "حملات روسیه میلیون‌ها کتاب را که قلب فرهنگ اوکراین هستند، نابود کرد",
+      "lead": "یک ناشر که انبارش دو بار هدف حمله قرار گرفته است، گفت مسکو «فکر می‌کند کتاب‌ها برای آن‌ها خطرناک‌تر از تجهیزات نظامی هستند».",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/25/world/europe/russia-ukraine-books-attacks.html",
+      "pubDate": "Fri, 25 Sep 2026 09:01:18 +0000",
+      "time": "۱۲:۳۱ - ۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-27T09:46:49.142Z"
     }
   ]
 }
