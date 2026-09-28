@@ -1,7 +1,7 @@
 {
   "date": "2026-09-27",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_1393d63003",
@@ -192,6 +192,63 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-27T09:46:49.142Z"
+    },
+    {
+      "id": "nytimes_2e00a3e85f",
+      "agencyId": "nytimes",
+      "title": "UK Deploys Bomb Squad Near R.A.F. Fairford, Air Base Used by US",
+      "title_fa": "استقرار تیم خنثی‌سازی بمب بریتانیا در نزدیکی پایگاه هوایی فرسفورد",
+      "lead": "پلیس بریتانیا اعلام کرد که چندین مرد را به ظن ارتکاب جرایم مرتبط با قوانین مواد منفجره دستگیر کرده و ساکنان محلی را در نزدیکی پایگاه هوایی آر.ای.اف فرسفورد که توسط ایالات متحده استفاده می‌شود، تخلیه کرده است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
+      "pubDate": "Sun, 27 Sep 2026 10:49:24 +0000",
+      "time": "۱۴:۱۹ - ۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 55,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-27T11:02:09.971Z"
+    },
+    {
+      "id": "nytimes_b34c523f58",
+      "agencyId": "nytimes",
+      "title": "He Ran a Top Lady Gaga Fan Page. Then He Vanished.",
+      "title_fa": "مدیر یک صفحه هواداری برجسته لیدی گاگا ناپدید شد و سپس بازگشت",
+      "lead": "کیریل نگوین، بنیان‌گذار وب‌سایت «گاگا دیلی»، اعلام کرد که به دلیل شرکت در اعتراضات طرفدار دمکراسی در بلاروس زندانی شده بوده است. او این هفته پس از غیبتی بیش از دو ساله دوباره آفتابی شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/26/world/europe/lady-gaga-daily-founder-belarus-prison.html",
+      "pubDate": "Sun, 27 Sep 2026 01:28:44 +0000",
+      "time": "۰۴:۵۸ - ۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-27T11:02:09.971Z"
+    },
+    {
+      "id": "nytimes_709add00dd",
+      "agencyId": "nytimes",
+      "title": "Special Edition: Our Interview With Mark Carney",
+      "title_fa": "نسخه ویژه: مصاحبه ما با مارک کارنی",
+      "lead": "ده خبرنگار و ویراستار روزنامه نیویورک تایمز روز چهارشنبه به مدت یک ساعت در دفتر این نشریه با نخست‌وزیر کانادا مصاحبه کردند. در این مطلب نکات آموخته شده از این گفتگو بازگو شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/26/world/canada/carney-interview-canada-us-trump-trade.html",
+      "pubDate": "Sat, 26 Sep 2026 10:00:08 +0000",
+      "time": "۱۳:۳۰ - ۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-27T11:02:09.971Z"
     }
   ]
 }
