@@ -1,7 +1,7 @@
 {
   "date": "2026-09-27",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 19,
   "articles": [
     {
       "id": "nytimes_1393d63003",
@@ -306,6 +306,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-27T13:03:01.473Z"
+    },
+    {
+      "id": "nytimes_0c2be84d23",
+      "agencyId": "nytimes",
+      "title": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
+      "title_fa": "ترامپ پیشنهاد آتش‌بس ایران برای بازگشایی تنگه هرمز را رد کرد",
+      "lead": "رئیس‌جمهور آمریکا اعلام کرد که این توافق «قابل قبول» نبوده و در خصوص از سرگیری حملات نظامی پس از انتخابات میان‌دوره‌ای اظهار نظری نکرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
+      "pubDate": "Sat, 26 Sep 2026 21:02:42 +0000",
+      "time": "۰۰:۳۲ - ۵ مهر",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-27T16:16:45.281Z"
+    },
+    {
+      "id": "nytimes_daa1e5953e",
+      "agencyId": "nytimes",
+      "title": "Netanyahu Said to Have Been Warned by Emirati Leader About Hamas Attack Before Oct. 7",
+      "title_fa": "گفته می شود رهبر امارات پیش از ۷ اکتبر درباره حمله حماس به نتانیاهو هشدار داده بود",
+      "lead": "به گفته مقام های اسرائیلی، این هشدار از سوی رهبر امارات متحده عربی که فاقد جزئیات دقیق درباره ماهیت حمله بود، هرگز به رئیسان تشکیلات امنیتی اسرائیل نرسید.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html",
+      "pubDate": "Fri, 25 Sep 2026 17:15:17 +0000",
+      "time": "۲۰:۴۵ - ۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-27T16:16:45.281Z"
+    },
+    {
+      "id": "nytimes_c2e5a2f243",
+      "agencyId": "nytimes",
+      "title": "Evicted 87-Year-Old Woman Urges Spaniards to ‘Fight’ to Avoid Same Fate",
+      "title_fa": "زن ۸۷ ساله تخلیه‌شده از خانه، از اسپانیایی‌ها خواست برای جلوگیری از سرنوشت مشابه «مبارزه» کنند",
+      "lead": "ماریا دل کارمن آباسکال، که پرونده‌اش به نمادی از بحران مسکن در اسپانیا تبدیل شده، پس از بیرون رانده شدن از آپارتمان خود، ویدیویی از روی تخت بیمارستان منتشر کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/25/world/europe/spain-eviction-housing-crisis.html",
+      "pubDate": "Sat, 26 Sep 2026 22:22:12 +0000",
+      "time": "۰۱:۵۲ - ۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-27T16:02:36.872Z"
     }
   ]
 }
