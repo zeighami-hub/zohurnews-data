@@ -1,7 +1,7 @@
 {
   "date": "2026-09-27",
   "agencyId": "aljazeera",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "aljazeera_51363bce0f",
@@ -78,6 +78,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-27T01:46:22.977Z"
+    },
+    {
+      "id": "aljazeera_617231f097",
+      "agencyId": "aljazeera",
+      "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
+      "title_fa": "آیا مهم‌ترین هفته دیپلماسی پیشرفتی در پایان دادن به جنگ ایالات متحده و ایران ایجاد کرد؟",
+      "lead": "مجمع عمومی سازمان ملل متحد با نتایج دیپلماتیک مختلطی به کار خود پایان داد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/27/did-the-biggest-week-of-diplomacy-make-headway-in-ending-the-us-iran-war?traffic_source=rss",
+      "pubDate": "Sun, 27 Sep 2026 01:59:17 +0000",
+      "time": "۰۵:۲۹ - ۵ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-27T02:16:23.076Z"
+    },
+    {
+      "id": "aljazeera_fd35610c5e",
+      "agencyId": "aljazeera",
+      "title": "Venezuela frees 39 political prisoners after post-Maduro talks",
+      "title_fa": "ونزوئلا ۳۹ زندانی سیاسی را پس از گفتگوهای دوران پس از مادورو آزاد کرد",
+      "lead": "این آزادی‌ها به دنبال دومین دور مذاکرات میان دولت موقت ونزوئلا و اپوزیسیون انجام شد.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/27/venezuela-frees-39-political-prisoners-after-post-maduro-talks?traffic_source=rss",
+      "pubDate": "Sun, 27 Sep 2026 01:42:46 +0000",
+      "time": "۰۵:۱۲ - ۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-27T02:01:36.370Z"
     }
   ]
 }
