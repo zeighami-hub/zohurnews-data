@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "agencyId": "bbc",
-  "total": 10,
+  "total": 11,
   "articles": [
     {
       "id": "bbc_b779baa9ff",
@@ -192,6 +192,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-28T08:46:44.358Z"
+    },
+    {
+      "id": "bbc_2bce2b27f2",
+      "agencyId": "bbc",
+      "title": "Two mass shootings in South Africa leave 28 dead",
+      "title_fa": "دو تیراندازی جمعی در آفریقای جنوبی ۲۸ کشته بر جای گذاشت",
+      "lead": "این دو حمله که به فاصله چند ساعت از یکدیگر رخ دادند، در حالی انجام می‌شود که این کشور با خشونت‌های مسلحانه مرتبط با باندها دست و پنجه نرم می‌کند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 28 Sep 2026 06:46:03 GMT",
+      "time": "۱۰:۱۶ - ۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 15,
+        "negative": 85
+      },
+      "analyzed_at": "2026-09-28T09:17:02.372Z"
     }
   ]
 }
