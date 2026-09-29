@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 20,
   "articles": [
     {
       "id": "nytimes_1393d63003",
@@ -287,6 +287,101 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-28T15:49:31.215Z"
+    },
+    {
+      "id": "nytimes_f58780e964",
+      "agencyId": "nytimes",
+      "title": "Over 800 Killed in Renewed Houthi-Saudi War in Yemen, W.H.O. Says",
+      "title_fa": "سازمان جهانی بهداشت: بیش از ۸۰۰ نفر در جنگ مجدد حوثی‌ها و سعودی‌ها در یمن کشته شدند",
+      "lead": "سازمان جهانی بهداشت اعلام کرد درگیری میان شبه‌نظامیان حوثی تحت حمایت ایران و نیروهای دولتی تحت حمایت عربستان سعودی، یکی از بدترین بحران‌های بشری جهان را تشدید کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/28/world/middleeast/yemen-war-800-dead.html",
+      "pubDate": "Mon, 28 Sep 2026 16:20:37 +0000",
+      "time": "۱۹:۵۰ - ۶ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-28T18:35:04.517Z"
+    },
+    {
+      "id": "nytimes_da44fa0c9d",
+      "agencyId": "nytimes",
+      "title": "Iran Still Awaits ‘Official’ U.S. Response Despite Trump’s Rebuff of Cease-Fire Offer",
+      "title_fa": "ایران علیرغم رد پیشنهاد آتش‌بس توسط ترامپ، همچنان منتظر پاسخ «رسمی» ایالات متحده است",
+      "lead": "عباس عراقچی، وزیر امور خارجه ایران، گفت که سابقه پیام‌های متناقض به این معناست که ممکن است رد پیشنهاد توسط رئیس‌جمهور ترامپ موضع نهایی نباشد.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
+      "pubDate": "Sun, 27 Sep 2026 21:36:22 +0000",
+      "time": "۰۱:۰۶ - ۶ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-28T18:35:04.517Z"
+    },
+    {
+      "id": "nytimes_2856ef73a1",
+      "agencyId": "nytimes",
+      "title": "3 Egyptian Officials Convicted of Kidnapping Slain Italian Student",
+      "title_fa": "سه مقام مصری به ادم ربایی دانشجوی مقتول ایتالیایی محکوم شدند",
+      "lead": "این حکم به دنبال یک دهه تلاش در ایتالیا برای روشن شدن ابعاد قتل جولیو رجنی، پژوهشگر ایتالیایی که در سال ۲۰۱۶ در قاهره ناپدید شد، صادر شد. دادگاه سه مقام مصری را در این رابطه گناهکار شناخت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/28/world/europe/italy-egypt-giulio-regeni-verdict.html",
+      "pubDate": "Mon, 28 Sep 2026 18:21:49 +0000",
+      "time": "۲۱:۵۱ - ۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-28T18:35:04.517Z"
+    },
+    {
+      "id": "nytimes_f49b405c7a",
+      "agencyId": "nytimes",
+      "title": "Russian Drone Strikes Ukraine’s Science Academy, Causing Fire in City Center",
+      "title_fa": "حمله پهپادی روسیه به آکادمی علوم اوکراین باعث آتش‌سوزی در مرکز شهر شد",
+      "lead": "یک فروند پهپاد جت‌سوز روسی به آکادمی ملی علوم اوکراین، که منبع تقریباً تمامی اکتشافات بزرگ علمی این کشور است، اصابت کرد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html",
+      "pubDate": "Mon, 28 Sep 2026 17:10:20 +0000",
+      "time": "۲۰:۴۰ - ۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-28T18:35:04.517Z"
+    },
+    {
+      "id": "nytimes_f0c75eb3cb",
+      "agencyId": "nytimes",
+      "title": "German Town Votes to Stop Adding Memorials Outside Homes of Slain Jews",
+      "title_fa": "رأی شورای یک شهر آلمانی به توقف نصب یادبودها در بیرون خانه‌های یهودیان کشته‌شده",
+      "lead": "اعضای شورای شهر در شرق آلمان رأی دادند که نصب پلاک‌های یادبود در بیرون خانه‌های قربانیان هولوکاست متوقف شود و در عوض یادبودی در یک گورستان ساخته شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/28/world/europe/germany-stumbling-stones-holocaust-memorial-ban.html",
+      "pubDate": "Mon, 28 Sep 2026 16:46:58 +0000",
+      "time": "۲۰:۱۶ - ۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 70,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-28T18:35:04.517Z"
     }
   ]
 }
