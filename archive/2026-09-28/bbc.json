@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "bbc_b779baa9ff",
@@ -154,6 +154,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-28T08:17:09.823Z"
+    },
+    {
+      "id": "bbc_ebec085e19",
+      "agencyId": "bbc",
+      "title": "Trump-Xi summit: What wasn't said might matter the most",
+      "title_fa": "نشست سران ترامپ و شی؛ آنچه گفته نشد ممکن است مهم‌ترین بخش باشد",
+      "lead": "بخش قابل توجه نشست سران در واشنگتن ممکن است مربوط به مواردی باشد که دو رهبر به زبان نیاوردند و هنوز برای ما نامعلوم است.",
+      "category": "diplomacy",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 28 Sep 2026 07:52:23 GMT",
+      "time": "۱۱:۲۲ - ۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-28T08:46:44.358Z"
+    },
+    {
+      "id": "bbc_32d6693744",
+      "agencyId": "bbc",
+      "title": "Watch: Madonna and Taylor Swift win big at the MTV VMAs",
+      "title_fa": "تماشا کنید: مدونا و تیلور سویفت برندگان بزرگ جوایز ویدیو موزیک ام‌تی‌وی",
+      "lead": "تیلور سویفت، مدونا و لیسا از جمله برندگان بزرگ جوایز ویدیو موزیک ام‌تی‌وی (VMAs) در شامگاه یکشنبه در مرکز لس‌آنجلس بودند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 28 Sep 2026 06:22:52 GMT",
+      "time": "۰۹:۵۲ - ۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-28T08:46:44.358Z"
     }
   ]
 }
