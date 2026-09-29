@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_1393d63003",
@@ -458,6 +458,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-28T20:47:31.441Z"
+    },
+    {
+      "id": "nytimes_df928f3e00",
+      "agencyId": "nytimes",
+      "title": "The Voices Behind ‘Made in China’",
+      "title_fa": "صداهای پشت برچسب «ساخت چین»",
+      "lead": "در شرایطی که اقتصاد چین با چالش روبه‌رو است، روایت‌های طبقه کارگر این کشور بازخورد و توجه زیادی به خود جلب کرده است.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/28/world/china-workers-poetry-pope-leo.html",
+      "pubDate": "Mon, 28 Sep 2026 20:43:41 +0000",
+      "time": "۰۰:۱۳ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-28T21:17:01.975Z"
+    },
+    {
+      "id": "nytimes_3120dab7d2",
+      "agencyId": "nytimes",
+      "title": "A Growing North Korea Problem",
+      "title_fa": "چالش رو به رشد کره شمالی",
+      "lead": "رئیس‌جمهور کره جنوبی در مصاحبه با نیویورک تایمز، پیشنهاد تازه‌ای را برای مهار برنامه هسته‌ای کره شمالی مطرح کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html",
+      "pubDate": "Mon, 28 Sep 2026 05:04:21 +0000",
+      "time": "۰۸:۳۴ - ۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-28T21:17:01.975Z"
     }
   ]
 }
