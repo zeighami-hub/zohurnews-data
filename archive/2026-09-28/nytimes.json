@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_1393d63003",
@@ -230,6 +230,25 @@
         "negative": 33
       },
       "analyzed_at": "2026-09-28T10:16:51.866Z"
+    },
+    {
+      "id": "nytimes_2e00a3e85f",
+      "agencyId": "nytimes",
+      "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
+      "title_fa": "پنج نفر به ظن تروریسم در نزدیکی پایگاه هوایی RAF Fairford در بریتانیا دستگیر شدند",
+      "lead": "پلیس مبارزه با تروریسم بریتانیا اعلام کرد که این مردان پس از آن دستگیر شدند که سه خودروی مشکوک اوایل روز یکشنبه به سمت پایگاه هوایی فرفرد در حرکت بودند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
+      "pubDate": "Sun, 27 Sep 2026 20:20:20 +0000",
+      "time": "۲۳:۵۰ - ۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-28T11:17:08.963Z"
     }
   ]
 }
