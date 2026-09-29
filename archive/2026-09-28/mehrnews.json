@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
   "agencyId": "mehrnews",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "mehrnews_3a85f3d058",
@@ -192,6 +192,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-28T06:47:37.100Z"
+    },
+    {
+      "id": "mehrnews_8a62dd29f3",
+      "agencyId": "mehrnews",
+      "title": "Iran controls both sides of Strait of Hormuz: Top army cmdr.",
+      "title_fa": "ایران بر هر دو سوی تنگه هرمز تسلط دارد",
+      "lead": "معاون هماهنگ‌کننده ارتش جمهوری اسلامی ایران اعلام کرد که نیروهای مسلح قدرتمند کشور بر هر دو سوی تنگه راهبردی هرمز تسلط کامل دارند.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248145/Iran-controls-both-sides-of-Strait-of-Hormuz-Top-army-cmdr",
+      "pubDate": "Mon, 28 Sep 2026 07:21:11 GMT",
+      "time": "۱۰:۵۱ - ۶ مهر",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-28T07:32:12.017Z"
+    },
+    {
+      "id": "mehrnews_96959c2598",
+      "agencyId": "mehrnews",
+      "title": "12 teens wounded in a shootout at a birthday party in Georgia",
+      "title_fa": "زخمی شدن ۱۲ نوجوان در تیراندازی طی یک جشن تولد در جورجیا",
+      "lead": "به گفته یک کلانتر، در جریان تیراندازی متقابل میان دو گروه در یک جشن تولد در پارک شهری در ایالت جورجیا، ۱۲ نوجوان دچار جراحات ناشی از گلوله شدند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248144/12-teens-wounded-in-a-shootout-at-a-birthday-party-in-Georgia",
+      "pubDate": "Mon, 28 Sep 2026 07:02:04 GMT",
+      "time": "۱۰:۳۲ - ۶ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-28T07:17:31.472Z"
     }
   ]
 }
