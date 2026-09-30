@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "nytimes",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_1fc75ccca1",
@@ -439,6 +439,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-29T18:17:00.313Z"
+    },
+    {
+      "id": "nytimes_5afe6c143e",
+      "agencyId": "nytimes",
+      "title": "Turkish Confectioner Hands Out Doughnuts to Honor the Dead",
+      "title_fa": "شیرینی‌پز ترک برای گرامیداشت درگذشتگان پیراشکی توزیع می‌کند",
+      "lead": "در ترکیه، افرادی کهست عزیزان خود را از دست داده‌اند، شیرینی‌پزها را برای توزیع گلوله‌های خمیر سرخ‌شده موسوم به لوکما استخدام می‌کنند تا یاد درگذشتگان را گرامی بدارند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/video/world/asia/100000011182398/turkey-doughnuts-lokma-honor-dead.html",
+      "pubDate": "Tue, 29 Sep 2026 18:51:22 +0000",
+      "time": "۲۲:۲۱ - ۷ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-29T19:02:42.987Z"
+    },
+    {
+      "id": "nytimes_df68159da3",
+      "agencyId": "nytimes",
+      "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+      "title_fa": "آکادمی علوم اوکراین که هدف حمله پهپادی قرار گرفت، نقش کلیدی در تحقیقات داشت",
+      "lead": "بیش از ۹۰ درصد اکتشافات علمی اوکراین، از جمله پیشرفت‌ها در زمینه ستاره‌شناسی و فناوری نظامی، به آکادمی ملی علوم این کشور نسبت داده می‌شود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+      "pubDate": "Tue, 29 Sep 2026 18:45:01 +0000",
+      "time": "۲۲:۱۵ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-29T19:02:42.987Z"
     }
   ]
 }
