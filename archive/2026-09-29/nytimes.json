@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_1fc75ccca1",
@@ -211,6 +211,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-09-29T09:16:54.876Z"
+    },
+    {
+      "id": "nytimes_f7d7ebd837",
+      "agencyId": "nytimes",
+      "title": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It",
+      "title_fa": "ترامپ طلای ونزوئلا را به آمریکا آورد، اما پالایشگاه‌ها حاضر به لمس آن نیستند",
+      "lead": "دولت در حال میانجی‌گری در قراردادهایی در یک صنعت به شدت فاسد است، از جمله توافقی با شرکتی که ایالات متحده آن را یک تهدید امنیتی می‌داند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
+      "pubDate": "Mon, 28 Sep 2026 18:43:58 +0000",
+      "time": "۲۲:۱۳ - ۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-29T09:46:53.185Z"
+    },
+    {
+      "id": "nytimes_aa800e5aa9",
+      "agencyId": "nytimes",
+      "title": "Their Sons Are Dying on Battlefields in Ukraine. They Still Back Russia’s War.",
+      "title_fa": "پسرانشان در میدان‌های جنگ اوکراین جان می‌دهند، اما همچنان از جنگ روسیه حمایت می‌کنند",
+      "lead": "منطقه روسی اوستیای شمالی تلفات سنگینیتحمل کرده است، با این حال بسیاری از مردم خط فکری کرملین را مبنی بر اینکه جنگ باید تا زمان دستیابی به پیروزی ادامه یابد، می‌پذیرند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html",
+      "pubDate": "Mon, 28 Sep 2026 17:11:27 +0000",
+      "time": "۲۰:۴۱ - ۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-29T09:46:53.185Z"
     }
   ]
 }
