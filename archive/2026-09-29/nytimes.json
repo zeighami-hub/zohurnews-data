@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 28,
   "articles": [
     {
       "id": "nytimes_1fc75ccca1",
@@ -477,6 +477,63 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-29T19:02:42.987Z"
+    },
+    {
+      "id": "nytimes_b3bc617250",
+      "agencyId": "nytimes",
+      "title": "The Latin American Right’s Big Bet",
+      "title_fa": "قمار بزرگ راست‌گرایان آمریکای لاتین",
+      "lead": "دولت ترامپ سطوح جدیدی از کنترل را بر این منطقه اعمال می‌کند و این پرسش مطرح است که اقدام بعدی چه خواهد بود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/latin-america-brazil-election-trump-openai.html",
+      "pubDate": "Tue, 29 Sep 2026 20:52:14 +0000",
+      "time": "۰۰:۲۲ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-29T21:01:54.354Z"
+    },
+    {
+      "id": "nytimes_1c54145aae",
+      "agencyId": "nytimes",
+      "title": "Morocco’s King Names a Female Prime Minister, in a Historic First",
+      "title_fa": "پادشاه مراکش برای نخستین بار یک زن را به عنوان نخست‌وزیر منصوب کرد",
+      "lead": "فاطمه الزهرا المنصوری، وکیل و سیاستمدار حزب میانه‌روی اصالت و مدرنیته، تنها دومین زنی است که رهبری دولت یک کشور در شمال آفریقا را بر عهده می‌گیرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/middleeast/morocco-first-woman-prime-minister.html",
+      "pubDate": "Tue, 29 Sep 2026 20:40:30 +0000",
+      "time": "۰۰:۱۰ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-29T20:46:47.965Z"
+    },
+    {
+      "id": "nytimes_c8649a669f",
+      "agencyId": "nytimes",
+      "title": "No Bombs Found in U.K. Case, but Officials Say Threat to Bases Is Real",
+      "title_fa": "مقام‌ها می‌گویند تهدید علیه پایگاه‌های نظامی در بریتانیا واقعی است",
+      "lead": "چشم‌انداز حمله به یک پایگاه هوایی مورد استفاده نیروهای آمریکایی منجر به افزایش سطح حفاظت در سراسر اروپا شد، با این حال ابهاماتی پیرامون این پرونده که در آن مظنونان به قید وثیقه آزاد شده‌اند، وجود دارد.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/europe/britain-air-base-iran-threat.html",
+      "pubDate": "Tue, 29 Sep 2026 20:31:04 +0000",
+      "time": "۰۰:۰۱ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-29T20:46:47.965Z"
     }
   ]
 }
