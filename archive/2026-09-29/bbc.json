@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "bbc",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "bbc_6409417675",
@@ -21,6 +21,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-29T00:16:24.973Z"
+    },
+    {
+      "id": "bbc_11dcd861ee",
+      "agencyId": "bbc",
+      "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+      "title_fa": "فرماندار تنسی درخواست عفو کریستا پایک را در آستانه اجرای حکم اعدام رد کرد",
+      "lead": "در صورت اجرای این حکم، پایک نخستین زنی خواهد بود که پس از بیش از ۲۰۰ سال در ایالت تنسی اعدام می‌شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 28 Sep 2026 22:27:33 GMT",
+      "time": "۰۱:۵۷ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-29T00:46:25.894Z"
+    },
+    {
+      "id": "bbc_8d81542c8e",
+      "agencyId": "bbc",
+      "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+      "title_fa": "قتل مدیر اجرایی نیویورک تایمز به ضرب گلوله؛ بستگان سالمند متهم به پرونده شدند",
+      "lead": "پدر و مادر همسر جان مک‌کینزی که هر دو ۷۷ ساله هستند، با اتهاماتی از جمله قتل عمد درجه اول مواجه شده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 28 Sep 2026 20:50:03 GMT",
+      "time": "۰۰:۲۰ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-29T00:46:25.894Z"
     }
   ]
 }
