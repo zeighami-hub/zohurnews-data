@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "nytimes",
-  "total": 5,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_1fc75ccca1",
@@ -97,6 +97,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-29T07:16:58.894Z"
+    },
+    {
+      "id": "nytimes_02b0953e13",
+      "agencyId": "nytimes",
+      "title": "Possible Terrorist Plot at RAF Fairford Air Base in U.K.: What We Know",
+      "title_fa": "طرح احتمالی تروریستی در پایگاه هوایی آر.ای.اف فیرفورد در بریتانیا",
+      "lead": "پنج مرد بریتانیایی که در نزدیکی پایگاه هوایی آر.ای.اف فیرفورد بازداشت شده بودند، با قرار وثیقه آزاد شدند اما تحقیقات درباره آن‌ها همچنان ادامه دارد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html",
+      "pubDate": "Tue, 29 Sep 2026 07:42:10 +0000",
+      "time": "۱۱:۱۲ - ۷ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-29T07:46:55.690Z"
     }
   ]
 }
