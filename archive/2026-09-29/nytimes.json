@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_1fc75ccca1",
@@ -116,6 +116,25 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-29T07:46:55.690Z"
+    },
+    {
+      "id": "nytimes_e7cf0cc7bc",
+      "agencyId": "nytimes",
+      "title": "Bodies ‘Like Pieces of Charcoal’: Dozens Killed in Myanmar Military Bombing",
+      "title_fa": "اجسادی شبیه تکه‌های زغال؛ ده‌ها کشته در بمباران ارتش میانمار",
+      "lead": "حمله هوایی به یک بازار شلوغ در منطقه تحت کنترل شورشیان دستکم ۵۰ کشته برجای گذاشت که یکی از مرگبارترین حملات به غیرنظامیان در ماه‌های اخیر محسوب می‌شود.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html",
+      "pubDate": "Tue, 29 Sep 2026 08:48:03 +0000",
+      "time": "۱۲:۱۸ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-29T09:02:08.506Z"
     }
   ]
 }
