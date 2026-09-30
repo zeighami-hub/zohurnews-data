@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "mehrnews",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_b24fc3efad",
@@ -154,6 +154,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-29T05:02:58.175Z"
+    },
+    {
+      "id": "mehrnews_bf59e3dea0",
+      "agencyId": "mehrnews",
+      "title": "Iran continues to stand firm, defend rights relying on people",
+      "title_fa": "ایران با اتکا به مردم به ایستادگی و دفاع از حقوق خود ادامه می‌دهد",
+      "lead": "سخنگوی دولت اعلام کرد که جمهوری اسلامی ایران با اتکا به مردم نجیب خود به ایستادگی و دفاع از حقوق مسلم خویش ادامه خواهد داد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248171/Iran-continues-to-stand-firm-defend-rights-relying-on-people",
+      "pubDate": "Tue, 29 Sep 2026 05:15:53 GMT",
+      "time": "۰۸:۴۵ - ۷ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-29T05:31:50.448Z"
+    },
+    {
+      "id": "mehrnews_ee13d4e8a5",
+      "agencyId": "mehrnews",
+      "title": "Incident on USS Eisenhower leaves several injured",
+      "title_fa": "حادثه در ناوهواپیمابر آیزنهاور چند زخمی برجای گذاشت",
+      "lead": "نیروی دریایی ایالات متحده اعلام کرد که چهار تن از خدمه ناو هواپیمابر یواس‌اس دوایت دی. آیزنهاور طی یک حادثه در جریان عملیات بازیابی هواپیما در سواحل ویرجینیا مجروح شدند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/248170/Incident-on-USS-Eisenhower-leaves-several-injured",
+      "pubDate": "Tue, 29 Sep 2026 05:09:00 GMT",
+      "time": "۰۸:۳۹ - ۷ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-29T05:16:57.334Z"
     }
   ]
 }
