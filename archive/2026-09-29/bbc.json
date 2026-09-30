@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "bbc_6409417675",
@@ -59,6 +59,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-09-29T00:46:25.894Z"
+    },
+    {
+      "id": "bbc_74455c8e46",
+      "agencyId": "bbc",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "title_fa": "اوپن‌آی‌اس به دلیل نگرانی‌های امنیتی عرضه مدل جدید را متوقف کرد",
+      "lead": "مدیر ایمنی این شرکت بزرگ هوش مصنوعی اعلام کرد که مدل جدید به طور کامل استانداردهای امنیتی این شرکت را تأمین نکرده است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 29 Sep 2026 01:18:24 GMT",
+      "time": "۰۴:۴۸ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-29T01:31:36.967Z"
     }
   ]
 }
