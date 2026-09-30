@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "nytimes",
-  "total": 13,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_1fc75ccca1",
@@ -249,6 +249,63 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-29T09:46:53.185Z"
+    },
+    {
+      "id": "nytimes_fbd9d8aa17",
+      "agencyId": "nytimes",
+      "title": "Release of Suspects in U.K. Prompts New Questions Over Possible Terror Plot at RAF Fairford Base",
+      "title_fa": "آزادی مظنونان در بریتانیا پرسش‌های جدیدی درباره احتمال توطئه تروریستی در پایگاه هوایی RAF Fairford ایجاد کرد",
+      "lead": "پلیس مبارزه با تروریسم بریتانیا اعلام کرد پنج تبعه بریتانیایی که روز یکشنبه در نزدیکی پایگاه هوایی RAF Fairford دستگیر شده بودند، به قید وثیقه آزاد شده‌اند اما همچنان تحت تحقیق قرار دارند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html",
+      "pubDate": "Mon, 28 Sep 2026 20:05:26 +0000",
+      "time": "۲۳:۳۵ - ۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-29T10:31:56.788Z"
+    },
+    {
+      "id": "nytimes_83e868abd0",
+      "agencyId": "nytimes",
+      "title": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor",
+      "title_fa": "روبیو: حادثه در پایگاه هوایی بریتانیا «قطعاً یک عامل خارجی» را شامل می‌شد",
+      "lead": "مارکو روبیو، وزیر امور خارجه آمریکا، به فاکس‌نیوز گفت که رویداد رخ‌داده در پایگاهی که بمب‌افکن‌های آمریکایی در حال پرواز به سمت ایران از آن استفاده می‌کردند «بسیار جدی» بوده است، اما جزئیاتی ارائه نکرد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html",
+      "pubDate": "Tue, 29 Sep 2026 09:55:56 +0000",
+      "time": "۱۳:۲۵ - ۷ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-29T10:17:33.149Z"
+    },
+    {
+      "id": "nytimes_e16cbe797a",
+      "agencyId": "nytimes",
+      "title": "Brazil’s Biggest Election Question?: Donald Trump’s Next Move",
+      "title_fa": "بزرگترین سوال انتخابات برزیل: اقدام بعدی دونالد ترامپ چیست؟",
+      "lead": "در حالی که برزیل برای برگزاری انتخابات در ماه آینده آماده می‌شود، بزرگترین کشور آمریکای لاتین گام‌هایی را برای محافظت از دموکراسی خود در برابر مداخله احتمالی ایالات متحده برمی‌دارد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html",
+      "pubDate": "Mon, 28 Sep 2026 14:28:57 +0000",
+      "time": "۱۷:۵۸ - ۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 70,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-29T10:17:33.149Z"
     }
   ]
 }
