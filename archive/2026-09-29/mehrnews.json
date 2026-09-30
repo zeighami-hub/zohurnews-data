@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "mehrnews",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "mehrnews_b24fc3efad",
@@ -192,6 +192,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-29T05:16:57.334Z"
+    },
+    {
+      "id": "mehrnews_e0e95e0a74",
+      "agencyId": "mehrnews",
+      "title": "US miscalculation to be met with Iran’s painful response: MP",
+      "title_fa": "محاسبه اشتباه آمریکا با پاسخ دردناک ایران مواجه خواهد شد: نماینده مجلس",
+      "lead": "یک عضو ارشد مجلس شورای اسلامی اظهار داشت که هرگونه محاسبه اشتباه از سوی ایالات متحده با پاسخ دردناک و پشیمان‌کننده جمهوری اسلامی ایران مواجه خواهد شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248172/US-miscalculation-to-be-met-with-Iran-s-painful-response-MP",
+      "pubDate": "Tue, 29 Sep 2026 05:34:07 GMT",
+      "time": "۰۹:۰۴ - ۷ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-29T05:46:40.113Z"
+    },
+    {
+      "id": "mehrnews_af7fd956e3",
+      "agencyId": "mehrnews",
+      "title": "Erdogan pledges pursuit of accountability for crimes in Gaza",
+      "title_fa": "اردوغان بر پیگیری و بازخواست عاملان جنایات در غزه تأکید کرد",
+      "lead": "رئیس‌جمهور ترکیه ضمن محکوم کردن شدید جنایات علیه بشریت در غزه و سراسر منطقه، متعهد شد که دولت او عاملان این جنایات را بازخواست خواهد کرد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248173/Erdogan-pledges-pursuit-of-accountability-for-crimes-in-Gaza",
+      "pubDate": "Tue, 29 Sep 2026 05:32:12 GMT",
+      "time": "۰۹:۰۲ - ۷ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-29T05:46:40.113Z"
     }
   ]
 }
