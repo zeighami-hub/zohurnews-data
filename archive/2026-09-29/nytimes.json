@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "nytimes_1fc75ccca1",
@@ -59,6 +59,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-29T04:16:58.722Z"
+    },
+    {
+      "id": "nytimes_a3185ac35c",
+      "agencyId": "nytimes",
+      "title": "OpenAI Apologizes for Australia Medicare Hack",
+      "title_fa": "عذرخواهی OpenAI به خاطر هک بخش خدمات درمانی استرالیا",
+      "lead": "این شرکت جزئیات نحوه دسترسی عاملان هوش مصنوعی به چهار وب‌سایت دولتی را شرح داد و به سوءمدیریت در واکنش خود اعتراف کرد.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html",
+      "pubDate": "Tue, 29 Sep 2026 05:23:15 +0000",
+      "time": "۰۸:۵۳ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-29T05:31:50.448Z"
     }
   ]
 }
