@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "france24",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "france24_006a7f283b",
@@ -154,6 +154,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-29T09:02:08.506Z"
+    },
+    {
+      "id": "france24_ecec4b7f80",
+      "agencyId": "france24",
+      "title": "Trump 'surprised' UK granted bail to suspects in alleged airbase terror plot",
+      "title_fa": "ترامپ از آزادی به قید وثیقه متهمان توطئه تروریستی پایگاه هوایی در بریتانیا ابراز تعجب کرد",
+      "lead": "دونالد ترامپ، رئیس‌جمهور آمریکا اعلام کرد که از آزادی به قید وثیقه پنج مرد بازداشت‌شده در ارتباط با توطئه ادعایی برای حمله به یک پایگاه هوایی در بریتانیا توسط پلیس این کشور شگفت‌زده شده است. وی افزود که این پرونده «ممکن است» با ایران مرتبط باشد، زیرا از این پایگاه برای استقرار بمب‌افکن‌های آمریکایی استفاده شده است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/europe/20260929-trump-surprised-uk-granted-bail-to-suspects-alleged-airbase-terror-plot",
+      "pubDate": "Tue, 29 Sep 2026 09:12:07 GMT",
+      "time": "۱۲:۴۲ - ۷ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-29T09:16:54.876Z"
+    },
+    {
+      "id": "france24_a552aeb1cf",
+      "agencyId": "france24",
+      "title": "OpenAI scraps release of its latest AI model over safety concerns",
+      "title_fa": "اوپن‌ای‌آی انتشار مدل جدید هوش مصنوعی خود را به دلیل نگرانی‌های ایمنی لغو کرد",
+      "lead": "شرکت اوپن‌ای‌آی، سازنده چت‌جی‌پی‌تی، تصمیم گرفت انتشار مدل جدید ایجنتیک خود به نام آسترا ۶.۱ را به این دلیل که استانداردهای ایمنی را برآورده نکرده است، لغو کند. در همین حال، شرکت رقیب آن یعنی آنتروپیک، بخش عمده‌ای از بیانیه عرضه اولیه عمومی خود را به طرح نگرانی‌های ایمنی اختصاص داده است.",
+      "category": "technology",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/tv-shows/business/20260929-openai-scraps-release-of-its-latest-ai-model-over-safety-concerns",
+      "pubDate": "Tue, 29 Sep 2026 09:03:11 GMT",
+      "time": "۱۲:۳۳ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-29T09:16:54.876Z"
     }
   ]
 }
