@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_1fc75ccca1",
@@ -401,6 +401,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-29T12:47:13.460Z"
+    },
+    {
+      "id": "nytimes_88461caf08",
+      "agencyId": "nytimes",
+      "title": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
+      "title_fa": "چرا ایالات متحده محدودیت‌های ویزای جدیدی را برای آفریقای جنوبی اعمال می‌کند",
+      "lead": "دولت ترامپ محدودیت‌های جدید ویزا را برای این کشور چند روز پس از دریافت نامه‌ای که مقامات آفریقای جنوبی امیدوار بودند تنش‌ها را کاهش دهد، اعلام کرد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html",
+      "pubDate": "Tue, 29 Sep 2026 18:11:06 +0000",
+      "time": "۲۱:۴۱ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-29T18:31:50.669Z"
+    },
+    {
+      "id": "nytimes_8a2572a5d6",
+      "agencyId": "nytimes",
+      "title": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline",
+      "title_fa": "بارگیری نفتکش‌ها مجدداً از یک خط لوله حیاتی در عربستان آغاز شد",
+      "lead": "مقامات سعودی این خط لوله را پس از آسیب دیدن در یک حمله پهپادی توسط یک گروه شبه‌نظامی عراقی تحت حمایت ایران از کار انداخته بودند که اکنون بارگیری مجدداً از آن آغاز شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/business/oil-saudi-east-west-pipeline.html",
+      "pubDate": "Tue, 29 Sep 2026 16:29:22 +0000",
+      "time": "۱۹:۵۹ - ۷ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-29T18:17:00.313Z"
     }
   ]
 }
