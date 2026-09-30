@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "nytimes",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_1fc75ccca1",
@@ -21,6 +21,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-29T00:46:25.894Z"
+    },
+    {
+      "id": "nytimes_024a4f09b9",
+      "agencyId": "nytimes",
+      "title": "A Turkish Doughnut Maker Whose Sweets Honor the Dead",
+      "title_fa": "یک شیرینی‌پز ترک که با شیرینی‌هایش به درگذشتگان ادای احترام می‌کند",
+      "lead": "برای یک قناد اهل استانبول، توزیع پیراشکی‌های سرخ‌شده به‌عنوان یادبود، تنها یک شغل نیست بلکه امری شخصی است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/middleeast/doughnuts-istanbul.html",
+      "pubDate": "Tue, 29 Sep 2026 04:01:09 +0000",
+      "time": "۰۷:۳۱ - ۷ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-29T04:16:58.722Z"
+    },
+    {
+      "id": "nytimes_8e300476f0",
+      "agencyId": "nytimes",
+      "title": "Prime Minister Andy Burnham’s Labour Conference Speech Will Aim to Reset UK Mood",
+      "title_fa": "سخنرانی اندی برنهام در کنفرانس حزب کارگر با هدف بازتنظیم فضای سیاسی بریتانیا",
+      "lead": "انتظار می‌رود اندی برنهام، نخست‌وزیر، برنامه‌های سیاسی خود را در سخنرانی روز سه‌شنبه در کنفرانس سالانه حزب کارگر تشریح کند.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html",
+      "pubDate": "Tue, 29 Sep 2026 04:01:15 +0000",
+      "time": "۰۷:۳۱ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-29T04:16:58.722Z"
     }
   ]
 }
