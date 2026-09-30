@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
   "agencyId": "aljazeera",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "aljazeera_258266546c",
@@ -97,6 +97,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-29T01:16:29.157Z"
+    },
+    {
+      "id": "aljazeera_0300f497a8",
+      "agencyId": "aljazeera",
+      "title": "Fighter jets escort Pope Leo on final day of his France tour",
+      "title_fa": "جنگنده‌ها پاپ لئو را در روز پایانی تور فرانسه همراهی کردند",
+      "lead": "پاپ لئو چهاردهم در سفر به متز، آخرین توقفگاه از تور چهار روزه خود در فرانسه، توسط جنگنده‌ها اسکورت شد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/9/29/fighter-jets-escort-pope-leo-on-final-day-of-his-france-tour?traffic_source=rss",
+      "pubDate": "Tue, 29 Sep 2026 03:00:01 +0000",
+      "time": "۰۶:۳۰ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 60,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-29T03:16:27.157Z"
+    },
+    {
+      "id": "aljazeera_0310f21e5a",
+      "agencyId": "aljazeera",
+      "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+      "title_fa": "دیدار عراقچی با میانجیگران قطری همزمان با درخواست آمریکا برای مذاکرات هسته‌ای",
+      "lead": "تهران منتظر پاسخ به طرح هرمز است و یک مقام آمریکایی اعلام کرد تا زمانی که مسائل هسته‌ای حل نشوند، هیچ توافقی صورت نخواهد گرفت.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks?traffic_source=rss",
+      "pubDate": "Tue, 29 Sep 2026 02:36:25 +0000",
+      "time": "۰۶:۰۶ - ۷ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-29T03:01:54.235Z"
     }
   ]
 }
