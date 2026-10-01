@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "bbc_5fb585b8c7",
@@ -78,6 +78,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-30T04:31:43.739Z"
+    },
+    {
+      "id": "bbc_da2b7a41d4",
+      "agencyId": "bbc",
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "title_fa": "انجام چندین عمل جراحی روی دختری در غزه پس از حمله",
+      "lead": "شاهدان عینی می‌گویند چادر رسیل مورد اصابت حمله هلی‌کوپترموتور اسرائیل قرار گرفته است. ارتش اسرائیل اعلام کرد که هیچ سابقه ای از این حمله ندارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 05:02:50 GMT",
+      "time": "۰۸:۳۲ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 30,
+        "negative": 65
+      },
+      "analyzed_at": "2026-09-30T05:16:52.741Z"
+    },
+    {
+      "id": "bbc_10ba82ab9e",
+      "agencyId": "bbc",
+      "title": "'Backpack' declared Alaska's Fat Bear Week winner",
+      "title_fa": "خرسی با نام «بک‌پک» برنده هفته خرس‌های چاق آلاسکا شد",
+      "lead": "خرس «بک‌پک» در دور نهایی مسابقه سالانه توانست خرسی را که تنها با نام «۹۱۰» شناخته می‌شد، شکست دهد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 05:01:04 GMT",
+      "time": "۰۸:۳۱ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-30T05:16:52.741Z"
     }
   ]
 }
