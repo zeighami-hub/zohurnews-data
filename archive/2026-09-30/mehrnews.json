@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "mehrnews",
-  "total": 10,
+  "total": 13,
   "articles": [
     {
       "id": "mehrnews_1b59025bf0",
@@ -192,6 +192,63 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-30T07:32:06.842Z"
+    },
+    {
+      "id": "mehrnews_74ece9899f",
+      "agencyId": "mehrnews",
+      "title": "2 men convicted in killing 4 security forces hanged in Iran",
+      "title_fa": "دو مرد محکوم به قتل چهار نیروی امنیتی در ایران اعدام شدند",
+      "lead": "قوه قضاییه ایران اعلام کرد که دو مرد دخیل در قتل چهار نیروی امنیتی در جریان ناآرامی‌های ژانویه، اعدام شدند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248209/2-men-convicted-in-killing-4-security-forces-hanged-in-Iran",
+      "pubDate": "Wed, 30 Sep 2026 08:29:03 GMT",
+      "time": "۱۱:۵۹ - ۸ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-30T08:32:49.229Z"
+    },
+    {
+      "id": "mehrnews_f26c2bce14",
+      "agencyId": "mehrnews",
+      "title": "Islamabad says backs Riyadh under defense pact",
+      "title_fa": "اسلام‌آباد اعلام کرد بر اساس توافق دفاعی از ریاض حمایت می‌کند",
+      "lead": "وزیر دفاع پاکستان، بدون اشاره به تهاجم گسترده عربستان سعودی به یمن، از ریاض دفاع کرد و گفت که توانمندی نظامی پاکستان بر اساس یک توافق دفاعی در اختیار عربستان سعودی قرار خواهد گرفت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248208/Islamabad-says-backs-Riyadh-under-defense-pact",
+      "pubDate": "Wed, 30 Sep 2026 08:21:38 GMT",
+      "time": "۱۱:۵۱ - ۸ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-30T08:32:49.229Z"
+    },
+    {
+      "id": "mehrnews_67dac0b359",
+      "agencyId": "mehrnews",
+      "title": "Yemen downs Saudi ScanEagle surveillance drone over Sa'ada",
+      "title_fa": "سرنگونی پهپاد شناسایی اسکن‌ایگل عربستان توسط یمن در صعده",
+      "lead": "نیروهای یمنی روز چهارشنبه یک فروند پهپاد شناسایی نظامی اسکن‌ایگل متعلق به عربستان سعودی را بر فراز استان صعده سرنگون کردند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248207/Yemen-downs-Saudi-ScanEagle-surveillance-drone-over-Sa-ada",
+      "pubDate": "Wed, 30 Sep 2026 08:16:57 GMT",
+      "time": "۱۱:۴۶ - ۸ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-30T08:32:49.229Z"
     }
   ]
 }
