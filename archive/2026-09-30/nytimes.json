@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "nytimes",
-  "total": 32,
+  "total": 33,
   "articles": [
     {
       "id": "nytimes_024a4f09b9",
@@ -610,6 +610,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-30T21:02:14.199Z"
+    },
+    {
+      "id": "nytimes_c8649a669f",
+      "agencyId": "nytimes",
+      "title": "No Bombs Found in U.K. Case, but Officials Say Threat to Bases Is Real",
+      "title_fa": "عدم کشف بمب در پرونده بریتانیا، اما مقامات می‌گویند تهدید علیه پایگاه‌ها واقعی است",
+      "lead": "احتمال حمله به یک پایگاه هوایی مورداستفاده نیروهای آمریکایی منجر به افزایش حفاظت‌ها در سراسر اروپا شد، اما ابهاماتی پیرامون این پرونده وجود دارد که در آن ظنون با قید وثیقه آزاد شده‌اند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/europe/britain-air-base-iran-threat.html",
+      "pubDate": "Tue, 29 Sep 2026 20:31:04 +0000",
+      "time": "۰۰:۰۱ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-30T21:16:41.356Z"
     }
   ]
 }
