@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "france24",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "france24_185873b3c0",
@@ -173,6 +173,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-30T08:32:49.229Z"
+    },
+    {
+      "id": "france24_2bf136e372",
+      "agencyId": "france24",
+      "title": "Trump puts trust in AI bosses to 'police themselves'",
+      "title_fa": "ترامپ رهبران هوش مصنوعی را مسئول نظارت بر خود دانست",
+      "lead": "دونالد ترامپ، رئیس‌جمهوری آمریکا، در دیدار با رهبران فناوری در کاخ سفید اعلام کرد که آن‌ها تعهدی اخلاقی برای خودتنظیمی و ایجاد ایمنی در مدل‌های هوش مصنوعی امضا کرده‌اند.",
+      "category": "technology",
+      "region": "americas",
+      "sourceUrl": "https://www.france24.com/en/video/20260930-trump-puts-trust-in-ai-bosses-to-police-themselves",
+      "pubDate": "Wed, 30 Sep 2026 08:42:08 GMT",
+      "time": "۱۲:۱۲ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-30T08:47:00.284Z"
+    },
+    {
+      "id": "france24_7ad0b8da32",
+      "agencyId": "france24",
+      "title": "‘The country has become a battlefield’: Last US troops exit Iraq",
+      "title_fa": "خروج آخرین نظامیان آمریکایی از عراق",
+      "lead": "آخرین نیروهای آمریکایی در عراق که به عنوان بخشی از ائتلاف ضد داعش حضور داشتند، بر اساس توافق میان بغداد و واشنگتن از این کشور خارج شدند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/video/20260930-the-country-has-become-a-battlefield-last-us-troops-exit-iraq",
+      "pubDate": "Wed, 30 Sep 2026 08:34:22 GMT",
+      "time": "۱۲:۰۴ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-30T08:47:00.284Z"
     }
   ]
 }
