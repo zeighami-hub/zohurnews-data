@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "nytimes",
-  "total": 3,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_024a4f09b9",
@@ -59,6 +59,158 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-30T09:02:24.604Z"
+    },
+    {
+      "id": "nytimes_16354130e0",
+      "agencyId": "nytimes",
+      "title": "As A.I. Panic Grows, Javier Milei Is Pitching Argentina As a Rules-Free Haven",
+      "title_fa": "همزمان با افزایش نگرانی‌ها درباره هوش مصنوعی، خاویر میلئی آرژانتین را به عنوان بهشتی بدون قانون معرفی می‌کند",
+      "lead": "آقای میلئی می‌خواهد کاملاً روی هوش مصنوعی سرمایه‌گذاری کند، حتی در شرایطی که سایر رهبران برای کنترل فناوری‌ای که بسیاری از آن‌ها بیم خطرات وجودی‌اش را دارند، تلاش می‌کنند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/americas/argentina-ai-rules-milei.html",
+      "pubDate": "Tue, 29 Sep 2026 16:17:28 +0000",
+      "time": "۱۹:۴۷ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-09-30T09:32:03.223Z"
+    },
+    {
+      "id": "nytimes_6c426e24e8",
+      "agencyId": "nytimes",
+      "title": "What Life Looks Like in the ‘Fortress Cities’ Russia Is Trying to Break",
+      "title_fa": "زندگی در «شهرهای دژمان» که روسیه سعی در شکستن آن‌ها دارد چگونه است",
+      "lead": "نیروهای امدادی باید پس از حملات روسیه در شرق اوکراین به سرعت عمل کنند. حمله دیگری ممکن است در هر لحظه رخ دهد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-donbas-emergency-workers.html",
+      "pubDate": "Tue, 29 Sep 2026 13:18:14 +0000",
+      "time": "۱۶:۴۸ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-30T09:32:03.223Z"
+    },
+    {
+      "id": "nytimes_9ee7169848",
+      "agencyId": "nytimes",
+      "title": "AMLO Son Poses Political Problems for Mexico’s President Sheinbaum",
+      "title_fa": "پسر آملو چالش‌های سیاسی برای شیئنباوم، رئیس‌جمهور مکزیک ایجاد کرده است",
+      "lead": "آندرس مانوئل لوپز بلتران به فهرست چهره‌هایی پیوسته است که به گفته منتقدان، ممکن است در نهایت به جنبش چپ‌گرایی که پدرش بنیان گذاشته و همچنین رئیس‌جمهوری که جانشین او شده، آسیب برسانند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/americas/sheinbaum-lopez-beltran-mexico-morena.html",
+      "pubDate": "Tue, 29 Sep 2026 09:02:08 +0000",
+      "time": "۱۲:۳۲ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-30T09:32:03.223Z"
+    },
+    {
+      "id": "nytimes_d20d08d48e",
+      "agencyId": "nytimes",
+      "title": "Bomb by Bomb, the Slow Death of My Hometown in Ukraine",
+      "title_fa": "بمب به بمب، مرگ تدریجی زادگاهم در اوکراین",
+      "lead": "برای مدتی امکان‌پذیر بود که تصور شود کراماتورسک، جایی که در آن متولد و بزرگ شده‌ام، بیشتر از جنگ مصون بماند. اما دیگر اینطور نیست.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-kramatorsk.html",
+      "pubDate": "Tue, 29 Sep 2026 09:01:15 +0000",
+      "time": "۱۲:۳۱ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 25,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-30T09:32:03.223Z"
+    },
+    {
+      "id": "nytimes_4c096358c3",
+      "agencyId": "nytimes",
+      "title": "In Fractious France, Politicians Agree on One Thing: Pope Leo Was a Hit",
+      "title_fa": "در فرانسه چنددستگی سیاسی، سیاستمداران بر سر یک موضوع توافق دارند: پاپ لئو موفق ظاهر شد",
+      "lead": "پاپ لئو چهاردهم در جریان یک سفر چهار روزه، توانست در میان طیف‌های مختلف سیاسی فرانسه از جمله سکولارترین چهره‌ها تحسین و تمجید به دست آورد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/europe/leo-france-pope-macron.html",
+      "pubDate": "Wed, 30 Sep 2026 09:07:15 +0000",
+      "time": "۱۲:۳۷ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-30T09:17:04.862Z"
+    },
+    {
+      "id": "nytimes_9f7d6c6f64",
+      "agencyId": "nytimes",
+      "title": "A Way Out of the A.I. Arms Race?",
+      "title_fa": "راهی برای خروج از مسابقه تسلیحاتی هوش مصنوعی؟",
+      "lead": "پژوهش‌های جدید نشان می‌دهد که جهان چگونه می‌تواند پیش از رسیدن به آستانه فاجعه، از مسابقه تسلیحاتی هوش مصنوعی جلوگیری کند، هرچند که این کار آسان نخواهد بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/europe/ai-arms-race.html",
+      "pubDate": "Wed, 30 Sep 2026 09:04:44 +0000",
+      "time": "۱۲:۳۴ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-09-30T09:17:04.862Z"
+    },
+    {
+      "id": "nytimes_2d91a9a13f",
+      "agencyId": "nytimes",
+      "title": "How Ukraine’s Naval Drones Are Remaking War at Sea",
+      "title_fa": "چگونه پهپادهای دریایی اوکراین جنگ در دریا را بازطراحی می‌کنند",
+      "lead": "پهپادهای دریایی اوکراین که ابتدا به شکل قایق‌های موتوری اصلاح‌شده بودند، اکنون به ناوهای هواپیمابر کوچک تبدیل شده‌اند و سایر کشورها نیز به دنبال دستیابی به آن‌ها هستند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/europe/ukraine-naval-drones-russia.html",
+      "pubDate": "Wed, 30 Sep 2026 09:00:10 +0000",
+      "time": "۱۲:۳۰ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-30T09:17:04.862Z"
+    },
+    {
+      "id": "nytimes_e7cf0cc7bc",
+      "agencyId": "nytimes",
+      "title": "Dozens Killed in Myanmar Military Bombing",
+      "title_fa": "کشته شدن ده‌ها نفر در بمباران ارتش میانمار",
+      "lead": "یک حمله هوایی به بازاری شلوغ در منطقه تحت کنترل شورشیان، دست‌کم ۵۰ کشته بر جای گذاشت که این رویداد را به یکی از مرگبارترین حملات علیه غیرنظامیان در ماه‌های اخیر تبدیل کرده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html",
+      "pubDate": "Tue, 29 Sep 2026 19:37:19 +0000",
+      "time": "۲۳:۰۷ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-30T09:17:04.862Z"
     }
   ]
 }
