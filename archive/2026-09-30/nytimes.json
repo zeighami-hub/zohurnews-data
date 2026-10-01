@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_024a4f09b9",
@@ -363,6 +363,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-09-30T12:47:25.428Z"
+    },
+    {
+      "id": "nytimes_7a7199724e",
+      "agencyId": "nytimes",
+      "title": "FlyDubai Provides Key Link for Israelis Transiting Through Middle East",
+      "title_fa": "فای‌دبی پیوند کلیدی برای مسافران اسرائیلی در حال گذر از خاورمیانه فراهم می‌کند",
+      "lead": "این شرکت هواپیمایی ارزان‌قیمت روزانه تا ۱۰ پرواز میان دبی و تل‌آویو انجام می‌دهد.",
+      "category": "technology",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/flydubai-flights-dubai-tel-aviv-israel",
+      "pubDate": "Wed, 30 Sep 2026 12:49:34 +0000",
+      "time": "۱۶:۱۹ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-30T13:02:52.073Z"
+    },
+    {
+      "id": "nytimes_2f8480bff3",
+      "agencyId": "nytimes",
+      "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
+      "title_fa": "شهرک‌نشینان اسرائیلی مانع بازگشت سربازان فلسطینی به خانه‌هایشان شدند",
+      "lead": "دیوان عالی دستور داده بود ارتش تضمین کند خانواده‌ای در کرانه باختری که از خشونت گریخته بودند، می‌توانند بازگردند. اما شهرک‌نشینان این تلاش را مسدود کردند و مقامات به عدم اقدام کافی در مقابله با آن‌ها متهم شدند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
+      "pubDate": "Wed, 30 Sep 2026 00:19:18 +0000",
+      "time": "۰۳:۴۹ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-30T13:02:52.073Z"
     }
   ]
 }
