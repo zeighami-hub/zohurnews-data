@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "bbc",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "bbc_5fb585b8c7",
@@ -116,6 +116,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-09-30T05:16:52.741Z"
+    },
+    {
+      "id": "bbc_5616006de7",
+      "agencyId": "bbc",
+      "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
+      "title_fa": "مقام رسمی به بی‌بی‌سی گفت: دزدان دریایی سومالی خدمه تانکر نفتکش را قبل از نجات کشتند",
+      "lead": "دزدی دریایی در سواحل سومالی در سال‌های اخیر و پس از کاهش آن در پی آغاز عملیات‌های دریایی بین‌المللی در سال ۲۰۱۱، افزایش یافته است.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 06:41:35 GMT",
+      "time": "۱۰:۱۱ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-30T07:32:06.842Z"
+    },
+    {
+      "id": "bbc_0a8bcd4583",
+      "agencyId": "bbc",
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "title_fa": "صنایع فولاد ارزشمند اوکراین در اثر حملات موشکی روسیه به ویرانه تبدیل شد",
+      "lead": "کارخانجات فولاد باقی‌مانده در اوکراین که بخش حیاتی اقتصاد این کشور محسوب می‌شوند، در پی حملات بی‌وقفه تقریباً از کار افتاده‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 29 Sep 2026 23:33:34 GMT",
+      "time": "۰۳:۰۳ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-30T07:32:06.842Z"
     }
   ]
 }
