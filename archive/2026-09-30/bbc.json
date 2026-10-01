@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "bbc",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "bbc_5fb585b8c7",
@@ -363,6 +363,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-30T13:47:02.783Z"
+    },
+    {
+      "id": "bbc_eb25cc2d2a",
+      "agencyId": "bbc",
+      "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
+      "title_fa": "متوقف شدن اجرای حکم امریکا کریستا پایک یک ساعت پیش از اجرا",
+      "lead": "کریستا پایک در سال ۱۹۹۶ به جرم قتل کولین اسلمر محاکمه و به اعدام محکوم شده بود که اجرای حکم او متوقف شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 14:41:17 GMT",
+      "time": "۱۸:۱۱ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-30T14:47:05.713Z"
+    },
+    {
+      "id": "bbc_68b5db6a79",
+      "agencyId": "bbc",
+      "title": "How an alleged rape sent an Indian university into turmoil and emptied hostels",
+      "title_fa": "چگونگی تأثیر یک ادعای تجاوز بر ناآرامی در یک دانشگاه هند و تخلیه خوابگاه‌ها",
+      "lead": "پلیس در حال تلاش برای بررسی این موضوع است که آیا یک دانشجوی دختر در دانشگاه لولی پروفشنال (LPU) مورد تجاوز قرار گرفته است یا خیر. این ادعا باعث ایجاد ناآرامی در دانشگاه و تخلیه خوابگاه‌ها شده است.",
+      "category": "energy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 29 Sep 2026 08:12:39 GMT",
+      "time": "۱۱:۴۲ - ۷ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-09-30T14:47:05.713Z"
     }
   ]
 }
