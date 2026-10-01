@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 16,
   "articles": [
     {
       "id": "nytimes_024a4f09b9",
@@ -287,6 +287,25 @@
         "negative": 40
       },
       "analyzed_at": "2026-09-30T10:02:15.163Z"
+    },
+    {
+      "id": "nytimes_f6339dc6ca",
+      "agencyId": "nytimes",
+      "title": "Passenger Describes Chaos Aboard FlyDubai Flight",
+      "title_fa": "روایت مسافر از آشوب در پرواز فلای‌دبی",
+      "lead": "یک مسافر به نام میریام اوهایون اظهار داشت که افراد حاضر در پرواز احساس کردند جت کنترل خود را از دست داده و صدای جیغ شنیده می‌شود. او به تلویزیون اسرائیل گفت که هنگام باز شدن در کابین خلبان، مقدار زیادی خون دیده شده است.",
+      "category": "technology",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html",
+      "pubDate": "Wed, 30 Sep 2026 11:29:45 +0000",
+      "time": "۱۴:۵۹ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-09-30T11:32:43.267Z"
     }
   ]
 }
