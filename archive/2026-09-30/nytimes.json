@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_024a4f09b9",
@@ -401,6 +401,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-30T13:02:52.073Z"
+    },
+    {
+      "id": "nytimes_2878420149",
+      "agencyId": "nytimes",
+      "title": "Moth Swarms Sweep Across Australia. That’s Good News.",
+      "title_fa": "هجوم دسته‌های پروانه به استرالیا؛ این خبر خوبی است",
+      "lead": "پروانه‌های بوگونگ از دهه ۱۹۸۰ رو به کاهش بوده‌اند، اما در بهار امسال این حشرات در سراسر جنوب شرقی استرالیا به تعداد هزاران نفر مشاهده شده‌اند که مایه خوشحالی دانشمندان شده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/australia/bogong-moth-migration.html",
+      "pubDate": "Wed, 30 Sep 2026 13:10:47 +0000",
+      "time": "۱۶:۴۰ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-30T13:16:46.535Z"
+    },
+    {
+      "id": "nytimes_46cb7dffcc",
+      "agencyId": "nytimes",
+      "title": "FlyDubai Provides Key Link for Israeli Air Travelers",
+      "title_fa": "فلای‌دبی پیوند کلیدی را برای مسافران هوایی اسرائیل فراهم می‌کند",
+      "lead": "این شرکت هواپیمایی ارزان‌قیمت روزانه تا ۱۰ پرواز بین دبی و تل‌آویو انجام می‌دهد.",
+      "category": "technology",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flights-dubai-tel-aviv-israel.html",
+      "pubDate": "Wed, 30 Sep 2026 13:04:35 +0000",
+      "time": "۱۶:۳۴ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-09-30T13:16:46.535Z"
     }
   ]
 }
