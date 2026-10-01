@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "skynews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "skynews_df3c4faba1",
@@ -59,6 +59,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-09-30T08:02:17.182Z"
+    },
+    {
+      "id": "skynews_89026c4350",
+      "agencyId": "skynews",
+      "title": "US forces to leave last bases in Iraq despite fears Iran will exploit withdrawal",
+      "title_fa": "نیروهای آمریکایی پایگاه‌های خود را در عراق ترک می‌کنند",
+      "lead": "نیروهای آمریکایی قرار است از آخرین پایگاه‌های خود در عراق خارج شوند؛ کشوری که ۴۵۰۰ تن از نظامیان آن‌ها در طول بیش از ۲۰ سال جنگ در آن جان باختند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/us-forces-to-leave-last-bases-in-iraq-despite-fears-iran-will-exploit-withdrawal-13593112",
+      "pubDate": "Tue, 29 Sep 2026 08:23:00 +0100",
+      "time": "۱۰:۵۳ - ۷ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-30T10:02:15.163Z"
+    },
+    {
+      "id": "skynews_a3f412d5ac",
+      "agencyId": "skynews",
+      "title": "Kim Jong Un's sister issues warning as she denies South Korea land mine claims",
+      "title_fa": "هشدار خواهر کیم جونگ اون و رد ادعاهای کره جنوبی درباره مین گذاری",
+      "lead": "خواهر کیم جونگ اون ضمن تهدید به تلافی، ادعاهای کره جنوبی مبنی بر کارگذاری مین های زمینی توسط کره شمالی را که منجر به زخمی شدن سه سرباز کره جنوبی شد، یک «نمایش توطئه آمیز» خواند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://news.sky.com/story/kim-jong-uns-sister-issues-warning-as-she-denies-south-korea-land-mine-claims-13593551",
+      "pubDate": "Wed, 30 Sep 2026 08:38:00 +0100",
+      "time": "۱۱:۰۸ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-09-30T10:02:15.163Z"
     }
   ]
 }
