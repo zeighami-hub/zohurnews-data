@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "nytimes",
-  "total": 30,
+  "total": 32,
   "articles": [
     {
       "id": "nytimes_024a4f09b9",
@@ -572,6 +572,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-09-30T18:49:06.820Z"
+    },
+    {
+      "id": "nytimes_8b0a31b133",
+      "agencyId": "nytimes",
+      "title": "High Above Saudi Desert, a Bloody Attack in the Cockpit, and a Terrifying Plunge",
+      "title_fa": "حمله خونین در کابین خلبان پرواز دبی به تل‌آویو",
+      "lead": "مسافران پرواز ۱۰۷۳ از دبی به تل‌آویو از یک حمله با چاقو در کابین خلبان و سقوط وحشتناک هواپیما خبر دادند. مقامات اعلام کردند که انگیزه این حمله هنوز ناشناخته است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html",
+      "pubDate": "Wed, 30 Sep 2026 20:54:24 +0000",
+      "time": "۰۰:۲۴ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-09-30T21:02:14.199Z"
+    },
+    {
+      "id": "nytimes_45447c9097",
+      "agencyId": "nytimes",
+      "title": "The U.S. Departs Iraq",
+      "title_fa": "خروج نیروهای آمریکایی از عراق",
+      "lead": "پس از دو دهه، نیروهای نظامی آمریکا به طور رسمی از عراق خارج شدند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/iraq-war-us-pilot-israel-flight.html",
+      "pubDate": "Wed, 30 Sep 2026 20:51:46 +0000",
+      "time": "۰۰:۲۱ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-09-30T21:02:14.199Z"
     }
   ]
 }
