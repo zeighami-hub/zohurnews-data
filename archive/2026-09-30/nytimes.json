@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_024a4f09b9",
@@ -40,6 +40,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-09-30T04:46:47.845Z"
+    },
+    {
+      "id": "nytimes_675a1a5470",
+      "agencyId": "nytimes",
+      "title": "FlyDubai Flight to Tel Aviv Issues Distress Signal Before Landing in Saudi Arabia",
+      "title_fa": "پرواز فلای‌دبی به مقصد تل‌آویو پیش از فرود در عربستان سعودی سیگنال اضطراری صادر کرد",
+      "lead": "به گفته مقامات اسرائیلی، این هواپیما در مسیر دبی به اسرائیل در حال پرواز بوده که خلبان و کمک‌خلبان ظاهراً با یکدیگر درگیر شده‌اند.",
+      "category": "technology",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-tel-aviv-israel-fz1073-diverted-pilots.html",
+      "pubDate": "Wed, 30 Sep 2026 08:43:26 +0000",
+      "time": "۱۲:۱۳ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-30T09:02:24.604Z"
     }
   ]
 }
