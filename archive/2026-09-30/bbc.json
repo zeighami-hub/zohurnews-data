@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
   "agencyId": "bbc",
-  "total": 2,
+  "total": 4,
   "articles": [
     {
       "id": "bbc_5fb585b8c7",
@@ -40,6 +40,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-09-30T04:01:51.461Z"
+    },
+    {
+      "id": "bbc_8e96a29b11",
+      "agencyId": "bbc",
+      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
+      "title_fa": "حمله اتباع چینی به رستورانی با نام شی جین پینگ در کره جنوبی",
+      "lead": "صاحب رستوران اعلام کرد که این نام را به این دلیل انتخاب کرده که می‌خواسته «بهترین رستوران چینی» را در کره جنوبی اداره کند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 04:21:11 GMT",
+      "time": "۰۷:۵۱ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-09-30T04:31:43.739Z"
+    },
+    {
+      "id": "bbc_3ae2afae9f",
+      "agencyId": "bbc",
+      "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
+      "title_fa": "دیوان عالی ایالات متحده درخواست نهایی کریستا پایک برای توقف اجرای حکم اعدام را رد کرد",
+      "lead": "این زندانی اهل تنسی از سال ۱۹۹۶ و به اتهام قتل یکی از همکلاسی‌های نوجوان خود در انتظار اجرای حکم اعدام به سر می‌برد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 29 Sep 2026 23:39:58 GMT",
+      "time": "۰۳:۰۹ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-09-30T04:31:43.739Z"
     }
   ]
 }
