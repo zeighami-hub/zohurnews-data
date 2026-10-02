@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "france24",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "france24_203ca40f80",
@@ -78,6 +78,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-10-01T05:46:54.915Z"
+    },
+    {
+      "id": "france24_f1a5e8dcef",
+      "agencyId": "france24",
+      "title": "Live: FlyDubai suspends flights to and from Israel after pilot attack",
+      "title_fa": "تعلیق پروازهای فلای‌دبی به اسرائیل پس از حمله خلبان",
+      "lead": "شرکت هواپیمایی ارزان‌قیمت فلای‌دبی پروازهای خود به مقصد و مبدأ اسرائیل را پس از آنکه یکی از خلبانان این شرکت در طول پرواز به کمک‌خلبان خود حمله کرد، به طور موقت به حالت تعلیق درآورد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20261001-live-flydubai-suspends-flights-to-and-from-israel-after-pilot-attack",
+      "pubDate": "Thu, 01 Oct 2026 05:58:55 GMT",
+      "time": "۰۹:۲۸ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-01T06:02:00.972Z"
+    },
+    {
+      "id": "france24_d5799d2ea1",
+      "agencyId": "france24",
+      "title": "Hegseth says US cut number of generals, admirals by 20%",
+      "title_fa": "هگست: ایالات متحده تعداد ژنرال‌ها و دریانوردان ارشد خود را ۲۰ درصد کاهش داد",
+      "lead": "پیت هگست، وزیر دفاع آمریکا، روز چهارشنبه اعلام کرد که ایالات متحده تعداد ژنرال‌ها و فرماندهان ارشد خود را ۲۰ درصد کاهش داده است؛ اقدامی که به گفته وی با هدف ایجاد «پاسخگویی» انجام شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.france24.com/en/live-news/20260930-hegseth-says-us-cut-number-of-generals-admirals-by-20",
+      "pubDate": "Wed, 30 Sep 2026 20:16:31 GMT",
+      "time": "۲۳:۴۶ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-01T06:02:00.972Z"
     }
   ]
 }
