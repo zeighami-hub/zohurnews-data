@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "aljazeera",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "aljazeera_8bcdced336",
@@ -40,6 +40,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-10-01T00:31:38.309Z"
+    },
+    {
+      "id": "aljazeera_f566bf566a",
+      "agencyId": "aljazeera",
+      "title": "Iran parades Shahed drones through capital",
+      "title_fa": "رژه پهپادهای شاهد توسط ایران در پایتخت",
+      "lead": "جمعیت زیادی با تشویق و تکان دادن پرچم‌های ملی، شاهد رژه دو فروند پهپاد شاهد از خیابان‌های تهران بودند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
+      "pubDate": "Thu, 01 Oct 2026 00:39:04 +0000",
+      "time": "۰۴:۰۹ - ۹ مهر",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-01T01:01:40.083Z"
     }
   ]
 }
