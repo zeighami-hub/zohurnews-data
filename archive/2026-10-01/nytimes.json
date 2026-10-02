@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "nytimes",
-  "total": 32,
+  "total": 34,
   "articles": [
     {
       "id": "nytimes_b230c0fe48",
@@ -610,6 +610,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-10-01T19:01:52.579Z"
+    },
+    {
+      "id": "nytimes_a254e51795",
+      "agencyId": "nytimes",
+      "title": "2 passengers who helped thwart the FlyDubai attack add details in a TV interview.",
+      "title_fa": "دو مسافری که در خنثی‌سازی حمله به پرواز فلای‌دبی نقش داشتند، جزئیات جدیدی در یک مصاحبه تلویزیونی ارائه دادند",
+      "lead": "دو تن از مسافرانی که به خنثی‌سازی حمله پرواز فلای‌دبی کمک کرده بودند، در مصاحبه‌ای تلویزیونی جزئیات جدیدی از این رویداد را بیان کردند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots/2-passengers-who-helped-thwart-the-flydubai-attack-add-details-in-a-tv-interview",
+      "pubDate": "Thu, 01 Oct 2026 19:56:24 +0000",
+      "time": "۲۳:۲۶ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-01T20:01:56.218Z"
+    },
+    {
+      "id": "nytimes_d25d8375c8",
+      "agencyId": "nytimes",
+      "title": "Canada’s Proposed Oil Pipeline Offers Carney Relief From Domestic and Global Turmoil",
+      "title_fa": "خط لوله نفتی پیشنهادی کانادا، مایه تسکین کارنی در برابر آشفتگی‌های داخلی و جهانی است",
+      "lead": "خط لوله نفتی جدید از ماسه‌های نفتی آلبرتا به ساحل اقیانوس آرام ممکن است تنش‌های جدایی‌طلبانه در این استان را کاهش دهد و هم‌زمان وابستگی‌های انرژی به ایالات متحده را کمتر کند.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/canada/carney-alberta-british-columbia-oil-pipeline.html",
+      "pubDate": "Thu, 01 Oct 2026 19:51:36 +0000",
+      "time": "۲۳:۲۱ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-01T20:01:56.218Z"
     }
   ]
 }
