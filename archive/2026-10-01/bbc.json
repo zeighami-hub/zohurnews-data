@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "bbc",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "bbc_57cf8874c0",
@@ -40,6 +40,25 @@
         "negative": 60
       },
       "analyzed_at": "2026-10-01T00:16:29.997Z"
+    },
+    {
+      "id": "bbc_f78d3d93ca",
+      "agencyId": "bbc",
+      "title": "California bans child marriage, a practice still legal in 32 US states",
+      "title_fa": "کالیفرنیا ازدواج کودکان را ممنوع کرد",
+      "lead": "گاوین نیوسام، فرماندار کالیفرنیا، این اقدام را «معیاری که مدت‌ها به تأخیر افتاده بود برای محافظت از جوانان کالیفرنیا» توصیف کرد. این در حالی است که این عمل همچنان در ۳۲ ایالت دیگر آمریکا قانونی است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 00:57:04 GMT",
+      "time": "۰۴:۲۷ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-01T01:16:35.069Z"
     }
   ]
 }
