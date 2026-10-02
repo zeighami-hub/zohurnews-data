@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "nytimes",
-  "total": 27,
+  "total": 29,
   "articles": [
     {
       "id": "nytimes_b230c0fe48",
@@ -515,6 +515,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-10-01T17:16:39.172Z"
+    },
+    {
+      "id": "nytimes_1d3eb42028",
+      "agencyId": "nytimes",
+      "title": "Egypt Arrests 6 Matsaddash Journalists on Claims of Spreading Disinformation",
+      "title_fa": "مصر ۶ خبرنگار پایگاه «متساداش» را به اتهام انتشار اطلاعات نادرست بازداشت کرد",
+      "lead": "دولت مصر ادعا کرد که خبرنگاران رسانه «متساداش»، که به راستی‌آزمایی اخبار جعلی می‌پردازد، اطلاعات نادرستی را به نفع گروه ممنوعه اخوان‌المسلمین منتشر کرده‌اند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/middleeast/egypt-journalist-arrests.html",
+      "pubDate": "Thu, 01 Oct 2026 17:24:40 +0000",
+      "time": "۲۰:۵۴ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-01T17:31:50.083Z"
+    },
+    {
+      "id": "nytimes_dfac414be1",
+      "agencyId": "nytimes",
+      "title": "The Boeing 737 Max 8 stayed intact despite the enormous stress of its plunge.",
+      "title_fa": "بدنه هواپیمای بوئینگ ۷۳۷ مکس ۸ علیرغم فشار شدید سقوط سالم ماند",
+      "lead": "بدنه هواپیمای بوئینگ ۷۳۷ مکس ۸ توانست علیرغم فشارهای بسیار زیاد ناشی از سقوط، ساختار خود را حفظ کند و سالم باقی بماند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots/the-boeing-737-max-8-stayed-intact-despite-the-enormous-stress-of-its-plunge",
+      "pubDate": "Thu, 01 Oct 2026 17:24:15 +0000",
+      "time": "۲۰:۵۴ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-01T17:31:50.083Z"
     }
   ]
 }
