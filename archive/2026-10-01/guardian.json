@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "guardian",
-  "total": 13,
+  "total": 14,
   "articles": [
     {
       "id": "guardian_a9357c2e5f",
@@ -249,6 +249,25 @@
         "negative": 50
       },
       "analyzed_at": "2026-10-01T09:16:58.849Z"
+    },
+    {
+      "id": "guardian_826441074b",
+      "agencyId": "guardian",
+      "title": "At least 27 dead after two mass shootings in South Africa, police say",
+      "title_fa": "به گفته پلیس، بر اثر دو تیراندازی جمعی در آفریقای جنوبی دستکم ۲۷ نفر کشته شدند",
+      "lead": "در پی وقوع دو تیراندازی جمعی جداگانه در نزدیکی دو شهر بزرگ آفریقای جنوبی، حداقل ۲۷ نفر کشته شدند. ۱۷ نفر در نزدیکی ژوهانسبورگ در جریان آنچه جنگ احتمالی حوزه استخراج غیرقانونی طلا خوانده شده جان باختند و ۱۰ نفر دیگر در یک رویداد جداگانه در محل برگزاری باربیکیو در نزدیکی کیپ‌تاون کشته شدند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "pubDate": "Sun, 27 Sep 2026 13:46:49 GMT",
+      "time": "۱۷:۱۶ - ۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-10-01T09:47:06.775Z"
     }
   ]
 }
