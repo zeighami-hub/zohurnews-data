@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "mehrnews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "mehrnews_e10cf4e861",
@@ -59,6 +59,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-01T06:46:51.073Z"
+    },
+    {
+      "id": "mehrnews_f1958542b9",
+      "agencyId": "mehrnews",
+      "title": "Six terrorists killed in IRGC operation in SE Iran",
+      "title_fa": "هلاکت شش تروریست در عملیات سپاه در جنوب شرق ایران",
+      "lead": "قرارگاه قدس نیروی زمینی سپاه پاسداران انقلاب اسلامی اعلام کرد که یک تیم تروریستی را در منطقه شناسایی و هدف قرار داده است. در این عملیات شش تن از اعضای یک گروهک تروریستی تکفیری کشته و بسته‌های انفجاری ضبط شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248230/Six-terrorists-killed-in-IRGC-operation-in-SE-Iran",
+      "pubDate": "Thu, 01 Oct 2026 07:24:28 GMT",
+      "time": "۱۰:۵۴ - ۹ مهر",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-01T07:32:04.716Z"
+    },
+    {
+      "id": "mehrnews_0d7a76e64a",
+      "agencyId": "mehrnews",
+      "title": "Israeli artillery hits areas near Syria’s Quneitra",
+      "title_fa": "حمله توپخانه‌ای اسرائیل به مناطق نزدیک قنیطره در سوریه",
+      "lead": "منابع محلی در سوریه گزارش دادند که ارتش اسرائیل مناطق اطراف روستای صمدانیه شرقی در شمال قنیطره را هدف آتش توپخانه قرار داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248229/Israeli-artillery-hits-areas-near-Syria-s-Quneitra",
+      "pubDate": "Thu, 01 Oct 2026 07:16:29 GMT",
+      "time": "۱۰:۴۶ - ۹ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-01T07:32:04.716Z"
     }
   ]
 }
