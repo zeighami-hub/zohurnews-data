@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 10,
   "articles": [
     {
       "id": "nytimes_b230c0fe48",
@@ -135,6 +135,63 @@
         "negative": 20
       },
       "analyzed_at": "2026-10-01T09:47:06.775Z"
+    },
+    {
+      "id": "nytimes_e3d8829422",
+      "agencyId": "nytimes",
+      "title": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
+      "title_fa": "پس از دو دهه، نیروهای آمریکایی عراق را با آینده‌ای نامطمئن ترک می‌کنند",
+      "lead": "برخی از عراقی‌ها پایان حضور نظامی آمریکا را که موجی از خونریزی را به راه انداخت جشن می‌گیرند، در حالی که برخی دیگر نسبت به آینده کشورشان که میان واشنگتن و تهران گرفتار شده است، ابراز نگرانی می‌کنند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
+      "pubDate": "Wed, 30 Sep 2026 23:09:20 +0000",
+      "time": "۰۲:۳۹ - ۹ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-01T10:02:09.181Z"
+    },
+    {
+      "id": "nytimes_2f0370712a",
+      "agencyId": "nytimes",
+      "title": "Hong Kong Journalist Arrested After Covering Gathering Linked to 2019 Protests",
+      "title_fa": "بازداشت یک روزنامه‌نگار هنگ‌کنگی پس از پوشش تجمع مرتبط با اعتراضات ۲۰۱۹",
+      "lead": "بر اساس گزارش رسانه‌های محلی و نهادهای ناظر، پلیس امنیت ملی تنگ هو-وین، بنیان‌گذار پایگاه خبری مستقل بوم نیوز را بازداشت کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/asia/hong-kong-arrest-journalist-activist.html",
+      "pubDate": "Thu, 01 Oct 2026 09:54:14 +0000",
+      "time": "۱۳:۲۴ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-01T10:02:09.181Z"
+    },
+    {
+      "id": "nytimes_65fda0c928",
+      "agencyId": "nytimes",
+      "title": "American Forces Withdraw From Iraq 23 Years After Invading",
+      "title_fa": "خروج نیروهای آمریکایی از عراق ۲۳ سال پس از حمله به این کشور",
+      "lead": "نیروهای آمریکایی در سال ۲۰۰۳ در حالی به عراق حمله کردند که شناخت درستی از این کشور نداشتند و خبرنگار ما یادآوری می‌کند که از همان روزهای نخست، نشانه‌های مشکلات پیش‌رو آشکار بود.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html",
+      "pubDate": "Wed, 30 Sep 2026 17:32:35 +0000",
+      "time": "۲۱:۰۲ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-01T10:02:09.181Z"
     }
   ]
 }
