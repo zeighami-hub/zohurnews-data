@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "nytimes",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "nytimes_b230c0fe48",
@@ -401,6 +401,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-10-01T15:46:56.049Z"
+    },
+    {
+      "id": "nytimes_74e229a2f8",
+      "agencyId": "nytimes",
+      "title": "Investigators Seek to Determine How a Weapon Entered FlyDubai Cockpit",
+      "title_fa": "تلاش بازرسان برای مشخص کردن نحوه ورود سلاح به کابین پرواز فلای‌دبی",
+      "lead": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، اعلام کرد که یکی از احتمالات این است که مهاجم از تبر اضطراری پرواز استفاده کرده باشد. این ابزار معمولاً در داخل کابین خلبان نگهداری می‌شود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-weapon-cockpit-stabbing-attack.html",
+      "pubDate": "Thu, 01 Oct 2026 15:58:51 +0000",
+      "time": "۱۹:۲۸ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-01T16:02:13.812Z"
+    },
+    {
+      "id": "nytimes_ecbe2bacef",
+      "agencyId": "nytimes",
+      "title": "Russia to Sharply Increase War Spending and Cut to Social Programs",
+      "title_fa": "روسیه هزینه‌های جنگی را به شدت افزایش و برنامه‌های اجتماعی را کاهش می‌دهد",
+      "lead": "تأمین مالی درگیری در اوکراین برای هر دو طرف دشوارتر شده است. بودجه سال ۲۰۲۷ روسیه افزایش بدهی‌ها، مالیات بیشتر و کاهش مزایای اجتماعی را پیش‌بینی می‌کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/europe/russia-war-budget.html",
+      "pubDate": "Thu, 01 Oct 2026 15:52:06 +0000",
+      "time": "۱۹:۲۲ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-01T16:02:13.812Z"
     }
   ]
 }
