@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "france24",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "france24_203ca40f80",
@@ -21,6 +21,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-10-01T00:01:46.229Z"
+    },
+    {
+      "id": "france24_be62d98eda",
+      "agencyId": "france24",
+      "title": "Russia launches major attack on Ukraine’s energy grid, causing power cuts",
+      "title_fa": "روسیه حمله گسترده‌ای به شبکه انرژی اوکراین انجام داد که منجر به قطعی برق شد",
+      "lead": "روسیه در روز چهارشنبه سنگین‌ترین حمله ترکیبی خود به زیرساخت‌های انرژی اوکراین در ماه‌های اخیر را انجام داد که به کشته شدن هفت نفر و قطعی اضطراری برق در کی‌یف و مناطق اطراف منجر شد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts",
+      "pubDate": "Thu, 01 Oct 2026 02:21:15 GMT",
+      "time": "۰۵:۵۱ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-01T02:31:35.757Z"
     }
   ]
 }
