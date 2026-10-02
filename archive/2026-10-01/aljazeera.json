@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "aljazeera",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "aljazeera_8bcdced336",
@@ -59,6 +59,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-01T01:01:40.083Z"
+    },
+    {
+      "id": "aljazeera_0fc2c13729",
+      "agencyId": "aljazeera",
+      "title": "Iraq celebrates Sovereignty Day as US troops complete withdrawal",
+      "title_fa": "عراق همزمان با خروج کامل نیروهای آمریکایی، روز حاکمیت را جشن گرفت",
+      "lead": "عراقی‌ها همزمان با آغاز یک تعطیلات چهارروزه و با برگزاری جشن‌های شبانه، خروج نیروهای آمریکایی و روز حاکمیت را گرامی داشتند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss",
+      "pubDate": "Thu, 01 Oct 2026 01:11:22 +0000",
+      "time": "۰۴:۴۱ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-01T01:46:25.466Z"
+    },
+    {
+      "id": "aljazeera_8bedce026a",
+      "agencyId": "aljazeera",
+      "title": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight",
+      "title_fa": "روایت مسافران از پرواز «کابوس‌وار» فلای‌دبی پس از تغییر مسیر",
+      "lead": "مسافران اسرائیلی از وحشت حاکم بر پرواز فلای‌دبی که پس از چاقوکورد شدن خلبان تغییر مسیر داده بود، سخن گفتند.",
+      "category": "technology",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss",
+      "pubDate": "Thu, 01 Oct 2026 00:53:54 +0000",
+      "time": "۰۴:۲۳ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-01T01:31:40.268Z"
     }
   ]
 }
