@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "nytimes",
-  "total": 35,
+  "total": 37,
   "articles": [
     {
       "id": "nytimes_b230c0fe48",
@@ -667,6 +667,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-10-01T21:01:44.586Z"
+    },
+    {
+      "id": "nytimes_eab973f1bd",
+      "agencyId": "nytimes",
+      "title": "Investigators Seek Motive for FlyDubai Cockpit Attack",
+      "title_fa": "پژوهشگران به دنبال انگیزه حمله به کابین خلبان فلای‌دبی هستند",
+      "lead": "نخست‌وزیر اسرائیل گفت کمک‌خلبانی که به خلبان حمله کرده تحت آموزش‌های رادیکال اسلامی قرار داشته اما جزئیاتی ارائه نکرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html",
+      "pubDate": "Thu, 01 Oct 2026 21:37:35 +0000",
+      "time": "۰۱:۰۷ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-01T21:46:32.332Z"
+    },
+    {
+      "id": "nytimes_172f859e0b",
+      "agencyId": "nytimes",
+      "title": "Lucien Lazare, Jewish Resistance Fighter in Occupied France, Dies at 101",
+      "title_fa": "لوسین لازار، مبارز مقاومت یهودی در فرانسه اشغالی، در ۱۰۱ سالگی درگذشت",
+      "lead": "او و گروه کوچکی از یهودیان فرانسوی برای توزیع آذوقه و مبارزه با نازی‌ها با متفقین همکاری کردند که شامل کمین به قطار آلمانی و آزادسازی شهری در جنوب بود.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/lucien-lazare-dead.html",
+      "pubDate": "Thu, 01 Oct 2026 21:32:47 +0000",
+      "time": "۰۱:۰۲ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-01T21:46:32.332Z"
     }
   ]
 }
