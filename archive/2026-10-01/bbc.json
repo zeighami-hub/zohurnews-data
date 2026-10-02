@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_57cf8874c0",
@@ -78,6 +78,25 @@
         "negative": 40
       },
       "analyzed_at": "2026-10-01T01:46:25.466Z"
+    },
+    {
+      "id": "bbc_da2b7a41d4",
+      "agencyId": "bbc",
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "title_fa": "انجام جراحی‌های متعدد روی یک دختر فلسطینی برای کنترل عفونت‌ها پس از حمله در غزه",
+      "lead": "به گفته شاهدان عینی، چادر محل اقامت رسیل هدف حمله بالگرد اسرائیلی قرار گرفته است. در همین حال، ارتش اسرائیل اعلام کرد که هیچ سابقه ای از این حمله در اختیار ندارد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 05:02:50 GMT",
+      "time": "۰۸:۳۲ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-01T05:46:54.915Z"
     }
   ]
 }
