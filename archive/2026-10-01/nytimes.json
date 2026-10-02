@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_b230c0fe48",
@@ -363,6 +363,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-10-01T14:46:52.608Z"
+    },
+    {
+      "id": "nytimes_fe0103d2ec",
+      "agencyId": "nytimes",
+      "title": "Israeli Politicians Trade Barbs Over FlyDubai Attack",
+      "title_fa": "درگیری لفظی سیاستمداران اسرائیلی پیرامون حمله به پرواز فلای‌دبی",
+      "lead": "کمپین انتخاباتی بنیامین نتانیاهو، نخست‌وزیر اسرائیل، پیش از این نیز تحت تأثیر بحث درباره سیاست‌ها و شکست‌های نظامی و اطلاعاتی منجر به حملات ۷ اکتبر ۲۰۲۳ قرار داشت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/middleeast/israel-flydubai-netanyahu-elections.html",
+      "pubDate": "Thu, 01 Oct 2026 15:44:36 +0000",
+      "time": "۱۹:۱۴ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-01T15:46:56.049Z"
+    },
+    {
+      "id": "nytimes_521fa2e77c",
+      "agencyId": "nytimes",
+      "title": "A Flashy Zimbabwean Tycoon Who Befriended Presidents Dies in Crash",
+      "title_fa": "مرگ یک سرمایه‌دار جنجالی زیمبابوه‌ای در سانحه سقوط هلیکوپتر",
+      "lead": "ویکنل چیبایو هنگام پرواز با هلیکوپتر همراه همسرش در یک مزرعه سقوط کرد و جان باخت. این بازرگان که با اتهامات فساد مالی مواجه بود، حتی پس از مرگ نیز واکنش‌های متناقضی را برانگیخت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/africa/zimbabwe-wicknell-chivayo-helicopter-crash.html",
+      "pubDate": "Thu, 01 Oct 2026 15:41:09 +0000",
+      "time": "۱۹:۱۱ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-01T15:46:56.049Z"
     }
   ]
 }
