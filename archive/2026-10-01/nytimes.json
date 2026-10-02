@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_b230c0fe48",
@@ -230,6 +230,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-10-01T11:32:19.672Z"
+    },
+    {
+      "id": "nytimes_f005fc57fa",
+      "agencyId": "nytimes",
+      "title": "U.S. Bond Yields Hit Highest Level Since 2002",
+      "title_fa": "بازده اوراق قرضه ایالات متحده به بالاترین سطح از سال ۲۰۰۲ رسید",
+      "lead": "روند افزایشی بازده اوراق قرضه، از جمله جنگ در ایران و سطوح بالای بدهی‌های دولتی، بعید است به این زودی‌ها فروکش کند.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
+      "pubDate": "Thu, 01 Oct 2026 12:02:57 +0000",
+      "time": "۱۵:۳۲ - ۹ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-01T12:16:50.197Z"
     }
   ]
 }
