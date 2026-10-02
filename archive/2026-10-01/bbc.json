@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 4,
   "articles": [
     {
       "id": "bbc_57cf8874c0",
@@ -59,6 +59,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-10-01T01:16:35.069Z"
+    },
+    {
+      "id": "bbc_c490e72cd9",
+      "agencyId": "bbc",
+      "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
+      "title_fa": "نخست‌وزیر اسرائیل: خلبان «قهرمان» توسط خلبانی دیگر در پرواز به مقصد اسرائیل مورد چاقوکشی قرار گرفت",
+      "lead": "مسافران و خدمه پرواز موفق شدند مهاجم را مهار کرده و هواپیما را به صورت امن در عربستان سعودی به زمین بنشانند. نخست‌وزیر اسرائیل این اظهارات را مطرح کرد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 21:29:43 GMT",
+      "time": "۰۰:۵۹ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 40,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-01T01:46:25.466Z"
     }
   ]
 }
