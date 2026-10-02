@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "nytimes",
-  "total": 29,
+  "total": 31,
   "articles": [
     {
       "id": "nytimes_b230c0fe48",
@@ -553,6 +553,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-10-01T17:31:50.083Z"
+    },
+    {
+      "id": "nytimes_30107c2b50",
+      "agencyId": "nytimes",
+      "title": "Nigerian Charged With Running Fake Government Agency",
+      "title_fa": "یک تبعه نیجریه به اتهام اداره یک نهاد دولتی تقلبی متهم شد",
+      "lead": "این فرد نیجریه‌ای موفق شده بود فضایی اداری در یک ساختمان فدرال تهیه کند، حساب‌های بانکی باز کند و حتی نشست‌هایی با دیپلمات‌های خارجی داشته باشد. او اتهامات وارده را رد کرده و خود را بی‌گناه می‌داند.",
+      "category": "economy",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/africa/nigeria-fake-government-agency.html",
+      "pubDate": "Thu, 01 Oct 2026 18:30:00 +0000",
+      "time": "۲۲:۰۰ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-01T18:32:32.687Z"
+    },
+    {
+      "id": "nytimes_190af61813",
+      "agencyId": "nytimes",
+      "title": "Israelis Take Pride in Bravery of Passengers Who Saved FlyDubai Flight",
+      "title_fa": "احساس افتخار اسرائیلی‌ها به شجاعت مسافرانی که پرواز فلای‌دبی را نجات دادند",
+      "lead": "این رخدادها یادآور روزهایی از دهه‌های گذشته است که اسرائیل به خاطر بقای شجاعانه خود در برابر مشکلات و مقابله با هواپیماربایان به طور گسترده‌ای تحسین می‌شد.",
+      "category": "technology",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/middleeast/israel-passengers-flight-1073.html",
+      "pubDate": "Thu, 01 Oct 2026 18:00:07 +0000",
+      "time": "۲۱:۳۰ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-01T18:32:32.687Z"
     }
   ]
 }
