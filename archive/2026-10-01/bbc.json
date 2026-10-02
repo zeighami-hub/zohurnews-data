@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "bbc",
-  "total": 14,
+  "total": 16,
   "articles": [
     {
       "id": "bbc_57cf8874c0",
@@ -268,6 +268,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-10-01T11:32:19.672Z"
+    },
+    {
+      "id": "bbc_fb9fd96ac3",
+      "agencyId": "bbc",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "title_fa": "روسیه بزرگترین حمله به زیرساخت‌های انرژی اوکراین را از بهار تاکنون انجام داد",
+      "lead": "نخست‌وزیر اوکراین اعلام کرد که در مجموع ۱۱ منطقه این کشور طی شبانه روز گذشته مورد حمله قرار گرفته‌اند و ساختمان‌های مسکونی و راه‌آهن نیز هدف قرار گرفته‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 14:53:02 GMT",
+      "time": "۱۸:۲۳ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-01T12:16:50.197Z"
+    },
+    {
+      "id": "bbc_8b5ba395d7",
+      "agencyId": "bbc",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "title_fa": "خروج آخرین نظامیان بریتانیا و آمریکا از عراق با پایان ماموریت ضد داعش",
+      "lead": "خروج نیروهای ائتلاف، بر اساس توافقی که دو سال پیش به دست آمد، یکی از خواسته‌های اصلی دولت عراق بود.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 11:36:23 GMT",
+      "time": "۱۵:۰۶ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-01T12:16:50.197Z"
     }
   ]
 }
