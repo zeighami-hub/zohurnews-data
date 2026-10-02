@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_b230c0fe48",
@@ -458,6 +458,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-10-01T16:31:56.080Z"
+    },
+    {
+      "id": "nytimes_d988cc6332",
+      "agencyId": "nytimes",
+      "title": "U.K.-Iranian Man Arrested in Connection to RAF Fairford Air Base Incident",
+      "title_fa": "دستگیری یک مرد بریتانیایی-ایرانی در ارتباط با حادثه پایگاه هوایی RAF Fairford",
+      "lead": "پلیس ضدتروریسم بریتانیا اعلام کرد که یک تبعه دوتابعیتی ۲۷ ساله بریتانیایی-ایرانی روز پنجشنبه دستگیر شده است. این دستگیری در ارتباط با حادثه رخ داده در پایگاه هوایی انجام گرفته است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/europe/uk-iran-terrorism-raf-fairford.html",
+      "pubDate": "Thu, 01 Oct 2026 16:57:11 +0000",
+      "time": "۲۰:۲۷ - ۹ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 60,
+        "negative": 35
+      },
+      "analyzed_at": "2026-10-01T17:02:00.684Z"
+    },
+    {
+      "id": "nytimes_628e35efcb",
+      "agencyId": "nytimes",
+      "title": "American University of Afghanistan at Risk of Closure Amid Funding Cuts",
+      "title_fa": "دانشگاه آمریکایی افغانستان در خطر تعطیلی به دلیل کاهش بودجه",
+      "lead": "وزارت امور خارجه آمریکا بودجه این دانشگاه را برای دو سال آینده رد کرده و آموزش صدها دانشجوی دختر افغان را به خطر انداخته است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/10/01/world/asia/american-university-kabul-usaid.html",
+      "pubDate": "Thu, 01 Oct 2026 16:35:30 +0000",
+      "time": "۲۰:۰۵ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-01T16:47:09.625Z"
     }
   ]
 }
