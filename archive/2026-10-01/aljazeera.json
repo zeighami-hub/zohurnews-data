@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "aljazeera",
-  "total": 1,
+  "total": 2,
   "articles": [
     {
       "id": "aljazeera_8bcdced336",
@@ -21,6 +21,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-01T00:01:46.229Z"
+    },
+    {
+      "id": "aljazeera_781d8a2891",
+      "agencyId": "aljazeera",
+      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+      "title_fa": "تحولات جنگ ایران: ترامپ از احتمال حمله آمریکا به ایران سخن گفت و هشدار داد زمان آن فرا می رسد",
+      "lead": "دونالد ترامپ اعلام کرد که ایالات متحده ممکن است ایران را «منهجدم» کند یا به توافق برسد و اصرار داشت که این بن بست به زودی به طریقی پایان خواهد یافت.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+      "pubDate": "Thu, 01 Oct 2026 00:00:00 +0000",
+      "time": "۰۳:۳۰ - ۹ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-01T00:31:38.309Z"
     }
   ]
 }
