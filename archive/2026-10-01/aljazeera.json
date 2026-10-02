@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "aljazeera",
-  "total": 61,
+  "total": 63,
   "articles": [
     {
       "id": "aljazeera_8bcdced336",
@@ -1161,6 +1161,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-01T17:46:37.813Z"
+    },
+    {
+      "id": "aljazeera_c1319fb4b3",
+      "agencyId": "aljazeera",
+      "title": "Palestinian children in Israeli military detention",
+      "title_fa": "کودکان فلسطینی در بازداشت نظامی اسرائیل",
+      "lead": "گزارشی پیرامون وضعیت و شرایط کودکان فلسطینی که در بازداشت نظامیان اسرائیل به سر می‌برند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/1/palestinian-children-in-israeli-military-detention?traffic_source=rss",
+      "pubDate": "Thu, 01 Oct 2026 17:44:51 +0000",
+      "time": "۲۱:۱۴ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-01T18:32:32.687Z"
+    },
+    {
+      "id": "aljazeera_5b8fa98fcf",
+      "agencyId": "aljazeera",
+      "title": "US Supreme Court agrees to take up Trump’s ICE detention policy",
+      "title_fa": "دیوان عالی ایالات متحده بررسی سیاست بازداشت مهاجران دولت ترامپ را پذیرفت",
+      "lead": "این پرونده جدیدترین اختلاف‌نظر حقوقی پیرامون سرکوب گسترده مهاجرتی توسط دونالد ترامپ، رئیس‌جمهور وقت ایالات متحده، به شمار می‌رود.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss",
+      "pubDate": "Thu, 01 Oct 2026 17:35:58 +0000",
+      "time": "۲۱:۰۵ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-01T18:32:32.687Z"
     }
   ]
 }
