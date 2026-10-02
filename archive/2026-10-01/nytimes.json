@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_b230c0fe48",
@@ -78,6 +78,63 @@
         "negative": 50
       },
       "analyzed_at": "2026-10-01T09:16:58.849Z"
+    },
+    {
+      "id": "nytimes_de960379c0",
+      "agencyId": "nytimes",
+      "title": "Live Updates: Israelis Celebrate Passengers’ Return as Questions Swirl Over Flight Attack",
+      "title_fa": "پوشش زنده: جشن بازگشت مسافران اسرائیلی در سایه پرسش‌ها پیرامون حمله در پرواز",
+      "lead": "نخست‌وزیر بنیامین نتانیاهو از کاپیتان مصدوم پرواز، مسافران اسرائیلی و خلبانان ذخیره‌ای که در ایمن‌سازی هواپیما و فرود امن آن نقش داشتند، تمجید کرد. هویت مهاجم هنوز مشخص نشده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
+      "pubDate": "Thu, 01 Oct 2026 09:34:45 +0000",
+      "time": "۱۳:۰۴ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-01T09:47:06.775Z"
+    },
+    {
+      "id": "nytimes_4c096358c3",
+      "agencyId": "nytimes",
+      "title": "In Fractious France, Politicians Agree on One Thing: Pope Leo Was a Hit",
+      "title_fa": "در فرانسه چنددستگی سیاسی، سیاستمداران بر سر یک موضوع توافق دارند: پاپ لئو محبوب بود",
+      "lead": "در جریان سفر چهارروزه، پاپ لئو چهاردهم توانست در طیف‌های مختلف سیاسی فرانسه، حتی در میان چهره‌های کاملاً سکولار، تحسین برانگیزد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/europe/leo-france-pope-macron.html",
+      "pubDate": "Wed, 30 Sep 2026 18:57:24 +0000",
+      "time": "۲۲:۲۷ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-01T09:47:06.775Z"
+    },
+    {
+      "id": "nytimes_9f7d6c6f64",
+      "agencyId": "nytimes",
+      "title": "A Way Out of the A.I. Arms Race?",
+      "title_fa": "آیا راهی برای خروج از مسابقه تسلیحاتی هوش مصنوعی وجود دارد؟",
+      "lead": "پژوهش‌های جدید نشان می‌دهد که جهان چگونه می‌تواند از لبه فاجعه بازگردد، هرچند که دستیابی به این هدف حتی با وجود توافق امضامشده توسط رهبران فناوری در کاخ سفید کار ساده‌ای نخواهد بود.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/09/30/world/europe/ai-arms-race.html",
+      "pubDate": "Wed, 30 Sep 2026 09:35:16 +0000",
+      "time": "۱۳:۰۵ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-01T09:47:06.775Z"
     }
   ]
 }
