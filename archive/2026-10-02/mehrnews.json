@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "mehrnews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "mehrnews_ed87a52395",
@@ -59,6 +59,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-02T06:16:36.185Z"
+    },
+    {
+      "id": "mehrnews_e10cf4e861",
+      "agencyId": "mehrnews",
+      "title": "Leader says prayer is Iran's source of strength",
+      "title_fa": "رهبر انقلاب: دعا منبع قدرت ایران است",
+      "lead": "رهبر انقلاب اسلامی در پیامی به سی و سومین اجلاس سراسری نماز، دعا را پشتیبان جهاد، فتح و پیروزی در مبارزه کنونی ملت ایران توصیف کردند.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248226/Leader-says-prayer-is-Iran-s-source-of-strength",
+      "pubDate": "Thu, 01 Oct 2026 05:50:37 GMT",
+      "time": "۰۹:۲۰ - ۹ مهر",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-02T06:32:25.575Z"
+    },
+    {
+      "id": "mehrnews_6a8bffaf1a",
+      "agencyId": "mehrnews",
+      "title": "Saudi warplanes pound Yemen in 51 new strikes",
+      "title_fa": "جنگنده‌های سعودی در ۵۱ حمله جدید یمن را بمباران کردند",
+      "lead": "سخنگوی نیروهای مسلح یمن اعلام کرد که جنگنده‌های سعودی در ۲۴ ساعت گذشته ۵۱ حمله هوایی و موشکی علیه یمن انجام داده‌اند. با این حملات، مجموع حملات در دور جدید درگیری‌ها به بیش از ۱۲۰۰ مورد رسیده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248227/Saudi-warplanes-pound-Yemen-in-51-new-strikes",
+      "pubDate": "Thu, 01 Oct 2026 05:57:19 GMT",
+      "time": "۰۹:۲۷ - ۹ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-02T06:32:25.575Z"
     }
   ]
 }
