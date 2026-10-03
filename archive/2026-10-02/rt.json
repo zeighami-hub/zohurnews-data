@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "rt",
-  "total": 6,
+  "total": 8,
   "articles": [
     {
       "id": "rt_8b2c207178",
@@ -116,6 +116,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-10-02T08:46:49.141Z"
+    },
+    {
+      "id": "rt_56776ab244",
+      "agencyId": "rt",
+      "title": "US boosting military presence in Middle East – AP",
+      "title_fa": "افزایش حضور نظامی آمریکا در خاورمیانه",
+      "lead": "بر اساس گزارش آسوشیتدپرس، در حالی که رئیس‌جمهور دونالد ترامپ حملات جدید علیه ایران را بررسی می‌کند، ایالات متحده در حال اعزام نیروهای بیشتری به خاورمیانه است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.rt.com/news/646633-iran-us-trump-carrier/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Fri, 02 Oct 2026 09:08:21 +0000",
+      "time": "۱۲:۳۸ - ۱۰ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-02T09:16:45.839Z"
+    },
+    {
+      "id": "rt_ad5f86a3ba",
+      "agencyId": "rt",
+      "title": "Hegseth announces new AI and drone command",
+      "title_fa": "هگست از تشکیل فرماندهی جدید هوش مصنوعی و پهپاد خبر داد",
+      "lead": "پیت هگست، وزیر جنگ ایالات متحده، اعلام کرد که پنتاگون یک فرماندهی جنگ خودکار جدید برای تمرکز بر هوش مصنوعی و سیستم‌های رباتیک راه‌اندازی خواهد کرد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.rt.com/news/646542-hegseth-ai-drone-command/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Thu, 01 Oct 2026 08:28:31 +0000",
+      "time": "۱۱:۵۸ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-02T09:02:14.170Z"
     }
   ]
 }
