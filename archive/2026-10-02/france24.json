@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "france24",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "france24_0d55dd00db",
@@ -21,6 +21,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-10-02T01:46:28.450Z"
+    },
+    {
+      "id": "france24_9649bdb369",
+      "agencyId": "france24",
+      "title": "Saudi-led coalition accuses Houthis of striking Medina power station",
+      "title_fa": "ائتلاف تحت رهبری عربستان حوثی‌ها را به حمله به نیروگاه مدینه متهم کرد",
+      "lead": "ائتلاف تحت رهبری عربستان سعودی اعلام کرد که حوثی‌های یمن یک ایستگاه توزیع برق در شهر مکه را هدف قرار داده‌اند. حوثی‌ها دخالت در این حمله را رد کردند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20261002-saudi-led-coalition-houthis-striking-medina-power-station",
+      "pubDate": "Fri, 02 Oct 2026 02:39:43 GMT",
+      "time": "۰۶:۰۹ - ۱۰ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-02T02:46:23.811Z"
+    },
+    {
+      "id": "france24_81e13d6250",
+      "agencyId": "france24",
+      "title": "More than half of Europe faced intense summer heat stress, EU monitor says",
+      "title_fa": "دیدبان اتحادیه اروپا: بیش از نیمی از اروپا با تنش گرمایی شدید تابستانی مواجه شد",
+      "lead": "دیدبان اقلیمی اتحادیه اروپا اعلام کرد که رکورد ۵۲ درصد از قاره اروپا در تابستان امسال با تنش گرمایی شدید مواجه بوده است. تغییرات اقلیمی موج‌های گرمای گسترده و ده‌ها هزار مرگ و میر ناشی از گرما را به همراه داشته است و اروپا سومین تابستان گرم خود را ثبت کرد.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.france24.com/en/environment/20261002-europe-summer-heat-stress-eu-monitor",
+      "pubDate": "Fri, 02 Oct 2026 02:18:51 GMT",
+      "time": "۰۵:۴۸ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-02T02:31:35.637Z"
     }
   ]
 }
