@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "nytimes",
-  "total": 29,
+  "total": 30,
   "articles": [
     {
       "id": "nytimes_1f0ea91c84",
@@ -553,6 +553,25 @@
         "negative": 80
       },
       "analyzed_at": "2026-10-02T22:01:44.867Z"
+    },
+    {
+      "id": "nytimes_fe6968f5ee",
+      "agencyId": "nytimes",
+      "title": "2 Iranian Men Charged in U.K. Over Suspected Plot to Target Jews",
+      "title_fa": "متهم شدن دو مرد ایرانی در بریتانیا به اتهام دست داشتن در توطئه احتمالی علیه یهودیان",
+      "lead": "پلیس بریتانیا اعلام کرد که دو تبعه ایرانی روز جمعه با اتهامات تروریستی مواجه شده‌اند. این پرونده مربوط به یک طرح احتمالی برای حمله به اهداف یهودی است.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/europe/uk-manchester-terror-plot-iranians-jews.html",
+      "pubDate": "Fri, 02 Oct 2026 21:54:22 +0000",
+      "time": "۰۱:۲۴ - ۱۱ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-02T22:32:25.939Z"
     }
   ]
 }
