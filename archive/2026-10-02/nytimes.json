@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "nytimes",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "nytimes_1f0ea91c84",
@@ -439,6 +439,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-10-02T19:01:58.495Z"
+    },
+    {
+      "id": "nytimes_1cd4a239ea",
+      "agencyId": "nytimes",
+      "title": "FlyDubai Attack Raises Questions About Pilot Background Checks",
+      "title_fa": "حمله مرتبط با فلای‌دبی پرسش‌هایی را درباره پیشینه خلبانان مطرح کرد",
+      "lead": "به گفته کارشناسان، غربالگری‌های سلامت و بررسی سوابق کیفری ممکن است در شناسایی خلبانانی که دچار رادیکال شدن شده‌اند یا مشکلات روحی خود را پنهان می‌کنند، کارایی محدودی داشته باشد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-plane-flydubai-pilot-background-check.html",
+      "pubDate": "Fri, 02 Oct 2026 19:12:41 +0000",
+      "time": "۲۲:۴۲ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-02T19:20:55.225Z"
+    },
+    {
+      "id": "nytimes_3a78851bfb",
+      "agencyId": "nytimes",
+      "title": "Widdecombe Murder Suspect Charged With Preparing Acts of Terrorism, Including Against Farage",
+      "title_fa": "متهم به قتل زن در بریتانیا به آماده‌سازی اقدامات تروریستی متهم شد",
+      "lead": "جوشوا کری، مرد ۲۸ ساله بریتانیایی که متهم به قتل آن ویدکوم، قانون‌گذار سابق است، روز جمعه با اتهامات جدیدی مواجه شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/europe/uk-terrorism-nigel-farage.html",
+      "pubDate": "Fri, 02 Oct 2026 19:00:05 +0000",
+      "time": "۲۲:۳۰ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-02T19:20:55.225Z"
     }
   ]
 }
