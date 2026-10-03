@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "bbc",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "bbc_57cf8874c0",
@@ -230,6 +230,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-02T08:01:56.443Z"
+    },
+    {
+      "id": "bbc_44e8e9d7f8",
+      "agencyId": "bbc",
+      "title": "K-pop star convicted of violating military service law",
+      "title_fa": "محکومیت یکی از اعضای گروه کی‌پپ به جرم نقض قانون خدمت سربازی",
+      "lead": "یکی از اعضای گروه موسیقی کی‌پپ وینر به دلیل غیبت‌های مکرر از وظایف خدمت سربازی خود، به حبس تعلیقی محکوم شد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 05:24:10 GMT",
+      "time": "۰۸:۵۴ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-02T10:02:04.527Z"
+    },
+    {
+      "id": "bbc_dcd48b5cd8",
+      "agencyId": "bbc",
+      "title": "Japan raises permanent residency fee by 20 times",
+      "title_fa": "ژاپن هزینه اقامت دائم را ۲۰ برابر افزایش داد",
+      "lead": "این افزایش هزینه‌ها بخشی از تغییرات سیاست مهاجرتی است که برای مدیریت جمعیت رو به رشد خارجی در ژاپن معرفی شده است.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 02:57:43 GMT",
+      "time": "۰۶:۲۷ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 80,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-02T10:02:04.527Z"
     }
   ]
 }
