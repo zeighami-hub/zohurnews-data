@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "nytimes",
-  "total": 27,
+  "total": 29,
   "articles": [
     {
       "id": "nytimes_1f0ea91c84",
@@ -515,6 +515,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-10-02T20:01:46.861Z"
+    },
+    {
+      "id": "nytimes_a219f44d1f",
+      "agencyId": "nytimes",
+      "title": "2 Iranian Men Charged in U.K. Over Suspected Plot to Target Jews",
+      "title_fa": "متهم شدن دو مرد ایرانی در بریتانیا به اتهام طرح‌ریزی برای حمله به یهودیان",
+      "lead": "پلیس بریتانیا اعلام کرد که دو تبعه ایرانی روز جمعه با اتهامات تروریستی مواجه شده‌اند. این افراد به داشتن طرح‌های مشکوک برای هدف قرار دادن یهودیان متهم شده‌اند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/europe/2-iranian-men-charged-in-uk-over-suspected-plot-to-target-jews.html",
+      "pubDate": "Fri, 02 Oct 2026 21:54:21 +0000",
+      "time": "۰۱:۲۴ - ۱۱ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-02T22:01:44.867Z"
+    },
+    {
+      "id": "nytimes_d6d6c3bb54",
+      "agencyId": "nytimes",
+      "title": "What to Know About Fighting Between Ethiopia and Rebels in Tigray",
+      "title_fa": "آنچه باید درباره درگیری میان اتیوپی و شورشیان تیگرای بدانید",
+      "lead": "این درگیری‌ها نگرانی‌ها درباره وقوع یک جنگ منطقه‌ای در شاخ آفریقا را افزایش داده است. قدرت‌های خارجی از جمله اریتره، مصر، امارات متحده عربی و عربستان سعودی نیز در این مناقشه دخیل شده‌اند.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html",
+      "pubDate": "Fri, 02 Oct 2026 21:48:47 +0000",
+      "time": "۰۱:۱۸ - ۱۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-02T22:01:44.867Z"
     }
   ]
 }
