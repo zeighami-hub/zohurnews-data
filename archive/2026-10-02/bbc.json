@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "bbc",
-  "total": 9,
+  "total": 10,
   "articles": [
     {
       "id": "bbc_57cf8874c0",
@@ -173,6 +173,25 @@
         "negative": 10
       },
       "analyzed_at": "2026-10-02T04:01:43.843Z"
+    },
+    {
+      "id": "bbc_f2ddff8490",
+      "agencyId": "bbc",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "title_fa": "قطع روابط دیپلماتیک اتیوپی و اریتره همزمان با تشدید درگیری‌ها در شمال",
+      "lead": "این تنش دیپلماتیک همزمان با درگیری نیروهای اتیوپی با جنگجویان شورشی در منطقه شمالی رخ داده است.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 05:42:07 GMT",
+      "time": "۰۹:۱۲ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-02T05:46:40.933Z"
     }
   ]
 }
