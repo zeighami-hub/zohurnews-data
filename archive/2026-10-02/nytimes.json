@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_1f0ea91c84",
@@ -363,6 +363,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-10-02T15:16:49.079Z"
+    },
+    {
+      "id": "nytimes_df86005ec8",
+      "agencyId": "nytimes",
+      "title": "Why U.S. Diesel Is So Important to Major Trading Partners",
+      "title_fa": "چرا گازوئیل ایالات متحده برای شرکای تجاری بزرگ اهمیت زیادی دارد؟",
+      "lead": "کشورهای آمریکای لاتین و اروپا به گازوئیل ایالات متحده وابسته‌اند و توقف صادرات آن ممکن است برخی کشورها را به سمت رکود سوق دهد و به تجارت با آمریکا آسیب برساند.",
+      "category": "economy",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/americas/us-diesel-ban-trump-mexico-europe-brazil.html",
+      "pubDate": "Fri, 02 Oct 2026 15:25:33 +0000",
+      "time": "۱۸:۵۵ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-10-02T15:32:35.214Z"
+    },
+    {
+      "id": "nytimes_9080d9df8f",
+      "agencyId": "nytimes",
+      "title": "The Mother’s Scream That Sent Passengers to the Rescue",
+      "title_fa": "فریاد مادری که مسافران را به نجات وا داشت",
+      "lead": "یک خلبان مجروح هند موفق شد در کابین خلبان را باز کند و چهار مرد اسرائیلی برای مهار مهاجم و جلوگیری از فاجعه وارد عمل شدند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+      "pubDate": "Fri, 02 Oct 2026 15:23:47 +0000",
+      "time": "۱۸:۵۳ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 30,
+        "negative": 30
+      },
+      "analyzed_at": "2026-10-02T15:32:35.214Z"
     }
   ]
 }
