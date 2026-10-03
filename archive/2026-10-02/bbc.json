@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "bbc",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "bbc_57cf8874c0",
@@ -135,6 +135,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-10-02T03:46:24.901Z"
+    },
+    {
+      "id": "bbc_aee5866845",
+      "agencyId": "bbc",
+      "title": "Spain and China are cosying up - to the anger of many in the EU",
+      "title_fa": "نزدیکی اسپانیا و چین؛ منبع خشم بسیاری در اتحادیه اروپا",
+      "lead": "در میان ناآرامی‌های جهانی، اتحاد میان اسپانیا و چین به عنوان یک زوج غیرمعمولی دیگر مورد توجه و انتقاد برخی در اتحادیه اروپا قرار گرفته است.",
+      "category": "politics",
+      "region": "asia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 23:42:33 GMT",
+      "time": "۰۳:۱۲ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-10-02T04:01:43.843Z"
+    },
+    {
+      "id": "bbc_03e5acd7e7",
+      "agencyId": "bbc",
+      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+      "title_fa": "کوبایی‌تباران ثروتمند در انتظار سقوط هاوانا",
+      "lead": "تبعیدیان کوبایی در فلوریدا بیش از پیش امیدوارند که تغییر رژیم در کوبا در افق پیش‌رو قرار داشته باشد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 23:00:05 GMT",
+      "time": "۰۲:۳۰ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-02T04:01:43.843Z"
     }
   ]
 }
