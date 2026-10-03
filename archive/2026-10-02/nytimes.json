@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_1f0ea91c84",
@@ -211,6 +211,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-10-02T12:47:01.953Z"
+    },
+    {
+      "id": "nytimes_4b39f890d5",
+      "agencyId": "nytimes",
+      "title": "As Gas Prices Rose, Sales of Larger Vehicles Slid",
+      "title_fa": "همزمان با افزایش قیمت بنزین، فروش خودروهای بزرگ کاهش یافت",
+      "lead": "آمارها نشان می‌دهد که با تمایل بیشتر شهروندان آمریکایی به خرید خودروهای هیبریدی و کوچک‌تر، میزان فروش وانت‌های بزرگ و خودروهای شاسی‌بلند کاهش یافته است.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
+      "pubDate": "Fri, 02 Oct 2026 13:11:31 +0000",
+      "time": "۱۶:۴۱ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-02T13:16:39.433Z"
+    },
+    {
+      "id": "nytimes_9a78a672de",
+      "agencyId": "nytimes",
+      "title": "Coast Guard Says It Stopped Ships Carrying Fuel to Cuba",
+      "title_fa": "گارد ساحلی آمریکا از توقیف کشتی‌های حامل سوخت به مقصد کوبا خبر داد",
+      "lead": "گارد ساحلی ایالات متحده دو قایق کوچک را که به گفته این نهاد حامل سوخت غیرقانونی به مقصد کوبا بوده‌اند، متوقف کرد. این اقدام در چارچوب اجرای تحریم‌ها و محاصره سوختی دولت آمریکا علیه حکومت کوبا صورت گرفته است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html",
+      "pubDate": "Fri, 02 Oct 2026 13:00:08 +0000",
+      "time": "۱۶:۳۰ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-02T13:16:39.433Z"
     }
   ]
 }
