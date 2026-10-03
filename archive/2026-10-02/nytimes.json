@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_1f0ea91c84",
@@ -116,6 +116,25 @@
         "negative": 70
       },
       "analyzed_at": "2026-10-02T09:16:45.839Z"
+    },
+    {
+      "id": "nytimes_0adea45d16",
+      "agencyId": "nytimes",
+      "title": "Airlines Set to Bring Israelis Back From U.A.E. After FlyDubai Cockpit Attack",
+      "title_fa": "آمادگی خطوط هواپیمایی برای بازگرداندن اسرائیلی‌ها از امارات پس از حمله به کابین پرواز فلای‌دبی",
+      "lead": "این حمله به یک پرواز از دبی به تل‌آویو، تنها مسیر پرواز مستقیم میان دو شهر را پس از آنکه جنگ در ایران ترافیک هوایی را مختل کرد، متوقف ساخت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-dubai-uae-flights.html",
+      "pubDate": "Fri, 02 Oct 2026 10:22:03 +0000",
+      "time": "۱۳:۵۲ - ۱۰ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 35,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-02T10:32:01.854Z"
     }
   ]
 }
