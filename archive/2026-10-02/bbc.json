@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "bbc",
-  "total": 20,
+  "total": 22,
   "articles": [
     {
       "id": "bbc_57cf8874c0",
@@ -382,6 +382,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-10-02T13:46:55.129Z"
+    },
+    {
+      "id": "bbc_20a9f50a11",
+      "agencyId": "bbc",
+      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "title_fa": "من نزدیک به ۵۰۰ اعدام را دیده‌ام، اما هرگز موردی شبیه به کریستا پایک را ندیده بودم",
+      "lead": "مایکل گراچیک، خبرنگار اهل تگزاس، اعدام‌های ناموفقی را در طول فعالیت خود دیده‌ است، اما نه موردی را که در آن یک زندانی زنده بماند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 14:01:09 GMT",
+      "time": "۱۷:۳۱ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-02T14:32:01.134Z"
+    },
+    {
+      "id": "bbc_3c8be80613",
+      "agencyId": "bbc",
+      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+      "title_fa": "گاری کاسپارف، چهره مخالف روس: ایالات متحده به من درباره خطر جانی هشدار داد",
+      "lead": "قهرمان سابق شطرنج جهان اظهار داشت که تا زمانی که پوتین در قدرت است، او و خانواده‌اش واقعاً در امنیت نخواهند بود.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 14:05:55 GMT",
+      "time": "۱۷:۳۵ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-02T14:32:01.134Z"
     }
   ]
 }
