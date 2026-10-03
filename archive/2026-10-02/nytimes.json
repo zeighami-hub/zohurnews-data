@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
   "agencyId": "nytimes",
-  "total": 15,
+  "total": 17,
   "articles": [
     {
       "id": "nytimes_1f0ea91c84",
@@ -287,6 +287,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-10-02T14:32:01.134Z"
+    },
+    {
+      "id": "nytimes_28da68076d",
+      "agencyId": "nytimes",
+      "title": "Ukraine Reports First Combat Use of Its Own Ballistic Missile",
+      "title_fa": "اوکراین از نخستین کاربرد رزمی موشک بالستیک ساخت خود خبر داد",
+      "lead": "کی‌یف روز پنجشنبه از شلیک یک موشک بالستیک ساخت داخل با برد محدود خبر داد و در عین حال در حال توسعه تسلیحات بزرگتری است که قابلیت هدف قرار دادن مسکو را داشته باشد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/europe/ukraine-ballistic-missile-fp-7.html",
+      "pubDate": "Fri, 02 Oct 2026 14:30:35 +0000",
+      "time": "۱۸:۰۰ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-02T14:46:51.563Z"
+    },
+    {
+      "id": "nytimes_763e010ad8",
+      "agencyId": "nytimes",
+      "title": "Fighting Intensifies in Yemen, Raising Fears Further of All-Out War",
+      "title_fa": "تشدید درگیری‌ها در یمن و افزایش نگرانی‌ها از وقوع جنگ تمام‌عیار",
+      "lead": "پایتخت یمن، صنعا، شبانه بمباران شد؛ این در حالی است که نیروهای دولتی از برخی از شدیدترین درگیری‌ها طی سال‌های اخیر در اطراف شهر تعز، سومین شهر بزرگ این کشور، خبر داده‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/middleeast/yemen-houthis-saudi-arabia-sanaa-taiz.html",
+      "pubDate": "Fri, 02 Oct 2026 14:28:33 +0000",
+      "time": "۱۷:۵۸ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-02T14:46:51.563Z"
     }
   ]
 }
