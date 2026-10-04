@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
   "agencyId": "mehrnews",
-  "total": 23,
+  "total": 25,
   "articles": [
     {
       "id": "mehrnews_ed1ec93dcd",
@@ -439,6 +439,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-03T18:16:47.732Z"
+    },
+    {
+      "id": "mehrnews_e56f1d62b4",
+      "agencyId": "mehrnews",
+      "title": "Iran says flights to, from Iraq to resume on Sunday",
+      "title_fa": "ایران از سرگیری پروازها به عراق و از مبدأ این کشور از روز یکشنبه خبر داد",
+      "lead": "رئیس سازمان هواپیمایی کشوری ایران روز شنبه اعلام کرد که پروازهای بین ایران و عراق روز یکشنبه از سر گرفته خواهد شد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248281/Iran-says-flights-to-from-Iraq-to-resume-on-Sunday",
+      "pubDate": "Sat, 03 Oct 2026 19:13:23 GMT",
+      "time": "۲۲:۴۳ - ۱۱ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-03T19:16:46.061Z"
+    },
+    {
+      "id": "mehrnews_861f8f2e25",
+      "agencyId": "mehrnews",
+      "title": "Velayati warns UAE not to try to challenge Iran",
+      "title_fa": "هشدار ولایتی به امارات نسبت به عدم آزمایش حاکمیت ایران بر جزایر سه‌گانه",
+      "lead": "علی‌اکبر ولایتی، مشاور ارشد رهبر انقلاب در امور بین‌الملل، به امارات متحده عربی توصیه کرد که حاکمیت ایران بر سه جزیره خود در خلیج فارس را به چالش نکشد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248280/Velayati-warns-UAE-not-to-try-to-challenge-Iran",
+      "pubDate": "Sat, 03 Oct 2026 18:59:56 GMT",
+      "time": "۲۲:۲۹ - ۱۱ مهر",
+      "iranScore": 6,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-03T19:01:56.446Z"
     }
   ]
 }
