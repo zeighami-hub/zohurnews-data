@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
   "agencyId": "bbc",
-  "total": 12,
+  "total": 13,
   "articles": [
     {
       "id": "bbc_30afddefad",
@@ -230,6 +230,25 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-03T09:32:04.763Z"
+    },
+    {
+      "id": "bbc_c85c483d2e",
+      "agencyId": "bbc",
+      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+      "title_fa": "شهروند دوتابعیتی ایرانی-بریتانیایی پس از دستگیری در حادثه پایگاه فیرفورد آزاد شد",
+      "lead": "یک مرد ۲۵ ساله که در ارتباط با حادثه‌ای در پایگاه هوایی فیرفورد متعلق به نیروی هوایی سلطنتی بریتانیا دستگیر شده بود، به قید وثیقه آزاد شد. او روز پنجشنبه در منطقه وست‌مینستر لندن بازداشت شده بود.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 03 Oct 2026 10:27:52 GMT",
+      "time": "۱۳:۵۷ - ۱۱ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-03T10:46:53.456Z"
     }
   ]
 }
