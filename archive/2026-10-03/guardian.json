@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
   "agencyId": "guardian",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "guardian_2457fce516",
@@ -306,6 +306,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-10-03T15:46:50.445Z"
+    },
+    {
+      "id": "guardian_1ace81c992",
+      "agencyId": "guardian",
+      "title": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
+      "title_fa": "گارد ساحلی ایالات متحده از توقیف کشتی حامل سوخت به مقصد کوبا خبر داد",
+      "lead": "ایالات متحده اعلام کرد در حالی که تحریم‌ها ادامه دارد، کشتی حامل سوخت که تصور می‌شود از تاکتیک‌های «ناوگان تاریک» استفاده می‌کرده، توقیف شده و به مکزیک هدایت شده است.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
+      "pubDate": "Fri, 02 Oct 2026 15:13:23 GMT",
+      "time": "۱۸:۴۳ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-03T16:02:02.433Z"
+    },
+    {
+      "id": "guardian_8e2cd0df80",
+      "agencyId": "guardian",
+      "title": "South African leader urges men to speak up on gender-based violence after series of killings",
+      "title_fa": "رهبر آفریقای جنوبی پس از سلسله قتل‌ها از مردان خواست علیه خشونت جنسیتی صحبت کنند",
+      "lead": "رئیس‌جمهور آفریقای جنوبی در میان خشم عمومی از مقام‌ها به خاطر قتل‌های اخیر زنان، از مردان خواست تا مسئولیت بیشتری در قبال خشونت علیه زنان بپذیرند و اقداماتی را برای مقابله با این مشکل اعلام کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+      "pubDate": "Wed, 30 Sep 2026 14:16:33 GMT",
+      "time": "۱۷:۴۶ - ۸ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 30,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-03T16:02:02.433Z"
     }
   ]
 }
