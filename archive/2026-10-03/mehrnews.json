@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
   "agencyId": "mehrnews",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "mehrnews_ed1ec93dcd",
@@ -59,6 +59,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-03T05:46:56.681Z"
+    },
+    {
+      "id": "mehrnews_333621d441",
+      "agencyId": "mehrnews",
+      "title": "Iraqi cleric urges reopening all airports btw Tehran-Baghdad",
+      "title_fa": "درخواست مقام عراقی برای بازگشایی تمامی فرودگاه‌ها میان تهران و بغداد",
+      "lead": "عمار حکیم، از رهبران عراقی، خواستار بازگشایی تمامی فرودگاه‌ها برای پروازهای بین تهران و بغداد شد. او همچنین همبستگی خود را با ایران و مردم آن در رویارویی با فشارهای اقتصادی ابراز کرد.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248260/Iraqi-cleric-urges-reopening-all-airports-btw-Tehran-Baghdad",
+      "pubDate": "Sat, 03 Oct 2026 05:56:57 GMT",
+      "time": "۰۹:۲۶ - ۱۱ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-03T06:02:08.160Z"
+    },
+    {
+      "id": "mehrnews_c04fb55121",
+      "agencyId": "mehrnews",
+      "title": "Iran has completed SPGF Phase 11 using technical knowhow",
+      "title_fa": "ایران فاز ۱۱ میدان گازی پارس جنوبی را با دانش فنی تکمیل کرد",
+      "lead": "به دنبال خروج شرکت‌های خارجی از ایران، فاز ۱۱ میدان گازی پارس جنوبی توسط مهندسان متخصص ایرانی تکمیل شد و به ظرفیت تولید نهایی یک میلیارد فوت مکعب در روز با هدف کاهش ناترازی انرژی دست یافت.",
+      "category": "energy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248259/Iran-has-completed-SPGF-Phase-11-using-technical-knowhow",
+      "pubDate": "Sat, 03 Oct 2026 05:50:39 GMT",
+      "time": "۰۹:۲۰ - ۱۱ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-03T06:02:08.160Z"
     }
   ]
 }
