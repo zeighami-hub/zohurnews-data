@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_a435ac0c11",
@@ -306,6 +306,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-10-03T15:16:46.357Z"
+    },
+    {
+      "id": "nytimes_9080d9df8f",
+      "agencyId": "nytimes",
+      "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+      "title_fa": "چگونه مسافران و خدمه فلای‌دبی پس از چاقو خوردن خلبان از فاجعه جلوگیری کردند",
+      "lead": "یک خلبان هندی به شدت زخمی‌شده توانست در کابین خلبان را باز کند. چهار مرد اسرائیلی برای مهار مهاجم و جلوگیری از فاجعه با یکدیگر متحد شدند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
+      "pubDate": "Sat, 03 Oct 2026 14:59:12 +0000",
+      "time": "۱۸:۲۹ - ۱۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-10-03T16:02:02.433Z"
+    },
+    {
+      "id": "nytimes_df86005ec8",
+      "agencyId": "nytimes",
+      "title": "Why U.S. Diesel Is So Important to Major Trading Partners",
+      "title_fa": "چرا گازوئیل ایالات متحده برای شرکای تجاری بزرگ بسیار مهم است",
+      "lead": "اقتصادهای آمریکای لاتین و اروپا به گازوئیل آمریکا وابسته هستند. توقف صادرات می‌تواند برخی کشورها را به سمت رکود سوق دهد و به تجارت با ایالات متحده آسیب برساند.",
+      "category": "economy",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/10/02/world/americas/us-diesel-ban-trump-mexico-europe-brazil.html",
+      "pubDate": "Fri, 02 Oct 2026 15:39:08 +0000",
+      "time": "۱۹:۰۹ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-03T16:02:02.433Z"
     }
   ]
 }
