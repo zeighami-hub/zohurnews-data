@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
   "agencyId": "bbc",
-  "total": 17,
+  "total": 19,
   "articles": [
     {
       "id": "bbc_30afddefad",
@@ -325,6 +325,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-10-03T16:32:00.506Z"
+    },
+    {
+      "id": "bbc_761829da9d",
+      "agencyId": "bbc",
+      "title": "Riot police clash with students as education protests rage in France",
+      "title_fa": "درگیری پلیس ضد شورش با دانشجویان در جریان اعتراضات سراسری به وضعیت آموزش در فرانسه",
+      "lead": "حدود ۷۳۵ مدرسه در فرانسه با اختلال مواجه شده‌اند و اعتراضات خشونت‌آمیز به استانداردهای آموزشی و کمبود معلم همچنان ادامه دارد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 21:13:27 GMT",
+      "time": "۰۰:۴۳ - ۱۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-03T17:02:00.884Z"
+    },
+    {
+      "id": "bbc_7d093b5074",
+      "agencyId": "bbc",
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "title_fa": "نتانیاهو: مهاجم پرواز فلای‌دبی دارای «آموزش رادیکال اسلامی» بوده است",
+      "lead": "نخست‌وزیر اسرائیل اعلام کرد خلبانی که تلاش کرد هواپیمای فلای‌دبی را ربوده و کنترل آن را به دست بگیرد، قطعا قصد «سقوط هواپیما» را داشته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 19:59:24 GMT",
+      "time": "۲۳:۲۹ - ۹ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-03T16:46:52.874Z"
     }
   ]
 }
