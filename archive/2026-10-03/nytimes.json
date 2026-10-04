@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
   "agencyId": "nytimes",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "nytimes_a435ac0c11",
@@ -192,6 +192,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-03T10:32:15.944Z"
+    },
+    {
+      "id": "nytimes_befbeb0afa",
+      "agencyId": "nytimes",
+      "title": "Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views",
+      "title_fa": "خلبان دوم عمانی پرواز فلای‌دبی دارای دیدگاه‌های افراطی توصیف شد",
+      "lead": "گزارش‌ها حاکی از آن است که خلبان دوم پرواز فلای‌دبی دارای دیدگاه‌های افراطی بوده است، در حالی که وضعیت بررسی‌های امنیتی پیش از اجازه پرواز او به اسرائیل نامشخص است.",
+      "category": "technology",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html",
+      "pubDate": "Sat, 03 Oct 2026 12:04:55 +0000",
+      "time": "۱۵:۳۴ - ۱۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-03T12:17:45.342Z"
+    },
+    {
+      "id": "nytimes_bf8cbff93f",
+      "agencyId": "nytimes",
+      "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
+      "title_fa": "روسیه به حمله به پل‌های کی‌یف روی آورده و یک شریان حیاتی را تهدید می‌کند",
+      "lead": "این پل‌ها که توسط بسیاری از مسافران در پایتخت اوکراین استفاده می‌شوند، آخرین هدف در کمپین گسترده بمباران زیرساخت‌ها توسط روسیه هستند.",
+      "category": "society",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
+      "pubDate": "Sat, 03 Oct 2026 11:59:06 +0000",
+      "time": "۱۵:۲۹ - ۱۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-03T12:17:45.342Z"
     }
   ]
 }
