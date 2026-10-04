@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
   "agencyId": "bbc",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "bbc_30afddefad",
@@ -59,6 +59,44 @@
         "negative": 50
       },
       "analyzed_at": "2026-10-03T00:16:30.526Z"
+    },
+    {
+      "id": "bbc_a367aacf5f",
+      "agencyId": "bbc",
+      "title": "OpenAI fires workers for 'mishandling sensitive information'",
+      "title_fa": "اوپن‌آی کارکنانی را به دلیل افشای اطلاعات حساس اخراج کرد",
+      "lead": "کارمندان پیشین شرکت اوپن‌آی پس از تحقیقاتی درباره به اشتراک‌گذاری داده‌ها با یک گروه ارزیابی هوش مصنوعی خارجی، اخراج شدند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 08:20:32 GMT",
+      "time": "۱۱:۵۰ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-03T03:31:31.805Z"
+    },
+    {
+      "id": "bbc_fd27c35877",
+      "agencyId": "bbc",
+      "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+      "title_fa": "استرالیا: پلتفرم‌هایی مانند استیم و روبلاکس شکاف‌های ایمنی کودکان دارند",
+      "lead": "رگولاتور امنیت آنلاین استرالیا به بازی‌ها و پلتفرم‌هایی از جمله فورتنایت و ماینکرفت هشدار داد که باید استانداردهای ایمنی خود را بهبود ببخشند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 04:21:31 GMT",
+      "time": "۰۷:۵۱ - ۱۰ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-03T03:31:31.805Z"
     }
   ]
 }
