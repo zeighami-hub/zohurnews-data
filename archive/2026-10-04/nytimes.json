@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_18ecf7ea57",
@@ -477,6 +477,25 @@
         "negative": 50
       },
       "analyzed_at": "2026-10-04T21:01:38.033Z"
+    },
+    {
+      "id": "nytimes_83d5756f27",
+      "agencyId": "nytimes",
+      "title": "The Return of Middle East Oil",
+      "title_fa": "بازگشت نفت خاورمیانه",
+      "lead": "حجم بیشتری از نفت در حال عبور از تنگه هرمز است و این وضعیت بر اهرم فشار ایران در زمان جنگ تأثیر می‌گذارد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.nytimes.com/2026/10/04/world/strait-hormuz-oil-yemen-brazil.html",
+      "pubDate": "Sun, 04 Oct 2026 20:58:41 +0000",
+      "time": "۰۰:۲۸ - ۱۳ مهر",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-04T21:16:29.309Z"
     }
   ]
 }
