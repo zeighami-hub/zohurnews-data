@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "agencyId": "nytimes",
-  "total": 19,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_18ecf7ea57",
@@ -363,6 +363,44 @@
         "negative": 30
       },
       "analyzed_at": "2026-10-04T13:16:45.895Z"
+    },
+    {
+      "id": "nytimes_339865d1c7",
+      "agencyId": "nytimes",
+      "title": "Iran’s Top Security Official Warns of Dire Economic Crisis",
+      "title_fa": "هشدار مقام ارشد امنیتی ایران درباره بحران شدید اقتصادی",
+      "lead": "محسن رضایی، مقام ارشد امنیتی، اعتراف کم‌سابقه‌ای درباره بحران اقتصادی مطرح کرد. این اظهارات چند هفته پس از تشدید تحریم‌ها و محاصره دریایی از سوی ایالات متحده بیان شد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/10/04/world/middleeast/iran-economy-rial.html",
+      "pubDate": "Sun, 04 Oct 2026 13:56:57 +0000",
+      "time": "۱۷:۲۶ - ۱۲ مهر",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-04T14:02:15.678Z"
+    },
+    {
+      "id": "nytimes_96794925dd",
+      "agencyId": "nytimes",
+      "title": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
+      "title_fa": "چگونه پایگاه نیروی هوایی سلطنتی فارفورد در انگلیس به کانون تنش میان آمریکا و ایران تبدیل شد",
+      "lead": "یک تماس مشکوک در هفته گذشته در نزدیکی یک پایگاه نظامی مورد استفاده ایالات متحده در بریتانیا، واکنش گسترده ضدتروریسم و روزها ابهام را در این کشور به دنبال داشت.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html",
+      "pubDate": "Sat, 03 Oct 2026 16:19:06 +0000",
+      "time": "۱۹:۴۹ - ۱۱ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-04T14:02:15.678Z"
     }
   ]
 }
