@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 24,
   "articles": [
     {
       "id": "bbc_8c1678f514",
@@ -401,6 +401,63 @@
         "negative": 50
       },
       "analyzed_at": "2026-10-04T14:31:54.038Z"
+    },
+    {
+      "id": "bbc_222febf7b0",
+      "agencyId": "bbc",
+      "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+      "title_fa": "یمن از کمپین نظامی برای پس‌گیری مناطق از حوثی‌های تحت حمایت ایران خبر داد",
+      "lead": "اعلام رئیس‌جمهور یمن در خصوص کمپین نظامی در حالی صورت می‌گیرد که حملاتی میان حوثی‌ها و ائتلاف به رهبری عربستان ردوبدل شده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 04 Oct 2026 14:24:56 GMT",
+      "time": "۱۷:۵۴ - ۱۲ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-04T15:01:56.602Z"
+    },
+    {
+      "id": "bbc_90bdd2c61b",
+      "agencyId": "bbc",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "title_fa": "دستگیری یک تفنگدار دریایی آمریکا به اتهام قتل یک زن در اوکیناوای ژاپن",
+      "lead": "دولت ژاپن اعتراض رسمی خود را به آمریکا تسلیم کرده و خواستار اقدام مقامات نظامی شده است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 04 Oct 2026 14:36:57 GMT",
+      "time": "۱۸:۰۶ - ۱۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-04T15:01:56.602Z"
+    },
+    {
+      "id": "bbc_3aa0644b3d",
+      "agencyId": "bbc",
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "title_fa": "ویدیو: آنچه درباره حملات روسیه به پل‌های کی‌یف می‌دانیم",
+      "lead": "خبرنگار بی‌بی‌سی در اوکراین در نزدیکی پل شمالی کی‌یف که برای دومین روز متوالی هدف حمله قرار گرفته، حضور دارد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 04 Oct 2026 14:25:32 GMT",
+      "time": "۱۷:۵۵ - ۱۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-04T15:01:56.602Z"
     }
   ]
 }
