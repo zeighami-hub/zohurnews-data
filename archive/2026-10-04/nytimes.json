@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "agencyId": "nytimes",
-  "total": 14,
+  "total": 15,
   "articles": [
     {
       "id": "nytimes_18ecf7ea57",
@@ -268,6 +268,25 @@
         "negative": 30
       },
       "analyzed_at": "2026-10-04T10:32:00.359Z"
+    },
+    {
+      "id": "nytimes_08bd469b8e",
+      "agencyId": "nytimes",
+      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+      "title_fa": "ادعای حوثی‌ها درباره حمله به تاسیسات آرامکو همزمان با تشدید درگیری‌ها در یمن",
+      "lead": "شبه‌نظامیان حوثی وابسته به ایران اعلام کردند که یک تاسیسات شرکت آرامکو را در ریاض پایتخت عربستان سعودی هدف قرار داده‌اند. در همین حال، حملات هوایی تازه‌ای پایتخت یمن را لرزاند و نگرانی‌ها از گسترش جنگ را افزایش داد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
+      "pubDate": "Sun, 04 Oct 2026 10:45:50 +0000",
+      "time": "۱۴:۱۵ - ۱۲ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-04T11:02:03.752Z"
     }
   ]
 }
