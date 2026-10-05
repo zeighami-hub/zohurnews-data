@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "agencyId": "aljazeera",
-  "total": 35,
+  "total": 37,
   "articles": [
     {
       "id": "aljazeera_56bb10e6e3",
@@ -667,6 +667,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-10-04T11:16:57.383Z"
+    },
+    {
+      "id": "aljazeera_4063285d94",
+      "agencyId": "aljazeera",
+      "title": "Iran says Hormuz to remain closed until US meets conditions",
+      "title_fa": "ایران می‌گوید تنگه هرمز تا زمان عمل آمریکا به شرایط، بسته خواهد ماند",
+      "lead": "تهران می‌گوید بازگشایی تنگه هرمز هدف اصلی این کشور بوده است، در حالی که ایالات متحده همچنان بر مذاکرات هسته‌ای تمرکز دارد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
+      "pubDate": "Sun, 04 Oct 2026 11:11:30 +0000",
+      "time": "۱۴:۴۱ - ۱۲ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-04T11:46:49.141Z"
+    },
+    {
+      "id": "aljazeera_d8d5ae802c",
+      "agencyId": "aljazeera",
+      "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
+      "title_fa": "برگزاری انتخابات عمیقاً دوقطبی در برزیل با رقابت لولا و بولسونارو",
+      "lead": "انتخابات ریاست‌جمهوری برزیل با رقابت فشرده میان رهبر چپ‌گرا، لولا، برای کسب چهارمین دور غیرمتوالی و فلاویو بولسونارو از جناح راست برگزار می‌شود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
+      "pubDate": "Sun, 04 Oct 2026 11:15:34 +0000",
+      "time": "۱۴:۴۵ - ۱۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-04T11:46:49.141Z"
     }
   ]
 }
