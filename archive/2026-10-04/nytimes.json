@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
   "agencyId": "nytimes",
-  "total": 12,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_18ecf7ea57",
@@ -230,6 +230,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-10-04T10:02:08.341Z"
+    },
+    {
+      "id": "nytimes_498492dfce",
+      "agencyId": "nytimes",
+      "title": "The Search for Gas in Moscow",
+      "title_fa": "جستجو برای بنزین در مسکو",
+      "lead": "ایوان نِچِپورنکو، خبرنگار نیویورک تایمز، جایگاه‌های سوخت در مسکو را بررسی می‌کند تا میزان شدت کمبودهای ایجاد شده در پی حملات اوکراین به پالایشگاه‌های روسیه را ارزیابی کند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
+      "pubDate": "Sun, 04 Oct 2026 09:00:45 +0000",
+      "time": "۱۲:۳۰ - ۱۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-04T10:32:00.359Z"
+    },
+    {
+      "id": "nytimes_edc4e3eeba",
+      "agencyId": "nytimes",
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon",
+      "title_fa": "رقابت ابرقدرت‌ها برای قرار دادن راکتورهای هسته‌ای روی ماه",
+      "lead": "ایالات متحده می‌خواهد تا سال ۲۰۳۰ یک راکتور روی ماه مستقر کند، در حالی که ائتلاف روسیه و چین روی پروژه‌ای برای سال ۲۰۳۶ کار می‌کنند و برخی دانشمندان برجسته نسبت به خطرات آن هشدار می‌دهند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
+      "pubDate": "Sun, 04 Oct 2026 09:00:29 +0000",
+      "time": "۱۲:۳۰ - ۱۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-10-04T10:32:00.359Z"
     }
   ]
 }
