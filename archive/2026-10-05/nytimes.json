@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "nytimes",
-  "total": 28,
+  "total": 30,
   "articles": [
     {
       "id": "nytimes_2f1eb340f0",
@@ -534,6 +534,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-05T18:16:47.145Z"
+    },
+    {
+      "id": "nytimes_ab4cc1e80a",
+      "agencyId": "nytimes",
+      "title": "Nigeria Military Helicopter Crashes With 32 Onboard",
+      "title_fa": "سقوط بالگرد نظامی نیجریه با ۳۲ سرنشین",
+      "lead": "یک فروند بالگرد نظامی نیجریه با ۳۲ سرنشین سقوط کرد. این سانحه یکی از بدترین سوانح هوانوردی نظامی نیجریه در سال‌های اخیر به شمار می‌رود و این کشور سابقه طولانی در سوانح مرگبار هواپیماهای نظامی دارد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/africa/nigeria-military-aircraft-crash.html",
+      "pubDate": "Mon, 05 Oct 2026 20:54:31 +0000",
+      "time": "۰۰:۲۴ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-10-05T20:57:15.780Z"
+    },
+    {
+      "id": "nytimes_3ad8026a19",
+      "agencyId": "nytimes",
+      "title": "The Rise of Gig Economy Warfare",
+      "title_fa": "ظهور جنگ‌افزاری اقتصاد گیگی",
+      "lead": "یک رویداد در یک پایگاه هوایی بریتانیا ممکن است نشان‌دهنده عصر جدیدی از درگیری با شدت کم باشد. این پدیده ابعاد نوینی از منازعات را به نمایش می‌گذارد.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/gig-economy-warfare-fairford-brazil.html",
+      "pubDate": "Mon, 05 Oct 2026 20:34:31 +0000",
+      "time": "۰۰:۰۴ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-05T20:57:15.780Z"
     }
   ]
 }
