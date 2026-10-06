@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "nytimes",
-  "total": 18,
+  "total": 21,
   "articles": [
     {
       "id": "nytimes_2f1eb340f0",
@@ -344,6 +344,63 @@
         "negative": 65
       },
       "analyzed_at": "2026-10-05T11:17:01.869Z"
+    },
+    {
+      "id": "nytimes_7e492d67af",
+      "agencyId": "nytimes",
+      "title": "Israeli Authorities Trade Blame for Failure to Flag FlyDubai Co-Pilot",
+      "title_fa": "مقامات اسرائیل مسئولیت عدم هشدار درباره کمک‌خلبان فلای‌دبی را به گردن یکدیگر می‌اندازند",
+      "lead": "به گفته مقامات، کمک‌خلبان عمانی که گفته می‌شود قصد سقوط دادن هواپیما را داشته، دیدگاه‌های افراطی اسلامی را پذیرفته بوده است.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-israel-debate-pilot-security.html",
+      "pubDate": "Sun, 04 Oct 2026 19:07:37 +0000",
+      "time": "۲۲:۳۷ - ۱۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-05T12:03:22.559Z"
+    },
+    {
+      "id": "nytimes_3f8e837de8",
+      "agencyId": "nytimes",
+      "title": "Live Updates: Spain Calls Early Election After Housing Crisis Roils Government",
+      "title_fa": "اسپانیا پس از بحران مسکن و دولت، انتخابات زودهنگام برگزار می‌کند",
+      "lead": "پدرو سانچز، نخست‌وزیر اسپانیا، در پی افزایش فشارها بر دولت خود در زمینه بحران مهاجرت، رسوایی‌های فساد مالی و چالش‌های مسکن با چالش‌های جدی روبرو شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez",
+      "pubDate": "Mon, 05 Oct 2026 11:43:15 +0000",
+      "time": "۱۵:۱۳ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-05T11:47:04.223Z"
+    },
+    {
+      "id": "nytimes_d8eef703cd",
+      "agencyId": "nytimes",
+      "title": "Housing, Corruption and a Migrant Surge: Why Spain Is Holding an Early Election",
+      "title_fa": "بحران مسکن، فساد و هجوم مهاجران؛ دلایل برگزاری انتخابات زودهنگام در اسپانیا",
+      "lead": "نخست‌وزیر اسپانیا، پدرو سانچز، روز دوشنبه و پس از ماه‌ها بحران متوالی و تشدید چالش‌های سیاسی، پارلمان این کشور را منحل کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/europe/spain-elections-housing-migrants-corruption.html",
+      "pubDate": "Mon, 05 Oct 2026 11:43:13 +0000",
+      "time": "۱۵:۱۳ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-05T11:47:04.223Z"
     }
   ]
 }
