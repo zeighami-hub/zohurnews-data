@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "bbc",
-  "total": 27,
+  "total": 30,
   "articles": [
     {
       "id": "bbc_8c1678f514",
@@ -515,6 +515,63 @@
         "negative": 30
       },
       "analyzed_at": "2026-10-05T14:07:32.228Z"
+    },
+    {
+      "id": "bbc_a1f772ddfd",
+      "agencyId": "bbc",
+      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "title_fa": "محکومیت حمله وحشتناک روسیه به کشتی حامل ذرت در دریای سیاه توسط زلنسکی",
+      "lead": "رهبر اوکراین اعلام کرد در پی حمله به یک کشتی متعلق به ترکیه در دریای سیاه، کاپیتان کشتی کشته شده و ۱۱ خدمه آن نجات یافته‌اند.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:17:23 GMT",
+      "time": "۱۸:۴۷ - ۱۳ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-05T15:31:58.439Z"
+    },
+    {
+      "id": "bbc_17b93ee2f8",
+      "agencyId": "bbc",
+      "title": "Yemeni government forces say they have 'secured' Bab al-Mandab Strait",
+      "title_fa": "نیروهای دولت یمن مدعی «تامین امنیت» تنگه باب‌المندب شدند",
+      "lead": "رسانه‌های وابسته به حوثی‌ها پیشروی دولت در منطقه ذباب را که مشرف بر آبراه راهبردی دریای سرخ است، تکذیب کردند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 05 Oct 2026 14:37:17 GMT",
+      "time": "۱۸:۰۷ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-05T15:17:04.520Z"
+    },
+    {
+      "id": "bbc_222febf7b0",
+      "agencyId": "bbc",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "title_fa": "دولت یمن جنگ تمام‌عیار برای پس‌گرفتن اراضی از حوثی‌ها را اعلام کرد",
+      "lead": "اعلامیه رئیس‌جمهور یمن در پی تبادل حملات میان حوثی‌ها و ائتلاف تحت رهبری عربستان سعودی صورت گرفته است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 04 Oct 2026 16:51:30 GMT",
+      "time": "۲۰:۲۱ - ۱۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-05T15:17:04.520Z"
     }
   ]
 }
