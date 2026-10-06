@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "nytimes",
-  "total": 23,
+  "total": 24,
   "articles": [
     {
       "id": "nytimes_2f1eb340f0",
@@ -439,6 +439,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-10-05T13:02:23.589Z"
+    },
+    {
+      "id": "nytimes_e7b879c26c",
+      "agencyId": "nytimes",
+      "title": "Why Saudi Arabia’s Last War in Yemen Turned Into a Quagmire",
+      "title_fa": "چرا آخرین جنگ عربستان سعودی در یمن به باتلاق تبدیل شد",
+      "lead": "ائتلاف به رهبری عربستان سعودی کمپین نظامی جدیدی را علیه شبه‌نظامیان حوثی مورد حمایت ایران اعلام کرده که یادآور تلاش‌های نظامی قبلی این کشور در یمن است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
+      "pubDate": "Mon, 05 Oct 2026 13:29:52 +0000",
+      "time": "۱۶:۵۹ - ۱۳ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-05T13:46:58.341Z"
     }
   ]
 }
