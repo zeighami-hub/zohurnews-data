@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "mehrnews",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "mehrnews_0b318ea549",
@@ -477,6 +477,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-10-05T13:16:47.922Z"
+    },
+    {
+      "id": "mehrnews_432b43bf3a",
+      "agencyId": "mehrnews",
+      "title": "Iran to use diplomatic potential to defend national interests",
+      "title_fa": "ایران از ظرفیت دیپلماسی برای دفاع از منافع ملی استفاده می‌کند",
+      "lead": "عباس عراقچی، وزیر امور خارجه، اعلام کرد که ایران از تمام ظرفیت‌های دیپلماتیک خود برای حراست از منافع ملی و تقویت جایگاه و امنیت کشور استفاده خواهد کرد.",
+      "category": "diplomacy",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248344/Iran-to-use-all-potential-in-defense-of-national-interests",
+      "pubDate": "Mon, 05 Oct 2026 14:24:34 GMT",
+      "time": "۱۷:۵۴ - ۱۳ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 70,
+        "neutral": 30,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-05T14:32:01.394Z"
+    },
+    {
+      "id": "mehrnews_b07dee946f",
+      "agencyId": "mehrnews",
+      "title": "The ICC and Riyadh’s war crimes in Yemen",
+      "title_fa": "دیوان کیفری بین‌المللی و جنایات جنگی ریاض در یمن",
+      "lead": "در پی تشدید تنش‌ها در هفته‌های اخیر میان عربستان سعودی و جنبش انصارالله یمن، حملات نظامی ریاض علیه غیرنظامیان به عنوان جنایات جنگی توصیف می‌شود. این وضعیت توجه نهادهای بین‌المللی را به خود جلب کرده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248343/The-ICC-and-Riyadh-s-war-crimes-in-Yemen",
+      "pubDate": "Mon, 05 Oct 2026 14:05:40 GMT",
+      "time": "۱۷:۳۵ - ۱۳ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-05T14:17:31.876Z"
     }
   ]
 }
