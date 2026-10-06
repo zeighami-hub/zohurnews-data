@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "bbc",
-  "total": 32,
+  "total": 34,
   "articles": [
     {
       "id": "bbc_8c1678f514",
@@ -610,6 +610,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-10-05T19:52:55.106Z"
+    },
+    {
+      "id": "bbc_69bbb3afb8",
+      "agencyId": "bbc",
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "title_fa": "ترامپ گفت «تهدید» باعث شد آمریکا بمب‌افکن‌ها را از پایگاه فیرفورد خارج کند",
+      "lead": "پنتاگون روز یکشنبه تأیید کرد که بمب‌افکن‌های B1 را از پایگاه نظامی در انگلستان به پایگاه‌های اصلی خود در آمریکا بازگردانده است.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 05 Oct 2026 20:24:57 GMT",
+      "time": "۲۳:۵۴ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-05T20:27:22.934Z"
+    },
+    {
+      "id": "bbc_f071ad4bef",
+      "agencyId": "bbc",
+      "title": "US 'watching closely' after plague researcher dies in Russia, Rubio says",
+      "title_fa": "روبیو: ایالات متحده پس از مرگ پژوهشگر طاعون در روسیه، وضعیت را «به دقت زیر نظر دارد»",
+      "lead": "ایالات متحده می‌گوید پرونده یک تکنسین آزمایشگاه را که در یک مرکز پژوهش طاعون در سیبری جان باخته است، پیگیری می‌کند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 05 Oct 2026 19:55:00 GMT",
+      "time": "۲۳:۲۵ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-10-05T20:27:22.934Z"
     }
   ]
 }
