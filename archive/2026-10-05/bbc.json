@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "bbc",
-  "total": 13,
+  "total": 15,
   "articles": [
     {
       "id": "bbc_8c1678f514",
@@ -249,6 +249,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-10-05T08:17:04.847Z"
+    },
+    {
+      "id": "bbc_b4773e1977",
+      "agencyId": "bbc",
+      "title": "Why has Spain's PM called a snap election?",
+      "title_fa": "چرا نخست‌وزیر اسپانیا انتخابات زودهنگام اعلام کرد؟",
+      "lead": "مجموعه اقدامات پیشنهادی نخست‌وزیر اسپانیا برای حل بحران مسکن روز جمعه در پارلمان رد شد و همین امر به اعلام انتخابات زودهنگام منجر شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 05 Oct 2026 09:03:30 GMT",
+      "time": "۱۲:۳۳ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-05T09:17:17.110Z"
+    },
+    {
+      "id": "bbc_2a59cf622c",
+      "agencyId": "bbc",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "title_fa": "اصابت موشک به پلی در کی‌یف در جریان حمله جدید پهپادی روسیه همزمان با سفر غیرمنتظره صدراعظم آلمان",
+      "lead": "تصاویر ویدئویی لحظه برخورد یک پهپاد به پل پیونیشی (شمالی) را در حال عبور خودروها و ایجاد یک گوله آتش بزرگ نشان می‌دهد.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 04 Oct 2026 12:09:04 GMT",
+      "time": "۱۵:۳۹ - ۱۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-05T09:17:17.110Z"
     }
   ]
 }
