@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "bbc",
-  "total": 10,
+  "total": 13,
   "articles": [
     {
       "id": "bbc_8c1678f514",
@@ -192,6 +192,63 @@
         "negative": 10
       },
       "analyzed_at": "2026-10-05T08:02:26.367Z"
+    },
+    {
+      "id": "bbc_e1a0efd8fb",
+      "agencyId": "bbc",
+      "title": "Why Canada is wargaming a (long shot) US invasion",
+      "title_fa": "چرا کانادا سناریوی جنگی تهاجم احتمالی ایالات متحده را شبیه‌سازی می‌کند",
+      "lead": "مارک کارنی، نخست‌وزیر، اعلام کرده است که ارتش در حال اجرای سناریوهایی برای احتمال بعید حمله ایالات متحده به کانادا است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 03 Oct 2026 23:30:06 GMT",
+      "time": "۰۳:۰۰ - ۱۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-10-05T08:17:04.847Z"
+    },
+    {
+      "id": "bbc_2b8f9f5f22",
+      "agencyId": "bbc",
+      "title": "Will Spain's housing crisis lead to a snap election?",
+      "title_fa": "آیا بحران مسکن در اسپانیا به برگزاری انتخابات زودهنگام منجر خواهد شد؟",
+      "lead": "گای هجکو، خبرنگار بی‌بی‌سی در مادرید گزارش می‌دهد که پس از رد شدن اقدامات پیشنهادی برای حل بحران مسکن در کنگره اسپانیا، سلسله راهپیمایی‌هایی برنامه‌ریزی شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 03 Oct 2026 12:26:30 GMT",
+      "time": "۱۵:۵۶ - ۱۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-05T08:17:04.847Z"
+    },
+    {
+      "id": "bbc_31f8220478",
+      "agencyId": "bbc",
+      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "title_fa": "آیا پدیده ال‌نینو به معنای عدم وقوع طوفان‌های اقیانوس اطلس در سال جاری است؟",
+      "lead": "برای نخستین بار در سه دهه گذشته، در ماه سپتامبر که معمولاً پرطوفان‌ترین ماه سال است، حتی یک مورد طوفان در اقیانوس اطلس ثبت نشده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 23:37:13 GMT",
+      "time": "۰۳:۰۷ - ۱۱ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-05T08:17:04.847Z"
     }
   ]
 }
