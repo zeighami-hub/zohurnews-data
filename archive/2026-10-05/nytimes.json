@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "nytimes",
-  "total": 7,
+  "total": 9,
   "articles": [
     {
       "id": "nytimes_2f1eb340f0",
@@ -135,6 +135,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-05T08:32:24.904Z"
+    },
+    {
+      "id": "nytimes_68b854f409",
+      "agencyId": "nytimes",
+      "title": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
+      "title_fa": "آینده ربات‌های انسان‌نما به یک پارک در کره جنوبی رسیده است. تا حدودی.",
+      "lead": "خبرنگار نیویورک تایمز برای بررسی نحوه زندگی احتمالی آینده با ربات‌ها به پارک ربات کهکشان در سئول رفته و آن را ترکیبی از فناوری پیشرفته و نمایش توصیف کرده است.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+      "pubDate": "Mon, 05 Oct 2026 09:02:23 +0000",
+      "time": "۱۲:۳۲ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-05T09:17:17.110Z"
+    },
+    {
+      "id": "nytimes_3d6adeb23c",
+      "agencyId": "nytimes",
+      "title": "Are Babies Conscious?",
+      "title_fa": "آیا نوزادان هوشیار هستند؟",
+      "lead": "دانشمندان امیدوارند با مشخص کردن زمان دقیق آغاز هوشیاری در انسان‌های خردسال، درک بهتری از ماهیت هوشیاری و نحوه شکل‌گیری آن در همه ما پیدا کنند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html",
+      "pubDate": "Mon, 05 Oct 2026 09:00:09 +0000",
+      "time": "۱۲:۳۰ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 70,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-05T09:17:17.110Z"
     }
   ]
 }
