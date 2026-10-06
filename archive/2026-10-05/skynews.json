@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "skynews",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "skynews_3a011d8a3b",
@@ -173,6 +173,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-10-05T13:46:58.341Z"
+    },
+    {
+      "id": "skynews_95c528b1a5",
+      "agencyId": "skynews",
+      "title": "Failed asylum seeker who attempted knife attack on Israeli embassy jailed for life",
+      "title_fa": "پناهجوی ردشده به جرم تلاش برای حمله با چاقو به سفارت اسرائیل به حبس ابد محکوم شد",
+      "lead": "یک پناهجوی ردشده که تلاش کرده بود به سفارت اسرائیل در لندن حمله با چاقو انجام دهد، از سوی دادگاه به حبس ابد محکوم شد.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/failed-asylum-seeker-who-attempted-knife-attack-on-israeli-embassy-in-london-jailed-for-life-13595402",
+      "pubDate": "Mon, 05 Oct 2026 14:07:00 +0100",
+      "time": "۱۶:۳۷ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-05T14:32:01.394Z"
+    },
+    {
+      "id": "skynews_d8f2ce8442",
+      "agencyId": "skynews",
+      "title": "'Hundreds of Houthi targets in Yemen attacked' in air campaign by Saudi-led coalition",
+      "title_fa": "حمله هوایی ائتلاف تحت رهبری سعودی به صدها هدف حوثی در یمن",
+      "lead": "ائتلاف به رهبری عربستان سعودی اعلام کرد که در جریان یک عملیات هوایی با به‌کارگیری ۱۰۰ جنگنده، ۳۲۴ هدف با ارزش را در مناطق تحت کنترل انصارالله یمن مورد حمله قرار داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://news.sky.com/story/yemen-hundreds-of-houthi-targets-attacked-as-saudi-led-coalition-carries-out-air-campaign-13595382",
+      "pubDate": "Mon, 05 Oct 2026 13:22:00 +0100",
+      "time": "۱۵:۵۲ - ۱۳ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-05T14:17:31.876Z"
     }
   ]
 }
