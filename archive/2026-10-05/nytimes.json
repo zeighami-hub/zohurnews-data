@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "nytimes",
-  "total": 9,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_2f1eb340f0",
@@ -173,6 +173,101 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-05T09:17:17.110Z"
+    },
+    {
+      "id": "nytimes_56f5139364",
+      "agencyId": "nytimes",
+      "title": "U.K. Base Would Be Ambitious Target for ‘Gig Economy’ Warfare",
+      "title_fa": "پایگاه‌های بریتانیا؛ اهدافی بالقوه برای جنگ‌های مبتنی بر اقتصاد گی",
+      "lead": "کارشناسان می‌گویند جنگ ایالات متحده در ایران منجر به حملات در مقیاس کوچک توسط مجرمان محلی یا جوانان حاشیه‌نشینی شده است که به صورت ناشناس برای هدف قرار دادن اماکن یهودی و آمریکایی در اروپا و آمریکای شمالی استخدام شده‌اند.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/10/04/world/europe/uk-base-plot-proxy-attacks.html",
+      "pubDate": "Sun, 04 Oct 2026 22:30:27 +0000",
+      "time": "۰۲:۰۰ - ۱۳ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-05T09:32:13.293Z"
+    },
+    {
+      "id": "nytimes_eb241d6c2e",
+      "agencyId": "nytimes",
+      "title": "Trapped in a Kill Zone, a Ukrainian City Is Beginning to Starve",
+      "title_fa": "گرفتار در منطقه جنگی؛ آغاز قحطی در یک شهر اوکراینی",
+      "lead": "در شهر اولشکسی تحت اشغال روسیه که با تهدید مین‌ها و پهپادها مواجه است، تخلیه غیرممکن شده و مواد غذایی رو به اتمام است.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html",
+      "pubDate": "Mon, 05 Oct 2026 09:24:22 +0000",
+      "time": "۱۲:۵۴ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-05T09:32:13.293Z"
+    },
+    {
+      "id": "nytimes_5c0e5be0c2",
+      "agencyId": "nytimes",
+      "title": "Turkey Banned a Book by a Jailed Presidential Hopeful. We Read It.",
+      "title_fa": "ترکیه کتابی از یک نامزد زندانی ریاست جمهوری را ممنوع کرد؛ ما آن را خواندیم",
+      "lead": "شهردار سابق استانبول از زندان، رئیس‌جمهور رجب طیب اردوغان را متهم می‌کند که برای حفظ قدرت، دموکراسی ترکیه را تهی کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/middleeast/turkey-banned-book-opposition-leader.html",
+      "pubDate": "Mon, 05 Oct 2026 09:23:00 +0000",
+      "time": "۱۲:۵۳ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 45,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-05T09:32:13.293Z"
+    },
+    {
+      "id": "nytimes_efb10751a9",
+      "agencyId": "nytimes",
+      "title": "Voters in Quebec Election Go to Polls as Separatist Parti Québécois Leads",
+      "title_fa": "رأی‌دهندگان در انتخابات کبک هم‌زمان با پیشتاز بودن حزب استقلال‌طلب «پارتی کبکوا» به پای صندوق‌های رأی می‌روند",
+      "lead": "حزب «پارتی کبکوا» که در صورت پیروزی در روز دوشنبه وعده برگزاری رفراندم استقلال داده است، ممکن است پس از بیش از یک دهه دوباره به قدرت بازگردد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-vote-parti-quebecois-cac-liberals.html",
+      "pubDate": "Mon, 05 Oct 2026 09:21:35 +0000",
+      "time": "۱۲:۵۱ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-05T09:32:13.293Z"
+    },
+    {
+      "id": "nytimes_c2ee994377",
+      "agencyId": "nytimes",
+      "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
+      "title_fa": "هجوم روس‌ها برای خرید خودروهای برقی چینی به دلیل کمیابی سوخت ناشی از حملات اوکراین",
+      "lead": "همزمان با گسترش حملات اوکراین به داخل خاک روسیه، آثار این جنگ بیش از هر جا در جاده‌ها و وضعیت سوخت نمایان شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
+      "pubDate": "Sun, 04 Oct 2026 09:01:49 +0000",
+      "time": "۱۲:۳۱ - ۱۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-05T09:32:13.293Z"
     }
   ]
 }
