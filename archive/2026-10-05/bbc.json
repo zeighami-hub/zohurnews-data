@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "bbc",
-  "total": 8,
+  "total": 10,
   "articles": [
     {
       "id": "bbc_8c1678f514",
@@ -154,6 +154,44 @@
         "negative": 90
       },
       "analyzed_at": "2026-10-05T05:02:02.544Z"
+    },
+    {
+      "id": "bbc_11407c96d2",
+      "agencyId": "bbc",
+      "title": "Rare tornado whips through small Australian town",
+      "title_fa": "گردباد نادر در یک شهر کوچک در استرالیا وزید",
+      "lead": "این گردباد نادر در اولادولا واقع در نیو ساوت ولز استرالیا به تصویر کشیده شد و به اموال آسیب رساند و درختان را سرنگون کرد. تصاویر و ویدیوهای این پدیده جوی توسط دوربین‌ها ثبت شده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 04 Oct 2026 04:15:36 GMT",
+      "time": "۰۷:۴۵ - ۱۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-05T08:02:26.367Z"
+    },
+    {
+      "id": "bbc_352d8b8931",
+      "agencyId": "bbc",
+      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "title_fa": "چرا ممکن است کشیش‌ها دیگر روی اتوبوس‌های غنا موعظه نکنند یا صدایشان شنیده نشود",
+      "lead": "غنا کشوری است که اکثریت جمعیت آن مسیحی هستند و موعظه کردن در وسایل حمل و نقل عمومی در آن بسیار رواج دارد. با این حال، تغییرات جدید ممکن است حضور مذهبی در این فضاها را محدود کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 03 Oct 2026 23:37:46 GMT",
+      "time": "۰۳:۰۷ - ۱۲ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 70,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-05T08:02:26.367Z"
     }
   ]
 }
