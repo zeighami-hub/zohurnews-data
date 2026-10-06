@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "mehrnews",
-  "total": 6,
+  "total": 11,
   "articles": [
     {
       "id": "mehrnews_0b318ea549",
@@ -116,6 +116,101 @@
         "negative": 10
       },
       "analyzed_at": "2026-10-05T04:31:55.354Z"
+    },
+    {
+      "id": "mehrnews_68e0937f2b",
+      "agencyId": "mehrnews",
+      "title": "Ghalibaf congrats Iran’s astronomy team’s world title",
+      "title_fa": "تبریک قالیباف به مناسبت قهرمانی تیم المپیاد نجوم ایران در جهان",
+      "lead": "رئیس مجلس شورای اسلامی ایران موفقیت تیم ملی المپیاد نجوم و اخترفیزیک ایران در کسب عنوان قهرمانی در مسابقات جهانی (IOAA 2026) را تبریک گفت.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248327/Ghalibaf-congrats-Iran-s-astronomy-team-s-world-title",
+      "pubDate": "Mon, 05 Oct 2026 05:27:04 GMT",
+      "time": "۰۸:۵۷ - ۱۳ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-05T05:46:58.350Z"
+    },
+    {
+      "id": "mehrnews_f968f1f394",
+      "agencyId": "mehrnews",
+      "title": "Tehran not to back down from its seven conditions to end war",
+      "title_fa": "تهران از هفت شرط خود برای پایان جنگ عقب‌نشینی نمی‌کند",
+      "lead": "یک عضو کمیسیون امنیت ملی و سیاست خارجی مجلس شورای اسلامی اعلام کرد آمریکا باید تسلیم دیپلمات‌ها یا موشک‌های ایرانی شود و تأکید کرد که ایران از هفت شرط خود عقب‌نشینی نخواهد کرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/248323/Tehran-not-to-back-down-from-its-seven-conditions-to-end-war",
+      "pubDate": "Mon, 05 Oct 2026 04:34:45 GMT",
+      "time": "۰۸:۰۴ - ۱۳ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-10-05T05:46:58.350Z"
+    },
+    {
+      "id": "mehrnews_f48315f025",
+      "agencyId": "mehrnews",
+      "title": "Iraqi forces arrest dozens of terrorists, Baathists",
+      "title_fa": "نیروهای عراقی ده ها تروریست و عنصر بعثی را بازداشت کردند",
+      "lead": "نیروهای حشدالشعبی عراق اعلام کردند که عملیات گسترده امنیتی را در ۱۲ استان انجام داده و ۵۵ مظنون را بازداشت و شبکه‌های مرتبط با تروریست‌ها و حزب منحل‌شده بعث را منهدم کرده‌اند.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248328/Iraqi-forces-arrest-dozens-of-terrorists-Baathists",
+      "pubDate": "Mon, 05 Oct 2026 05:33:27 GMT",
+      "time": "۰۹:۰۳ - ۱۳ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 50,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-05T05:46:58.350Z"
+    },
+    {
+      "id": "mehrnews_c20121fe40",
+      "agencyId": "mehrnews",
+      "title": "VIDEO: Pro-Palestinian activists disrupted a tech. summit",
+      "title_fa": "ویدیو: فعالان حامی فلسطین نشست فناوری را مختل کردند",
+      "lead": "فعالان حامی فلسطین با سر دادن شعارهایی در محکومیت فناوری‌های نظامی و ارتباط اریک اشمیت، مدیرعامل پیشین گوگل، با قراردادهای نظامی اسرائیل، یک نشست فناوری را مختل کردند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248326/VIDEO-Pro-Palestinian-activists-disrupted-a-tech-summit",
+      "pubDate": "Mon, 05 Oct 2026 05:13:27 GMT",
+      "time": "۰۸:۴۳ - ۱۳ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-05T05:46:58.350Z"
+    },
+    {
+      "id": "mehrnews_d062d8b793",
+      "agencyId": "mehrnews",
+      "title": "UN’s Albanese rejects Israel claim over martyred journalists",
+      "title_fa": "گزارشگر سازمان ملل ادعای اسرائیل درباره خبرنگاران شهید را رد کرد",
+      "lead": "گزارشگر ویژه سازمان ملل در امور اراضی اشغالی فلسطین، ادعای اسرائیل مبنی بر اینکه ۱۷۰ خبرنگار کشته‌شده در غزه «تروریست» بوده‌اند را رد کرد و گفت هیچ مدرکی برای اثبات این ادعا وجود ندارد.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248325/UN-s-Albanese-rejects-Israel-claim-over-martyred-journalists",
+      "pubDate": "Mon, 05 Oct 2026 05:03:36 GMT",
+      "time": "۰۸:۳۳ - ۱۳ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-05T05:46:58.350Z"
     }
   ]
 }
