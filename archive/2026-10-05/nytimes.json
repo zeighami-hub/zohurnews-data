@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 7,
   "articles": [
     {
       "id": "nytimes_2f1eb340f0",
@@ -116,6 +116,25 @@
         "negative": 50
       },
       "analyzed_at": "2026-10-05T07:17:01.893Z"
+    },
+    {
+      "id": "nytimes_a052caf78e",
+      "agencyId": "nytimes",
+      "title": "Here’s the latest.",
+      "title_fa": "آخرین اخبار و تحولات",
+      "lead": "پدرو سانچز، نخست‌وزیر اسپانیا، اظهاراتی را مطرح کرد که جزئیات آن در این گزارش آمده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez/spain-snap-elections-sanchez",
+      "pubDate": "Mon, 05 Oct 2026 08:23:31 +0000",
+      "time": "۱۱:۵۳ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "neutral": 100,
+        "positive": 0,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-05T08:32:24.904Z"
     }
   ]
 }
