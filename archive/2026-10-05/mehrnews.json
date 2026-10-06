@@ -1,7 +1,7 @@
 {
   "date": "2026-10-05",
   "agencyId": "mehrnews",
-  "total": 2,
+  "total": 5,
   "articles": [
     {
       "id": "mehrnews_0b318ea549",
@@ -40,6 +40,63 @@
         "negative": 50
       },
       "analyzed_at": "2026-10-05T03:46:35.856Z"
+    },
+    {
+      "id": "mehrnews_e155cc6b58",
+      "agencyId": "mehrnews",
+      "title": "Iran's top officials hold meeting",
+      "title_fa": "دیدار مقامات ارشد ایران",
+      "lead": "رؤسای سه قوه ایران روز یکشنبه نشستی را به میزبانی رئیس‌جمهور پزشکیان برگزار کردند. در این جلسه، رئیس مجلس شورای اسلامی و رئیس قوه قضائیه نیز حضور داشتند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248320/Iran-s-top-officials-hold-meeting",
+      "pubDate": "Mon, 05 Oct 2026 04:08:19 GMT",
+      "time": "۰۷:۳۸ - ۱۳ مهر",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 50,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-05T04:16:47.788Z"
+    },
+    {
+      "id": "mehrnews_d400c9187e",
+      "agencyId": "mehrnews",
+      "title": "Iran serious about diplomacy, defence",
+      "title_fa": "تاکید ایران بر دیپلماسی و دفاع",
+      "lead": "عباس عراقچی، وزیر امور خارجه، اعلام کرد که ایران همان‌طور که در دفاع از خود مصمم است، در دیپلماسی نیز جدی است. او هشدار داد که هرگونه مسیر نظامی جدید با پاسخ قاطعانه‌تری روبرو خواهد شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248319/Iran-serious-about-diplomacy-defence",
+      "pubDate": "Mon, 05 Oct 2026 04:05:01 GMT",
+      "time": "۰۷:۳۵ - ۱۳ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-05T04:16:47.788Z"
+    },
+    {
+      "id": "mehrnews_4793d9bf90",
+      "agencyId": "mehrnews",
+      "title": "US withdraws all B-1 bombers from Fairford airbase",
+      "title_fa": "خروج تمامی بمب‌افکن‌های B-1 آمریکا از پایگاه هوایی فیرفورد",
+      "lead": "تمامی بمب‌افکن‌های راهبردی B-1 نیروی هوایی ایالات متحده از پایگاه هوایی فیرفورد در بریتانیا خارج شده و به ایالات متحده بازگشتند.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248321/US-withdraws-all-B-1-bombers-from-Fairford-airbase",
+      "pubDate": "Mon, 05 Oct 2026 04:13:54 GMT",
+      "time": "۰۷:۴۳ - ۱۳ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-05T04:16:47.788Z"
     }
   ]
 }
