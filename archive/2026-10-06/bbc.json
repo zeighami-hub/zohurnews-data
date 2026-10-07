@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "agencyId": "bbc",
-  "total": 33,
+  "total": 35,
   "articles": [
     {
       "id": "bbc_832dbb8259",
@@ -629,6 +629,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-10-06T15:06:07.555Z"
+    },
+    {
+      "id": "bbc_c8741fc7dc",
+      "agencyId": "bbc",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "title_fa": "کاخ سفید از اظهارات ترامپ درباره اجازه دادن به ایران برای حمله به لس‌آنجلس و سن‌دیگو دفاع کرد",
+      "lead": "گوین نیوسام این اظهارات را «دیوانه‌وار» خواند، اما کاخ سفید اعلام کرد که ترامپ در حال هشدار دادن درباره خطر یک ایران هسته‌ای بوده است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 06 Oct 2026 14:15:06 GMT",
+      "time": "۱۷:۴۵ - ۱۴ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-06T15:47:02.197Z"
+    },
+    {
+      "id": "bbc_17b93ee2f8",
+      "agencyId": "bbc",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "title_fa": "ارتش یمن اعلام کرد که آبراه دریای سرخ را «امن» کرده است",
+      "lead": "نیروهای تحت حمایت عربستان سعودی گزارش‌های متناقضی را درباره اینکه آیا شهر بندری موخه در نزدیکی تنگه باب‌المندب را نیز به تصرف خود درآورده‌اند یا خیر، ارائه دادند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 06 Oct 2026 07:43:07 GMT",
+      "time": "۱۱:۱۳ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 40,
+        "neutral": 40,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-06T15:47:02.197Z"
     }
   ]
 }
