@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "agencyId": "bbc",
-  "total": 21,
+  "total": 23,
   "articles": [
     {
       "id": "bbc_832dbb8259",
@@ -401,6 +401,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-10-06T09:17:01.645Z"
+    },
+    {
+      "id": "bbc_65e33cb9d4",
+      "agencyId": "bbc",
+      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+      "title_fa": "ترس و اختلال برای مسافران قطار اوکراین با تشدید حملات پهپادی روسیه",
+      "lead": "اوکراینی‌هایی که با قطار سفر می‌کنند، به طور فزاینده‌ای در خط مقدم حملات روسیه گرفتار می‌شوند و این امر باعث ایجاد ترس و اختلال در سفرهای آن‌ها شده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 06 Oct 2026 09:48:37 GMT",
+      "time": "۱۳:۱۸ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-06T10:02:09.498Z"
+    },
+    {
+      "id": "bbc_b4773e1977",
+      "agencyId": "bbc",
+      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
+      "title_fa": "ویدیو: چگونه بحران مسکن در اسپانیا منجر به برگزاری انتخابات زودهنگام شد",
+      "lead": "یک سلسله اقدامات برای مقابله با بحران مسکن روز جمعه در پارلمان رد شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 05 Oct 2026 09:03:30 GMT",
+      "time": "۱۲:۳۳ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-06T09:47:06.603Z"
     }
   ]
 }
