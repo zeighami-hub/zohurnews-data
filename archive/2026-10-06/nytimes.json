@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "agencyId": "nytimes",
-  "total": 6,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_98c83b81f5",
@@ -116,6 +116,101 @@
         "negative": 10
       },
       "analyzed_at": "2026-10-06T02:46:46.208Z"
+    },
+    {
+      "id": "nytimes_efcb154362",
+      "agencyId": "nytimes",
+      "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
+      "title_fa": "اعتصاب‌ها، بارها و آشفتگی مالی: پاییز نارضایتی فرانسه را فرا گرفته است",
+      "lead": "هرج‌ومرج در مدارس، خیابان‌ها و بازارهای فرانسه ریشه در مشکلات این کشور برای تأمین مالی دولت رفاه اجتماعی دارد، در حالی که انتخابات ریاست‌جمهوری نیز در پیش است.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html",
+      "pubDate": "Tue, 06 Oct 2026 04:01:14 +0000",
+      "time": "۰۷:۳۱ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-06T04:16:39.840Z"
+    },
+    {
+      "id": "nytimes_8a5fa7eef2",
+      "agencyId": "nytimes",
+      "title": "France Set for Nationwide Strikes, as School Protests Escalate",
+      "title_fa": "فرانسه در آستانه اعتصابات سراسری با تشدید اعتراضات دانش‌آموزی",
+      "lead": "مقیاس تظاهرات برنامه‌ریزی‌شده، قدرت جنبش اعتراضی به رهبری دانش‌آموزان را که از اواخر سپتامبر در دبیرستان‌های فرانسه گسترش یافته است، آزمایش خواهد کرد.",
+      "category": "military",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html",
+      "pubDate": "Tue, 06 Oct 2026 04:01:10 +0000",
+      "time": "۰۷:۳۱ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-06T04:16:39.840Z"
+    },
+    {
+      "id": "nytimes_90a44aac83",
+      "agencyId": "nytimes",
+      "title": "FIFA Found Congo Player Ineligible, Let Him Play in World Cup",
+      "title_fa": "فیفا بازیکن کنگو را فاقد شرایط تشخیص داد، اما اجازه بازی در جام جهانی را صادر کرد",
+      "lead": "اسناد نشان می‌دهد مقام‌ها تشخیص داده‌اند که دروازه‌بان تیم ملی جمهوری دموکراتیک کنگو مدارک درستی نداشته است، اما هیچ اقدامی انجام نگرفت و پرسش‌ها درباره نحوه مدیریت فیفا را دوباره مطرح کرد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/world/europe/fifa-infantino-congo-nigeria-eligibility.html",
+      "pubDate": "Tue, 06 Oct 2026 04:01:06 +0000",
+      "time": "۰۷:۳۱ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-06T04:16:39.840Z"
+    },
+    {
+      "id": "nytimes_33781d5a96",
+      "agencyId": "nytimes",
+      "title": "As Japan’s Population Shrinks, a City Is Accused of Padding Census Numbers",
+      "title_fa": "همزمان با کاهش جمعیت ژاپن، یک شهر به دستکاری آمار سرشماری متهم شد",
+      "lead": "پلیس در حال تحقیق درباره نحوه اضافه شدن حدود ۳۰۰۰ ساکن خیالی به داده‌های رسمی شهر تویاما است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/world/asia/japan-population-falsified-census.html",
+      "pubDate": "Tue, 06 Oct 2026 04:01:04 +0000",
+      "time": "۰۷:۳۱ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-06T04:16:39.840Z"
+    },
+    {
+      "id": "nytimes_6a98ed4e00",
+      "agencyId": "nytimes",
+      "title": "The Hidden Policies That Power China’s Export Boom",
+      "title_fa": "سیاست‌های پنهانی که محرک رشد صادرات چین است",
+      "lead": "معافیت‌های مالیاتی بزرگ و ارز ارزان، صادرات را حفظ کرده، کسری بودجه دولت را افزایش داده و تلاش‌های این کشور برای ایجاد تعادل مجدد در اقتصاد را پیچیده‌تر کرده است.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/business/china-exports-currency.html",
+      "pubDate": "Tue, 06 Oct 2026 04:00:09 +0000",
+      "time": "۰۷:۳۰ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 50,
+        "negative": 30
+      },
+      "analyzed_at": "2026-10-06T04:16:39.840Z"
     }
   ]
 }
