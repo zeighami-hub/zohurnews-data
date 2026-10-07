@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 14,
   "articles": [
     {
       "id": "nytimes_98c83b81f5",
@@ -211,6 +211,63 @@
         "negative": 30
       },
       "analyzed_at": "2026-10-06T04:16:39.840Z"
+    },
+    {
+      "id": "nytimes_c4f8a08f30",
+      "agencyId": "nytimes",
+      "title": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
+      "title_fa": "تحریم‌های آمریکا با هدف «تعطیلی» خطوط هوایی ایران، اما این هواپیمای بوئینگ همچنان پرواز می‌کند",
+      "lead": "دولت ترامپ ادعا می‌کند که تمام خطوط هوایی ایران در حال تعطیلی هستند. با این حال، گزارش‌ها نشان می‌دهد که یک فروند هواپیمای پهن‌پیکر همچنان از تهران به سمت آسیای شرقی پرواز می‌کند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
+      "pubDate": "Mon, 05 Oct 2026 14:38:21 +0000",
+      "time": "۱۸:۰۸ - ۱۳ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-06T04:46:51.723Z"
+    },
+    {
+      "id": "nytimes_2d38693f87",
+      "agencyId": "nytimes",
+      "title": "How Congo’s Ebola Epidemic Got So Bad So Quickly",
+      "title_fa": "چگونه اپیدمی ابولا در کنگو این‌قدر سریع وخیم شد؟",
+      "lead": "حوادث رخ‌داده در منگالا، جایی که ساکنان آن از حمایت‌های بیرونی کافی محروم بودند، توضیح می‌دهد که چگونه این شیوع بیماری به بدترین مورد ثبت‌شده در جمهوری دموکراتیک کنگو تبدیل شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html",
+      "pubDate": "Mon, 05 Oct 2026 23:03:25 +0000",
+      "time": "۰۲:۳۳ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-06T04:46:51.723Z"
+    },
+    {
+      "id": "nytimes_a34fde824c",
+      "agencyId": "nytimes",
+      "title": "Pay Phone, a Lifeline During 2019 Australia Wildfires, Gains Heritage Status",
+      "title_fa": "تلفن همگانی که در جریان آتش‌سوزی‌های ۲۰۱۹ استرالیا مایه نجات بود، وضعیت میراث فرهنگی گرفت",
+      "lead": "در سال ۲۰۱۹ و هنگامی که با قطع اینترنت و نزدیک شدن شعله‌های آتش به شهر نارومای استرالیا، صدها نفر برای تماس با عزیزان خود در صف ایستاده بودند، این تلفن همگانی نقش یک خط نجات را ایفا کرد و اکنون به عنوان میراث فرهنگی شناخته شده است.",
+      "category": "culture",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/australia/narooma-pay-phone-heritage-listing.html",
+      "pubDate": "Mon, 05 Oct 2026 04:01:15 +0000",
+      "time": "۰۷:۳۱ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 33,
+        "neutral": 34,
+        "negative": 33
+      },
+      "analyzed_at": "2026-10-06T04:46:51.723Z"
     }
   ]
 }
