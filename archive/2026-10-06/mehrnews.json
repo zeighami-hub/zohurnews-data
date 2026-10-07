@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "agencyId": "mehrnews",
-  "total": 7,
+  "total": 10,
   "articles": [
     {
       "id": "mehrnews_d0455e82d1",
@@ -135,6 +135,63 @@
         "negative": 50
       },
       "analyzed_at": "2026-10-06T05:17:27.622Z"
+    },
+    {
+      "id": "mehrnews_5cdd1e1f8d",
+      "agencyId": "mehrnews",
+      "title": "VIDEO: Israeli settlers set Palestinian vehicles on fire",
+      "title_fa": "ویدیو: شهرک‌نشینان اسرائیلی خودروهای فلسطینی‌ها را به آتش کشیدند",
+      "lead": "شهرک‌نشینان اسرائیلی در جریان حمله به منطقه وادی جحیض در نزدیکی شهر السموع در جنوب الخلیل، چندین خودرو متعلق به فلسطینیان را به آتش کشیدند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248359/VIDEO-Israeli-settlers-set-Palestinian-vehicles-on-fire",
+      "pubDate": "Tue, 06 Oct 2026 05:38:02 GMT",
+      "time": "۰۹:۰۸ - ۱۴ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 10,
+        "negative": 90
+      },
+      "analyzed_at": "2026-10-06T05:46:58.333Z"
+    },
+    {
+      "id": "mehrnews_5b7dd06b36",
+      "agencyId": "mehrnews",
+      "title": "Israeli artillery and drone attacks hit southern Lebanon",
+      "title_fa": "حملات توپخانه‌ای و پهپادی اسرائیل به جنوب لبنان",
+      "lead": "منابع محلی لبنان اعلام کردند که آتشباری توپخانه‌ای اسرائیل حومه شهرهای حداثا و براعشیت را هدف قرار داده است.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248358/Israeli-artillery-and-drone-attacks-hit-southern-Lebanon",
+      "pubDate": "Tue, 06 Oct 2026 05:32:01 GMT",
+      "time": "۰۹:۰۲ - ۱۴ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-06T05:46:58.333Z"
+    },
+    {
+      "id": "mehrnews_cfb35537d0",
+      "agencyId": "mehrnews",
+      "title": "Rostami named Iran’s flagbearer in Asian Para Games in Nagoya",
+      "title_fa": "رستم‌پور به عنوان پرچمدار کاروان ایران در بازی‌های پاراآسیایی ناگویا معرفی شد",
+      "lead": "روح‌الله رستمی، یکی از پرافتخارترین وزنه‌برداران پارالمپیک ایران، به عنوان پرچمدار کاروان کشورمان در بازی‌های پاراآسیایی پیش رو در ناگویا ژاپن معرفی شد.",
+      "category": "politics",
+      "region": "iran",
+      "sourceUrl": "https://en.mehrnews.com/news/248357/Rostami-named-Iran-s-flagbearer-in-Asian-Para-Games-in-Nagoya",
+      "pubDate": "Tue, 06 Oct 2026 05:29:13 GMT",
+      "time": "۰۸:۵۹ - ۱۴ مهر",
+      "iranScore": 4,
+      "sentiment": {
+        "positive": 90,
+        "neutral": 10,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-06T05:32:08.400Z"
     }
   ]
 }
