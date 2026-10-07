@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "agencyId": "nytimes",
-  "total": 24,
+  "total": 26,
   "articles": [
     {
       "id": "nytimes_98c83b81f5",
@@ -458,6 +458,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-10-06T09:47:06.603Z"
+    },
+    {
+      "id": "nytimes_90a547f013",
+      "agencyId": "nytimes",
+      "title": "German Officials Arrest Former Spy Chief on Espionage Charges",
+      "title_fa": "مقام‌های آلمانی رئیس پیشین سرویس اطلاعاتی را به اتهام جاسوسی بازداشت کردند",
+      "lead": "آگوست هانینگ متهم به کمک به دولت‌های خارجی است و بازداشت او فضای سیاسی آلمان را تکان داد. ریشه‌های این پرونده به یک ماجرای آدم‌ربایی مرتبط با وارث یک رستوران استیک ارتباط دارد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/world/europe/germany-spy-chief-hanning-arrested-espionage.html",
+      "pubDate": "Tue, 06 Oct 2026 11:28:19 +0000",
+      "time": "۱۴:۵۸ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-06T11:32:59.869Z"
+    },
+    {
+      "id": "nytimes_82eb1bcfd7",
+      "agencyId": "nytimes",
+      "title": "Kenya Records Ebola Case for First Time",
+      "title_fa": "کنیا برای اولین بار یک مورد ابتلا به ابولا را ثبت کرد",
+      "lead": "مقام‌های کنیا اعلام کردند که این ویروس در مردی که از جمهوری دموکراتیک کنگو وارد شده بود، تشخیص داده شده است و آن‌ها در حال اتخاذ تدابیری برای جلوگیری از شیوع آن هستند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html",
+      "pubDate": "Tue, 06 Oct 2026 11:18:40 +0000",
+      "time": "۱۴:۴۸ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 5,
+        "neutral": 45,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-06T11:32:59.869Z"
     }
   ]
 }
