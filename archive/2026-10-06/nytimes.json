@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "agencyId": "nytimes",
-  "total": 38,
+  "total": 40,
   "articles": [
     {
       "id": "nytimes_98c83b81f5",
@@ -724,6 +724,44 @@
         "negative": 0
       },
       "analyzed_at": "2026-10-06T20:16:46.558Z"
+    },
+    {
+      "id": "nytimes_864406996a",
+      "agencyId": "nytimes",
+      "title": "What We Saw at the French Protests",
+      "title_fa": "آنچه در اعتراضات فرانسه دیدیم",
+      "lead": "سگولن لو استرادیک، خبرنگار ما از پاریس گزارش می‌دهد که اتحادیه‌های کارگری در همبستگی با دانش‌آموزان دبیرستانی معترض به شرایط مدارس، دست به تجمع زدند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/video/world/europe/100000011196285/what-we-saw-at-the-french-protests.html",
+      "pubDate": "Tue, 06 Oct 2026 20:39:51 +0000",
+      "time": "۰۰:۰۹ - ۱۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-06T20:46:39.481Z"
+    },
+    {
+      "id": "nytimes_4aa5cf4e81",
+      "agencyId": "nytimes",
+      "title": "Understanding France’s Polycrisis",
+      "title_fa": "درک بحران‌های چندگانه فرانسه",
+      "lead": "فضایی از نارضایتی پاییزی در آستانه انتخابات ریاست جمهوری، کشور فرانسه را فرا گرفته است.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html",
+      "pubDate": "Tue, 06 Oct 2026 20:22:47 +0000",
+      "time": "۲۳:۵۲ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-06T20:31:58.452Z"
     }
   ]
 }
