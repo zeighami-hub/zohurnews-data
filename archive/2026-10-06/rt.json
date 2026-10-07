@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "agencyId": "rt",
-  "total": 5,
+  "total": 7,
   "articles": [
     {
       "id": "rt_143b1ed3ad",
@@ -97,6 +97,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-10-06T04:46:51.723Z"
+    },
+    {
+      "id": "rt_0fa14098e1",
+      "agencyId": "rt",
+      "title": "‘Iran-linked terror plot’ behind US bomber evacuation – NYT",
+      "title_fa": "طرح تروریستی مرتبط با ایران پشت پرده تخلیه بمب‌افکن‌های آمریکایی",
+      "lead": "بر اساس گزارش نیویورک تایمز، هشدارهای جدید امنیتی باعث خروج فوری تمامی بمب‌افکن‌های ایالات متحده از پایگاه هوایی فرپفورد شد.",
+      "category": "military",
+      "region": "iran",
+      "sourceUrl": "https://www.rt.com/news/646718-us-rushes-bombers-out-uk/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Mon, 05 Oct 2026 08:53:55 +0000",
+      "time": "۱۲:۲۳ - ۱۳ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-06T09:17:01.645Z"
+    },
+    {
+      "id": "rt_05431037f6",
+      "agencyId": "rt",
+      "title": "Russian NHL legend Ovechkin announces retirement",
+      "title_fa": "الکساندر اووچکین، اسطوره روسی لیگ ملی هاکی، از بازنشستگی خود خبر داد",
+      "lead": "اسطوره هاکی، الکساندر اووچکین، که رکورددار بیشترین گل زده در فصل‌های عادی لیگ ملی هاکی (NHL) است، اعلام کرد که پس از این فصل بازنشسته خواهد شد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.rt.com/news/646779-ovechkin-announces-retirement-nhl/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS",
+      "pubDate": "Tue, 06 Oct 2026 09:12:59 +0000",
+      "time": "۱۲:۴۲ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 60,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-06T09:17:01.645Z"
     }
   ]
 }
