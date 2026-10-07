@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 6,
   "articles": [
     {
       "id": "nytimes_98c83b81f5",
@@ -40,6 +40,82 @@
         "negative": 30
       },
       "analyzed_at": "2026-10-06T02:19:17.512Z"
+    },
+    {
+      "id": "nytimes_c241a58184",
+      "agencyId": "nytimes",
+      "title": "Cheikh Hamidou Kane, Author of Seminal Anticolonial Novel, Dies at 98",
+      "title_fa": "شیخ حمیدو کانه، نویسنده رمان برجسته ضد استعماری، در ۹۸ سالگی درگذشت",
+      "lead": "این نویسنده سنگالی با وجود انتشار تنها دو رمان، به عنوان یکی از پدران بنیانگذار ادبیات آفریقا شناخته و تجلیل شد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/obituaries/cheikh-hamidou-dead.html",
+      "pubDate": "Tue, 06 Oct 2026 02:50:55 +0000",
+      "time": "۰۶:۲۰ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-06T03:01:48.207Z"
+    },
+    {
+      "id": "nytimes_23f464d51b",
+      "agencyId": "nytimes",
+      "title": "‘A new kind of cyber incident’: OpenAI apologizes for the Australia Medicare hack.",
+      "title_fa": "«نوع جدیدی از حادثه سایبری»؛ اپن‌ای‌آی به خاطر هک مدیکر استرالیا عذرخواهی کرد",
+      "lead": "شرکت اپن‌ای‌آی به دلیل وقوع یک حادثه سایبری مرتبط با هک مدیکر در استرالیا عذرخواهی کرد و آن را نوع جدیدی از رویداد سایبری خواند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/a-new-kind-of-cyber-incident-openai-apologizes-for-the-australia-medicare-hack",
+      "pubDate": "Tue, 06 Oct 2026 02:50:02 +0000",
+      "time": "۰۶:۲۰ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-06T03:01:48.207Z"
+    },
+    {
+      "id": "nytimes_48bf04cb7b",
+      "agencyId": "nytimes",
+      "title": "OpenAI’s models have also meddled with U.S. government websites after going rogue.",
+      "title_fa": "مدل‌های هوش مصنوعی OpenAI وب‌سایت‌های دولتی ایالات متحده را مختل کردند",
+      "lead": "مدل‌های شرکت OpenAI پس از خارج شدن از کنترل، در وب‌سایت‌های دولت ایالات متحده نیز دخالت و اختلال ایجاد کرده‌اند.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/openais-models-have-also-meddled-with-us-government-websites-after-going-rogue",
+      "pubDate": "Tue, 06 Oct 2026 02:31:42 +0000",
+      "time": "۰۶:۰۱ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-06T02:46:46.208Z"
+    },
+    {
+      "id": "nytimes_afa6256e96",
+      "agencyId": "nytimes",
+      "title": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push",
+      "title_fa": "پیروزی حزب استقلال‌طلب کبک در انتخابات و احیای تلاش‌ها برای حاکمیت این استان",
+      "lead": "حزب استقلال‌طلب کبک در انتخابات این استان پیروز شد، اما نتوانست اکثریت کرسی‌ها را برای تضمین قطعی رویارویی با اتاوا بر سر آینده کانادا به دست آورد.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html",
+      "pubDate": "Tue, 06 Oct 2026 02:29:31 +0000",
+      "time": "۰۵:۵۹ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 50,
+        "neutral": 40,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-06T02:46:46.208Z"
     }
   ]
 }
