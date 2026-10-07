@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "agencyId": "nytimes",
-  "total": 29,
+  "total": 31,
   "articles": [
     {
       "id": "nytimes_98c83b81f5",
@@ -553,6 +553,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-10-06T14:16:57.998Z"
+    },
+    {
+      "id": "nytimes_59d7a369f5",
+      "agencyId": "nytimes",
+      "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
+      "title_fa": "چین در رقابت با آمریکا برای جذب پژوهشگران خارجی هوش مصنوعی با مشکل مواجه است",
+      "lead": "بخش رو به رشد هوش مصنوعی در چین دلایل خوبی به پژوهشگران محلی برای ماندن در کشور داده است، اما با وجود تلاش‌های دولتی، هنوز نتوانسته دانشمندان خارجی را جذب کند.",
+      "category": "technology",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
+      "pubDate": "Tue, 06 Oct 2026 09:03:19 +0000",
+      "time": "۱۲:۳۳ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-06T14:47:00.789Z"
+    },
+    {
+      "id": "nytimes_204393e67d",
+      "agencyId": "nytimes",
+      "title": "Man Arrested in Connection With Incident at UK Air Base RAF Fairford",
+      "title_fa": "دستگیری یک مرد در ارتباط با حادثه پایگاه هوایی آر.ای.اف فیرفورد در بریتانیا",
+      "lead": "یک جوان ۲۲ ساله اهل لندن به عنوان هفتمین فرد توسط پلیس ضد تروریسم در ارتباط با تحقیقات درباره حادثه ماه گذشته در پایگاه هوایی فیرفورد دستگیر شد.",
+      "category": "politics",
+      "region": "europe",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html",
+      "pubDate": "Tue, 06 Oct 2026 14:28:21 +0000",
+      "time": "۱۷:۵۸ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-10-06T14:34:49.298Z"
     }
   ]
 }
