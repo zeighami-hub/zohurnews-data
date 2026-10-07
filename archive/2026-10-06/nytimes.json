@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "agencyId": "nytimes",
-  "total": 16,
+  "total": 18,
   "articles": [
     {
       "id": "nytimes_98c83b81f5",
@@ -306,6 +306,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-10-06T06:17:02.439Z"
+    },
+    {
+      "id": "nytimes_010a4d13d1",
+      "agencyId": "nytimes",
+      "title": "Spain’s Leader Calls Early Election After Housing Crisis Roils Government",
+      "title_fa": "نخست‌وزیر اسپانیا پس از بحران مسکن انتخابات زودهنگام اعلام کرد",
+      "lead": "پدرو سانچز، نخست‌وزیر اسپانیا، علاوه بر بحران مسکن با چالش‌هایی از جمله بحران مهاجرت و چندین رسوایی فساد مالی در حلقه نزدیکان خود مواجه بوده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
+      "pubDate": "Mon, 05 Oct 2026 18:16:04 +0000",
+      "time": "۲۱:۴۶ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-06T07:47:00.455Z"
+    },
+    {
+      "id": "nytimes_b27c3fd0b4",
+      "agencyId": "nytimes",
+      "title": "Fury in California After Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego",
+      "title_fa": "خشم در کالیفرنیا پس از اظهارات ترامپ درباره احتمال حمله ایران به لس‌آنجلس یا سن‌دیگو",
+      "lead": "گوین نیوسام، فرماندار کالیفرنیا، پس از سخنرانی ترامپ در یک تجمع سیاسی که در آن جنگ با ایران را برای «امن نگه داشتن جهان» ضروری خواند و مدعی شد ایران توانایی حمله به لس‌آنجلس یا سن‌دیگو را دارد، او را «خطرناک و مجنون» توصیف کرد.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html",
+      "pubDate": "Tue, 06 Oct 2026 07:11:56 +0000",
+      "time": "۱۰:۴۱ - ۱۴ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-06T07:32:15.261Z"
     }
   ]
 }
