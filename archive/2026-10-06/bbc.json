@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
   "agencyId": "bbc",
-  "total": 10,
+  "total": 12,
   "articles": [
     {
       "id": "bbc_832dbb8259",
@@ -192,6 +192,44 @@
         "negative": 60
       },
       "analyzed_at": "2026-10-06T05:17:27.622Z"
+    },
+    {
+      "id": "bbc_b8a9d3c675",
+      "agencyId": "bbc",
+      "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
+      "title_fa": "فلاویو بولسونارو با موج راست‌گرا در دور اول انتخابات برزیل پیروز شد",
+      "lead": "موفقیت فلاویو بولسونارو در انتخابات برزیل می‌تواند نمونه دیگری از احیای حمایت از جریان‌های راست‌گرا در آمریکای لاتین باشد.",
+      "category": "politics",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj6je4jen6po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 05 Oct 2026 20:42:19 GMT",
+      "time": "۰۰:۱۲ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 30,
+        "negative": 10
+      },
+      "analyzed_at": "2026-10-06T05:32:08.400Z"
+    },
+    {
+      "id": "bbc_1539e703e8",
+      "agencyId": "bbc",
+      "title": "Watch: How Brazil's dramatic election unfolded",
+      "title_fa": "نگاهی به روند برگزاری انتخابات دراماتیک در برزیل",
+      "lead": "میلیون‌ها نفر از شهروندان برزیل روز یکشنبه برای شرکت در دور اول انتخابات ریاست‌جمهوری این کشور به پای صندوق‌های رای رفتند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 05 Oct 2026 04:51:24 GMT",
+      "time": "۰۸:۲۱ - ۱۳ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 80,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-06T05:32:08.400Z"
     }
   ]
 }
