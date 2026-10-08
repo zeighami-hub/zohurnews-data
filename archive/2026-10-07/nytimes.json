@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "agencyId": "nytimes",
-  "total": 11,
+  "total": 13,
   "articles": [
     {
       "id": "nytimes_2eec97f5eb",
@@ -211,6 +211,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-10-07T09:02:29.056Z"
+    },
+    {
+      "id": "nytimes_0216d41596",
+      "agencyId": "nytimes",
+      "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
+      "title_fa": "ایالات متحده پهپادهای ریپر را برای مقابله با کارتل‌ها به کلمبیا و اکوادور اعزام کرد",
+      "lead": "مقامات آمریکایی اعلام کردند که پهپادهای شناسایی و تهاجمی MQ-9 ریپر از آفریقا به کشورهای کلمبیا و اکوادور منتقل شده‌اند. این اقدام با هدف ردیابی و مقابله با کارتل‌های مواد مخدر در منطقه صورت گرفته است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html",
+      "pubDate": "Tue, 06 Oct 2026 15:13:41 +0000",
+      "time": "۱۸:۴۳ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 60,
+        "negative": 30
+      },
+      "analyzed_at": "2026-10-07T09:32:14.783Z"
+    },
+    {
+      "id": "nytimes_716103c3c2",
+      "agencyId": "nytimes",
+      "title": "As Spain Heads Into a Snap Election, Sánchez Turns an Eviction Into a Campaign Cause",
+      "title_fa": "در آستانه انتخابات زودهنگام در اسپانیا، سانچز تخلیه یک خانه را به موضوعی انتخاباتی تبدیل کرد",
+      "lead": "تخلیه یک زن در مادرید در ماه گذشته نقش مهمی در فروپاشی دولت پدرو سانچز داشت و در عین حال سکوی پرتابی برای کمپین انتخاباتی او فراهم کرد. سانچز از این واقعه برای پیشبرد اهداف سیاسی خود در آستانه انتخابات زودهنگام بهره‌برداری کرده است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
+      "pubDate": "Tue, 06 Oct 2026 12:08:04 +0000",
+      "time": "۱۵:۳۸ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 20,
+        "neutral": 60,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-07T09:32:14.783Z"
     }
   ]
 }
