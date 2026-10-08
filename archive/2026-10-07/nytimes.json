@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "agencyId": "nytimes",
-  "total": 27,
+  "total": 29,
   "articles": [
     {
       "id": "nytimes_2eec97f5eb",
@@ -515,6 +515,44 @@
         "negative": 40
       },
       "analyzed_at": "2026-10-07T19:46:40.457Z"
+    },
+    {
+      "id": "nytimes_0f99165fd5",
+      "agencyId": "nytimes",
+      "title": "A Plague Mystery in Siberia",
+      "title_fa": "معمای طاعون در سیبری",
+      "lead": "مرگ یک کارگر آزمایشگاه روسی شایعاتی را برانگیخته است، و این گزارش به بررسی واقعیت‌های پیرامون آن می‌پردازد.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/10/07/world/plague-siberia-russia-sports-betting.html",
+      "pubDate": "Wed, 07 Oct 2026 20:40:42 +0000",
+      "time": "۰۰:۱۰ - ۱۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-07T20:47:06.831Z"
+    },
+    {
+      "id": "nytimes_7dd6881f68",
+      "agencyId": "nytimes",
+      "title": "3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes",
+      "title_fa": "سه کشته و ده‌ها زخمی در حملات به فرودگاه‌های عربستان همزمان با ادعای حوثی‌ها",
+      "lead": "دولت عربستان اعلام کرد که در این حملات از جمله یک فرودگاه در پایتخت، سه نفر از جمله دو زن و یک تبعه سودان کشته شدند و سخنگوی حوثی‌ها مسئولیت این حملات را بر عهده گرفت.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html",
+      "pubDate": "Wed, 07 Oct 2026 20:40:12 +0000",
+      "time": "۰۰:۱۰ - ۱۶ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-07T20:47:06.831Z"
     }
   ]
 }
