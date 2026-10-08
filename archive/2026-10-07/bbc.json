@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "agencyId": "bbc",
-  "total": 4,
+  "total": 6,
   "articles": [
     {
       "id": "bbc_9edd164d35",
@@ -78,6 +78,44 @@
         "negative": 10
       },
       "analyzed_at": "2026-10-07T04:31:55.030Z"
+    },
+    {
+      "id": "bbc_1c512f3f33",
+      "agencyId": "bbc",
+      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+      "title_fa": "ساکنان کیبوتص ویران شده در حملات ۷ اکتبر حماس با چالش بازسازی دست و پنجه نرم می‌کنند",
+      "lead": "سه سال پس از حمله به نیر اوز که در آن ۴۷ نفر کشته و ۷۶ نفر به گروگان گرفته شدند، برخی از بازماندگان برای زندگی به آنجا بازگشته‌اند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 07 Oct 2026 05:02:18 GMT",
+      "time": "۰۸:۳۲ - ۱۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 40,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-07T05:17:01.585Z"
+    },
+    {
+      "id": "bbc_720465e146",
+      "agencyId": "bbc",
+      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+      "title_fa": "جاسوس پیشین آمریکایی که شمش‌های طلا در خانه‌اش پنهان کرده بود، به کلاهبرداری ۲۰۰ میلیون دلاری اعتراف کرد",
+      "lead": "دادستان‌ها اعلام کردند دیوید راش که به ارائه اسرار به یک دولت خارجی نیز اعتراف کرده است، وجود یک «منبع انسانی مخفی» را فاش کرده بود.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 06 Oct 2026 19:53:45 GMT",
+      "time": "۲۳:۲۳ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 30,
+        "negative": 70
+      },
+      "analyzed_at": "2026-10-07T05:17:01.585Z"
     }
   ]
 }
