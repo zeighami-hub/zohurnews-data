@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "agencyId": "aljazeera",
-  "total": 3,
+  "total": 5,
   "articles": [
     {
       "id": "aljazeera_f95e4e83da",
@@ -59,6 +59,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-10-07T00:31:46.549Z"
+    },
+    {
+      "id": "aljazeera_f2eacc2dcd",
+      "agencyId": "aljazeera",
+      "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
+      "title_fa": "نیروهای یمنی برای بازپس‌گیری منطقه الوزیعیه در تعز عملیاتی آغاز کردند",
+      "lead": "این منطقه کوهستانی کلید تسلط بر مخا، بندر دریای سرخ که حوثی‌ها ماه گذشته تصرف کرده بودند، محسوب می‌شود.",
+      "category": "politics",
+      "region": "middleeast",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
+      "pubDate": "Wed, 07 Oct 2026 00:35:57 +0000",
+      "time": "۰۴:۰۵ - ۱۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-07T00:46:48.936Z"
+    },
+    {
+      "id": "aljazeera_ea98edda23",
+      "agencyId": "aljazeera",
+      "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
+      "title_fa": "البرهان در سودان مذاکرات را رد کرد و بر بازپس‌گیری تمام قلمرو از نیروهای پشتیبانی سریع تأکید کرد",
+      "lead": "همزمان با گسترش درگیری‌ها در روز سه‌شنبه، دست‌کم ۱۰ غیرنظامی در کردفان غربی کشته و ۵۵۰۰ نفر در نیل آبی آواره شدند.",
+      "category": "diplomacy",
+      "region": "global",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss",
+      "pubDate": "Wed, 07 Oct 2026 00:26:47 +0000",
+      "time": "۰۳:۵۶ - ۱۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-07T00:46:48.936Z"
     }
   ]
 }
