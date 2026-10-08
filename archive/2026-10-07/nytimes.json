@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "agencyId": "nytimes",
-  "total": 4,
+  "total": 11,
   "articles": [
     {
       "id": "nytimes_2eec97f5eb",
@@ -78,6 +78,139 @@
         "negative": 40
       },
       "analyzed_at": "2026-10-07T08:32:13.303Z"
+    },
+    {
+      "id": "nytimes_c6712d6a16",
+      "agencyId": "nytimes",
+      "title": "How a Small Business Got Entangled in U.S. Sanctions on Iranian Oil",
+      "title_fa": "چگونه یک کسب‌وکار کوچک در تحریم‌های نفت ایران از سوی آمریکا گرفتار شد",
+      "lead": "پرونده یک آژانس کشتیرانی کوچک در مالزی، چالش‌هایی را که واشنگتن در تلاش برای متوقف کردن جریان نفت ایران با آن روبراست، نشان می‌دهد.",
+      "category": "energy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/10/07/world/asia/malaysia-shipping-iran-oil-us-sanctions.html",
+      "pubDate": "Wed, 07 Oct 2026 09:02:02 +0000",
+      "time": "۱۲:۳۲ - ۱۵ مهر",
+      "iranScore": 2,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-07T09:17:03.804Z"
+    },
+    {
+      "id": "nytimes_e09dd0048a",
+      "agencyId": "nytimes",
+      "title": "How a Shadow Economy in Asia Is Keeping Iranian Oil Flowing",
+      "title_fa": "چگونه یک اقتصاد زیرزمینی در آسیا جریان نفت ایران را حفظ کرده است",
+      "lead": "شرکت‌ها علی‌رغم تهدیدهای واشنگتن برای هدف قرار دادن آن‌ها، همچنان به ارائه خدمات به ناوگان تاریک نفتکش‌های ایران در آب‌های نزدیک مالزی ادامه می‌دهند.",
+      "category": "economy",
+      "region": "americas",
+      "sourceUrl": "https://www.nytimes.com/2026/10/07/world/asia/iran-shadow-fleet-asia.html",
+      "pubDate": "Wed, 07 Oct 2026 09:02:01 +0000",
+      "time": "۱۲:۳۲ - ۱۵ مهر",
+      "iranScore": 1,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 60,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-07T09:17:03.804Z"
+    },
+    {
+      "id": "nytimes_a4dee01f65",
+      "agencyId": "nytimes",
+      "title": "Europe’s Trade Tensions With China Are Coming to a Head",
+      "title_fa": "تنش‌های تجاری اروپا با چین به نقطه اوج می‌رسد",
+      "lead": "اتحادیه اروپا در حالی که مذاکره‌کنندگان برای دیدار با مقامات چینی در پکن آماده می‌شوند، در حال بررسی اقدامات تجاری سخت‌گیرانه‌تری است، زیرا افزایش صادرات چین صنایع کلیدی در اروپا را تحت فشار قرار داده است.",
+      "category": "economy",
+      "region": "asia",
+      "sourceUrl": "https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html",
+      "pubDate": "Wed, 07 Oct 2026 09:06:14 +0000",
+      "time": "۱۲:۳۶ - ۱۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 50,
+        "negative": 50
+      },
+      "analyzed_at": "2026-10-07T09:17:03.804Z"
+    },
+    {
+      "id": "nytimes_83dd7134b1",
+      "agencyId": "nytimes",
+      "title": "Mass Trials Put Hundreds in One Dock in El Salvador",
+      "title_fa": "محاکمه‌های دسته‌جمعی در السالوادور صدها نفر را در یک قفس قرار داد",
+      "lead": "وکلای دادگستری هشدار می‌دهند که محاکمه‌های دسته‌جمعی افراد زندانی شده در جریان سرکوب باندهای رئیس‌جمهور نایب بوکله، با شواهد مبهم و محدودیت‌هایی برای دفاع مناسب همراه است.",
+      "category": "military",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/07/world/americas/el-salvador-mass-trials-bukele.html",
+      "pubDate": "Wed, 07 Oct 2026 09:02:10 +0000",
+      "time": "۱۲:۳۲ - ۱۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-07T09:17:03.804Z"
+    },
+    {
+      "id": "nytimes_8e4c2b8a84",
+      "agencyId": "nytimes",
+      "title": "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
+      "title_fa": "اوکراین بخشی از زمین‌های دونباس را پس گرفت و تلاش روسیه را خنثی کرد",
+      "lead": "مسکو می‌گوید تصرف این منطقه اجتناب‌ناپذیر است، اما کی‌یف تاکنون تلاش‌های روسیه برای محاصره شهرهای کمربند دژ اوکراین را متوقف کرده است.",
+      "category": "military",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html",
+      "pubDate": "Wed, 07 Oct 2026 09:02:06 +0000",
+      "time": "۱۲:۳۲ - ۱۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-07T09:17:03.804Z"
+    },
+    {
+      "id": "nytimes_1bd74b940c",
+      "agencyId": "nytimes",
+      "title": "Can Artificial Intelligence Learn the Art of Surgery?",
+      "title_fa": "آیا هوش مصنوعی می‌توان هنر جراحی را بیاموزد؟",
+      "lead": "کانادا می‌خواهد از هوش مصنوعی برای بهبود سیستم مراقبت‌های بهداشتی خود استفاده کند و در بیمارستانی در تورنتو، جراحان در حال آموزش یک ماشین برای تشخیص یک برش ایمن از یک برش فاجعه‌بار هستند.",
+      "category": "technology",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html",
+      "pubDate": "Wed, 07 Oct 2026 09:00:08 +0000",
+      "time": "۱۲:۳۰ - ۱۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 60,
+        "neutral": 40,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-07T09:17:03.804Z"
+    },
+    {
+      "id": "nytimes_b02402fc58",
+      "agencyId": "nytimes",
+      "title": "What Life in Gaza Is Like Now",
+      "title_fa": "زندگی در غزه اکنون چگونه است",
+      "lead": "نزدیک به یک سال پس از توافق اسرائیل و حماس برای پایان دادن به جنگ در غزه، ساحر الغره، عکاس نیویورک تایمز، مستند می‌کند که ساکنان چگونه با شرایط کنار آمده و برای بازسازی زندگی خود تلاش می‌کنند.",
+      "category": "military",
+      "region": "middleeast",
+      "sourceUrl": "https://www.nytimes.com/video/world/middleeast/100000011168313/what-life-in-gaza-is-like-now.html",
+      "pubDate": "Wed, 07 Oct 2026 08:45:06 +0000",
+      "time": "۱۲:۱۵ - ۱۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 50,
+        "negative": 20
+      },
+      "analyzed_at": "2026-10-07T09:02:29.056Z"
     }
   ]
 }
