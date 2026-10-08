@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "agencyId": "nytimes",
-  "total": 25,
+  "total": 27,
   "articles": [
     {
       "id": "nytimes_2eec97f5eb",
@@ -477,6 +477,44 @@
         "negative": 20
       },
       "analyzed_at": "2026-10-07T19:16:41.572Z"
+    },
+    {
+      "id": "nytimes_c38019ee54",
+      "agencyId": "nytimes",
+      "title": "‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87",
+      "title_fa": "«مارکارمن»، زنی که تخلیه خانه‌اش خشم اسپانیایی‌ها را برانگیخت، در ۸۷ سالگی درگذشت",
+      "lead": "ماریا دل کارمن آباسکال پس از تخلیه جنجالی از مسکنش که به نماد بحران مسکن در اسپانیا تبدیل شده بود، در سن ۸۷ سالگی درگذشت.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html",
+      "pubDate": "Wed, 07 Oct 2026 19:43:23 +0000",
+      "time": "۲۳:۱۳ - ۱۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-07T19:46:40.457Z"
+    },
+    {
+      "id": "nytimes_62bf400f2d",
+      "agencyId": "nytimes",
+      "title": "Fears of a Plague Outbreak in Russia: What to Know",
+      "title_fa": "نگرانی از شیوع طاعون در روسیه: آنچه باید بدانید",
+      "lead": "مقام‌های روسی اطلاعات زیادی درباره مرگ زنی که در یک آزمایشگاه مطالعه طاعون کار می‌کرد منتشر نکرده‌اند، اما کارشناسان خطر سرایت را محدود می‌دانند.",
+      "category": "politics",
+      "region": "eurasia",
+      "sourceUrl": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-fears-what-to-know.html",
+      "pubDate": "Wed, 07 Oct 2026 19:43:19 +0000",
+      "time": "۲۳:۱۳ - ۱۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 10,
+        "neutral": 50,
+        "negative": 40
+      },
+      "analyzed_at": "2026-10-07T19:46:40.457Z"
     }
   ]
 }
