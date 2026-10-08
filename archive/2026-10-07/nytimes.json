@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "agencyId": "nytimes",
-  "total": 2,
+  "total": 3,
   "articles": [
     {
       "id": "nytimes_2eec97f5eb",
@@ -40,6 +40,25 @@
         "negative": 20
       },
       "analyzed_at": "2026-10-07T04:16:40.896Z"
+    },
+    {
+      "id": "nytimes_33781d5a96",
+      "agencyId": "nytimes",
+      "title": "As Japan’s Population Shrinks, a City Is Accused of Padding Census Numbers",
+      "title_fa": "هم‌زمان با کاهش جمعیت ژاپن، یک شهر به دستکاری آمارهای سرشماری متهم شد",
+      "lead": "پلیس در حال تحقیق درباره چگونگی افزوده شدن حدود ۳۰۰۰ ساکن خیالی به داده‌های رسمی شهر تو‌یاما است.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.nytimes.com/2026/10/06/world/asia/japan-population-falsified-census.html",
+      "pubDate": "Tue, 06 Oct 2026 04:01:05 +0000",
+      "time": "۰۷:۳۱ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-07T04:31:55.030Z"
     }
   ]
 }
