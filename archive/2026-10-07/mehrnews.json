@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "agencyId": "mehrnews",
-  "total": 9,
+  "total": 11,
   "articles": [
     {
       "id": "mehrnews_0f99e06ea2",
@@ -173,6 +173,44 @@
         "negative": 70
       },
       "analyzed_at": "2026-10-07T06:17:03.208Z"
+    },
+    {
+      "id": "mehrnews_1beb7b6c29",
+      "agencyId": "mehrnews",
+      "title": "Iranian nation achieved strategic victory in war against US",
+      "title_fa": "ملت ایران در جنگ با آمریکا به پیروزی راهبردی دست یافت",
+      "lead": "یک مقام ارشد سپاه پاسداران انقلاب اسلامی اعلام کرد که ملت ایران در جنگ با ایالات متحده آمریکا به یک پیروزی راهبردی دست یافته است.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://en.mehrnews.com/news/248394/Iranian-nation-achieved-strategic-victory-in-war-against-US",
+      "pubDate": "Wed, 07 Oct 2026 06:57:38 GMT",
+      "time": "۱۰:۲۷ - ۱۵ مهر",
+      "iranScore": 5,
+      "sentiment": {
+        "positive": 80,
+        "neutral": 20,
+        "negative": 0
+      },
+      "analyzed_at": "2026-10-07T07:02:40.213Z"
+    },
+    {
+      "id": "mehrnews_6e97115bb1",
+      "agencyId": "mehrnews",
+      "title": "Israeli forces raid Nablus in occupied West Bank",
+      "title_fa": "یورش نیروهای اسرائیلی به شهر نابلس در کرانه باختری",
+      "lead": "ن نیروهای نظامی اسرائیل به شهر نابلس واقع در کرانه باختری اشغالی یورش بردند.",
+      "category": "economy",
+      "region": "middleeast",
+      "sourceUrl": "https://en.mehrnews.com/news/248390/Israeli-forces-raid-Nablus-in-occupied-West-Bank",
+      "pubDate": "Wed, 07 Oct 2026 06:46:05 GMT",
+      "time": "۱۰:۱۶ - ۱۵ مهر",
+      "iranScore": 3,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 40,
+        "negative": 60
+      },
+      "analyzed_at": "2026-10-07T07:02:40.213Z"
     }
   ]
 }
