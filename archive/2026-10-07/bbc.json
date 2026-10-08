@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "agencyId": "bbc",
-  "total": 1,
+  "total": 3,
   "articles": [
     {
       "id": "bbc_9edd164d35",
@@ -21,6 +21,44 @@
         "negative": 80
       },
       "analyzed_at": "2026-10-07T03:31:49.122Z"
+    },
+    {
+      "id": "bbc_40a1cc02de",
+      "agencyId": "bbc",
+      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+      "title_fa": "تیرانداز فورت هود توسط جوخه آتش اعدام می شود",
+      "lead": "نضال ملک حسن ۱۳ سرباز غیرمسلح را کشت و ۳۲ نفر دیگر را زخمی کرد که مرگبارترین حمله غیرنظامی به یک پایگاه نظامی آمریکا به شمار می رود.",
+      "category": "military",
+      "region": "americas",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 07 Oct 2026 02:06:23 GMT",
+      "time": "۰۵:۳۶ - ۱۵ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 0,
+        "neutral": 20,
+        "negative": 80
+      },
+      "analyzed_at": "2026-10-07T03:46:38.661Z"
+    },
+    {
+      "id": "bbc_832dbb8259",
+      "agencyId": "bbc",
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "title_fa": "حزب جدایی‌طلب برنده انتخابات کبک شد و چالش جدیدی برای اتحاد کانادا ایجاد کرد",
+      "lead": "حزب کبکوا که توانست اکثریت کرسی‌ها را به دست آورد، متعهد شد که در سال‌های آینده همه‌پرسی استقلال برگزار کند.",
+      "category": "politics",
+      "region": "global",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 06 Oct 2026 16:51:59 GMT",
+      "time": "۲۰:۲۱ - ۱۴ مهر",
+      "iranScore": 0,
+      "sentiment": {
+        "positive": 30,
+        "neutral": 40,
+        "negative": 30
+      },
+      "analyzed_at": "2026-10-07T03:46:38.661Z"
     }
   ]
 }
