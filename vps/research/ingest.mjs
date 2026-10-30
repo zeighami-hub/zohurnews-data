@@ -1,6 +1,6 @@
 import fs from 'node:fs';import path from 'node:path';import {createRequire}from 'node:module';import {ResearchDB}from './database.cjs';import{normalize}from './analytics.mjs';
 const require=createRequire(import.meta.url);process.env.PUBLISH_MODE='local';const {cycle}=require('../worker/run.cjs');const {fetchAllRSS}=require('../worker/news-core.cjs');
-const dir=process.env.DATA_DIR||'/data';const db=new ResearchDB(path.join(dir,'research.sqlite'));
+const dir=process.env.DATA_DIR||'/data';const disk=fs.statfsSync(dir);if(disk.bavail*disk.bsize<512*1024*1024)throw new Error('Low disk space; capture paused to protect stored data');const db=new ResearchDB(path.join(dir,'research.sqlite'));
 db.db.exec('CREATE TABLE IF NOT EXISTS r_raw(url TEXT PRIMARY KEY,first_seen TEXT,last_seen TEXT,payload TEXT); CREATE TABLE IF NOT EXISTS r_source_runs(checked_at TEXT,source_id TEXT,ok INTEGER,payload TEXT,PRIMARY KEY(checked_at,source_id));');
 async function readRSS(){const data=await fetchAllRSS();const now=new Date().toISOString();const put=db.db.prepare('INSERT INTO r_raw VALUES (?,?,?,?) ON CONFLICT(url) DO UPDATE SET last_seen=excluded.last_seen,payload=excluded.payload');
  db.db.exec('BEGIN');try{for(const a of data.articles)put.run(a.sourceUrl,now,now,JSON.stringify(a));for(const s of data.source_runs||[])db.db.prepare('INSERT OR REPLACE INTO r_source_runs VALUES (?,?,?,?)').run(s.checked_at,s.id,s.ok?1:0,JSON.stringify(s));db.db.exec('COMMIT');}catch(e){db.db.exec('ROLLBACK');throw e;}
