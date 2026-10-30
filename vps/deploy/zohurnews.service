@@ -1,0 +1,16 @@
+[Unit]
+Description=ZohurNews RSS analysis and secure host publication
+After=network-online.target docker.service
+Requires=docker.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/zohurnews
+ExecStart=/usr/bin/flock -n /opt/zohurnews/state/worker.lock /usr/bin/docker run --rm --name zohurnews-cycle --read-only --cap-drop ALL --security-opt no-new-privileges --memory 512m --cpus 0.75 --pids-limit 64 --tmpfs /tmp:rw,noexec,nosuid,size=32m --env-file /opt/zohurnews/private/worker.env --mount type=bind,src=/opt/zohurnews/data,dst=/data zohurnews-worker:2.0.0
+TimeoutStartSec=12min
+TimeoutStopSec=30s
+ExecStop=-/usr/bin/docker stop -t 20 zohurnews-cycle
+StandardOutput=journal
+StandardError=journal
+

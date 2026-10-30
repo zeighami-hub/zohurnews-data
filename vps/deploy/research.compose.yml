@@ -1,0 +1,17 @@
+services:
+  research:
+    image: zohurnews-research:3.0.0
+    container_name: zohurnews-research
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:18086:8080"
+    volumes:
+      - /opt/zohurnews/data:/data
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    mem_limit: 512m
+    cpus: 0.75
+    pids_limit: 64
+    tmpfs:
+      - /tmp:rw,noexec,nosuid,size=32m

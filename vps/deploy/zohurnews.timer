@@ -1,0 +1,9 @@
+[Unit]
+Description=Run ZohurNews every fifteen minutes
+[Timer]
+OnCalendar=*-*-* *:00/15:00
+RandomizedDelaySec=20
+Persistent=true
+Unit=zohurnews.service
+[Install]
+WantedBy=timers.target

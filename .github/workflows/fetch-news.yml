@@ -1,35 +1,11 @@
-name: Fetch and Analyze News
-
-# این workflow دیگر schedule داخلی گیت‌هاب ندارد (چون در بار زیاد می‌تواند تأخیر بخورد).
-# هر ۱۵ دقیقه توسط یک cron job رایگان و خارجی در cron-job.org، از طریق فراخوانی
-# workflow_dispatch API (با یک GitHub Fine-grained token با دسترسی Actions: Read and write) صدا زده می‌شود.
+name: Legacy Fetch and Analyze News (retired)
 on:
   workflow_dispatch:
-
-# اجازه‌ی نوشتن در همین ریپو لازم است چون آرشیو و کش‌سازی اینجا کامیت می‌شوند
 permissions:
-  contents: write
-
+  contents: read
 jobs:
-  fetch-and-analyze:
+  legacy-retired:
+    if: ${{ false }}
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-
-      - name: Install dependencies
-        run: npm install xml2js @upstash/redis @octokit/rest
-
-      - name: Run fetch + analyze
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          UPSTASH_REDIS_REST_URL: ${{ secrets.UPSTASH_REDIS_REST_URL }}
-          UPSTASH_REDIS_REST_TOKEN: ${{ secrets.UPSTASH_REDIS_REST_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node fetch-and-analyze.js
+      - run: echo 'Replaced by VPS zohurnews-capture.timer / zohurnews-research.timer. See vps/RESEARCH_V3.md.'

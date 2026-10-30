@@ -1,0 +1,7 @@
+[Unit]
+Description=Consistent ZohurNews SQLite backup
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 /opt/zohurnews/releases/research-v3/deploy/backup.py
+UMask=0077
+Nice=10
