@@ -1,0 +1,22 @@
+name: Research platform checks
+on:
+  pull_request:
+    paths: ['vps/**']
+  push:
+    paths: ['vps/**']
+permissions:
+  contents: read
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: vps
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: npm ci --ignore-scripts
+        working-directory: vps
+      - run: npm test
+        working-directory: vps

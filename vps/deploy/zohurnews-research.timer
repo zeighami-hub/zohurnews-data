@@ -1,0 +1,9 @@
+[Unit]
+Description=ZohurNews research capture every fifteen minutes
+[Timer]
+OnCalendar=*-*-* *:00/15:00
+RandomizedDelaySec=15
+Persistent=true
+Unit=zohurnews-research.service
+[Install]
+WantedBy=timers.target

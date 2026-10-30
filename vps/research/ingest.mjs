@@ -1,0 +1,12 @@
+import fs from 'node:fs';import path from 'node:path';import {createRequire}from 'node:module';import {ResearchDB}from './database.cjs';import{normalize}from './analytics.mjs';
+const require=createRequire(import.meta.url);process.env.PUBLISH_MODE='local';const {cycle}=require('../worker/run.cjs');const {fetchAllRSS}=require('../worker/news-core.cjs');
+const dir=process.env.DATA_DIR||'/data';const db=new ResearchDB(path.join(dir,'research.sqlite'));
+db.db.exec('CREATE TABLE IF NOT EXISTS r_raw(url TEXT PRIMARY KEY,first_seen TEXT,last_seen TEXT,payload TEXT); CREATE TABLE IF NOT EXISTS r_source_runs(checked_at TEXT,source_id TEXT,ok INTEGER,payload TEXT,PRIMARY KEY(checked_at,source_id));');
+async function readRSS(){const data=await fetchAllRSS();const now=new Date().toISOString();const put=db.db.prepare('INSERT INTO r_raw VALUES (?,?,?,?) ON CONFLICT(url) DO UPDATE SET last_seen=excluded.last_seen,payload=excluded.payload');
+ db.db.exec('BEGIN');try{for(const a of data.articles)put.run(a.sourceUrl,now,now,JSON.stringify(a));for(const s of data.source_runs||[])db.db.prepare('INSERT OR REPLACE INTO r_source_runs VALUES (?,?,?,?)').run(s.checked_at,s.id,s.ok?1:0,JSON.stringify(s));db.db.exec('COMMIT');}catch(e){db.db.exec('ROLLBACK');throw e;}
+ const articles=db.db.prepare('SELECT payload,first_seen FROM r_raw WHERE last_seen>=?').all(new Date(Date.now()-86400000).toISOString()).map(r=>({...JSON.parse(r.payload),first_seen_at:r.first_seen}));
+ db.import(articles,now,normalize);db.set('last_capture',{at:now,received:data.articles.length,sources:data.source_runs,method:'RSS, maximum '+(process.env.MAX_RSS_ITEMS||100)+' items per source per cycle'});
+ // All captured records are retained, even when AI processing is delayed or fails.
+ return {...data,articles};}
+async function deliver(store){const item=store.pending();if(!item)return;const payload=JSON.parse(item.body);db.import(payload.archive,payload.cache.generated_at,normalize);db.set('last_translation',payload.cache.generated_at);const temp=path.join(dir,'news_cache.tmp');fs.writeFileSync(temp,JSON.stringify(payload.cache));fs.renameSync(temp,path.join(dir,'news_cache.json'));store.acknowledge(item.sequence);}
+try{if(process.env.CAPTURE_ONLY==='1'){const data=await readRSS();console.log(JSON.stringify({event:'capture_completed',received:data.total,translation:'pending_configuration'}));}else await cycle({readRSS,deliver});}finally{db.close();}

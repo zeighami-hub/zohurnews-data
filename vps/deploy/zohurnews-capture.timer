@@ -1,0 +1,9 @@
+[Unit]
+Description=Capture news every fifteen minutes while awaiting translation credentials
+[Timer]
+OnCalendar=*-*-* *:00/15:00
+RandomizedDelaySec=15
+Persistent=true
+Unit=zohurnews-capture.service
+[Install]
+WantedBy=timers.target
