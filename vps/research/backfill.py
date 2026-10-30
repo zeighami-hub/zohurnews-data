@@ -63,6 +63,8 @@ def init_robots(base):
  return re.findall(r'(?im)^sitemap:\s*(\S+)',text)
 
 def relevant_map(url):
+ monthly=re.search(r'newsarchive-(14\d{2})-(\d{1,2})-',url)
+ if monthly:return monthly[1]=='1405'and int(monthly[2])in(7,8)
  daily=re.search(r'/1405/(07|08)/(\d{2})/',url)
  if daily:return (daily[1]=='07'and int(daily[2])>=17)or(daily[1]=='08'and int(daily[2])<=8)
  if re.search(r'/1405/(?:07/(?:1[7-9]|2\d|30)|08/0[1-8])/',url):return True
@@ -185,7 +187,7 @@ def main():
  with sqlite3.connect('file:'+str(ROOT/'data/research.sqlite')+'?mode=ro',uri=True)as live:known={canonical(r[0])for r in live.execute('select url from r_articles')}
  selected=set(os.environ.get('ZOHUR_RECOVERY_SOURCES',','.join(SOURCES)).split(','))
  c.execute("UPDATE queue SET status='pending' WHERE attempts<3 AND (status LIKE 'failed:%timed out%' OR status LIKE 'failed:%HTTP Error 5%')");c.commit()
- todo=[s for s in SOURCES if s in selected and not c.execute('select 1 from sources where id=?',(s,)).fetchone()]
+ todo=[s for s in SOURCES if s in selected and not c.execute('select 1 from sources where id=?',(s,)).fetchone()][:4]  # bound discovery memory; later batches cover remaining publishers
  with concurrent.futures.ThreadPoolExecutor(max_workers=4)as pool:
   for source,urls,status in pool.map(discover,todo):
    c.executemany('INSERT OR IGNORE INTO queue(source,url,origin,status)VALUES(?,?,?,?)',[(source,u,origin,'already-stored'if u in known else'pending')for u,origin in urls.items()]);c.execute('INSERT OR REPLACE INTO sources VALUES(?,?)',(source,json.dumps(status)));c.commit();print(source,json.dumps(status),flush=True)
@@ -195,7 +197,7 @@ def main():
    try:init_robots(base)
    except Exception:pass
  rows=c.execute("SELECT source,url,origin FROM (SELECT *,row_number()over(partition by source order by url)rn FROM queue WHERE status='pending') WHERE rn<=50 ORDER BY rn,source").fetchall();items=[]
- def status():return {'at':dt.datetime.now(dt.timezone.utc).isoformat(),'period':{'from':FROM,'to':TO},'counts':dict(c.execute('select status,count(*)from queue group by status')),'sources':{s:json.loads(p)for s,p in c.execute('select id,payload from sources')},'state':'in-progress'if c.execute("select count(*)from queue where status='pending'").fetchone()[0]else'discovered-queue-processed-with-gaps','completeness':'not-guaranteed; discovered publisher archive only'}
+ def status():return {'at':dt.datetime.now(dt.timezone.utc).isoformat(),'period':{'from':FROM,'to':TO},'counts':dict(c.execute('select status,count(*)from queue group by status')),'sources':{s:json.loads(p)for s,p in c.execute('select id,payload from sources')},'discovery_remaining':len(SOURCES)-c.execute('select count(*)from sources').fetchone()[0],'state':'in-progress'if (c.execute("select count(*)from queue where status='pending'").fetchone()[0] or c.execute('select count(*)from sources').fetchone()[0]<len(SOURCES))else'discovered-queue-processed-with-gaps','completeness':'not-guaranteed; discovered publisher archive only'}
  with concurrent.futures.ThreadPoolExecutor(max_workers=4)as pool:
   for url,state,item in pool.map(recover,rows):
    if item:items.append(item)
