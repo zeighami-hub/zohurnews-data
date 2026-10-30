@@ -1,0 +1,20 @@
+name: Backup safety checks
+on:
+  push:
+    paths: ['vps/deploy/offsite/**', 'vps/windows-backup/**', '.github/workflows/backup-tests.yml']
+  pull_request:
+    paths: ['vps/deploy/offsite/**', 'vps/windows-backup/**', '.github/workflows/backup-tests.yml']
+permissions:
+  contents: read
+jobs:
+  python:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m unittest discover -s vps/deploy/offsite -p 'test_*.py' -v
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: powershell
+        run: ./vps/windows-backup/Test-Package.ps1

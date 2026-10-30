@@ -1,0 +1,11 @@
+[Unit]
+Description=Daily ZohurNews offsite backup (03:15 Tehran)
+
+[Timer]
+OnCalendar=*-*-* 23:45:00 UTC
+RandomizedDelaySec=300
+Persistent=true
+Unit=zohurnews-cloud-backup.service
+
+[Install]
+WantedBy=timers.target

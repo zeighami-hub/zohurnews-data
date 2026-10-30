@@ -1,0 +1,21 @@
+[Unit]
+Description=ZohurNews encrypted Google Drive backup and restore verification
+Wants=network-online.target
+After=network-online.target
+ConditionPathExists=/opt/zohurnews/private/rclone.conf
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 /opt/zohurnews/releases/research-v3/deploy/offsite/cloud_backup.py
+TimeoutStartSec=3h
+UMask=0077
+Nice=15
+IOSchedulingClass=idle
+CPUQuota=50%
+MemoryMax=512M
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/opt/zohurnews/state /opt/zohurnews/private
+
