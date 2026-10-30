@@ -8,6 +8,9 @@ class Tests(unittest.TestCase):
  def test_structured_article(self):
   a=m.extract('<script type="application/ld+json">{"@type":"NewsArticle","headline":"خبر اصلی","datePublished":"2026-10-10T12:00:00+03:30","description":"خلاصه"}</script>')
   self.assertEqual(a['title'],'خبر اصلی');self.assertIn('08:30:00',a['pubDate'])
+ def test_recommendation_does_not_replace_publication(self):
+  a=m.extract('<meta property="og:title" content="اصل"><meta property="article:published_time" content="2026-10-10T12:00:00Z"><script type="application/ld+json">[{"@type":"NewsArticle","url":"https://x/other","headline":"دیگر","datePublished":"2026-10-11T12:00:00Z"}]</script>','https://x/main')
+  self.assertEqual(a['title'],'اصل');self.assertTrue(a['pubDate'].startswith('2026-10-10'))
  def test_period_and_maps(self):
   self.assertIsNone(m.extract('<title>Old</title><meta property="article:published_time" content="2025-10-10T12:00:00Z">'))
   self.assertFalse(m.relevant_map('https://x/fa-sitemap-newsarchive-1404-7-1'));self.assertTrue(m.relevant_map('https://x/fa-sitemap-newsarchive-1405-7-1'));self.assertFalse(m.relevant_map('https://x/sitemap/1404/07/17/sitemap.xml'));self.assertTrue(m.relevant_map('https://x/sitemap/1405/07/17/sitemap.xml'))

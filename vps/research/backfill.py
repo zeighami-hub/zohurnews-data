@@ -122,7 +122,7 @@ def discover(source):
       if source=='dw' and '/en/'not in link:continue
       found[canonical(link)]=url
    except Exception as e:errors.append(str(e))
-  return source,found,{'state':'candidates-discovered'if found else 'no-candidates','maps_checked':len(visited),'candidates':len(found),'errors':errors[:8]}
+  return source,found,{'state':'candidates-discovered'if found else 'no-candidates','maps_checked':len(visited),'unvisited_maps':len(queue),'candidates':len(found),'errors':errors[:8]}
  except Exception as e:return source,{}, {'state':'blocked-or-unavailable','errors':[str(e)]}
 
 class Metadata(HTMLParser):
@@ -139,7 +139,7 @@ class Metadata(HTMLParser):
   if self.inside:self.buf+=data
   if self.in_title:self.title+=data
 
-def extract(text):
+def extract(text,url=None):
  parser=Metadata();parser.feed(text);m=parser.meta
  title=m.get('og:title')or m.get('twitter:title')or parser.title
  description=m.get('description')or m.get('og:description')or''
@@ -155,7 +155,12 @@ def extract(text):
    for node in nodes(json.loads(raw)):
     types=node.get('@type',[]);types=[types]if isinstance(types,str)else types
     if any(t in ['NewsArticle','Article','ReportageNewsArticle','LiveBlogPosting']for t in types):
-     title=node.get('headline')or title;description=node.get('description')or description;published=node.get('datePublished')or published
+     identity=node.get('url')or node.get('mainEntityOfPage')or node.get('@id')
+     if isinstance(identity,dict):identity=identity.get('@id')or identity.get('url')
+     if url and isinstance(identity,str) and identity.startswith('http') and canonical(identity.split('#')[0])!=canonical(url):continue
+     if not title and node.get('headline'):title=node['headline']
+     description=description or node.get('description')or'';published=published or node.get('datePublished')or''
+     if published:break
   except (ValueError,TypeError):pass
  if not title or not isinstance(published,str):raise ValueError('Missing title/publication metadata')
  d=dt.datetime.fromisoformat(published.replace('Z','+00:00'))
@@ -167,7 +172,7 @@ def extract(text):
 def recover(row):
  source,url,origin=row;base,_,lang=SOURCES[source]
  try:
-  item=extract(fetch(url,base,limit=3*1024*1024))
+  item=extract(fetch(url,base,limit=3*1024*1024),url)
   if item is None:return url,'outside-period',None
   item.update(agencyId=source,sourceUrl=url,lang=lang,provenance='publisher-archive-recovery',content_scope='publisher_metadata_excerpt',recovery={'recovered_at':dt.datetime.now(dt.timezone.utc).isoformat(),'discovered_from':origin,'publication_basis':'publisher metadata, not sitemap lastmod'})
   return url,'recovered',item
