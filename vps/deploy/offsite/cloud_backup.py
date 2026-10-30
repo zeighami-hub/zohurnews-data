@@ -100,4 +100,10 @@ if __name__ == '__main__':
     p = argparse.ArgumentParser(); p.add_argument('--root', default='/opt/zohurnews'); p.add_argument('--config', default='/opt/zohurnews/private/rclone.conf'); p.add_argument('--remote', default='zohur-crypt:snapshots'); a = p.parse_args()
     try: run(pathlib.Path(a.root), a.config, a.remote)
     except Exception as e:
+        status_file = pathlib.Path(a.root) / 'state' / 'cloud-backup-status.json'
+        try:
+            old = json.loads(status_file.read_text()) if status_file.exists() else {}
+            old.update(ok=False, checked=dt.datetime.now(dt.timezone.utc).isoformat(), error=str(e))
+            pending = status_file.with_suffix('.tmp'); pending.write_text(json.dumps(old)); pending.replace(status_file)
+        except OSError: pass
         print('Cloud backup FAILED:', str(e)); raise SystemExit(1)

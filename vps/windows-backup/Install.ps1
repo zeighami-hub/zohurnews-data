@@ -15,6 +15,7 @@ $sums = (Invoke-WebRequest "$base/SHA256SUMS" -UseBasicParsing).Content
 $entry = ($sums -split "`n" | Where-Object { $_.Trim().EndsWith($asset) } | Select-Object -First 1)
 if (-not $entry) { throw 'Official SHA256 entry missing' }
 $expected = ($entry.Trim() -split '\s+')[0]
+if ($expected -ne '1c75923b4d3f0b3d1faf16447a442b5aaed0cfc32997b3381eb96fd087603a30') { throw 'Official release checksum changed unexpectedly' }
 if ((Get-FileHash $zip -Algorithm SHA256).Hash -ne $expected) { throw 'rclone SHA256 mismatch' }
 Expand-Archive $zip (Join-Path $homeDir 'tools') -Force
 Copy-Item (Join-Path $homeDir "tools/rclone-$version-windows-amd64/rclone.exe") (Join-Path $homeDir 'rclone.exe') -Force
