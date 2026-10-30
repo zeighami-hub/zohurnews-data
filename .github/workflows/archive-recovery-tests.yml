@@ -1,0 +1,14 @@
+name: Publisher recovery checks
+on:
+  push:
+    paths: ['vps/research/backfill.py', 'vps/research/test_backfill.py', '.github/workflows/archive-recovery-tests.yml']
+  pull_request:
+    paths: ['vps/research/backfill.py', 'vps/research/test_backfill.py', '.github/workflows/archive-recovery-tests.yml']
+permissions:
+  contents: read
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m unittest discover -s vps/research -p test_backfill.py -v

@@ -1,0 +1,9 @@
+[Unit]
+Description=Finish ZohurNews TLS after domain DNS cutover
+After=network-online.target
+ConditionPathExists=!/opt/zohurnews/state/public-domain-ready
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 /opt/zohurnews/releases/research-v3/deploy/watch-public-domain.py
+TimeoutStartSec=10min
+UMask=0077

@@ -1,0 +1,9 @@
+[Unit]
+Description=Continue incomplete historical archive recovery
+[Timer]
+OnBootSec=5min
+OnUnitInactiveSec=5min
+Persistent=true
+Unit=zohurnews-recovery.service
+[Install]
+WantedBy=timers.target
