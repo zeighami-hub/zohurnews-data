@@ -27,7 +27,7 @@ class ResearchDB {
  const version=this.db.prepare('INSERT OR IGNORE INTO r_versions VALUES (?,?,?,?)');
  const prior=this.db.prepare('SELECT payload FROM r_articles WHERE id=?');
  for(const a of items){let d=convert(a,recorded);if(!d)continue;const hash=crypto.createHash('sha256').update(JSON.stringify([d.title_original,d.title_fa,d.text_original,d.lead])).digest('hex');
- const old=prior.get(d.id);if(old){const prev=JSON.parse(old.payload);if(!d.text_original)d.text_original=prev.text_original;if(!d.published_at&&prev.published_at){d.published_at=prev.published_at;d.effective_at=prev.published_at;d.date_basis='source_published';}if(!d.first_seen_at)d.first_seen_at=prev.first_seen_at;if(!a.title_fa&&prev.title_fa){d.title_fa=prev.title_fa;d.lead=prev.lead;d.translation_status=prev.translation_status;}if(!d.model)d.model=prev.model;}
+ const old=prior.get(d.id);if(old){const prev=JSON.parse(old.payload);if(!d.text_original)d.text_original=prev.text_original;if(!d.published_at&&prev.published_at){d.published_at=prev.published_at;d.effective_at=prev.published_at;d.date_basis='source_published';}if(prev.first_seen_at&&(!d.first_seen_at||prev.first_seen_at<d.first_seen_at))d.first_seen_at=prev.first_seen_at;if(d.date_basis==='first_observed')d.effective_at=d.first_seen_at;if(!a.title_fa&&prev.title_fa){d.title_fa=prev.title_fa;d.lead=prev.lead;d.translation_status=prev.translation_status;}if(!d.model)d.model=prev.model;}
  const payload=JSON.stringify(d);version.run(d.id,hash,payload,d.recorded_at||new Date().toISOString());
  if(old?.payload===payload)continue;
  insert.run(d.id,d.url,d.source_id,d.category,d.lang,d.effective_at,d.published_at,d.title_fa,normalize([d.title_original,d.title_fa,d.text_original,d.lead].join(' ')),payload);n++;
