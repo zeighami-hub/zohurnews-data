@@ -12,7 +12,7 @@ function convert(a,recorded=null){
  d.effective_at=d.published_at||d.first_seen_at||d.analyzed_at||d.recorded_at;d.date_basis=d.published_at?'source_published':d.first_seen_at?'first_observed':d.analyzed_at?'legacy_analysis':d.recorded_at?'archive_record':'unknown';d.translation_status=lang==='fa'?'not_required':a.title_fa?'available':'pending';return d;
 }
 class ResearchDB {
- constructor(file){fs.mkdirSync(path.dirname(file),{recursive:true});this.db=new DatabaseSync(file);this.db.exec(`PRAGMA journal_mode=WAL; PRAGMA busy_timeout=5000; PRAGMA synchronous=NORMAL;
+ constructor(file){fs.mkdirSync(path.dirname(file),{recursive:true});this.db=new DatabaseSync(file);this.db.exec(`PRAGMA journal_mode=WAL; PRAGMA temp_store=MEMORY; PRAGMA busy_timeout=5000; PRAGMA synchronous=NORMAL;
  CREATE TABLE IF NOT EXISTS r_articles(id TEXT PRIMARY KEY,url TEXT UNIQUE,source_id TEXT,category TEXT,lang TEXT,effective_at TEXT,published_at TEXT,title TEXT,search_text TEXT,payload TEXT NOT NULL);
  CREATE INDEX IF NOT EXISTS r_time ON r_articles(effective_at);CREATE INDEX IF NOT EXISTS r_source ON r_articles(source_id,effective_at);CREATE INDEX IF NOT EXISTS r_category ON r_articles(category);
  CREATE TABLE IF NOT EXISTS r_versions(article_id TEXT,content_hash TEXT,payload TEXT,recorded_at TEXT,PRIMARY KEY(article_id,content_hash));
@@ -31,7 +31,7 @@ class ResearchDB {
  const payload=JSON.stringify(d);version.run(d.id,hash,payload,d.recorded_at||new Date().toISOString());
  if(old?.payload===payload)continue;
  insert.run(d.id,d.url,d.source_id,d.category,d.lang,d.effective_at,d.published_at,d.title_fa,normalize([d.title_original,d.title_fa,d.text_original,d.lead].join(' ')),payload);n++;
- }this.db.exec('COMMIT');return n;}catch(e){this.db.exec('ROLLBACK');throw e;}}
+ }this.db.exec('COMMIT');return n;}catch(e){try{this.db.exec('ROLLBACK');}catch{}throw e;}}
  filters(p={}){const where=[],args=[];for(const [key,col]of [['source','source_id'],['category','category'],['lang','lang']])if(p[key]){where.push(col+'=?');args.push(String(p[key]).slice(0,100));}
  if(p.from){where.push('effective_at>=?');args.push(p.from);}if(p.to){where.push('effective_at<=?');args.push(p.to);}
  if(p.q){const words=String(p.q).match(/[\p{L}\p{N}]+/gu)?.slice(0,12)||[];if(words.length){where.push('id IN (SELECT id FROM r_fts WHERE r_fts MATCH ?)');args.push(words.map(x=>'"'+x+'"').join(' AND '));}}
