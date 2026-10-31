@@ -444,7 +444,7 @@ function App() {
       if (!res.ok) throw new Error('HTTP ' + res.status);
       const data = await res.json();
       if (data && Array.isArray(data.articles)) {
-        if (data.translation_pending > 0) setErrorMsg('بخشی از خبرهای خارجی هنوز ترجمهٔ فارسی ندارند.');
+        if (data.translation_pending > 0) setErrorMsg('خبرهای خارجیِ منتظر ترجمه پس از آماده‌شدن در این صفحه منتشر می‌شوند.');
         const transformed = transformCacheToNewsData(data);
         setNewsData(transformed);
         // ترتیب ستون‌ها
@@ -1449,3 +1449,4 @@ function App() {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
+

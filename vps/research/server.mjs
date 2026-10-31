@@ -1,3 +1,4 @@
+import {mediaComparison} from './media-comparison.mjs';
 import {legacyLive,legacyArchive}from './legacy-adapter.mjs';
 import {trail} from './trail.mjs';import {homePage,articlePage} from './public-pages.mjs';
 import http from 'node:http';import fs from 'node:fs';import path from 'node:path';import {ResearchDB}from './database.cjs';import {normalize,tokens,related,techniques,topTerms,compare,csv}from './analytics.mjs';
@@ -12,7 +13,8 @@ const server=http.createServer(async(req,res)=>{try{
  if(u.pathname==='/api/category.php'){res.writeHead(302,{'Location':'/research.html'});return res.end();}
  if(u.pathname==='/api/coverage')return json(res,200,db.coverage());
  if(u.pathname==='/api/trail'){const a=db.article(p.id);if(!a)return json(res,404,{error:'Not found'});return json(res,200,trail(db,a));}
- if(u.pathname==='/api/health')return json(res,200,{ok:true,...db.meta(),ingestion_configured:fs.existsSync('/run/config/worker.env')});
+ if(u.pathname==='/api/health')return json(res,200,{ok:true,...db.meta(),ingestion_configured:!!db.get('last_capture')});
+ if(u.pathname==='/api/media-comparison')return json(res,200,mediaComparison(db,p));
  if(u.pathname==='/api/research')return json(res,200,db.query(p));
  if(u.pathname==='/api/article'){const a=db.article(p.id);if(!a)return json(res,404,{error:'Not found'});return json(res,200,{article:a,techniques:techniques(a),versions:db.db.prepare('SELECT recorded_at,content_hash,payload FROM r_versions WHERE article_id=? ORDER BY recorded_at').all(a.id).map(v=>({recorded_at:v.recorded_at,content_hash:v.content_hash,title:JSON.parse(v.payload).title_original}))});}
  if(u.pathname==='/api/related'){const a=db.article(p.id);if(!a)return json(res,404,{error:'Not found'});return json(res,200,{base:a,articles:related(a,db.candidates(a,tokens(a.title_fa||a.title_original)),30),method:'TF-IDF cosine on Persian headlines; 72h candidate window; suggested matches, not verified event identity'});}
@@ -29,3 +31,5 @@ const server=http.createServer(async(req,res)=>{try{
 }catch(e){console.error(e.message);if(!res.headersSent)json(res,500,{error:'Research request failed'});else res.end();}});
 server.listen(Number(process.env.PORT||8080),'0.0.0.0',()=>console.log('Research server listening'));
 process.on('SIGTERM',()=>server.close(()=>{db.close();process.exit(0);}));
+
+

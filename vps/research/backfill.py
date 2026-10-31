@@ -72,7 +72,7 @@ def relevant_map(url):
  if re.search(r'/2026/10/(?:0[9]|[12]\d|30)/',url):return True
  if re.search(r'(?:1405[-/]0?[78](?:[-/]|$)|2026[-/]10|202610)',url):return True
  if re.search(r'(?:/20\d\d/|/20\d\d[-/]|20\d{4}|/14\d\d/)',url):return False
- return not re.search(r'video|image|sport|recipe|cooking|/fr/|/ar/|/es/',url,re.I)
+ return not re.search(r'video|image|recipe|cooking|/fr/|/ar/|/es/',url,re.I)
 
 def sitemap(text):
  if text.lstrip().startswith('{'):
@@ -96,6 +96,10 @@ def discover(source):
   advertised=init_robots(base)
   queue=[urllib.parse.urljoin(base,x) for x in seeds]
   if not queue:queue=[u for u in advertised if allowed(u,base) and relevant_map(u)][:5]
+  checkpoint=DEST/('sitemaps-'+source+'.json')
+  if checkpoint.exists():
+   saved=json.loads(checkpoint.read_text());queue=saved.get('queue',queue);visited=set(saved.get('visited',[]))
+  checked_this_pass=0
   if source=='guardian':
    for day in range(9,31):
     u=base+f'/world/2026/oct/{day:02}/all'
@@ -105,10 +109,10 @@ def discover(source):
       link=html.unescape(urllib.parse.urljoin(base,link))
       if allowed(link,base) and re.search(r'/2026/oct/(?:0?[9]|[12]\d|30)/',link) and not link.endswith('/all'):found[canonical(link)]=u
     except Exception as e:errors.append(str(e))
-  while queue and len(visited)<100:
+  while queue and checked_this_pass<25:
    url=queue.pop(0)
    if url in visited or not allowed(url,base):continue
-   visited.add(url)
+   visited.add(url);checked_this_pass+=1
    try:
     kind,rows=sitemap(fetch(url,base))
     if kind=='index':queue.extend(r['loc']for r in rows if r.get('loc') and relevant_map(r['loc']))
@@ -123,6 +127,7 @@ def discover(source):
       if source=='dw' and '/en/'not in link:continue
       found[canonical(link)]=url
    except Exception as e:errors.append(str(e))
+  checkpoint.with_suffix('.next').write_text(json.dumps({'queue':queue,'visited':sorted(visited)}))
   return source,found,{'state':'candidates-discovered'if found else 'no-candidates','maps_checked':len(visited),'unvisited_maps':len(queue),'candidates':len(found),'errors':errors[:8]}
  except Exception as e:return source,{}, {'state':'blocked-or-unavailable','errors':[str(e)]}
 
@@ -177,7 +182,8 @@ def extract(text,url=None):
  return {'title':clean(title),'description':clean(description),'pubDate':d.astimezone(dt.timezone.utc).isoformat()}
 
 def is_collection(url):
- return bool(re.match(r'^/(?:en/)?(?:topic|topics|tag|tags|author|authors)(?:/|$)',urllib.parse.urlsplit(url).path))
+ u=urllib.parse.urlsplit(url)
+ return bool(re.match(r'^/(?:en/)?(?:topic|topics|tag|tags|author|authors)(?:/|$)',u.path) or (u.hostname=='www.dw.com' and re.search(r'/(?:s|t|person)-\d+/?$',u.path)))
 
 def recover(row):
  source,url,origin=row;base,_,lang=SOURCES[source]
@@ -205,10 +211,23 @@ def main():
  with sqlite3.connect('file:'+str(ROOT/'data/research.sqlite')+'?mode=ro',uri=True)as live:known={canonical(r[0])for r in live.execute('select url from r_articles')}
  selected=set(os.environ.get('ZOHUR_RECOVERY_SOURCES',','.join(SOURCES)).split(','))
  c.execute("UPDATE queue SET status='pending' WHERE attempts<3 AND (status LIKE 'failed:%timed out%' OR status LIKE 'failed:%HTTP Error 5%' OR status='failed:Publisher robots temporarily unavailable; retry later')");c.commit()
- todo=[s for s in SOURCES if s in selected and not c.execute('select 1 from sources where id=?',(s,)).fetchone()][:4]  # bound discovery memory; later batches cover remaining publishers
+ def needs_discovery(source):
+  row=c.execute('select payload from sources where id=?',(source,)).fetchone()
+  return not row or json.loads(row[0]).get('unvisited_maps',0)>0
+ todo=[s for s in SOURCES if s in selected and needs_discovery(s)][:4]  # bound discovery memory; later batches cover remaining publishers
  with concurrent.futures.ThreadPoolExecutor(max_workers=4)as pool:
   for source,urls,status in pool.map(discover,todo):
-   c.executemany('INSERT OR IGNORE INTO queue(source,url,origin,status)VALUES(?,?,?,?)',[(source,u,origin,'already-stored'if u in known else'pending')for u,origin in urls.items()]);c.execute('INSERT OR REPLACE INTO sources VALUES(?,?)',(source,json.dumps(status)));c.commit();print(source,json.dumps(status),flush=True)
+   old=c.execute('select payload from sources where id=?',(source,)).fetchone()
+   if old:
+    previous=json.loads(old[0]);status['candidates']=previous.get('candidates',0)+sum(1 for u in urls if not c.execute('select 1 from queue where url=?',(u,)).fetchone())
+    status['errors']=list(dict.fromkeys(previous.get('errors',[])+status.get('errors',[])))[:8]
+    if status['candidates']:status['state']='candidates-discovered'
+    for key in ['page_access','page_retry_after']:
+     if key in previous:status[key]=previous[key]
+   c.executemany('INSERT OR IGNORE INTO queue(source,url,origin,status)VALUES(?,?,?,?)',[(source,u,origin,'already-stored'if u in known else'pending')for u,origin in urls.items()]);c.execute('INSERT OR REPLACE INTO sources VALUES(?,?)',(source,json.dumps(status)));c.commit()
+   checkpoint=DEST/('sitemaps-'+source+'.json');candidate=checkpoint.with_suffix('.next')
+   if candidate.exists():candidate.replace(checkpoint)
+   print(source,json.dumps(status),flush=True)
  # Reconstruct robots policies after a restart; inaccessible publishers are retained as errors.
  for source,(base,_,_)in SOURCES.items():
   if base not in robots:
@@ -222,7 +241,7 @@ def main():
  ready_sources=[s for s in SOURCES if SOURCES[s][0]in robots and not_deferred(s)]
  placeholders=','.join('?'for _ in ready_sources)or"''"
  rows=c.execute("SELECT source,url,origin FROM (SELECT *,row_number()over(partition by source order by CASE WHEN url LIKE '%/tag/%'OR url LIKE '%/topic/%'OR url LIKE '%/author/%'THEN 1 ELSE 0 END,url)rn FROM queue WHERE status='pending'AND source IN("+placeholders+"))WHERE rn<=100 ORDER BY rn,source",ready_sources).fetchall();items=[]
- def status():return {'at':dt.datetime.now(dt.timezone.utc).isoformat(),'period':{'from':FROM,'to':TO},'counts':dict(c.execute('select status,count(*)from queue group by status')),'sources':{s:json.loads(p)for s,p in c.execute('select id,payload from sources')},'discovery_remaining':len(SOURCES)-c.execute('select count(*)from sources').fetchone()[0],'state':'in-progress'if (c.execute("select count(*)from queue where status='pending'").fetchone()[0] or c.execute('select count(*)from sources').fetchone()[0]<len(SOURCES))else'discovered-queue-processed-with-gaps','completeness':'not-guaranteed; discovered publisher archive only'}
+ def status():return {'at':dt.datetime.now(dt.timezone.utc).isoformat(),'period':{'from':FROM,'to':TO},'counts':dict(c.execute('select status,count(*)from queue group by status')),'sources':{s:json.loads(p)for s,p in c.execute('select id,payload from sources')},'discovery_remaining':sum(needs_discovery(s)for s in SOURCES),'state':'in-progress'if (c.execute("select count(*)from queue where status='pending'").fetchone()[0] or any(needs_discovery(s)for s in SOURCES))else'discovered-queue-processed-with-gaps','completeness':'not-guaranteed; discovered publisher archive only'}
  with concurrent.futures.ThreadPoolExecutor(max_workers=4)as pool:
   for url,state,item in pool.map(recover,rows):
    if state=='blocked:publisher-challenge':
@@ -242,3 +261,4 @@ def main():
  import_batch([],status());print(json.dumps(status()),flush=True)
 
 if __name__=='__main__':main()
+

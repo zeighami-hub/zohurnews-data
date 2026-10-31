@@ -3,6 +3,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const crypto = require('node:crypto');
 const { Store } = require('./store.cjs');
+const {selectForeign,prepareNative}=require('./selection.cjs');
 const { fetchAllRSS, analyzeWithGemini, RSS_SOURCES } = require('./news-core.cjs');
 const DATA = process.env.DATA_DIR || '/data';
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -62,11 +63,13 @@ async function cycle(dependencies = {}) {
     if (!raw.articles.length) throw new Error('All RSS sources failed or were empty');
     const now = Date.now();
     const max = Number(process.env.MAX_PER_CYCLE || 100);
-    const toAnalyze = raw.articles.filter(a => {
+    const eligible = raw.articles.filter(a => {
       const t = Date.parse(a.pubDate || a.first_seen_at);
       return /^https?:\/\//.test(a.sourceUrl) && Number.isFinite(t) && t >= now-86400000 && t <= now+300000 && !store.has(a) && !store.isRejected(a.sourceUrl,now);
-    }).slice(0,max);
-    let added = 0, failed = 0;
+    });
+    const native=eligible.filter(a=>a.lang==='fa').map(prepareNative);
+    const toAnalyze=selectForeign(eligible.filter(a=>a.lang!=='fa'),Math.max(1,Math.min(500,max)));
+    let added = native.length?store.add(native,[]):0, failed = 0;
     for (let i=0;i<toAnalyze.length;i+=15) {
       const batch = toAnalyze.slice(i,i+15);
       let result;
@@ -99,3 +102,4 @@ if (require.main === module) {
   else cycle().catch(e=>{ console.error(JSON.stringify({event:'cycle_failed',error:e.message}));process.exitCode=1; });
 }
 module.exports = { publish, buildPublication, validateConfig, cycle };
+

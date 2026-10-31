@@ -33,6 +33,9 @@ class ResearchDB {
  insert.run(d.id,d.url,d.source_id,d.category,d.lang,d.effective_at,d.published_at,d.title_fa,normalize([d.title_original,d.title_fa,d.text_original,d.lead].join(' ')),payload);n++;
  }this.db.exec('COMMIT');return n;}catch(e){try{this.db.exec('ROLLBACK');}catch{}throw e;}}
  filters(p={}){const where=[],args=[];for(const [key,col]of [['source','source_id'],['category','category'],['lang','lang']])if(p[key]){where.push(col+'=?');args.push(String(p[key]).slice(0,100));}
+ const sources=String(p.sources||'').split(',').filter(Boolean).slice(0,30);if(sources.length){where.push('source_id IN ('+sources.map(()=>'?').join(',')+')');args.push(...sources);}
+ if(p.translation==='ready'){where.push("(lang='fa' OR json_extract(payload,'$.translation_status')='available')");}
+ if(p.date_basis==='published'){where.push('published_at IS NOT NULL');}
  if(p.from){where.push('effective_at>=?');args.push(p.from);}if(p.to){where.push('effective_at<=?');args.push(p.to);}
  if(p.q){const words=String(p.q).match(/[\p{L}\p{N}]+/gu)?.slice(0,12)||[];if(words.length){where.push('id IN (SELECT id FROM r_fts WHERE r_fts MATCH ?)');args.push(words.map(x=>'"'+x+'"').join(' AND '));}}
  return{sql:where.length?' WHERE '+where.join(' AND '):'',args};}
@@ -53,7 +56,9 @@ class ResearchDB {
  const expression=terms.slice(0,12).map(t=>'"'+t.replaceAll('"','')+'"').join(' OR ');if(!expression)return [];
  return this.db.prepare('SELECT payload FROM r_articles WHERE effective_at>=? AND effective_at<? AND id!=? AND id IN (SELECT id FROM r_fts WHERE r_fts MATCH ?) ORDER BY effective_at DESC LIMIT 1200').all(new Date(center-180*86400000).toISOString(),new Date(center-72*3600000).toISOString(),a.id,expression).map(x=>JSON.parse(x.payload));
  }
- coverage(){return {gap:{from:'2026-10-08T22:15:00Z',to:'2026-10-30T08:00:00Z',status:'incomplete-recovery-in-progress'},recovery:this.get('recovery_status'),days:this.db.prepare("SELECT substr(published_at,1,10) day,source_id,COUNT(*) count FROM r_articles WHERE published_at>='2026-10-01' GROUP BY day,source_id ORDER BY day,source_id").all()};}
+ coverage(){return {recovered_by_source:this.db.prepare("SELECT source_id id,COUNT(*) count FROM r_articles WHERE json_extract(payload,'$.provenance')='publisher-archive-recovery' GROUP BY source_id").all(),gap:{from:'2026-10-08T22:15:00Z',to:'2026-10-30T08:00:00Z',status:'incomplete-recovery-in-progress'},recovery:this.get('recovery_status'),days:this.db.prepare("SELECT substr(published_at,1,10) day,source_id,COUNT(*) count FROM r_articles WHERE published_at>='2026-10-01' GROUP BY day,source_id ORDER BY day,source_id").all()};}
  close(){this.db.close();}
 }
 module.exports={ResearchDB,convert,canonicalUrl};
+
+
