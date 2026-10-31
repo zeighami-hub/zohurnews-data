@@ -444,6 +444,7 @@ function App() {
       if (!res.ok) throw new Error('HTTP ' + res.status);
       const data = await res.json();
       if (data && Array.isArray(data.articles)) {
+        if (data.translation_pending > 0) setErrorMsg('بخشی از خبرهای خارجی هنوز ترجمهٔ فارسی ندارند.');
         const transformed = transformCacheToNewsData(data);
         setNewsData(transformed);
         // ترتیب ستون‌ها
@@ -1205,31 +1206,17 @@ function App() {
                 {lang==='en'?selectedNews.title_en||selectedNews.title:selectedNews.title}
               </h2>
               <div className="bg-slate-950 p-4 rounded-xl border border-slate-800 mb-6">
-                <h4 className="text-xs font-bold text-amber-500 mb-2">📖 {t.leadSection}</h4>
+                <h4 className="text-xs font-bold text-amber-500 mb-2">📖 {isRTL?'خلاصه خبر':'Summary'}</h4>
                 <p className="text-sm text-slate-300 leading-loose text-justify">{selectedNews.lead}</p>
               </div>
-              <section className="mt-4 border-t border-slate-800 pt-4"><h4 className="text-amber-400 font-bold mb-3">پوشش رسانه‌های دیگر، مقایسه و سابقه خبر</h4><a className="text-xs text-indigo-400" href={'/news/'+encodeURIComponent(selectedNews.id)}>بازکردن پرونده کامل خبر ↗</a><iframe title="پرونده پژوهشی خبر" src={'/news/'+encodeURIComponent(selectedNews.id)} className="w-full mt-3 rounded-lg border border-slate-700" style={{height:'650px'}} loading="lazy"></iframe></section>
-              {selectedNews.newsValues && Object.keys(selectedNews.newsValues).length>0 && (
-                <div className="border-t border-slate-800 pt-4">
-                  <h4 className="text-xs font-bold text-slate-400 mb-3">{t.structureAnalysis}</h4>
-                  <div className="grid grid-cols-2 gap-3">
-                    {Object.entries(selectedNews.newsValues).map(([key,val],i)=>(
-                      <div key={i} className="bg-slate-800/50 p-3 rounded-lg border border-slate-700 flex items-center justify-between">
-                        <span className="text-[10px] text-slate-500 uppercase font-bold">{key}</span>
-                        <span className="text-xs text-amber-400 font-semibold">{String(val)}</span>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              )}
             </div>
             <div className="p-4 border-t border-slate-800 bg-slate-950 flex justify-between items-center flex-wrap gap-2">
               <div className="flex items-center gap-4">
                 <a href={selectedNews.sourceUrl} target="_blank" rel="noopener noreferrer" className="text-xs text-indigo-400 hover:text-indigo-300 flex items-center gap-1">
                   🔗 {t.readMore}
                 </a>
-                <a href={`/api/article.php?id=${encodeURIComponent(selectedNews.id)}`} target="_blank" rel="noopener" className="text-xs text-amber-400 hover:text-amber-300 flex items-center gap-1">
-                  📄 {isRTL?'صفحه اختصاصی این خبر':'Dedicated article page'}
+                <a href={`/news/${encodeURIComponent(selectedNews.id)}`} target="_blank" rel="noopener" className="text-xs text-amber-400 hover:text-amber-300 flex items-center gap-1">
+                  📄 {isRTL?'صفحه خبر، تحلیل و مقایسه':'Article, analysis and comparison'}
                 </a>
               </div>
               <button onClick={()=>setSelectedNews(null)} className="px-4 py-2 bg-slate-800 hover:bg-slate-700 text-white text-xs rounded-lg">{t.closeBtn}</button>

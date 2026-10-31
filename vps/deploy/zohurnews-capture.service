@@ -4,6 +4,6 @@ After=docker.service network-online.target
 Requires=docker.service
 [Service]
 Type=oneshot
-ExecStart=/usr/bin/flock -n /opt/zohurnews/state/worker.lock /usr/bin/docker run --rm --name zohurnews-capture-cycle --read-only --cap-drop ALL --security-opt no-new-privileges --memory 512m --cpus 0.75 --pids-limit 64 --env CAPTURE_ONLY=1 --tmpfs /tmp:rw,noexec,nosuid,size=32m --mount type=bind,src=/opt/zohurnews/data,dst=/data zohurnews-research:3.2.0 node research/ingest.mjs
+ExecStart=/usr/bin/flock -n /opt/zohurnews/state/worker.lock /usr/bin/docker run --rm --name zohurnews-capture-cycle --read-only --cap-drop ALL --security-opt no-new-privileges --memory 512m --cpus 0.75 --pids-limit 64 --env CAPTURE_ONLY=1 --tmpfs /tmp:rw,noexec,nosuid,size=32m --mount type=bind,src=/opt/zohurnews/data,dst=/data zohurnews-research:3.2.1 node research/ingest.mjs
 TimeoutStartSec=3min
 ExecStop=-/usr/bin/docker stop -t 15 zohurnews-capture-cycle
