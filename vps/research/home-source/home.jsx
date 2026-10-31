@@ -816,6 +816,7 @@ function App() {
                 ))}
               </div>
               */}
+              <a href="/research.html" aria-label="ورود به پنل پژوهشی" className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-300 text-slate-950 font-bold text-xs px-4 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-200">🔬 پنل پژوهشی</a>
               {/* جستجو */}
               <input type="text" placeholder={t.searchPlaceholder} value={filterQuery} onChange={e=>setFilterQuery(e.target.value)}
                 className="w-40 bg-slate-950 border border-slate-800 focus:border-amber-500/50 rounded-lg py-1.5 px-3 text-xs text-slate-200 placeholder-slate-500 outline-none" />

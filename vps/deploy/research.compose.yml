@@ -1,6 +1,6 @@
 services:
   research:
-    image: zohurnews-research:3.2.1
+    image: zohurnews-research:3.2.2
     container_name: zohurnews-research
     restart: unless-stopped
     ports:
