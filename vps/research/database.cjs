@@ -56,7 +56,7 @@ class ResearchDB {
  const expression=terms.slice(0,12).map(t=>'"'+t.replaceAll('"','')+'"').join(' OR ');if(!expression)return [];
  return this.db.prepare('SELECT payload FROM r_articles WHERE effective_at>=? AND effective_at<? AND id!=? AND id IN (SELECT id FROM r_fts WHERE r_fts MATCH ?) ORDER BY effective_at DESC LIMIT 1200').all(new Date(center-180*86400000).toISOString(),new Date(center-72*3600000).toISOString(),a.id,expression).map(x=>JSON.parse(x.payload));
  }
- coverage(){return {recovered_by_source:this.db.prepare("SELECT source_id id,COUNT(*) count FROM r_articles WHERE json_extract(payload,'$.provenance')='publisher-archive-recovery' GROUP BY source_id").all(),gap:{from:'2026-10-08T22:15:00Z',to:'2026-10-30T08:00:00Z',status:'incomplete-recovery-in-progress'},recovery:this.get('recovery_status'),days:this.db.prepare("SELECT substr(published_at,1,10) day,source_id,COUNT(*) count FROM r_articles WHERE published_at>='2026-10-01' GROUP BY day,source_id ORDER BY day,source_id").all()};}
+ coverage(){return {recovered_by_source:this.db.prepare("SELECT source_id id,COUNT(*) count FROM r_articles WHERE effective_at>='2026-10-08T22:15:00.000Z' AND effective_at<'2026-10-30T08:00:00.000Z' AND json_extract(payload,'$.provenance')='publisher-archive-recovery' GROUP BY source_id").all(),gap:{from:'2026-10-08T22:15:00Z',to:'2026-10-30T08:00:00Z',status:'incomplete-recovery-in-progress'},recovery:this.get('recovery_status'),days:this.db.prepare("SELECT substr(published_at,1,10) day,source_id,COUNT(*) count FROM r_articles WHERE published_at>='2026-10-01' GROUP BY day,source_id ORDER BY day,source_id").all()};}
  close(){this.db.close();}
 }
 module.exports={ResearchDB,convert,canonicalUrl};
