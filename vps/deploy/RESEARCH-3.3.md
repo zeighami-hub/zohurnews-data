@@ -1,6 +1,6 @@
 # Research 3.3
 
-The research desk compares selected sources using the full filtered SQLite corpus, independently of table pagination. `/api/media-comparison` reports unique URL counts, corpus shares, daily UTC counts, declared publication availability, original excerpt availability, translation backlog, first matching records and source feed observations. A zero is absence in the stored query result, not proof that a publisher ignored a subject. Relative publication times compare query results, not verified event response speeds. JSON export includes applied filters, method and calculation time.
+The research desk compares selected sources using the full filtered SQLite corpus, independently of table pagination. Each media comparison uses a single SQLite read transaction so concurrent ingestion cannot mix aggregate snapshots. `/api/media-comparison` reports unique URL counts, corpus shares, daily UTC counts, declared publication availability, original excerpt availability, translation backlog, first matching records and source feed observations. A zero is absence in the stored query result, not proof that a publisher ignored a subject. Relative publication times compare query results, not verified event response speeds. JSON export includes applied filters, method and calculation time.
 
 The homepage retains its original layout. Foreign records remain in the research archive while pending translation and enter the live homepage after translation; Persian originals publish without an AI rewrite. Foreign preprocessing is allocated round-robin across sources with Iran relevance and recency ordering within each source. The per-cycle foreign budget remains 100 unless configured otherwise.
 
@@ -17,7 +17,7 @@ Tests cover full aggregation beyond page limits, filtering and SQL parameter saf
 
 ## Deployment and rollback
 
-Build `zohurnews-research:3.3.0` using `research/Dockerfile`. Both the web compose service and the ingestion systemd service must use this image. Preserve `/opt/zohurnews/releases/research-v3.pre-3.3.0` before updating the stable research-v3 directory. Data is unchanged by code deployment; no database rollback is necessary for these features.
+Build `zohurnews-research:3.3.1` using `research/Dockerfile`. Both the web compose service and the ingestion systemd service must use this image. Preserve `/opt/zohurnews/releases/research-v3.pre-3.3.0` before updating the stable research-v3 directory. Data is unchanged by code deployment; no database rollback is necessary for these features.
 
 To roll back, restore code from that preserved directory, restore the research compose image to 3.2.2 and the ingestion service image to 3.2.1, reload systemd and recreate only the research web container. Never replace live databases with old backups as part of a code rollback. Recovery checkpoints can remain; old code ignores them.
 
