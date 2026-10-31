@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+    tgju { direction: rtl; font-family: Tahoma, Arial, sans-serif !important; }
+    .tgju-widget-box tgju { display: block; width: 100%; }
+  
+
+    @keyframes marquee { 0%{transform:translateX(-100%)} 100%{transform:translateX(0%)} }
+    .animate-marquee { display:flex; animation:marquee 30s linear infinite; }
+    .animate-marquee:hover { animation-play-state:paused; }
+    .custom-scrollbar::-webkit-scrollbar { width:5px; height:5px; }
+    .custom-scrollbar::-webkit-scrollbar-track { background:rgba(15,23,42,0.4); }
+    .custom-scrollbar::-webkit-scrollbar-thumb { background:rgba(245,158,11,0.25); border-radius:99px; }
+    .custom-scrollbar::-webkit-scrollbar-thumb:hover { background:rgba(245,158,11,0.5); }
+    body { background:#020617; margin:0; }
+  

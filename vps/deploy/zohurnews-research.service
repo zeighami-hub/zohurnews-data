@@ -5,6 +5,6 @@ Requires=docker.service
 [Service]
 Type=oneshot
 WorkingDirectory=/opt/zohurnews
-ExecStart=/usr/bin/flock -n /opt/zohurnews/state/worker.lock /usr/bin/docker run --rm --name zohurnews-research-cycle --read-only --cap-drop ALL --security-opt no-new-privileges --memory 512m --cpus 0.75 --pids-limit 64 --tmpfs /tmp:rw,noexec,nosuid,size=32m --env-file /opt/zohurnews/private/worker.env --mount type=bind,src=/opt/zohurnews/data,dst=/data zohurnews-research:3.1.0 node research/ingest.mjs
+ExecStart=/usr/bin/flock -n /opt/zohurnews/state/worker.lock /usr/bin/docker run --rm --name zohurnews-research-cycle --read-only --cap-drop ALL --security-opt no-new-privileges --memory 512m --cpus 0.75 --pids-limit 64 --tmpfs /tmp:rw,noexec,nosuid,size=32m --env-file /opt/zohurnews/private/worker.env --mount type=bind,src=/opt/zohurnews/data,dst=/data zohurnews-research:3.2.0 node research/ingest.mjs
 TimeoutStartSec=12min
 ExecStop=-/usr/bin/docker stop -t 20 zohurnews-research-cycle

@@ -1,0 +1,1 @@
+{"private": true, "dependencies": {"react": "18.2.0", "react-dom": "18.2.0", "esbuild": "0.25.0", "tailwindcss": "3.4.17"}, "scripts": {"build": "esbuild home.jsx --bundle --minify --outfile=home.js && tailwindcss -i input.css -o home.css --minify"}}

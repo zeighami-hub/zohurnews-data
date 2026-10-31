@@ -1,0 +1,1538 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ظهورنیوز | داشبورد تطبیقی اخبار ایران و جهان</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.2/babel.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          animation: { marquee: 'marquee 30s linear infinite' }
+        }
+      }
+    }
+  </script>
+  <!-- TGJU Market Widget -->
+  <script src="https://api.tgju.org/v1/widget/v2" defer></script>
+  <style>
+    tgju { direction: rtl; font-family: Tahoma, Arial, sans-serif !important; }
+    .tgju-widget-box tgju { display: block; width: 100%; }
+  </style>
+  <!-- Lucide Icons -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.263.1/umd/lucide.min.js"></script>
+  <style>
+    @keyframes marquee { 0%{transform:translateX(-100%)} 100%{transform:translateX(0%)} }
+    .animate-marquee { display:flex; animation:marquee 30s linear infinite; }
+    .animate-marquee:hover { animation-play-state:paused; }
+    .custom-scrollbar::-webkit-scrollbar { width:5px; height:5px; }
+    .custom-scrollbar::-webkit-scrollbar-track { background:rgba(15,23,42,0.4); }
+    .custom-scrollbar::-webkit-scrollbar-thumb { background:rgba(245,158,11,0.25); border-radius:99px; }
+    .custom-scrollbar::-webkit-scrollbar-thumb:hover { background:rgba(245,158,11,0.5); }
+    body { background:#020617; margin:0; }
+  </style>
+</head>
+<body>
+<div id="root"></div>
+
+<script type="text/babel">
+const { useState, useEffect, useMemo, useRef } = React;
+
+// =========================================================
+// تنظیمات: آدرس فایل JSON روی سرور ایران
+// =========================================================
+const NEWS_CACHE_URL = '/api/news-proxy.php';
+const ARCHIVE_SEARCH_URL = '/api/archive-search.php';
+const AUTO_REFRESH_INTERVAL = 5 * 60 * 1000; // هر ۵ دقیقه
+
+// =========================================================
+// ترجمه‌ها
+// =========================================================
+const TRANSLATIONS = {
+  fa: {
+    title:"ظهورنیوز | داشبورد تطبیقی اخبار ایران و جهان",subtitle:"رصد تطبیقی، پایش هوشمند ترندها و تحلیل ارزش‌های رسانه‌ای",
+    searchPlaceholder:"جستجوی زنده در کلان‌فید...",autoRefreshActive:"پایش فعال (۵دقیقه)",autoRefreshInactive:"پایش غیرفعال",
+    manualRefresh:"به‌روزرسانی تطبیقی",fetching:"دریافت آخرین مانیتورینگ...",breakingNews:"فلاش مانیتورینگ ۱۲ ساعت گذشته",
+    hotTrends:"ترندهای داغ:",noTrends:"در حال آنالیز...",thematicFilter:"دسته موضوعی:",regionalFilter:"پوشش منطقه‌ای:",
+    monitoringTable:"میز مانیتورینگ چندقطبی رسانه‌های جهان",filterActive:"فیلترهای ترکیبی فعال",lastSync:"آخرین واکشی:",
+    noArticles:"هیچ موردی منطبق با فیلترها یافت نشد.",readMore:"مشاهده منبع اصلی خبر",structureAnalysis:"تحلیل ساختار ژورنالیستی:",
+    leadSection:"بررسی لید و خلاصه:",closeBtn:"بستن ×",footerText:"داشبورد پژوهشی خبرنگاران و پژوهشگران رسانه",
+    footerCopy:"ظهورنیوز - رصدخانه رسانه‌های جهان © ۱۴۰۵",category:"شاخه موضوعی",region:"منطقه",
+    newsValueLabel:"تحلیل ارزش‌های خبر",toolkitTitle:"میز ابزار تحلیل محتوا و ژورنالیسم",
+    toolkitDesc:"تحلیل آماری محتوای فیدهای جاری بر اساس نظریه‌های قاب‌بندی و برجسته‌سازی.",
+    tabFraming:"تحلیل قاب‌بندی",tabQuantitative:"تحلیل کمّی",tabPropaganda:"نشانه‌شناسی",
+    tabWordFreq:"تحلیل فرکانس واژگان",lexicalDiversity:"شاخص تنوع کلمات",conceptShare:"سهم موضوعی فیدها",
+    liveBadge:"لایو",economicTicker:"نرخ‌های زنده بازارهای مالی:",wordCountToolTitle:"شمارش کلمات کلیدی",
+    wordCountToolDesc:"کلمه مورد نظر را وارد کنید تا فرکانس تکرار ارزیابی شود.",keywordInputPlaceholder:"مثال: تحریم، کریدور، غزه...",
+    searchBtn:"آنالیز فرکانس",totalMatchesLabel:"مجموع دفعات تکرار:",matchedArticlesTitle:"فیش‌های استخراج شده:",
+    fajr:"اذان صبح",dhuhr:"اذان ظهر",maghrib:"اذان مغرب",eventsLabel:"مناسبت امروز:",shariaTimes:"اوقات شرعی:",
+    loadingCache:"در حال دریافت اخبار از سرور...",errorCache:"خطا در دریافت اخبار. آخرین نسخه نمایش داده می‌شود.",
+    noData:"هنوز اخبار دریافت نشده. لطفاً چند دقیقه دیگر تلاش کنید."
+  },
+  en: {
+    title:"Convergent Transregional Newsroom",subtitle:"Comparative Monitoring, Smart Trend Detection & Media Value Analysis",
+    searchPlaceholder:"Live search in feed...",autoRefreshActive:"Auto Refresh (5m)",autoRefreshInactive:"Auto Refresh Off",
+    manualRefresh:"Adaptive Refresh",fetching:"Fetching Monitoring Signals...",breakingNews:"24-Hour MONITORING FLASH",
+    hotTrends:"Hot Trends:",noTrends:"Analyzing keywords...",thematicFilter:"Thematic Filter:",regionalFilter:"Geographic Coverage:",
+    monitoringTable:"Multipolar Global Media Grid",filterActive:"Filters Active",lastSync:"Last Scan:",
+    noArticles:"No matching items.",readMore:"View original source",structureAnalysis:"Journalistic Analysis:",
+    leadSection:"Lead & Summary:",closeBtn:"Close ×",footerText:"Strategic dashboard for media scholars and international relations researchers.",
+    footerCopy:"Global Media Convergence Observatory © 2026",category:"Category",region:"Region",
+    newsValueLabel:"News Values Analysis",toolkitTitle:"Media Analysis Toolkit",
+    toolkitDesc:"Statistical analysis of live feeds using Framing and Agenda-Setting theories.",
+    tabFraming:"Framing Analysis",tabQuantitative:"Quantitative Metrics",tabPropaganda:"Semiotic Analysis",
+    tabWordFreq:"Word Frequency Analyzer",lexicalDiversity:"Lexical Diversity Index",conceptShare:"Topic Distribution",
+    liveBadge:"LIVE",economicTicker:"Global Financial Markets Live:",wordCountToolTitle:"Keyword Frequency System",
+    wordCountToolDesc:"Enter a keyword to calculate frequency across all agencies.",keywordInputPlaceholder:"e.g., sanction, Gaza, oil...",
+    searchBtn:"Analyze Frequency",totalMatchesLabel:"Total occurrences:",matchedArticlesTitle:"Matching Research Snippets:",
+    fajr:"Fajr",dhuhr:"Dhuhr",maghrib:"Maghrib",eventsLabel:"Today's Event:",shariaTimes:"Prayer Times:",
+    loadingCache:"Fetching news from server...",errorCache:"Error fetching news. Showing last cached version.",
+    noData:"No news available yet. Please try again in a few minutes."
+  },
+  fr:{title:"Salle de Presse Convergente",subtitle:"Suivi Comparatif, Tendances & Valeurs de Presse",searchPlaceholder:"Recherche en direct...",autoRefreshActive:"Actualisation Auto (5m)",autoRefreshInactive:"Actualisation Désactivée",manualRefresh:"Actualisation",fetching:"Récupération...",breakingNews:"FLASH 24H",hotTrends:"Tendances:",noTrends:"Analyse...",thematicFilter:"Thème:",regionalFilter:"Région:",monitoringTable:"Grille Médias Globaux",filterActive:"Filtres Actifs",lastSync:"Dernière Analyse:",noArticles:"Aucun article.",readMore:"Source originale",structureAnalysis:"Profil Journalistique:",leadSection:"Résumé:",closeBtn:"Fermer ×",footerText:"Tableau de bord pour analystes médias.",footerCopy:"Observatoire Médias © 2026",category:"Catégorie",region:"Région",newsValueLabel:"Valeurs d'Info",toolkitTitle:"Boîte à Outils",toolkitDesc:"Analyse des flux par théories de cadrage.",tabFraming:"Cadrage",tabQuantitative:"Quantitatif",tabPropaganda:"Sémiotique",tabWordFreq:"Fréquence",lexicalDiversity:"Diversité Lexicale",conceptShare:"Distribution",liveBadge:"DIRECT",economicTicker:"Marchés Financiers:",wordCountToolTitle:"Fréquence Mots-Clés",wordCountToolDesc:"Entrez un mot-clé.",keywordInputPlaceholder:"ex: sanction, gaza...",searchBtn:"Analyser",totalMatchesLabel:"Occurrences:",matchedArticlesTitle:"Extraits:",fajr:"Fajr",dhuhr:"Dhuhr",maghrib:"Maghrib",eventsLabel:"Événement:",shariaTimes:"Prières:",loadingCache:"Chargement...",errorCache:"Erreur de chargement.",noData:"Pas encore de données."},
+  es:{title:"Sala de Prensa Convergida",subtitle:"Monitoreo Comparativo, Tendencias & Valores Informativos",searchPlaceholder:"Buscar en vivo...",autoRefreshActive:"Auto Actualización (5m)",autoRefreshInactive:"Auto Actualización Off",manualRefresh:"Actualizar",fetching:"Obteniendo...",breakingNews:"FLASH 24H",hotTrends:"Tendencias:",noTrends:"Analizando...",thematicFilter:"Tema:",regionalFilter:"Región:",monitoringTable:"Cuadrícula Mediática Global",filterActive:"Filtros Activos",lastSync:"Último Escaneo:",noArticles:"Sin resultados.",readMore:"Fuente original",structureAnalysis:"Análisis Periodístico:",leadSection:"Resumen:",closeBtn:"Cerrar ×",footerText:"Panel para analistas de medios.",footerCopy:"Observatorio Medios © 2026",category:"Categoría",region:"Región",newsValueLabel:"Valores Noticiosos",toolkitTitle:"Herramientas",toolkitDesc:"Análisis estadístico de feeds.",tabFraming:"Encuadre",tabQuantitative:"Cuantitativo",tabPropaganda:"Semiótico",tabWordFreq:"Frecuencia",lexicalDiversity:"Diversidad Léxica",conceptShare:"Distribución",liveBadge:"EN VIVO",economicTicker:"Mercados Financieros:",wordCountToolTitle:"Frecuencia Palabras",wordCountToolDesc:"Ingrese una palabra clave.",keywordInputPlaceholder:"ej: sanción, gaza...",searchBtn:"Analizar",totalMatchesLabel:"Ocurrencias:",matchedArticlesTitle:"Fragmentos:",fajr:"Fajr",dhuhr:"Dhuhr",maghrib:"Maghrib",eventsLabel:"Efeméride:",shariaTimes:"Oraciones:",loadingCache:"Cargando...",errorCache:"Error de carga.",noData:"Sin datos aún."},
+  ar:{title:"غرفة الأخبار المشتركة",subtitle:"الرصد المقارن والتنبؤ الذكي بالتوجهات",searchPlaceholder:"البحث المباشر...",autoRefreshActive:"التحديث التلقائي (٥د)",autoRefreshInactive:"التحديث معطل",manualRefresh:"تحديث",fetching:"جاري الجلب...",breakingNews:"شريط الرصد ٢٤ ساعة",hotTrends:"الكلمات الشائعة:",noTrends:"جاري التحليل...",thematicFilter:"الموضوع:",regionalFilter:"المنطقة:",monitoringTable:"شبكة الإعلام العالمي",filterActive:"الفلاتر نشطة",lastSync:"آخر تحليل:",noArticles:"لا توجد مواد.",readMore:"المصدر الأصلي",structureAnalysis:"التحليل الصحفي:",leadSection:"الملخص:",closeBtn:"إغلاق ×",footerText:"لوحة تحكم لمحللي الإعلام.",footerCopy:"المرصد العالمي © ٢٠٢٦",category:"الموضوع",region:"المنطقة",newsValueLabel:"قيم الخبر",toolkitTitle:"أدوات التحليل",toolkitDesc:"تحليل إحصائي للمحتوى.",tabFraming:"التأطير",tabQuantitative:"الكمي",tabPropaganda:"السيميائي",tabWordFreq:"تكرار الكلمات",lexicalDiversity:"التنوع اللفظي",conceptShare:"توزيع المواضيع",liveBadge:"مباشر",economicTicker:"الأسواق المالية:",wordCountToolTitle:"تعداد الكلمات",wordCountToolDesc:"أدخل الكلمة المستهدفة.",keywordInputPlaceholder:"مثال: عقوبات، غزة...",searchBtn:"تحليل",totalMatchesLabel:"مجموع التكرارات:",matchedArticlesTitle:"المقتطفات:",fajr:"أذان الفجر",dhuhr:"أذان الظهر",maghrib:"أذان المغرب",eventsLabel:"مناسبة اليوم:",shariaTimes:"أوقات الصلاة:",loadingCache:"جاري التحميل...",errorCache:"خطأ في التحميل.",noData:"لا بيانات بعد."}
+};
+
+const THEMATIC_FILTERS = [
+  {id:'all',name_fa:'همه',name_en:'All'},
+  {id:'politics',name_fa:'سیاسی',name_en:'Politics'},
+  {id:'economy',name_fa:'اقتصادی',name_en:'Economy'},
+  {id:'military',name_fa:'نظامی',name_en:'Military'},
+  {id:'diplomacy',name_fa:'دیپلماسی',name_en:'Diplomacy'},
+  {id:'society',name_fa:'اجتماعی',name_en:'Society'},
+  {id:'technology',name_fa:'فناوری',name_en:'Technology'},
+  {id:'energy',name_fa:'انرژی',name_en:'Energy'},
+  {id:'tech',name_fa:'فناوری',name_en:'Tech'},
+  {id:'environment',name_fa:'محیط زیست',name_en:'Environment'},
+  {id:'culture',name_fa:'فرهنگ',name_en:'Culture'},
+];
+
+const REGIONAL_FILTERS = [
+  {id:'all',name_fa:'همه مناطق',name_en:'All Regions'},
+  {id:'iran',name_fa:'ایران',name_en:'Iran'},
+  {id:'west_asia',name_fa:'غرب آسیا',name_en:'West Asia'},
+  {id:'eurasia',name_fa:'اوراسیا',name_en:'Eurasia'},
+  {id:'europe',name_fa:'اروپا',name_en:'Europe'},
+  {id:'americas',name_fa:'آمریکا',name_en:'Americas'},
+  {id:'global',name_fa:'جهانی',name_en:'Global'},
+  {id:'middleeast',name_fa:'خاورمیانه',name_en:'Middle East'},
+  {id:'asia',name_fa:'آسیا',name_en:'Asia'},
+  {id:'russia',name_fa:'روسیه',name_en:'Russia'},
+];
+
+// === توابع تبدیل تقویم شمسی <-> میلادی (الگوریتم ریاضی استاندارد، بدون کتابخانه خارجی) ===
+function div(a, b) { return Math.trunc(a / b); }
+function jalaliToGregorianParts(jy, jm, jd) {
+  let gy;
+  const jy1 = jy + 1595;
+  let days = -355668 + (365 * jy1) + (div(jy1, 33) * 8) + div(((jy1 % 33) + 3), 4) + jd + ((jm < 7) ? (jm - 1) * 31 : ((jm - 7) * 30) + 186);
+  gy = 400 * div(days, 146097);
+  days %= 146097;
+  if (days > 36524) {
+    gy += 100 * div(--days, 36524);
+    days %= 36524;
+    if (days >= 365) days++;
+  }
+  gy += 4 * div(days, 1461);
+  days %= 1461;
+  if (days > 365) {
+    gy += div(days - 1, 365);
+    days = (days - 1) % 365;
+  }
+  let gd = days + 1;
+  const isLeap = ((gy % 4 === 0 && gy % 100 !== 0) || (gy % 400 === 0));
+  const monthDays = [31, isLeap?29:28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+  let gm = 0;
+  while (gm < 12 && gd > monthDays[gm]) { gd -= monthDays[gm]; gm++; }
+  return { year: gy, month: gm + 1, day: gd };
+}
+function gregorianToJalaliPartsExact(gy, gm, gd) {
+  const gDaysInMonth = [31, ((gy%4===0&&gy%100!==0)||(gy%400===0))?29:28, 31,30,31,30,31,31,30,31,30,31];
+  const gy2 = (gm > 2) ? (gy + 1) : gy;
+  let days = 355666 + (365 * gy) + div((gy2 + 399), 400) - div((gy2 + 99), 100) + div(gy2, 4) + gd + (gm>0?gDaysInMonth.slice(0,gm-1).reduce((a,b)=>a+b,0):0);
+  let jy = -1595 + (33 * div(days, 12053));
+  days %= 12053;
+  jy += 4 * div(days, 1461);
+  days %= 1461;
+  if (days > 365) { jy += div(days - 1, 365); days = (days - 1) % 365; }
+  let jm, jd;
+  if (days < 186) { jm = 1 + div(days, 31); jd = 1 + (days % 31); }
+  else { jm = 7 + div(days - 186, 30); jd = 1 + ((days - 186) % 30); }
+  return { year: jy, month: jm, day: jd };
+}
+function gregorianToJalaliParts(gregorianDateStr) {
+  if (!gregorianDateStr) return null;
+  const [gy, gm, gd] = gregorianDateStr.split('-').map(Number);
+  if (!gy || !gm || !gd) return null;
+  return gregorianToJalaliPartsExact(gy, gm, gd);
+}
+function jalaliPartsToGregorian(jy, jm, jd) {
+  const g = jalaliToGregorianParts(jy, jm, jd);
+  const pad = (n) => String(n).padStart(2,'0');
+  return `${g.year}-${pad(g.month)}-${pad(g.day)}`;
+}
+function formatJalaliDisplay(gregorianDateStr) {
+  const p = gregorianToJalaliParts(gregorianDateStr);
+  if (!p) return '';
+  const pad = (n) => String(n).padStart(2,'0');
+  return `${p.year}/${pad(p.month)}/${pad(p.day)}`;
+}
+const JALALI_MONTH_NAMES = ['فروردین','اردیبهشت','خرداد','تیر','مرداد','شهریور','مهر','آبان','آذر','دی','بهمن','اسفند'];
+
+const AGENCY_META = {
+  reuters:  {id:'reuters', name_fa:'رویترز',     name_en:'Reuters',     color:'from-amber-600 to-orange-800', textColor:'text-orange-400', badgeBg:'bg-orange-500/10 text-orange-400', logo:'R',   url:'https://reuters.com'},
+  ap:       {id:'ap',      name_fa:'آسوشیتدپرس', name_en:'AP',          color:'from-blue-600 to-indigo-800',  textColor:'text-blue-400',   badgeBg:'bg-blue-500/10 text-blue-400',   logo:'AP',  url:'https://apnews.com'},
+  irna:     {id:'irna',    name_fa:'ایرنا',       name_en:'IRNA',        color:'from-emerald-600 to-teal-800', textColor:'text-emerald-400',badgeBg:'bg-emerald-500/10 text-emerald-400',logo:'IR',url:'https://irna.ir'},
+  rt:       {id:'rt',      name_fa:'راشاتودی/تاس',name_en:'RT/TASS',    color:'from-red-700 to-zinc-900',     textColor:'text-red-400',    badgeBg:'bg-red-500/10 text-red-400',     logo:'RT',  url:'https://rt.com'},
+  xinhua:   {id:'xinhua',  name_fa:'شینهوا',      name_en:'Xinhua',      color:'from-cyan-600 to-sky-900',     textColor:'text-cyan-400',   badgeBg:'bg-cyan-500/10 text-cyan-400',   logo:'XH',  url:'https://news.cn'},
+  aljazeera:{id:'aljazeera',name_fa:'الجزیره',   name_en:'Al Jazeera',  color:'from-yellow-600 to-yellow-800',textColor:'text-yellow-500', badgeBg:'bg-yellow-500/10 text-yellow-500',logo:'AJ',url:'https://aljazeera.com'},
+  bloomberg:{id:'bloomberg',name_fa:'بلومبرگ',   name_en:'Bloomberg',   color:'from-pink-600 to-rose-800',    textColor:'text-pink-400',   badgeBg:'bg-pink-500/10 text-pink-400',   logo:'B',   url:'https://bloomberg.com'},
+  bbc:      {id:'bbc',     name_fa:'بی‌بی‌سی',   name_en:'BBC',         color:'from-red-600 to-pink-900',     textColor:'text-red-400',    badgeBg:'bg-red-500/10 text-red-400',     logo:'BBC', url:'https://bbc.co.uk'},
+  france24: {id:'france24',name_fa:'فرانس ۲۴',   name_en:'France 24',   color:'from-blue-700 to-sky-900',     textColor:'text-sky-400',    badgeBg:'bg-sky-500/10 text-sky-400',     logo:'F24', url:'https://france24.com'},
+  dw:       {id:'dw',      name_fa:'دویچه‌وله',   name_en:'DW',          color:'from-violet-600 to-purple-900',textColor:'text-violet-400', badgeBg:'bg-violet-500/10 text-violet-400',logo:'DW', url:'https://dw.com'},
+  yjc:      {id:'yjc',     name_fa:'باشگاه خبرنگاران',name_en:'YJC',      color:'from-teal-600 to-cyan-900',    textColor:'text-teal-400',   badgeBg:'bg-teal-500/10 text-teal-400',   logo:'YJC', url:'https://yjc.ir'},
+  asriran:  {id:'asriran', name_fa:'عصر ایران',   name_en:'Asr Iran',    color:'from-orange-600 to-amber-900', textColor:'text-amber-400',  badgeBg:'bg-amber-500/10 text-amber-400', logo:'AI',  url:'https://asriran.com'},
+};
+
+// لیست شهرهای قابل انتخاب - فقط برای ساخت منو، داده واقعی از weather-prayer.php می‌آید
+const CITIES_LIST = {
+  Tehran:  {name_fa:'تهران',  name_en:'Tehran'},
+  Mashhad: {name_fa:'مشهد',   name_en:'Mashhad'},
+  Isfahan: {name_fa:'اصفهان', name_en:'Isfahan'},
+  Shiraz:  {name_fa:'شیراز',  name_en:'Shiraz'},
+  Tabriz:  {name_fa:'تبریز',  name_en:'Tabriz'},
+};
+const WEATHER_PRAYER_URL = '/api/weather-prayer.php';
+const TODAY_EVENT_URL = '/api/today-event.php';
+
+const PRICES_URL = '/api/prices.php';
+const PRICES_HISTORY_URL = '/api/prices-history.php';
+const MARKET_DATA_DEFAULT = [
+  {name_fa:'دلار',name_en:'USD',price:'---',unit:'ریال',change:'',isUp:true},
+  {name_fa:'یورو',name_en:'EUR',price:'---',unit:'ریال',change:'',isUp:true},
+  {name_fa:'سکه امامی',name_en:'Gold Coin',price:'---',unit:'ریال',change:'',isUp:true},
+  {name_fa:'طلای ۱۸ عیار',name_en:'18k Gold',price:'---',unit:'ریال',change:'',isUp:true},
+  {name_fa:'انس طلا',name_en:'Gold Oz',price:'---',unit:'$',change:'',isUp:true},
+  {name_fa:'نفت برنت',name_en:'Brent Oil',price:'---',unit:'$',change:'',isUp:true},
+  {name_fa:'بیت‌کوین',name_en:'Bitcoin',price:'---',unit:'$',change:'',isUp:true},
+  {name_fa:'تتر',name_en:'Tether',price:'---',unit:'T',change:'',isUp:true},
+];
+
+// =========================================================
+// تبدیل JSON بک‌اند به ساختار مورد نیاز فرانت‌اند
+// =========================================================
+function transformCacheToNewsData(cacheData) {
+  if (!cacheData || !cacheData.articles) return {};
+  const result = {};
+  cacheData.articles.forEach(article => {
+    const agencyId = article.agencyId || 'reuters';
+    if (!result[agencyId]) result[agencyId] = [];
+    result[agencyId].push({
+      id: article.id || `${agencyId}-${Date.now()}`,
+      title: article.title_fa || article.title || '',
+      title_en: article.title || '',
+      lead: article.lead || '',
+      sourceUrl: article.sourceUrl || '#',
+      time: article.time || '',
+      category: article.category || 'politics',
+      region: article.region || 'global',
+      newsValues: article.newsValues || {},
+      sentiment: article.sentiment || {positive:33,neutral:34,negative:33},
+    });
+  });
+  return result;
+}
+
+// =========================================================
+// کامپوننت اصلی
+// =========================================================
+// === کامپوننت نمودار خطی ساده با SVG خام (بدون نیاز به کتابخانه خارجی) ===
+function PriceLineChart({ points, unit, isRTL }) {
+  if (!points || points.length === 0) return null;
+
+  const W = 600, H = 220, PAD = 36;
+  const values = points.map(p => p.close);
+  const minV = Math.min(...values);
+  const maxV = Math.max(...values);
+  const range = maxV - minV || 1;
+
+  const xStep = (W - PAD*2) / Math.max(1, points.length - 1);
+  const coords = points.map((p, i) => {
+    const x = PAD + i * xStep;
+    const y = H - PAD - ((p.close - minV) / range) * (H - PAD*2);
+    return { x, y, ...p };
+  });
+
+  const pathD = coords.map((c,i) => (i===0?'M':'L') + c.x.toFixed(1) + ',' + c.y.toFixed(1)).join(' ');
+  const areaD = pathD + ` L${coords[coords.length-1].x.toFixed(1)},${H-PAD} L${coords[0].x.toFixed(1)},${H-PAD} Z`;
+
+  const firstVal = points[0].close;
+  const lastVal = points[points.length-1].close;
+  const isUpOverall = lastVal >= firstVal;
+  const lineColor = isUpOverall ? '#10b981' : '#ef4444';
+
+  const fmtNum = (n) => new Intl.NumberFormat(isRTL?'fa-IR':'en-US').format(Math.round(n));
+
+  // نمایش حداکثر ۶ برچسب تاریخ روی محور افقی تا شلوغ نشود
+  const labelStep = Math.max(1, Math.ceil(points.length / 6));
+
+  return (
+    <div>
+      <div className="flex justify-between text-[11px] text-slate-400 mb-2">
+        <span>{isRTL?'کمترین: ':'Min: '}<span className="text-slate-200 font-bold">{fmtNum(minV)} {unit}</span></span>
+        <span>{isRTL?'بیشترین: ':'Max: '}<span className="text-slate-200 font-bold">{fmtNum(maxV)} {unit}</span></span>
+      </div>
+      <svg viewBox={`0 0 ${W} ${H}`} className="w-full" style={{height:'220px'}}>
+        <defs>
+          <linearGradient id="chartGradient" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stopColor={lineColor} stopOpacity="0.25"/>
+            <stop offset="100%" stopColor={lineColor} stopOpacity="0"/>
+          </linearGradient>
+        </defs>
+        {/* خطوط راهنمای افقی */}
+        {[0,0.25,0.5,0.75,1].map((t,i)=>(
+          <line key={i} x1={PAD} x2={W-PAD} y1={H-PAD-t*(H-PAD*2)} y2={H-PAD-t*(H-PAD*2)} stroke="#334155" strokeWidth="0.5" strokeDasharray="2,3"/>
+        ))}
+        <path d={areaD} fill="url(#chartGradient)" stroke="none"/>
+        <path d={pathD} fill="none" stroke={lineColor} strokeWidth="2"/>
+        {coords.map((c,i) => (
+          <circle key={i} cx={c.x} cy={c.y} r="2.5" fill={lineColor}/>
+        ))}
+        {coords.map((c,i) => (
+          i % labelStep === 0 && (
+            <text key={i} x={c.x} y={H-8} fontSize="8" fill="#64748b" textAnchor="middle">
+              {isRTL ? c.date_jalali.split('/').slice(1).join('/') : c.date_gregorian.split('/').slice(1).join('/')}
+            </text>
+          )
+        ))}
+      </svg>
+    </div>
+  );
+}
+
+// === کامپوننت ورودی تاریخ شمسی (مقدار داخلی میلادی YYYY-MM-DD برای سازگاری با API) ===
+function JalaliDateInput({ value, onChange, placeholder, className }) {
+  const [open, setOpen] = useState(false);
+  const parts = value ? gregorianToJalaliParts(value) : null;
+  const today = gregorianToJalaliPartsExact(new Date().getFullYear(), new Date().getMonth()+1, new Date().getDate());
+  const [tempYear, setTempYear] = useState(parts?.year || today.year);
+  const [tempMonth, setTempMonth] = useState(parts?.month || today.month);
+  const [tempDay, setTempDay] = useState(parts?.day || today.day);
+
+  const years = [];
+  for (let y = today.year; y >= today.year - 5; y--) years.push(y);
+  const daysInJalaliMonth = (m) => m <= 6 ? 31 : (m <= 11 ? 30 : 29);
+
+  const applySelection = () => {
+    const g = jalaliPartsToGregorian(tempYear, tempMonth, tempDay);
+    onChange(g);
+    setOpen(false);
+  };
+
+  return (
+    <div className="relative">
+      <button type="button" onClick={()=>setOpen(!open)}
+        className={className || "bg-slate-800 border border-slate-700 rounded-lg px-2 py-1.5 text-xs text-slate-300 outline-none text-right"}>
+        {value ? formatJalaliDisplay(value) : (placeholder || 'انتخاب تاریخ')}
+      </button>
+      {open && (
+        <div className="absolute z-50 mt-1 bg-slate-800 border border-slate-600 rounded-lg p-3 shadow-xl flex gap-2" style={{minWidth:'220px'}}>
+          <select value={tempDay} onChange={e=>setTempDay(parseInt(e.target.value))} className="bg-slate-900 border border-slate-700 rounded px-1.5 py-1 text-[11px] text-slate-200">
+            {Array.from({length: daysInJalaliMonth(tempMonth)}, (_,i)=>i+1).map(d=><option key={d} value={d}>{d}</option>)}
+          </select>
+          <select value={tempMonth} onChange={e=>setTempMonth(parseInt(e.target.value))} className="bg-slate-900 border border-slate-700 rounded px-1.5 py-1 text-[11px] text-slate-200">
+            {JALALI_MONTH_NAMES.map((name,i)=><option key={i} value={i+1}>{name}</option>)}
+          </select>
+          <select value={tempYear} onChange={e=>setTempYear(parseInt(e.target.value))} className="bg-slate-900 border border-slate-700 rounded px-1.5 py-1 text-[11px] text-slate-200">
+            {years.map(y=><option key={y} value={y}>{y}</option>)}
+          </select>
+          <button type="button" onClick={applySelection} className="bg-amber-500 hover:bg-amber-600 text-slate-950 font-bold text-[11px] px-2 py-1 rounded">✓</button>
+        </div>
+      )}
+    </div>
+  );
+}
+
+function App() {
+  const [lang, setLang] = useState('fa');
+  const [newsData, setNewsData] = useState({});
+  const [agencies, setAgencies] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [lastUpdated, setLastUpdated] = useState('');
+  const [errorMsg, setErrorMsg] = useState('');
+  const [selectedNews, setSelectedNews] = useState(null);
+  const [agencyOrder, setAgencyOrder] = useState([]);
+  const [disabledAgencies, setDisabledAgencies] = useState(new Set());
+  const [draggedId, setDraggedId] = useState(null);
+  const [tickerIndex, setTickerIndex] = useState(0);
+  const [currentTime, setCurrentTime] = useState(new Date());
+  const [activeCity, setActiveCity] = useState('Tehran');
+  const [cityWeatherData, setCityWeatherData] = useState(null); // داده واقعی دما و اوقات شرعی از سرور
+  const [todayEvent, setTodayEvent] = useState(null); // مناسبت رسمی امروز از جدول تعطیلات
+  const [filterQuery, setFilterQuery] = useState('');
+  const [selectedCategory, setSelectedCategory] = useState('all');
+  const [selectedRegion, setSelectedRegion] = useState('all');
+  const [selectedTrend, setSelectedTrend] = useState(null);
+  const [dynamicKeywords, setDynamicKeywords] = useState([]);
+  const [isRefreshingAuto, setIsRefreshingAuto] = useState(true);
+  const [marketData, setMarketData] = useState(MARKET_DATA_DEFAULT);
+
+  // === حالت‌های مربوط به مودال نمودار قیمت ===
+  const [chartModalOpen, setChartModalOpen] = useState(false);
+  const [chartKey, setChartKey] = useState(null);
+  const [chartLabel, setChartLabel] = useState('');
+  const [chartUnit, setChartUnit] = useState('');
+  const [chartRange, setChartRange] = useState('week');
+  const [chartPoints, setChartPoints] = useState([]);
+  const [chartLoading, setChartLoading] = useState(false);
+
+
+  // fetch قیمت‌های زنده
+  const fetchPrices = async () => {
+    try {
+      const res = await fetch(PRICES_URL + '?t=' + Date.now());
+      const data = await res.json();
+      if (data.status === 'ok' && data.prices && data.prices.length > 0) {
+        setMarketData(data.prices.map(p => ({
+          key: p.key,
+          name_fa: p.name_fa,
+          name_en: p.name_en,
+          price: p.price,
+          unit: p.unit,
+          change: p.change_percent || p.change || '',
+          isUp: p.is_up,
+        })));
+      }
+    } catch(e) { console.error('prices fetch error:', e); }
+  };
+
+  // واکشی تاریخچه قیمت برای نمودار
+  const fetchChartHistory = async (key, range) => {
+    setChartLoading(true);
+    try {
+      const res = await fetch(PRICES_HISTORY_URL + '?key=' + encodeURIComponent(key) + '&range=' + range);
+      const data = await res.json();
+      if (data.status === 'ok') setChartPoints(data.points || []);
+      else setChartPoints([]);
+    } catch(e) {
+      console.error('chart history fetch error:', e);
+      setChartPoints([]);
+    } finally {
+      setChartLoading(false);
+    }
+  };
+
+  const openPriceChart = (item) => {
+    if (!item.key) return; // اگر هنوز داده زنده نیامده و فقط مقدار پیش‌فرض است
+    setChartKey(item.key);
+    setChartLabel(isRTL ? item.name_fa : item.name_en);
+    setChartUnit(item.unit);
+    setChartRange('week');
+    setChartModalOpen(true);
+    fetchChartHistory(item.key, 'week');
+  };
+  const [activeToolkitTab, setActiveToolkitTab] = useState('word_frequency');
+  const [researchKeyword, setResearchKeyword] = useState('');
+  const [appliedResearchKeyword, setAppliedResearchKeyword] = useState('');
+  const [shamsiDate, setShamsiDate] = useState('');
+  const [gregorianDate, setGregorianDate] = useState('');
+  const [hijriDate, setHijriDate] = useState('');
+
+  // === حالت‌های مربوط به آرشیو ===
+  const [archiveModalOpen, setArchiveModalOpen] = useState(false);
+  const [archiveMode, setArchiveMode] = useState('agency'); // 'agency' یا 'research'
+  const [archiveAgency, setArchiveAgency] = useState(null);
+  const [archiveResults, setArchiveResults] = useState([]);
+  const [archiveTotal, setArchiveTotal] = useState(0);
+  const [archiveLoading, setArchiveLoading] = useState(false);
+  const [archiveSelectedDate, setArchiveSelectedDate] = useState('');
+  const [archiveDayArticles, setArchiveDayArticles] = useState(null);
+  const [archiveFilters, setArchiveFilters] = useState({ q:'', category:'all', region:'all', dateFrom:'', dateTo:'', minIranScore:'' });
+
+  // === حالت میز ابزار: زنده (۲۴ ساعت) یا آرشیو (یک بازه تاریخی دلخواه) ===
+  const [toolkitDataSource, setToolkitDataSource] = useState('live'); // 'live' یا 'archive'
+  const [toolkitArchiveAgency, setToolkitArchiveAgency] = useState('all');
+  const [toolkitArchiveDateFrom, setToolkitArchiveDateFrom] = useState('');
+  const [toolkitArchiveDateTo, setToolkitArchiveDateTo] = useState('');
+  const [toolkitArchiveArticles, setToolkitArchiveArticles] = useState([]);
+  const [toolkitArchiveLoading, setToolkitArchiveLoading] = useState(false);
+
+  const t = TRANSLATIONS[lang];
+  const isRTL = lang === 'fa' || lang === 'ar';
+
+  // ---- fetch از news_cache.json ----
+  const fetchNewsCache = async () => {
+    setIsLoading(true);
+    setErrorMsg('');
+    try {
+      const res = await fetch(NEWS_CACHE_URL + '?t=' + Date.now());
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      if (data && data.articles && data.articles.length > 0) {
+        const transformed = transformCacheToNewsData(data);
+        setNewsData(transformed);
+        // ترتیب ستون‌ها
+        const ids = Object.keys(transformed);
+        setAgencyOrder(ids);
+        // ذخیره آژانس‌ها از JSON یا از meta
+        if (data.agencies) setAgencies(data.agencies);
+        setLastUpdated(new Date().toLocaleTimeString(lang === 'fa' ? 'fa-IR' : 'en-US'));
+      }
+    } catch(e) {
+      setErrorMsg(t.errorCache);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  // === توابع آرشیو ===
+  const searchArchive = async (filters) => {
+    setArchiveLoading(true);
+    try {
+      const params = new URLSearchParams();
+      if (filters.agencyId) params.set('agencyId', filters.agencyId);
+      if (filters.q) params.set('q', filters.q);
+      if (filters.category && filters.category !== 'all') params.set('category', filters.category);
+      if (filters.region && filters.region !== 'all') params.set('region', filters.region);
+      if (filters.dateFrom) params.set('dateFrom', filters.dateFrom);
+      if (filters.dateTo) params.set('dateTo', filters.dateTo);
+      if (filters.minIranScore) params.set('minIranScore', filters.minIranScore);
+      params.set('limit', '200');
+      const res = await fetch(ARCHIVE_SEARCH_URL + '?' + params.toString());
+      const data = await res.json();
+      setArchiveResults(data.results || []);
+      setArchiveTotal(data.total || 0);
+    } catch(e) {
+      console.error('archive search error:', e);
+      setArchiveResults([]);
+      setArchiveTotal(0);
+    } finally {
+      setArchiveLoading(false);
+    }
+  };
+
+  const fetchArchiveDay = async (date, agencyId) => {
+    setArchiveLoading(true);
+    setArchiveDayArticles(null);
+    try {
+      const params = new URLSearchParams({ action:'day', date, agencyId });
+      const res = await fetch(ARCHIVE_SEARCH_URL + '?' + params.toString());
+      const data = await res.json();
+      setArchiveDayArticles(data.articles || []);
+    } catch(e) {
+      console.error('archive day error:', e);
+      setArchiveDayArticles([]);
+    } finally {
+      setArchiveLoading(false);
+    }
+  };
+
+  const openAgencyArchive = (agencyId, meta) => {
+    setArchiveMode('agency');
+    setArchiveAgency({ id: agencyId, meta });
+    setArchiveSelectedDate('');
+    setArchiveDayArticles(null);
+    setArchiveModalOpen(true);
+    searchArchive({ agencyId });
+  };
+
+  const openResearchArchive = () => {
+    setArchiveMode('research');
+    setArchiveAgency(null);
+    setArchiveSelectedDate('');
+    setArchiveDayArticles(null);
+    setArchiveModalOpen(true);
+    searchArchive({});
+  };
+
+  // === بارگذاری متن کامل آرشیو برای استفاده در میز ابزار (نه فقط نمایه) ===
+  // مرحله ۱: از نمایه سبک، لیست (تاریخ + خبرگزاری) های مطابق فیلتر را پیدا می‌کنیم
+  // مرحله ۲: برای هر (تاریخ، خبرگزاری) یکتا، فایل کامل آن روز را می‌خوانیم و ترکیب می‌کنیم
+  const loadToolkitArchiveData = async () => {
+    setToolkitArchiveLoading(true);
+    try {
+      const params = new URLSearchParams();
+      if (toolkitArchiveAgency !== 'all') params.set('agencyId', toolkitArchiveAgency);
+      if (toolkitArchiveDateFrom) params.set('dateFrom', toolkitArchiveDateFrom);
+      if (toolkitArchiveDateTo) params.set('dateTo', toolkitArchiveDateTo);
+      params.set('limit', '2000');
+      const res = await fetch(ARCHIVE_SEARCH_URL + '?' + params.toString());
+      const data = await res.json();
+      const indexEntries = data.results || [];
+
+      // یکتاسازی جفت‌های (تاریخ، خبرگزاری) برای کمینه‌کردن تعداد درخواست‌ها
+      const pairs = new Map();
+      indexEntries.forEach(e => { pairs.set(e.date + '|' + e.agencyId, {date:e.date, agencyId:e.agencyId}); });
+
+      const allArts = [];
+      for (const {date, agencyId} of pairs.values()) {
+        try {
+          const dayRes = await fetch(ARCHIVE_SEARCH_URL + '?' + new URLSearchParams({action:'day', date, agencyId}));
+          const dayData = await dayRes.json();
+          (dayData.articles || []).forEach(a => allArts.push({...a, agency: AGENCY_META[agencyId] || {id:agencyId, name_fa:agencyId, name_en:agencyId}}));
+        } catch(e) { /* رد شدن از یک روز خراب، ادامه با بقیه */ }
+      }
+      setToolkitArchiveArticles(allArts);
+    } catch(e) {
+      console.error('toolkit archive load error:', e);
+      setToolkitArchiveArticles([]);
+    } finally {
+      setToolkitArchiveLoading(false);
+    }
+  };
+
+  useEffect(() => { fetchNewsCache(); fetchPrices(); }, []);
+  useEffect(() => {
+    const iv = setInterval(fetchPrices, 5 * 60 * 1000); // هر ۵ دقیقه - هماهنگ با کش prices.php
+    return () => clearInterval(iv);
+  }, []);
+
+  useEffect(() => {
+    if (!isRefreshingAuto) return;
+    const iv = setInterval(fetchNewsCache, AUTO_REFRESH_INTERVAL);
+    return () => clearInterval(iv);
+  }, [isRefreshingAuto]);
+
+  useEffect(() => {
+    const iv = setInterval(() => setCurrentTime(new Date()), 1000);
+    return () => clearInterval(iv);
+  }, []);
+
+  // نکته: shamsiDate، gregorianDate، hijriDate دیگر اینجا محاسبه نمی‌شوند
+  // همگی از fetchTodayEvent (منبع واحد z8r.ir) می‌آیند تا سه تاریخ کاملاً هماهنگ و دقیق باشند
+
+  // واکشی دما و اوقات شرعی واقعی برای شهر انتخاب‌شده
+  const fetchCityWeather = async () => {
+    try {
+      const res = await fetch(WEATHER_PRAYER_URL + '?city=' + activeCity);
+      const data = await res.json();
+      if (data.status === 'ok') setCityWeatherData(data);
+    } catch(e) { console.error('weather fetch error:', e); }
+  };
+  useEffect(() => { fetchCityWeather(); }, [activeCity]);
+  useEffect(() => {
+    const iv = setInterval(fetchCityWeather, 60 * 60 * 1000); // هر یک ساعت
+    return () => clearInterval(iv);
+  }, [activeCity]);
+
+  // واکشی مناسبت رسمی امروز + تاریخ شمسی/میلادی/قمری دقیق - همگی از یک منبع واحد و هماهنگ (z8r.ir + pnldev.com)
+  useEffect(() => {
+    const fetchTodayEvent = async () => {
+      try {
+        const res = await fetch(TODAY_EVENT_URL);
+        const data = await res.json();
+        if (data.status === 'ok') {
+          setTodayEvent(data.event);
+          if (data.shamsi?.display_fa) setShamsiDate(data.shamsi.display_fa);
+          if (data.gregorian?.display_fa) setGregorianDate(data.gregorian.display_fa);
+          if (data.hijri?.display_fa) setHijriDate(data.hijri.display_fa);
+        }
+      } catch(e) { console.error('today-event fetch error:', e); }
+    };
+    fetchTodayEvent();
+    const iv = setInterval(fetchTodayEvent, 60 * 60 * 1000); // هر یک ساعت چک می‌کند تا روی نیمه‌شب هم به‌روز شود
+    return () => clearInterval(iv);
+  }, []);
+
+  const allArticles = useMemo(() => {
+    return Object.entries(newsData).flatMap(([agencyKey, arts]) =>
+      arts.map(a => ({ ...a, agency: AGENCY_META[agencyKey] || {id:agencyKey,name_fa:agencyKey,name_en:agencyKey,color:'from-slate-600 to-slate-800',textColor:'text-slate-400',badgeBg:'bg-slate-500/10 text-slate-400',logo:agencyKey.slice(0,2).toUpperCase(),url:'#'} }))
+    );
+  }, [newsData]);
+
+  useEffect(() => {
+    if (allArticles.length === 0) return;
+    const iv = setInterval(() => setTickerIndex(p => (p+1) % allArticles.length), 6000);
+    return () => clearInterval(iv);
+  }, [allArticles.length]);
+
+  useEffect(() => {
+    const pool = allArticles.map(a => a.title + ' ' + a.lead).join(' ');
+    const topics = [
+      {name:'دیپلماسی اقتصادی', re:/تحریم|تجارت|گمرک|صادرات|نفت/gi},
+      {name:'تنش‌های منطقه‌ای',  re:/غزه|درگیری|مقاومت|مرزی|تنش/gi},
+      {name:'فناوری',            re:/تراشه|هوش مصنوعی|فناوری|تکنولوژی/gi},
+      {name:'تغییرات اقلیمی',    re:/اقلیم|طوفان|خشکسالی|محیط/gi},
+      {name:'اروپا و ناتو',      re:/ناتو|اروپا|پارلمان|بروکسل/gi},
+      {name:'بازارهای مالی',     re:/بورس|سهام|ارزی|نقدینگی/gi},
+    ];
+    const kw = topics.map(tp => ({name:tp.name, w:(pool.match(tp.re)||[]).length}))
+      .filter(x=>x.w>0).sort((a,b)=>b.w-a.w).slice(0,6).map(x=>x.name);
+    setDynamicKeywords(kw);
+  }, [allArticles]);
+
+  // منبع داده میز ابزار: یا همان اخبار زنده ۲۴ ساعته، یا داده‌ای که از آرشیو بارگذاری شده
+  const toolkitArticles = useMemo(() => {
+    return toolkitDataSource === 'archive' ? toolkitArchiveArticles : allArticles;
+  }, [toolkitDataSource, toolkitArchiveArticles, allArticles]);
+
+  // === نرمال‌سازی متن فارسی: یکسان‌سازی حروف عربی/فارسی که از نظر بصری یکسان ولی از نظر یونیکد متفاوتند ===
+  // مثلا "ي" عربی (U+064A) باید با "ی" فارسی (U+06CC) یکی در نظر گرفته شود تا جستجو درست کار کند
+  const normalizePersian = (s) => (s || '')
+    .replace(/\u064A/g, '\u06CC') // ي عربی -> ی فارسی
+    .replace(/\u0643/g, '\u06A9') // ك عربی -> ک فارسی
+    .replace(/\u0629/g, '\u0647'); // ة عربی -> ه فارسی
+
+  const [wordFreqListOpen, setWordFreqListOpen] = useState(false);
+
+  const wordFreqStats = useMemo(() => {
+    if (!appliedResearchKeyword) return null;
+    let total = 0; const agencyCounts = {}; const matchedArticles = [];
+    let re;
+    try {
+      re = new RegExp(normalizePersian(appliedResearchKeyword).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+    } catch(e) { return {total:0, agencyCounts:{}, matchedArticles:[]}; }
+    toolkitArticles.forEach(a => {
+      // جستجو در هر سه فیلد: عنوان اصلی (ممکن است انگلیسی باشد)، عنوان فارسی، و خلاصه فارسی - همگی نرمال‌شده
+      const c = (normalizePersian(a.title).match(re)||[]).length + (normalizePersian(a.title_fa).match(re)||[]).length + (normalizePersian(a.lead).match(re)||[]).length;
+      if(c>0){total+=c;agencyCounts[a.agency.id]=(agencyCounts[a.agency.id]||0)+c;matchedArticles.push(a);}
+    });
+    return {total,agencyCounts,matchedArticles};
+  }, [toolkitArticles, appliedResearchKeyword]);
+
+  // با تغییر کلمه جستجو، لیست باز قبلی بسته شود تا گیج‌کننده نباشد
+  useEffect(() => { setWordFreqListOpen(false); }, [appliedResearchKeyword]);
+
+  const calculatedAnalysis = useMemo(() => {
+    const s = {total:0, byCategory:{politics:0,economy:0,technology:0,tech:0,environment:0,culture:0,military:0,diplomacy:0,society:0,energy:0}, lexicalDiversity:{}};
+    const byAgency = {};
+    toolkitArticles.forEach(a => {
+      const agId = a.agency?.id || a.agencyId || 'unknown';
+      (byAgency[agId] = byAgency[agId] || []).push(a);
+    });
+    Object.entries(byAgency).forEach(([agId, arts]) => {
+      let tw=0; const uw=new Set();
+      arts.forEach(a => {
+        s.total++;
+        if(s.byCategory[a.category]!==undefined) s.byCategory[a.category]++;
+        const words=(a.title+' '+(a.lead||'')).toLowerCase().split(/\s+/).filter(w=>w.length>2);
+        words.forEach(w=>{tw++;uw.add(w);});
+      });
+      s.lexicalDiversity[agId]=Math.round(tw>0?(uw.size/tw)*100:50);
+    });
+    return s;
+  }, [toolkitArticles]);
+
+  // گروه‌بندی toolkitArticles بر اساس خبرگزاری - برای تب‌های framing و diversity (هم در حالت زنده، هم آرشیو)
+  const toolkitByAgency = useMemo(() => {
+    const grouped = {};
+    toolkitArticles.forEach(a => {
+      const agId = a.agency?.id || a.agencyId || 'unknown';
+      (grouped[agId] = grouped[agId] || []).push(a);
+    });
+    return grouped;
+  }, [toolkitArticles]);
+
+  const getFilteredData = (agencyId) => {
+    let list = newsData[agencyId] || [];
+    if(selectedTrend) list=list.filter(i=>i.title.includes(selectedTrend)||i.lead.includes(selectedTrend));
+    if(selectedCategory!=='all') list=list.filter(i=>i.category===selectedCategory);
+    if(selectedRegion!=='all') list=list.filter(i=>i.region===selectedRegion);
+    if(filterQuery) list=list.filter(i=>i.title.toLowerCase().includes(filterQuery.toLowerCase())||i.lead.toLowerCase().includes(filterQuery.toLowerCase()));
+    return list;
+  };
+
+  const handleDragStart=(e,id)=>{setDraggedId(id);e.dataTransfer.effectAllowed='move';};
+  const handleDragOver=(e,targetId)=>{
+    e.preventDefault();if(draggedId===targetId)return;
+    const di=agencyOrder.indexOf(draggedId),ti=agencyOrder.indexOf(targetId);
+    const o=[...agencyOrder];o.splice(di,1);o.splice(ti,0,draggedId);setAgencyOrder(o);
+  };
+  const handleDragEnd=()=>setDraggedId(null);
+
+  const toggleAgency = (agencyId) => {
+    setDisabledAgencies(prev => {
+      const next = new Set(prev);
+      if (next.has(agencyId)) next.delete(agencyId);
+      else next.add(agencyId);
+      return next;
+    });
+  };
+
+  // لیست خبرگزاری‌های قابل‌نمایش، مشترک بین رندر کارت‌ها و منطق دکمه شناور موبایل
+  const visibleAgencyIds = useMemo(() => agencyOrder.filter(id=>!disabledAgencies.has(id)), [agencyOrder, disabledAgencies]);
+
+  // === دکمه شناور «خبرگزاری بعدی» فقط روی موبایل: تشخیص کارت فعلی در دید، نمایش/پنهان‌سازی هوشمند ===
+  const [floatingNextAgency, setFloatingNextAgency] = useState(null); // null یعنی دکمه نباید نمایش داده شود
+  useEffect(() => {
+    const handleScroll = () => {
+      if (visibleAgencyIds.length === 0) { setFloatingNextAgency(null); return; }
+      const cardsSectionEl = document.getElementById('news-cards-section');
+      if (!cardsSectionEl) { setFloatingNextAgency(null); return; }
+      const sectionRect = cardsSectionEl.getBoundingClientRect();
+      // قبل از رسیدن به بخش کارت‌ها، دکمه نمایش داده نشود
+      if (sectionRect.top > window.innerHeight * 0.5) { setFloatingNextAgency(null); return; }
+      // پیدا کردن کارتی که الان بیشترین همپوشانی با viewport را دارد
+      let currentIdx = -1;
+      for (let i = 0; i < visibleAgencyIds.length; i++) {
+        const el = document.getElementById(`agency-card-${visibleAgencyIds[i]}`);
+        if (!el) continue;
+        const rect = el.getBoundingClientRect();
+        if (rect.top <= window.innerHeight * 0.4 && rect.bottom >= window.innerHeight * 0.1) {
+          currentIdx = i;
+        }
+      }
+      if (currentIdx === -1 || currentIdx >= visibleAgencyIds.length - 1) {
+        setFloatingNextAgency(null); // به آخرین کارت رسیده‌ایم یا هنوز به هیچ کارتی نرسیده‌ایم
+      } else {
+        setFloatingNextAgency(visibleAgencyIds[currentIdx + 1]);
+      }
+    };
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    handleScroll();
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, [visibleAgencyIds]);
+
+  const currentCityData = cityWeatherData || {
+    weather: {temp:'--', cond_fa:'در حال بارگذاری', cond_en:'Loading'},
+    prayer_times: {fajr:'--:--', dhuhr:'--:--', maghrib:'--:--'},
+  };
+  const cityDisplayName = isRTL
+    ? (CITIES_LIST[activeCity]?.name_fa || activeCity)
+    : (CITIES_LIST[activeCity]?.name_en || activeCity);
+  const hasData = Object.keys(newsData).length > 0;
+
+  return (
+    <div className={`min-h-screen bg-slate-950 text-slate-100 font-sans flex flex-col pb-20 ${isRTL?'rtl':'ltr'}`} style={{fontFamily: isRTL ? 'Tahoma,Arial,sans-serif' : 'Inter,sans-serif'}}>
+
+      {/* === هدر یکپارچه: شامل همه بخش‌های ثابت بالای صفحه، با یک sticky واحد === */}
+      <header className="sticky top-0 z-50 bg-slate-900">
+        {/* نوار بالا: ساعت، تاریخ، آب‌وهوا، اوقات شرعی */}
+        <div className="border-b border-slate-800 text-[10px] md:text-xs text-slate-400 py-2 px-4 flex flex-wrap justify-between items-center gap-2">
+          <div className="flex gap-3 items-center flex-wrap">
+            <span className="font-semibold text-amber-500">⏰ {currentTime.toLocaleTimeString(isRTL?'fa-IR':'en-US',{hour12:false})}</span>
+            <span>📅 {shamsiDate}</span>
+            <span className="text-slate-500">|</span>
+            <span>{gregorianDate}</span>
+            <span className="text-slate-500">|</span>
+            <span>{hijriDate}</span>
+            <div className="bg-slate-950/60 rounded px-2 py-0.5 border border-slate-800 flex gap-2 text-[9px] items-center">
+              <span className="text-slate-500">{t.shariaTimes}</span>
+              <span className="text-amber-500 font-bold">{cityDisplayName}</span>
+              <span>🌡 {currentCityData.weather.temp} - {isRTL?currentCityData.weather.cond_fa:currentCityData.weather.cond_en}</span>
+              <span>{t.fajr}: {currentCityData.prayer_times.fajr}</span>
+              <span>{t.dhuhr}: {currentCityData.prayer_times.dhuhr}</span>
+              <span>{t.maghrib}: {currentCityData.prayer_times.maghrib}</span>
+            </div>
+          </div>
+          <div className="flex items-center gap-2">
+            <select value={activeCity} onChange={e=>setActiveCity(e.target.value)} className="bg-slate-800 border border-slate-700 text-[10px] text-slate-300 rounded px-2 py-0.5 focus:outline-none">
+              {Object.entries(CITIES_LIST).map(([k,v])=><option key={k} value={k}>{isRTL?v.name_fa:v.name_en}</option>)}
+            </select>
+          </div>
+        </div>
+
+        {/* نوار مناسبت روز - فقط اگر مناسبتی برای امروز ثبت شده باشد */}
+        {todayEvent && (
+          <div className="border-b border-slate-800 px-4 py-1.5 text-[10px] text-amber-400 flex gap-1 items-center font-bold">
+            <span className="text-slate-400">{t.eventsLabel}</span>
+            <span className="font-black">{isRTL?todayEvent.title_fa:todayEvent.title_en}</span>
+            {todayEvent.holiday && <span className="bg-emerald-500/15 text-emerald-400 text-[9px] px-1.5 py-0.5 rounded">({isRTL?'تعطیل رسمی':'Official holiday'})</span>}
+          </div>
+        )}
+
+        {/* نام سایت، عنوان، جستجو */}
+        <div className="border-b border-slate-800 bg-slate-900/90 backdrop-blur-md">
+          <div className="max-w-7xl mx-auto px-4 py-3 flex flex-col lg:flex-row items-center justify-between gap-4">
+            <div className="flex items-center gap-3 w-full lg:w-auto">
+              <div className="p-2.5 bg-gradient-to-tr from-amber-500 to-orange-600 rounded-lg shadow-lg shadow-orange-500/20 shrink-0">
+                <span className="text-slate-950 font-black text-lg">🌐</span>
+              </div>
+              <div>
+                <h1 className="text-lg md:text-xl font-black tracking-wide bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">{t.title}</h1>
+                <p className="text-xs text-slate-500 font-bold mt-0.5">{t.subtitle}</p>
+              </div>
+            </div>
+            <div className="flex flex-wrap items-center gap-2 w-full lg:w-auto justify-end">
+              {/* انتخاب زبان - فعلاً غیرفعال است، برای توسعه‌های بعدی نگه داشته شده
+              <div className="flex items-center bg-slate-950 border border-slate-800 rounded-lg p-1">
+                {['fa','en','fr','es','ar'].map(l=>(
+                  <button key={l} onClick={()=>setLang(l)} className={`px-2 py-1 text-[11px] rounded font-bold transition-all ${lang===l?'bg-amber-500 text-slate-950':'text-slate-400 hover:text-white'}`}>{l.toUpperCase()}</button>
+                ))}
+              </div>
+              */}
+              {/* جستجو */}
+              <input type="text" placeholder={t.searchPlaceholder} value={filterQuery} onChange={e=>setFilterQuery(e.target.value)}
+                className="w-40 bg-slate-950 border border-slate-800 focus:border-amber-500/50 rounded-lg py-1.5 px-3 text-xs text-slate-200 placeholder-slate-500 outline-none" />
+            </div>
+          </div>
+        </div>
+
+        {/* اخبار فوری */}
+        <div className="py-2">
+          <div className="max-w-7xl mx-auto px-4 flex items-center gap-4 overflow-hidden">
+            <div className="flex items-center gap-1.5 bg-red-600/10 border border-red-500/20 text-red-400 px-2.5 py-0.5 rounded text-[10px] font-extrabold uppercase tracking-wider animate-pulse shrink-0">
+              <span className="w-1.5 h-1.5 rounded-full bg-red-500 inline-block"></span>
+              <span className="hidden sm:inline">{t.breakingNews}</span>
+              <span className="sm:hidden">{isRTL?'فوری':'LIVE'}</span>
+            </div>
+            {allArticles.length>0 && allArticles[tickerIndex] && (
+              <div className="text-xs font-medium text-slate-300 truncate flex items-center gap-2">
+                <span className={`px-1.5 py-0.5 rounded text-[9px] font-semibold text-white bg-gradient-to-r ${allArticles[tickerIndex].agency.color}`}>
+                  {isRTL?allArticles[tickerIndex].agency.name_fa:allArticles[tickerIndex].agency.name_en}
+                </span>
+                <span className="cursor-pointer hover:text-amber-400 transition-colors" onClick={()=>setSelectedNews(allArticles[tickerIndex])}>
+                  {allArticles[tickerIndex].title}
+                </span>
+              </div>
+            )}
+          </div>
+        </div>
+      </header>
+
+      {/* فیلترها - با محتوای صفحه اسکرول می‌شود، ثابت نیست */}
+      <section className="bg-slate-900/40 border-b border-slate-800/60 py-3">
+        <div className="max-w-7xl mx-auto px-4 space-y-2">
+          {/* ترندها */}
+          <div className="flex flex-wrap items-center gap-2">
+            <span className="text-xs font-black text-amber-500">📈 {t.hotTrends}</span>
+            {dynamicKeywords.length===0?<span className="text-xs text-slate-500">{t.noTrends}</span>:
+              dynamicKeywords.map(k=>(
+                <button key={k} onClick={()=>setSelectedTrend(p=>p===k?null:k)}
+                  className={`px-2.5 py-0.5 rounded-full text-[11px] font-bold border transition-all ${selectedTrend===k?'bg-amber-500 text-slate-950 border-amber-500':'bg-slate-800 text-slate-300 border-slate-700 hover:border-amber-500/50'}`}>
+                  #{k}
+                </button>
+              ))
+            }
+          </div>
+          {/* فیلتر موضوعی و منطقه */}
+          <div className="flex flex-wrap gap-4">
+            <div className="flex items-center gap-2 flex-wrap">
+              <span className="text-[11px] text-slate-400 font-bold">{t.thematicFilter}</span>
+              {THEMATIC_FILTERS.map(f=>(
+                <span key={f.id} className="inline-flex items-center gap-0.5">
+                  <button onClick={()=>setSelectedCategory(f.id)}
+                    className={`px-2 py-0.5 rounded text-[10px] font-bold transition-all ${selectedCategory===f.id?'bg-indigo-500 text-white':'bg-slate-800 text-slate-400 hover:text-white'}`}>
+                    {isRTL?f.name_fa:f.name_en}
+                  </button>
+                  {f.id!=='all' && (
+                    <a href={`/api/category.php?cat=${encodeURIComponent(f.id)}`} target="_blank" rel="noopener"
+                      title={isRTL?'صفحه اختصاصی این دسته‌بندی':'Dedicated category page'}
+                      className="text-slate-600 hover:text-amber-400 text-[9px]">🔗</a>
+                  )}
+                </span>
+              ))}
+            </div>
+            <div className="flex items-center gap-2 flex-wrap">
+              <span className="text-[11px] text-slate-400 font-bold">{t.regionalFilter}</span>
+              {REGIONAL_FILTERS.map(f=>(
+                <button key={f.id} onClick={()=>setSelectedRegion(f.id)}
+                  className={`px-2 py-0.5 rounded text-[10px] font-bold transition-all ${selectedRegion===f.id?'bg-teal-500 text-white':'bg-slate-800 text-slate-400 hover:text-white'}`}>
+                  {isRTL?f.name_fa:f.name_en}
+                </button>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* وضعیت لود */}
+      {isLoading && !hasData && (
+        <div className="flex items-center justify-center py-20 text-slate-400">
+          <span className="animate-spin mr-2">🔄</span> {t.loadingCache}
+        </div>
+      )}
+      {errorMsg && <div className="text-center py-4 text-amber-400 text-sm">{errorMsg}</div>}
+      {!isLoading && !hasData && !errorMsg && (
+        <div className="text-center py-20 text-slate-500">{t.noData}</div>
+      )}
+
+      {/* جدول اخبار */}
+      {hasData && (
+        <section id="news-cards-section" className="max-w-7xl mx-auto w-full px-2 md:px-4 py-4">
+          <div className="flex items-center justify-between mb-3">
+            <h2 className="text-sm font-black text-slate-300">📡 {t.monitoringTable}</h2>
+            <span className="text-[10px] text-slate-500">{t.lastSync} {lastUpdated}</span>
+          </div>
+
+          {/* نوار فعال/غیرفعال‌سازی خبرگزاری‌ها */}
+          <div className="flex flex-wrap gap-1.5 mb-3 p-2 bg-slate-900/50 border border-slate-800 rounded-lg">
+            <span className="text-[10px] text-slate-500 font-bold self-center ml-1">{isRTL?'نمایش خبرگزاری‌ها:':'Show agencies:'}</span>
+            {agencyOrder.map(agencyId => {
+              const meta = AGENCY_META[agencyId] || {name_fa:agencyId, name_en:agencyId};
+              const isOn = !disabledAgencies.has(agencyId);
+              return (
+                <button key={agencyId} onClick={()=>toggleAgency(agencyId)}
+                  className={`px-2 py-0.5 rounded text-[10px] font-bold border transition-all ${isOn?'bg-amber-500/15 border-amber-500/40 text-amber-300':'bg-slate-800/50 border-slate-700 text-slate-500'}`}>
+                  {isOn?'✓':'○'} {isRTL?meta.name_fa:meta.name_en}
+                </button>
+              );
+            })}
+          </div>
+
+          {/* چیدمان ستونی عمودی - ارتفاع هر کارت ثابت است، اسکرول داخلی دارد */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
+            {(() => {
+              return visibleAgencyIds.map((agencyId, idx) => {
+              const meta = AGENCY_META[agencyId] || {id:agencyId,name_fa:agencyId,name_en:agencyId,color:'from-slate-600 to-slate-800',textColor:'text-slate-400',badgeBg:'bg-slate-500/10 text-slate-400',logo:agencyId.slice(0,2).toUpperCase()};
+              const filtered = getFilteredData(agencyId);
+              return (
+                <div key={agencyId} id={`agency-card-${agencyId}`} draggable onDragStart={e=>handleDragStart(e,agencyId)} onDragOver={e=>handleDragOver(e,agencyId)} onDragEnd={handleDragEnd}
+                  className={`bg-slate-900 border border-slate-800 rounded-xl flex flex-col overflow-hidden transition-all cursor-grab ${draggedId===agencyId?'opacity-50 scale-95':''}`}
+                  style={{height:'540px'}}>
+                  {/* هدر ستون */}
+                  <div className={`p-3 bg-gradient-to-r ${meta.color} flex items-center gap-2 shrink-0`}>
+                    <span className="w-7 h-7 flex items-center justify-center bg-slate-950/40 text-white font-black text-xs rounded">{meta.logo}</span>
+                    <div>
+                      <div className="font-bold text-white text-xs">{isRTL?meta.name_fa:meta.name_en}</div>
+                      <div className="text-[9px] text-white/60">{filtered.length} خبر</div>
+                    </div>
+                    <button onClick={(e)=>{e.stopPropagation();openAgencyArchive(agencyId, meta);}}
+                      title={isRTL?'آرشیو این خبرگزاری':'Archive of this agency'}
+                      className="mr-auto text-[8px] font-black text-white/90 bg-slate-950/40 hover:bg-slate-950/60 px-1.5 py-0.5 rounded transition-colors">
+                      🗄 {isRTL?'آرشیو':'Archive'}
+                    </button>
+                    <span className="text-[8px] font-black text-white/80 bg-red-500/30 px-1.5 py-0.5 rounded animate-pulse">{t.liveBadge}</span>
+                  </div>
+                  {/* لیست اخبار - ارتفاع کارت ثابت است، این بخش خودش اسکرول می‌خورد */}
+                  <div className="flex-1 overflow-y-auto custom-scrollbar p-2 space-y-2">
+                    {filtered.length===0?
+                      <p className="text-[11px] text-slate-600 text-center mt-8">{t.noArticles}</p>:
+                      filtered.map(article=>(
+                        <div key={article.id} onClick={()=>setSelectedNews({...article,agency:meta})}
+                          className="bg-slate-800/60 hover:bg-slate-800 border border-slate-700 hover:border-slate-600 rounded-lg p-2.5 cursor-pointer transition-all group">
+                          <div className="flex items-center gap-1.5 mb-1.5 flex-wrap">
+                            <span className={`text-[9px] font-bold px-1.5 py-0.5 rounded ${meta.badgeBg}`}>
+                              {THEMATIC_FILTERS.find(f=>f.id===article.category)?.[isRTL?'name_fa':'name_en']||article.category}
+                            </span>
+                            <span className="text-[9px] text-slate-500">{article.time}</span>
+                          </div>
+                          <h4 className="text-[11px] font-bold text-slate-200 group-hover:text-amber-400 transition-colors leading-relaxed">
+                            {lang==='en'?article.title_en||article.title:article.title}
+                          </h4>
+                          {article.lead && <p className="text-[10px] text-slate-500 mt-1 leading-relaxed line-clamp-2">{article.lead}</p>}
+                          {/* sentiment */}
+                          {article.sentiment && (
+                            <div className="mt-1.5 h-1 rounded-full bg-slate-900 overflow-hidden flex">
+                              <div style={{width:`${article.sentiment.positive}%`}} className="bg-emerald-500 h-full"></div>
+                              <div style={{width:`${article.sentiment.neutral}%`}} className="bg-slate-500 h-full"></div>
+                              <div style={{width:`${article.sentiment.negative}%`}} className="bg-red-500 h-full"></div>
+                            </div>
+                          )}
+                        </div>
+                      ))
+                    }
+                  </div>
+                </div>
+              );
+              });
+            })()}
+          </div>
+        </section>
+      )}
+
+      {/* جعبه ابزار تحقیقاتی */}
+      {hasData && (
+        <section className="max-w-7xl mx-auto w-full px-2 md:px-4 py-4">
+          <div className="bg-slate-900 border border-slate-800 rounded-xl overflow-hidden">
+            <div className="p-4 border-b border-slate-800 flex items-center gap-3">
+              <span className="text-lg">🔬</span>
+              <div className="flex-1">
+                <h3 className="font-black text-sm text-slate-200">{t.toolkitTitle}</h3>
+                <p className="text-xs text-slate-500">{t.toolkitDesc}</p>
+              </div>
+              <button onClick={openResearchArchive}
+                className="px-3 py-1.5 bg-amber-500/10 hover:bg-amber-500/20 border border-amber-500/30 text-amber-400 font-bold text-[11px] rounded-lg flex items-center gap-1.5 shrink-0">
+                🗄 {isRTL?'جستجوی پژوهشی در آرشیو':'Research Archive Search'}
+              </button>
+            </div>
+
+            {/* انتخاب منبع داده تحلیل: زنده یا آرشیو با فیلتر خبرگزاری/تاریخ */}
+            <div className="p-3 border-b border-slate-800 bg-slate-950/40 flex flex-wrap items-end gap-2">
+              <div className="flex bg-slate-800 border border-slate-700 rounded-lg p-1">
+                <button onClick={()=>setToolkitDataSource('live')}
+                  className={`px-3 py-1 text-[11px] font-bold rounded transition-all ${toolkitDataSource==='live'?'bg-amber-500 text-slate-950':'text-slate-400'}`}>
+                  ⚡ {isRTL?'زنده (۲۴ساعت)':'Live (24h)'}
+                </button>
+                <button onClick={()=>setToolkitDataSource('archive')}
+                  className={`px-3 py-1 text-[11px] font-bold rounded transition-all ${toolkitDataSource==='archive'?'bg-amber-500 text-slate-950':'text-slate-400'}`}>
+                  🗄 {isRTL?'آرشیو':'Archive'}
+                </button>
+              </div>
+
+              {toolkitDataSource === 'archive' && (
+                <>
+                  <select value={toolkitArchiveAgency} onChange={e=>setToolkitArchiveAgency(e.target.value)}
+                    className="bg-slate-800 border border-slate-700 rounded-lg px-2 py-1.5 text-xs text-slate-300 outline-none">
+                    <option value="all">{isRTL?'همه خبرگزاری‌ها':'All agencies'}</option>
+                    {agencyOrder.map(agId=>{
+                      const m = AGENCY_META[agId] || {name_fa:agId, name_en:agId};
+                      return <option key={agId} value={agId}>{isRTL?m.name_fa:m.name_en}</option>;
+                    })}
+                  </select>
+                  {isRTL ? (
+                    <>
+                      <JalaliDateInput value={toolkitArchiveDateFrom} onChange={setToolkitArchiveDateFrom} placeholder="از تاریخ"/>
+                      <JalaliDateInput value={toolkitArchiveDateTo} onChange={setToolkitArchiveDateTo} placeholder="تا تاریخ"/>
+                    </>
+                  ) : (
+                    <>
+                      <input type="date" value={toolkitArchiveDateFrom} onChange={e=>setToolkitArchiveDateFrom(e.target.value)}
+                        className="bg-slate-800 border border-slate-700 rounded-lg px-2 py-1.5 text-xs text-slate-300 outline-none" title="From date"/>
+                      <input type="date" value={toolkitArchiveDateTo} onChange={e=>setToolkitArchiveDateTo(e.target.value)}
+                        className="bg-slate-800 border border-slate-700 rounded-lg px-2 py-1.5 text-xs text-slate-300 outline-none" title="To date"/>
+                    </>
+                  )}
+                  <button onClick={loadToolkitArchiveData} disabled={toolkitArchiveLoading}
+                    className="px-4 py-1.5 bg-amber-500 hover:bg-amber-600 disabled:opacity-50 text-slate-950 font-black text-xs rounded-lg">
+                    {toolkitArchiveLoading?'⏳':(isRTL?'بارگذاری':'Load')}
+                  </button>
+                  <span className="text-[10px] text-slate-500 self-center">
+                    {toolkitArchiveArticles.length} {isRTL?'خبر بارگذاری شده':'articles loaded'}
+                  </span>
+                </>
+              )}
+            </div>
+
+            {/* تب‌ها */}
+            <div className="flex border-b border-slate-800 overflow-x-auto">
+              {[
+                {id:'word_frequency',label:t.tabWordFreq},
+                {id:'quantitative',label:t.tabQuantitative},
+                {id:'framing',label:t.tabFraming},
+                {id:'diversity',label:t.lexicalDiversity},
+              ].map(tab=>(
+                <button key={tab.id} onClick={()=>setActiveToolkitTab(tab.id)}
+                  className={`px-4 py-2.5 text-xs font-bold whitespace-nowrap transition-all border-b-2 ${activeToolkitTab===tab.id?'border-amber-500 text-amber-500 bg-amber-500/5':'border-transparent text-slate-500 hover:text-slate-300'}`}>
+                  {tab.label}
+                </button>
+              ))}
+            </div>
+            <div className="p-6">
+              {activeToolkitTab==='word_frequency' && (
+                <div>
+                  <p className="text-xs text-slate-400 mb-4">{t.wordCountToolDesc}</p>
+                  <div className="flex gap-2 mb-4">
+                    <input type="text" value={researchKeyword} onChange={e=>setResearchKeyword(e.target.value)}
+                      placeholder={t.keywordInputPlaceholder} onKeyDown={e=>e.key==='Enter'&&setAppliedResearchKeyword(researchKeyword)}
+                      className="flex-1 bg-slate-950 border border-slate-700 rounded-lg px-3 py-2 text-xs text-slate-200 placeholder-slate-600 focus:outline-none focus:border-amber-500/50"/>
+                    <button onClick={()=>setAppliedResearchKeyword(researchKeyword)}
+                      className="px-4 py-2 bg-amber-500 hover:bg-amber-600 text-slate-950 font-black text-xs rounded-lg">{t.searchBtn}</button>
+                  </div>
+                  {wordFreqStats && (
+                    <div>
+                      <div className="bg-slate-950 rounded-lg p-3 mb-4 border border-slate-800">
+                        <span className="text-xs text-slate-400">{t.totalMatchesLabel} </span>
+                        <span className="text-2xl font-black text-amber-400">{wordFreqStats.total}</span>
+                        {wordFreqStats.matchedArticles.length > 0 && (
+                          <>
+                            <span className="text-xs text-slate-400"> {isRTL?'در':'in'} </span>
+                            <button onClick={()=>setWordFreqListOpen(!wordFreqListOpen)}
+                              className="text-xs font-bold text-amber-400 underline hover:text-amber-300">
+                              {wordFreqStats.matchedArticles.length} {isRTL?'خبر':'articles'}
+                            </button>
+                          </>
+                        )}
+                      </div>
+                      <div className="space-y-2">
+                        {Object.entries(wordFreqStats.agencyCounts).map(([id,count])=>{
+                          const m=AGENCY_META[id]||{name_fa:id,name_en:id,color:'from-slate-600 to-slate-800'};
+                          const pct=wordFreqStats.total>0?Math.round((count/wordFreqStats.total)*100):0;
+                          return (
+                            <div key={id} className="flex items-center gap-3">
+                              <div className="w-20 text-xs font-bold text-slate-300 truncate">{isRTL?m.name_fa:m.name_en}</div>
+                              <div className="flex-1 bg-slate-900 rounded-full h-3 overflow-hidden border border-slate-800">
+                                <div className={`h-full bg-gradient-to-r ${m.color} rounded-full`} style={{width:`${pct}%`}}></div>
+                              </div>
+                              <span className="text-xs font-black text-amber-400 w-8 text-right">{count}</span>
+                            </div>
+                          );
+                        })}
+                      </div>
+                      {wordFreqListOpen && (
+                        <div className="mt-4 space-y-1.5 max-h-80 overflow-y-auto custom-scrollbar">
+                          {wordFreqStats.matchedArticles.map(a=>{
+                            const m=AGENCY_META[a.agency.id]||{name_fa:a.agency.id,name_en:a.agency.id};
+                            return (
+                              <div key={a.id} onClick={()=>setSelectedNews(a)}
+                                className="px-3 py-2 bg-slate-800/60 hover:bg-slate-800 border border-slate-700 rounded-lg cursor-pointer flex items-center gap-2">
+                                <span className="text-[10px] font-bold text-amber-400 shrink-0">{isRTL?m.name_fa:m.name_en}</span>
+                                <span className="text-xs text-slate-300 truncate flex-1">{isRTL?(a.title_fa||a.title):a.title}</span>
+                              </div>
+                            );
+                          })}
+                        </div>
+                      )}
+                    </div>
+                  )}
+                </div>
+              )}
+              {activeToolkitTab==='quantitative' && (
+                <div>
+                  <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+                    <div className="bg-slate-950 rounded-lg p-4 border border-slate-800 text-center">
+                      <div className="text-2xl font-black text-amber-400">{calculatedAnalysis.total}</div>
+                      <div className="text-xs text-slate-500 mt-1">کل اخبار</div>
+                    </div>
+                    {Object.entries(calculatedAnalysis.byCategory).filter(([,v])=>v>0).slice(0,3).map(([cat,count])=>(
+                      <div key={cat} className="bg-slate-950 rounded-lg p-4 border border-slate-800 text-center">
+                        <div className="text-2xl font-black text-indigo-400">{count}</div>
+                        <div className="text-xs text-slate-500 mt-1">{THEMATIC_FILTERS.find(f=>f.id===cat)?.[isRTL?'name_fa':'name_en']||cat}</div>
+                      </div>
+                    ))}
+                  </div>
+                  <h4 className="text-xs font-bold text-slate-400 mb-3">توزیع موضوعی</h4>
+                  <div className="space-y-2 max-w-2xl">
+                    {Object.entries(calculatedAnalysis.byCategory).filter(([,v])=>v>0).map(([cat,count])=>{
+                      const pct=calculatedAnalysis.total>0?Math.round((count/calculatedAnalysis.total)*100):0;
+                      return (
+                        <div key={cat} className="flex items-center gap-3">
+                          <div className="w-24 text-xs text-slate-400 truncate">{THEMATIC_FILTERS.find(f=>f.id===cat)?.[isRTL?'name_fa':'name_en']||cat}</div>
+                          <div className="flex-1 bg-slate-900 rounded-full h-3 overflow-hidden border border-slate-800">
+                            <div className="h-full bg-gradient-to-r from-indigo-500 to-purple-600 rounded-full" style={{width:`${pct}%`}}></div>
+                          </div>
+                          <span className="text-xs font-bold text-indigo-400 w-8 text-right">{pct}%</span>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </div>
+              )}
+              {activeToolkitTab==='framing' && (
+                <div className="space-y-4 max-w-2xl">
+                  {Object.keys(toolkitByAgency).length === 0 && (
+                    <p className="text-xs text-slate-500 text-center py-6">{isRTL?'داده‌ای برای نمایش وجود ندارد':'No data to display'}</p>
+                  )}
+                  {Object.keys(toolkitByAgency).map(agId=>{
+                    const arts=toolkitByAgency[agId]||[];
+                    if(arts.length===0) return null;
+                    const pos=Math.round(arts.reduce((s,a)=>s+(a.sentiment?.positive||33),0)/arts.length);
+                    const neg=Math.round(arts.reduce((s,a)=>s+(a.sentiment?.negative||33),0)/arts.length);
+                    const neu=100-pos-neg;
+                    const m=AGENCY_META[agId]||{name_fa:agId,name_en:agId,color:'from-slate-600 to-slate-800'};
+                    return (
+                      <div key={agId}>
+                        <div className="flex justify-between text-xs mb-1">
+                          <span className="font-bold text-slate-300">{isRTL?m.name_fa:m.name_en}</span>
+                        </div>
+                        <div className={`h-4 rounded-full overflow-hidden bg-gradient-to-r ${m.color} opacity-30`}></div>
+                        <div className="h-4 -mt-4 rounded-full overflow-hidden flex">
+                          <div style={{width:`${pos}%`}} className="bg-emerald-500 h-full opacity-80"></div>
+                          <div style={{width:`${Math.max(0,neu)}%`}} className="bg-slate-500 h-full opacity-60"></div>
+                          <div style={{width:`${neg}%`}} className="bg-red-500 h-full opacity-80"></div>
+                        </div>
+                        <div className="flex justify-between text-[9px] text-slate-400 mt-0.5">
+                          <span className="text-emerald-400">{pos}% مثبت</span>
+                          <span>{Math.max(0,neu)}% خنثی</span>
+                          <span className="text-red-400">{neg}% منفی</span>
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              )}
+              {activeToolkitTab==='diversity' && (
+                <div className="space-y-4 max-w-2xl">
+                  {Object.keys(toolkitByAgency).length === 0 && (
+                    <p className="text-xs text-slate-500 text-center py-6">{isRTL?'داده‌ای برای نمایش وجود ندارد':'No data to display'}</p>
+                  )}
+                  {Object.keys(toolkitByAgency).map(agId=>{
+                    const score=calculatedAnalysis.lexicalDiversity[agId]||50;
+                    const m=AGENCY_META[agId]||{name_fa:agId,name_en:agId,color:'from-slate-600 to-slate-800'};
+                    return (
+                      <div key={agId} className="flex items-center gap-4">
+                        <div className="w-24 text-xs font-bold text-slate-300 truncate">{isRTL?m.name_fa:m.name_en}</div>
+                        <div className="flex-1 bg-slate-900 rounded-full h-4 overflow-hidden border border-slate-800">
+                          <div className={`h-full bg-gradient-to-r ${m.color} rounded-full`} style={{width:`${score}%`}}></div>
+                        </div>
+                        <span className="text-xs font-black text-indigo-400 w-10 text-right">{score}%</span>
+                      </div>
+                    );
+                  })}
+                </div>
+              )}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* مودال خبر */}
+      {selectedNews && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-sm" onClick={()=>setSelectedNews(null)}>
+          <div className="bg-slate-900 border border-slate-700 rounded-2xl max-w-2xl w-full shadow-2xl overflow-hidden flex flex-col max-h-[90vh]" onClick={e=>e.stopPropagation()}>
+            <div className={`p-4 bg-gradient-to-r ${selectedNews.agency.color} flex justify-between items-center`}>
+              <div className="flex items-center gap-2">
+                <span className="w-8 h-8 flex items-center justify-center bg-slate-950/40 text-white font-black text-sm rounded-md">{selectedNews.agency.logo}</span>
+                <div>
+                  <h3 className="font-bold text-white text-sm">{isRTL?selectedNews.agency.name_fa:selectedNews.agency.name_en}</h3>
+                  <span className="text-[10px] text-white/70">{selectedNews.time}</span>
+                </div>
+              </div>
+              <button onClick={()=>setSelectedNews(null)} className="text-white hover:bg-white/20 p-1 rounded">✕</button>
+            </div>
+            <div className="p-6 overflow-y-auto custom-scrollbar flex-1">
+              <div className="flex gap-2 mb-4 flex-wrap">
+                <span className="text-[10px] bg-slate-800 text-slate-300 px-2 py-1 rounded-full border border-slate-700">
+                  🏷 {THEMATIC_FILTERS.find(f=>f.id===selectedNews.category)?.[isRTL?'name_fa':'name_en']||selectedNews.category}
+                </span>
+                <span className="text-[10px] bg-slate-800 text-slate-300 px-2 py-1 rounded-full border border-slate-700">
+                  📍 {REGIONAL_FILTERS.find(f=>f.id===selectedNews.region)?.[isRTL?'name_fa':'name_en']||selectedNews.region}
+                </span>
+              </div>
+              <h2 className="text-lg font-bold text-white mb-4 leading-relaxed">
+                {lang==='en'?selectedNews.title_en||selectedNews.title:selectedNews.title}
+              </h2>
+              <div className="bg-slate-950 p-4 rounded-xl border border-slate-800 mb-6">
+                <h4 className="text-xs font-bold text-amber-500 mb-2">📖 {t.leadSection}</h4>
+                <p className="text-sm text-slate-300 leading-loose text-justify">{selectedNews.lead}</p>
+              </div>
+              {selectedNews.newsValues && Object.keys(selectedNews.newsValues).length>0 && (
+                <div className="border-t border-slate-800 pt-4">
+                  <h4 className="text-xs font-bold text-slate-400 mb-3">{t.structureAnalysis}</h4>
+                  <div className="grid grid-cols-2 gap-3">
+                    {Object.entries(selectedNews.newsValues).map(([key,val],i)=>(
+                      <div key={i} className="bg-slate-800/50 p-3 rounded-lg border border-slate-700 flex items-center justify-between">
+                        <span className="text-[10px] text-slate-500 uppercase font-bold">{key}</span>
+                        <span className="text-xs text-amber-400 font-semibold">{String(val)}</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+            <div className="p-4 border-t border-slate-800 bg-slate-950 flex justify-between items-center flex-wrap gap-2">
+              <div className="flex items-center gap-4">
+                <a href={selectedNews.sourceUrl} target="_blank" rel="noopener noreferrer" className="text-xs text-indigo-400 hover:text-indigo-300 flex items-center gap-1">
+                  🔗 {t.readMore}
+                </a>
+                <a href={`/api/article.php?id=${encodeURIComponent(selectedNews.id)}`} target="_blank" rel="noopener" className="text-xs text-amber-400 hover:text-amber-300 flex items-center gap-1">
+                  📄 {isRTL?'صفحه اختصاصی این خبر':'Dedicated article page'}
+                </a>
+              </div>
+              <button onClick={()=>setSelectedNews(null)} className="px-4 py-2 bg-slate-800 hover:bg-slate-700 text-white text-xs rounded-lg">{t.closeBtn}</button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* مودال آرشیو */}
+      {archiveModalOpen && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-sm" onClick={()=>setArchiveModalOpen(false)}>
+          <div className="bg-slate-900 border border-slate-700 rounded-2xl max-w-4xl w-full shadow-2xl overflow-hidden flex flex-col max-h-[90vh]" onClick={e=>e.stopPropagation()}>
+            <div className="p-4 bg-gradient-to-r from-slate-800 to-slate-900 border-b border-slate-700 flex justify-between items-center">
+              <div>
+                <h3 className="font-bold text-white text-sm">
+                  {archiveMode==='agency'
+                    ? '🗄 '+(isRTL?'آرشیو ':'Archive of ')+(archiveAgency?(isRTL?archiveAgency.meta.name_fa:archiveAgency.meta.name_en):'')
+                    : '🔬 '+(isRTL?'جستجوی پژوهشی در کل آرشیو':'Research Search Across Archive')}
+                </h3>
+                <span className="text-[10px] text-slate-400">{archiveTotal} {isRTL?'نتیجه':'results'}</span>
+              </div>
+              <button onClick={()=>setArchiveModalOpen(false)} className="text-white hover:bg-white/10 p-1.5 rounded">✕</button>
+            </div>
+
+            {archiveMode === 'research' && (
+              <div className="p-3 border-b border-slate-800 bg-slate-950/50 flex flex-wrap gap-2 items-end">
+                <input type="text" placeholder={isRTL?'جستجو در عنوان...':'Search title...'} value={archiveFilters.q}
+                  onChange={e=>setArchiveFilters({...archiveFilters, q:e.target.value})}
+                  className="flex-1 min-w-[150px] bg-slate-800 border border-slate-700 rounded-lg px-3 py-1.5 text-xs text-slate-200 placeholder-slate-500 outline-none"/>
+                <select value={archiveFilters.category} onChange={e=>setArchiveFilters({...archiveFilters, category:e.target.value})}
+                  className="bg-slate-800 border border-slate-700 rounded-lg px-2 py-1.5 text-xs text-slate-300 outline-none">
+                  {THEMATIC_FILTERS.map(f=><option key={f.id} value={f.id}>{isRTL?f.name_fa:f.name_en}</option>)}
+                </select>
+                <select value={archiveFilters.region} onChange={e=>setArchiveFilters({...archiveFilters, region:e.target.value})}
+                  className="bg-slate-800 border border-slate-700 rounded-lg px-2 py-1.5 text-xs text-slate-300 outline-none">
+                  {REGIONAL_FILTERS.map(f=><option key={f.id} value={f.id}>{isRTL?f.name_fa:f.name_en}</option>)}
+                </select>
+                {isRTL ? (
+                  <>
+                    <JalaliDateInput value={archiveFilters.dateFrom} onChange={(v)=>setArchiveFilters({...archiveFilters, dateFrom:v})} placeholder="از تاریخ"/>
+                    <JalaliDateInput value={archiveFilters.dateTo} onChange={(v)=>setArchiveFilters({...archiveFilters, dateTo:v})} placeholder="تا تاریخ"/>
+                  </>
+                ) : (
+                  <>
+                    <input type="date" value={archiveFilters.dateFrom} onChange={e=>setArchiveFilters({...archiveFilters, dateFrom:e.target.value})}
+                      className="bg-slate-800 border border-slate-700 rounded-lg px-2 py-1.5 text-xs text-slate-300 outline-none" title="From date"/>
+                    <input type="date" value={archiveFilters.dateTo} onChange={e=>setArchiveFilters({...archiveFilters, dateTo:e.target.value})}
+                      className="bg-slate-800 border border-slate-700 rounded-lg px-2 py-1.5 text-xs text-slate-300 outline-none" title="To date"/>
+                  </>
+                )}
+                <button onClick={()=>searchArchive(archiveFilters)}
+                  className="px-4 py-1.5 bg-amber-500 hover:bg-amber-600 text-slate-950 font-black text-xs rounded-lg">
+                  {isRTL?'جستجو':'Search'}
+                </button>
+              </div>
+            )}
+
+            <div className="flex-1 overflow-y-auto custom-scrollbar p-4">
+              {archiveLoading && <div className="text-center py-10 text-slate-400 text-xs">⏳ {isRTL?'در حال بارگذاری...':'Loading...'}</div>}
+
+              {!archiveLoading && archiveDayArticles !== null && (
+                <div>
+                  <button onClick={()=>{setArchiveDayArticles(null); setArchiveSelectedDate('');}}
+                    className="mb-3 text-[11px] text-amber-400 hover:text-amber-300 flex items-center gap-1">
+                    ← {isRTL?'بازگشت به لیست':'Back to list'}
+                  </button>
+                  {archiveDayArticles.length === 0 ? (
+                    <p className="text-xs text-slate-500 text-center py-8">{isRTL?'موردی یافت نشد':'No items found'}</p>
+                  ) : (
+                    <div className="space-y-2">
+                      {archiveDayArticles.map(a=>(
+                        <div key={a.id} className="bg-slate-800/60 border border-slate-700 rounded-lg p-3">
+                          <div className="flex items-center gap-2 mb-1.5 flex-wrap">
+                            <span className="text-[9px] font-bold px-1.5 py-0.5 rounded bg-slate-700 text-slate-300">
+                              {THEMATIC_FILTERS.find(f=>f.id===a.category)?.[isRTL?'name_fa':'name_en']||a.category}
+                            </span>
+                            {a.iranScore > 0 && <span className="text-[9px] font-bold px-1.5 py-0.5 rounded bg-emerald-500/10 text-emerald-400">🇮🇷 {a.iranScore}</span>}
+                          </div>
+                          <h4 className="text-xs font-bold text-slate-200 mb-1">{isRTL?(a.title_fa||a.title):a.title}</h4>
+                          {a.lead && <p className="text-[11px] text-slate-400 leading-relaxed">{a.lead}</p>}
+                          <div className="flex items-center gap-3 mt-1.5">
+                            {a.sourceUrl && <a href={a.sourceUrl} target="_blank" rel="noopener noreferrer" className="text-[10px] text-indigo-400 hover:text-indigo-300">🔗 {t.readMore}</a>}
+                            <a href={`/api/article.php?id=${encodeURIComponent(a.id)}`} target="_blank" rel="noopener" className="text-[10px] text-amber-400 hover:text-amber-300">📄 {isRTL?'صفحه اختصاصی':'Dedicated page'}</a>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              )}
+
+              {!archiveLoading && archiveDayArticles === null && (
+                archiveResults.length === 0 ? (
+                  <p className="text-xs text-slate-500 text-center py-10">{isRTL?'موردی یافت نشد':'No items found'}</p>
+                ) : (
+                  <div className="space-y-1.5">
+                    {(() => {
+                      const grouped = {};
+                      archiveResults.forEach(r => { (grouped[r.date] = grouped[r.date]||[]).push(r); });
+                      return Object.keys(grouped).sort((a,b)=>b.localeCompare(a)).map(date => (
+                        <div key={date} className="border border-slate-800 rounded-lg overflow-hidden">
+                          <div className="bg-slate-800/50 px-3 py-2 flex items-center justify-between">
+                            <span className="text-xs font-bold text-amber-400">📅 {isRTL?formatJalaliDisplay(date):date}</span>
+                            <span className="text-[10px] text-slate-500">{grouped[date].length} {isRTL?'خبر':'items'}</span>
+                          </div>
+                          <div className="divide-y divide-slate-800/60">
+                            {grouped[date].slice(0,6).map(item => {
+                              const agMeta = AGENCY_META[item.agencyId] || {name_fa:item.agencyId, name_en:item.agencyId};
+                              return (
+                                <div key={item.id} className="px-3 py-2 hover:bg-slate-800/40 flex items-center gap-2">
+                                  <div onClick={()=>{setArchiveSelectedDate(date); fetchArchiveDay(date, item.agencyId);}} className="flex items-center gap-2 flex-1 min-w-0 cursor-pointer">
+                                    {archiveMode==='research' && <span className="text-[9px] text-slate-500 shrink-0">{isRTL?agMeta.name_fa:agMeta.name_en}</span>}
+                                    <span className="text-[11px] text-slate-300 truncate flex-1">{item.title_fa}</span>
+                                    {item.iranScore > 0 && <span className="text-[9px] text-emerald-400 shrink-0">🇮🇷</span>}
+                                  </div>
+                                  <a href={`/api/article.php?id=${encodeURIComponent(item.id)}`} target="_blank" rel="noopener" onClick={e=>e.stopPropagation()}
+                                    className="text-[10px] text-amber-400 hover:text-amber-300 shrink-0" title={isRTL?'صفحه اختصاصی این خبر':'Dedicated article page'}>📄</a>
+                                </div>
+                              );
+                            })}
+                          </div>
+                          {grouped[date].length > 6 && (
+                            <button onClick={()=>{const ag = archiveMode==='agency'?archiveAgency.id:grouped[date][0].agencyId; setArchiveSelectedDate(date); fetchArchiveDay(date, ag);}}
+                              className="w-full text-center text-[10px] text-amber-400 hover:text-amber-300 py-1.5 bg-slate-900/50">
+                              {isRTL?'مشاهده همه':'View all'} ({grouped[date].length})
+                            </button>
+                          )}
+                        </div>
+                      ));
+                    })()}
+                  </div>
+                )
+              )}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* فوتر */}
+      <footer className="border-t border-slate-800 mt-8 py-6 bg-slate-900/50">
+        <div className="max-w-7xl mx-auto px-4 text-center">
+          <p className="text-xs text-slate-500">{t.footerText}</p>
+          <p className="text-[10px] text-slate-600 mt-1">{t.footerCopy}</p>
+        </div>
+      </footer>
+
+      {/* دکمه شناور «خبرگزاری بعدی» - فقط موبایل، فقط وقتی داخل بخش کارت‌ها هستیم و به آخرین کارت نرسیده‌ایم */}
+      {floatingNextAgency && (
+        <button onClick={()=>document.getElementById(`agency-card-${floatingNextAgency}`)?.scrollIntoView({behavior:'smooth', block:'start'})}
+          className="sm:hidden fixed left-1/2 -translate-x-1/2 bottom-[52px] z-40 bg-amber-500 hover:bg-amber-600 text-slate-950 text-[11px] font-black px-4 py-2 rounded-full shadow-lg shadow-amber-500/30 flex items-center gap-1.5">
+          {isRTL?'خبرگزاری بعدی':'Next agency'} ⬇
+        </button>
+      )}
+
+      {/* تیکر مالی زنده */}
+      <div className="fixed bottom-0 left-0 right-0 bg-slate-900/95 backdrop-blur-md border-t border-slate-800 py-2 z-45 overflow-hidden shadow-[0_-10px_20px_rgba(0,0,0,0.5)]">
+        <div className="max-w-7xl mx-auto px-4 flex items-center gap-4">
+          <span className="text-[9px] font-black text-amber-500 shrink-0 uppercase tracking-widest flex items-center gap-1 bg-amber-500/10 border border-amber-500/20 px-2 py-0.5 rounded group relative">
+            📈 {isRTL?'بازار':'Market'}
+            <span className="cursor-help text-slate-400">ⓘ</span>
+            <span className="hidden group-hover:block absolute bottom-full mb-2 right-0 w-56 bg-slate-800 border border-slate-600 rounded-lg p-2 text-[9px] font-normal normal-case text-slate-300 shadow-xl z-50">
+              {isRTL
+                ? 'این قیمت‌ها صرفاً جهت اطلاع کلی هستند و آخرین نرخ ثبت‌شده در بازار را نشان می‌دهند؛ نباید مبنای معامله یا خرید و فروش قرار گیرند.'
+                : 'These prices are for general information only and reflect the last recorded market rate; they should not be used as a basis for transactions.'}
+            </span>
+          </span>
+          <div className="flex-1 overflow-hidden" dir="ltr">
+            <div className="animate-marquee whitespace-nowrap flex gap-8">
+              {[...marketData,...marketData].map((item,idx)=>(
+                <div key={idx} onClick={()=>openPriceChart(item)} dir={isRTL?'rtl':'ltr'}
+                  className="flex items-center gap-2 text-xs shrink-0 font-extrabold cursor-pointer hover:opacity-75 transition-opacity">
+                  <span className="text-slate-400">{isRTL?item.name_fa:item.name_en}:</span>
+                  <span className="text-slate-200">{item.price} <span className="text-[9px] text-slate-500">{item.unit}</span></span>
+                  <span className={`text-[10px] px-1 rounded ${item.isUp?'bg-emerald-500/10 text-emerald-400':'bg-red-500/10 text-red-400'}`}>{item.change}</span>
+                  <span className="text-[9px] text-slate-600">📊</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* مودال نمودار قیمت */}
+      {chartModalOpen && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-sm" onClick={()=>setChartModalOpen(false)}>
+          <div className="bg-slate-900 border border-slate-700 rounded-2xl max-w-2xl w-full shadow-2xl overflow-hidden flex flex-col max-h-[85vh]" onClick={e=>e.stopPropagation()}>
+            <div className="p-4 bg-gradient-to-r from-slate-800 to-slate-900 border-b border-slate-700 flex justify-between items-center">
+              <h3 className="font-bold text-white text-sm">📊 {chartLabel}</h3>
+              <button onClick={()=>setChartModalOpen(false)} className="text-white hover:bg-white/10 p-1.5 rounded">✕</button>
+            </div>
+
+            <div className="p-3 border-b border-slate-800 flex gap-2">
+              {[
+                {id:'week', label_fa:'هفته', label_en:'Week'},
+                {id:'month', label_fa:'ماه', label_en:'Month'},
+                {id:'year', label_fa:'سال', label_en:'Year'},
+              ].map(r=>(
+                <button key={r.id} onClick={()=>{setChartRange(r.id); fetchChartHistory(chartKey, r.id);}}
+                  className={`px-4 py-1.5 text-xs font-bold rounded-lg transition-all ${chartRange===r.id?'bg-amber-500 text-slate-950':'bg-slate-800 text-slate-400 hover:text-slate-200'}`}>
+                  {isRTL?r.label_fa:r.label_en}
+                </button>
+              ))}
+            </div>
+
+            <div className="p-4 flex-1 overflow-y-auto custom-scrollbar">
+              {chartLoading ? (
+                <div className="text-center py-16 text-slate-400 text-xs">⏳ {isRTL?'در حال بارگذاری...':'Loading...'}</div>
+              ) : chartPoints.length === 0 ? (
+                <div className="text-center py-16 text-slate-500 text-xs">{isRTL?'داده‌ای موجود نیست':'No data available'}</div>
+              ) : (
+                <PriceLineChart points={chartPoints} unit={chartUnit} isRTL={isRTL}/>
+              )}
+            </div>
+
+            <div className="p-3 border-t border-slate-800 bg-slate-950/50">
+              <p className="text-[10px] text-slate-500 text-center">
+                {isRTL
+                  ? 'داده‌ها بر اساس آخرین نرخ ثبت‌شده روزانه بازار؛ صرفاً جهت اطلاع کلی، نه مرجع معامله.'
+                  : 'Based on last recorded daily market rate; for general information only, not a transaction reference.'}
+              </p>
+            </div>
+          </div>
+        </div>
+      )}
+
+    </div>
+  );
+}
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
+</script>
+</body>
+</html>
