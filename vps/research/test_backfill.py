@@ -16,4 +16,9 @@ class Tests(unittest.TestCase):
   self.assertFalse(m.relevant_map('https://x/fa-sitemap-newsarchive-1404-7-1'));self.assertTrue(m.relevant_map('https://x/fa-sitemap-newsarchive-1405-7-1'));self.assertFalse(m.relevant_map('https://x/sitemap/1404/07/17/sitemap.xml'));self.assertTrue(m.relevant_map('https://x/sitemap/1405/07/17/sitemap.xml'))
  def test_publisher_boundaries(self):
   self.assertFalse(m.allowed('http://127.0.0.1/secret','https://www.irna.ir'));self.assertFalse(m.allowed('https://www.irna.ir.evil.test','https://www.irna.ir'))
+ def test_explicit_json_timezone_overrides_naive_meta(self):
+  a=m.extract('<title>خبر</title><meta property="article:published_time"content="2026-10-27T20:22:40"><script type="application/ld+json">{"@type":"NewsArticle","datePublished":"2026-10-27T20:22:40+03:30"}</script>')
+  self.assertEqual(a['pubDate'],'2026-10-27T16:52:40+00:00')
+ def test_unavailable_robots_defers_without_network(self):
+  with self.assertRaisesRegex(ValueError,'temporarily unavailable'):m.fetch('https://not-initialized.example/news','https://not-initialized.example')
 if __name__=='__main__':unittest.main()

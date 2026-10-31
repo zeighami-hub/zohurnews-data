@@ -40,6 +40,7 @@ class SameHost(urllib.request.HTTPRedirectHandler):
 
 def fetch(url,base,robot=True,limit=12*1024*1024):
  if not allowed(url,base):raise ValueError('URL outside publisher host')
+ if robot and base not in robots:raise ValueError('Publisher robots temporarily unavailable; retry later')
  if robot and not robots[base].can_fetch(UA,url):raise ValueError('Disallowed by publisher robots.txt')
  with locks[base]:
   delay=max(1.0,float(robots[base].crawl_delay(UA)or robots[base].crawl_delay('*')or 0))if robot else 1.0
@@ -159,10 +160,16 @@ def extract(text,url=None):
      if isinstance(identity,dict):identity=identity.get('@id')or identity.get('url')
      if url and isinstance(identity,str) and identity.startswith('http') and canonical(identity.split('#')[0])!=canonical(url):continue
      if not title and node.get('headline'):title=node['headline']
-     description=description or node.get('description')or'';published=published or node.get('datePublished')or''
+     description=description or node.get('description')or''
+     candidate=node.get('datePublished')or''
+     def aware(value):
+      try:return dt.datetime.fromisoformat(value.replace('Z','+00:00')).tzinfo is not None
+      except (ValueError,AttributeError):return False
+     if not aware(published)and aware(candidate):published=candidate
+     else:published=published or candidate
      if published:break
   except (ValueError,TypeError):pass
- if not title or not isinstance(published,str):raise ValueError('Missing title/publication metadata')
+ if not title or not isinstance(published,str)or not published:raise ValueError('Missing title/publication metadata')
  d=dt.datetime.fromisoformat(published.replace('Z','+00:00'))
  if d.tzinfo is None:raise ValueError('Publication timezone missing; not guessed')
  if not(dt.datetime.fromisoformat(FROM)<=d<dt.datetime.fromisoformat(TO)):return None
@@ -191,7 +198,7 @@ def main():
  c.execute("UPDATE queue SET status='pending' WHERE status='awaiting-import'");c.commit()
  with sqlite3.connect('file:'+str(ROOT/'data/research.sqlite')+'?mode=ro',uri=True)as live:known={canonical(r[0])for r in live.execute('select url from r_articles')}
  selected=set(os.environ.get('ZOHUR_RECOVERY_SOURCES',','.join(SOURCES)).split(','))
- c.execute("UPDATE queue SET status='pending' WHERE attempts<3 AND (status LIKE 'failed:%timed out%' OR status LIKE 'failed:%HTTP Error 5%')");c.commit()
+ c.execute("UPDATE queue SET status='pending' WHERE attempts<3 AND (status LIKE 'failed:%timed out%' OR status LIKE 'failed:%HTTP Error 5%' OR status='failed:Publisher robots temporarily unavailable; retry later')");c.commit()
  todo=[s for s in SOURCES if s in selected and not c.execute('select 1 from sources where id=?',(s,)).fetchone()][:4]  # bound discovery memory; later batches cover remaining publishers
  with concurrent.futures.ThreadPoolExecutor(max_workers=4)as pool:
   for source,urls,status in pool.map(discover,todo):
@@ -201,7 +208,10 @@ def main():
   if base not in robots:
    try:init_robots(base)
    except Exception:pass
- rows=c.execute("SELECT source,url,origin FROM (SELECT *,row_number()over(partition by source order by url)rn FROM queue WHERE status='pending') WHERE rn<=50 ORDER BY rn,source").fetchall();items=[]
+ # Missing robots is transient: do not burn through a whole source's queue.
+ ready_sources=[s for s in SOURCES if SOURCES[s][0]in robots]
+ placeholders=','.join('?'for _ in ready_sources)or"''"
+ rows=c.execute("SELECT source,url,origin FROM (SELECT *,row_number()over(partition by source order by CASE WHEN url LIKE '%/tag/%'OR url LIKE '%/topic/%'OR url LIKE '%/author/%'THEN 1 ELSE 0 END,url)rn FROM queue WHERE status='pending'AND source IN("+placeholders+"))WHERE rn<=100 ORDER BY rn,source",ready_sources).fetchall();items=[]
  def status():return {'at':dt.datetime.now(dt.timezone.utc).isoformat(),'period':{'from':FROM,'to':TO},'counts':dict(c.execute('select status,count(*)from queue group by status')),'sources':{s:json.loads(p)for s,p in c.execute('select id,payload from sources')},'discovery_remaining':len(SOURCES)-c.execute('select count(*)from sources').fetchone()[0],'state':'in-progress'if (c.execute("select count(*)from queue where status='pending'").fetchone()[0] or c.execute('select count(*)from sources').fetchone()[0]<len(SOURCES))else'discovered-queue-processed-with-gaps','completeness':'not-guaranteed; discovered publisher archive only'}
  with concurrent.futures.ThreadPoolExecutor(max_workers=4)as pool:
   for url,state,item in pool.map(recover,rows):
