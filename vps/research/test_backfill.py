@@ -21,4 +21,16 @@ class Tests(unittest.TestCase):
   self.assertEqual(a['pubDate'],'2026-10-27T16:52:40+00:00')
  def test_unavailable_robots_defers_without_network(self):
   with self.assertRaisesRegex(ValueError,'temporarily unavailable'):m.fetch('https://not-initialized.example/news','https://not-initialized.example')
+ def test_collections_are_not_news_articles(self):
+  self.assertTrue(m.is_collection('https://www.independent.co.uk/topic/iran'))
+  self.assertTrue(m.is_collection('https://www.france24.com/en/tag/iran/'))
+  self.assertTrue(m.is_collection('https://www.independent.co.uk/author/someone'))
+  self.assertFalse(m.is_collection('https://www.independent.co.uk/news/author-wins-b123.html'))
+ def test_challenge_page_is_not_missing_metadata(self):
+  old=m.fetch
+  try:
+   m.fetch=lambda *a,**kw:'<html>Transferring to the website...</html>'
+   result=m.recover(('irna','https://www.irna.ir/news/1','sitemap'))
+   self.assertEqual(result[1],'blocked:publisher-challenge');self.assertIsNone(result[2])
+  finally:m.fetch=old
 if __name__=='__main__':unittest.main()

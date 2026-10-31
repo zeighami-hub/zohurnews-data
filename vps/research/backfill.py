@@ -176,10 +176,16 @@ def extract(text,url=None):
  clean=lambda s:html.unescape(re.sub('<[^>]+>',' ',str(s))).strip()
  return {'title':clean(title),'description':clean(description),'pubDate':d.astimezone(dt.timezone.utc).isoformat()}
 
+def is_collection(url):
+ return bool(re.match(r'^/(?:en/)?(?:topic|topics|tag|tags|author|authors)(?:/|$)',urllib.parse.urlsplit(url).path))
+
 def recover(row):
  source,url,origin=row;base,_,lang=SOURCES[source]
  try:
-  item=extract(fetch(url,base,limit=3*1024*1024),url)
+  if is_collection(url):return url,'non-article-collection',None
+  text=fetch(url,base,limit=3*1024*1024)
+  if len(text)<20000 and 'Transferring to the website...'in text:return url,'blocked:publisher-challenge',None
+  item=extract(text,url)
   if item is None:return url,'outside-period',None
   item.update(agencyId=source,sourceUrl=url,lang=lang,provenance='publisher-archive-recovery',content_scope='publisher_metadata_excerpt',recovery={'recovered_at':dt.datetime.now(dt.timezone.utc).isoformat(),'discovered_from':origin,'publication_basis':'publisher metadata, not sitemap lastmod'})
   return url,'recovered',item
@@ -209,12 +215,23 @@ def main():
    try:init_robots(base)
    except Exception:pass
  # Missing robots is transient: do not burn through a whole source's queue.
- ready_sources=[s for s in SOURCES if SOURCES[s][0]in robots]
+ def not_deferred(source):
+  row=c.execute('select payload from sources where id=?',(source,)).fetchone()
+  until=json.loads(row[0]).get('page_retry_after')if row else None
+  return not until or until<dt.datetime.now(dt.timezone.utc).isoformat()
+ ready_sources=[s for s in SOURCES if SOURCES[s][0]in robots and not_deferred(s)]
  placeholders=','.join('?'for _ in ready_sources)or"''"
  rows=c.execute("SELECT source,url,origin FROM (SELECT *,row_number()over(partition by source order by CASE WHEN url LIKE '%/tag/%'OR url LIKE '%/topic/%'OR url LIKE '%/author/%'THEN 1 ELSE 0 END,url)rn FROM queue WHERE status='pending'AND source IN("+placeholders+"))WHERE rn<=100 ORDER BY rn,source",ready_sources).fetchall();items=[]
  def status():return {'at':dt.datetime.now(dt.timezone.utc).isoformat(),'period':{'from':FROM,'to':TO},'counts':dict(c.execute('select status,count(*)from queue group by status')),'sources':{s:json.loads(p)for s,p in c.execute('select id,payload from sources')},'discovery_remaining':len(SOURCES)-c.execute('select count(*)from sources').fetchone()[0],'state':'in-progress'if (c.execute("select count(*)from queue where status='pending'").fetchone()[0] or c.execute('select count(*)from sources').fetchone()[0]<len(SOURCES))else'discovered-queue-processed-with-gaps','completeness':'not-guaranteed; discovered publisher archive only'}
  with concurrent.futures.ThreadPoolExecutor(max_workers=4)as pool:
   for url,state,item in pool.map(recover,rows):
+   if state=='blocked:publisher-challenge':
+    source=next((s for s,(base,_,_)in SOURCES.items()if allowed(url,base)),None)
+    if source:
+     record=c.execute('select payload from sources where id=?',(source,)).fetchone()
+     policy=json.loads(record[0])if record else{}
+     policy.update(page_access='publisher-challenge; no bypass attempted',page_retry_after=(dt.datetime.now(dt.timezone.utc)+dt.timedelta(hours=24)).isoformat())
+     c.execute('insert or replace into sources values(?,?)',(source,json.dumps(policy)))
    if item:items.append(item)
    # Recoveries are acknowledged only AFTER successful idempotent import.
    if item:c.execute('update queue set status="awaiting-import",attempts=attempts+1 where url=?',(url,))
