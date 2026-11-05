@@ -5,7 +5,7 @@ const { useState, useEffect, useMemo, useRef } = React;
 // =========================================================
 // تنظیمات: آدرس فایل JSON روی سرور ایران
 // =========================================================
-const NEWS_CACHE_URL = '/api/news-proxy.php';
+const NEWS_CACHE_URL = '/api/live-feed';
 const ARCHIVE_SEARCH_URL = '/api/archive-search.php';
 const AUTO_REFRESH_INTERVAL = 5 * 60 * 1000; // هر ۵ دقیقه
 
@@ -205,7 +205,7 @@ function transformCacheToNewsData(cacheData) {
     result[agencyId].push({
       id: article.id || `${agencyId}-${Date.now()}`,
       title: article.title_fa || article.title || '',
-      title_en: article.title || '',
+      title_en: article.title || article.title_fa || '',
       lead: article.lead || '',
       sourceUrl: article.sourceUrl || '#',
       time: article.time || '',
@@ -331,6 +331,14 @@ function JalaliDateInput({ value, onChange, placeholder, className }) {
 function App() {
   const [lang, setLang] = useState('fa');
   const [newsData, setNewsData] = useState({});
+  const [sourcePages,setSourcePages]=useState({});
+  const [feedGeneration,setFeedGeneration]=useState(0);
+  const feedSession=useRef(null);
+  const bootstrapController=useRef(null);
+  const latestFeedFilters=useRef({});
+  const [toolkitLiveArticles,setToolkitLiveArticles]=useState([]);
+  const [toolkitLiveReady,setToolkitLiveReady]=useState(false);
+  const [toolkitLiveLoading,setToolkitLiveLoading]=useState(false);
   const [agencies, setAgencies] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   const [lastUpdated, setLastUpdated] = useState('');
@@ -440,30 +448,47 @@ function App() {
   const isRTL = lang === 'fa' || lang === 'ar';
 
   // ---- fetch از news_cache.json ----
+  latestFeedFilters.current={q:filterQuery,category:selectedCategory,region:selectedRegion,trend:selectedTrend||''};
   const fetchNewsCache = async () => {
-    setIsLoading(true);
-    setErrorMsg('');
+    bootstrapController.current?.abort();feedSession.current?.controller.abort();
+    const controller=new AbortController();bootstrapController.current=controller;
+    setIsLoading(true);setErrorMsg('');
     try {
-      const res = await fetch(NEWS_CACHE_URL + '?t=' + Date.now());
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-      const data = await res.json();
-      if (data && Array.isArray(data.articles)) {
-        if (data.translation_pending > 0) setErrorMsg('خبرهای خارجیِ منتظر ترجمه پس از آماده‌شدن در این صفحه منتشر می‌شوند.');
-        const transformed = transformCacheToNewsData(data);
-        setNewsData(transformed);
-        // ترتیب ستون‌ها
-        const ids = Object.keys(transformed);
-        setAgencyOrder(ids);
-        // ذخیره آژانس‌ها از JSON یا از meta
-        if (data.agencies) setAgencies(data.agencies);
-        setLastUpdated(data.generated_at ? new Date(data.generated_at).toLocaleString(lang === 'fa' ? 'fa-IR' : 'en-US',{timeZone:'Asia/Tehran'}) : '—');
-      }
-    } catch(e) {
-      setErrorMsg(t.errorCache);
-    } finally {
-      setIsLoading(false);
+      const res=await fetch(NEWS_CACHE_URL+'?'+new URLSearchParams(latestFeedFilters.current),{signal:controller.signal});
+      if(!res.ok)throw new Error('Feed unavailable');const data=await res.json();if(controller.signal.aborted)return;
+      const pages=Object.fromEntries(data.sources.map(s=>[s.id,{...s,loading:false,error:false}]));
+      feedSession.current={controller:new AbortController(),filters:{...latestFeedFilters.current},as_of:data.as_of,pages,queue:[],queued:new Set(),auto:new Set(),running:0};
+      const transformed=transformCacheToNewsData(data);setNewsData(Object.fromEntries(data.sources.map(s=>[s.id,transformed[s.id]||[]])));
+      setSourcePages(pages);setAgencyOrder(prev=>[...prev.filter(id=>pages[id]),...data.sources.map(s=>s.id).filter(id=>!prev.includes(id))]);
+      setAgencies(data.agencies);setFeedGeneration(n=>n+1);
+      setLastUpdated(data.generated_at?new Date(data.generated_at).toLocaleString(lang==='fa'?'fa-IR':'en-US',{timeZone:'Asia/Tehran'}):'—');
+      if(data.translation_pending>0)setErrorMsg('خبرهای خارجیِ منتظر ترجمه پس از آماده‌شدن در این صفحه منتشر می‌شوند.');
+    }catch(e){if(!controller.signal.aborted)setErrorMsg(t.errorCache);}
+    finally{if(!controller.signal.aborted)setIsLoading(false);}
+  };
+  const drainSourceQueue = session => {
+    const maximum=navigator.connection?.effectiveType==='3g'?1:2;
+    while(session.running<maximum&&session.queue.length){
+      const id=session.queue.shift(),page=session.pages[id];session.queued.delete(id);
+      if(!page?.next_cursor||page.loading||feedSession.current!==session)continue;
+      page.loading=true;session.running++;setSourcePages(prev=>({...prev,[id]:{...page,error:false}}));
+      const query=new URLSearchParams({...session.filters,source:id,cursor:page.next_cursor,as_of:session.as_of,limit:20});
+      fetch(NEWS_CACHE_URL+'?'+query,{signal:session.controller.signal}).then(async res=>{if(!res.ok)throw new Error('Page unavailable');return res.json();}).then(data=>{
+        if(feedSession.current!==session)return;const added=transformCacheToNewsData(data)[id]||[];
+        setNewsData(prev=>{const seen=new Set((prev[id]||[]).map(a=>a.id));return {...prev,[id]:[...(prev[id]||[]),...added.filter(a=>!seen.has(a.id))]};});
+        Object.assign(page,data.sources[0],{error:false});
+      }).catch(()=>{if(feedSession.current===session)page.error=true;}).finally(()=>{page.loading=false;session.running--;if(feedSession.current===session){setSourcePages(prev=>({...prev,[id]:{...page}}));drainSourceQueue(session);}});
     }
   };
+  const loadSourcePage=id=>{const session=feedSession.current;if(!session||session.queued.has(id)||session.pages[id]?.loading)return;session.queue.push(id);session.queued.add(id);drainSourceQueue(session);};
+  useEffect(()=>{const timer=setTimeout(fetchNewsCache,300);return()=>clearTimeout(timer);},[filterQuery,selectedCategory,selectedRegion,selectedTrend]);
+  useEffect(()=>{
+    if(!('IntersectionObserver'in window)||navigator.connection?.saveData||['slow-2g','2g'].includes(navigator.connection?.effectiveType))return;
+    const session=feedSession.current;if(!session)return;
+    const observer=new IntersectionObserver(entries=>{for(const entry of entries)if(entry.isIntersecting){const id=entry.target.dataset.agency;if(!session.auto.has(id)){session.auto.add(id);loadSourcePage(id);}observer.unobserve(entry.target);}},{rootMargin:'0px'});
+    for(const id of agencyOrder){const node=document.getElementById('agency-card-'+id);if(node)observer.observe(node);}return()=>observer.disconnect();
+  },[feedGeneration,agencyOrder.join(','),disabledAgencies]);
+  const loadToolkitLive=async()=>{setToolkitLiveLoading(true);try{const r=await fetch('/api/news-proxy.php',{signal:AbortSignal.timeout(90000)});if(!r.ok)throw new Error();const d=await r.json();setToolkitLiveArticles(Object.entries(transformCacheToNewsData(d)).flatMap(([id,arts])=>arts.map(a=>({...a,agency:AGENCY_META[id]||{id,name_fa:id,name_en:id}}))));setToolkitLiveReady(true);}catch{setErrorMsg('دریافت مجموعهٔ تحلیل ممکن نشد؛ دوباره تلاش کنید.');}finally{setToolkitLiveLoading(false);}};
 
   // === توابع آرشیو ===
   const searchArchive = async (filters) => {
@@ -550,7 +575,7 @@ function App() {
     }
   };
 
-  useEffect(() => { fetchNewsCache(); fetchPrices(); }, []);
+  useEffect(() => { fetchPrices(); }, []);
   useEffect(() => {
     const iv = setInterval(fetchPrices, 5 * 60 * 1000); // هر ۵ دقیقه - هماهنگ با کش prices.php
     return () => clearInterval(iv);
@@ -638,8 +663,8 @@ function App() {
 
   // منبع داده میز ابزار: یا همان اخبار زنده ۲۴ ساعته، یا داده‌ای که از آرشیو بارگذاری شده
   const toolkitArticles = useMemo(() => {
-    return toolkitDataSource === 'archive' ? toolkitArchiveArticles : allArticles;
-  }, [toolkitDataSource, toolkitArchiveArticles, allArticles]);
+    return toolkitDataSource === 'archive' ? toolkitArchiveArticles : toolkitLiveArticles;
+  }, [toolkitDataSource, toolkitArchiveArticles, toolkitLiveArticles]);
 
   // === نرمال‌سازی متن فارسی: یکسان‌سازی حروف عربی/فارسی که از نظر بصری یکسان ولی از نظر یونیکد متفاوتند ===
   // مثلا "ي" عربی (U+064A) باید با "ی" فارسی (U+06CC) یکی در نظر گرفته شود تا جستجو درست کار کند
@@ -698,14 +723,7 @@ function App() {
     return grouped;
   }, [toolkitArticles]);
 
-  const getFilteredData = (agencyId) => {
-    let list = newsData[agencyId] || [];
-    if(selectedTrend) list=list.filter(i=>i.title.includes(selectedTrend)||i.lead.includes(selectedTrend));
-    if(selectedCategory!=='all') list=list.filter(i=>i.category===selectedCategory);
-    if(selectedRegion!=='all') list=list.filter(i=>i.region===selectedRegion);
-    if(filterQuery) list=list.filter(i=>i.title.toLowerCase().includes(filterQuery.toLowerCase())||i.lead.toLowerCase().includes(filterQuery.toLowerCase()));
-    return list;
-  };
+  const getFilteredData=agencyId=>newsData[agencyId]||[];
 
   const handleDragStart=(e,id)=>{setDraggedId(id);e.dataTransfer.effectAllowed='move';};
   const handleDragOver=(e,targetId)=>{
@@ -861,7 +879,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 space-y-2">
           {/* ترندها */}
           <div className="flex flex-wrap items-center gap-2">
-            <span className="text-xs font-black text-amber-500">📈 {t.hotTrends}</span>
+            <span className="text-xs font-black text-amber-500">📈 {isRTL?'کلیدواژه‌های خبرهای بارگذاری‌شده:': 'Loaded headline keywords:'}</span>
             {dynamicKeywords.length===0?<span className="text-xs text-slate-500">{t.noTrends}</span>:
               dynamicKeywords.map(k=>(
                 <button key={k} onClick={()=>setSelectedTrend(p=>p===k?null:k)}
@@ -943,15 +961,15 @@ function App() {
               const meta = AGENCY_META[agencyId] || {id:agencyId,name_fa:agencyId,name_en:agencyId,color:'from-slate-600 to-slate-800',textColor:'text-slate-400',badgeBg:'bg-slate-500/10 text-slate-400',logo:agencyId.slice(0,2).toUpperCase()};
               const filtered = getFilteredData(agencyId);
               return (
-                <div key={agencyId} id={`agency-card-${agencyId}`} draggable onDragStart={e=>handleDragStart(e,agencyId)} onDragOver={e=>handleDragOver(e,agencyId)} onDragEnd={handleDragEnd}
+                <div key={agencyId} id={`agency-card-${agencyId}`} data-agency={agencyId} draggable onDragStart={e=>handleDragStart(e,agencyId)} onDragOver={e=>handleDragOver(e,agencyId)} onDragEnd={handleDragEnd}
                   className={`bg-slate-900 border border-slate-800 rounded-xl flex flex-col overflow-hidden transition-all cursor-grab ${draggedId===agencyId?'opacity-50 scale-95':''}`}
-                  style={{height:'540px'}}>
+                  style={{height:'540px',contentVisibility:'auto',containIntrinsicSize:'540px'}}>
                   {/* هدر ستون */}
                   <div className={`p-3 bg-gradient-to-r ${meta.color} flex items-center gap-2 shrink-0`}>
                     <span className="w-7 h-7 flex items-center justify-center bg-slate-950/40 text-white font-black text-xs rounded">{meta.logo}</span>
                     <div>
                       <div className="font-bold text-white text-xs">{isRTL?meta.name_fa:meta.name_en}</div>
-                      <div className="text-[9px] text-white/60">{filtered.length} خبر</div>
+                      <div className="text-[9px] text-white/60">{filtered.length} / {sourcePages[agencyId]?.total||0} {isRTL?'خبر':'items'}</div>
                     </div>
                     <button onClick={(e)=>{e.stopPropagation();openAgencyArchive(agencyId, meta);}}
                       title={isRTL?'آرشیو این خبرگزاری':'Archive of this agency'}
@@ -988,6 +1006,7 @@ function App() {
                         </div>
                       ))
                     }
+                    {sourcePages[agencyId]?.next_cursor&&<button onClick={()=>loadSourcePage(agencyId)} disabled={sourcePages[agencyId]?.loading} className="w-full text-center text-xs text-amber-400 py-3">{sourcePages[agencyId]?.loading?(isRTL?'در حال دریافت…':'Loading…'):sourcePages[agencyId]?.error?(isRTL?'تلاش دوباره':'Retry'):(isRTL?'خبرهای بیشتر':'More news')}</button>}
                   </div>
                 </div>
               );
@@ -1013,6 +1032,7 @@ function App() {
               </button>
             </div>
 
+            {toolkitDataSource==='live'&&!toolkitLiveReady&&<div className="p-4 text-xs text-slate-400"><p>برای سرعت بیشتر، مجموعهٔ کامل تحلیل جداگانه دریافت می‌شود.</p><button onClick={loadToolkitLive} disabled={toolkitLiveLoading} className="text-amber-400 py-3">{toolkitLiveLoading?'در حال دریافت مجموعهٔ کامل…':'دریافت مجموعهٔ کامل برای تحلیل'}</button></div>}
             {/* انتخاب منبع داده تحلیل: زنده یا آرشیو با فیلتر خبرگزاری/تاریخ */}
             <div className="p-3 border-b border-slate-800 bg-slate-950/40 flex flex-wrap items-end gap-2">
               <div className="flex bg-slate-800 border border-slate-700 rounded-lg p-1">
@@ -1060,6 +1080,7 @@ function App() {
               )}
             </div>
 
+            {(toolkitDataSource==='archive'||toolkitLiveReady)&&<>
             {/* تب‌ها */}
             <div className="flex border-b border-slate-800 overflow-x-auto">
               {[
@@ -1186,6 +1207,7 @@ function App() {
                 </div>
               )}
             </div>
+            </>}
           </div>
         </section>
       )}
@@ -1459,5 +1481,6 @@ function App() {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
+
 
 

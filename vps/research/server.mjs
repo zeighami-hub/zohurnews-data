@@ -1,3 +1,4 @@
+import {createLiveFeed} from './live-feed.mjs';
 import {createWidgets,widgetPaths} from './widgets.mjs';
 const widgets=createWidgets();
 import {mediaComparison} from './media-comparison.mjs';
@@ -5,10 +6,12 @@ import {legacyLive,legacyArchive}from './legacy-adapter.mjs';
 import {trail} from './trail.mjs';import {homePage,articlePage} from './public-pages.mjs';
 import http from 'node:http';import fs from 'node:fs';import path from 'node:path';import {ResearchDB}from './database.cjs';import {normalize,tokens,related,techniques,topTerms,compare,csv}from './analytics.mjs';
 const dir=process.env.DATA_DIR||'/data';const web=path.resolve(process.env.WEB_DIR||new URL('./web/',import.meta.url).pathname);const db=new ResearchDB(path.join(dir,'research.sqlite'));
+const liveFeed=createLiveFeed(db.db);
 const json=(res,status,data)=>{res.writeHead(status,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'});res.end(JSON.stringify(data));};
 const server=http.createServer(async(req,res)=>{try{
  if(req.method!=='GET')return json(res,405,{error:'Read-only endpoint'});
  const u=new URL(req.url,'http://localhost');const p=Object.fromEntries(u.searchParams);if(p.q)p.q=normalize(p.q);
+ if(u.pathname==='/api/live-feed'){const data=liveFeed(p);return json(res,data.http_status||200,data);}
  if(u.pathname==='/api/news-proxy.php')return json(res,200,legacyLive(db));
  if(u.pathname==='/api/archive-search.php')return json(res,200,legacyArchive(db,p));
  if(widgetPaths.has(u.pathname)){const r=await widgets(u.pathname,p);return json(res,r.code,r.data);}
@@ -34,6 +37,7 @@ const server=http.createServer(async(req,res)=>{try{
 }catch(e){console.error(e.message);if(!res.headersSent)json(res,500,{error:'Research request failed'});else res.end();}});
 server.listen(Number(process.env.PORT||8080),'0.0.0.0',()=>console.log('Research server listening'));
 process.on('SIGTERM',()=>server.close(()=>{db.close();process.exit(0);}));
+
 
 
 

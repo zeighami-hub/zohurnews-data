@@ -1,0 +1,7 @@
+# Progressive homepage feed
+
+Version 3.6.0 keeps the original homepage layout. Initial /api/live-feed returns up to five compact article previews per known source, followed by cursor pages (20 items) when cards enter the viewport or users request more. At most two page requests run concurrently (one on reported 3G); automatic prefetch is disabled on Save-Data and 2G. Search, category and region predicates execute over the full published 24-hour window before paging. Untranslated foreign records remain excluded from publication, retained in research storage.
+
+The readonly live feed runs alongside independent widgets on port 18088, isolated from the heavy research server. Counts, source pages and capture metadata use bounded SQL queries; responses are cached in process for 15 seconds. No archival records are removed. Full legacy statistics load explicitly on request, retaining full text rather than treating previews as the research corpus. Loaded-headline keyword labels disclose their scope. Nginx compresses JSON, JS and CSS.
+
+Validation: 15 existing automated tests passed. Production-data checks verified per-source preview caps, disjoint cursor pages, full-window search and HTTP 400 on malformed cursors/unknown sources. Browser checks verified search and growth from 25 to 45 loaded articles. Baseline full feed was 2,980,571 bytes, local 2.71s; candidate preview was 83,217 bytes, local 0.086s, gzip approx23KB. These are server-side samples, not end-user connection guarantees.
