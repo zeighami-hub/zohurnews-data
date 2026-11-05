@@ -1,3 +1,5 @@
+import {createWidgets,widgetPaths} from './widgets.mjs';
+const widgets=createWidgets();
 import {mediaComparison} from './media-comparison.mjs';
 import {legacyLive,legacyArchive}from './legacy-adapter.mjs';
 import {trail} from './trail.mjs';import {homePage,articlePage} from './public-pages.mjs';
@@ -9,7 +11,8 @@ const server=http.createServer(async(req,res)=>{try{
  const u=new URL(req.url,'http://localhost');const p=Object.fromEntries(u.searchParams);if(p.q)p.q=normalize(p.q);
  if(u.pathname==='/api/news-proxy.php')return json(res,200,legacyLive(db));
  if(u.pathname==='/api/archive-search.php')return json(res,200,legacyArchive(db,p));
- if(['/api/weather-prayer.php','/api/today-event.php','/api/prices.php','/api/prices-history.php'].includes(u.pathname))return json(res,503,{status:'unavailable',message:'External widget not configured'});
+ if(widgetPaths.has(u.pathname)){const r=await widgets(u.pathname,p);return json(res,r.code,r.data);}
+ if(['/api/today-event.php'].includes(u.pathname))return json(res,503,{status:'unavailable',message:'External widget not configured'});
  if(u.pathname==='/api/category.php'){res.writeHead(302,{'Location':'/research.html'});return res.end();}
  if(u.pathname==='/api/coverage')return json(res,200,db.coverage());
  if(u.pathname==='/api/trail'){const a=db.article(p.id);if(!a)return json(res,404,{error:'Not found'});return json(res,200,trail(db,a));}
@@ -31,5 +34,6 @@ const server=http.createServer(async(req,res)=>{try{
 }catch(e){console.error(e.message);if(!res.headersSent)json(res,500,{error:'Research request failed'});else res.end();}});
 server.listen(Number(process.env.PORT||8080),'0.0.0.0',()=>console.log('Research server listening'));
 process.on('SIGTERM',()=>server.close(()=>{db.close();process.exit(0);}));
+
 
 

@@ -1,6 +1,6 @@
 services:
   research:
-    image: zohurnews-research:3.3.1
+    image: zohurnews-research:3.5.0
     container_name: zohurnews-research
     restart: unless-stopped
     ports:
@@ -17,3 +17,24 @@ services:
       - /tmp:rw,noexec,nosuid,size=32m
 
 
+
+  widgets:
+    image: zohurnews-research:3.5.0
+    container_name: zohurnews-widgets
+    command: ["node", "research/widgets-server.mjs"]
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:18088:8081"
+    environment:
+      PORT: "8081"
+      WIDGET_DATA_DIR: /cache
+    volumes:
+      - /opt/zohurnews/data/widgets:/cache
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    mem_limit: 192m
+    cpus: 0.35
+    pids_limit: 48
+    tmpfs:
+      - /tmp:rw,noexec,nosuid,size=16m

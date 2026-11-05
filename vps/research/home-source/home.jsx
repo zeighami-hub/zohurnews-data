@@ -342,6 +342,7 @@ function App() {
   const [tickerIndex, setTickerIndex] = useState(0);
   const [currentTime, setCurrentTime] = useState(new Date());
   const [activeCity, setActiveCity] = useState('Tehran');
+  const cityWeatherRequest=useRef(0);
   const [cityWeatherData, setCityWeatherData] = useState(null); // داده واقعی دما و اوقات شرعی از سرور
   const [todayEvent, setTodayEvent] = useState(null); // مناسبت رسمی امروز از جدول تعطیلات
   const [filterQuery, setFilterQuery] = useState('');
@@ -351,6 +352,7 @@ function App() {
   const [dynamicKeywords, setDynamicKeywords] = useState([]);
   const [isRefreshingAuto, setIsRefreshingAuto] = useState(true);
   const [marketData, setMarketData] = useState(MARKET_DATA_DEFAULT);
+  const [marketMeta,setMarketMeta]=useState({status:'loading',stale:false});
 
   // === حالت‌های مربوط به مودال نمودار قیمت ===
   const [chartModalOpen, setChartModalOpen] = useState(false);
@@ -365,9 +367,10 @@ function App() {
   // fetch قیمت‌های زنده
   const fetchPrices = async () => {
     try {
-      const res = await fetch(PRICES_URL + '?t=' + Date.now());
+      const res = await fetch(PRICES_URL,{signal:AbortSignal.timeout(15000)});
       const data = await res.json();
       if (data.status === 'ok' && data.prices && data.prices.length > 0) {
+        setMarketMeta({status:'ok',stale:!!data.stale,updated_at:data.updated_at});
         setMarketData(data.prices.map(p => ({
           key: p.key,
           name_fa: p.name_fa,
@@ -376,9 +379,10 @@ function App() {
           unit: p.unit,
           change: p.change_percent || p.change || '',
           isUp: p.is_up,
+          marketDate:p.market_date_jalali||p.market_date,stale:!!p.stale,outdated:!!p.outdated,
         })));
-      }
-    } catch(e) { console.error('prices fetch error:', e); }
+      }else setMarketMeta(previous=>({...previous,status:'error',stale:true}));
+    } catch(e) { setMarketMeta(previous=>({...previous,status:'error',stale:true})); }
   };
 
   // واکشی تاریخچه قیمت برای نمودار
@@ -568,11 +572,17 @@ function App() {
 
   // واکشی دما و اوقات شرعی واقعی برای شهر انتخاب‌شده
   const fetchCityWeather = async () => {
+    const ticket=++cityWeatherRequest.current;
+    setCityWeatherData(null);
     try {
-      const res = await fetch(WEATHER_PRAYER_URL + '?city=' + activeCity);
+      const res = await fetch(WEATHER_PRAYER_URL + '?city=' + encodeURIComponent(activeCity),{signal:AbortSignal.timeout(15000)});
       const data = await res.json();
-      if (data.status === 'ok') setCityWeatherData(data);
-    } catch(e) { console.error('weather fetch error:', e); }
+      if(ticket!==cityWeatherRequest.current)return;
+      if(data.status==='ok')setCityWeatherData(data);
+      else throw new Error('Weather unavailable');
+    } catch(e) {
+      if(ticket===cityWeatherRequest.current)setCityWeatherData({weather:{temp:'--',cond_fa:'در دسترس نیست',cond_en:'Unavailable'},prayer_times:{fajr:'--:--',dhuhr:'--:--',maghrib:'--:--'}});
+    }
   };
   useEffect(() => { fetchCityWeather(); }, [activeCity]);
   useEffect(() => {
@@ -772,9 +782,9 @@ function App() {
             <span className="text-slate-500">|</span>
             <span>{hijriDate || ('قمری محاسباتی: '+new Intl.DateTimeFormat('fa-IR-u-ca-islamic',{timeZone:'Asia/Tehran',dateStyle:'long'}).format(currentTime))}</span>
             <div className="bg-slate-950/60 rounded px-2 py-0.5 border border-slate-800 flex gap-2 text-[9px] items-center">
-              <span className="text-slate-500">{t.shariaTimes}</span>
+              <span className="text-slate-500" title="AlAdhan · Institute of Geophysics, University of Tehran">{isRTL?'اوقات محاسباتی:':'Calculated times:'}</span>
               <span className="text-amber-500 font-bold">{cityDisplayName}</span>
-              <span>🌡 {currentCityData.weather.temp} - {isRTL?currentCityData.weather.cond_fa:currentCityData.weather.cond_en}</span>
+              <a href="https://open-meteo.com/" target="_blank" rel="noopener noreferrer" title={('Open-Meteo · '+(currentCityData.weather.observed_at||''))+(currentCityData.weather.stale?' · دادهٔ قبلی':'')}>🌡 {currentCityData.weather.temp} - {isRTL?currentCityData.weather.cond_fa:currentCityData.weather.cond_en} <span className="text-slate-500">Open-Meteo{currentCityData.weather.stale?' *':''}</span></a>
               <span>{t.fajr}: {currentCityData.prayer_times.fajr}</span>
               <span>{t.dhuhr}: {currentCityData.prayer_times.dhuhr}</span>
               <span>{t.maghrib}: {currentCityData.prayer_times.maghrib}</span>
@@ -1376,22 +1386,22 @@ function App() {
       <div className="fixed bottom-0 left-0 right-0 bg-slate-900/95 backdrop-blur-md border-t border-slate-800 py-2 z-45 overflow-hidden shadow-[0_-10px_20px_rgba(0,0,0,0.5)]">
         <div className="max-w-7xl mx-auto px-4 flex items-center gap-4">
           <span className="text-[9px] font-black text-amber-500 shrink-0 uppercase tracking-widest flex items-center gap-1 bg-amber-500/10 border border-amber-500/20 px-2 py-0.5 rounded group relative">
-            📈 {isRTL?'بازار':'Market'}
+            📈 {marketMeta.status==='error'?(isRTL?'نرخ موقتاً ناموجود':'Rates unavailable'):(isRTL?'بازار TGJU':'TGJU Market')}{marketMeta.stale?' *':''}
             <span className="cursor-help text-slate-400">ⓘ</span>
             <span className="hidden group-hover:block absolute bottom-full mb-2 right-0 w-56 bg-slate-800 border border-slate-600 rounded-lg p-2 text-[9px] font-normal normal-case text-slate-300 shadow-xl z-50">
               {isRTL
-                ? 'این قیمت‌ها صرفاً جهت اطلاع کلی هستند و آخرین نرخ ثبت‌شده در بازار را نشان می‌دهند؛ نباید مبنای معامله یا خرید و فروش قرار گیرند.'
-                : 'These prices are for general information only and reflect the last recorded market rate; they should not be used as a basis for transactions.'}
+                ? 'منبع: TGJU؛ آخرین نرخ پایانی ثبت‌شده در منبع، با تاریخ درج‌شده روی هر نرخ. ستاره یعنی دادهٔ قبلی یا مشکل دریافت. واحد ریال و تومان برای هر مورد جداگانه مشخص است.'
+                : 'Source: TGJU. Last reported daily close; each rate shows its source date. An asterisk marks cached data or a fetch problem. Units are stated per instrument.'}
             </span>
           </span>
           <div className="flex-1 overflow-hidden" dir="ltr">
             <div className="animate-marquee whitespace-nowrap flex gap-8">
               {[...marketData,...marketData].map((item,idx)=>(
-                <div key={idx} onClick={()=>openPriceChart(item)} dir={isRTL?'rtl':'ltr'}
+                <div key={idx} title={'TGJU · '+(item.marketDate||'')+(item.stale?' · دادهٔ قبلی':'')} onClick={()=>openPriceChart(item)} dir={isRTL?'rtl':'ltr'}
                   className="flex items-center gap-2 text-xs shrink-0 font-extrabold cursor-pointer hover:opacity-75 transition-opacity">
                   <span className="text-slate-400">{isRTL?item.name_fa:item.name_en}:</span>
-                  <span className="text-slate-200">{item.price} <span className="text-[9px] text-slate-500">{item.unit}</span></span>
-                  <span className={`text-[10px] px-1 rounded ${item.isUp?'bg-emerald-500/10 text-emerald-400':'bg-red-500/10 text-red-400'}`}>{item.change}</span>
+                  <span className="text-slate-200">{item.price} <span className="text-[9px] text-slate-500">{item.unit}</span>{item.outdated&&<span className="text-[9px] text-amber-500"> · {isRTL?'دادهٔ قدیمی':'Old data'} {item.marketDate}</span>}</span>
+                  <span className={`text-[10px] px-1 rounded ${item.isUp==null?'text-slate-400':item.isUp?'bg-emerald-500/10 text-emerald-400':'bg-red-500/10 text-red-400'}`}>{item.change}</span>
                   <span className="text-[9px] text-slate-600">📊</span>
                 </div>
               ))}
@@ -1449,4 +1459,5 @@ function App() {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
+
 
