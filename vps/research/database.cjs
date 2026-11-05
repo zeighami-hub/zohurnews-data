@@ -1,4 +1,5 @@
 'use strict';
+const{editorial,canonicalCategory}=require('../worker/editorial.cjs');
 const {classify,norm}=require('../worker/classification.cjs');
 const {DatabaseSync}=require('node:sqlite');const fs=require('node:fs');const path=require('node:path');const crypto=require('node:crypto');
 function canonicalUrl(raw) {try {const u=new URL(raw);if(!['http:','https:'].includes(u.protocol))return null;u.hash='';for(const k of [...u.searchParams.keys()])if(/^utm_|^(fbclid|gclid)$/i.test(k))u.searchParams.delete(k);return u.href;}catch{return null;}}
@@ -10,7 +11,7 @@ function convert(a,recorded=null){
  const lang=a.lang||(['irna','fars','khabaronline','mashregh','isna','yjc','asriran'].includes(source)?'fa':'en');
  const title=typeof a.title==='string'?a.title:'';const desc=typeof a.description==='string'?a.description:'';
  const d={id,legacy_id:a.id||null,source_id:source,url,title_original:title,title_fa:a.title_fa||title,text_original:desc,lead:a.lead||'',lang,...classify({title,description:desc,source_categories:a.source_categories||[]}),category_previous:a.category_previous||a.category||'unknown',source_method:a.source_method||null,source_time_kind:a.source_time_kind||null,publisher_author:a.publisher_author||null,published_at:validDate(a.pubDate),first_seen_at:validDate(a.first_seen_at),analyzed_at:validDate(a.analyzed_at),recorded_at:validDate(recorded),content_scope:a.content_scope||'rss_excerpt',recovery:a.recovery||null,provenance:a.provenance||'legacy-import',model:a.analysis_model||null,model_suggestions:Array.isArray(a.research?.techniques)?a.research.techniques:[]};
- d.effective_at=d.published_at||d.first_seen_at||d.analyzed_at||d.recorded_at;d.date_basis=d.published_at?'source_published':d.first_seen_at?'first_observed':d.analyzed_at?'legacy_analysis':d.recorded_at?'archive_record':'unknown';d.translation_status=lang==='fa'?'not_required':a.title_fa?'available':'pending';return d;
+ d.editorial=editorial(d);d.category=canonicalCategory(d.category);d.effective_at=d.published_at||d.first_seen_at||d.analyzed_at||d.recorded_at;d.date_basis=d.published_at?'source_published':d.first_seen_at?'first_observed':d.analyzed_at?'legacy_analysis':d.recorded_at?'archive_record':'unknown';d.translation_status=lang==='fa'?'not_required':a.title_fa?'available':'pending';return d;
 }
 class ResearchDB {
  constructor(file){fs.mkdirSync(path.dirname(file),{recursive:true});this.db=new DatabaseSync(file);this.db.exec(`PRAGMA journal_mode=WAL; PRAGMA temp_store=MEMORY; PRAGMA busy_timeout=5000; PRAGMA synchronous=NORMAL;
@@ -34,12 +35,13 @@ class ResearchDB {
  for(const a of items){let d=convert(a,recorded);if(!d)continue;
  const old=prior.get(d.id);if(old){const prev=JSON.parse(old.payload);d.category_previous=prev.category_previous||prev.category||d.category_previous;if(!a.research?.techniques?.length&&prev.model_suggestions?.length)d.model_suggestions=prev.model_suggestions;if(!d.text_original)d.text_original=prev.text_original;if(!d.published_at&&prev.published_at){d.published_at=prev.published_at;d.effective_at=prev.published_at;d.date_basis='source_published';}if(prev.first_seen_at&&(!d.first_seen_at||prev.first_seen_at<d.first_seen_at))d.first_seen_at=prev.first_seen_at;if(d.date_basis==='first_observed')d.effective_at=d.first_seen_at;if(!a.title_fa&&prev.title_fa){d.title_fa=prev.title_fa;d.lead=prev.lead;d.translation_status=prev.translation_status;}if(!d.model)d.model=prev.model;if(!d.recovery)d.recovery=prev.recovery||null;if(!d.source_categories.length&&prev.source_categories?.length)Object.assign(d,classify({title:d.title_original,description:d.text_original,source_categories:prev.source_categories}));if(!d.source_method)d.source_method=prev.source_method||null;if(!d.source_time_kind)d.source_time_kind=prev.source_time_kind||null;if(!d.publisher_author)d.publisher_author=prev.publisher_author||null;}
  Object.assign(d,classify({title:d.title_original,description:d.text_original,source_categories:d.source_categories}));
+ d.editorial=editorial(d);d.category=canonicalCategory(d.category);
  const hash=crypto.createHash('sha256').update(JSON.stringify([d.title_original,d.title_fa,d.text_original,d.lead])).digest('hex');
  const payload=JSON.stringify(d);version.run(d.id,hash,payload,d.recorded_at||new Date().toISOString());
  if(old?.payload===payload)continue;
  insert.run(d.id,d.url,d.source_id,d.category,d.lang,d.effective_at,d.published_at,d.title_fa,normalize([d.title_original,d.title_fa,d.text_original,d.lead].join(' ')),payload);n++;
  }this.db.exec('COMMIT');return n;}catch(e){try{this.db.exec('ROLLBACK');}catch{}throw e;}}
- filters(p={}){const where=[],args=[];for(const [key,col]of [['source','source_id'],['category','category'],['lang','lang']])if(p[key]){where.push(col+'=?');args.push(String(p[key]).slice(0,100));}
+ filters(p={}){const where=[],args=[];if(p.editorial==='accepted'){where.push("COALESCE(json_extract(payload,'$.editorial.allowed'),1)=1");}for(const [key,col]of [['source','source_id'],['category','category'],['lang','lang']])if(p[key]){where.push(col+'=?');args.push(String(p[key]).slice(0,100));}
  if(p.exclude_source){where.push('source_id!=?');args.push(String(p.exclude_source));}
  const sources=String(p.sources||'').split(',').filter(Boolean).slice(0,30);if(sources.length){where.push('source_id IN ('+sources.map(()=>'?').join(',')+')');args.push(...sources);}
  if(p.translation==='ready'){where.push("(lang='fa' OR json_extract(payload,'$.translation_status')='available')");}
@@ -60,7 +62,7 @@ class ResearchDB {
  article(id){if(typeof id!=='string'||id.length>200)return null;const exact=this.db.prepare('SELECT payload FROM r_articles WHERE id=?').get(id);if(exact)return JSON.parse(exact.payload);const legacy=this.db.prepare("SELECT payload FROM r_articles WHERE json_extract(payload,'$.legacy_id')=? LIMIT 2").all(id);return legacy.length===1?JSON.parse(legacy[0].payload):null;}
  candidates(a,terms){const center=Date.parse(a.effective_at||'');const from=Number.isFinite(center)?new Date(center-72*3600000).toISOString():'2000';const to=Number.isFinite(center)?new Date(center+72*3600000).toISOString():'2100';
  const expression=terms.slice(0,12).map(t=>'"'+t.replaceAll('"','')+'"').join(' OR ');if(!expression)return [];
- return this.db.prepare('SELECT payload FROM r_articles WHERE effective_at>=? AND effective_at<=? AND id!=? AND id IN (SELECT id FROM r_fts WHERE r_fts MATCH ?) LIMIT 600').all(from,to,a.id,expression).map(x=>JSON.parse(x.payload));}
+ return this.db.prepare('SELECT a.payload FROM r_fts f JOIN r_articles a ON a.id=f.id WHERE r_fts MATCH ? AND a.effective_at>=? AND a.effective_at<=? AND a.id!=? ORDER BY bm25(r_fts) LIMIT 600').all(expression,from,to,a.id).map(x=>JSON.parse(x.payload));}
  historyCandidates(a,terms){
  const center=Date.parse(a.published_at||a.effective_at||'');if(!Number.isFinite(center))return [];
  const expression=terms.slice(0,12).map(t=>'"'+t.replaceAll('"','')+'"').join(' OR ');if(!expression)return [];

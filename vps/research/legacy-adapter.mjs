@@ -1,7 +1,7 @@
 export const agencyNames={irna:'ایرنا',isna:'ایسنا',khabaronline:'خبرآنلاین',mashregh:'مشرق',yjc:'باشگاه خبرنگاران',asriran:'عصر ایران',fars:'فارس',ap:'آسوشیتدپرس',tass:'تاس',guardian:'گاردین',bbc:'بی‌بی‌سی',reuters:'رویترز',aljazeera:'الجزیره',france24:'فرانس ۲۴',dw:'دویچه‌وله',nytimes:'نیویورک تایمز',skynews:'اسکای‌نیوز',independent:'ایندیپندنت',rt:'آرتی',economist:'اکونومیست',foreignpolicy:'فارن پالیسی'};
 export function legacyArticle(a){return {id:a.id,title:a.title_original,title_fa:a.title_fa,lead:a.lead||a.text_original||'',sourceUrl:a.url,agencyId:a.source_id,agency: {id:a.source_id,name_fa:agencyNames[a.source_id]||a.source_id,name_en:a.source_id},time:a.published_at?new Date(a.published_at).toLocaleString('fa-IR',{timeZone:'Asia/Tehran'}):'زمان انتشار نامشخص',pubDate:a.published_at,category:a.category,region:a.region,newsValues:{},sentiment:null,date:(a.effective_at||'').slice(0,10),content_scope:a.content_scope,text_original:a.text_original,lang:a.lang,tags:a.tags,classification:a.classification};}
 export function legacyLive(db){
- const window={exclude_source:'mehrnews',from:new Date(Date.now()-86400000).toISOString(),to:new Date().toISOString(),limit:5000};
+ const window={exclude_source:'mehrnews',editorial:'accepted',from:new Date(Date.now()-86400000).toISOString(),to:new Date().toISOString(),limit:5000};
  const r=db.query({...window,translation:'ready'});
  const f=db.filters(window);
  const pending=db.db.prepare("SELECT COUNT(*) n FROM r_articles"+f.sql+" AND lang!='fa' AND COALESCE(json_extract(payload,'$.translation_status'),'pending')!='available'").get(...f.args).n;

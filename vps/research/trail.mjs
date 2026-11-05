@@ -1,10 +1,11 @@
 import {tokens,related,earliest,techniques,compare} from './analytics.mjs';
 export function trail(db,base){
- const terms=[...new Set(tokens(base.title_fa||base.title_original))];
+ const terms=[...new Set(tokens((base.title_fa||'')+' '+(base.title_original||'')))];
  const nearby=related(base,db.candidates(base,terms),60);
  const same=nearby.filter(a=>a.source_id!==base.source_id);
  const history=related(base,db.historyCandidates(base,terms),40).filter(a=>a.similarity>=.32&&a.shared_terms.length>=3).sort((a,b)=>(a.published_at||'').localeCompare(b.published_at||''));
  const close=same.filter(a=>a.similarity>=.6&&a.shared_terms.length>=3);
+ same.sort((a,b)=>(a.published_at||a.effective_at||'').localeCompare(b.published_at||b.effective_at||''));
  const first=earliest([base,...close]);
  return {base,coverage:same.map(a=>({...a,match_type:a.similarity>=.6&&a.shared_terms.length>=3?'close_headline':'topic_candidate',comparison:compare(base,a),techniques:techniques(a)})),history,
  earliest_candidate:first,techniques:techniques(base),

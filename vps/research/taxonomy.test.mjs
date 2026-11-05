@@ -12,7 +12,7 @@ test('Fars adapter only imports verified editorial-account news, preserving publ
 test('Full-corpus category/tag filtering and media totals agree; pages do not define statistics',()=>{
  const db=new ResearchDB(':memory:');try{const now=new Date().toISOString();db.import([{sourceUrl:'https://a.test/1',agencyId:'irna',title:'افزایش قیمت نفت',description:'بانک مرکزی گزارش داد',lang:'fa',pubDate:now},{sourceUrl:'https://b.test/2',agencyId:'fars',title:'پیروزی تیم فوتبال',lang:'fa',pubDate:now},{sourceUrl:'https://c.test/3',agencyId:'tass',title:'Parliament approves budget',description:'Trade and inflation increase',lang:'en',pubDate:now}],now,normalize);
  const r=db.query({limit:1});assert.equal(r.returned,1);assert.equal(r.total,3);assert.equal(r.summary.sources.reduce((n,s)=>n+s.count,0),3);
- const tagged=db.query({tag:'energy'});assert.equal(tagged.total,1);const sports=db.query({category:'sports'});assert.equal(sports.total,1);assert.equal(sports.articles[0].source_id,'fars');
+ const tagged=db.query({tag:'energy'});assert.equal(tagged.total,1);const sports=db.query({category:'society'});assert.equal(sports.total,1);assert.equal(sports.articles[0].source_id,'fars');
  const media=mediaComparison(db,{sources:'irna,fars,ap',tag:'energy'});assert.equal(media.total,tagged.total);assert.equal(media.sources.find(s=>s.id==='ap').count,0);assert.equal(media.sources.reduce((n,s)=>n+s.count,0),media.total);assert.equal(Math.round(media.sources.reduce((n,s)=>n+s.share_percent,0)),100);
  }finally{db.close();}
 });

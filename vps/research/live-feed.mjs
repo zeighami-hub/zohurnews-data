@@ -11,7 +11,7 @@ export function createLiveFeed(db,{now=Date.now,cacheMs=15000}={}){
   let cursor=null;if(p.cursor){try{cursor=JSON.parse(Buffer.from(String(p.cursor).slice(0,400),'base64url').toString());if(!Number.isFinite(Date.parse(cursor.time))||!/^\w{24}$/.test(cursor.id))throw Error();}catch{return{error:'Invalid cursor',http_status:400};}}
   const key=JSON.stringify([source,p.as_of||'',q,trend,category,region,limit,p.cursor||'']);const cached=cache.get(key);if(cached&&now()-cached.at<cacheMs)return cached.value;
   const as_of=new Date(at).toISOString(),from=new Date(at-86400000).toISOString();
-  const where=["effective_at>=? AND effective_at<=?","(lang='fa' OR json_extract(payload,'$.translation_status')='available')"],args=[from,as_of];
+  const where=["COALESCE(json_extract(payload,'$.editorial.allowed'),1)=1","effective_at>=? AND effective_at<=?","(lang='fa' OR json_extract(payload,'$.translation_status')='available')"],args=[from,as_of];
   if(category&&category!=='all'){where.push('category=?');args.push(category);}if(region&&region!=='all'){where.push("json_extract(payload,'$.region')=?");args.push(region);}
   for(const text of [q,trend])if(text){where.push('instr(search_text,?)>0');args.push(text);}
   const base=' WHERE '+where.join(' AND ');const ids=source?[source]:Object.keys(agencyNames);

@@ -6,6 +6,7 @@ const { Store } = require('./store.cjs');
 const {GeminiBudget}=require('./gemini-budget.cjs');
 const {selectForeign,prepareNative}=require('./selection.cjs');
 const { fetchAllRSS, analyzeWithGemini, RSS_SOURCES } = require('./news-core.cjs');
+const{editorial}=require('./editorial.cjs');
 const DATA = process.env.DATA_DIR || '/data';
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 function validateConfig() {
@@ -66,7 +67,7 @@ async function cycle(dependencies = {}) {
     const max = Number(process.env.MAX_PER_CYCLE || 100);
     const eligible = raw.articles.filter(a => {
       const t = Date.parse(a.pubDate || a.first_seen_at);
-      return /^https?:\/\//.test(a.sourceUrl) && Number.isFinite(t) && t >= now-86400000 && t <= now+300000 && !store.has(a) && !store.isRejected(a.sourceUrl,now);
+      return editorial(a).allowed && /^https?:\/\//.test(a.sourceUrl) && Number.isFinite(t) && t >= now-86400000 && t <= now+300000 && !store.has(a) && !store.isRejected(a.sourceUrl,now);
     });
     const native=eligible.filter(a=>a.lang==='fa').map(prepareNative);
     const toAnalyze=selectForeign(eligible.filter(a=>a.lang!=='fa'),Math.max(1,Math.min(500,max)));

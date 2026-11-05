@@ -1,3 +1,4 @@
+const{editorial}=require('./editorial.cjs');
 const {classify}=require('./classification.cjs');
 const {parseFars}=require('./fars-source.cjs');
 const {providerQuota}=require('./gemini-budget.cjs');
@@ -182,7 +183,7 @@ async function fetchOneRSSSource(source) {
 async function fetchAllRSS() {
   console.log('Fetching RSS from ' + RSS_SOURCES.length + ' sources...');
   const results = await Promise.all(RSS_SOURCES.map(fetchOneRSSSource));
-  const allArticles = results.flat();
+  const allArticles=results.flatMap((items,i)=>{const accepted=items.filter(a=>editorial(a).allowed),run=SOURCE_RUNS.get(RSS_SOURCES[i].id);if(run)Object.assign(run,{accepted:accepted.length,excluded_before_storage:items.length-accepted.length,policy:'editorial-1'});return accepted;});
   allArticles.sort((a, b) => {
     if (b.iranScore !== a.iranScore) return b.iranScore - a.iranScore;
     return new Date(b.pubDate) - new Date(a.pubDate);

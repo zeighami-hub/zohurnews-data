@@ -1,0 +1,13 @@
+# Editorial acceptance and matching v3.8
+
+Feed headers/excerpts and publisher category metadata must be read to decide acceptance. Filtering occurs in fetchAllRSS before raw persistence or import; rejected bodies are not newly archived, and per-source accepted/excluded counts are recorded. Ingestion also filters old raw backlog, and worker eligibility checks the policy again before a Gemini request. Publication queries honor editorial.allowed. Existing historical records are retained and annotated; the research UI defaults to accepted records.
+
+Routine sports are excluded. Exceptions require a world-level competition (Olympics/Paralympics, World Cup or world championships) plus participation, qualification or achievement evidence in original headline/excerpt. Culture exceptions currently cover major named international awards and significant UNESCO/world heritage events. These are reproducible conservative rules, not general human judgments of importance. Missing publisher tags and ambiguous excerpts remain limitations. Source categories are already preserved and weighted by the bilingual classifier.
+
+Primary sports/health/education/accidents labels consolidate under society; tech normalizes to technology. Detailed original tags remain available as provenance rather than proliferating homepage categories. No independent sports filter is offered.
+
+Matching queries use original and translated headline terms and rank FTS candidates by bm25 rather than selecting arbitrary rows. Similarity uses the greater of combined headline TF-IDF cosine and same-language original-headline cosine, so different translations do not hide an identical original. Generic attribution terms are excluded. Trail coverage is chronologically ordered; earliest declared publication is based only on close headline candidates and is not proof of origin. Topic history remains separate from event identity.
+
+Validation: 37 automated tests, including pre-translation rejection of old sports backlog, source category exceptions and differently translated identical source headlines. Production example: the IRNA France-strike headline matched the identical Mashregh repost (cosine 1) and related ISNA coverage (0.259). A live source sample excluded 111 stories before storage/translation. Those sample numbers are not fixed quotas or accuracy estimates.
+
+Before historical annotation, source/service and online SQLite backups were saved under /opt/zohurnews/backups/editorial-before-*. Migration needs writable temporary space (or PRAGMA temp_store=MEMORY) when run with a readonly container root. Never delete excluded historical records as part of this policy.
