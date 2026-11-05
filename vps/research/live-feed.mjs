@@ -19,8 +19,9 @@ export function createLiveFeed(db,{now=Date.now,cacheMs=15000}={}){
   const articles=[],sources=[];
   for(const id of ids){const ca=cursor?[cursor.time,cursor.time,cursor.id]:[];const rows=db.prepare('SELECT id,effective_at,payload FROM r_articles'+base+' AND source_id=?'+(cursor?' AND (effective_at<? OR (effective_at=? AND id<?))':'')+' ORDER BY effective_at DESC,id DESC LIMIT ?').all(...args,id,...ca,limit+1);const more=rows.length>limit;const page=rows.slice(0,limit),last=page.at(-1);for(const row of page)articles.push(fields(JSON.parse(row.payload)));sources.push({id,name_fa:agencyNames[id],name_en:id,total:counts.get(id)||0,next_cursor:more?Buffer.from(JSON.stringify({time:last.effective_at,id:last.id})).toString('base64url'):null});}
   const capture=db.prepare("SELECT value FROM r_meta WHERE key='last_capture'").get();let generated_at=null;try{generated_at=JSON.parse(capture?.value||'null')?.at||null;}catch{}
-  const pending=db.prepare("SELECT count(*) n FROM r_articles WHERE effective_at>=? AND effective_at<=? AND lang!='fa' AND COALESCE(json_extract(payload,'$.translation_status'),'pending')!='available'").get(from,as_of).n;
+  const pending=db.prepare("SELECT count(*) n FROM r_articles WHERE source_id IN ("+Object.keys(agencyNames).map(()=>'?').join(',')+") AND effective_at>=? AND effective_at<=? AND lang!='fa' AND COALESCE(json_extract(payload,'$.translation_status'),'pending')!='available'").get(...Object.keys(agencyNames),from,as_of).n;
   const value={articles,sources,agencies:sources,as_of,generated_at,total:sources.reduce((s,a)=>s+a.total,0),returned:articles.length,translation_pending:pending,partial:true,scope:'24h published corpus; previews and cursor pages; filters cover the full live window'};
   if(cache.size>=48)cache.delete(cache.keys().next().value);cache.set(key,{at:now(),value});return value;
  };
 }
+

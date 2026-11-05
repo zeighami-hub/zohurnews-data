@@ -29,6 +29,7 @@ export function compare(a,b) {
 }
 export function earliest(articles) { return articles.filter(a=>a.published_at).sort((a,b)=>Date.parse(a.published_at)-Date.parse(b.published_at))[0]||null; }
 export function csv(rows,columns) {
- const safe=v=>{let s=String(v??'');if(/^[\s]*[=+@-]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"';};
+ const safe=v=>{let s=typeof v==='object'&&v!==null?JSON.stringify(v):String(v??'');if(/^[\s]*[=+@-]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"';};
  return '\uFEFF'+[columns.map(safe).join(','),...rows.map(r=>columns.map(k=>safe(r[k])).join(','))].join('\r\n');
 }
+

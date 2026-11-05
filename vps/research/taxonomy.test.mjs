@@ -1,0 +1,18 @@
+import test from'node:test';import assert from'node:assert/strict';import{classify}from'../worker/classification.cjs';import{parseFars}from'../worker/fars-source.cjs';import{ResearchDB}from'./database.cjs';import{normalize}from'./analytics.mjs';import{mediaComparison}from'./media-comparison.mjs';
+test('Persian and English topics use evidence instead of default politics',()=>{
+ for(const [title,category]of [['پیروزی پرسپولیس در لیگ قهرمانان','sports'],['دیدار مدیرعامل خانه سینما با هنرمندان','culture'],['افزایش قیمت دلار در بازار ارز','economy'],['ساخت بیمارستان و تأمین واکسن','health'],['تعطیلی مدارس و آموزش معلمان','education'],['Earthquake damages houses','accidents'],['Oil refinery opens','energy'],['Parliament votes in election','politics'],['گزارش تازه از امروز','unknown']]){const r=classify({title});assert.equal(r.category,category,title);if(category!=='unknown')assert.ok(r.classification.evidence.some(e=>e.category===category));}
+ const r=classify({title:'وزیر از نمایشگاه دیدار کرد',source_categories:['ورزشی']});assert.equal(r.category,'sports');assert.equal(r.classification.evidence[0].publisher_labels[0],'ورزشی');
+ assert.equal(classify({title:'جنگ و اقتصاد'}).category,'unknown');assert.equal(classify({title:'Russia and Iran discuss trade'}).region,'multi_region');assert.equal(classify({title:'اعتصاب در فرانسه',description:'تهران ایرنا گزارش می دهد'}).region,'europe');
+});
+test('Fars adapter only imports verified editorial-account news, preserving publisher topics',()=>{
+ const base={postID:'1793878291869305882',userID:'1',title:'دیدار در مجلس ایران',displayingText:'دیدار در مجلس ایران',createdTime:1793880000,extraData:{topics:[{name:'سیاست'}]}};
+ const data={apiCache:{'/showcase/block/listV2':[{usersSummary:[{userID:'1',username:'Reporter',roles:[{ID:'1767014743758181120'}],verifiedBadge:{type:'professionalReporter',status:'verified'}},{userID:'2',username:'User',roles:[],verifiedBadge:{type:'famous',status:'verified'}}],showcaseContents:[base,{...base,postID:'1793878291869305883',userID:'2'},{...base,postID:'1793878291869305884',title:''}]}]}};
+ const html='window.__hydrationDataString = '+JSON.stringify(JSON.stringify(data));const rows=parseFars(html);assert.equal(rows.length,1);assert.equal(rows[0].description,'');assert.deepEqual(rows[0].source_categories,['سیاست']);assert.match(rows[0].sourceUrl,/\/Reporter\//);assert.throws(()=>parseFars('<html>missing</html>'));
+});
+test('Full-corpus category/tag filtering and media totals agree; pages do not define statistics',()=>{
+ const db=new ResearchDB(':memory:');try{const now=new Date().toISOString();db.import([{sourceUrl:'https://a.test/1',agencyId:'irna',title:'افزایش قیمت نفت',description:'بانک مرکزی گزارش داد',lang:'fa',pubDate:now},{sourceUrl:'https://b.test/2',agencyId:'fars',title:'پیروزی تیم فوتبال',lang:'fa',pubDate:now},{sourceUrl:'https://c.test/3',agencyId:'tass',title:'Parliament approves budget',description:'Trade and inflation increase',lang:'en',pubDate:now}],now,normalize);
+ const r=db.query({limit:1});assert.equal(r.returned,1);assert.equal(r.total,3);assert.equal(r.summary.sources.reduce((n,s)=>n+s.count,0),3);
+ const tagged=db.query({tag:'energy'});assert.equal(tagged.total,1);const sports=db.query({category:'sports'});assert.equal(sports.total,1);assert.equal(sports.articles[0].source_id,'fars');
+ const media=mediaComparison(db,{sources:'irna,fars,ap',tag:'energy'});assert.equal(media.total,tagged.total);assert.equal(media.sources.find(s=>s.id==='ap').count,0);assert.equal(media.sources.reduce((n,s)=>n+s.count,0),media.total);assert.equal(Math.round(media.sources.reduce((n,s)=>n+s.share_percent,0)),100);
+ }finally{db.close();}
+});

@@ -1,3 +1,5 @@
+const {classify}=require('./classification.cjs');
+const {parseFars}=require('./fars-source.cjs');
 const {providerQuota}=require('./gemini-budget.cjs');
 // RSS parsing, relevance scoring and Persian analysis adapted from zohurnews-data.
 // Storage and publication run on the VPS; this module has no Upstash dependency.
@@ -29,7 +31,9 @@ const RSS_SOURCES = [
   { id: "rt",            name_en: "RT",             name_fa: "آر‌تی",           url: "https://www.rt.com/rss/news/", lang:"en" },
   { id: "reuters",       name_en: "Reuters",        name_fa: "رویترز",         url: "https://news.google.com/rss/search?q=iran+site:reuters.com&hl=en&gl=US", lang:"en" },
   { id: "irna",          name_en: "IRNA",           name_fa: "ایرنا",          url: "https://www.irna.ir/rss", lang:"fa" },
-  { id: "mehrnews",      name_en: "Mehr News",      name_fa: "مهر",            url: "https://en.mehrnews.com/rss", lang:"en" },
+  { id:"fars",name_en:"Fars News",name_fa:"فارس",url:"https://farsnews.ir",lang:"fa",format:"fars-showcase" },
+  { id:"ap",name_en:"Associated Press",name_fa:"آسوشیتدپرس",url:"https://flipboard.com/@AssociatedPress.rss",lang:"en",allowedHosts:["apnews.com"],source_method:"publisher_flipboard_rss" },
+  { id:"tass",name_en:"TASS",name_fa:"تاس",url:"https://tass.com/rss/v2.xml",lang:"en",allowedHosts:["tass.com"],source_method:"publisher_rss" },
   { id: "khabaronline",  name_en: "Khabar Online",  name_fa: "خبرآنلاین",      url: "https://www.khabaronline.ir/rss", lang:"fa" },
   { id: "mashregh",      name_en: "Mashregh News",  name_fa: "مشرق",           url: "https://www.mashreghnews.ir/rss", lang:"fa" },
   { id: "isna",          name_en: "ISNA",           name_fa: "ایسنا",          url: "https://www.isna.ir/rss", lang:"fa" },
@@ -51,29 +55,8 @@ const IRAN_KEYWORDS = [
   'bandar abbas', 'zahedan', 'khuzestan',
 ];
 
-const IRANIAN_DOMESTIC_AGENCIES = new Set(['irna', 'mehrnews', 'khabaronline', 'mashregh', 'isna', 'yjc', 'asriran']);
+const IRANIAN_DOMESTIC_AGENCIES = new Set(['irna', 'fars', 'khabaronline', 'mashregh', 'isna', 'yjc', 'asriran']);
 const DOMESTIC_AGENCY_SCORE_BOOST = 2;
-
-const REGION_KEYWORDS = [
-  { re: /israel|gaza|palestin|hamas|hezbollah|lebanon|syria|iraq|yemen|houthi/i, region: 'middleeast' },
-  { re: /russia|moscow|putin|ukraine|kyiv/i, region: 'eurasia' },
-  { re: /china|beijing|xinhua|taiwan/i, region: 'asia' },
-  { re: /europe|eu |brussels|nato|france|germany|britain|uk /i, region: 'europe' },
-  { re: /america|washington|biden|trump|usa|u\.s\./i, region: 'americas' },
-  { re: /iran|tehran|persian/i, region: 'iran' },
-];
-
-const CATEGORY_KEYWORDS = [
-  { re: /military|army|attack|strike|missile|war|troops|defense|weapon/i, category: 'military' },
-  { re: /econom|market|trade|inflation|gdp|bank|currency|oil price/i, category: 'economy' },
-  { re: /diplomat|summit|treaty|negotiat|talks|foreign minister|ambassador/i, category: 'diplomacy' },
-  { re: /technology|ai |artificial intelligence|tech |startup|chip|cyber/i, category: 'technology' },
-  { re: /climate|environment|pollution|emission|renewable/i, category: 'environment' },
-  { re: /culture|film|music|art |festival|heritage/i, category: 'culture' },
-  { re: /energy|gas |oil |petroleum|nuclear power|electricity/i, category: 'energy' },
-  { re: /پل|جاده|آسفالت|بهسازی|تعمیر|راه روستایی|آبرسانی|فاضلاب|پارک|بوستان|مدرسه‌سازی|زیرساخت|عمران|شهرداری محلی|road repair|bridge|infrastructure|municipal|sewage|local council/i, category: 'society' },
-  { re: /election|parliament|president|minister|government|policy|protest/i, category: 'politics' },
-];
 
 const LOW_IMPORTANCE_KEYWORDS = [
   /\bپل\b|\bجاده\b|آسفالت|بهسازی|تعمیر.*محور|راه روستایی|آبرسانی روستا|فاضلاب شهر|پارک محل|بوستان محل|افتتاح.*روستا|شهرستان.*آغاز شد/i,
@@ -115,16 +98,6 @@ function scoreIranRelevance(text, agencyId) {
   return score;
 }
 
-function detectCategory(text) {
-  for (const item of CATEGORY_KEYWORDS) if (item.re.test(text)) return item.category;
-  return 'politics';
-}
-
-function detectRegion(text) {
-  for (const item of REGION_KEYWORDS) if (item.re.test(text)) return item.region;
-  return 'global';
-}
-
 function isLowImportance(text) {
   const hasNationalSignal = NATIONAL_IMPORTANCE_KEYWORDS.some(re => re.test(text));
   if (hasNationalSignal) return false;
@@ -142,6 +115,7 @@ function stableArticleId(agencyId, sourceUrl, fallbackTitle) {
 async function fetchOneRSSSource(source) {
   try {
     const xml = await fetchUrl(source.url);
+    if(source.format==='fars-showcase'){const all=parseFars(xml),items=all.slice(0,Math.max(1,Math.min(500,Number(process.env.MAX_RSS_ITEMS||100))));SOURCE_RUNS.set(source.id,{id:source.id,ok:items.length>0,items_in_feed:all.length,items_read:items.length,checked_at:new Date().toISOString(),method:"publisher_public_showcase",scope:"Verified Fars editorial accounts with Fars header role; public showcase only"});return items.map(a=>({...a,id:stableArticleId(source.id,a.sourceUrl,a.title),agencyId:source.id,lang:"fa",first_seen_at:new Date().toISOString(),provenance:"publisher-public-showcase",iranScore:scoreIranRelevance(a.title+" "+a.description,source.id),...classify(a)}));}
     const cleanXml = xml
       .replace(/&(?!(amp|lt|gt|quot|apos|#\d+|#x[0-9a-fA-F]+);)/g, '&amp;')
       .replace(/[\x00-\x08\x0B\x0C\x0E-\x1F]/g, '');
@@ -167,6 +141,8 @@ async function fetchOneRSSSource(source) {
       title = String(title).replace(/<[^>]*>/g, '').trim();
       desc = String(desc).replace(/<[^>]*>/g, '').trim().slice(0, 400);
 
+      try{const u=new URL(link);if(!['https:','http:'].includes(u.protocol))return null;if(source.allowedHosts&&!source.allowedHosts.includes(u.hostname.replace(/^www\./,'')))return null;u.hash='';for(const k of [...u.searchParams.keys()])if(/^utm_|^(fbclid|gclid)$/i.test(k))u.searchParams.delete(k);link=u.href;}catch{return null;}
+      const rawCategories=Array.isArray(item.category)?item.category:item.category?[item.category]:[];const source_categories=rawCategories.map(c=>typeof c==='string'?c:c?._||c?.$.term||'').filter(Boolean);
       const fullText = title + ' ' + desc;
       const pubDate = item.pubDate || item.published || null;
 
@@ -181,12 +157,13 @@ async function fetchOneRSSSource(source) {
         pubDate: pubDate,
         lang: source.lang || 'en',
         iranScore: scoreIranRelevance(fullText, source.id),
-        category: detectCategory(fullText),
-        region: detectRegion(fullText),
+        ...classify({title,description:desc,source_categories}),
+        source_method:source.source_method||"publisher_rss",
+        source_time_kind:source.source_method==="publisher_flipboard_rss"?"publisher_syndicated_feed":"publisher_feed",
         lowImportance: isLowImportance(fullText),
       };
     }).filter(a => {
-      if (!a.title || a.title.length <= 3) return false;
+      if (!a||!a.title || a.title.length <= 3) return false;
       const dupKey = a.sourceUrl || a.title;
       if (seenInThisSource.has(dupKey)) return false;
       seenInThisSource.add(dupKey);
@@ -293,8 +270,9 @@ async function analyzeWithGemini(articles, options={}) {
         research: {techniques:(Array.isArray(item.research?.techniques)?item.research.techniques:[]).filter(t=>['framing','loaded_language','source_attribution','question_headline','numeric_headline'].includes(t.code) && typeof t.evidence==='string' && t.evidence.length>=3 && (original.title+' '+original.description).includes(t.evidence)).slice(0,8).map(t=>({code:t.code,evidence:t.evidence.slice(0,600),status:'unverified-model-suggestion'}))},
         title_fa: item.title_fa,
         lead: item.lead,
-        category: item.category || original.category,
-        region: item.region || original.region,
+        category: original.category,
+        region: original.region,
+        classification:original.classification,tags:original.tags,source_categories:original.source_categories,source_method:original.source_method,source_time_kind:original.source_time_kind,
         sourceUrl: original.sourceUrl,
         pubDate: original.pubDate,
         time: formatPersianTime(original.pubDate) || '',
@@ -310,6 +288,7 @@ async function analyzeWithGemini(articles, options={}) {
 }
 
 
-module.exports = { fetchAllRSS, analyzeWithGemini, RSS_SOURCES, stableArticleId, fetchUrl };
+module.exports = { fetchAllRSS, analyzeWithGemini, RSS_SOURCES, stableArticleId, fetchUrl, fetchOneRSSSource };
+
 
 

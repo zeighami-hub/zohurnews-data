@@ -23,7 +23,7 @@ const TRANSLATIONS = {
     leadSection:"بررسی لید و خلاصه:",closeBtn:"بستن ×",footerText:"داشبورد پژوهشی خبرنگاران و پژوهشگران رسانه",
     footerCopy:"ظهورنیوز - رصدخانه رسانه‌های جهان © ۱۴۰۵",category:"شاخه موضوعی",region:"منطقه",
     newsValueLabel:"تحلیل ارزش‌های خبر",toolkitTitle:"میز ابزار تحلیل محتوا و ژورنالیسم",
-    toolkitDesc:"تحلیل آماری محتوای فیدهای جاری بر اساس نظریه‌های قاب‌بندی و برجسته‌سازی.",
+    toolkitDesc:"شمارش و مقایسهٔ داده‌های ذخیره‌شده؛ موضوع‌ها برچسب قاعده‌مند و تأییدنشده‌اند.",
     tabFraming:"تحلیل قاب‌بندی",tabQuantitative:"تحلیل کمّی",tabPropaganda:"نشانه‌شناسی",
     tabWordFreq:"تحلیل فرکانس واژگان",lexicalDiversity:"شاخص تنوع کلمات",conceptShare:"سهم موضوعی فیدها",
     liveBadge:"لایو",economicTicker:"نرخ‌های زنده بازارهای مالی:",wordCountToolTitle:"شمارش کلمات کلیدی",
@@ -67,7 +67,11 @@ const THEMATIC_FILTERS = [
   {id:'society',name_fa:'اجتماعی',name_en:'Society'},
   {id:'technology',name_fa:'فناوری',name_en:'Technology'},
   {id:'energy',name_fa:'انرژی',name_en:'Energy'},
-  {id:'tech',name_fa:'فناوری',name_en:'Tech'},
+  {id:'sports',name_fa:'ورزش',name_en:'Sports'},
+  {id:'health',name_fa:'سلامت',name_en:'Health'},
+  {id:'education',name_fa:'آموزش',name_en:'Education'},
+  {id:'accidents',name_fa:'حوادث',name_en:'Accidents'},
+  {id:'unknown',name_fa:'تعیین‌نشده / چندموضوعی',name_en:'Unclassified / ambiguous'},
   {id:'environment',name_fa:'محیط زیست',name_en:'Environment'},
   {id:'culture',name_fa:'فرهنگ',name_en:'Culture'},
 ];
@@ -80,9 +84,11 @@ const REGIONAL_FILTERS = [
   {id:'europe',name_fa:'اروپا',name_en:'Europe'},
   {id:'americas',name_fa:'آمریکا',name_en:'Americas'},
   {id:'global',name_fa:'جهانی',name_en:'Global'},
-  {id:'middleeast',name_fa:'خاورمیانه',name_en:'Middle East'},
+  {id:'multi_region',name_fa:'چندمنطقه‌ای',name_en:'Multiple regions'},
+  {id:'unknown',name_fa:'منطقه تعیین‌نشده',name_en:'Unknown region'},
+  {id:'africa',name_fa:'آفریقا',name_en:'Africa'},
+  {id:'oceania',name_fa:'اقیانوسیه',name_en:'Oceania'},
   {id:'asia',name_fa:'آسیا',name_en:'Asia'},
-  {id:'russia',name_fa:'روسیه',name_en:'Russia'},
 ];
 
 // === توابع تبدیل تقویم شمسی <-> میلادی (الگوریتم ریاضی استاندارد، بدون کتابخانه خارجی) ===
@@ -145,6 +151,8 @@ function formatJalaliDisplay(gregorianDateStr) {
 const JALALI_MONTH_NAMES = ['فروردین','اردیبهشت','خرداد','تیر','مرداد','شهریور','مهر','آبان','آذر','دی','بهمن','اسفند'];
 
 const AGENCY_META = {
+  fars:{id:'fars',name_fa:'فارس',name_en:'Fars',color:'from-red-600 to-red-900',textColor:'text-red-400',logo:'FA',url:'https://farsnews.ir'},
+  tass:{id:'tass',name_fa:'تاس',name_en:'TASS',color:'from-blue-700 to-indigo-900',textColor:'text-blue-400',logo:'ТАСС',url:'https://tass.com'},
   reuters:  {id:'reuters', name_fa:'رویترز',     name_en:'Reuters',     color:'from-amber-600 to-orange-800', textColor:'text-orange-400', badgeBg:'bg-orange-500/10 text-orange-400', logo:'R',   url:'https://reuters.com'},
   ap:       {id:'ap',      name_fa:'آسوشیتدپرس', name_en:'AP',          color:'from-blue-600 to-indigo-800',  textColor:'text-blue-400',   badgeBg:'bg-blue-500/10 text-blue-400',   logo:'AP',  url:'https://apnews.com'},
   irna:     {id:'irna',    name_fa:'ایرنا',       name_en:'IRNA',        color:'from-emerald-600 to-teal-800', textColor:'text-emerald-400',badgeBg:'bg-emerald-500/10 text-emerald-400',logo:'IR',url:'https://irna.ir'},
@@ -209,7 +217,8 @@ function transformCacheToNewsData(cacheData) {
       lead: article.lead || '',
       sourceUrl: article.sourceUrl || '#',
       time: article.time || '',
-      category: article.category || 'politics',
+      category: article.category || 'unknown',
+      title_original:article.title||'',text_original:article.text_original||'',lang:article.lang||'',classification:article.classification,tags:article.tags||[],
       region: article.region || 'global',
       newsValues: article.newsValues || {},
       sentiment: null,
@@ -356,8 +365,6 @@ function App() {
   const [filterQuery, setFilterQuery] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [selectedRegion, setSelectedRegion] = useState('all');
-  const [selectedTrend, setSelectedTrend] = useState(null);
-  const [dynamicKeywords, setDynamicKeywords] = useState([]);
   const [isRefreshingAuto, setIsRefreshingAuto] = useState(true);
   const [marketData, setMarketData] = useState(MARKET_DATA_DEFAULT);
   const [marketMeta,setMarketMeta]=useState({status:'loading',stale:false});
@@ -448,7 +455,7 @@ function App() {
   const isRTL = lang === 'fa' || lang === 'ar';
 
   // ---- fetch از news_cache.json ----
-  latestFeedFilters.current={q:filterQuery,category:selectedCategory,region:selectedRegion,trend:selectedTrend||''};
+  latestFeedFilters.current={q:filterQuery,category:selectedCategory,region:selectedRegion,};
   const fetchNewsCache = async () => {
     bootstrapController.current?.abort();feedSession.current?.controller.abort();
     const controller=new AbortController();bootstrapController.current=controller;
@@ -481,14 +488,14 @@ function App() {
     }
   };
   const loadSourcePage=id=>{const session=feedSession.current;if(!session||session.queued.has(id)||session.pages[id]?.loading)return;session.queue.push(id);session.queued.add(id);drainSourceQueue(session);};
-  useEffect(()=>{const timer=setTimeout(fetchNewsCache,300);return()=>clearTimeout(timer);},[filterQuery,selectedCategory,selectedRegion,selectedTrend]);
+  useEffect(()=>{const timer=setTimeout(fetchNewsCache,300);return()=>clearTimeout(timer);},[filterQuery,selectedCategory,selectedRegion]);
   useEffect(()=>{
     if(!('IntersectionObserver'in window)||navigator.connection?.saveData||['slow-2g','2g'].includes(navigator.connection?.effectiveType))return;
     const session=feedSession.current;if(!session)return;
     const observer=new IntersectionObserver(entries=>{for(const entry of entries)if(entry.isIntersecting){const id=entry.target.dataset.agency;if(!session.auto.has(id)){session.auto.add(id);loadSourcePage(id);}observer.unobserve(entry.target);}},{rootMargin:'0px'});
     for(const id of agencyOrder){const node=document.getElementById('agency-card-'+id);if(node)observer.observe(node);}return()=>observer.disconnect();
   },[feedGeneration,agencyOrder.join(','),disabledAgencies]);
-  const loadToolkitLive=async()=>{setToolkitLiveLoading(true);try{const r=await fetch('/api/news-proxy.php',{signal:AbortSignal.timeout(90000)});if(!r.ok)throw new Error();const d=await r.json();setToolkitLiveArticles(Object.entries(transformCacheToNewsData(d)).flatMap(([id,arts])=>arts.map(a=>({...a,agency:AGENCY_META[id]||{id,name_fa:id,name_en:id}}))));setToolkitLiveReady(true);}catch{setErrorMsg('دریافت مجموعهٔ تحلیل ممکن نشد؛ دوباره تلاش کنید.');}finally{setToolkitLiveLoading(false);}};
+  const loadToolkitLive=async()=>{setToolkitLiveLoading(true);try{const r=await fetch('/api/news-proxy.php',{signal:AbortSignal.timeout(90000)});if(!r.ok)throw new Error();const d=await r.json();if(d.truncated)setErrorMsg('مجموعهٔ تحلیل صفحهٔ اصلی محدود شده است؛ آمار کامل در پنل پژوهشی در دسترس است.');setToolkitLiveArticles(Object.entries(transformCacheToNewsData(d)).flatMap(([id,arts])=>arts.map(a=>({...a,agency:AGENCY_META[id]||{id,name_fa:id,name_en:id}}))));setToolkitLiveReady(true);}catch{setErrorMsg('دریافت مجموعهٔ تحلیل ممکن نشد؛ دوباره تلاش کنید.');}finally{setToolkitLiveLoading(false);}};
 
   // === توابع آرشیو ===
   const searchArchive = async (filters) => {
@@ -565,8 +572,8 @@ function App() {
       const data = await res.json();
       const indexEntries = data.results || [];
 
-      const allArts=indexEntries.map(a=>({...a,agency:AGENCY_META[a.agencyId]||{id:a.agencyId,name_fa:a.agencyId,name_en:a.agencyId}}));
-      setToolkitArchiveArticles(allArts);
+      const allArts=indexEntries.map(a=>({...a,title_original:a.title,text_original:a.text_original||'',agency:AGENCY_META[a.agencyId]||{id:a.agencyId,name_fa:a.agencyId,name_en:a.agencyId}}));
+      setToolkitArchiveArticles(allArts);if(data.truncated)setErrorMsg('تحلیل فقط روی '+allArts.length+' خبرِ بارگذاری‌شده از '+data.total+' نتیجه است؛ برای آمار کل از پنل پژوهشی استفاده کنید.');
     } catch(e) {
       console.error('toolkit archive load error:', e);
       setToolkitArchiveArticles([]);
@@ -646,21 +653,6 @@ function App() {
     return () => clearInterval(iv);
   }, [allArticles.length]);
 
-  useEffect(() => {
-    const pool = allArticles.map(a => a.title + ' ' + a.lead).join(' ');
-    const topics = [
-      {name:'دیپلماسی اقتصادی', re:/تحریم|تجارت|گمرک|صادرات|نفت/gi},
-      {name:'تنش‌های منطقه‌ای',  re:/غزه|درگیری|مقاومت|مرزی|تنش/gi},
-      {name:'فناوری',            re:/تراشه|هوش مصنوعی|فناوری|تکنولوژی/gi},
-      {name:'تغییرات اقلیمی',    re:/اقلیم|طوفان|خشکسالی|محیط/gi},
-      {name:'اروپا و ناتو',      re:/ناتو|اروپا|پارلمان|بروکسل/gi},
-      {name:'بازارهای مالی',     re:/بورس|سهام|ارزی|نقدینگی/gi},
-    ];
-    const kw = topics.map(tp => ({name:tp.name, w:(pool.match(tp.re)||[]).length}))
-      .filter(x=>x.w>0).sort((a,b)=>b.w-a.w).slice(0,6).map(x=>x.name);
-    setDynamicKeywords(kw);
-  }, [allArticles]);
-
   // منبع داده میز ابزار: یا همان اخبار زنده ۲۴ ساعته، یا داده‌ای که از آرشیو بارگذاری شده
   const toolkitArticles = useMemo(() => {
     return toolkitDataSource === 'archive' ? toolkitArchiveArticles : toolkitLiveArticles;
@@ -684,7 +676,7 @@ function App() {
     } catch(e) { return {total:0, agencyCounts:{}, matchedArticles:[]}; }
     toolkitArticles.forEach(a => {
       // جستجو در هر سه فیلد: عنوان اصلی (ممکن است انگلیسی باشد)، عنوان فارسی، و خلاصه فارسی - همگی نرمال‌شده
-      const c = (normalizePersian(a.title).match(re)||[]).length + (normalizePersian(a.title_fa).match(re)||[]).length + (normalizePersian(a.lead).match(re)||[]).length;
+      const c=(normalizePersian((a.title_original||a.title)+' '+(a.text_original||'')).match(re)||[]).length;
       if(c>0){total+=c;agencyCounts[a.agency.id]=(agencyCounts[a.agency.id]||0)+c;matchedArticles.push(a);}
     });
     return {total,agencyCounts,matchedArticles};
@@ -694,7 +686,7 @@ function App() {
   useEffect(() => { setWordFreqListOpen(false); }, [appliedResearchKeyword]);
 
   const calculatedAnalysis = useMemo(() => {
-    const s = {total:0, byCategory:{politics:0,economy:0,technology:0,tech:0,environment:0,culture:0,military:0,diplomacy:0,society:0,energy:0}, lexicalDiversity:{}};
+    const s = {total:0, byCategory:{}, lexicalDiversity:{},tokenCounts:{}};
     const byAgency = {};
     toolkitArticles.forEach(a => {
       const agId = a.agency?.id || a.agencyId || 'unknown';
@@ -704,11 +696,11 @@ function App() {
       let tw=0; const uw=new Set();
       arts.forEach(a => {
         s.total++;
-        if(s.byCategory[a.category]!==undefined) s.byCategory[a.category]++;
-        const words=(a.title+' '+(a.lead||'')).toLowerCase().split(/\s+/).filter(w=>w.length>2);
+        s.byCategory[a.category||'unknown']=(s.byCategory[a.category||'unknown']||0)+1;
+        const words=normalizePersian((a.title_original||a.title)+' '+(a.text_original||'')).toLowerCase().match(/[\p{L}\p{N}]+/gu)||[];
         words.forEach(w=>{tw++;uw.add(w);});
       });
-      s.lexicalDiversity[agId]=Math.round(tw>0?(uw.size/tw)*100:50);
+      s.lexicalDiversity[agId]=tw?Math.round(uw.size/tw*100):null;s.tokenCounts[agId]=tw;
     });
     return s;
   }, [toolkitArticles]);
@@ -875,20 +867,8 @@ function App() {
       </header>
 
       {/* فیلترها - با محتوای صفحه اسکرول می‌شود، ثابت نیست */}
-      <section className="bg-slate-900/40 border-b border-slate-800/60 py-3">
+      <section className="bg-slate-900/40 border-b border-slate-800/60 py-3"><details id="home-filters" className="max-w-7xl mx-auto"><summary className="cursor-pointer px-4 text-xs font-bold text-slate-300">{isRTL?'فیلتر موضوع و منطقه':'Topic and region filters'}{(selectedCategory!=='all'||selectedRegion!=='all')?' · فیلتر فعال':''}</summary>
         <div className="max-w-7xl mx-auto px-4 space-y-2">
-          {/* ترندها */}
-          <div className="flex flex-wrap items-center gap-2">
-            <span className="text-xs font-black text-amber-500">📈 {isRTL?'کلیدواژه‌های خبرهای بارگذاری‌شده:': 'Loaded headline keywords:'}</span>
-            {dynamicKeywords.length===0?<span className="text-xs text-slate-500">{t.noTrends}</span>:
-              dynamicKeywords.map(k=>(
-                <button key={k} onClick={()=>setSelectedTrend(p=>p===k?null:k)}
-                  className={`px-2.5 py-0.5 rounded-full text-[11px] font-bold border transition-all ${selectedTrend===k?'bg-amber-500 text-slate-950 border-amber-500':'bg-slate-800 text-slate-300 border-slate-700 hover:border-amber-500/50'}`}>
-                  #{k}
-                </button>
-              ))
-            }
-          </div>
           {/* فیلتر موضوعی و منطقه */}
           <div className="flex flex-wrap gap-4">
             <div className="flex items-center gap-2 flex-wrap">
@@ -918,7 +898,7 @@ function App() {
             </div>
           </div>
         </div>
-      </section>
+      </details></section>
 
       {/* وضعیت لود */}
       {isLoading && !hasData && (
@@ -940,7 +920,7 @@ function App() {
           </div>
 
           {/* نوار فعال/غیرفعال‌سازی خبرگزاری‌ها */}
-          <div className="flex flex-wrap gap-1.5 mb-3 p-2 bg-slate-900/50 border border-slate-800 rounded-lg">
+          <details id="home-agencies" className="mb-3 border border-slate-800 rounded-lg"><summary className="cursor-pointer p-3 text-xs font-bold text-slate-300">{isRTL?'انتخاب خبرگزاری‌ها':'Choose agencies'} · {visibleAgencyIds.length} / {agencyOrder.length}</summary><div className="flex flex-wrap gap-1.5 mb-3 p-2 bg-slate-900/50 border border-slate-800 rounded-lg">
             <span className="text-[10px] text-slate-500 font-bold self-center ml-1">{isRTL?'نمایش خبرگزاری‌ها:':'Show agencies:'}</span>
             {agencyOrder.map(agencyId => {
               const meta = AGENCY_META[agencyId] || {name_fa:agencyId, name_en:agencyId};
@@ -954,6 +934,7 @@ function App() {
             })}
           </div>
 
+          </details>
           {/* چیدمان ستونی عمودی - ارتفاع هر کارت ثابت است، اسکرول داخلی دارد */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
             {(() => {
@@ -1098,7 +1079,7 @@ function App() {
             <div className="p-6">
               {activeToolkitTab==='word_frequency' && (
                 <div>
-                  <p className="text-xs text-slate-400 mb-4">{t.wordCountToolDesc}</p>
+                  <p className="text-xs text-slate-400 mb-4">شمارش تطبیق عبارت در تیتر و خلاصهٔ اصلیِ ذخیره‌شده؛ ترجمه دوباره شمرده نمی‌شود.</p>
                   <div className="flex gap-2 mb-4">
                     <input type="text" value={researchKeyword} onChange={e=>setResearchKeyword(e.target.value)}
                       placeholder={t.keywordInputPlaceholder} onKeyDown={e=>e.key==='Enter'&&setAppliedResearchKeyword(researchKeyword)}
@@ -1187,20 +1168,20 @@ function App() {
               )}
               {activeToolkitTab==='framing' && (<div className="p-5 bg-slate-900 rounded-xl text-sm leading-loose text-slate-300">مقایسه پوشش و شواهد نگارش در پرونده هر خبر در دسترس است. اعداد احساساتِ تأییدنشده نمایش داده نمی‌شوند.<a className="block text-amber-400" href="/research.html">بازکردن پنل پژوهشی و روش‌شناسی ←</a></div>)}
               {activeToolkitTab==='diversity' && (
-                <div className="space-y-4 max-w-2xl">
+                <div className="space-y-4 max-w-2xl"><p className="text-xs text-slate-400">نسبت نوع به واژه (TTR) در تیتر و خلاصهٔ اصلی؛ به طول و زبان مجموعه وابسته است و رتبه‌بندی کیفیت رسانه نیست.</p>
                   {Object.keys(toolkitByAgency).length === 0 && (
                     <p className="text-xs text-slate-500 text-center py-6">{isRTL?'داده‌ای برای نمایش وجود ندارد':'No data to display'}</p>
                   )}
                   {Object.keys(toolkitByAgency).map(agId=>{
-                    const score=calculatedAnalysis.lexicalDiversity[agId]||50;
+                    const score=calculatedAnalysis.lexicalDiversity[agId];
                     const m=AGENCY_META[agId]||{name_fa:agId,name_en:agId,color:'from-slate-600 to-slate-800'};
                     return (
                       <div key={agId} className="flex items-center gap-4">
                         <div className="w-24 text-xs font-bold text-slate-300 truncate">{isRTL?m.name_fa:m.name_en}</div>
                         <div className="flex-1 bg-slate-900 rounded-full h-4 overflow-hidden border border-slate-800">
-                          <div className={`h-full bg-gradient-to-r ${m.color} rounded-full`} style={{width:`${score}%`}}></div>
+                          <div className={`h-full bg-gradient-to-r ${m.color} rounded-full`} style={{width:`${score===null?'—':score+'%'} · {calculatedAnalysis.tokenCounts[agId]} واژه`}}></div>
                         </div>
-                        <span className="text-xs font-black text-indigo-400 w-10 text-right">{score}%</span>
+                        <span className="text-xs font-black text-indigo-400 w-10 text-right">{score===null?'—':score+'%'} · {calculatedAnalysis.tokenCounts[agId]} واژه</span>
                       </div>
                     );
                   })}
@@ -1481,6 +1462,7 @@ function App() {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
+
 
 
 

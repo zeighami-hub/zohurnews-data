@@ -9,3 +9,4 @@ function selectForeign(items,limit=100){
 }
 function prepareNative(a){return {...a,title_fa:a.title,lead:a.description||a.title,analysis_model:null,research:{techniques:[]},processing_method:'original-persian-no-model'};}
 module.exports={selectForeign,prepareNative};
+

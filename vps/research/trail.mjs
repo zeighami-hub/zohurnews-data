@@ -10,3 +10,4 @@ export function trail(db,base){
  earliest_candidate:first,techniques:techniques(base),
  method:{version:'trail-1.0',coverage_window_hours:72,history_days:180,coverage_candidate_limit:600,history_candidate_limit:1200,minimum_similarity:.24,close_similarity:.6,event_identity:'unverified',first_publication:'earliest declared timestamp among base and close headline candidates; not proof of origin',history_scope:'topic similarity, not necessarily the same event',languages:'Lexical matching only; untranslated cross-language stories may be missed'}};
 }
+

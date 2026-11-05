@@ -24,7 +24,7 @@ function calculate(db, p={}) {
  const scopes=db.db.prepare("SELECT COALESCE(json_extract(payload,'$.content_scope'),'unknown') scope,COUNT(*) count FROM r_articles"+where+' GROUP BY scope').all(...args);
  const languages=db.db.prepare('SELECT lang,COUNT(*) count FROM r_articles'+where+' GROUP BY lang').all(...args);
  const recovery=db.get('recovery_status');
- return {method:'zohur-media-comparison-1.0',generated_at:new Date().toISOString(),filters:{q:p.q||'',sources:selected,source:p.source||null,category:p.category||null,from:p.from||null,to:p.to||null,date_basis:p.date_basis||'available'},total,sources:rows,days,scopes,languages,recovery:{state:recovery?.state||'unknown',recovered:recovery?.counts?.recovered||0,at:recovery?.at||null,from:'2026-10-08T22:15:00Z',to:'2026-10-30T08:00:00Z'},definitions:{count:'Unique stored source URLs in the filtered corpus; not total publisher output',share:'Source count / total matched stored records',relative_minutes:'Difference from the earliest declared publication in this query; a topic may contain different events',zero:'No matching stored record; does not establish absence of coverage',scope:'Original headline and available excerpt; full article text is not guaranteed',timeline:'UTC calendar days using effective_at; source publication preferred, fallback labelled'}};
+ return {method:'zohur-media-comparison-1.0',generated_at:new Date().toISOString(),filters:{q:p.q||'',sources:selected,source:p.source||null,category:p.category||null,tag:p.tag||null,from:p.from||null,to:p.to||null,date_basis:p.date_basis||'available'},total,sources:rows,days,scopes,languages,recovery:{state:recovery?.state||'unknown',recovered:recovery?.counts?.recovered||0,at:recovery?.at||null,from:'2026-10-08T22:15:00Z',to:'2026-10-30T08:00:00Z'},definitions:{count:'Unique stored source URLs in the filtered corpus; not total publisher output',share:'Source count / total matched stored records',relative_minutes:'Difference from the earliest declared publication in this query; a topic may contain different events',zero:'No matching stored record; does not establish absence of coverage',scope:'Original headline and available excerpt; full article text is not guaranteed',timeline:'UTC calendar days using effective_at; source publication preferred, fallback labelled'}};
 }
 
 // Keep all aggregates and their evidence on one SQLite read snapshot during ingestion.
@@ -33,3 +33,4 @@ export function mediaComparison(db,p={}){
  try{const result=calculate(db,p);db.db.exec('COMMIT');return result;}
  catch(error){try{db.db.exec('ROLLBACK');}catch{}throw error;}
 }
+
