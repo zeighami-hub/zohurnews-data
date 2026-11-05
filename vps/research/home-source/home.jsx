@@ -67,7 +67,8 @@ const THEMATIC_FILTERS = [
   {id:'society',name_fa:'اجتماعی',name_en:'Society'},
   {id:'technology',name_fa:'فناوری',name_en:'Technology'},
   {id:'energy',name_fa:'انرژی',name_en:'Energy'},
-  {id:'unknown',name_fa:'تعیین‌نشده / چندموضوعی',name_en:'Unclassified / ambiguous'},
+  {id:'iran',name_fa:'ایران',name_en:'Iran'},
+  {id:'world',name_fa:'جهان',name_en:'World'},
   {id:'environment',name_fa:'محیط زیست',name_en:'Environment'},
   {id:'culture',name_fa:'فرهنگ',name_en:'Culture'},
 ];
@@ -81,7 +82,7 @@ const REGIONAL_FILTERS = [
   {id:'americas',name_fa:'آمریکا',name_en:'Americas'},
   {id:'global',name_fa:'جهانی',name_en:'Global'},
   {id:'multi_region',name_fa:'چندمنطقه‌ای',name_en:'Multiple regions'},
-  {id:'unknown',name_fa:'منطقه تعیین‌نشده',name_en:'Unknown region'},
+  {id:'unknown',name_fa:'سایر مناطق',name_en:'Other regions'},
   {id:'africa',name_fa:'آفریقا',name_en:'Africa'},
   {id:'oceania',name_fa:'اقیانوسیه',name_en:'Oceania'},
   {id:'asia',name_fa:'آسیا',name_en:'Asia'},
@@ -213,7 +214,7 @@ function transformCacheToNewsData(cacheData) {
       lead: article.lead || '',
       sourceUrl: article.sourceUrl || '#',
       time: article.time || '',
-      category: article.category || 'unknown',
+      category: article.category&&article.category!=='unknown'?article.category:article.region==='iran'?'iran':'world',
       title_original:article.title||'',text_original:article.text_original||'',lang:article.lang||'',classification:article.classification,tags:article.tags||[],
       region: article.region || 'global',
       newsValues: article.newsValues || {},
@@ -465,7 +466,7 @@ function App() {
       setSourcePages(pages);setAgencyOrder(prev=>[...prev.filter(id=>pages[id]),...data.sources.map(s=>s.id).filter(id=>!prev.includes(id))]);
       setAgencies(data.agencies);setFeedGeneration(n=>n+1);
       setLastUpdated(data.generated_at?new Date(data.generated_at).toLocaleString(lang==='fa'?'fa-IR':'en-US',{timeZone:'Asia/Tehran'}):'—');
-      if(data.translation_pending>0)setErrorMsg('خبرهای خارجیِ منتظر ترجمه پس از آماده‌شدن در این صفحه منتشر می‌شوند.');
+      
     }catch(e){if(!controller.signal.aborted)setErrorMsg(t.errorCache);}
     finally{if(!controller.signal.aborted)setIsLoading(false);}
   };
@@ -568,7 +569,7 @@ function App() {
       const data = await res.json();
       const indexEntries = data.results || [];
 
-      const allArts=indexEntries.map(a=>({...a,title_original:a.title,text_original:a.text_original||'',agency:AGENCY_META[a.agencyId]||{id:a.agencyId,name_fa:a.agencyId,name_en:a.agencyId}}));
+      const allArts=indexEntries.map(a=>({...a,category:a.category&&a.category!=='unknown'?a.category:a.region==='iran'?'iran':'world',title_original:a.title,text_original:a.text_original||'',agency:AGENCY_META[a.agencyId]||{id:a.agencyId,name_fa:a.agencyId,name_en:a.agencyId}}));
       setToolkitArchiveArticles(allArts);if(data.truncated)setErrorMsg('تحلیل فقط روی '+allArts.length+' خبرِ بارگذاری‌شده از '+data.total+' نتیجه است؛ برای آمار کل از پنل پژوهشی استفاده کنید.');
     } catch(e) {
       console.error('toolkit archive load error:', e);

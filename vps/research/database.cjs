@@ -41,7 +41,7 @@ class ResearchDB {
  if(old?.payload===payload)continue;
  insert.run(d.id,d.url,d.source_id,d.category,d.lang,d.effective_at,d.published_at,d.title_fa,normalize([d.title_original,d.title_fa,d.text_original,d.lead].join(' ')),payload);n++;
  }this.db.exec('COMMIT');return n;}catch(e){try{this.db.exec('ROLLBACK');}catch{}throw e;}}
- filters(p={}){const where=[],args=[];if(p.editorial==='accepted'){where.push("COALESCE(json_extract(payload,'$.editorial.allowed'),1)=1");}for(const [key,col]of [['source','source_id'],['category','category'],['lang','lang']])if(p[key]){where.push(col+'=?');args.push(String(p[key]).slice(0,100));}
+ filters(p={}){const where=[],args=[];if(p.editorial==='accepted'){where.push("COALESCE(json_extract(payload,'$.editorial.allowed'),1)=1");}for(const [key,col]of [['source','source_id'],['category','category'],['lang','lang']])if(p[key]){if(key==='category'&&['iran','world'].includes(p[key])){where.push("category='unknown' AND "+(p[key]==='iran'?"json_extract(payload,'$.region')='iran'":"COALESCE(json_extract(payload,'$.region'),'unknown')!='iran'"));}else{where.push(col+'=?');args.push(String(p[key]).slice(0,100));}}
  if(p.exclude_source){where.push('source_id!=?');args.push(String(p.exclude_source));}
  const sources=String(p.sources||'').split(',').filter(Boolean).slice(0,30);if(sources.length){where.push('source_id IN ('+sources.map(()=>'?').join(',')+')');args.push(...sources);}
  if(p.translation==='ready'){where.push("(lang='fa' OR json_extract(payload,'$.translation_status')='available')");}

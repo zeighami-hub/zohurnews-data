@@ -12,7 +12,7 @@ export function createLiveFeed(db,{now=Date.now,cacheMs=15000}={}){
   const key=JSON.stringify([source,p.as_of||'',q,trend,category,region,limit,p.cursor||'']);const cached=cache.get(key);if(cached&&now()-cached.at<cacheMs)return cached.value;
   const as_of=new Date(at).toISOString(),from=new Date(at-86400000).toISOString();
   const where=["COALESCE(json_extract(payload,'$.editorial.allowed'),1)=1","effective_at>=? AND effective_at<=?","(lang='fa' OR json_extract(payload,'$.translation_status')='available')"],args=[from,as_of];
-  if(category&&category!=='all'){where.push('category=?');args.push(category);}if(region&&region!=='all'){where.push("json_extract(payload,'$.region')=?");args.push(region);}
+  if(category==='iran'||category==='world'){where.push("category='unknown' AND "+(category==='iran'?"json_extract(payload,'$.region')='iran'":"COALESCE(json_extract(payload,'$.region'),'unknown')!='iran'"));}else if(category&&category!=='all'){where.push('category=?');args.push(category);}if(region&&region!=='all'){where.push("json_extract(payload,'$.region')=?");args.push(region);}
   for(const text of [q,trend])if(text){where.push('instr(search_text,?)>0');args.push(text);}
   const base=' WHERE '+where.join(' AND ');const ids=source?[source]:Object.keys(agencyNames);
   const counts=new Map(db.prepare('SELECT source_id,count(*) count FROM r_articles'+base+(source?' AND source_id=?':'')+' GROUP BY source_id').all(...args,...(source?[source]:[])).map(r=>[r.source_id,r.count]));
