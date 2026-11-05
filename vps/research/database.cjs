@@ -16,6 +16,7 @@ function convert(a,recorded=null){
 class ResearchDB {
  constructor(file){fs.mkdirSync(path.dirname(file),{recursive:true});this.db=new DatabaseSync(file);this.db.exec(`PRAGMA journal_mode=WAL; PRAGMA temp_store=MEMORY; PRAGMA busy_timeout=5000; PRAGMA synchronous=NORMAL;
  CREATE TABLE IF NOT EXISTS r_articles(id TEXT PRIMARY KEY,url TEXT UNIQUE,source_id TEXT,category TEXT,lang TEXT,effective_at TEXT,published_at TEXT,title TEXT,search_text TEXT,payload TEXT NOT NULL);
+ CREATE INDEX IF NOT EXISTS r_editorial_window ON r_articles(COALESCE(json_extract(payload,'$.editorial.allowed'),1),effective_at,source_id,category,published_at,id);
  CREATE INDEX IF NOT EXISTS r_legacy ON r_articles(json_extract(payload,'$.legacy_id'));CREATE INDEX IF NOT EXISTS r_time ON r_articles(effective_at);CREATE INDEX IF NOT EXISTS r_source ON r_articles(source_id,effective_at);CREATE INDEX IF NOT EXISTS r_category ON r_articles(category);
  CREATE TABLE IF NOT EXISTS r_versions(article_id TEXT,content_hash TEXT,payload TEXT,recorded_at TEXT,PRIMARY KEY(article_id,content_hash));
  CREATE VIRTUAL TABLE IF NOT EXISTS r_fts USING fts5(id UNINDEXED,search_text,tokenize='unicode61');
@@ -72,6 +73,7 @@ class ResearchDB {
  close(){this.db.close();}
 }
 module.exports={ResearchDB,convert,canonicalUrl};
+
 
 
 

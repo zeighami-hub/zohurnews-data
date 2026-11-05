@@ -1,6 +1,6 @@
 services:
   research:
-    image: zohurnews-research:3.8.1
+    image: zohurnews-research:3.9.0
     container_name: zohurnews-research
     restart: unless-stopped
     ports:
@@ -19,7 +19,7 @@ services:
 
 
   widgets:
-    image: zohurnews-research:3.8.1
+    image: zohurnews-research:3.9.0
     container_name: zohurnews-widgets
     command: ["node", "research/widgets-server.mjs"]
     restart: unless-stopped

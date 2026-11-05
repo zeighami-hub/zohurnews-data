@@ -1,0 +1,11 @@
+# Research desk v3.9
+
+Fixed comparison selection clearing without clearing checkboxes; added per-card removal and dossier links. Selection remains capped at four and synchronized between archive pages and dossier controls. Pagination now uses applied filters and their time bounds instead of silently applying edited controls. Stale request errors no longer overwrite newer results; failed pages restore their prior offset.
+
+Dossiers use the same /api/trail method as the public article page, including cross-source coverage, earliest candidate and separate topic history. A related-service failure leaves the article, original text, metadata and coding controls available instead of replacing the whole dossier. Request tickets prevent stale dossier results from rendering after close/navigation.
+
+Added /api/catalog for indexed source/category option queries instead of computing whole-archive statistics during bootstrap. Added r_editorial_window covering index for the acceptance predicate and date/source/category aggregates. The index is rebuilt from existing records and does not alter corpus content. It was created before rollout with temporary writable space and memory-backed SQLite temp storage.
+
+Validation: all 40 automated tests passed, including regressions for selection clearing/cap, applied-filter pagination and partial dossier failure. Browser verified whole-archive France search (3,069 results), pages 1–30 and 31–60 with two selections each, four-card comparison, single-card removal, clear-all with zero remaining checkboxes, dossier opening, related coverage, adding from dossier and closing, custom UTC date bounds and rejected reversed dates. Independent SQLite count matched the API total of 3,069; the two 30-record pages had disjoint IDs. A custom November 4–5 France-strike query returned 8 records with correct date bounds and aggregate counts.
+
+Server samples: whole accepted archive query previously exceeded 20 seconds; after indexing about1.08 seconds for 252,953 records. France search pages about1.7 seconds each. These are server samples, not client-network guarantees. Files are versioned to avoid stale module/MIME caching. Source was backed up to /opt/zohurnews/backups/desk-before-* before deployment.

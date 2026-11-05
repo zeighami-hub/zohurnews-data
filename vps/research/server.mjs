@@ -17,6 +17,7 @@ const server=http.createServer(async(req,res)=>{try{
  if(widgetPaths.has(u.pathname)){const r=await widgets(u.pathname,p);return json(res,r.code,r.data);}
  if(['/api/today-event.php'].includes(u.pathname))return json(res,503,{status:'unavailable',message:'External widget not configured'});
  if(u.pathname==='/api/category.php'){res.writeHead(302,{'Location':'/research.html'});return res.end();}
+ if(u.pathname==='/api/catalog')return json(res,200,{summary:{sources:db.db.prepare('SELECT DISTINCT source_id id FROM r_articles ORDER BY source_id').all(),categories:db.db.prepare('SELECT DISTINCT category id FROM r_articles ORDER BY category').all()}});
  if(u.pathname==='/api/coverage')return json(res,200,db.coverage());
  if(u.pathname==='/api/trail'){const a=db.article(p.id);if(!a)return json(res,404,{error:'Not found'});return json(res,200,trail(db,a));}
  if(u.pathname==='/api/health')return json(res,200,{ok:true,...db.meta(),ingestion_configured:!!db.get('last_capture')});
@@ -37,6 +38,7 @@ const server=http.createServer(async(req,res)=>{try{
 }catch(e){console.error(e.message);if(!res.headersSent)json(res,500,{error:'Research request failed'});else res.end();}});
 server.listen(Number(process.env.PORT||8080),'0.0.0.0',()=>console.log('Research server listening'));
 process.on('SIGTERM',()=>server.close(()=>{db.close();process.exit(0);}));
+
 
 
 
