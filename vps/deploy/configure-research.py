@@ -64,7 +64,7 @@ except Exception as e:
     print('Gemini validation failed ('+type(e).__name__+'); no translation schedule was enabled.')
     print('Candidate credentials saved root-only; retry does not require re-entering the key.')
     sys.exit(1)
-values={'GEMINI_API_KEY':key,'GEMINI_MODEL':model,'PUBLISH_MODE':'local','MAX_PER_CYCLE':'100','MAX_RSS_ITEMS':'100'}
+values={'GEMINI_API_KEY':key,'GEMINI_MODEL':model,'PUBLISH_MODE':'local','MAX_PER_CYCLE':'60','MAX_RSS_ITEMS':'100','GEMINI_DAILY_REQUEST_LIMIT':'400','GEMINI_REQUESTS_PER_CYCLE':'4','GEMINI_MIN_INTERVAL_MS':'20000'}
 if any('\n' in x or '\r' in x for x in values.values()):sys.exit('Invalid configuration value')
 os.umask(0o077)
 envfile.write_text(''.join(k+'='+v+'\n' for k,v in values.items()));envfile.chmod(0o600)

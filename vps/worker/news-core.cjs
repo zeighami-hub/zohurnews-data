@@ -1,3 +1,4 @@
+const {providerQuota}=require('./gemini-budget.cjs');
 // RSS parsing, relevance scoring and Persian analysis adapted from zohurnews-data.
 // Storage and publication run on the VPS; this module has no Upstash dependency.
 
@@ -226,7 +227,7 @@ function formatPersianTime(pubDate) {
 // === بخش ۲: تحلیل با Gemini API (کلید ساده، نه Vertex AI) ===
 // ============================================================
 
-async function analyzeWithGemini(articles) {
+async function analyzeWithGemini(articles, options={}) {
   const articlesText = articles.map(function (a, i) {
     var flagNote = a.lowImportance ? "[flagged:possibly-local-low-value]" : "";
     return "[" + i + "][" + a.agencyId + "][cat:" + a.category + "][region:" + a.region + "][lang:" + (a.lang || "en") + "]" + flagNote + " " + a.title + "\n" + String(a.description).slice(0, 250);
@@ -237,6 +238,7 @@ async function analyzeWithGemini(articles) {
   try {
     const model = process.env.GEMINI_MODEL;
     if (!model || !GEMINI_API_KEY) throw new Error("Gemini configuration missing");
+    await options.beforeRequest?.();
     const res = await fetch("https://generativelanguage.googleapis.com/v1beta/models/" + encodeURIComponent(model) + ":generateContent", {
       method: "POST",
       headers: { "Content-Type": "application/json", "x-goog-api-key": GEMINI_API_KEY },
@@ -247,6 +249,9 @@ async function analyzeWithGemini(articles) {
       }),
     });
     const data = await res.json();
+    if(res.status===429||data.error?.code===429||data.error?.status==='RESOURCE_EXHAUSTED'){
+      const error=new Error('Gemini free quota temporarily unavailable');error.code='GEMINI_QUOTA';error.quota=providerQuota(data.error||{},res.headers.get('retry-after'));throw error;
+    }
     if (data.error) throw new Error(data.error.message || JSON.stringify(data.error));
     const text = (data.candidates?.[0]?.content?.parts || []).map(p => p.text || "").join("");
     if (!text) throw new Error("Gemini returned empty content");
@@ -298,6 +303,7 @@ async function analyzeWithGemini(articles) {
     });
     return { kept: kept, rejected: rejected };
   } catch (e) {
+    if(e.code==='GEMINI_BUDGET_PAUSED'||e.code==='GEMINI_QUOTA')throw e;
     console.error("Gemini API error: " + e.message);
     throw new Error("Gemini analysis failed");
   }
@@ -305,4 +311,5 @@ async function analyzeWithGemini(articles) {
 
 
 module.exports = { fetchAllRSS, analyzeWithGemini, RSS_SOURCES, stableArticleId, fetchUrl };
+
 

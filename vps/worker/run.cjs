@@ -3,6 +3,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const crypto = require('node:crypto');
 const { Store } = require('./store.cjs');
+const {GeminiBudget}=require('./gemini-budget.cjs');
 const {selectForeign,prepareNative}=require('./selection.cjs');
 const { fetchAllRSS, analyzeWithGemini, RSS_SOURCES } = require('./news-core.cjs');
 const DATA = process.env.DATA_DIR || '/data';
@@ -69,29 +70,36 @@ async function cycle(dependencies = {}) {
     });
     const native=eligible.filter(a=>a.lang==='fa').map(prepareNative);
     const toAnalyze=selectForeign(eligible.filter(a=>a.lang!=='fa'),Math.max(1,Math.min(500,max)));
-    let added = native.length?store.add(native,[]):0, failed = 0;
+    const budget=new GeminiBudget(store);
+    let added = native.length?store.add(native,[]):0, failed = 0, foreignAdded=0, paused=null;
     for (let i=0;i<toAnalyze.length;i+=15) {
       const batch = toAnalyze.slice(i,i+15);
       let result;
       for (let attempt=0;attempt<3;attempt++) {
-        try { result = await analyze(batch); break; }
-        catch(e) { if(attempt<2) await sleep(2000 * 2**attempt); }
+        try { result = await analyze(batch,{beforeRequest:()=>budget.reserve()}); break; }
+        catch(e) {
+          if(e.code==='GEMINI_QUOTA'){paused={reason:'provider-quota',retryAt:budget.pause(e.quota)};break;}
+          if(e.code==='GEMINI_BUDGET_PAUSED'){paused={reason:e.reason,retryAt:e.retryAt};break;}
+          if(attempt<2) await sleep(2000 * 2**attempt);
+        }
       }
+      if(paused)break;
       if(!result || result.kept.length+result.rejected.length === 0) { failed++; continue; }
-      added += store.add(result.kept,result.rejected);
+      const translated=store.add(result.kept,result.rejected);added+=translated;foreignAdded+=translated;
       await sleep(1500);
     }
     // Full AI failure never replaces last good live snapshot with an empty feed.
-    if (toAnalyze.length && !added && failed) throw new Error('No articles analyzed successfully; previous snapshot retained');
+    if (toAnalyze.length && !added && failed && !paused) throw new Error('No articles analyzed successfully; previous snapshot retained');
     const stamp = Date.now();
     const payload = buildPublication(store,stamp,raw.agencies,added);
+    payload.cache.translation={...budget.status(),added:foreignAdded,paused};
     store.enqueue(payload.sequence,payload);
     await deliver(store);
-    store.db.prepare('UPDATE runs SET finished=?,status=?,detail=? WHERE started=?').run(Date.now(),failed?'partial':'ok',JSON.stringify({added,failed,total:payload.cache.total}),started);
+    store.db.prepare('UPDATE runs SET finished=?,status=?,detail=? WHERE started=?').run(Date.now(),failed?'partial':'ok',JSON.stringify({added,failed,foreignAdded,translationPaused:paused,total:payload.cache.total}),started);
     // Run history is bounded. Articles are durable archive and are never silently purged.
     store.db.prepare('DELETE FROM runs WHERE started<?').run(Date.now()-90*86400000);
     store.set('last_success', new Date().toISOString());
-    console.log(JSON.stringify({event:'cycle_completed',added,failed,total:payload.cache.total}));
+    console.log(JSON.stringify({event:'cycle_completed',added,failed,foreignAdded,translation:payload.cache.translation,total:payload.cache.total}));
   } catch(e) {
     store.db.prepare('UPDATE runs SET finished=?,status=?,detail=? WHERE started=?').run(Date.now(),'failed',e.message,started);
     throw e;
@@ -102,4 +110,5 @@ if (require.main === module) {
   else cycle().catch(e=>{ console.error(JSON.stringify({event:'cycle_failed',error:e.message}));process.exitCode=1; });
 }
 module.exports = { publish, buildPublication, validateConfig, cycle };
+
 
