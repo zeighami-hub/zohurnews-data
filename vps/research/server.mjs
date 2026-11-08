@@ -1,3 +1,4 @@
+import {createAcademic} from './academic-api.mjs';
 import{documentExport}from './document-export.mjs';
 import {createLiveFeed} from './live-feed.mjs';
 import {createWidgets,widgetPaths} from './widgets.mjs';
@@ -8,8 +9,11 @@ import {trail} from './trail.mjs';import {homePage,articlePage} from './public-p
 import http from 'node:http';import fs from 'node:fs';import path from 'node:path';import {ResearchDB}from './database.cjs';import {normalize,tokens,related,techniques,topTerms,compare,csv}from './analytics.mjs';
 const dir=process.env.DATA_DIR||'/data';const web=path.resolve(process.env.WEB_DIR||new URL('./web/',import.meta.url).pathname);const db=new ResearchDB(path.join(dir,'research.sqlite'));
 const liveFeed=createLiveFeed(db.db);
+const academic=createAcademic(db,dir);
 const json=(res,status,data)=>{res.writeHead(status,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'});res.end(JSON.stringify(data));};
 const server=http.createServer(async(req,res)=>{try{
+ const academicUrl=new URL(req.url,'http://localhost');
+ if(await academic.handle(req,res,academicUrl))return;
  if(req.method!=='GET')return json(res,405,{error:'Read-only endpoint'});
  const u=new URL(req.url,'http://localhost');const p=Object.fromEntries(u.searchParams);if(p.q)p.q=normalize(p.q);
  if(u.pathname==='/api/live-feed'){const data=liveFeed(p);return json(res,data.http_status||200,data);}
@@ -34,12 +38,13 @@ const server=http.createServer(async(req,res)=>{try{
  if(u.pathname.startsWith('/news/')||u.pathname==='/api/article.php'||u.pathname==='/article.php'){
  const id=u.pathname.startsWith('/news/')?u.pathname.slice(6):p.id;const a=db.article(id);if(!a)return json(res,404,{error:'Not found'});
  if(u.pathname!=='/news/'+a.id){res.writeHead(301,{'Location':'/news/'+a.id});return res.end();}return html(articlePage(a));}
- const name=u.pathname==='/'?'home.html':u.pathname==='/research.html'?'index.html':decodeURIComponent(u.pathname.slice(1));const full=path.resolve(web,name);if(!full.startsWith(web+path.sep)||!fs.existsSync(full)||!fs.statSync(full).isFile())return json(res,404,{error:'Not found'});
+ const name=u.pathname==='/academic.html'?'academic.html':u.pathname==='/'?'home.html':u.pathname==='/research.html'?'index.html':decodeURIComponent(u.pathname.slice(1));const full=path.resolve(web,name);if(!full.startsWith(web+path.sep)||!fs.existsSync(full)||!fs.statSync(full).isFile())return json(res,404,{error:'Not found'});
  const mime={'.html':'text/html; charset=utf-8','.css':'text/css','.js':'text/javascript','.mjs':'text/javascript','.json':'application/json','.svg':'image/svg+xml','.woff2':'font/woff2'}[path.extname(full)]||'application/octet-stream';
  res.writeHead(200,{'Content-Type':mime,'X-Content-Type-Options':'nosniff','Referrer-Policy':'strict-origin-when-cross-origin','Content-Security-Policy':"default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; connect-src 'self'; img-src 'self' data:; font-src 'self'; object-src 'none'; frame-ancestors 'self'"});fs.createReadStream(full).pipe(res);
 }catch(e){console.error(e.message);if(!res.headersSent)json(res,500,{error:'Research request failed'});else res.end();}});
 server.listen(Number(process.env.PORT||8080),'0.0.0.0',()=>console.log('Research server listening'));
-process.on('SIGTERM',()=>server.close(()=>{db.close();process.exit(0);}));
+process.on('SIGTERM',()=>server.close(()=>{academic.store.close();db.close();process.exit(0);}));
+
 
 
 

@@ -3,7 +3,7 @@
 import sqlite3,pathlib,datetime,gzip,shutil,os
 root=pathlib.Path('/opt/zohurnews');dest=root/'backups';dest.mkdir(mode=0o700,exist_ok=True)
 stamp=datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%dT%H%M%SZ');os.umask(0o077)
-for name in ['news','research']:
+for name in ['news','research','academic']:
  source=root/'data'/(name+'.sqlite')
  if not source.exists():continue
  target=dest/(stamp+'-'+name+'.sqlite')
@@ -15,3 +15,4 @@ for name in ['news','research']:
  target.unlink();os.chmod(str(target)+'.gz',0o600)
  for old in sorted(dest.glob('*-'+name+'.sqlite.gz'))[:-14]:old.unlink()
  print('Backup verified:',name,stamp,(dest/(target.name+'.gz')).stat().st_size,'bytes')
+

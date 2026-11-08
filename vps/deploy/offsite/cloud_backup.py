@@ -23,7 +23,7 @@ def retained(stamps):
     return keep
 
 def validate_manifest(m, stamp):
-    if m.get('schema') != 1 or m.get('snapshot') != stamp or set(m.get('files', {})) != {'news.sqlite.gz', 'research.sqlite.gz'}:
+    if m.get('schema') != 1 or m.get('snapshot') != stamp or set(m.get('files', {})) not in ({'news.sqlite.gz', 'research.sqlite.gz'}, {'news.sqlite.gz', 'research.sqlite.gz', 'academic.sqlite.gz'}):
         raise ValueError('Invalid snapshot manifest')
     for item in m['files'].values():
         if not re.fullmatch('[0-9a-f]{64}', item.get('sha256', '')) or not isinstance(item.get('bytes'), int) or item['bytes'] <= 0:
@@ -62,8 +62,8 @@ def run(root, config, remote):
         stamp = dt.datetime.now(dt.timezone.utc).strftime('%Y%m%dT%H%M%SZ')
         with tempfile.TemporaryDirectory(prefix='cloud-', dir=state) as tmp:
             stage = pathlib.Path(tmp) / 'snapshot'; stage.mkdir()
-            m = {'schema': 1, 'snapshot': stamp, 'files': {}, 'scope': 'research and ingestion databases; code in GitHub; no credentials'}
-            for name in ['news', 'research']:
+            m = {'schema': 1, 'snapshot': stamp, 'files': {}, 'scope': 'research, ingestion and academic project databases; code in GitHub; academic user password hashes and sessions require encrypted storage'}
+            for name in ['news', 'research'] + (['academic'] if (root / 'data' / 'academic.sqlite').is_file() else []):
                 source = root / 'data' / (name + '.sqlite')
                 if not source.is_file(): raise RuntimeError('Missing database: ' + name)
                 raw = stage / (name + '.sqlite'); target = stage / (name + '.sqlite.gz')
@@ -107,3 +107,4 @@ if __name__ == '__main__':
             pending = status_file.with_suffix('.tmp'); pending.write_text(json.dumps(old)); pending.replace(status_file)
         except OSError: pass
         print('Cloud backup FAILED:', str(e)); raise SystemExit(1)
+
