@@ -1,4 +1,5 @@
 FROM node:24-bookworm-slim
+RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends weasyprint python3-openpyxl fonts-dejavu-core poppler-utils tzdata && rm -rf /var/lib/apt/lists/*
 WORKDIR /app
 COPY package.json package-lock.json ./
 RUN npm ci --omit=dev && npm cache clean --force

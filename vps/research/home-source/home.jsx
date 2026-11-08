@@ -1,3 +1,4 @@
+import{readPreferences,writePreferences,cleanIds,reconcileOrder,browserStorage}from './preferences.mjs';
 import React from 'react';import * as ReactDOM from 'react-dom/client';
 
 const { useState, useEffect, useMemo, useRef } = React;
@@ -335,7 +336,8 @@ function JalaliDateInput({ value, onChange, placeholder, className }) {
 }
 
 function App() {
-  const [lang, setLang] = useState('fa');
+  const saved=useRef(readPreferences(browserStorage(),'zohurnews.home.v1')).current;
+  const [lang, setLang] = useState(()=>['fa','en','ar','es','fr'].includes(saved.lang)?saved.lang:'fa');
   const [newsData, setNewsData] = useState({});
   const [sourcePages,setSourcePages]=useState({});
   const [feedGeneration,setFeedGeneration]=useState(0);
@@ -350,19 +352,23 @@ function App() {
   const [lastUpdated, setLastUpdated] = useState('');
   const [errorMsg, setErrorMsg] = useState('');
   const [selectedNews, setSelectedNews] = useState(null);
-  const [agencyOrder, setAgencyOrder] = useState([]);
-  const [disabledAgencies, setDisabledAgencies] = useState(new Set());
+  const [agencyOrder, setAgencyOrder] = useState(()=>cleanIds(saved.order));
+  const [disabledAgencies, setDisabledAgencies] = useState(()=>new Set(cleanIds(saved.disabled)));
   const [draggedId, setDraggedId] = useState(null);
   const [tickerIndex, setTickerIndex] = useState(0);
   const [currentTime, setCurrentTime] = useState(new Date());
-  const [activeCity, setActiveCity] = useState('Tehran');
+  const [activeCity, setActiveCity] = useState(()=>['Tehran','Mashhad','Isfahan','Shiraz','Tabriz'].includes(saved.city)?saved.city:'Tehran');
   const cityWeatherRequest=useRef(0);
   const [cityWeatherData, setCityWeatherData] = useState(null); // داده واقعی دما و اوقات شرعی از سرور
   const [todayEvent, setTodayEvent] = useState(null); // مناسبت رسمی امروز از جدول تعطیلات
-  const [filterQuery, setFilterQuery] = useState('');
-  const [selectedCategory, setSelectedCategory] = useState('all');
-  const [selectedRegion, setSelectedRegion] = useState('all');
-  const [isRefreshingAuto, setIsRefreshingAuto] = useState(true);
+  const [filterQuery, setFilterQuery] = useState(()=>typeof saved.query==='string'?saved.query.slice(0,120):'');
+  const [selectedCategory, setSelectedCategory] = useState(()=>THEMATIC_FILTERS.some(x=>x.id===saved.category)?saved.category:'all');
+  const [selectedRegion, setSelectedRegion] = useState(()=>REGIONAL_FILTERS.some(x=>x.id===saved.region)?saved.region:'all');
+  const [isRefreshingAuto, setIsRefreshingAuto] = useState(()=>saved.auto!==false);
+  const [filtersOpen,setFiltersOpen]=useState(()=>saved.filtersOpen===true);
+  const [agenciesOpen,setAgenciesOpen]=useState(()=>saved.agenciesOpen===true);
+  useEffect(()=>{writePreferences(browserStorage(),'zohurnews.home.v1',{order:agencyOrder,disabled:[...disabledAgencies],lang,city:activeCity,query:filterQuery,category:selectedCategory,region:selectedRegion,auto:isRefreshingAuto,filtersOpen,agenciesOpen});},[agencyOrder,disabledAgencies,lang,activeCity,filterQuery,selectedCategory,selectedRegion,isRefreshingAuto,filtersOpen,agenciesOpen]);
+  const resetHomePreferences=()=>{setAgencyOrder(agencies.map(x=>x.id));setDisabledAgencies(new Set());setFilterQuery('');setSelectedCategory('all');setSelectedRegion('all');setActiveCity('Tehran');setIsRefreshingAuto(true);setFiltersOpen(false);setAgenciesOpen(false);setLang('fa');};
   const [marketData, setMarketData] = useState(MARKET_DATA_DEFAULT);
   const [marketMeta,setMarketMeta]=useState({status:'loading',stale:false});
 
@@ -463,7 +469,7 @@ function App() {
       const pages=Object.fromEntries(data.sources.map(s=>[s.id,{...s,loading:false,error:false}]));
       feedSession.current={controller:new AbortController(),filters:{...latestFeedFilters.current},as_of:data.as_of,pages,queue:[],queued:new Set(),auto:new Set(),running:0};
       const transformed=transformCacheToNewsData(data);setNewsData(Object.fromEntries(data.sources.map(s=>[s.id,transformed[s.id]||[]])));
-      setSourcePages(pages);setAgencyOrder(prev=>[...prev.filter(id=>pages[id]),...data.sources.map(s=>s.id).filter(id=>!prev.includes(id))]);
+      setSourcePages(pages);setAgencyOrder(prev=>reconcileOrder(prev,data.sources.map(s=>s.id)));
       setAgencies(data.agencies);setFeedGeneration(n=>n+1);
       setLastUpdated(data.generated_at?new Date(data.generated_at).toLocaleString(lang==='fa'?'fa-IR':'en-US',{timeZone:'Asia/Tehran'}):'—');
       
@@ -864,7 +870,7 @@ function App() {
       </header>
 
       {/* فیلترها - با محتوای صفحه اسکرول می‌شود، ثابت نیست */}
-      <section className="bg-slate-900/40 border-b border-slate-800/60 py-3"><details id="home-filters" className="max-w-7xl mx-auto"><summary className="cursor-pointer px-4 text-xs font-bold text-slate-300">{isRTL?'فیلتر موضوع و منطقه':'Topic and region filters'}{(selectedCategory!=='all'||selectedRegion!=='all')?' · فیلتر فعال':''}</summary>
+      <section className="bg-slate-900/40 border-b border-slate-800/60 py-3"><details open={filtersOpen} onToggle={e=>setFiltersOpen(e.currentTarget.open)} id="home-filters" className="max-w-7xl mx-auto"><summary className="cursor-pointer px-4 text-xs font-bold text-slate-300">{isRTL?'فیلتر موضوع و منطقه':'Topic and region filters'}{(selectedCategory!=='all'||selectedRegion!=='all')?' · فیلتر فعال':''}</summary>
         <div className="max-w-7xl mx-auto px-4 space-y-2">
           {/* فیلتر موضوعی و منطقه */}
           <div className="flex flex-wrap gap-4">
@@ -916,8 +922,8 @@ function App() {
             <span className="text-[10px] text-slate-500">{t.lastSync} {lastUpdated}</span><a href="/research.html" className="text-xs text-amber-400">پنل پژوهشی و آرشیو کامل ↗</a>
           </div>
 
-          {/* نوار فعال/غیرفعال‌سازی خبرگزاری‌ها */}
-          <details id="home-agencies" className="mb-3 border border-slate-800 rounded-lg"><summary className="cursor-pointer p-3 text-xs font-bold text-slate-300">{isRTL?'انتخاب خبرگزاری‌ها':'Choose agencies'} · {visibleAgencyIds.length} / {agencyOrder.length}</summary><div className="flex flex-wrap gap-1.5 mb-3 p-2 bg-slate-900/50 border border-slate-800 rounded-lg">
+          <div className="flex justify-end mb-2"><button onClick={resetHomePreferences} className="text-xs text-slate-400 hover:text-amber-400">بازنشانی تنظیمات نمایش</button></div>{/* نوار فعال/غیرفعال‌سازی خبرگزاری‌ها */}
+          <details open={agenciesOpen} onToggle={e=>setAgenciesOpen(e.currentTarget.open)} id="home-agencies" className="mb-3 border border-slate-800 rounded-lg"><summary className="cursor-pointer p-3 text-xs font-bold text-slate-300">{isRTL?'انتخاب خبرگزاری‌ها':'Choose agencies'} · {visibleAgencyIds.length} / {agencyOrder.length}</summary><div className="flex flex-wrap gap-1.5 mb-3 p-2 bg-slate-900/50 border border-slate-800 rounded-lg">
             <span className="text-[10px] text-slate-500 font-bold self-center ml-1">{isRTL?'نمایش خبرگزاری‌ها:':'Show agencies:'}</span>
             {agencyOrder.map(agencyId => {
               const meta = AGENCY_META[agencyId] || {name_fa:agencyId, name_en:agencyId};

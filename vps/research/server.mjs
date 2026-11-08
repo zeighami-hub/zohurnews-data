@@ -1,3 +1,4 @@
+import{documentExport}from './document-export.mjs';
 import {createLiveFeed} from './live-feed.mjs';
 import {createWidgets,widgetPaths} from './widgets.mjs';
 const widgets=createWidgets();
@@ -25,6 +26,7 @@ const server=http.createServer(async(req,res)=>{try{
  if(u.pathname==='/api/research')return json(res,200,db.query(p));
  if(u.pathname==='/api/article'){const a=db.article(p.id);if(!a)return json(res,404,{error:'Not found'});return json(res,200,{article:a,techniques:techniques(a),versions:db.db.prepare('SELECT recorded_at,content_hash,payload FROM r_versions WHERE article_id=? ORDER BY recorded_at').all(a.id).map(v=>({recorded_at:v.recorded_at,content_hash:v.content_hash,title:JSON.parse(v.payload).title_original}))});}
  if(u.pathname==='/api/related'){const a=db.article(p.id);if(!a)return json(res,404,{error:'Not found'});return json(res,200,{base:a,articles:related(a,db.candidates(a,tokens((a.title_fa||'')+' '+(a.title_original||''))),30),method:'TF-IDF cosine on Persian headlines; 72h candidate window; suggested matches, not verified event identity'});}
+ if(u.pathname==='/api/document-export')return await documentExport(db,p,res);
  if(u.pathname==='/api/export'){const r=db.query({...p,limit:5000});res.writeHead(200,{'Content-Type':'text/csv; charset=utf-8','Content-Disposition':'attachment; filename="zohurnews-research.csv"','X-Export-Total':r.total,'X-Export-Returned':r.returned});return res.end(csv(r.articles,['id','source_id','url','published_at','first_seen_at','effective_at','date_basis','title_original','title_fa','text_original','lead','content_scope','category','tags','source_categories','classification','source_method']));}
  if(u.pathname.startsWith('/api/')&&u.pathname!=='/api/article.php')return json(res,404,{error:'Not found'});
  const html=body=>{res.writeHead(200,{'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff','Content-Security-Policy':"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; object-src 'none'; frame-ancestors 'self'"});return res.end(body);};

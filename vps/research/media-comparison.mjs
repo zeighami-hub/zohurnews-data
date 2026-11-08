@@ -16,7 +16,7 @@ function calculate(db, p={}) {
   r.share_percent=total?r.count/total*100:0;
   r.relative_minutes=r.first_published&&first?(Date.parse(r.first_published)-Date.parse(first))/60000:null;
   const ff=db.filters({...p,source:r.id});
-  const found=r.count?db.db.prepare('SELECT payload FROM r_articles'+ff.sql+' AND published_at IS NOT NULL ORDER BY published_at,id LIMIT 1').get(...ff.args):null;
+  const found=r.count&&r.first_published?db.db.prepare('SELECT payload FROM r_articles'+ff.sql+' AND published_at=? ORDER BY id LIMIT 1').get(...ff.args,r.first_published):null;
   r.first_article=found?JSON.parse(found.payload):null;
   r.last_feed_check=capture?.sources?.find(s=>s.id===r.id)||null;
  }

@@ -1,6 +1,6 @@
 services:
   research:
-    image: zohurnews-research:3.9.0
+    image: zohurnews-research:3.10.0
     container_name: zohurnews-research
     restart: unless-stopped
     ports:
@@ -14,7 +14,7 @@ services:
     cpus: 0.75
     pids_limit: 64
     tmpfs:
-      - /tmp:rw,noexec,nosuid,size=32m
+      - /tmp:rw,noexec,nosuid,size=128m
 
 
 
