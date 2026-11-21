@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Encrypted, read-back-verified snapshots. Never sync/delete the live databases."""
-import argparse, datetime as dt, fcntl, gzip, hashlib, json, os, pathlib, re, shutil, sqlite3, subprocess, tempfile
+import argparse, datetime as dt, fcntl, gzip, hashlib, json, os, pathlib, re, shutil, sqlite3, subprocess, tempfile, sys
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import backup_core as core
 
 STAMP = re.compile(r'^\d{8}T\d{6}Z$')
 
@@ -11,9 +13,9 @@ def digest(path):
     return h.hexdigest()
 
 def retained(stamps):
-    """Newest seven days, four ISO weeks and six calendar months (union)."""
+    """Newest seven days, four ISO weeks and three calendar months (union)."""
     keep = set()
-    for kind, count in [('day', 7), ('week', 4), ('month', 6)]:
+    for kind, count in [('day', 7), ('week', 4), ('month', 3)]:
         buckets = set()
         for s in sorted(filter(STAMP.fullmatch, stamps), reverse=True):
             d = dt.datetime.strptime(s, '%Y%m%dT%H%M%SZ')
@@ -54,47 +56,48 @@ class Rclone:
 
 def run(root, config, remote):
     os.umask(0o077)
-    state = root / 'state'; state.mkdir(parents=True, exist_ok=True)
-    with (state / 'cloud-backup.lock').open('w') as lock:
-        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
-        if shutil.disk_usage(root).free < 6 * 1024**3: raise RuntimeError('Need at least 6 GiB temporary free space')
-        rc = Rclone(config, remote)
-        stamp = dt.datetime.now(dt.timezone.utc).strftime('%Y%m%dT%H%M%SZ')
-        with tempfile.TemporaryDirectory(prefix='cloud-', dir=state) as tmp:
-            stage = pathlib.Path(tmp) / 'snapshot'; stage.mkdir()
-            m = {'schema': 1, 'snapshot': stamp, 'files': {}, 'scope': 'research, ingestion and academic project databases; code in GitHub; academic user password hashes and sessions require encrypted storage'}
-            for name in ['news', 'research'] + (['academic'] if (root / 'data' / 'academic.sqlite').is_file() else []):
-                source = root / 'data' / (name + '.sqlite')
-                if not source.is_file(): raise RuntimeError('Missing database: ' + name)
-                raw = stage / (name + '.sqlite'); target = stage / (name + '.sqlite.gz')
-                with sqlite3.connect('file:' + str(source) + '?mode=ro', uri=True) as src, sqlite3.connect(raw) as dst:
-                    src.backup(dst, pages=1024, sleep=0.05)
-                    if dst.execute('PRAGMA integrity_check').fetchone()[0] != 'ok': raise RuntimeError('Source integrity failed')
-                with raw.open('rb') as src, gzip.open(target, 'wb', compresslevel=6) as dst: shutil.copyfileobj(src, dst)
-                raw.unlink()
-                m['files'][target.name] = {'bytes': target.stat().st_size, 'sha256': digest(target)}
-            (stage / 'manifest.json').write_text(json.dumps(m, indent=2))
-            # Ready marker is published only AFTER full remote readback and restore validation.
-            rc.run('copy', str(stage), rc.path(stamp), '--immutable')
-            restored = pathlib.Path(tmp) / 'restore'
-            rc.run('copy', rc.path(stamp), str(restored))
-            verify_snapshot(restored, stamp)
-            (stage / 'READY').write_text(stamp + '\n')
-            rc.run('copyto', str(stage / 'READY'), rc.path(stamp + '/READY'), '--immutable')
-            listing = json.loads(rc.run('lsjson', rc.path(), '--dirs-only'))
-            complete = []
-            for entry in listing:
-                s = entry['Name']
-                if STAMP.fullmatch(s):
-                    try:
-                        if rc.run('cat', rc.path(s + '/READY')).strip() == s: complete.append(s)
-                    except RuntimeError: pass  # interrupted uploads are kept, never treated as restorable snapshots
-            keep = retained(complete)
-            for s in complete:
-                if s not in keep: rc.run('purge', rc.path(s))
-            status = {'ok': True, 'last_success': dt.datetime.now(dt.timezone.utc).isoformat(), 'snapshot': stamp, 'bytes': sum(x['bytes'] for x in m['files'].values()), 'verified_restore': True}
-            pending = state / 'cloud-backup-status.json.tmp'; pending.write_text(json.dumps(status)); pending.replace(state / 'cloud-backup-status.json')
-            print(json.dumps(status))
+    state=root/'state';state.mkdir(parents=True,exist_ok=True)
+    # Same lock as local rotation: a snapshot cannot disappear during upload.
+    with core.backup_lock(root):
+        if not pathlib.Path(config).is_file():
+            raise RuntimeError('Google Drive server authorization is not configured; no cloud snapshots were deleted')
+        rc=Rclone(config,remote)
+        existing=core.complete_snapshots(root)
+        fresh=existing[-1] if existing else None
+        if fresh and (dt.datetime.now(dt.timezone.utc)-dt.datetime.strptime(fresh.name,'%Y%m%dT%H%M%SZ').replace(tzinfo=dt.timezone.utc)).total_seconds()<900:
+            core.verify_snapshot(fresh);stage=fresh
+        else:
+            stage=core.create_snapshot(root)
+        stamp=stage.name
+        m=json.loads((stage/'manifest.json').read_text())
+        # Upload all members except READY. Readback + SQLite restore precedes publication.
+        with tempfile.TemporaryDirectory(prefix='cloud-',dir=state) as tmp:
+            restored=pathlib.Path(tmp)/'restore'
+            rc.run('copy',str(stage),rc.path(stamp),'--immutable','--exclude','READY')
+            rc.run('copy',rc.path(stamp),str(restored))
+            verify_snapshot(restored,stamp)
+            rc.run('copyto',str(stage/'READY'),rc.path(stamp+'/READY'),'--immutable')
+            if rc.run('cat',rc.path(stamp+'/READY')).strip()!=stamp:raise RuntimeError('Remote ready marker did not verify')
+        listing=json.loads(rc.run('lsjson',rc.path(),'--dirs-only'))
+        complete=[]
+        for entry in listing:
+            s=entry['Name']
+            if STAMP.fullmatch(s):
+                try:
+                    if rc.run('cat',rc.path(s+'/READY')).strip()!=s:continue
+                    old=json.loads(rc.run('cat',rc.path(s+'/manifest.json')))
+                    validate_manifest(old,s)
+                    complete.append(s)
+                except (RuntimeError,ValueError):pass
+        keep=retained(complete)
+        if stamp not in keep:raise RuntimeError('New verified backup missing from retention set; no remote deletion')
+        removed=[]
+        for s in complete:
+            if s not in keep:rc.run('purge',rc.path(s));removed.append(s)
+        core.prune_local(root)
+        status={'ok':True,'last_success':dt.datetime.now(dt.timezone.utc).isoformat(),'snapshot':stamp,'bytes':sum(x['bytes'] for x in m['files'].values()),'verified_restore':True,'policy':{'daily':7,'weekly':4,'monthly':3},'retained':sorted(keep),'removed':removed}
+        pending=state/'cloud-backup-status.json.tmp';pending.write_text(json.dumps(status));pending.replace(state/'cloud-backup-status.json')
+        print(json.dumps(status),flush=True)
 
 if __name__ == '__main__':
     p = argparse.ArgumentParser(); p.add_argument('--root', default='/opt/zohurnews'); p.add_argument('--config', default='/opt/zohurnews/private/rclone.conf'); p.add_argument('--remote', default='zohur-crypt:snapshots'); a = p.parse_args()
@@ -107,4 +110,5 @@ if __name__ == '__main__':
             pending = status_file.with_suffix('.tmp'); pending.write_text(json.dumps(old)); pending.replace(status_file)
         except OSError: pass
         print('Cloud backup FAILED:', str(e)); raise SystemExit(1)
+
 

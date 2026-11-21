@@ -14,7 +14,7 @@ function Test-Snapshot([string]$Folder, [string]$Stamp) {
     $manifest = Get-Content (Join-Path $Folder 'manifest.json') -Raw | ConvertFrom-Json
     if ($manifest.schema -ne 1 -or $manifest.snapshot -ne $Stamp) { throw 'Invalid manifest' }
     $names = @($manifest.files.PSObject.Properties.Name | Sort-Object)
-    if (($names -join ',') -ne 'news.sqlite.gz,research.sqlite.gz') { throw 'Unexpected manifest file names' }
+    if (($names -join ',') -notin @('news.sqlite.gz,research.sqlite.gz','academic.sqlite.gz,news.sqlite.gz,research.sqlite.gz')) { throw 'Unexpected manifest file names' }
     foreach ($name in $names) {
         $info = $manifest.files.$name
         $file = Join-Path $Folder $name
@@ -37,7 +37,7 @@ try {
         if (-not (Test-Path (Join-Path $final 'VERIFIED'))) {
             $partial = Join-Path $settings.destination ($stamp + '.partial')
             New-Item -ItemType Directory -Force $partial | Out-Null
-            Invoke-Rclone -Arguments @('copy',"zohur-crypt:snapshots/$stamp",$partial,'--include','/news.sqlite.gz','--include','/research.sqlite.gz','--include','/manifest.json','--include','/READY') | Out-Null
+            Invoke-Rclone -Arguments @('copy',"zohur-crypt:snapshots/$stamp",$partial,'--include','/news.sqlite.gz','--include','/research.sqlite.gz','--include','/academic.sqlite.gz','--include','/manifest.json','--include','/READY') | Out-Null
             Test-Snapshot $partial $stamp
             if (Test-Path $final) { throw 'Existing unverified folder retained; review before replacing' }
             Move-Item $partial $final
@@ -60,3 +60,4 @@ try {
     }
     $mutex.ReleaseMutex(); $mutex.Dispose()
 }
+

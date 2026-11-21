@@ -1,3 +1,4 @@
+param([switch]$SkipDPAPI)
 $ErrorActionPreference = 'Stop'
 $count = 0
 Get-ChildItem $PSScriptRoot -Filter '*.ps1' | ForEach-Object {
@@ -24,12 +25,26 @@ try {
     }
     @{ schema=1; snapshot=$stamp; files=$files } | ConvertTo-Json -Depth 5 | Set-Content (Join-Path $fixture 'manifest.json') -Encoding UTF8
     Test-Snapshot $fixture $stamp
+    $name = 'academic.sqlite.gz'; $path = Join-Path $fixture $name
+    [IO.File]::WriteAllBytes($path, [byte[]]@(5,6,7,8))
+    $files[$name] = @{ bytes=4; sha256=(Get-FileHash $path -Algorithm SHA256).Hash.ToLower() }
+    @{ schema=1; snapshot=$stamp; files=$files } | ConvertTo-Json -Depth 5 | Set-Content (Join-Path $fixture 'manifest.json') -Encoding UTF8
+    Test-Snapshot $fixture $stamp
     [IO.File]::WriteAllBytes((Join-Path $fixture 'news.sqlite.gz'), [byte[]]@(4,3,2,1))
     $rejected = $false
     try { Test-Snapshot $fixture $stamp } catch { $rejected = $true }
     if (-not $rejected) { throw 'Corrupt snapshot was accepted' }
-    $secretPath = Join-Path $fixture 'secret.xml'
-    (ConvertTo-SecureString 'test-credential-not-real' -AsPlainText -Force) | Export-Clixml $secretPath
-    if ([Net.NetworkCredential]::new('', (Import-Clixml $secretPath)).Password -ne 'test-credential-not-real') { throw 'Credential persistence failed' }
-    Write-Host 'PASS: checksum acceptance, corrupted-file rejection and credential persistence.'
-} finally { Remove-Item $fixture -Recurse -Force }
+    Write-Host 'PASS: two/three-database checksum acceptance and corrupted-file rejection.'
+    if (-not $SkipDPAPI) {
+        $secretPath = Join-Path $fixture 'secret.xml'
+        (ConvertTo-SecureString 'test-credential-not-real' -AsPlainText -Force) | Export-Clixml $secretPath
+        if ([Net.NetworkCredential]::new('', (Import-Clixml $secretPath)).Password -ne 'test-credential-not-real') { throw 'Credential persistence failed' }
+        Write-Host 'PASS: credential persistence.'
+    } else { Write-Host 'SKIPPED: DPAPI fixture requires the real interactive Windows profile.' }
+} finally {
+    $tempRoot = [IO.Path]::GetFullPath([IO.Path]::GetTempPath()).TrimEnd('\') + '\'
+    $resolved = [IO.Path]::GetFullPath($fixture)
+    if (-not $resolved.StartsWith($tempRoot, [StringComparison]::OrdinalIgnoreCase) -or [IO.Path]::GetFileName($resolved) -notmatch '^zohur-test-[a-f0-9]{32}$') { throw 'Unsafe test cleanup target' }
+    Remove-Item -LiteralPath $resolved -Recurse -Force
+}
+

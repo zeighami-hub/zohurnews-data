@@ -1,14 +1,32 @@
 import datetime as dt, gzip, importlib.util, json, pathlib, sqlite3, tempfile, unittest
+from unittest.mock import patch
 spec = importlib.util.spec_from_file_location('cloud', pathlib.Path(__file__).with_name('cloud_backup.py'))
 cloud = importlib.util.module_from_spec(spec); spec.loader.exec_module(cloud)
 
 class Tests(unittest.TestCase):
+    def test_missing_authorization_does_not_rotate_or_upload(self):
+        with tempfile.TemporaryDirectory() as t:
+            root=pathlib.Path(t)
+            with self.assertRaises(RuntimeError):cloud.run(root,str(root/'missing.conf'),'zohur-crypt:snapshots')
+            self.assertFalse((root/'backups/snapshots').exists())
+
+    def test_upload_failure_never_purges_remote_generations(self):
+        with tempfile.TemporaryDirectory() as t:
+            root=pathlib.Path(t);(root/'data').mkdir();config=root/'test.conf';config.write_text('test fixture, no credentials')
+            for name in ['news','research','academic']:
+                with sqlite3.connect(root/'data'/(name+'.sqlite')) as db:db.execute('create table evidence(id)');db.execute('insert into evidence values(1)')
+            calls=[]
+            def broken(self,*args):calls.append(args);raise RuntimeError('Simulated upload failure')
+            with patch.object(cloud.Rclone,'run',broken):
+                with self.assertRaises(RuntimeError):cloud.run(root,str(config),'test:snapshots')
+            self.assertTrue(calls);self.assertFalse(any(c[0]=='purge' for c in calls));self.assertEqual(len(cloud.core.complete_snapshots(root)),1)
+
     def test_retention_cross_year(self):
         stamps = [(dt.datetime(2026, 12, 31)-dt.timedelta(days=i)).strftime('%Y%m%dT120000Z') for i in range(300)]
         keep = cloud.retained(stamps + ['../../bad', 'not-a-snapshot'])
         self.assertTrue(set(stamps[:7]) <= keep)
-        self.assertLessEqual(len(keep), 17)
-        self.assertEqual(len({s[:6] for s in keep}), 6)
+        self.assertLessEqual(len(keep), 14)
+        self.assertEqual(len({s[:6] for s in keep}), 3)
         self.assertFalse(any('/' in s for s in keep))
 
     def test_manifest_cannot_escape_folder(self):
@@ -29,3 +47,4 @@ class Tests(unittest.TestCase):
             with self.assertRaises(ValueError): cloud.verify_snapshot(p,stamp)
 
 if __name__=='__main__': unittest.main()
+
